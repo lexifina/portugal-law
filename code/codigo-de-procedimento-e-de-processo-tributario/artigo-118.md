@@ -4,4 +4,10 @@
 
 1 - O número de testemunhas a inquirir não poderá exceder 3 por cada facto nem o total de 10 por cada acto tributário impugnado.
 
-2 - Os depoimentos são prestados em audiência contraditória, pertencendo o interrogatório e a redacção ao juiz ou ao serviço periférico local da administração tributária onde a prova for produzida, podendo o impugnante ou o representante da Fazenda Pública requerer que sejam esclarecidas ou completadas as respostas.
+2 - Os depoimentos são prestados em audiência contraditória, devendo ser gravados, sempre que existam meios técnicos para o efeito, cabendo ao juiz a respectiva redução a escrito, que deve constar em acta, quando não seja possível proceder àquela gravação.
+
+3 - Na marcação da diligência, o juiz deve observar o disposto no artigo 155.º do Código de Processo Civil.
+
+4 - A falta de testemunha, de representante da Fazenda Pública ou de advogado não é motivo de adiamento da diligência.
+
+5 - O impugnante e o representante da Fazenda Pública podem interrogar directamente as testemunhas.

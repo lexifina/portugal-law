@@ -1,6 +1,6 @@
 # Artigo 245.º
 
-### Contestação da verificação e graduação de créditos
+### Verificação e graduação de créditos
 
 1 - A verificação e graduação dos créditos tem efeito suspensivo quanto ao seu objecto, sem prejuízo do andamento da execução fiscal até à venda dos bens.
 

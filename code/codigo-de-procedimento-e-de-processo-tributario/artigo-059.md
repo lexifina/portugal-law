@@ -14,10 +14,22 @@
 
 2 - O apuramento da matéria tributável far-se-á com base nas declarações dos contribuintes, desde que estes as apresentem nos termos previstos na lei e forneçam à administração tributária os elementos indispensáveis à verificação da sua situação tributária.
 
-3 - Em caso de erro de facto ou de direito nas declarações dos contribuintes, estas podem ser substituídas.
+3 - Em caso de erro de facto ou de direito nas declarações dos contribuintes, estas podem ser substituídas:
 
-4 - O disposto no número anterior não prejudica a responsabilidade contra-ordenacional que ao caso couber e, no caso de a declaração ser apresentada mais de 30 dias após o termo do prazo, o dever de utilização dos meios de reclamação graciosa, impugnação judicial ou de revisão do acto tributário para obtenção da restituição do tributo a mais liquidado e pago por erro do contribuinte.
+a) Seja qual for a situação da declaração a substituir, se ainda decorrer o prazo legal da respectiva entrega;
 
-5 - Da apresentação das declarações de substituição não pode resultar a ampliação dos prazos de reclamação graciosa, impugnação judicial ou revisão do acto tributário, que seriam aplicáveis caso não tivessem sido apresentadas.
+b) Sem prejuízo da responsabilidade contra-ordenacional que ao caso couber, nos seguintes prazos:
 
-6 - Sempre que a entidade competente tome conhecimento de factos tributários não declarados pelo sujeito passivo e do suporte probatório necessário, o procedimento de liquidação é instaurado oficiosamente pelos competentes serviços.
+I) Nos 30 dias seguintes ao termo do prazo legal, seja qual for a situação da declaração a substituir;
+
+II) Até ao termo do prazo legal de reclamação graciosa ou impugnação judicial do acto de liquidação, para a correcção de erros ou omissões imputáveis aos sujeitos passivos de que resulte imposto de montante inferior ao liquidado com base na declaração apresentada;
+
+III) Até 60 dias antes do termo do prazo de caducidade, para a correcção de erros imputáveis aos sujeitos passivos de que resulte imposto superior ao anteriormente liquidado.
+
+4 - Para efeitos de aplicação do disposto na subalínea II) da alínea b) do número anterior, a declaração de substituição deve ser apresentada no serviço local da área do domicílio fiscal do sujeito passivo.
+
+5 - Nos casos em que os erros ou omissões a corrigir decorram de divergência entre o contribuinte e o serviço na qualificação de actos, factos ou documentos invocados, em declaração de substituição apresentada no prazo legal para a reclamação graciosa, com relevância para a liquidação do imposto ou de fundada dúvida sobre a existência dos referidos actos, factos ou documentos, o chefe de finanças deve convolar a declaração de substituição em reclamação graciosa da liquidação, notificando da decisão o sujeito passivo.
+
+6 - Da apresentação das declarações de substituição não pode resultar a ampliação dos prazos de reclamação graciosa, impugnação judicial ou revisão do acto tributário, que seriam aplicáveis caso não tivessem sido apresentadas.
+
+7 - Sempre que a entidade competente tome conhecimento de factos tributários não declarados pelo sujeito passivo e do suporte probatório necessário, o procedimento de liquidação é instaurado oficiosamente pelos competentes serviços.

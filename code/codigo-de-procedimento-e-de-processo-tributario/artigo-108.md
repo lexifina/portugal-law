@@ -8,6 +8,6 @@
 
 3 - Com a petição, elaborada em triplicado, sendo uma cópia para arquivo e outra para o impugnante, oferecerá este os documentos de que dispuser, arrolará testemunhas e requererá as demais provas que não dependam de ocorrências supervenientes.
 
-4 - Se o impugnante pretender que a prova seja produzida no serviço local ou periférico da administração tributária, declará-lo-á na petição.
+4 - (Revogado).
 
-5 - Caso o impugnante pretenda que o processo suba logo a tribunal após a realização das diligências previstas no artigo 110.º, declará-lo-á na petição.
+5 - (Revogado).

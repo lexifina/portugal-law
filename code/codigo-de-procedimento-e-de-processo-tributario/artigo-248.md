@@ -4,10 +4,10 @@
 
 # Artigo 248.º
 
-### Modalidades de venda
+### Regra geral
 
-1 - A venda será feita por meio de propostas em carta fechada, pelo valor base que for mencionado nas citações, editais e anúncios a que se refere a presente secção.
+1 - A venda é feita por meio de propostas em carta fechada, salvo quando diversamente se disponha na presente lei.
 
-2 - Nas execuções por dívidas até 60 vezes a unidade de conta poderão não se publicar anúncios para a venda.
+2 - (Revogado).
 
-3 - A venda pode efectuar-se por arrematação em hasta pública quando o órgão da execução fiscal em despacho fundamentado entenda haver manifesta vantagem dada a natureza dos bens penhorados e não haver prejuízo para a transparência da operação.
+3 - (Revogado).
