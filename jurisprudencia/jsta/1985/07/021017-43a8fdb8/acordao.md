@@ -1,0 +1,57 @@
+# Acórdão do Supremo Tribunal Administrativo de 1985-07-11, processo 021017
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 021017
+
+**Data do Acordão:** 07/11/1985
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** MIRANDA DUARTE
+
+**Descritores:** RECEITA DE ORGANISMO DE COORDENAÇÃO ECONOMICA; IMPOSTO; ARGUIÇÃO DE INCONSTITUCIONALIDADE; TAXA; COMISSÃO REGULADORA DOS PRODUTOS QUÍMICOS E FARMACÊUTICOS
+
+**Nº Convencional:** JSTA00015065
+
+**Nº do Documento:** SA119850711021017
+
+**Data de Entrada:** 06/15/1984
+
+**Recorrente:** JOHNSON & JOHNSON LDA
+
+**Recorrido 1:** COMIS DE GESTÃO DA COMISREGUL DOS PRODUTOS QUIMICOS E FARMACEUTICOS
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 85
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 04/17/1989
+
+**1ª Pág. de Publicação do Acordão:** 2666
+
+**Privacidade:** 01
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** DEL COMIS DE GESTÃO DA COMISREGUL DOS PRODUTOS QUIMICOS E FARMACEUTICOS DE 1984/04/06.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR FISC - IMPOSTOS / TAXA.
+
+**Área Temática 2:** DIR CONST - SISTEM FINANC FISC.
+
+**Legislação Nacional:** DL 374-H/79 DE 1979/09/10 ART2 N1 ART3 ART8.; CONST76 ART106 N2 ART167 O ART168 N1 N3.; L 43/79 DE 1979/09/07 ART6.; L 21-A/79 DE 1979/06/23 ART31.; L 3/76 DE 1976/09/10 ART2.; D 505/73 DE 1973/07/12.; PORT 417/73 DE 1973/07/12.; L 4/81 DE 1981/04/24 ART53.; L 40/81 DE 1981/12/31 ART58.
+
+**Jurisprudência Nacional:** AC STAP DE 1976/05/13 IN AD N178 PAG1331.; AC STAP DE 1975/06/27 IN AD N169 PAG124.; AC STA DE 1978/05/18 IN CJ ANOIII V3 PAG1094.; AC STA DE 1978/11/02 IN AD N204 PAG1479.; AC STA DE 1979/03/08 IN AD N211 PAG569.; AC STA PROC15528 DE 1983/02/10.
+
+**Referência a Doutrina:** CARDOSO DA COSTA SOBRE AS AUTORIZAÇÕES LEGISLATIVAS DA LEI DO ORÇAMENTO IN ESTUDOS DE HOMENAGEM AO PROF DOUTOR TEIXEIRA RIBEIRO PAG407-431.; CARDOSO DA COSTA CURSO DE DIREITO FISCAL 2ED PAG20.; CORTES ROSA APLICAÇÃO TEMPORAL DAS NORMAS FISCAIS IN CTF SERIE A 1961 PAG577-578.; Texto Integral
+
+## Sumário
+
+I - O tributo previsto no Decreto-Lei n. 374-H/79, embora ai designado por taxa, constitui um verdadeiro imposto.
+
+II - Aquele Decreto-Lei n. 374-H/79 não sofre de inconstitucionalidade.
