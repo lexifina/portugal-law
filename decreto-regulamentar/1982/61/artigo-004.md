@@ -140,7 +140,7 @@ b) Às categorias de 1.ª classe, por progressão.
 
 a) À categoria de 1.ª classe, por progressão;
 
-b) À categoria de 2.ª classe, por progressão.
+b) À categoria de principal, por progressão.
 
 30 - O recrutamento para ingresso nas carreiras de operador de máquinas pesadas e ou terraplenagem, horticultura, pecuária, operador de máquinas copiadoras e calculadoras, operador de máquinas ligeiras, motoristas de ligeiros e motoristas de pesados far-se-á por concurso de prestação de provas.
 
