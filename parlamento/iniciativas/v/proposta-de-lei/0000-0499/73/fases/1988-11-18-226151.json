@@ -1,0 +1,2367 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "73",
+    "id": "29255",
+    "titulo": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1988-11-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5021",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1988-11-18",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-11-18",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215120",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "381-381"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/381?pgs=381&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215121",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "381-381"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/381?pgs=381&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215122",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "381-383"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/381?pgs=381-383&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "383-383"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/383?pgs=383&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215124",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "383-383"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/383?pgs=383&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215125",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "383-384",
+                  "385-387"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/383?pgs=383-384,385-387&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "384-384"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/384?pgs=384&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215127",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "384-385"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/384?pgs=384-385&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "385-385"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/385?pgs=385&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215129",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "385-385"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/385?pgs=385&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "387-389",
+                  "389-390",
+                  "390-390",
+                  "391-392"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/387?pgs=387-389,389-390,390,391-392&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "389-389",
+                  "390-390"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/389?pgs=389,390&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "390-390"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/390?pgs=390&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "391-391"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/391?pgs=391&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "392-393",
+                  "394-394",
+                  "395-396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/392?pgs=392-393,394,395-396&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "393-394"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/393?pgs=393-394&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215136",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "394-394"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/394?pgs=394&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215137",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "394-395"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/394?pgs=394-395&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215138",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "395-395"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/395?pgs=395&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215139",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "395-395"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/395?pgs=395&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215140",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "396-396",
+                  "396-396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/396?pgs=396,396&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "396-396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/396?pgs=396&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "396-396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/396?pgs=396&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "396-398",
+                  "399-399"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/396?pgs=396-398,399&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "398-399"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/398?pgs=398-399&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "399-399"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/399?pgs=399&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "399-400"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/399?pgs=399-400&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "400-401",
+                  "402-402",
+                  "402-403"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/400?pgs=400-401,402,402-403&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215148",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "401-401",
+                  "402-402"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/401?pgs=401,402&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "402-402"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/402?pgs=402&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "403-403"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/403?pgs=403&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "403-403"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/403?pgs=403&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "403-403"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/403?pgs=403&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "403-403"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/403?pgs=403&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "403-404",
+                  "404-405"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/403?pgs=403-404,404-405&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "404-404"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/404?pgs=404&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "404-404"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/404?pgs=404&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "405-407",
+                  "407-409",
+                  "409-409"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/405?pgs=405-407,407-409,409&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "407-407"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/407?pgs=407&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "407-407",
+                  "407-407",
+                  "407-407",
+                  "409-409"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/407?pgs=407,407,407,409&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "409-410"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/409?pgs=409-410&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "410-410"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/410?pgs=410&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "410-411"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/410?pgs=410-411&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "411-411",
+                  "412-412",
+                  "413-413"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/411?pgs=411,412,413&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "411-412"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/411?pgs=411-412&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "412-412",
+                  "412-413"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/412?pgs=412,412-413&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "413-413",
+                  "414-415",
+                  "415-415"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/413?pgs=413,414-415,415&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "413-414"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/413?pgs=413-414&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "414-414"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/414?pgs=414&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "415-415",
+                  "417-417"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/415?pgs=415,417&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "415-415"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/415?pgs=415&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "415-416"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/415?pgs=415-416&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "416-416"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-19",
+                "pubLeg": "V",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19/416?pgs=416&org=PLC"
+              }
+            ],
+            "sumario": "Rectificação à Lei 2/88 de 26 de Janeiro, que aprovou o Orçamento do Estado para 1988",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "226151",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5021",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-11-19",
+        "pubLeg": "V",
+        "pubNr": "15",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/015/1988-11-19?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
