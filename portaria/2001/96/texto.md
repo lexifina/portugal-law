@@ -1,0 +1,63 @@
+Portaria n.º 96/2001
+de 13 de Fevereiro
+O artigo 17.º do Decreto-Lei n.º 204/2000, de 1 de Setembro, que regula o acesso e o exercício da actividade das empresas de animação turística, determina que as empresas de animação turística devem possuir em todos os seus estabelecimentos um livro destinado aos utentes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados, que será editado e fornecido pela Direcção-Geral do Turismo ou pelas entidades que ela encarregar para o efeito, sendo o modelo, o preço, o fornecimento, a distribuição, a utilização e a instrução aprovados por portaria do membro do Governo responsável pela área do turismo.
+Assim, ao abrigo do disposto no artigo 17.º do Decreto-Lei n.º 204/2000, de 1 de Setembro:
+Manda o Governo, pelo Ministro da Economia, o seguinte:
+1.º
+Âmbito
+Pela presente portaria procede-se à aprovação do modelo, preço, fornecimento, distribuição, utilização e instrução do livro de reclamações para uso dos utentes das empresas de animação turística.
+2.º
+Modelo
+1 - O modelo do livro de reclamações consta do anexo à presente portaria, que dela faz parte integrante.
+2 - O livro de reclamações terá formato A4 e será constituído por 20 impressos para reclamações.
+3 - Os impressos referidos no número anterior serão feitos em triplicado e estarão redigidos em português, inglês e francês.
+3.º
+Edição e venda do livro de reclamações
+1 - Sem prejuízo do disposto no número seguinte, o livro de reclamações é editado e vendido pela Direcção-Geral do Turismo.
+2 - O livro de reclamações pode ainda ser vendido pelas entidades para tanto autorizadas, mediante despacho do director-geral do Turismo, a emitir no prazo de 30 dias a contar da data de entrada do requerimento dos interessados.
+3 - Para efeitos do estabelecido no n.º 4.º do presente diploma, as entidades a que se refere o número anterior devem fornecer à Direcção-Geral do Turismo, no prazo de 30 dias contados a partir da data da venda dos livros de reclamações a terceiros, as referências previstas nas alíneas a) a c) daquele número, por forma que as mesmas sejam objecto de registo na Direcção-Geral do Turismo.
+4 - Entendem-se transferidas para as entidades previstas no n.º 2 as competências atribuídas à Direcção-Geral do Turismo nos n.os 2 e 3 do n.º 8.º do presente diploma, devendo tais entidades informar, por escrito, a Direcção-Geral do Turismo, no prazo previsto no número anterior, das referências dos livros de reclamações perdidos ou extraviados, bem como dos livros de reclamações encerrados e ou totalmente preenchidos.
+4.º
+Registo
+A Direcção-Geral do Turismo mantém um registo geral dos livros de reclamações, do qual constam as seguintes referências:
+a) O número do livro;
+b) A identificação da empresa de animação turística exploradora da actividade;
+c) A identificação do estabelecimento;
+d) A data de fornecimento do livro;
+e) A data de encerramento do livro;
+f) A perda ou o extravio do livro.
+5.º
+Obrigação de envio
+A entidade exploradora da empresa de animação turística é obrigada a, no prazo de quarenta e oito horas após ter sido efectuada uma reclamação, enviar o original da mesma à Direcção-Geral do Turismo.
+6.º
+Cópias
+1 - A primeira cópia de cada reclamação é destacada do livro e entregue ao reclamante, o qual, se o entender, a remeterá à Direcção-Geral do Turismo, no prazo referido no número anterior.
+2 - A segunda cópia da reclamação faz parte integrante do livro de reclamações, não podendo ser retirada do mesmo.
+7.º
+Reclamação directa
+Quando não for possível ao reclamante efectuar a reclamação directamente no livro de reclamações das empresas de animação turística, a reclamação poderá ser apresentada directamente na Direcção-Geral do Turismo no prazo máximo de cinco dias após a prestação dos serviços por parte daquelas empresas, acompanhado dos documentos e meios de prova necessários à sua apreciação.
+8.º
+Análise da reclamação
+1 - Cabe à Direcção-Geral do Turismo efectuar a análise da gravidade da reclamação.
+2 - A Direcção-Geral do Turismo deve informar o reclamante do resultado da apreciação que tenha feito sobre a reclamação apresentada.
+9.º
+Aquisição de um novo livro de reclamações
+1 - O encerramento do livro de reclamações determina a obrigação de aquisição de um novo livro pela empresa de animação turística.
+2 - Quando estiver preenchida a totalidade dos impressos do livro de reclamações, este deve ser entregue à Direcção-Geral do Turismo, para os efeitos previstos nas alíneas d) e e) do n.º 4.º
+3 - A perda ou extravio do livro de reclamações determina igualmente a obrigação da aquisição de um novo livro e deve ser comunicada à Direcção-Geral do Turismo, para os efeitos previstos na alínea e) do n.º 4.º
+10.º
+Preço do livro de reclamações
+1 - Sem prejuízo do disposto nos números seguintes, o preço de venda ao público do livro de reclamações pela Direcção-Geral do Turismo é de 5000$00 por unidade.
+2 - Quando o livro de reclamações for vendido pela Direcção-Geral do Turismo aos órgãos regionais e locais de turismo e às federações e associações patronais do sector, tendo em vista a sua distribuição pelos interessados, por cada encomenda até 1000 unidades o preço é de 4500$00 por unidade.
+3 - Quando o livro de reclamações for vendido pela Direcção-Geral do Turismo aos órgãos regionais e locais de turismo e às federações e associações patronais do sector, tendo em vista a sua distribuição pelos interessados, por cada encomenda de 1000 a 25000 unidades o preço é de 4000$00, por unidade.
+4 - Quando o livro de reclamações for vendido pela Direcção-Geral do Turismo aos órgãos regionais e locais de turismo e às federações e associações patronais do sector, tendo em vista a sua distribuição pelos interessados, por cada encomenda em número superior a 25000 unidades o preço é de 2000$00 por unidade.
+5 - O livro de reclamações, quando for vendido pela Direcção-Geral do Turismo nos termos previstos nos n.os 1 e 2 do presente número, deve ser pago no momento da sua aquisição.
+6 - O livro de reclamações, quando for vendido pela Direcção-Geral do Turismo nos termos previstos no n.º 3 do presente número, pode ser pago em duas prestações de valor igual a liquidar no ano económico da aquisição.
+7 - O livro de reclamações, quando for vendido pela Direcção-Geral do Turismo nos termos previstos no n.º 4 do presente número, pode ser pago em quatro prestações de valor igual, a liquidar no ano económico da aquisição.
+8 - Os preços referidos nos n.os 1 a 4 são expressos em escudos, com poder aquisitivo referente ao ano de 2000, e serão actualizados com efeitos a partir de 1 de Março de cada ano, tendo em conta o índice médio de preços ao consumidor no continente, excluindo a habitação, publicado pelo Instituto Nacional de Estatística, arredondando-se para a dezena de escudos imediatamente superior.
+11.º
+Entrada em vigor
+O presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação.
+O Ministro da Economia, Mário Cristina de Sousa, em 19 de Janeiro de 2001.
+
+(ver modelos no documento original)
