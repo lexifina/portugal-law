@@ -1,5 +1,5 @@
 # Artigo 36.º-A
 
-### Empréstimos de instituições financeiras não residentes
+### Swaps e empréstimos de instituições financeiras não residentes
 
-Ficam isentos de IRC os juros de empréstimos concedidos por instituições financeiras não residentes a instituições de crédito residentes.
+Ficam isentos de IRC os juros decorrentes de empréstimos concedidos por instituições financeiras não residentes a instituições de crédito residentes, bem como os ganhos obtidos por aquelas instituições decorrentes de operações de swap efectuadas com instituições de crédito residentes.

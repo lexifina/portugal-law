@@ -10,6 +10,6 @@ a) Para o trabalhador ou trabalhadores beneficiados pelo incumprimento, a perda 
 
 b) Para a empresa, a tributação autónoma à taxa de 40% no exercício do incumprimento das contribuições que no exercício, bem como nos dois exercícios anteriores, beneficiaram do regime de isenção previsto no n.º 1 deste artigo.
 
-3 - Verificando-se o disposto na parte final do n.º 3) da alínea c) do n.º 3 do artigo 2.º do Código do IRS, beneficia de isenção o montante correspondente a um terço das importâncias pagas ou colocadas à disposição, com o limite de 2000 contos.
+3 - Verificando-se o disposto na parte final do n.º 3) da alínea c) do n.º 3 do artigo 2.º do Código do IRS, beneficia de isenção o montante correspondente a um terço das importâncias pagas ou colocadas à disposição, com o limite de 2050000$00.
 
 4 - As isenções a que se referem os n.os 1 e 3 não prejudicam respectivamente a obrigatoriedade de declaração dos respectivos rendimentos e o englobamento dos rendimentos isentos para efeitos do disposto no artigo 72.º do Código do IRS e determinação, da taxa aplicável ao restante rendimento colectável.
