@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros n.º 33-B/85
+O funcionamento adequado da Direcção-Geral do Tesouro tem vindo a ser assegurado em parcela importante por pessoal requisitado dos quadros de outros departamentos da administração central e local, a quem foram ministrados os necessários conhecimentos profissionais.
+A situação deve-se à carência de pessoal com que a Direcção-Geral do Tesouro se debate, consequência do aumento das atribuições deste órgão da administração financeira do Estado e das tarefas que lhe estavam já legalmente cometidas, situação não acompanhada pelo aumento do número de funcionários do quadro dos serviços centrais, como resulta dos vários diplomas legais relativos à orgânica da Direcção-Geral publicados a partir de 1970.
+Não sendo tomadas as devidas providências, poderá o regular funcionamento da Direcção-Geral do Tesouro ser fortemente afectado, podendo gerar-se situações de verdadeira ruptura, visto que a renovação de situações precárias com outros funcionários implicará a ministração de conhecimentos nas correspondentes áreas profissionais.
+Dadas as atribuições e competências da Direcção-Geral do Tesouro, que devem ser executadas por pessoal dos quadros, fica estabelecido que as situações de requisição só serão mantidas até 2 anos após a aprovação da portaria de alargamento do seu quadro.
+Deste modo, dados os inconvenientes de uma constante rotação das situações precárias e as próprias dificuldades da sua constituição:
+Nos termos do n.º 2 do artigo 32.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, o Conselho de Ministros, reunido em 27 de Junho de 1985, resolveu:
+1 - As situações de requisição de funcionários da administração central, regional ou local da Direcção-Geral do Tesouro não estão sujeitas aos prazos constantes do artigo 25.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro.
+2 - O disposto no n.º 1 deixará de produzir efeitos 2 anos após a aprovação da portaria de alargamento do quadro do pessoal técnico superior da Direcção-Geral do Tesouro.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares.
