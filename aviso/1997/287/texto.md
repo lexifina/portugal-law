@@ -1,0 +1,5 @@
+Aviso n.º 287/97
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas, o Governo da República da Letónia depositou, em 18 de Fevereiro de 1997, o instrumento de adesão ao Protocolo à Convenção de 1979 sobre Poluição Atmosférica Transfronteiras a Longa Distância Relativo ao Financiamento a Longo Prazo do Programa Comum de Vigilância Contínua e de Avaliação do Transporte a Longa Distância dos Poluentes Atmosféricos na Europa, concluído em 28 de Setembro de 1984.
+O referido Protocolo entrou em vigor para a República da Letónia a 19 de Maio de 1997.
+Este Protocolo foi aprovado, para adesão, nos termos do Decreto do Governo n.º 5/88, de 9 de Abril, segundo o Diário da República, 1.ª série, n.º 83, de 9 de Abril de 1988, tendo sido depositado o correspondente instrumento a 18 de Janeiro de 1989, conforme aviso publicado no Diário da República, 1.ª série, n.º 89, de 17 de Abril de 1989.
+Direcção-Geral dos Assuntos Multilaterais, 14 de Outubro de 1997. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
