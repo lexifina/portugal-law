@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Acordo sobre Cooperação no Domínio do Turismo entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil, assinado em Lisboa em 3 de Fevereiro de 1981 e publicado no Diário da República, 1.ª série, n.º 77, de 2 de Abril de 1981, entrou em vigor no dia 4 de Maio de 1982, data em que foi efectuada a notificação pela parte brasileira do cumprimento das formalidades requeridas para a sua aprovação, conforme previsto no seu artigo 8.º
+Direcção-Geral dos Negócios Económicos, 25 de Maio de 1982. - O Director-Geral-Adjunto, Luís José de Oliveira Nunes.
