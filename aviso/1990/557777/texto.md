@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Gana depositou, junto do Secretário-Geral das Nações Unidas, a 10 de Abril de 1990, o instrumento de adesão à Convenção sobre Substâncias Psicotrópicas, concluída em Viena em 21 de Fevereiro de 1971, e em igual data depositou o instrumento de adesão à Convenção Única sobre Estupefacientes de 1961, tal como modificada pelo Protocolo de 25 de Março de 1972, contendo emendas à Convenção Única sobre Estupefacientes de 1961, feito em Nova Iorque em 8 de Agosto de 1975.
+Direcção-Geral dos Negócios Político-Económicos, 24 de Agosto de 1990. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu Soares.
