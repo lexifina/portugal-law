@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei 43000 de 1 de Junho de 1960, e considerando o disposto na Portaria n.º 21680, de 17 de Novembro de 1965, mediante proposta do Ministro do Ultramar, ouvido o Conselho Permanente da Acção Educativa, a habilitação do curso de comércio, regulado pelo Decreto n.º 20420, de 20 de Outubro de 1931, é declarada suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento em lugares de fiel de armazéns ou depósitos do quadro privativo do pessoal da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique.
+Presidência do Conselho, 18 de Setembro de 1973. - Pelo Presidente do Conselho, João Mota Pereira de Campos, Ministro de Estado.
