@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que os Governos da República Socialista do Vietname, em 20 de Junho de 1980, das ilhas Salomão, em 17 de Junho de 1981, da República Centro Africana, em 9 de Julho de 1981, do Luxemburgo, em 11 de Novembro de 1982, e da Argentina, em 21 de Março de 1983, depositaram o instrumento de ratificação do Tratado sobre a Proibição da Colocação de Armas Nucleares e Outras Armas de Destruição Maciça no Fundo dos Mares e Oceanos assim como no Seu Subsolo, nos termos do artigo X.
+Direcção-Geral dos Negócios Políticos, 8 de Fevereiro de 1984. - O Director-Geral-Adjunto, José Gregório Faria.
