@@ -1,0 +1,58 @@
+Aviso
+Por ordem superior se faz público que o Representante Permanente de Portugal junto das Nações Unidas depositou junto do Secretário-Geral daquela organização, em 30 de Março de 1984, o instrumento de ratificação por parte do Governo Português do Acordo Internacional do Café, 1983, aprovado para ratificação pelo Decreto n.º 1/84, de 10 de Janeiro.
+À data do depósito tinham ratificado o referido Acordo ou a ele aderido, nas datas que se indicam, os seguintes países:
+Japão - Adesão - 1 de Junho de 1983;
+Papua Nova Guiné - Ratificação - 28 de Junho de 1983;
+Noruega - Ratificação - 30 de Junho de 1983;
+República Centro-Africana - Ratificação - 27 de Julho de 1983;
+Irlanda - Ratificação - 28 de Julho de 1983;
+Salvador - Ratificação - 1 de Agosto de 1983;
+Singapura - Ratificação - 18 de Agosto de 1983;
+Congo - Adesão - 26 de Agosto de 1983;
+Guiné - Adesão - 26 de Agosto de 1983;
+Madagáscar - Ratificação - 6 de Setembro de 1983;
+Índia - Ratificação - 9 de Setembro de 1983;
+Suécia - Ratificação - 15 de Setembro de 1983;
+Tailândia - Ratificação - 15 de Setembro de 1983;
+Estados Unidos da América - Ratificação - 15 de Setembro de 1983;
+Canadá - Ratificação - 16 de Setembro de 1983;
+Malawi - Ratificação - 21 de Setembro de 1983;
+Costa Rica - Ratificação - 22 de Setembro de 1983;
+Guatemala - Ratificação - 22 de Setembro de 1983;
+República Unida dos Camarões - Ratificação - 22 de Setembro de 1983;
+Fiji - Adesão - 23 de Setembro de 1983;
+Nicarágua - Ratificação - 23 de Setembro de 1983;
+Gabão - Adesão - 27 de Setembro de 1983;
+Nova Zelândia - Ratificação - 27 de Setembro de 1983;
+Uganda - Ratificação - 28 de Setembro de 1983;
+República Unida da Tanzânia - Ratificação - 28 de Setembro de 1983;
+Dinamarca - Ratificação - 29 de Setembro de 1983;
+Etiópia - Ratificação - 29 de Setembro de 1983;
+Indonésia - Ratificação - 29 de Setembro de 1983;
+Ruanda - Ratificação - 29 de Setembro de 1983;
+Trindade e Tobago - Ratificação - 29 de Setembro de 1983;
+Austrália - Adesão - 30 de Setembro de 1983;
+República Dominicana - Ratificação - 30 de Setembro de 1983;
+Gana - Ratificação - 4 de Outubro de 1983;
+Guiné Equatorial - Adesão - 7 de Novembro de 1983;
+Equador - Ratificação - 2 de Dezembro de 1983;
+Suíça - Ratificação - 12 de Dezembro de 1983;
+Peru - Ratificação - 20 de Dezembro de 1983;
+Colômbia - Ratificação - 21 de Dezembro de 1983;
+Reino Unido - Ratificação - 22 de Dezembro de 1983;
+Honduras - Ratificação - 28 de Dezembro de 1983;
+Costa do Marfim - Ratificação - 30 de Dezembro de 1983;
+Sri Lanka - Ratificação - 30 de Dezembro de 1983;
+Burundi - Ratificação - 6 de Janeiro de 1984;
+Chipre - Ratificação - 13 de Janeiro de 1984;
+Filipinas - Ratificação - 6 de Fevereiro de 1984;
+Espanha - Ratificação - 7 de Fevereiro de 1984;
+Benim - Ratificação - 29 de Fevereiro de 1984;
+Quénia - Ratificação - 2 de Março de 1984;
+Zimbabwe - Adesão - 5 de Março de 1984;
+Jamaica - Ratificação - 6 de Março de 1984;
+Haiti - Ratificação - 14 de Março de 1984;
+México - Ratificação - 21 de Março de 1984;
+Áustria - Ratificação - 26 de Março de 1984;
+Jugoslávia - Adesão - 28 de Março de 1984;
+Direcção-Geral dos Negócios Económicos, 7 de Maio de 1984. - O Subdirector-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
