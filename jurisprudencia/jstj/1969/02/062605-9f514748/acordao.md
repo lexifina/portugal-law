@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal de Justiça de 1969-02-21, processo 062605
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 062605
+
+**Nº Convencional:** JSTJ00006772
+
+**Relator:** ACACIO CARVALHO
+
+**Descritores:** EXECUÇÃO; VENDA EXECUTIVA; INTERPOSIÇÃO DE RECURSO; NULIDADE DA DECISÃO
+
+**Nº do Documento:** SJ196902210626051
+
+**Data do Acordão:** 02/21/1969
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N184 ANO1969 PAG245
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** AGRAVO.
+
+**Decisão:** NEGADO PROVIMENTO.
+
+**Área Temática:** DIR PROC CIV.; DIR FISC.
+
+## Sumário
+
+I - Se o tribunal de segunda instancia apreciou uma questão que tinha sido posta a sua consideração pelo recorrente, não se verifica a nulidade da alinea d) do n. 1 do artigo 668 do Codigo de Processo Civil; e saber se podia ou não decidir como fez e problema de merito, que transcende o ambito das nulidades da decisão.
+
+II - Igualmente um despacho pode ser ilegal por autorizar uma conduta não tutelada pelo direito, mas não enferma por esse motivo das nulidades enunciadas nas diversas alineas do n. 1 do mencionado artigo.
+
+III - Tendo ficado desertas, numa execução fiscal do Ultramar, a 1 e a 2 praças, e manifestamente ilegal o despacho do juiz que, oficiosamente, sem audiencia do exequente e do executado, ordenou que a venda fosse feita por negociação particular, despacho esse que devia ser notificado as partes.
+
+IV - Neste caso, o prazo para o recurso não começa a correr enquanto a notificação se não fizer, sendo irrelevante o facto de a parte interessada ter tido intervenção no processo posteriormente a decisão.
+
+V - Se esta decisão não chegou a ser notificada, não transitou em julgado; e era licito ao recorrente interpor recurso de outro despacho que lhe foi notificado, a autorizar a venda nas condições indicadas pelo encarregado da transacção, recurso esse onde levanta o problema da ilegalidade da venda por negociação particular.
