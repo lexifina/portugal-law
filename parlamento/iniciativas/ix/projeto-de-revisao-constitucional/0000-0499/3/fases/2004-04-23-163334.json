@@ -1,0 +1,939 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Revisão Constitucional",
+    "numero": "3",
+    "id": "19966",
+    "titulo": "Projecto de Revisão Constitucional n.º 3/IX/2.ª Sessão Legislativa."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2004-04-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3171",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2004-04-23",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "19864",
+        "leg": "IX",
+        "nr": "1",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 1/IX/2.ª Sessão Legislativa."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "19935",
+        "leg": "IX",
+        "nr": "2",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 2/IX/2.ª Sessão Legislativa."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "19967",
+        "leg": "IX",
+        "nr": "4",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 4/IX/2.ª Sessão Legislativa."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "19968",
+        "leg": "IX",
+        "nr": "5",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 5/IX/2.ª Sessão Legislativa."
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "19970",
+        "leg": "IX",
+        "nr": "6",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "789",
+            "obs": null,
+            "pag": [
+              "4367-4374"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-04-24",
+            "pubLeg": "IX",
+            "pubNr": "79",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4374&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 6/IX/2.ª Sessão Legislativa."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-04-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "117",
+                "nome": "Maria Manuela Aguiar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149330",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4367-4368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-24",
+                "pubLeg": "IX",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4367?pgs=4367-4368&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 5/IX/2.ª Sessão Legislativa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149331",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4368-4371"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-24",
+                "pubLeg": "IX",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4368?pgs=4368-4371&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 5/IX/2.ª Sessão Legislativa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "148",
+                "nome": "Marques Júnior"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149332",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4371-4371"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-24",
+                "pubLeg": "IX",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4371?pgs=4371&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 5/IX/2.ª Sessão Legislativa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1700",
+                "nome": "Vitalino Canas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149333",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4371-4372"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-24",
+                "pubLeg": "IX",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4371?pgs=4371-4372&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 5/IX/2.ª Sessão Legislativa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1942",
+                "nome": "Vicente Jorge Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149334",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4372-4373"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-24",
+                "pubLeg": "IX",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4372?pgs=4372-4373&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 5/IX/2.ª Sessão Legislativa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4373-4374"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-24",
+                "pubLeg": "IX",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4373?pgs=4373-4374&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 5/IX/2.ª Sessão Legislativa.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "163334",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "289890",
+        "obs": null,
+        "pag": [
+          "4356-4356"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-04-24",
+        "pubLeg": "IX",
+        "pubNr": "79",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/079/2004-04-24/4356?pgs=4356&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2004-04-23",
+        "descricao": "Favor: 183 Contra: 14",
+        "detalhe": "A Favor: <I>95-PSD</I>, <I> 75-PS</I>, <I> 13-CDS-PP</I><BR>Contra:<I>1-PS</I>, <I> 8-PCP</I>, <I> 3-BE</I>, <I> 2-PEV</I>",
+        "id": "32140",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "79",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
