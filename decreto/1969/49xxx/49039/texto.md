@@ -1,0 +1,32 @@
+Decreto n.º 49039
+Tem-se verificado nos últimos anos um notável crescimento das actividades gimnodesportivas na província de Moçambique em todos os aspectos e meios, quer em qualidade, quer em quantidade;
+É desejo do Governo impulsionar cada vez mais essas actividades, que são da maior relevância no revigoramento físico e no progresso moral da população.
+Tendo-se reconhecido que o Conselho Provincial de Educação Física e Desportos de Moçambique - órgão coordenador, impulsionador e orientador das actividades gimnodesportivas - carece, para fortalecer e acompanhar esse salutar movimento, de modificar a constituição do quadro do seu pessoal, dotando-o de elementos idóneos e em número suficiente para realizar a tarefa que lhe compete em conformidade com os princípios básicos que informam a Lei n.º 2083, de 15 de Junho de 1956, e a legislação complementar posterior;
+Sob proposta do Governo da província;
+Ouvido o Conselho Ultramarino;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º - 1. O quadro comum de pessoal do Conselho Provincial de Educação Física e Desportos de Moçambique passa a ter a constituição seguinte, com referência ao § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino:
+1 presidente ... D
+2 inspectores ... E
+2 chefes de divisão ... H
+2. O quadro privativo de pessoal, incluindo o pessoal serventuário, será organizado pelos órgãos legislativos locais, tendo em atenção as necessidades do serviço e as possibilidades financeiras da província, respeitando-se sempre as categorias funcionais estabelecidas no Estatuto do Funcionalismo Ultramarino.
+Art. 2.º - 1. O presidente e os inspectores são nomeados em comissão de serviço, sob proposta do governador-geral de Moçambique.
+2. Para provimento dos lugares de inspector é exigido o curso do Instituto Nacional de Educação Física.
+3. Os lugares de chefe de divisão serão preenchidos por escolha do Ministro do Ultramar, sob proposta do governador-geral, entre os funcionários do quadro privativo de categoria imediatamente inferior que tenham exercido, durante três anos, pelo menos, o cargo da classe ou categoria em que estiverem providos e que tenham boas informações de serviço.
+Na escolha ter-se-ão em conta os seguintes factores, por ordem de preferência: melhores informações de serviço, maiores habilitações literárias e mais antiguidade na categoria.
+4. O substituto legal do presidente será o inspector que for designado pelo governador-geral, sob proposta do presidente.
+No impedimento do inspector designado, o suprimento temporário da função será assegurado por outro inspector.
+Art. 3.º - 1. Todos os agentes em serviço no Conselho Provincial de Educação Física e Desportos à data da publicação deste diploma transitarão para os novos quadros e para a categoria imediatamente superior, desde que reúnam as condições legais exigidas e tenham boas informações de serviço.
+2. A transição far-se-á mediante lista nominal elaborada pelo presidente, sancionada pelo governador-geral e anotada pelo Tribunal Administrativo.
+3. A transição para qualquer dos lugares de chefe de divisão será feita mediante lista nominal proposta pelo governador-geral, sancionada pelo Ministro do Ultramar e anotada pelo Tribunal de Contas.
+4. Os agentes referidos no n.º 1 que pertençam ao quadro dos Serviços de Educação da província só transitarão para os quadros mencionados no artigo 1.º deste diploma se o requererem no prazo de trinta dias, contados a partir da entrada em vigor deste diploma.
+Art. 4.º - 1. Cumprido o disposto nos artigos anteriores, o provimento dos lugares do quadro de pessoal privativo do Conselho Provincial de Educação Física e Desportos de Moçambique obedecerá às normas gerais estabelecidas no Estatuto do Funcionalismo Ultramarino e no Regulamento Geral dos Concursos de Ingresso e Promoção nos Quadros Privativos dos Serviços Públicos Civis que estiver em vigor na província de Moçambique.
+2. A elaboração dos programas de concurso de ingresso e de promoção nos lugares do quadro privativo é da competência do governador-geral de Moçambique.
+Art. 5.º Quando as necessidades do serviço o exijam e as disponibilidades de verba do Conselho Provincial de Educação Física e Desportos o permitam, poderá ser contratado e assalariado pessoal além do respectivo quadro.
+Art. 6.º O encargo resultante da execução das disposições contidas neste decreto será suportado pelas disponibilidades do orçamento privativo do Conselho Provincial de Educação Física e Desportos.
+Art. 7.º Ficam revogados o artigo 50.º do Decreto n.º 41388, de 22 de Novembro de 1957, e o Diploma Legislativo Ministerial n.º 10, de 18 de Dezembro de 1965. Marcello Caetano - Joaquim Moreira da Silva Cunha.
+Promulgado em 21 de Maio de 1969.
+Publique-se.
+Presidência da República, 3 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
