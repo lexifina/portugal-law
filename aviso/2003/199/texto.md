@@ -1,0 +1,6 @@
+Aviso n.º 199/2003
+Por ordem superior se torna público que, a 31 de Março de 2003, a República Árabe da Síria depositou o seu instrumento de adesão à Convenção sobre a Conservação de Espécies Migratórias Selvagens (CMS), concluída a 23 de Junho de 1979, com a seguinte reserva (original: árabe; tradução feita pelo país depositário):
+«Ao depositar o documento, o Governo declara que a adesão da República Árabe da Síria não significa, de modo nenhum, o reconhecimento do Estado de Israel ou tem como consequência o estabelecimento de qualquer tipo de relações com Israel, tal como estão regulamentadas no presente Acordo.»
+Portugal é parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 103/80, de 11 de Outubro, tendo depositado o seu instrumento de ratificação em 21 de Janeiro de 1981, conforme aviso publicado no Diário da República, n.º 162, de 16 de Julho de 1998, e tendo a Convenção entrado em vigor para Portugal em 1 de Novembro de 1983.
+Nos termos da alínea 2) do artigo 18.º, a Convenção entrou em vigor na República Árabe da Síria em 1 de Junho de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 22 de Julho de 2003. - A Directora dos Serviços das Organizações Económicas Internacionais, Graça Gonçalves Pereira.
