@@ -1,0 +1,5 @@
+Declaração de rectificação n.º 175/93
+Para os devidos efeitos se declara que o Decreto-Lei n.º 201/93, publicado no Diário da República, n.º 129, de 3 de Junho de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 4.º, onde se lê «O mandato dos membros eleitos tem a duração de dois anos, com início no ano civil seguinte ao da eleição» deve ler-se «O mandato dos membros eleitos tem a duração de dois anos, com início no ano civil da eleição».
+No anexo III, no n.º 1, onde se lê «A eleição dos membros referidos na alínea b) do n.º 1 do artigo 3.º é feita por voto secreto e pessoal, no ano anterior ao da respectiva entrada em funções» deve ler-se «A eleição dos membros referidos na alínea b) do n.º 1 do artigo 3.º é feita por voto secreto e pessoal no ano da respectiva entrada em funções».
+Secretaria-Geral da Presidência do Conselho de Ministros, 15 de Setembro de 1993. - O Secretário-Geral, França Martins.
