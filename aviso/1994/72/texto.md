@@ -1,0 +1,6 @@
+Aviso n.º 72/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos transmitiu uma notificação, em conformidade com o artigo 45 da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia, a 25 de Outubro de 1980, segundo a qual os Estados Unidos da América declararam aceitar em 16 de Julho de 1993 a adesão do Estado de Maurício à Convenção e o Canadá declarou aceitar em 30 de Julho de 1993 a adesão do Burkina Faso à mesma Convenção.
+De acordo com o artigo 38, alínea 5, a Convenção entrou em vigor entre o Estado de Maurício e os Estados Unidos da América em 1 de Outubro de 1993 e entre o Burkina Faso e o Canadá em 1 de Outubro de 1993.
+Relativamente a Portugal, a Convenção foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, conforme Diário da República, 1.ª série, n.º 108, de 11 de Agosto de 1983. O depósito do instrumento de ratificação foi feito em 29 de Setembro de 1983, segundo Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984.
+A Convenção entrou em vigor em 1 de Dezembro de 1983.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 2 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
