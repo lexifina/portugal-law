@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que os Governos da República Socialista do Vietname, em 20 de Junho de 1980, das ilhas Salomão em 17 de Junho de 1981, dos Países Baixos, em 22 de Junho de 1981, da Líbia, em 19 de Janeiro de 1982, do Japão, em 8 de Junho de 1982, do Kampuchea Democrático, em 9 de Março de 1983, da República Federal da Alemanha, em 7 de Abril de 1983, e da Colômbia, em 19 de Dezembro de 1983, depositaram o instrumento de ratificação da Convenção sobre a Proibição do Desenvolvimento, da Produção e do Armazenamento de Armas Bacteriológicas (Biológicas) ou Tóxicas e sobre a Sua Destruição, nos termos do seu artigo XVI.
+Direcção-Geral dos Negócios Políticos, 8 de Fevereiro de 1984. - O Director-Geral-Adjunto, José Gregório Faria.
