@@ -4,7 +4,7 @@
 
 1 - O direito a férias dos trabalhadores das associações de beneficiários regula-se pela lei geral, com a adaptação prevista no n.º 5.
 
-2 - O período anual de férias dos trabalhadores referidos no número anterior é de 30 dias consecutivos.
+2 - O período anual de férias dos trabalhadores referidos no número anterior é de 22 dias úteis.
 
 3 - A marcação do período de férias deve ser feita por mútuo acordo entre a entidade patronal e o trabalhador.
 

@@ -2,7 +2,7 @@
 
 ### Período normal de trabalho dos restantes trabalhadores
 
-1 - O período normal de trabalho dos trabalhadores não abrangidos pelo artigo anterior não pode ser superior a 8 horas por dia e a 44 horas por semana.
+1 - O período normal de trabalho dos trabalhadores não abrangidos pelo artigo anterior não pode ser superior a oito horas por dia e a quarenta e quatro horas por semana de Abril a Setembro e a quarenta horas por semana nos restantes meses.
 
 2 - O período normal de trabalho diário poderá, porém, ser superior ao limite fixado no número anterior quando seja concedido ao trabalhador 1 dia de descanso por semana além do de descanso prescrito na lei.
 
