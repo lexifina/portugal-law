@@ -12,6 +12,6 @@
 
 3 - Nas certidões de cópia integral deve transcrever-se todo o texto dos assentos a que respeitam e os seus averbamentos, sem prejuízo do disposto no número seguinte.
 
-4 - As certidões de registos que contenham menções discriminatórias de filiação consentidas por lei anterior são obrigatoriamente dactilografadas, com eliminação das referidas menções, seja qual for a espécie e o fim a que se destinem.
+4 - As certidões de registos que contenham menções discriminatórias de filiação são obrigatoriamente dactilografadas, com eliminação das referidas menções, seja qual for a espécie e o fim a que se destinem, excepto se o registado, ou quem o representar, requerer por escrito certidão por fotocópia do respectivo assento.
 
 5 - As certidões destinadas ao estrangeiro são sempre dactilografadas, salvo se o respectivo assento ou documento estiver dactilografado e puder ser fotocopiado.
