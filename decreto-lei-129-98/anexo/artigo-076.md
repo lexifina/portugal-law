@@ -2,7 +2,7 @@
 
 ### Outras contra-ordenações
 
-1 - Pratica contra-ordenação, ficando sujeito a coima, de 50000$00 a 500000$00, tratando-se de pessoa singular, e de 300000$00 a 3000000$00, tratando-se de pessoa colectiva, quem:
+1 - Pratica contra-ordenação, ficando sujeito a coima, de (euro) 249,40 a (euro) 2493,99, tratando-se de pessoa singular, e de (euro) 1496,39 a (euro) 14963,94, tratando-se de pessoa colectiva, quem:
 
 a) Detenha documentos emanados do RNPC para negociar com terceiros;
 
