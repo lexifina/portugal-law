@@ -1,0 +1,5 @@
+Aviso n.º 275/97
+Por ordem superior se faz público que, por nota de 15 de Agosto de 1997, o director-geral da Organização Mundial da Propriedade Intelectual comunicou ter o Governo da República da Lituânia depositado, em 15 de Agosto de 1997, o seu instrumento de adesão ao Protocolo Relativo ao Acordo de Madrid Referente ao Registo Internacional de Marcas, adoptado em Madrid a 27 de Junho de 1989 [Protocolo de Madrid (1989)].
+O referido Protocolo entrará em vigor para a República da Lituânia a 15 de Novembro de 1997, com uma declaração devidamente especificada.
+Este Protocolo foi aprovado, para ratificação, por Portugal nos termos do Decreto n.º 31/96, publicado no Diário da República, 1.ª série-A, n.º 248, de 25 de Outubro de 1996, tendo sido depositado o correspondente instrumento em 20 de Dezembro de 1996, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 22, de 27 de Janeiro de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 24 de Setembro de 1997. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
