@@ -1,0 +1,10 @@
+Despacho Normativo n.º 766/94
+No âmbito de audição integrada no processo legislativo de revisão da Lei Orgânica do Serviço Nacional de Bombeiros, a Liga dos Bombeiros Portugueses formulou propostas tendentes a assegurar uma intervenção mais activa dos órgãos consultivos que integram a estrutura orgânica do Serviço Nacional de Bombeiros em decisões consideradas susceptíveis de maior impacte na actividade operacional dos corpos de bombeiros.
+Tendo sido adoptada pelo legislador a orientação de não atribuir poderes deliberativos e executivos a órgãos de consulta, aquelas propostas não foram objecto de consagração em sede legislativa.
+Reconhecem-se, no novo quadro emergente das reformas concretizadas e em curso, no entanto, as virtualidades de que se revestem aquelas propostas.
+Assim, no uso das competências delegadas pelo Despacho n.º 51/91, de 9 de Dezembro, do Ministro da Administração Interna, determino que o funcionamento do Serviço Nacional de Bombeiros se subordine às orientações seguintes:
+1) Que, no exercício das competências estabelecidas nas alíneas b), d) e f) do artigo 8.º e nas alíneas h) e l) do artigo 10.º do Decreto-Lei n.º 418/80, de 29 de Setembro, seja considerado que os pareceres emitidos pelo Conselho Superior de Bombeiros se revestem de carácter vinculativo;
+2) Que, no exercício da competência estabelecida na alínea b) do n.º 6 do artigo 27.º daquele decreto-lei, seja obrigatoriamente ouvido o Conselho Regional de Bombeiros;
+3) Que o presidente da direcção do Serviço Nacional de Bombeiros delegue no inspector superior de bombeiros o exercício das competências de hierarquia sobre os inspectores regionais de bombeiros, que é estabelecida no artigo 28.º daquele decreto-lei, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 277/94, de 3 de Novembro;
+4) Que os casos de eventuais omissões, dúvidas de interpretação ou dificuldades de cumprimento sejam submetidos à apreciação do Ministro da Administração Interna.
+Ministério da Administração Interna, 4 de Novembro de 1994. - O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.
