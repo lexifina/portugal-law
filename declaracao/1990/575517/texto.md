@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o sumário da declaração de rectificação à declaração de transferências de verbas publicada a p. 806-(20) do Diário da República, 1.ª série, n.º 49, 2.º suplemento, de 28 de Fevereiro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê «De ter sido rectificada a declaração de transferência de verbas no orçamento do Ministério da Administração Interna publicada no Diário da República, 1.ª série, n.º 8, de 10 de Janeiro de 1990.» deve ler-se «De ter sido rectificada a declaração de transferências de verbas do Ministério da Agricultura, Pescas e Alimentação no montante de 122035 contos, publicada no Diário da República, 1.ª série, n.º 4, de 5 de Janeiro de 1990.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 16 de Março de 1990. - O Secretário-Geral, França Martins.
