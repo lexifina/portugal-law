@@ -1,0 +1,11 @@
+Despacho Normativo n.º 178/83
+A Lei Orgânica do IX Governo Constitucional (Decreto-Lei n.º 344-A/83, de 25 de Julho) colocando o Gabinete da Área de Sines (GAS) na dependência conjunta dos Ministérios da Indústria e Energia e do Mar, desde logo acentuou que os vectores de actuação futura do GAS seriam fundamentalmente determinados pela definição de uma estratégia de promoção industrial e de desenvolvimento portuário.
+Por outro lado, é de referir que a forma mais adequada à consecução daqueles objectivos exige a transformação da actual estrutura do GAS numa organização de tipo empresarial. É tendo isso em linha de conta que se procede, entretanto, à definição dos termos do exercício da competência conjuntamente atribuída aos 2 ministérios.
+Assim, ao abrigo do disposto na alínea c) do artigo 43.º do Decreto-Lei n.º 344-A/83, de 25 de Julho, determina-se:
+1 - É conjuntamente exercida pelos Ministros da Indústria e Energia e do Mar a competência relativa às orientações a seguir pelo GAS em matéria de definição da sua política geral.
+2 - Compete especialmente ao Ministro do Mar o exercício dos poderes de tutela referentes à instalação de portos na zona afecta à actuação directa do GAS.
+3 - Compete ao Ministro da Indústria e Energia o exercício dos poderes de tutela referentes às outras áreas de competência do GAS.
+4 - Compete aos Ministros da Indústria e Energia e do Mar definir os termos e os limites em que é permitido ao conselho de gestão do GAS autorizar despesas nos termos previstos pelo Decreto-Lei n.º 211/79, de 12 de Julho.
+5 - Sempre que a natureza das questões o justifique e face aos compromissos anteriormente assumidos, em especial quando possam afectar o património do GAS e a sua gestão e financiamento, deverá qualquer decisão ser precedida da audição do Ministro das Finanças e do Plano.
+6 - A transferência para outras entidades dos empreendimentos que não se identifiquem com as atribuições do GAS far-se-á com prévia audição dos ministérios responsáveis pelos respectivos domínios de actuação.
+Ministérios da Indústria e Energia e do Mar, 18 de Agosto de 1983. - O Ministro da Indústria e Energia, José Veiga Simão. - O Ministro do Mar, Carlos Montez Melancia.
