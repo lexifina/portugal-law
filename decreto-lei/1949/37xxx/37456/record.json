@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/06/13600/04590460.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-06-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "38f9c974b3f08b21d7b3e1b0958e89eac4475273b690eaaab64376754263df64",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.8,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "e610bf7d1f0b8c25ebdf430519f25607c1a140b68bfdac7e814d7eb3b475946a",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 1209
 }
