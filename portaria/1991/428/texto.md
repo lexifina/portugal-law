@@ -1,0 +1,46 @@
+Portaria n.º 428/91
+de 24 de Maio
+O Decreto-Lei n.º 329/90, de 23 de Outubro, estabelece o regime de acesso e de exercício da actividade de prestação de serviços de telecomunicações de valor acrescentado.
+Trata-se de serviços que podem ser prestados quer por pessoas singulares, quer por pessoas colectivas, mediante prévia autorização e registo, em ambiente de sã concorrência.
+Considerando a uniformidade desejada na exploração de vários serviços da mesma natureza;
+Considerando que o Decreto-Lei n.º 329/90, de 23 de Outubro, prevê a aprovação de regulamentos de exploração dos serviços de telecomunicações de valor acrescentado:
+Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, nos termos do artigo 3.º do Decreto-Lei n.º 329/90, de 23 de Outubro, o seguinte:
+1.º Aprovar o Regulamento de Exploração dos Serviços de Telecomunicações de Valor Acrescentado, que consta do anexo à presente portaria e que dela faz parte integrante.
+2.º Determinar que a presente portaria entra em vigor à data da sua publicação.
+Ministério das Obras Públicas, Transportes e Comunicações.
+Assinada em 18 de Abril de 1991.
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
+
+ANEXO
+Regulamento de Exploração de Serviços de Telecomunicações de Valor Acrescentado
+Artigo 1.º
+Objecto
+O presente Regulamento é aplicável à exploração de serviços de telecomunicações de valor acrescentado.
+Artigo 2.º
+Conceito
+São serviços de telecomunicações de valor acrescentado os que, tendo como único suporte os serviços fundamentais ou complementares, não exigem infra-estruturas próprias e são diferenciáveis em relação aos próprios serviços que lhes servem de suporte.
+Artigo 3.º
+Âmbito espacial
+Os serviços de valor acrescentado são prestados no território nacional e dentro dos limites geográficos caso a caso fixados nos termos da autorização concedida pelo Instituto das Comunicações de Portugal (ICP).
+Artigo 4.º
+Prestadores de serviço
+A prestação de serviços de valor acrescentado é assegurada pelas entidades autorizadas, nos termos do disposto no Decreto-Lei n.º 329/90, de 23 de Outubro, e demais legislação complementar.
+Artigo 5.º
+Direitos e obrigações
+1 - Para além dos demais que decorrem da lei, constituem direitos dos prestadores de serviços de telecomunicações de valor acrescentado os seguintes:
+a) Aceder e utilizar os serviços prestados pelos operadores de serviço público e pelos operadores de serviço de telecomunicações complementares;
+b) Dispor de um número de acesso, integrado num plano de numeração adequado, que garanta, sempre que tecnicamente possível, igualdade de tratamento numa perspectiva comercial;
+c) Cobrar preços correspondentes à prestação dos serviços efectuados, através de unidades de contagem suplementares introduzidas pelos operadores de serviço público ou de telecomunicações complementares, desde que tecnicamente possível e mediante adequada remuneração a esses operadores.
+2 - Constituem obrigações dos prestadores de serviços de telecomunicações de valor acrescentado, para além das demais que decorrem da lei, as seguintes:
+a) Garantir o uso dos serviços registados, no âmbito territorial autorizado, de forma continuada e com níveis de qualidade adequados;
+b) Publicitar, com a antecedência mínima de 30 dias, os utentes do serviço em caso de extinção do mesmo;
+c) Comunicar ao ICP, para efeitos de registo, no prazo máximo de 10 dias úteis, quaisquer alterações relativas aos requisitos ou termos das autorizações concedidas;
+d) Providenciar no sentido de assegurar e fazer respeitar, nos termos da legislação em vigor, o sigilo das comunicações do serviço prestado, não incorrendo em quaisquer responsabilidades por acções ou omissões que lhes não sejam imputáveis;
+e) Publicar de forma detalhada os vários componentes dos preços cobrados.
+Artigo 6.º
+Início da actividade
+Os prestadores de serviços de telecomunicações de valor acrescentado devem prestar os serviços registados dentro de um prazo máximo de um ano contado a partir da data da emissão da respectiva autorização.
+Artigo 7.º
+Normas complementares
+1 - As entidades autorizadas para a prestação de serviços de telecomunicações de valor acrescentado poderão adoptar normas internas de exploração complementares das constantes do presente Regulamento e em conformidade com este.
+2 - As entidades que já prestam serviços de telecomunicações de valor acrescentado deverão adaptar as suas normas internas de exploração às constantes do presente Regulamento.
