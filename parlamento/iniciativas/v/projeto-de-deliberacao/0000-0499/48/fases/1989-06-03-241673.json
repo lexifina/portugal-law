@@ -1,0 +1,60 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Deliberação",
+    "numero": "48",
+    "id": "32775",
+    "titulo": "Realização de audiência parlamentar cometendo às comissões de Saúde e de Assuntos Constitucionais, Direitos, Liberdades e Garantias, em reunião conjunta, as diligências necessárias, nos termos da alínea d) do artigo 111º do Regimento, para a sua efectivação, a fim de o Sr. Primeiro-Ministro, e os demais membros do Governo concretizarem as informações prestadas ao País por meio de órgãos de comunicação social e que são referidos na declaração do CDS produzida no Plenário da AR em 31 de Maio de 1989."
+  },
+  "fase": "Publicação",
+  "codigo_fase": "50",
+  "data_registo": "1989-06-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "50",
+    "Comissao": null,
+    "DataFase": "1989-06-03",
+    "EvtId": "51",
+    "Fase": "Publicação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "241673",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "347944",
+        "obs": null,
+        "pag": [
+          "1151-1152"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-06-03",
+        "pubLeg": "V",
+        "pubNr": "37",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/05/02/037/1989-06-03/1151?pgs=1151-1152&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
