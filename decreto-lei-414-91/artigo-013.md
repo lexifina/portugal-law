@@ -16,11 +16,11 @@ e) O desenvolvimento de actividades de farmácia clínica, relacionadas com a te
 
 f) A integração em comissões clínicas e técnico-científicas que têm em vista a disciplina e racionalização de terapêutica medicamentosa, a melhoria assistencial e a salvaguarda da saúde pública;
 
-g) O cumprimento das exigências legais sobre medicamentos, estupefacientes e psicotrópicos;
+g) O cumprimento das exigências legais sobre medicamentos, radiofármacos, estupefacientes e psicotrópicos;
 
 h) O estudo estatístico do consumo de medicamentos;
 
-i) A colaboração em acções de investigação clínica com medicamentos;
+i) A colaboração em acções de investigação clínica com medicamentos e radiofármacos;
 
 j) A colaboração em programas de ensino de formação contínua e de valorização profissional a nível farmacêutico e de outros técnicos de saúde;
 
@@ -32,7 +32,13 @@ m) O apoio técnico aos profissionais de saúde, serviços ou departamentos;
 
 n) A participação em júris de concursos e de avaliação.
 
-o) A realização de acções de inspecção, quando integrados em estabelecimentos ou serviços que detenham competências fiscalizadoras.
+o) O planeamento na área específica dos protocolos de aplicação dos radiofármacos, quer de diagnóstico quer de terapêutica, assegurando a optimização e controlo da qualidade;
+
+p) A preparação e controlo da qualidade dos radiofármacos nos aspectos do controlo físico-químico, químico, radioquímico, biológico e farmacológico, bem como a preparação e cálculo de doses químicas e radioquímicas a administrar ao doente;
+
+q) A responsabilidade pela recepção e administração de radiofármacos nos estabelecimentos ou serviços onde exercem funções;
+
+r) Os doseamentos in vitro com recurso a produtos marcados com radionuclidos.
 
 2 - Ao técnico superior de saúde farmacêutico assessor são atribuídas, além de todas as funções do assistente e do assistente principal:
 
@@ -61,3 +67,11 @@ f) A planificação, coordenação, orientação e avaliação das actividades d
 g) A participação na formação profissional complementar dos técnicos superiores de saúde do ramo de farmácia;
 
 h) A coordenação e avaliação dos técnicos superiores de saúde do ramo farmacêutico, integrados na correspondente unidade de acção.
+
+i) A assessoria técnica em matérias da sua área técnico-científica;
+
+j) A participação em comissões ou reuniões técnicas com funções normativas dentro da sua área específica;
+
+k) A colaboração no planeamento das instalações de trabalho apresentando exigências técnicas inerentes à sua área de actividade;
+
+l) O estudo do equipamento necessário à sua actividade antes e durante a sua instalação.

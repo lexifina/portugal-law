@@ -16,6 +16,8 @@
 
 a) Farmácia hospitalar;
 
-b) Farmacoterapia.
+b) Farmacoterapia;
+
+c) Radiofarmácia.
 
 5 - Poderão ser reconhecidas outras áreas profissionais específicas, por portaria do Ministro da Saúde.
