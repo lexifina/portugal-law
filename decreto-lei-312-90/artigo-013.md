@@ -1,0 +1,13 @@
+# Artigo 13.º
+
+O artigo 75.º do Decreto-Lei n.º 519-F2/79, de 29 de Dezembro, passa a ter a seguinte redacção:
+
+Art. 75.º - 1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - O destacamento a que se refere o n.º 1 pode efectuar-se independentemente da espécie da repartição quando o interesse do serviço o justifique e desde que haja anuência dos responsáveis dos respectivos serviços.
