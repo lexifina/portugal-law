@@ -1,0 +1,5 @@
+Resolução n.º 192/81
+Os serviços que actualmente integram a Secretaria de Estado do Emprego encontram-se, na área da cidade de Lisboa, dispersos por vários locais entre si distantes e por diversos edifícios, quase todos arrendados. Esta dispersão, para além dos custos financeiros que acarreta, tem dificultado uma gestão integrada e expedita desses serviços.
+A aquisição do imóvel a que se reporta a presente resolução potenciará não só aquela gestão funcional, como uma significativa resolução dos elevados custos que decorrem do funcionamento disperso dos serviços que irão integrar o Instituto do Emprego e Formação Profissional.
+Assim, o Conselho de Ministros, reunido em 13 de Agosto de 1981, resolveu, ao abrigo do artigo 1.º do Decreto-Lei n.º 74/80, de 15 de Abril, autorizar o Fundo de Desenvolvimento da Mão-de-Obra a adquirir, pelo preço de 275000000$00, o imóvel sito em Lisboa, na Avenida da Liberdade, 194, e na Rua de Rodrigues Sampaio. 13, para instalação de serviços do mesmo departamento.
+Presidência do Conselho de Ministros, 13 de Agosto de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
