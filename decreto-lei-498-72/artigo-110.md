@@ -2,4 +2,4 @@
 
 ### (Consulta do processo)
 
-Os processos podem ser consultados por advogado com procuração do interessado, durante os prazos de reclamação ou de recurso.
+Os processos podem ser consultados por advogado com procuração do interessado, durante o prazo para o recurso hierárquico necessário ou para o recurso contencioso.

@@ -2,4 +2,4 @@
 
 ### (Junta médica da Caixa)
 
-As juntas médicas serão compostas por dois médicos da Caixa Nacional de Previdência e presididas por um administrador ou delegado seu.
+As juntas médicas serão compostas por 2 médicos da Caixa Nacional de Previdência e presididas por um director de serviços ou, por sua delegação, por um director-adjunto, subdirector ou gerente de filial.
