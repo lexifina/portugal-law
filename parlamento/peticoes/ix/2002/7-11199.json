@@ -1,0 +1,478 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11199",
+  "numero": "7",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2002-06-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2002-11-27",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2002-06-19",
+        "DataArquivo": "2002-11-27",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2002-11-27",
+        "DataReaberta": "2002-06-19",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2002-06-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764d554644524578484c305276593356745a57353062334e515a585270593246764c7a59304f444a694f5751304c57566a4d5455744e4759335a693035596a686a4c5441344d4745344e6a6732597a526b4d4335775a47593d&fich=6482b9d4-ec15-4f7f-9b8c-080a8686c4d0.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "102",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE ASSUNTOS CONSTITUCIONAIS, DIREITOS, LIBERDADES E GARANTIAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2002-11-26",
+            "gp": "PS",
+            "id": "1700",
+            "motivoCessacao": null,
+            "nome": "Vitalino Canas"
+          }
+        ],
+        "RelatorioFinal": [
+          "21599"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2002-11-29",
+    "Documentos": [
+      {
+        "DataDocumento": "2002-06-07",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d765a445a685a5446694d4441745a4441305a6930305a5441784c5468684d6a55744f54566d4d6a6b774f4459354e47497a4c6e426b5a673d3d&fich=d6ae1b00-d04f-4e01-8a25-95f2908694b3.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2002-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142963",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2635-2635",
+                  "2637-2638"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-30",
+                "pubLeg": "IX",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/062/2002-11-30/2635?pgs=2635,2637-2638&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita que a Assembleia da República debata e legisle com urgência sobre o tráfico ilegal de armas ligeiras em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2002-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142964",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2635-2636"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-30",
+                "pubLeg": "IX",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/062/2002-11-30/2635?pgs=2635-2636&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita que a Assembleia da República debata e legisle com urgência sobre o tráfico ilegal de armas ligeiras em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2002-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142965",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2636-2637"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-30",
+                "pubLeg": "IX",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/062/2002-11-30/2636?pgs=2636-2637&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita que a Assembleia da República debata e legisle com urgência sobre o tráfico ilegal de armas ligeiras em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2002-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2638-2639"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-30",
+                "pubLeg": "IX",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/062/2002-11-30/2638?pgs=2638-2639&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita que a Assembleia da República debata e legisle com urgência sobre o tráfico ilegal de armas ligeiras em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2002-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2639-2640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-30",
+                "pubLeg": "IX",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/062/2002-11-30/2639?pgs=2639-2640&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita que a Assembleia da República debata e legisle com urgência sobre o tráfico ilegal de armas ligeiras em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2002-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2640-2640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-30",
+                "pubLeg": "IX",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/062/2002-11-30/2640?pgs=2640&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita que a Assembleia da República debata e legisle com urgência sobre o tráfico ilegal de armas ligeiras em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2002-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2640-2641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-30",
+                "pubLeg": "IX",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/062/2002-11-30/2640?pgs=2640-2641&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita que a Assembleia da República debata e legisle com urgência sobre o tráfico ilegal de armas ligeiras em Portugal",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11199",
+    "PetAssunto": "Solicitam que a Assembleia da República debata e legisle com urgência sobre o tráfico ilegal de armas ligeiras em Portugal.",
+    "PetDataEntrada": "2002-06-07",
+    "PeticoesAssociadas": null,
+    "PetId": "11199",
+    "PetLeg": "IX",
+    "PetNr": "7",
+    "PetNrAssinaturas": "95841",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "127",
+        "obs": null,
+        "pag": [
+          "2635-2641"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-11-30",
+        "pubLeg": "IX",
+        "pubNr": "62",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/062/2002-11-30/2635?pgs=2635-2641&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "271109",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-06-29",
+        "pubLeg": "IX",
+        "pubNr": "8",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/008/2002-06-29?org=PLC"
+      }
+    ]
+  }
+}
