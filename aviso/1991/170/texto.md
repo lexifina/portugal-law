@@ -1,0 +1,3 @@
+Aviso n.º 170/91
+Para os devidos efeitos se torna público que no Aviso n.º 143/91, de 28 de Setembro, relativo à Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, no último período do último parágrafo, onde se lê «A autoridade central para Portugal é a Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça» deve ler-se «A autoridade central para Portugal é a Direcção-Geral dos Serviços Tutelares de Menores, do Ministério da Justiça».
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 23 de Outubro de 1991. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
