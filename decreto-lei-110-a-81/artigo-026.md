@@ -1,7 +1,3 @@
-## Capítulo VI
-
-## Disposições finais e transitórias
-
 # Artigo 26.º
 
 - 1 - Pelo exercício de cargos ou funções públicos, ainda que em regime de acumulação, incluindo inerências, não poderão ser percebidas remunerações superiores ao vencimento de Ministro.
