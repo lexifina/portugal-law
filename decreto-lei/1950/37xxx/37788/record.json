@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1950/03/05600/01890189.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1950-03-17",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "5479e75e9fbe8cab63c44220aafa8174d76556651bf2e69577c7bc6e3981eaa4",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.4,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "7330e86f7f5504988fd7b0e29860a830c4e9332c70e613e9802e289955376ef7",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 145
 }
