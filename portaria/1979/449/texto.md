@@ -1,0 +1,13 @@
+Portaria n.º 449/79
+de 22 de Agosto
+De acordo com o Regulamento da Nomenclatura de Doenças e Causas de Morte da Organização Mundial de Saúde, Portugal adoptou a 9.ª Revisão da Classificação Internacional de Doenças daquela Organização, que deve entrar em vigor entre nós às 0 horas do dia 1 de Janeiro de 1980.
+Não tem o Instituto Nacional de Estatística possibilidade de prosseguir directamente as actividades indispensáveis à realização de tal objectivo, mas a Lei Orgânica do Sistema Estatístico Nacional prevê para tais situações a faculdade de delegação de poderes.
+Nesta conformidade, ao abrigo do artigo 11.º do Decreto-Lei n.º 427/73, de 25 de Agosto:
+Manda o Governo da República Portuguesa, pelas Secretarias de Estado do Planeamento e da Saúde, o seguinte:
+1 - É conferido ao Gabinete de Estudos e Planeamento da Saúde a qualidade de órgão delegado do Instituto Nacional de Estatística com o fim de proceder a codificação da causa ou causas de morte de acordo com as regras de classificação internacional de doenças, traumatismos e causas de morte da OMS.
+2 - No desempenho das atribuições agora conferidas, fica o Gabinete de Estudos e Planeamento da Saúde obrigado a cumprir os programas estatísticos estabelecidos, quer quanto ao âmbito, quer quanto aos prazos, bem como a colaborar com o Instituto Nacional de Estatística sempre que este o considere necessário.
+3 - A colaboração a que se refere o número anterior será prestada segundo as condições que forem estabelecidas mediante protocolos firmados entre o Instituto Nacional de Estatística e o Gabinete de Estudos e Planeamento.
+4 - Como órgão delegado do INE, o Gabinete de Estudos e Planeamento da Saúde ficará sujeito às normas do Sistema Estatístico Nacional, nomeadamente às que se referem ao princípio do segredo estatístico, consignado no artigo 15.º do Decreto-Lei n.º 427/73, de 25 de Agosto, e no Decreto-Lei n.º 747/75, de 31 de Dezembro.
+5 - A delegação de competências conferida pela presente portaria cessará quando o Instituto Nacional de Estatística o julgar conveniente, designadamente quando o Gabinete de Estudos e Planeamento da Saúde não cumprir as obrigações assumidas.
+Poderá igualmente o Gabinete de Estudos e Planeamento da Saúde requerer a cessação da sua qualidade de órgão delegado, desde que o faça, pelo menos, com um ano de antecedência, bem como solicitar o alargamento das suas atribuições, quando necessidades decorrentes dos trabalhos desenvolvidos o justifiquem.
+Secretarias de Estado do Planeamento e da Saúde, 20 de Julho de 1979. - O Secretário de Estado do Planeamento Rui José da Conceição Nunes. - O Secretário de Estado da Saúde, Mário José Gomes Marques.
