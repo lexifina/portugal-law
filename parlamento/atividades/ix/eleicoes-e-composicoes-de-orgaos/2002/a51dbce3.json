@@ -1,0 +1,128 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P0Fiu%2fOxm2B6i1Qb1v6Kl8P9Ddn6RTIUCktgva%2fyOaH7lWGUnkkysYTUSoIwHSs4BsNkQvxZU1Jn26l834KO7HtuiuTauD6UP2bFLXGt1tGFPrfPngnS3CSTBHYbjc71uc6LAaWwWMNPEAhBQhLTogdfX0k86zYaSRdtMb5VxaaW%2bmRVLZ1kFuUjHoiU3DnKr1hwTFH2RjyVH0%2bkvoh5J2473p4WEAcwEGu0cbkopo0uGKBdgu45lweS1xncByHsc5RkSTt5XtJ4jYpzMHGU0JCobwocVoDRrWDIaByf6THsN8d28CiCvqU0mvdSGeyt9pZrFNIo3KeVbLuYHnmRx0uPU1z9aF2A03pcO1L5Ivg%3d&fich=AtividadesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "158feac9a195837800498c997c5f15d982e196bc878ba5194b23e12459159b60",
+  "legislatura": "IX",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2002-06-06",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição da representação portuguesa na Assembleia Parlamentar do Conselho da Europa (e, por inerência, da União da Europa Ocidental/UEO)",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2002-06-06",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": "Presidente",
+        "nome": "Maria Manuela Aguiar Dias Moreira"
+      },
+      {
+        "cargo": "Vice-Presidente",
+        "nome": "Francisco José Pereira de Assis Miranda"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "António Paulo Martins Pereira Coelho"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "José Manuel Medeiros Ferreira"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Arménio dos Santos"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Alberto de Sousa Martins"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Maria Elisa Rogado Contente Domingues"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "António da Silva Pinto da Nazaré Pereira"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "José Eduardo Vera Cruz Jardim"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Sérgio André da Costa Vieira"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Maria de Belém Roseira M. Coelho Henriques de Pina"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "António Fernandes da Silva Braga"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "José Miguel Nunes Anacoreta Correia"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Maria Luísa Raimundo Mesquita"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "IX",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Assembleia Parlamentar do Conselho da Europa (e, por inerência, da União da Europa Ocidental/UEO)",
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": [
+      "4893"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2002-06-06",
+        "descricao": null,
+        "detalhe": null,
+        "id": "30978",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "282051",
+            "obs": null,
+            "pag": [
+              "723-723"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-07",
+            "pubLeg": "IX",
+            "pubNr": "18",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/723?pgs=723&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "18",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
