@@ -1,9 +1,7 @@
 # Artigo 29.º
 
-### Clubes de investidores
+### Swaps e empréstimos de instituições financeiras não residentes
 
-1 - Aos participantes dos clubes de investidores aplica-se a disciplina prevista no artigo 18.º do Código do IRS.
+1 - Ficam isentos de IRC os juros decorrentes de empréstimos concedidos por instituições financeiras não residentes a instituições de crédito residentes, bem como os ganhos obtidos por aquelas instituições decorrentes de operações de swap efectuadas com instituições de créditos residentes, desde que esses juros ou ganhos não sejam imputáveis a estabelecimento estável daquelas instituições situado no território português.
 
-2 - Incumbe ao clube de investidores a entrega ao Estado, até 20 de Janeiro de cada ano, do montante do imposto devido correspondente às mais-valias líquidas de menos-valias realizadas com a transmissão onerosa de valores mobiliários, no exercício anterior, sendo, para o efeito, de aplicar a taxa prevista no artigo 75.º do Código do IRS.
-
-3 - O disposto no número anterior libera os participantes da obrigação de imposto relativamente àqueles rendimentos, sendo aplicável, com as necessárias adaptações, o disposto nos n.os 1, alínea b), e 2 a 4 do artigo 114.º do Código do IRS, sempre que o participante opte pelo englobamento.
+2 - Ficam igualmente isentos de IRC os ganhos obtidos por instituições financeiras não residentes decorrentes de operações de swap efectuadas com o Estado, actuando através do Instituto de Gestão do Crédito Público, desde que esses ganhos não sejam imputáveis a estabelecimento estável daquelas instituições situado no território português.

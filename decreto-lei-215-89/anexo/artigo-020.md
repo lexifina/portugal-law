@@ -1,9 +1,7 @@
 # Artigo 20.º
 
-### Fundos de pensões e equiparáveis
+### Conta-emigrante
 
-1 - São isentos de IRC os rendimentos dos fundos de pensões e equiparáveis, constituídos de acordo com a legislação nacional.
+1 - A taxa do IRS incidente sobre os juros de depósitos a prazo produzidos por conta-emigrante é de 57,5% da taxa a que se refere a alínea a) do n.º 3 do artigo 71.º do Código do IRS.
 
-2 - São isentos de imposto municipal de sisa e do imposto sobre as sucessões e doações, por avença, os fundos de pensões e equiparáveis constituídos de acordo com a legislação nacional.
-
-3 - Ficam isentas do imposto sobre as sucessões e doações as transmissões por morte a favor do cônjuge sobrevivo e dos filhos ou adoptados, no caso de adopção plena, dos valores acumulados afectos a fundos de pensões resultantes de contribuições individuais dos participantes.
+2 - Ficam isentos do imposto sobre as sucessões e doações as transmissões por morte a favor dos legítimos herdeiros, os saldos e os certificados de depósito, à data da abertura da herança do titular da conta-emigrante, constituída nos termos legais, com o limite das contas poupança-reformados.

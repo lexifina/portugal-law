@@ -1,17 +1,7 @@
 # Artigo 52.º
 
-### Prédios urbanos construídos, ampliados, melhorados ou adquiridos a título oneroso destinados à habitação
+### Colectividades desportivas, de cultura e recreio
 
-1 - Ficam isentos de contribuição autárquica, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios urbanos habitacionais construídos, ampliados, melhorados ou adquiridos a título oneroso, destinados à habitação própria permanente do sujeito passivo ou do seu agregado familiar e sejam efectivamente afectos a tal fim, no prazo de seis meses após a aquisição ou a conclusão da construção, da ampliação ou dos melhoramentos, salvo por motivo não imputável ao beneficiário, devendo o pedido de isenção ser a apresentado pelos sujeitos passivos até ao termo dos 90 dias subsequentes àquele prazo.
+1 - Ficam isentos de IRC os rendimentos das colectividades desportivas, de cultura e recreio, abrangidas pelo artigo 11.º do Código do IRC, desde que a totalidade dos seus rendimentos brutos sujeitos a tributação e não isentos nos termos do Código não exceda o montante de 1500000$00 ((euro) 7481,97).
 
-2 - É aplicável à isenção prevista no número anterior o disposto no n.º 2 do artigo 51.º
-
-3 - Ficam igualmente isentos, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios construídos de novo, ampliados, melhorados ou adquiridos a título oneroso, quando se trate da primeira transmissão, na parte destinada a arrendamento para habitação, desde que reunidas as condições referidas na parte final do n.º 1, iniciando-se o período de isenção a partir da data da celebração do primeiro contrato de arrendamento.
-
-4 - Tratando-se de prédios ampliados ou melhorados nos casos previstos nos n.os 1 e 3, a isenção aproveitará apenas ao valor tributável correspondente ao acréscimo resultante das ampliações ou melhoramentos efectuados, tendo em conta para a determinação dos respectivos limites e período de isenção a totalidade do valor tributável do prédio, após o aumento derivado de tais ampliações ou melhoramentos.
-
-5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder será o determinado em conformidade com a tabela seguinte:
-
-(ver tabela no documento original)
-
-6 - Para efeitos de concessão e cessação, da isenção, aplicam-se os n.os 4, 5 e 6 do artigo 51.º e, no caso previsto no n.º 1 do presente artigo, se a afectação a residência permanente do sujeito passivo ou do seu agregado familiar ocorrer após o decurso do prazo nele previsto, a isenção iniciar-se-á a partir do ano imediato, inclusive, ao da verificação de tais pressupostos, cessando, todavia, no ano em que findaria se a afectação se tivesse verificado nos seis meses imediatos ao da conclusão da construção, da ampliação, melhoramentos ou aquisição a título oneroso.
+2 - As importâncias investidas pelos clubes desportivos em novas infra-estruturas ou por eles despendidas em actividades desportivas de recreação e no desporto de rendimento, não provenientes de subsídios, podem ser deduzidas ao rendimento global até ao limite de 90% da soma algébrica dos rendimentos líquidos previstos no n.º 3 do artigo 11.º do Código do IRC, sendo o eventual excesso deduzido até ao final do segundo exercício seguinte ao do investimento.

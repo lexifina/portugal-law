@@ -1,7 +1,15 @@
 # Artigo 43.º
 
-### Empreiteiros e arrematantes de obras e trabalhos das infra-estruturas comuns NATO
+### Prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística
 
-1 - Ficam isentos de IRS os empreiteiros ou arrematantes, nacionais ou estrangeiros, relativamente aos lucros derivados de obras ou trabalhos das infra-estruturas comuns NATO, a realizar em território português, nos termos do Decreto-Lei n.º 41561, de 17 de Março de 1958.
+1 - Ficam isentos de contribuição autárquica por um período de sete anos os prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística.
 
-2 - O disposto no número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no artigo 72.º do Código do IRS e determinação da taxa aplicável ao restante rendimento colectável.
+2 - Os prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística a título prévio beneficiam da isenção prevista no número anterior a partir da data da atribuição da utilidade turística, desde que tenha sido observado o prazo fixado para a abertura ou reabertura ao público do empreendimento ou para o termo das obras.
+
+3 - Os prédios urbanos afectos ao turismo de habitação beneficiam de isenção de contribuição autárquica por um período de sete anos contado a partir do termo das respectivas obras.
+
+4 - Nos casos previstos neste artigo, a isenção é reconhecida pelo chefe de finanças da área da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no prazo de 90 dias contados da data da publicação do despacho de atribuição da utilidade turística.
+
+5 - Se o pedido for apresentado para além do prazo referido no número anterior, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação, cessando, porém, no ano em que findaria, caso o pedido tivesse sido apresentado em tempo.
+
+6 - Em todos os aspectos que não estejam regulados neste artigo ou no Código da Contribuição Autárquica aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 423/83, de 5 de Dezembro.

@@ -1,7 +1,13 @@
+## Capítulo VIII
+
+## Outros benefícios
+
 # Artigo 48.º
 
-### Colectividades desportivas, de cultura e recreio
+### Empresas armadoras da marinha mercante nacional
 
-1 - Ficam isentos de IRC os rendimentos das colectividades desportivas, de cultura e recreio, abrangidas pelo artigo 10.º do Código do IRC, desde que a totalidade dos seus rendimentos brutos sujeitos a tributação e não isentos nos termos do Código não exceda o montante de 1500 contos.
+Às empresas armadoras da marinha mercante nacional são concedidos os seguintes benefícios fiscais:
 
-2 - As importâncias investidas pelos clubes desportivos em novas infra-estruturas ou por eles despendidas em actividades desportivas de recreação e no desporto de rendimento, não provenientes de subsídios, podem ser deduzidas ao rendimento global até ao limite de 90% da soma algébrica dos rendimentos líquidos previstos no n.º 3 do artigo 10.º do Código do IRC, sendo o eventual excesso deduzido até ao final do segundo exercício seguinte ao do investimento.
+a) Tributação dos lucros, resultantes exclusivamente da actividade de transporte marítimo, incide apenas sobre 30% desses lucros;
+
+b) Isenção de imposto do selo nas operações de financiamento externo para aquisição de navios, contentores e outro equipamento para navios, contratados por empresas armadoras da marinha mercante, ainda que essa contratação seja feita através de instituições financeiras nacionais.

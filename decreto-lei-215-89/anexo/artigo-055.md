@@ -1,7 +1,7 @@
 # Artigo 55.º
 
-### Prédios de reduzido valor patrimonial
+### Sociedades ou associações científicas internacionais
 
-1 - Ficam isentos de contribuição autárquica os prédios rústicos e urbanos pertencentes a sujeitos passivos cujo rendimento bruto total do agregado familiar englobado para efeitos de IRS não seja superior ao dobro do salário mínimo nacional e cujo valor patrimonial global não exceda 1345 contos.
+1 - O Ministro das Finanças pode, a requerimento das interessadas e com base em informação fundamentada da Direcção-Geral dos Impostos, conceder isenção total ou parcial de IRC às sociedades ou associações científicas internacionais sem fim lucrativo que estabeleçam as suas sedes permanentes em Portugal.
 
-2 - As isenções a que se refere o número anterior serão reconhecidas pelo chefe da repartição de finanças da área da situação dos prédios, mediante requerimento devidamente fundamentado, que deverá ser apresentado pelos sujeitos passivos até 30 de Junho do ano em que terá início a isenção solicitada.
+2 - A Direcção-Geral dos Impostos pode solicitar parecer aos serviços competentes do ministério da tutela com vista à elaboração da informação mencionada no número anterior.

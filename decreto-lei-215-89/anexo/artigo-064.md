@@ -1,5 +1,13 @@
 # Artigo 64.º
 
-### Imposto sobre o valor acrescentado - Transmissões de bens e prestações de serviços a título gratuito
+### Aquisição de computadores e outros equipamentos informáticos
 
-Não estão sujeitas a IVA as transmissões de bens e as prestações de serviços efetuadas, a título gratuito, pelas entidades a quem sejam concedidos donativos abrangidos pelo presente Estatuto, em benefício direto das pessoas singulares ou coletivas que os atribuam, quando o correspondente valor não ultrapassar, no seu conjunto, 25 % do montante do donativo recebido.
+1 - São dedutíveis à colecta do IRS, até à sua concorrência, após as deduções referidas no n.º 1 do artigo 78.º do respectivo Código, 25% dos montantes despendidos com a aquisição de computadores de uso pessoal, programas de computadores, modems, placas RDIS, aparelhos de terminal e set-top boxes com o limite de 35000$00 ((euro) 174,58).
+
+2 - A dedução referida no número anterior só é aplicável durante os anos de 1998 a 2001 e fica dependente da verificação das seguintes condições:
+
+a) O equipamento tenha sido adquirido no estado de novo;
+
+b) Seja comprovada a afectação através de factura que contenha o número de identificação fiscal do adquirente e a menção «Uso pessoal».
+
+3 - A utilização da dedução prevista no n.º 1 impede, para efeitos fiscais, a afectação dos equipamentos a uso profissional.

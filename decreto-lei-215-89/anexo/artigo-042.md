@@ -1,17 +1,17 @@
-## Capítulo III
-
-## Dos outros benefícios
-
 # Artigo 42.º
 
-### Isenção do pessoal das missões diplomáticas e consulares e das organizações estrangeiras ou internacionais
+### Prédios urbanos construídos, ampliados, melhorados ou adquiridos a título oneroso destinados a habitação
 
-1 - Ficam isentos de IRS, nos termos do direito internacional aplicável ou desde que haja reciprocidade:
+1 - Ficam isentos de contribuição autárquica, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios urbanos habitacionais construídos, ampliados, melhorados ou adquiridos a título oneroso destinados à habitação própria e permanente do sujeito passivo ou do seu agregado familiar e sejam efectivamente afectos a tal fim no prazo de seis meses após a aquisição ou a conclusão da construção, da ampliação ou dos melhoramentos, salvo por motivo não imputável ao beneficiário, devendo o pedido de isenção ser apresentado pelos sujeitos passivos até ao termo dos 90 dias subsequentes àquele prazo.
 
-a) O pessoal das missões diplomáticas e consulares, quanto às remunerações auferidas nessa qualidade;
+2 - É aplicável à isenção prevista no número anterior o disposto no n.º 2 do artigo anterior.
 
-b) O pessoal ao serviço de organizações estrangeiras ou internacionais, quanto às remunerações auferidas nessa qualidade.
+3 - Ficam igualmente isentos, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios construídos de novo, ampliados, melhorados ou adquiridos a título oneroso, quando se trate da primeira transmissão, na parte destinada a arrendamento para habitação, desde que reunidas as condições referidas na parte final do n.º 1, iniciando-se o período de isenção a partir da data da celebração do primeiro contrato de arrendamento.
 
-2 - O disposto no número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no artigo 72.º do Código do IRS e determinação da taxa aplicável ao restante rendimento colectável.
+4 - Tratando-se de prédios ampliados ou melhorados nos casos previstos nos n.os 1 e 3, a isenção aproveita apenas ao valor tributável correspondente ao acréscimo resultante das ampliações ou melhoramentos efectuados, tendo em conta para a determinação dos respectivos limite e período de isenção a totalidade do valor tributável do prédio, após o aumento derivado de tais ampliações ou melhoramentos.
 
-3 - O reconhecimento relativo ao preenchimento dos requisitos de isenção, quando necessário, é da competência do Ministro das Finanças.
+5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder é o determinado em conformidade com a tabela seguinte:
+
+(ver tabela no documento original)
+
+6 - Para efeitos de concessão e cessação da isenção, aplicam-se os n.os 4, 5 e 6 do artigo 58.º e, no caso previsto no n.º 1 do presente artigo, se a afectação à residência permanente do sujeito passivo ou do seu agregado familiar ocorrer após o decurso do prazo nele previsto, a isenção inicia-se a partir do ano imediato, inclusive, ao da verificação de tais pressupostos, cessando, todavia, no ano em que findaria, se a afectação se tivesse verificado nos seis meses imediatos ao da conclusão da construção, da ampliação, melhoramentos ou aquisição a título oneroso.

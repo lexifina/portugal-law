@@ -1,5 +1,7 @@
 # Artigo 56.º
 
-### Fundos de investimento imobiliário, fundos de pensões e equiparáveis e fundos de poupança-reforma
+### Propriedade intelectual
 
-Ficam isentos de contribuição autárquica os prédios integrados em fundos de investimento imobiliário e equiparáveis, em fundos de pensões constituídos de acordo com a legislação nacional e em fundos de poupança-reforma.
+1 - Os rendimentos provenientes da propriedade literária, artística e científica, considerando-se também como tal os rendimentos provenientes da alienação de obras de arte de exemplar único e os rendimentos provenientes das obras de divulgação pedagógica e científica, quando auferidos por autores residentes em território português, desde que sejam o titular originário, são considerados no englobamento para efeitos de IRS apenas por 50% do seu valor, líquido de outros benefícios.
+
+2 - Excluem-se do disposto no número anterior os rendimentos provenientes de obras escritas sem carácter literário, artístico ou científico, obras de arquitectura e obras publicitárias.

@@ -1,5 +1,5 @@
 # Artigo 49.º
 
-### Partidos políticos
+### Comissões vitivinícolas regionais
 
-Os partidos políticos, não estão sujeitos ao IRC, sem prejuízo do disposto no n.º 1 do artigo 22.º do Decreto-Lei n.º 595/74, de 7 de Novembro.
+São isentos de IRC os rendimentos das comissões vitivinícolas regionais criadas nos termos da Lei n.º 8/85, de 4 de Junho, e legislação complementar, com excepção dos juros de depósito e outros rendimentos de capitais, que são tributados à taxa de 20%.

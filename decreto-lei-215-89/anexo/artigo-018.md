@@ -1,31 +1,19 @@
-## Parte II
+## Capítulo II
 
-## Dos benefícios fiscais
-
-## Capítulo I
-
-## Do sistema financeiro e mercado de capitais
+## Benefícios à poupança
 
 # Artigo 18.º
 
-### Mais-valias e menos-valias Reinvestimento dos valores de realização
+### Conta poupança-habitação
 
-1 - O disposto no artigo 44.º do Código do IRC é aplicável, com as limitações indicadas nos números seguintes, não só às mais-valias e menos-valias no mesmo mencionadas, mas também às realizadas mediante transmissão onerosa de imobilizações financeiras, sempre que o respectivo valor de realização seja reinvestido, total ou parcialmente, no prazo mencionado naquele artigo, na aquisição, fabricação ou construção de elementos do activo imobilizado corpóreo, na aquisição de quotas ou acções de sociedades comerciais ou civis sob forma comercial com sede ou direcção efectiva em território português ou ainda em títulos do Estado Português.
+1 - Para efeitos de IRS, são dedutíveis à colecta, nos termos e condições previstos no artigo 78.º do respectivo Código, 25% das entregas feitas em cada ano para depósito em contas poupança-habitação, com o limite de 110100$00 ((euro) 549,18), desde que o saldo seja mobilizado para os fins previstos no n.º 1 do artigo 5.º do Decreto-Lei n.º 27/2001, de 3 de Fevereiro, e se mostrem decorridos os prazos ali estabelecidos.
 
-2 - Nos casos de entradas de imobilizações corpóreas ou de imobilizações financeiras para a realização de capital social, o reinvestimento considerar-se-á totalmente efectuado quando o valor das quotas ou acções assim realizadas não for inferior ao valor daquelas entradas.
+2 - No caso de o saldo da conta poupança-habitação vir a ser utilizado para outros fins que não os referidos no número anterior, ou antes de decorrido o prazo estabelecido, a soma dos montantes anuais deduzidos, agravados de uma importância correspondente à aplicação a cada um deles do produto de 10% por cada ano ou fracção decorrido desde aquele em que foi exercido o direito à dedução, é acrescida, consoante os casos, ao rendimento ou à colecta do ano em que ocorrer a mobilização.
 
-3 - O disposto no n.º 1 não é aplicável:
+3 - Ficam isentas de imposto sobre as sucessões e doações as transmissões por morte a favor do cônjuge sobrevivo e dos filhos ou dos adoptados, no caso de adopção plena, do saldo das contas poupança-habitação, desde que o mesmo venha a ser mobilizado para os fins referidos no artigo 5.º do Decreto-Lei n.º 27/2001.
 
-a) Às mais-valias e menos-valias realizadas relativas a imobilizações financeiras que tenham sido detidas por período inferior a doze meses, excepto quanto às que faziam parte do activo da alienante em 31 de Dezembro de 1988;
+4 - Nos casos em que o saldo da conta a que se refere o número anterior seja utilizado para outros fins que não os ali referidos, fica sem efeito a isenção, observando-se o que se prescreve no Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações para a liquidação e cobrança do respectivo imposto, acrescido dos juros compensatórios que se mostrem devidos.
 
-b) À aquisição de quotas ou acções próprias;
+5 - Os sujeitos passivos devem conservar na sua posse os documentos comprovativos das entregas, da utilização do saldo da conta poupança-habitação e os originais dos documentos mencionados no n.º 2 do artigo 5.º do Decreto-Lei n.º 27/2001 até ao termo do respectivo prazo de caducidade do direito à liquidação do imposto.
 
-c) Sem prejuízo do disposto no n.º 2, às transmissões onerosas de quotas, acções ou outros valores mobiliários efectuadas entre uma sociedade e qualquer dos seus sócios, ainda que realizadas através de relações indirectas entre empresas.
-
-4 - Para beneficiarem do disposto no n.º 1, as quotas, acções ou títulos do Estado Português objecto do reinvestimento deverão permanecer na titularidade do adquirente até ao fim do segundo período de tributação posterior ao da sua aquisição, aplicando-se, com as necessárias adaptações, o disposto no n.º 5 do artigo 44.º do Código do IRC sempre que se verifique a sua transmissão antes dessa data, salvo em consequência de fusão ou cisão da sociedade participada ou de actos de concentração de empresas tal como são definidos no artigo 2.º do Decreto-Lei n.º 404/90, de 21 de Dezembro, devendo o somatório do prazo de detenção dos valores mobiliários referidos neste número adicionado com o prazo de detenção dos valores a que deram origem satisfazer o período mencionado.
-
-5 - No caso de se ter verificado transformação de sociedades por quotas em sociedades anónimas ou de aquisição de valores mobiliários cuja propriedade tenha sido adquirida pelo sujeito passivo por incorporação de reservas ou por substituição daqueles, designadamente por alteração do seu valor nominal ou modificação do objecto social da sociedade emitente:
-
-a) Considera-se data de aquisição das acções para efeitos do disposto na alínea a) do n.º 3 a data de aquisição das quotas que lhes deram origem;
-
-b) Considera-se que as quotas objecto de reinvestimento permaneceram na titularidade do adquirente pelo prazo referido no n.º 4 quando o prazo de detenção daquelas, adicionado ao das acções a que deram origem, satisfaça o aludido período.
+6 - As instituições depositárias são obrigadas a comunicar anualmente, até ao último dia útil do mês de Junho, relativamente ao ano anterior, à Direcção-Geral dos Impostos, em modelo oficial, relação de todas as contas poupança-habitação constituídas e entregas subsequentes, bem como de todas as mobilizações de saldos previstas nos artigos 5.º e 6.º do Decreto-Lei n.º 27/2001.

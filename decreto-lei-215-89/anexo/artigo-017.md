@@ -1,15 +1,9 @@
-## Secção II
-
-## Do processo de consulta prévia
-
 # Artigo 17.º
 
-### Definição e efeitos da consulta prévia
+### Criação de empregos para jovens
 
-1 - Antes de verificados os pressupostos dos benefícios fiscais previstos na lei, podem os interessados requerer ao Ministro das Finanças ou ao director-geral das Contribuições e Impostos, conforme o caso, que se pronunciem sobre uma dada situação tributária ainda não concretizada.
+1 - Para efeitos do imposto sobre o rendimento das pessoas colectivas (IRC), os encargos correspondentes à criação líquida de postos de trabalho para trabalhadores admitidos por contrato sem termo com idade não superior a 30 anos são levados a custo em valor correspondente a 150%.
 
-2 - O despacho que recair sobre o requerimento formulado nos termos do número anterior será notificado ao interessado, vinculando os serviços, que, verificados os factos previstos na lei, não poderão proceder por forma diversa, salvo em cumprimento de decisão judicial.
+2 - Para efeitos do disposto no número anterior, o montante máximo dos encargos mensais, por posto de trabalho, é de 14 vezes o salário mínimo nacional mais elevado.
 
-3 - O despacho a que se refere o número anterior não é susceptível de reclamação ou recurso e não exime os interessados de requerer o reconhecimento do benefício fiscal respectivo, nos termos da lei.
-
-4 - Apresentado o pedido de reconhecimento que tenha sido precedido de processo de consulta prévia, este será apensado, a requerimento do interessado, devendo a entidade com competência para o reconhecimento conformar-se com o anterior despacho, na medida em que a situação hipotética objecto da consulta prévia coincida com a situação de facto objecto do pedido de reconhecimento, sem prejuízo das medidas de controlo do benefício fiscal exigidas por lei.
+3 - A majoração referida no n.º 1 tem lugar durante um período de cinco anos a contar do início da vigência do contrato de trabalho.

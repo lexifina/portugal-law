@@ -1,17 +1,23 @@
 # Artigo 16.º
 
-### Pedido de reconhecimento autónomo, fiscalização e recursos
+### Deficientes
 
-Sem prejuízo do disposto a propósito de cada benefício fiscal, aplicar-se-á supletivamente, com as necessárias adaptações, o seguinte:
+1 - Ficam isentos de tributação em IRS os rendimentos das categorias A, B e H auferidos por titulares deficientes, nos termos seguintes:
 
-a) Os pedidos de reconhecimento dos benefícios fiscais processados autonomamente serão apresentados nos serviços competentes para a liquidação do imposto a que se refere o benefício e devem ser decididos no prazo máximo de seis meses, sendo instruídos nos termos das normas que os concedem;
+a) Em 50%, com o limite de 2635000$00 ((euro) 13143,32), as categorias A e B;
 
-b) Sempre que o reconhecimento do benefício fiscal seja da competência do Ministro das Finanças, os serviços referidos na alínea anterior submeterão o processo, devidamente instruído, no prazo de 60 dias àquela entidade para decisão no prazo referido na alínea anterior;
+b) Em 30%, os rendimentos da categoria H, com os seguintes limites:
 
-c) O despacho de deferimento fixará as datas dos termos inicial e final do benefício fiscal;
+1) De 1488000$00 ((euro) 7422,11) para os deficientes em geral;
 
-d) Os despachos de deferimento ou de indeferimento serão sempre notificados ao requerente, com indicação da susceptibilidade de recurso, respectivo prazo e órgão competente, devendo ser fundamentados;
+2) De 1978000$00 ((euro) 9866,22) para os deficientes das Forças Armadas abrangidos pelos Decretos-Leis n.os 43/76, de 20 de Janeiro, e 314/90, de 13 de Outubro.
 
-e) Do despacho de indeferimento total ou parcial da entidade legalmente competente cabe recurso hierárquico nos termos gerais, devendo cada entidade proferir os respectivos despachos no prazo de 60 dias;
+2 - São dedutíveis à colecta do IRS 30% da totalidade das despesas efectuadas com a educação e reabilitação do sujeito passivo ou dependentes deficientes, bem como 25% da totalidade dos prémios de seguros de vida que garantam exclusivamente os riscos de morte, invalidez ou reforma por velhice, neste último caso desde que o benefício seja garantido após os 55 anos de idade e cinco anos de duração do contrato, e em que aqueles figurem como primeiros beneficiários, nos termos e condições estabelecidos na alínea a) do n.º 1 do artigo 86 do Código do IRS.
 
-f) A administração fiscal deve prestar aos interessados todas as informações necessárias ao exercício dos seus direitos e as relativas ao estado do processo, devendo passar as certidões que lhe forem pedidas.
+3 - Os deficientes podem possuir uma conta de depósito bancário à qual se aplica o regime jurídico e fiscal da «Conta poupança-reformados».
+
+4 - Para efeitos do disposto neste artigo, considera-se deficiente aquele que apresente um grau de invalidez permanente, devidamente comprovado pela entidade competente, igual ou superior a 60%.
+
+5 - Os limites previstos nas alíneas do n.º 1 são majorados em 15% quando se trate de sujeitos passivos cujo grau de invalidez permanente, devidamente comprovado por entidade competente, seja igual ou superior a 80%.
+
+6 - Por portaria conjunta dos Ministros das Finanças e do Trabalho e da Solidariedade são estabelecidos os procedimentos tendentes a garantir a eficaz verificação dos pressupostos de que dependem os benefícios aplicáveis a titulares deficientes.

@@ -1,13 +1,19 @@
 # Artigo 26.º
 
-### Sociedades de gestão e investimento imobiliário
+### Mais-valias realizadas por entidades não residentes
 
-1 - As sociedades de gestão e investimento imobiliário beneficiam dos seguintes incentivos fiscais:
+1 - Ficam isentas de IRC as mais-valias realizadas com a transmissão onerosa de partes sociais e outros valores mobiliários por entidades que não tenham sede nem direcção efectiva em território português e aí não possuam estabelecimento estável ao qual as mesmas sejam imputáveis.
 
-a) Tributação das SGII em IRC à taxa de 25%;
+2 - O disposto no número anterior não é aplicável:
 
-b) Isenção de sisa para as aquisições de bens imóveis pelas SGII;
+a) A entidades não residentes e sem estabelecimento estável em território português que sejam detidas, directa ou indirectamente, em mais de 25%, por entidades residentes;
 
-c) Isenção de contribuição autárquica para os prédios ou parte de prédios urbanos das SGII, destinados ao arrendamento para a habitação.
+b) A entidades não residentes e sem estabelecimento estável em território português que sejam residentes de Estados ou territórios constantes de lista aprovada por portaria do Ministro das Finanças;
 
-2 - O regime fiscal estabelecido no número anterior cessa os seus efeitos em 31 de Dezembro de 2005.
+c) Às mais-valias realizadas com a transmissão onerosa de participações qualificadas;
+
+d) Às mais-valias realizadas com a transmissão onerosa de acções ou outras participações no capital de sociedades residentes em território português cujo activo seja constituído, principalmente, por bens imobiliários aí situados.
+
+3 - O disposto no n.º 1 e nas alíneas b), c) e d) do número anterior aplica-se, com as necessárias adaptações, a pessoas singulares não residentes em território português.
+
+4 - Para efeitos deste artigo, considera-se alienação de participação qualificada a de 2% dos direitos de voto correspondentes ao capital social de uma sociedade emitente de acções ou outros valores mobiliários admitidos à negociação em mercado regulamentado ou de 10% dos direitos de voto correspondentes ao capital social de qualquer outra sociedade.

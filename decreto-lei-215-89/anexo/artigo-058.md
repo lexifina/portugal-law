@@ -1,11 +1,9 @@
 # Artigo 58.º
 
-### Propriedade intelectual
+### Acções admitidas à negociação dos mercados de bolsa
 
-1 - Os rendimentos provenientes da propriedade literária, artística e científica, incluindo os provenientes da alienação de obras de arte de exemplar único e os provenientes das obras de divulgação pedagógica e científica, quando auferidos por titulares de direitos de autor ou conexos residentes em território português, desde que sejam os titulares originários, são considerados no englobamento, para efeitos do IRS, apenas por 50 % do seu valor, líquido de outros benefícios.
+Até 31 de Dezembro de 2001, os dividendos distribuídos de acções admitidas à negociação dos mercados de bolsa contam para efeitos de IRS ou IRC pelos seguintes valores:
 
-2 - Excluem-se do disposto no número anterior os rendimentos provenientes de obras escritas sem carácter literário, artístico ou científico, obras de arquitectura e obras publicitárias.
+a) Exercício de 2000 - 60% do seu valor;
 
-3 - A importância a excluir do englobamento nos termos do n.º 1 não pode exceder (euro) 10 000.
-
-4 - (Revogado.)
+b) Exercício de 2001 - 80% do seu valor.

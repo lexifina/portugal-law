@@ -1,21 +1,17 @@
-## Capítulo II
+## Parte II
 
-## Do processo
+## Benefícios fiscais com carácter estrutural
 
-## Secção I
+## Capítulo I
 
-## Do reconhecimento dos benefícios fiscais
+## Benefícios de natureza social
 
 # Artigo 14.º
 
-### O princípio da iniciativa dos interessados
+### Fundos de pensões e equiparáveis
 
-1 - Salvo disposição em contrário, o reconhecimento dos benefícios fiscais depende de iniciativa dos interessados, mediante:
+1 - São isentos de IRC os rendimentos dos fundos de pensões e equiparáveis, constituídos de acordo com a legislação nacional.
 
-a) Cálculo do benefício previsto na lei, efectuado na declaração de rendimentos respectiva;
+2 - São isentos do imposto municipal de sisa e do imposto sobre as sucessões e doações, por avença, os fundos de pensões e equiparáveis constituídos de acordo com a legislação nacional.
 
-b) Requerimento autónomo dirigido especificamente à obtenção do benefício previsto;
-
-c) Prova da verificação dos pressupostos de reconhecimento nos termos da lei.
-
-2 - O disposto no número anterior não prejudica os direitos resultantes da consulta prévia a que se refere o artigo 17.º
+3 - Ficam isentas do imposto sobre as sucessões e doações as transmissões por morte a favor do cônjuge sobrevivo e dos filhos ou adoptados, no caso de adopção plena, dos valores acumulados afectos a fundos de pensões resultantes de contribuições individuais dos participantes.

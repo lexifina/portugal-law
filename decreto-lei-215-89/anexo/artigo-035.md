@@ -1,9 +1,17 @@
+## Capítulo V
+
+## Benefícios fiscais em razão de relações internacionais
+
 # Artigo 35.º
 
-### Transformação de sociedades por quotas em sociedades anónimas e ofertas públicas de aquisição de acções
+### Isenção do pessoal das missões diplomáticas e consulares e das organizações estrangeiras ou internacionais
 
-Para efeitos do n.º 1 do artigo 5.º do Decreto-Lei n.º 442-A/88, de 30 de Novembro, do artigo 41.º, n.º 3, do Código do IRS e do artigo 34.º, considera-se que:
+1 - Fica isento de IRS, nos termos do direito internacional aplicável ou desde que haja reciprocidade:
 
-a) A data de aquisição de acções resultantes da transformação de sociedade por quotas em sociedade anónima é a data de aquisição das quotas que lhes deram origem;
+a) O pessoal das missões diplomáticas e consulares, quanto às remunerações auferidas nessa qualidade;
 
-b) A data de aquisição das acções da sociedade oferente em oferta pública de aquisição lançada nos termos do Código das Sociedades Comerciais, cuja contrapartida consista naquelas acções, dadas à troca, é a data de aquisição das acções das sociedades visadas na referida oferta pública de aquisição.
+b) O pessoal ao serviço de organizações estrangeiras ou internacionais, quanto às remunerações auferidas nessa qualidade.
+
+2 - O disposto no número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS e determinação da taxa aplicável ao restante rendimento colectável.
+
+3 - O reconhecimento relativo ao preenchimento dos requisitos de isenção, quando necessário, é da competência do Ministro das Finanças.

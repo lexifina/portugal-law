@@ -1,15 +1,11 @@
 # Artigo 53.º
 
-### Prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística
+### Associações públicas, confederações e associações sindicais e patronais
 
-1 - Ficam isentos de contribuição autárquica por um período de sete anos os prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística.
+1 - Ficam isentos de IRC, excepto no que respeita a rendimentos de capitais e a rendimentos comerciais, industriais ou agrícolas, tal como são definidos para efeitos de IRS, e sem prejuízo do disposto no número seguinte:
 
-2 - Os prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística a título prévio beneficiarão da isenção prevista no número anterior a partir da data da atribuição da utilidade turística, desde que tenha sido observado o prazo fixado para a abertura ou reabertura ao público do empreendimento ou para o termo das obras.
+a) As pessoas colectivas públicas, de tipo associativo, criadas por lei para assegurar a disciplina e representação do exercício de profissões liberais;
 
-3 - Os prédios urbanos afectos ao turismo de habitação beneficiam de isenção de contribuição autárquica por um período de sete anos contado a partir do termo das respectivas obras.
+b) As confederações e associações patronais e sindicais.
 
-4 - Nos casos previstos neste artigo, a isenção será reconhecida pelo chefe da repartição de finanças da área da situação do prédio, em requerimento devidamente documentado, que deverá ser apresentado pelos sujeitos passivos no prazo de 90 dias contados da data da publicação do despacho de atribuição da utilidade turística.
-
-5 - Se o pedido for apresentado para além do prazo referido no número anterior, a isenção iniciar-se-á a partir do ano imediato, inclusive, ao da sua apresentação, cessando, porém, no ano em que findaria, caso o pedido tivesse sido apresentado em tempo.
-
-6 - Em todos os aspectos que não estejam regulados neste artigo ou no Código da CA aplicar-se-á, com as necessárias adaptações, o disposto no Decreto-Lei n.º 423/83, de 5 de Dezembro.
+2 - Ficam isentos de IRC os rendimentos obtidos pelas associações sindicais derivados de acções de formação prestadas aos respectivos associados no âmbito dos seus fins estatutários.

@@ -1,5 +1,5 @@
 # Artigo 25.º
 
-### Sociedades de fomento empresarial
+### Mais-valias no âmbito do processo de privatização
 
-Às sociedades de fomento empresarial que venham a constituir-se até 31 de Dezembro de 1990 aplica-se, nos mesmos termos, o regime de benefícios fiscais estabelecido para as sociedades de capital de risco, mas valendo a isenção do IRC no ano da constituição e nos sete anos seguintes.
+Para efeito de apuramento do lucro tributável em IRC das empresas de capitais exclusivamente públicos, bem como das sociedades que com elas se encontram em relação de domínio, são excluídas da base tributável as mais-valias provenientes de operações de privatização ou de processos de reestruturação efectuados de acordo com orientações estratégicas no quadro de exercício da função accionista do Estado, e como tal reconhecidos por despacho do Ministro das Finanças.

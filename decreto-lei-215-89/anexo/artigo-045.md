@@ -1,7 +1,7 @@
 # Artigo 45.º
 
-### Propriedade intelectual
+### Prédios de reduzido valor patrimonial
 
-1 - Os rendimentos provenientes da propriedade literária, artística e científica, considerando-se também como tal os rendimentos provenientes da alienação de obras de arte de exemplar único e os rendimentos provenientes de obras de divulgação pedagógica e científica, quando auferidos por autores residentes em território português, desde que sejam o titular originário, serão considerados no englobamento para efeitos de IRS apenas por 50% do seu valor, líquido de outros benefícios.
+1 - Ficam isentos de contribuição autárquica os prédios rústicos e urbanos pertencentes a sujeitos passivos cujo rendimento bruto total do agregado familiar englobado para efeitos de IRS não seja superior ao dobro do salário mínimo nacional mais elevado e cujo valor patrimonial global não exceda 1345000$00 ((euro) 6708,83).
 
-2 - Excluem-se do disposto no número anterior os rendimentos provenientes de obras escritas sem carácter literário, artístico ou científico, obras de arquitectura e obras publicitárias.
+2 - As isenções a que se refere o número anterior são reconhecidas pelo chefe de finanças da área da situação dos prédios, mediante requerimento devidamente fundamentado, que deve ser apresentado pelos sujeitos passivos até 30 de Junho do ano em que tenha início a isenção solicitada.

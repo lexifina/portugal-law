@@ -1,5 +1,9 @@
 # Artigo 36.º
 
-### Empréstimos externos e rendas de locação de equipamentos importados
+### Isenção do pessoal em missões de salvaguarda de paz
 
-O Ministro das Finanças pode, a requerimento e com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, conceder isenção total ou parcial de IRS ou de IRC relativamente a juros de capitais provenientes do estrangeiro, representativos de empréstimos e rendas de locação de equipamentos importados, de que sejam devedores o Estado, as regiões autónomas, as autarquias locais e as suas federações ou uniões, ou qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os institutos públicos, e as empresas que prestem serviços públicos, desde que os credores tenham a residência, sede ou direcção efectiva no estrangeiro.
+1 - Ficam isentos de IRS os militares e elementos das forças de segurança quanto às remunerações auferidas no desempenho de funções integradas em missões de carácter militar, efectuadas no estrangeiro, com objectivos humanitários ou destinadas ao estabelecimento, consolidação ou manutenção da paz, ao serviço das Nações Unidas ou de outras organizações internacionais, independentemente da entidade que suporta as respectivas importâncias.
+
+2 - O disposto no número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS e determinação da taxa aplicável ao restante rendimento colectável.
+
+3 - O reconhecimento relativo ao preenchimento dos requisitos de isenção, quando necessário, é da competência do Ministro das Finanças.
