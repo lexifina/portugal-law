@@ -1,0 +1,5 @@
+Aviso n.º 264/99
+Por ordem superior se torna público que, por nota de 26 de Novembro de 1999, o director-geral da Organização Internacional de Telecomunicações Marítimas por Satélite (INMARSAT), na sua qualidade de depositário do Acordo Internacional sobre a Utilização de Estações Terrenas de Navio da INMARSAT, nos Limites do Mar Territorial e nos Postos, de 16 de Outubro de 1985, comunicou ter o Governo de Portugal notificado, em 16 de Novembro, que o referido Acordo foi estendido ao território de Macau, nos mesmos termos em que a ele está vinculado o Estado Português.
+Portugal é parte do Acordo, que foi aprovado, para adesão, pelo Decreto n.º 16/94, publicado no Diário da República, 1.ª série-A, n.º 124, de 28 de Maio de 1994, e estendido ao território de Macau pelo Decreto do Presidente da República n.º 205/99, de 9 de Novembro, publicado no Diário da República, 1.ª série-A, n.º 261, de 9 de Novembro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 3 de Dezembro de 1999. - João Maria Rebelo de Andrade Cabral.
