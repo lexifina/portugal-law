@@ -1,0 +1,3 @@
+Portaria n.º 20444
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, que, nos termos do artigo 1.º do Decreto-Lei n.º 42261, de 13 de Maio de 1959, seja estabelecida a gratificação diária de 20$00 para os técnicos dos serviços técnicos de electromedicina dos serviços centrais do Instituto de Assistência Nacional aos Tuberculosos que, nos termos daquele decreto-lei, conduzam o veículo da oficina móvel.
+Ministérios das Finanças e da Saúde e Assistência, 18 de Março de 1964. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida, Subsecretário de Estado do Orçamento.
