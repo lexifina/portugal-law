@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público que Portugal depositou, em 15 de Maio de 1984, junto do secretário-geral do Conselho da Europa o instrumento de ratificação do Código Europeu de Segurança Social e do Protocolo ao Código Europeu de Segurança Social, abertos para assinatura dos Estados Membros do Conselho da Europa, em Estrasburgo, em 16 de Abril de 1964 e aprovados para ratificação, em Portugal, pelo Decreto n.º 35/83, de 13 de Maio.
+Encontra-se especificado no instrumento de ratificação que Portugal não aceita as obrigações decorrentes da parte VI do Código Europeu de Segurança Social, das partes IV e VI do Protocolo ao Código Europeu de Segurança Social, bem como as disposições da subalínea iii) da alínea a) do n.º 2 do artigo 10.º e da alínea c) do n.º 2 do artigo 49.º do Protocolo ao Código Europeu de Segurança Social.
+Nesta data são ainda partes no Código Europeu de Segurança Social os seguintes países: Bélgica, Dinamarca, República Federal da Alemanha, Grécia, Irlanda, Itália, Luxemburgo, Países Baixos, Noruega, Suécia, Suíça, Turquia e Reino Unido.
+São também partes no Protocolo ao Código Europeu de Segurança Social os seguintes países: Bélgica, República Federal da Alemanha, Luxemburgo, Países Baixos, Noruega e Suécia.
+Direcção-Geral dos Negócios Políticos, 8 de Junho de 1984. - O Director-Geral, João de Matos Proença.
