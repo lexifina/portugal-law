@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo de Barbados depositou em 6 de Agosto de 1985, junto da Secretaria-Geral das Nações Unidas, uma nota informando, de acordo com o artigo 3 (2) da Convenção sobre a Recuperação de Alimentos no Estrangeiro, concluída em Nova Iorque em 20 de Junho de 1956, que as leis do Governo de Barbados não exigem outros elementos de prova em apoio dos pedidos de alimentos a não ser os indicados no Convenção referida, de que Portugal já é parte.
+Secretaria-Geral do Ministério, 28 de Novembro de 1985. - O Director dos Serviços Jurídicos e de Tratados, Francisco Manuel dos Reis Caldeira.
