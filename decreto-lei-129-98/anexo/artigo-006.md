@@ -10,7 +10,7 @@ b) Modificação de firma ou denominação;
 
 c) Alteração do objecto ou do capital;
 
-d) Alteração de localização da sede ou do endereço postal;
+d) Alteração da localização da sede ou do endereço postal, incluindo a transferência da sede de e para Portugal;
 
 e) Fusão, cisão ou transformação;
 
