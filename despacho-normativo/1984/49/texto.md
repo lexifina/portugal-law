@@ -1,0 +1,5 @@
+Despacho Normativo n.º 49/84
+Tendo vários hospitais levantado dúvidas sobre quais os enfermeiros que reúnem condições de elegibilidade para os conselhos de gerência, suscitadas pelo facto de as designações constantes do artigo 8.º, n.º 1, alínea b), do Decreto Regulamentar n.º 30/77, de 20 de Maio, não corresponderem às do diploma que estabelece a nova carreira de enfermagem (Decreto-Lei n.º 305/81, de 12 de Novembro), esclarece-se:
+1 - Para os hospitais centrais gerais, onde o Decreto Regulamentar n.º 30/77 refere categoria não inferior a enfermeiro-subchefe, deverá considerar-se categoria de enfermeiro-chefe, dado ser esta a categoria em que aqueles enfermeiros foram integrados.
+2 - Para os restantes hospitais, onde se refere categoria não inferior a enfermeiro de 1.ª classe, deverá considerar-se enfermeiro - grau I (2.º escalão), dado ser esta a categoria e escalão em que a maioria dos enfermeiros de 1.ª classe foi integrada.
+Ministério da Saúde, 24 de Janeiro de 1984. - O Ministro da Saúde, António Manuel Maldonado Gonelha.
