@@ -1,0 +1,22 @@
+Despacho Normativo n.º 355/80
+Considerando que os quadros da ex-Administração Ultramarina divergiam em muitos aspectos dos da Administração Portuguesa;
+Considerando que, por isso, muitos funcionários adidos foram ou deverão ser reclassificados ou integrados nos quadros da Administração em categorias diferentes das que eram titulares e se reconhece ser justo tomar em conta o tempo de serviço prestado em cargos de conteúdo funcional idêntico;
+Considerando que, além das categorias já contempladas pelos Despachos Normativos n.os 335/79, de 9 de Novembro, 202/80, de 27 de Junho, e 293/80, de 11 de Agosto, outras existem que são merecedoras de igual tratamento, de modo a assegurar ao pessoal do quadro geral de adidos os benefícios concedidos pelos Decretos-Leis n.os 191-C/79, de 25 de Junho, e 377/79, de 13 de Setembro:
+Determino, ao abrigo do n.º 2 do artigo 9.º do Decreto-Lei n.º 377/79:
+1 - Aos funcionários adidos que foram reclassificados ou integrados nos quadros dos serviços ou organismos utilizadores com a categoria de escriturário-dactilógrafo será contado, para os efeitos dos n.os 1 e 3 do artigo 12.º do Decreto-Lei n.º 191-C/79, o tempo de serviço prestado nas anteriores categorias de:
+Ajudante de 2.ª classe e de 3.ª classe;
+Ajudante de exploração;
+Ajudante de exploração postal;
+Ajudante de tráfego de 2.ª classe e de 3.ª classe;
+Encarregado de estação de 2.ª classe;
+Manipulador telégrafo-postal e manipulador telégrafo-postal de 2.ª classe.
+2 - Com vista ao ingresso ou progressão na carreira horizontal de motorista, regulada nos n.os 3 e 4 do artigo 16.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, será igualmente tomado em conta o tempo de serviço prestado pelos adidos nas seguintes categorias:
+Condutor de motorizadas;
+Condutor de transportes colectivos;
+Motorista de transportes colectivos;
+Operador de máquinas pesadas de 1.ª classe, de 2.ª classe e de 3.ª classe;
+Motorista auxiliar;
+Agente motorista.
+3 - As alterações de vencimentos só produzirão efeitos retroactivos a 1 de Julho de 1979 se a prova da contagem do tempo de serviço tiver sido apresentada na Direcção-Geral de Recrutamento e Formação até 31 de Dezembro de 1980;
+4 - O disposto nos preceitos anteriores aplica-se ao pessoal oriundo do quadro geral de adidos que já se encontre integrado nos quadros da Administração.
+Presidência do Conselho de Ministros, 30 de Outubro de 1980. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
