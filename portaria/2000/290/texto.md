@@ -1,0 +1,73 @@
+Portaria n.º 290/2000
+de 25 de Maio
+A presente portaria regula o registo das emissões de valores mobiliários junto do emitente, substituindo o livro de registo de acções, tal como previsto no artigo 305.º do Código das Sociedades Comerciais e na Portaria n.º 647/93, de 7 de Julho, revogados pelo Código dos Valores Mobiliários.
+O registo da emissão é agora exigido para todos os valores mobiliários, continuando a manter a função de registo dos valores mobiliários titulados nominativos que não tenham sido integrados em sistema centralizado nem aqueles em que a emissão seja representada por um só título.
+Disciplina-se a adopção pelo emitente de registo em suporte informático, atendendo-se, nomeadamente, ao disposto no artigo 4.º do Código dos Valores Mobiliários e no Decreto-Lei n.º 290-D/99, de 2 de Agosto.
+Acautela-se a transição do regime anterior estipulando-se que, com a primeira emissão de valores mobiliários do emitente após a entrada em vigor da presente portaria, é aplicável o disposto quanto ao novo modelo de registo e estabelece-se a irreversibilidade da decisão que leve à adopção do modelo agora aprovado.
+Foi ouvida a Comissão do Mercado de Valores Mobiliários.
+Assim, ao abrigo do disposto na alínea a) do n.º 1 do artigo 59.º do Código dos Valores Mobiliários:
+Manda o Governo, pelo Ministro das Finanças, o seguinte:
+1.º
+Âmbito
+A presente portaria aprova o modelo do registo da emissão de valores mobiliários junto do emitente, previsto no artigo 43.º do Código dos Valores Mobiliários.
+2.º
+Suporte
+1 - O registo da emissão de valores mobiliários junto do emitente pode ser feito em suporte de papel ou em suporte informático.
+2 - Se o emitente optar pelo registo em suporte informático:
+a) Uma cópia de segurança do registo é guardada em local distinto;
+b) A utilização do ficheiro do registo depende de código de acesso (password) reservado a pessoas previamente determinadas;
+c) Existem planos de contingência para a protecção do registo em casos de força maior;
+d) São assegurados níveis de inteligibilidade, de durabilidade e de autenticidade equivalentes aos verificados no registo em suporte de papel;
+e) Aplicam-se as regras legais e regulamentares relativas à certificação de documentos electrónicos, nomeadamente no que respeita à intervenção de autoridades credenciadoras e certificadoras, à emissão de chaves e certificados, bem como à aposição de assinatura digital.
+3.º
+Termos de abertura e encerramento
+1 - Os termos de abertura e encerramento do registo são assinados por quem vincule o emitente e por um titular do órgão de fiscalização.
+2 - Do termo de abertura do registo consta a identificação do emitente e a data das assinaturas.
+3 - Do termo de encerramento do registo consta a referência ao número de páginas que compõem o registo e a data das assinaturas.
+4.º
+Inscrições
+1 - O registo é dividido em três partes, reproduzidas, respectivamente, nos anexos I, II e III da presente portaria, que dela fazem parte integrante.
+2 - As instruções de preenchimento constam do anexo IV, que faz parte integrante da presente portaria.
+3 - O preenchimento da parte II pode ser substituído pela junção das listagens dos subscritores dos valores mobiliários, a fornecer pelos intermediários financeiros colocadores.
+4 - As inscrições na parte III referem-se às mudanças de titularidade de valores mobiliários titulados nominativos, da mesma categoria, quando a emissão ou série:
+a) Não seja representada por um só título; ou
+b) Não esteja integrada num sistema centralizado de valores mobiliários.
+5 - As mudanças de titularidade dos valores mobiliários titulados nominativos cuja emissão ou série esteja integrada em sistema centralizado, quanto aos títulos em que essa integração não seja efectiva por não se encontrarem depositados em intermediário financeiro participante nesse sistema, são igualmente inscritas nos termos do número anterior.
+5.º
+Disposições transitórias
+1 - A adopção do modelo previsto na presente portaria é obrigatória para a realização do registo das emissões realizadas após a sua entrada em vigor.
+2 - A adopção voluntária do modelo aprovado pela presente portaria é irreversível.
+6.º
+Entrada em vigor
+A presente portaria entra em vigor no dia 1 de Março de 2000.
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 9 de Maio de 2000.
+
+ANEXO I
+PARTE I
+Vicissitudes da emissão
+(ver tabela no documento original)
+
+ANEXO II
+PARTE II
+Primeiras inscrições
+(artigo 44.º, n.º 1, do Código dos Valores Mobiliários)
+(ver tabela no documento original)
+
+ANEXO III
+PARTE III
+Inscrições de titularidade
+(artigo 102.º do Código dos Valores Mobiliários)
+(ver tabela no documento original)
+
+ANEXO IV
+Instruções de preenchimento
+1 - Número sequencial de inscrições registrais.
+2 - Número de ordem dos valores mobiliários titulados.
+6 - Tratando-se de emissão contínua, a quantidade actualizada dos valores mobiliários emitidos.
+12 - Relativo aos valores mobiliários titulados, no momento da emissão, e em relação aos valores mobiliários escriturais, no momento da sua conversão em titulados.
+13 - Especificação dos direitos que, em relação ao tipo de valor mobiliário, estão especialmente incluídos ou excluídos. Devem ser mencionados, designadamente, os ónus e encargos que estejam previstos nas condições da emissão (por exemplo, limitações à transmissibilidade dos valores mobiliários).
+18 - Especificar se a conversão é de valores mobiliários titulados em escriturais, ou vice-versa. No caso de se tratar de conversão de valores mobiliários titulados em escriturais, deve também constar a menção do número de conta prevista no n.º 1 do artigo 50.º do Código dos Valores Mobiliários.
+20 - Especificar se a conversão é de valores mobiliários ao portador em nominativos, ou vice-versa.
+22 - Especificar a alteração do conteúdo dos valores mobiliários, nomeadamente quando estejam em causa obrigações convertíveis em acções ou outros valores mobiliários, conversão de acções de fruição em acções de capital ou de acções ordinárias em acções preferenciais sem voto.
+24 e 25 - A integração e a exclusão aqui previstas dizem respeito à integração dos valores mobiliários em causa em um dos sistemas previstos nos artigos 62.º e 63.º, no n.º 2 do artigo 64.º, no artigo 88.º, na alínea b) do n.º 1 e no n.º 2 do artigo 99.º, todos do Código dos Valores Mobiliários.
+32 - Identificação do intermediário financeiro a que se refere a alínea f) do n.º 1 do artigo 44.º do Código dos Valores Mobiliários.
