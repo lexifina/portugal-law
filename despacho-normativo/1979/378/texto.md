@@ -1,0 +1,17 @@
+Despacho Normativo n.º 378/79
+Através da Resolução do Conselho de Ministros de 7 de Dezembro, publicada no Diário da República, 1.ª série, n.º 296, de 26 de Dezembro de 1979, foram traçadas novas linhas gerais de política do azeite para a presente campanha, salientando-se desde logo as características do azeite como produto alimentar.
+De facto, sendo o azeite um produto preponderante na economia agrícola do País, parece justificável, a todos os níveis, a defesa e o melhoramento da nossa olivicultura, quer como contributo da economia, quer como forma de manter no mercado essa gordura vegetal, correspondendo assim à sua actual procura.
+A fim de implementar este pressuposto, procedeu-se aos estudos técnico-económicos necessários, com base nos quais se estabelecem os valores constantes deste despacho normativo.
+Nestes termos:
+Ao abrigo do disposto na alínea l) do artigo 3.º e no artigo 32.º do Decreto-Lei n.º 426/72, de 31 de Outubro, determina-se o seguinte:
+1 - O IAPO adquirirá o azeite virgem da campanha de 1979-1980 com acidez até 4º que a produção lhe proponha para venda até 30 de Junho de 1980, aos preços constantes da tabela anexa.
+2 - Os industriais e comerciantes não serão contemplados pela disposição do número anterior.
+3 - É autorizado o IAPO a contrair na Caixa Geral de Depósitos um empréstimo, até ao montante de 900000 contos, para a compra de azeite, a utilizar fraccionadamente, de acordo com as efectivas necessidades mensais de fundos para a execução destas operações.
+4 - Este despacho entra imediatamente em vigor.
+Ministérios da Agricultura e Pescas e do Comércio e Turismo, 18 de Dezembro de 1979. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço. - O Ministro do Comércio e Turismo, Acácio Manuel Pereira Magro.
+
+TABELA
+Preços de garantia por litro de azeite da campanha de 1979-1980 colocado em bidões do IAPO na estação de caminho de ferro mais próxima do armazém do produtor.
+(ver documento original)
+Escala de diferenciais em função da acidez
+(ver documento original)
