@@ -6,7 +6,7 @@ A liquidação e o pagamento do imposto competem às seguintes entidades:
 
 a) Notários, conservadores dos registos civil, comercial, predial e de bens móveis e outras entidades públicas, incluindo os estabelecimentos e organismos do Estado, relativamente aos actos, contratos e outros factos em que sejam intervenientes, e quando, nos termos da alínea n) do artigo anterior, os contratos ou documentos lhes sejam apresentados para qualquer efeito legal;
 
-b) Entidades concedentes do crédito, peticionárias da garantia ou credoras dos juros, prémios, comissões e outras contraprestações;
+b) Entidades concedentes do crédito e da garantia ou credoras dos juros, prémios, comissões e outras contraprestações;
 
 c) Instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas residentes que tenham intermediado operações de crédito, garantias peticionadas ou juros, comissões e outras contraprestações devidos por residentes em território nacional a instituições de crédito ou sociedades financeiras domiciliadas fora deste território;
 
