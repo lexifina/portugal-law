@@ -1,0 +1,8 @@
+Resolução do Conselho de Ministros n.º 41/83
+Considerando o elevado défice da rubrica de transportes da balança de transacções correntes, reflexo do fraco grau de participação da frota de comércio nacional nos tráfegos de abastecimento do País em bens essenciais e do crescente recurso ao afretamento de navios estrangeiros;
+Considerando a necessidade de renovação/modernização das frotas nacionais de transporte marítimo e de pesca, dentro de uma estratégia realista e coerente de desenvolvimento sustentado destes sectores de actividade económica;
+Considerando as graves dificuldades económico-financeiras sentidas pela indústria nacional de construção naval, reflexo da recessão verificada nos últimos anos quanto às respectivas carteiras de encomendas:
+O Conselho de Ministros, reunido em 25 de Agosto de 1983, deliberou:
+1 - Incumbir os Ministros das Finanças e do Plano, da Indústria e Energia, do Comércio e Turismo e do Mar de apresentarem no prazo máximo de 120 dias um projecto de estratégia integrada visando a melhoria da participação dos transportes na balança de transacções correntes, a modernização das frotas da marinha do comércio e das pescas e o melhor aproveitamento das capacidades produtivas disponíveis nos estaleiros nacionais.
+2 - Que tal estratégia, depois de aprovada em Conselho de Ministros, sirva de enquadramento das regras pelas quais se deve reger e disciplinar a celebração de contratos a prazo entre o armamento e os grandes importadores ou exportadores do sector público, por um lado, e entre o mesmo armamento e os estaleiros nacionais, por outro.
+Presidência do Conselho de Ministros. - O Vice-Primeiro-Ministro, Carlos Alberto da Mota Pinto.
