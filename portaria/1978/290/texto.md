@@ -1,0 +1,23 @@
+Portaria n.º 290/78
+de 30 de Maio
+O Estatuto do Pessoal de Enfermagem, Técnico e Auxiliar de Medicina, aprovado pela Portaria n.º 728/73, de 22 de Outubro, estabelece no artigo 173.º que o pessoal de enfermagem em serviço domiciliário tem direito a uma gratificação mensal para compensação dos prováveis encargos com transportes no valor de 600$00, quando não utilizar transporte da instituição.
+Por outro lado, por força do disposto nos artigos 108.º, 119.º e 152.º do mesmo Estatuto, os profissionais de enfermagem encontram-se vinculados a prestar serviço em dias de descanso semanal e feriados, tendo direito, todavia, a descansar num dos três dias seguintes e a ser pagos pelo dobro da retribuição normal.
+A aplicação destas disposições tem suscitado diversos problemas. Efectivamente, a verba prevista no artigo 173.º, face aos aumentos de preço dos combustíveis e do material de manutenção dos veículos auto móveis, encontra-se desajustada às realidades actuais.
+Por outro lado, a redacção rígida dada à mesma disposição não permite a sua adaptação aos vários condicionalismos locais.
+Relativamente à prestação dos serviços de enfermagem aos domingos e feriados, a experiência tem revelado que se torna aconselhável a sua regulamentação por forma que, sem descurar os direitos dos utentes, sejam igualmente salvaguardados os direitos dos trabalhadores.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, o seguinte:
+1.º O artigo 173.º do Estatuto do Pessoal de Enfermagem, Técnico e Auxiliar de Medicina passa a ter a seguinte redacção:
+Artigo 173.º
+(Transportes em serviço domiciliário)
+1 - As comissões de gestão dos serviços distritais dos Serviços Médico-Sociais podem acordar com os enfermeiros de visitas domiciliárias aos quais não sejam facultados meios de deslocação pelos serviços, ouvido o enfermeiro-superintendente ou quem o substitua, na atribuição de uma verba mensal fixa, compreendida entre os limites mínimo e máximo de 600$00 e 1500$00, respectivamente, como compensação dos encargos de transporte.
+2 - As verbas acordadas nos termos do número anterior devem ser calculadas tendo em consideração o tipo de transporte utilizado, a média das distâncias percorridas e outras circunstâncias que possam influenciar o custo de transporte.
+3 - Os acordos que venham a ser estabelecidos nos termos dos números que antecedem ou as suas alterações só entrarão em vigor depois de homologados pela comissão instaladora dos Serviços Médico-Sociais.
+2.º Na prestação da assistência de enfermagem domiciliária que não deva sofrer interrupção em dias de descanso semanal ou feriados, deverão observar-se as seguintes regras:
+a) Sempre que possível - quer pela dimensão do posto clínico, quer pela associação de vários postos da mesma zona -, deverão ser elaboradas escalas de serviço, a fim de possibilitar que um dos elementos da escala assegure toda a assistência nos dias de descanso semanal ou feriados;
+b) Na impossibilidade de ser adoptado o sistema preconizado na alínea anterior, os profissionais deverão garantir, a título individual, a assistência de enfermagem nos referidos dias;
+c) Na hipótese referida na alínea b), os profissionais de enfermagem poderão ser dispensados da prestação de trabalho, desde que o solicitem com a antecedência considerada suficiente para que os Serviços Médico-Sociais possam assegurar, de outro modo, a assistência de enfermagem;
+d) Pelo trabalho efectivamente prestado, os profissionais terão direito a ser remunerados pelo dobro da retribuição normal e a ser reembolsados das despesas de transporte de harmonia com as regras em vigor;
+e) Se o tempo de serviço prestado for igual ou superior a três horas, os profissionais terão direito a um dia de descanso num dos três dias seguintes; se for inferior, o período de descanso será de meio dia;
+f) Aos responsáveis pelos serviços de enfermagem compete proceder ao contrôle, através das guias de tratamento, do serviço prestado nos termos da presente portaria.
+Secretaria de Estado da Saúde, 30 de Março de 1978. - O Secretário de Estado da Saúde, Mário Luís Mendes.
