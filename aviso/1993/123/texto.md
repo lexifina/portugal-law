@@ -1,0 +1,3 @@
+Aviso n.º 123/93
+Por ordem superior se torna público que o representante permanente da República Portuguesa em Nova Iorque depositou, junto do Secretário-Geral das Nações Unidas, a 27 de Abril de 1993, a Declaração Que Estende ao Território de Macau a Aplicação do Pacto Internacional sobre os Direitos Civis e Políticos e o Pacto Internacional sobre os Direitos Económicos, Sociais e Culturais, aprovada pela Resolução da Assembleia da República n.º 41/92, de 17 de Dezembro, publicada no Diário da República, n.º 301, de 31 de Dezembro de 1992.
+Direcção-Geral dos Negócios Político-Económicos, 13 de Maio de 1993. - O Subdirector-Geral, Vasco Bramão Ramos.
