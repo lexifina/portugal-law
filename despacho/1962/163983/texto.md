@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar a habilitação do curso de Comércio, regulado pelo Decreto n.º 20420, de 20 de Outubro de 1931, como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento nos lugares de escriturários e de oficiais do quadro do pessoal administrativo da Intendência-Geral dos Abastecimentos, fixado pelo Decreto-Lei n.º 39108, de 16 de Fevereiro de 1953.
+Presidência do Conselho, 23 de Julho de 1962. - Pelo Presidente do Conselho, o Ministro de Estado, José Gonçalo da Cunha Sottomayor Correia de Oliveira.
