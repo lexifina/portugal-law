@@ -1,0 +1,50 @@
+Portaria n.º 917/81
+de 12 de Outubro
+A Escola Superior de Medicina Dentária de Lisboa foi criada pelo Decreto-Lei n.º 282/75, de 6 de Junho, tendo iniciado o seu funcionamento no ano lectivo de 1977-1978, ministrando o 4.º ano da licenciatura em Medicina Dentária a estudantes já titulares dos três primeiros anos da licenciatura em Medicina.
+O plano de estudos que agora se aprova, com a duração de seis anos, representa um plano intermédio até que o crescimento e a consolidação da Escola Superior de Medicina Dentária de Lisboa permitam organizar um plano de estudos de raiz em que, sem prejuízo da colaboração de outros estabelecimentos de ensino superior, se ministre uma formação claramente mais orientada, desde o início, para a licenciatura em Medicina Dentária e cuja duração virá a ser, aliás de acordo com padrões internacionais e com o disposto no n.º 1 do artigo 6.º do Decreto-Lei n.º 282/75, de apenas cinco anos.
+Homologam-se igualmente os planos de estudos transitórios que vigoraram nos anos lectivos de 1977-1978, 1978-1979 e 1979-1980.
+Nestes termos:
+Ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 282/75, de 6 de Junho:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e das Universidades:
+ARTIGO 1.º
+(Plano de estudos)
+1 - É aprovado o plano de estudos do curso da licenciatura em Medicina Dentária pela Escola Superior de Medicina Dentária de Lisboa (ESMDL).
+2 - O 1.º ao 3.º anos são os do curso da licenciatura em Medicina pelas universidades portuguesas ou equivalente.
+3 - O 4.º ao 6.º anos são os constantes do anexo I a esta portaria.
+4 - O presente plano vigora integralmente desde o ano lectivo de 1980-1981.
+ARTIGO 2.º
+(Precedências)
+A tabela e regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico.
+ARTIGO 3.º
+(Candidatura)
+1 - São admitidos à candidatura à matrícula e inscrição no 4.º ano os alunos que tenham concluído o 1.º, 2.º e 3.º anos da licenciatura em Medicina pelas universidades portuguesas ou equivalente nos termos da lei.
+2 - A matrícula e inscrição está sujeita a numerus clausus, fixado anualmente por despacho do Ministro da Educação e das Universidades.
+3 - A candidatura à matrícula e inscrição decorrerá anualmente de 1 a 15 de Setembro.
+4 - A selecção dos candidatos será feita com base em critérios definidos pelo conselho científico, ouvido o conselho pedagógico, e sujeitos à aprovação do director-geral do Ensino Superior.
+5 - Os resultados serão tornados públicos até 25 de Setembro.
+ARTIGO 4.º
+(Candidatura condicional)
+1 - Serão admitidos condicionalmente à candidatura os estudantes que reúnam as condições necessárias à conclusão da habilitação referida no artigo 3.º, n.º 1, na época de exames de recurso de Outubro.
+2 - Caso sejam admitidos à matrícula e inscrição, só a poderão concretizar após a obtenção da referida habilitação.
+3 - Caso até 31 de Outubro não obtenham a referida habilitação, serão chamados à matrícula e inscrição os candidatos seguintes da lista ordenada resultante da aplicação dos critérios referidos no artigo 3.º, n.º 4, até ao preenchimento do numerus clausus.
+ARTIGO 5.º
+(Classificação final)
+1 - A classificação final da licenciatura é a média aritmética simples arredondada (tomando como unidade a fracção não inferior a cinco décimas) das classificações das disciplinas que integram o plano de estudos.
+2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.
+ARTIGO 6.º
+(Homologação dos planos anteriores)
+1 - São homologados os planos de estudos que vigoraram nos anos lectivos de 1977-1978, 1978-1979 e 1979-1980.
+2 - Os do 1.º ao 3.º anos são os da licenciatura em Medicina pelas universidades portuguesas ou equivalente legal.
+3 - Os do 4.º ao 6.º anos são os constantes do anexo II a esta portaria.
+Ministério da Educação e das Universidades, 22 de Setembro de 1981. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo.
+
+ANEXO I
+Plano de estudos da licenciatura em Medicina Dentária pela Escola Superior de Medicina Dentária de Lisboa para os anos lectivos de 1980-1981 e seguintes.
+Escola Superior de Medicina Dentária de Lisboa
+Curso de Medicina Dentária
+Grau: licenciatura
+(ver documento original)
+
+ANEXO II
+Planos de estudos da licenciatura em Medicina Dentária pela Escola Superior de Medicina Dentária de Lisboa que vigoraram em 1977-1978, 1978-1979 e 1979-1980.
+(ver documento original)
