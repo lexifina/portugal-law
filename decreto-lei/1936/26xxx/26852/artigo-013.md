@@ -1,6 +1,6 @@
 # Artigo 13.º
 
-1. As instalações eléctricas de 5.ª categoria não necessitam de licença para o estabelecimento, mas ficam permanentemente sujeitas à fiscalização técnica do Governo, bem como à fiscalização exercida pelo respectivo distribuidor público, o qual deverá proceder à vistoria dessas instalações antes da sua entrada em exploração.
+1 - As instalações eléctricas de 5.ª categoria não necessitam de licença para o estabelecimento, mas estão permanentemente sujeitas à fiscalização das delegações regionais do Ministério da Indústria e Energia e à inspecção exercida pelas associações inspectoras de instalações eléctricas antes da sua entrada em exploração.
 
 2. Os elevadores eléctricos, escadas e tapetes rolantes destinados ao transporte de pessoas, ou semelhantes, não poderão entrar em exploração antes de terem sido vistoriados pela respectiva direcção de fiscalização eléctrica.
 
