@@ -6,7 +6,7 @@
 
 2 - A contagem dos prazos das licenças inicia-se sempre no dia 1 de Abril.
 
-3 - As licenças caducam imediatamente quando deixem de subsistir os requisitos previstos nas alíneas a) a f) do n.º 3 do artigo 5.º e no artigo 9.º e devem ser cassadas, pela DRT, antes do termo do respectivo prazo e sem direito a indemnização, se:
+3 - As licenças caducam imediatamente quando deixem de subsistir os requisitos previstos nas alíneas a) a f) do n.º 3 do artigo 5.º e no artigo 9.º e devem ser cassadas pela DRT, antes do termo do respectivo prazo e sem direito a indemnização, se:
 
 a) Devido a risco, actual ou potencial, para os cetáceos e ou para a qualidade e imagem do produto turístico, a DRT notificar os titulares da cassação das licenças com a antecedência mínima de um ano;
 
