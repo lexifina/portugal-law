@@ -1,0 +1,3 @@
+Declaração
+De Harmonia com o disposto no artigo 34.º, n.º 7, do Decreto n.º 43090, de 27 de Julho de 1960, faz-se público que o Conselho de Ministros, por despacho de 14 do corrente mês de Outubro, concedeu a reaquisição da nacionalidade portuguesa, ao abrigo do disposto na base XXIII da Lei n.º 2098, de 29 de Julho de 1959, a Raimundo Gonçalves do Nascimento, nascido em Casablanca, Marrocos, a 19 de Dezembro de 1934, e actualmente residente em França, na cidade de Marselha.
+Secretaria-Geral da Presidência do Conselho, 21 de Outubro de 1966. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
