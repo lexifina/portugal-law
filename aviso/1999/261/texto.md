@@ -1,0 +1,4 @@
+Aviso n.º 261/99
+Por ordem superior se torna público que foi assinado em Lisboa, aos 20 de Outubro de 1998, o Tratado de Auxílio Judiciário Mútuo em Matéria Penal entre a República Portuguesa e os Estados Unidos Mexicanos, que foi aprovado pela Resolução da Assembleia da República n.º 48/99, publicada no Diário da República, 1.ª série-A, de 30 de Junho de 1999, e ratificado pelo Decreto do Presidente da República n.º 150/99, de 30 de Junho.
+Trocados os instrumentos de ratificação, em 11 de Novembro de 1999, e de acordo com o n.º 2 do artigo 19.º («Entrada em vigor e denúncia»), o Tratado de Auxílio Judiciário Mútuo em Matéria Penal entre a República Portuguesa e os Estados Unidos Mexicanos entrará em vigor em 1 de Janeiro de 2000, ou seja, no 1.º dia do 2.º mês seguinte àquele em que teve lugar a troca daqueles instrumentos de ratificação.
+Departamento de Assuntos Jurídicos, 2 de Dezembro de 1999. - O Director, José Maria Teixeira Leite Martins.
