@@ -1,0 +1,12 @@
+Resolução da Assembleia da República n.º 69/2000
+Carta dos Direitos Fundamentais da União Europeia
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, o seguinte:
+1 - Tomar nota dos contributos, propostas e observações gerais dos seus representantes na Convenção e aprovar o sentido fundamental dessa intervenção.
+2 - Entender que deve ser contrariada a tendência para condicionar os trabalhos da Convenção ao calendário da presidência francesa, com prejuízo de um trabalho aprofundado dentro do prazo fixado pelos Conselhos Europeus de Colónia e Tampere que termina só no final do ano em curso.
+3 - Declarar-se a favor de uma Carta dos Direitos Fundamentais que possa ser aprovada pelos Governos e Parlamentos dos Estados membros como instrumento vinculativo, com valor de direito originário, cujas normas sejam garantidas mediante tutela jurisdicional.
+4 - Considerar que a principal função da Carta deverá ser dar aos direitos fundamentais, decorrentes da ordem jurídica comunitária - no respeito do princípio da indivisibilidade e igual importância dos direitos civis e políticos e dos direitos económicos, sociais e culturais -, a dignidade formal e material correspondente, densificando e actualizando, através de normas, a protecção dos direitos fundamentais consagrada no artigo 6.º do Tratado da UE, por referência aos princípios gerais de direito definidos à luz da Convenção Europeia de Salvaguarda dos Direitos do Homem e das Liberdades Fundamentais (CEDH) e das tradições constitucionais comuns aos Estados membros, bem como da Carta Social Europeia e do Direito Internacional em Geral. Assim, a Carta reforçará a legitimidade política e moral de uma organização singular como a União Europeia, que, por atribuição dos tratados constitutivos, exerce já amplos poderes de carácter político que se repercutem na esfera jurídica de pessoas.
+5 - Considerar que a Carta deveria também definir deveres e responsabilidades dos cidadãos perante a União Europeia.
+6 - Defender que a presente revisão dos tratados viabilize a adesão da União à Convenção Europeia de Salvaguarda dos Direitos do Homem e das Liberdades Fundamentais.
+7 - Manifestar o seu empenho na continuação e aprofundamento do debate sobre a Carta - experiência inovadora com importantes lições -, apelando à intervenção activa dos cidadãos e das suas organizações representativas.
+Aprovada em 4 de Outubro de 2000.
+O Presidente da Assembleia da República, António de Almeida Santos.
