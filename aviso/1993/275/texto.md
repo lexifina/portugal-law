@@ -1,0 +1,3 @@
+Aviso n.º 275/93
+Por ordem superior se torna público que a Grécia, a Libéria, Santa Luzia, Marrocos e Camarões depositaram junto do Secretário-Geral das Nações Unidas, a 11 de Maio e a 4, 16, 21 e 22 de Junho de 1993, respectivamente, o instrumento de ratificação e o Mónaco e a Arménia depositaram, a 21 e 23 de Junho de 1993, respectivamente, o instrumento de adesão à Convenção sobre os Direitos da Criança, adoptada pela Assembleia Geral das Nações Unidas a 20 de Novembro de 1989.
+Direcção-Geral dos Negócios Político-Económicos, 30 de Novembro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
