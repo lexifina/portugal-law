@@ -1,0 +1,6 @@
+Portaria n.º 375/80
+de 7 de Julho
+Nos termos do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, observados os critérios estabelecidos na Resolução do Conselho de Ministros n.º 354-B/79, de 14 de Dezembro:
+Manda o Governo da República Portuguesa, pelos Ministros dos Assuntos Sociais, por delegação do Primeiro-Ministro dada ao abrigo do Despacho Normativo n.º 34/80, de 24 de Janeiro, e das Finanças e do Plano e pelo Secretário de Estado da Reforma Administrativa, de acordo com a competência delegada pelo Despacho Normativo n.º 18/80, de 10 de Janeiro, o seguinte:
+O regime constante do Decreto-Lei n.º 191-F/79, de 26 de Junho, é aplicável aos cargos de secretário nacional e secretário-adjunto do quadro de pessoal do Secretariado Nacional de Reabilitação, anexo ao Decreto-Lei n.º 346/77, de 20 de Agosto, os quais se consideram, para todos os efeitos legais, equiparados aos de director-geral e subdirector-geral, respectivamente.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Assuntos Sociais, 23 de Junho de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
