@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público ter o Governo da Somália depositado, junto do Secretário-Geral das Nações Unidas, em 24 de Janeiro de 1990, os instrumentos de adesão ao Pacto Internacional Relativo aos Direitos Económicos, Sociais e Culturais, ao Pacto Internacional Relativo aos Direitos Civis e Políticos e ao Protocolo Facultativo ao Pacto Internacional Relativo aos Direitos Civis e Políticos, todos adoptados pela Assembleia Geral das Nações Unidas em 16 de Dezembro de 1966.
+Direcção-Geral dos Negócios Político-Económicos, 7 de Maio de 1990. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu Soares.
