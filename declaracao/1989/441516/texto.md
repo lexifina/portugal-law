@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 14.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério das Finanças, a declaração de transferência de verbas publicada no Diário da República, 1.ª série, n.º 76, de 1 de Abril de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Em 13 - Ministério do Emprego e da Segurança Social - Div. 15 - Segurança Social - Subdiv. 02 - GSESS - Equip. serviço invalidez de reabilitação - C. E. 54.00 - Transferências - Sector público - 54.05 - Segurança Social, onde se lê «54.05 - Instituto de Gestão Financeira da Segurança Social» deve ler-se «54.05.1 - Instituto de Gestão Financeira da Segurança Socia».
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Abril de 1989. - O Secretário-Geral, França Martins.
