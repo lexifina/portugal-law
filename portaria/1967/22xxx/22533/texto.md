@@ -1,0 +1,13 @@
+Portaria n.º 22533
+Havendo toda a conveniência em centralizar, por agora, numa única farmácia, em Lisboa, todos os serviços previstos no artigo 28.º e seu § único do Regulamento do Serviço de Saúde da Polícia de Segurança Pública, aprovado pela Portaria n.º 17788, de 4 de Julho de 1960, e dotá-la dos meios técnicos e administrativos indispensáveis ao seu bom funcionamento, entendeu-se por bem rever algumas disposições daquele regulamento e dar ao Comando-Geral da Polícia de Segurança Pública a possibilidade de estabelecer as directrizes a que deve obedecer o funcionamento da farmácia de Lisboa.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro do Interior, em execução do Decreto-Lei n.º 42942, de 25 de Abril de 1960, o seguinte:
+1.º Os artigos 28.º e seu § único, 29.º e 30.º do Regulamento do Serviço de Saúde da Polícia de Segurança Pública, aprovado pela Portaria n.º 17788, de 4 de Julho de 1960, passam a ter a seguinte redacção:
+Art. 28.º É criada uma farmácia em Lisboa, podendo ter laboratório de análises anexo, directamente subordinada ao Comando-Geral.
+§ único. A farmácia será dirigida por um técnico farmacêutico.
+Art. 29.º Compete ao técnico farmacêutico dirigir e orientar os órgãos do respectivo serviço de modo a poderem fornecer os seus produtos ao serviço de saúde da Polícia de Segurança Pública, aos Serviços Sociais da mesma corporação, a todo o pessoal em serviço e aos familiares referidos na alínea c) do artigo 3.º, só podendo efectuar fornecimentos a outras entidades mediante autorização ministerial.
+Art. 30.º Os órgãos do serviço farmacêutico ficarão subordinados tècnicamente à chefia do serviço de saúde e disciplinarmente ao Comando-Geral.
+2.º É criado o conselho administrativo da farmácia da Polícia de Segurança Pública, ficando a reger-se pelas normas em vigor para os comandos de polícia, em harmonia com as disposições do Decreto-Lei n.º 39497, de 31 de Dezembro de 1953, e seu regulamento, aprovado pelo Decreto n.º 39550, de 26 de Fevereiro de 1954, que administrará um fundo privativo a constituir com receitas próprias.
+§ único. Para os fins designados neste artigo, o conselho administrativo será constituído pelo chefe do estado-maior do Comando-Geral, exercendo as funções de presidente, um chefe de repartição, de secção ou de serviços a designar pelo comandante-geral, com as funções de secretário, e o técnico farmacêutico, com as de tesoureiro.
+3.º O funcionamento da farmácia obedecerá às directivas do comandante-geral da Polícia de Segurança Pública.
+Ministério do Interior, 24 de Fevereiro de 1967. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.
