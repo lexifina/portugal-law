@@ -1,0 +1,6 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto n.º 80/81, publicado no Diário da República, 1.ª série, n.º 141, de 23 de Junho de 1981, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 3.º onde se lê «1 - As exigências mínimas em matéria de ensino e de formação do pessoal de enfermagem e a orientação desse ensino e dessa formação serão previstas pela legislação nacional ou pela autoridade ou pelos organismos profissionais competentes, habilitados para esse fim pela legislação nacional» deve ler-se «1 - As exigências de base em matéria de ensino e de formação do pessoal de enfermagem e a orientação desse ensino e dessa formação serão previstas pela legislação nacional ou pela autoridade ou pelos organismos profissionais competentes, habilitados para esse fim pela legislação nacional».
+No mesmo artigo deve ser acrescentado um n.º 2, com a seguinte redacção:
+2 - O ensino e a formação do pessoal de enfermagem serão coordenados com o ensino e a formação prestados aos outros trabalhadores do domínio da saúde.
+Secretaria-Geral da Presidência do Conselho de Ministros, 11 de Novembro de 1981. - O Secretário-Geral, França Martins.
