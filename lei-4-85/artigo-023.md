@@ -8,6 +8,6 @@
 
 1 - Os membros do Conselho de Estado têm direito ao reembolso das despesas de transporte, público ou privado, que realizem no exercício ou por causa das suas funções.
 
-2 - Os membros do Conselho de Estado têm ainda direito às ajudas de custo fixadas para os membros do Governo, abonadas pelo dia ou dias seguidos de presença em reunião do Conselho.
+2 - Os membros do Conselho de Estado têm ainda direito às ajudas de custo fixadas para os membros do Governo, abonadas pelo dia ou dias seguidos de presença em reunião do Conselho e mais 2.
 
 3 - O disposto neste artigo só é aplicável aos membros do Conselho de Estado designados pelo Presidente da República ou eleitos pela Assembleia da República.

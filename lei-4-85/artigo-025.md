@@ -15,5 +15,3 @@
 6 - Nos casos previstos nos n.os 4 e 5 os beneficiários da subvenção podem optar pela subvenção mensal vitalícia a que eventualmente tenham direito nos termos do n.º 1 do artigo 24.º
 
 7 - Para efeitos do cálculo da subvenção mensal vitalícia é contado o tempo de exercício do mandato de deputado à Assembleia Constituinte, desde a data da eleição, aplicando-se aos deputados que tenham sido reeleitos na primeira legislatura da Assembleia da República, o disposto no n.º 1 do artigo 156.º da Constituição.
-
-8 - Os titulares dos cargos referidos no n.º 1 do artigo 24.º que exerçam funções em regime de acumulação auferirão um máximo de 50% do montante referido no n.º 1.

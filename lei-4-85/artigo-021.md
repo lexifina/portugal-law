@@ -1,11 +1,11 @@
 ## Capítulo VII
 
-## Representantes da República nas Regiões Autónomas
+## Ministros da República para as regiões autónomas
 
 # Artigo 21.º
 
-### (Remunerações dos Representantes da República nas Regiões Autónomas)
+### (Remunerações dos ministros da República para as regiões autónomas)
 
-1 - Os Representantes da República nas Regiões Autónomas percebem mensalmente um vencimento correspondente a 65% do vencimento do Presidente da República.
+1 - Os ministros da República para as regiões autónomas percebem mensalmente um vencimento correspondente a 65% do vencimento do Presidente da República.
 
-2 - Os Representantes da República nas Regiões Autónomas têm direito a um abono mensal para despesas de representação no valor de 40% do respectivo vencimento.
+2 - Os ministros da República para as regiões autónomas têm direito a um abono mensal para despesas de representação no valor de 40% do respectivo vencimento.
