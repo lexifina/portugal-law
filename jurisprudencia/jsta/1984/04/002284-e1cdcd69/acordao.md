@@ -1,0 +1,57 @@
+# Acórdão do Supremo Tribunal Administrativo de 1984-04-11, processo 002284
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 002284
+
+**Data do Acordão:** 04/11/1984
+
+**Tribunal:** PLENO
+
+**Relator:** MANUEL SALVADOR
+
+**Descritores:** IMPOSTO DE TRANSACÇÕES; GROSSISTA; VERIFICAÇÃO DE REGULARIDADE; DECLARAÇÃO MODELO 5; DECLARAÇÃO MODELO 6; RESPONSABILIDADE DO ALIENANTE
+
+**Nº Convencional:** JSTA00002241
+
+**Nº do Documento:** SAP19840411002284
+
+**Data de Entrada:** 02/17/1983
+
+**Recorrente:** FAZENDA NACIONAL
+
+**Recorrido 1:** MARTINI & ROSSI LDA
+
+**Votação:** MAIORIA COM 4 VOT VENC
+
+**Ano da Publicação:** 0
+
+**Página:** 0
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 07/30/1986
+
+**1ª Pág. de Publicação do Acordão:** 221
+
+**Referência Publicação 1:** AD N272-273 ANOXXIII PAG1049
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC 2 SECÇÃO.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR FISC - TRANSACÇÕES.
+
+**Legislação Nacional:** CCIV66 ART487.; CIT66 ART51 ART53 ART65 ART66.; DL 374-B/79.; DL 400/80.
+
+**Jurisprudência Nacional:** AC STA DE 1983/04/27.; AC STJ DE 1978/11/30 IN BMJ N281 PAG328.
+
+**Referência a Doutrina:** BAPTISTA MACHADO AMBITO DE EFICACIA E AMBITO DE COMPETENCIA DAS LEIS PAG211.; VAZ SERRA IN BOLETIM OFICIAL N4 PAG21.; CASTANHEIRA NEVES IN RLJ N110 PAG369.; MANUEL ANDRADE NOÇÕES ELEMENTARES DE PROCESSO CIVIL PAG30.; ALMEIDA COSTA IN RLJ N116 PAG104.; FIGUEIREDO DIAS O PROBLEMA DA CONSCIENCIA DA ILICITUDE EM DIREITO PENAL PAG328.; ALBERTO XAVIER MANUAL DE DIREITO FISCAL VI PAG146.; DUARTE FAVEIRO FISCALIDADE NACIONAL CONTEMPORANEA PAG8.; RODRIGUES PARDAL QUESTÕES DE PROCESSO FISCAL PAG44.; CARDOSO MOTA ESBOÇO VI PAG174.; ANTUNES VARELA DAS OBRIGAÇÕES 3ED VI PAG466.; PHILIPP HECK INTERPRETAÇÃO DA LEI PAG13.; Texto Integral
+
+## Sumário
+
+Cabe ao alienante grossista verificar a veracidade das declarações de responsabilidade modelo 6.
