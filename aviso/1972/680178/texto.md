@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do Departamento Político Federal da Suíça, o Governo dos Estados Unidos da América depositou, em 29 da Fevereiro de 1972, o seu instrumento de adesão ao Acordo da Nice Relativo à Classificação Internacional dos Produtos e Serviços aos Quais Se Aplicam as Marcas, de Fábrica ou de Comércio, concluído em 15 de Junho de 1957.
+Nos termos do artigo 16, alínea 3, da Convenção de Paris para a Protecção da Propriedade Industrial, para a qual remete o artigo 6, alínea 2, do Acordo de Nice, e a pedido expresso nesse sentido formulado por aquele Governo, a referida adesão começará a produzir os seus efeitos a partir da 25 de Maio de 1972.
+Direcção-Geral das Negócios Económicos, 25 de Abril de 1972. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
