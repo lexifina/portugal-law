@@ -1,0 +1,21 @@
+Portaria n.º 142/2003
+de 10 de Fevereiro
+A Directiva n.º 2000/29/CE, do Conselho, de 8 de Maio, e suas alterações, consagra as medidas de protecção fitossanitária destinadas a evitar a introdução e dispersão de organismos prejudiciais aos vegetais e produtos vegetais na Comunidade.
+Este regime está consagrado na ordem jurídica interna através do Decreto-Lei n.º 14/99, de 12 de Janeiro, republicado pelo Decreto-Lei n.º 517/99, de 4 de Dezembro, na redacção que lhe foi dada pelos Decretos-Leis n.os 63/2000, 160/2000, 269/2001 e 172/2002, respectivamente de 19 de Abril, de 27 de Julho, de 6 de Outubro e de 25 de Julho.
+No âmbito da legislação citada, é proibida a introdução e dispersão na Comunidade da bactéria de quarentena Clavibacter michiganensis (Smith) Davis et al. ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al., causadora da doença podridão anelar da batateira.
+Nos últimos anos, a presença desta bactéria tem sido assinalada no sistema de produção de batata da Dinamarca.
+Mais recentemente, verificou-se a intercepção na Comunidade desta bactéria num lote de batata-semente da variedade Kennebec originário daquele Estado membro.
+Dado que, para a produção de batata, Portugal utiliza quantidades significativas de batata-semente originária da Dinamarca, e estando a decorrer o período de plantação, existe, por isso, um perigo eminente de introdução no nosso país da referida bactéria, o que representa um grave risco para a produção nacional.
+Torna-se, assim, necessário estabelecer medidas fitossanitárias temporárias de emergência destinadas a impedir a introdução e a dispersão da bactéria de quarentena Clavibacter michiganensis (Smith) Davis et al. ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al., no território nacional, relativas a batata-semente originária da Dinamarca.
+Neste sentido, estando em causa a defesa fitossanitária do território nacional, importa divulgar e aplicar aquelas medidas, procedendo à devida publicação.
+Assim:
+Nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 14/99, de 12 de Janeiro:
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+1.º A presente portaria estabelece medidas fitossanitárias temporárias de emergência destinadas a impedir a introdução e a dispersão da bactéria de quarentena Clavibacter michiganensis (Smith) Davis et al. ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al., a seguir designada por organismo prejudicial, no território nacional, relativas a batata-semente originária da Dinamarca.
+2.º Todos os lotes de batata-semente originários da Dinamarca destinados a Portugal ficam sujeitos a notificação antecipada pelos serviços oficiais dinamarqueses de protecção fitossanitária à Direcção-Geral de Protecção das Culturas, na qualidade de autoridade fitossanitária nacional.
+3.º Da notificação referida no número anterior deve obrigatoriamente constar o número do produtor, a variedade, a quantidade/peso e o nome e endereço do destinatário, bem como a data provável de chegada da remessa.
+4.º Todos os lotes de batata-semente originários da Dinamarca destinados a Portugal devem ser submetidos a análise laboratorial para detecção do organismo prejudicial, nos termos do procedimento previsto na Directiva n.º 93/85/CEE, do Conselho, de 4 de Outubro, e transposta para o direito interno pela Portaria n.º 140/95, de 9 de Fevereiro, e vir acompanhados por documento emitido pelos serviços oficiais dinamarqueses de protecção fitossanitária a atestar o resultado do referido teste.
+5.º Aquando da chegada ao nosso país, a batata-semente será sujeita a inspecção fitossanitária, podendo, caso se justifique, ser retirada uma amostra representativa, a qual será submetida a testes laboratoriais oficiais para detecção do organismo prejudicial.
+6.º Os custos resultantes da inspecção e dos testes laboratoriais efectuados serão inteiramente suportados pelos respectivos destinatários, nos termos previstos na Portaria n.º 1434/2001, de 19 de Dezembro.
+7.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 23 de Janeiro de 2003.
