@@ -1,0 +1,4 @@
+Anúncio n.º 6/95
+Faz-se saber que no dia 21 de Junho de 1994 foi instaurado no Supremo Tribunal Administrativo, por Luís João da Luz Brandão Rego, Luís Tiago Ferreira Romero Magalhães e João Paulo de Figueiredo Saraiva, correndo termos pela 2.ª Secção, sob o n.º 18414, um processo de pedido de declaração de ilegalidade, com força obrigatória geral, formulado ao abrigo do artigo 32.º do Estatuto dos Tribunais Administrativos e Fiscais, do despacho regulamentar do Secretário de Estado do Ensino Superior que fixou, nos termos dos n.os 4 do artigo 3.º e 1 do artigo 13.º da Lei n.º 5/94, de 14 de Março, o montante das propinas devidas no ensino superior público para o ano lectivo de 1993-1994.
+Assim, podem os eventuais interessados intervir no processo, nos termos e nos prazos fixados na lei.
+Lisboa, 28 de Junho de 1995. - O Juiz Conselheiro Relator, Benjamim Silva Rodrigues. - A Escriturária, Fátima Santos.
