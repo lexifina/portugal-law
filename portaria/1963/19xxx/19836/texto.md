@@ -1,0 +1,3 @@
+Portaria n.º 19836
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do n.º 3 do artigo 8.º do Decreto n.º 44064, de 28 de Novembro de 1961, seja extinto o posto do registo civil da freguesia de Folques, do concelho de Arganil.
+Ministério da Justiça, 1 de Maio de 1963. - O Ministro da Justiça, João de Matos Antunes Varela.
