@@ -1,0 +1,20 @@
+Decreto n.º 17/92
+de 11 de Março
+A zona da Ameixoeira e Lumiar constitui parte integrante do património da cidade de Lisboa que, pelo seu interesse histórico, importa preservar.
+No entanto, naquela zona são flagrantes as deficientes condições de solidez, segurança e salubridade dos edifícios existentes, que, aliados à insuficiência de infra-estruturas urbanísticas, equipamentos de utilização colectiva, áreas livres e espaços verdes, ameaçam a sua manutenção.
+Deste modo, impõe-se que sejam tomadas medidas tendentes a evitar que a degradação daquele património assuma consequências irreversíveis.
+Aquela área reúne as condições previstas no artigo 41.º do Decreto-Lei n.º 794/76, de 5 de Novembro, que permitem classificá-la como área crítica de recuperação e reconversão urbanística.
+Há, pois, que declará-la como tal, para permitir a intervenção expedita da Câmara Municipal de Lisboa, tendo em vista a execução do respectivo programa de reabilitação urbana.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º Ao abrigo do disposto no artigo 41.º do Decreto-Lei n.º 794/76, de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, que dele faz parte integrante, situada nas freguesias da Ameixoeira e Lumiar, da cidade de Lisboa.
+Art. 2.º Compete à Câmara Municipal de Lisboa promover as acções e o processo de recuperação e reconversão urbanística da área referida no artigo anterior.
+Presidência do Conselho de Ministros, 27 de Janeiro de 1992.
+Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
+Assinado em 10 de Fevereiro de 1992.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 17 de Fevereiro de 1992.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+(ver documento original)
