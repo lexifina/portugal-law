@@ -1,0 +1,9 @@
+Despacho Normativo n.º 108/77
+Considerando o despacho interpretativo dos Ministérios da Administração Interna e das Finanças de 27 de Outubro de 1975;
+Considerando o despacho do Estado-Maior-General das Forças Armadas e do Ministério das Finanças de 16 de Dezembro de 1976 que vem contemplar uma situação específica e característica dos militares que é a passagem da situação do activo à de reserva, com afastamento do serviço, ou da passagem da situação de efectividade de serviço (militares na reserva em comissão de serviço activo) para um igual afastamento definitivo do serviço;
+Tendo em conta que na Guarda Nacional Republicana e na Guarda Fiscal existe, igualmente, a situação de reserva nos mesmos moldes do que se encontra estatuído para as forças armadas;
+Nestes termos, determina-se:
+1. Os militares que, tendo passado à situação de reserva, deixem a efectividade de serviço têm direito no ano da passagem àquela situação ao subsídio de férias, qualquer que seja a data em que tal se verifique.
+2. O disposto no número anterior aplica-se também aos militares na situação de reserva que, tendo sido convocados para prestação de serviço efectivo, deixem a efectividade do mesmo, desde que tenham permanecido nesta situação, depois de convocados, por período não inferior a um ano e não hajam percebido durante esse período qualquer subsídio de férias.
+3. Os herdeiros dos militares do activo e dos referidos nos números anteriores falecidos entre 1 de Janeiro e 1 de Maio poderão, também, habilitar-se ao respectivo subsídio de férias, nos mesmos termos em que o farão para o subsídio de morte, a que se referem os artigos 19.º e 20.º do Decreto-Lei n.º 49031, de 17 de Maio de 1969.
+Ministérios da Administração Interna e das Finanças, 21 de Abril de 1977. - O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira.
