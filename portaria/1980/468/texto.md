@@ -1,0 +1,24 @@
+Portaria n.º 468/80
+de 4 de Agosto
+O Decreto-Lei n.º 175/80, de 29 de Maio, criou um novo quadro regulador do acesso e funcionamento do mercado de transportes públicos ocasionais de mercadorias, diploma de que o sector há muito carecia. Prevê aquele diploma que é condição necessária para a exploração da actividade de transportes públicos ocasionais de mercadorias o preenchimento de determinadas condições de capacidade profissional estabelecidas por portaria.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Transportes, ao abrigo do disposto no artigo 3.º, n.º 3, do Decreto-Lei n.º 175/80, de 29 de Maio, o seguinte:
+1.º - 1 - A Direcção-Geral de Transportes Terrestres reconhece capacidade profissional para o exercício da actividade de transportes públicos ocasionais de mercadorias às pessoas que demonstrem possuir suficientes conhecimentos sobre as seguintes matérias:
+a) Elementos de direito civil, comercial, social e fiscal;
+b) Elementos de gestão comercial e financeira da empresa;
+c) Regulamentação dos transportes;
+d) Segurança rodoviária.
+2 - Por despacho do Ministro dos Transportes e Comunicações, serão definidas as condições de avaliação dos conhecimentos referidos no número anterior.
+3 - A Direcção-Geral de Transportes Terrestres poderá dispensar a avaliação referida no número anterior a pessoas habilitadas com curso que se considere bastante.
+2.º É reconhecida capacidade profissional para o exercício da actividade de transportes públicos ocasionais de mercadorias às pessoas que, possuindo, no mínimo, a escolaridade obrigatória:
+a) Tenham uma experiência prática efectiva e ininterrupta de, pelo menos, três anos como gerentes, directores ou administradores de empresas de transportes públicos de mercadorias adquirida nos dez anos anteriores à data da formulação do pedido de reconhecimento da capacidade profissional;
+b) Sejam motoristas profissionais e tenham, pelo menos, durante cinco anos exercido efectiva e ininterruptamente a profissão na condução de veículos de mercadorias; neste caso, porém, a capacidade profissional é limitada à afectação à actividade de transportes públicos ocasionais de mercadorias de um único veículo ligeiro num raio de acção até 50 km.
+3.º - 1 - É também reconhecida capacidade profissional aos titulares de licenças de aluguer para o transporte de mercadorias concedidas anteriormente à data da publicação da presente portaria, bem como aos que, a esta data, sejam directores, administradores ou gerentes das empresas titulares daquelas licenças.
+2 - O disposto no número anterior e na alínea a) do n.º 2.º não é aplicável aos casos em que as licenças de aluguer tenham sido concedidas ao abrigo do artigo 42.º do Decreto n.º 46066, de 7 de Dezembro de 1964, desde que os seus titulares se dediquem predominantemente à produção ou comércio das mercadorias constantes dos respectivos títulos de licenciamento.
+4.º As pessoas que obtenham por sucessão mortis causa o equipamento afecto ao exercício da actividade de transportes públicos ocasionais de mercadorias devem demonstrar no prazo de dois anos que preenchem as condições de capacidade profissional.
+5.º - 1 - A Direcção-Geral de Transportes Terrestres reconhece capacidade profissional para o exercício da actividade de transportes públicos ocasionais de mercadorias às pessoas singulares que, à data da publicação da presente portaria, sejam titulares, há pelo menos três anos, ininterruptamente, de licenças de circulação, exerçam exclusiva ou predominantemente a actividade transportadora e requeiram o cancelamento das licenças de que sejam titulares.
+2 - A Direcção-Geral de Transportes Terrestres reconhece também capacidade profissional para o exercício da actividade de transportes públicos ocasionais de mercadorias às pessoas que sejam, há pelo menos três anos, directores, administradores ou gerentes de empresas que satisfaçam os requisitos exigidos no número anterior para as pessoas singulares.
+3 - A capacidade profissional reconhecida nos termos dos números anteriores fica limitada à afectação à actividade de transportes públicos ocasionais de mercadorias dos veículos de que a empresa seja proprietária ou de outros que os substituam e só poderá ser colocada ao serviço dessa empresa.
+4 - Os requerimentos para reconhecimento da capacidade profissional nos termos dos n.os 1 e 2 deverão ser entregues na Direcção-Geral de Transportes Terrestres no prazo de um ano a contar da data da entrada em vigor deste diploma, acompanhados dos requerimentos para o cancelamento das licenças de circulação.
+6.º Por despacho do Director-Geral de Transportes Terrestres será fixado o modo de comprovação dos requisitos referidos nos n.os 2.º, 3.º e 5.º
+Secretaria de Estado dos Transportes, 15 de Julho de 1980. - O Secretário de Estado dos Transportes, José Miguel Nunes Anacoreta Correia.
