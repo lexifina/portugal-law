@@ -1,0 +1,6 @@
+Resolução n.º 38/82
+Nos termos da Resolução n.º 249/81, publicada no Diário da República, 1.ª série, de 9 de Dezembro, o Ministro de Estado e das Finanças e do Plano pronunciou-se favoravelmente sobre o interesse da reserva, pelo Estado, do imóvel sede da extinta Empresa Pública do Jornal o Século.
+Com efeito, dada a grande carência de instalações para os serviços públicos, a aquisição do imóvel em causa afigura-se vantajosa, tanto mais que a Direcção-Geral dos Edifícios e Monumentos Nacionais é de parecer que o imóvel referido, pelas suas capacidades e características, reúne inegáveis condições para a instalação de serviços, em especial os que carecem de grandes áreas.
+O processo encontra-se devidamente organizado, nos termos legais, e assim:
+O Conselho de Ministros para os Assuntos Económicos, reunido em 2 de Fevereiro de 1982, resolveu autorizar a Direcção-Geral do Património do Estado a adquirir, de harmonia com o n.º 2 do artigo 1.º do Decreto-Lei n.º 27/79, de 22 de Fevereiro, pelo preço de 185000000$00, o imóvel sito em Lisboa, na Rua do Século, 41 a 63, para a instalação de serviços públicos.
+Presidência do Conselho de Ministros, 2 de Fevereiro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
