@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 2003-02-05, processo 01812/02
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01812/02
+
+**Data do Acordão:** 02/05/2003
+
+**Tribunal:** 3 SUBSECÇÃO DO CA
+
+**Relator:** JORGE DE SOUSA
+
+**Descritores:** LICENÇA DE CONSTRUÇÃO.; ÁREA DE PAISAGEM PROTEGIDA.; PARECER VINCULATIVO.; NULIDADE DE SENTENÇA.; OMISSÃO DE PRONÚNCIA.; ANULABILIDADE.; NULIDADE DO ACTO ADMINISTRATIVO
+
+**Nº Convencional:** JSTA00058752
+
+**Nº do Documento:** SA12003020501812
+
+**Data de Entrada:** 11/27/2002
+
+**Recorrente:** A...
+
+**Recorrido 1:** MINISTÉRIO PÚBLICO - VEREADORA DO PELOURO DE OBRAS DA CM DE ESPOSENDE
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAC DO PORTO DE 2002/05/14.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR URB - LICENCIAMENTO.
+
+**Legislação Nacional:** DL 357/87 DE 1987/12/17 ART6 ART7 ART13 N1 A.; DL 445/91 DE 1991/11/20 ART35 N6.; CPA91 ART136 N2 ART142.
+
+## Sumário
+
+I - Quando o Tribunal consciente e explicitamente deixa de conhecer de qualquer questão, por entender que não o deve fazer, poderá haver erro de julgamento mas não nulidade por omissão de pronúncia.
+
+II - Depende de autorização prévia do director da Área de Paisagem Protegida do Litoral de Esposende (APPLE) a prática de actos e actividades de edificação, construção, remodelação ou reconstrução de quaisquer edificações ou construções de qualquer natureza, naquela área [arts. 6.º, 7.º e 13.º, n.º 1, alínea a), do Decreto-Lei n.º 357/87, de 17 de Novembro].
+
+III - A posição assumida pelo director APPLE, em sentido desfavorável ao pedido de licenciamento tem carácter vinculativo para a Câmara Municipal a quem é dirigido o pedido (art. 35.º, n.º 6, do Decreto-Lei n.º 445/91, de 20 de Novembro) sendo nula a decisão camarária que decide pedido de licenciamento, em desconformidade com aquela posição.
+
+IV - Da generalidade de disposições legais relativas a presunções de recebimento de cartas expedidas por via postal, conclui-se que não se pode presumir a entrega antes do terceiro dia subsequente ao da expedição, independentemente de esta ser efectuada ou não sob registo.
+
+V - Na falta de disposição legal em contrário, só a nulidade ou a inexistência de um acto administrativo pode ser declarada por órgãos de natureza administrativa que não tenham competência legal para a sua revogação com fundamento em invalidade (arts. 134.º, n.º 2, 136.º e 142.º do C.P.A).
+
+VI - Por isso, enquanto não for anulado parecer vinculativo que enferme de vício gerador de mera anulabilidade, designadamente por falta de fundamentação, não pode uma câmara municipal deixar de lhe dar relevância como obstáculo ao deferimento de um pedido de licenciamento.
