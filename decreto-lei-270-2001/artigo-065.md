@@ -6,9 +6,9 @@
 
 ### Medidas cautelares
 
-1 - Quando em pedreira não licenciada se verifique uma situação de perigo iminente ou de perigo grave para a segurança, saúde ou ambiente, a câmara municipal, as autoridades de saúde, as autoridades policiais e, bem assim, as entidades competentes para a aprovação do plano de pedreira, a ASAE e a IGAOT podem determinar as providências que em cada caso se justifiquem para prevenir ou eliminar tal situação.
+1 - Quando em pedreira não licenciada se verifique uma situação de perigo iminente ou de perigo grave para a segurança, saúde ou ambiente, a câmara municipal ou as autoridades policiais e, bem assim, as entidades competentes para a aprovação do plano de pedreira e a Inspecção-Geral do Ambiente (IGA) poderão determinar as providências que em cada caso se justifiquem para prevenir ou eliminar tal situação.
 
-2 - O disposto no número anterior é aplicável às pedreiras licenciadas, incumbindo a imposição de medidas cautelares à entidade licenciadora, por iniciativa própria ou a pedido das entidades competentes pela aprovação do plano de pedreira e das entidades fiscalizadoras, com excepção das acções da ASAE e da IGAOT, no âmbito das respectivas competências.
+2 - O disposto no número anterior é aplicável às pedreiras licenciadas, incumbindo a imposição de medidas cautelares à entidade licenciadora, às entidades competentes pela aprovação do plano de pedreira e à Inspecção-Geral do Ambiente (IGA), no âmbito das respectivas competências.
 
 3 - As medidas referidas nos números anteriores podem consistir, no respeito dos princípios gerais, na suspensão da laboração, no encerramento preventivo da exploração ou de parte dela, ou na apreensão de equipamento, no todo ou parte, mediante selagem, por determinado período de tempo.
 
@@ -21,5 +21,3 @@
 7 - A cessação das medidas cautelares será determinada, a requerimento do interessado, após vistoria à exploração em que se demonstre terem cessado as circunstâncias que lhe deram causa.
 
 8 - A adopção de medidas cautelares ao abrigo do presente artigo, bem como a sua cessação, são comunicadas, de imediato, à entidade licenciadora da pedreira em causa, assim como às entidades competentes para aprovação do plano de pedreira.
-
-9 - A entidade competente para a aplicação da coima relativamente às infracções ambientais previstas nos n.os 5 a 7 do artigo 59.º pode ainda proceder às apreensões cautelares que se mostrem adequadas, nos termos do disposto no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto.

@@ -12,4 +12,4 @@ b) Plano sumário dos trabalhos previstos para o período da prorrogação conte
 
 3 - À excepção dos casos em que o requerente tenha proposto a abertura de frentes de desmonte, o pedido tem-se por tacitamente deferido se a entidade licenciadora não se pronunciar até 10 dias após a data do termo do período inicial da licença ou, no caso previsto no número anterior, a resposta do requerente satisfaça integralmente as solicitações e indicações da entidade licenciadora.
 
-4 - A entidade licenciadora, no prazo de oito dias após a decisão ou deferimento tácito nos termos previstos no número anterior, dá conhecimento à entidade competente para a aprovação do PARP, à câmara municipal competente e à DGEG do pedido de prorrogação e seu deferimento ou indeferimento.
+4 - A entidade licenciadora, no prazo de oito dias após a decisão ou deferimento tácito nos termos previstos no número anterior, dará conhecimento à DRAOT ou ao ICN, à câmara municipal competente e ao IGM do pedido de prorrogação e seu deferimento ou indeferimento.

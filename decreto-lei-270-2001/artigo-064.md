@@ -1,5 +1,5 @@
 # Artigo 64.º
 
-### Pedidos de licenciamento ou de adaptação pendentes
+### Pedidos de licenciamento pendentes
 
-Os pedidos de licenciamento ou de adaptação da licença já apresentados devem ser enquadrados nas disposições do presente decreto-lei, sem prejuízo dos actos e das formalidades já praticados.
+Os pedidos de atribuição de licença já apresentados devem ser adaptados às disposições do presente diploma, sem prejuízo dos actos e formalidades já praticados.

@@ -6,16 +6,22 @@
 
 2 - A atribuição da licença de exploração é da competência:
 
-a) Da câmara municipal, quando se trate de pedreiras a céu aberto das classes 3 e 4;
+a) Da câmara municipal, quando se trate de pedreiras a céu aberto e não seja excedido nenhum dos seguintes limites:
+
+i) Potência de meios mecânicos utilizados na exploração - 500 CV;
+
+ii) Número de trabalhadores - 15;
+
+iii) Profundidade das escavações - 10 m;
 
 b) Da DRE, nos seguintes casos:
 
-i) Pedreiras das classes 1 e 2;
+i) Explorações a céu aberto em que seja excedido qualquer dos limites referidos nas alíneas anteriores;
 
-ii) Pedreiras situadas em áreas cativas ou de reserva.
+ii) Explorações subterrâneas ou mistas;
 
-3 - Independentemente das competências de licenciamento previstas nos números anteriores, compete à DRE e à CCDR ou ao ICNB, I. P., decidir, com carácter vinculativo para a entidade licenciadora, sobre, respectivamente, o plano de lavra e o PARP.
+iii) Todas as explorações situadas em áreas cativas ou de reserva.
+
+3 - Independentemente das competências de licenciamento previstas nos números anteriores, compete à DRE e à DRAOT ou ao ICN decidir, com carácter vinculativo para a entidade licenciadora, sobre o plano de pedreira previsto no artigo 41.º
 
 4 - Quando as áreas a licenciar sejam da competência de mais de uma entidade territorialmente competente, a licença deve ser atribuída pela entidade em cuja circunscrição territorial se situe a maior parte da área a licenciar, a qual deve consultar a territorialmente concorrente e dar-lhe conhecimento das decisões proferidas, nos termos dos procedimentos previstos neste diploma.
-
-5 - A decisão sobre o deferimento ou o indeferimento do pedido de licença de exploração das pedreiras de classe 1 está sujeita a homologação do ministro que tutela a área da economia.

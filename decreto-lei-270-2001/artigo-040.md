@@ -12,8 +12,6 @@ c) Quando a gravidade ou a repetição da falta ou faltas cometidas evidencie a 
 
 d) Quando o titular da licença não reponha ou reforce a caução, nos termos do disposto nos n.os 5 e 6 do artigo 52.º deste diploma;
 
-e) (Revogada.)
+e) Quando se verifique incumprimento do previsto no artigo 63.º
 
-2 - Quando, em qualquer dos casos previstos no número anterior, as disposições, determinações ou incapacidades nele referidas respeitarem ao incumprimento do PARP, a licença pode ser revogada na sequência de parecer vinculativo da entidade competente pela aprovação daquele plano.
-
-3 - Quando, em qualquer dos casos previstos no n.º 1, as disposições, determinações ou incapacidades nele referidas respeitarem ao incumprimento de questões de segurança, a licença pode ser revogada na sequência de pedido, devidamente fundamentado, da entidade competente pela aprovação do plano de lavra, sob parecer da entidade competente pela aprovação do PARP.
+2 - Quando, em qualquer dos casos previstos no número anterior, as disposições, determinações ou a incapacidade neles referidos respeitarem ao incumprimento do plano de pedreira, a licença só será revogada sob parecer de carácter vinculativo da entidade competente pela aprovação do PARP.
