@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "35948",
+  "tipo": "Interpelação à mesa",
+  "orador": "João de Deus Pinheiro (PSD)",
+  "data_registo": "1992-11-20",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "3528",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3528",
+        "tipo": "VOT",
+        "titulo": "De Protesto - Sintetiza os votos nºs 44/VI, 45/VI e 46/VI, de protesto pela prisão de Xanana Gusmão e exigindo o respeito pelos direitos humanos, por parte da Indonésia, relativamente a Timor Leste e ao resistente timorense."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1992-11-20",
+    "Debate": "VOTO 47-MESA AR, 44-PCP, 45-PS E 46-CDS",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "334",
+      "nome": "João de Deus Pinheiro"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "35948",
+    "IdDebate": "3528",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "35948",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "596-596"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1992-11-21",
+        "pubLeg": "VI",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/017/1992-11-21/596?pgs=596&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "XANANA GUSMAO ",
+    "Sessao": "2",
+    "Sumario": "PRISAO DE XANANA GUSMAO",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Interpelação à mesa"
+  }
+}
