@@ -1,0 +1,9 @@
+Portaria n.º 59/83
+de 25 de Janeiro
+Através da Portaria n.º 151/81, de 29 de Janeiro, foi alargada a área de recrutamento para os cargos de directores de serviços da Direcção do Pessoal Aeronáutico e da Direcção de Navegação Aérea, da Direcção-Geral da Aviação Civil.
+Decorrido mais de 1 ano sobre a publicação daquela portaria, não foi ainda possível prover o lugar de director de serviços da Direcção de Navegação Aérea com recurso ao pessoal de carreira técnica superior de aviação civil, tornando necessário alargar o âmbito de recrutamento a técnicos de outra origem.
+Assim:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado dos Transportes Exteriores e Comunicações e da Reforma Administrativa, nos termos do disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, o seguinte:
+1.º O n.º 1.º da Portaria n.º 151/81, de 29 de Janeiro, passa a ter a seguinte redacção:
+1.º Autorizar que, excepcionalmente, o provimento dos lugares de director de serviços da Direcção do Pessoal Aeronáutico e da Direcção de Navegação Aérea do quadro do pessoal dirigente da Direcção-Geral da Aviação Civil, a que se refere o n.º 1 do artigo 16.º do Decreto-Lei n.º 242/79, de 25 de Julho, se faça por escolha do Ministro da Habitação, Obras Públicas e Transportes de entre técnicos da aviação civil do quadro a que se refere o artigo 6.º do Decreto-Lei n.º 333/80, de 29 de Agosto, de categoria não inferior à de técnico principal e que possuam os conhecimentos técnicos indispensáveis à prática efectiva do desempenho de funções de chefia ou técnicos de outra origem de reconhecido mérito, podendo ser dispensada a posse de licenciatura.
+Secretarias de Estado dos Transportes Exteriores e Comunicações e da Reforma Administrativa, 14 de Janeiro de 1983. - O Secretário de Estado dos Transportes Exteriores e Comunicações, José da Silva Domingos. - O Secretário de Estado da Reforma Administrativa, António Jorge de Figueiredo Lopes.
