@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público ter sido assinado em Lisboa, no dia 10 de Junho de 1987, um memorando de cooperação entre o Ministério do Plano e da Administração do Território de Portugal e o Ministério da Habitação, Ordenamento do Território e Planeamento Físico dos Países Baixos, entrando em vigor à data da sua assinatura segundo o estipulado no seu artigo 6, o qual institui um programa de cooperação entre as duas autoridades responsáveis pelo planeamento nacional do ordenamento do território e do ambiente.
+Direcção de Serviços da Europa, 15 de Julho de 1987. - O Director de Serviços, Manuel Marcelo Curto.
