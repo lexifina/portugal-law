@@ -1,7 +1,3 @@
-## Subsecção III
-
-## Divisão Administrativa e Financeira
-
 # Artigo 25.º
 
 ### Competências

@@ -1,4 +1,4 @@
-## Secção III
+## Secção IV
 
 ## Conselho de Administração
 
@@ -6,4 +6,4 @@
 
 ### Definição e composição
 
-O Conselho de Administração é um órgão de consulta e gestão, constituído pelos vice-presidentes da Mesa da Assembleia Legislativa Regional, pelo secretário-geral e por um deputado designado por cada um dos dois maiores grupos parlamentares da Assembleia Legislativa Regional.
+O Conselho de Administração é um órgão de gestão, constituído pelo secretário-geral da Assembleia Legislativa Regional e por dois membros de adequada idoneidade e qualificação, a nomear pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho Consultivo.

@@ -4,25 +4,21 @@
 
 # Artigo 46.º
 
-### Gabinetes dos grupos parlamentares
+### Gabinetes dos partidos e dos grupos parlamentares
 
-1 - Os grupos parlamentares dispõem, para utilização de gabinetes constituídos por pessoal da sua livre escolha, nomeação, exoneração e qualificação, de uma verba de montante igual à remuneração de:
+1 - Os partidos com um único deputado e os grupos parlamentares dispõem, para a utilização de gabinetes constituídos por pessoal da sua livre escolha, nomeação, exoneração e qualificação, de uma verba anual, resultante do quadro seguinte:
 
-a) Até 2 deputados, inclusive - dois adjuntos;
+a) Deputado único/partido - 15 x 14 SMNR (salário mínimo nacional aplicável na Madeira)/ano;
 
-b) Com mais de 2 e até 5 deputados - três adjuntos;
+b) Grupo parlamentar até 2 deputados - 15 x 14 SMNR/mês/número de deputados;
 
-c) Com mais de 5 e até 10 deputados - cinco adjuntos;
+c) Grupo parlamentar de 3 a 10 deputados - 11 x 14 SMNR/mês/número de deputados;
 
-d) Com mais de 10 e até 20 deputados - sete adjuntos;
+d) Grupo parlamentar de 11 a 20 deputados - 9 x 14 SMNR/mês/número de deputados;
 
-e) Com mais de 20 e até 30 deputados - nove adjuntos;
+e) Grupo parlamentar de 21 a 30 deputados - 8 x 14 SMNR/mês/número de deputados;
 
-f) Com mais de 30 e até 40 deputados - onze adjuntos;
-
-g) Com mais de 40 e até 50 deputados - treze adjuntos;
-
-h) Com mais de 50 deputados - quinze adjuntos.
+f) Grupo parlamentar superior a 30 deputados - 7 x 14 SMNR/mês/número de deputados.
 
 2 - O Presidente da Assembleia Legislativa Regional fixa, por despacho, o quadro de pessoal do gabinete de cada grupo parlamentar, por proposta vinculativa do respectivo grupo, e desde que não ultrapasse o montante referido no número anterior.
 
@@ -39,3 +35,5 @@ h) Com mais de 50 deputados - quinze adjuntos.
 8 - A aplicação do disposto neste artigo não prejudica a situação existente em cada gabinete de apoio aos grupos parlamentares, nem a fixação do quadro previsto no n.º 2 prejudica a utilização da totalidade do montante referido no n.º 1 do presente artigo.
 
 9 - Os membros dos gabinetes dos grupos parlamentares são portadores de um cartão de identidade, conforme anexo IV ao presente diploma.
+
+10 - O processamento dos vencimentos do pessoal dos gabinetes dos partidos e dos grupos parlamentares, bem como as despesas com os encargos sociais e respectivo processamento, são da responsabilidade da Assembleia Legislativa Regional.

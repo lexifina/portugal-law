@@ -4,7 +4,7 @@
 
 1 - O Presidente da Assembleia Legislativa Regional, obtido o parecer favorável do Conselho de Administração, pode:
 
-a) Encomendar estudos e serviços;
+a) Encomendar estudos, pareceres e serviços;
 
 b) Convidar entidades regionais, nacionais e estrangeiras para realizar estudos, inquéritos ou trabalhos de carácter eventual;
 
