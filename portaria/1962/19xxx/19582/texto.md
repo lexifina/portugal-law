@@ -1,0 +1,7 @@
+Portaria n.º 19582
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos da última parte do n.º VI da base X da Lei n.º 2066, de 27 de Junho de 1953, e da alínea b) do artigo 88.º do Decreto n.º 43899, de 6 de Setembro de 1961, o seguinte:
+I) São substituídos por um aspirante com a categoria correspondente à letra Q e por um terceiro-ajudante, respectivamente, os lugares de terceiro-oficial da Repartição dos Registos e do Notariado da província de Moçambique e da Conservatória dos Registos de Gaza, criados pelo n.º III da Portaria n.º 19532, de 30 de Novembro do corrente ano.
+II) É tornado extensivo aos notários e oficiais dos registos e do registo civil o referido n.º VI da Portaria citada no número anterior.
+Ministério do Ultramar, 26 de Dezembro de 1962. - O Ministro do Ultramar, António Augusto Peixoto Correia.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - Peixoto Correia.
