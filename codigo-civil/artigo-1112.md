@@ -1,3 +1,7 @@
+## Subsecção VII
+
+## Disposições especiais dos arrendamentos para comércio ou indústria
+
 # Artigo 1112.º
 
 ### (Noção)

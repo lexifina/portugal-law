@@ -1,7 +1,3 @@
-## Subsecção V
-
-## Actualização das rendas
-
 # Artigo 1091.º
 
 ### (Antecipação de renda)

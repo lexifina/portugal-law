@@ -1,7 +1,3 @@
-## Subsecção VI
-
-## Disposições especiais dos arrendamentos para habitação
-
 # Artigo 1092.º
 
 ### (Deteriorações lícitas)

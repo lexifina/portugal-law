@@ -1,8 +1,8 @@
-## Capítulo XII
+## Secção II
 
-## Dissolução do casamento
+## Separação judicial de pessoas e bens
 
-## Secção I
+## Subsecção I
 
 ## Disposições gerais
 

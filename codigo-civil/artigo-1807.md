@@ -1,3 +1,7 @@
+## Secção II
+
+## Prova e vindicação da legitimidade
+
 # Artigo 1807.º
 
 ### (Obrigatoriedade da declaração de legitimidade)

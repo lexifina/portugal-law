@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Resolução do contrato
+
 # Artigo 1093.º
 
 ### (Casos de resolução)

@@ -1,3 +1,7 @@
+## Secção II
+
+## Revogação da adopção restrita
+
 # Artigo 1999.º
 
 ### (Casos de revogação)

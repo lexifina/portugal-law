@@ -1,3 +1,11 @@
+## Capítulo III
+
+## Adopção restrita
+
+## Secção I
+
+## Efeitos e requisitos da adopção restrita
+
 # Artigo 1987.º
 
 ### (Efeitos)

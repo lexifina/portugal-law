@@ -2,6 +2,10 @@
 
 ## Separação dos cônjuges e dos bens
 
+## Secção I
+
+## Simples separação judicial de bens
+
 # Artigo 1767.º
 
 ### (Fundamento da separação)

@@ -1,3 +1,7 @@
+## Secção VI
+
+## Legitimação dos filhos ilegítimos
+
 # Artigo 1873.º
 
 ### (Legitimação pelo casamento)

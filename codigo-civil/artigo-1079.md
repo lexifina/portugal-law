@@ -1,6 +1,6 @@
-## Subsecção III
+## Subsecção II
 
-## Denúncia do contrato
+## Arrendamento rural ao cultivador directo
 
 # Artigo 1079.º
 

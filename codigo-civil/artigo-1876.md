@@ -1,3 +1,11 @@
+## Capítulo IV
+
+## Efeitos da filiação
+
+## Secção I
+
+## Disposições gerais
+
 # Artigo 1876.º
 
 ### (Dever fundamental dos filhos)

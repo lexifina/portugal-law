@@ -1,3 +1,7 @@
+## Subsecção III
+
+## Inibição do poder paternal
+
 # Artigo 1910.º
 
 ### (Inibição de pleno direito)

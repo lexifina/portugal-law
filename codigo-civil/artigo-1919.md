@@ -1,3 +1,7 @@
+## Subsecção IV
+
+## Registo das decisões relativas ao poder paternal
+
 # Artigo 1919.º
 
 ### (Obrigatoriedade do registo)

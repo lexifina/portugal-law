@@ -1,3 +1,7 @@
+## Subsecção IV
+
+## Inabilitações
+
 # Artigo 152.º
 
 ### (Pessoas sujeitas a inabilitação)

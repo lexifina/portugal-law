@@ -1,3 +1,7 @@
+## Secção III
+
+## Reconhecimento oficioso
+
 # Artigo 1841.º
 
 ### (Quando se verifica)

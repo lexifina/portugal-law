@@ -1,3 +1,11 @@
+## Secção VIII
+
+## Arrendamento de prédios urbanos e arrendamento de prédios rústicos não abrangidos na secção precedente
+
+## Subsecção I
+
+## Disposições gerais
+
 # Artigo 1083.º
 
 ### (Normas aplicáveis)

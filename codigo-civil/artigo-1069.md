@@ -1,7 +1,3 @@
-## Subsecção II
-
-## Arrendamento rural ao cultivador directo
-
 # Artigo 1069.º
 
 ### (Redução da renda)

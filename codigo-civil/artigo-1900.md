@@ -1,3 +1,7 @@
+## Divisão II
+
+## Poder paternal após a cessação da coabitação dos cônjuges
+
 # Artigo 1900.º
 
 ### (Viuvez)

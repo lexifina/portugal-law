@@ -1,3 +1,7 @@
+## Subsecção III
+
+## Separação por mútuo consentimento
+
 # Artigo 1786.º
 
 ### (Requisitos)

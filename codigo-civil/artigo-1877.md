@@ -1,7 +1,3 @@
-## Secção II
-
-## Prova e vindicação da legitimidade
-
 # Artigo 1877.º
 
 ### (Direito ao nome)

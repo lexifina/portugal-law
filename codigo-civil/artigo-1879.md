@@ -1,3 +1,15 @@
+## Secção II
+
+## Poder paternal
+
+## Subsecção I
+
+## Poder paternal em relação aos filhos legítimos
+
+## Divisão I
+
+## Poder paternal na constância do matrimónio
+
 # Artigo 1879.º
 
 ### (Natureza e conteúdo)

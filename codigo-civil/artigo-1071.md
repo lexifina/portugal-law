@@ -1,7 +1,3 @@
-## Subsecção I
-
-## Disposições gerais
-
 # Artigo 1071.º
 
 ### (Cláusulas proibidas)

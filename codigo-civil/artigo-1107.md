@@ -1,3 +1,7 @@
+## Subsecção VI
+
+## Disposições especiais dos arrendamentos para habitação
+
 # Artigo 1107.º
 
 ### (Casas mobiladas)

@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Sucessão dos irmãos e seus descendentes
-
 # Artigo 2145.º
 
 ### (Irmãos germanos e unilaterais)

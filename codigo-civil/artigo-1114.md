@@ -1,7 +1,3 @@
-## Secção VIII
-
-## Arrendamento de prédios urbanos e arrendamento de prédios rústicos não abrangidos na secção precedente
-
 # Artigo 1114.º
 
 ### (Cessação por caducidade ou por denúncia do senhorio)

@@ -1,3 +1,11 @@
+## Capítulo II
+
+## Filhos legítimos
+
+## Secção I
+
+## Requisitos da legitimidade
+
 # Artigo 1801.º
 
 ### (Presunção de legitimidade)

@@ -1,7 +1,3 @@
-## Secção II
-
-## Divórcio
-
 # Artigo 1794.º
 
 ### (Decisão)

@@ -1,3 +1,11 @@
+## Secção IV
+
+## Reconhecimento judicial
+
+## Subsecção I
+
+## Disposições gerais
+
 # Artigo 1852.º
 
 ### (Quando se verifica)

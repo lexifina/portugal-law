@@ -1,7 +1,3 @@
-## Subsecção VII
-
-## Disposições especiais dos arrendamentos para comércio ou indústria
-
 # Artigo 1108.º
 
 ### (Indústrias domésticas)

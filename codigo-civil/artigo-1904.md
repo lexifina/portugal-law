@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Poder paternal em relação aos filhos ilegítimos
+
 # Artigo 1904.º
 
 ### (Poder paternal dos pais ilegítimos)

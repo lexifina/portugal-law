@@ -1,7 +1,3 @@
-## Subsecção IV
-
-## Subarrendamento
-
 # Artigo 1088.º
 
 ### (Prova)

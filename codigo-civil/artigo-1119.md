@@ -1,3 +1,7 @@
+## Subsecção VIII
+
+## Disposições especiais dos arrendamentos para o exercício de profissões liberais
+
 # Artigo 1119.º
 
 ### (Remissão)

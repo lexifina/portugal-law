@@ -1,7 +1,3 @@
-## Capítulo V
-
-## Sucessão do cônjuge
-
 # Artigo 2147.º
 
 ### (Chamamento do cônjuge)

@@ -1,11 +1,3 @@
-## Capítulo II
-
-## Filhos legítimos
-
-## Secção I
-
-## Requisitos da legitimidade
-
 # Artigo 1874.º
 
 ### (Reconhecimento para efeito de legitimação)

@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Sucessão dos ascendentes
-
 # Artigo 2142.º
 
 ### (Ascendentes do segundo grau e seguintes)

@@ -1,3 +1,7 @@
+## Capítulo VI
+
+## Sucessão dos outros colaterais
+
 # Artigo 2149.º
 
 ### (Colaterais legítimos)

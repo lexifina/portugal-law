@@ -1,3 +1,7 @@
+## Secção III
+
+## Caducidade
+
 # Artigo 2317.º
 
 ### (Casos de caducidade)

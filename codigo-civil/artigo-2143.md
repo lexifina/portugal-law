@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Sucessão dos irmãos e seus descendentes
+
 # Artigo 2143.º
 
 ### (Irmãos legítimos e descendentes legítimos destes)

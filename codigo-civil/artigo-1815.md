@@ -1,3 +1,7 @@
+## Secção III
+
+## Impugnação da legitimidade
+
 # Artigo 1815.º
 
 ### (Regra geral)
