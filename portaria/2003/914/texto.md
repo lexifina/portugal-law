@@ -1,0 +1,19 @@
+Portaria n.º 914/2003
+de 1 de Setembro
+A Portaria n.º 577/2001, de 7 de Junho, veio estabelecer o regime geral da fixação dos preços dos medicamentos genéricos, nos termos do qual os mesmos devem ser inferiores em, pelo menos, 35% do valor do preço de venda ao público dos medicamentos de referência.
+Com a entrada em vigor das recentes alterações legislativas decorrentes da execução da política do medicamento, com particular destaque para a criação do sistema de preços de referência, registou-se uma profunda alteração nos preços de venda ao público dos medicamentos de referência.
+Importa, em conformidade, introduzir naquele regime geral as modificações necessárias por forma a evitar distorções do mercado.
+Assim:
+Ao abrigo do disposto no artigo 17.º do Decreto-Lei n.º 329-A/74, de 10 de Julho, e no n.º 1 do artigo 23.º do Decreto-Lei n.º 72/91, de 8 de Fevereiro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 242/2000, de 26 de Setembro:
+Manda o Governo, pelos Secretários de Estado do Comércio, Indústria e Serviços e da Saúde, o seguinte:
+1.º o n.º 2.º da Portaria n.º 577/2001, de 7 de Junho, passa a ter a seguinte redacção:
+«2.º - 1 - ...
+2 - ...
+3 - ...
+a) ...
+b) ...
+c) ...
+4 - O disposto no n.º 1 não é aplicável aos medicamentos genéricos a introduzir no mercado para os quais exista grupo homogéneo, devendo o respectivo preço de venda ao público ser, nestes casos, igual ou inferior ao preço de referência desse grupo.»
+2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Em 28 de Julho de 2003.
+A Secretária de Estado do Comércio, Indústria e Serviços, Maria do Rosário Mayoral Robles Machado Simões Ventura. - O Secretário de Estado da Saúde, Carlos José das Neves Martins.
