@@ -1,0 +1,5 @@
+Portaria n.º 18645
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que, nos termos do § 1.º do artigo 22.º do Decreto-Lei n.º 39749, de 9 de Agosto de 1954, com a nova redacção que lhe foi dada pelo artigo 2.º do Decreto-Lei n.º 43582, de 4 de Abril de 1961, sejam elevados a subdelegações da Polícia Internacional e de Defesa do Estado os postos de fronteira e vigilância do mesmo organismo instalados nas cidades de Cabinda e Nova Lisboa, na província de Angola, ambas dependentes da delegação em Luanda, cabendo ao Governo-Geral da província, mediante proposta da referida Polícia, a faculdade de promover a fixação e distribuição do pessoal efectivo e eventual, consoante as necessidades do serviço, de harmonia com o mapa anexo ao citado Decreto-Lei n.º 43582 e nos termos do § 4.º do artigo 46.º do já referido Decreto-Lei n.º 39749, com a nova redacção do artigo 2.º do Decreto-Lei n.º 43582.
+Ministério do Ultramar, 7 de Agosto de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - Costa Freitas.
