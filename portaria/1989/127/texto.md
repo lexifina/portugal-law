@@ -1,0 +1,12 @@
+Portaria n.º 127/89
+de 20 de Fevereiro
+Considerando que as funções inerentes ao desempenho do cargo de chefe de circunscrição dos serviços regionais da Direcção-Geral das Florestas, equiparado, para todos os efeitos legais, a director de serviços, por força do estabelecido no n.º 2 do artigo 16.º do Decreto Regulamentar n.º 51/86, de 6 de Outubro, exigem conhecimentos específicos e comprovada experiência, face à pluralidade das tarefas que lhe são cometidas e dos conhecimentos exigidos em cada uma delas;
+Considerando que não há possibilidade de dar cumprimento às normas gerais de recrutamento previstas na alínea a) do n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, por não haver na dita Direcção-Geral chefes de divisão e assessores cujo perfil e disponibilidade se adeqúe aos cargos a desempenhar;
+Considerando que não é viável encontrar, nem a curto nem a médio prazos, dentro da área de recrutamento, candidatos que, para além dos necessários conhecimentos técnicos, tenham conhecimentos e experiência específicos na área em causa;
+Usando da faculdade prevista no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho:
+Manda o Governo, pelos Ministros das Finanças e da Agricultura, Pescas e Alimentação, o seguinte:
+1.º É excepcionalmente alargada a área de recrutamento para provimento do cargo de chefe da Circunscrição Florestal de Vila Real, da Direcção-Geral das Florestas, a técnicos superiores de 2.ª classe da carreira de engenheiro possuidores de licenciatura e reconhecida competência técnica e experiência profissional adequada para o exercício daquelas funções.
+2.º O despacho de nomeação será acompanhado, para publicação, do currículo do nomeado.
+Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
+Assinada em 30 de Janeiro de 1989.
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
