@@ -1,0 +1,4 @@
+Despacho Normativo n.º 84/78
+1 - Determino que, sem prejuízo da sua aplicação aos bens patrimoniais, nomeadamente veículos automóveis, cujo processo de desalfandegamento se haja iniciado ou venha a ser iniciado até ao próximo dia 22 de Abril, se considerem revogados os despachos ministeriais de 28 de Outubro de 1974 (publicado no Diário do Governo, 1.ª série, n.º 260, de 8 de Novembro de 1974), de 6 de Maio de 1975 (publicado no Diário do Governo, 1.ª série, n.º 111, de 14 de Maio de 1975) e de 5 de Novembro de 1975 (publicado no Diário do Governo, 1.ª série, n.º 268, de 19 de Novembro de 1975).
+2 - O processo de desalfandegamento atrás referido tem-se por iniciado no momento em que haja dado entrada nas alfândegas o requerimento formulado pelo interessado e prolongar-se-á até ao desembaraço aduaneiro.
+Ministério das Finanças e do Plano, 6 de Março de 1978. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira.
