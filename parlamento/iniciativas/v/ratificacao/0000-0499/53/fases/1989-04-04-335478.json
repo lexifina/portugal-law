@@ -1,0 +1,831 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "53",
+    "id": "28213",
+    "titulo": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1989-04-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12834",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1989-04-04",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Ratificação",
+        "id": "28211",
+        "leg": "V",
+        "nr": "52",
+        "sel": "2",
+        "tipo": "F",
+        "titulo": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-04-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221007",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2019-2020",
+                  "2021-2021"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2019?pgs=2019-2020,2021&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221008",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2020-2021"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2020?pgs=2020-2021&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221009",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2021-2022"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2021?pgs=2021-2022&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221010",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2023-2024",
+                  "2025-2026"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2023?pgs=2023-2024,2025-2026&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2024-2024"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2024?pgs=2024&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2024-2025"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2024?pgs=2024-2025&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2025-2025"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2025?pgs=2025&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221014",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05?org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2027-2027"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2027?pgs=2027&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2027-2027"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2027?pgs=2027&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2027-2028"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2027?pgs=2027-2028&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221018",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2028-2028"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2028?pgs=2028&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2028-2028"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2028?pgs=2028&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2028-2028"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2028?pgs=2028&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2029-2030"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2029?pgs=2029-2030&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2030-2032",
+                  "2033-2033"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2030?pgs=2030-2032,2033&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2032-2032"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2032?pgs=2032&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221024",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2032-2033"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-05",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/058/1989-04-05/2032?pgs=2032-2033&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 497/88, de 30 de Dezembro que estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "335478",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
