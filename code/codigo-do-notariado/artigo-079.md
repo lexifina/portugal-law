@@ -2,4 +2,4 @@
 
 ### Isenções
 
-Os processos de revalidação judicial estão isentos de custas e selo, quando o pedido for julgado procedente.
+Os recursos interpostos estão isentos de custas, quando os recorrentes sejam o próprio notário ou o Ministério Público.
