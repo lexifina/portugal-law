@@ -1,0 +1,4 @@
+Portaria n.º 65/78
+1 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Tecnologia, ouvido o Conselho de Normalização, aprovar, com as alterações propostas nos respectivos pareceres, a revisão das normas NP-928 «Aparelhos termodomésticos a gás para a preparação dos alimentos. Características e ensaios»; NP-994 «Aparelhos termodomésticos a gás para aquecimento instantâneo de água. Nomenclatura», e NP-995 «Aparelhos termodomésticos a gás para aquecimento instantâneo de água. Características e ensaios», feita nos termos do artigo 9.º do Estatuto de Normalização (Decreto-Lei n.º 38801, de 25 de Junho de 1952).
+Ministério da Indústria e Tecnologia, 5 de Janeiro de 1978. - Pelo Ministro da Indústria e Tecnologia, Fernando Santos Martins, Secretário de Estado da Indústria Ligeira.
