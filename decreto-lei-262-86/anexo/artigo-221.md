@@ -1,10 +1,10 @@
 # Artigo 221.º
 
-### (Divisão de quotas)
+### Divisão de quotas
 
 1 - Uma quota só pode ser dividida mediante amortização parcial, transmissão parcelada ou parcial, partilha ou divisão entre contitulares, devendo cada uma das quotas resultantes da divisão ter um valor nominal de harmonia com o disposto no artigo 219.º, n.º 3.
 
-2 - Os actos que importem divisão de quota devem constar de escritura pública.
+2 - Os actos que importem divisão de quota devem constar de escritura pública, excepto a partilha ou divisão entre contitulares, que pode constar de documento particular.
 
 3 - O contrato pode proibir a divisão de quotas, contanto que da proibição não resulte impedimento à partilha ou divisão entre contitulares por período superior a cinco anos.
 
