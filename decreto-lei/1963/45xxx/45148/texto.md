@@ -1,0 +1,6 @@
+Decreto-Lei n.º 45148
+Atendendo às conveniências dos serviços no que respeita ao recrutamento de chefes de secção e dentro da orientação que vem sendo seguida por outros departamentos;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Os lugares de chefe de secção ou equivalente do Ministério da Saúde e Assistência serão providos por livre escolha do Ministro de entre diplomados com um curso superior adequado ou primeiros-oficiais do Ministério, com qualidades de chefia e cinco anos na categoria, com informação de Muito bom.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 20 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues do Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
