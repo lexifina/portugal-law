@@ -1,0 +1,12 @@
+Portaria n.º 482/90
+de 29 de Junho
+O quadro de pessoal do Hospital de Santa Maria, aprovado pela Portaria n.º 661/80, de 16 de Setembro, na valência de pneumotisiologia, possui 17 assistentes hospitalares.
+Tal número revela-se actualmente insuficiente, em especial por causa da recente criação da unidade de cuidados intensivos respiratórios, com uma rendibilidade altamente produtiva e que, para se manter, necessita, porém, de um reforço das suas unidades, até agora desmultiplicando os seus esforços pelos serviços de urgência, internamento, consultas e citada unidade.
+Paralelamente, os efectivos médicos do serviço de anestesia têm-se mantido inalteráveis, apesar do incremento das solicitações exigidas a este serviço, com relevo para o aumento do número de salas e dos tempos operatórios, pelo que é necessário reestruturar este serviço.
+Manda o Governo, pelos Ministros das Finanças e da Saúde, observado o disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, e ao abrigo do n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro, que o quadro de pessoal do Hospital de Santa Maria, aprovado pela Portaria n.º 661/80, de 16 de Setembro, e posteriormente alterado pelas Portarias n.os 310/82, de 22 de Março, 952/82, de 8 de Outubro, 192/83, de 2 de Março, 345/83, de 29 de Março, 807-VI/83 de 30 de Julho, 807-X3/83, de 30 de Julho, 481/84, de 20 de Julho, 886/84, de 5 de Dezembro, 963/84, de 26 de Dezembro, 39/85, de 19 de Janeiro, 515/85, de 29 de Julho, 919/85, de 30 de Novembro, 310/87, de 14 de Abril, 556/87, de 6 de Julho, 915/87, de 2 de Dezembro, 961/87, de 29 de Dezembro, 150/88, de 10 de Março, 592/88, de 27 de Agosto, 785/88, de 9 de Dezembro, 796/88, de 10 de Dezembro, 160/89, de 2 de Março, 218/89, de 16 de Março, e 219/89, de 16 de Março, seja de novo alterado, de acordo com o quadro anexo ao presente diploma.
+Ministérios das Finanças e da Saúde.
+Assinada em 14 de Maio de 1990.
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
+
+Quadro de pessoal do Hospital de Santa Maria
+(ver documento original)
