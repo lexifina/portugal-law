@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=0%2fmnAEPdw%2bZ%2fvnXoecx2JQgGmGyJ%2b1AHu2mrzNS8ADAE18uCrc9Styx5d%2fX4IPGRcIcBKHPoySAeeVEJTG%2fnXeyO38ve46GpqLc0X3T%2bbPkcpeyEUoY%2blGLBlRWpTBx0UKWpHL%2b0cQ3AeGM5xR9S3GS29tBWW0QJzrNi%2fGO%2fKW1iOFIemaNauO5hwfRc17lE2F5iEtOcOG0Yq9A3ovXI4mo3WLcbepRRJNyYDPZR66gnSeUHQcoaTAQgjfGEJ08UqPzICqi2gLkxT9d5L4XljdxcmBX73F4%2fTpvPHkZhHVHbKFkt8d5BmDH2Tatkzy4NCcLWt0LW2TTG7%2f0lHIS6lQGnfRoQfH9YJAX%2bB7yLJsLyqhRKBQy%2bB1O%2bmEOrB58p&fich=IniciativasIA_json.txt&Inline=true",
+  "ficheiro_sha256": "39a9f34ccb817f089e97a6d8deacb124b71a67b0f61b5914b722e78111f34ce7",
+  "legislatura": "I",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "162290",
+    "id": "80488",
+    "titulo": "Deslocação de Sua Excelência o Presidente da República à Bulgária, Roménia e Hungria entre os dias 19 e 26 de Março de 1979"
+  },
+  "fase": "Votação Deliberação",
+  "codigo_fase": "335",
+  "data_registo": "1979-03-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "335",
+    "Comissao": null,
+    "DataFase": "1979-03-08",
+    "EvtId": "73",
+    "Fase": "Votação Deliberação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "600488",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1979-03-08",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PPD</I>, <I> CDS</I>, <I> PCP</I>, <I> UDP</I>",
+        "id": "49102",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "360196",
+            "obs": null,
+            "pag": [
+              "1256-1256"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1979-03-09",
+            "pubLeg": "I",
+            "pubNr": "36",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/01/03/036/1979-03-09/1256?pgs=1256&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "36",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
