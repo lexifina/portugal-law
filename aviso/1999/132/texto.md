@@ -1,0 +1,6 @@
+Aviso n.º 132/99
+Por ordem superior se torna público que, por nota de 28 de Julho de 1999, o Secretário-Geral das Nações Unidas, na qualidade de depositário da Convenção das Nações Unidas para a Repressão do Tráfico de Pessoas e de Exploração da Prostituição de Outrem, aberta para assinatura em Lake Success, Nova Iorque, em 21 de Março de 1950, comunicou ter o Governo de Portugal, nos termos do artigo 14.º da Convenção, notificado que a autoridade do território de Macau designada para dar cumprimento às obrigações impostas pela Convenção é a seguinte:
+Polícia de Segurança Pública de Macau, Avenida do Dr. Rodrigo Rodrigues, Edifício Comforseg, Macau [telefone: (853) 577330; fax: (853) 7905402].
+Portugal é parte na Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 31/91, publicada no Diário da República, 1.ª série-A, n.º 233, de 10 de Outubro de 1991, e estendida a Macau pelo Decreto do Presidente da República n.º 30/98, de 14 de Julho, publicado no Diário da República, 1.ª série-A, n.º 160, de 14 de Julho de 1998, e no Boletim Oficial de Macau, 1.ª série, n.º 13, de 29 de Março de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 26 de Agosto de 1999. - António Nunes de Carvalho Santana Carlos.
