@@ -1,0 +1,3 @@
+Resolução n.º 264/80
+O Conselho de Ministros, reunido em 9 de Julho de 1980, resolveu, nos termos do Tratado Luso-Suíço de Extradição de 30 de Outubro de 1873 e do artigo 24.º do Decreto-Lei n.º 473/75, de 16 de Agosto, deferir o pedido de extradição formulado pelas autoridades suíças relativa ao cidadão suíço Reinhard Naef, o qual se ausentou para Portugal quando se encontrava a cumprir pena de quatro anos e meio de prisão maior, por burla.
+Presidência do Conselho de Ministros, 9 de Julho de 1980. - Pelo Primeiro-Ministro, Francisco José Pereira Pinto Balsemão, Ministro Adjunto do Primeiro-Ministro.
