@@ -1,0 +1,466 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "57",
+    "id": "28360",
+    "titulo": "Alteração do artigo 7º, nº2, do Decreto-Lei nº 318-D/76, de 30 de Abril, referente ao sistema eleitoral para a Assembleia Regional da Madeira"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "1988-07-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4155",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "1988-07-07",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-07-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "01:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214697",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4607-4607"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-08",
+                "pubLeg": "V",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/113/1988-07-08/4607?pgs=4607&org=PLC"
+              }
+            ],
+            "sumario": "Alteração do artigo 7º, nº2, do Decreto-Lei nº 318-D/76, de 30 de Abril, referente ao sistema eleitoral para a Assembleia Regional da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "01:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214699",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4607-4608"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-08",
+                "pubLeg": "V",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/113/1988-07-08/4607?pgs=4607-4608&org=PLC"
+              }
+            ],
+            "sumario": "Alteração do artigo 7º, nº2, do Decreto-Lei nº 318-D/76, de 30 de Abril, referente ao sistema eleitoral para a Assembleia Regional da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "01:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214700",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4608-4608"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-08",
+                "pubLeg": "V",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/113/1988-07-08/4608?pgs=4608&org=PLC"
+              }
+            ],
+            "sumario": "Alteração do artigo 7º, nº2, do Decreto-Lei nº 318-D/76, de 30 de Abril, referente ao sistema eleitoral para a Assembleia Regional da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "01:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214701",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4609-4609"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-08",
+                "pubLeg": "V",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/113/1988-07-08/4609?pgs=4609&org=PLC"
+              }
+            ],
+            "sumario": "Alteração do artigo 7º, nº2, do Decreto-Lei nº 318-D/76, de 30 de Abril, referente ao sistema eleitoral para a Assembleia Regional da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "01:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214702",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4609-4609",
+                  "4610-4610"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-08",
+                "pubLeg": "V",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/113/1988-07-08/4609?pgs=4609,4610&org=PLC"
+              }
+            ],
+            "sumario": "Alteração do artigo 7º, nº2, do Decreto-Lei nº 318-D/76, de 30 de Abril, referente ao sistema eleitoral para a Assembleia Regional da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "01:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214703",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4609-4609",
+                  "4610-4610"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-08",
+                "pubLeg": "V",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/113/1988-07-08/4609?pgs=4609,4610&org=PLC"
+              }
+            ],
+            "sumario": "Alteração do artigo 7º, nº2, do Decreto-Lei nº 318-D/76, de 30 de Abril, referente ao sistema eleitoral para a Assembleia Regional da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "01:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214704",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4609-4609"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-08",
+                "pubLeg": "V",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/113/1988-07-08/4609?pgs=4609&org=PLC"
+              }
+            ],
+            "sumario": "Alteração do artigo 7º, nº2, do Decreto-Lei nº 318-D/76, de 30 de Abril, referente ao sistema eleitoral para a Assembleia Regional da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "01:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214705",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4609-4610"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-08",
+                "pubLeg": "V",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/113/1988-07-08/4609?pgs=4609-4610&org=PLC"
+              }
+            ],
+            "sumario": "Alteração do artigo 7º, nº2, do Decreto-Lei nº 318-D/76, de 30 de Abril, referente ao sistema eleitoral para a Assembleia Regional da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "01:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214706",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4610-4611"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-08",
+                "pubLeg": "V",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/113/1988-07-08/4610?pgs=4610-4611&org=PLC"
+              }
+            ],
+            "sumario": "Alteração do artigo 7º, nº2, do Decreto-Lei nº 318-D/76, de 30 de Abril, referente ao sistema eleitoral para a Assembleia Regional da Madeira.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "217219",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4155",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-07-08",
+        "pubLeg": "V",
+        "pubNr": "113",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/113/1988-07-08?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1988-07-07",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> PEV</I>, <I> ID</I>",
+        "id": "44617",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "113",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
