@@ -1,0 +1,4 @@
+Aviso n.º 160/2000
+Por ordem superior se torna público que a Lituânia ratificou, em 7 de Dezembro de 1999, com entrada em vigor a 1 de Abril de 2000, a Convenção para a Salvaguarda do Património Arquitectónico da Europa, aberta à assinatura em Granada a 3 de Outubro de 1985.
+Portugal é parte da mesma Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 5/91, de 23 de Janeiro, e ratificada pelo Decreto do Presidente da República n.º 5/91, conforme publicado no Diário da República, 1.ª série, n.º 19, de 23 de Janeiro de 1991, tendo sido depositado o respectivo instrumento de ratificação em 27 de Março de 1991.
+Direcção-Geral dos Assuntos Multilaterais, 13 de Julho de 2000. - O Director de Serviços das Organizações Políticas Internacionais, Rui Filipe Monteiro Belo Macieira.
