@@ -1,0 +1,6 @@
+Portaria n.º 83/75
+de 14 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Assuntos Económicos, depois de obtida do Governo de Macau a respectiva contrapartida, abrir, nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e artigo 3.º do aludido Decreto n.º 35770 e sua alínea e), com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, um crédito especial da importância de 1000000$00, destinado a reforçar a verba do capítulo 10.º, artigo 271.º, n.º 4, alínea b), 1.ª «Encargos gerais - Deslocações do pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral do referido território para o ano económico de 1974, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 3.º, artigo 30.º «Indústrias em regime tributário especial - Imposto de consumo sobre tabaco», do orçamento da receita ordinária para o mesmo ano económico.
+Secretaria de Estado dos Assuntos Económicos, 6 de Fevereiro de 1975. - O Secretário de Estado dos Assuntos Económicos, Fernando de Castro Fontes.
+
+Para ser publicada no Boletim Oficial de Macau. - Fernando de Castro Fontes.
