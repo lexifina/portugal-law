@@ -1,0 +1,6 @@
+Decreto-Lei n.º 47684
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. A condição 2.ª constante do artigo 109.º do Regulamento de Disciplina Militar passa a ter a redacção que se segue:
+2.ª Sendo oficial, ter prestado, pelo menos, um ano de serviço, e, se houver sido punido, ter decorrido sobre a data da punição ou punições os prazos de dois, três e quatro anos, respectivamente para as penas de prisão simples, prisão disciplinar e prisão disciplinar agravada ou inactividade.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 8 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
