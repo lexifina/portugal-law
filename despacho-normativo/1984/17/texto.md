@@ -1,0 +1,3 @@
+Despacho Normativo n.º 17/84
+Ao abrigo do disposto no n.º 1.º da Portaria n.º 416/82, de 26 de Abril, são excluídos da lista anexa a esse diploma a roupa exterior e interior, outros artigos de malha e mais enquadrados na CAE a 6 dígitos 3213.0.0, e os artigos de vestuário por corte e costura de tecidos, roupa interior e exterior, roupões e penteadores impermeáveis e outras peças de vestuário exterior impermeabilizado, enquadrados na CAE a 6 dígitos 3220.2.0.
+Secretaria de Estado do Comércio Interno, 12 de Janeiro de 1984. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.
