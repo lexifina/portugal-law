@@ -1,0 +1,6 @@
+Despacho Normativo n.º 44/90
+Tendo cessado em 14 de Janeiro de 1990 a comissão de serviço do engenheiro José Augusto Ramos Rocha como vice-presidente do IROMA - Instituto Regulador e Orientador dos Mercados Agrícolas, torna-se necessário proceder à criação de um lugar de assessor principal na carreira de engenheiro do quadro de pessoal do SIMA, em execução do disposto na alínea a) do n.º 2 e n.os 3 e 4 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro.
+Nestes termos, ao abrigo do n.º 5 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, os Ministros das Finanças e da Agricultura, Pescas e Alimentação determinam o seguinte:
+1.º É criado no quadro de pessoal do Serviço de Informação de Mercados Agrícolas (SIMA), constante do mapa I anexo ao Decreto-Lei n.º 91/85, de 1 de Abril, um lugar de assessor principal na carreira de engenheiro.
+2.º A criação do lugar referido no número anterior produz efeitos a partir de 14 de Janeiro de 1990 e o mesmo será extinto quando vagar.
+Ministérios das Finanças e da Agricultura, Pescas e Alimentação, 18 de Abril de 1990. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação.
