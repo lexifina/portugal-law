@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1950/02/04000/01360136.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1950-02-27",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "27dd4235ceec391ee9a74fa816bc4796df99cacdcf07216f2cf6e9b190d34a09",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.3,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "bb49b5781ecc36cc8057b07ea5c773ecbe4ce48c0c6be053af4f533e308b7e9c",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 200
 }
