@@ -1,0 +1,725 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "6",
+    "id": "29243",
+    "titulo": "Exercício da actividade de radiodifusão difundida do território nacional"
+  },
+  "fase": "Votação requerimento avocação plenário",
+  "codigo_fase": "290",
+  "data_registo": "1988-05-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5035",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "290",
+    "Comissao": null,
+    "DataFase": "1988-05-31",
+    "EvtId": "16",
+    "Fase": "Votação requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-05-31",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212197",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3875-3875"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3875?pgs=3875&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212198",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3875-3875"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3875?pgs=3875&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212199",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3875-3875"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3875?pgs=3875&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212200",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3875-3875"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3875?pgs=3875&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212201",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3875-3875"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3875?pgs=3875&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212202",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3875-3876"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3875?pgs=3875-3876&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212203",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3876-3876"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3876?pgs=3876&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212204",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3876-3876"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3876?pgs=3876&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212205",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3877-3877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3877?pgs=3877&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212206",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3877-3877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3877?pgs=3877&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212207",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3877-3877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3877?pgs=3877&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212208",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3877-3878"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3877?pgs=3877-3878&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212209",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3878-3878"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3878?pgs=3878&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3878-3878"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3878?pgs=3878&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212211",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3878-3879"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-01",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01/3878?pgs=3878-3879&org=PLC"
+              }
+            ],
+            "sumario": "Exercício da actividade de radiodifusão difundida do território nacional",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "226227",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5035",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-06-01",
+        "pubLeg": "V",
+        "pubNr": "95",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/095/1988-06-01?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": [
+      "PS",
+      "PCP"
+    ],
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1988-05-31",
+        "descricao": "Rejeitados os requerimentos dos artigos avocados",
+        "detalhe": null,
+        "id": "45889",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "95",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
