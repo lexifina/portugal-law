@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1919/09/18500/19591960.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1919-09-13",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "f4ed7b4c01a84fba56e48c15fef95cc3f5e610537c2c63eb05151862bbf92755",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.9,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "b7326bf11059fa01f32e4824771d139855b3891e169544e7b28d420c50c325bb",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 507
 }
