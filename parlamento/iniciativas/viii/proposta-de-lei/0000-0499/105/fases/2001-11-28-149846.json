@@ -1,0 +1,1706 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "105",
+    "id": "18754",
+    "titulo": "Orçamento do Estado para 2002"
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2001-11-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2087",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2001-11-28",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-11-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "147",
+                "nome": "António de Almeida Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139987",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "865-867"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/865?pgs=865-867&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139988",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "866-866"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/866?pgs=866&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139989",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "866-866",
+                  "874-874",
+                  "900-901"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/866?pgs=866,874,900-901&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139990",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "866-867",
+                  "869-869"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/866?pgs=866-867,869&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139991",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "867-867",
+                  "885-886",
+                  "888-889",
+                  "893-893",
+                  "905-905",
+                  "911-911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/867?pgs=867,885-886,888-889,893,905,911&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139992",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "867-867",
+                  "870-872",
+                  "874-874",
+                  "879-880",
+                  "886-886",
+                  "890-892",
+                  "894-897",
+                  "901-907",
+                  "909-909",
+                  "910-913"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/867?pgs=867,870-872,874,879-880,886,890-892,894-897,901-907,909,910-913&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139993",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "867-868"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/867?pgs=867-868&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2002",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139994",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "868-868"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/868?pgs=868&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139995",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "868-868"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/868?pgs=868&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139996",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "868-869"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/868?pgs=868-869&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139997",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "869-870"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/869?pgs=869-870&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EQUIPAMENTO SOCIAL",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Ferro Rodrigues"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139998",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "869-870"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/869?pgs=869-870&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139999",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "870-870",
+                  "884-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/870?pgs=870,884-885&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140000",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "871-871"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/871?pgs=871&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140001",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "872-872"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/872?pgs=872&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "833",
+                "nome": "Vicente Merendas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140002",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "873-873"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/873?pgs=873&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140003",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "873-873",
+                  "882-884",
+                  "886-887",
+                  "889-889",
+                  "895-897",
+                  "899-899",
+                  "901-904",
+                  "906-906",
+                  "908-910",
+                  "913-913"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/873?pgs=873,882-884,886-887,889,895-897,899,901-904,906,908-910,913&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140004",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "873-874",
+                  "879-879",
+                  "883-883"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/873?pgs=873-874,879,883&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140005",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "874-874",
+                  "877-879"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/874?pgs=874,877-879&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140006",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "874-875",
+                  "878-880",
+                  "901-901",
+                  "904-905",
+                  "907-907"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/874?pgs=874-875,878-880,901,904-905,907&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1176",
+                "nome": "Casimiro Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140007",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "875-877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/875?pgs=875-877&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140008",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "875-876"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/875?pgs=875-876&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1351",
+                "nome": "Manuel Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140009",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "877-877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/877?pgs=877&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140010",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "878-878",
+                  "880-880"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/878?pgs=878,880&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "879-879",
+                  "887-887",
+                  "892-893",
+                  "900-900",
+                  "903-903",
+                  "908-910"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/879?pgs=879,887,892-893,900,903,908-910&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Guilherme D'Oliveira Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "880-880",
+                  "887-890"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/880?pgs=880,887-890&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1158",
+                "nome": "Barbosa de Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "883-883"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/883?pgs=883&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1592",
+                "nome": "Victor Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "884-884"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/884?pgs=884&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "891-891",
+                  "898-898"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/891?pgs=891,898&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1586",
+                "nome": "Machado Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "893-894"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/893?pgs=893-894&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Rogerio Ferreira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "898-899"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/898?pgs=898-899&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140018",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "905-905"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/905?pgs=905&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "908-908",
+                  "910-911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29/908?pgs=908,910-911&org=PLC"
+              }
+            ],
+            "sumario": "OE 2002-Orçamento do Estado para 2002 (Artºs. 2º, 4º, 8º, 11º, 15º, 17º a 19º, 25º a 28º)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "149846",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2087",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-11-29",
+        "pubLeg": "VIII",
+        "pubNr": "24",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/024/2001-11-29?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
