@@ -1,0 +1,5 @@
+Aviso n.º 107/97
+Por ordem superior se torna público que, por nota de 10 de Fevereiro de 1997 e agindo na sua qualidade de depositário da Convenção sobre o Reconhecimento e a Execução de Sentenças Arbitrais Estrangeiras, concluída em Nova Iorque em 10 de Junho de 1958, o Secretário-Geral das Nações Unidas comunicou ter o Governo do Quirguizistão depositado o seu instrumento de adesão à mencionada Convenção em 18 de Dezembro de 1996.
+Nos termos do artigo XII, parágrafo 2.º, a Convenção entrará em vigor para o Quirguizistão no 90.º dia posterior à data do depósito do instrumento, isto é, em 18 de Março de 1997.
+Portugal é parte na mesma Convenção, a qual foi aprovada para adesão, com uma reserva, pela Resolução da Assembleia da República n.º 37/94, de 8 de Julho, tendo depositado o seu instrumento de adesão em 18 de Outubro de 1994, conforme Aviso n.º 142/95, de 21 de Junho, e tendo a Convenção entrado em vigor para Portugal em 16 de Janeiro de 1995.
+Departamento de Assuntos Jurídicos, 27 de Fevereiro de 1997. - O Director, José Maria Teixeira Leite Martins.
