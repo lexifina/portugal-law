@@ -1,9 +1,9 @@
 ## Capítulo XVII
 
-## Aplicação no tempo
+## Vigência da Concessão
 
 # Base LXXXVI
 
-### Início da vigência da Concessão
+### Entrada em vigor
 
-O Contrato de Concessão entra em vigor na Data de Assinatura do Contrato de Concessão, contando-se a partir dessa data o prazo da Concessão.
+O Contrato de Concessão entrará em vigor no dia da sua assinatura pelas Partes, contando-se a partir dessa data o prazo de duração da Concessão.

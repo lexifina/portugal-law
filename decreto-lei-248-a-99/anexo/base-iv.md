@@ -8,10 +8,6 @@
 
 3 - Os nós de ligação farão parte da Concessão, nela se incluindo, para efeitos de exploração e conservação, os troços das estradas que os completarem, considerados entre os pontos extremos de intervenção da Concessionária nessas estradas ou, quando não for possível essa definição, entre os pontos extremos do enlace dos ramos dos nós de ligação.
 
-4 - Excetuam-se do disposto no número anterior os troços de estrada a transferir pela Concessionária, por acordo, para outras entidades, cuja exploração e conservação apenas se mantém da responsabilidade daquela até à efetiva transferência dos mesmos.
+4 - Nos nós de ligação em que seja estabelecido enlace com outra concessão de auto-estradas, o limite entre concessões será estabelecido pelo perfil transversal de entrada (ponto de convergência) dos ramos de ligação com a plena via, excepto para a iluminação, cuja manutenção será assegurada na totalidade, incluindo a zona da via de aceleração, pela concessionária que detenha o ramo de ligação.
 
-5 - Nos nós de ligação em que seja estabelecido enlace com outra concessão de auto-estradas, o limite entre concessões será estabelecido pelo perfil transversal de entrada (ponto de convergência) dos ramos de ligação com a plena via, excepto para a iluminação, cuja manutenção será assegurada na totalidade, incluindo a zona da via de aceleração, pela concessionária que detenha o ramo de ligação.
-
-6 - As obras de arte integradas nos nós de enlace entre concessões, quer em secção corrente quer em ramos, ficarão afectas à concessão cujo tráfego utilize o tabuleiro da estrutura.
-
-7 - Os limites da Concessão são os que constam, graficamente, de anexo ao Contrato de Concessão.
+5 - As obras de arte integradas nos nós de enlace entre concessões, quer em secção corrente quer em ramos, ficarão afectas à concessão cujo tráfego utilize o tabuleiro da estrutura.

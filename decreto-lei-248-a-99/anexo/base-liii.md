@@ -1,41 +1,39 @@
 # Base LIII
 
-### Isenções de pagamento de taxas de portagem
+### Isenções de portagem
 
-1 - Estão isentos do pagamento de taxas de portagem os veículos afectos às seguintes entidades ou organismos:
+1 - Estarão isentos de portagem:
 
-a) Presidente da República;
+a) Veículos afectos às seguintes entidades ou organismos:
 
-b) Presidente da Assembleia da República;
+Presidente da República;
 
-c) Presidentes do Tribunal Constitucional, do Supremo Tribunal de Justiça, do Supremo Tribunal Administrativo e do Tribunal de Contas;
+Presidente da Assembleia da República;
 
-d) Membros do Governo;
+Membros do Governo;
 
-e) Procurador-Geral da República;
+Presidente do Tribunal Constitucional;
 
-f) Veículos afectos ao Comando da GNR ou da PSP e veículos de forças de segurança afectos à fiscalização do trânsito;
+Presidente do Supremo Tribunal de Justiça;
 
-g) Veículos de protecção civil, de bombeiros, ambulâncias e outros veículos de emergência a estes equiparáveis, quando devidamente identificados;
+Presidente do Supremo Tribunal Administrativo;
 
-h) Veículos militares ou das forças de segurança, quando em coluna;
+Presidente do Tribunal de Contas;
 
-i) Veículos da Concessionária, bem como os que se possam considerar no âmbito da sua atividade ou ao seu serviço, incluindo os veículos da Operadora;
+Procurador-Geral da República;
 
-j) Veículos afetos à EP, ao IMT, à IGF e à AMT, ou ao serviço destas entidades, no âmbito das respetivas funções de fiscalização;
+b) Veículos afectos ao Comando da GNR ou PSP e veículos da Brigada de Trânsito da GNR;
 
-k) Veículos afectos à ANSR - Autoridade Nacional da Segurança Rodoviária, no âmbito das respectivas funções de planeamento, coordenação, controlo e fiscalização.
+c) Veículos dos bombeiros, ambulâncias e outros veículos de emergência a estes equiparáveis, quando devidamente identificados;
 
-2 - Os veículos a que se refere o número anterior, com exceção dos indicados na alínea h), devem circular munidos dos respetivos títulos de isenção, a emitir pelo Concedente, nos termos do número seguinte.
+d) Veículos militares ou das forças de segurança, quando em coluna;
 
-3 - Apenas é considerado como título de isenção o dispositivo eletrónico associado à matrícula que se encontre registado como isento para os efeitos previstos na presente base.
+e) Veículos da Concessionária, bem como os que possam considerar-se no âmbito da sua actividade ou em serviço;
 
-4 - Salvo na medida do disposto no número seguinte, os títulos de isenção previstos na presente base têm um período de validade de dois anos, renovável.
+f) Veículos afectos ao IEP e à Inspecção-Geral de Finanças, no âmbito das suas funções de fiscalização.
 
-5 - Os títulos de isenção previstos na alínea i) do n.º 1 respeitantes a entidades inseridas no âmbito da atividade ou ao serviço da Concessionária são concedidos pelo período de tempo estritamente necessário ao desempenho das atividades ou serviços em causa, não superior a seis meses, renovável.
+2 - Os veículos a que se refere o número anterior, com excepção dos indicados nas alíneas c) e d), deverão circular munidos dos respectivos títulos de isenção, a requerer à Concessionária e a emitir por esta.
 
-6 - A Concessionária envia, semestralmente, à EP lista atualizada das isenções referidas no número anterior que se encontrem em vigor.
+3 - Os títulos de isenção terão um período de validade de dois anos, renovável.
 
-7 - A Concessionária não pode conceder isenções de pagamento de taxas de portagem para além das estabelecidas no n.º 1, a não ser por motivos inerentes ao serviço próprio das Autoestradas e mediante autorização prévia do Concedente.
-
-8 - A passagem de um veículo isento não dá lugar a uma Transacção.
+4 - A Concessionária não poderá conceder isenções de portagem para além das estabelecidas no n.º 1, a não ser por motivos inerentes ao serviço próprio das Auto-Estradas e mediante autorização prévia do IEP.
