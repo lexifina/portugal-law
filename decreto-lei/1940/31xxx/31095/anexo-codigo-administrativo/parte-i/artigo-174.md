@@ -6,7 +6,7 @@ Os serviços municipalizados têm orçamento privativo, que será anexado ao or�
 
 § 2.º É obrigatória a formação de um fundo de reserva para amplições, prejuízos eventuais e depreciações ou amortizações extraordinárias, ao qual será consignada uma percentagem dos lucros de cada exercício, sem embargo das reintegrações periódicas dos valores imobilizados que constituem encargo de exploração.
 
-§ 3.º As perdas que porventura resultem da exploração do serviço serão cobertas pela câmara, a esta pertencendo igualmente quaisquer saldos positivos.
+§ 3.º As perdas que porventura resultem da exploração serão cobertas pela Câmara, a esta pertencendo igualmente quaisquer lucros, os quais, no entanto, não lhe poderão ser entregues na parte em que correspondam a importâncias em dívida aos serviços municipalizados relativas a fornecimentos efectuados ou outros serviços prestados.
 
 § 4.º O relatório, o balanço e as contas dos serviços municipalizados serão anualmente publicados, depois de aprovados pela câmara.
 
