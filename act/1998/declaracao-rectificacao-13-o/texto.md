@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 13-O/98
+Segundo comunicação do Ministério da Educação, o Despacho Normativo n.º 23/98, publicado no Diário da República, 1.ª série, n.º 77, de 1 de Abril de 1998, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 18.º do Regulamento, onde se lê «As remunerações dos docentes que beneficiam da equiparação a bolseiro nos termos deste Regulamento serão suportadas por dotação orçamental específica, inscrita no capítulo 01 do orçamento do Ministério da Educação.» deve ler-se «As remunerações dos docentes que beneficiam da equiparação a bolseiro nos termos deste Regulamento serão suportadas por dotação orçamental específica, inscrita no capítulo 02 do orçamento do Ministério da Educação.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Agosto de 1998. - Pelo Secretário-Geral, a Directora dos Serviços de Apoio Técnico, Iolanda Oliveira.
