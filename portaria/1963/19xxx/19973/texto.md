@@ -1,0 +1,5 @@
+Portaria n.º 19973
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com a alínea e) do artigo 3.º do mesmo diploma, com a redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir, na Guiné, um crédito especial de 296300$00 para reforçar a verba do capítulo 10.º, artigo 305.º, n.º 3), alínea b), 2.ª «Encargos gerais - Diversas despesas - Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na província», da tabela de despesa ordinária do orçamento geral em vigor, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 4.º, artigo 32.º, alínea a) «Taxas - Rendimentos de diversos serviços - Receitas eventuais e não especificadas - Diversas», do orçamento da receita ordinária do referido orçamento geral.
+Ministério do Ultramar, 26 de Julho de 1963. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial da Guiné. - Silva Cunha.
