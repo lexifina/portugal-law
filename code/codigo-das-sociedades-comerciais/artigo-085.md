@@ -14,6 +14,10 @@
 
 2 - A deliberação de alteração do contrato de sociedade será tomada em conformidade com o disposto para cada tipo de sociedade.
 
-3 - A alteração do contrato de sociedade deliberada nos termos dos números anteriores deve ser consignada em escritura pública, a não ser que a deliberação conste de acta lavrada por notário e não respeite a aumento de capital.
+3 - A alteração do contrato de sociedade deliberada nos termos dos números anteriores deve ser consignada em escritura pública, a não ser que:
+
+a) A deliberação conste de acta lavrada por notário e não respeite a aumento de capital;
+
+b) A deliberação conste de acta lavrada pelo secretário da sociedade e não respeite a alteração do montante do capital ou do objecto da sociedade.
 
 4 - Qualquer membro da administração tem o dever de outorgar a escritura exigida pelo número anterior, com a maior brevidade, sem dependência de especial designação pelos sócios.
