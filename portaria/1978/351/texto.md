@@ -1,0 +1,11 @@
+Portaria n.º 351/78
+de 3 de Julho
+A aplicação das directivas monetárias publicadas no 2.º suplemento ao Diário da República, 1.ª série, de 18 de Junho de 1976, às liquidações cambiais de diversas operações de invisíveis correntes, de que se destacam as relativas a receitas turísticas, encontrou nas empresas dificuldades que, embora já atenuadas, ainda persistem.
+No entanto, os elevados prejuízos cambiais sofridos pela economia nacional, por um lado, e o tempo já decorrido após a publicação daquelas directivas e as recomendações feitas às empresas, por outro, apontam para a necessidade de se assegurar a observância da disciplina cambial tanto no respeitante às liquidações como especialmente no tocante à moeda de contratação, particularmente do sector turístico, não prolongando para além de período razoável a prática das transacções e liquidações em escudos. Este desiderato só parece, porém, tangível desde que as moedas de facturação sejam as previstas nas directivas monetárias para as liquidações cambiais.
+Nestes termos:
+Dado o disposto no § único do artigo 22.º e no § 1.º do artigo 25.º do Decreto-Lei n.º 44699, de 17 de Novembro de 1962, bem como nos §§ 5.º e 6.º do artigo 12.º do Decreto-Lei n.º 44698, da mesma data, introduzidos, respectivamente, pelos Decretos-Leis n.os 158/73, de 10 de Abril, e 264/75, de 28 de Maio:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, ouvido o Banco de Portugal, o seguinte:
+1.º Na emissão de facturas e de quaisquer documentos contratuais respeitantes à venda de serviços ao exterior ou a pagamentos de invisíveis correntes em geral, incluindo os relativos ao turismo, as empresas somente podem considerar como moedas de facturação e de liquidação as moedas previstas nas directivas monetárias para as operações de exportação de mercadorias.
+2.º Exceptuam-se da aplicação do anterior n.º 1 as operações contempladas pela Portaria n.º 453/77, de 22 de Julho, e por legislação específica.
+3.º O Banco de Portugal elaborará instruções quanto ao procedimento a adoptar relativamente às contratações celebradas até à entrada em vigor do presente diploma.
+Ministério das Finanças e do Plano, 14 de Junho de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio.
