@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 10/2004
+Sob proposta da Câmara Municipal, a Assembleia Municipal de Proença-a-Nova aprovou, em 28 de Fevereiro de 2003, a suspensão parcial do respectivo Plano Director Municipal, pelo prazo de três anos, na área assinalada na planta anexa à presente resolução.
+O Plano Director Municipal de Proença-a-Nova foi ratificado pela Resolução do Conselho de Ministros n.º 57/94, de 21 de Julho, e alterado por deliberação da Assembleia Municipal de Proença-a-Nova de 30 de Setembro de 1999, publicada no Diário da República, 2.ª série, n.º 293, de 18 de Dezembro de 1999.
+A suspensão parcial deste Plano Director Municipal destina-se a possibilitar a construção do Parque Eólico do Vergão, cujo interesse público foi reconhecido por deliberações da Câmara Municipal e da Assembleia Municipal de Proença-a-Nova, enquadrando-se nos objectivos nacionais de incentivo e incremento da utilização de energias renováveis, nomeadamente do aproveitamento de energia eólica para a produção de electricidade, a qual tem sido encarada como um vector muito importante, quer no que respeita ao cumprimento da estratégia nacional de redução de emissão de gases com efeito de estufa, quer no âmbito da diversificação das fontes e da melhoria da segurança do abastecimento energético.
+Verificam-se, assim, circunstâncias excepcionais resultantes da alteração significativa das perspectivas de desenvolvimento económico e social local incompatíveis com as opções estabelecidas pelo Plano Director Municipal em vigor para a área em causa.
+A presente suspensão foi instruída com a colaboração da ex-Direcção Regional do Ambiente e do Ordenamento do Território - Centro.
+Considerando o disposto na alínea b) do n.º 2 do artigo 100.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro:
+Nos termos do previsto na alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve ratificar a suspensão parcial do Plano Director Municipal de Proença-a-Nova, pelo prazo de três anos, na área delimitada na planta anexa à presente resolução, que dela faz parte integrante.
+Presidência do Conselho de Ministros, 22 de Janeiro de 2004. - O Primeiro-Ministro, José Manuel Durão Barroso.
+
+(ver planta no documento original)
