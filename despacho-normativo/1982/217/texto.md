@@ -1,0 +1,3 @@
+Despacho Normativo n.º 217/82
+Delego no Secretário de Estado Adjunto do Ministro de Estado e da Qualidade de Vida, Dr. João Carlos Vaz Serra de Moura, a minha competência relativa à prévia autorização das despesas a efectuar de conta das dotações orçamentais destinadas a «Bens duradouros» e «Investimentos», abrangidas pelo disposto no artigo 5.º do Decreto-Lei n.º 439-A/77, de 25 de Outubro, conjugado com o artigo 35 do Decreto-Lei n.º 364/81, de 31 de Dezembro.
+Ministério da Qualidade de Vida, 14 de Setembro de 1982. - O Ministro de Estado e da Qualidade de Vida, Gonçalo Pereira Ribeiro Telles.
