@@ -1,0 +1,31 @@
+Decreto-Lei n.º 300/81
+de 5 de Novembro
+Considerando as disposições legais em vigor sobre recrutamento e provimento de pessoal docente dos ensinos primário, preparatório, secundário e médio;
+Considerando que, face a tais disposições, cumpre clarificar o regime das acumulações vigente;
+Considerando que a qualidade que se pretende imprimir ao ensino só poderá ser alcançada, em alguns casos, mormente no que respeita às disciplinas técnicas, tecnológicas e técnicas especiais do ensino secundário, com o recurso a profissionais igualmente necessários noutros sectores de actividade;
+Considerando, ainda, que, num vasto leque de disciplinas, no âmbito do ensino particular, existem grandes carências de professores devidamente habilitados;
+Considerando o disposto no Estatuto do Ensino Particular e Cooperativo:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Os artigos 5.º, n.º 2, 10.º, 11.º e 13.º, n.º 2, do Decreto-Lei n.º 266/77, de 1 de Julho, passam a ter a seguinte redacção:
+Art. 5.º - 1 - ...
+2 - O estabelecido no número anterior só é aplicável desde que se verifiquem cumulativamente as seguintes condições:
+a) ...
+b) ...
+c) Tratando-se do ensino de técnicas especiais do ensino secundário, seja o proposto reconhecido, por despacho ministerial, como idoneamente apto para a docência, ainda que o mesmo não seja portador de habilitações próprias e se encontrem esgotadas todas as possibilidades de recrutamento.
+Art. 10.º - 1 - O disposto no n.º 1 do artigo 5.º e nos artigos 6.º e 7.º deste diploma é aplicável ao ensino particular, desde que se verifique alguma ou algumas das seguintes condições:
+a) Carência, no ensino particular, de professores portadores de habilitações próprias, nomeadamente em regiões periféricas ou isoladas;
+b) Tratar-se do exercício de funções docentes no ensino especial;
+c) Tratar-se do exercício de funções docentes em estabelecimentos de ensino de planos próprios em casos de reconhecida necessidade.
+2 - Sem prejuízo do fixado no n.º 1 do artigo 4.º deste diploma, a acumulação de funções por parte dos professores do ensino oficial no ensino particular não pode ultrapassar, no conjunto, trinta e três horas semanais.
+3 - Não é autorizada a leccionação no ensino particular a professores com redução, total ou parcial, de horário docente, ao abrigo do artigo 20.º do Decreto-Lei n.º 290/75, de 14 de Junho.
+4 - A acumulação de funções a que se refere o n.º 2 deste artigo está sujeita a autorização da Direcção-Geral de Pessoal, ouvida a Direcção-Geral do Ensino Particular e Cooperativo, e deve ser solicitada até 31 de Outubro de cada ano, salvo em casos excepcionais resultantes de situações supervenientes àquela data, reconhecidos por despacho ministerial. A autorização considera-se concedida se o requerimento não for indeferido nos quarenta e cinco dias posteriores à sua entrada na Direcção-Geral de Pessoal.
+5 - A autorização prevista no número anterior será requerida, em papel selado, pelo director do estabelecimento de ensino particular, e o requerimento será acompanhado por declarações de concordância do professor interessado e do responsável pelo estabelecimento de ensino oficial a que o mesmo se encontra vinculado no ano escolar a que respeita a acumulação.
+Art. 11.º - 1 - Os estabelecimentos de ensino oficial poderão propor a nomeação de professores em regime de acumulação, nas condições definidas no presente diploma, até 30 de Novembro do ano escolar a que as mesmas nomeações respeitam, salvo em casos excepcionais resultantes de situações supervenientes àquela data, reconhecidos por despacho ministerial.
+2 - As autorizações das nomeações previstas no n.º 1 deste artigo serão concedidas, ouvidas as respectivas Direcções-Gerais, por despacho do director-geral de Pessoal, que recairá em proposta fundamentada do estabelecimento de ensino interessado.
+Art. 13.º - 1 - ...
+2 - São solidariamente responsáveis pelo cumprimento do estabelecido neste diploma os docentes, os membros dos conselhos administrativos, os directores dos estabelecimentos de ensino particular, os directores dos distritos escolares e os directores das escolas do magistério primário e das escolas normais de educadores de infância, conforme os casos, que, em resultado de processo disciplinar, forem considerados implicados na irregularidade.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1981. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 27 de Outubro de 1981.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
