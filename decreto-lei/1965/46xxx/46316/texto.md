@@ -1,0 +1,29 @@
+Decreto-Lei n.º 46316
+Considerando que o Asilo de Inválidos Militares foi integrado nos Serviços Sociais das Forças Armadas, nos termos do artigo 25.º do Decreto-Lei n.º 42072, de 31 de Dezembro de 1958, e colocado na dependência directa da sua comissão directiva;
+Considerando que tal integração impõe a adopção de novas providências legislativas, especialmente com vista a ampliar a acção assistencial daquele estabelecimento, abrangendo não apenas os militares que se tenham incapacitado em serviço, mas também aqueles que, por invalidez ou velhice, careçam de amparo;
+Considerando a conveniência de, nestas condições, substituir a designação de «Asilo de Inválidos Militares» pela de «Lar de Veteranos Militares»;
+Considerando a necessidade de dar à instituição uma orgânica adaptada à nova situação, actualizando-se o seu regulamento, que foi aprovado e posto em execução pela Portaria n.º 9717, de 2 de Janeiro de 1941;
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O Asilo de Inválidos Militares passa a denominar-se «Lar de Veteranos Militares» (L. V. M.), continuando a pertencer-lhe todos os bens, fundos e rendimentos que possuía sob a sua anterior designação.
+§ único. Os bens que constituem património do Lar não poderão ser alienados.
+Art. 2.º O Lar de Veteranos Militares é um órgão de execução dos Serviços Sociais das Forças Armadas na modalidade de assistência na velhice, no desamparo e na invalidez, dotado de personalidade jurídica e de autonomia administrativa, com sede em Runa e funcionando na dependência da comissão directiva.
+§ único. No caso de extinção dos Serviços Sociais, o Lar, com todos os seus bens, passará automàticamente para a dependência directa do departamento da Defesa Nacional.
+Art. 3.º Constarão do regulamento, a publicar, as condições de admissão no Lar, os motivos de preferência e os casos em que o internamento poderá ser substituído pela concessão de um subsídio.
+Art. 4.º Os requerimentos para admissão no Lar ou para a concessão de subsídios e os documentos necessários e comprovativos de que os candidatos reúnem as condições exigidas são isentos de selo.
+Art. 5.º O Lar compreende o pessoal dos quadros fixados em regulamentos a publicar e o corpo de veteranos militares, constituído pelos militares internados.
+§ 1.º Mediante acordo dos Ministros ou Secretários de Estado dos departamentos interessados, poderá ser mandado prestar serviço no Lar o pessoal militar necessário.
+§ 2.º Além do pessoal dos quadros serão ainda destacados para o Lar, como adidos, os soldados e cabos necessários aos serviços, conforme constar do respectivo regulamento.
+Art. 6.º Compete ao Ministro da Defesa Nacional:
+a) Nomear o director do Lar, directamente ou por proposta da comissão directiva dos Serviços Sociais das Forças Armadas;
+b) Nomear os restantes oficiais e os sargentos, por proposta da comissão directiva;
+c) Autorizar os contratos do pessoal civil.
+Art. 7.º O pessoal menor poderá ser recrutado entre indivíduos da classe civil ou entre reformados militares que possuam as aptidões convenientes e cujo estado físico o permita.
+§ único. Poderá ser admitido pessoal assalariado eventual nas condições previstas no Decreto-Lei n.º 44059, de 24 de Novembro de 1961.
+Art. 8.º As remunerações do pessoal civil serão fixadas por portaria do Ministro da Defesa Nacional e do Ministro das Finanças, não podendo nunca ser superiores às que se encontram estabelecidas para iguais categorias do pessoal dos serviços do Estado.
+Art. 9.º São aplicáveis ao Lar de Veteranos Militares as disposições legais em vigor para a administração das unidades e estabelecimentos militares, com as alterações que forem previstas no respectivo regulamento.
+Art. 10.º Em homenagem à memória de D. Pedro V, continuará subsistindo o fundo estabelecido pela Lei de 24 de Agosto de 1869, cujos rendimentos serão exclusivamente destinados a satisfazer os encargos de internamento de militares, de qualquer ramo das forças armadas, que, além de reunirem as condições gerais de admissão, tenham sido condecorados por acções distintas, quer militares, quer humanitárias.
+Art. 11.º Se o Lar dos Veteranos Militares for substituído por estabelecimento com fins análogos, para ele passará o fundo a que se refere o artigo anterior, com o mesmo destino.
+§ único. Se o Lar for extinto e não se der a substituição prevista no corpo deste artigo, serão os rendimentos do fundo administrados por uma comissão de três oficiais, a designar pelo Ministro da Defesa Nacional, aplicando-se exclusivamente a pensões a militares nas condições do artigo antecedente, de quantitativo equivalente às despesas que o Lar faria com cada internado em alimentação e vestuário.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 29 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
