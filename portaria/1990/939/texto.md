@@ -1,0 +1,13 @@
+Portaria n.º 939/90
+de 4 de Outubro
+Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Social, ao abrigo do disposto nos Decretos-Leis n.os 185/85, de 29 de Maio, e 40/86 de 4 de Março, o seguinte:
+1.º O quadro de pessoal do Centro Regional de Segurança Social de Coimbra, aprovado pela Portaria n.º 289/88, de 9 de Maio, é alargado do número de lugares correspondentes, conforme mapa anexo à presente portaria.
+2.º Os lugares criados nos termos do número anterior serão extintos à medida que vagarem.
+3.º Os lugares referidos serão preenchidos pelos funcionários dos extintos Junta Central das Casas do Povo e Gabinete de Gestão do Fundo de Desemprego, a que se refere a lista anexa à presente portaria.
+4.º Esta portaria produz efeitos a partir de 3 de Junho de 1985 em relação ao pessoal da extinta Junta Central das Casas do Povo e a partir de 8 de Julho de 1986 relativamente ao pessoal do extinto Gabinete de Gestão do Fundo de Desemprego.
+Ministérios das Finanças e do Emprego e da Segurança Social.
+Assinada em 13 de Setembro de 1990.
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
+
+Centro Regional de Segurança Social de Coimbra
+(ver documento original)
