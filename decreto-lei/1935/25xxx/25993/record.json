@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1935/10/24900/15921592.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1935-10-28",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "db9749a38725b1312c566cc15b099bdb07faee02bf12307a5a3a90282f71fbc6",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "f8eab019ac6649592c8694495847c58b937bb32fab98f83b361c90ae77f7c80b",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 270
 }
