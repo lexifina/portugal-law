@@ -1,0 +1,11 @@
+Decreto-Lei n.º 45397
+No sentido de promover a racional motomecanização da exploração agro-pecuária e florestal, foi publicado em 26 de Julho de 1962 o Decreto-Lei n.º 44482, que facultou à Direcção-Geral dos Serviços Florestais e Aquícolas e ao Fundo de Fomento Florestal e Aquícola a possibilidade de cederem, por aluguer, o material circulante pesado e a maquinaria de que disponham. Com esta medida, permitiu-se a utilização aos empresários agrícolas, especialmente no sector florestal, de algumas máquinas e viaturas, que, de outro modo, só difìcilmente poderiam ser utilizadas.
+Sucede, porém, que também a Junta de Colonização Interna dispõe hoje de maquinaria, por virtude da sua actividade. E assim, nos períodos em que os serviços a possam dispensar, deve tal maquinaria ser posta ao dispor dos empresários agrícolas, através de regime de aluguer idêntico ao já facultado à Direcção-Geral dos Serviços Florestais e Aquícolas, prosseguindo-se o objectivo de extrair de um capital da Nação o máximo rendimento útil e dar mais outro passo no sentido da desejável reconversão da economia agrícola.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Aplica-se à Junta de Colonização Interna o disposto nos artigos 1.º, 2.º, 3.º, 4.º e 6.º do Decreto-Lei n.º 44482, de 26 de Julho de 1962.
+Art. 2.º As importâncias cobradas pelo aluguer de material constituem receita do Fundo de Melhoramentos Agrícolas.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 30 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Luís Le Cocq de Albuquerque de Azevedo Coutinho.
+
+Para ser presente à Assembleia Nacional.
