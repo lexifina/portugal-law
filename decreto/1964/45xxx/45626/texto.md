@@ -1,0 +1,12 @@
+Decreto n.º 45626
+Solicita a Câmara Municipal de Mira a exclusão do regime florestal de uma parcela de terreno, com a área de 24650 m2, incorporado no perímetro florestal da dunas de Mira, submetido ao regime florestal por De creio de 27 de Julho de 1917, a fim de na mesma ser instalado o Observatório Geomagnético do Instituto Geofísico da Universidade de Coimbra.
+Considerando que o pedido é de interesse nacional;
+Considerando que a exclusão desta parcela não afecta a finalidade dos trabalhos a levar a efeito no referido perímetro;
+Atendendo a que as estações competentes não vêem inconveniente na sua exclusão;
+Atendendo a que o parecer do Conselho Técnico dos Serviços Florestais lhe é favorável;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É excluída do regime florestal parcial a que fora submetida por decreto de 27 de Julho de 1917 e restituída à administração da Câmara Municipal de Mira, a fim de ser alienada a favor da Comissão Administrativa das Obras da Cidade Universitária de Coimbra, uma parcela de baldios municipais pertencentes ao perímetro florestal das dunas de Mira, com a área de 24650 m2.
+Art. 2.º Não poderá ser abatido qualquer arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que para o efeito elaborará um auto de marca de corte extraordinário.
+Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino mais conveniente.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 27 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Luís Le Cocq de Albuquerque de Azevedo Coutinho.
