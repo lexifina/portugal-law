@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público que o Governo dos Países Baixos informou que a França retirara a reserva feita ao artigo 15 da Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia em 5 de Outubro de 1961, cessando o seu efeito para a França em 28 de Abril de 1984.
+O Governo dos Países Baixos informou ainda que o Governo Francês pedira que fosse alterado o n.º 2.º, alínea a), da sua declaração relativa às autoridades competentes para receber directamente informações relativas às medidas tomadas em virtude da Convenção num outro Estado contratante, nos termos seguintes:
+2.º - a) As jurisdições e autoridades visadas no n.º 1.º precedente, assim como, para o que respeita às decisões relativas ao direito de guarda dos menores e ao direito de visita, o Ministério da Justiça, Bureau de l'Entraide Judiciaire Internationale à la Direction des Affaires Civiles et du Sceau, 13, Place Vendôme, 75001 Paris.
+Fica assim alterado o aviso publicado no Diário do Governo, 1.ª série, n.º 137, de 11 de Junho de 1973.
+Secretaria-Geral do Ministério, 10 de Abril de 1984. - O Director dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
