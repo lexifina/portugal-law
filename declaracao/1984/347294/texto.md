@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Finanças e do Plano, a Portaria n.º 1064/83, publicada no Diário da República, 1.ª série, n.º 297, de 27 de Dezembro de 1983, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No início da portaria, onde se lê «Considerando que os factores determinativos da constituição dos postos de despacho referidos no mapa II da Reforma Aduaneira» deve ler-se «Considerando que os factores determinativos da constituição dos postos de despacho referidos no mapa I da Reforma Aduaneira» e, no n.º 2, onde se lê «Que se proceda à devida rectificação do mapa II anexo àquela Reforma» deve ler-se «Que se proceda à devida rectificação do mapa I anexo àquela Reforma».
+Secretaria-Geral da Presidência do Conselho de Ministros, 21 de Fevereiro de 1984. - O Secretário-Geral, França Martins.
