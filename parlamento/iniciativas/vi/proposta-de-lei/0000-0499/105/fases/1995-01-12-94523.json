@@ -1,0 +1,456 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "105",
+    "id": "3499",
+    "titulo": "Altera a lei nº 30/84, de 5 de Setembro (Lei-quadro do Sistema de Informações da República Portuguesa)."
+  },
+  "fase": "Discussão generalidade decreto",
+  "codigo_fase": "440",
+  "data_registo": "1995-01-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "147",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "440",
+    "Comissao": null,
+    "DataFase": "1995-01-12",
+    "EvtId": "20",
+    "Fase": "Discussão generalidade decreto",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-01-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "232",
+                "nome": "Manuel Sérgio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41346",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1131-1131"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-01-13",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/030/1995-01-13/1131?pgs=1131&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "220",
+                "nome": "Mário Tomé"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41347",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-01-13",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/030/1995-01-13/1130?pgs=1130&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41348",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-01-13",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/030/1995-01-13/1130?pgs=1130&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41349",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-01-13",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/030/1995-01-13/1130?pgs=1130&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "81",
+                "nome": "Silva Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41350",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1129-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-01-13",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/030/1995-01-13/1129?pgs=1129-1130&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41351",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1128-1128"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-01-13",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/030/1995-01-13/1128?pgs=1128&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41352",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1127-1127"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-01-13",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/030/1995-01-13/1127?pgs=1127&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "78",
+                "nome": "Pacheco Pereira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41353",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1127-1127"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-01-13",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/030/1995-01-13/1127?pgs=1127&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Relativo ao Decreto nº 184/VI.",
+    "OevId": "94523",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "147",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-01-13",
+        "pubLeg": "VI",
+        "pubNr": "30",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/030/1995-01-13?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
