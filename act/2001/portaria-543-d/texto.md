@@ -1,0 +1,25 @@
+Portaria n.º 543-D/2001
+de 30 de Maio
+A Portaria n.º 194-A/2000, de 3 de Abril, na redacção dada pela Portaria n.º 737/2000, de 7 de Setembro, que estabelece restrições à pesca de bivalves na zona ocidental sul, teve em conta o estado em que os recursos se encontravam na altura da sua publicação.
+O acompanhamento científico do estado de conservação dos bancos de moluscos bivalves da zona ocidental sul tem vindo a revelar uma recuperação da população de longueirão (Ensis spp.), razão pela qual se justifica uma revisão daquela legislação, de modo a estabelecer regulamentação adequada a uma exploração sustentada dos recursos de moluscos bivalves, ajustando os quantitativos diários a capturar por embarcação ao estado destes mananciais, e a permitir a recuperação das espécies mais ameaçadas, nomeadamente o pé-de-burrinho, razão pela qual se mantém a interdição da sua captura.
+Considera-se ainda adequado assegurar um controlo do esforço de pesca exercido pelas embarcações que exploram estes recursos, pelo que se estabelece a obrigatoriedade do registo de todas as capturas nos diários de pesca/declarações de descarga, bem como a circunscrição dos desembarques e primeira venda a determinados portos e lotas do continente.
+Considerando os dados entretanto obtidos relativos à selectividade das artes de pesca comerciais que capturam longueirão ou navalha nesta zona, prevê-se ainda a possibilidade de utilização de saco de rede de malhagem não inferior a 35 mm, no caso da pesca dirigida a estas espécies.
+Assim, ao abrigo dos artigos 4.º, n.º 2, alíneas d), f) e g), e 13.º do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, do n.º 2 do artigo 1.º do Decreto-Lei n.º 304/87, de 4 de Agosto, na redacção dada pelo Decreto-Lei n.º 237/90, de 24 de Julho, e do artigo 13.º do regulamento aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Na zona ocidental sul definida na alínea b) do artigo 11.º do regulamento aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, é interdita a captura e manutenção a bordo da espécie pé-de-burrinho (Venus striatuta).
+2.º As embarcações licenciadas para a pesca com ganchorra na zona ocidental sul ficam sujeitas aos seguintes condicionalismos:
+a) A pesca é autorizada desde o nascer ao pôr do Sol;
+b) Apenas poderá ser efectuada uma maré diária;
+c) Sem prejuízo do disposto na alínea seguinte, são fixados os seguintes limites máximos de capturas diárias, por espécie e por embarcação:
+Ameijola (Callista chione) - 400 kg;
+Amêijoa-branca (Spisula solida) - 300 kg;
+Conquilha (Donax spp.) - 150 kg;
+Longueirão (Ensis spp.) - 150 kg;
+Amêijoa-macha (Venerupis pullastra) - 200 kg;
+d) É fixado o seguinte limite máximo de captura diária, por embarcação:
+400 kg de ameijola + 200 kg de outras espécies ou, em alternativa, 450 kg do conjunto de todas as espécies, com excepção da ameijola, desde que os quantitativos capturados por espécie não excedam os valores de referência referidos na alínea anterior.
+3.º Os mestres das embarcações que operem na zona ocidental sul são obrigados a registar no diário de pesca/declaração de descarga as quantidades diárias de todos os bivalves capturados, independentemente dos comprimentos de fora a fora das respectivas embarcações.
+4.º As embarcações licenciadas para a pesca com ganchorra na zona ocidental sul são obrigadas a desembarcar todas as capturas provenientes da sua actividade nos portos localizados dentro da referida zona, bem como a proceder à respectiva venda através das lotas nela localizadas.
+5.º Na zona ocidental sul e quando a pesca se destine à captura de longueirão ou navalha, não se aplica o disposto no n.º 5 do artigo 17.º do regulamento aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, sendo autorizado o uso de saco de rede de malhagem não inferior a 35 mm.
+6.º São revogadas as Portarias n.os 194-A/2000, de 3 de Abril, e 737/2000, de 7 de Setembro.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 30 de Maio de 2001.
