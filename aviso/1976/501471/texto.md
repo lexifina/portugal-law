@@ -1,0 +1,5 @@
+Aviso
+No uso da competência que, como banco central, lhe foi atribuída pelo artigo 16.º da sua Lei Orgânica, aprovada pelo Decreto-Lei n.º 644/75, de 15 de Novembro, o Banco de Portugal, em regulamentação do previsto no artigo 28.º, n.º 1, alínea a), daquela Lei Orgânica, e em conformidade com o estabelecido no artigo 1.º do Decreto-Lei n.º 729-H/75, de 22 de Dezembro, comunica o seguinte:
+1. As contas de depósito a abrir em nome de emigrantes podem ser constituídas nas seguintes moedas: dólares dos EUA, dólares canadianos, francos franceses, Deutsche Mark, francos suíços, francos belgas, libras esterlinas e florins.
+2. Nas transferências de crédito de contas de emigrantes pode, contudo, ser utilizada qualquer das moedas normalmente cotadas pelo Banco de Portugal, devendo, neste caso, ser feita a conversão para a moeda em que o depósito deva ser efectuado, utilizando-se, para o efeito, os respectivos câmbios médios.
+Gabinete do Secretário de Estado do Tesouro, 27 de Fevereiro de 1976. - O Chefe do Gabinete, José Augusto do Vale.
