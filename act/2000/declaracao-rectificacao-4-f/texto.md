@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 4-F/2000
+Para os devidos efeitos se declara que o Decreto-Lei n.º 1-A/2000, publicado no Diário da República, 1.ª série, n.º 18, de 22 de Janeiro de 2000, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Na nova redacção do artigo 31.º do Decreto-Lei n.º 349/98, de 11 de Novembro, onde se lê «1 - Até 31 de Dezembro de 2000, ficam isentos de quaisquer taxas ou emolumentos todos os actos notariais decorrentes,» deve ler-se «1 - Até 31 de Dezembro de 2000, ficam isentos de quaisquer taxas ou emolumentos todos os actos notariais e registrais decorrentes,».
+No artigo 2.º, onde se lê «As importâncias liquidadas pelos interessados a título ou emolumentos pela prática de actos notariais decorrentes das operações» deve ler-se «As importâncias liquidadas pelos interessados a título de taxas ou emolumentos pela prática de actos notariais e registrais decorrentes das operações».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Janeiro de 2000. - O Secretário-Geral, Alexandre Figueiredo.
