@@ -1,0 +1,3 @@
+Portaria n.º 17560
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar com a importância de 1.500$00 a verba do capítulo único, artigo 8.º, n.º 2) «Pagamento de serviços e diversos encargos - Despesas de comunicações - Telefones», do orçamento do núcleo de documentação técnica para o ano de 1959, tomando como contrapartida as disponibilidades existentes na verba do mesmo capítulo, artigo 8.º, n.º 1) «Correios e telégrafos», do referido orçamento.
+Ministério do Ultramar, 30 de Janeiro de 1960. - Pelo Ministro do Ultramar, Carlos Krus Abecasis, Subsecretário de Estado do Fomento Ultramarino.
