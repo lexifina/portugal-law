@@ -1,0 +1,371 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jvMQgL4qeojTXYc%2byhcz5p3ic3xODuK0iUO0Y2y2ClcTtFB9k3sD%2b9wQveZYSd8NZLsCb9yzJniqsFTagd7CbMNr9RiU3i%2bk3rmuobGx84PbCdMXEaO2tAt4ls9fukmsItoX60VYYqS8JyucRXeNK4DfI799g%2blbezfSJpZ8w7%2baZYMBqfv1VesnUx6bJSW47suQTEZztwlqhsheF%2fV6CayXq9XylkeKBdMS4k0WpFeGsJUrYs53Ga%2fzv4nbFZSlZiCimHdTEOsH%2b%2fNcwjWayb61QyVSstj3ODN9XM8DB46f%2bPQ7wSP1KSIrsnu6vc0NN5UqeG88nqFw4kPOlzPTpz7DVHur%2fsRBhn0B8NlVzMX2nw7jDBVCKY54B7pyG%2fWe&fich=PeticoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "a0b19d1767819df1af646741c024bf367ae6532369315672414b384340a05bf4",
+  "legislatura": "VI",
+  "id": "11077",
+  "numero": "111",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1992-05-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "1993-02-17",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1992-07-30",
+        "DataArquivo": "1993-02-17",
+        "DataBaixaComissao": "1993-01-27",
+        "DataEnvioPAR": "1993-02-04",
+        "DataReaberta": "1992-07-30",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO PETIÇÕES",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1993-01-27",
+            "gp": "Indep",
+            "id": "212",
+            "motivoCessacao": null,
+            "nome": "João Corregedor da Fonseca"
+          }
+        ],
+        "RelatorioFinal": [
+          "21298"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "1994-01-13",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "1994-01-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "38453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "884-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-01-14",
+                "pubLeg": "VI",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/026/1994-01-14/884?pgs=884-885&org=PLC"
+              }
+            ],
+            "Sumario": "ISENCAO DOS ADVOGADOS COMO CONTRIBUINTES ECONOMICOS DO IVACOM O OBJECTIVO DE UMA MAIOR FACILIDADE NO ACESSO A JUSTICANA PARTE DOS CIDADAOS",
+            "Teor": "INTERVEM NO DEBATE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-01-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "38454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "883-884"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-01-14",
+                "pubLeg": "VI",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/026/1994-01-14/883?pgs=883-884&org=PLC"
+              }
+            ],
+            "Sumario": "ISENCAO DOS ADVOGADOS COMO CONTRIBUINTES ECONOMICOS DO IVACOM O OBJECTIVO DE UMA MAIOR FACILIDADE NO ACESSO A JUSTICANA PARTE DOS CIDADAOS",
+            "Teor": "INTERVEM NO DEBATE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-01-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "38455",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "883-883"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-01-14",
+                "pubLeg": "VI",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/026/1994-01-14/883?pgs=883&org=PLC"
+              }
+            ],
+            "Sumario": "ISENCAO DOS ADVOGADOS COMO CONTRIBUINTES ECONOMICOS DO IVACOM O OBJECTIVO DE UMA MAIOR FACILIDADE NO ACESSO A JUSTICANA PARTE DOS CIDADAOS",
+            "Teor": "INTERVEM NO DEBATE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-01-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "38456",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "882-883"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-01-14",
+                "pubLeg": "VI",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/026/1994-01-14/882?pgs=882-883&org=PLC"
+              }
+            ],
+            "Sumario": "ISENCAO DOS ADVOGADOS COMO CONTRIBUINTES ECONOMICOS DO IVACOM O OBJECTIVO DE UMA MAIOR FACILIDADE NO ACESSO A JUSTICANA PARTE DOS CIDADAOS",
+            "Teor": "INTERVEM NO DEBATE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-01-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "38457",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "881-882"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-01-14",
+                "pubLeg": "VI",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/026/1994-01-14/881?pgs=881-882&org=PLC"
+              }
+            ],
+            "Sumario": "ISENCAO DOS ADVOGADOS COMO CONTRIBUINTES ECONOMICOS DO IVACOM O OBJECTIVO DE UMA MAIOR FACILIDADE NO ACESSO A JUSTICAPOR PARTE DOS CIDADAOS",
+            "Teor": "INTERVEM NO DEBATE. "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11077",
+    "PetAssunto": "Os peticionantes consideram ilegal transformar o advogado em contribuinte económico do IVA, propondo que as isenções possam ser restauradas tendo como finalidade uma maior facilidade do acesso à Justiça por parte dos cidadãos.",
+    "PetDataEntrada": "1992-05-29",
+    "PeticoesAssociadas": null,
+    "PetId": "11077",
+    "PetLeg": "VI",
+    "PetNr": "111",
+    "PetNrAssinaturas": "1439",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "96",
+        "obs": null,
+        "pag": [
+          "881-885"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1994-01-14",
+        "pubLeg": "VI",
+        "pubNr": "26",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/026/1994-01-14/881?pgs=881-885&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "169556",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1992-08-27",
+        "pubLeg": "VI",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR II série C",
+        "pubTp": "C",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2c/06/01/037/1992-08-27?org=PLC"
+      }
+    ]
+  }
+}
