@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "132",
+    "id": "19253",
+    "titulo": "Suspende os processos de alienação de imóveis do Estado."
+  },
+  "fase": "Votação parecer processo urgência",
+  "codigo_fase": "179",
+  "data_registo": "2002-10-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "179",
+    "Comissao": null,
+    "DataFase": "2002-10-10",
+    "EvtId": "40",
+    "Fase": "Votação parecer processo urgência",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Parecer da Comissão de Economia e Finanças",
+    "OevId": "153628",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "272937",
+        "obs": null,
+        "pag": [
+          "1927-1927"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-10-11",
+        "pubLeg": "IX",
+        "pubNr": "47",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/047/2002-10-11/1927?pgs=1927&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "273989",
+        "obs": "Parecer da Comissão de Economia Finanças e Plano sobre o processo de urgência",
+        "pag": [
+          "239-239"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-10-19",
+        "pubLeg": "IX",
+        "pubNr": "20",
+        "pubSL": "1",
+        "pubTipo": "DAR II série C",
+        "pubTp": "C",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2c/09/01/020/2002-10-19/239?pgs=239&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2002-10-10",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Abstenção:<I>PS</I>",
+        "id": "29246",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "45",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
