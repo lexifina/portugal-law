@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/09/21100/10811081.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-09-08",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "a2acee897a818e1524d4c60dc84f9f880e543ae886b0e9b1adfed562a2a33a3b",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.2,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "0f45afca0096e9b320a9c106d9ad288bd62bc455f5ee93041a17b49bb2051b30",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 293
 }
