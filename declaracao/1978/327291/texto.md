@@ -1,0 +1,7 @@
+Declaração
+Segundo comunicação do Ministério da Agricultura e Pescas, o Despacho Normativo n.º 171/78, publicado no Diário da República, 1.ª série, n.º 176, de 2 de Agosto de 1978, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com algumas inexactidões, que assim se rectificam:
+Na tabela anexa, em «Espécies, I) Gramíneas», onde se lê: «Helcus spp», deve ler-se: «Holcus spp».
+Na coluna «Faculdade germinativa», onde se lê: «(a) 80», deve ler-se: «(b) 80».
+Na coluna «II) Leguminosas: Nome vulgar», onde se lê: «Cornicão, etc.», deve ler-se: «Cornichão, etc.»; onde se lê: «Tremocilha», deve ler-se: «Tremocilhas»; e onde se lê: «Vivia spp ...», deve ler-se «Vicla spp ...»
+Na coluna «III) Hortícolas», onde se lê: «Apium graveolena, L.», deve ler-se: «Apium graveolens, L.»; onde se lê: «Barbarea praecox (sm.), P. Pr.», deve ler-se: «Barbarea praecox (Sm.), P. Pr.»; onde se lê: «Lycopersicon lycopersicum (L.), Karsten ex Fan - Tomate - 90 - 55 - 0,3 - 0,2», deve ler-se: «Lycorpersicon lycopersicum (L.), Karsten ex Farwell - Tomate - 90 - 70 - 0,3 - 0,2»; onde se lê: «Nasturtium officinale R. Br. - Agrião-de-água ...», deve ler-se: «Nasturtium officionale, R. Br. - Agrião-de-água - 92 - 70 - 0,3 - 0,3», e onde se lê: «Portulaca cleracea, L.» e «Sanquisorba minor, Scop.», deve ler-se, respectivamente: «Portulaca oleracea, L.» e «Sanguisorba minor, Scop.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 11 de Outubro de 1978. - O Secretário-Geral, Alfredo Barroso.
