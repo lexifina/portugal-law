@@ -1,0 +1,8 @@
+Decreto-Lei n.º 47514
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O artigo único do Decreto-Lei n.º 39628, de 1 de Maio de 1954, que altera o artigo 3.º do Decreto-Lei n.º 27695, de 13 de Maio de 1937, passa a ter a seguinte redacção:
+Artigo único. Os funcionários que na ocasião em que se abrir concurso para preenchimento de lugares de entrada em qualquer das categorias dos quadros dos serviços do Ministério das Obras Públicas exerçam cargos por contrato ou por nomeação interina, com boas informações, poderão ser admitidos a esse concurso, ainda que excedam o limite máximo da idade a que se refere o artigo 1.º, desde que tenham sido contratados ou nomeados interinamente para a respectiva categoria com idade inferior a esse limite e numa ou noutra dessas situações, indistintamente, se tenham mantido sem interrupção até à abertura do concurso.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 26 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Nato de Carvalho.
+
+Para ser presente à Assembleia Nacional.
