@@ -1,21 +1,25 @@
 ## Secção III
 
-## Direcções-gerais e outros serviços
-
-## Subsecção I
-
-## Unidades orgânicas
+## Outros serviços
 
 # Artigo 27.º
 
-### Estrutura
+### Unidades orgânicas
 
 Os serviços da Assembleia da República compreendem ainda as seguintes unidades orgânicas:
 
-a) A Direcção-Geral de Apoio Parlamentar;
+a) O Centro de Estudos Parlamentares;
 
-b) A Direcção-Geral de Administração e Informática;
+b) A Direcção de Serviços de Apoio e Secretariado;
 
-c)A Direcção de Serviços de Relações Públicas e Internacionais;
+c) A Direcção de Serviços de Documentação e Informação;
 
-d) O Museu.
+d) A Direcção de Serviços Administrativos e Financeiros;
+
+e) O Centro de Informática;
+
+f) O Gabinete de Relações Públicas e Internacionais;
+
+g) O Museu;
+
+h) O Gabinete Médico e de Enfermagem.

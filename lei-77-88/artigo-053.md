@@ -1,5 +1,5 @@
 # Artigo 53.º
 
-### Regime remuneratório do pessoal da Assembleia da República e dos gabinetes
+### Regime remuneratório do pessoal da Assembleia da República e dos Gabinetes
 
-O regime remuneratório do pessoal da Assembleia da República e do pessoal dos gabinetes do Presidente da Assembleia da República e dos grupos parlamentares ou equiparado será fixado pelo Presidente da Assembleia da República, obtido o parecer favorável do Conselho de Administração, sem prejuízo do anexo I à presente Lei.
+O regime remuneratório do pessoal da Assembleia da República e do pessoal dos Gabinetes do Presidente da Assembleia da República, dos Vice-Presidentes e do Secretário-Geral será fixado pelo Presidente da Assembleia da República, sob proposta do Conselho de Administração.

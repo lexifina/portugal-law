@@ -1,7 +1,3 @@
-## Subsecção V
-
-## Museu da Assembleia da República
-
 # Artigo 42.º
 
 ### Museu

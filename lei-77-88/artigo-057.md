@@ -6,16 +6,20 @@
 
 2 - Compete especialmente aos directores de serviços:
 
-a) Coadjuvar o director-geral no desempenho das suas funções, dando-lhe conhecimento imediato de tudo quanto possa influir no funcionamento dos serviços, prestar-lhe toda a cooperação e sugerir-lhe as providências que reputem de convenientes;
+a) Coadjuvar o Secretário-Geral no desempenho das suas funções, dando-lhe conhecimento imediato de tudo quanto possa influir no funcionamento dos serviços, prestar-lhe toda a cooperação e sugerir-lhe as providências que reputem de convenientes;
 
-b) Superintender nos serviços da direcção e promover o seu regular andamento, a resolução de todas as dúvidas que lhes forem apresentadas pelos seus subordinados e o cumprimento dos despachos do director-geral;
+b) Superintender nos serviços da direcção e promover o seu regular funcionamento, a resolução de todas as dúvidas que lhe forem apresentadas pelos seus subordinados e a execução dos despachos do Secretário-Geral;
 
-c) Promover a instauração de processos disciplinares e propor louvores aos funcionários seus subordinados;
+c) Adoptar as medidas necessárias à melhor organização dos serviços e à simplificação e uniformização dos métodos de trabalho;
 
-d) Emitir parecer nos processos que devam submeter à apreciação do director-geral ainda que já estejam informados por funcionários seus subordinados, podendo, no entanto, limitar-se a manifestar por escrito a sua concordância com os pareceres e informações destes;
+d) Promover a instauração de processos disciplinares e propor louvores aos funcionários seus subordinados;
 
-e) Praticar quaisquer outros actos para que tenham recebido delegação do director-geral;
+e) Emitir parecer nos processos que devam submeter à apreciação do Secretário-Geral, ainda que já estejam informados por funcionários seus subordinados;
 
-f) Executar tudo o mais de que forem incumbidos pelo director-geral no âmbito das atribuições da direcção de serviços.
+f) Praticar quaisquer outros actos para que tenham recebido delegação do Secretário-Geral;
+
+g) Executar tudo o mais de que forem incumbidos pelo Secretário-Geral no âmbito das atribuições da direcção de serviços.
 
 3 - Os directores de serviços serão substituídos nas suas faltas ou impedimentos pelos chefes de divisão que por eles forem designados.
+
+4 - Os directores de serviços podem ser apoiados por um funcionário dos respectivos serviços, por si designado para exercer funções de secretariado.

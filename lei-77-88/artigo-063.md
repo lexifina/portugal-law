@@ -8,7 +8,7 @@
 
 3 - Nos casos de coligação eleitoral, a subvenção devida a cada um dos partidos nela integrados é igual à subvenção que, nos termos do n.º 2, corresponder à respectiva coligação eleitoral, distribuída proporcionalmente em função dos deputados eleitos por cada partido.
 
-4 - Aos grupos parlamentares será atribuída uma subvenção para encargos de assessoria aos deputados não inferior a quatro vezes o salário mínimo nacional anual por grupo parlamentar, mais um terço do mesmo por deputado.
+4 - A cada grupo parlamentar é atribuída, anualmente, uma subvenção para encargos de assessoria aos Deputados não inferior a quatro vezes o salário mínimo nacional anual, mais metade do valor do mesmo por Deputado, a ser paga mensalmente, nos termos do n.º 6.
 
 5 - Os grupos parlamentares originários de partidos que tenham concorrido em determinada coligação ao acto eleitoral serão considerados como um só grupo parlamentar para os efeitos do número anterior.
 
