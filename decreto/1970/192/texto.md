@@ -1,0 +1,18 @@
+Decreto n.º 192/70
+Na sequência de outras providências legais, o Estatuto do Funcionalismo Ultramarino actualmente em vigor concede aos funcionários e outros agentes da administração pública do ultramar o direito a assistência nos casos de tuberculose, câncer, lepra, doença do sono e doenças mentais.
+Se é certo que os funcionários do Ministério do Ultramar, seus organismos consultivos e dependentes, mercê das leis em vigor na metrópole já beneficiam da assistência nos casos de tuberculose, não lhes são, contudo, aplicáveis as disposições citadas do Estatuto do Funcionalismo Ultramarino quanto aos outros benefícios ali previstos.
+Convindo, assim, remediar esta situação, dada até a permeabilidade que existe entre os quadros ultramarinos e os do Ministério do Ultramar e o facto, que não se afigura justo, de os funcionários ultramarinos perderem benefícios quando passam a prestar serviço no Ministério;
+Considerando que não há vantagens em que a assistência na tuberculose, que se mostra eficiente através das leis em vigor na metrópole, passe a ter um regime diferente do actual;
+Atendendo a que, embora não incluindo a assistência na tuberculose, em relação à qual há um desconto fixado por lei para os funcionários metropolitanos, a contribuição a que se refere o artigo 312.º do Estatuto do Funcionalismo Ultramarino não é exagerada para a assistência nos outros casos previstos no artigo 305.º do mesmo diploma;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º - 1. São extensivas ao pessoal do Ministério do Ultramar, seus organismos consultivos e dependentes as disposições dos artigos 305.º a 312.º do Estatuto do Funcionalismo Ultramarino, no tocante à assistência nos casos de câncer, lepra, doença do sono e doenças mentais.
+2. A assistência nos casos de tuberculose ao mesmo pessoal continua a reger-se pela legislação que actualmente lhe é aplicável.
+Art. 2.º Na extensão ao pessoal a que se refere o artigo 1.º do disposto nos artigos 305.º a 312.º do Estatuto do Funcionalismo Ultramarino, as referências aos governadores ultramarinos e às juntas de saúde locais consideram-se feitas ao Ministro do Ultramar e à Junta de Saúde do Ultramar.
+Art. 3.º O desconto a que se refere o artigo 312.º do Estatuto do Funcionalismo Ultramarino, bem como a redução prevista no § 4.º do artigo 310.º do mesmo diploma, serão feitos nos vencimentos ou salários do pessoal que ficar abrangido pelo disposto no artigo 1.º do presente diploma, constituindo receita do Hospital do Ultramar destinada a suportar os encargos com a assistência nos casos de câncer, lepra, doença do sono e doenças mentais.
+O Hospital do Ultramar promoverá as diligências para o reforço da dotação respectiva, sempre que necessário.
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+Promulgado em 22 de Abril de 1970.
+Publique-se.
+Presidência de República, 1 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
