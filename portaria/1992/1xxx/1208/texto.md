@@ -1,0 +1,71 @@
+Portaria n.º 1208/92
+de 23 de Dezembro
+Considerando a Portaria n.º 102/92, de 19 de Fevereiro, que estabelece o regime jurídico geral do Programa Nacional de Apoio à Reestruturação e Inovação no Sector Agrícola (NOVAGRI), o qual prevê diversos programas específicos a regulamentar em diploma próprio;
+Considerando que, por decisão da Comissão das Comunidades Europeias, foi aprovada uma adenda ao NOVRAGI contemplando o Programa Específico de Orizicultura;
+Considerando que, face às alterações em curso na política agrícola comum, importa assegurar a competitividade do sector orizícola nacional;
+Considerando a necessidade de regulamentar o Programa Específico de Orizicultura:
+Assim, ao abrigo do artigo 9.º do Decreto-Lei n.º 96/87, de 4 de Março:
+Manda o Governo, pelo Ministro da Agricultura, o seguinte:
+1.º
+Natureza e objectivos
+1 - O presente diploma estabelece o regime jurídico do Programa Específico de Orizicultura do NOVAGRI, visando a realização dos seguintes objectivos:
+a) Redução dos custos da produção orizícola;
+b) Melhoria qualitativa da produção orizícola com vista a satisfazer as exigências do mercado.
+2 - Em tudo o que não estiver especialmente regulado no presente diploma aplica-se o disposto na Portaria n.º 102/92, de 19 de Fevereiro.
+2.º
+Âmbito territorial de aplicação
+O presente Programa aplica-se nas áreas geográficas de intervenção das Direcções Regionais de Agricultura da Beira Litoral, do Ribatejo e Oeste e do Alentejo.
+3.º
+Acções elegíveis
+Para prossecução dos objectivos enunciados no n.º 1.º, são concedidas ajudas às seguintes acções:
+a) Redimensionamento, nivelamento, rega e drenagem dos canteiros;
+b) Aquisição de equipamento laser;
+c) Aquisição de ceifeiras debulhadoras;
+d) Instalação de unidades de recepção, secagem armazenagem do arroz.
+4.º
+Beneficiários
+Podem candidatar-se às ajudas previstas no presente diploma:
+a) Orizicultores em nome individual ou colectivo;
+b) Associações de orizicultores, cooperativas agrícolas, sociedades de agricultura de grupo e formas associativas congéneres.
+5.º
+Condições de acesso
+1 - Para poderem beneficiar da ajuda à acção prevista na alínea a) do n.º 3.º, os candidatos devem:
+a) Ser titulares de uma área mínima de 5 ha destinada à cultura do arroz;
+b) Apresentar um projecto que, sem prejuízo das condições gerais estabelecidas na Portaria n.º 102/92, preveja que os canteiros objecto do investimento tenham uma superfície maior ou igual a 0,5 ha.
+2 - Podem beneficiar da ajuda à acção prevista na alínea b) do n.º 3.º os candidatos que explorem, pelo menos, 70 ha destinados à cultura do arroz.
+3 - Podem beneficiar da ajuda à acção prevista na alínea c) do n.º 3.º os beneficiários que explorem, no mínimo, 40 ha destinados à cultura do arroz.
+4 - No caso da ajuda à acção prevista na alínea d) do n.º 3.º, devem os beneficiários produzir, pelo menos, 250 t de arroz por ano.
+6.º
+Despesas elegíveis
+Para efeito de atribuição de ajudas são consideradas as seguintes despesas e respectivos custos máximos:
+a) Preparação dos canteiros: 400 contos/ha;
+b) Aquisição de equipamento laser: 45 contos/ha;
+c) Aquisição de ceifeiras debulhadoras: 400 contos/ha;
+d) Construção, ampliação ou beneficiação de unidades de secagem: 20 contos/t;
+e) Construção, ampliação ou beneficiação de unidades de armazenagem: 25 contos/t.
+7.º
+Valor das ajudas
+1 - Os valores das ajudas a conceder no âmbito deste diploma são as seguintes:
+a) 65% da despesa elegível, quando se trate de melhoramentos fundiários e construções;
+b) 40% da despesa elegível, quando esteja em causa a aquisição de máquinas e equipamentos.
+2 - No caso da acção referida na alínea a) do n.º 3.º, o valor da ajuda a conceder é de 75% da despesa elegível, desde que, cumulativamente, se verifiquem as seguintes condições:
+a) Tratar-se de candidaturas conjuntas de, pelo menos, três beneficiários;
+b) As áreas agrupadas sejam contíguas;
+c) A superfície a beneficiar seja de, pelo menos, 5 ha.
+8.º
+Limite das ajudas
+Os montantes máximos de investimento considerados para efeito de cálculo das ajudas previstas no presente diploma são os seguintes:
+a) 50000 contos, no caso de cooperativas, associações de orizicultores, sociedades de agricultura de grupo e formas associativas congéneres;
+b) 25000 contos, quando se trate de orizicultores individuais ou colectivos.
+9.º
+Processo de candidatura
+1 - O processo de candidatura às acções referidas no n.º 3.º inicia-se com a apresentação pelos interessados, junto do serviço regional de agricultura competente, de uma ficha de inscrição, de acordo com modelo a distribuir por esses mesmos serviços, até ao dia 26 de Fevereiro ou até 31 de Agosto de 1993.
+2 - A ficha de inscrição deve ser acompanhada de elementos comprovativos dos requisitos de acesso às ajudas e das declarações em que sejam assumidos os compromissos exigidos para a sua concessão.
+3 - As inscrições apresentadas serão objecto de análise e decisão preliminar, respectivamente até 15 de Abril ou 30 de Setembro de 1993.
+4 - Os candidatos que tenham obtido decisão preliminar favorável deverão proceder à entrega dos respectivos projectos de investimentos junto dos serviços regionais de agricultura competentes, respectivamente até 31 de Maio ou até 15 de Novembro de 1993.
+5 - Os projectos apresentados serão objecto de análise e decisão final, respectivamente, até 30 de Julho ou 31 de Dezembro de 1993.
+6 - Excepcionalmente, para o ano em curso, os processos de candidatura iniciam-se com a apresentação, até 18 de Dezembro, dos projectos de investimento.
+7 - Os projectos apresentados nos termos do número anterior serão objecto de decisão no prazo máximo de 15 dias a contar da sua recepção.
+Ministério da Agricultura.
+Assinada em 25 de Novembro de 1992.
+Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
