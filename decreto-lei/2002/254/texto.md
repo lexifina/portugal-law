@@ -1,0 +1,43 @@
+Decreto-Lei n.º 254/2002
+de 22 de Novembro
+O Decreto-Lei n.º 238/94, de 19 de Setembro, que define o sistema de unidades de medida legais, transpôs para a ordem jurídica nacional a Directiva n.º 80/181/CEE, do Conselho, de 20 de Dezembro de 1979, alterada pelas Directivas n.os 85/1/CEE, do Conselho, de 18 de Dezembro de 1984, e 89/617/CEE, do Conselho, de 27 de Novembro de 1989.
+Acontece que o texto da referida Directiva n.º 80/181/CEE sofreu, recentemente, mais uma alteração através da Directiva n.º 1999/103/CE, do Parlamento Europeu e do Conselho, de 24 de Janeiro de 2000.
+Tal alteração surgiu da necessidade de a adaptar às resoluções da 19.ª Conferência Geral de Pesos e Medidas, na qual se alargou a lista de prefixos do SI (Sistema Internacional de Medidas) a ser utilizados para múltiplos e submúltiplos das unidades do SI, bem como às regras de utilização prática do SI estabelecidas na norma internacional ISO 1000.
+Por outro lado, a Organização Internacional de Normalização (ISO) procedeu à revisão dos princípios e das regras relativos às grandezas e às unidades, em conformidade com a norma internacional ISO 31, pelo que tais matérias foram, de igual modo, contempladas na Directiva n.º 1999/103/CE.
+Por fim, e dado que determinados países terceiros não aceitam no seu mercado produtos com marcações exclusivamente nas unidades legais, criando uma desvantagem para as empresas que exportam para tais países, esta nova directiva veio autorizar a utilização das indicações suplementares em unidades não legais durante um período mais largo.
+Deste modo, importa introduzir todas estas alterações na ordem jurídica nacional, alterando em conformidade o Decreto-Lei n.º 238/94, de 19 de Setembro.
+Assim:
+No uso da autorização legislativa concedida pela Lei n.º 18/2002, de 15 de Julho, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objecto
+O presente diploma procede à transposição, para a ordem jurídica nacional, da Directiva n.º 1999/103/CE, do Parlamento Europeu e do Conselho, de 24 de Janeiro de 2000.
+Artigo 2.º
+Indicações suplementares
+O artigo 2.º do Decreto-Lei n.º 238/94, de 19 de Setembro, passa a ter a seguinte redacção:
+«Artigo 2.º
+[...]
+1 - ...
+2 - A utilização das indicações suplementares é autorizada até 31 de Dezembro de 2009.
+3 - ...»
+Artigo 3.º
+Definições
+Os n.os 1.1.1, 1.2.1, 1.3 e 3 do anexo ao Decreto-Lei n.º 238/94, de 19 de Setembro, são alterados do seguinte modo:
+a) No n.º 1.1.1, o texto que se segue ao quadro passa a ter a seguinte redacção:
+«A temperatura Celsius t é definida pela diferença t = T - T(índice 0) entre duas temperaturas termodinâmicas T e T(índice 0) com T(índice 0) = 273,15 K. Um intervalo ou uma diferença de temperatura podem exprimir-se quer em kelvins quer em graus Celsius. A unidade grau Celsius é igual à unidade kelvin.»
+b) As definições das unidades SI suplementares que se seguem ao quadro do n.º 1.2.1 passam a ter a seguinte redacção:
+«Unidade de ângulo plano:
+O radiano é o ângulo compreendido entre dois raios de um círculo que intersectam, na circunferência, um arco de comprimento igual ao do raio.
+Unidade de ângulo sólido:
+O esterradiano é o ângulo sólido de um cone que, tendo o vértice no centro de uma esfera, intersecta na superfície dessa esfera uma área igual à de um quadrado cujo lado tem um comprimento igual ao do raio da esfera.»
+c) O quadro do n.º 1.3 é substituído pelo seguinte quadro:
+(ver quadro no documento original)
+d) O n.º 3 passa a ter a seguinte redacção:
+«3 - Unidades utilizadas com o SI, cujos valores em si são obtidos experimentalmente:
+(ver quadro no documento original)
+Nota. - Os prefixos e os seus símbolos mencionados no n.º 1.3 aplicam-se a estas duas unidades e aos seus símbolos.»
+Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva.
+Promulgado em 6 de Novembro de 2002.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 13 de Novembro de 2002.
+O Primeiro-Ministro, José Manuel Durão Barroso.
