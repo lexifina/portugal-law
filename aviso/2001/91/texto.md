@@ -1,0 +1,5 @@
+Aviso n.º 91/2001
+Por ordem superior se torna público que, por nota de 30 de Maio de 2001, e nos termos do artigo 32.º da Convenção Europeia de Extradição, aberta à assinatura em Paris em 13 de Dezembro de 1957, a Secretaria-Geral do Conselho da Europa notificou ter a República do Chipre, em 25 de Maio de 2001, retirado a declaração efectuada ao artigo 11.º da Convenção em virtude de a pena de morte ter sido abolida no Chipre, quanto aos crimes a que a Convenção é aplicável.
+A República do Chipre declarou ainda que, pelo mesmo motivo, o segundo parágrafo da declaração efectuada a respeito do artigo 6.º da Convenção é igualmente alterado, com a supressão das palavras «morte ou», na segunda linha.
+Portugal é parte da mesma Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 23/89, de 21 de Agosto, tendo sido depositado o seu instrumento de ratificação, conforme aviso publicado no Diário da República, 1.ª série, n.º 76, de 31 de Março de 1990, com uma declaração e reservas.
+Departamento de Assuntos Jurídicos, 20 de Julho de 2001. - A Directora, Maria Margarida Aleixo Antunes Rei.
