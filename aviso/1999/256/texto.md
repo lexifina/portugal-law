@@ -1,0 +1,5 @@
+Aviso n.º 256/99
+Por ordem superior se torna público que, por nota de 17 de Novembro de 1999, o Secretário-Geral das Nações Unidas, na sua qualidade de depositário do Protocolo Adicional à Convenção Única sobre Estupefacientes, concluído em Genebra em 25 de Março de 1972, comunicou ter o Governo de Portugal notificado, em 12 de Novembro de 1999, que o referido Protocolo foi estendido ao território de Macau, nos mesmos termos em que a ele está vinculado o Estado Português.
+Portugal é Parte do Protocolo, que foi aprovado, para adesão, pelo Decreto n.º 161/78, de 21 de Dezembro, cujo texto foi publicado no Diário da República, 1.ª série, de 21 de Dezembro de 1978, e estendido ao território de Macau pelo Decreto do Presidente da República n.º 192/99, de 22 de Outubro, publicado no Diário da República, 1.ª série-A, n.º 247, de 22 de Outubro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 30 de Novembro de 1999. - João Maria Rebelo de Andrade Cabral.
