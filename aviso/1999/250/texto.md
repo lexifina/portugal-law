@@ -1,0 +1,5 @@
+Aviso n.º 250/99
+Por ordem supeiror se torna público que, nos termos do artigo X do Tratado do Atlântico Norte, assinado em Washington em 4 de Abril de 1949, o Governo dos Estados Unidos da América notificou que a República Checa, a República da Hungria e a República da Polónia depositaram os respectivos instrumentos de adesão ao referido Tratado em 12 de Março de 1999.
+Nos termos do respectivo artigo XI, o Tratado do Atlântico Norte produz efeitos para a República Checa, para a República da Hungria e para a República da Polónia a partir da data do depósito dos respectivos instrumentos de adesão, ou seja, 12 de Março de 1999.
+Portugal é Parte no mesmo Tratado, que foi aprovado, para ratificação, pela Resolução da Assembleia Nacional publicada no Diário do Governo, 1.ª série, n.º 165, de 28 de Julho de 1949, tendo o respectivo instrumento de ratificação sido depositado em 24 de Agosto de 1949, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 209, de 26 de Setembro de 1949.
+Direcção-Geral dos Assuntos Multilaterais, 3 de Novembro de 1999. - A Directora-Geral, Ana Maria da Silva Marques Martinho.
