@@ -1,0 +1,3 @@
+Despacho
+Ao abrigo do disposto no artigo 1.º do Decreto-Lei n.º 550/74, de 23 de Outubro, é criado um consulado honorário em S. José da Costa Rica.
+Ministérios das Finanças e dos Negócios Estrangeiros, 13 de Janeiro de 1976. - O Ministro das Finanças, Francisco Salgado Zenha. - O Secretário de Estado dos Negócios Estrangeiros, José Manuel de Medeiros Ferreira.
