@@ -1,0 +1,4 @@
+Aviso n.º 174/2000
+Por ordem superior se torna público que a Turquia ratificou em 8 de Fevereiro de 2000, com entrada em vigor a 1 de Junho de 2000, a Convenção Europeia sobre o Reconhecimento e a Execução das Decisões Relativas à Guarda de Menores e sobre o Restabelecimento da Guarda de Menores, aberta à assinatura no Luxemburgo, a 20 de Maio de 1980.
+Portugal é parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 136/82, conforme publicado no Diário da República, 1.ª série, n.º 293, de 21 de Dezembro de 1982, tendo sido depositado o respectivo instrumento de ratificação em 18 de Março de 1983, conforme publicado no Diário da República, 1.ª série, n.º 91, de 20 de Abril de 1983.
+Direcção-Geral dos Assuntos Multilaterais, 24 de Julho de 2000. - O Director de Serviços das Organizações Políticas Internacionais, Rui Filipe Monteiro Belo Macieira.
