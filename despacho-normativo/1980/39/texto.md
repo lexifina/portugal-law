@@ -1,0 +1,4 @@
+Despacho Normativo n.º 39/80
+1 - Delego no Secretário de Estado Adjunto do Vice-Primeiro-Ministro, Dr. José Ribeiro e Castro, o despacho dos assuntos correntes que me sejam atribuídos como Vice-Primeiro-Ministro e não pertençam às atribuições dos outros Secretários de Estado que me coadjuvam na Presidência do Conselho de Ministros, bem como a competência relativa ao funcionamento do Gabinete de Macau e à acção governativa a empreender relativamente ao território de Macau.
+2 - A delegação a que se refere o presente despacho entende-se feita sem prejuízo dos poderes de avocação, superintendência e revogação e, bem assim, no pressuposto de que será objecto de acerto prévio com o Ministro a orientação a dar aos casos tecnicamente controversos ou politicamente melindrosos.
+Presidência do Conselho de Ministros, 14 de Janeiro de 1980. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
