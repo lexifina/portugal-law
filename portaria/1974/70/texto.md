@@ -1,0 +1,4 @@
+Portaria n.º 70/74
+de 2 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administração Ultramarina, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar com a importância de 1500000$00 a verba do capítulo único, artigo 5.º, n.º 2, alínea g) «Despesas com o material - Aquisições de utilização permanente - Aquisição de móveis - Equipamento de novas instalações e serviços», do orçamento da despesa do Hospital do Ultramar para o ano económico de 1973, tomando como contrapartida disponibilidades do capítulo único, artigo 4.º, n.º 1 «Despesas com o material - Construções e obras novas - Edifícios e outras construções», do mesmo orçamento.
+Ministério do Ultramar, 18 de Janeiro de 1974. - O Secretário de Estado da Administração Ultramarina, Leão Maria Tavares Rosado do Sacramento Monteiro.
