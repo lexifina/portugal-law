@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Embaixada da Suíça em Lisboa, com data de 27 de Fevereiro de 1961, a Embaixada da Áustria em Berna depositou nos arquivos do Governo Suíço, em 6 de Fevereiro último, o instrumento de ratificação por parte do Governo Austríaco da Convenção relativa à constituição da Eurofima - Sociedade Europeia para o Financiamento de Material Ferroviário, assinada em Berna em 20 de Outubro de 1955, completando-se deste modo o depósito por parte de todos os países signatários.
+Direcção-Geral dos Negócios Económicos e Consulares, 16 de Março de 1961. - O Director-Geral Adjunto, Armando Ramos de Paula Coelho.
