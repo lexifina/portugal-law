@@ -1,0 +1,3 @@
+Despacho Normativo n.º 58/86
+Ao abrigo do disposto nos n.os 1 e 3 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, 1.ª série, n.º 250, de 28 de Outubro de 1980, é autorizada a alteração do teor em substância activa de 0,041% (p/p) para 0,0375% (p/p) relativamente aos produtos fitofarmacêuticos com base em cumatetralil, formulados em isco.
+Secretarias de Estado da Agricultura e do Comércio Interno, 2 de Julho de 1986. - O Secretário de Estado da Agricultura, Joaquim António Rosado Gusmão. - O Secretário de Estado do Comércio Interno, Jorge Manuel Águas da Ponte Silva Marques.
