@@ -2,9 +2,9 @@
 
 ### Obrigações dos beneficiários
 
-Para os efeitos dos artigos 5.º e 6.º do Decreto-Lei n.º 189/94, de 5 de Julho, constarão do contrato de atribuição de apoio, nomeadamente, as seguintes obrigações dos beneficiários:
+Para efeitos dos artigos 5.º e 6.º do Decreto-Lei n.º 189/94, de 5 de Julho, constarão do contrato de atribuição do apoio, nomeadamente, as seguintes obrigações dos beneficiários:
 
-a) Iniciar a execução dos projectos no prazo máximo de 90 dias a contar da data de notificação para início de execução;
+a) Iniciar a execução dos projectos no prazo máximo de 90 dias a contar da outorga do contrato referido no artigo anterior;
 
 b) Executar os projectos de acordo com os prazos e condições previstos no contrato de concessão de apoio;
 
