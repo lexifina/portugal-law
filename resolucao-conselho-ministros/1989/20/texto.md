@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 20/89
+A pesca artesanal é uma actividade profissional do mar com características muito próprias, pelo facto de ser exercida com grande descontinuidade, face às condições climatéricas, à natureza das embarcações e do método de captura das espécies, pouco tendo, assim, de comum com outras actividades, designadamente quanto aos períodos de trabalho e formas de remuneração. Face a este circunstancialismo, a aplicação do Decreto-Lei n.º 45080, de 20 de Junho de 1963, quanto à incidência, isenção, liquidação e cobrança das quotizações devidas ao ex-Gabinete de Gestão do Fundo de Desemprego, apresentou sempre compreensíveis dificuldades.
+As especificidades da pesca artesanal quanto à incidência das quotizações sobre as remunerações auferidas e as dificuldades de liquidação e cobrança geraram situações de incumprimento, com a consequente instauração de processos de execução fiscal, que correm ainda os seus termos nas repartições de finanças e nos tribunais tributários.
+O arrastamento destes processos e a ausência de legislação adequada às particularidades das situações em causa agravaram as condições de regularização das dívidas assim constituídas, com efeitos negativos no funcionamento das empresas.
+Considerando o atrás exposto e porque importa criar condições de equilíbrio às empresas de pesca artesanal e garantir equidade nas obrigações contributivas;
+Considerando que as quotizações para o Fundo de Desemprego foram integradas na taxa social única;
+Considerando o parecer favorável do Ministro da Agricultura, Pescas e Alimentação:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Nos termos do artigo 10.º do Decreto-Lei n.º 52/88, de 19 de Fevereiro, considerar inexigível a dívida por quotizações ao ex-Gabinete de Gestão do Fundo de Desemprego, constituída pelos armadores de pesca artesanal, até 1 de Outubro de 1986, data da entrada em vigor do Decreto-Lei n.º 140-D/86, de 14 de Junho, que institucionalizou a taxa social única da Segurança Social.
+2 - Considerar o presente diploma causa de extinção da instância dos processos que correm nas repartições de finanças e nos tribunais tributários para execução da dívida referida no número anterior.
+Presidência do Conselho de Ministros, 27 de Abril de 1989. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
