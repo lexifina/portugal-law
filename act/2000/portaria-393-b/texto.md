@@ -1,0 +1,8 @@
+Portaria n.º 393-B/2000
+de 12 de Julho
+A Portaria n.º 5-C/2000, de 5 de Janeiro, aprovou o Regime de Apoio à Cessação Temporária da Actividade das Embarcações e Tripulantes Que Operam ao abrigo do Acordo de Cooperação em Matéria de Pesca entre a Comunidade Europeia e o Reino de Marrocos para o período de 1 de Janeiro a 30 de Junho de 2000, dando continuidade ao regime de apoio aprovado na Portaria n.º 1048-A/99, de 26 de Novembro.
+Não tendo sido renegociado, até ao presente, um acordo em matéria de pesca entre a Comissão Europeia e o Reino de Marrocos, a frota portuguesa que opera naquele pesqueiro permanece imobilizada.
+Dando cumprimento às condições fixadas na alínea b) do n.º 1 do artigo 16.º do Regulamento (CE) n.º 2792/99, do Conselho, de 17 de Dezembro, foi apresentado por Portugal à Comissão Europeia um plano de reestruturação daquela frota, o que possibilita a prorrogação, por um período de seis meses, das medidas de apoio oportunamente adoptadas com o objectivo de minimizar prejuízos e evitar rupturas, nomeadamente de carácter social.
+Atendendo a que se mantêm todos os motivos que conduziram à adopção do citado Regime de Apoio e que se encontram reunidas as condições necessárias à sua continuidade, ao abrigo do artigo 16.º do Regulamento (CE) n.º 2792/99:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que o período de vigência da Portaria n.º 5-C/2000 seja prorrogado até 31 de Dezembro de 2000.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 12 de Julho de 2000.
