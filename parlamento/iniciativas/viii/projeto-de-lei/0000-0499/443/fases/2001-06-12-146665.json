@@ -1,0 +1,601 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "443",
+    "id": "18545",
+    "titulo": "Acesso à actividade dos transportes em táxi e exercício da profissão de motorista de taxi"
+  },
+  "fase": "Requerimento baixa comissão generalidade AV",
+  "codigo_fase": "230",
+  "data_registo": "2001-06-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1988",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "230",
+    "Comissao": null,
+    "DataFase": "2001-06-12",
+    "EvtId": "11",
+    "Fase": "Requerimento baixa comissão generalidade AV",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-06-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138807",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3760-3761"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-15",
+                "pubLeg": "VIII",
+                "pubNr": "96",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/096/2001-06-15/3760?pgs=3760-3761&org=PLC"
+              }
+            ],
+            "sumario": "Acesso à actividade dos transportes em táxi e exercício da profissão de motorista de táxi",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "José Magalhães"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138808",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3761-3761"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-15",
+                "pubLeg": "VIII",
+                "pubNr": "96",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/096/2001-06-15/3761?pgs=3761&org=PLC"
+              }
+            ],
+            "sumario": "Acesso à actividade dos transportes em táxi e exercício da profissão de motorista de táxi",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138809",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3760-3761"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-15",
+                "pubLeg": "VIII",
+                "pubNr": "96",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/096/2001-06-15/3760?pgs=3760-3761&org=PLC"
+              }
+            ],
+            "sumario": "Acesso à actividade dos transportes em táxi e exercício da profissão de motorista de táxi",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138810",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3762-3764"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-15",
+                "pubLeg": "VIII",
+                "pubNr": "96",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/096/2001-06-15/3762?pgs=3762-3764&org=PLC"
+              }
+            ],
+            "sumario": "Acesso à actividade dos transportes em táxi e exercício da profissão de motorista de táxi",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138811",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3764-3765"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-15",
+                "pubLeg": "VIII",
+                "pubNr": "96",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/096/2001-06-15/3764?pgs=3764-3765&org=PLC"
+              }
+            ],
+            "sumario": "Acesso à actividade dos transportes em táxi e exercício da profissão de motorista de táxi",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DAS  OBRAS PUBLICAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vieira Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138812",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3765-3768"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-15",
+                "pubLeg": "VIII",
+                "pubNr": "96",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/096/2001-06-15/3765?pgs=3765-3768&org=PLC"
+              }
+            ],
+            "sumario": "Acesso à actividade dos transportes em táxi e exercício da profissão de motorista de táxi",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138813",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3766-3766"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-15",
+                "pubLeg": "VIII",
+                "pubNr": "96",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/096/2001-06-15/3766?pgs=3766&org=PLC"
+              }
+            ],
+            "sumario": "Acesso à actividade dos transportes em táxi e exercício da profissão de motorista de táxi",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138814",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3766-3767"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-15",
+                "pubLeg": "VIII",
+                "pubNr": "96",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/096/2001-06-15/3766?pgs=3766-3767&org=PLC"
+              }
+            ],
+            "sumario": "Acesso à actividade dos transportes em táxi e exercício da profissão de motorista de táxi",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1709",
+                "nome": "António Pires de Lima"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138815",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3767-3767"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-15",
+                "pubLeg": "VIII",
+                "pubNr": "96",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/096/2001-06-15/3767?pgs=3767&org=PLC"
+              }
+            ],
+            "sumario": "Acesso à actividade dos transportes em táxi e exercício da profissão de motorista de táxi",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1607",
+                "nome": "Patinha Antão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138816",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3768-3769"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-15",
+                "pubLeg": "VIII",
+                "pubNr": "96",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/096/2001-06-15/3768?pgs=3768-3769&org=PLC"
+              }
+            ],
+            "sumario": "Acesso à actividade dos transportes em táxi e exercício da profissão de motorista de táxi",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   PRESIDÊNCIA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Guilherme D'Oliveira Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138817",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3771-3772"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-15",
+                "pubLeg": "VIII",
+                "pubNr": "96",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/096/2001-06-15/3771?pgs=3771-3772&org=PLC"
+              }
+            ],
+            "sumario": "Acesso à actividade dos transportes em táxi e exercício da profissão de motorista de táxi",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146665",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1988",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-06-15",
+        "pubLeg": "VIII",
+        "pubNr": "96",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/096/2001-06-15?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": [
+      "PS",
+      "PCP"
+    ],
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2001-06-12",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> PEV</I>, <I> BE</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "27999",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "96",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
