@@ -1,0 +1,1489 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "59",
+    "id": "5342",
+    "titulo": "Grandes Opções do Plano para 1997"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-11-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1329",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-11-13",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5341",
+        "leg": "VII",
+        "nr": "60",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "209",
+            "obs": null,
+            "pag": [
+              "336-379"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-11-14",
+            "pubLeg": "VII",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/336?pgs=336-379&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Orçamento do Estado para 1997"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-11-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "438",
+                "nome": "Carlos Zorrinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50614",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "377-379"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/377?pgs=377-379&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50615",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "375-376"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/375?pgs=375-376&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50616",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "375-375"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/375?pgs=375&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50617",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "374-374"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/374?pgs=374&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1371",
+                "nome": "Henrique Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50618",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "373-373"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/373?pgs=373&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50619",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "370-374"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/370?pgs=370-374&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Sousa Franco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50620",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "370-370"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/370?pgs=370&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50621",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "368-369"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/368?pgs=368-369&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1039",
+                "nome": "Manuel Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50622",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "366-370"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/366?pgs=366-370&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "384",
+                "nome": "Vieira de Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50623",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "365-365"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/365?pgs=365&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50624",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "361-365"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/361?pgs=361-365&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1154",
+                "nome": "Helena Roseta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50625",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "361-361"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/361?pgs=361&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50626",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "359-359"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/359?pgs=359&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1490",
+                "nome": "João Carlos da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50627",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "358-358"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/358?pgs=358&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50628",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "355-361"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/355?pgs=355-361&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "353-353"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/353?pgs=353&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "384",
+                "nome": "Vieira de Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50630",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "353-353"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/353?pgs=353&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50631",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "352-352"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/352?pgs=352&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1446",
+                "nome": "António Galvão Lucas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "351-352"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/351?pgs=351-352&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1371",
+                "nome": "Henrique Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "351-351"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/351?pgs=351&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "350-350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/350?pgs=350&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "349-349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/349?pgs=349&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50636",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "348-348"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/348?pgs=348&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1039",
+                "nome": "Manuel Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50637",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "346-346"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/346?pgs=346&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "345-345"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/345?pgs=345&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50639",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "343-344"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/343?pgs=343-344&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Sousa Franco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50640",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "336-351",
+                  "354-355"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/336?pgs=336-351,354-355&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Sousa Franco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107697",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "370-370"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-14",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14/370?pgs=370&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1997",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103268",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110074",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-11-14",
+        "pubLeg": "VII",
+        "pubNr": "11",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/011/1996-11-14?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110075",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-11-15",
+        "pubLeg": "VII",
+        "pubNr": "12",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/012/1996-11-15?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110076",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-11-16",
+        "pubLeg": "VII",
+        "pubNr": "13",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/013/1996-11-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
