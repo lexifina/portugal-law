@@ -1,0 +1,444 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "52",
+    "id": "3851",
+    "titulo": "Autoriza o Governo a legislar em matéria de prevenção de utilização do sistema financeiro para efeitos de branqueamento de capitais."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1993-04-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "433",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1993-04-22",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1993-04-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "105",
+                "nome": "Costa Andrade"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2006-2007"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-04-23",
+                "pubLeg": "VI",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/062/1993-04-23/2006?pgs=2006-2007&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR EM MATERIA DE PREVENCAO DEUTILIZACAO DO SISTEMA FINANCEIRO PARA EFEITOS DEBRANQUEAMENTO DE CAPITAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2005-2006"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-04-23",
+                "pubLeg": "VI",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/062/1993-04-23/2005?pgs=2005-2006&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR EM MATERIA DE PREVENCAO DEUTILIZACAO DO SISTEMA FINANCEIRO PARA EFEITOS DEBRANQUEAMENTO DE CAPITAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34865",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2004-2005"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-04-23",
+                "pubLeg": "VI",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/062/1993-04-23/2004?pgs=2004-2005&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR EM MATERIA DE PREVENCAO DEUTILIZACAO DO SISTEMA FINANCEIRO PARA EFEITOS DEBRANQUEAMENTO DE CAPITAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34867",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2002-2002"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-04-23",
+                "pubLeg": "VI",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/062/1993-04-23/2002?pgs=2002&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR EM MATERIA DE PREVENCAO DEUTILIZACAO DO SISTEMA FINANCEIRO PARA EFEITOS DEBRANQUEAMENTO DE CAPITAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "568",
+                "nome": "Raúl Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34868",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2002-2002"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-04-23",
+                "pubLeg": "VI",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/062/1993-04-23/2002?pgs=2002&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR EM MATERIA DE PREVENCAO DEUTILIZACAO DO SISTEMA FINANCEIRO PARA EFEITOS DEBRANQUEAMENTO DE CAPITAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34869",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2001-2002"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-04-23",
+                "pubLeg": "VI",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/062/1993-04-23/2001?pgs=2001-2002&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR EM MATERIA DE PREVENCAO DEUTILIZACAO DO SISTEMA FINANCEIRO PARA EFEITOS DEBRANQUEAMENTO DE CAPITAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  JUSTICA",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Maria Eduarda Azevedo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2000-2003"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-04-23",
+                "pubLeg": "VI",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/062/1993-04-23/2000?pgs=2000-2003&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR EM MATERIA DE PREVENCAO DEUTILIZACAO DO SISTEMA FINANCEIRO PARA EFEITOS DEBRANQUEAMENTO DE CAPITAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Braz"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2003-2003"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-04-23",
+                "pubLeg": "VI",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/062/1993-04-23/2003?pgs=2003&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR EM MATERIA DE PREVENCAO DEUTILIZACAO DO SISTEMA FINANCEIRO PARA EFEITOS DEBRANQUEAMENTO DE CAPITAIS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "96706",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "433",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-04-23",
+        "pubLeg": "VI",
+        "pubNr": "62",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/062/1993-04-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
