@@ -1,0 +1,100 @@
+Decreto-Lei n.º 82/95
+de 22 de Abril
+Decorridos quase oito anos sobre a publicação do Decreto-Lei n.º 280-A/87, de 17 de Julho, que veio estabelecer o regime aplicável à notificação de substâncias químicas e à classificação, embalagem e rotulagem de substâncias perigosas, com vista à respectiva comercialização, importa proceder à revisão do referido diploma, à luz da experiência adquirida com a sua aplicação, e do progresso do conhecimento técnico-científico alcançado nesta matéria, cujas alterações do respectivo quadro normativo comunitário são consequência.
+Pretende-se igualmente alterar a opção legislativa então consagrada com a deslegalização das matérias do foro estritamente técnico, nomeadamente o processo de notificação das substâncias químicas e as regras de classificação, embalagem e rotulagem das substâncias perigosas e respectivos anexos, cuja remissão para sede regulamentar se apresenta mais adequada à natureza das matérias e de melhor adaptação ao progresso científico e técnico que se vai alcançando neste domínio.
+Visa-se ainda, com a presente iniciativa legislativa, operar a transposição para o direito interno das directivas comunitárias adoptadas nesta matéria, a qual será completada com a publicação do Regulamento para a Notificação das Substâncias Químicas e para a Classificação, Embalagem e Rotulagem de Substâncias Perigosas, sendo tais directivas as seguintes: Directivas n.os 90/517/CEE, 91/325/CEE, 91/326/CEE, 91/410/CEE, 91/632/CEE, 92/32/CEE, 92/37/CEE, 92/69/CEE, 93/21/CEE, 93/67/CEE, 93/72/CEE, 93/90/CEE, 93/101/CEE, 93/105/CEE e 93/112/CEE.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objecto
+O presente diploma transpõe para a ordem jurídica interna as Directivas n.os 91/325/CEE, 91/326/CEE, 91/410/CEE, 91/632/CEE, 92/37/CEE, 92/69/CEE, 93/21/CEE, 93/67/CEE, 93/72/CEE, 93/90/CEE, 93/101/CEE, 93/105/CEE e 93/112/CEE, da Comissão, de 1 de Março, 5 de Março, 22 de Julho, 28 de Outubro, 30 de Abril, 31 de Julho, 27 de Abril, 20 de Julho, 1 de Setembro, 29 de Outubro, 11 de Novembro, 25 de Novembro e 10 de Dezembro, respectivamente, e as Directivas n.os 90/517/CEE e 92/32/CEE, do Conselho, de 9 de Outubro e 30 de Abril, respectivamente, que alteram e adaptam ao progresso técnico a Directiva n.º 67/548/CEE, do Conselho, de 27 de Julho, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas.
+Artigo 2.º
+Âmbito de aplicação
+1 - O presente diploma estabelece as regras a que devem obedecer, com vista à sua colocação no mercado, a notificação de substâncias químicas, a troca de informações relativas a substâncias notificadas e a avaliação dos respectivos riscos potenciais para a saúde humana, para o ambiente, bem como a classificação, embalagem e rotulagem das substâncias perigosas para a saúde humana ou para o ambiente.
+2 - Excluem-se do âmbito de aplicação do presente diploma as seguintes substâncias e preparações:
+a) As que, no estado de produto acabado, se destinem ao utilizador final e sejam havidas como:
+i) Géneros alimentícios, como definidos no Decreto-Lei n.º 28/84, de 20 de Janeiro, na sua actual redacção;
+ii) Alimentos para animais, como definidos no Decreto-Lei n.º 441/89, de 27 de Dezembro, na sua actual redacção;
+iii) Medicamentos para uso humano ou veterinário, como definidos na Portaria n.º 42/92, de 23 de Janeiro, na sua actual redacção;
+iv) Produtos cosméticos, como definidos no Decreto-Lei n.º 128/86, de 3 de Junho, na sua actual redacção;
+v) Pesticidas, como definidos no Decreto-Lei n.º 294/88, de 24 de Agosto, na sua actual redacção;
+vi) Substâncias radioactivas, como definidas no Decreto Regulamentar n.º 9/90, de 19 de Abril;
+vii) Resíduos, como definidos no Decreto-Lei n.º 488/85, de 25 de Novembro;
+viii) Outras substâncias ou preparações para as quais já existam procedimentos de notificação ou de aprovação comunitários e que estejam sujeitas a requisitos similares aos estabelecidos no presente diploma;
+b) As substâncias perigosas enquanto sujeitas ao transporte por caminho de ferro, estrada, via fluvial, marítima ou aérea;
+c) As substâncias em trânsito, sujeitas a controlo aduaneiro, desde que não sejam objecto de tratamento ou de transformação;
+3 - As regras relativas a embalagem e rotulagem não são aplicáveis:
+a) Às munições e aos explosivos comercializados com o objectivo de produzirem um efeito prático por explosão ou por efeito pirotécnico;
+b) Ao butano, ao propano e aos outros gases de petróleo liquefeitos, até 30 de Abril de 1997.
+Artigo 3.º
+Comercialização de substâncias
+1 - É proibida a colocação no mercado de qualquer substância estreme ou contida em preparação, quando não tenha sido notificada, ou conste de inventário, embalada, rotulada e acompanhada de uma ficha de dados de segurança, nos termos do presente diploma e respectiva regulamentação.
+2 - As substâncias e preparações perigosas devem ser acondicionadas, transportadas, armazenadas e expostas à venda em locais separados dos géneros alimentícios, alimentos para animais, medicamentos e produtos cosméticos, de modo a evitar qualquer confusão e contaminação com os mesmos ou pôr em causa a sua higiene e segurança.
+Artigo 4.º
+Regulamentação
+As normas técnicas de execução do presente diploma relativas à notificação de substâncias químicas, à classificação, embalagem e rotulagem de substâncias perigosas e à troca e utilização de informação são objecto de portaria conjunta dos Ministros da Saúde, da Indústria e Energia, do Comércio e Turismo e do Ambiente e Recursos Naturais.
+Artigo 5.º
+Autoridade competente
+Compete em especial à Direcção-Geral do Ambiente, na qualidade de autoridade competente:
+a) Praticar todas as medidas decorrentes da notificação de substâncias químicas;
+b) Aprovar, modificar ou rejeitar quaisquer medidas relativas à classificação, embalagem e rotulagem de uma substância, bem como às recomendações de segurança referentes ao uso da mesma;
+c) Adoptar, sempre que se revele necessário para a avaliação do perigo que pode representar uma substância, as providências adequadas;
+d) Decidir sobre a natureza confidencial de certas informações, relativas à produção e exploração das substâncias químicas notificadas, bem como assegurar o respectivo sigilo industrial ou comercial;
+e) Exercer poderes de salvaguarda, que consistem em proceder temporariamente à reclassificação de uma substância ou, se necessário, proibir a sua comercialização;
+f) Sujeitar as substâncias a condições especiais de comercialização se, à luz de novas informações, tiver razões fundamentadas para entender que uma substância que tenha sido considerada conforme com os requisitos previstos no presente diploma e respectiva regulamentação constitui, não obstante, um perigo para a saúde humana ou para o ambiente pelo facto de a sua classificação, embalagem ou rotulagem ter deixado de ser adequada, devendo, nestes casos, informar de imediato a Comissão da União Europeia e os outros Estados membros, expondo os motivos da sua decisão;
+g) Trocar informações com a Comissão da União Europeia e as autoridades competentes dos outros Estados membros em matéria de notificação de substâncias químicas;
+h) Consultar outras entidades competentes ou a Comissão da União Europeia sobre aspectos específicos dos dados contidos nos processos de notificação ou sobre avaliação dos riscos das substâncias.
+Artigo 6.º
+Deveres de autoridade competente
+São deveres da Direcção-Geral do Ambiente, enquanto autoridade competente:
+a) Efectuar e actualizar a avaliação dos riscos para o homem e o ambiente, nos termos da regulamentação do presente diploma;
+b) Fazer recomendações sobre o método de ensaio mais indicado para a substância e sobre as medidas que permitam reduzir os riscos para o homem e o ambiente;
+c) Enviar à Comissão da União Europeia:
+i) Um exemplar de cada processo de notificação recebido, bem como das informações complementares previstas no presente diploma, incluindo a indicação e os motivos dos ensaios escolhidos e demais legislação complementar, ou um resumo dessa documentação;
+ii) A avaliação de risco a que se refere a alínea a) ou o seu resumo.
+Artigo 7.º
+Obrigação de prestação de informações
+1 - Qualquer notificador de uma substância já notificada deve prestar à autoridade competente as informações constantes na portaria mencionada no artigo 4.º
+2 - Os notificadores das substâncias químicas perigosas e os responsáveis pela comercialização das substâncias perigosas devem fornecer ao Centro de Informação Antivenenos, do Instituto Nacional de Emergência Médica, as informações pertinentes relativas, respectivamente, às substâncias químicas perigosas notificadas e às substâncias perigosas colocadas no mercado, nomeadamente a ficha de dados de segurança.
+3 - Qualquer responsável pela colocação no mercado das substâncias perigosas deve disponibilizar às entidades com competência para fiscalizar todas as informações relativas aos dados aplicados na sua classificação, embalagem e rotulagem, bem como as relativas aos respectivos quantitativos e registo de notificação.
+Artigo 8.º
+Taxa
+1 - Pelos serviços prestados pela autoridade competente para apreciação dos processos de notificação de novas substâncias são devidas taxas, cujos montantes são fixados por portaria conjunta dos Ministros das Finanças e do Ambiente e Recursos Naturais.
+2 - A taxa é paga no prazo de 15 dias a contar da notificação do respectivo montante por parte da autoridade competente.
+3 - A liquidação e cobrança da taxa compete à autoridade competente, constituindo sua receita própria.
+Artigo 9.º
+Publicidade
+1 - Em conformidade com o artigo 10.º do Decreto-Lei n.º 330/90, de 23 de Outubro, é proibida a publicidade a qualquer substância pertencente a uma ou mais categorias de perigo constantes da portaria referida no artigo 4.º sem que haja menção da ou das categorias de perigo a que pertence.
+2 - A violação do disposto no número anterior constitui contra-ordenação punível nos termos da alínea a) do n.º 1 do artigo 34.º do Decreto-Lei n.º 330/90, de 23 de Outubro.
+Artigo 10.º
+Fiscalização
+A fiscalização do cumprimento do disposto no presente diploma e respectiva regulamentação cabe, no âmbito das respectivas competências, à Direcção-Geral do Ambiente, às direcções regionais do ambiente e recursos naturais, à Inspecção-Geral das Actividades Económicas, à Direcção-Geral das Alfândegas e às delegações regionais da indústria e energia.
+Artigo 11.º
+Contra-ordenações
+1 - Constitui contra-ordenação punível com coima cujo montante mínimo é de 50000$00 e máximo de 500000$00:
+a) A colocação no mercado de substâncias estremes e contidas em preparações em violação do disposto no presente diploma e respectiva regulamentação;
+b) A violação das obrigações de informação previstas no presente diploma e respectiva regulamentação;
+2 - Os montantes mencionados no número anterior elevam-se até ao montante máximo de 6000000$00 no caso das pessoas colectivas.
+3 - A tentativa e a negligência são puníveis.
+Artigo 12.º
+Sanções acessórias
+Simultaneamente com as coimas podem ser aplicadas as seguintes sanções acessórias, nos termos da lei geral:
+a) Apreensão das substâncias, preparações, produtos ou objectos utilizados, produzidos ou adquiridos durante ou em consequência da prática da infracção;
+b) Privação do direito a subsídios ou benefícios de qualquer natureza atribuídos por entidades ou serviços públicos;
+c) Suspensão ou cancelamento de licenças ou autorizações relacionadas com a respectiva actividade.
+Artigo 13.º
+Processamento da contra-ordenação e aplicação de coimas e sanções acessórias
+1 - A aplicação das coimas e sanções acessórias previstas nos artigos anteriores compete ao director-geral do Ambiente.
+2 - Sem prejuízo das competências atribuídas a outras entidades policiais e administrativas, compete à Inspecção-Geral das Actividades Económicas (IGAE) a investigação e instrução dos processos por contra-ordenações previstas no presente diploma, findo o que os remeterá à entidade referida no número anterior.
+3 - O produto das coimas reverte:
+a) Em 40% para a entidade que processou e aplicou a coima, constituindo receita própria;
+b) Em 60% para o Estado.
+Artigo 14.º
+Legislação revogada
+Na data da entrada em vigor da portaria a que se refere o artigo 4.º do presente diploma são revogados o Decreto-Lei n.º 280-A/87, de 17 de Julho, o Decreto-Lei n.º 124/88, de 20 de Abril, o Decreto-Lei n.º 46-A/89, de 20 de Fevereiro, e o Decreto-Lei n.º 247/90, de 30 de Julho.
+Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - António Duarte Silva - Luís Fernando Mira Amaral - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
+Promulgado em 17 de Março de 1995.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 20 de Março de 1995.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
