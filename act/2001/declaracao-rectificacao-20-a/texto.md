@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 20-A/2001
+Para os devidos efeitos se declara que a Lei Orgânica n.º 1/2001, de 14 de Agosto - lei que regula a eleição dos titulares dos órgãos das autarquias locais e segunda alteração à Lei n.º 56/98, de 18 de Agosto, com a redacção que lhe foi conferida pela Lei n.º 23/2000, de 23 de Agosto, que altera o regime do financiamento dos partidos políticos e das campanhas eleitorais -, publicada no Diário da República, 1.ª série-A, n.º 188, saiu com a seguinte incorrecção, que assim se rectifica:
+Na alínea d) do n.º 1 do artigo 7.º da Lei Orgânica, onde se lê «detenham posição maioritária que exerçam funções de direcção» deve ler-se «detenham posição maioritária, que exerçam funções de direcção».
+Assembleia da República, 17 de Outubro de 2001. - A Secretária-Geral, Adelina Sá Carvalho.
