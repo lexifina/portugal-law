@@ -1,0 +1,69 @@
+Portaria n.º 586/2004
+de 2 de Junho
+O Decreto-Lei n.º 304/2003, de 9 de Dezembro, que estabelece o regime jurídico de acesso e de exercício da actividade de promoção e organização de campos de férias, determina no n.º 1 do seu artigo 14.º que as instalações destinadas ao alojamento e pernoita dos participantes em campos de férias, bem como aquelas que sejam especialmente destinadas à realização das respectivas actividades, estão sujeitas a licenciamento e à observância dos requisitos constantes de portaria conjunta a emitir pelos membros do Governo responsáveis pelas áreas da juventude, da defesa do consumidor e da habitação e obras públicas.
+Assim:
+Ao abrigo do disposto no n.º 1 do artigo 14.º do Decreto-Lei n.º 304/2003, de 9 de Dezembro:
+Manda o Governo, pelo Ministro Adjunto do Primeiro-Ministro e pelo Ministro das Obras Públicas, Transportes e Habitação, o seguinte:
+1.º Os edifícios destinados a permitir o alojamento e pernoita de participantes de campos de férias carecem de licença ou autorização de utilização e devem obedecer aos requisitos constantes dos números seguintes.
+2.º A licença ou a autorização de utilização referida no número anterior obedece aos requisitos estabelecidos no Regime Jurídico da Urbanização e Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 177/2001, de 4 de Junho, e pela Lei n.º 15/2002, de 22 de Fevereiro.
+3.º As instalações licenciadas para outros fins, desde que cumpram com os requisitos constantes dos números seguintes, podem, também, ser utilizadas para a realização de campos de férias.
+4.º A concepção, dimensionamento e equipamentos de edifícios destinados a alojamento e pernoita dos participantes de campos de férias devem ser de forma a permitir uma boa ocupação e funcionamento, tendo em conta o número e características dos utentes a quem se destinam.
+5.º As instalações devem estar equipadas com um sistema eficaz e seguro de arejamento e equilíbrio térmico, respeitando o disposto no Regime Jurídico da Urbanização e Edificação, no Regulamento Geral das Edificações Urbanas e no Regulamento das Características de Comportamento Térmico dos Edifícios.
+6.º As instalações deverão respeitar as medidas de segurança contra risco de incêndio, aplicáveis no Regulamento das Condições Técnicas e de Segurança dos Recintos de Espectáculos e Divertimentos Públicos, a que respeita o Decreto Regulamentar n.º 34/95, de 16 de Dezembro, no que lhes for aplicável.
+7.º As instalações deverão possuir os seguintes compartimentos e espaços:
+a) Sala de entrada/recepção, para atendimento e informações;
+b) Gabinete do coordenador;
+c) Sala de estar/convívio;
+d) Sala de refeições;
+e) Instalações sanitárias para participantes;
+f) Instalações sanitárias para pessoal;
+g) Quartos para utentes;
+h) Quartos para pessoal;
+i) Cozinha, copa e despensa;
+j) Arrecadação.
+8.º A recepção e o gabinete do coordenador devem situar-se, sempre que possível, próximo da entrada principal das instalações.
+9.º A sala de estar deve ser ampla e arejada e deve permitir que os participantes aí desenvolvam actividades de carácter educativo, cultural ou recreativo.
+10.º A sala de refeições:
+a) Pode ser polivalente para, quando necessário, ser utilizada para aí serem desenvolvidas actividades de carácter educativo, cultural ou recreativo;
+b) Deve dispor de um número suficiente de lugares sentados para os participantes, devendo ser previstos 0,75 m2, por lugar sentado;
+c) Deve comunicar com a cozinha;
+d) Deve ter um lavatório nas suas imediações.
+11.º As instalações sanitárias devem obedecer aos seguintes requisitos:
+a) Serem separadas, por sexos;
+b) Situarem-se próximas dos quartos;
+c) Possuírem chuveiros na proporção de um para cada 10 utentes, que possam vir a utilizá-los, simultaneamente, com água quente e fria;
+d) Possuírem lavatórios na mesma proporção da referida na alínea anterior;
+e) Possuírem retretes na proporção mínima de um para cada 15 utilizadores do sexo feminino, de um para cada 25 utilizadores do sexo masculino e urinóis de um para cada 25 utilizadores;
+f) Possuírem paredes, pavimentos e tectos das instalações sanitárias revestidos de materiais resistentes, impermeáveis e de fácil limpeza.
+12.º Os quartos dos participantes deverão obedecer aos seguintes requisitos:
+a) Serem divididos por sexos e equipados com camas individuais ou beliches e armários que permitam o uso individual;
+b) Possuírem mobiliário de material resistente, adaptado à idade dos participantes, de fácil manutenção e sem arestas vivas, rebarbas ou superfícies rugosas, lascas, pregos, parafusos ou qualquer outro material pontiagudo, susceptível de causar ferimento;
+c) Terem uma capacidade máxima de 12 ou 8 crianças, consoante tenham até ou mais de 12 anos, respectivamente, estipulada tendo em consideração que a área por participantes deve ter, no mínimo:
+i) Para crianças até aos 12 anos - 2,50 m2;
+ii) Para jovens com mais de 12 anos - 3,50 m2.
+13.º Os quartos para o pessoal devem situar-se junto dos quartos dos participantes e disporem de instalações sanitárias próprias.
+14.º As cozinhas (zonas destinadas à confecção e preparação de refeições), as copas (zonas destinadas à lavagem de louças e de utensílios) e as copas limpas (zonas destinadas ao empratamento e distribuição do serviço) devem:
+a) Dispor de arejamento e iluminação naturais suficientes ou, quando tal não for possível, de ventilação e iluminação artificiais adequadas à sua capacidade;
+b) Dispor de aparelhos que permitam a contínua renovação do ar e a extracção de fumos e cheiros;
+c) Possuir uma conduta de evacuação de fumos e cheiros, construída em material incombustível, e conduzir directamente ao exterior, de acordo com os regulamentos em vigor;
+d) Possuir balcões, mesas, bancadas e prateleiras das cozinhas com material liso, lavável e impermeável;
+e) Possuir paredes com lambril de material resistente, liso e lavável, devendo a sua ligação com o pavimento ou com outras paredes ter a forma arredondada, sendo que o pavimento, as paredes e o tecto das cozinhas, copas e zonas de serviço de comunicação com as salas de refeições devem ser revestidos de materiais resistentes, impermeáveis e de fácil limpeza;
+f) Possuir instalações frigoríficas de acordo com a capacidade da sala de refeições, as características e condições locais de abastecimento e estando suficientemente afastadas das máquinas e equipamentos que produzam calor;
+g) Possuir uma despensa destinada ao armazenamento de alimentos, que deve estar situada junto à cozinha.
+15.º A arrecadação destina-se à guarda de material diverso, nomeadamente de produtos de higiene e limpeza.
+16.º Os acampamentos (alojamentos efectuados em tendas de campismo ou similares, instalados em parques de campismo ou qualquer outro local ao ar livre) devem cumprir os seguintes requisitos:
+a) Não ser instalados junto de locais que possam apresentar riscos para a saúde e segurança das crianças e jovens, nomeadamente:
+i) Sob linhas aéreas de transporte de energia, nem nas respectivas faixas de protecção;
+ii) Insalubres ou onde se produzam substâncias tóxicas e perigosas que, pela sua natureza, possam pôr em causa a integridade física ou psíquica das crianças e jovens;
+iii) Em terrenos situados em leitos ou caudais secos de rios, susceptíveis de poderem ser inundados;
+iv) Junto a áreas pantanosas, encostas perigosas e pedreiras.
+b) Possuir:
+i) Um espaço coberto que seja afecto, em exclusivo, à preparação das refeições;
+ii) Um espaço coberto que funcione como zona de refeições e que possa ser usado como local de reuniões, ou abrigo, em caso de necessidade;
+iii) Um espaço próprio para a higiene pessoal que deverá possuir, no mínimo, uma retrete ou latrina para cada 25 pessoas ou fracção e um duche para cada 25 pessoas ou fracção;
+iv) Uma reserva de água potável adequada ao número total de participantes;
+v) Um estojo de primeiros socorros.
+17.º A instalação dos acampamentos carece de uma licença prévia a obter junto da respectiva câmara municipal, nos termos da legislação em vigor.
+18.º As instalações a utilizar em actividades no âmbito de campos de férias não residenciais ou abertos devem estar devidamente licenciadas pelas entidades competentes.
+19.º O presente diploma entra em vigor no dia imediatamente seguinte ao da sua publicação.
+Em 26 de Março de 2004. - O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.
