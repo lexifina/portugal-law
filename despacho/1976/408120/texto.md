@@ -1,0 +1,6 @@
+Despacho
+Convindo actualizar e renovar, face à nova legislação entretanto publicada, a delegação de competência por mim efectuada no Ministro da Justiça, no âmbito das actividades de combate à droga, em 13 de Setembro último;
+Sendo de manter as orientações genéricas entretanto traçadas, já, aliás, em início de concretização, justamente com a entrada em vigor dos diplomas orgânicos acima referidos;
+Continuando a ser válido, face a estes, o considerando de que «as actividades de investigação, fiscalização e contrôle do uso da droga, incluindo o tratamento médico-social do toxicómano, podem, com vantagem, ser coordenadas no âmbito do Ministério da Justiça, dada a sua especial vocação para o tratamento dos problemas médico-legais, a tutela da delinquência juvenil e a investigação criminal»:
+Nos termos dos artigos 14.º, n.º 1, do Decreto-Lei n.º 790/76, 37.º, n.º 1, do Decreto-Lei n.º 791/76, e 18.º n.º 1, do Decreto-Lei n.º 792/76, todos de 5 de Novembro, delego no Ministro da Justiça, Dr. António de Almeida Santos, com os de subdelegar, os poderes que por esses diplomas me são conferidos.
+Presidência do Conselho de Ministros, 18 de Novembro de 1976. - O Primeiro-Ministro, Mário Soares.
