@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal de Justiça de 1970-05-05, processo 062999
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 062999
+
+**Nº Convencional:** JSTJ00006543
+
+**Relator:** RUI GUIMARÃES
+
+**Descritores:** RESPONSABILIDADE CIVIL; CULPA; DESMORONAMENTO DE CONSTRUÇÃO; DEMOLIÇÃO DE OBRAS; NEXO DE CAUSALIDADE; MATERIA DE FACTO; RESPONSABILIDADE POR FACTO ILICITO; DANO CAUSADO POR EDIFICIOS OU OUTRAS OBRAS; REGULAMENTO MUNICIPAL; REVOGAÇÃO; COMPETENCIA DOS TRIBUNAIS DE INSTANCIA
+
+**Nº do Documento:** SJ197005050629991
+
+**Data do Acordão:** 05/05/1970
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N197 ANO1970 PAG274
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Área Temática:** DIR CIV - DIR OBG / DIR RESP CIV.; DIR ADM - ADM PUB LOCAL. DIR PROC CIV.
+
+## Sumário
+
+I - Assenta na culpa, nos termos gerais, o pedido de indemnização pelos danos causados pelo desmoronamento de um predio, formulado contra os proprietarios do mesmo e as pessoas que procederam a sua demolição e a dirigiram, se os autores invocam, para tal efeito, as pessimas condições em que a demolição estava a ser feita, contrariando regulamentos administrativos, a negligencia dos reus em escorar o predio, apesar de prevenidos de o mesmo ameaçar ruina, a falta das necessarias cautelas e precauções para o predio não desabar e a inobservancia de preceitos regulamentares, legais e tecnicos.
+
+II - O pedido de indemnização so poderia fundamentar-se no artigo 2395 do Codigo Civil de 1867 se os autores apenas demandassem os donos do predio e so a eles atribuissem culpa do desmoronamento.
+
+III - A responsabilidade estabelecida no citado preceito so se compreende bem quando a coisa tenha sido deixada entregue a si mesma e nela não estejam a fazer-se trabalhos.
+
+IV - A responsabilidade estabelecida na mesma disposição não afecta a decorrente dos principios gerais, não a excluindo, portanto, quando haja culpa na condução das obras de demolição.
+
+V - Provado que a parede de um predio caiu por ter ficado desamparada, sem quaisquer escoras a dar-lhe a devida segurança, depois de demolidas as outras paredes, e que as vibrações provocadas pela dança e o peso de pessoas, no predio contiguo, constituiram apenas causa eventual da derrocada, esta fixado o nexo de causalidade entre o desamparo ou falta de escoras da parede e a queda da mesma, com as respectivas consequencias danosas.
+
+VI - A fixação do nexo de causalidade constitui materia de facto, da competencia exclusiva das instancias.
+
+VII - Se um diploma governamental disciplina genericamente, para todo ou parte do territorio portugues, certa ou certas materias, revoga, na respectiva area territorial, o direito municipal em contrario, e impede as camaras, dai em diante, de deliberar sobre aquelas materias.
+
+VIII - Por isso, o Decreto n. 41821, de 11 de Agosto de 1958, alem de revogar o Regulamento de 6 de Junho de 1895, revogou tambem os regulamentos municipais que prescreveram sobre os assuntos nele tratados, nos mesmos ou em diferentes termos.
+
+IX - Por isso, ainda a assunção da responsabilidade pela direcção tecnica das obras de demolição de um predio não se restringe aos acidentes sofridos pelo pessoal operario, como resultava do artigo 3 do Regulamento das Obras Particulares da Camara Municipal do Porto, de 1929, e do Regulamento de 6 de Junho de 1895, envolvendo a obrigação de tomar as medidas ou precauções necessarias para garantir a segurança de todas as pessoas e evitar quaisquer danos a terceiros.
+
+X - Age com culpa, portanto, o responsavel tecnico pelas obras de demolição de um predio que não providencia pelo adequado escoramento de uma parede, depois da demolição das restantes.
