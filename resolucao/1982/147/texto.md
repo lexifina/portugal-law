@@ -1,0 +1,3 @@
+Resolução n.º 147/82
+O Conselho de Ministros para os Assuntos Económicos, reunido em 3 de Agosto de 1982, resolveu, ao abrigo do n.º 1 do artigo 6.º dos Estatutos da DRAGAPOR - Dragagens de Portugal, E. P., aprovados pelo Decreto-Lei n.º 332/77, de 10 de Agosto, com a redacção introduzida pelo Decreto-Lei n.º 144/78, de 16 de Junho, renovar o mandato do Dr. Fernando Táboas Gonçalves Pacheco, vogal do conselho de gerência da DRAGAPOR - Dragagens de Portugal, E. P.
+Presidência do Conselho de Ministros, 3 de Agosto de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
