@@ -1,0 +1,43 @@
+# Acórdão do Tribunal Central Administrativo Sul de 1998-06-25, processo 01408/98
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 01408/98
+
+**Secção:** Secção do Contencioso Administrativo - Tribunal Central Administrativo
+
+**Data do Acordão:** 06/25/1998
+
+**Relator:** António S. Pedro
+
+**Descritores:** SUSPENSÃO DE EFICÁCIA; DIREITO À HABITAÇÃO
+
+**Aditamento:** 1
+
+## Sumário
+
+1. A Constituição consagra o direito à habitação no artigo 65 nº 1, através de uma norma
+
+meramente programática, carecendo, por isso de mediação do legislador ordinário para ser oponível à
+
+Administração Pública. Não existe, assim. na esfera jurídica dos particulares um direito fundamental à
+
+habitação, decorrente de tal artigo 65, nº 1 da CRP, com a virtualidade
+
+de poder ser violado através de actos administrativos. A violação das normas programáticas, gera, a
+
+nível jurídico, tão só a denominada inconstitucionalidade por omissão, prevista no artigo 283 da CRP.
+
+2. 0 acto administrativo que determina um despejo administrativo não pode assim, manifestamente, ser
+
+nulo por ofensa do conteúdo essencial do direito fundamental à habitação previsto no artigo 65, 1 da
+
+CRP (artigo 133 nº 2 alínea d) do C.P.A.), pelo que é manifesta a ilegalidade de interposição de um
+
+recurso contencioso com fundamento em tal vício, se já tiverem de corrido os prazos do artigo 28 da
+
+LPTA. Pode, portanto, rejeitar-se o pedido de suspensão de eficácia de tais actos, com fundamento no disposto no artigo 76, 1, alínea c) da LPTA (fortes indícios de ilegalidade na interposição do recurso).
+
+3. Em todo o caso, a suspensão de eficácia de actos nulos ou inexistentes deve ser requerida até ao
+
+termo do prazo concedido para os recursos contenciosos dos actos anuláveis (artigo 79, nº 3 da LPTA), pelo que, a interposição para além destes prazos determina a sua rejeição.
