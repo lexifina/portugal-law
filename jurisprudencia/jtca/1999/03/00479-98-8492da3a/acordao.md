@@ -1,0 +1,35 @@
+# Acórdão do Tribunal Central Administrativo Sul de 1999-03-02, processo 00479/98
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 00479/98
+
+**Secção:** Secção do Contencioso Tributário - Tribunal Central Administrativo
+
+**Data do Acordão:** 03/02/1999
+
+**Relator:** José Gomes Correia
+
+**Descritores:** IRC; MÉTODOS INDICIÁRIOS; DÚVIDA FUNDADA
+
+**Aditamento:** 1
+
+## Sumário
+
+I)- O recurso a métodos indiciários para a determinação do imposto é uma faculdade que assiste ao Fisco, com a margem de livre apreciação conferida pelos art°s 51 e segs. do CIRC quando haja razões fundadas para concluir que não é possível a comprovação e a quantificação directa e exacta
+
+dos elementos indispensáveis à determinação da matéria colectável nas situações que estão que estão expressamente tipificadas no CIRC e que assumem um carácter excepcional.
+
+II)- Tem por isso a ADMINISTRAÇÃO FISCAL de demonstrar, sem margens para dúvidas, a
+
+existência de erros, omissões ou inexactidões na contabilidade da impugnante, já que a previsão do
+
+artigo 51° do CIRC aponta para a necessidade de recorrer a presunções ou estimativas por carência de elementos que permitam apurar claramente o imposto, procedendo à rectificação de declarações ou à correcção oficiosa, de acordo com os art°. 52° do mesmo Código.
+
+III)- Ocorrendo os factos e a instauração do processo impugnatório antes do domínio do CPT, o regime estabelecido no seu artigo 121° é ao caso aplicável pois tal normativo não regula uma relação
+
+jurídico-material definidora da constituição da obrigação de imposto nem institui um direito subjectivo
+
+em favor do credor do tributo e uma obrigação correspondente radicada no devedor. Ou seja, ela não é uma norma material destinada a regular as relações intersubjectivas das pessoas, antes consagra um princípio estruturante do processo (contencioso e gracioso) integrando o direito adjectivo que é o ramo do direito que regula um elemento acessório- a garantia- das relações substantivas entre os sujeitos jurídicos.
+
+IV)- Não é legítima a dúvida alicerçada numa escrita que não merece qualquer credibilidade por falta de elementos minimamente rigorosos .
