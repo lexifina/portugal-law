@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo de Chipre informou o Ministério dos Negócios Estrangeiros dos Países Baixos, em 5 de Janeiro de 1984, que, para efeitos dos artigos 2, 6 e 9 da Convenção Relativa à Citação e Notificação no Estrangeiro dos Actos Judiciários e Extrajudiciários em Matéria Civil e Comercial, de 15 de Novembro de 1965, a autoridade central é o Ministério da Justiça e, para efeitos do artigo 18, além da autoridade central, os tribunais da República de Chipre.
+Secretaria-Geral do Ministério, 3 de Maio de 1984. - O Director dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
