@@ -1,0 +1,27 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAReunioesVisitas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HnZMd6pF5pyTS9vAkRANrUIOT0wdqhuwn85fcHx7xiSCD%2b%2bEh4Hqb2qDbnNYHyFC1UP4%2bHTkVX3hm8t6ugZ%2bqiIiE%2brq5qLneWoIeu3lp4zkcvAF8kMvyRTMUwbdwL8KXG8UD%2fHeku%2fq4ACZ8SWoaTxBlWOXmzks%2bwwB%2fwBY3bVHmzGEBlsSSSmGdQlhFnSCvs4HPe0%2folck4hI3A5duiTvVkItnwHxeF2FwfaileCmFoqo1Mg5apqsKwMvT8iaO92X4F7auZ3G7DNS9DCW9RblRBCzOj%2bMZxvzuw32ixtQJjlrUUASzMrih59hGbyhZRn0AEKEBffc8eJ%2fcQSaWDT350PjNnZBq%2fwuf%2f%2bukbr8g5Pi3egG05Nu9SE5Y0AoRBAW4WWPWVwzKKIcsRTuUuw%3d%3d&fich=ReunioesVisitasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c5de3d43759c60456a2b7bfdf9fa37342625ea0f32553f29bcc0aa6c0e475abf",
+  "legislatura": "IX",
+  "id": "10026",
+  "tipo": "Reunião/visita (RNN)",
+  "data_registo": "2004-07-01",
+  "data_registo_base": "record date = the start day of the meeting/visit (\"DataInicio\", dd/mm/yyyy) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "Participantes"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DataFim": "01/07/2004 00:00:00",
+    "DataInicio": "01/07/2004 00:00:00",
+    "Id": "10026",
+    "Legislatura": "IX",
+    "Local": "Restaurante do Novo Edifício",
+    "Nome": "Almoço de trabalho da Comissão Parlamentar de Assuntos Europeus e Política Externa (CAEPE) com o Embaixador do Reino dos Países Baixos",
+    "Promotor": "CAEPE",
+    "Sessao": "2",
+    "Tipo": "RNN"
+  }
+}
