@@ -1,0 +1,5 @@
+Aviso n.º 136/2003
+Por ordem superior se torna público que, em 28 de Janeiro de 2003, o governo da Grande Jamahiriya Árabe Libiana Popular Socialista depositou o seu instrumento de adesão à Convenção sobre o Comércio Internacional de Espécies da Fauna e da Flora Selvagem Ameaçadas de Extinção (CITES), concluída em Washington a 3 de Março de 1973.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 50/80, publicado no Diário da República, 1.ª série, n.º 168, de 23 de Julho de 1980, tendo depositado o seu instrumento de ratificação em 11 de Dezembro de 1980 e tendo a Convenção entrado em vigor para Portugal em 11 de Março de 1981.
+Nos termos do n.º 2 do artigo XXII, a Convenção entrará em vigor na Grande Jamahiriya Árabe Libiana Popular Socialista 90 dias após o depósito do instrumento de adesão, ou seja, em 28 de Abril de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 26 de Março de 2003. - A Directora de Serviços das Organizações Económicas Internacionais, Graça Gonçalves Pereira.
