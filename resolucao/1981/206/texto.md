@@ -1,0 +1,7 @@
+Resolução n.º 206/81
+A Resolução n.º 196/78, publicada no Diário da República, 1.ª série, n.º 266, de 18 de Novembro de 1978, determinou a cessação da intervenção do Estado nas empresas Algarvesol - Empreendimentos Turísticos, S. A. R. L., e Quarteirasol - Sociedade Turística, S. A. R. L.
+O prazo fixado no n.º 8 da citada resolução tem sido sucessivamente prorrogado, tendo a última prorrogação sido determinada pela Resolução n.º 62/81, publicada no Diário da República, 1.ª série, n.º 75, de 31 de Março de 1981.
+Embora as empresas tenham herdado, à data da desintervenção, uma situação bastante complexa, já entregaram as propostas para contrato de viabilização na entidade competente para apreciação.
+Torna-se imprescindível continuar a manter condições que propiciem a sobrevivência e a viabilização das empresas.
+Assim, o Conselho de Ministros, reunido em 20 de Agosto de 1981, resolveu, ao abrigo do n.º 1 do artigo 20.º do Decreto-Lei n.º 422/76, de 29 de Maio, com a redacção dada pelo Decreto-Lei n.º 543/76, de 10 de Julho, prorrogar, até à celebração do contrato de viabilização das empresas, ou até 31 de Dezembro de 1981, se, entretanto, tal contrato não for celebrado, o prazo previsto no n.º 8 da Resolução n.º 196/78, publicada no Diário da República, de 18 de Novembro de 1978, com efeitos a partir de 1 de Julho de 1981, na parte que não colida com o disposto no Decreto-Lei n.º 74-B/79, de 5 de Abril.
+Presidência do Conselho de Ministros, 20 de Agosto de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
