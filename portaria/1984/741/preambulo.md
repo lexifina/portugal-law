@@ -2,7 +2,7 @@ Portaria n.º 741/84
 
 de 21 de Setembro
 
-Considerando que, nos termos do disposto na Portaria n.º 996/83, de 28 de Novembro, as promoções aos postos de major, tenente-coronel e coronel são por escolha e antiguidade, excepto nos casos em que esse posto corresponda ao mais elevado de determinado quadro, em que a promoção será somente por escolha;
+Considerando que, nos termos do disposto na Portaria n.º 996/83, de 28 de Novembro, somente as promoções aos postos mais elevados que possam ser alcançados por um oficial de determinado quadro se processem por escolha;
 
 Tornando-se necessário alterar em conformidade a Portaria n.º 576/77, de 15 de Setembro, que regulamenta o sistema de promoções dos oficiais do Exército;
 
