@@ -1,0 +1,19 @@
+Portaria n.º 304/78
+de 6 de Junho
+Considerando que, em virtude da evolução do ensino no País, as habilitações literárias estipuladas no Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM) estão desactualizadas face ao alargamento da escolaridade obrigatória;
+Considerando que, para efeitos de acesso ou mudança da categoria, não deve ser exigido aos indivíduos admitidos na actividade anteriormente à citada reforma o mesmo grau de habilitações literárias presentemente obrigatório para os candidatos à inscrição marítima;
+Considerando, por outro lado, a conveniência, por razões de promoção sócio-profissional dos marítimos e de uniformização da prática a adoptar, dado que o RIM é omisso sobre o assunto, de os exames que habilitem ao exercício de determinadas categorias deverem incluir uma prova escrita, ainda que sumária;
+Considerando ainda que a limitação de idade máxima de admissão do trabalhador em qualquer profissão não pode subsistir na nova sociedade que todos estamos empenhados em construir, uma vez que o trabalhador prove aptidão para a categoria que pretende adquirir;
+Usando da faculdade conferida pelo artigo 1.º do Decreto-Lei n.º 281/75, de 6 de Junho:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pescas e da Marinha Mercante, o seguinte:
+1 - A alínea e) do artigo 8.º, o artigo 65.º e o § 2.º do artigo 139.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo Decreto n.º 45969, de 15 de Outubro de 1964, são substituídos pelos seguintes:
+Art. 8.º ...
+e) Documento comprovativo de possuir pelo menos a escolaridade obrigatória segundo a idade do requerente; em qualquer caso, não poderá ser inferior à 4.ª classe do ensino primário ou equivalente.
+...
+Art. 65.º A categoria de pescador poderá ser atribuída ao indivíduo que a requeira e tenha mais de 16 anos.
+§ único. Na atribuição da categoria de pescador, será dada preferência aos indivíduos que tenham a categoria de moço pescador.
+...
+Art. 139.º ...
+§ 2.º O exame incluirá, nomeadamente, uma prova escrita, constando esta de algumas perguntas de resposta simples, e uma outra de desenvolvimento, sendo o resultado definido apenas pelos termos Apto ou Não apto.
+2 - É eliminada a alínea e) do artigo 137.º
+Ministérios da Agricultura e Pescas e dos Transportes e Comunicações, 23 de Maio de 1978. - O Secretário de Estado das Pescas, Vasco Ferreira César das Neves. - O Secretário de Estado da Marinha Mercante, Luís António Penedo Correia Maltês.
