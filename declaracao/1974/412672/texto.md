@@ -1,0 +1,10 @@
+Declaração
+De harmonia com o disposto no n.º 1 do artigo 6.º do Decreto-Lei n.º 54/72, de 15 de Fevereiro, se publica que foram autorizadas as seguintes transferências de verbas e alterações de rubricas, nos termos do n.º 2 do artigo 3.º e artigos 4.º e 5.º do mesmo diploma:
+(ver documento original)
+No capítulo 10.º, artigo 245.º, n.º 1, à rubrica descrita na alínea 1 é aditado o seguinte:
+(ver documento original)
+A adicionar:
+(ver documento original)
+No capítulo 10.º, à rubrica descrita no artigo 247.º, é aditado:
+(ver documento original)
+1.ª Delegação da Direcção-Geral da Contabilidade Pública, 12 de Fevereiro de 1974. - Pelo Director, Rui da Costa Marques Ribeiro.
