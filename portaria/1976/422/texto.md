@@ -1,0 +1,4 @@
+Portaria n.º 422/76
+de 15 de Julho
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Transportes e Comunicações, nos termos do n.º 3 do artigo 37.º do estatuto da empresa pública Correios e Telecomunicações de Portugal, anexo I ao Decreto-Lei n.º 49368, de 10 de Novembro de 1969, atendendo ao que por ela foi solicitado, autorizar a referida empresa a contrair na Caixa Geral de Depósitos um empréstimo no montante de 350000 contos, à taxa de 11,25% ao ano, susceptível de actualização e pelo prazo de dez anos, sendo o primeiro de utilização. Este empréstimo será garantido por consignação das receitas da referida empresa pública, a qual inscreverá nos seus orçamentos anuais as verbas necessárias à regularização do serviço do empréstimo.
+Ministérios das Finanças e dos Transportes e Comunicações, 2 de Julho de 1976. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro dos Transportes e Comunicações, José Augusto Fernandes.
