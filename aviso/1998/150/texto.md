@@ -1,0 +1,4 @@
+Aviso n.º 150/98
+Por ordem superior se torna público que a Moldávia depositou, em 4 de Fevereiro de 1998, os instrumentos de ratificação da Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal, aberta para assinatura, em Estrasburgo, em 20 de Abril de 1959.
+Portugal é parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 39/94, publicada no Diário da República, 1.ª série-A, n.º 161, de 14 de Julho de 1994, tendo depositado o seu instrumento de ratificação em 27 de Setembro de 1994, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 255, de 4 de Novembro de 1994.
+Direcção-Geral dos Assuntos Multilaterais, 24 de Julho de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
