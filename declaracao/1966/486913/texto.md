@@ -1,0 +1,3 @@
+Declaração
+Em aditamento à declaração relativa aos preços máximos de sabão Offenbach na fábrica e na venda ao público, publicada no Diário do Governo n.º 138, 1.ª série, de 24 de Junho de 1965, se declara que foi autorizado, por despacho do Secretário de Estado do Comércio de 21 de Fevereiro do corrente ano, que os comerciantes por grosso e a retalho possam considerar na formação dos seus preços de revenda a que alude a referida declaração e com base nos de aquisição às fábricas as despesas de transporte público permitidas pela Inspecção-Geral das Actividades Económicas.
+Comissão de Coordenação Económica, 11 de Março de 1966. - O Presidente, Henrique de Carvalho Costa.
