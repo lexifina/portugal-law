@@ -1,0 +1,11 @@
+Despacho
+Requisitos específicos para a indústria de montagem de veículos automóveis
+Nos termos do n.º 2 do artigo 10.º do Decreto-Lei n.º 533/74, de 10 de Outubro, determino:
+1 - Este despacho aplica-se à indústria de montagem de veículos automóveis ligeiros ou pesados, de passageiros, carga ou mistos, actividade que se inclui no subgrupo 3843.1 da revisão I da Classificação das Actividades Económicas (CAE).
+2 - Esta actividade, além de obedecer ao disposto no Decreto-Lei n.º 157/72, de 12 de Maio, deve satisfazer também aos seguintes requisitos:
+2.1 - As sociedades que instalem, reabram ou mudem de local estabelecimentos industriais de montagem de veículos automóveis, bem como as que modifiquem, por ampliação, os seus equipamentos produtivos, devem ser juridicamente portuguesas e possuir um capital social realizado igual, pelo menos, a 30% do investimento fixo global, mas não inferior a 75000 contos, no caso de montagem de veículos de passageiros ou mistos, ou a 25000 contos, no caso de montagem de veículos de carga ligeiros ou pesados.
+2.2 - Os estabelecimentos industriais que executem os actos referidos no n.º 2.1 devem possuir, respectivamente, uma capacidade de produção diária, por turno, não inferior a trinta veículos de passageiros ou mistos e a cinco veículos de carga.
+2.3 - A capacidade de produção é medida pela capacidade do equipamento de pintura, devendo os sectores a montante e a jusante estar equilibradamente dimensionados.
+2.4 - A direcção técnica dos estabelecimentos de montagem de veículos automóveis deve incluir, pelo menos, um técnico habilitado com um curso superior de engenharia.
+3 - As sociedades que instalem novas unidades, as que reabram estabelecimentos existentes, bem como as que ampliem ou transfiram os mesmos, devem garantir o cumprimento dos requisitos técnicos, económicos e financeiros, constantes deste despacho, dentro do prazo fixado para a instalação, prestando, nos termos do artigo 32.º do Decreto-Lei n.º 533/74, de 10 de Outubro, uma caução de 3000 contos, no caso de montagem de veículos de passageiros ou mistos, e de 1000 contos, no caso de montagem de veículos de carga ligeiros ou pesados.
+Secretaria de Estado da Indústria e Energia, 6 de Janeiro de 1975. - O Secretário de Estado da Indústria e Energia, José de Melo Torres Campos.
