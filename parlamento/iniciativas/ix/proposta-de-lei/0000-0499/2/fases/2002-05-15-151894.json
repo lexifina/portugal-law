@@ -1,0 +1,2444 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "2",
+    "id": "18991",
+    "titulo": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o Orçamento dos Estado para 2002."
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2002-05-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2152",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2002-05-15",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-05-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140736",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "341-343"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/341?pgs=341-343&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140737",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "341-341",
+                  "343-343"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/341?pgs=341,343&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Vasco Valdez"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140738",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "343-344",
+                  "374-374",
+                  "377-377"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/343?pgs=343-344,374,377&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140739",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "344-344"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/344?pgs=344&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140740",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "345-345",
+                  "370-370"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/345?pgs=345,370&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140741",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "340-340",
+                  "345-345",
+                  "349-350",
+                  "359-359",
+                  "374-374",
+                  "376-376"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/340?pgs=340,345,349-350,359,374,376&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140742",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "346-346"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/346?pgs=346&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "459",
+                "nome": "João Cravinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140743",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "346-346",
+                  "352-352",
+                  "360-360"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/346?pgs=346,352,360&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140744",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "346-346",
+                  "361-361",
+                  "367-367",
+                  "371-371"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/346?pgs=346,361,367,371&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1278",
+                "nome": "Augusto Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140745",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "346-347"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/346?pgs=346-347&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140746",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "347-347",
+                  "349-349",
+                  "354-355",
+                  "361-361",
+                  "368-368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/347?pgs=347,349,354-355,361,368&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140747",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "347-348",
+                  "353-354",
+                  "368-368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/347?pgs=347-348,353-354,368&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRAÇÃO  PÚBLICA",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Suzana Toscano"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140748",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "348-348"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/348?pgs=348&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "195",
+                "nome": "Leonor Coutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140749",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "348-348"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/348?pgs=348&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140750",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "341-341",
+                  "344-345",
+                  "348-349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/341?pgs=341,344-345,348-349&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  HABITACAO",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140751",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "349-349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/349?pgs=349&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Marques Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140752",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "350-353"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/350?pgs=350-353&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140753",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "352-352"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/352?pgs=352&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "353-353"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/353?pgs=353&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140755",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "355-355"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/355?pgs=355&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "356-358",
+                  "368-368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/356?pgs=356-358,368&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "355-356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/355?pgs=355-356&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140758",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "357-357"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/357?pgs=357&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "357-358"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/357?pgs=357-358&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "358-358"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/358?pgs=358&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "358-358"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/358?pgs=358&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "360-360",
+                  "368-368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/360?pgs=360,368&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140763",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "360-360"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/360?pgs=360&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "195",
+                "nome": "Leonor Coutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140764",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "361-362"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/361?pgs=361-362&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140765",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "362-362"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/362?pgs=362&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140766",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "362-363"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/362?pgs=362-363&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140767",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "363-363"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/363?pgs=363&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140768",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "363-364"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/363?pgs=363-364&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "364-364"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/364?pgs=364&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140770",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "364-365"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/364?pgs=364-365&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1467",
+                "nome": "Medeiros Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140771",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "365-366"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/365?pgs=365-366&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "366-366",
+                  "384-384"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/366?pgs=366,384&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1028",
+                "nome": "Sónia Fertuzinhos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "384-384"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/384?pgs=384&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1971",
+                "nome": "Gustavo Carranca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140774",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "384-384"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/384?pgs=384&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140775",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "384-384"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/384?pgs=384&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "366-367"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/366?pgs=366-367&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "369-369"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/369?pgs=369&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140778",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "367-367",
+                  "372-372"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/367?pgs=367,372&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140779",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "369-369"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/369?pgs=369&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "205",
+                "nome": "Rui Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140780",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "371-371"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/371?pgs=371&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "205",
+                "nome": "Rui Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140781",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "371-371"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/371?pgs=371&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "372-372"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/372?pgs=372&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140783",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "373-374",
+                  "376-377"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/373?pgs=373-374,376-377&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "22:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140784",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "385-387"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-16",
+                "pubLeg": "IX",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16/385?pgs=385-387&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o OE para 2002.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "151894",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2152",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-05-16",
+        "pubLeg": "IX",
+        "pubNr": "10",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/010/2002-05-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
