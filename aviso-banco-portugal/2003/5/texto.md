@@ -1,0 +1,11 @@
+Aviso do Banco de Portugal n.º 5/2003
+Considerando o disposto no artigo 113.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, com a alteração introduzida pelo Decreto-Lei n.º 201/2002, de 26 de Setembro, em que são atribuídas ao Banco de Portugal competências para a definição dos limites ao valor do activo imobilizado das instituições de crédito, bem como ao valor total das acções ou outras partes de capital de quaisquer sociedades não abrangidas no referido activo, que as instituições de crédito podem deter, o Banco de Portugal estabelece o seguinte:
+1.º O valor líquido do activo imobilizado de uma instituição de crédito não pode ultrapassar o montante dos respectivos fundos próprios.
+2.º O valor total das acções ou outras partes de capital de quaisquer sociedades detidas por uma instituição de crédito e não abrangidas pelo número anterior não pode ultrapassar 40% dos fundos próprios da mesma instituição.
+3.º O limite previsto no número anterior pode ser excedido desde que a soma do valor dos respectivos activos com o valor líquido do activo imobilizado não ultrapasse 140% dos respectivos fundos próprios.
+4.º Para cumprimento do disposto nos números anteriores, não são considerados os elementos do activo que, segundo as normas aplicáveis, são deduzidos para efeitos do cálculo dos fundos próprios das instituições de crédito.
+5.º Os limites fixados nos n.os 1.º, 2.º e 3.º podem ser excedidos em resultado de aquisições em reembolso de crédito próprio, devendo as situações daí resultantes ser regularizadas no prazo de dois anos, o qual, havendo motivo fundado, poderá ser prorrogado pelo Banco de Portugal, nas condições que este determinar.
+6.º Os mesmos limites podem ser ultrapassados quando os excedentes sejam cobertos a 100% por fundos próprios e estes não entrem no cálculo dos rácios ou limites que tenham os fundos próprios por referência, com excepção dos limites fixados no presente aviso.
+7.º O Banco de Portugal emitirá as instruções técnicas julgadas necessárias ao cumprimento das disposições do presente aviso.
+8.º O presente aviso entra em vigor na data da sua publicação.
+7 de Janeiro de 2003. - O Governador, Vítor Constâncio.
