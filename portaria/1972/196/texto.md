@@ -1,0 +1,11 @@
+Portaria n.º 196/72
+de 10 de Abril
+Verificando-se que o número de candidatos ao ingresso por voluntariado na classe da taifa tem vindo a ser insuficiente para o preenchimento das vacaturas existentes nos quadros desta classe;
+Tendo em conta o disposto no artigo 27.º do Estatuto dos Sargentos e Praças da Armada, aprovado e posto em execução pelo Decreto n.º 44884, de 18 de Fevereiro de 1963:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+1.º Após terem concluído a instrução de recruta, serão destinados à classe da taifa os segundos-grumetes recrutas no número que for fixado, de acordo com as necessidades, pelo superintendente dos Serviços do Pessoal da Armada, obedecendo a sua designação para esta classe às condições especiais de aptidão que para ela se encontram estabelecidas.
+2.º O ingresso na classe da taifa das praças referidas no número anterior terá lugar após a conclusão com aproveitamento do respectivo curso de alistamento, que frequentarão em concorrência com os segundos-grumetes alunos admitidos por concurso.
+3.º Os segundos-grumetes recrutas que não obtiverem aproveitamento no curso de alistamento da taifa não serão autorizados a repeti-lo, salvo quando a falta de aproveitamento for devida a doença, e serão destinados à classe de fuzileiros, indo frequentar a primeira instrução técnica elementar dessa classe que se seguir à sua eliminação.
+4.º Às praças que tenham ingressado na classe da taifa ao abrigo da presente portaria são aplicáveis as disposições que regulam a carreira militar do pessoal da classe da taifa; dado porém que não pertencem aos quadros permanentes, não lhes é aplicável a duração da prestação de serviço estabelecida para o pessoal permanente daquela classe nem são admitidos ao exame de promoção a cabo.
+5.º As praças de que trata a presente portaria podem, caso o requeiram, ser autorizadas a transitar para os quadros permanentes, em qualquer altura, inclusive durante a frequência do curso de alistamento; o ingresso nos quadros permanentes implica, para essas praças, o cumprimento de um período de serviço igual àquele a que estariam obrigados se o seu ingresso no curso tivesse sido feito por voluntariado.
+O Ministro da Marinha, Manuel Pereira Crespo.
