@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação da 14.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério das Finanças, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 78, de 4 de Abril de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Em 10 - Ministério do Planeamento e da Administração do Território, div. 43 - Modernização da Administração Pública, onde se lê «Subdiv. 03 - SGMAPAT - Instalações para CCRs e GATs» deve ler-se «Subdiv. 03 - SGMPAT Instalações para CCRs e GATs».
+Na div. 72 - Despesas de apoio, subdiv. 09 - SGMPAT - Melhoria qual. amb. valor natural Reg. Centro, onde se lê «C. E. 30.03 - Serviços próprios» deve ler-se «C. E. 38.03 - Serviços autónomos».
+Na div. 85 - Nordeste Algarvio, subdiv. 11 - Aproveitamento hidráulico de Odeleite - Beliche - DGRN, onde se lê «C. F. 8.02.0 - C. E. 49.00 - Investimentos - Melhoramentos fundiários» deve ler-se «C. F. 8.02.1 - C. E. 49.00 - Investimentos - Melhoramentos fundiários».
+Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Abril de 1989. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, José Serra.
