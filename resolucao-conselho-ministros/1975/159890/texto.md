@@ -1,0 +1,6 @@
+Resolução do Conselho de Ministros
+Considerando que os cadernos de recenseamento definitivos se encontram elaborados, de acordo com o artigo 32.º do Decreto-Lei n.º 621-A/74, com a redacção que lhe foi dada pelo Decreto-Lei n.º 3/75, de 7 de Janeiro;
+Considerando que o documento a que se refere o n.º 4 do artigo 5.º do Decreto-Lei n.º 595/74, de 7 de Novembro, tem por finalidade provar que o cidadão requerente se encontra no pleno gozo dos seus direitos civis e políticos, entre os quais se conta a capacidade eleitoral, a qual, segundo o artigo 42.º do Decreto-Lei n.º 621-A/74, se presume existir pela inscrição nos cadernos de recenseamento definitivos, o Conselho de Ministros, por resolução de 30 de Janeiro de 1975, deliberou o seguinte:
+Para os efeitos do n.º 4 do artigo 5.º de Decreto-Lei n.º 595/74, de 7 de Novembro, as comissões de recenseamento devem passar, no prazo de três dias, as certidões de inscrição nos cadernos de recenseamento que lhes forem requeridas.
+Os requerimentos poderão ser individuais ou colectivos, devendo as assinaturas dos requerentes ser reconhecidas notarialmente ou ser apresentados os respectivos bilhetes de identidade.
+Presidência do Conselho de Ministros, 30 de Janeiro de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
