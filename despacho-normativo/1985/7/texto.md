@@ -1,0 +1,11 @@
+Despacho Normativo n.º 7/85
+Para execução do disposto no Decreto-Lei n.º 549/77, de 31 de Dezembro, através da Portaria n.º 137/82, de 30 de Janeiro, foi integrada, orgânica e funcionalmente, no Centro Regional de Segurança Social do Porto a Caixa de Previdência e Abono de Família da Indústria Têxtil.
+Em cumprimento do n.º 2 da citada portaria, e através dos Despachos Normativos n.os 189/82, de 28 de Agosto, e 52/83, de 16 de Fevereiro, foram integrados nos vários centros regionais de segurança social, à excepção do de Braga, os contribuintes e beneficiários da referida Caixa de Previdência.
+Porém, atendendo ao grande número de contribuintes e beneficiários da indústria têxtil existentes no distrito de Braga e às dificuldades daí inerentes, não superáveis a curto prazo, foi previsto que oportunamente seria fixada a data de integração dos referidos contribuintes e beneficiários no Centro Regional de Segurança Social de Braga.
+No entanto, foi determinado pelo já aludido Despacho Normativo n.º 52/83 que, a partir de 1 de Março de 1983, os novos contribuintes que desenvolvessem actividades abrangidas pela ex-Caixa Têxtil e que tivessem a sua sede no âmbito do Centro Regional de Segurança Social de Braga deveriam ser inscritos, bem como os respectivos beneficiários, no referido Centro.
+Considerando que no Centro Regional de Segurança Social de Braga se encontra em fase bastante adiantada a informatização dos seus serviços, julga-se agora oportuno completar o processo de integração, que abrangerá cerca de 60000 beneficiários e 600 contribuintes.
+Nestes termos, ao abrigo do disposto no artigo 19.º do Decreto-Lei n.º 549/77, de 31 de Dezembro, determino o seguinte:
+1 - São integrados no Centro Regional de Segurança Social de Braga os contribuintes que desenvolvam neste distrito actividades abrangidas no âmbito da ex-Caixa de Previdência e Abono de Família da Indústria Têxtil, bem como os respectivos beneficiários.
+2 - Os Centros Regionais de Segurança Social do Porto e Braga devem estabelecer entre si as ligações funcionais necessárias à efectiva execução do presente despacho.
+3 - A integração referida no n.º 1 produz efeitos a partir de 1 de Janeiro de 1985.
+Secretaria de Estado da Segurança Social, 14 de Dezembro de 1984. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
