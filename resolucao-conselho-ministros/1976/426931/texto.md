@@ -1,0 +1,3 @@
+Resolução do Conselho de Ministros
+Considerando a situação em que Portugal se encontra, designadamente por força dos efeitos da descolonização, com o acesso maciço de refugiados das antigas colónias, e conjugando os objectivos específicos do Fonds de Rétablissement du Conseil de l'Europe para a criação de medidas que permitam a solução de problemas de refugiados e de emigrantes, o Conselho de Ministros delibera autorizar o pedido de adesão ao Fonds de Rétablissement, a formular imediatamente junto do Secretário-Geral do Conselho da Europa.
+Presidência do Conselho de Ministros, 12 de Maio de 1976. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.
