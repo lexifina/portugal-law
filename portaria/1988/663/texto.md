@@ -1,0 +1,16 @@
+Portaria n.º 663/88
+de 1 de Outubro
+A experiência colhida pela Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE) na sequência da publicação do Decreto-Lei n.º 118/83, de 25 de Fevereiro, que veio clarificar significativamente o âmbito pessoal de aplicação do esquema de benefícios da ADSE, enunciando os requisitos exigidos para aquisição e manutenção da qualidade de beneficiário titular e de beneficiário familiar, revelou que a informação disponível constante dos boletins de inscrição e alteração, de modelo aprovado pela Portaria n.º 873/82, de 15 de Setembro, por manifestamente insuficiente e imprecisa, implica em muitos casos uma indesejável demora na resolução dos processos de inscrição e manutenção de direitos, com todos os prejuízos daí resultantes para os interessados e também para a própria Administração.
+Por outro lado, os procedimentos hoje adoptados na análise e tratamento da informação, bem como a estrutura do ficheiro informático, não justificam a manutenção de boletins de inscrição diferentes para funcionários e agentes no activo e para funcionários e agentes aposentados, antes aconselham que passe a ser utilizado um boletim para proceder a inscrições e adoptado um outro exclusivamente para documentar alterações.
+Impõe-se, pois, a reformulação e substituição dos modelos existentes, dotando-os de campos de preenchimento que, por veicularem informação mais completa e precisa, permitirão abreviar a resolução dos processos e chamar também a atenção dos beneficiários e dos serviços processadores para a obrigatoriedade de comunicação à Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública das alterações de natureza profissional, pessoal ou familiar com reflexos na situação daqueles perante a ADSE.
+Assim, ao abrigo do disposto na alínea c) do artigo 202.º da Constituição e considerando o disposto no artigo 14.º do Decreto-Lei n.º 118/83, de 25 de Fevereiro:
+Manda o Governo, pelo Ministro das Finanças, o seguinte:
+1.º São aprovados o boletim de inscrição e o boletim de alteração para funcionários e agentes e seus familiares, cujos modelos, respectivamente n.os 1027 e 1028, se anexam e que passarão a vigorar a partir de 1 de Outubro de 1988, em substituição dos actuais boletins de inscrição e alteração de funcionários no activo e de funcionários aposentados ou pensionistas, respectivamente modelos n.os 200 e 201 da Imprensa Nacional-Casa da Moeda, E. P., aprovados pela Portaria n.º 873/82, de 15 de Setembro.
+2.º Os modelos ora aprovados são considerados exclusivos da Imprensa Nacional-Casa da Moeda, E. P., devendo a sua tiragem ser feita no formato normalizado A4 (210 mm x 297 mm).
+3.º Durante o período decorrente entre a data da publicação desta portaria e Outubro de 1988 continuam a ser utilizados os impressos presentemente em vigor e existentes em depósito na Imprensa Nacional-Casa da Moeda, E. P.
+4.º Se no decurso do período referido no número anterior se esgotarem os impressos modelos n.os 200 ou 201, fica aquela empresa autorizada a fornecer de imediato impressos dos modelos ora aprovados.
+Ministério das Finanças.
+Assinada em 6 de Setembro de 1988.
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.
+
+(ver documento original)
