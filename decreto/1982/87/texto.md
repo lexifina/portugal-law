@@ -1,0 +1,33 @@
+Decreto n.º 87/82
+de 13 de Julho
+A transferência da informação nas suas diferentes modalidades, sendo um importante factor de desenvolvimento do País, pressupõe a criação e a dinamização de infra-estruturas na área dos serviços de documentação, de biblioteca e de arquivo.
+Perante a grande evolução das actividades profissionais nas últimas décadas neste domínio, torna-se indispensável planear uma formação adequada que permita, inclusive, alargar a capacidade de utilização dos sistemas de informação já existentes a nível mundial, sendo certo que o investimento que neste campo se fizer terá um poderoso efeito multiplicador.
+Considera-se que as exigências de formação no domínio das ciências documentais só serão satisfeitas através de cursos a diferentes níveis, em vários graus de ensino.
+Ora, actualmente só existe um curso, o de bibliotecário-arquivista, criado pelo Decreto-Lei n.º 26026, de 7 de Novembro de 1935, a funcionar na Faculdade de Letras da Universidade de Coimbra, e mesmo esse desde há muito se mostra desajustado das necessidades em recursos humanos dos organismos públicos e privados.
+Prevê, por outro lado, o Decreto-Lei n.º 280/79, de 10 de Agosto, que estrutura as carreiras dos funcionários dos serviços de biblioteca, de arquivo e de documentação da administração central, que o acesso à carreira técnica superior está dependente não só da titularidade da licenciatura, mas também da aprovação em curso especializado adequado.
+Nesta perspectiva, e porque cabe à Universidade assegurar uma sólida e actualizada preparação aos técnicos e investigadores, cria-se agora o curso de especialização em Ciências Documentais na Faculdade de Letras da Universidade de Coimbra, extinguindo, em consequência, o já referido curso de bibliotecário-arquivista.
+Permite-se igualmente que o curso seja ministrado nas universidades onde se reúnam as necessárias condições humanas e materiais, ponderadas as carências em pessoal qualificado nesta área.
+Assim:
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+ARTIGO 1.º
+(Curso de especialização em Ciências Documentais)
+1 - É criado o curso de especialização em Ciências Documentais.
+2 - O curso visa a formação de profissionais qualificados no domínio das ciências documentais, com vista a conceber, planificar, gerir, explorar e manter serviços de documentação e informação, de biblioteca e arquivo.
+ARTIGO 2.º
+(Local de funcionamento)
+1 - O curso será desde já ministrado na Faculdade de Letras da Universidade de Coimbra.
+2 - Poderá ser autorizado por portaria do Ministro da Educação e das Universidades o funcionamento do curso noutras universidades, precedendo proposta destas, ponderadas as carências em profissionais com esta qualificação e a existência das adequadas condições humanas e materiais para o seu funcionamento.
+ARTIGO 3.º
+(Extinção do curso de bibliotecário-arquivista)
+É extinto o curso de bibliotecário-arquivista da Faculdade de Letras da Universidade de Coimbra, criado pelo Decreto-Lei n.º 26026, de 7 de Novembro de 1935.
+ARTIGO 4.º
+(Protocolos)
+1 - As universidades poderão celebrar protocolos com instituições públicas ou privadas nacionais tendo em vista assegurar as condições necessárias à realização do curso.
+2 - Os protocolos a que se refere o número anterior serão sujeitos a homologação do Ministro da Educação e das Universidades.
+ARTIGO 5.º
+(Regulamentação)
+As condições de acesso e o plano, regime de estudos e propinas do curso, bem como o regime de cessação do curso de bibliotecário-arquivista, serão regulados por portaria do Ministro da Educação e das Universidades.
+Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo.
+Promulgado em 28 de Junho de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
