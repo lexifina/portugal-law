@@ -1,0 +1,3 @@
+Despacho
+Tendo em atenção que os tenentes com antiguidade de 1 de Dezembro de 1969 das armas de infantaria, artilharia e cavalaria, e do serviço de administração militar, têm uma permanência efectiva, neste posto, superior a dois anos, e, usando da faculdade conferida no n.º 4 do artigo 4.º do Decreto n.º 460/70, de 6 de Outubro de 1970, reduzo para um ano, contado em conformidade com o n.º 2 do mesmo artigo, o tempo de permanência no posto de tenente das armas e serviços referidos no artigo 1.º daquele decreto.
+Ministério do Exército, 14 de Dezembro de 1970. - O Secretário de Estado do Exército, José de Oliveira Vitoriano.
