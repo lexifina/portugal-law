@@ -1,0 +1,14 @@
+Portaria n.º 1234/2002
+de 4 de Setembro
+A lagoa de Óbidos é uma área de grande interesse ecológico, nomeadamente da avifauna migratória, com especial destaque para a invernante.
+Considerando que esta zona, em associação com outras áreas de refúgio criadas ou a criar, corresponde aos compromissos de convenções comunitárias assumidos por Portugal, com particulares responsabilidades no que se refere à protecção de certas áreas afectas aos eixos migratórios da avifauna migratória da região ocidental do Paleárctico;
+Considerando que aqueles objectivos só serão atingidos com a constituição de uma área de refúgio, que merece o apoio das autarquias locais e associações de caçadores de zonas confinantes:
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+1.º Com fundamento no artigo 7.º da Lei n.º 173/99, de 21 de Setembro, e no artigo 50.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, é criada na área da Direcção Regional de Agricultura do Ribatejo e Oeste a área de refúgio de caça OBD-1 e CDR-7, designada por lagoa de Óbidos, situada nas freguesias de Vau e Santa Maria, município de Óbidos, com uma área de 800 ha, e nas freguesias de Foz do Arelho e Nadadouro, município das Caldas da Rainha, com uma área de 300 ha, perfazendo uma área total de 1100 ha.
+2.º Os limites da área de refúgio de caça vão demarcados na carta que constitui anexo ao presente diploma e do qual faz parte integrante e correspondem à área interior delimitada pela linha perimetral com início em Gronho, passando por Casal da Lapinha, Casalinho, Casal das Ferrarias, Quinta do Bom Sucesso, Casal da Coelheira, em direcção à estrada na margem esquerda da vala da Poça do Vau, envolve a Poça do Vau, segue pela estrada na margem direita da Poça do Vau, contorna as salinas por Arelho e Cabeço da Matinha, por Charneca, Casal da Galiota, Barrosa, Quinta do Barroso, Ponta da Ardonha, Ponta das Boiças, Casinhas, Reivais, Pedra Furada, Porto do Carro e numa linha recta imaginária até Gronho.
+3.º Nesta área de refúgio é proibido o exercício da caça, o qual só excepcionalmente pode vir a ser autorizado pela Direcção Regional de Agricultura do Ribatejo e Oeste aquando da existência de prejuízos causados em culturas agrícolas.
+4.º Para efeitos de correcção de densidade das populações cinegéticas, as normas de acesso dos caçadores são definidas por edital da Direcção Regional de Agricultura do Ribatejo e Oeste.
+5.ºA área de refúgio será obrigatoriamente sinalizada com tabuletas do modelo n.º 7 e sinal do modelo n.º 9 definidos na Portaria n.º 1103/2000, de 23 de Novembro, e de acordo com as condições estipuladas na citada portaria.
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 13 de Agosto de 2002.
+
+(ver planta no documento original)
