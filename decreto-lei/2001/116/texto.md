@@ -1,0 +1,71 @@
+Decreto-Lei n.º 116/2001
+de 17 de Abril
+A alteração governamental ocorrida a 10 de Março de 2001, com o consequente reajustamento da estrutura interna do XIV Governo Constitucional, torna necessária a alteração da respectiva Lei Orgânica, aprovada pelo Decreto-Lei n.º 474-A/99, de 8 de Novembro, com a redacção dada pelo Decreto-Lei n.º 267-A/2000, de 20 de Outubro.
+Assim:
+Nos termos do n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Alterações
+Os artigos 2.º, 6.º, 8.º, 14.º, 19.º e 28.º-A do Decreto-Lei n.º 474-A/99, de 8 de Novembro, alterado pelo Decreto-Lei n.º 267-A/2000, de 20 de Outubro, passam a ter a seguinte redacção:
+«Artigo 2.º
+Integram o Governo os seguintes Ministros:
+a) Ministro de Estado;
+b) Ministro dos Negócios Estrangeiros;
+c) Ministro da Presidência;
+d) Ministro da Defesa Nacional;
+e) Ministro da Administração Interna;
+f) Ministro das Finanças;
+g) Ministro do Equipamento Social;
+h) Ministro da Justiça;
+i) Ministro da Economia;
+j) Ministro do Planeamento;
+l) Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;
+m) Ministro da Educação;
+n) Ministro da Saúde;
+o) Ministro do Trabalho e da Solidariedade;
+p) Ministro do Ambiente e do Ordenamento do Território;
+q) Ministro da Cultura;
+r) Ministro da Ciência e da Tecnologia;
+s) Ministro da Reforma do Estado e da Administração Pública;
+t) Ministro da Juventude e do Desporto.
+Artigo 6.º
+1 - A Presidência do Conselho de Ministros compreende os seguintes Ministros:
+a) Ministro de Estado;
+b) Ministro da Presidência.
+2 - A Presidência do Conselho de Ministros compreende os seguintes Secretários de Estado:
+a) Secretário de Estado da Presidência do Conselho de Ministros;
+b) Secretário de Estado Adjunto do Primeiro-Ministro;
+c) Secretário de Estado dos Assuntos Parlamentares;
+d) Secretário de Estado da Comunicação Social;
+e) Secretário de Estado para a Defesa do Consumidor.
+3 - A Presidência do Conselho de Ministros compreende todos os serviços e organismos nela integrados em diplomas anteriores, bem como os que não tenham sido expressamente integrados noutros departamentos, sem prejuízo do disposto nos n.os 4 e 5 do artigo 19.º, no n.º 5 do artigo 25.º e no n.º 3 do artigo 28.º-A.
+4 - ...
+Artigo 8.º
+O Ministro de Estado exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
+Artigo 14.º
+1 - ...
+2 - O Ministro do Equipamento Social é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto e dos Transportes, pelo Secretário de Estado das Obras Públicas, pelo Secretário de Estado da Habitação e pelo Secretário de Estado da Administração Marítima e Portuária.
+3 - ...
+4 - ...
+Artigo 19.º
+1 - O Ministro do Trabalho e da Solidariedade é coadjuvado, no exercício das suas funções, pelo Secretário de Estado do Trabalho e da Formação e pelo Secretário de Estado da Solidariedade e da Segurança Social.
+2 - ...
+3 - ...
+4 - O Observatório para a Integração das Pessoas Portadoras de Deficiência fica na dependência do Ministro do Trabalho e da Solidariedade.
+5 - A Comissão para a Igualdade no Trabalho e no Emprego fica na dependência conjunta do Ministro da Presidência e do Ministro do Trabalho e da Solidariedade.
+Artigo 28.º-A
+1 - ...
+2 - O Ministro da Juventude e do Desporto é coadjuvado, no exercício das suas funções, pelo Secretário de Estado da Juventude e do Desporto.
+3 - ...»
+Artigo 2.º
+Alterações orçamentais
+1 - Os saldos das dotações orçamentais afectas ao funcionamento dos gabinetes do Ministro de Estado e do Secretário de Estado Adjunto do Ministro de Estado são transferidos para o orçamento da Secretaria-Geral da Presidência do Conselho de Ministros.
+2 - Os saldos disponíveis do orçamento para 2001 do gabinete do ex-Secretário de Estado Adjunto do Ministro do Trabalho e da Solidariedade serão afectos, em termos a definir por despacho conjunto dos Ministros das Finanças e do Trabalho e da Solidariedade, aos orçamentos, respectivamente, dos gabinetes do Ministro do Trabalho e da Solidariedade, do Secretário de Estado do Trabalho e Formação e do Secretário de Estado da Solidariedade e da Segurança Social.
+Artigo 3.º
+Produção de efeitos
+O presente diploma produz efeitos a partir do dia 10 de Março de 2001.
+Visto e aprovado em Conselho de Ministros de 15 de Março de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Júlio de Lemos de Castro Caldas - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Mário Cristina de Sousa - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Augusto Ernesto Santos Silva - Maria Manuela de Brito Arcanjo Marques da Costa - Paulo José Fernandes Pedroso - José Sócrates Carvalho Pinto de Sousa - José Estêvão Cangarato Sasportes - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins - José Manuel Lello Ribeiro de Almeida.
+Promulgado em 5 de Abril de 2001.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 6 de Abril de 2001.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
