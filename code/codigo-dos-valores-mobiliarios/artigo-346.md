@@ -1,0 +1,11 @@
+## Capítulo III
+
+## Negociação por conta própria
+
+# Artigo 346.º
+
+### Actuação como contraparte do cliente
+
+1 - O intermediário financeiro autorizado a actuar por conta própria pode celebrar contratos como contraparte do cliente, desde que este, por escrito, tenha autorizado ou confirmado o negócio.
+
+2 - A autorização ou a confirmação referidas no número anterior não são exigidas quando a outra parte seja um investidor institucional ou as operações devam ser executadas em mercado regulamentado, através de sistemas centralizados de negociação.
