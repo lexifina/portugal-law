@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1933/07/16400/14391440.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1933-07-22",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "11adb7ea503f1d797447b413b71bfbdd575c7b72aa8c12166390a37a06141bc3",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 2,
+    "columns": [
+      3,
+      4
+    ],
+    "pdf_sha256": "bf60456e6a5c2c97a2ca2b95056fbd60ef5d3d59fe158db611a144a88b621ad7",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 330
 }
