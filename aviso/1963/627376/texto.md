@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que o secretário-geral das Nações Unidas comunicou que, por nenhum Governo interessado ter feito qualquer objecção, no prazo determinado, se considera aceite a reserva formulada pelo Governo do Tanganhica à Convenção internacional para facilitar a importação de amostras comerciais e material publicitário, feita em Genebra a 7 de Novembro de 1952, de não conceder a filmes publicitários o tratamento de admissão temporária isenta de direitos.
+Direcção-Geral dos Negócios Económicos e Consulares, 4 de Junho de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
