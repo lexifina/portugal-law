@@ -1,0 +1,71 @@
+Despacho Normativo n.º 44/88
+Colhida a experiência do Programa COOPEMPREGO, desenvolvido no âmbito do Despacho Normativo n.º 160/82;
+Tendo em conta que é fundamental garantir a sua continuidade, dados os resultados positivos que se acumularam ao longo de cinco anos;
+Considerando que os imperativos que justificaram as medidas então adoptadas ainda se encontram actuais;
+Atendendo a que o sector cooperativo português continua a necessitar do apoio do Estado, previsto pelo artigo 84.º da Constituição da República e pela Lei n.º 35/77, de 8 de Junho, para a formação de profissionais com elevada qualificação, face aos novos desafios que se lhe deparam por via da adesão de Portugal ao Mercado Comum:
+Determinamos:
+Artigo 1.º
+Âmbito
+1 - O Programa de Promoção de Emprego de Quadros Técnicos em Cooperativas, adiante designado por COOPEMPREGO, destina-se a facultar às cooperativas e suas organizações de grau superior quadros técnicos com formação de base, embora sem experiência profissional, e a estes os meios de formação indispensáveis para encontrarem, de forma mais fácil, um emprego produtivo e remunerador.
+2 - O COOPEMPREGO abrangerá os quadros técnicos com cursos do ensino superior e médio, ou equiparados, em todas as áreas que venham a ser consideradas de interesse para as cooperativas e suas organizações que, à data da sua candidatura, tenham terminado o curso há menos de três anos.
+3 - Poderão ainda ser abrangidos pelo COOPEMPREGO quadros já possuidores de cursos de reciclagem do INSCOOP e de cursos de formação profissional do IEFP ou de outros cursos reconhecidos por qualquer destes dois organismos, atendendo à formação de base e características curriculares.
+Artigo 2.º
+Comissão coordenadora
+1 - O Programa COOPEMPREGO será coordenado por uma comissão que integrará um representante do INSCOOP e outro do IEFP, nomeados por despacho conjunto dos respectivos conselhos directivos.
+2 - Compete à comissão coordenadora:
+a) Dar parecer sobre as propostas de cooperativas a apoiar;
+b) Elaborar anualmente os planos de acções, de execução e acompanhamento e submetê-los à apreciação conjunta dos membros do Governo que detenham a tutela do INSCOOP e do IEFP;
+c) Propor as inovações que julgar adequadas para melhorar o Programa;
+d) Apreciar os relatórios apresentados pelos estagiários sobre os problemas específicos das cooperativas apoiadas relacionados com a adequada integração daqueles;
+e) Acompanhar a execução do Programa COOPEMPREGO de acordo com as normas estabelecidas no presente despacho normativo e no plano anual de execução e acompanhamento;
+f) Elaborar um relatório sobre as acções desenvolvidas, tendo em conta os custos e os resultados obtidos.
+3 - A comissão coordenadora do COOPEMPREGO funcionará junto do INSCOOP, ao qual caberá apoiar técnica e administrativamente a execução das acções incluídas no Programa.
+Artigo 3.º
+Selecção de cooperativas
+1 - As cooperativas com carências de quadros técnicos poderão apresentar ao INSCOOP ou ao IEFP a sua candidatura ao COOPEMPREGO.
+2 - A selecção de cooperativas a apoiar será feita de acordo com critérios definidos e publicitados pela comissão coordenadora, com prioridade para as cooperativas que apresentem maiores possibilidades de manutenção dos quadros abrangidos para além do período de estágio.
+Artigo 4.º
+Selecção de candidatos a estagiários
+1 - A selecção de candidatos a estagiários é da responsabilidade das cooperativas ou suas organizações de grau superior, devendo considerar-se preferenciais os requisitos seguintes:
+a) A situação de desemprego mais prolongada;
+b) A qualidade de membros de uma cooperativa;
+c) A residência na área de actuação da cooperativa proponente.
+2 - A proposta dos candidatos seleccionados será fundamentada pela adaptação do seu perfil às carências das cooperativas e apresentada à comissão coordenadora para apreciação.
+Artigo 5.º
+Organização dos estágios
+1 - Os estágios realizados no âmbito do COOPEMPREGO serão constituídos por um período de formação teórica com duração não superior a 30 dias e por um período de formação prática nas cooperativas com a duração total de seis meses, correspondendo ao contrato firmado nos termos do artigo seguinte.
+2 - O 1.º mês do período de formação prática poderá, eventualmente, decorrer numa empresa modelo do mesmo ramo de actividade, desde que a cooperativa que aceita o estagiário o solicite e aquela empresa o autorize, para que o estagiário possa tomar contacto com tecnologias e métodos de organização mais eficazes.
+3 - Os estagiários serão acompanhados pelo INSCOOP, em colaboração com os dirigentes das cooperativas, ao longo de toda a acção formativa.
+4 - O acompanhamento referido no número anterior poderá ser realizado por gabinetes especializados nos casos em que seja manifesta a inexistência de meios disponíveis pelo INSCOOP adequados às exigências da formação.
+Artigo 6.º
+Contrato por seis meses
+1 - As cooperativas apoiadas pelo COOPEMPREGO obrigam-se:
+a) A celebrar com os estagiários um contrato com a duração de seis meses, de acordo com o modelo a fornecer pelo INSCOOP;
+b) A promover e suportar os encargos decorrentes da sua inscrição na Segurança Social e do seguro por acidentes de trabalho.
+2 - A remuneração dos estagiários contratados não poderá ser inferior ao montante do subsídio concedido às cooperativas por cada um deles.
+Artigo 7.º
+Integração
+1 - Findo o estágio, se a cooperativa optar pela continuação do estagiário ao seu serviço, celebrará com ele um contrato de trabalho definitivo, cujo modelo será também fornecido pelo INSCOOP.
+2 - Celebrado o contrato de trabalho definitivo, a cooperativa apoiada beneficiará ainda, durante dezoito meses, de um subsídio mensal correspondente ao montante mais elevado do subsídio de desemprego.
+3 - Durante o período referido no número anterior, a remuneração paga pela cooperativa ao estagiário não poderá ser inferior ao dobro do subsídio por aquela recebido e deverá constar das cláusulas do contrato de trabalho definitivo.
+Artigo 8.º
+Rescisão sem justa causa
+A rescisão sem justa causa do contrato referido no n.º 1 do artigo 7.º antes de expirado o prazo de 24 meses, contados a partir da data do início do estágio, é regulada pelas disposições aplicáveis das leis do trabalho, cabendo sempre às cooperativas a restituição dos montantes já recebidos do COOPEMPREGO.
+Artigo 9.º
+Subsídios
+1 - Às cooperativas apoiadas será atribuído, durante o período de estágio, um subsídio mensal destinado a contribuir para a remuneração de cada estagiário, cujo montante será igual ao dobro do montante mais elevado do subsídio de desemprego.
+2 - Durante o curso de formação, os estagiários receberão um subsídio para efeitos de deslocação, alimentação e alojamento de montante a fixar anualmente no plano de execução e acompanhamento do COOPEMPREGO.
+Artigo 10.º
+Financiamento
+1 - Os encargos com o COOPEMPREGO serão suportados pelo IEFP, com excepção dos encargos administrativos relacionados com as acções, que ficarão a cargo do INSCOOP.
+2 - O INSCOOP processará o pagamento da totalidade dos encargos após o visto da comissão coordenadora e o IEFP transferirá para o INSCOOP, em prestações mensais, as verbas que lhe cabe suportar, efectuando-se no final de cada ano o encontro de contas, mediante apresentação pelo INSCOOP da documentação respectiva.
+3 - Os trabalhos executados pelos consultores de gabinetes especializados serão liquidados directamente pelo INSCOOP, mediante a apresentação de factura especificada, visada pela comissão coordenadora e acompanhada das notas justificativas dos pagamentos a efectuar.
+4 - Todos os contratos e acordos serão celebrados e processados pelo INSCOOP, sob proposta da comissão coordenadora.
+Artigo 11.º
+Processamento de remunerações
+As remunerações referidas nos artigos 6.º e 7.º terão de ser pagas até ao último dia útil do mês a que respeitam, independentemente do recebimento pela cooperativa do correspondente subsídio.
+Artigo 12.º
+Disposições finais e transitórias
+1 - A integração de lacunas e a interpretação das dúvidas suscitadas pela aplicação deste despacho normativo serão resolvidas por despacho conjunto dos ministros responsáveis pela tutela do INSCOOP e do IEFP.
+2 - Fica revogado o Despacho Normativo n.º 160/82, de 4 de Agosto.
+Ministérios do Planeamento e da Administração do Território e do Emprego e da Segurança Social, 23 de Maio de 1988. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
