@@ -1,6 +1,6 @@
 # Artigo 99.º
 
-Nos concelhos de Lisboa e Pôrto dependem de deliberação tomada em reünião da câmara:
+Nos concelhos de Lisboa e Porto dependem de deliberação tomada em reunião da câmara:
 
 1.º A aprovação de posturas ou regulamentos policiais;
 
@@ -14,7 +14,7 @@ Nos concelhos de Lisboa e Pôrto dependem de deliberação tomada em reünião d
 
 6.º A aprovação do plano de urbanização e expansão;
 
-7.º A realização de obras públicas cujo valor exceda 3:000 contos;
+7.º A realização de obras públicas cujo valor exceda 7500 contos;
 
 8.º O pedido ao Govêrno da declaração da utilidade pública e urgência das expropriações;
 

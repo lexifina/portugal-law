@@ -1,6 +1,6 @@
 # Artigo 220.º
 
-Até 1 de Maio os auditores administrativos proferirão sentença sôbre todos os recursos interpostos dentro dos prazos fixados no artigo anterior.
+O recenseamento será numerado e rubricado em todas as suas folhas pelo presidente da junta e terá termo de abertura e encerramento, subscrito pelo mesmo presidente e vogais da junta, declarando-se no termo de encerramento o número de eleitores inscritos.
 
 § 1.º Os auditores poderão fazer apensar todos os processos de recurso da mesma freguesia cujos fundamentos sejam idênticos, para o efeito de nêles proferirem uma única sentença.
 

@@ -1,10 +1,10 @@
 # Artigo 100.º
 
-Carecem da aprovação do Govêrno, para se tornarem executórias, as deliberações:
+Carecem de aprovação do Governo, para se tomarem executórias, as deliberações:
 
 1.º Que revistam a forma de postura ou regulamento relativo à polícia sanitária;
 
-2.º Que impliquem a realização de obras públicas cujo valor exceda 3:000 contos;
+2.º Que impliquem a realização de obras públicas cujo valor exceda 25000 contos;
 
 3.º Que concedam serviços públicos ou obras públicas de valor superior a 5:000 contos;
 
