@@ -1,0 +1,10 @@
+Resolução n.º 101/79
+Por resolução do Conselho de Ministros de 30 de Dezembro de 1977, a cessação da intervenção do Estado no Colégio Nun'Álvares, de Tomar, pela entrega da empresa aos seus titulares, Sociedade Lopes Correia & C.ª, Lda., ficou dependente da verificação de vários condicionalismos, nomeadamente da elaboração, no prazo de sessenta dias, de um balanço corrigido com o património avaliado, nos termos legais.
+Tal prazo veio a ser prorrogado até 31 de Julho de 1978, pela Resolução n.º 90/78, de 17 de Maio (Diário da República, 1.ª série, n.º 132, de 9 de Junho), e, posteriormente, até 30 de Novembro daquele ano, pela Resolução n.º 160/78, de 4 de Outubro (Diário da República, 1.ª série, n.º 242, de 20 de Outubro).
+Subsiste, porém, o condicionalismo nesta última invocado como fundamento para a prorrogação então concedida: inexiste escritura do aumento do capital social, com base no supracitado balanço, assim como não se concretizou, em razão da morosidade das negociações com as fontes de financiamento permissivas daquele aumento, a elaboração de um plano económico-financeiro.
+Para além disso, decorrem actualmente, no âmbito do Ministério da Educação e Investigação Científica, negociações com a entidade proprietária do Colégio em questão.
+Assim, atenta a complexidade dos problemas em causa, e considerando ainda que a última prorrogação concedida atingiu unicamente a data de 30 de Novembro de 1978, encontrando-se, por esse facto, a situação sem cobertura legal desde aquela data:
+O Conselho de Ministros, reunido em 28 de Março de 1979, resolveu:
+1 - Prorrogar, com efeito desde 1 de Dezembro de 1978, inclusive, e até ao termo das negociações acima mencionadas, o prazo fixado na alínea b) do n.º 3 da Resolução n.º 326/77, de 30 de Dezembro.
+2 - Fixar, contudo, como prazo máximo para o termo dessas negociações o final do ano escolar de 1978-1979, ou seja 30 de Setembro de 1979.
+Presidência do Conselho de Ministros, 28 de Março de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
