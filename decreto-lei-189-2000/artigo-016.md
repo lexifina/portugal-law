@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Autoridade competente
-
 # Artigo 16.º
 
 ### Cláusula de salvaguarda
