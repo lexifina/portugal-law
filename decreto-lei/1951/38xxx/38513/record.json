@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1951/11/23900/09920992.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1951-11-16",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "293a5fb7f16921e8848db8672f5ae863b75ad51a2839f7132d1b807c47bbd8ed",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "8f3283f09b716f503e876464d4bf3920ee5513bd61987028e9f05fc5a186e3e6",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 516
 }
