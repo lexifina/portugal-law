@@ -1,0 +1,11 @@
+Despacho Normativo n.º 169/92
+Considerando a necessidade de preparar a execução do Programa Integrado de Formação para a Modernização da Administração Pública, adiante designado PROFAP, Programa que para a sua realização conta com o apoio comunitário através do FSE e do FEDER;
+Considerando que um dos objectivos principais do PROFAP é o incremento do esforço e a melhoria da qualidade da formação profissional proporcionada à função pública;
+Considerando que o Despacho Normativo n.º 70/91, de 25 de Março, estabelece no seu artigo 10.º que, para efeitos de co-financiamento no âmbito do Fundo Social Europeu, e tratando-se de acções de formação realizadas durante o período normal de trabalho, a entidade patronal do formando é compensada através de um quantitativo horário fixado neste mesmo diploma;
+Considerando que através do PROFAP se pretende também apoiar a actividade formativa e institucionalizar a função formação na Administração;
+Considerando que algumas das entidades públicas formadoras organizam, com regularidade, cursos que ou vão ao encontro de necessidades de formação comuns a vários departamentos e serviços da Administração, ou estão associados a projectos de inovação ou modernização, de carácter horizontal, não coincidindo, nestes casos, a entidade pública a que os formandos prestam serviço com a entidade promotora da formação:
+Determina-se o seguinte:
+1 - Para efeitos da execução do PROFAP, e relativamente às acções financiadas pelas suas medidas 1 e 2 que abranjam funcionários cuja entidade a que prestam serviço não coincida com a entidade promotora da formação, os participantes são equiparados a formandos internos, desde que esta entidade tenha natureza pública.
+2 - Os limites máximos fixados no n.º 2 do artigo 10.º do Despacho Normativo n.º 70/91 não se aplicam a este Programa.
+3 - Não são pagas quaisquer importâncias para inscrição nos cursos a que se aplique o regime previsto neste diploma.
+Presidência do Conselho de Ministros e Ministério do Emprego e da Segurança Social, 12 de Agosto de 1992. - A Secretária de Estado da Modernização Administrativa, Isabel Maria Freire dos Santos Corte Real. - O Secretário de Estado do Emprego e Formação Profissional, António Morgado Pinto Cardoso
