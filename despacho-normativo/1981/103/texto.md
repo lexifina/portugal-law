@@ -1,0 +1,3 @@
+Despacho Normativo n.º 103/81
+Nos termos do n.º 1 do artigo 24.º do Decreto-Lei n.º 28/81, de 12 de Fevereiro, subdelego, cumulativamente nos Ministros dos Negócios Estrangeiros, Prof. Doutor André Gonçalves Pereira, das Finanças e do Plano, Dr. João António de Morais Leitão, e do Comércio e Turismo, Dr. Alexandre de Azeredo Vaz Pinto, a competência para autorizar o aumento do número de automóveis para os chefes das missões diplomáticas que podem ser importados com isenção de direitos.
+Presidência do Conselho de Ministros, 12 de Março de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
