@@ -1,0 +1,3 @@
+Portaria n.º 24068
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do disposto no § único do artigo 4.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, que seja alargado para dois anos, a contar da data da importação de peles em bruto ou curtidas, o prazo para a exportação dos artefactos abrangidos pela Portaria n.º 22108, de 8 de Julho de 1966, que concede o regime de draubaque para qualquer tipo de luvas, ainda que na sua confecção se empreguem outras matérias-primas.
+Ministério das Finanças, 10 de Maio de 1969. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento.
