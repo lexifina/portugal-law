@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação do Secretariado da Organização das Nações Unidas, o Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte, por nota endereçada àquela Organização em 6 de Junho de 1967, informou de que, em conformidade com o artigo 58 a) da Convenção relativa à Organização Intergovernamental Consultiva de Navegação Marítima, assinada em Genebra em 6 de Março de 1948, a participação do Reino Unido abrangerá de futuro Hong-Kong, que passa a ser designado Membro Associado da Organização, de harmonia com o artigo 9 da mesma Convenção.
+Direcção-Geral dos Negócios Económicos, 12 de Setembro de 1967. - O Adjunto do Director-Geral, Adriano António de Carvalho.
