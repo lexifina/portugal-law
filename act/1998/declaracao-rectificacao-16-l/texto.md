@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 16-L/98
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 51/98, publicada no Diário da República, 1.ª série, n.º 92, de 20 de Abril de 1998, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 10.º, n.º 7, onde se lê «7 - [...] o subsídio para a criação de emprego será majorado em mais de 20% do valor que lhe seria atribuído em função do montante a que se refere a alínea b) do n.º 4 do artigo 9.º,» deve ler-se «7 - [...] o subsídio para a criação de emprego será majorado em mais 20% do valor que lhe seria atribuído em função do montante a que se refere o n.º 4 do artigo 9.º,».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Setembro de 1998. - O Secretário-Geral, Alexandre Figueiredo.
