@@ -1,0 +1,3 @@
+Portaria n.º 96/70
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Educação Nacional, que, nos termos do § 1.º do artigo 8.º do Decreto-Lei n.º 49009, de 16 de Maio de 1969, seja fixada em 1200$00 a gratificação mensal a atribuir aos orientadores dos estágios de preparação técnica dos bibliotecários, arquivistas e documentalistas.
+Ministérios das Finanças e da Educação Nacional, 12 de Fevereiro de 1970. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento. - Pelo Ministro da Educação Nacional, Justino Mendes de Almeida, Subsecretário de Estado da Administração Escolar.
