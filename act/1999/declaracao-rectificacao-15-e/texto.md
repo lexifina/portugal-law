@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 15-E/99
+Para os devidos efeitos se declara que o Decreto-Lei n.º 323/99, publicado no Diário da República, 1.ª série, n.º 188, de 13 de Agosto de 1999, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Na redacção dada pelo artigo 1.º ao n.º 2 do artigo 21.º do Decreto-Lei n.º 276/94, de 2 de Novembro, e na republicação anexa, onde se lê «As proibições previstas nas alíneas c) a h) do número anterior não se aplicam relativamente aos valores mobiliários emitidos pelas entidades gestoras» deve ler-se «As proibições previstas nas alíneas c) a h) do número anterior não se aplicam relativamente aos valores mobiliários emitidos ou detidos pelas entidades gestoras».
+Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Setembro de 1999. - O Secretário-Geral, Alexandre Figueiredo.
