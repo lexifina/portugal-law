@@ -1,0 +1,4 @@
+Aviso n.º 81/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos transmitiu uma notificação segundo a qual a Convenção Relativa ao Processo Civil, concluída na Haia, em 17 de Julho de 1905, mantém-se em vigor entre os Estados Contratantes e a República Eslovaca, não tendo sido recebida qualquer objecção até 1 de Junho de 1993.
+A carta de confirmação e ratificação por Portugal da referida Convenção vem publicada no Diário do Governo, n.º 96, de 3 de Maio de 1909, e o depósito do instrumento de ratificação foi efectuado em 24 de Abril de 1909, conforme Diário do Governo, n.º 96, de 3 de Maio de 1909.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 2 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
