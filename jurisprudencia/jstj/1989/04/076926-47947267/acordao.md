@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal de Justiça de 1989-04-27, processo 076926
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 076926
+
+**Nº Convencional:** JSTJ00013802
+
+**Relator:** ELISEU FIGUEIRA
+
+**Descritores:** REGIME DE BENS DO CASAMENTO; PRINCIPIO DA IMUTABILIDADE; CONJUGE; CONTRATO-PROMESSA; DIVORCIO; EFEITOS PATRIMONIAIS
+
+**Nº do Documento:** SJ19890427076926X
+
+**Data do Acordão:** 04/27/1989
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N386 ANO1989 PAG463
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** AGRAVO. REVISTA.
+
+**Decisão:** DESERÇÃO. NEGADA A REVISTA.
+
+**Área Temática:** DIR CIV - DIR FAM / DIR CONTRAT.
+
+## Sumário
+
+I - O principio da imutabilidade do regime de bens do casamento inicialmente fixado por lei ou pelos nubentes, respondendo a exigencias de protecção dos interesses de cada um dos conjuges, face ao ascendente do outro, compreende a alteração desse regime directa ou indirectamente, isto e, atraves da modificação da convenção antenupcial ou mediante contratos de compra e venda ou de sociedade que implique responsabilidade ilimitada de ambos os conjuges (artigos 1714 do Codigo Civil de ambos os e 8 do Codigo das Sociedades Comerciais).
+
+II - A proibição de contratos de compra e venda entre casados deve, pela mesma razão, estender-se aos correspondentes contratos-promessa e, por força do artigo 939 do Codigo Civil, aos contratos de troca e de promessa de troca.
+
+III - A violação da norma imperativa do artigo 1714, n. 2, do Codigo Civil implica nulidade, e não mera anulabilidade, por estarem ai em jogo interesses publicos cuja tutela importa salvaguardar.
+
+IV - E, pois, nulo o contrato-promessa de troca e partilha celebrado entre conjuges na pendencia da acção de divorcio, posto que o artigo 1789, n. 1, do Codigo Civil, no segmento em que faz retroagir os efeitos do divorcio a data da propositura da acção quanto as relações patrimoniais, não se aplica aos actos cuja nulidade prescreve o artigo 1714 do mesmo Codigo.
+
+V - O erro na apreciação das provas pode ser sindicado pelo Supremo Tribunal de Justiça desde que haja ofensa de uma disposição expressa da lei que fixe a força probatoria de determinado meio de prova.
