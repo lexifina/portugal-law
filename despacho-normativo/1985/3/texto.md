@@ -1,0 +1,3 @@
+Despacho Normativo n.º 3/85
+Ao abrigo do disposto no n.º 1 do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, 1.ª série, n.º 250, de 28 de Outubro de 1980, é autorizado o lançamento no mercado de novas embalagens com os conteúdos líquidos (peso) de 10 kg e de 25 kg para os produtos fitofarmacêuticos com base em sulfato de cobre, sob a forma de cristais, com o teor em substancias activas de 25% de cobre.
+Ministérios da Agricultura e do Comércio e Turismo, 11 de Dezembro de 1984. - O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
