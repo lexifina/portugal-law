@@ -1,0 +1,4 @@
+Aviso n.º 17/99
+Por ordem superior se torna público que Portugal depositou, em 19 de Outubro de 1998, na sede do Conselho da Europa, em Estrasburgo, o instrumento de ratificação da Convenção Europeia sobre o Branqueamento, Despistagem, Apreensão e Confisco dos Produtos do Crime.
+A referida Convenção foi aberta à assinatura, em Estrasburgo, em 8 de Novembro de 1990 e assinada por Portugal no mesmo dia, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 70/97, publicada no Diário da República, 1.ª série-A, n.º 287, de 13 de Dezembro de 1997, e ratificada pelo Decreto do Presidente da República n.º 73/97, publicado no Diário da República, 1.ª série-A, n.º 287, de 13 de Dezembro de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 12 de Janeiro de 1999. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
