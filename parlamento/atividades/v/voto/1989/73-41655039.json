@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=K1Xo10H8ER2DcIhc2D4Ps8ZVCd2jS9%2bLoAH9BYvhz7bM2shS8RYoqOIcmqlUf9IbzU2FX3oELJN0c7MEQJjXDV26V8q3DSWUqVbrISI3dx9%2b0ColHaIKu13JMV9gMv0oX5FMJ4hROG4JTm4upFgeYhB1dzx3EmJZDAlZ1QUzDZvzdkRP5Grqfy6pFG5HVfPIf1bjvjUJYdaWmME%2bzMqZaL7aW8fo%2b2anCUmXRzOojBRSPOlmUdyDt97nbfDMhtn%2bKAEYDNqI%2fz8KjTb4ec8tTaQhAMROoLhrtmSKRIOt%2baAJfgEP0kbmsWyacQkIQJ183jDoExqaLsQ1ALFzgTfvEnWrsQ%2fLO2y5JR9u3gk%2fGe0%3d&fich=AtividadesV_json.txt&Inline=true",
+  "ficheiro_sha256": "21905138bd6b6c4f75672731b2e7d1a4027af1714919a315dd624ef23e56c34d",
+  "legislatura": "V",
+  "tipo": "Voto",
+  "numero": "73",
+  "data_registo": "1989-06-27",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Protesto pelos actos de violência verificados em Barqueiros.",
+    "AutoresGP": [
+      "PS",
+      "José Apolinário (PS)",
+      "Jorge Lacão (PS)",
+      "Carlos César (PS)",
+      "Edite Estrela (PS)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "1989-06-27",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "V",
+    "Numero": "73",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "348394",
+        "obs": null,
+        "pag": [
+          "178-179"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-07-08",
+        "pubLeg": "V",
+        "pubNr": "30",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/05/02/030/1989-07-08/178?pgs=178-179&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Deputados",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "1989-06-27",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> PEV</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I><BR>Abstenção:<I>PSD</I>",
+        "id": "48424",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "348395",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-06-28",
+            "pubLeg": "V",
+            "pubNr": "97",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "97",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
