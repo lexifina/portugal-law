@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1951/12/27300/12661266.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1951-12-31",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "b15aacc4ef75d71174fe943f86a09644ac0ab6da140309bc28d7a66c7a69041d",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.8,
+    "pages": 1,
+    "columns": [
+      1
+    ],
+    "pdf_sha256": "50a2e44c454586f2a9933519b18e694c7865b202bbd8034cc74bf3b432513512",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 320
 }
