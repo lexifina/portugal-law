@@ -1,0 +1,15 @@
+Despacho Normativo n.º 14/78
+Considerando que o artigo 2.º do Decreto-Lei n.º 285/77, de 13 de Julho, determina a transferência da titularidade das participações do sector público no capital de sociedades, pertencentes a qualquer das entidades públicas referidas no n.º 1 do mesmo artigo, para o Instituto das Participações do Estado;
+Considerando a necessidade do seu reordenamento descentralizado dentro de uma orgânica coerente do sector empresarial do Estado, nomeadamente pela atribuição de algumas delas a outras entidades públicas nos casos em que se reconheça haver vantagem em adoptar essa solução, quer por razões de complementaridade, quer por motivos de coordenação sectorial;
+Considerando que a Draivimpe tem tido uma acção complementar imprescindível para a actividade seguradora;
+Considerando que a existência de uma empresa ligada à peritagem e reparação de veículos automóveis é fundamental para a consecução dos objectivos cometidos à actividade seguradora nacionalizada;
+Ouvido o Instituto das Participações do Estado e nos termos do artigo 8.º do Decreto-Lei n.º 285/77, de 13 de Julho:
+1 - São transferidas do Instituto das Participações do Estado para as seguradoras nacionalizadas a titularidade e a gestão das participações do sector público no capital da Draivimpe.
+2 - Com vista à concretização de tal objectivo:
+a) Deverá a Império, E. P., concentrar a totalidade do capital social da Draivimpe;
+b) A transferência das participações que não fossem anteriormente da Império, E. P., obriga à prestação de contrapartidas, em termos e valor iguais aos estabelecidos para as transferências das mesmas participações para o Instituto das Participações do Estado. A liquidação poderá, porém, ser efectuada directamente pela empresa destinatária à empresa originária, em condições e prazo a acordar entre as partes e sujeita a homologação do Ministro do Plano e Coordenação Económica e dos Ministros dos sectores em que se englobam estas empresas;
+c) As seguradoras nacionalizadas promoverão, por seu turno, a aquisição das acções representativas do capital social da Draivimpe, em percentagem da carteira de prémios de seguro directo do ramo «Automóvel», à Companhia de Seguros Império, E. P., ao valor de aquisição, nos termos da alínea anterior;
+d) O Instituto Nacional de Seguros assegurará a execução das alíneas a), b) e c) do n.º 2 deste despacho, inclusive quanto à gestão da empresa, até que as seguradoras nacionalizadas, por via legal, promovam a nomeação dos corpos gerentes;
+e) As operações de transferência de titularidade mencionadas nas alíneas a) e c) do n.º 2 serão simultâneas no seu efeito.
+3 - Compete ao IPE, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 285/77, o exercício dos direitos sociais inerentes a participações que esta empresa detenha no capital de outras sociedades.
+Ministérios do Plano e Coordenação Económica e das Finanças, 9 de Dezembro de 1977. - Pelo Ministro do Plano e Coordenação Económica, Carlos Montês Melancia, Secretário de Estado da Coordenação Económica. - Pelo Ministro das Finanças, Maria Manuela Matos Morgado Santiago Baptista, Secretário de Estado das Finanças e do Tesouro.
