@@ -1,0 +1,5 @@
+Portaria n.º 21024
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 200000$00 a verba do capítulo 10.º, artigo 2650.º, n.º 2), alínea a) «Encargos gerais - Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral de Moçambique para 1964, tomando como contrapartida igual importância a sair das disponibilidades existentes no capítulo 10.º, artigo 2651.º, n.º 5), alínea b), 1) «Encargos gerais - Diversas despesas - Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - Na metrópole», da referida tabela de despesa.
+Ministério do Ultramar, 31 de Dezembro de 1964. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.
