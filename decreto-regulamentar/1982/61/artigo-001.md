@@ -2,7 +2,11 @@
 
 ### (Pessoal técnico superior)
 
-1 - O recrutamento para ingresso nas carreiras de pessoal técnico superior far-se-á por concurso documental.
+1 - O recrutamento para ingresso nas carreiras de pessoal técnico superior far-se-á:
+
+a) No subgrupo de informações militares, por escolha;
+
+b) Nos restantes subgrupos, por concurso documental.
 
 2 - Os acessos nas carreiras referidas no número anterior far-se-ão pelas seguintes modalidades:
 
