@@ -6,4 +6,4 @@
 
 ### (Entrega de coisa determinada)
 
-Se a prestação consistir na entrega de coisa determinada, o credor tem a faculdade de requerer, em execução, que a entrega lhe seja feita judicialmente.
+Se a prestação consistir na entrega de coisa determinada, o credor tem a faculdade de requerer, em execução, que a entrega lhe seja feita.
