@@ -1,0 +1,6 @@
+Portaria n.º 1012-X/82
+de 29 de Outubro
+Considerando que a Portaria n.º 962/81, de 10 de Novembro, publicada ao abrigo do artigo 26.º do Decreto-Lei n.º 271/81, de 26 de Setembro, fez a integração dos adjuntos técnicos principais na mesma categoria e letra dos adjuntos técnicos de 1.ª classe;
+Considerando ser necessário proceder à devida correcção da Portaria n.º 962/81, de 10 de Novembro:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças Armadas e pelos Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea, nos termos do artigo 26.º do Decreto-Lei n.º 271/81, de 26 de Setembro, que no quadro referente ao pessoal técnico anexo à Portaria n.º 962/81, de 10 de Novembro, os adjuntos técnicos principais, letra H, sejam integrados na categoria de técnico principal, letra F, com efeitos retroactivos a 1 de Julho de 1979.
+Conselho da Revolução, 29 de Outubro de 1982. - O Chefe do Estado-Maior-General das Forças Armadas, Nuno Viriato Tavares de Melo Egídio, general. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante. - O Chefe do Estado-Maior do Exército, Amadeu Garcia dos Santos, general. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.
