@@ -10,7 +10,13 @@ c) A outro sujeito passivo, desde que a transmissão feita por este tenha tido p
 
 d) A outro sujeito passivo revendedor, desde que a transmissão dos bens por esse outro sujeito passivo revendedor tenha sido efectuada ao abrigo do disposto neste diploma, ou de regulamentação idêntica vigente no Estado membro onde a transmissão dos bens tiver sido efectuada.
 
-2 - Os sujeitos passivos revendedores podem optar pela aplicação do regime especial de tributação da margem, previsto neste diploma, à transmissão de objetos de coleção ou de antiguidades que eles próprios tenham importado.
+2 - Os sujeitos passivos revendedores poderão optar pela aplicação do regime especial de tributação da margem, previsto neste diploma, às seguintes transmissões:
+
+a) De objectos de arte, de colecção ou de antiguidades que eles próprios tenham importado;
+
+b) De objectos de arte que tenham sido adquiridos no interior da Comunidade ao seu autor, aos seus herdeiros ou legatários;
+
+c) De objectos de arte que tenham sido adquiridos a um outro sujeito passivo, não revendedor, desde que a transmissão por esse outro sujeito passivo ou a aquisição intracomunitária dos bens pelo sujeito passivo, revendedor, se for caso disso, tenha beneficiado da aplicação da taxa reduzida de imposto prevista nas alíneas c) e e) do artigo 15.º deste Regime Especial.
 
 3 - O direito de opção será exercido relativamente ao conjunto das operações referidas no número anterior, mediante comunicação prévia à Direcção-Geral dos Impostos, produzindo efeitos imediatos.
 
