@@ -1,0 +1,9 @@
+Decreto-Lei n.º 43210
+Considerando que o Decreto-Lei n.º 36830, de 13 de Abril de 1948, ao pretender tornar menos rigorosa a sanção disciplinar consequente da pena aplicada aos desertores de navios nacionais, introduziu o princípio de que a reinscrição fique condicionada à percentagem de desembarcados na respectiva categoria;
+Considerando que esse elemento resultou afinal perturbador do são princípio prosseguido, visto que em algumas categorias a reinscrição fica pràticamente garantida passados que sejam seis meses sobre a punição, enquanto noutras, como consequência do fraco movimento da escala, sofre um protelamento excessivo ou tem mesmo um carácter de exclusão definitiva;
+Considerando que se por um lado é de toda a conveniência reencontrar o justo equilíbrio que circunstâncias anómalas posteriores à publicação daquele diploma vieram alterar, e por outro não faltam à autoridade marítima meios disciplinares para regular a reinscrição dos marítimos desertores;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Fica revogado o artigo único do Decreto-Lei n.º 36830, de 13 de Abril de 1948.
+Art. 2.º Fica revogado o artigo 134.º do Decreto-Lei n.º 23764, de 13 de Abril de 1934.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 10 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
