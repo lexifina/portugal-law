@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que no dia 14 de Fevereiro de 1980 foram trocados em Berna, entre o embaixador de Portugal naquela capital e o chefe da Divisão de Direito Internacional Público do Departamento Federal Suíço dos Negócios Estrangeiros, os instrumentos de ratificação relativos ao Acordo Luso-Suíço sobre Protecção de Indicações de Proveniência, de Denominações de Origem e de Denominações Similares, assinado em Lisboa em 16 de Setembro de 1977, aprovado para ratificação pelo Decreto n.º 102/79 e publicado no Diário da República, 1.ª série, n.º 217, de 19 de Setembro de 1979.
+Segundo o disposto no seu artigo 12.º, o Acordo em apreço entrará em vigor no dia 14 de Maio de 1980.
+Direcção-Geral dos Negócios Económicos, 20 de Março de 1980. - O Director-Geral-Adjunto, Francisco Moita.
