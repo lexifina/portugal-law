@@ -1,0 +1,7 @@
+Despacho Normativo n.º 5/78
+Com a revogação do Decreto-Lei n.º 479/76, de 16 de Junho, ficaram por regular as relações entre os contribuintes e as instituições de previdência, sobretudo no que se refere ao prazo de entrega das folha de férias ou ordenado - «Folhas de ordenados e salários» -, e, consequentemente, o pagamento de contribuições, uma vez que, por aquele diploma, havia sido parcial e tacitamente revogada parte da alínea b) do artigo 6.º do Decreto-Lei n.º 35410, de 29 de Dezembro de 1945, e na sua totalidade o disposto no artigo 118.º do Decreto n.º 45266, de 23 de Setembro de 1963, no que respeita aos prazos estabelecidos no estatuto das caixas.
+Para obviar às dificuldades resultantes do condicionalismo acima referido;
+Ao abrigo do artigo 11.º do Decreto-Lei n.º 439/77, de 25 de Outubro:
+Determina-se:
+Enquanto não forem tornadas extensivas aos mapas dos quadros de pessoal mensais as disposições do Decreto-Lei n.º 439/77, de 25 de Outubro, que se refere ao mapa de pessoal anual, manter-se-á em vigor o prazo de entrega das folhas de férias ou ordenados estabelecido no estatuto das caixas de previdência.
+Ministérios do Plano e Coordenação Económica, do Trabalho e dos Assuntos Sociais, 29 de Dezembro de 1977. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro do Trabalho, António Manuel Maldonado Gonelha. - Pelo Ministro dos Assuntos Sociais, Vítor Manuel Gomes Vasques, Secretário de Estado da Segurança Social.
