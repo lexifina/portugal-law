@@ -1,0 +1,12 @@
+Despacho
+Considerando que a existência de duas entidades responsáveis pela gestão de excedentes de pessoal vem afectando gravemente os interesses da Administração, como dos próprios adidos, por virtude da inevitável duplicação dos circuitos administrativos a que obriga a satisfação das necessidades de pessoal dos serviços e organismos públicos;
+Considerando que a solução para os problemas que se vêm levantando só se encontrará na criação de um único quadro geral de adidos e na atribuição das responsabilidades atinentes à sua gestão a uma única entidade;
+Considerando que já se encontram em face da ultimação as medidas legislativas que concretizarão aqueles objectivos;
+Considerando, ainda, que importa estabelecer previamente a articulação da actividade desenvolvida no domínio em causa pelos serviços competentes dos Ministérios da Administração Interna e da Cooperação:
+Determina-se:
+1. Considera-se desde já anulado o ofício-circular n.º 75/75, de 26 de Março, da Secretaria-Geral da Presidência do Conselho de Ministros, na parte que respeita à consulta obrigatória ao Ministério da Cooperação.
+2. A partir de 1 de Fevereiro, inclusive, todos os pedidos de pessoal referentes a adidos, a satisfazer nos termos dos Decretos-Leis n.os 656/74 e 23/75, respectivamente de 23 de Novembro e 22 de Janeiro, deverão ser endereçados exclusivamente à Comissão Interministerial de Gestão de Pessoal.
+3. A passagem à actividade dos adidos será autorizada por despacho conjunto dos Secretários de Estado da Administração Pública e da Descolonização, a exarar em listas nominativas do pessoal a destacar.
+4. A passagem à actividade dos adidos que tenha sido pedida antes de 1 de Fevereiro e cujos destacamentos estejam a ser processados pela Secretaria de Estado da Descolonização será autorizada por despacho do respectivo Secretário de Estado até à promulgação do decreto-lei que transfere para a Secretaria de Estado da Administração Pública a gestão centralizada de excedentes de pessoal.
+5. A admissão de pessoal, nos termos do artigo 4.º do Decreto-Lei n.º 656/74, só poderá ser feita no respeito pelos formalismos nele previstos, após confirmação, por parte da CIGP, da inexistência de adidos qualificados para o exercício dos cargos.
+Presidência do Conselho de Ministros e Ministérios da Cooperação e da Administração Interna, 22 de Janeiro de 1976. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo. - O Secretário de Estado da Administração Pública, Rui Alberto Barradas do Amaral. - O Secretário de Estado da Descolonização, João Cristóvão Moreira.
