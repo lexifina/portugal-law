@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que a Embaixada da República Popular da Bulgária enviou a este Ministério uma nota verbal, datada de 9 de Junho de 1978, informando que a parte búlgara dera já cumprimento às formalidades constitucionais relativas à entrada em vigor do Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Bulgária Respeitante à Cooperação no Domínio do Turismo, assinado em Lisboa em 30 de Novembro de 1977 e publicado no Diário da República, 1.ª série, n.º 91, de 19 de Abril de 1978, em resposta a uma nota verbal deste Ministério, datada de 29 de Abril de 1978, que informava estarem cumpridas aquelas formalidades pela parte portuguesa.
+Nesta conformidade, e segundo o disposto no seu artigo 8.º, o Acordo em apreço entrou em vigor no dia 9 de Junho de 1978.
+Direcção-Geral dos Negócios Económicos, 6 de Julho de 1978. - O Director-Geral-Adjunto, Paulo Manuel Lage David Ennes.
