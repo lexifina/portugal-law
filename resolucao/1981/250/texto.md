@@ -1,0 +1,5 @@
+Resolução n.º 250/81
+O Conselho de Ministros para os Assuntos Económicos, reunido em 24 de Novembro de 1981, resolveu:
+1 - Autorizar a concessão do aval do Estado aos juros vencidos e em dívida até à data da formalização da presente garantia, a qual deverá ter lugar no prazo de 120 dias a partir da publicação da presente resolução, relativamente aos créditos já garantidos pelo Estado à TORRALTA - Club Internacional de Férias, S. A. R. L., e integrados no contrato de viabilização.
+2 - Transferir o aval prestado à ROCHAZUL - Sociedade de Investimentos Imobiliários e Turísticos, S. A. R. L., ao abrigo da Resolução do Conselho de Ministros n.º 48/78, de 22 de Março, para a TORRALTA - Club Internacional de Férias, S. A. R. L., incluindo a concessão da garantia do Estado aos juros em dívida, até à data em que se formalizar a respectiva transferência, a qual deverá ter lugar no prazo de 120 dias a contar da publicação da presente resolução.
+Presidência do Conselho de Ministros, 24 de Novembro de 1981. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
