@@ -1,0 +1,8 @@
+Portaria n.º 20082
+Por despacho da Presidência do Conselho foi esclarecido que o disposto nos §§ 1.º a 3.º do artigo 7.º do Decreto-Lei n.º 40833, de 29 de Outubro de 1956, quando se trate de empresas abrangidas pelo artigo 2.º do mesmo diploma, só é aplicável às empresas com sede na metrópole, e, em Portaria n.º 16238, de 4 de Abril de 1957, preceituou-se sobre o modo de proceder ao pagamento das remunerações dos delegados do Governo junto das empresas que, consideradas em qualquer das situações previstas no referido artigo 2.º, tenham a sede e a administração nas províncias ultramarinas.
+Convindo providenciar quanto à forma de remuneração dos delegados do Governo junto das empresas que, igualmente compreendidas no âmbito do artigo 2.º do Decreto-Lei n.º 40833, tenham a sua sede na metrópole e a sua administração nas províncias ultramarinas, e vice-versa, ou que tenham a sua sede e administração fora de território nacional:
+Manda o Governo da República Portuguesa, pelo Presidente do Conselho, nos termos do artigo 107.º da Constituição, o seguinte:
+As disposições da Portaria n.º 16238, de 4 de Abril de 1957, são tornadas extensivas a todas as empresas abrangidas pelo artigo 2.º do Decreto-Lei n.º 40833, de 29 de Outubro de 1956, cuja sede funcione na metrópole e a administração nas províncias ultramarinas, ou vice-versa, e às que tenham a sua sede e administração fora de território nacional, as quais promoverão através dos seus agentes ou representantes o cumprimento das aludidas disposições.
+Ministério do Ultramar, 24 de Setembro de 1963. - O Presidente do Conselho, António de Oliveira Salazar.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - Oliveira Salazar.
