@@ -1,0 +1,5 @@
+Aviso n.º 74/2005
+Por ordem superior se torna público que, em 4 de Janeiro de 2005, a Espanha depositou, junto do Serviço Público Federal de Negócios Estrangeiros, Comércio Externo e Cooperação para o Desenvolvimento da Bélgica, o seu instrumento de denúncia ao Protocolo à Convenção Internacional sobre Limite de Responsabilidade dos Proprietários de Navios de Alto Mar, concluído em Bruxelas em 21 de Dezembro de 1979.
+Nos termos do artigo 7.º do Protocolo, a denúncia de Espanha produz efeitos a partir de 4 de Janeiro de 2006.
+Portugal é Parte do mesmo Protocolo, aprovado pelo Decreto n.º 6/82, de 21 de Janeiro, publicado no Diário da República, 1.ª série-A, n.º 17, tendo depositado o seu instrumento de ratificação em 30 de Abril de 1982, conforme o aviso publicado no Diário da República, 1.ª série, n.º 166, de 21 de Julho de 1982, e tendo entrado em vigor em 6 de Outubro de 1984.
+Direcção-Geral dos Assuntos Multilaterais, 18 de Fevereiro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
