@@ -1,0 +1,5 @@
+Aviso n.º 242/99
+Por ordem superior se torna público que, por nota de 28 de Julho de 1999, o Secretário-Geral das Nações Unidas, na qualidade de depositário da Convenção das Nações Unidas para a Repressão do Tráfico de Pessoas e de Exploração da Prostituição de Outrem, de 2 de Dezembro de 1949, comunicou ter o Governo de Portugal notificado, em 7 de Julho de 1999, que a Convenção é aplicável ao território de Macau, nos mesmos termos em que a República Portuguesa a ela se encontra internacionalmente vinculada.
+Portugal é Parte da Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 31/91, publicada no Diário da República, 1.ª série-A, n.º 233, de 10 de Outubro de 1991, e estendida a Macau pelo Decreto do Presidente da República n.º 30/98, de 14 de Julho, publicado no Diário da República, 1.ª série-A, n.º 160, de 14 de Julho de 1998, e no Boletim Oficial de Macau, 1.ª série, n.º 13, de 29 de Março de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 24 de Novembro de 1999. - João Maria Rebelo de Andrade Cabral.
