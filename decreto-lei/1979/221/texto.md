@@ -1,0 +1,15 @@
+Decreto-Lei n.º 221/79
+de 17 de Julho
+Os Parques Infantis de Santa Catarina, S. Pedro de Alcântara, Necessidades e Alcântara, administrados até 1973 pela Associação Nacional dos Parques Infantis, passaram desde 1974 a ser geridos conjuntamente por aquela Associação e pela Misericórdia de Lisboa e por esta financiados, estando prevista a integração dos referidos Parques no âmbito da Misericórdia de Lisboa, logo que oportuno.
+Em Agosto de 1975 e por deliberação da respectiva assembleia geral, a Associação Nacional dos Parques Infantis foi extinta, ficando a administração dos Parques confiada a uma comissão administrativa criada por despacho do Secretário de Estado da Segurança Social de 20 de Outubro de 1975.
+Reconhecendo-se que não se justifica manter por mais tempo um órgão gestor de carácter provisório, torna-se necessário proceder à prevista integração dos Parques Infantis na Misericórdia de Lisboa, em moldes que possam assegurar o criterioso aproveitamento, em benefício dos utentes, da experiência acumulada pelos trabalhadores que prestam serviço nos referidos estabelecimentos, bem assim como os justos interesses dos mesmos.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Os Parques Infantis de Santa Catarina, S. Pedro de Alcântara, Necessidades e Alcântara são integrados na Santa Casa da Misericórdia de Lisboa, passando o seu funcionamento a ser assegurado imediata e integralmente por esta instituição.
+Art. 2.º Os trabalhadores actualmente ao serviço nestes Parques Infantis serão integrados, mediante lista nominativa visada pelo Tribunal de Contas e publicada no Diário da República:
+a) Em lugares do quadro de pessoal da Misericórdia de Lisboa para os quais possuam as habilitações legais;
+b) Nos lugares que actualmente ocupam, quando não se verifique a hipótese referida na alínea anterior, os quais se considerarão aumentados ao quadro e extintos à medida que vagarem.
+Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro - António Jorge de Figueiredo Lopes.
+Promulgado em 2 de Julho de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
