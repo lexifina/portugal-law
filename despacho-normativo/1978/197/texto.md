@@ -1,0 +1,8 @@
+Despacho Normativo n.º 197/78
+Com a publicação dos Decretos-Leis n.os 145-A/78 e 145-B/78, de 17 de Junho, foram criadas as condições necessárias para, a breve prazo, serem finalmente resolvidos os problemas relativos aos trabalhadores eventuais do porto de Lisboa, designados «homens da rua», que, pelo facto da idade, foram excluídos da integração sindical verificada em Agosto de 1977, por acordo com os sindicatos representativos do sector.
+Têm vindo estes trabalhadores, por se encontrarem impossibilitados de exercer a sua profissão, em virtude de não estarem sindicalizados, a ser auxiliados com o subsídio de desemprego, em razão da sua grave situação de carência e por tal medida ter sido reconhecida como imperiosa, dadas as profundas implicações sociais que a situação dos referidos trabalhadores pode causar no âmbito do sector portuário.
+Assim, tendo presente a publicação dos referidos diplomas e as razões invocadas;
+Considerando que o direito ao subsídio de desemprego concedido aos mencionados trabalhadores se extingue, por decurso de prazo, no dia 31 de Julho de 1978:
+1 - Os Ministros do Trabalho e dos Assuntos Sociais, ao abrigo das disposições conjugadas do artigo 1.º do Decreto-Lei n.º 269/76, de 10 de Abril, e n.º 3 do artigo 53.º do Decreto-Lei n.º 183/77, de 5 de Maio, determinam a prorrogação do período de concessão do direito ao subsídio de desemprego aos «homens da rua» por mais cento e oitenta dias.
+2 - O presente despacho conjunto produz efeitos a partir de 1 de Agosto de 1978.
+Ministérios do Trabalho e dos Assuntos Sociais, 27 de Julho de 1978. - O Ministro do Trabalho, António Manuel Maldonado Gonelha. - O Ministro dos Assuntos Sociais, António Duarte Arnaut.
