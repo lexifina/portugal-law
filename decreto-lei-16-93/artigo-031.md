@@ -1,7 +1,3 @@
-## Título IV
-
-## Regime jurídico
-
 ## Capítulo II
 
 ## Alienação
