@@ -1,0 +1,42 @@
+Portaria n.º 23429
+Torna-se necessário completar o quadro da sinalização rodoviária regulamentar com determinados sinais cuja falta bastante se vem sentindo para conveniente sinalização das nossas estradas.
+Embora esteja a decorrer o estudo da revisão geral do Código da Estrada e respectivo regulamento e se preveja que dele venha a resultar uma alteração das actuais disposições relativas à sinalização rodoviária, entende-se que a necessidade atrás referida aconselha a que se não aguarde a conclusão daquele estudo.
+Igual motivo leva a não esperar a aprovação final do projecto da convenção sobre a sinalização rodoviária, elaborado pela Divisão dos Transportes Interiores da Comissão Económica para a Europa, do qual constam os novos sinais que se pretende fazer entrar em vigor, desde já, no nosso país.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, o seguinte:
+São aprovados os seguintes sinais rodoviários, constantes do quadro anexo, aos quais se aplicarão as disposições do capítulo I do Regulamento do Código da Estrada:
+A) Sinais de perigo
+A(índice 1) - Entroncamento: indicação da proximidade de um entroncamento, com a configuração do esquema representado no sinal; este só excepcionalmente será usado no interior das localidades; a configuração do esquema poderá variar conforme as características do entroncamento.
+A(índice 2) - Saída de ciclistas: indicação da proximidade de um local frequentemente utilizado por ciclistas que pretendem entrar na estrada ou atravessá-la.
+A(índice 3) - Projecção de gravilha: indicação da proximidade de um troço de estrada em que existe o risco de projecção de gravilha.
+A(índice 4) - Queda de pedras: indicação da proximidade de um local onde há o perigo da queda de pedras.
+A(índice 5) - Saída num cais ou precipício: indicação de que a estrada vai terminar num cais ou precipício.
+A(índice 6) - Vento lateral: indicação da proximidade de um troço de estrada em que seja frequente a acção de vento lateral bastante intenso; a orientação do símbolo representado no sinal indica o sentido predominante do vento.
+A(índice 7) - Pista de aviação: indicação da proximidade de um local em que a estrada pode ser sobrevoada a baixa altura por aviões que tenham deslocado ou vão aterrar numa pista próxima.
+A(índice 8) - Sinalização luminosa: indicação da proximidade de um local em que o transito é regulado por sinalização luminosa; este sinal só será usado em locais em que não seja de prever por parte dos condutores a existência daquela sinalização luminosa.
+B) Sinais de proibição
+B(índice 1) - Proibição de inversão de marcha: indica a proibição de os condutores efectuarem a manobra de inverversão de marcha.
+B(índice 2) - Trânsito proibido a peões.
+C) Sinais de obrigação
+C(índice 1) - Caminho obrigatório para peões: indicação de que os peões são obrigados a transitar por esse caminho.
+C(índice 2) - Obrigação de contornar a placa ou obstáculo: indicação de que os condutores são obrigados a contornar a placa ou obstáculo pelo lado indicado pela seta.
+D) Sinais de informação
+D(índice 1) - Estrada sem saída: indicação de que a estrada não tem saída para veículos.
+D(índice 2) - Auto-estrada: indica que a estrada em que o sinal está colocado é uma auto-estrada, vigorando na mesma, por consequência, as regras de transito especialmente destinadas a esse tipo de vias.
+D(índice 3) - Fim da auto-estrada: indica que terminou a auto-estrada.
+D(índice 4) - Estrada com prioridade: indica aos condutores que circulem na estrada em que o sinal se encontra colocado que tem prioridade de passagem nos sucessivos cruzamentos ou entroncamentos da mesma.
+D(índice 5) - Fim da estrada com prioridade: indica que a partir do local em que o sinal está colocado a estrada deixa de ser uma estrada com prioridade.
+D(índice 6) - Hotel: indicação da existência de um estabelecimento hoteleiro (hotel, motel, pensão, etc.).
+D(índice 7) - Restaurante: indicação da existência de um restaurante.
+D(índice 8) - Café ou bar: indicação da existência de um café, bar ou estabelecimento similar.
+Ministério das Comunicações, 11 de Junho de 1968. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
+
+A) SINAIS DE PERIGO
+(ver documento original)
+B) SINAIS DE PROIBIÇÃO
+(ver documento original)
+C) SINAIS DE OBRIGAÇÃO
+(ver documento original
+D) SINAIS DE INFORMAÇÃO
+(ver documento original)
+Ministério das Comunicações, 11 de Junho de 1968. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
