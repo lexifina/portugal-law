@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Embaixada da Polónia em Londres, transmitida pelo Ministério dos Negócios Estrangeiros da Inglaterra, os Governos da Dinamarca, da Islândia, da Noruega e da Suécia depositaram junto do Governo da Polónia no dia 3 de Maio de 1963 e o Governo da Itália no dia 4 de Maio de 1963 os instrumentos de ratificação do Protocolo, assinado na Haia em 20 de Setembro de 1955, alterando a Convenção para a unificação de certas regras relativas ao transporte internacional por ar, assinada em Varsóvia em 12 de Outubro de 1929.
+Tendo recebido no dia 3 de Maio de 1963 o número de ratificações requeridas no seu artigo XXII, parágrafo 1, o referido Protocolo entrou em vigor em 1 de Agosto de 1963.
+Direcção-Geral dos Negócios Económicos e Consulares, 8 de Outubro de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
