@@ -28,7 +28,7 @@ l) A emissão de obrigações e a respectiva autorização;
 
 m) A designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos membros dos órgãos de administração e de fiscalização das sociedades;
 
-n) A prestação de contas das sociedades anónimas e em comandita por acções, bem como das sociedades por quotas quando houver lugar a depósito;
+n) A prestação de contas das sociedades anónimas e sociedades em comandita por acções, bem como sociedades por quotas, quando houver lugar a depósito, e de contas consolidadas de sociedades obrigadas a prestá-las;
 
 o) A mudança da sede da sociedade;
 

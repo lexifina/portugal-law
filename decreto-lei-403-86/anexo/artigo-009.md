@@ -16,12 +16,14 @@ e) As acções de declaração de nulidade ou anulação de deliberações socia
 
 f) As acções de reforma, declaração de nulidade ou anulação de um registo ou do seu cancelamento;
 
-g) As decisões finais, com trânsito em julgado, proferidas nas acções e procedimentos cautelares referidos nas alíneas anteriores;
+g) As providências cautelares não especificadas requeridas com referência às mencionadas nas alíneas anteriores;
 
-h) As acções especiais de recuperação da empresa e protecção dos credores;
+h) As decisões finais, com trânsito em julgado, proferidas nas acções e procedimentos cautelares referidos nas alíneas anteriores;
 
-i) As deliberações das assembleias de credores de sociedades, cooperativas e agrupamentos que hajam aprovado, no respectivo processo judicial, a concordata, o acordo de credores ou a gestão controlada, bem como as respectivas sentenças de homologação ou rejeição, com trânsito em julgado.
+i) As acções especiais de recuperação da empresa e protecção dos credores;
 
-j) As sentenças declaratórias da falência de comerciantes individuais e de sociedades comerciais, bem como da insolvência de cooperativas, de agrupamentos complementares de empresas e de agrupamentos europeus de interesse económico e o seu trânsito em julgado;
+j) As deliberações das assembleias de credores de sociedades, cooperativas e agrupamentos que hajam aprovado, no respectivo processo judicial, a concordata, o acordo de credores ou a gestão controlada, bem como as respectivas sentenças de homologação ou rejeição, com trânsito em julgado.
 
-l) Os despachos, com trânsito em julgado, do levantamento da inibição e reabilitação do falido ou insolvente.
+l) As sentenças declaratórias da falência de comerciantes individuais e de sociedades comerciais, bem como da insolvência de cooperativas, de agrupamentos complementares de empresas e de agrupamentos europeus de interesse económico e o seu trânsito em julgado;
+
+m) Os despachos, com trânsito em julgado, do levantamento da inibição e reabilitação do falido ou insolvente.
