@@ -1,0 +1,19 @@
+Portaria n.º 436/76
+de 21 de Julho
+Em execução do disposto no artigo 9.º do Decreto-Lei n.º 674-D/75, de 2 de Dezembro:
+Manda o Governo da República Portuguesa, pelo Ministério da Comunicação Social, aprovar o seguinte:
+1.º - 1. O inquérito a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 674-D/75, de 2 de Dezembro, será efectuado pela administração da RTP, no prazo de sessenta dias, prorrogável por despacho simples do Ministro da Comunicação Social.
+2. O mesmo inquérito concluirá, com proposta devidamente fundamentada, sobre o montante e a forma de pagamento das indemnizações pela nacionalização, a qual deverá tomar em conta os critérios de avaliação o de pagamento legalmente definidos.
+2.º A escrituração comercial da RTP - Radiotelevisão Portuguesa, S. A. R. L., será encerrada com referência à data da sua dissolução, operada por força no n.º 3 do artigo 6.º do Decreto-Lei n.º 674-D/75, de 2 de Dezembro, efectuando-se os correspondentes balanço e apuramento de situação líquida.
+3.º - 1. As transmissões de bens e direitos verificadas por virtude do n.º 1 do artigo 6.º do Decreto-Lei n.º 674-D/75 que constituírem actos sujeitos a registo predial ou automóvel serão registadas mediante requerimento formulado de harmonia com os preceitos legais aplicáveis, que não terá de ser acompanhado de quaisquer outros documentos.
+2. Os bens ou direitos inscritos nas matrizes prediais em nome da RTP - Radiotelevisão Portuguesa, S. A. R. L., serão averbados nas mesmas em nome da Radiotelevisão Portuguesa, E. P.
+4.º - 1. A comissão administrativa criada pelo artigo 7.º do Decreto-Lei n.º 674-D/75, de 2 de Dezembro, reunirá ordinariamente uma vez por semana e extraordinariamente sempre que seja convocada pelo presidente, por sua iniciativa, ou a pedido de dois dos seus membros.
+2. As deliberações serão tomadas por maioria absoluta dos votos dos membros que a constituem, admitindo-se o voto por correspondência e por representação, expresso por simples carta.
+3. As deliberações da comissão ficarão a constar de acta.
+4. Para que a empresa pública fique obrigada, durante a vigência da comissão administrativa, será necessária a assinatura de dois dos membros desta, salvo nos assuntos de mero expediente, em que poderão assinar um só dos membros ou um director em que tais poderes tenham sido delegados.
+5. O mandato dos membros da comissão administrativa produz efeitos em relação a terceiros pela simples publicação da respectiva nomeação no Diário da República.
+6. Nos termos das suas funções, a comissão administrativa prestará aos órgãos definitivos da RTP os esclarecimentos que por estes forem solicitados sobre a sua gestão.
+5.º - 1. Os membros da comissão administrativa vencerão, desde o início das suas funções, as remunerações que forem fixadas por despacho conjunto dos Ministros das Finanças e da Comunicação Social, com observância do disposto no artigo 1.º do Decreto-Lei n.º 446/74, de 13 de Setembro.
+2. Os membros da comissão administrativa poderão acumular as suas funções com quaisquer outras na RTP, devendo, nesse caso, optar por uma das remunerações.
+6.º O presente diploma entra em vigor na data da sua publicação.
+Ministério da Comunicação Social, 6 de Julho de 1976. - O Ministro da Comunicação Social, António de Almeida Santos.
