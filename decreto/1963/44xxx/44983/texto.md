@@ -1,0 +1,14 @@
+Decreto n.º 44983
+Considerando que circunstâncias diversas impediram o arranque dos trabalhos dos inquéritos agrícolas no ultramar na data inicialmente prevista, o que impossibilita a conclusão dos trabalhos pelas missões de inquérito agrícola no prazo estabelecido pelo artigo 18.º do Decreto n.º 42562, de 6 de Outubro de 1959;
+Atendendo a que pela F. A. O. já foi posto o problema da preparação do recenseamento agrícola mundial para 1970;
+Tendo em vista a necessidade do estabelecimento, em bases convenientes, da estatística agrícola corrente em todo o ultramar português, para o que convém aproveitar a experiência e os elementos de trabalho reunidos pelas actuais missões de inquérito agrícola;
+Julgando-se indispensável manter em vigor a estrutura actual, apenas com a introdução de alguns ajustamentos que a experiência aconselha, até que se torne oportuno enquadrar as missões de inquérito agrícola numa orgânica global da estatística ultramarina ou utilizar as possibilidades oferecidas pela eventual regulamentação do Decreto n.º 44364;
+Havendo a maior urgência em se estabelecer as disposições seguintes para satisfação do objectivo proposto e ao abrigo do que preceitua a alínea a) do n.º IV da base X da Lei Orgânica do Ultramar;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º O período de duração da Comissão para os Inquéritos Agrícolas no Ultramar, das comissões provinciais de inquérito agrícola e das missões de inquérito agrícola é prorrogado, nos termos do artigo 18.º do Decreto n.º 42562, de 6 de Outubro de 1959, por um período de cinco anos, a contar do fim do ano de 1963.
+Art. 2.º Às missões de inquérito agrícola no ultramar passa a competir também a recolha e elaboração das estatísticas agrícolas (agricultura, pecuária, silvicultura e piscicultura) correntes, em estreita colaboração com os serviços de estatística geral das respectivas províncias, que assegurarão a sua publicação.
+Art. 3.º As missões de inquérito agrícola poderão, mediante autorização do governo da província respectiva, e sem prejuízo dos trabalhos que lhe estão atribuídos nem da doutrina do artigo 2.º do Decreto n.º 43302, de 9 de Novembro de 1960, realizar estudos e inquéritos, no âmbito da sua competência e possibilidades de acção, destinados a serviços ou organismos públicos ou de interesse geral, dando, em cada caso, conhecimento prévio à Comissão para os Inquéritos Agrícolas no Ultramar, a quem deverão remeter também cópia de todos os trabalhos levados a efeito.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 18 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Peixoto Correia.
