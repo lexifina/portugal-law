@@ -1,0 +1,6 @@
+Aviso n.º 94/2002
+Por ordem superior se torna público que o Governo do Burundi depositou, em 5 de Junho de 2002, o seu instrumento de adesão à Convenção Relativa às Zonas Húmidas de Importância Internacional, especialmente como Habitats de Aves Aquáticas, adoptada em Ramsar em 2 de Fevereiro de 1971 e alterada em Paris em 3 de Dezembro de 1982.
+Portugal é Parte da mesma Convenção, tal como alterada pelo Protocolo de Paris de 1982, tendo depositado o instrumento de ratificação da Convenção em 24 de Novembro de 1980 (Diário da República, n.º 33, de 9 de Fevereiro de 1981) e do Protocolo de Paris em 18 de Novembro de 1984 (Diário da República, n.º 29, de 4 de Fevereiro de 1985).
+De acordo com o artigo 2.º da Convenção, a zona húmida conhecida pela denominação de delta de la Rusizi foi designada pelo Burundi para figurar na lista das zonas húmidas de importância internacional estabelecida em virtude desta Convenção.
+Nos termos do artigo 10.º (2), a Convenção, tal como alterada pelo Protocolo, entrou em vigor no Burundi em 5 de Outubro de 2002.
+Direcção-Geral dos Assuntos Multilaterais, 24 de Outubro de 2002. - A Directora de Serviços das Organizações Económicas Internacionais, Graça Gonçalves Pereira.
