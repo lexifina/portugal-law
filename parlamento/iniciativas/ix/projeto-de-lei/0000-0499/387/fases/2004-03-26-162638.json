@@ -1,0 +1,359 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "387",
+    "id": "20047",
+    "titulo": "Altera o Código do Imposto Municipal sobre Imóveis no caso dos prédios cuja propriedade esteja registada em regiões com regime fiscal claramente mais favorável."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2004-03-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3114",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2004-03-26",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-03-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149008",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3789-3790"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-27",
+                "pubLeg": "IX",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/069/2004-03-27/3789?pgs=3789-3790&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto Municipal sobre Imóveis no caso dos prédios cuja propriedade esteja registada em regiões com regime fiscal claramente mais favorável.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1147",
+                "nome": "António da Silva Preto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152452",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3792-3794",
+                  "3800-3800"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-27",
+                "pubLeg": "IX",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/069/2004-03-27/3792?pgs=3792-3794,3800&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto Municipal sobre Imóveis no caso dos prédios cuja propriedade esteja registada em regiões com regime fiscal claramente mais favorável.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3793-3794"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-27",
+                "pubLeg": "IX",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/069/2004-03-27/3793?pgs=3793-3794&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto Municipal sobre Imóveis no caso dos prédios cuja propriedade esteja registada em regiões com regime fiscal claramente mais favorável.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1924",
+                "nome": "Paulo Veiga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3794-3797"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-27",
+                "pubLeg": "IX",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/069/2004-03-27/3794?pgs=3794-3797&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto Municipal sobre Imóveis no caso dos prédios cuja propriedade esteja registada em regiões com regime fiscal claramente mais favorável.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152455",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3796-3797"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-27",
+                "pubLeg": "IX",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/069/2004-03-27/3796?pgs=3796-3797&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto Municipal sobre Imóveis no caso dos prédios cuja propriedade esteja registada em regiões com regime fiscal claramente mais favorável.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152456",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3797-3798"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-27",
+                "pubLeg": "IX",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/069/2004-03-27/3797?pgs=3797-3798&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto Municipal sobre Imóveis no caso dos prédios cuja propriedade esteja registada em regiões com regime fiscal claramente mais favorável.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "162638",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3114",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-03-27",
+        "pubLeg": "IX",
+        "pubNr": "69",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/069/2004-03-27?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
