@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1919/12/26200/25772577.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1919-12-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "327b3347d71dec98f307d02612488b471c0d42ec984e428e71c75a445beb073f",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 96.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "b214663896452d17bfc22c579b866c0f9ec0d21adeb9edc8ceb5843706e318a3",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 159
 }
