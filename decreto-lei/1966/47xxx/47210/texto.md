@@ -1,0 +1,17 @@
+Decreto-Lei n.º 47210
+Usando da faculdade conferida pela 1.ª parte do n.º 2. do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. É criado o Serviço Social do Ministério da Justiça, o qual tem por fim desenvolver os laços de solidariedade entre os funcionários do Ministério e seus familiares, auxiliando a satisfação das suas necessidades de ordem económica, social e cultural.
+2. A realização dos fins próprios do Serviço Social pode fazer-se através dos diversos meios previstos no regulamento que definir as suas condições de funcionamento, devendo estimular-se especialmente a criação de instituições adequadas de assistência e previdência.
+Art. 2.º O Serviço Social do Ministério da Justiça é dotado de personalidade jurídica, goza de autonomia administrativa e financeira, está isento de custas e selos em todos os processos em que for parte ou interessado e de quaisquer emolumentos, taxas, contribuições ou impostos e beneficia de todas as facilidades conferidas por lei às instituições oficiais de assistência.
+Art. 3.º - 1. À direcção, constituída pelo secretário-geral do Ministério da Justiça, que será o presidente, pelos restantes directores-gerais e pelo chefe da Repartição Administrativa dos Cofres, compete estudar todos os problemas do Serviço Social, fiscalizar e impulsionar os organismos dele dependentes, promover a aplicação das receitas e a realização das despesas e prestar contas pela forma fixada para o Cofre Geral dos Tribunais.
+2. À direcção poderão ser agregados um ou mais vogais, livremente designados pelo Ministro da Justiça por períodos renováveis de dois anos.
+Art. 4.º O Serviço Social pode ser subsidiado na prossecução dos seus fins pelo Cofre Geral dos Tribunais e o seu expediente corre pela Repartição Administrativa do Cofres.
+Art. 5.º As receitas do Serviço Social serão obtidas por meio de quotização dos interessados, subsídios, comparticipações e doações ou legados de quaisquer entidades públicas ou particulares.
+Art. 6.º Dos benefícios do Serviço Social são imediatamente excluídos todos os funcionários exonerados, demitidos ou colocados na situação de licença ilimitada, bem como os respectivos familiares.
+Art. 7.º Além do cônjuge não separado de pessoas e bens, consideram-se familiares do funcionário:
+a) Os descendentes, ascendentes ou colaterais até ao 3.º grau, seja do funcionário, seja do seu cônjuge, que com aquele vivam em economia conjunta;
+b) Os menores de que ele ou o seu cônjuge sejam tutores ou que lhes tenham sido confiados por decisão judicial.
+Art. 8.º - 1. O Ministro da Justiça pode, quando o interesse dos serviços o exija, alterar por simples portaria o quadro da Repartição Administrativa dos Cofres.
+2. É aplicável a esta Repartição o disposto no artigo 5.º do Decreto-Lei n.º 40737, de 24 de Agosto de 1956.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 22 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
