@@ -1,0 +1,4 @@
+Resolução n.º 292/80
+Nos termos da alínea c) do artigo 146.º e do n.º 2 do artigo 281.º da Constituição, o Conselho da Revolução, vistos os acórdãos da Comissão Constitucional n.os 219, 228 e 229, proferidos, respectivamente, nos processos de recurso n.os 24/79, em 3 de Junho de 1980, 52/80, em 24 de Junho, e 44/80, em 1 de Julho, declara, com força obrigatória geral, a inconstitucionalidade, por violação do n.º 2 do artigo 32.º da Constituição e do princípio da presunção de inocência nele consignado, do n.º 1 do artigo 25.º do Regulamento da Inspecção do Trabalho, constante do Decreto-Lei n.º 48/78, de 21 de Março, na parte em que admite a verificação das infracções «por qualquer forma» e, portanto, independentemente da presencialidade da comprovação.
+Aprovada em Conselho da Revolução em 6 de Agosto de 1980.
+O Presidente do Conselho da Revolução, António Ramalho Eanes, general.
