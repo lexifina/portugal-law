@@ -1,0 +1,28 @@
+Decreto-Lei n.º 318/83
+de 4 de Julho
+No prosseguimento do esforço que o Governo tem vindo a desenvolver no combate à fraude e evasão fiscais;
+Considerando que a prática tem demonstrado que as facilidades concedidas a turistas, no que respeita a importação temporária de armas e munições, têm conduzido a situações de abuso a que urge pôr termo, sem que, no entanto, se iniba o verdadeiro turista de demandar o nosso país para a prática do desporto cinegético;
+Considerando, ainda, que algumas das disposições do Decreto-Lei n.º 49439, publicado no Diário do Governo, 1.ª série, n.º 291, de 15 de Dezembro de 1969, que instituiu aquelas facilidades, se encontram manifestamente desactualizadas face às realidades do momento:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O artigo 1.º, o n.º 2 do artigo 2.º, o n.º 3 do artigo 3.º e o artigo 4.º do Decreto-Lei n.º 49439, de 15 de Dezembro de 1969, passam a ter a seguinte redacção:
+Artigo 1.º Aos turistas que se desloquem a Portugal para a prática do desporto de caça ou para a comparticipação em torneios de tiro a chumbo será facultada a entrada das respectivas armas, até ao máximo de 2, pelo prazo de 60 dias, e munições, até 200 cartuchos, mediante simples tomada de sinais para efeito de confrontações das respectivas armas e das munições não utilizadas, aquando da sua saída.
+Art. 2.º - 1 - ...
+2 - Para garantia dos direitos e mais imposições, será depositada, pelo interessado, a importância de 30000$00, por arma, cujo reembolso se efectuará quando se mostre comprovado a sua tempestiva saída.
+3 - ...
+4 - ...
+Art. 3.º - 1 - ...
+2 - ...
+3 - O comando que conceder uma prorrogação de prazo deverá comunicá-la, no prazo de 8 dias, à estância aduaneira que tiver emitido o bilhete de importação temporária.
+Art. 4.º A permanência das armas no País, para além do prazo estabelecido no artigo 1.º, envolve, além da perda da importância prestada como garantia, o procedimento fiscal adequado.
+Art. 2.º O modelo do impresso a que se refere o n.º 1 do artigo 2.º do Decreto-Lei n.º 49439, de 15 de Dezembro de 1969, será substituído pelo do exemplar anexo.
+Art. 3.º É aditado ao artigo 2.º do Decreto-Lei n.º 49439, de 15 de Dezembro de 1969, o seguinte número:
+5 - Quando se verifiquem as condições do número anterior e tiver sido excedido o prazo referido no n.º 3 sem que a importância do depósito haja sido reclamada, entrará a mesma, de imediato, em receita do Estado.
+Art. 4.º O artigo 4.º do Decreto-Lei n.º 49349, de 15 de Dezembro de 1969, na redacção que lhe foi dada pelo artigo 1.º do presente decreto-lei, aplica-se às situações pendentes de não apresentação das armas, cujos prazos se encontrem excedidos.
+Visto e aprovado em Conselho de Ministros de 12 de Maio de 1983. - Gonçalo Pereira Ribeiro Teles - João Maurício Fernandes Salgueiro.
+Promulgado em 26 de Maio de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 30 de Maio de 1983.
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
+
+(ver documento original)
