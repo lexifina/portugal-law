@@ -6,16 +6,18 @@
 
 a) O tempo de exercício de funções como Presidente da República e membro do Governo;
 
-b) O tempo de suspensão preventiva ordenada em processo disciplinar ou determinada por despacho de pronúncia em processo criminal quando os processos terminarem por arquivamento ou absolvição;
+b) O tempo de suspensão preventiva ordenada em processo disciplinar ou determinada por despacho de pronúncia ou por despacho que designar dia para julgamento por crime doloso quando os processos terminarem por arquivamento ou absolvição;
 
 c) O tempo de suspensão de exercício ordenada nos termos do n.º 3 do artigo 65.º;
 
-d) O tempo de prisão preventiva sofrida em processo de natureza criminal que termine por arquivamento ou absolvição;
+d) O tempo de suspensão de funções nos termos da alínea d) do artigo 71.º, se a deliberação não vier a ser confirmada;
 
-e) O tempo correspondente à prestação de serviço militar obrigatório;
+e) O tempo de prisão preventiva sofrida em processo de natureza criminal que termine por arquivamento ou absolvição;
 
-f) As faltas por motivo de doença que não excedam noventa dias em cada ano;
+f) O tempo correspondente à prestação de serviço militar obrigatório;
 
-g) As ausências a que se refere o artigo 9.º
+g) As faltas por motivo de doença que não excedam 180 dias em cada ano;
 
-2 - Para efeitos de aposentação, o tempo de serviço prestado nas regiões autónomas e em Macau é bonificado de um quarto.
+h) As ausências a que se refere o artigo 9.º
+
+2 - Para efeitos de aposentação, o tempo de serviço prestado nas Regiões Autónomas é bonificado de um quarto.

@@ -2,4 +2,6 @@
 
 ### (Competência do vice-presidente)
 
-Compete ao vice-presidente do Conselho Superior da Magistratura substituir o presidente nas suas faltas ou impedimentos e exercer as funções que lhe forem delegadas.
+1 - Compete ao vice-presidente do Conselho Superior da Magistratura substituir o presidente nas suas faltas ou impedimentos e exercer as funções que lhe forem delegadas.
+
+2 - O vice-presidente pode subdelegar nos vogais que exerçam funções em tempo integral as funções que lhe forem delegadas ou subdelegadas.

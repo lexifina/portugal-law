@@ -2,9 +2,9 @@
 
 ### (Composição)
 
-1 - O Conselho Superior da Magistratura é presidido pelo Presidente do Supremo Tribunal de justiça e composto ainda pelos seguintes vogais:
+1 - O Conselho Superior da Magistratura é presidido pelo Presidente do Supremo Tribunal de Justiça e composto ainda pelos seguintes vogais:
 
-a) Dois designados pelo Presidente da República, sendo um deles magistrado judicial;
+a) Dois designados pelo Presidente da República;
 
 b) Sete eleitos pela Assembleia da República;
 

@@ -2,6 +2,12 @@
 
 ### (Efeito)
 
-1 - O recurso tem efeito meramente devolutivo.
+1 - A interposição do recurso não suspende a eficácia do acto recorrido, salvo quando, a requerimento do interessado, se considere que a execução imediata do acto é susceptível de causar ao recorrente prejuízo irreparável ou de difícil reparação.
 
-2 - O recurso terá, porém, efeito suspensivo quando interposto de decisão, proferida em processo disciplinar, que aplique pena prevista nas alíneas a) a e) do n.º 1 do artigo 85.º, ou da execução do acto recorrido resultar para o recorrente prejuízo irreparável ou de difícil reparação.
+2 - A suspensão é pedida ao tribunal competente para o recurso, em requerimento próprio, apresentado no prazo estabelecido para a interposição do recurso.
+
+3 - A secretaria notifica por via postal a autoridade requerida, remetendo-lhe duplicado, para responder no prazo de cinco dias.
+
+4 - O Supremo Tribunal de Justiça decide no prazo de 10 dias.
+
+5 - A suspensão da eficácia do acto não abrange a suspensão do exercício de funções.

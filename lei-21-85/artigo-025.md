@@ -2,4 +2,4 @@
 
 ### (Despesas de representação)
 
-Os presidentes do Supremo Tribunal de Justiça e das relações têm direito a um subsídio correspondente a, respectivamente, 20% e 10% do vencimento, a título de despesas de representação.
+O Presidente do Supremo Tribunal de Justiça, os vice-presidentes do Supremo Tribunal de Justiça, o vice-presidente do Conselho Superior da Magistratura e os presidentes das Relações têm direito a um subsídio correspondente a, respectivamente, 20%, 10%, 10% e 10% do vencimento, a título de despesas de representação.

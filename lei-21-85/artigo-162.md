@@ -6,7 +6,7 @@
 
 2 - Os inspectores judiciais têm vencimento correspondente a juiz da relação.
 
-3 - Quando deva proceder-se a inspecção, inquérito ou processo disciplinar a juízes do Supremo Tribunal de Justiça ou das relações, é designado como inspector extraordinário um juiz do Supremo Tribunal de Justiça.
+3 - Quando deva proceder-se a inspecção, inquérito ou processo disciplinar a juízes do Supremo Tribunal de Justiça ou das Relações, é designado como inspector extraordinário um juiz do Supremo Tribunal de Justiça, podendo sê-lo, com a sua anuência, um juiz jubilado.
 
 4 - As funções de secretário de inspecção são exercidas, em comissão de serviço, por funcionários de justiça.
 

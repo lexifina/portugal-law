@@ -6,6 +6,6 @@
 
 2 - Não é devido reembolso quando a mudança de situação se verifique a pedido do magistrado, excepto:
 
-a) Quando se trate de deslocação entre o continente, as regiões autónomas e Macau;
+a) Quando se trate de deslocação entre o continente e as Regiões Autónomas;
 
-b) Quando, no caso de transferência a pedido, se verifique a situação prevista no artigo 43.º, n.º 4, ou a transferência tiver lugar após dois anos de exercício efectivo na comarca anterior.
+b) Quando, no caso de transferência a pedido, se verifique a situação prevista no n.º 3 do artigo 43.º ou a transferência tiver lugar após dois anos de exercício efectivo na comarca anterior.

@@ -2,6 +2,4 @@
 
 ### Suplemento remuneratório pela execução de serviço urgente
 
-1 - O suplemento remuneratório diário devido aos magistrados pela prestação de serviço nos tribunais de turno é equivalente a 42% do índice 100 da escala salarial do regime geral do funcionalismo público.
-
-2 - A remuneração devida pela execução de serviço urgente aos sábados, domingos e feriados em tribunais com sede em comarcas não abrangidas por tribunais de turno é a fixada no número anterior.
+O suplemento remuneratório diário devido aos magistrados pelo serviço urgente que deva ser executado aos sábados, nos feriados que recaiam em segunda-feira e no segundo dia feriado, em caso de feriados consecutivos, é pago nos termos da lei geral, calculando-se o valor da hora normal de trabalho com referência ao índice 100 da escala salarial.

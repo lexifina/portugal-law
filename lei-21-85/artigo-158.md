@@ -10,9 +10,9 @@ b) Instaurar inquéritos e sindicâncias;
 
 c) Autorizar que magistrados se ausentem do serviço;
 
-d) Conceder a autorização a que se refere o n.º 3 do artigo 8.º;
+d) Conceder a autorização a que se refere o n.º 2 do artigo 8.º;
 
-e) Prorrogar o prazo para a posse e autorizar que esta seja tomada em lugar ou perante entidade diferente;
+e) Prorrogar o prazo para a posse e autorizar ou determinar que esta seja tomada em lugar ou perante entidade diferente;
 
 f) Indicar magistrados para participarem em grupos de trabalho;
 

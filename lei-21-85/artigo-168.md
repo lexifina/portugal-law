@@ -8,7 +8,7 @@
 
 1 - Das deliberações do Conselho Superior da Magistratura recorre-se para o Supremo Tribunal de justiça.
 
-2 - Para efeitos de apreciação do recurso referido no número anterior, o Supremo Tribunal de Justiça funciona através de uma secção constituída pelo seu vice-presidente e por quatro juízes, um de cada uma das secções, anual e sucessivamente designados, tendo em conta a respectiva antiguidade, cabendo ao vice-presidente voto de qualidade.
+2 - Para efeitos de apreciação do recurso referido no número anterior o Supremo Tribunal de Justiça funciona através de uma secção constituída pelo mais antigo dos seus vice-presidentes, que tem voto de qualidade, e por um juiz de cada secção, anual e sucessivamente designado, tendo em conta a respectiva antiguidade.
 
 3 - Os processos são distribuídos pelos juízes da secção.
 

@@ -2,4 +2,4 @@
 
 ### (Presidente)
 
-Das decisões do presidente ou do vice-presidente do Conselho Superior da Magistratura reclama-se para o plenário do Conselho.
+Das decisões do presidente, do vice-presidente ou dos vogais do Conselho Superior da Magistratura reclama-se para o plenário do Conselho.
