@@ -1,0 +1,3 @@
+Aviso n.º 146/91
+Por ordem superior se torna público que as ilhas Marshall depositaram junto do Secretário-Geral das Nações Unidas, em 5 de Junho de 1991, o instrumento de aceitação das emendas aos artigos 24.º, 25.º, 34.º e 55.º da Constituição da Organização Mundial de Saúde, assinada em Nova Iorque em 22 de Julho de 1946, tal como foram adoptadas pelas 12.ª, 20.ª, 29.ª e 39.ª sessões da Assembleia Mundial da Saúde, de 28 de Maio de 1959, 23 de Maio de 1967, 17 de Maio de 1976 e 12 de Maio de 1986, respectivamente.
+Direcção-Geral dos Negócios Político-Económicos, 24 de Setembro de 1991. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
