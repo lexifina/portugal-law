@@ -1,0 +1,5 @@
+Portaria n.º 507/81
+de 25 de Junho
+Ao abrigo do disposto no n.º 1 do artigo 13.º e no artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e nos termos do n.º 2 do artigo 4.º do Decreto-Lei n.º 519-S1/79, de 29 de Dezembro:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado Adjunto do Primeiro-Ministro e pelos Ministros das Finanças e do Plano e da Reforma Administrativa, que seja aumentado, para extinguir quando vagar, 1 lugar de assessor, letra C, da tabela de vencimentos da função pública, no quadro de pessoal da Junta Nacional de Investigação Científica e Tecnológica.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Reforma Administrativa, 30 de Abril de 1981. - O Ministro de Estado Adjunto do Primeiro-Ministro, Basílio Adolfo Mendonça Horta da Franca. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - Pelo Ministro da Reforma Administrativa, José Queirós Lopes Raimundo, Secretário de Estado da Reforma Administrativa.
