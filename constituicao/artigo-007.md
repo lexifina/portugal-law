@@ -12,4 +12,6 @@
 
 5. Portugal empenha-se no reforço da identidade europeia e no fortalecimento da acção dos Estados europeus a favor da democracia, da paz, do progresso económico e da justiça nas relações entre os povos.
 
-6. Portugal pode, em condições de reciprocidade, com respeito pelo princípio da subsidiariedade e tendo em vista a realização da coesão económica e social, convencionar o exercício em comum dos poderes necessários à construção da união europeia.
+6. Portugal pode, em condições de reciprocidade, com respeito pelo princípio da subsidiariedade e tendo em vista a realização da coesão económica e social e de um espaço de liberdade, segurança e justiça, convencionar o exercício em comum ou em cooperação dos poderes necessários à construção da União Europeia.
+
+7. Portugal pode, tendo em vista a realização de uma justiça internacional que promova o respeito pelos direitos da pessoa humana e dos povos, aceitar a jurisdição do Tribunal Penal Internacional, nas condições de complementaridade e demais termos estabelecidos no Estatuto de Roma.
