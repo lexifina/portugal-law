@@ -1,0 +1,8 @@
+Despacho Normativo n.º 104/81
+Considerando que, de acordo com o estabelecido nos artigos 5.º e 11.º do Decreto-Lei n.º 107/77, de 24 de Março, foi possível aplicar a doutrina constante da Portaria n.º 217/80, de 3 de Maio, do Ministério dos Assuntos Sociais, Secretaria de Estado da Saúde, a todas as especialidades do pessoal de saúde militar, com excepção dos radiografistas e preparadores de análises clínicas, para os quais será necessário criar núcleos de formação em estabelecimentos militares;
+Considerando que a Escola Nacional de Saúde Pública nada tem a objectar à criação dos referidos núcleos, desde que funcionem em consonância com a legislação publicada pelo Ministério dos Assuntos Sociais sobre a matéria;
+Considerando o estabelecido nos artigos 5.º, n.º 2, e 9.º do Decreto-Lei n.º 254/79, de 28 de Junho;
+Ouvidos os Chefes dos Estados-Maiores dos ramos, determino:
+1 - São criados núcleos de formação destinados a ministrar os cursos de promoção estabelecidos pela Portaria n.º 217/80, de 3 de Maio, do Ministério dos Assuntos Sociais, Secretaria de Estado da Saúde, para as especialidades de radiografistas e preparadores de análises clínicas, respectivamente no Hospital da Força Aérea e no Hospital Militar Principal.
+2 - Os cursos funcionarão dentro dos programas e normas legais estabelecidos para os núcleos de formação do Ministério dos Assuntos Sociais, podendo aos mesmos ter acesso elementos civis em número e condições a acordar com a Escola Nacional de Saúde Pública.
+Estado-Maior-General das Forças Armadas, 18 de Março de 1981. - O Chefe do Estado-Maior-General das Forças Armadas, Nuno Viriato Tavares de Melo Egídio, general.
