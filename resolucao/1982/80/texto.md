@@ -1,0 +1,5 @@
+Resolução n.º 80/82
+1 - As importâncias previstas nos n.os 1 e 2 do artigo 1.º do Decreto n.º 11/80, de 8 de Março, encontram-se desactualizadas, quer face à inflação que se tem feito sentir, quer em presença dos aumentos sensíveis operados nos suportes publicitários, designadamente o de 50%, ultimamente verificado no custo das inserções de filmes na Radiotelevisão Portuguesa.
+2 - Nestes termos, considerando a difícil situação que assim se pode criar à normal utilização da publicidade pela Lotaria Nacional e as Apostas Mútuas Desportivas, o Conselho de Ministros para os Assuntos Económicos, reunido em 22 de Março de 1982, resolveu, ao abrigo do artigo 2.º do Decreto n.º 11/80, de 8 de Março:
+Fixar em 10000000$00 a importância prevista no n.º 1 do artigo 1.º do Decreto n.º 11/80, citado, e em 5000000$00 e 20000000$00, respectivamente, as referidas no n.º 2 do mesmo artigo e diploma.
+Presidência do Conselho de Ministros, 22 de Março de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
