@@ -1,5 +1,5 @@
 # Artigo 23.º
 
-1 - O valor global das indemnizações a atribuir a cada indemnizado, em conformidade com a totalidade de valores apurados de acordo com a presente lei, será arredondado para o milhar de escudos mais próximo.
+1 - O valor global das indemnizações a atribuir a cada indemnizado em conformidade com a totalidade de valores apurados de acordo com a presente lei, quando terminar em escudos ou dezenas de escudos, será arredondado para a centena de escudos mais próxima.
 
-2 - Quando o valor referido no número anterior apresente uma fracção igual a 500$00, o arredondamento será feito por excesso.
+2 - As respectivas fracções de valor inferior a 1000$00 serão pagas em dinheiro.
