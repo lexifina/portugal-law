@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, de harmonia com a informação do Departamento de Estado Norte-Americano, o instrumento de ratificação da Convenção para a Repressão da Captura Ilícita de Aeronaves, concluída na Haia em 16 de Dezembro de 1970, depositado pelo Governo da Índia em 12 de Novembro de 1982 (aviso publicado no Diário da República, 1.ª série, n.º 50, de 2 de Março de 1983), continha uma reserva ao n.º 1 do artigo 12.º da referida Convenção.
+Direcção-Geral dos Negócios Económicos, 18 de Outubro de 1984. - O Subdirector-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
