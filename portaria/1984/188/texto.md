@@ -1,0 +1,11 @@
+Portaria n.º 188/84
+de 30 de Março
+Considerando que, desde 1981, a Câmara Municipal da Figueira da Foz, em representação dos munícipes, e os corpos docentes das escolas preparatórias e secundários do concelho manifestaram, por mais de uma vez, o desejo de que a Escola Secundária n.º 1 da Figueira da Foz voltasse a ser denominada de Bernardino Machado, por ter sido esse o nome com que foi fundada;
+Considerando que essa vontade acaba de ser reafirmada pelas entidades acima referidas em exposições dirigidas ao Ministro da Educação;
+Considerando o relevo invulgar da figura de Bernardino Machado.
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:
+1.º Sem prejuízo do disposto no Decreto-Lei n.º 219/79, de 17 de Julho, a Escola Secundária n.º 1 da Figueira da Foz adoptará como patrono Bernardino Machado.
+2.º Para efeito do disposto na presente portaria, à designação da Escola Secundária n.º 1 da Figueira da Foz será acrescido o nome de Bernardino Machado.
+Ministério da Educação.
+Assinada em 31 de Janeiro de 1984.
+O Ministro da Educação, José Augusto Seabra.
