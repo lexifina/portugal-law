@@ -1,0 +1,6 @@
+Despacho Normativo n.º 58/91
+Considerando que os engenheiros Maria Ilona Gehl da Fonseca Bastos Baptista e João Carlos Bastos Baptista cessaram, em 3 de Dezembro de 1990, as comissões de serviço em que se encontravam investidos, respectivamente como chefe de divisão e director de serviços da Direcção-Geral da Indústria;
+Considerando que os referidos funcionários preenchem os requisitos que, ao abrigo da alínea a) do n.º 2 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, lhes conferem o direito ao provimento em categoria superior àquela que possuíam à data da nomeação para dirigentes no quadro do organismo de origem:
+1 - São criados dois lugares de assessor principal da carreira de engenharia no quadro da Direcção-Geral da Indústria, constante do mapa VII anexo à Portaria n.º 704/87, de 18 de Agosto, a extinguir quando vagarem, nos termos dos n.os 4 e 5 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro.
+2 - Os efeitos do presente despacho reportam-se a 3 de Dezembro de 1990.
+Ministérios das Finanças e da Indústria e Energia, 13 de Fevereiro de 1991. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
