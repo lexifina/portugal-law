@@ -1,0 +1,8 @@
+Declaração de Rectificação n.º 5/2002
+Para os devidos efeitos se declara que a Lei n.º 5/2002, de 11 de Janeiro (estabelece medidas de combate à criminalidade organizada e económico-financeira e procede à segunda alteração à Lei n.º 36/94, de 29 de Setembro, alterada pela Lei n.º 90/99, de 10 de Julho, e quarta alteração ao Decreto-Lei n.º 325/95, de 2 de Dezembro, alterado pela Lei n.º 65/98, de 2 de Setembro, pelo Decreto-Lei n.º 275-A/2000, de 9 de Novembro, e pela Lei n.º 104/2001, de 25 de Agosto), publicada no Diário da República, 1.ª série-A, n.º 9, de 11 de Janeiro de 2002, saiu com as seguintes incorrecções, que assim se rectificam:
+No n.º 1 do artigo 1.º, onde se lê «e perda de bens a favor do Estado relativa aos crimes de:» deve ler-se «e perda de bens a favor do Estado, relativa aos crimes de:».
+Na alínea b) do n.º 5 do artigo 2.º, onde se lê «movimentos de que o arguido ou pessoa colectiva» deve ler-se «movimentos de que o arguido ou a pessoa colectiva».
+No n.º 4 do artigo 4.º, onde se lê «quando tal seja necessário para previr» deve ler-se «quando tal seja necessário para prevenir».
+No n.º 1 do artigo 7.º, onde se lê «presume-se constituir vantagem da actividade criminosa» deve ler-se «presume-se constituir vantagem de actividade criminosa».
+No n.º 1 do artigo 13.º, onde se lê «membro dos órgãos sociais das instituições de crédito e sociedades financeiras, o seu empregado» deve ler-se «membro dos órgãos sociais das instituições de crédito e sociedades financeiras, seu empregado».
+Assembleia da República, 29 de Janeiro de 2002. - A Secretária-Geral, Adelina Sá Carvalho.
