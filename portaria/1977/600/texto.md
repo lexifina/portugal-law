@@ -1,0 +1,6 @@
+Portaria n.º 600/77
+de 21 de Setembro
+Considerando que no quadro do pessoal técnico, administrativo e auxiliar da Editorial do Ministério da Educação e Investigação Científica, constante do mapa anexo ao Decreto-Lei n.º 648/76, de 31 de Julho, não foi previsto o número de lugares de primeiro-oficial necessário à integração de funcionários de igual categoria já com direitos adquiridos com base em diplomas legais anteriores:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Educação e Investigação Científica e pelo Secretário de Estado da Administração Pública, ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro, e n.º 2 do artigo 19.º do Decreto-Lei n.º 648/76, de 31 de Julho, o seguinte:
+É aumentado de um lugar de primeiro-oficial o quadro do pessoal da Editorial do Ministério da Educação e Investigação Científica, constante do mapa anexo ao Decreto-Lei n.º 648/76, de 31 de Julho.
+Presidência do Conselho de Ministros e Ministérios das Finanças e da Educação e Investigação Científica, 13 de Setembro de 1977. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.
