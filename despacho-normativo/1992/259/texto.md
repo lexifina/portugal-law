@@ -1,0 +1,9 @@
+Despacho Normativo n.º 259/92
+O Sistema de Incentivos à Modernização do Comércio (SIMC), criado com o objectivo de dinamizar iniciativas empresariais no sector comercial, tem vindo a encontrar um acolhimento muito significativo.
+Reanalisado o nível de execução do sistema e considerada a necessidade de criar fundamento bastante para outros apoios ao sector, manifesta-se como oportuno proceder a um novo ajustamento na pontuação que conduz à elegibilidade das candidaturas, facto para o qual os promotores têm vindo a ser sensibilizados pelas instituições de crédito que intervêm no Sistema.
+Este ajustamento assume um carácter de transição para um novo regime que será criado na sequência de uma avaliação completa da execução do actual sistema de incentivos e do seu impacte na modernização do comércio.
+Assim, para efeitos do n.º 2 do artigo 8.º do Decreto-Lei n.º 75-A/91 e do n.º 9.º do Regulamento de Aplicação do Sistema, anexo à Portaria n.º 133-A/91, ambos de 15 de Fevereiro, determina-se o seguinte:
+1 - O n.º 3 do Despacho Normativo n.º 50/92, de 5 de Março, publicado no Diário da República, n.º 87, de 13 de Abril de 1992, passa a ter a seguinte redacção:
+3 - As candidaturas são reconhecidas como elegíveis quando o indicador de relevância global, definido naquele anexo, alcançar um valor igual ou superior a 65 pontos.
+2 - O presente despacho entra em vigor a partir da data da sua publicação, sendo aplicável aos processos de candidatura com entrada desde 2 de Dezembro de 1992 nas instituições de crédito que intervêm no sistema.
+Ministérios do Planeamento e da Administração do Território e do Comércio e Turismo, 30 de Novembro de 1992. - Pelo Ministro do Planeamento e da Administração do Território, Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota, Secretária de Estado do Planeamento e do Desenvolvimento Regional. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.
