@@ -1,0 +1,118 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "tipo": "Projeto de Revisão Constitucional",
+  "numero": "2",
+  "id": "18608",
+  "fases": 15,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2001-04-05",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2001-09-14",
+    "DataInicioleg": "2000-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "1262",
+        "nome": "Francisco de Assis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1373",
+        "nome": "Osvaldo de Castro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1671",
+        "nome": "Maria de Belém Roseira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1212",
+        "nome": "Ana Catarina Mendonça"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1349",
+        "nome": "António Reis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "235",
+        "nome": "Manuel Alegre"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "179",
+        "nome": "Jorge Lacão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "181",
+        "nome": "José Lamego"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1180",
+        "nome": "Dias Baptista"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "185",
+        "nome": "José Vera Jardim"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "198",
+        "nome": "Manuel dos Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1674",
+        "nome": "José Barros Moura"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "180",
+        "nome": "Jorge Coelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "614",
+        "nome": "Celeste Correia"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Revisão Constitucional",
+    "IniEpigrafe": null,
+    "IniId": "18608",
+    "IniLeg": "VIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a526b596d4a684d6a41774c54566b5a474d744e475979597930354d4451344c574e6b4d4442694f44493059574d315953356b62324d3d&fich=4dbba200-5ddc-4f2c-9048-cd00b824ac5a.doc&Inline=true",
+    "IniNr": "2",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "C",
+    "IniTitulo": "Revisão Constitucional",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
