@@ -1,0 +1,3 @@
+Portaria n.º 17534
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, tendo-se ouvido a Direcção-Geral das Alfândegas e o Comando-Geral da Guarda Fiscal, que seja criado um posto fiscal junto da barragem do Salto de Aldeadávila, localizado na margem direita do rio Douro, o qual se denominará «Posto do Casal do Vaso» e ficará fazendo parte da secção do Mogadouro da 5.ª companhia do batalhão n.º 3 da Guarda Fiscal, e que seja alterado, nesta conformidade, o mapa II, sob a rubrica «Alfândega do Porto», anexo à Reforma Aduaneira, publicada pelo Decreto-Lei n.º 31665, de 22 de Novembro de 1941.
+Ministério das Finanças, 15 de Janeiro de 1960. - Pelo Ministro das Finanças, José Júlio Pizarro Beleza, Subsecretário de Estado do Orçamento.
