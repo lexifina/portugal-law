@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, conforme comunicação da Embaixada da Polónia em Londres, o Governo da República do Mali depositou, em 30 de Dezembro findo, junto do Governo Polaco, o instrumento de ratificação do Protocolo da Haia, assinado em 28 de Setembro de 1955, modificando a Convenção sobre a unificação de certas normas relativas ao transporte aéreo internacional, assinada em Varsóvia em 12 de Outubro de 1929.
+Na mesma comunicação informa-se que o Governo da Samoa Ocidental, por nota de 16 de Outubro de 1963, declarou que se considera vinculado pelas disposições da citada Convenção e protocolo adicional de 1929, cuja aplicação foi tornada extensiva ao seu território antes de atingida a independência.
+Direcção-Geral dos Negócios Económicos e Consulares, 16 de Junho de 1964. - O Director dos Serviços dos Organismos Económicos Internacionais, Carlos Augusto Fernandes.
