@@ -1,0 +1,303 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "42",
+    "id": "3985",
+    "titulo": "Decreto-lei n° 209/92, de 2 de Outubro, que altera o Decreto-lei n°519-C1/79, de 29 de Dezembro (estabelece o Regime Jurídico das relações colectivas de trabalho)"
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "1993-02-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8168",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "1993-02-16",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1993-02-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "73",
+                "nome": "Fernandes Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35429",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1426-1426"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-02-17",
+                "pubLeg": "VI",
+                "pubNr": "39",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/039/1993-02-17/1426?pgs=1426&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DAS RELACOES COLECTIVAS DE TRABALHO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "165",
+                "nome": "Elisa Damião"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35430",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1425-1426"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-02-17",
+                "pubLeg": "VI",
+                "pubNr": "39",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/039/1993-02-17/1425?pgs=1425-1426&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DAS RELACOES COLECTIVAS DE TRABALHO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35431",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1424-1424"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-02-17",
+                "pubLeg": "VI",
+                "pubNr": "39",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/039/1993-02-17/1424?pgs=1424&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DAS RELACOES COLECTIVAS DE TRABALHO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35433",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1422-1423"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-02-17",
+                "pubLeg": "VI",
+                "pubNr": "39",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/039/1993-02-17/1422?pgs=1422-1423&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DAS RELACOES COLECTIVAS DE TRABALHO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO DO EMPREGO E DA SEG. SOCIAL",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Almeida Seabra"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "108298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1423-1425"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-02-17",
+                "pubLeg": "VI",
+                "pubNr": "39",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/039/1993-02-17/1423?pgs=1423-1425&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DAS RELACOES COLECTIVAS DE TRABALHO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "276979",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8168",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-02-17",
+        "pubLeg": "VI",
+        "pubNr": "39",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/039/1993-02-17?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
