@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se faz público que, a 2 de Setembro de 1986, os Governos da Ilha Maurícia e da República do Ruanda depositaram, junto do Governo dos Estados Unidos da América, os instrumentos de adesão ao Acordo Relativo à Organização Internacional de Telecomunicações por Satélite (INTELSAT), concluído em Washington a 20 de Agosto de 1971.
+Na mesma data foi assinado pela Overseas Telecomunications Service Company, Ltd., da ilha Maurícia, e pelo Ministério dos Transportes e Comunicações da República do Ruanda o acordo de exploração da referida Organização.
+O Acordo Relativo à INTELSAT entrou em vigor, em relação aos Governos da Ilha Maurícia e da República do Ruanda, a 2 de Setembro de 1986, e o acordo de exploração entrou em vigor, em relação à Overseas Telecomunications Service Company, Ltd., da ilha Maurícia, e ao Ministério dos Transportes e Comunicações da República do Ruanda, na mesma data.
+Direcção-Geral dos Negócios Político-Económicos, 26 de Janeiro de 1987. - O Director de Serviços dos Assuntos Multilaterais, Marcello de Zaffiri Duarte Mathias.
