@@ -1,0 +1,19 @@
+Despacho Normativo n.º 2/2004
+O Despacho Normativo n.º 17/2001, publicado no Diário da República, 1.ª série, de 6 de Abril de 2001, com a última redacção que lhe foi dada pelo Despacho Normativo n.º 3/2003, publicado no Diário da República, 1.ª série-B, de 28 de Janeiro de 2003, fixou os actuais procedimentos nacionais de aplicação da Organização Comum do Tabaco, instituída pelo Regulamento (CEE) n.º 2075/92, do Conselho, de 30 de Junho, com as alterações introduzidas pelo Regulamento (CE) n.º 546/2002, do Conselho, de 25 de Março.
+Torna-se, entretanto, necessário estabelecer de novo algumas regras, seja porque existem disposições no citado Despacho Normativo n.º 17/2001 que têm a sua aplicação temporalmente limitada à colheita desse ano, caso das regras de constituição da reserva nacional contidas no seu n.º 7.º, seja porque a evolução do sector aconselha algumas alterações, casos das condições de reconhecimento de agrupamentos de produtores de tabaco da variedade Virgínia e dos critérios de distribuição de quotas da reserva nacional de tabaco da variedade Burley, contidas respectivamente nos n.os 2.º e 8.º do referido despacho normativo.
+Assim, ao abrigo do disposto nos artigos 3.º, 27.º, 28.º e 29.º do Regulamento (CE) n.º 2848/98, da Comissão, de 22 de Dezembro, determino o seguinte:
+1 - Para a colheita de 2004 mantém-se o disposto no n.º 7.º do Despacho Normativo n.º 17/2001, publicado no Diário da República, 1.ª série-B, de 6 de Abril de 2001, com a redacção que lhe foi dada pelo Despacho Normativo n.º 3/2003, publicado no Diário da República, 1.ª série-B, de 28 de Janeiro de 2003.
+2 - São alterados o n.º 2 do n.º 2.º e o n.º 2 do n.º 8.º do referido despacho normativo, que passam a ter a seguinte redacção:
+«2.º - 1 - ...
+2 - O número mínimo de produtores individuais para a constituição de um agrupamento de produtores de tabaco é de 80 para o grupo I (variedade Virgínia) e de 40 para o grupo II (variedade Burley).
+3 - ...
+...
+8.º - 1 - ...
+2 - As quotas que constituem a reserva nacional de tabaco da variedade Burley serão distribuídas segundo os seguintes critérios:
+a) 1.ª prioridade - os produtores que iniciaram a cultura do tabaco na campanha de 2003 e que pretendam aumentar a sua quota;
+b) 2.ª prioridade - todos os produtores que pretendam iniciar a cultura do tabaco;
+c) 3.ª prioridade - todos os outros produtores que já se encontram no sector do tabaco em rama e que pretendam aumentar a sua quota de produção.
+3 - ...
+4 - ...
+5 - ...»
+Ministério da Agricultura, Desenvolvimento Rural e Pescas, 10 de Dezembro de 2003. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.
