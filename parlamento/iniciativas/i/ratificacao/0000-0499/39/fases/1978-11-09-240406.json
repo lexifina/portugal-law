@@ -1,0 +1,120 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=0%2fmnAEPdw%2bZ%2fvnXoecx2JQgGmGyJ%2b1AHu2mrzNS8ADAE18uCrc9Styx5d%2fX4IPGRcIcBKHPoySAeeVEJTG%2fnXeyO38ve46GpqLc0X3T%2bbPkcpeyEUoY%2blGLBlRWpTBx0UKWpHL%2b0cQ3AeGM5xR9S3GS29tBWW0QJzrNi%2fGO%2fKW1iOFIemaNauO5hwfRc17lE2F5iEtOcOG0Yq9A3ovXI4mo3WLcbepRRJNyYDPZR66gnSeUHQcoaTAQgjfGEJ08UqPzICqi2gLkxT9d5L4XljdxcmBX73F4%2fTpvPHkZhHVHbKFkt8d5BmDH2Tatkzy4NCcLWt0LW2TTG7%2f0lHIS6lQGnfRoQfH9YJAX%2bB7yLJsLyqhRKBQy%2bB1O%2bmEOrB58p&fich=IniciativasIA_json.txt&Inline=true",
+  "ficheiro_sha256": "39a9f34ccb817f089e97a6d8deacb124b71a67b0f61b5914b722e78111f34ce7",
+  "legislatura": "I",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "39",
+    "id": "32374",
+    "titulo": "Ratificação do Decreto-Lei nº 269/78, de 1 de Setembro (estabelece a Lei Orgânica dos Tribunais Judiciais)."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "1978-11-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "17347",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "1978-11-09",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "1978-11-09",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": null,
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "919",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "COMISSÃO DE DIREITOS, LIBERDADES E GARANTIAS",
+        "Numero": "919",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "36-38"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "1979-07-28",
+            "pubLeg": "I",
+            "pubNr": "93",
+            "pubSL": "3",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/01/03/093S1/1979-07-28/36?pgs=36-38&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "36-38"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "1979-07-28",
+            "pubLeg": "I",
+            "pubNr": "93",
+            "pubSL": "3",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/01/03/093S1/1979-07-28/36?pgs=36-38&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "1978-11-09",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "240406",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
