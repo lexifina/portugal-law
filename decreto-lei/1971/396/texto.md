@@ -1,0 +1,19 @@
+Decreto-Lei n.º 396/71
+de 22 de Setembro
+Havendo conveniência em simplificar o regime estabelecido nos artigos 14.º e 18.º da Lei n.º 2015, de 28 de Maio de 1946, harmonizando-o com o que, relativamente ao recenseamento dos chefes de família, se encontra fixado nos artigos 214.º e 217.º do Código Administrativo, na redacção que a estes dois preceitos foi dada pelo Decreto-Lei n.º 48/71, de 22 de Fevereiro;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. Para efeitos de elaboração do recenseamento dos eleitores da Assembleia Nacional, serão remetidos às respectivas comissões recenseadoras, até ao último dia de Fevereiro:
+a) Pelas repartições e serviços civis, militares ou militarizados do Estado, para o efeito designados pelos titulares dos respectivos departamentos ministeriais, e, bem assim, pelos serviços das autarquias locais, e dos organismos corporativos e de coordenação económica, verbetes individuais do pessoal a incluir no recenseamento, bem como daquele que deverá deixar de o ser, ou cujos elementos de identificação tenham sofrido alteração;
+b) Pelos conservadores do registo civil, relações dos cidadãos nas condições de serem eleitores, falecidos no ano anterior;
+c) Pelos directores de asilos de beneficência e estabelecimentos de hospitalização de alienados, relações dos assistidos, maiores ou emancipados;
+d) Pelos juízes de direito e auditores dos tribunais especiais, por intermédio dos chefes das respectivas secretarias, relações dos indivíduos que durante o ano anterior tiverem incorrido em qualquer das incapacidades referidas nos n.os 1.º a 4.º do artigo 2.º da Lei n.º 2015, de 28 de Maio de 1946, desde que, de harmonia com as mesmas disposições, não hajam recuperado o direito de voto.
+2. Os verbetes relativos a recrutas e a praças que estiverem a prestar serviço militar obrigatório ou a quaisquer militares destacados da metrópole para prestar serviço nas províncias ultramarinas serão enviados à comissão recenseadora do concelho ou bairro onde tinham residência efectiva antes de serem alistados ou destacados, respectivamente.
+3. Os verbetes e as relações a que este artigo se refere serão dactilografados e individualizarão as pessoas pelo nome, data do nascimento, estado, profissão e morada, devendo ser acompanhados de ofício de remessa em que, quanto aos primeiros, expressamente se mencione o número de verbetes.
+4. O Ministro do Interior poderá estabelecer, por portaria, os modelos dos verbetes e das relações de que trata o presente artigo, bem como o seu uso obrigatório, e determinar que constituam exclusivo da Imprensa Nacional.
+Art. 2.º - 1. Até 1 de Maio, por edital publicado em dois jornais locais, se os houver, e afixado nos lugares do estilo, os chefes de secretaria das câmaras municipais e, em Lisboa e no Porto, os administradores dos bairros anunciarão que na secretaria da câmara ou na da administração de bairro, por espaço de dez dias, poderão ser obtidas informações relativas ao recenseamento dos eleitores da Assembleia Nacional.
+2. Para efeito do número anterior, considera-se recenseamento o ficheiro dos eleitores que há-de servir de base à organização do livro a que se refere o artigo 22.º da citada Lei n.º 2015.
+3. Durante o prazo de reclamação, pode qualquer eleitor requerer, em papel comum, que lhe seja passada certidão comprovativa da inscrição dele próprio, ou de outros, no recenseamento. A certidão, cuja passagem é obrigatória no prazo de quarenta e oito horas, será gratuita e devidamente assinada e autenticada, dela devendo ficar duplicado para arquivo do respectivo serviço. Cada certidão não poderá respeitar a mais de dez nomes.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
+Promulgado em 13 de Setembro de 1971.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
