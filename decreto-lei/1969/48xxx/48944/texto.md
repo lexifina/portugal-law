@@ -1,0 +1,15 @@
+Decreto-Lei n.º 48944
+Considerando ser da maior conveniência, dentro do espírito da comunidade cultural portuguesa, proporcionar aos portugueses e luso-descendentes residentes no estrangeiro meios de manterem e intensificarem os seus laços espirituais com a Pátria Portuguesa;
+Considerando ser de toda a vantagem facilitar e generalizar as iniciativas que dentro desse espírito têm vindo a ser tomadas no campo do ensino primário;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. A criação de escolas do ensino primário oficial no estrangeiro far-se-á mediante portaria conjunta dos Ministros dos Negócios Estrangeiros e da Educação Nacional, sob proposta do Instituto de Alta Cultura e da Direcção-Geral do Ensino Primário, consultada a Direcção-Geral dos Negócios Políticos, do Ministério dos Negócios Estrangeiros.
+2. A escolha de professores para as escolas criadas nos termos do n.º 1 deve recair em diplomados para o magistério primário oficial e a nomeação será feita nas condições a estabelecer em despacho ministerial.
+Art. 2.º - 1. Nas escolas criadas nos termos do artigo 1.º seguir-se-ão, obrigatòriamente, quanto à língua portuguesa, à história e geografia de Portugal, os programas do ensino primário oficial e, quanto às outras matérias, ou esses programas ou os dos países em que as escolas funcionam.
+2. Salvo o disposto no número anterior, aquelas escolas regulam-se pela legislação do ensino primário oficial no que lhes for aplicável, cabendo à Direcção-Geral do Ensino Primário as funções nela atribuídas às direcções escolares.
+3. O arquivo destas escolas, no caso de serem extintas ou suspensas, passará à guarda do consulado de Portugal na respectiva área.
+Art. 3.º Os portugueses e luso-descendentes aos quais em nação estrangeira tenha sido ministrado, em regime de ensino particular, subsidiado ou não pelo Estado português, o ensino primário com os programas previstos no n.º 1 do artigo 2.º, poderão, sob proposta do Instituto de Alta Cultura, ser admitidos a exame, independentemente de matrícula, perante júri designado pelo Ministro da Educação Nacional, que funcionará segundo normas a aprovar para cada caso por despacho ministerial, sob proposta da Direcção-Geral do Ensino Primário.
+Art. 4.º O Ministro da Educação Nacional estabelecerá por despacho a forma como se deve processar a colaboração entre o Instituto de Alta Cultura e a Direcção-Geral do Ensino Primário para a execução do presente diploma legal.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Alberto Marciano Gorjão Franco Nogueira - José Hermano Saraiva.
+Promulgado em 19 de Março de 1969.
+Publique-se.
+Presidência da República, 28 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
