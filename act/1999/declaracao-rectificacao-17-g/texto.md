@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 17-G/99
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 106/99, publicada no Diário da República, 1.ª série, n.º 222, de 22 de Setembro de 1999, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Na redacção dada ao artigo 26.º da Resolução do Conselho de Ministros n.º 4/94, de 19 de Janeiro, na alínea e) do n.º 2, onde se lê «n.os 5 e 5.3,» deve ler-se «n.os 5 e 5.2,» e na redacção dada ao artigo 30.º da mesma resolução, na alínea c) do n.º 2, onde se lê «Estacionamento - lugar por fogo,» deve ler-se «Estacionamento - um lugar por fogo,».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Outubro de 1999. - O Secretário-Geral, Alexandre Figueiredo.
