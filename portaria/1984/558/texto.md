@@ -1,0 +1,14 @@
+Portaria n.º 558/84
+de 3 de Agosto
+O Decreto-Lei n.º 408/79, de 25 de Setembro, estabeleceu, no seu artigo 11.º, que a prova da realização do seguro obrigatório de responsabilidade automóvel é constituída pelo cartão de responsabilidade civil ou pelo certificado provisório.
+Nesta conformidade, as Portarias n.os 650/79, de 6 de Dezembro, e 656/79, de 7 de Dezembro, vieram regulamentar a emissão dos referidos meios de prova, determinando, de entre outros aspectos, os elementos que devem constar, respectivamente, do cartão de responsabilidade civil e do certificado provisório.
+No entanto, têm surgido algumas dúvidas no que concerne aos cartões e certificados referentes aos denominados «Seguro de automobilista», realizados ao abrigo do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 408/79, de 25 de Setembro, e que cobrem os sinistros ocorridos com qualquer veículo do tipo e cilindrada indicados na apólice, desde que o responsável pela condução seja o portador da carta de condução igualmente referida na apólice.
+Com efeito, dadas as características especiais deste contrato de seguro, não podem, obviamente, constar dos respectivos cartões ou certificados os elementos referentes ao veículo constantes das citadas Portarias n.os 650/79 e 656/79, pelo que é premente que tal situação seja devidamente regularizada.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna e das Finanças e do Plano, ao abrigo do artigo 11.º do Decreto-Lei n.º 408/79, de 25 de Setembro, aprovar o seguinte:
+1.º Os cartões de responsabilidade civil automóvel e os certificados provisórios de seguro, a emitir pelas seguradoras para os seus segurados do ramo «Automóvel e responsabilidade civil» titulares de contratos de seguro denominados «Seguro de automobilista», encontram-se submetidos ao disposto, respectivamente, na Portaria n.º 650/79, de 6 de Dezembro, com excepção do seu n.º 1.º, e na Portaria n.º 656/79, de 7 de Dezembro, com excepção da 2.ª parte do seu n.º 2.º
+2.º Do cartão de responsabilidade civil automóvel e do certificado provisório de seguro referentes a «Seguro de automobilista» deve constar, obrigatoriamente, o número do cartão ou do certificado, o nome do segurado, o número da respectiva carta de condução, o número da apólice, as categorias do veículo para os quais o seguro é eficaz, a data limite da validade, o máximo de garantia para a responsabilidade civil, e, quando for caso disso, a menção de se incluir a cobertura de passageiros transportados.
+3.º Este diploma entra em vigor no primeiro dia do segundo mês seguinte ao da sua publicação.
+Ministérios da Administração Interna e das Finanças e do Plano.
+Assinada em 10 de Abril de 1984.
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - Pelo Ministro das Finanças e do Plano, António d'Almeida, Secretário de Estado do Tesouro.
