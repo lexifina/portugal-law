@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o Representante Permanente de Portugal junto dos Organismos Internacionais em Genebra depositou junto do director-geral da Organização Internacional do Trabalho, em 26 de Maio de 1983, o instrumento de ratificação da Convenção n.º 78, relativa ao exame médico de aptidão de crianças e adolescentes para o emprego em trabalhos não industriais.
+Até aquela data, eram Partes na referida Convenção os seguintes países:
+Albânia, Argélia, Argentina, República Socialista Soviética de Bielorrússia, Bolívia, Bulgária, República Unida dos Camarões, Comores, Cuba, Jibuti, Equador, Espanha, França, Grécia, Guatemala, Haiti, Honduras, Hungria, Iraque, Israel, Itália, Líbano, Luxemburgo, Nicarágua, Panamá, Paraguai, Peru, Polónia, República Democrática Alemã, Checoslováquia, República Socialista Soviética da Ucrânia, União das Repúblicas Socialistas Soviéticas e Uruguai.
+Direcção-Geral dos Negócios Económicos, 29 de Dezembro de 1983. - O Adjunto do Director-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
