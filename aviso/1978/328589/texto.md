@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretário-Geral da Organização das Nações Unidas, o Governo do Sri Lanka depositou, em 31 de Julho de 1978, os instrumentos de adesão ao Protocolo Facultativo da Convenção de Viena sobre Relações Consulares Relativo à Aquisição da Nacionalidade, celebrado em Viena em 18 de Abril de 1961, e ao Protocolo Facultativo da Convenção de Viena sobre Relações Consulares Relativo à Resolução Obrigatória dos Diferendos, celebrado também em Viena e na mesma data.
+Direcção-Geral dos Serviços Centrais, 13 de Setembro de 1978. - O Director-Geral, Francisco Grainha do Vale.
