@@ -1,0 +1,3 @@
+Resolução n.º 115-B/81
+O Conselho de Ministros, reunido em 28 de Maio de 1981, resolveu, por proposta do Ministro da Defesa Nacional, nomear, com efeitos a partir de 1 de Junho de 1981, ao abrigo do artigo 12.º do Estatuto de Indústrias Nacionais de Defesa, E. P. (INDEP), aprovado pelo Decreto-Lei n.º 515/80, de 31 de Outubro, para o conselho de gerência da referida empresa pública o coronel engenheiro Fernando Soares da Costa, como director-geral do estabelecimento fabril da empresa situado em Moscavide, e o coronel engenheiro Manuel Pereira dos Santos, como director-geral do estabelecimento fabril da empresa situado em Braço de Prata.
+Presidência do Conselho de Ministros, 28 de Maio de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
