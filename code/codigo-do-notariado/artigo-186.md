@@ -4,7 +4,7 @@
 
 1 - Os notários devem enviar até ao dia 15 de cada mês:
 
-a) À direcção de finanças da área do cartório, em suporte informático ou por cópia, uma relação dos registos de escrituras diversas e dos instrumentos lavrados nos termos do n.º 3 do artigo 116.º, celebrados no mês anterior, documentos estes que substituem, para todos os efeitos, as relações e participações dos actos exarados que, por lei, devam ser enviadas a repartições dependentes da Direcção-Geral das Contribuições e Impostos;
+a) À Direcção-Geral dos Impostos, em suporte informático, uma relação dos registos de escrituras diversas, uma relação das procurações que confiram poderes de alienação de bens imóveis em que por renúncia ao direito de revogação ou cláusula de natureza semelhante o representado deixe de poder revogar a procuração, bem como dos respectivos substabelecimentos, referentes ao mês anterior, documentos estes que substituem, para todos os efeitos, as relações e participações dos actos exarados que, por lei, devam ser enviados a repartições dependentes da Direcção-Geral dos Impostos;
 
 b) Às conservatórias competentes, relações de todos os instrumentos lavrados no mês anterior, para prova dos factos sujeitos a registo comercial obrigatório;
 
