@@ -1,0 +1,4 @@
+Portaria n.º 18526
+Nos termos do disposto no artigo 1.º e seu § 2.º do Decreto-Lei n.º 31913, de 12 de Março de 1942, e nos artigos 24.º, n.º 19.º, na redacção dada pelo Decreto-Lei n.º 41723, de 8 de Julho de 1958, e 170.º do Decreto-Lei n.º 35108, de 7 de Novembro de 1945:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, incluir no quadro do pessoal de direcção e chefia do Asilo de Velhos de Marvila, aprovado pela Portaria n.º 12243, de 13 de Janeiro de 1948, o lugar de chefe dos serviços económicos, com o vencimento da letra N do artigo 12.º do Decreto-Lei n.º 26115, de 23 de Novembro de 1935.
+Ministérios das Finanças e da Saúde e Assistência, 15 de Junho de 1961. - Pelo Ministro das Finanças, Francisco João da Costa Farelo, Subsecretário de Estado do Tesouro. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.
