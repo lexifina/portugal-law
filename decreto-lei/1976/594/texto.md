@@ -1,0 +1,17 @@
+Decreto-Lei n.º 594/76
+de 23 de Julho
+O n.º 5 do artigo 53.º do Código Penal constitui uma excepção ao princípio da territorialidade da lei penal e daí a impossibilidade da sua integração por analogia.
+Por outro lado, são frequentes os casos de pessoas presentemente a viver em território português e que foram arguidas de infracções criminais praticadas no território das ex-colónias portuguesas antes de estas se terem tornado independentes.
+Torna-se, por isso, necessário prever esta nova situação.
+Nestes termos:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O n.º 5 do artigo 53.º do Código Penal passa a ter a seguinte redacção:
+5 - A qualquer outro crime ou delito cometido por português em país estrangeiro ou em território das ex-colónias portuguesas antes de estas terem assumido a independência, verificando-se os seguintes requisitos:
+a) Sendo o criminoso ou delinquente encontrado em Portugal;
+b) Sendo o facto qualificado de crime ou delito também pela legislação do país ou do território, então sob administração colonial, onde foi praticado;
+c) Não tendo o criminoso ou delinquente sido julgado no país ou no território em que cometeu o crime.
+Art. 2.º As autoridades policiais e judiciárias poderão solicitar aos governos dos países anteriormente sob administração colonial portuguesa todos os elementos que considerarem úteis para a investigação, instrução e julgamento dos respectivos processos penais.
+Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - João de Deus Pinheiro Farinha - Ernesto Augusto de Melo Antunes.
+Promulgado em 10 de Julho de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
