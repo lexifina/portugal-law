@@ -6,4 +6,6 @@
 
 2 - Caso tal entidade não tenha órgão de fiscalização, deve mandar fiscalizar as contas consolidadas, nos termos do número anterior, por um revisor oficial de contas.
 
-3 - A pessoa ou pessoas encarregadas da fiscalização das contas consolidadas devem igualmente verificar a concordância do relatório consolidado de gestão com as contas consolidadas do exercício.
+3 - A pessoa ou pessoas responsáveis pela certificação legal das contas consolidadas devem também emitir, na respectiva certificação legal das contas, parecer acerca da concordância, ou não, do relatório consolidado de gestão com as contas consolidadas do mesmo exercício.
+
+4 - Quando forem anexadas às contas consolidadas as contas individuais da empresa-mãe, a certificação legal das contas consolidadas poderá ser conjugada com a certificação legal das contas individuais da empresa-mãe.

@@ -2,9 +2,15 @@
 
 ### Relatório de gestão
 
-1 - O relatório de gestão deve conter, pelo menos, uma exposição fiel e clara sobre a evolução dos negócios e a situação da sociedade.
+1 - O relatório da gestão deve conter, pelo menos, uma exposição fiel e clara da evolução dos negócios, do desempenho e da posição da sociedade, bem como uma descrição dos principais riscos e incertezas com que a mesma se defronta.
 
-2 - O relatório deve indicar, em especial:
+2 - A exposição prevista no número anterior deve consistir numa análise equilibrada e global da evolução dos negócios, dos resultados e da posição da sociedade, em conformidade com a dimensão e complexidade da sua actividade.
+
+3 - Na medida do necessário à compreensão da evolução dos negócios, do desempenho ou da posição da sociedade, a análise prevista no número anterior deve abranger tanto os aspectos financeiros como, quando adequado, referências de desempenho não financeiras relevantes para as actividades específicas da sociedade, incluindo informações sobre questões ambientais e questões relativas aos trabalhadores.
+
+4 - Na apresentação da análise prevista no n.º 2 o relatório da gestão deve, quando adequado, incluir uma referência aos montantes inscritos nas contas do exercício e explicações adicionais relativas a esses montantes.
+
+5 - O relatório deve indicar, em especial:
 
 a) A evolução da gestão nos diferentes sectores em que a sociedade exerceu actividade, designadamente no que respeita a condições do mercado, investimentos, custos, proveitos e actividades de investigação e desenvolvimento;
 
