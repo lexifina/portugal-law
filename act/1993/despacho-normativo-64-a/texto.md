@@ -1,0 +1,11 @@
+Despacho Normativo n.º 64-A/93
+Em resultado das negociações entre Portugal e a Comunidade, foi instituída uma ajuda para os produtores de leite de vaca, como compensação pela eliminação dos obstáculos ao comércio, no seguimento da realização do mercado único.
+No entanto, o Regulamento (CEE) n.º 739/93, do Conselho, que institui esta ajuda, prevê, no seu artigo 3.º, que as modalidades de execução serão adoptadas no Comité de Gestão do Leite e Produtos Lácteos, de acordo com o processo previsto no artigo 30.º do Regulamento (CEE) n.º 804/68, de 28 de Junho.
+Nestas condições, e a fim de evitar eventuais atrasos nos pagamentos decorrentes da implementação do sistema, convém estabelecer, transitoriamente, a metodologia de pagamento da ajuda relativamente aos meses de Abril e Maio.
+Assim, ao abrigo do disposto no Regulamento (CEE) n.º 739/93, de 17 de Março, bem como do Decreto-Lei n.º 282/88, de 12 de Agosto, determina-se o seguinte:
+1 - Compete ao Instituto Nacional de Intervenção e Garantia Agrícola (INGA) proceder ao pagamento da ajuda instituída pelo Regulamento (CEE) n.º 739/93, de 17 de Março.
+2 - A fim de evitar eventuais atrasos decorrentes da aprovação das normas de execução previstas no citado regulamento e demais procedimentos inerentes à implementação do sistema, o INGA adiantará aos compradores inscritos as verbas necessárias ao pagamento da ajuda aos produtores, relativa aos meses de Abril e Maio de 1993.
+3 - O pagamento de ajuda pelos compradores aos produtores, relativa aos meses de Abril e Maio do corrente ano, será efectuado com base nas entregas reais de leite verificadas naqueles meses, das quais informarão oportunamente o INGA.
+4 - Para efeitos do disposto no número anterior, os compradores discriminarão obrigatoriamente, no recibo de pagamento, as importâncias relativas ao valor do leite fornecido e da ajuda.
+5 - O pagamento da ajuda referente aos meses seguintes efectuar-se-á de acordo com as normas de execução que vierem a ser aprovadas, conforme previsto no artigo 3.º do Regulamento (CEE) n.º 739/93, de 17 de Março.
+Ministério da Agricultura, 30 de Abril de 1993. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
