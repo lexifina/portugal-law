@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=qUAFp27CBkIttcOxiLgk0FIFM%2benj3agWAdWp9f2uUE7DM89Hf79g0s6kJ1OpP%2b%2bV8tF1iVoXzUjf9MdNSMm4nwgUSw8wSK%2f8IWQGg3htMY3c5Ya6BFuH2nCggW0h1GujT%2bIUdPmA8SvTT3HpzcWjwY1Ytx02d%2b7d2kHzuJsMkIxOLhUMfluBDICsI431jugsRtyLdTkTs3iZNjh0bZeiTsuFJxPyR5N7XOGoIkmGpdUelnuD9Uv%2bK5tX%2fCtB3SYc9FZA1mlNR599B92fTx%2bndvsVfZla0grGGcMC1Ygbf5wdyt%2fcERRcbU8v%2fdkvPhkc3PKeJXfSzhOHsiR3Kxg%2fadV%2fCqpiI%2bSBylGrc6dYzg%3d&fich=IntervencoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "63246bfd185a5eb6b3d6f557ea72ee60968af9ce7c1a76c63b16943a173ed13f",
+  "legislatura": "VII",
+  "id": "56348",
+  "tipo": "Intervenção",
+  "orador": "António Filipe (PCP)",
+  "data_registo": "1999-02-11",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "5730",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "5730",
+        "tipo": "VOT",
+        "titulo": "De Pesar - Pesar pelo falecimento da pintora Maluda."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1999-02-11",
+    "Debate": "VOTO 146-PAR, PS, PSD, CDS-PP, PCP E PEV",
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "209",
+      "nome": "António Filipe"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "56348",
+    "IdDebate": "5730",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "56348",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1756-1756"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-02-12",
+        "pubLeg": "VII",
+        "pubNr": "47",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/047/1999-02-12/1756?pgs=1756&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "MALUDA ",
+    "Sessao": "4",
+    "Sumario": "VOTO PESAR: FALECIMENTO DA PINTORA MALUDA",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
