@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1915/09/19200/10271028.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1915-09-22",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "3b847ebd14b30580f792431571f235e692fc685c5e310c602767e493215e5199",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.1,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "fd59a7711fa1c2dbc7fd5b58e51b46f31700ccade016418b2d9029af12e58488",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 322
 }
