@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação da 6.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério dos Negócios Estrangeiros, a declaração de transferência de verbas publicada no Diário da República, 1.ª série, n.º 79, de 4 de Abril de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No cap. 02, div. 05, onde se lê «C. E. 02.01.05 - Outros bens doradouros» deve ler-se «C. E. 02.01.05 - Outros bens duradouros», onde se lê «C. E. 02.03.07, alínea A - Missões ao estrangeiros e transportes no País» deve ler-se «C. E. 02.03.07, alínea A - Missões ao estrangeiro e transportes no País» e onde se lê «C. E. 07.01.08 - Maquinaria e equipamento - 44450» deve ler-se «C. E. 07.01.08 - Maquinaria e equipamento - 4450».
+No cap. 02, div. 08, onde se lê «C. E. 02.02.07 - Material de de transporte - Peças» deve ler-se «C. E. 02.02.07 - Material de transporte - Peças».
+No cap. 02, div. 13, onde se lê «Delegação Portuguesa junto da Organização de Cooperação e Desenvolvimento Económicos (OCDE)» deve ler-se «Delegação Portuguesa junto da Organização da Cooperação e Desenvolvimento Europeu (OCDE)».
+Secretaria-Geral da Presidência do Conselho de Ministros, 21 de Maio de 1990. - O Secretário-Geral, França Martins.
