@@ -1,0 +1,3 @@
+Portaria n.º 18214
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial de 400$00 destinado a reforçar a verba do artigo 12.º «Diversos encargos - Abono de família» do orçamento privativo do Instituto de Medicina Tropical para 1960, tomando como contrapartida as disponibilidades existentes na verba do artigo 2.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», do referido orçamento.
+Ministério do Ultramar, 17 de Janeiro de 1961. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
