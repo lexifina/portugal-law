@@ -1,0 +1,103 @@
+Decreto-Lei n.º 525/75
+de 25 de Setembro
+Considerando que a actual dimensão da Força Aérea, aliada à dificuldade de recrutamento de pessoal técnico hospitalar bem diferenciado, não aconselham a existência de dois núcleos hospitalares distintos;
+Considerando também haver interesse económico em concentrar o material sanitário e de equipamento hospitalar destinado a apetrechar os núcleos hospitalares;
+Considerando, ainda, que a aplicação dos conceitos atrás expressos determina a desactualização de algumas disposições contidas no Decreto-Lei n.º 296/72, de 14 de Agosto;
+Usando da faculdade conferida pelo artigo 6.º, n.º 1, da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O segundo parágrafo do preâmbulo e os artigos 2.º, 3.º e 4.º do Decreto-Lei n.º 296/72, de 14 de Agosto, passam a ter a seguinte redacção:
+...
+Sendo ainda a todos os títulos aconselhável oficializar a constituição, como órgão de execução próprio do Serviço de Saúde, e dar designação mais adequada ao Centro de Medicina e Psicotecnia, criado pelo Decreto-Lei n.º 42074, de 31 de Dezembro de 1958, e em exercício de funções a título provisório;
+...
+Art. 2.º - 1. ...
+2. A Direcção compreende:
+O director e inspector;
+O subdirector;
+A inspecção;
+A 1.ª Repartição - Medicina sanitária e profiláctica, medicina aeronáutica e medicina legal, pessoal;
+A 2.ª Repartição - Material e equipamento, estudos técnicos e infra-estruturas, evacuações sanitárias, contrôle de indisponíveis;
+A secretaria;
+O conselho administrativo;
+A biblioteca.
+3. Os órgãos de execução constituídos em unidades independentes, referidos no n.º 1, são:
+a) Núcleo Hospitalar Especializado da Força Aérea, localizado em Lisboa;
+b) Centro de Medicina Aeronáutica, localizado em Lisboa, para selecção e revisão médica e psicológica do pessoal navegante e aperfeiçoamento técnico do pessoal médico e de enfermagem.
+4. As atribuições e o funcionamento dos órgãos referidos no número anterior serão regulamentados em portarias do Chefe do Estado-Maior da Força Aérea.
+5. Os órgãos de execução integrados em unidades estranhas ao Serviço de Saúde referidos no n.º 1 são fixados em portarias do Chefe do Estado-Maior da Força Aérea.
+6. O Serviço de Saúde da Força Aérea pode recorrer aos órgãos de tratamento hospitalar do Exército e da Armada ou a organismos civis especializados sempre que necessário.
+Art. 3.º - 1. O director do Serviço de Saúde superintende:
+a) Nos elementos da própria direcção;
+b) Nos respectivos órgãos de execução referidos nos n.os 3 e 5 do artigo 2.º, dirigindo-os e presidindo à sua inspecção apenas do ponto de vista técnico.
+2. ...
+Art. 4.º ...
+a) Pela disciplina dos elementos da própria Direcção;
+b) ...
+c) ...
+Art. 2.º - 1. O n.º III) do mapa n.º 1 e o n.º 1) do mapa n.º 3 que constituem o anexo do Decreto-Lei n.º 296/72, de 14 de Agosto, passam a ter a seguinte redacção:
+MAPA N.º 1
+...
+III) Pessoal civil contratado:
+1) Pessoal técnico:
+a) De acção médica:
+Chefe de serviço (letra E) ... 4
+Especialistas (letra F) ... 6
+b) De enfermagem:
+Enfermeiro-chefe (letra L) ... 1
+Enfermeiros-subchefes (letra M) ... 3
+Enfermeiros de 1.ª classe (letra N) ... 15
+Enfermeiros de 2.ª classe (letra O) ... 8
+Enfermeiros de 3.ª classe (letra Q) ... 7
+c) De laboratório:
+Técnicos auxiliares de laboratório:
+Técnico auxiliar de laboratório de 1.ª classe (letra J) ... 2
+Preparador de 1.ª classe (letra N) ... 2
+Preparador de 2.ª classe (letra O) ... 2
+d) De radiologia:
+Primeiro-técnico de radiologia (letra N) ... 1
+Segundo-técnico de radiologia (letra O) ... 1
+Encarregado de câmara escura (letra R) ... 2
+e) De electrodiagnóstico:
+Primeiro-técnico de electrodiagnóstico (letra N) ... 2
+f) De reabilitação:
+Fisioterapeuta de 2.ª classe (letra K) ... 1
+g) De psicologia:
+Técnico superior de laboratório de 1.ª classe (letra F) ... 1
+h) Outro pessoal:
+Técnico de dietética (letra K) ... 1
+2) Pessoal administrativo:
+a) Arquivista de 2.ª classe (letra Q) ... 2
+b) Escriturários-dactilógrafos:
+De 1.ª classe (letra S) ... 7
+De 2.ª classe (letra U) ... 5
+3) Pessoal de refeitório e cozinha:
+a) Criados:
+De 1.ª classe (letra V) ... 4
+De 2.ª classe (letra X) ... 4
+b) Cozinheiros:
+De 1.ª classe (letra U) ... 2
+c) Ajudantes de cozinheiro:
+De 1.ª classe (letra X) ... 2
+De 2.ª classe (letra Y) ... 2
+MAPA N.º 3
+Pessoal civil assalariado:
+1) Pessoal de laboratório, oficial e de obras:
+Encarregados:
+Encarregado de 1.ª classe (letra O) ... 1
+Operários:
+...
+Barbeiros:
+De 1.ª classe (letra X) ... 2
+De 2.ª classe (letra X) ... 1
+Alfaiates:
+...
+Sapateiros:
+...
+Costureiros:
+De 1.ª classe (letra Y) ... 3
+Serventes:
+De 1.ª classe (letra Y) ... 3
+De 2.ª classe (letra Y) ... 35
+2. O preenchimento das vacaturas que ocorrem nos quadros em consequência das alterações referidas no número anterior será regulado pelo Chefe do Estado-Maior da Força Aérea, de harmonia com a concretização efectiva das necessidades.
+Visto e aprovado em Conselho da Revolução.
+Promulgado em 18 de Setembro de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
