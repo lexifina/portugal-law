@@ -1,0 +1,8 @@
+Decreto-Lei n.º 44409
+Considerando que as necessidades obrigaram à construção de unidades para a Armada fora do Arsenal do Alfeite;
+Atendendo a que a construção em estaleiros particulares dos navios de que tratam os Decretos-Leis n.os 42289 e 43398, respectivamente de 29 de Maio de 1959 e de 15 de Dezembro de 1960, e ainda de outros, determina serviços especiais de inspecção e fiscalização;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Com o acordo do Ministro das Finanças e nos quantitativos que forem fixados, poderá o Ministro da Marinha atribuir uma compensação eventual ao pessoal que tenha a seu cargo o desempenho de funções especiais de inspecção e fiscalização, técnica e administrativa, das construções em estaleiros particulares de navios e outras embarcações para a Armada.
+Art. 2.º A despesa com o abono da compensação de que trata o artigo 1.º constitui encargo das verbas orçamentais consignadas às construções.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 22 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
