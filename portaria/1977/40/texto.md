@@ -1,0 +1,4 @@
+Portaria n.º 40/77
+de 27 de Janeiro
+Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna, das Finanças, da Agricultura e Pescas e do Comércio e Turismo, que, nos termos do disposto no artigo 5.º do Decreto-Lei n.º 923/76, de 31 de Dezembro, seja tornado extensivo ao pessoal dos organismos de coordenação económica dependentes do Ministério da Agricultura e Pescas e do Ministério do Comércio e Turismo o regime previsto naquele diploma legal.
+Ministérios da Administração Interna, das Finanças, da Agricultura e Pescas e do Comércio e Turismo, 1 de Janeiro de 1977. - Pelo Ministro da Administração Interna, Mário José de Aguiar, Secretário de Estado da Administração Pública. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Agricultura e Pescas e do Comércio e Turismo, António Miguel Morais Barreto.
