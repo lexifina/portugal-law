@@ -1,0 +1,8 @@
+Declaração
+Segundo comunicação da 2.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério das Finanças, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 39, de 16 de Fevereiro de 1987, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No cap. 09, div. 01, C. E. 01.13, alínea B, onde se lê «Referência à autorização ministerial - (c)» deve ler-se «Referência à autorização ministerial - (b) e (c)».
+No cap. 10, div. 03, C. E. 11.00, alínea A, na coluna de reforços ou inscrições, onde se lê «55054» deve ler-se «75054», e na div. 04, onde se lê «C. E. 10.01 - A - Abono de família» deve ler-se «C. E. 10.01 - Abono de família» e onde se lê «C. E. 10.01 - Pensões de desastres no trabalho (Decreto-Lei n.º 70/80, de 29 de Maio)» deve ler-se «C. E. 10.01 - A - Pensões de desastres no trabalho (Decreto-Lei n.º 70/80, de 29 de Maio)».
+No cap. 23, div. 02, onde se lê «C. E. 01.20 - Remunerações de pessoal diverso» deve ler-se «C. E. 01.42 - Remunerações de pessoal diverso».
+No cap. 60, div. 01, onde se lê «C. E. 48.00 - Transferências - Exterior» deve ler-se «C. E. 43.00 - Transferências - Exterior»; onde se lê «C. E. 48.00 - 1 - Fundo de Financiamento de Estudos de Viabilidade» deve ler-se «C. E 43.00 - 1 - Fundo de Financiamento de Estudos de Viabilidade», e na C. E. 71.09, alínea A, na coluna de referência à autorização ministerial, deve ler-se «(a)».
+Na parte final da declaração, onde se lê «(e) Despacho ministerial de 9 de Outubro de 1986» deve ler-se «(e) Despacho ministerial de 1 de Outubro de 1986».
+Secretaria-Geral da Presidência do Conselho de Ministros, 10 de Março de 1987. - O Secretário-Geral, França Martins.
