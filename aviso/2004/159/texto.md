@@ -1,0 +1,6 @@
+Aviso n.º 159/2004
+Por ordem superior se torna público que a Embaixada do Grão-Ducado do Luxemburgo notificou, por nota de 11 de Agosto de 2004, ter a República do Chipre depositado em 3 de Agosto de 2004 o instrumento de ratificação à Convenção Relativa ao Estatuto das Escolas Europeias com os Anexos I e II, assinada no Luxemburgo em 21 de Junho de 1994.
+Nos termos do n.º 2 do artigo 32.º, a Convenção entra em vigor na República do Chipre em 1 de Setembro de 2004.
+Portugal é Parte nesta Convenção, aprovada e ratificada pelo Decreto n.º 1/97, de 3 de Janeiro, publicado no Diário da República, 1.ª série-A, n.º 2, de 3 de Janeiro de 1997, tendo depositado o seu instrumento de ratificação em 8 de Outubro de 1997.
+Nos termos do artigo 33.º, a Convenção vigora desde 1 de Outubro de 2002 na Bélgica, Dinamarca, Alemanha, Espanha, França, Irlanda, Itália, Luxemburgo, Países Baixos, Portugal, Reino Unido da Grã-Bretanha e da Irlanda do Norte e Comunidades Europeias, conforme o Aviso n.º 90/2002, publicado no Diário da República, 1.ª série-A, n.º 240, de 17 de Outubro de 2002, e desde 1 de Setembro de 2003 na Suécia, conforme o Aviso n.º 47/2003, publicado no Diário da República, 1.ª série-A, n.º 32, de 7 de Fevereiro de 2003.
+Direcção-Geral dos Assuntos Comunitários, 3 de Setembro de 2004. - O Director do Serviço dos Assuntos Jurídicos, Luís Inez Fernandes.
