@@ -1,0 +1,12 @@
+Portaria n.º 353/85
+de 11 de Junho
+Considerando que os serviços operativos dos serviços sociais das universidades, previstos no n.º 1 do artigo 21.º do Decreto-Lei n.º 132/80, de 17 de Maio, implicam a existência de directores de serviços com atribuições específicas, o que pressupõe uma experiência adequada a nível de conhecimentos exigidos para o exercício das respectivas funções e um perfil do candidato que inspire confiança no desempenho das mesmas;
+Considerando que o preceituado no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, prevê em casos excepcionais e devidamente fundamentados a possibilidade de alargamento da área de recrutamento para directores de serviços e chefes de divisão;
+Considerando que, por força do disposto na alínea a) do n.º 2 do artigo 2.º do referido Decreto-Lei n.º 191-F/79, de 26 de Junho, o recrutamento de directores de serviços deve ser feito de entre chefes de divisão ou assessores e que os Serviços Sociais da Universidade do Porto não dispõem de pessoal dessas categorias na área de serviços operativos ou outra nem tão-pouco de um quadro de pessoal devidamente estruturado;
+Considerando que o desempenho das funções de chefia atinentes àquele sector justifica a possibilidade de recrutamento de pessoas que demonstrem um conhecimento profundo no âmbito das questões relativas àquela área de actuação, independentemente de se encontrarem providos nas categorias a que alude o n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e pelo Secretário de Estado da Administração Pública, nos termos do disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, o seguinte:
+1.º O lugar de director de serviços operativos dos Serviços Sociais da Universidade do Porto, previstos no n.º 1 do artigo 21.º do Decreto-Lei n.º 132/80, de 17 de Maio, poderá ainda ser provido de entre licenciados que exerçam funções docentes no ensino secundário oficial e que possuam experiência adequada na respectiva área, e cuja remuneração não seja inferior à letra E.
+2.º O despacho de nomeação deverá ser acompanhado, para publicação, do currículo do nomeado.
+Presidência do Conselho de Ministros e Ministério da Educação.
+Assinada em 29 de Maio de 1985.
+O Ministro da Educação, João de Deus Rogado Salvador Pinheiro. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
