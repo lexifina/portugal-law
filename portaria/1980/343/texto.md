@@ -1,0 +1,16 @@
+Portaria n.º 343/80
+de 23 de Junho
+O desenvolvimento da Universidade do Minho torna imprescindível o lançamento de infra-estruturas destinadas aos respectivos Serviços Sociais, primeiramente no núcleo de Braga, onde o actual número de alunos é muito mais elevado.
+De modo a evitar despesas com adaptações e alugueres de utilização precária, é de toda a vantagem que essas instalações sejam construídas de raiz, as quais irão ainda servir, no que se refere ao armazenamento e abastecimento de géneros, vários refeitórios escolares de outros níveis de ensino do distrito de Braga e na dependência do Ministério da Educação e Ciência, de acordo com projecto aprovado pelo Ministério da Habitação e Obras Públicas, nos termos do artigo 17.º do Decreto-Lei n.º 402/73, de 11 de Agosto.
+Para que essas obras se possam executar programadamente em vários anos, nos termos do artigo 10.º do Decreto-Lei n.º 211/79, de 12 de Julho, torna-se necessário prever um plano plurianual de despesa, incluindo obras, equipamento e eventuais despesas com projectos, escalonado ao longo dos anos de 1980 a 1984.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Educação e Ciência, o seguinte:
+1.º É autorizada a Universidade do Minho a celebrar contratos plurianuais de obras e equipamento destinados aos Serviços Sociais da Universidade.
+2.º As verbas destinadas à satisfação dos encargos resultantes da execução dos contratos referidos neste diploma serão inscritas globalmente, não podendo, em cada ano, das verbas do Orçamento Geral do Estado, exceder as seguintes importâncias:
+1980 - 1180000$00;
+1981 - 25000000$00;
+1982 - 16000000$00;
+1983 - 15000000$00;
+1984 - 12820000$00.
+3.º As importâncias fixadas para o ano de 1981 e anos subsequentes poderão ser acrescidas dos saldos aprovados nos anos anteriores.
+Ministérios das Finanças e do Plano e da Educação e Ciência, 9 de Junho de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.
