@@ -1,0 +1,18 @@
+Portaria n.º 344/78
+de 29 de Junho
+A carência de meios de transporte adequados entre os estabelecimentos de ensino e as residências dos alunos que os frequentam levou já a que, pelo Despacho Ministerial n.º 15/64, de 31 de Janeiro, se autorizasse a conversão de veículos mistos em veículos de passageiros quando utilizados exclusivamente no transporte de alunos entre as suas residências e os estabelecimentos de ensino.
+Para além deste despacho, e também com o objectivo de facilitar o transporte de alunos, foi publicada a Portaria n.º 22434, de 9 de Janeiro de 1967, regulamentando as características dos veículos ligeiros de passageiros utilizados para aquele fim, que, no entanto, não é aplicável a todos os veículos ligeiros de passageiros.
+Por outro lado, o Decreto-Lei n.º 404/77, de 24 de Setembro, possibilita o recurso aos veículos de serviço particular quando, para os fins já referidos, não seja possível utilizar outro tipo de transporte.
+Pelas razões expostas, pretende-se com a presente portaria regulamentar as características a que deverão obedecer os veículos automóveis ligeiros de passageiros ou mistos utilizados exclusivamente no transporte de alunos entre as suas residências e os estabelecimentos de ensino que frequentam, bem como a respectiva lotação.
+Nestes termos:
+Considerando o disposto no artigo 2.º do Decreto n.º 39987, de 22 de Dezembro de 1954:
+Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comunicações, o seguinte:
+1.º As portas dos veículos automóveis afectos exclusivamente ao transporte de alunos só poderão ser abertas do exterior, excepto as que permitem o acesso aos lugares da frente.
+2.º As janelas dos veículos a que se refere o número anterior deverão ser resguardadas ou os vidros travados a uma altura considerada necessária, a fim de evitar que os alunos se debrucem ou que, de qualquer modo, possa haver perigo para a sua integridade física.
+3.º O número de alunos a transportar nos veículos a que se refere o presente diploma corresponde ao número de lugares constante da respectiva lotação, com excepção das crianças de idade inferior a 12 anos, caso em que pode ser transportada mais uma criança em cada banco de dois ou três lugares, desde que estes não sejam individuais.
+4.º Os veículos automóveis com lotação de oito ou nove lugares utilizados no transporte de alunos devem obedecer às características fixadas no n.º 7 do artigo 20.º e no n.º 2 do artigo 24.º do Regulamento do Código da Estrada, aprovado pelo Decreto-Lei n.º 39987, de 22 de Dezembro de 1954.
+5.º Nos veículos referidos no número anterior pode ser dispensada a porta de emergência no painel esquerdo, desde que exista nesse painel a porta de entrada e saída do condutor, a qual funcionará, em caso de necessidade, como porta de emergência.
+6.º A contravenção ao disposto nos n.os 1.º, 2.º, 4.º e 5.º é punida com a multa de 1000$00 a 5000$00. A contravenção ao disposto no n.º 3.º é punida com multa de 400$00 a 2000$00.
+7.º Fica revogada a Portaria n.º 22434, de 9 de Janeiro de 1967.
+8.º A presente portaria entra em vigor quinze dias após a sua publicação.
+Ministério dos Transportes e Comunicações, 16 de Junho de 1978. - O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.
