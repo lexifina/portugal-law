@@ -1,0 +1,15 @@
+Decreto n.º 43523
+Considerando que foi adjudicada a Cimar - Construções Civis e Marítimas, Lda., a empreitada das obras nos portos de Velas, Calheta, Fajã dos Vimes (ilha de S. Jorge), Santa Cruz, Praia (ilha Graciosa) e S. Mateus (ilha Terceira) - Açores;
+Considerando que para a execução de tais obras está fixado o prazo de cinco anos, que abrange os anos de 1961, 1962, 1963, 1964 e 1965;
+Tendo em vista o disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizada a Junta Autónoma dos Portos do Distrito de Angra do Heroísmo a celebrar contrato com a firma Cimar - Construções Civis e Marítimas, Lda., para a execução da empreitada das obras nos portos de Velas, Calheta, Fajã dos Vimes (ilha de S. Jorge), Santa Cruz, Praia (ilha Graciosa) e S. Mateus (ilha Terceira), pela importância de 13895114$60.
+Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá a Junta Autónoma dos Portos do Distrito de Angra do Heroísmo despender com pagamentos relativos às obras executadas, por virtude do contrato, mais de:
+Em 1961 ... 2500000$00
+Em 1962 ... 3000000$00
+Em 1963 ... 3500000$00
+Em 1964 ... 3000000$00
+Em 1965 ... 1895114$60
+§ único. Às importâncias fixadas para cada ano acrescem os saldos que se apurarem nos anos anteriores.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 6 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira - Carlos Gomes da Silva Ribeiro.
