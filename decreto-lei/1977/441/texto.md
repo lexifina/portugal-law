@@ -1,0 +1,11 @@
+Decreto-Lei n.º 441/77
+de 26 de Outubro
+Atendendo à vontade expressa da Câmara Municipal de Santarém no sentido de ser ampliada a área da cidade sede do mesmo concelho, por forma a facilitar a aplicação de regras uniformes a zonas que, até agora, adquiriram, fora dos limites da referida cidade, considerável desenvolvimento demográfico;
+Tendo em vista o parecer favorável do Ministério das Obras Públicas:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Os limites da cidade de Santarém são definidos por uma linha que, partindo da ligação da vala do Alvisquer com o rio Tejo, se dirige para norte, em linha recta, até ao cruzamento do caminho municipal n.º 1349 com o quilómetro 42,830 da estrada nacional n.º 365, daí seguindo para noroeste, até se cruzar com o caminho municipal n.º 1351; segue, depois, por este, até um ponto situado a 285 m antes do seu entroncamento com a estrada nacional n.º 3, ao quilómetro 41,200, daí seguindo até ao caminho público de acesso aos pauis, situado a 340 m do seu cruzamento com a estrada nacional n.º 3, ao quilómetro 31,545, até encontrar o cruzamento do caminho municipal n.º 1352 com o caminho público de acesso à Quinta da Besteira; segue daí até ao quilómetro 42,500 da estrada nacional n.º 3, passando a acompanhar o lado poente do troço da variante da estrada nacional n.º 3 até se cruzar com o caminho público de acesso à carreira de tiro; avança, então em linha recta, até ao cruzamento da estrada nacional n.º 587 - Omnias -, com a linha do caminho de ferro, indo encontrar a margem direita do rio Tejo, prosseguindo até encontrar a ligação da vala do Alvisquer com o rio Tejo, onde se iniciou a presente descrição.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás.
+Promulgado em 15 de Outubro de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
