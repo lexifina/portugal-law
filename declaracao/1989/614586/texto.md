@@ -1,0 +1,5 @@
+Declaração
+De harmonia com o disposto na parte final do n.º 2 do artigo 6.º do Decreto-Lei n.º 46/84, de 4 de Fevereiro, se publica que foram autorizadas as seguintes transferências de verbas, nos termos dos n.os 2 e 3 do artigo 5.º do mesmo diploma (Decreto-Lei n.º 450-A/88 - 1,5%):
+(ver documento original)
+Nos originais dos processos relativos às alterações orçamentais constantes da presente declaração constam os despachos ministeriais para a sua materialização.
+12.ª Delegação da Direcção-Geral da Contabilidade Pública, 31 de Dezembro de 1988. - O Director, Marcelino Lourenço.
