@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 172-B/86, publicado no Diário da República, 1.ª série, n.º 147 (suplemento), de 30 de Junho de 1986, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 8.º, onde se lê «Quaisquer alterações a aplicar aos certificados de aforro, dentro do respectivo prazo de garantia, só poderão produzir efeitos se delas resultar prejuízos para os respectivos titulares» deve ler-se «Quaisquer alterações a aplicar aos certificados de aforro, dentro do respectivo prazo de garantia, só poderão produzir efeitos se delas não resultar prejuízo para os respectivos titulares».
+Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Julho de 1986. - O Secretário-Geral, França Martins.
