@@ -1,0 +1,5 @@
+Rectificação
+Por ter saído com inexactidão no Diário do Governo n.º 170, 1.ª série, de 3 de Agosto de 1955, o artigo XI, n.º 1, da versão portuguesa da Convenção entre os Estados Partes no Tratado do Atlântico Norte, relativa ao Estatuto das suas Forças, determino que se proceda a nova publicação do respectivo texto, que é do seguinte teor:
+ARTIGO XI
+1. Os membros de uma força ou de um elemento civil, assim como as pessoas a seu cargo, ficarão submetidas, sem prejuízo das excepções estabelecidas pela Convenção, às leis e regulamentos aplicados pela administração das alfândegas do Estado local. Os agentes dessa administração têm designadamente o direito de proceder, nas condições gerais previstas pelas leis e regulamentos em vigor no Estado local, à inspecção dos membros de uma força ou de um elemento civil e das pessoas a seu cargo, assim como das suas bagagens e veículos; e têm igualmente o direito de apreensão em conformidade com tais leis e regulamentos.
+Presidência do Conselho, 28 de Junho de 1966 - O Presidente do Conselho, António de Oliveira Salazar.
