@@ -1,0 +1,4 @@
+Aviso n.º 111/94
+Por ordem superior se torna público que a Embaixada Real dos Países Baixos transmitiu uma notificação, datada de 21 de Julho de 1993, segundo a qual a Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, concluída na Haia em 18 de Março de 1970, permanece em vigor entre os Estados Contratantes e a República Checa e a República Eslovaca a partir de 31 de Dezembro de 1992.
+Relativamente a Portugal, a Convenção foi aprovada, para ratificação, pelo Decreto-Lei n.º 764/74, de 30 de Dezembro, conforme Diário do Governo, 1.ª série, n.º 302, de 30 de Dezembro de 1974. Entrou em vigor para Portugal em 11 de Maio de 1975, conforme Diário do Governo, 1.ª série, n.º 82, de 8 de Abril de 1975.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 24 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
