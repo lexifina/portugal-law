@@ -1,0 +1,5 @@
+Aviso n.º 61/2001
+Por ordem superior se torna público que, por nota de 15 de Março de 2001, e agindo na sua qualidade de depositário da Convenção sobre a Cobrança de Alimentos no Estrangeiro, concluída em Nova Iorque em 20 de Junho de 1956, o Secretário-Geral das Nações Unidas comunicou ter a Jugoslávia depositado o seu instrumento de sucessão à citada Convenção em 12 de Março de 2001.
+A Convenção entrou em vigor para a Jugoslávia em 27 de Abril de 1992, data da sucessão do Estado.
+Portugal é parte na mesma Convenção, a qual foi aprovada, para adesão, pelo Decreto-Lei n.º 45942, de 28 de Setembro de 1964, tendo depositado o seu instrumento de ratificação em 25 de Janeiro de 1965, conforme Aviso n.º 34, de 10 de Fevereiro de 1965. A autoridade central em Portugal é a Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça, conforme aviso publicado no Diário da República, 1.ª série, n.º 16, de 19 de Janeiro de 1985.
+Departamento de Assuntos Jurídicos, 18 de Maio de 2001. - A Directora, Maria Margarida Aleixo Antunes Rei.
