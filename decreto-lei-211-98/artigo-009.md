@@ -6,6 +6,6 @@
 
 2 - O fundo técnico de provisão previsto no número anterior destina-se à cobertura de prejuízos decorrentes da sinistralidade da carteira de garantias.
 
-3 - Uma fração não inferior a 10 % dos lucros líquidos apurados em cada exercício pelas sociedades de garantia mútua deve ser destinada à formação de uma reserva legal, até ao limite do capital emitido.
+3 - Uma fracção não inferior a 10% dos lucros líquidos apurados em cada exercício pelas sociedades de garantia mútua deve ser destinada à formação de uma reserva legal, até ao limite do capital social.
 
 4 - O Banco de Portugal poderá elevar qualquer das duas percentagens referidas no n.º 1.

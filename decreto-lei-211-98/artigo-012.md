@@ -6,4 +6,4 @@
 
 2 - Independentemente de convenção nesse sentido entre a sociedade de garantia mútua e o accionista beneficiário faltoso, podem as acções objecto do penhor ser adjudicadas àquela sociedade ou ser vendidas extrajudicialmente.
 
-3 - Nos casos previstos no número anterior, o valor das ações para efeitos de adjudicação é o valor de emissão.
+3 - Nos casos previstos no número anterior, o valor das acções para efeitos de adjudicação será o valor nominal, não podendo ser inferior a este o preço de venda.

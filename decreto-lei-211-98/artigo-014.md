@@ -14,6 +14,6 @@
 
 6 - Caso seja recusado o consentimento para a transmissão de acções, a sociedade de garantia mútua fica obrigada a, no prazo de 90 dias contado da data da recusa do consentimento, adquirir ou fazer adquirir por terceiro as acções.
 
-7 - Na situação prevista no número anterior, as ações são adquiridas pelo valor de emissão.
+7 - Na situação prevista no número anterior, as acções serão adquiridas pelo valor nominal.
 
 8 - Aplica-se à constituição de penhor ou usufruto sobre acções representativas do capital social de sociedades de garantia mútua, com as devidas adaptações, o disposto nos números anteriores.
