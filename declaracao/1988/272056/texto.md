@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação do Gabinete do Ministro da República para a Região Autónoma dos Açores, o Decreto Legislativo Regional n.º 32/88/A, publicado no Diário da República, 1.ª série, n.º 170, de 25 de Julho de 1988, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 6.º, onde se lê «e no n.º 3 do artigo 4.º, ou para a observância do estatuído no n.º 3 do artigo 3.º» deve ler-se «e no n.º 3 do artigo 3.º ou para a observância do estatuído no n.º 3 do artigo 2.º».
+No artigo 8.º, n.º 1, onde se lê «Verificando-se violação do disposto no n.º 1 do artigo 5.º» deve ler-se «Verificando-se violação do disposto no n.º 1 do artigo 4.º».
+No artigo 9.º, n.º 1, na alínea a), onde se lê «disposto no n.º 2 do artigo 4.º» deve ler-se «disposto no n.º 2 do artigo 3.º», na alínea b), onde se lê «violação do disposto no artigo 5.º» deve ler-se «violação do disposto no artigo 4.º», e na alínea c), onde se lê «pelo não cumprimento do disposto nos n.os 1, alíneas a), b) e c), e 3 do artigo 4.º e no n.º 3 do artigo 3.º» deve ler-se «pelo não cumprimento do disposto nos n.os 1, alíneas a), b) e c), e 3 do artigo 3.º e no n.º 3 do artigo 2.º»
+Secretaria-Geral da Presidência do Conselho de Ministros, 22 de Setembro de 1988. - O Secretário-Geral, França Martins.
