@@ -1,0 +1,5 @@
+Despacho Normativo n.º 127/82
+Considerando a interacção entre a Direcção-Geral dos Serviços Judiciários e as instituições judiciárias e as especiais responsabilidades que sobre ela recaem nos domínios da gestão e administração de pessoal;
+Considerando que não existem, em alguns casos, regras de provimento, quer específicas, quer genéricas, para certos cargos e lugares das instituições judiciárias:
+Esclarece-se, nos termos do artigo 32.º do Decreto-Lei n.º 99/82, de 7 de Abril, que as regras sobre pessoal constantes do capítulo III do Decreto-Lei n.º 99/82, de 7 de Abril, se aplicam às instituições judiciárias referidas no n.º 2 do artigo 1.º daquele diploma nos casos de inexistência de regras próprias sobre provimento dos respectivos lugares.
+Ministérios da Justiça e da Reforma Administrativa, 18 de Junho de 1982. - O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
