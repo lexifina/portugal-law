@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 3-B/99
+Para os devidos efeitos se declara que o Decreto-Lei n.º 394/98, publicado no Diário da República, 1.ª série, n.º 284, de 10 de Dezembro de 1998, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No anexo, quadro II, em «Acesulfame K», colunas «Produtos alimentares» e «Doses máximas de utilização», onde se lê «Complementos alimentares/integrantes de regimes dietéticos à base de vitaminas e ou elementos minerais em xarope ou para mastigar - 200 mg/kg» deve ler-se «Complementos alimentares/integrantes de regimes dietéticos à base de vitaminas e ou elementos minerais em xarope ou para mastigar - 2000 mg/kg».
+Secretaria-Geral da Presidência do Conselho de Ministros, 21 de Janeiro de 1999. - O Secretário-Geral, Alexandre Figueiredo.
