@@ -1,0 +1,1959 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "163",
+    "id": "29142",
+    "titulo": "Orçamento do Estado para 1991"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "1990-12-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "1990-12-10",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "224627",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "330440",
+        "obs": null,
+        "pag": [
+          "785-825"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1990-12-11",
+        "pubLeg": "V",
+        "pubNr": "24",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/785?pgs=785-825&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Fundo Social Europeu [proposta identificada com o n.º 43 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PSD</I><BR>Contra:<I>PS</I>, <I> CDS</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I>",
+        "id": "45705",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927308",
+            "obs": null,
+            "pag": [
+              "785-785"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/785?pgs=785&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Apoio às actividades das organizações não governamentais do Conselho Consultivo da Comissão da Condição Feminina",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PCP</I>, <I> PRD</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I><BR>Contra:<I>CDS</I>",
+        "id": "138976",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927309",
+            "obs": null,
+            "pag": [
+              "785-785"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/785?pgs=785&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Artigo 23.º, n.º 1, alínea c) - proposta de substituição apresentada pelo Grupo Parlamentar do PCP, com o n.º 2 [proposta identificada com o n.º 2 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "138977",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927310",
+            "obs": null,
+            "pag": [
+              "801-801"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/801?pgs=801&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Artigo 23.º, n.º 1, alínea c) - proposta de substituição apresentada pelo Grupo Parlamentar do PRD, com o n.º 3 [proposta identificada com o n.º 3 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "138978",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927311",
+            "obs": null,
+            "pag": [
+              "801-801"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/801?pgs=801&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Artigo 23.º, n.º 1, alínea c) - proposta de substituição apresentada pelo Grupo Parlamentar do PS, com o n.º 46 [proposta identificada com o n.º 46 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "138979",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927312",
+            "obs": null,
+            "pag": [
+              "801-801"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/801?pgs=801&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Herculano Pombo (Indep)",
+          "Raul Castro (Indep)",
+          "Manuel Valente Fernandes (Indep)"
+        ],
+        "data": "1990-12-10",
+        "descricao": "Epígrafe e n.º 1, alínea a) do artigo 23.º  da proposta de lei",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Herculano Pombo (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Manuel Valente Fernandes (Indep)</I>",
+        "id": "138980",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927313",
+            "obs": null,
+            "pag": [
+              "801-801"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/801?pgs=801&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "N.º 1, alínea c), do artigo 23.º da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I>",
+        "id": "138981",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927314",
+            "obs": null,
+            "pag": [
+              "801-802"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/801?pgs=801-802&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Artigo 23.º, n.º 1, alínea b) - proposta de alteração apresentada pelo PSD [proposta identificada com o n.º 71 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PSD</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> Jorge Lemos (Indep)</I>",
+        "id": "138982",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927315",
+            "obs": null,
+            "pag": [
+              "802-802"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/802?pgs=802&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "José Magalhães (Indep)"
+        ],
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alterações ao art. 14.º do Código do IRS, n.ºs 4 e 5, constantes da proposta de lei",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> José Magalhães (Indep)</I>",
+        "id": "138983",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927316",
+            "obs": null,
+            "pag": [
+              "803-803"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/803?pgs=803&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - aditamento de um n.º 7 ao artigo 14.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I>",
+        "id": "138984",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927317",
+            "obs": null,
+            "pag": [
+              "803-803"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/803?pgs=803&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração ao n.º 2 do art. 15.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I><BR>Abstenção:<I>CDS</I>",
+        "id": "138985",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927328",
+            "obs": null,
+            "pag": [
+              "803-803"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/803?pgs=803&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração à alínea d) do n.º 1, art. 17.º, constante da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PCP</I>, <I> PRD</I>, <I> Jorge Lemos (Indep)</I><BR>Abstenção:<I>CDS</I>",
+        "id": "139215",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927329",
+            "obs": null,
+            "pag": [
+              "804-804"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/804?pgs=804&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - proposta de substituição ao n.º1 do art. 25.º do Código do IRS, apresentada pelo PCP [proposta identificada com o n.º 4 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "139216",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927330",
+            "obs": null,
+            "pag": [
+              "804-804"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/804?pgs=804&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração ao n.º 1, art. 25.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I>",
+        "id": "139217",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927331",
+            "obs": null,
+            "pag": [
+              "804-804"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/804?pgs=804&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - proposta de substituição do art. 51.º do Código do IRS, apresentada pelo PRD [proposta identificada com o n.º 5 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PCP</I>, <I> PRD</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PS</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I>",
+        "id": "139218",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927332",
+            "obs": null,
+            "pag": [
+              "806-806"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/806?pgs=806&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - proposta de substituição do art. 51.º do Código do IRS, apresentada pelo PCP [proposta identificada com o n.º 34 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "139219",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927333",
+            "obs": null,
+            "pag": [
+              "806-807"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/806?pgs=806-807&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - proposta de substituição do art. 51.º do Código do IRS, constante da proposta de lei [o DAR contém um erro, fazendo referência ao artigo 51.º da proposta de lei, quando na verdade se votou o artigo 51.º do Código do IRS, que é alterado pelo n.º 2 do artigo 23.º da proposta de lei]",
+        "detalhe": "A Favor: <I>PSD</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I>",
+        "id": "139220",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927334",
+            "obs": null,
+            "pag": [
+              "807-807"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/807?pgs=807&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração à alínea e) do n.º 1 do art. 55.º do Código do IRS, apresentada pelo PCP [proposta identificada com o n.º 6 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "139223",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927335",
+            "obs": null,
+            "pag": [
+              "807-807"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/807?pgs=807&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração às alíneas e) e j) do n.º 1 do art. 55.º do Código do IRS, apresentada pelo PRD [proposta identificada com o n.º 7 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PRD</I>, <I> CDS</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PCP</I>, <I> Jorge Lemos (Indep)</I>",
+        "id": "139224",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927336",
+            "obs": null,
+            "pag": [
+              "807-807"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/807?pgs=807&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Herculano Pombo (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "José Magalhães (Indep)",
+          "Manuel Valente Fernandes (Indep)"
+        ],
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alíneas h) e i) do n.º 1 do art. 55.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Herculano Pombo (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> José Magalhães (Indep)</I>, <I> Manuel Valente Fernandes (Indep)</I>",
+        "id": "139225",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927337",
+            "obs": null,
+            "pag": [
+              "807-808"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/807?pgs=807-808&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração ao corpo do n.º 2 e alínea a) do art. 55.º do Código do IRS, apresentada pelo PSD [proposta identificada com o n.º 17 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PSD</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I>",
+        "id": "139258",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927338",
+            "obs": null,
+            "pag": [
+              "808-808"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/808?pgs=808&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração ao corpo do n.º 2 e alínea a) do art. 55.º do Código do IRS, apresentada pelo PS [proposta identificada com o n.º 50 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "139260",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927340",
+            "obs": null,
+            "pag": [
+              "809-809"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/809?pgs=809&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alínea b) do n.º 2 do art. 55.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I><BR>Abstenção:<I>PS</I>",
+        "id": "139261",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927342",
+            "obs": null,
+            "pag": [
+              "809-809"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/809?pgs=809&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - aditamento de uma alínea c) do n.º 2 do art. 55.º do Código do IRS, apresentado pelo PCP [proposta identificada com o n.º 35 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "139262",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927344",
+            "obs": null,
+            "pag": [
+              "809-809"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/809?pgs=809&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Herculano Pombo (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "Manuel Valente Fernandes (Indep)"
+        ],
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - n.º 3 do art. 55.º do Código do IRS, constante da proposta de lei\n",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Herculano Pombo (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Manuel Valente Fernandes (Indep)</I>",
+        "id": "139263",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927345",
+            "obs": null,
+            "pag": [
+              "809-809"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/809?pgs=809&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Proposta de aditamento de um n.º 6 ao art. 23.º, apresentada pelo PSD",
+        "detalhe": "A Favor: <I>PSD</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> José Magalhães (Indep)</I>",
+        "id": "139264",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927349",
+            "obs": null,
+            "pag": [
+              "810-810"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/810?pgs=810&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - aditamento de um novo número ao art. 55.º do Código do IRS, apresentado pelo PRD [proposta identificada com o n.º 8 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PRD</I><BR>Contra:<I>PSD</I>, <I> CDS</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I>",
+        "id": "139265",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927350",
+            "obs": null,
+            "pag": [
+              "810-810"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/810?pgs=810&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - aditamento de um novo número ao art. 55.º do Código do IRS, apresentado pelo PRD [proposta identificada com o n.º 9 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PRD</I>, <I> CDS</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I>",
+        "id": "139266",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927351",
+            "obs": null,
+            "pag": [
+              "810-810"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/810?pgs=810&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Herculano Pombo (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "Manuel Valente Fernandes (Indep)"
+        ],
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - substituição da alínea c) do n.º1 do art. 58.º do Código do IRS, apresentado pelo PSD [proposta identificada com o n.º 17 no processo disponível no AHP]",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Herculano Pombo (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Manuel Valente Fernandes (Indep)</I>",
+        "id": "139268",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927352",
+            "obs": null,
+            "pag": [
+              "811-811"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/811?pgs=811&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Herculano Pombo (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "Manuel Valente Fernandes (Indep)"
+        ],
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alíneas a), b), e d) do n.º1 do art. 58.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Herculano Pombo (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Manuel Valente Fernandes (Indep)</I>",
+        "id": "139269",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927353",
+            "obs": null,
+            "pag": [
+              "811-811"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/811?pgs=811&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Herculano Pombo (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "Manuel Valente Fernandes (Indep)"
+        ],
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - corpo e alíneas a), b), e c) do n.º2 do art. 58.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Herculano Pombo (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Manuel Valente Fernandes (Indep)</I>",
+        "id": "139270",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927354",
+            "obs": null,
+            "pag": [
+              "811-811"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/811?pgs=811&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - proposta de substituição do n.º 3 do art. 58.º do Código do IRS, apresentada pelo PCP [proposta identificada com o n.º 36 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "139271",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927355",
+            "obs": null,
+            "pag": [
+              "812-812"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/812?pgs=812&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 -  n.º 3 do art. 58.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS</I><BR>Contra:<I>PCP</I>, <I> PRD</I><BR>Abstenção:<I>PS</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I>",
+        "id": "139273",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927356",
+            "obs": null,
+            "pag": [
+              "814-814"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/814?pgs=814&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Herculano Pombo (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "Manuel Valente Fernandes (Indep)"
+        ],
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 -  proposta de aditamento ao n.º 3 do art. 58.º do Código do IRS, apresentada pelos Deputados independentes José Magalhães e Jorge Lemos [proposta identificada com o n.º 74 no processo disponível no AHP]",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Herculano Pombo (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Manuel Valente Fernandes (Indep)</I>",
+        "id": "139274",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927357",
+            "obs": null,
+            "pag": [
+              "815-815"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/815?pgs=815&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - n.º 1 do art. 63.º do Código do IRS, proposta pelo PRD [proposta identificada com o n.º 10 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "139281",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927358",
+            "obs": null,
+            "pag": [
+              "815-815"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/815?pgs=815&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - n.º 1 do art. 63.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS</I><BR>Contra:<I>PCP</I>, <I> Jorge Lemos (Indep)</I><BR>Abstenção:<I>PRD</I>",
+        "id": "139282",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927359",
+            "obs": null,
+            "pag": [
+              "815-815"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/815?pgs=815&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Herculano Pombo (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "José Magalhães (Indep)",
+          "Manuel Valente Fernandes (Indep)"
+        ],
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração da alínea a) do n.º 2 do art. 63.º do Código do IRS, proposta pelo PSD [proposta identificada com o n.º 17 no processo disponível no AHP]",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Herculano Pombo (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> José Magalhães (Indep)</I>, <I> Manuel Valente Fernandes (Indep)</I>",
+        "id": "139283",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927360",
+            "obs": null,
+            "pag": [
+              "815-815"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/815?pgs=815&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alínea b) do n.º 2 e n.º 3 do art. 63.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I><BR>Contra:<I>PCP</I>, <I> PRD</I><BR>Abstenção:<I>PS</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I>",
+        "id": "139284",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927361",
+            "obs": null,
+            "pag": [
+              "815-815"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/815?pgs=815&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - substituição do n.º 1 do art. 71.º do Código do IRS, proposta pelo PCP [proposta identificada com o n.º 11 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PCP</I>, <I> PRD</I>, <I> Jorge Lemos (Indep)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PS</I>, <I> CDS</I>",
+        "id": "139285",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927362",
+            "obs": null,
+            "pag": [
+              "816-816"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/816?pgs=816&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração do n.º 1 do art. 71.º do Código do IRS, proposta pelo PS [proposta identificada com o n.º 51 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I>",
+        "id": "139286",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927363",
+            "obs": null,
+            "pag": [
+              "817-817"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/817?pgs=817&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - art. 71.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> Jorge Lemos (Indep)</I>",
+        "id": "139287",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927364",
+            "obs": null,
+            "pag": [
+              "817-817"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/817?pgs=817&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração do n.º 1 do art. 74.º do Código do IRS, proposta pelo PCP [proposta identificada com o n.º 37 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> José Magalhães (Indep)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS</I>",
+        "id": "139288",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927365",
+            "obs": null,
+            "pag": [
+              "818-818"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/818?pgs=818&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - eliminação de expressões constantes das alíneas a) e b) do n.º 2, da alínea b) do n.º 3 e da alínea b) do n.º 4 do art. 74.º do Código do IRS, proposta pelo PCP [proposta identificada com o n.º 12 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> José Magalhães (Indep)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS</I>",
+        "id": "139289",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927366",
+            "obs": null,
+            "pag": [
+              "818-818"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/818?pgs=818&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração da alínea d) do n.º 2 do art. 74.º do Código do IRS, proposta pelo PCP [proposta identificada com o n.º 13 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PCP</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I><BR>Contra:<I>PSD</I>, <I> CDS</I><BR>Abstenção:<I>PS</I>, <I> PRD</I>",
+        "id": "139290",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927367",
+            "obs": null,
+            "pag": [
+              "819-819"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/819?pgs=819&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - n.º 1 e alíneas a) e b) do n.º 2 do art. 74.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I><BR>Contra:<I>PCP</I><BR>Abstenção:<I>PS</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I>",
+        "id": "139291",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927368",
+            "obs": null,
+            "pag": [
+              "819-819"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/819?pgs=819&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Herculano Pombo (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "Manuel Valente Fernandes (Indep)"
+        ],
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alíneas c), d), e), f) e g)  do n.º 2 do art. 74.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Herculano Pombo (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Manuel Valente Fernandes (Indep)</I>",
+        "id": "139292",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927369",
+            "obs": null,
+            "pag": [
+              "819-819"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/819?pgs=819&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - n.ºs 3, 4, 5 e 6 do art. 74.º do Código do IRS, constante da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I>, <I> CDS</I><BR>Abstenção:<I>PCP</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I>",
+        "id": "139293",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927370",
+            "obs": null,
+            "pag": [
+              "819-819"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/819?pgs=819&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração à alínea b) e eliminação da alínea c) do n.º 1 art. 80.º do Código do IRS, proposta pelo PRD [proposta identificada com o n.º 14 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PCP</I>, <I> PRD</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PS</I>, <I> CDS</I>",
+        "id": "139294",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927371",
+            "obs": null,
+            "pag": [
+              "820-820"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/820?pgs=820&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração às alíneas b) e c) do n.º 1 do art. 80.º do Código do IRS, proposta pelo PS [proposta identificada com o n.º 52 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "139295",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927372",
+            "obs": null,
+            "pag": [
+              "820-820"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/820?pgs=820&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - n.º 1 do art. 80.º do Código do IRS e respectivas alíneas a), b) e c), constante da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I>",
+        "id": "139296",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927373",
+            "obs": null,
+            "pag": [
+              "820-820"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/820?pgs=820&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Aditamento de uma alínea d) ao n.º 1 do art. 23.º da proposta de lei, proposta pelo PSD e com aditamento verbal do CDS [proposta identificada com o n.º 15 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS</I><BR>Contra:<I>PCP</I><BR>Abstenção:<I>PS</I>, <I> PRD</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I>",
+        "id": "139297",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927374",
+            "obs": null,
+            "pag": [
+              "821-821"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/821?pgs=821&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Herculano Pombo (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "Manuel Valente Fernandes (Indep)"
+        ],
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - substituição dos n.ºs 1, 2 e 3 do art. 89.º do Código do IRS, proposta pelo PCP [proposta identificada com o n.º 15 no processo disponível no AHP]",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Herculano Pombo (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Manuel Valente Fernandes (Indep)</I>",
+        "id": "139298",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927375",
+            "obs": null,
+            "pag": [
+              "823-823"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/823?pgs=823&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - alteração ao n.º 3 do art. 89.º do Código do IRS, proposta pelo PS [proposta identificada com o n.º 53 no processo disponível no AHP]",
+        "detalhe": "A Favor: <I>PS</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I><BR>Contra:<I>PSD</I>, <I> CDS</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>",
+        "id": "139299",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927376",
+            "obs": null,
+            "pag": [
+              "823-823"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/823?pgs=823&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - substituição do n.º 1 do art. 91.º do Código do IRS, constante da proposta de lei\n",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PCP</I>, <I> PRD</I>, <I> Jorge Lemos (Indep)</I>, <I> José Magalhães (Indep)</I><BR>Abstenção:<I>CDS</I>",
+        "id": "139300",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927377",
+            "obs": null,
+            "pag": [
+              "824-824"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/824?pgs=824&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Herculano Pombo (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "Manuel Valente Fernandes (Indep)"
+        ],
+        "data": "1990-12-10",
+        "descricao": "Art. 23.º, n.º 2 - eliminação do n.º 32 do Código do IRS, proposta pelo PS [proposta identificada com o n.º 49 no processo disponível no AHP] e proposta oral apresentada pelo PSD\n",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Herculano Pombo (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Manuel Valente Fernandes (Indep)</I>",
+        "id": "139301",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927378",
+            "obs": null,
+            "pag": [
+              "825-825"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1990-12-11",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/024/1990-12-11/825?pgs=825&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
