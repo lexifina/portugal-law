@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Ministério dos Negócios Estrangeiros dos Países Baixos, a Convenção da Haia sobre o Reconhecimento e Execução das Decisões Relativas às Obrigações Alimentares, de 2 de Outubro de 1973, entrou em vigor para os primeiros três países que a ratificaram - Portugal, Suíça e Checoslóvaquia - em 1 de Agosto de 1976. Posteriormente aquela Convenção foi ratificada pela Suécia, país ao qual se aplica a partir de 1 de Maio de 1977.
+Secretaria-Geral do Ministério, 22 de Abril de 1977. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
