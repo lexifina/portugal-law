@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Organização das Nações Unidas, o Governo das ilhas de Salomão depositou junto do Secretário-Geral da Organização, em 7 de Setembro de 1981, a notificação de sucessão relativamente à Convenção sobre as Facilidades Aduaneiras a Favor do Turismo e ao Protocolo Adicional à Convenção sobre as Facilidades Aduaneiras a Favor do Turismo Relativo à Importação de Documentos e Matérias de Propaganda Turística, ambos assinados em Nova Iorque, em 4 de Julho de 1954.
+Direcção-Geral dos Negócios Económicos, 19 de Novembro de 1981. - O Adjunto do Director-Geral, Luís José de Oliveira Nunes.
