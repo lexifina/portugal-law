@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1933/08/19500/15881588.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1933-08-29",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "d6081c6e088ba86188d27f3eeb8c684d304759d791ef21669bb671663f2e7c6e",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.4,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "8380f2c35d0031a3102ab6d8f671d999f017c0932cc04cd901fe1be0586df5c8",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 516
 }
