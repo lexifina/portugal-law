@@ -2,7 +2,7 @@
 
 ### (Requisitos especiais)
 
-1 - O extracto da inscrição deve ainda conter as seguintes menções especiais:
+1 - O extracto das inscrições deve ainda conter as seguintes menções especiais:
 
 a) Na de aquisição: a causa;
 
@@ -24,7 +24,7 @@ i) Na de eventual redução das doações: a indicação dos sujeitos da doaçã
 
 j) Na de cessão de bens aos credores: as obrigações dos cessionários especificadas no título, a causa, o montante global dos créditos, bem como o prazo e o preço convencionados para a venda, se tiverem sido fixados;
 
-l) Na de penhora, arresto ou apreensão de bens em processo de falência: a data destes factos e a quantia exequenda ou por que se promove o arresto; sendo estas inscrições provisórias nos termos da alínea n) do n.º 1 do artigo 92.º, a data a mencionar é a do despacho que ordenou as diligências e, sendo provisórias nos termos da alínea a) do n.º 2 do mesmo artigo, será ainda mencionado o nome, estado e residência do titular da inscrição;
+l) Na de penhora, arresto ou apreensão de bens em processo de falência: a data destes factos e a quantia exequenda ou por que se promove o arresto; sendo a inscrição provisória nos termos da alínea n) do n.º 1 do artigo 92.º, a data a mencionar é a da sentença que declarou a falência e, sendo provisória nos termos da alínea a) do n.º 2 do mesmo artigo, será ainda mencionado o nome, estado e residência do titular da inscrição;
 
 m) Na de arrolamento: as datas da diligência e do despacho; e nas de outros actos ou providências: o seu conteúdo e a data do negócio jurídico ou do respectivo despacho;
 
