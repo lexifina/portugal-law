@@ -1,0 +1,4 @@
+Portaria n.º 287/71
+de 3 de Junho
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Tesouro e das Comunicações e Transportes, nos termos do n.º 3 do artigo 23.º do Estatuto dos Telefones de Lisboa e Porto, anexo ao Decreto-Lei n.º 48007, de 26 de Outubro de 1967, atendendo ao que foi solicitado por esta empresa, com o acordo dos Correios e Telecomunicações de Portugal, autorizar os mesmos Telefones de Lisboa e Porto a contrair um empréstimo no Banco de Fomento Nacional de 100000000$00 pelo prazo de sete anos, amortizável em doze prestações de capital semestrais e sucessivas e à taxa de juro de 7,75 por cento ao ano, elevável até ao limite máximo legal.
+O Secretário de Estado do Tesouro, João Luís da Costa André. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
