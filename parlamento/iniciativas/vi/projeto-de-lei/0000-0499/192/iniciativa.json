@@ -1,0 +1,131 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "tipo": "Projeto de Lei",
+  "numero": "192",
+  "id": "4035",
+  "fases": 20,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1992-07-10",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1992-10-14",
+    "DataInicioleg": "1991-11-04",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "50",
+        "nome": "Fernando Condesso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "40",
+        "nome": "Duarte Lima"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "618",
+        "nome": "Guilherme Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "119",
+        "nome": "Mário Maciel"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "35",
+        "nome": "Carlos Coelho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "10",
+        "nome": "Ana Paula Barros"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "131",
+        "nome": "Rui Carp"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "75",
+        "nome": "Jorge Roque Cunha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "98",
+        "nome": "Luís David Nobre"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "124",
+        "nome": "Miguel Miranda Relvas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "117",
+        "nome": "Maria Manuela Aguiar"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "4035",
+    "IniLeg": "VI",
+    "IniLinkTexto": "",
+    "IniNr": "192",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Acesso a documentos administrativos",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": [
+      {
+        "autor": "Deputados",
+        "id": "19965",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "282856",
+            "obs": null,
+            "pag": [
+              "1026-1027"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1992-07-16",
+            "pubLeg": "VI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/06/01/051/1992-07-16/1026?pgs=1026-1027&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      }
+    ]
+  }
+}
