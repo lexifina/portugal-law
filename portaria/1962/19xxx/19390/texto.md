@@ -1,0 +1,5 @@
+Portaria n.º 19390
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com 75000$00 a verba do capítulo 10.º, artigo 223.º, n.º 1), alínea b) «Encargos gerais - Diversas despesas - Passagens a estudantes nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1953 - Passagens de férias», da tabela de despesa ordinária do orçamento geral de Timor para o corrente ano, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 4.º, artigo 47.º, n.º 1), alínea a) «Administração geral e fiscalização - Serviços de administração civil - Pessoal dos serviços administrativos - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 11 de Setembro de 1962. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Timor. - J. da Costa Freitas.
