@@ -1,0 +1,4 @@
+Portaria n.º 159/76
+de 23 de Março
+Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado das Pescas, nos termos estabelecidos pelo Decreto-Lei n.º 92/75, de 28 de Fevereiro, e com fundamento na alínea a) do artigo 31.º do Regulamento da Pesca nas Águas Interiores, aprovado pelo Decreto n.º 44623, de 10 de Outubro de 1962, que, com a observância das respectivas épocas de defeso das espécies piscícolas, sejam libertas da condição de zona de salmonídeos as águas contidas nos regolfos das albufeiras criadas pelas barragens de Salamonde e da Caniçada, no curso do rio Cávado, até que se venha a verificar o conveniente equilíbrio das populações piscícolas dessas águas.
+Secretaria de Estado das Pescas, 11 de Março de 1976. - O Secretário de Estado das Pescas, Pedro Amadeu dos Santos Coelho.
