@@ -1,0 +1,685 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "17",
+    "id": "5687",
+    "titulo": "Reforça as competências do conselho de fiscalização do serviço de informações."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1995-11-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1519",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1995-11-16",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5695",
+        "leg": "VII",
+        "nr": "7",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "467",
+            "obs": null,
+            "pag": [
+              "186-202"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-11-17",
+            "pubLeg": "VII",
+            "pubNr": "7",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/186?pgs=186-202&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforça o sistema de fiscalização dos serviços de informações, clarifica os limites das actividades que estes podem desenvolver, e revoga as alterações legislativas promovidas no termo da VI legislatura pelo Governo."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-11-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46024",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "188-189"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-11-17",
+                "pubLeg": "VII",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/188?pgs=188-189&org=PLC"
+              }
+            ],
+            "sumario": "SERVICOS DE INFORMACOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "202-202"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-11-17",
+                "pubLeg": "VII",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/202?pgs=202&org=PLC"
+              }
+            ],
+            "sumario": "SERVICOS DE INFORMACOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "202-202"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-11-17",
+                "pubLeg": "VII",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/202?pgs=202&org=PLC"
+              }
+            ],
+            "sumario": "SERVICOS DE INFORMACOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46027",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "202-202"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-11-17",
+                "pubLeg": "VII",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/202?pgs=202&org=PLC"
+              }
+            ],
+            "sumario": "SERVICOS DE INFORMACOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46028",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "200-201"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-11-17",
+                "pubLeg": "VII",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/200?pgs=200-201&org=PLC"
+              }
+            ],
+            "sumario": "SERVICOS DE INFORMACOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46030",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "198-199"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-11-17",
+                "pubLeg": "VII",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/198?pgs=198-199&org=PLC"
+              }
+            ],
+            "sumario": "SERVICO DE INFORMACOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46031",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "197-198"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-11-17",
+                "pubLeg": "VII",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/197?pgs=197-198&org=PLC"
+              }
+            ],
+            "sumario": "SERVICOS DE INFORMACOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46032",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "196-196"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-11-17",
+                "pubLeg": "VII",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/196?pgs=196&org=PLC"
+              }
+            ],
+            "sumario": "SERVICOS DE INFORMACOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46033",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "193-196"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-11-17",
+                "pubLeg": "VII",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/193?pgs=193-196&org=PLC"
+              }
+            ],
+            "sumario": "SERVICOS DE INFORMACOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46039",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "190-190"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-11-17",
+                "pubLeg": "VII",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/190?pgs=190&org=PLC"
+              }
+            ],
+            "sumario": "SERVICOS DE INFORMACOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "186-188",
+                  "189-189",
+                  "190-190",
+                  "191-191"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-11-17",
+                "pubLeg": "VII",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/186?pgs=186-188,189,190,191&org=PLC"
+              }
+            ],
+            "sumario": "SERVICOS DE INFORMACOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  PRESIDÊNCIA E DA DEFESA NACIONAL",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Vitorino"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107203",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "199-200",
+                  "201-201",
+                  "202-202"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-11-17",
+                "pubLeg": "VII",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17/199?pgs=199-200,201,202&org=PLC"
+              }
+            ],
+            "sumario": "SERVICOS DE INFORMACOES",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104259",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110627",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-11-17",
+        "pubLeg": "VII",
+        "pubNr": "7",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/007/1995-11-17?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
