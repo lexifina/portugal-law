@@ -1,0 +1,352 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "23",
+    "id": "5898",
+    "titulo": "Decreto-lei nº 166/2000 de 5 de Agosto que cria os órgãos consultivos do MADRP e estabelece os critérios de representatividade das organizações que integram esses órgãos."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2000-12-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1581",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2000-12-15",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-12-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "991",
+                "nome": "Cândido Capela"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1234-1235"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-16",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16/1234?pgs=1234-1235&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.166/2000 DE 5 DE AGOSTO QUE CRIA OS ORGAOS CONSULTIVOS DO MADRP E ESTABELECE OS CRITERIOS DE REPRESENTATIVIDADE DAS ORGANIZACOES QUE INTEGRAM ESSES ORGAOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "67",
+                "nome": "João Maçãs"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135089",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1235-1236"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-16",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16/1235?pgs=1235-1236&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.166/2000 DE 5 DE AGOSTO QUE CRIA OS ORGAOS CONSULTIVOS DO MADRP E ESTABELECE OS CRITERIOS DE REPRESENTATIVIDADE DAS ORGANIZACOES QUE INTEGRAM ESSES ORGAOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1482",
+                "nome": "Gavino Paixão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1237-1237"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-16",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16/1237?pgs=1237&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.166/2000 DE 5 DE AGOSTO QUE CRIA OS ORGAOS CONSULTIVOS DO MADRP E ESTABELECE OS CRITERIOS DE REPRESENTATIVIDADE DAS ORGANIZACOES QUE INTEGRAM ESSES ORGAOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1236-1237"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-16",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16/1236?pgs=1236-1237&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.166/2000 DE 5 DE AGOSTO QUE CRIA OS ORGAOS CONSULTIVOS DO MADRP E ESTABELECE OS CRITERIOS DE REPRESENTATIVIDADE DAS ORGANIZACOES QUE INTEGRAM ESSES ORGAOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  DESENVOLVIMENTO  RURAL",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Victor Barros"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1237-1239"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-16",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16/1237?pgs=1237-1239&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.166/2000 DE 5 DE AGOSTO QUE CRIA OS ORGAOS CONSULTIVOS DO MADRP E ESTABELECE OS CRITERIOS DE REPRESENTATIVIDADE DAS ORGANIZACOES QUE INTEGRAM ESSES ORGAOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1731",
+                "nome": "António Nazaré Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1238-1239"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-16",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16/1238?pgs=1238-1239&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.166/2000 DE 5 DE AGOSTO QUE CRIA OS ORGAOS CONSULTIVOS DO MADRP E ESTABELECE OS CRITERIOS DE REPRESENTATIVIDADE DAS ORGANIZACOES QUE INTEGRAM ESSES ORGAOS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104451",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1581",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-12-16",
+        "pubLeg": "VIII",
+        "pubNr": "31",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
