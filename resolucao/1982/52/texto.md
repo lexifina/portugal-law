@@ -1,0 +1,11 @@
+Resolução n.º 52/82
+O serviço de pilotagem dos portos e barras, pela sua ligação com a segurança e defesa dos portos, num país cuja economia apresenta uma forte dependência do comércio marítimo, assume indubitavelmente a natureza de um serviço público.
+A falta de um serviço eficaz constitui uma séria ameaça à segurança da navegação e traria consequências negativas de outra ordem, designadamente uma menor utilização dos portos nacionais.
+Pelo Decreto-Lei n.º 360/78, de 27 de Novembro, foi aprovado o Regulamento dos Serviços de Pilotagem dos Portos e Barras e, através do Decreto-Lei n.º 361/78, da mesma data, foi criado o Instituto Nacional de Pilotagem dos Portos (INPP).
+Estes diplomas previam a sua revisão obrigatória decorridos, respectivamente, 1 e 2 anos, a qual se impõe, de acordo com a experiência adquirida.
+De facto, o regime exclusivo atribuído ao INPP não se justifica nem será o mais adequado ao exercício deste serviço público. Por um lado, trata-se de uma prestação de serviço que não exige investimento significativo, por outro, os pilotos não estão sujeitos ao regime do funcionalismo público e a experiência estrangeira não adopta, geralmente, esta solução.
+Assim, o Conselho de Ministros, reunido em 5 de Março de 1982, resolveu encarregar o Ministro da Habitação, Obras Públicas e Transportes de adoptar as medidas necessárias à revisão do Regulamento dos Serviços de Pilotagem dos Portos e Barras e dos Estatutos do Instituto Nacional de Pilotagem dos Portos (INPP) e respectivos anexos, aprovados pelos Decretos-Leis n.os 360/78 e 361/78, respectivamente, ambos de 27 de Novembro, de acordo com os seguintes princípios:
+1.º Permitir o acesso à pilotagem, no espaço fluvial e marítimo nacional, a outras entidades, designadamente às administrações portuárias e a cooperativas, em condições que vierem a ser estabelecidas;
+2.º Dotar o INPP de uma orgânica adequada, promovendo a descentralização dos departamentos de pilotagem e uma efectiva função normativa e fiscalizadora por parte do Estado;
+3.º Adequar o regime de trabalho do pessoal às necessidades do serviço.
+Presidência do Conselho de Ministros, 5 de Março de 1982. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
