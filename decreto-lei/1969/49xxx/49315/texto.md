@@ -1,0 +1,12 @@
+Decreto-Lei n.º 49315
+Tornando-se necessário introduzir algumas alterações, impostas pelas necessidades dos serviços, no regime estabelecido pelo Decreto-Lei n.º 39889, de 5 de Novembro de 1954, para o recrutamento de estenógrafos da Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. Deixa de ser obrigatória para os terceiros-oficiais da Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa a frequência do curso especial de estenografia que funciona nessa Secretaria-Geral, ao abrigo do artigo 2.º do Decreto-Lei n.º 39889, de 5 de Novembro de 1954.
+2. Os mesmos funcionários poderão ser providos definitivamente sem o aproveitamento no curso a que se refere o número anterior.
+3. O conhecimento de estenografia, porém, continua a constituir condição de preferência nos concursos de admissão, nos termos da segunda parte do corpo do artigo 1.º do Decreto-Lei n.º 39889.
+Art. 2.º Poderão prestar serviço como estenógrafos adventícios, durante o período das sessões legislativas, além dos indivíduos a que se refere o artigo 6.º do Decreto-Lei n.º 39889, quaisquer outros que possuam a preparação adequada ao exercício das funções.
+Art. 3.º Serão fixados por despacho do Presidente do Conselho, ouvido o Ministro das Finanças, os quantitativos das gratificações previstas nos artigos 5.º e 6.º do Decreto-Lei n.º 39889 e das que devam ser abonadas pelo exercício das funções de estenógrafo nos termos do artigo anterior.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+Promulgado em 15 de Outubro de 1969.
+Publique-se.
+Presidência da República, 25 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
