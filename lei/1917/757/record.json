@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1917/08/12800/06030604.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1917-08-03",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "4f1fe66f359aa4c52041778290429d280fb8f4327273165fac89a1a4ef1302ff",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.2,
+    "pages": 2,
+    "columns": [
+      4,
+      5
+    ],
+    "pdf_sha256": "b10abb0f70c323da43933706da10e437fdf4ff44b0c8eca2e018e1629ef70d59",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 512
 }
