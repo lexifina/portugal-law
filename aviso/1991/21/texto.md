@@ -1,0 +1,13 @@
+Aviso n.º 21/91
+Por ordem superior se torna público que, por nota de 10 de Outubro de 1990 e nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia, a 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República Federal da Alemanha, nos termos do artigo 37.º, parágrafo 2.º, depositado o seu instrumento de ratificação da mencionada Convenção em 27 de Setembro de 1990, com a declaração de que a Convenção se aplicará a Berlim Oeste, com efeitos a partir da data em que entrar em vigor para a República Federal da Alemanha.
+Foi, também, formulada a seguinte reserva:
+[Tradução.] [A República Federal da Alemanha] declara, nos termos do terceiro parágrafo do artigo 26.º, não se encontrar vinculada a assumir quaisquer das despesas referidas no segundo parágrafo do artigo 26.º, decorrentes da participação de advogado ou consultor jurídico ou de custas judiciais, senão na medida em que essas possam estar cobertas pelas suas disposições em matéria de acesso ao direito e aos tribunais.
+Foi, igualmente, formulada a seguinte declaração:
+[Tradução.] A República Federal da Alemanha parte do princípio de que, nos termos do parágrafo 1 do artigo 24.º, os pedidos provenientes de outros Estados contratantes serão devidamente acompanhados de uma tradução em alemão.
+Nos termos do parágrafo 1.º do artigo 6.º da Convenção, a República Federal da Alemanha designou como autoridade central:
+Der Generalbundesanwalt beim Bundesgerichtshof - zentrale Behörde nach dem Sorgerechtsübereinkommens - Ausfürungsgesetz [o Procurador-Geral Federal junto do Tribunal Federal de Justiça - designado como autoridade central pelo regulamento de execução da Convenção em Matéria de Guarda de Menores], Neuenburger Strasse 15, 1000 Berlin 61.
+Endereço postal: Postfach 11 06 29, D - 1000 Berlin 11.
+A Convenção entra em vigor para a República Federal da Alemanha a 1 de Dezembro de 1990.
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, de 11 de Agosto, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984. A Convenção entrou em vigor para Portugal em 1 de Dezembro de 1983.
+A autoridade central portuguesa é a Direcção-Geral dos Serviços Tutelares de Menores, conforme aviso publicado no Diário da República, 1.ª série, n.º 165, de 20 de Julho de 1985.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 12 de Novembro de 1990. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
