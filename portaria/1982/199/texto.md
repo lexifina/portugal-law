@@ -1,0 +1,13 @@
+Portaria n.º 199/82
+de 18 de Fevereiro
+Para cumprimento do disposto no artigo 2.º do Decreto-Lei n.º 273/81, de 1 de Outubro:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior do Exército, que se observe o seguinte:
+1.º À alínea b) do artigo 44.º do Decreto-Lei n.º 176/71, de 30 de Abril (Estatuto do Oficial do Exército), são aditados 2 subnúmeros, com a seguinte redacção:
+Artigo 44.º ...
+a) ...
+b) ...
+...
+20) Sendo coronéis, estejam a aguardar preenchimento de vacaturas nas condições da alínea c) deste artigo.
+21) Sendo brigadeiros ou coronéis, estejam a aguardar preenchimento de vacaturas nas condições do n.º 6 do artigo 48.º
+2.º A presente portaria produz efeitos desde a entrada em vigor do Decreto-Lei n.º 185/80, de 12 de Junho.
+Estado-Maior do Exército, 23 de Dezembro de 1981. - O Chefe do Estado-Maior do Exército, Amadeu Garcia dos Santos, general.
