@@ -11,3 +11,5 @@
 3 - O destacamento de conservadores ou notários dentro da mesma localidade ou para localidade próxima pode ser determinado em regime de acumulação.
 
 4 - O tempo de serviço prestado no lugar para que o funcionário seja destacado vale para todos os efeitos legais como sendo prestado no lugar de origem.
+
+5 - O destacamento a que se refere o n.º 1 pode efectuar-se independentemente da espécie da repartição quando o interesse do serviço o justifique e desde que haja anuência dos responsáveis dos respectivos serviços.
