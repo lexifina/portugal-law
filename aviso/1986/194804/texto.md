@@ -1,0 +1,8 @@
+Aviso
+Por ordem superior se torna público que em 13 de Setembro de 1985 o Governo de Cabo Verde depositou junto do Secretário-Geral da Organização das Nações Unidas o instrumento de adesão de Cabo Verde à Convenção sobre a Cobrança de Alimentos no Estrangeiro, concluída em Nova Iorque em 20 de Junho de 1956.
+Em conformidade com as disposições dos parágrafos 1 e 2 do artigo 2.º da Convenção, o Governo de Cabo Verde designou os tribunais regionais para exercer sobre o seu território as funções de autoridade expedidora e a Procuradoria-Geral da República as de instituição intermediária.
+No momento da adesão, o Governo de Cabo Verde informou igualmente o Secretário-Geral, em conformidade com o parágrafo 2 do artigo 3.º da Convenção, que os elementos de prova exigidos em matéria de pedido de alimentos pela lei do Estado da instituição intermediária são, no caso de Cabo Verde, os seguintes:
+a) Atestado do grau de parentesco: certificado de casamento, se o credor for cônjuge, e acta de nascimento, se forem crianças as beneficiárias de pensão de alimentos;
+b) Declaração da entidade patronal do credor atestando os seus rendimentos, no caso de estar empregado; no caso contrário, declaração emitida pelas autoridades administrativas do local de residência certificando que o beneficiário não possui quaisquer rendimentos.
+De acordo com o parágrafo 2 do artigo 14.º, a Convenção em apreço entrou em vigor com respeito a Cabo Verde em 13 de Outubro de 1985.
+Secretaria-Geral do Ministério, 14 de Janeiro de 1986. - O Director dos Serviços Jurídicos e de Tratados, Francisco Manuel dos Reis Caldeira.
