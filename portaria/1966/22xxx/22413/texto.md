@@ -1,0 +1,33 @@
+Portaria n.º 22413
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:
+Nos termos do artigo 6.º do Decreto-Lei n.º 42559, de 3 de Outubro de 1959, reforçar com as quantias que se indicam as seguintes verbas da tabela de despesa do orçamento privativo das forças terrestres ultramarinas em vigor na província de Macau no ano económico de 1966:
+Despesas com o pessoal:
+Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo fora da província» ... 5000$00
+Despesas com o material:
+Artigo 4.º, n.º 1), alínea a) «Aquisições de utilização permanente - Móveis - Mobiliário, material de aquartelamento e outros artigos não especificados nas alíneas seguintes» ... 25000$00
+Artigo 4.º, n.º 1), alínea g) «Aquisições de utilização permanente - Móveis - Material de instrução e desportos» ... 8500$00
+Artigo 5.º, n.º 2) «Despesas de conservação e aproveitamento do material - De móveis» ... 6750$00
+Pagamento de serviços e diversos encargos:
+Artigo 7.º, n.º 1), alínea a) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização - Despesas das enfermarias e postos de socorros com tratamento de pessoal» ... 15000$00
+Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Despesas gerais de desinfecção e profilaxia» ... 5000$00
+Artigo 8.º, n.º 3), alínea a) «Despesas de comunicações - Transportes - De material» ... 37500$00
+... 102750$00
+tomando como contrapartida disponibilidades apuradas nas seguintes verbas da mesma tabela de despesa:
+Despesas com o pessoal:
+Artigo 3.º, n.º 2), alínea a) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Das tabelas gerais» ... 5000$00
+Despesas com o material:
+Artigo 4.º, n.º 1), alínea d) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 1750$00
+Artigo 4.º, n.º 1), alínea e) «Aquisições de utilização permanente - Móveis - Máquinas, ferramentas e utensílios congéneres» ... 5000$00
+Artigo 4.º, n.º 1), alínea f) «Aquisições de utilização permanente - Móveis - Artigos para o serviço de assistência religiosa» ... 2000$00
+Artigo 6.º, n.º 4), alínea a) «Material de consumo corrente - Munições - Diversos explosivos» ... 5000$00
+Pagamento de serviços e diversos encargos:
+Artigo 7.º, n.º 1), alínea b) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização - Despesas de tratamento e de internamento de pessoal em hospitais ou estabelecimentos congéneres, aos quais seja devido o seu pagamento» ... 20000$00
+Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 20000$00
+Artigo 8.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 17500$00
+Artigo 10.º, n.º 3) «Encargos administrativos - Análises de artigos de materiais, de géneros e de matérias-primas» ... 500$00
+Artigo 10.º, n.º 5), alínea a) «Encargos administrativos - Prémios de transferência de fundos - A pagar na província» ... 1000$00
+Artigo 12.º «Abono de família» ... 25000$00
+... 102750$00
+Presidência do Conselho, 31 de Dezembro de 1966. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.
+
+Para ser publicada no Boletim Oficial de Macau. - J. da Silva Cunha.
