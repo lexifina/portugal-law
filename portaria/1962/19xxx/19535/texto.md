@@ -1,0 +1,10 @@
+Portaria n.º 19535
+Tendo em conta que, no momento actual, se torna difícil assegurar convenientemente o funcionamento dos cursos especiais de preparação militar, por não poder ser distraído pessoal instrutor das suas missões específicas;
+Considerando que, dentro da reorganização territorial em estudo, deixará de haver uma unidade adequada à instalação de um centro de instrução dos cursos especiais de preparação militar, em Coimbra:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, do Exército e da Educação Nacional, observar o seguinte:
+1.º É suspenso, a partir de 31 de Dezembro de 1962, o funcionamento dos cursos especiais de preparação militar, organizados a título experimental, nos termos do artigo 62.º da Lei n.º 2034, de 18 de Julho de 1949, e regulados pela Portaria n.º 16294, de 16 de Maio de 1957.
+2.º Os soldados cadetes dos cursos especiais de preparação militar serão aumentados ao efectivo de unidades das guarnições das cidades em que frequentam os seus cursos, ficando na situação de licença registada até serem convocados para a frequência do curso de oficiais milicianos que por lei lhes competir. Ser-lhes-ão aplicáveis as normas em vigor em matéria de adiamentos.
+3.º São dispensados da frequência do 1.º ciclo do curso de oficiais milicianos os soldados cadetes habilitados com o 2.º ano de instrução dos cursos especiais de preparação militar.
+Os habilitados apenas com o 1.º ano são também dispensados do 1.º ciclo do curso de oficiais milicianos, mas terão de frequentar um estágio de adaptação de duas semanas antes da frequência do 2.º ciclo.
+4.º Os assuntos de carácter administrativo e os problemas a eles concernentes serão objecto de instruções a difundir pelo Estado-Maior do Exército.
+Ministérios das Finanças, do Exército e da Educação Nacional, 3 de Dezembro de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro do Exército, Mário José Pereira da Silva. - O Ministro da Educação Nacional, Manuel Lopes de Almeida.
