@@ -1,0 +1,126 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "tipo": "Projeto de Lei",
+  "numero": "86",
+  "id": "19138",
+  "fases": 18,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2002-06-27",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2003-09-14",
+    "DataInicioleg": "2002-04-05",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1655",
+        "nome": "Telmo Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1906",
+        "nome": "João Gago Horta"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1657",
+        "nome": "João Pinho de Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1982",
+        "nome": "Ribeiro dos Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1902",
+        "nome": "Miguel Raimundo"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1953",
+        "nome": "Diogo Feio"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1981",
+        "nome": "José Manuel Cordeiro"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1710",
+        "nome": "Herculano Gonçalves"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1310",
+        "nome": "Henrique Campos Cunha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1991",
+        "nome": "Clara Carneiro"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1921",
+        "nome": "Isabel Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1905",
+        "nome": "Fernando Negrão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1825",
+        "nome": "Luís Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1645",
+        "nome": "Henrique Chaves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1993",
+        "nome": "Pedro do Ó Ramos"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CDS-PP"
+      },
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "19138",
+    "IniLeg": "IX",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a5357357059326c6864476c32595338794d3259354e5459775a5330355a4446694c54526a5a4463744f5751334e53307a4d574534597a51355a5455784f5467755a47396a&fich=23f9560e-9d1b-4cd7-9d75-31a8c49e5198.doc&Inline=true",
+    "IniNr": "86",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Decreto-Lei n.º 92/95, de 12 de Setembro.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
