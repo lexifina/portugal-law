@@ -1,0 +1,13 @@
+Portaria n.º 410/92
+de 16 de Maio
+O Decreto-Lei n.º 366/90, de 24 de Novembro, consagrou, como princípio, o aumento gradual e progressivo das dotações de carga detidas pelas empresas, a ter lugar no início de cada ano civil, a partir de 1992 e mediante uma percentagem a fixar.
+É o que se alcança com a presente portaria e em obediência ao princípio estabelecido no supramencionado diploma legal.
+Por outro lado, dada a proliferação de valores de dotações de carga actualmente existente, importará introduzir algumas correcções ao princípio referido, por forma que os aumentos, resultado da aplicação do coeficiente fixado, produzam, na prática, uma aproximação com os valores dos pesos brutos dos veículos mais utilizados nos transportes de âmbito nacional. É o que se consegue com o arredondamento consagrado.
+Assim:
+Ao abrigo dos n.os 1 e 2 do artigo 10.º do Decreto-Lei n.º 366/90, de 24 de Novembro:
+Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:
+1.º O aumento das dotações de carga detidas pelas empresas de transporte público ocasional de mercadorias para vigorar no ano civil de 1992 é de 50%.
+2.º Sempre que, por aplicação do coeficiente referido no número anterior, se obtenha um resultado diferente de um múltiplo de 40, é esse mesmo resultado arredondado para o múltiplo de 40 imediatamente a seguir.
+Ministério das Obras Públicas, Transportes e Comunicações.
+Assinada em 23 de Abril de 1992.
+Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.
