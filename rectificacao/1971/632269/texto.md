@@ -1,0 +1,2 @@
+Rectificação
+Rectificação. - No sumário da Portaria n.º 669/71, publicada pelo Ministério das Finanças, Inspecção-Geral de Crédito e Seguros, inserta no Diário do Governo, 1.ª série, n.º 285, de 6 de Dezembro de 1971, onde se lê: «que regula a constituição e funcionamento de fundos de investimentos imobiliários», deve ler-se: «que regula a constituição e funcionamento de fundos de investimentos mobiliários».
