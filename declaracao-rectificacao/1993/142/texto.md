@@ -1,0 +1,5 @@
+Declaração de rectificação n.º 142/93
+Segundo comunicação do Ministério do Emprego e da Segurança Social, a Portaria n.º 617/93, publicada no Diário da República, 1.ª série, n.º 151, de 30 de Junho de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No grupo de pessoal administrativo, na área funcional, onde se lê «Contabilidade, pessoal economato, secretariado, arquivo e expediente» deve ler-se «Contabilidade, pessoal, economato, secretariado, arquivo e expediente».
+Na alínea g), onde se lê «Lugares a extinguir à medida que vagarem, um criado pela Portaria n.º 201/88, de 30 de Março, e quadro criados pela Portaria n.º 486/90, de 29 de Junho» deve ler-se «Lugares a extinguir à medida que vagarem, um criado pela Portaria n.º 201/88, de 30 de Março, e quatro criados pela Portaria n.º 486/90, de 29 de Junho».
+Secretaria-Geral da Presidência do Conselho de Ministros, 3 de Agosto de 1993. - O secretário-geral, França Martins.
