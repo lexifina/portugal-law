@@ -1,0 +1,5 @@
+Aviso n.º 9/2000
+Por ordem superior se torna público que, por nota de 14 de Dezembro de 1999, o director-geral da Organização Internacional do Trabalho, na sua qualidade de depositário da Convenção n.º 151 da OIT, relativa à protecção do direito de organização e aos processos de fixação das condições de trabalho da função pública, adoptada em Genebra em 27 de Junho de 1978, comunicou ter o Governo de Portugal notificado, em 29 de Novembro de 1999, que a referida Convenção foi estendida ao território de Macau, nos mesmos termos a que a ela está vinculado o Estado Português.
+Portugal é Parte na Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 17/80, de 15 de Julho, publicado no Diário da República, 1.ª série, n.º 161, de 15 de Julho de 1980, e foi estendida a Macau pelo Decreto do Presidente da República n.º 212/99, de 9 de Novembro, publicado no Diário da República, 1.ª série-A, n.º 261, de 9 de Novembro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 14 de Dezembro de 1999. - João Maria Rebelo de Andrade Cabral.
