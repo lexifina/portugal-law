@@ -1,0 +1,4 @@
+Aviso n.º 15/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, depositário das convenções concluídas na Haia em 18 de Outubro de 1907 no decurso da Conferência Internacional da Paz de 1907, notificou que a República de Chipre aderiu à Convenção para a Solução Pacífica dos Conflitos Internacionais, concluída na Haia em 18 de Outubro de 1907, em conformidade com o seu artigo 94. A República de Chipre depositou o seu instrumento de adesão em 13 de Setembro de 1993.
+O instrumento de ratificação por parte de Portugal foi depositado em 13 de Abril de 1911, conforme Diário do Governo, n.os 49, de 2 de Março, e 104, de 5 de Maio de 1911.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 21 de Dezembro de 1993. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
