@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1922/09/19400/09930993.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1922-09-18",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "42840f91ca11b548d8537673acacea33167e23587272b28d29f6cbd2ecf615f5",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.2,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "6baac46be6a3c045ad7dc407b737cb4f7fcb2442142441fdd1420fe33e6983a4",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 385
 }
