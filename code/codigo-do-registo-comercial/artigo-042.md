@@ -23,3 +23,5 @@ c) A certificação legal das contas consolidadas;
 d) O parecer do órgão de fiscalização, quando exista.
 
 3 - Relativamente às empresas públicas, a acta de aprovação é substituída pelo despacho de aprovação do ministro da tutela e a certificação legal é substituída pelo parecer da Inspecção-Geral de Finanças.
+
+4 - As fotocópias dos documentos previstos nos números anteriores não carecem de autenticação.
