@@ -1,0 +1,115 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P0Fiu%2fOxm2B6i1Qb1v6Kl8P9Ddn6RTIUCktgva%2fyOaH7lWGUnkkysYTUSoIwHSs4BsNkQvxZU1Jn26l834KO7HtuiuTauD6UP2bFLXGt1tGFPrfPngnS3CSTBHYbjc71uc6LAaWwWMNPEAhBQhLTogdfX0k86zYaSRdtMb5VxaaW%2bmRVLZ1kFuUjHoiU3DnKr1hwTFH2RjyVH0%2bkvoh5J2473p4WEAcwEGu0cbkopo0uGKBdgu45lweS1xncByHsc5RkSTt5XtJ4jYpzMHGU0JCobwocVoDRrWDIaByf6THsN8d28CiCvqU0mvdSGeyt9pZrFNIo3KeVbLuYHnmRx0uPU1z9aF2A03pcO1L5Ivg%3d&fich=AtividadesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "158feac9a195837800498c997c5f15d982e196bc878ba5194b23e12459159b60",
+  "legislatura": "IX",
+  "tipo": "Voto",
+  "numero": "206",
+  "data_registo": "2004-09-29",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Protesto pela ausência de informação e pela opacidade relativas à política de saúde do Governo PSD-CDS-PP.",
+    "AutoresGP": [
+      "PS",
+      "Afonso Candal (PS)",
+      "José Magalhães (PS)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2004-09-30",
+    "DataAnuncio": null,
+    "DataEntrada": "2004-09-29",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "IX",
+    "Numero": "206",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "295169",
+        "obs": null,
+        "pag": [
+          "2-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-10-02",
+        "pubLeg": "IX",
+        "pubNr": "3",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/03/003/2004-10-02/2?pgs=2-3&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "21467",
+        "obs": null,
+        "pag": [
+          "399-402"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-10-01",
+        "pubLeg": "IX",
+        "pubNr": "8",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/008/2004-10-01/399?pgs=399-402&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "3",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2004-09-30",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "32491",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "292657",
+            "obs": null,
+            "pag": [
+              "404-404"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-10-01",
+            "pubLeg": "IX",
+            "pubNr": "8",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/008/2004-10-01/404?pgs=404&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "8",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
