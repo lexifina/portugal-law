@@ -8,4 +8,4 @@
 
 1 - Os registos são efectuados no prazo de quinze dias, pela ordem de anotação ou da sua dependência.
 
-2 - Em caso de urgência invocada em requerimento do apresentante, o conservador pode proceder à feitura do registo sem subordinação à ordem de anotação, fundamentando a sua decisão.
+2 - Em caso de urgência invocada em requerimento do apresentante, o conservador pode, fundamentando a sua decisão, proceder à feitura do registo sem subordinação à ordem de anotação, mas sem prejuízo da dependência dos actos.

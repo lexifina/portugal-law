@@ -6,10 +6,12 @@ Estão ainda sujeitos a registo:
 
 a) O mandato comercial escrito, suas alterações e extinção;
 
-b) A criação, a alteração e o encerramento de representações permanentes de sociedades, cooperativas, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico com sede em Portugal ou no estrangeiro, bem como a designação, poderes e cessação de funções dos respectivos representantes;
+b) A designação do gestor judicial, quando os poderes conferidos e os suspensos, restringidos ou condicionados aos órgãos sociais devam ser registados;
 
-c) A prestação de contas das sociedades com sede no estrangeiro e representação permanente em Portugal;
+c) A criação, a alteração e o encerramento de representações permanentes de sociedades, cooperativas, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico com sede em Portugal ou no estrangeiro, bem como a designação, poderes e cessação de funções dos respectivos representantes;
 
-d) O contrato de agência ou representação comercial, quando celebrado por escrito, suas alterações e extinção;
+d) A prestação de contas das sociedades com sede no estrangeiro e representação permanente em Portugal;
 
-e) Quaisquer outros factos que a lei declare sujeitos a registo comercial.
+e) O contrato de agência ou representação comercial, quando celebrado por escrito, suas alterações e extinção;
+
+f) Quaisquer outros factos que a lei declare sujeitos a registo comercial.

@@ -6,7 +6,7 @@
 
 ### Legalização de livros
 
-1 - A legalização dos livros dos comerciantes, quando determinada na lei, deve ser realizada pela conservatória do registo comercial competente.
+1 - A legalização dos livros dos comerciantes, quando determinada na lei, e dos livros das actas da assembleia geral das sociedades deve ser realizada pela conservatória do registo comercial competente.
 
 2 - É competente a conservatória que detenha a pasta pertencente à entidade a que os livros respeitem.
 

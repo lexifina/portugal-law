@@ -12,7 +12,7 @@ c) De constituição provisória de sociedades anónimas com apelo a subscriçã
 
 d) De aumento de capital por emissão de obrigações convertíveis em acções, antes da emissão destas;
 
-e) De concordata, acordo de credores, gestão controlada, falência ou insolvência requeridas antes de transitada em julgado a respectiva sentença declaratória ou de homologação;
+e) As deliberações da assembleia de credores que hajam aprovado ou rejeitado as providências de recuperação da empresa tomadas no correspondente processo, antes de transitada em julgado a decisão de homologação;
 
 f) De transmissão de quotas por arrematação judicial, antes de emitido o título;
 
@@ -38,4 +38,4 @@ b) Dependentes de qualquer registo provisório;
 
 c) Que, em reclamação contra a reforma de livros e fichas, se alega terem sido omitidas;
 
-d) Efectuadas na dependência de reclamação ou de recurso contra a recusa do registo ou enquanto não decorrer o prazo para a sua interposição.
+d) Efectuadas na pendência de reclamação ou de recurso contra a recusa do registo, ou enquanto não decorrer o prazo para a sua interposição.
