@@ -1,15 +1,9 @@
 ## Subsecção II
 
-## Dos crimes contra a capacidade militar e a defesa nacionais
+## Dos crimes contra Estados estrangeiros e organizações internacionais
 
 # Artigo 321.º
 
-### Mutilação para isenção de serviço militar
+### Entrega ilícita de pessoa a entidade estrangeira
 
-Quem, com intenção de se subtrair ao serviço militar, mediante mutilação ou qualquer outro meio:
-
-a) Se tornar ou fizer tornar, definitiva ou temporariamente, no todo ou em parte, incapaz para cumprir as obrigações daquele serviço; ou
-
-b) Tornar outra pessoa, com o seu consentimento, definitiva ou temporariamente, no todo ou em parte, incapaz para o cumprimento daquelas obrigações;
-
-é punido com pena de prisão até 3 anos.
+Quem, em território português, praticar factos conducentes à entrega ilícita de pessoa, nacional ou estrangeira, a Estado estrangeiro, a agente deste ou a qualquer entidade pública ou particular existente nesse Estado, usando para tal fim de violência ou de fraude, é punido com pena de prisão até 5 anos, se pena mais grave lhe não couber por força de outra disposição legal.

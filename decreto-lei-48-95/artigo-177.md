@@ -14,8 +14,10 @@ b) Se encontrar numa relação de dependência hierárquica, económica ou de tr
 
 2 - As penas previstas nos artigos 163.º a 167.º e 172.º a 175.º são agravadas de um terço, nos seus limites mínimo e máximo, se o agente for portador de doença sexualmente transmissível, nomeadamente doença venérea ou sifilítica.
 
-3 - As penas previstas nos artigos 163.º a 168.º e 172.º a 175.º são agravadas de metade, nos seus limites mínimo e máximo, se dos comportamentos aí descritos resultar gravidez, ofensa à integridade física grave, transmissão de vírus do síndroma de imunodeficiência adquirida, suicídio ou morte da vítima.
+3 - As penas previstas nos artigos 163.º a 168.º e 172.º a 175.º são agravadas de metade, nos seus limites mínimo e máximo, se dos comportamentos aí descritos resultar gravidez, ofensa à integridade física grave, transmissão de vírus da síndroma de imunodeficiência adquirida ou de formas de hepatite que criem perigo para a vida, suicídio ou morte da vítima.
 
-4 - As penas previstas nos artigos 163.º, 164.º, 168.º e 169.º são agravadas de um terço, nos seus limites mínimo e máximo, se a vítima for menor de 14 anos.
+4 - As penas previstas nos artigos 163.º, 164.º e 168.º são agravadas de um terço, nos seus limites mínimo e máximo, se a vítima for menor de 14 anos.
 
-5 - Se no mesmo comportamento concorrerem mais do que uma das circunstâncias referidas nos números anteriores só é considerada para efeito de determinação da pena aplicável a que tiver efeito agravante mais forte, sendo a outra ou outras valoradas na medida da pena.
+5 - A agravação prevista na alínea b) do n.º 1 não é aplicável nos casos dos artigos 163.º, n.º 2, e 164.º, n.º 2.
+
+6 - Se no mesmo comportamento concorrerem mais do que uma das circunstâncias referidas nos números anteriores só é considerada para efeito de determinação da pena aplicável a que tiver efeito agravante mais forte, sendo a outra ou outras valoradas na medida da pena.

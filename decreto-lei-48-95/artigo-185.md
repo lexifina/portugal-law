@@ -6,7 +6,7 @@
 
 2 - É correspondentemente aplicável o disposto:
 
-a) Nos n.os 2, 3, 4 e 5 do artigo 180.º; e
+a) Nos n.os 2, 3 e 4 do artigo 180.º; e
 
 b) No artigo 183.º
 
