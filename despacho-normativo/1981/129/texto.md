@@ -1,0 +1,8 @@
+Despacho Normativo n.º 129/81
+Pelo Decreto-Lei n.º 65/81, de 3 de Abril, foi criada a Secretaria-Geral do Ministério da Qualidade de Vida, extinguindo-se a Secretaria-Geral da Secretaria de Estado da Comunicação Social.
+Encontrando-se em adiantada fase de elaboração o diploma que define as atribuições, organização e competência, bem como o regime de pessoal da Secretaria-Geral, torna-se contudo desde já necessário, nos termos do artigo 4.º do referido decreto-lei, determinar o seguinte:
+1) Os serviços integrados na Secretaria-Geral da Secretaria de Estado da Comunicação Social transitam para a Secretaria-Geral do Ministério da Qualidade de Vida;
+2) O pessoal da Secretaria-Geral do Ministério da Qualidade de Vida será o que estava afecto à Secretaria-Geral da Secretaria de Estado da Comunicação Social, devendo os provimentos desse pessoal regular-se pelas disposições gerais e especiais aplicáveis a esta Secretaria de Estado;
+3) Os vencimentos do referido pessoal e demais abonos, bem como as despesas de manutenção da Secretaria-Geral, continuarão a ser assegurados pelas verbas comuns do orçamento da Secretaria de Estado da Comunicação Social, enquanto aquela não dispuser de orçamento próprio;
+4) Até à publicação da Lei Orgânica do Ministério da Qualidade de Vida, a Secretaria-Geral funcionará como órgão de apoio técnico-administrativo aos Gabinetes dos membros do Governo do Ministério e aos serviços integrados na Secretaria de Estado da Comunicação Social.
+Ministério da Qualidade de Vida, 10 de Abril de 1981. - O Ministro da Qualidade de Vida, Augusto Martins Ferreira do Amaral.
