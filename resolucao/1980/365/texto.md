@@ -1,0 +1,5 @@
+Resolução n.º 365/80
+Pela Resolução n.º 197/79, de 20 de Junho, publicada no Diário da República, 1.ª série, n.º 154, de 6 de Julho de 1979, foi autorizada a concessão do aval do Estado aos juros referentes a operações de crédito concedidas por instituições de crédito do sector público à Torralta - Club Internacional de Férias, S. A. R. L., e que já tivessem beneficiado do aval do Estado, até à data limite para a entrega da proposta do contrato de viabilização (31 de Dezembro de 1979).
+Considerando que não foi possível formalizar, até àquela data, o aval às referidas operações:
+O Conselho de Ministros, reunido em 24 de Setembro de 1980, resolveu autorizar que a formalização dos avales a que se refere a Resolução n.º 197/79, de 20 de Junho, publicada no Diário da República, 1.ª série, n.º 154, de 6 de Julho de 1979, se efectue no prazo de noventa dias, a contar da data da publicação da presente resolução.
+Presidência do Conselho de Ministros, 24 de Setembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
