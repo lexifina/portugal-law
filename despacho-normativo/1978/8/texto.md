@@ -1,0 +1,7 @@
+Despacho Normativo n.º 8/78
+1 - O Decreto-Lei n.º 72/76, de 27 de Janeiro, estabeleceu as bases gerais de organização e financiamento das companhias de seguros nacionalizadas; em quase dois anos de vigência, constatou-se que o diploma deixou sem cobertura legal alguns aspectos essenciais, razão por que se iniciaram os estudos necessários à sua remodelação.
+2 - Entretanto, para se dotar o sector de uma estrutura legislativa que permita a resolução urgente dos problemas resultantes das deficiências e insuficiências daquele diploma, foi publicado o Decreto-Lei n.º 353-A/77, de 29 de Agosto, que introduziu um n.º 2 ao artigo 49.º do Decreto-Lei n.º 260/76, de 8 de Abril, estabelecendo a submissão das empresas seguradoras nacionalizadas (entre outras) aos princípios fixados neste diploma.
+3 - Tendo-se suscitado dúvidas sobre o alcance desse preceito, esclarece-se o seguinte:
+a) O Decreto-Lei n.º 72/76, de 27 de Janeiro, continua em vigor; o Decreto-Lei n.º 260/76, de 8 de Abril, constitui direito subsidiário daquele, nos termos do n.º 2 do seu artigo 49.º, introduzido pelo artigo 1.º do Decreto-Lei n.º 353-B/77, de 29 de Agosto;
+b) O Ministério das Finanças, através dos órgãos competentes, está a proceder à remodelação do Decreto-Lei n.º 72/76, de 27 de Janeiro, processo que deverá estar concluído no prazo de três meses.
+Ministérios do Plano e Coordenação Económica e das Finanças, 22 de Dezembro de 1977. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.
