@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que no dia 2 de Novembro de 1982 os Governos de Portugal e da Venezuela trocaram os respectivos instrumentos de ratificação relativos à Convenção entre a República Portuguesa e a República da Venezuela para Evitar a Dupla Tributação das Empresas de Transporte Aéreo, relativamente aos Impostos sobre o Rendimento, assinada em Caracas em 29 de Maio de 1978, cujos textos em português e castelhano foram publicados no Diário da República, 1.ª série, n.º 256, sob o Decreto n.º 118/79, de 6 de Novembro. A referida Convenção, nos termos do n.º 2 do seu artigo 7.º, entrou em vigor em 1 de Dezembro de 1982.
+Direcção-Geral dos Negócios Económicos, 31 de Outubro de 1985. - O Director-Geral-Adjunto, Luís de Oliveira Nunes.
