@@ -7,3 +7,5 @@
 2 - A disciplina do n.º 2 do artigo 38.º do Código do IRC é também aplicável quando os beneficiários forem fundos de pensões e equiparáveis, constituídos de acordo com a legislação nacional.
 
 3 - São isentos de imposto municipal de sisa e do imposto sobre as sucessões e doações, por avença, os fundos de pensões e equiparáveis constituídos de acordo com a legislação nacional.
+
+4 - Ficam isentas do imposto sobre as sucessões e doações as transmissões por morte a favor do cônjuge sobrevivo e dos filhos ou adoptados, no caso de adopção plena, dos valores acumulados afectos a fundos de pensões resultantes de contribuições individuais dos participantes.

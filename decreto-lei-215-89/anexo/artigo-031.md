@@ -1,5 +1,5 @@
 # Artigo 31.º
 
-### Acções cotadas em bolsa
+### Acções admitidas à negociação dos mercados de bolsa
 
-Os dividendos de acções cotadas em bolsa, distribuídos em 1992, contam apenas por 60% do seu quantitativo para fins de IRS ou de IRC.
+Os dividendos distribuídos de acções admitidas à negociação dos mercados de bolsa contam apenas por 60% do seu quantitativo para fins de IRS ou de IRC.
