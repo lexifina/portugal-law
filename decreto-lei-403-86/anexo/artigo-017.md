@@ -1,19 +1,11 @@
 # Artigo 17.º
 
-### Incumprimento da obrigação de registar dentro do prazo
+### Incumprimento da obrigação de registar
 
-1 - Pelo registo dos factos previstos no artigo 15.º, para além dos prazos aí mencionados, é devido o pagamento em dobro do emolumento aplicável.
+1 - Os comerciantes individuais, as cooperativas e as sociedades com capital não superior a 400000$00 que não requeiram, dentro do prazo legal, a inscrição dos factos sujeitos a registo obrigatório são punidos com coima no mínimo de 1000$00 e no máximo de 10000$00.
 
-2 - O disposto no número anterior não se aplica aos tribunais e ao Ministério Público.
+2 - As sociedades com capital superior a 400000$00, os agrupamentos complementares de empresas, os agrupamentos europeus de interesse económico e as empresas públicas que não cumpram igual obrigação são punidos com coima no mínimo de 10000$00 e no máximo de 100000$00.
 
-3 - O incumprimento da obrigação de registar a prestação de contas obsta ao registo de outros factos sobre a entidade, com exceção dos registos de designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos membros dos órgãos de administração e de fiscalização, de atos emanados de autoridade administrativa, das ações, decisões, procedimentos e providências cautelares previstas no artigo 9.º, bem como do arresto, do arrolamento, da penhora e da apreensão em processo penal, de quotas ou direitos sobre elas, outros atos ou providências que afetem a sua livre disposição, e quaisquer outros registos a efetuar por depósito.
+3 - As partes nos actos de unificação, divisão, transmissão e usufruto de quotas que não requeiram no prazo legal a respectiva inscrição são solidariamente punidas com coima com iguais limites.
 
-4 - (Revogado.)
-
-5 - (Revogado.)
-
-6 - (Revogado.)
-
-7 - (Revogado.)
-
-8 - (Revogado.)
+4 - Para conhecer das contra-ordenações previstas nos números anteriores e aplicar as respectivas coimas é competente o conservador do registo comercial da área da sede da sociedade.

@@ -2,16 +2,6 @@
 
 ### Representação
 
-1 - O registo pode ser pedido por:
+1 - O registo pode ser pedido por mandatário com procuração bastante ou por quem tenha poderes de representação para intervir no respectivo título ou ainda por advogado ou solicitador.
 
-a) Aqueles que tenham poderes de representação para intervir no respectivo título;
-
-b) Mandatário com procuração bastante;
-
-c) Advogados, notários e solicitadores;
-
-d) Revisores e técnicos oficiais de contas, para o pedido de depósito dos documentos de prestação de contas.
-
-2 - A representação subsiste até à realização do registo, abrangendo, designadamente, a faculdade de requerer urgência na sua realização e a de impugnar a decisão de qualificação do registo, nos termos do artigo 101.º, e implica a responsabilidade solidária do representante no pagamento dos respectivos encargos.
-
-3 - Sem prejuízo do disposto no número anterior, a representação para efeitos de impugnação judicial só pode ser assegurada por mandatário com poderes especiais para o efeito ou com poderes forenses gerais.
+2 - A interposição de recurso ou de reclamação hierárquica pode ser subscrita por procurador bastante, havendo-se como tal o mandatário com poderes forenses gerais.

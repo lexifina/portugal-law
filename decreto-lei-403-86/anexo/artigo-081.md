@@ -1,7 +1,7 @@
 # Artigo 81.º
 
-### Processo especial de rectificação
+### Rectificação
 
-1 - O processo previsto neste capítulo visa a rectificação dos registos e é regulado pelos artigos seguintes e, subsidiariamente, pelo Código de Processo Civil.
+1 - Os registos inexactos e os registos indevidamente lavrados devem ser rectificados por iniciativa do conservador, logo que tome conhecimento da irregularidade, ou a pedido de qualquer interessado, ainda que não inscrito.
 
-2 - O processo especial de rectificação é aplicável, com as necessárias adaptações, aos registos por depósito.
+2 - Os registos nulos por violação do princípio do trato sucessivo podem ser rectificados pela feitura do registo em falta, se não estiver registada acção de declaração de nulidade.

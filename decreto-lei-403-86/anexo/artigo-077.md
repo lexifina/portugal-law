@@ -1,11 +1,9 @@
 # Artigo 77.º
 
-### Requisição de certidões
+### Conteúdo de certidões
 
-1 - As certidões podem ser requisitadas verbalmente ou por escrito, em termos a definir por portaria do Ministro da Justiça.
+1 - As certidões ou fotocópias devem reproduzir o extracto dos registos em vigor respeitantes ao comerciante individual, à pessoa colectiva ou estabelecimento individual de responsabilidade limitada, salvo se tiverem sido pedidas com referência apenas a certos actos de registo.
 
-2 - Os modelos dos requerimentos de certidões que possam ser requisitadas por escrito são aprovados por despacho do director-geral dos Registos e do Notariado.
+2 - As certidões de narrativa e as certidões e fotocópias pedidas com referência a certos actos serão passadas por forma a não induzirem em erro acerca do conteúdo do registo e da posição dos seus titulares e devem referir os factos registados ou os títulos apresentados que alterem o pedido.
 
-3 - As requisições de certidões podem ser entregues na conservatória ou enviadas pelo correio ou ainda por via electrónica, nos termos previstos em diploma próprio.
-
-4 - Os pedidos de certidão de registo devem conter, além da identificação do requerente, o número de matrícula da entidade ou, nos casos de certidão negativa, o nome ou firma da entidade.
+3 - As certidões e fotocópias de registo que revelem alguma irregularidade ou deficiência ou rectificada devem mencionar esta circunstância.

@@ -1,5 +1,5 @@
 # Artigo 85.º
 
-### Consentimento dos interessados
+### Efeitos da rectificação
 
-Se a rectificação tiver sido requerida por todos os interessados, é rectificado o registo sem necessidade de outra qualquer formalidade, se os pressupostos da rectificação pedida resultarem dos documentos apresentados.
+A rectificação do registo não prejudica os direitos adquiridos a título oneroso por terceiros de boa fé, se o registo dos factos correspondentes for anterior ao registo da rectificação ou da pendência do respectivo processo

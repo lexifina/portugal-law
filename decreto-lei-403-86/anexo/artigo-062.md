@@ -1,13 +1,5 @@
 # Artigo 62.º
 
-### Matrícula
+### Elementos da matrícula
 
-1 - A matrícula destina-se à identificação da entidade sujeita a registo.
-
-2 - A cada entidade sujeita a registo corresponde uma só matrícula.
-
-3 - Os elementos constantes da matrícula e a sua correspondente actualização ou rectificação resultam dos registos que sobre ela incidem.
-
-4 - A matrícula é aberta com carácter definitivo, independentemente da qualificação atribuída ao registo que origina a sua abertura.
-
-5 - A actualização ou rectificação dos elementos da matrícula só pode decorrer de registo definitivo que publicite tais factos.
+O extracto da matrícula deve conter o nome completo do comerciante individual e o seu número fiscal ou a firma ou denominação da pessoa colectiva, estabelecimento individual de responsabilidade limitada e o número de identificação de pessoa colectiva ou entidade equiparada.

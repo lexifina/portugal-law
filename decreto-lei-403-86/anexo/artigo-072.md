@@ -2,16 +2,10 @@
 
 ### Modalidades das publicações
 
-1 - Das publicações devem constar as menções obrigatórias do registo.
+1 - Das publicações devem constar as menções obrigatórias do registo e, no caso de alteração, a referência à data e número do jornal da anterior publicação.
 
-2 - A publicação do contrato ou do estatuto por que se rege a pessoa colectiva, bem como das respectivas alterações, é efectuada nos termos do número anterior, com a menção especial do depósito do texto actualizado do contrato ou estatuto.
+2 - O acto constitutivo de pessoas colectivas, as respectivas alterações, os documentos de prestação de contas, bem como a acta de encerramento da liquidação das sociedades anónimas com subscrição pública, devem ser publicados integralmente.
 
-3 - (Revogado.)
+3 - Em relação aos restantes actos, a publicação pode ser feita integralmente, por extracto ou por menção do depósito na pasta respectiva, conforme declaração do requisitante.
 
-4 - A publicação da informação constante dos documentos de prestação de contas das sociedades não inclui a certificação legal das contas, mas é nelas divulgado:
-
-a) Se o parecer de revisão traduz uma opinião sem reservas ou com reservas, se é emitida uma opinião adversa ou se o revisor oficial de contas não está em condições de exprimir uma opinião de revisão;
-
-b) Se no documento de certificação legal das contas é feita referência a qualquer questão para a qual o revisor oficial de contas tenha chamado a atenção com ênfase, sem qualificar a opinião de revisão.
-
-5 - (Revogado.)
+4 - A publicação referente ao depósito do texto completo do contrato ou estatuto alterado será feita por simples menção do depósito, juntamente com a publicação integral da respectiva alteração.

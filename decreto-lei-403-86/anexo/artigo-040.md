@@ -2,10 +2,8 @@
 
 ### Representações sociais
 
-1 - O registo das representações permanentes de sociedades com sede principal e efectiva em Portugal é feito em face de documento comprovativo da deliberação social que a estabeleça.
+1 - O registo da representação permanente em Portugal de sociedades constituídas no estrangeiro e do acto constitutivo da própria sociedade é feito em face dos documentos comprovativos da existência da sociedade e do teor actualizado do respectivo contrato, de harmonia com a sua lei, devidamente legalizado e traduzido.
 
-2 - O registo das representações permanentes de sociedades com sede principal e efectiva no estrangeiro é feito em face de documento comprovativo da deliberação social que a estabeleça, do texto completo e actualizado do contrato de sociedade e de documento que prove a existência jurídica deste.
+2 - O registo das representações de sociedades portuguesas e das demais representações de sociedades constituídas no estrangeiro efectua-se com base no documento comprovativo da deliberação social que as estabeleça e do documento que prove o registo da sociedade.
 
-3 - Para efeitos de registo da designação dos representantes, deve ser apresentado documento comprovativo da designação e respetivos poderes e, quando deste não constem, declaração de aceitação da designação e declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir para a ocupação do cargo.
-
-4 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, a outras pessoas colectivas de tipo correspondente a qualquer das abrangidas por este diploma.
+3 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, a outras pessoas colectivas de tipo correspondente a qualquer das abrangidas por este diploma.

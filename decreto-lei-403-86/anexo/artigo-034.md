@@ -2,8 +2,8 @@
 
 ### Comerciante individual
 
-1 - O registo do início, alteração e cessação de actividade do comerciante individual, bem como da modificação dos seus elementos de identificação, efectua-se com base na declaração do interessado.
+1 - O registo do início, alteração e cessação de actividade do comerciante individual, bem como da modificação dos seus elementos de identificação, efectua-se em face de declaração do interessado em impresso próprio.
 
-2 - Com o pedido de registo de modificação do estado civil ou do regime de bens do comerciante individual deve ser arquivado o respectivo documento comprovativo.
+2 - Com a declaração registral do início da actividade deve ser exigido o certificado de admissibilidade da firma adoptada.
 
-3 - O registo de cessação de atividade do comerciante individual é realizado oficiosa e gratuitamente, na sequência da comunicação ao Instituto dos Registos e do Notariado, I. P., das decisões de inibição e de destituição para efeitos de integração da informação na base de dados de inibições e destituições.
+3 - Com a declaração de modificação do estado civil ou do regime de bens do comerciante individual deve ser depositado o respectivo documento comprovativo emitido pela competente conservatória do registo civil.

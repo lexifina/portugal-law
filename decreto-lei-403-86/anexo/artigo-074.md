@@ -1,9 +1,9 @@
 # Artigo 74.º
 
-### Cópias não certificadas
+### Buscas
 
-1 - Podem ser passadas cópias integrais ou parciais não certificadas, com o valor de informação, dos registos e despachos e de quaisquer documentos.
+1 - Para efeitos do disposto no artigo anterior, apenas os funcionários podem consultar os livros, pastas, fichas e documentos, de harmonia com as indicações dadas pelos interessados.
 
-2 - Nas cópias referidas no número anterior deve ser aposta a menção «cópia não certificada».
+2 - Podem ser passadas fotocópias ou cópias, integrais ou parciais, não certificadas, com o valor de informações, dos registos e despachos e de quaisquer documentos.
 
-3 - As cópias não certificadas podem ser disponibilizadas em suporte eletrónico, em termos a definir por portaria do membro do Governo responsável pela área da justiça.
+3 - Nestas cópias deve ser aposta, de forma bem visível, a menção «cópia não certificada».

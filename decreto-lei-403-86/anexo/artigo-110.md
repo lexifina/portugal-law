@@ -1,15 +1,9 @@
 # Artigo 110.º
 
-### Impugnação da recusa de emissão de certidões
+### Impugnação da conta dos actos e da recusa da passagem de certidões
 
-1 - Assiste ao interessado o direito de recorrer hierarquicamente ou de promover a impugnação judicial da decisão de recusa de emissão de certidão.
+1 - Assiste aos interessados o direito de interporem reclamação e recurso hierárquico contra erros que entendam ter havido na liquidação da conta dos actos ou na aplicação das tabelas emolumentares, bem como contra a recusa do conservador em passar qualquer certidão.
 
-2 - Sem prejuízo do disposto nos números seguintes, ao recurso hierárquico a que se refere o número anterior é aplicável, com as necessárias adaptações, o disposto no n.º 2 do artigo 101.º e nos artigos 101.º-A, 101.º-B e 102.º
+2 - Salvo o disposto no n.º 3, à reclamação e ao recurso hierárquico referidos no número anterior são aplicáveis, com as devidas adaptações, os artigos 99.º a 103.º
 
-3 - No recurso hierárquico a que se refere o presente artigo, os prazos estabelecidos nos n.os 1 e 3 do artigo 101.º-B e no n.º 1 do artigo 102.º são reduzidos a 5, 2 e 30 dias, respetivamente.
-
-4 - O prazo para a interposição do recurso hierárquico conta-se a partir da comunicação do despacho de recusa.
-
-5 - Ao recurso hierárquico a que se refere o presente artigo é subsidiariamente aplicável o disposto no Código do Procedimento Administrativo.
-
-6 - A impugnação judicial prevista no n.º 1 é dirigida ao tribunal administrativo com jurisdição sobre a área da circunscrição da conservatória e rege-se pelo disposto na legislação processual aplicável.
+3 - Tratando-se de reclamação contra a recusa de passagem de certidões, o prazo fixado no n.º 1 do artigo 99.º conta-se a partir do termo do prazo legal para a emissão de certidões.

@@ -4,7 +4,7 @@
 
 Estão sujeitas a registo:
 
-a) (Revogada.);
+a) As acções de interdição do comerciante individual e de levantamento desta;
 
 b) As acções que tenham como fim, principal ou acessório, declarar, fazer reconhecer, constituir, modificar ou extinguir qualquer dos direitos referidos nos artigos 3.º a 8.º;
 
@@ -16,18 +16,12 @@ e) As acções de declaração de nulidade ou anulação de deliberações socia
 
 f) As acções de reforma, declaração de nulidade ou anulação de um registo ou do seu cancelamento;
 
-g) As providências cautelares não especificadas requeridas com referência às mencionadas nas alíneas anteriores;
+g) As decisões finais, com trânsito em jugado, proferidas nas acções e procedimentos cautelares referidos nas alíneas anteriores;
 
-h) As decisões finais, com trânsito em julgado, proferidas nas acções e procedimentos cautelares referidos nas alíneas anteriores;
+h) As acções especiais de recuperação da empresa e protecção dos credores;
 
-i) As sentenças de declaração de insolvência de comerciantes individuais, de sociedades comerciais, de sociedades civis sob forma comercial, de cooperativas, de agrupamentos complementares de empresas, de agrupamentos europeus de interesse económico e de estabelecimentos individuais de responsabilidade limitada, e as de indeferimento do respectivo pedido, nos casos de designação prévia de administrador judicial provisório, bem como o trânsito em julgado das referidas sentenças;
+i) As deliberações das assembleias de credores de sociedades, cooperativas e agrupamentos que hajam aprovado, no respectivo processo judicial, a concordata, o acordo de credores ou a gestão controlada, bem como as respectivas sentenças de homologação ou rejeição, com trânsito em julgado.
 
-j) As decisões judiciais, com trânsito em julgado, que decretem ou façam cessar medidas de acompanhamento de comerciantes individuais relativas ao exercício do comércio ou para o exercício do cargo de gerente, administrador ou de outro membro de órgão social sujeito a registo, bem como as decisões de nomeação e de destituição do acompanhante;
+j) As sentenças declaratórias da falência de comerciantes individuais e de sociedades comerciais, bem como da insolvência de cooperativas, de agrupamentos complementares de empresas e de agrupamentos europeus de interesse económico e o seu trânsito em julgado;
 
-l) Os despachos de nomeação e de destituição do administrador judicial e do administrador judicial provisório da insolvência, de atribuição ao devedor da administração da massa insolvente, assim como de proibição da prática de certos actos sem o consentimento do administrador da insolvência e os despachos que ponham termo a essa administração;
-
-m) Os despachos, com trânsito em julgado, de exoneração do passivo restante de comerciantes individuais, assim como os despachos inicial e de cessação antecipada do respectivo procedimento e de revogação dessa exoneração;
-
-n) As decisões judiciais de encerramento do processo de insolvência;
-
-o) As decisões judiciais de confirmação do fim do período de fiscalização incidente sobre a execução de plano de insolvência.
+l) Os despachos, com trânsito em julgado, do levantamento da inibição e reabilitação do falido ou insolvente.

@@ -1,7 +1,11 @@
 # Artigo 59.º
 
-### Arquivo de documentos
+### Depósito
 
-1 - Os documentos que servem de base ao registo lavrado por transcrição são obrigatoriamente arquivados.
+1 - Nenhum acto sujeito a registo pode ser lavrado sem que os respectivos documentos sejam depositados na pasta própria.
 
-2 - Relativamente a cada alteração do contrato de sociedade devem ser apresentadas, para arquivo, versões atualizadas e completas do texto do contrato alterado e da lista dos titulares das participações sociais, com os respetivos dados de identificação.
+2 - A omissão ou deficiência da inscrição ou averbamento não prejudica os efeitos atribuídos por lei ao registo, desde que o depósito dos respectivos documentos esteja efectuado.
+
+3 - Relativamente a cada alteração do contrato de sociedade deve ser apresentado para depósito o texto completo do contrato alterado, na sua redacção actualizada, tal como consta da respectiva escritura, podendo, em caso de alteração parcial, constar de documento elaborado pelo interessado, devidamente assinado e com termo de autenticação.
+
+4 - O texto a depositar, quando referente a sociedades por quotas, deve mencionar quais os actuais titulares das quotas, as que no balanço devam figurar como amortizadas e os novos montantes nominais das modificadas em consequência de unificação, divisão ou amortização.

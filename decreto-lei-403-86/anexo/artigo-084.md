@@ -1,9 +1,5 @@
 # Artigo 84.º
 
-### Pedido de rectificação
+### Registos indevidamente lavrados
 
-1 - No pedido de rectificação devem ser especificados os fundamentos e a identidade dos interessados.
-
-2 - O pedido de rectificação é acompanhado dos meios de prova necessários e do pagamento dos emolumentos devidos.
-
-3 - Constitui causa de rejeição do pedido a falta de pagamento dos emolumentos devidos.
+Os registos indevidamente lavrados que enfermem de nulidade nos termos da alínea b) do artigo 22.º podem ser cancelados mediante consentimento de todos os interessados ou por decisão judicial em processo de rectificação.
