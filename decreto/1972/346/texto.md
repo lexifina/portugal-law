@@ -1,0 +1,31 @@
+Decreto n.º 346/72
+de 30 de Agosto
+A alínea b) do n.º 2 do artigo 32.º do Decreto-Lei n.º 414/71, de 27 de Setembro, previu, quanto aos auxiliares de enfermagem da carreira de enfermagem hospitalar, o acesso à categoria de enfermeiros mediante a aprovação em curso adequado.
+Haverá que regulamentar essa, disposição, parecendo oportuno, por outro lado, criar cursos destinados a facilitar a promoção dos auxiliares de enfermagem psiquiátrica, bem como cursos que permitam a equiparação de enfermeiros psiquiátricos e de enfermeiros de saúde pública aos profissionais de enfermagem geral.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, o seguinte:
+Artigo 1.º - 1. O Ministro da Saúde e Assistência poderá, nos próximos cinco anos, criar, por despacho, cursos especiais e intensivos:
+a) Para promoção de auxiliares de enfermagem e de auxiliares de enfermagem psiquiátrica à categoria de enfermeiros;
+b) Para equiparação de enfermeiros psiquiátricos e de enfermeiros de saúde pública aos enfermeiros de enfermagem geral.
+2. Os cursos especiais e intensivos terão equivalência, para todos os efeitos, ao curso de enfermagem geral e conferem aos diplomados o título de enfermeiro.
+3. O despacho de criação dos cursos designará as escolas de enfermagem onde devam funcionar e regulará a duração, os planos de estudos e programas dos cursos, que, quanto ao indicado na alínea a) do n.º 1, não poderá ter duração inferior a vinte meses.
+Art. 2.º O número de alunos a admitir anualmente em cada escola e para cada curso, bem como as quotas de admissão a conceder a organismos, serviços ou instituições não subsidiadas pelo Ministro da Saúde e Assistência, serão fixados por despacho do Ministro da Saúde e Assistência, ouvidas a Direcção-Geral dos Hospitais e a Direcção-Geral de Saúde, consoante se trate, respectivamente, dos cursos referidos na alínea a) do artigo 1.º do presente diploma ou do curso de equiparação de enfermeiros psiquiátricos ou do curso de equiparação de enfermeiros de saúde pública, tendo em conta a capacidade das escolas e as necessidades dos serviços.
+Art. 3.º São condições de admissão dos candidatos ao curso de promoção de auxiliares de enfermagem:
+a) Estarem diplomados com o curso de auxiliares de enfermagem, de acordo com a legislação em vigor;
+b) Terem a habilitação mínima do ciclo preparatório do ensino liceal, ou equivalente;
+c) Terem prestado, pelo menos, quatro anos de bom e efectivo exercício profissional como auxiliares de enfermagem em serviços cuja idoneidade seja reconhecida pela Direcção-Geral dos Hospitais;
+d) Possuírem boa saúde física e mental, comprovada por exame médico a efectuar na escola de enfermagem onde se realiza o curso.
+Art. 4.º São condições de preferência na admissão ao curso a que se refere o artigo anterior:
+a) Maiores habilitações literárias;
+b) Maior tempo de exercício profissional;
+c) Melhor classificação no curso de auxiliares de enfermagem;
+d) Melhores informações de serviço, prestadas pelos responsáveis pelo sector de enfermagem dos organismos, estabelecimentos ou instituições onde exerceram funções;
+e) Mais idade.
+Art. 5.º As condições de admissão e de preferência aos cursos de promoção de auxiliares de enfermagem psiquiátrica e aos referidos na alínea b) do artigo 1.º deste diploma serão determinadas por portaria do Ministro da Saúde e Assistência.
+Art. 6.º O pessoal de enfermagem que, à data da sua admissão aos cursos de promoção criados pelo presente diploma, se encontre a trabalhar em serviços ou estabelecimentos oficiais dependentes do Ministério da Saúde e Assistência poderá frequentá-los em regime de comissão gratuita de serviço, sem prejuízo do disposto no artigo 2.º do presente diploma e das normas regulamentares para concessão de bolsas de estudo.
+Art. 7.º O Ministro da Saúde e Assistência determinará, em portaria, a data a partir da qual cessará o funcionamento do curso de auxiliares de enfermagem criado pela alínea a) do artigo 7.º do Decreto-Lei n.º 38884, de 28 de Agosto de 1952, bem como em que serão extintos os cursos de enfermagem criados, a título temporário, pelo Decreto n.º 47843, de 11 de Agosto de 1967.
+Art. 8.º As disposições do Decreto n.º 38885, de 28 de Agosto de 1952, e do Decreto n.º 46448, de 20 de Julho de 1965, deverão regular, na parte aplicável, o que não estiver previsto no presente diploma.
+Marcello Caetano - Baltasar Leite Rebelo de Sousa - Alfredo Jorge Assis dos Santos.
+Promulgado em 14 de Agosto de 1972.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
