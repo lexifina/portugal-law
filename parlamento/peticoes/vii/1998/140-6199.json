@@ -1,0 +1,335 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tKfXsA%2fENKNnp0LKqSGHXsjkrRl7S077Q3%2bDShtNlJSfDEIxb29heS60fekSU9Mh%2bOaOxN93u5lJXhXrF20O3GwJrwgX%2b0YU%2bhQwCIVqWOtg4qLdCOsovw17HpQ%2b61GwzRT0xyKc0H%2fa9DQdlP4PkB2kdgun9cM%2f%2fx7V2KVgyAwbUtpLdjftXVCgqJHGFNGYlFDP1m8Jzr0rp%2bkkIm21JfRb4lD2mU2lj506V%2fnSNSb2tR3%2bEDlK3FCGtu7ykpvS5%2bJJC%2frUbEM2mltYb1VfVOgZIDgJPPhSuZN2zIxPp9%2f2OdtvhAO8Vt2qGCJv%2bMWDKcdwAI%2fMSsLsMJfNmLa7xtfsjI6y%2ft3q%2btijdCCXBQfnO9%2b8PHRu402cRBtkKANn&fich=PeticoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "6041edea08a28f8315a7bbbffd2127aaa9493aac12482c88a108bc6b12f7d746",
+  "legislatura": "VII",
+  "id": "6199",
+  "numero": "140",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1998-12-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2000-03-29",
+            "dataResposta": "2000-08-28",
+            "entidades": [
+              "Ministério do Equipamento Social"
+            ],
+            "nrOficio": "476/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2000-03-29",
+            "dataResposta": null,
+            "entidades": [
+              "Câmara Municipal de Almada"
+            ],
+            "nrOficio": "476/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2000-02-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2000-02-02",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2000-07-06",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "18",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE EQUIPAMENTO SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2000-02-02",
+            "gp": "CDS-PP",
+            "id": "1654",
+            "motivoCessacao": null,
+            "nome": "João Rebelo"
+          }
+        ],
+        "RelatorioFinal": [
+          "21639"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "1999-03-12",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério do Equipamento, do Planeamento e da Adm. do Ter."
+            ],
+            "nrOficio": "OF 359/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "1999-03-12",
+            "dataResposta": null,
+            "entidades": [
+              "Câmara Municipal de Almada"
+            ],
+            "nrOficio": "OF 359/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "1999-03-03",
+        "DataArquivo": "2000-02-02",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": "1999-03-03",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "11",
+        "Legislatura": "VII",
+        "Nome": "COMISSAO ADMINIST. DO TERRITORIO, P. LOCAL, EQ. SOC E AMBIENTE",
+        "NotasAdmissibilidade": null,
+        "Numero": "4",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2000-03-31",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2000-04-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": "APRECIACAO",
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28509",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1998-1998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-01",
+                "pubLeg": "VIII",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/049/2000-04-01/1998?pgs=1998&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITACAO DO RESTABELECIMENTO DA TRAVESSIA FLUVIAL TRAFARIA-BELEM-TRAFARIA E A CONSTRUCAO DO CAIS RODO-FLUVIAL DA TRAFARIA E DO TROCO DA VIA RAPIDA FUNCHALINHO/TRAFARIA CUJA APRECIACAO FOI ADIADA PARA OUTRA SESSAO",
+            "Teor": "TRAFARIA - BELEM -TRAFARIA CAIS RODO - FLUVIAL FUNCHALINHO /TRAFARIA"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2000-04-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": "APRECIACAO",
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28510",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1998-1998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-01",
+                "pubLeg": "VIII",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/049/2000-04-01/1998?pgs=1998&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITACAO DO RESTABELECIMENTO DA TRAVESSIA FLUVIAL TRAFARIA-BELEM-TRAFARIA E A CONSTRUCAO DO CAIS RODO-FLUVIAL DA TRAFARIA E DO TROCO DA VIA RAPIDA FUNCHALINHO/TRAFARIA CUJA APRECIACAO FOI ADIADA PARA OUTRA SESSAO",
+            "Teor": "TRAFARIA - BELEM -TRAFARIA CAIS RODO - FLUVIAL FUNCHALINHO /TRAFARIA "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2000-04-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": "APRECIACAO",
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1998-1998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-01",
+                "pubLeg": "VIII",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/049/2000-04-01/1998?pgs=1998&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITACAO DO RESTABELECIMENTO DA TRAVESSIA FLUVIAL TRAFARIA-BELEM-TRAFARIA E A CONSTRUCAO DO CAIS RODO-FLUVIAL DA TRAFARIA E DO TROCO DA VIA RAPIDA FUNCHALINHO/TRAFARIA CUJA APRECIACAO FOI ADIADA PARA OUTRA SESSAO",
+            "Teor": "TRAFARIA - BELEM -TRAFARIA CAIS RODO - FLUVIAL A APRECIACAO DESTA PETICAO FOI ADIADA PARA OUTRA SESSAO "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6199",
+    "PetAssunto": "Solicitam o restabelecimento da travessia fluvial Trafaria ¿ Belém ¿ Trafaria, a construção do cais rodofluvial da Trafaria e do troço da via rápida Funchalinho - Trafaria.",
+    "PetDataEntrada": "1998-12-04",
+    "PeticoesAssociadas": null,
+    "PetId": "6199",
+    "PetLeg": "VII",
+    "PetNr": "140",
+    "PetNrAssinaturas": "1962",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "51",
+        "obs": null,
+        "pag": [
+          "1998-1998"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-04-01",
+        "pubLeg": "VIII",
+        "pubNr": "49",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/049/2000-04-01/1998?pgs=1998&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
