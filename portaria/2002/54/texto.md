@@ -1,0 +1,12 @@
+Portaria n.º 54/2002
+de 12 de Janeiro
+Considerando que ao Conselho de Garantias Financeiras, instituído pelo Decreto-Lei n.º 126/91, de 22 de Março, compete, nomeadamente, decidir sobre a concessão de garantias e promessas de garantias do Estado, sem necessidade de homologação ministerial, dentro dos limites por operação fixados anualmente por portaria conjunta dos Ministros das Finanças e da Economia;
+Considerando que os referidos limites se encontram expressos em escudos e que face à introdução em circulação do euro, a partir de 1 de Janeiro de 2002, é conveniente adoptar medidas que facilitem a sua aplicação prática, ajustando tais limites para valores exactos em euros;
+Considerando o disposto nas alíneas b) e c) do n.º 1 e no n.º 3 do artigo 3.º do Decreto-Lei n.º 126/91, de 22 de Março:
+Manda o Governo, pelos Secretários de Estado do Tesouro e Finanças e da Indústria, Comércio e Serviços, sob proposta do Conselho de Garantias Financeiras, o seguinte:
+1.º Autorizar o Conselho de Garantias Financeiras a decidir, sem necessidade de homologação ministerial, a concessão de garantias e promessas de garantias do Estado ao seguro de créditos e caução, prevista nos n.os 1 e 2 do artigo 15.º do Decreto-Lei n.º 183/88, de 24 de Maio, na redacção que lhe foi dada pelo Decreto-Lei n.º 214/99, de 15 de Junho, até ao limite de (euro) 5000000 por valor garantido de operações individuais não incluídas em linhas de crédito e de (euro) 6000000 para linhas de crédito.
+2.º A delegação de competências no Conselho de Garantias Financeiras abrange ainda a aprovação de operações incluídas em linhas de crédito previamente autorizadas, bem como alterações, aditamentos ou prorrogações das condições contratuais do seguro relativamente a operações para as quais foi já aprovada e homologada a concessão de garantia do Estado, desde que o fundamento da aprovação homologada não seja posto em causa.
+3.º Deverá o Conselho de Garantias Financeiras providenciar pelo envio de informação semestral aos Ministros das Finanças e da Economia, relativamente às condições e montante das operações garantidas e enquadradas no limite da sua competência.
+4.º É revogada a portaria n.º 730/97, de 8 de Setembro, publicada no Diário da República, 2.ª série, de 23 de Setembro de 1997.
+Em 13 de Dezembro de 2001.
+O Secretário de Estado do Tesouro e Finanças, Rodolfo Vasco Castro Gomes Mascarenhas Lavrador. - O Secretário de Estado da Indústria, Comércio e Serviços, Fernando Lopes Ribeiro Mendes.
