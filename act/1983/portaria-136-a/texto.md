@@ -1,0 +1,11 @@
+Portaria n.º 136-A/83
+de 5 de Fevereiro
+Considerando que o exercício dos cargos de director de serviços e de chefe de divisão do quadro de pessoal dos serviços centrais da Direcção-Geral do Tesouro, constantes do Decreto-Lei n.º 163/81, de 12 de Junho, exige um alto grau de tecnicidade e especialização, como já foi reconhecido pela Portaria n.º 874/80, de 24 de Outubro;
+Considerando que, dadas estas características, não tem sido possível prover aqueles cargos nos estritos termos das disposições das alíneas a) e b) do n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando o disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, tendo em atenção o n.º 3 do Despacho Normativo n.º 66/82, de 30 de Abril:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Reforma Administrativa, o seguinte:
+1.º A área de recrutamento para os lugares de directores de serviços do quadro de pessoal dos serviços centrais da Direcção-Geral do Tesouro, anexo ao Decreto-Lei n.º 163/81, de 12 de Junho, é alargada a técnicos superiores principais e de 1.ª classe, e para os de chefe de divisão a técnicos superiores, a subdirectores de fazenda e a tesoureiros de fazenda pública de 1.ª classe, desde que portadores de formação e de experiência profissional adequadas, ainda que não licenciados.
+2.º O recrutamento para os cargos referidos no número anterior poderá ser alargado aos funcionários que vêm exercendo funções correspondentes aos cargos a prover, nos termos da alínea c) do n.º 3 do Despacho Normativo n.º 66/82, de 30 de Abril.
+3.º O recrutamento para os cargos referidos no n.º 1 poderá ainda ser feito de entre licenciados estranhos à função pública com perfil adequado ao cargo a prover.
+4.º Os despachos de nomeação, nos termos dos números anteriores, serão acompanhados, para publicação, do currículo dos nomeados.
+Ministérios das Finanças e dos Plano e da Reforma Administrativa, 26 de Janeiro de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Walter Waldemar Pego Marques, Secretário de Estado do Tesouro. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
