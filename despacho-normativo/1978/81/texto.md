@@ -1,0 +1,3 @@
+Despacho Normativo n.º 81/78
+Por se terem alterado as condições que justificaram a sua constituição, dá-se por extinta a Comissão de Coordenação do Programa de Acções a Curto Prazo, criada por despacho conjunto dos Ministros da Administração Interna e do Equipamento Social e do Ambiente, de 12 de Setembro de 1974, publicado no Diário do Governo, 2.ª série, n.º 220, de 20 de Setembro de 1974.
+Ministérios da Administração Interna, dos Transportes e Comunicações e da Habitação e Obras Públicas, 28 de Fevereiro de 1978. - O Ministro da Administração Interna, Jaime José Matos da Gama. - O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima. - O Ministro da Habitação e Obras Públicas, António Francisco Barroso de Sousa Gomes.
