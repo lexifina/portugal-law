@@ -1,0 +1,5 @@
+Portaria n.º 17874
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, abrir em Angola um crédito especial da importância de 48000$00 destinado a reforçar a verba do capítulo 4.º, artigo 435.º, n.º 2), «Direcção dos Serviços de Saúde e Higiene - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado», da tabela de despesa ordinária do orçamento geral em vigor naquela província, tomando como contrapartida as disponibilidades existentes na verba do mesmo capítulo, artigo 437.º, n.º 1), «Direcção dos Serviços de Saúde e Higiene - Direcção dos Serviços - Despesas com o pessoal - Outras despesas com o pessoal dentro da província - Subsídio aos catequistas das missões católicas portuguesas e outros frequentadores de curso de enfermagem», da referida tabela de despesa.
+Ministério do Ultramar, 30 de Julho de 1960. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - A. Moreira.
