@@ -1,0 +1,4 @@
+Declaração
+Para o efeito do disposto no n.º 2 do artigo 24.º do Decreto-Lei n.º 41204, de 24 de Julho de 1957, se declara que, de acordo com o despacho do Subsecretário de Estado do Comércio de 5 de Maio de 1970, é fixado em 12$50 por quilograma o preço de venda aos armazenistas da partida de 200 t de óleo de linhaça de origem holandesa, mantendo-se as margens actualmente em vigor para os armazenistas e retalhistas, respectivamente de $80 e 1$20 por quilograma.
+Pelo mesmo despacho foi determinado que sobre esse óleo incida um diferencial, a reverter para o Fundo de Abastecimento, calculado com base na diferença entre o referido preço de venda de 12$50 e o preço de custo do produto no armazém do importador, acrescido da sua margem de lucro de $80.
+Comissão de Coordenação Económica, 21 de Maio de 1970. - O Presidente, Henrique de Carvalho Costa.
