@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros
+A firma SNAPA - Sociedade Nacional dos Armadores da Pesca de Arrasto, S. A. R. L., empresa de pesca longínqua, ameaça paralisar a sua actividade por motivos de ordem económica e financeira. Tal situação afecta directa e seriamente o abastecimento público de peixe, o emprego no sector e pode também fazer perigar o reembolso da volumosa dívida da empresa para com o Estado.
+Nestas circunstâncias, foi ordenado por despacho conjunto do Secretário de Estado das Pescas e do Secretário de Estado do Tesouro, de 4 de Dezembro de 1974, que se procedesse a um inquérito para avaliar das reais condições de vida da empresa, nos termos e para os efeitos do Decreto-Lei n.º 660/74, de 25 de Novembro, através do qual se apurou que na empresa se verificam as situações previstas nas alíneas a), c) e d) do n.º 2 do artigo 1.º do citado diploma legal.
+Demonstrando o mesmo inquérito a grave insuficiência de tesouraria, que impossibilita a normal actividade da empresa, o Conselho de Ministros, reunido em 4 de Abril de 1975, resolveu:
+1) Suspender das suas funções os actuais administradores em exercício e os membros dos demais órgãos sociais.
+2) Nomear, em sua substituição, uma comissão administrativa constituída por três membros, sendo imediatamente designados os senhores:
+Dr. João Benard da Costa Pereira, antigo director do Instituto das Indústrias de Pesca de Angola, ex-economista da FAO e administrador por parte do FRAIP junto da SNAPA, que presidirá;
+Dr. João Carlos Garcia Andrade dos Santos, economista especializado em marketing e técnico de 1.ª classe da Direcção-Geral do Planeamento e Fomento das Pescas, considerando-se em comissão de serviço;
+E o último a nomear oportunamente, por despacho do Secretário de Estado das Pescas,
+à qual são cometidos, além dos poderes gerais de direcção, gestão e administração, o estudo e análise da situação económica e financeira da empresa, com vista ao seu saneamento e reconversão e ulterior participação do Estado no seu capital social, mediante integração, em condições de justa paridade, dos créditos de que for detentor, directamente ou através de organismos de natureza pública.
+3) Apurar das responsabilidades pessoais relativas à gestão passada.
+4) Autorizar a prestação de auxílio financeiro à empresa, incluindo a concessão de avales do Estado até ao limite de 50 milhões de escudos, em termos e condições a definir por despacho conjunto das Secretarias de Estado das Pescas e do Tesouro com a aprovação dos Ministros da Coordenação Económica e das Finanças.
+Presidência do Conselho de Ministros, 4 de Abril de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
