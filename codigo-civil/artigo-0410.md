@@ -6,8 +6,8 @@
 
 ### (Regime aplicável)
 
-1. À convenção pela qual alguém se obriga a celebrar certo contrato são aplicáveis as disposições legais relativas ao contrato prometido, exceptuadas as relativas à forma e as que, por sua razão de ser, não se devam considerar extensivas ao contrato-promessa.
+1 - À convenção pela qual alguém se obriga a celebrar certo contrato são aplicáveis as disposições legais relativas ao contrato prometido, exceptuadas as relativas à forma e as que, por sua razão de ser, não se devam considerar extensivas ao contrato-promessa.
 
-2. Porém, a promessa relativa à celebração de contrato para o qual a lei exija documento, quer autêntico, quer particular, só vale se constar de documento assinado pelos promitentes.
+2 - Porém, a promessa respeitante à celebração de contrato para o qual a lei exija documento, quer autêntico, quer particular, só vale se constar de documento assinado pela parte que se vincula ou por ambas, consoante o contrato-promessa seja unilateral ou bilateral.
 
-3 - No caso de promessa relativa à celebração de contrato de compra e venda de prédio urbano, ou de sua fracção autónoma, já construído, em construção ou a construir, o documento referido no número anterior deve conter o reconhecimento presencial das assinaturas dos outorgantes e a certificação, pelo notário, da existência da respectiva licença de utilização ou de construção. A omissão destes requisitos não é, porém, invocável pelo promitente-vendedor, salvo no caso de ter sido o promitente-comprador que directamente lhe deu causa.
+3 - No caso de promessa relativa à celebração de contrato oneroso de transmissão ou constituição de direito real sobre edifício, ou fracção autónoma dele, já construído, em construção ou a construir, o documento referido no número anterior deve conter o reconhecimento presencial da assinatura do promitente ou promitentes e a certificação, pelo notário, da existência da licença respectiva de utilização ou de construção; contudo, o contraente que promete transmitir ou constituir o direito só pode invocar a omissão destes requisitos quando a mesma tenha sido culposamente causada pela outra parte.

@@ -2,8 +2,12 @@
 
 ### (Contrato-promessa)
 
-1 - Se alguém se tiver obrigado a celebrar certo contrato e não cumprir a promessa, pode a outra parte, em qualquer caso e desde que a isso não se oponha a natureza da obrigação assumida, obter sentença que produza os efeitos da declaração negocial do faltoso; a requerimento deste, a mesma sentença poderá ordenar a modificação do contrato nos termos do artigo 437.º
+1 - Se alguém se tiver obrigado a celebrar certo contrato e não cumprir a promessa, pode a outra parte, na falta de convenção em contrário, obter sentença que produza os efeitos da declaração negocial do faltoso, sempre que a isso não se oponha a natureza da obrigação assumida.
 
-2 - Tratando-se de contrato-promessa de compra e venda respeitante a prédio urbano ou a uma sua fracção autónoma sobre que recaia hipoteca para garantia de um débito do promitente-vendedor a terceiro, e pelo qual o promitente-comprador não seja co-responsável, este, no caso de a extinção desse ónus não preceder a transmissão ou não coincidir com ela, poderá, para o efeito de expurgar a hipoteca, requerer que a sentença a que se refere o número anterior condene também o promitente-vendedor a entregar-lhe o montante desse débito, ou o valor nele correspondente à fracção objecto do contrato, e dos respectivos juros vencidos e vincendos até integral pagamento.
+2 - Entende-se haver convenção em contrário, se existir sinal ou tiver sido fixada uma pena para o caso de não cumprimento da promessa.
 
-3 - No caso de contrato em que ao obrigado seja lícito invocar a excepção do não cumprimento, a acção improcede se o requerente não consignar em depósito a sua prestação no prazo que lhe for fixado pelo tribunal.
+3 - O direito à execução específica não pode ser afastado pelas partes nas promessas a que se refere o n.º 3 do artigo 410.º; a requerimento do faltoso, porém, a sentença que produza os efeitos da sua declaração negocial pode ordenar a modificação do contrato nos termos do artigo 437.º, ainda que a alteração das circunstâncias seja posterior à mora.
+
+4 - Tratando-se de promessa relativa à celebração de contrato oneroso de transmissão ou constituição de direito real sobre edifício, ou fracção autónoma dele, em que caiba ao adquirente, nos termos do artigo 721.º, a faculdade de expurgar hipoteca a que o mesmo se encontre sujeito, pode aquele, caso a extinção de tal garantia não preceda a mencionada transmissão ou constituição, ou não coincida com esta, requerer, para efeito da expurgação, que a sentença referida no n.º 1 condene também o promitente faltoso a entregar-lhe o montante do débito garantido, ou o valor nele correspondente à fracção do edifício ou do direito objecto do contrato, e dos juros respectivos, vencidos e vincendos, até pagamento integral.
+
+5 - No caso de contrato em que ao obrigado seja lícito invocar a excepção de não cumprimento, a acção improcede, se o requerente não consignar em depósito a sua prestação no prazo que lhe for fixado pelo tribunal.
