@@ -16,7 +16,7 @@
 
 5 - A convocação é efectuada com antecedência não inferior a oito dias por carta registada e vale como desistência do pedido a não comparência injustificada do perito designado pelo contribuinte.
 
-6 - Em caso de falta injustificada do perito do contribuinte, o órgão da administração tributária marcará nova reunião para o 5.º dia subsequente, advertindo simultaneamente o perito do contribuinte que deverá justificar a falta à primeira reunião e que a não justificação da falta ou a não comparência à segunda reunião valem como desistência da reclamação.
+6 - Em caso de falta do perito do contribuinte, o órgão da administração tributária marcará nova reunião para o 5.º dia subsequente, advertindo simultaneamente o perito do contribuinte que deverá justificar a falta à primeira reunião e que a não justificação da falta ou a não comparência à segunda reunião valem como desistência da reclamação.
 
 7 - A falta do perito independente não obsta à realização das reuniões sem prejuízo de este poder apresentar por escrito as suas observações no prazo de cinco dias a seguir à reunião em que devia ter comparecido.
 
@@ -28,7 +28,7 @@ a) Provar-se que lhe é imputável a aplicação de métodos indirectos;
 
 b) A reclamação ser destituída de qualquer fundamento;
 
-c) Não ser deduzida impugnação judicial.
+c) Tendo sido deduzida impugnação judicial, esta ser considerada improcedente.
 
 10 - O agravamento referido no número anterior será aplicado pelo órgão da administração tributária referido no n.º 1 e exigido adicionalmente ao tributo a título de custas.
 
