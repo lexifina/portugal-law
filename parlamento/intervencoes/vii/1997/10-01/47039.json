@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=qUAFp27CBkIttcOxiLgk0FIFM%2benj3agWAdWp9f2uUE7DM89Hf79g0s6kJ1OpP%2b%2bV8tF1iVoXzUjf9MdNSMm4nwgUSw8wSK%2f8IWQGg3htMY3c5Ya6BFuH2nCggW0h1GujT%2bIUdPmA8SvTT3HpzcWjwY1Ytx02d%2b7d2kHzuJsMkIxOLhUMfluBDICsI431jugsRtyLdTkTs3iZNjh0bZeiTsuFJxPyR5N7XOGoIkmGpdUelnuD9Uv%2bK5tX%2fCtB3SYc9FZA1mlNR599B92fTx%2bndvsVfZla0grGGcMC1Ygbf5wdyt%2fcERRcbU8v%2fdkvPhkc3PKeJXfSzhOHsiR3Kxg%2fadV%2fCqpiI%2bSBylGrc6dYzg%3d&fich=IntervencoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "63246bfd185a5eb6b3d6f557ea72ee60968af9ce7c1a76c63b16943a173ed13f",
+  "legislatura": "VII",
+  "id": "47039",
+  "tipo": "Intervenção",
+  "orador": "Mota Amaral (PSD)",
+  "data_registo": "1997-10-01",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "5192",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "5192",
+        "tipo": "VOT",
+        "titulo": "De Protesto - Protesto relativamente ao massacre ocorrido em Berthala em 23 de Setembro e pela sucessiva violação dos direitos humanos na Argélia."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1997-10-01",
+    "Debate": "VOTO 81-TODOS GP",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "390",
+      "nome": "Mota Amaral"
+    },
+    "FaseDebate": "VOTACAO",
+    "FaseSessao": "PAOD",
+    "Id": "47039",
+    "IdDebate": "5192",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "47039",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "4181-4181"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-10-02",
+        "pubLeg": "VII",
+        "pubNr": "110",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/110/1997-10-02/4181?pgs=4181&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "BENTHALA ",
+    "Sessao": "2",
+    "Sumario": "VOTO PROTESTO: MASSACRE EM BENTHALA A 23 SET ESUCESSIVAS VIOLACOES DOS DIREITOS DO HOMEM NA ARGELIA",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
