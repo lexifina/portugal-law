@@ -1,0 +1,10 @@
+Decreto-Lei n.º 42838
+A amortização do empréstimo de 112000 contos concedido à província ultramarina de Cabo Verde pelo Decreto-Lei n.º 39194, de 6 de Maio de 1953, posteriormente elevado a 137000 contos pelo Decreto-Lei n.º 40379, de 15 de Novembro de 1955, foi fixada em 24 anuidades iguais de capital e juro.
+Pelo Decreto-Lei n.º 42479, de 31 de Agosto último, o Governo, atendendo ao condicionalismo financeiro daquela província, dispensou-a já do pagamento de juros até que a evolução da sua situação financeira permitisse restabelecer esse encargo.
+Porém, os últimos elementos na posse do Governo convencem-no da conveniência de levar mais longe, como lhe é representado pela província, o desagravamento do seu orçamento.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Será feito em 48 anuidades iguais de capital, a partir de 1960, inclusive, o reembolso do empréstimo de 112000 contos concedido à província ultramarina de Cabo Verde pelo Decreto-Lei n.º 39194, de 6 de Maio de 1953, posteriormente elevado a 137000 contos pelo Decreto-Lei n.º 40379, de 15 de Novembro de 1955, mantendo-se para a liquidação dos juros o regime estabelecido no artigo 7.º do Decreto-Lei n.º 42479, de 31 de Agosto de 1959.
+§ único. O novo regime de amortização deste empréstimo será objecto de escritura a celebrar entre o Ministério das Finanças e o Governo da província.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 9 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
