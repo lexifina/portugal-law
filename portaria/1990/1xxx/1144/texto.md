@@ -1,0 +1,16 @@
+Portaria n.º 1144/90
+de 20 de Novembro
+Os cursos de Serviço Social leccionados nos Institutos Superiores de Serviço Social de Lisboa, Porto e Coimbra (estabelecimentos particulares de ensino) há longos anos que são reconhecidos pelo seu elevado nível, embora não conferentes de grau, por então o ordenamento educativo não prever que aos cursos ministrados em instituições particulares de ensino pudessem ser conferidos graus académicos.
+A recente aprovação de um novo plano de estudos e o reconhecimento de efeitos correspondentes ao grau de licenciatura aos diplomas emitidos pela sua conclusão aconselhou que se encontrasse uma solução justa em relação aos anteriores diplomados com aquele curso.
+Deste modo, justificou-se que através da Portaria n.º 370/90, de 12 de Maio, viessem a ser reconhecidos aos diplomas emitidos em conclusão do curso de Serviço Social, até à publicação das Portarias n.os 793/89 e 796/89, de 8 e de 9 de Setembro, e 15/90, de 9 de Janeiro, efeitos correspondentes aos atribuídos ao grau de licenciatura.
+A aplicação da Portaria n.º 370/90, de 12 de Maio, suscitou contudo algumas dúvidas, que urge esclarecer, no sentido de prever a situação de todos os diplomados cuja formação, obtida pelo aproveitamento das disciplinas dos planos de estudos então vigentes, se revele semelhante à recebida actualmente.
+Importa igualmente consagrar uma solução semelhante que contemple os diplomados com os cursos de Serviço Social leccionados nos Institutos de Educação e Serviço Social de Angola e de Moçambique, cuja formação se revela equivalente à obtida pelos diplomados com o curso de Serviço Social ministrado nos Institutos Superiores de Serviço Social de Lisboa, Porto e Coimbra.
+Assim, nos termos e ao abrigo do n.º 1 do artigo 21.º e do n.º 1 do artigo 25.º do Decreto-Lei n.º 271/89, de 19 de Agosto:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º Aos diplomas ou certificados emitidos pelos Institutos Superiores de Serviço Social de Lisboa, Porto e Coimbra, pela conclusão do curso de Serviço Social ministrado naqueles estabelecimentos até ao ano lectivo de 1988-1989, podem ser atribuídos os efeitos estabelecidos nos n.os 3.º das Portarias n.os 793/89, 796/89 e 15/90, de 8 e de 9 de Setembro e de 9 de Janeiro, respectivamente.
+2.º Para efeitos da presente portaria, os interessados deverão requerer e instruir os respectivos processos junto da direcção do instituto em que hajam concluído o seu curso, a quem caberá, sem efeitos retroactivos, emitir o correspondente certificado, que, com o diploma ou certificado anterior, produzirá os efeitos estabelecidos na presente portaria.
+3.º O disposto no n.º 1.º é aplicável aos diplomas ou certificados emitidos pelos Institutos de Educação e Serviço Social de Angola e de Moçambique, pela conclusão dos cursos de Serviço Social ministrados naqueles estabelecimentos até à independência daqueles territórios, cabendo à Direcção-Geral do Ensino Superior emitir, nesses casos, os certificados previstos no n.º 2.º da presente portaria.
+4.º É revogada a Portaria n.º 370/90, de 12 de Maio.
+Ministério da Educação.
+Assinada em 24 de Outubro de 1990.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
