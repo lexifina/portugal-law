@@ -1,0 +1,8 @@
+Despacho Normativo n.º 78/77
+Tendo em vista desfazer dúvidas relativas à aplicação do sistema tarifário do sector eléctrico - anexo à Portaria n.º 31-A/77, de 21 de Janeiro, emanada conjuntamente dos Ministros da Indústria e Tecnologia e do Comércio e Turismo - e ao abrigo do seu artigo 9.º, determino o seguinte:
+1 - Os consumos em iluminação de escadas e patamares de prédios colectivos beneficiarão da tarifa aplicável aos consumos domésticos (incluindo o acesso ao escalão de potência de 1,1 kVA) quando forem medidos por contadores de casas particulares de habitação ou por contador próprio;
+2 - Aos serviços de incêndio beneficência, assistência, previdência ou instrução, declarados de utilidade pública, deve ser dado o mesmo tratamento tarifário que aos consumidores domésticos (incluindo, portanto, o acesso ao escalão de potência de 1,1 kVA), independentemente do preço que lhes era anteriormente aplicado no último escalão de consumo;
+3 - Não são abrangidos pelo disposto na segunda parte do n.º 6 do artigo 8.º do sistema tarifário do sector eléctrico aqueles consumidores domésticos que exerçam na sua habitação uma actividade economicamente modesta, tais como costureiras, sapateiros, barbeiros e outros equiparáveis;
+4 - No n.º 10 do artigo 8.º do sistema tarifário do sector eléctrico consideram-se incluídos os consumos de energia eléctrica em bombagem de água para fins agrícolas, bem como os consumos em aquecimento, com contador próprio.
+Esta disposição é extensiva aos futuros consumidores que utilizem a energia para os fins referidos.
+Ministério da Indústria e Tecnologia, 16 de Março de 1977. - O Secretário de Estado da Energia e Minas, Joaquim Leitão da Rocha Cabral.
