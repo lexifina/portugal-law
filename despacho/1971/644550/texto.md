@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 11.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, mediante proposta do Ministério da Educação Nacional, ouvido o Conselho Permanente da Acção Educativa, é considerada como habilitação adequada, para efeito de provimento no lugar de auxiliar técnico de construção civil do quadro do pessoal civil do Ministério da Marinha, o curso de construtor civil, regulado pelo Decreto n.º 37029, ou a de outro que lhe corresponda em diferentes organizações de ensino técnico profissional.
+Presidência do Conselho, 7 de Maio de 1971. - O Presidente do Conselho, Marcello Caetano.
