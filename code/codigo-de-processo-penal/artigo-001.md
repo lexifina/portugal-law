@@ -20,7 +20,7 @@ f) Alteração substancial dos factos: aquela que tiver por efeito a imputação
 
 g) Relatório social: documento elaborado por serviços de reinserção social, com competência de apoio técnico aos tribunais na aplicação e na execução de sanções criminais, que tem por objectivo auxiliar o tribunal ou o juiz no conhecimento da personalidade do arguido, e eventualmente também da vítima, incluída a sua inserção familiar e sócio-profissional;
 
-h) Unidade de conta processual penal (UC): quantia em dinheiro equivalente a um quarto do salário mínimo nacional mais elevado, garantido no momento da aplicação da sanção, arredondado, quando necessário, para a centena de escudos imediatamente superior.
+h) (Revogada).
 
 2 - Para efeitos do disposto no presente Código, apenas podem considerar-se como casos de terrorismo, criminalidade violenta ou altamente organizada as condutas que:
 
