@@ -1,0 +1,4 @@
+Despacho Normativo n.º 302/81
+1 - Ao abrigo do disposto no artigo 23.º, n.º 1, do Decreto-Lei n.º 290/81, de 14 de Outubro, subdelego no Ministro da Reforma Administrativa, Dr. José Manuel Meneres Sampaio Pimentel, os poderes decorrentes do artigo 36.º do Decreto com força de lei n.º 19478, de 18 de Março de 1931, do artigo 18.º do Decreto-Lei n.º 42800, de 11 de Janeiro de 1960, e do artigo 12.º do Decreto-Lei n.º 48059, de 23 de Novembro de 1967.
+2 - Delego igualmente no referido Ministro da Reforma Administrativa os poderes conferidos ao Primeiro-Ministro pelo artigo 23.º do Decreto-Lei n.º 49031, de 27 de Maio de 1969, pelo artigo 48.º do Decreto-Lei n.º 49410, de 24 de Novembro de 1969, pelo artigo 23.º do Decreto-Lei n.º 49397, de 24 de Novembro de 1969, e pelo artigo 2.º do Decreto-Lei n.º 178-A/77, de 3 de Maio.
+Presidência do Conselho de Ministros, 14 de Outubro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
