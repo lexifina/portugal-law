@@ -1,0 +1,6 @@
+Portaria n.º 549/81
+de 3 de Julho
+Tendo em consideração o disposto nos n.os 2 e 3 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e o disposto nos n.os 2, 3 e 4 da Resolução n.º 354-B/79, de 18 de Dezembro;
+Considerando que o regime dos referidos diplomas é aplicável aos cargos de director e subdirector do Instituto Português de Conservas de Peixe:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Agricultura e Pescas e da Reforma Administrativa, ao abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, que sejam equiparados a director-geral e subdirector-geral, respectivamente, para o efeito de lhes ser aplicável o regime jurídico e condições de exercício das funções de direcção e chefia previstas naquele decreto-lei, os cargos de director e subdirector do Instituto Português de Conservas de Peixe.
+Ministérios das Finanças e do Plano, da Agricultura e Pescas e da Reforma Administrativa, 2 de Junho de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha. - O Ministro da Reforma Administrativa, Eusébio Marques de Carvalho.
