@@ -1,0 +1,9 @@
+Aviso n.º 126/94
+Por ordem superior se torna público que, em 13 de Julho de 1993, o Representante Permanente da Hungria junto do Conselho da Europa depositou, junto do Secretário-Geral do Conselho da Europa, o instrumento de ratificação do Protocolo Adicional à Convenção Europeia sobre Extradição, de que Portugal já é Parte. Aquele instrumento diplomático entra em vigor, com referência àquele país, em 11 de Outubro de 1993.
+A Hungria fez a seguinte reserva:
+Dado que o artigo 6 do Protocolo Adicional à Convenção Europeia sobre Extradição permite excluir, na totalidade, o título I, ou o título II, a Hungria declara que não aceita o título I do referido Protocolo.
+Ainda que o direito húngaro seja conforme ao artigo 1, alíneas a) e b), e não contenha disposições contrárias à alínea c), a Hungria reserva-se o direito de encarar caso por caso a possibilidade de satisfazer ou não aos pedidos de extradição fundamentados na alínea c).
+Relativamente a Portugal, o Protocolo Adicional à Convenção Europeia sobre Extradição foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 23/88, conforme Diário da República, 1.ª série, n.º 191, de 21 de Agosto de 1989.
+Aviso de que Portugal depositou o instrumento de ratificação, com declaração e reservas, à Convenção, Protocolo Adicional e Segundo Protocolo Adicional (Diário da República, 1.ª série, n.º 76, de 31 de Março de 1990).
+Decreto do Presidente da República n.º 23/90, de 20 de Junho, que ratifica, na sequência do Decreto do Presidente da República n.º 57/90, de 21 de Agosto, os dois Protocolos Adicionais à Convenção Europeia sobre Extradição (Diário da República, 1.ª série, n.º 140, de 20 de Junho de 1990).
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 24 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
