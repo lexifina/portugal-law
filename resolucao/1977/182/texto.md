@@ -1,0 +1,8 @@
+Resolução n.º 182/77
+Considerando as dificuldades que enfrenta presentemente a administração do Arsenal do Alfeite face ao elevado número de baixas que se têm verificado no seu pessoal, resultantes, sobretudo, da aposentação e, em menor grau, de despedimentos;
+Considerando que essas baixas afectam o rendimento do estaleiro em pontos sensíveis da sua actividade, nomeadamente pondo em risco o cumprimento a tempo das tarefas cometidas pela Armada;
+Considerando, finalmente, que a resolução deste Conselho de 19 de Janeiro, publicada no Diário da República, 1.ª série, n.º 45, de 23 de Fevereiro de 1976, autorizando a administração do Arsenal do Alfeite a admitir, dentro dos seus limites orçamentais, o pessoal destinado a substituir os operários que ascendam às funções de mestrança e chefia, não se revelou suficiente, dado o seu âmbito restrito, para obstar às faltas que se têm produzido;
+Atendendo ainda ao disposto na alínea a) do n.º 2 do artigo 5.º do Decreto-Lei n.º 656/74, de 23 de Novembro, cujo prazo foi prorrogado pelo Decreto-Lei n.º 651-A/75, de 19 de Novembro, conjugado com os termos do Decreto-Lei n.º 289/75, de 14 de Junho:
+O Conselho da Revolução, reunido em sessão de 6 de Julho de 1977, resolveu:
+Autorizar a administração do Arsenal do Alfeite, além dos casos já previstos na resolução deste Conselho de 19 de Janeiro de 1976, publicada no Diário da República, 1.ª série, n.º 45, de 23 de Fevereiro de 1976, a admitir, dentro dos seus limites orçamentais, o pessoal cuja admissão revista carácter urgente e indispensável para cumprimento das tarefas cometidas pela Armada ao Arsenal do Alfeite.
+Aprovada em Conselho da Revolução, 6 de Julho de 1977. - O Presidente do Conselho da Revolução, António Ramalho Eanes.
