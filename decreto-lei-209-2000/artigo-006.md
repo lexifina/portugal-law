@@ -13,5 +13,3 @@ c) Proceder ao acompanhamento das empresas privadas encarregadas da gestão de s
 2 - Pode ainda a PARPÚBLICA ser incumbida de exercer os direitos do Estado como accionista, nos termos do artigo 10.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.
 
 3 - A remuneração anual pelos serviços prestados ao abrigo dos números anteriores será fixada pelo Ministro das Finanças, mediante proposta fundamentada da PARPÚBLICA.
-
-4 - A PARPÚBLICA pode assegurar a prestação de serviços que tenham por objeto estudos, pareceres, projetos e serviços de consultoria ou outros trabalhos especializados de natureza intelectual, às empresas públicas do setor empresarial do Estado, diretamente ou através da promoção de procedimentos de aquisição.
