@@ -1,0 +1,18 @@
+Decreto-Lei n.º 51/83
+de 31 de Janeiro
+Têm-se sucedido, nos últimos anos, as disposições legais relativas à pecuária e ao seu fomento, relativamente às suas várias componentes.
+Contudo, enquanto não for possível a apresentação de uma política pecuária legalmente sistematizada e coerente deve-se procurar adaptar o sistema actualmente existente às necessidades do momento e da adesão à CEE.
+Assim, uma vez que se assistiu à integração de matadouros municipais na Junta Nacional dos Produtos Pecuários e à extinção da Comissão Permanente da Indústria de Abate, não se encontrando, por outro lado, completamente estruturada a rede nacional de matadouros e órgãos anexos - centros rurais de recepção e distribuição e entrepostos frigoríficos de distribuição -, julga-se conveniente que a entidade escolhida para promover o seu financiamento - o Fundo de Abastecimento - deixe de estar vinculada a essa situação.
+Acresce ainda o facto de, pela Resolução n.º 256/79, de 13 de Agosto, se terem criado as novas redes nacionais de abate e de recolha de gado, em substituição da anterior, com programas de instalação que são da responsabilidade da Junta Nacional dos Produtos Pecuários e com mecanismos de controle de execução material e financeira que virão a ser criados por despacho normativo dos Secretários de Estado do Orçamento e do Comércio.
+Por identidade de razões se entende conveniente que o Fundo de Abastecimento também deixe de ser a entidade financeira para a instalação dos estabelecimentos frigoríficos portuários de pescado e centrais horto-fruteiras, prevista no Decreto-Lei n.º 237/71.
+Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - O Fundo de Abastecimento deixa de ser a fonte financeira prevista no articulado do Decreto-Lei n.º 237/71, de 29 de Maio, e na Portaria n.º 473/72, de 18 de Agosto, quanto aos financiamentos onerosos e comparticipações a fundo perdido concedidos para a construção e instalação dos:
+a) Matadouros previstos no artigo 6.º desse decreto-lei e para os fundos de maneio necessários às sua exploração, como estatuíam o artigo 7.º do Decreto-Lei n.º 237/71 e a Portaria n.º 473/72, de 18 de Agosto;
+b) Centros rurais de recepção e distribuição e entrepostos frigoríficos de distribuição, previstos no n.º 1 do artigo 9.º e nos n.os 1 e 3 do artigo 10.º desse mesmo decreto-lei;
+c) Estabelecimentos frigoríficos portuários de pescado e centrais horto-fruteiras, previstos no artigo 20.º do mesmo decreto-lei.
+2 - O Fundo de Abastecimento poderá continuar, mesmo a partir da entrada em vigor do presente decreto-lei, a exigir das entidades detentoras de terrenos, edifícios ou dos matadouros em construção financiados por seu intermédio a prestação de todas as garantias previstas no n.º 2 da Portaria n.º 473/72 quanto aos financiamentos onerosos que tenham realizado com vista à execução do Decreto-Lei n.º 237/71.
+Art. 2.º A regularização das situações decorrentes da construção dos matadouros de Beja e do Cachão, bem como das despesas realizadas com os restantes matadouros, nomeadamente estudos preliminares, projectos e aquisição de terrenos, com meios financeiros do Fundo de Abastecimento concedidos ao abrigo de disposições do Decreto-Lei n.º 237/71, será decidida por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Agricultura, Comércio e Pescas.
+Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Basílio Adolfo Mendonça Horta da Franca.
+Promulgado em 15 de Janeiro de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
