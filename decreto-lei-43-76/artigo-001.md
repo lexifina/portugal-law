@@ -30,4 +30,6 @@ Incapaz do serviço activo; ou
 
 Incapaz de todo o serviço militar.
 
-3. Não é considerado DFA o militar que contrair ou sofrer doenças ou acidentes intencionalmente provocados pelo próprio, provenientes de acções ou omissões por ele cometidas contra ordens expressas superiores ou em desrespeito das condições de segurança determinadas por autoridades competentes, desde que não justificadas.
+3 - Para efeitos do número anterior é considerado deficiente das Forças Armadas o cidadão português que, sendo militar ou ex-militar, seja portador de perturbação psicológica crónica resultante da exposição a factores traumáticos de stress durante a vida militar.
+
+4. Não é considerado DFA o militar que contrair ou sofrer doenças ou acidentes intencionalmente provocados pelo próprio, provenientes de acções ou omissões por ele cometidas contra ordens expressas superiores ou em desrespeito das condições de segurança determinadas por autoridades competentes, desde que não justificadas.
