@@ -1,0 +1,83 @@
+Portaria n.º 21659
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo Decreto-Lei n.º 37754, de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma do Porto de Aveiro, aprovadas pelas Portarias n.os 15601, 18917 e 20694, respectivamente de 8 de Novembro de 1955, 27 de Dezembro de 1961 e 22 de Julho de 1964, com as seguintes alterações:
+TÍTULO IV
+Ocupação de terraplenos, terrenos marginais e do leito da ria
+...
+CAPÍTULO III
+Ocupação do leito da ria
+Art. 60.º ...
+Art. 60.º-A. Pela ocupação de terreno do leito da ria com depósito de materiais de qualquer natureza, e cascos de embarcações, cobra-se a taxa indivisível de $50 por metro quadrado e período de dez dias.
+Art. 60.º-B. Pela ocupação de terreno do leito da ria com plantações, viveiros de plantas ou de animais, canalizações e obras de captação de água ou de esgotos e qualquer outra utilização, aplicar-se-ão as taxas que forem fixadas e aprovadas para cada caso pela comissão administrativa.
+TÍTULO V
+Prestação de serviços
+CAPÍTULO I
+Material terrestre para movimentação de cargas
+Art. 61.º ...
+a) Guindastes:
+...
+Electrificados de mais de 1500 kg:
+Hora normal, 72$00.
+Hora extraordinária, 90$00.
+...
+e) Tractores com carregador frontal:
+Hora normal, 70$00.
+Hora extraordinária, 80$00.
+f) Camions tipo Euclid:
+Hora normal, 120$00.
+Hora extraordinária, 130$00.
+...
+CAPÍTULO II
+Utilização de embarcações com motor
+Art. 63.º ...
+Rebocador Coronel Gaspar Ferreira:
+Hora normal sem reboque, 260$00.
+Hora normal com reboque, 400$00.
+Hora extraordinária sem reboque, 300$00.
+Hora extraordinária com reboque, 450$00.
+Hora de rebocador à ordem, 180$00.
+...
+CAPÍTULO IV
+Básculas
+Art. 63.º-E. Pela utilização de básculas da Junta cobrar-se-ão, por pesagem e por unidade, as seguintes taxas:
+a) Veículos automóveis ligeiros ou pesados de qualquer tipo e atrelados, 10$00.
+b) Veículos de tracção animal, ou quaisquer outros volumes não especificados, 5$00.
+...
+TÍTULO VI
+Fornecimentos
+CAPÍTULO I
+Fornecimento de água
+...
+Art. 68.º-A. Pelo fornecimento de água doce aos armazéns de preparação e embalagem de peixe cobrar-se-á a taxa de 4$00 por metro cúbico.
+Art. 68.º-B. Pelo fornecimento de água doce às restantes instalações terrestres do porto de pesca costeira cobrar-se-á a taxa de 3$50 por metro cúbico.
+...
+Art. 69.º-B. Pelo fornecimento de água potável, com camião cisterna, a embarcações ou quaisquer instalações existentes nas quatro zonas portuárias cobrar-se-á a taxa de 12$00 por metro cúbico, sendo de 5 m3 o mínimo cobrável.
+...
+TITULO VIII
+Licenças
+...
+Art. 80.º-A. Para construção e ampliação de marinhas de sal:
+Por metro quadrado, incluindo os muros de vedação de águas, $05.
+Art. 80.º-B. Para a reconstrução total ou parcial de marinhas de sal:
+Por metro quadrado, $03.
+Art. 81.º Para reparação de muros de marinhas com estacaria, torrão, pedra solta ou cacos:
+Por metro corrente de muro, 1$00.
+...
+Art. 86.º-A. Para a construção de obras marítimas e fluviais para uso de particulares:
+Por metro quadrado em projecção horizontal, 10$00.
+Art. 86.º-B. Para a reconstrução ou reparação de obras marítimas e fluviais:
+Por metro quadrado em projecção horizontal, 5$00.
+Art. 86.º-C. Para a execução de terraplenagens, por particulares:
+Por metro quadrado, 1$00.
+Art. 86.º-D. Para a execução de arruamentos, caminhos, passeios e pavimentações, por particulares:
+Por metro quadrado, 1$50.
+Art. 86.º-E. Para a construção de poços de qualquer tipo para captação de água:
+Por unidade, 100$00.
+Art. 86.º-F. Para a substituição de portas e janelas:
+Por unidade, 5$00.
+Art. 86.º-G. Para o assentamento de tubos em motas e caminhos:
+Por metro corrente, 2$50.
+Art. 86.º-H. Para a abertura de valas ou fossas:
+Por metro quadrado, $50.
+Art. 86.º-I. Para a limpeza de valas ou fossas:
+Por metro quadrado, $20.
+Ministério das Comunicações, 8 de Novembro de 1965. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
