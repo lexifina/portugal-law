@@ -10,7 +10,7 @@ M13 e M13a - linha descontínua junto ao limite da faixa de rodagem e linha desc
 
 M14 - linha em ziguezague: significa a proibição de estacionar do lado da faixa de rodagem em que se situa esta linha e em toda a extensão da mesma;
 
-M14a - estacionamento para cargas e descargas: área constituída e delimitada por linhas contínuas de cor amarela; significa a proibição de paragem e estacionamento na área demarcada, excepto para efectuar cargas e descargas.
+M14a - paragem e estacionamento para cargas e descargas: área constituída e delimitada por linhas contínuas de cor amarela; significa a proibição de paragem e estacionamento na área demarcada, excepto para efectuar cargas e descargas.
 
 2 - A proibição imposta pelas marcas M12, M12a, M13 e M13a pode também limitar-se no tempo ou a determinada espécie de veículos, de acordo com as indicações constantes de sinalização vertical.
 

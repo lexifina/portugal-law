@@ -20,4 +20,4 @@
 
 9 - Os sinais luminosos que se destinam a peões devem ser concebidos e colocados de modo a evitar que possam ser interpretados pelos condutores como sinais destinados a regular o trânsito de veículos.
 
-10 - Os sinais destinados a peões devem estar a uma altura do solo compreendida entre 1,8 m e 2,2 m.
+10 - Os sinais destinados a peões e a condutores de velocípedes devem estar a uma altura do solo compreendida entre 1,8 m e 2,2 m.

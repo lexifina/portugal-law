@@ -4,13 +4,13 @@
 
 1 - As cores utilizadas nos sinais verticais devem respeitar as coordenadas cromáticas constantes do quadro XIX, em anexo.
 
-2 - Os sinais de selecção e de afectação de vias, bem como os de pré-sinalização, de direcção, de confirmação e os complementares, com excepção das baias e balizas, devem ter cor de fundo de acordo com o quadro XX, em anexo.
+2 - As cores dos sinais de selecção e de afectação de vias, bem como dos de pré-sinalização, de direcção, de confirmação e complementares, com excepção das baias e balizas, são as constantes do quadro XX, em anexo.
 
-3 - Os sinais referidos no número anterior devem obedecer ainda às seguintes características:
+3 - As inscrições e as orlas dos sinais referidos no número anterior devem obedecer às seguintes características:
 
-a) Cor de fundo azul, verde ou vermelha; inscrições e orlas de cor branca;
+a) Sobre fundo azul, verde ou vermelho: inscrições e orlas de cor branca;
 
-b) Cor de fundo branca; inscrições e orlas de cor preta.
+b) Sobre fundo branco: inscrições e orlas de cor preta.
 
 4 - Os sinais de selecção e de afectação de vias, de pré-sinalização, de confirmação e complementares, com excepção das baias e balizas, devem ter cor de fundo correspondente à rede viária em que estão colocados de acordo com o quadro XX, em anexo, entendendo-se, para esse efeito, que:
 

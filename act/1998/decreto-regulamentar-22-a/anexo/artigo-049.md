@@ -12,4 +12,4 @@ c) Vias de sentido reversível;
 
 d) Vias de trânsito de acesso a portagens;
 
-e) Para permitir a gestão dos fluxos de trânsito ou interrupção de circulação em certas vias ou troços, em situações de alerta ou perigo ou ainda para transmitir aos utentes a interdição ou a obrigação de determinados comportamentos.
+e) Certas vias ou troços, para permitir a gestão dos fluxos de trânsito ou interrupção de circulação em situações de alerta ou de perigo ou ainda para transmitir aos utentes a interdição ou a obrigação de determinados comportamentos.

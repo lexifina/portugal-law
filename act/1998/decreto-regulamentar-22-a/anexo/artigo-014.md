@@ -6,8 +6,12 @@
 
 2 - Os sinais de perigo e de regulamentação devem ser repetidos depois de cada intersecção de nível, quando as condições se mantenham.
 
-3 - Exceptuam-se do disposto nos números anteriores:
+3 - Exceptuam-se do disposto no n.º 1 os sinais de selecção e de afectação de vias quando as condições da via não o permitirem.
+
+4 - Exceptuam-se do disposto no n.º 2:
 
 a) Os sinais inscritos em sinais de zona, cujas prescrições ou indicações são aplicáveis em todas as vias integradas na zona delimitada;
 
 b) Os sinais de regulamentação colocados no mesmo suporte que os sinais de identificação de localidades, os quais são aplicáveis em todas as vias dessa localidade, salvo se outra regulamentação for transmitida por outros sinais colocados no interior da localidade.
+
+c) O sinal B3 - via com prioridade.

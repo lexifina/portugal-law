@@ -16,8 +16,10 @@ b) O sinal esteja colocado lateralmente à faixa de rodagem e as marcas rodoviá
 
 c) Sejam utilizados sinais de afectação de vias;
 
-d) Seja utilizado o painel adicional de modelo n.º 17.
+d) Seja utilizado o painel adicional do modelo n.º 17.
 
-3 - Os sinais de perigo, de regulamentação e de indicação inscritos em sinalização de mensagem variável têm o mesmo significado que os utilizados isoladamente.
+3 - Os sinais inscritos em sinalização de mensagem variável e em sinais de prescrição específica, bem como os sinais colocados nas condições previstas no n.º 3 do artigo 13.º do presente Regulamento, têm o mesmo significado que quando utilizados isoladamente.
 
 4 - As prescrições transmitidas pela sinalização de mensagem variável têm carácter temporário, modificando o regime normal de utilização da via.
+
+5 - Salvo o disposto no n.º 4 do artigo 14.º, os sinais de regulamentação são válidos até à intersecção de nível mais próxima.

@@ -2,7 +2,7 @@
 
 ### Dispositivos complementares
 
-1 - A sinalização temporária deve ser completada com os seguintes dispositivos complementares, representados no quadro XI, em anexo:
+1 - A sinalização temporária deve ser completada com os seguintes dispositivos complementares, representados no quadro XL, em anexo:
 
 ET1 - raquetas de sinalização, a utilizar na regulamentação manual do sentido de circulação, as quais devem ter uma das faces de cor verde e a outra representando o sinal de proibição C1;
 

@@ -8,7 +8,7 @@ a) Regiões que se destacam pelos seus valores patrimoniais e ou paisagísticos;
 
 b) Motivos de relevância cultural, histórico-patrimonial e paisagística, de acordo com a seguinte classificação hierárquica:
 
-1.º Conjuntos monumentais e cidades-museus;
+1.º Conjuntos monumentais e cidades-museu;
 
 2.º Conjuntos de interesse patrimonial e paisagístico e conjuntos de interesse histórico-patrimonial;
 

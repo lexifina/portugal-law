@@ -21,3 +21,5 @@ c) Seta verde sobre fundo circular negro.
 3 - As indicações dadas pelos sinais previstos no número anterior referem-se apenas ao sentido ou sentidos indicados pelas setas; a seta vertical dirigida para cima significa, consoante os casos, proibição ou autorização de seguir em frente.
 
 4 - A luz verde não pode estar acesa simultaneamente com qualquer outra do mesmo sistema, salvo nas condições previstas no artigo seguinte.
+
+5 - O sistema referido no n.º 1, quando destinado ao trânsito de velocípedes em pistas especiais para estes veículos, pode apresentar a figura de um velocípede.

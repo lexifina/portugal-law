@@ -6,9 +6,9 @@
 
 ### Sinais de informação
 
-Os sinais de informação, representados no quadro XXIX, em anexo, indicam a existência de locais com interesse e dão outras indicações úteis e são os seguintes:
+Os sinais de informação representados no quadro XXIX, em anexo, indicam a existência de locais com interesse e dão outras indicações úteis e são os seguintes:
 
-H1a - estacionamento autorizado: indicação do local em que o estacionamento é autorizado; ao sinal pode estar associado um painel adicional dos modelos n.os 11 e ou 12;
+H1a - estacionamento autorizado: indicação do local em que o estacionamento é autorizado;
 
 H1b - estacionamento autorizado: indicação do local, em estrutura coberta, em que o estacionamento é autorizado;
 
@@ -64,6 +64,8 @@ H20a - paragem de veículos de transporte colectivo de passageiros: indicação 
 
 H20b - paragem de veículos de transporte colectivo de passageiros que transitem sobre carris: indicação do local destinado a paragem daqueles veículos de transporte colectivo de passageiros;
 
+H20c - paragem de veículos afectos ao transporte de crianças: indicação do local reservado a paragem de veículos afectos ao transporte de crianças;
+
 H21 - aeroporto: indicação da existência de um aeroporto ou aeródromo;
 
 H22 - posto de informações: indicação da existência de um posto de informações;
@@ -105,3 +107,5 @@ H39 - fim de via reservada a automóveis e motociclos: indicação de que termin
 H40 - fim de estacionamento autorizado: indicação de que terminou o local em que o estacionamento era autorizado;
 
 H41 - fim de túnel: indicação de que terminou o túnel.
+
+H42 - velocidade média: indicação de via sujeita a controlo de velocidade, através do cálculo da velocidade média.

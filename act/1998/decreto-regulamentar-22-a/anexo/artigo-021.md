@@ -12,7 +12,7 @@ B1 - cedência de passagem: indicação de que o condutor deve ceder passagem a 
 
 B2 - paragem obrigatória no cruzamento ou entroncamento: indicação de que o condutor é obrigado a parar antes de entrar no cruzamento ou entroncamento junto do qual o sinal se encontra colocado e ceder a passagem a todos os veículos que transitem na via em que vai entrar;
 
-B3 - via com prioridade: indicação de que os condutores que circulam na via em que o sinal se encontra colocado têm prioridade de passagem na próxima intersecção;
+B3 - via com prioridade: indicação de que os condutores que circulam na via em que o sinal se encontra colocado têm prioridade de passagem nos sucessivos cruzamentos e entroncamentos;
 
 B4 - fim de via com prioridade: indicação de que a partir do local em que o sinal está colocado a via deixa de ter prioridade;
 
