@@ -1,0 +1,320 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11288",
+  "numero": "87",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2004-05-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2004-12-07",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2004-06-03",
+        "DataArquivo": "2004-12-07",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-12-09",
+        "DataReaberta": "2004-06-03",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2004-05-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764d30524f4c305276593356745a57353062334e515a585270593246764c7a4d304d6a4a684d54426a4c575a6b4d324d744e44566a4e5330344f54466b4c5752685a5456685a574e684d6a55324e5335775a47593d&fich=3422a10c-fd3c-45c5-891d-dae5aeca2565.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "104",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE DEFESA NACIONAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "3",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2004-06-15",
+            "gp": "CDS-PP",
+            "id": "1654",
+            "motivoCessacao": null,
+            "nome": "João Rebelo"
+          }
+        ],
+        "RelatorioFinal": [
+          "21882"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2006-06-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2004-05-28",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d7659324d34596a46694e474d744e32526d4d433030596a63794c5467785a6a4d744e6d466a4e7a63784d6d4930596d51794c6e426b5a673d3d&fich=cc8b1b4c-7df0-4b72-81f3-6ac7712b4bd2.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161831",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6149-6150"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6149?pgs=6149-6150&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que, no âmbito das suas competências de fiscalização da acção governativa em matéria de Defesa Nacional e das Forças Armadas, promova medidas que permitam dar cumprimento à Lei nº 11/98, de 1 de Junho, designadamente ao disposto na alínea i) do artigo 2º que consagra direitos especiais característicos da condição militar",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161832",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6150-6151"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6150?pgs=6150-6151&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que, no âmbito das suas competências de fiscalização da acção governativa em matéria de Defesa Nacional e das Forças Armadas, promova medidas que permitam dar cumprimento à Lei nº 11/98, de 1 de Junho, designadamente ao disposto na alínea i) do artigo 2º que consagra direitos especiais característicos da condição militar",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161833",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6151-6151"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6151?pgs=6151&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que, no âmbito das suas competências de fiscalização da acção governativa em matéria de Defesa Nacional e das Forças Armadas, promova medidas que permitam dar cumprimento à Lei nº 11/98, de 1 de Junho, designadamente ao disposto na alínea i) do artigo 2º que consagra direitos especiais característicos da condição militar",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161834",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6153-6153"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6153?pgs=6153&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que, no âmbito das suas competências de fiscalização da acção governativa em matéria de Defesa Nacional e das Forças Armadas, promova medidas que permitam dar cumprimento à Lei nº 11/98, de 1 de Junho, designadamente ao disposto na alínea i) do artigo 2º que consagra direitos especiais característicos da condição militar",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11288",
+    "PetAssunto": "Lei nº.11/89, de 1 de Junho (Lei de Bases Gerais do Estatuto da Condição Militar), designadamente, a alínea i) do artigo 2º. relativa aos direitos especiais que caracterizam a condição militar.",
+    "PetDataEntrada": "2004-05-28",
+    "PeticoesAssociadas": null,
+    "PetId": "11288",
+    "PetLeg": "IX",
+    "PetNr": "87",
+    "PetNrAssinaturas": "6490",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "194",
+        "obs": null,
+        "pag": [
+          "6149-6153"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-06-12",
+        "pubLeg": "X",
+        "pubNr": "134",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6149?pgs=6149-6153&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
