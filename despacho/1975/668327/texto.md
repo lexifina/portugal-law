@@ -1,0 +1,3 @@
+Despacho
+Considerando o aviso dos resseguradores de cancelamento da cobertura do seguro de riscos de guerra das aeronaves da TAP que operem na área de Angola, determina-se que, até à renegociação dos contratos de resseguro em causa, o Estado Português se substitua aos resseguradores, assumindo tais riscos de guerra na medida em que os mesmos não estejam cobertos pelas apólices em vigor.
+Presidência do Conselho de Ministros e Ministérios das Finanças e dos Transportes e Comunicações, 30 de Julho de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves. - O Ministro das Finanças, José Joaquim Fragoso. - O Ministro dos Transportes e Comunicações, Álvaro Augusto Veiga de Oliveira.
