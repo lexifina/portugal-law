@@ -1,0 +1,13 @@
+Aviso
+Para os fins do disposto no § 2.º do artigo 21.º dos Estatutos do Banco de Portugal, aprovados pelo Decreto n.º 19962, de 29 de Junho de 1931, com as alterações aprovadas pelo Decreto-Lei n.º 44432, de 29 de Junho de 1962, faz-se público que, por despacho de S. Ex.ª o Ministro das Finanças de 15 do corrente, foi aprovada a emissão de uma nova chapa de notas de 50$00 (chapa 8, efígie da Rainha Santa Isabel), a pôr em circulação pelo referido Banco, com as seguintes características:
+A) Frente da nota
+Na cor castanho-avermelhada: à direita o retrato da Rainha Santa Isabel, no centro, em cinco linhas, os letreiros «Banco de Portugal», «cinquenta», «escudos», «ouro» e «ch. 8»; nos cantos da esquerda dois números 50, com ornatos envolventes, que se prolongam para o centro da nota; no canto superior direito o número 50.
+Nos letreiros centrais utilizam-se dois tons de castanho-avermelhado.
+Noutras cores: uma rosácea central, em linha fina, variando de cor, impressa em cores esverdeada e castanha; outra rosácea, sob o retrato da rainha, impressa em linhas alaranjadas e castanhas na metade esquerda e tijolo e cinzento-esverdeado na metade direita; entre o escudo nacional e o canto superior esquerdo um ornato com pequenos losangos verdes e castanhos; simètricamente, na parte inferior, outro ornato em laranja e castanho; no lado esquerdo um ornato castanho-avermelhado com rosas, e, finalmente, nas margens, pequenos rectângulos de cor esverdeada nas faixas esquerda e direita e em cor acastanhada na faixa central, dentro dos quais se encontram, em letras microscópicas, os dísticos «Banco de» e «Portugal».
+B) Verso da nota
+Na cor castanho-esverdeada: um grande ornato circular à esquerda; o número 50 no canto inferior esquerdo e nos dois cantos da direita todos envolvidos por ornatos; duas pequenas figuras na parte inferior e os letreiros «cinquenta», «escudos», «ouro» e «Banco de Portugal», em quatro linhas.
+Nestas impressões são utilizadas duas tonalidades de cor castanho-avermelhada.
+Noutras cores: na parte central, reprodução de uma gravura antiga representando a cidade de Coimbra; dentro do grande ornato circular, as armas da cidade e um número 50 em grande formato; à direita, em cor esverdeada, um ornato com rosas; nas margens, um desenho, tipo numismático, com rosas heráldicas, impresso a castanho-avermelhado, com uma faixa central amarelada.
+C) Marca de água
+Representa um retrato da Rainha Santa Isabel idêntico ao retrato impresso na frente da nota.
+Direcção-Geral da Fazenda Pública, 21 de Fevereiro de 1964. - O Director-Geral, António Cândido Mouteira Guerreiro.
