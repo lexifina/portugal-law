@@ -1,0 +1,4 @@
+Aviso n.º 114/2000
+Por ordem superior se torna público que se encontram cumpridos os pressupostos exigidos na República Portuguesa e no Reino da Dinamarca para a entrada em vigor do Acordo de Renúncia ao Reembolso de Despesas Efectuadas com a Concessão de Prestações em Espécie e com os Controlos Administrativos e Médicos, no quadro dos n.os 3 dos artigos 36.º e 63.º do Regulamento (CEE) n.º 1408/71 e do n.º 2 do artigo 105.º do Regulamento (CEE) n.º 574/72, assinado em Copenhaga, em 17 de Abril de 1998.
+O referido Acordo foi aprovado através do Decreto n.º 9/99, de 16 de Março, do Governo, publicado no Diário da República, 1.ª série-A, n.º 63, de 16 de Março de 1999, tendo entrado em vigor em 1 de Maio de 2000, na sequência das comunicações a que se refere o seu artigo 5.º, n.º 2.
+Direcção de Serviços de Migrações e Apoio Social, 11 de Maio de 2000. - O Director de Serviços, Joaquim Ludovina do Rosário.
