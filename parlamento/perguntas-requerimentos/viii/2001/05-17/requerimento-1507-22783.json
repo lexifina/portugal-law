@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OfehzreU1EekBL7OXFnyzGmW8bzUJkDwDT7BSK7VUfLauZ5I%2f6vSw1dJJCXiVPxrlwNtg4zrKjgh67DgiM8B5FKf8N6o4ALNMnM6XcxO93rNB0scu3e8b%2bi1ZjYLgC3GyFhkWhw%2bIXevazca40mvw98RJxsco5JCegGgillMwlwn078EN3YG2ZZJVhZ59H%2fLW%2bs5mYqc4JXMwaXSW8sA0jwKn6uXi10AUm59cKhTprZUuHzvHEWandtkZpdSG61gn1XLqqd34GFDqZfcyLmX3ExGx49CBIyD8qQZJ5cRcV%2flVtgFM44vas8fwL4YHxhDFbwSHrZDfEziwK608l068Bc1XIKORTm7pOuZpv0CK8Wx1xbmFjVpqM7eBPtfukK%2b9sFdolrKVteHgWfoqM6qxjc5xiB0Zh3Rpl%2frrgejwZ4%3d&fich=RequerimentosVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "ee27fd579cbcd218d0bfb6c54648bdf855a16242176249fd32eb6a93230a2247",
+  "legislatura": "VIII",
+  "id": "22783",
+  "tipo": "Requerimento",
+  "numero": "1507",
+  "data_registo": "2001-05-17",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "DISTRIBUIÇÃO PELAS ESCOLAS ONDE SE LECCIONA A LINGUA PORTUGUESA NO ESTRANGEIRO, DO \"KIT DA PÁTRIA\" - MATERIAIS PEDAGÓGICOS DESACTUALIZADOS E DEGRADADOS",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "77",
+        "nome": "José Cesário"
+      }
+    ],
+    "DataEnvio": "2001-05-22",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2001-05-22",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DOS NEGÓCIOS ESTRANGEIROS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2001-07-17",
+            "docRemetida": "CÓPIAS DE 3 MAPAS COM A DISTRIBUIÇÃO DE MATERIAL EM 2000 E 2001 PAAS COMEMORAÇÕES",
+            "entidade": "S.E.  DAS  COMUNIDADES PORTUGUESAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a545443396b5a44526b59544d355a69316b59544d784c54517759546b744f57517a4e433030596a4e6d4f4759774e7a6b774e7a4d756347526d&fich=dd4da39f-da31-40a9-9d34-4b3f8f079073.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2001-05-17",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a545443396c4f5468694e446b344e5330795a445a6a4c5451795a5467744f4745314e7930305a546468596a45325a5452684e4755756347526d&fich=e98b4985-2d6c-42e8-8a57-4e7ab16e4a4e.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "22783",
+    "Legislatura": "VIII",
+    "Nr": "1507",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "263749",
+        "obs": "188-(11)",
+        "pag": [
+          "188-(11)-188-(11)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2001",
+        "pubLeg": "VIII",
+        "pubNr": "30",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/030S1/2001-05-26/188-(11)?pgs=188-(11)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
