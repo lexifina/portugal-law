@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo do Senegal depositou junto do Secretariado-Geral das Nações Unidas, em 19 de Julho de 1979, o instrumento de adesão à Convenção Suplementar Relativa à Abolição da Escravatura, do Tráfico de Escravos e das Instituições e Práticas Análogas à Escravatura, concluída em Genebra em 7 de Setembro de 1956, de que Portugal é parte. Em conformidade com o artigo 13.º, a Convenção entrou em vigor para o Senegal na data acima mencionada.
+Secretaria-Geral do Ministério, 12 de Setembro de 1979. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
