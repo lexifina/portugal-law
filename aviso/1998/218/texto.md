@@ -1,0 +1,4 @@
+Aviso n.º 218/98
+Por ordem superior se torna público que a Roménia depositou, em 22 de Abril de 1998, os instrumentos de ratificação da Convenção Relativa à Equivalência de Diplomas Dando Acesso a Estabelecimentos Universitários, aberta para assinatura em Paris, em 11 de Dezembro de 1953.
+Portugal é parte nesta Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 98/81, publicado no Diário da República, 1.ª série-A, n.º 171, de 28 de Julho de 1981, tendo depositado o seu instrumento de ratificação em 3 de Novembro de 1981, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 278, de 3 de Dezembro de 1981.
+Direcção-Geral dos Assuntos Multilaterais, 5 de Outubro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
