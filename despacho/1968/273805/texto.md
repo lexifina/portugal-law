@@ -1,0 +1,5 @@
+Despacho
+Nos termos do artigo 1.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, ouvido o Conselho Permanente da Acção Educativa, considerar como adequada, para efeito de provimento nos cargos dos serviços municipais abaixo mencionados, a habilitação dos cursos que, para cada um deles, se indica a seguir:
+a) Adjunto do chefe dos serviços técnicos de equipamentos e transportes - curso de máquinas marítimas, da Escola Náutica, regulado pela Portaria n.º 17632, de 14 de Março de 1960, ou de montador electricista ou electromecânico, regulados pelo Decreto n.º 37029, de 25 de Agosto de 1948;
+b) Adjunto do chefe dos serviços técnicos de saneamento - curso de topógrafo auxiliar de obras públicas ou, na sua falta, curso de construtor civil, ambos regulados pelo Decreto n.º 37029, de 25 de Agosto de 1948.
+Presidência do Conselho, 10 de Junho de 1968. - Pelo Presidente do Conselho, o Ministro de Estado, António Jorge Martins da Mota Veiga.
