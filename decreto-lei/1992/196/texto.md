@@ -1,0 +1,43 @@
+Decreto-Lei n.º 196/92
+de 12 de Setembro
+O Decreto-Lei n.º 24/92, que estabelece o regime dos contratos de fornecimento, compra e venda de coisas móveis, aluguer, aquisição e locação de bens e serviços de informática celebrados por pessoas colectivas públicas e que transpõe para a ordem jurídica interna as Directivas n.os 77/62/CEE, 80/767/CEE e 88/295/CEE, foi publicado em 25 de Fevereiro de 1992, estabelecendo um prazo de vacatio legis de 90 dias.
+Tendo-se constatado a desactualização de um dos valores previstos no n.º 1 do artigo 100.º, por força da comunicação n.º 91/C321/07 da Comissão, publicada no Jornal Oficial das Comunidades Europeias, com efeitos a partir de 1 de Janeiro de 1992, urge proceder à sua correcção.
+Foram ouvidos a Associação Nacional de Municípios Portugueses e os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo único. Os artigos 1.º, 14.º, 16.º e 100.º do Decreto-Lei n.º 24/92, de 25 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º
+Âmbito de aplicação
+1 - O presente diploma aplica-se aos contratos celebrados por pessoas colectivas públicas, incluindo as autarquias locais e respectivas associações e federações, que tenham como objecto:
+a) ...
+b) ...
+c) ...
+d) ...
+2 - Ficam sujeitos ao regime definido pelo presente diploma os contratos cujo valor estimado, com exclusão do IVA, seja igual ou superior aos limiares em vigor nas Comunidades Europeias.
+3 - ...
+4 - ...
+Artigo 14.º
+Procedimentos gerais
+1 - A celebração dos contratos referidos nos n.os 1 e 2 do artigo 1.º tem de ser precedida dos seguintes procedimentos:
+...
+2 - ...
+Artigo 16.º
+Concorrentes estrangeiros
+1 - ...
+a) Os nacionais de países subscritores do Acordo GATT sobre Contratos Públicos, quando se trate do contrato referido na alínea a) do n.º 1 do artigo 100.º do presente diploma;
+b) Apenas os nacionais de países membros da Comunidade Europeia, quando se trate dos contratos referidos na alínea b) do n.º 1 do mesmo artigo.
+2 - ...
+3 - ...
+4 - ...
+Artigo 100.º
+Montantes em vigor
+1 - Os limiares previstos no n.º 2 do artigo 1.º cifram-se, à data da entrada em vigor do presente diploma, nos seguintes valores:
+a) 125576 ECU, quando se trate de contratos celebrados pelos organismos da administração pública central constantes do anexo I da Directiva n.º 80/767/CEE, incluindo os contratos celebrados no domínio da defesa que tenham por objecto os produtos referidos no anexo II da mesma directiva;
+b) 200000 ECU, quando se trate de contratos celebrados pelas demais pessoas colectivas públicas, incluindo as autarquias locais e respectivas associações e federações, bem como os contratos celebrados no domínio da defesa que não tenham por objecto os produtos referidos no anexo II da Directiva n.º 80/767/CEE.
+2 - ...
+Visto e aprovado em Conselho de Ministros de 9 de Julho de 1992. - Aníbal António Cavaco Silva - Artur Aurélio Teixeira Rodrigues Consolado - Mário Fernando de Campos Pinto - António Jorge de Figueiredo Lopes - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira.
+Promulgado em 11 de Agosto de 1992.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 31 de Agosto de 1992.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
