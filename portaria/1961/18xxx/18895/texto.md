@@ -1,0 +1,4 @@
+Portaria n.º 18895
+Tornando-se necessário actualizar a constituição do Conselho de Instrução da Armada, em virtude das disposições do Decreto n.º 43916, de 16 de Setembro de 1961, de acordo com o § 3.º do artigo 16.º do Decreto n.º 43711, de 24 de Maio de 1961:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que o Conselho de Instrução da Armada seja presidido pelo superintendente dos Serviços da Armada e do mesmo faça parte o director do Serviço do Pessoal, os 1.os comandantes dos grupos de escolas, os comandantes das escolas independentes, os comandantes ou directores dos comandos, unidades e serviços a que estão adstritas as escolas ou centros de instrução, o chefe da 4.ª divisão do Estado-Maior da Armada, o chefe da 5.ª Repartição da Direcção do Serviço do Pessoal e um oficial da mesma repartição, que servirá de secretário.
+Ministério da Marinha, 20 de Dezembro de 1961. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
