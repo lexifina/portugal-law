@@ -1,0 +1,7 @@
+Decreto-Lei n.º 45150
+Atendendo a que, pelo seu permanente contacto com o público, se torna conveniente que os guardas dos principais monumentos nacionais, propriedade do Estado, se apresentem condignamente fardados;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Poderá ser atribuído o direito a fardamento, nos termos estabelecidos para o pessoal menor dos Ministérios, aos guardas dos monumentos nacionais, propriedade do Estado, de maior importância artística, histórica e turística.
+§ único. A atribuição será feita por despacho do Ministro das Finanças, mediante proposta fundamentada da Direcção-Geral da Fazenda Pública.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 22 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
