@@ -1,7 +1,5 @@
 # Artigo 20.º
 
-### Serviço de Informações de Segurança
+### Serviço de Informações Estratégicas de Defesa
 
-1 - O Serviço de Informações de Segurança é o organismo incumbido da produção de informações que contribuam para a salvaguarda da segurança interna e a prevenção da sabotagem, do terrorismo, da espionagem e a prática de actos que, pela sua natureza, possam alterar ou destruir o Estado de direito constitucionalmente estabelecido.
-
-2 - O Serviço de Informações de Segurança depende do Primeiro-Ministro, através do Ministro da Administração Interna.
+O Serviço de Informações Estratégicas de Defesa é o organismo incumbido da produção de informações que contribuam para a salvaguarda da independência nacional, dos interesses nacionais e da segurança externa do Estado Português.

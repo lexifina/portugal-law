@@ -8,14 +8,14 @@
 
 Compete ao Primeiro-Ministro:
 
-a) Informar o Presidente da República acerca dos assuntos referentes à condução da actividade dos serviços de informações;
+a) Manter especialmente informado o Presidente da República acerca dos assuntos referentes à condução da actividade do Sistema de Informações da República Portuguesa, directamente ou através do Secretário-Geral;
 
 b) Presidir ao Conselho Superior de Informações;
 
-c) Nomear e exonerar o secretário-geral da Comissão Técnica;
+c) Nomear e exonerar o Secretário-Geral;
 
-d) Coordenar e orientar, através dos ministros directamente responsáveis, a acção dos serviços de informações;
+d) Nomear e exonerar, ouvido o Secretário-Geral, o director do Serviço de Informações Estratégicas de Defesa e o director do Serviço de Informações de Segurança;
 
-e) Resolver, ouvido o Conselho Superior de Informações, os conflitos positivos ou negativos de competência surgidos na actuação dos serviços de informações;
+e) Controlar, tutelar e orientar a acção dos serviços de informações;
 
 f) Exercer as demais funções que lhe sejam atribuídas pela presente lei.

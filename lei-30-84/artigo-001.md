@@ -4,6 +4,6 @@
 
 # Artigo 1.º
 
-### (Objectivo)
+### Objecto
 
 A presente lei estabelece as bases gerais do Sistema de Informações da República Portuguesa.

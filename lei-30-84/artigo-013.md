@@ -1,23 +1,9 @@
-## Capítulo III
-
-## Orgânica do sistema
-
-## Secção I
-
-## Estrutura, natureza e dependência
-
 # Artigo 13.º
 
-### (Orgânica)
+### (Direitos e regalias)
 
-Para a prossecução das finalidades referidas no artigo 2.º, são criados:
+1 - Os membros do Conselho não podem ser prejudicados na sua colocação, nos seus benefícios sociais ou no seu emprego permanente por virtude do desempenho do mandato, considerando-se justificadas para todos os efeitos as faltas dadas ao serviço em razão das reuniões do Conselho.
 
-a) O Conselho de Fiscalização dos Serviços de Informações;
+2 - Os membros do Conselho de Fiscalização auferem uma remuneração fixa, de montante a estabelecer por despacho conjunto do Primeiro-Ministro, do Ministro das Finanças e do membro do Governo responsável pela Administração Pública, acumulável com qualquer outra remuneração, pública ou privada.
 
-b) O Conselho Superior de Informações;
-
-c) A Comissão Técnica;
-
-d) O Serviço de Informações Estratégicas de Defesa e Militares;
-
-e) O Serviço de Informações de Segurança.
+3 - Os membros do Conselho de Fiscalização auferem, por cada reunião, senhas de presença e subsídios de transporte idênticos aos praticados para os deputados.

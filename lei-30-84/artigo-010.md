@@ -1,9 +1,7 @@
 # Artigo 10.º
 
-### (Imunidades)
+### (Posse e renúncia)
 
-1 - Os membros do Conselho de Fiscalização são civil, criminal e disciplinarmente irresponsáveis pelos votos ou opiniões que emitirem no exercício das suas funções, sem prejuízo do cumprimento das obrigações que lhes são aplicáveis nos termos da presente lei.
+1 - Os membros do Conselho de Fiscalização tomam posse perante o Presidente da Assembleia da República no prazo de 10 dias a contar da publicação do resultado da eleição, sob forma de resolução, na 1.ª série do Diário da República.
 
-2 - Nenhum membro do Conselho pode ser detido ou preso preventivamente sem autorização da Assembleia da República, salvo por crime punível com pena superior a 3 anos e em flagrante delito.
-
-3 - Movido procedimento criminal contra algum membro do Conselho e indiciado este por despacho de pronúncia ou equivalente, salvo no caso de crime punível com pena superior a 3 anos, a Assembleia deliberará se o membro do Conselho deve ou não ser suspenso, para efeito de seguimento do processo.
+2 - Os membros do Conselho de Fiscalização podem renunciar ao mandato mediante declaração escrita apresentada ao Presidente da Assembleia da República, a qual será publicada na 2.ª série do Diário da Assembleia da República.

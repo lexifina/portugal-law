@@ -2,6 +2,8 @@
 
 ### Dependência e processo de nomeação
 
-1 - Os serviços de informações dependem do Primeiro-Ministro, através dos ministros indicados na presente lei.
+1 - O Secretário-Geral e os serviços de informações dependem directamente do Primeiro-Ministro.
 
-2 - A nomeação do director de cada um dos serviços de informações será antecedida de audição do indigitado em sede de comissão parlamentar.
+2 - O Primeiro-Ministro pode delegar num membro do Governo que integre a Presidência do Conselho de Ministros as competências que lhe são legalmente conferidas no âmbito do Sistema de Informações da República Portuguesa.
+
+3 - A nomeação do Secretário-Geral é antecedida de audição do indigitado em sede de comissão parlamentar.
