@@ -1,0 +1,90 @@
+Decreto Regulamentar n.º 3/2000
+de 21 de Março
+As carreiras de inspecção superior e de inspecção do grupo de pessoal técnico de inspecção do quadro do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho encontram-se legalmente caracterizadas como carreiras de regime especial, nos termos da respectiva Lei Orgânica, aprovada pelo Decreto-Lei n.º 219/93, de 16 de Junho.
+Assim, torna-se necessário promover a reestruturação daquelas carreiras por aplicação dos princípios definidos no Decreto-Lei n.º 404-A/98, de 18 de Dezembro, para as carreiras de regime geral, mediante decreto regulamentar, nos termos do n.º 3 do seu artigo 17.º
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+Nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+CAPÍTULO I
+Disposições gerais
+Artigo 1.º
+Âmbito
+O presente diploma aplica-se às carreiras de regime especial integradas no grupo de pessoal técnico de inspecção, do quadro de pessoal do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, adiante designado por IDICT.
+Artigo 2.º
+Objecto
+O ingresso, acesso e progressão na carreira de inspecção superior e de inspecção do IDICT é feito de acordo com as regras definidas no presente diploma, sem prejuízo do disposto no Decreto-Lei n.º 219/93, de 16 de Junho.
+CAPÍTULO II
+Regime de carreiras
+Artigo 3.º
+Carreira de inspecção superior
+1 - A carreira de inspecção superior caracteriza-se como carreira de regime especial e desenvolve-se pelas categorias de inspector superior principal, inspector superior, inspector principal e inspector.
+2 - O recrutamento para ingresso e o acesso na carreira de inspecção superior é feito nos termos definidos no artigo 32.º do mencionado Decreto-Lei n.º 219/93, de 16 de Junho.
+3 - A área de recrutamento para inspector principal é alargada aos inspectores técnicos especialistas principais com curso superior que não confira o grau de licenciatura, desde que previamente habilitados com formação adequada.
+4 - Aos titulares de mestrado ou doutoramento, desde que o conteúdo funcional seja de interesse para a Inspecção-Geral do Trabalho (IGT), é reduzido em 12 meses o tempo legalmente exigido para a progressão na carreira, nos termos das alíneas a), b) e c) do n.º 3 do artigo 32.º do mencionado Decreto-Lei n.º 219/93, de 16 de Junho.
+Artigo 4.º
+Carreira de inspecção
+A carreira de inspecção caracteriza-se como carreira de regime especial e desenvolve-se pelas categorias de inspector técnico especialista principal, inspector técnico especialista, inspector técnico principal, inspector-adjunto principal e inspector-adjunto.
+Artigo 5.º
+Condições de ingresso e acesso na carreira de inspecção
+1 - O recrutamento para ingresso na carreira de inspecção é feito nos termos do artigo 6.º, n.º 1, alínea d), do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, sem prejuízo do disposto no artigo 36.º do Decreto-Lei n.º 219/93, de 16 de Junho, sendo definido no respectivo aviso de abertura de concurso o curso técnico-profissional considerado adequado, em função das atribuições da IGT.
+2 - O recrutamento para ingresso na carreira de inspecção pode ainda ser feito na categoria de inspector-adjunto principal de entre indivíduos habilitados com curso superior que não confira o grau de licenciatura e que tenham obtido aprovação em estágio, sendo para este efeito reservados até 40% do número de lugares postos a concurso, salvo se não existirem concorrentes nestas condições.
+3 - O acesso nesta carreira é feito mediante concurso e obedece às seguintes regras:
+a) Inspector técnico especialista principal e inspector técnico especialista, de entre, respectivamente, inspectores técnicos especialistas e inspectores técnicos principais com um mínimo de três anos de serviço classificados de Muito Bom ou de cinco anos classificados de Bom nas respectivas categorias;
+b) Inspector técnico principal, de entre inspectores-adjuntos principais com um mínimo de três anos na categoria classificados de Bom, habilitados com curso superior que não confira o grau de licenciatura ou desde que aprovados em curso de formação adequado;
+c) Inspector-adjunto principal de entre inspectores-adjuntos com um mínimo de três anos de serviço classificados de Bom.
+Artigo 6.º
+Escalas salariais
+As escalas salariais das carreiras de inspecção constam do mapa anexo ao presente diploma, do qual faz parte integrante.
+CAPÍTULO III
+Disposições finais e transitórias
+Artigo 7.º
+Regra geral de transição
+1 - Sem prejuízo do disposto no número seguinte, a transição faz-se para a mesma carreira e categoria.
+2 - Os funcionários integrados nas categorias de inspector-adjunto de 1.ª, 2.ª, e 3.ª classes transitam para a categoria de inspector-adjunto.
+3 - As transições a que se reportam os números anteriores efectuam-se para o escalão a que corresponda, na estrutura da categoria, índice remuneratório igual ou, se não houver coincidência, índice superior mais aproximado.
+Artigo 8.º
+Situações especiais
+1 - Os actuais inspectores-adjuntos de 1.ª classe que, de acordo com a regra geral de transição, venham a ser integrados em índice igual àquele para que transitariam se não tivessem sido promovidos a essa categoria serão integrados no índice imediatamente superior da respectiva categoria.
+2 - Serão igualmente posicionados no escalão imediatamente superior os funcionários promovidos em 1997 que, se não tivessem sido promovidos, adquirissem pela combinação das regras de transição e de progressão um índice salarial superior ao que resulta da transição para a nova escala salarial.
+3 - Serão igualmente posicionados no escalão imediatamente superior os funcionários que na sequência de promoção ocorrida em 1997 sejam posicionados em escalão a que corresponda índice igual ou inferior ao atribuído a outros funcionários do mesmo organismo e com a mesma categoria e escalão que não tenham sido promovidos durante 1998.
+4 - Os recursos apresentados com fundamento na inversão das posições relativas detidas pelos funcionários ou agentes à data da publicação do presente diploma e que violem o princípio da coerência e da equidade que presidem ao sistema de carreiras serão resolvidos por despacho conjunto dos ministros da tutela e das Finanças e do membro do Governo responsável pela Administração Pública.
+5 - Aos actuais inspectores-adjuntos principais posicionados no 4.º escalão e inspectores-adjuntos de 1.ª classe posicionados no 1.º escalão é reduzido em um ano o tempo de serviço necessário para progressão ao escalão imediato, na primeira progressão após 1 de Janeiro de 1998.
+Artigo 9.º
+Enquadramento salarial das mudanças de situação
+Os funcionários que tenham mudado de categoria ou escalão a partir de 1 de Janeiro de 1998 transitam para a nova escala salarial de acordo com a categoria e escalão de que eram titulares àquela data, sem prejuízo do reposicionamento decorrente das alterações subsequentes de acordo com as regras aplicáveis.
+Artigo 10.º
+Contagem de tempo de serviço
+1 - Aos funcionários a que se refere o n.º 2 do artigo 7.º do presente diploma, o tempo de serviço prestado nas categorias de inspector-adjunto de 1.ª, 2.ª e 3.ª classes conta, para efeitos de promoção, como prestado na categoria de inspector-adjunto.
+2 - Nos casos em que da aplicação da regra constante do n.º 3 do artigo 7.º resulte um impulso salarial igual ou inferior a 10 pontos, releva para efeitos de progressão o tempo de permanência no índice de origem.
+Artigo 11.º
+Alteração do quadro de pessoal
+O quadro de pessoal do IDICT, aprovado pela Portaria n.º 596-B/93, de 21 de Junho, com as alterações introduzidas pelas Portarias n.os 178/96, de 29 de Maio, e 550/97, de 25 de Julho, considera-se automaticamente alterado nos seguintes termos:
+a) As dotações das categorias de inspector superior principal e de inspector superior são convertidas em dotação global, com efeitos reportados a 1 de Janeiro de 1999;
+b) As dotações das categorias de inspector principal e de inspector são convertidas em dotação global;
+c) A dotação de inspector-adjunto corresponde à soma dos lugares de inspector-adjunto de 1.ª, 2.ª e 3.ª classes.
+Artigo 12.º
+Concursos pendentes
+1 - Mantêm-se em vigor os concursos cujos avisos de abertura se encontrem publicados até à data da publicação do presente diploma, observando-se as seguintes regras:
+a) Os candidatos que tenham sido ou vierem a ser aprovados nesses concursos são integrados na nova categoria em escalão para que transitaram os titulares das categorias a que se candidataram que estavam posicionados no mesmo escalão;
+b) A integração prevista na alínea anterior depende de despacho de nomeação ou de transição no caso de categorias extintas e produz efeitos a partir da data da sua publicação no Diário da República.
+2 - O regime consignado no número precedente é aplicável apenas às vagas existentes à data da publicação dos avisos de abertura dos respectivos concursos, salvo nos casos de dotação global.
+Artigo 13.º
+Salvaguarda de expectativas de progressão
+Os funcionários cuja primeira e segunda progressão após a transição para a escala salarial aprovada pelo presente diploma se faça para índice inferior ao que lhes teria sido atribuído no sistema actualmente vigente serão pagos pelo índice que lhes caberia na escala anterior até perfazerem o tempo legalmente previsto para uma nova progressão.
+Artigo 14.º
+Produção de efeitos
+1 - Sem prejuízo do disposto no número seguinte, o presente diploma produz efeitos a 1 de Janeiro de 1998.
+2 - Das transições decorrentes deste diploma não podem resultar, em 1998, impulsos salariais superiores a 15 pontos indiciários.
+3 - Nos casos em que se verificam impulsos salariais superiores, o direito à totalidade da remuneração só se adquire em 1 de Janeiro de 1999.
+4 - Aos funcionários que em 1998 adquiriram, por progressão na anterior escala salarial, o direito a remuneração superior à que lhes é atribuída de acordo com os n.os 2 e 3 é garantida, entre o momento da progressão e 31 de Dezembro de 1998, a remuneração correspondente ao índice para o qual progrediram naquela escala salarial.
+5 - O disposto nos números anteriores não impede a integração formal no escalão que resultar das regras de transição.
+6 - Os funcionários e agentes que se aposentaram durante o ano de 1998 e até à entrada em vigor do presente diploma terão a sua pensão de aposentação calculada com base no índice que couber ao escalão em que ficarem posicionados.
+Visto e aprovado em Conselho de Ministros de 10 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Alberto de Sousa Martins.
+Promulgado em 28 de Fevereiro de 2000.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 2 de Março de 2000.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ANEXO
+Mapa que se refere o artigo 6.º
+(ver mapa no documento original)
