@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/05/10200/03810382.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-05-04",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "81ffb133800348bc7f897c17876ef9fad89158046f66ae21a2b810c62a36a54e",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.7,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "29da17ec3a8d471e1097d5465a621f6095b772fad4d7ffbe0a865db8bd4bb825",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 223
 }
