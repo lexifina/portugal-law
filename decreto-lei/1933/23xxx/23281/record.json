@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1933/11/27400/20642065.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1933-11-30",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "15e6bf4b1789995df08654482da4fdbad9faadb2118ef9fa52913a2e3fc3353a",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.3,
+    "pages": 2,
+    "columns": [
+      3,
+      8
+    ],
+    "pdf_sha256": "8ab7dce2de6bd861ed340b19c4cebec0e22366b91303b6bf890d13b0283fb964",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 299
 }
