@@ -1,0 +1,15 @@
+Portaria n.º 1140/2001
+de 26 de Setembro
+A Paisagem Protegida das Lagoas de Bertiandos e São Pedro de Arcos, situada no concelho de Ponte de Lima, foi criada pelo Decreto Regulamentar n.º 19/2000, de 11 de Dezembro, constituindo uma zona de elevado interesse conservacionista.
+As lagoas de Bertiandos e São Pedro de Arcos possuem um variado conjunto de valores de ordem paisagística e biológica, sendo possível destacar a existência de um interessante mosaico de habitats, desde zonas húmidas, bosquetes florestais de vegetação natural, pastagens e áreas agrícolas, desenvolvendo-se ao longo de um sistema lacustre permanente, irrigado por canais naturais e atravessado pelo rio Estorãos, exibindo apreciável diversidade e originalidade paisagísticas.
+A conjugação de uma associação de folhosas em terrenos alagadiços, onde se destacam os amieiros, carvalhos, salgueiros e vidoeiros, confere ao local potencialidades particulares em termos de habitat de alimentação e refúgio para várias espécies da fauna.
+Em termos de flora e vegetação, a zona apresenta um interesse elevado, que se traduz no registo de perto de 80 espécies vegetais consideradas raras ou em vias de extinção.
+Do ponto de vista faunístico, merecem referência algumas espécies de aves que constam do anexo A-I do Decreto-Lei n.º 140/99, de 24 de Abril, bem como espécies pertencentes a outras classes de vertebrados, igualmente incluídas no anexo B-IV do mesmo decreto-lei.
+Com efeito, ponderados os interesses específicos na conservação da natureza e dadas as características naturais desta zona e a sua importância na conservação de diversas espécies, torna-se necessária a interdição total do exercício da caça dentro dos limites da área de Paisagem Protegida das Lagoas de Bertiandos e São Pedro de Arcos.
+Assim:
+Ao abrigo do disposto no n.º 2 do artigo 39.º da Lei n.º 173/99, de 21 de Setembro, e na alínea b) do n.º 1 do artigo 115.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro:
+Manda o Governo, pelo Ministro do Ambiente e do Ordenamento do Território, ouvido o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É interdito o exercício da caça dentro dos limites da área da Paisagem Protegida das Lagoas de Bertiandos e São Pedro de Arcos, definidos no artigo 2.º do Decreto Regulamentar n.º 19/2000, de 11 de Dezembro, e no mapa anexo ao mesmo diploma.
+2.º O disposto no número anterior não prejudica a possibilidade de, em casos especiais devidamente fundamentados, as entidades competentes, nos termos do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, autorizarem, dirigirem ou levarem a efeito acções de correcção visando o controlo populacional de determinadas espécies de fauna cinegética.
+3.º As infracções ao disposto na presente portaria constituem infracções de caça, nos termos do capítulo XI do Decreto-Lei n.º 227-B/2000, de 15 de Setembro.
+Pelo Ministro do Ambiente e do Ordenamento do Território, Manuel Pedro Cunha da Silva Pereira, Secretário de Estado do Ordenamento do Território e da Conservação da Natureza, em 31 de Agosto de 2001.
