@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1920/05/10000/06870687.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1920-05-14",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "735cf982d550ed4034e8ba5215cdb6b0591a36578a8c20b54e8802768dd8e5ca",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "1df390c8e154b8570325a43bd3fdfc3a59155cbc2bbe587dca5e6a8ae7317c32",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 160
 }
