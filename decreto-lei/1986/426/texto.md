@@ -1,0 +1,27 @@
+Decreto-Lei n.º 426/86
+de 27 de Dezembro
+Com o Decreto-Lei n.º 311/84, de 26 de Setembro, pretendeu-se introduzir no Decreto-Lei n.º 94/82, de 25 de Março, alterações visando uma maior operacionalidade na sua execução até aí não isenta de dificuldades.
+Com a aplicação do Decreto-Lei n.º 311/84, de 26 de Setembro, foi possível, com alguma rapidez e eficiência, completar a 1.ª fase do curso de complemento de formação para professores de Trabalhos Manuais e do 12.º grupo e executar, em período de tempo adequado, a 2.ª fase daquele curso.
+Com a publicação do Decreto-Lei n.º 150-A/85, de 8 de Maio, alterado, por ratificação, pela Lei n.º 8/86, de 15 de Abril, o processo de profissionalização em exercício, até aí vigente foi dado por findo e iniciado um novo coordenado superiormente pelas instituições de ensino superior vocacionadas para a formação inicial de professores.
+Assim sendo, não se justifica a manutenção da 4.ª fase do curso de complemento de formação referida no n.º 5 do artigo 8.º do Decreto-Lei n.º 311/84, de 26 de Setembro. Há, assim, necessidade de não mais protelar, no tempo, o desenvolvimento dos cursos e, por tal facto, fundir numa só fase as actuais 3.ª e 4.ª fases.
+Com o presente diploma pretende-se introduzir as medidas finais capazes de ultimar, com rapidez, todo o processo e salvaguardar os legítimos direitos dos interessados.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - Os cursos de complemento de formação para professores de Trabalhos Manuais e do 12.º grupo, criados pelo Decreto-Lei n.º 94/82, de 25 de Março, e alterado pelo Decreto-Lei n.º 311/84, de 26 de Setembro, realizar-se-ão em três fases.
+2 - A 3.ª fase referida no número anterior abrange:
+a) Os candidatos mencionados nas alíneas do n.º 4 do artigo 8.º do Decreto-Lei n.º 311/84, de 26 de Setembro;
+b) Os candidatos actualmente em exercício de funções docentes que reunindo as condições gerais estabelecidas no artigo 1.º do Decreto-Lei n.º 311/84, de 26 de Setembro, sejam autorizados por despacho ministerial a frequentar aquela fase, ainda que colocados no ano escolar de 1982-1983 com horário incompleto, independentemente do momento em que se concretizou aquela colocação.
+3 - Para efeitos do estabelecido na alínea b) do n.º 2 deste artigo os interessados apresentarão requerimento fundamentado dirigido ao Ministro da Educação e Cultura.
+4 - A conclusão da 3.ª fase do curso de complemento de formação a que se refere o presente diploma não poderá ultrapassar o termo do ano escolar de 1987-1988.
+Art. 2.º Para além do estabelecido no artigo 9.º do Decreto-Lei n.º 311/84, de 26 de Setembro, os candidatos poderão ainda optar pela realização do curso de complemento de formação na disciplina ou no subgrupo em que se encontrem a leccionar no ano lectivo de 1986-1987, desde que para o mesmo possuam habilitação própria.
+Art. 3.º - 1 - A aprovação nos cursos de complemento de formação previstos no Decreto-Lei n.º 311/84, de 26 de Setembro, determina, nas condições naquele diploma estabelecidas, a integração dos interessados no nível 1 do mapa anexo ao Decreto-Lei n.º 100/86, de 17 de Maio.
+2 - A integração no nível referido no número anterior não será, em caso algum, prejudicada pelo facto de o docente ter transitado, nos termos legais em vigor, de grau de ensino ou subgrupo dentro do mesmo grau de ensino diferente daquele em que realizou, com aproveitamento, o respectivo curso de complemento de formação.
+Art. 4.º São integrados na alínea c) do n.º 4 do artigo 8.º do Decreto-Lei n.º 311/84, de 26 de Setembro, os professores profissionalizados ou com habilitação profissional correspondente de Trabalhos Manuais e do 12.º grupo que à data da publicação do Decreto-Lei n.º 94/82, de 25 de Março, se encontrassem na situação de exonerados, desde que se hajam efectivado até 30 de Setembro de 1986.
+Art. 5.º Cada um dos júris a que se refere o n.º 1 do artigo 12.º do Decreto-Lei n.º 311/84, de 26 de Setembro, será constituído por três ou quatro professores e o presidente goza, em caso de empate, de voto de qualidade.
+Art. 6.º São revogados o n.º 5 do artigo 8.º e o n.º 2 do artigo 12.º do Decreto-Lei n.º 311/84, de 26 de Setembro.
+Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
+Promulgado em 4 de Dezembro de 1986.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 10 de Dezembro de 1986.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
