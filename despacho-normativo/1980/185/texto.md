@@ -1,0 +1,5 @@
+Despacho Normativo n.º 185/80
+Para incentivar a aplicação de calcário indispensável à correcção da acidez dos solos e aumento da sua produtividade, torna-se necessário promover a sua produção e distribuição a preços acessíveis ao agricultor.
+Além de outras medidas em estudo, que irão ser tomadas, entende-se que os empréstimos e outros créditos para a implantação, ampliação ou reequipamento de unidades industriais dedicadas à produção de calcário, exclusivamente destinado à correcção da acidez dos solos agrícolas, serão equiparados a operações de crédito agrícola ou piscatório, de acordo com o artigo 14.º, alínea b), da Lei n.º 14/78, de 23 de Março, que cria o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas - IFADAP.
+A concessão dos referidos empréstimos e outros créditos terá lugar nos termos gerais previstos no SIFAP.
+Ministérios das Finanças e do Plano e da Agricultura e Pescas, 15 de Maio de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha
