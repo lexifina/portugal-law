@@ -1,0 +1,58 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "tipo": "Inquérito Parlamentar",
+  "numero": "4",
+  "id": "20368",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1996-07-10",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1996-10-14",
+    "DataInicioleg": "1995-10-27",
+    "IniAnexos": null,
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": [
+      {
+        "assunto": "Sobre comissão parlamentar de inquérito para averiguar dos pedidos pendentes do ministério da educação ou objecto de decisão nos últimos doze meses, para reconhecimento ou autorização de funcionamento de instituições ou cursos do ensino superior particular e cooperativo",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "5076",
+        "legislatura": "VII",
+        "numero": "51",
+        "sessao": "2",
+        "tipo": "R"
+      }
+    ],
+    "IniDescTipo": "Inquérito Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "20368",
+    "IniLeg": "VII",
+    "IniLinkTexto": "",
+    "IniNr": "4",
+    "IniObs": "Despacho nº 51/VII do PAR: DAR II S C 26, 1996.09.26 (Composição da Comissão);  Constituição da Mesa e Regulamento da Comissão: DAR II S B 4, 1996.11.16; Actas da Comissão: DAR II S C-CEI 1, 1997.07.14; Relatório Final da Comissão: DAR II S B 24, Supl., 1997.06.07; Apreciação do Relatório em Plenário: DAR I S 87, 1997.06.28",
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "I",
+    "IniTitulo": "Para averiguar dos pedidos pendentes no Ministério da Educação ou objecto de decisão nos últimos 12 meses para reconhecimento ou autorização de funcionamento de instituições ou cursos do ensino superior particular e cooperativo.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
