@@ -1,0 +1,11 @@
+Despacho ministerial
+As exigências dos objectivos da política social e a rapidez de execução das medidas imediatas dessa política requerem a adequação dos funcionários em serviço no Ministério dos Assuntos Sociais ou em instituições dele dependentes às novas instituições políticas ou ao espírito de criação colectiva que caracteriza o actual momento da vida nacional.
+Por outro lado, a consulta feita a vários serviços do Ministério dos Assuntos Sociais, bem como as críticas feitas por alguns sectores aos esquemas de treino e promoção existentes, tornaram patente a carência experimentada pelos funcionáros quanto às oportunidades para a sua própria formação.
+A convergência destes factores leva à necessidade de institucionalizar desde já - e independentemente da ulterior reestruturação global do Ministério dos Assuntos Sociais - modos flexíveis de formação permanente dos funcionários. Assim, há necessidade de inventariar as necessidades concretas no domínio da formação permanente dos funcionários e, em especial, daqueles que são agentes directos de protecção social da população.
+Nestes termos:
+1. É criado um grupo de trabalho, de carácter eventual, tendo como objectivo a estruturação do esquema de formação permanente de funcionários do Ministério dos Assuntos Sociais, baseado na estrutura de reflexão sobre a acção, de análise crítica de situações e de propostas de intervenção estratégica, de especificidade de cada tipo de prestação social.
+2. O grupo de trabalho é constituído por peritos do Ministério em cada um dos sectores que vão ser esteio da nova estrutura funcional, bem como por peritos de treinamento de pessoal no domínio social, recrutados em regime de tarefa fora do Ministério dos Assuntos Sociais.
+3. O grupo de trabalho deverá propor o esquema de formação permanente até ao dia 30 de Setembro.
+Esse esquema deverá incluir o programa de prioridades dos serviços a percorrerem o ciclo da formação permanente, bem como a indicação dos elementos especificamente técnicos a que recorrer para cada sector.
+4. O grupo de trabalho elaborará o esquema de reciclagem do Ministério dos Assuntos Sociais em estreita colaboração com a Comissão Interministerial de Animação Sócio-Cultural.
+Ministério dos Assuntos Sociais, 6 de Setembro de 1974. - O Ministro dos Assuntos Sociais, Maria de Lourdes Pintasilgo.
