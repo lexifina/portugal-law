@@ -1,0 +1,79 @@
+Portaria n.º 870/87
+de 11 de Novembro
+Sob proposta da Universidade de Coimbra;
+Ao abrigo do disposto no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:
+1.º
+Criação
+É criado na Faculdade de Letras da Universidade de Coimbra o curso de especialização em Tradução.
+2.º
+Opções
+O curso desdobra-se nas opções de:
+a) Alemão e Francês;
+b) Alemão e Inglês;
+c) Francês e Inglês.
+3.º
+Objectivo
+O curso visa fornecer, dentro das opções previstas, a preparação teórica e prática necessária ao exercício da tradução em moldes profissionais.
+4.º
+Habilitação de acesso
+1 - Podem candidatar-se à matrícula e inscrição no curso os licenciados que demonstrem conhecimentos de nível adequado nas línguas estrangeiras correspondentes à opção do curso, nos termos fixados pelo conselho científico.
+2 - Os conhecimentos de línguas estrangeiras a que se refere o número anterior serão comprovados através de provas específicas organizadas pelo conselho científico.
+3 - Poderão ser dispensados total ou parcialmente das provas a que se refere o número anterior os titulares de habilitações académicas que o conselho científico reconheça que comprovam a satisfação dos requisitos supra-referidos.
+5.º
+Limitações quantitativas
+1 - A inscrição no curso está sujeita a limitações quantitativas, as quais serão fixadas anualmente por despacho do reitor, sob proposta do conselho directivo, elaborada na sequência de audição dos conselhos científico e pedagógico.
+6.º
+Selecção dos candidatos
+As regras de selecção e seriação dos candidatos serão fixadas por despacho do reitor, proferido sob proposta conjunta dos conselhos científico e pedagógico.
+7.º
+Prazos
+Os prazos em que terão lugar a candidatura, a afixação dos resultados e a matrícula e inscrição serão fixados por despacho do reitor, sob proposta do conselho directivo.
+8.º
+Plano de estudos
+O plano de estudos do curso é o constante dos anexos I a III à presente portaria.
+9.º
+Regime geral
+As regras de matrícula, inscrição, frequência, avaliação de conhecimentos, precedências e prescrição, serão, conforme aplicável, as vigentes para os cursos de licenciatura ou as fixadas pelos órgãos competentes para a fixação das mesmas para os cursos de licenciatura.
+10.º
+Propinas
+A inscrição anual no curso estará sujeita ao pagamento de uma propina de 6000$00, a qual será liquidada em estampilhas fiscais numa só vez, no acto da inscrição, ou em duas prestações, uma no acto da inscrição e outra até ao dia 31 de Março.
+11.º
+Classificação final
+1 - A classificação final do curso é a média aritmética ponderada arredondada até às unidades (considerando-se como unidade a fracção não inferior a cinco décimas) das disciplinas que integram o plano de estudos do curso.
+2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.
+12.º
+Certificado
+Aos alunos aprovados na totalidade das disciplinas que integram o plano de estudos do curso será passado um certificado final, nos termos do anexo IV à presente portaria.
+13.º
+Entrada em funcionamento
+A entrada em funcionamento do curso estará dependente de despacho reitoral proferido sobre relatório do conselho directivo comprovativo da existência dos recursos necessários à concretização do mesmo.
+14.º
+Publicação
+Os despachos reitorais a que se referem os n.os 5.º, 6.º, 7.º e 13.º serão objecto de publicação na 2.ª série do Diário da República.
+Ministério da Educação.
+Assinada em 30 de Outubro de 1987.
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
+
+(ver documento original)
+
+ANEXO IV
+Certificado final
+República (ver nota a) Portuguesa
+... (ver nota b), reitor da Universidade de Coimbra:
+Faço saber que ... (ver nota c), filho de ... (ver nota d), natural da freguesia de ... (ver nota e), concelho de ... (ver nota f), distrito de ... (ver nota g), concluiu na Faculdade de Letras o curso de especialização em Tradução, na opção de ... (ver nota h), com a classificação de ... (ver nota i) valores, em ... (ver nota j).
+Pelo que, em conformidade com as disposições legais em vigor, lhe mandei passar o presente certificado final, em que o declaro habilitado com o referido curso.
+Coimbra, ... (ver nota l).
+O Reitor,
+...
+O Administrador,
+...
+(nota a) Emblema da Universidade de Coimbra.
+(nota b) Nome do reitor da Universidade de Coimbra.
+(nota c) Nome do titular do certificado final.
+(nota d) Nome do pai e da mãe do titular do certificado final.
+(nota e), (nota f) e (nota g) Freguesia, concelho e distrito de naturalidade do titular do certificado final.
+(nota h) Alemão e Francês ou Alemão e Inglês ou Francês e Inglês.
+(nota i) Classificação final do curso.
+(nota j) Data de conclusão do curso.
+(nota l) Data de emissão do certificado final.
