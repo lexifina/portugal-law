@@ -1,0 +1,1213 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "101",
+    "id": "6210",
+    "titulo": "Contracepção de emergência."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-10-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1628",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-10-13",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5886",
+        "leg": "VIII",
+        "nr": "308",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "454",
+            "obs": null,
+            "pag": [
+              "402-417"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-14",
+            "pubLeg": "VIII",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/402?pgs=402-417&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "454",
+            "obs": null,
+            "pag": [
+              "402-417"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-14",
+            "pubLeg": "VIII",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/402?pgs=402-417&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "454",
+            "obs": null,
+            "pag": [
+              "402-417"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-14",
+            "pubLeg": "VIII",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/402?pgs=402-417&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Garante o acesso aos medicamentos contraceptivos de emergência."
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5880",
+        "leg": "VIII",
+        "nr": "313",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "454",
+            "obs": null,
+            "pag": [
+              "402-417"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-14",
+            "pubLeg": "VIII",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/402?pgs=402-417&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "454",
+            "obs": null,
+            "pag": [
+              "402-417"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-14",
+            "pubLeg": "VIII",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/402?pgs=402-417&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "454",
+            "obs": null,
+            "pag": [
+              "402-417"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-14",
+            "pubLeg": "VIII",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/402?pgs=402-417&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Da gravidez na adolescência."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5879",
+        "leg": "VIII",
+        "nr": "314",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "454",
+            "obs": null,
+            "pag": [
+              "402-417"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-14",
+            "pubLeg": "VIII",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/402?pgs=402-417&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "454",
+            "obs": null,
+            "pag": [
+              "402-417"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-14",
+            "pubLeg": "VIII",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/402?pgs=402-417&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "454",
+            "obs": null,
+            "pag": [
+              "402-417"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-14",
+            "pubLeg": "VIII",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/402?pgs=402-417&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Contracepção de emergência."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-10-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30331",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "417-417"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/417?pgs=417&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30332",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "416-416"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/416?pgs=416&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30334",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "414-415"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/414?pgs=414-415&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "412-417"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/412?pgs=412-417&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30336",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "414-414"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/414?pgs=414&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "412-415"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/412?pgs=412-415&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30338",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "412-412"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/412?pgs=412&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1653",
+                "nome": "Helena Neves"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "412-412"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/412?pgs=412&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1596",
+                "nome": "Nuno Freitas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30340",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "411-412"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/411?pgs=411-412&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30341",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "409-411"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/409?pgs=409-411&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30342",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "407-408"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/407?pgs=407-408&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30343",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "407-407"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/407?pgs=407&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1653",
+                "nome": "Helena Neves"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30344",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "406-407",
+                  "410-411"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/406?pgs=406-407,410-411&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30345",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "406-406"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/406?pgs=406&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1439",
+                "nome": "João Sobral"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30346",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "405-406"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/405?pgs=405-406&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1596",
+                "nome": "Nuno Freitas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30347",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "404-405",
+                  "408-409"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/404?pgs=404-405,408-409&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30348",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "403-404"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/403?pgs=403-404&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1653",
+                "nome": "Helena Neves"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30349",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "402-403"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/402?pgs=402-403&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  SAÚDE",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Miguel Boquinhas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107138",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "414-417"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/414?pgs=414-417&org=PLC"
+              }
+            ],
+            "sumario": "CONTRACEPCAO DE EMERGENCIA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104808",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110909",
+        "obs": null,
+        "pag": [
+          "402--417"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-10-14",
+        "pubLeg": "VIII",
+        "pubNr": "11",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/402?pgs=402--417&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
