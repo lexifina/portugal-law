@@ -1,0 +1,5 @@
+Aviso n.º 294/94
+Por ordem superior se torna público que, por notificação de 13 de Abril de 1994, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos declarou aceitar, por Aruba, em 11 de Abril de 1994, a adesão da República da Polónia à Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia, em 5 de Outubro de 1961.
+Em conformidade com o artigo 20.º, a Convenção entrou em vigor entre a República da Polónia e o Reino dos Países Baixos, por Aruba, em 10 de Junho de 1994.
+Relativamente a Portugal, a Convenção foi aprovada para ratificação pelo Decreto-Lei n.º 48494, conforme Diário do Governo, n.º 172, de 23 de Julho de 1968. O depósito do instrumento de ratificação foi feito em 6 de Dezembro de 1968, segundo Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1969. A Convenção entrou em vigor para o nosso país em 4 de Fevereiro de 1969, conforme Diário do Governo, 1.ª série, de 2 de Abril de 1969.
+Departamento de Assuntos Jurídicos, 19 de Outubro de 1994. - O Director, José Maria Teixeira Leite Martins.
