@@ -1,0 +1,3 @@
+Resolução n.º 51/81
+Nos termos do Tratado entre a República Federal da Alemanha e a República de Portugal Relativo à Extradição e à Assistência Judiciária em Matéria Penal, de 8 de Abril de 1965, e do artigo 24.º, n.º 2, do Decreto-Lei n.º 437/75, de 16 de Agosto, o Conselho de Ministros, reunido em 26 de Fevereiro de 1981, resolveu deferir o pedido de extradição apresentado pelas autoridades da República Federal da Alemanha referente ao apátrida Andreas Szasz, condenado pela prática de dois crimes de roubo, para execução de parte da pena em que foi condenado e ainda por cumprir.
+Presidência do Conselho de Ministros, 26 de Fevereiro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
