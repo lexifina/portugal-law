@@ -1,0 +1,5 @@
+Aviso n.º 33/2002
+Por ordem superior se torna público que, em 10 de Maio de 2001 e em 6 de Março de 2002, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros de Malta e pela Embaixada de Portugal em Roma, em que se comunicou o cumprimento das formalidades constitucionais internas, por ambos os países, para aprovação da Convenção entre a República Portuguesa e a República de Malta para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 26 de Janeiro de 2001.
+A citada Convenção foi aprovada pela Resolução da Assembleia da República n.º 11/2002 e ratificada pelo Decreto do Presidente da República n.º 10/2002, publicados no Diário da República, 1.ª série-A, n.º 47, de 25 de Fevereiro de 2002.
+Nos termos do artigo 28.º da Convenção, esta entra em vigor em 10 de Abril de 2002.
+Direcção-Geral das Relações Bilaterais, 14 de Março de 2002. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira.
