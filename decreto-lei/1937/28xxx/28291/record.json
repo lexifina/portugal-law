@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/12/29600/14831483.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-12-21",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "a181991f04e494158a91e126b03fc58d688115685d782461ada3ce3e34366471",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each page read whole (Tesseract page layout)",
+    "agreement_pct": 99.5,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "7920ac1df5e3fc2b1c6b806a729a8d6d65ab7e13bacc743169c452c477631668",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 347
 }
