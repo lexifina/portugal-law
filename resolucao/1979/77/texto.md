@@ -1,0 +1,5 @@
+Resolução n.º 77/79
+Em 27 de Julho de 1978 foi publicada a Resolução n.º 120/78, de 5 de Julho, que nomeou uma nova comissão administrativa para a empresa Ciprel - Companhia de Investimentos Prediais, S. A. R. L., cometendo-lhe a elaboração de um programa de acção com vista a permitir a propositura, no prazo de seis meses, das condições em que se processará a cessação da intervenção do Estado na empresa.
+Considerando que não foi possível, devido não só à situação interna da empresa, como também à necessidade de resolução de problemas dependentes de outras entidades, resolver atempadamente os problemas existentes que permitiriam o equacionamento das soluções a adoptar, o que espera contudo vir a ser concretizado em breve, o Conselho de Ministros, reunido em 28 de Fevereiro de 1979, resolveu:
+Prorrogar por mais quatro meses, e com efeitos a partir de 27 de Janeiro, o prazo de seis meses fixado na alínea d) do n.º 2 da Resolução n.º 120/78, de 5 de Julho.
+Presidência do Conselho de Ministros, 28 de Fevereiro de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
