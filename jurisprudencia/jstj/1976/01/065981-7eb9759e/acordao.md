@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal de Justiça de 1976-01-06, processo 065981
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 065981
+
+**Nº Convencional:** JSTJ00024059
+
+**Relator:** OLIVEIRA CARVALHO
+
+**Descritores:** CONTRATO-PROMESSA DE COMPRA E VENDA; MORA; INTERPELAÇÃO; ERRO SOBRE O OBJECTO DO NEGÓCIO
+
+**Nº do Documento:** SJ197601060659811
+
+**Data do Acordão:** 01/06/1976
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Área Temática:** DIR CIV - DIR CONTRAT / TEORIA GERAL.
+
+## Sumário
+
+I _ Nos termos do artigo 805 do Código Civil, se a obrigação não tiver prazo certo o devedor só fica constituido em mora depois de ter sido judicial ou extrajudicialmente interpelado para cumprir, pois sem esse acto pode ele não saber que está em atraso no cumprimento.
+
+II - A interpelação extrajudicial pode ser feita por qualquer dos meios admitidos para uma declaração negocial, a qual pode ser expressa ou tácita e feita por palavras, escrito ou qualquer outro meio de manifestação da vontade ou deduzida de factos que com toda a probabilidade, a revelam nos termos do artigo 217 do Código Civil e, como prescreve o artigo 224 do mesmo diploma, a declaração negocial que tem um destinatário torna-se eficaz logo que chega ao seu poder ou é dele conhecida.
+
+III - A interpelação tem de incluir o pedido ou exigência da prestação de facto devida, devendo o devedor ser notificado para cumprir esse facto, facto que, no contrato-promessa de compra e venda, é o da outorga da escritura de venda.
+
+IV - Tendo o Autor solicitado essa outorga por carta registada com aviso de recepção, manifestando-lhe claramente a sua vontade, e tendo feito várias diligências no sentido de persuadir o Réu a celebrar a escritura de compra e venda, este recusando-se a outorgá-la incorreu em responsabilidade nos termos dos artigos 798 e 442 n. 2 do Código Civil.
+
+V - Provando-se apenas que o Réu conhecia mal os prédios referidos no contrato-promessa, tal facto não significa que os não quisesse vender, pelo que o contrato não é anulável por erro sobre o objecto do negócio visto, nos termos dos artigos 247 e 251 do Código Civil, não atingir os motivos determinantes da vontade e desde que o destinatário conhecesse ou não devesse ignorar tal essencialidade.
