@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 22/91
+A reestruturação da QUIMIGAL - Química de Portugal, S. A., pressupõe a autonomização jurídica e financeira de algumas das suas áreas de actividade e a consequente alienação total ou parcial das participações sociais detidas pela QUIMIGAL, S. A., nas empresas assim constituídas.
+Foi assim constituída a CUF-Têxteis, S. A., a partir da área de negócios de têxteis para o lar da QUIMIGAL - Química de Portugal, S. A., cuja participação social se pretende agora alienar, dado que a actividade desta empresa não se enquadra na estratégia empresarial definida para a QUIMIGAL, S. A.
+De acordo com o Decreto-Lei n.º 128/91, de 22 de Março, que autoriza a QUIMIGAL, S. A., a proceder à venda directa da sua participação social na CUF-Têxteis,S. A., e com o artigo 8.º da Lei n.º 11/90, de 5 de Abril, compete ao Conselho de Ministros a aprovação do respectivo caderno de encargos.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Aprovar o caderno de encargos que tem por objecto definir as condições em que a QUIMIGAL - Química de Portugal, S. A., se propõe proceder à alienação total da sua participação social na CUF-Têxteis, S. A.
+2 - Os titulares originários da dívida pública decorrente das nacionalizações e expropriações, no caso da mobilização dos seus títulos de indemnização, deverão juntar às respectivas ordens de compra uma declaração de conformidade com o disposto no artigo 24.º da Lei n.º 11/90, de 5 de Abril.
+3 - No prazo máximo de 90 dias após a operação o Ministério das Finanças, através da Junta do Crédito Público, verificará a veracidade das declarações referidas no número anterior e, se se apurar o incumprimento do disposto no artigo 24.º da Lei n.º 11/90, de 5 de Abril, as acções indevidamente atribuídas reverterão para o Estado, caso o adquirente não proceda imediatamente à sua liquidação em dinheiro, acrescida de um juro moratório à taxa de 2,3% ao mês.
+4 - Os títulos de dívida pública decorrentes das nacionalizações e expropriações mobilizados para pagamento da subscrição à QUIMIGAL - Química de Portugal, S. A., serão a esta resgatados, ao seu valor nominal, pelo Fundo de Regularização da Dívida Pública.
+Presidência do Conselho de Ministros, 23 de Maio de 1991. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
