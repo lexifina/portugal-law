@@ -1,0 +1,5 @@
+Resolução n.º 43/81
+Considerando que, não se encontrando ainda em vigor o Orçamento Geral do Estado para 1981, há que dotar a Anop - Agência Noticiosa Portuguesa, E. P., com os meios financeiros necessários para ultrapassar a situação de ruptura eminente de tesouraria, com a consequente paralisação dos serviços por aquela prestados;
+Considerando, por outro lado, que na aplicação do regime orçamental vigente, até à efectiva publicação em Diário da República, do Orçamento Geral do Estado para 1981, a atribuição de subsídios de exploração a empresas públicas está dependente de aprovação de resolução do Conselho de Ministros:
+O Conselho de Ministros, reunido em 17 de Fevereiro de 1981, resolveu atribuir à Anop - Agência Noticiosa Portuguesa, E. P., a título de subsídio não reembolsável, a verba de 10000 contos, correspondente ao duodécimo de Janeiro do corrente ano, calculado com base no subsídio à exploração concedido àquela empresa pública em 1980, sobre o qual não incidirão quaisquer descontos.
+Presidência do Conselho de Ministros, 17 de Fevereiro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
