@@ -1,0 +1,59 @@
+# Acórdão do Tribunal da Relação do Porto de 1998-12-10, processo 9840902
+
+**Acórdãos TRP:** Acórdão do Tribunal da Relação do Porto
+
+**Processo:** 9840902
+
+**Nº Convencional:** JTRP00024702
+
+**Relator:** SOUSA PEIXOTO
+
+**Descritores:** SUSPENSÃO DO DESPEDIMENTO; REQUISITOS; DESOBEDIÊNCIA; CATEGORIA PROFISSIONAL; EXERCÍCIO DE FUNÇÕES; PODER DE DIRECÇÃO; PRINCÍPIO DA ESTABILIDADE DA INSTÂNCIA
+
+**Nº do Documento:** RP199812109840902
+
+**Data do Acordão:** 12/10/1998
+
+**Votação:** UNANIMIDADE COM 1 DEC VOT
+
+**Tribunal Recorrido:** T TRAB V N GAIA 1J
+
+**Processo no Tribunal Recorrido:** 365-A/98
+
+**Data Dec. Recorrida:** 08/19/1998
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** AGRAVO.
+
+**Decisão:** NEGADO PROVIMENTO.
+
+**Área Temática:** DIR PROC TRAB.
+
+**Legislação Nacional:** CPT81 ART43.; LCT69 ART22 N2 N7 NA REDACÇÃO DA L 21/96 DE 1996/07/23 ART39.
+
+## Sumário
+
+I - Relativamente aos trabalhadores em geral, a suspensão do despedimento só é decretada se não tiver sido instaurado processo disciplinar, se este for nulo ou se o tribunal, ponderadas todas as circunstâncias relevantes, concluir pela probabilidade séria de inexistência de justa causa ( artigo 43 do Código de Processo do Trabalho ).
+
+II - Porém, se o trabalhador objecto do despedimento for dirigente sindical ou membro de comissão de trabalhadores, a suspensão só não deve ser decretada se o tribunal concluir pela existência de probabilidade séria de verificação de justa causa para o despedimento ( artigo 14 n.3 do regime jurídico aprovado pelo Decreto-Lei 64-A/89, de 27 de Fevereiro ).
+
+III - A diferença entre um regime e outro ocorre quando o tribunal tem dúvidas acerca da probabilidade séria de verificação da justa causa. Tal dúvida leva ao indeferimento da suspensão quando o requerente não for dirigente sindical ou membro de comissões de trabalhadores e leva ao seu deferimento no caso contrário.
+
+IV - Estando provado, que o trabalhador exercia funções numa máquina de cordão, designada de " rabo de cavalo " devido ao facto de o cordão ser grosso e que exercia também, alternadamente, funções de área de carpintaria ( recuperação de paletes ), é ilegítima a sua recusa em ir trabalhar a tempo inteiro para uma outra máquina de fazer cordão, com os fundamentos de que era chefe de secção da máquina de " rabo de cavalo " e de que a empresa tinha trabalho de recuperação de paletes para lhe dar.
+
+V - Sendo a recusa persistente, está verificada a justa causa de despedimento, devendo a suspensão do despedimento ser indeferida.
+
+VI - A categoria profissional é a forma abreviada de designar o conjunto de serviços e tarefas que o trabalhador se obrigou a prestar.
+
+VII - Segundo o princípio geral de que os contratos devem ser pontualmente cumpridos ( artigo 406 do Código Civil ), transposto para o direito laboral no artigo 22 do Regime Jurídico do Contrato Individual de Trabalho, o empregador não pode obrigar o trabalhador a desempenhar funções não compreendidas na sua categoria profissional, salvo nas situações previstas nos ns.2 e 7 do citado artigo na redacção que lhe foi dada pela Lei n.21/96, de 23 de Julho, dado que tal se traduziria numa alteração unilateral do objecto do contrato.
+
+VIII - Não há alteração do objecto do contrato, quando o empregador ordena que o trabalhador passe a trabalhar a tempo inteiro numa máquina de cordão, se antes vinha trabalhando numa máquina de cordão e na recuperação de paletes.
+
+IX - O poder de direcção que o Regime Jurídico do Contrato Individual de Trabalho atribui ao empregador, nos seus artigos 1 e 39, permite-lhe definir a configuração que a prestação do trabalhador deve assumir.
+
+X - Se a causa de pedir da suspensão do despedimento tiver sido o exercício de funções de chefe de secção e se se provar que tal não acontecia, o tribunal não pode decretar a suspensão com base noutros factos, por não o permitirem os princípios dispositivos e de estabilidade da instância
+
+Reclamações:
