@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 20-C/2001
+Para os devidos efeitos se declara que o Decreto n.º 42/2001, publicado no Diário da República, 1.ª série-A, n.º 228, de 1 de Outubro de 2001, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Nos textos nas línguas portuguesa e inglesa, no artigo VIII, n.º 1, onde se lê «A autoridade nacional de segurança é a Presidência do Conselho de Ministros» deve ler-se «A Autoridade Nacional de Segurança, Presidência do Conselho de Ministros» e onde se lê «A autoridade nacional de segurança» e «a autoridade de segurança designada» deve ler-se «A Autoridade Nacional de Segurança» e «Autoridade de Segurança Designada».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Outubro de 2001. - O Secretário-Geral, Alexandre Figueiredo.
