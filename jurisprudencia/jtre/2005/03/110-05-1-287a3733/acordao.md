@@ -1,0 +1,41 @@
+# Acórdão do Tribunal da Relação de Évora de 2005-03-15, processo 110/05-1
+
+**Acórdãos TRE:** Acórdão do Tribunal da Relação de; Évora
+
+**Processo:** 110/05-1
+
+**Relator:** ANTÓNIO PIRES HENRIQUES DA GRAÇA
+
+**Descritores:** TRÁFICO DE ESTUPEFACIENTE; PRINCÍPIO DA LIVRE APRECIAÇÃO DA PROVA; IMPUGNAÇÃO DA MATÉRIA DE FACTO
+
+**Data do Acordão:** 03/15/2005
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Meio Processual:** RECURSO PENAL
+
+**Decisão:** NEGADO PROVIMENTO
+
+## Sumário
+
+I. A valoração da prova, obedece ao princípio da livre apreciação da prova nos termos do artigo 127º do Código de Processo Penal, pelo que a divergência, na óptica do recorrente, entre a prova produzida e os factos dados como provados não se reconduz à existência do vício do erro notório na apreciação da prova, que tem de resultar do texto da decisão recorrida, ainda que em conjugação com as regras da experiência comum.
+
+II. A toxicodependência do arguido, não é elemento integrante, constitutivo ou definidor do crime de tráfico de estupefacientes, mas, elemento a levar em conta na determinação da medida concreta da pena, porventura como um dos fins ou motivos determinantes do arguido, nos termos do artigo 71º, nº 2 do Código Penal.
+
+III. O grau de pureza da substância estupefaciente, além de não ser do conhecimento do cidadão comum, é elemento alheio à quantidade de droga encontrada, pelo que nem sequer se torna necessário constar da matéria de facto provada.
+
+IV. A impugnação da matéria de facto não se basta com a pretensão de dar-se como provada a versão pretendida pela recorrente, com base nas provas produzidas e diferentemente valoradas por quem recorre.
+
+V. A impugnação da matéria de facto, além dever estruturar-se nos termos definidos pelo artigo 412º, nºs 3 e 4 do CPP, terá de ser equacionada com a livre convicção do tribunal a quo., face ao princípio da livre apreciação da prova.
+
+VI. De outra forma, ficaria prejudicada a livre apreciação da prova pelo julgador que proferiu a decisão recorrida e, prejudicada ficava a função da motivação da sua convicção e, por conseguinte a natureza do recurso como remédio jurídico, e a independência do Tribunal a quo na livre convicção.
+
+ÉVORA, 15 de Março de 2005
+
+António Pires Henriques da Graça
+
+Rui Hilário Maurício
+
+Manuel Cipriano Nabais
