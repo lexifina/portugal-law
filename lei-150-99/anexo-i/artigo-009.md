@@ -1,7 +1,13 @@
+## Capítulo III
+
+## Valor tributável
+
 # Artigo 9.º
 
-### Valor representado em moeda estrangeira
+### Valor tributável
 
-1 - Sempre que os elementos necessários à determinação do valor tributável sejam expressos em moeda diferente da moeda nacional, as taxas de câmbio a utilizar são as de venda, segundo as tabelas indicativas do Banco de Portugal, ou as praticadas por qualquer banco estabelecido no território nacional.
+1 - O valor tributável do imposto do selo é o que resulta da Tabela Geral, sem prejuízo do disposto nos números e artigos seguintes.
 
-2 - Para os efeitos do número anterior, pode optar-se entre considerar a taxa do dia em que se efectuar a liquidação ou a do 1.º dia útil do respectivo mês.
+2 - A determinação do valor tributável por métodos indirectos terá lugar quando se verificarem os casos e condições previstos nos artigos 87.º e 89.º da Lei Geral Tributária (LGT) e segue os termos do artigo 90.º da mesma lei e do artigo 52.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas (CIRC), com as necessárias adaptações.
+
+3 - Nos contratos de valor indeterminado, a sua determinação é efectuada pelas partes, de acordo com os critérios neles estipulados ou, na sua falta, segundo juízos de equidade.

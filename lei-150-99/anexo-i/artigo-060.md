@@ -2,12 +2,8 @@
 
 ### Contratos de arrendamento
 
-1 - Os locadores e sublocadores comunicam à Autoridade Tributária e Aduaneira os contratos de arrendamento, subarrendamento e respetivas promessas, bem como as suas alterações e cessação.
+1 - As entidades referidas no artigo 2.º, bem como os locadores e sublocadores que, sendo pessoas singulares, não exerçam actividades de comércio, indústria ou prestação de serviços, comunicam à repartição de finanças da área da situação do prédio os contratos de arrendamento, do subarrendamento e respectivas promessas, bem como as suas alterações.
 
-2 - A comunicação referida no número anterior é efetuada até ao fim do mês seguinte ao do início do arrendamento, do subarrendamento, das alterações, da cessação ou, no caso de promessa, da disponibilização do bem locado, em declaração de modelo oficial, nos termos a regulamentar por portaria do membro do Governo responsável pela área das finanças.
+2 - A comunicação referida no número anterior é efectuada até ao fim do mês seguinte ao do início do arrendamento, subarrendamento, das alterações ou, no caso de promessa, da disponibilização do bem locado.
 
-3 - (Revogado.)
-
-4 - Caso os locadores ou sublocadores não comuniquem à Autoridade Tributária e Aduaneira os elementos previstos no n.º 1, os locatários e sublocatários podem fazê-lo, em declaração de modelo oficial, nos prazos e termos a regulamentar por portaria do membro do Governo responsável pela área das finanças.
-
-5 - A comunicação a que se referem os números anteriores considera-se submetida no serviço de finanças da área da situação do prédio.»
+3 - No caso de o contrato de arrendamento ou subarrendamento apresentar a forma escrita, a comunicação referida no n.º 1 é acompanhada de um exemplar do contrato.

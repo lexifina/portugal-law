@@ -14,7 +14,7 @@ b) O valor das operações e dos actos realizados isentos de imposto, segundo a 
 
 c) O valor do imposto liquidado, segundo a verba aplicável da Tabela;
 
-d) As alterações efetuadas através da apresentação da declaração prevista no n.º 3 do artigo 52.º-A.
+d) O valor do imposto compensado.
 
 4 - As entidades que nos termos dos Códigos do IRC e do IRS não estejam obrigadas a possuir contabilidade organizada, bem como os serviços públicos, quando obrigados à liquidação e entrega do imposto nos cofres do Estado, devem possuir registos adequados ao cumprimento do disposto no n.º 3.
 
