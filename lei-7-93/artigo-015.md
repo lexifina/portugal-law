@@ -20,7 +20,7 @@ e) Remunerações e subsídios que a lei prescrever;
 
 f) Os previstos na legislação sobre protecção à maternidade e à paternidade;
 
-g) Direito de uso e porte de arma, nos termos do n.º 5 do presente artigo;
+g) Direito de uso e porte de arma, nos termos do n.º 7 do presente artigo;
 
 h) Prioridade nas reservas de passagem nas empresas públicas de navegação aérea durante o funcionamento efectivo da Assembleia ou por motivos relacionados com o desempenho do seu mandato.
 

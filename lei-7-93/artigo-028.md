@@ -1,15 +1,11 @@
-## Capítulo V
-
-## Antigos Deputados e Deputados Honorários
-
 # Artigo 28.º
 
-### Antigos Deputados
+### Comissão Parlamentar de Ética
 
-1 - Os antigos Deputados que tenham exercido mandato de Deputado durante, pelo menos, quatro anos têm direito a um cartão de identificação próprio.
+1 - É constituída na Assembleia da República uma Comissão Parlamentar de Ética, composta por um representante designado por cada um dos quatro maiores grupos parlamentares, cujos membros gozam de independência no exercício das suas funções.
 
-2 - Os antigos Deputados a que se refere o número anterior têm direito de livre trânsito no edifício da Assembleia da República.
+2 - O presidente da Comissão é eleito de entre os quatro membros e dispõe de voto de qualidade.
 
-3 - Os Deputados a que se refere o presente artigo, ou associação ou associações que entre si resolvam constituir, nos termos gerais, quando reconhecidas pelo Plenário da Assembleia da República como associações de interesse parlamentar, podem beneficiar dos direitos e regalias que vierem a ser fixados por despacho do Presidente da Assembleia da República, ouvidos a Conferência de Líderes e o conselho de administração.
+3 - Os Deputados a que se refere o presente artigo, ou associação ou associações que entre si resolvam constituir, nos termos gerais, quando reconhecidas pelo Plenário da Assembleia da República como associações de interesse parlamentar, podem beneficiar dos direitos e regalias que vierem a ser fixados por despacho do Presidente da Assembleia da República, ouvidos a Conferência dos Representantes dos Grupos Parlamentares e o Conselho de Administração.
 
 4 - Os Deputados que tenham exercido as funções de Presidente da Assembleia da República gozam de estatuto próprio, fixado nos termos da última parte do número anterior.

@@ -2,7 +2,7 @@
 
 ### Faltas
 
-1 - Ao Deputado que falte a qualquer reunião plenária sem motivo justificado, nos termos dos artigos 8.º e 24.º, é descontado 1/20 do vencimento mensal, pelas primeira, segunda e terceira faltas, e um décimo pelas subsequentes, até ao limite das faltas que determine a perda de mandato.
+1 - Ao Deputado que falte a qualquer reunião ou votação previamente agendada, em Plenário, sem motivo justificado, nos termos dos artigos 8.º e 24.º, é descontado 1/20 do vencimento mensal pela primeira, segunda e terceira faltas e 1/10 pelas subsequentes, até ao limite das faltas que determine a perda de mandato.
 
 2 - Ao Deputado que falte a reuniões de comissão sem justificação é descontado 1/30 do vencimento mensal até ao limite de quatro faltas por comissão e por sessão legislativa.
 

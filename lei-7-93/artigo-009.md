@@ -10,4 +10,4 @@
 
 4 - Não haverá substituição se já não existirem candidatos efectivos ou suplentes não eleitos na lista do Deputado a substituir.
 
-5 - A substituição prevista no presente artigo, bem como o reconhecimento do impedimento temporário de candidato não eleito e do seu termo, depende de requerimento da direcção do respectivo grupo parlamentar, ou do órgão competente do partido ou ainda do candidato com direito a preencher o lugar vago.
+5 - A substituição prevista no presente artigo, bem como o reconhecimento do impedimento temporário de candidato não eleito e do seu termo, depende de requerimento da direcção do respectivo grupo parlamentar, quando o houver, ou do candidato com direito a preencher o lugar vago.

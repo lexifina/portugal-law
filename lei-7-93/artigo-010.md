@@ -6,4 +6,4 @@
 
 ### Irresponsabilidade
 
-Os Deputados não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções.
+Os Deputados não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções e por causa delas.

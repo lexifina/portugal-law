@@ -2,8 +2,14 @@
 
 ### Deveres dos Deputados
 
-1 - Os Deputados carecem de autorização da Assembleia para serem jurados, peritos ou testemunhas.
+1 - Constituem deveres dos Deputados:
 
-2 - Os Deputados carecem de autorização da Assembleia para servirem de árbitros em processos de que seja parte o Estado ou qualquer outra pessoa colectiva de direito público.
+a) Participar nos trabalhos parlamentares e designadamente comparecer às reuniões do Plenário e às das comissões a que pertençam;
 
-3 - A autorização a que se refere o n.º 1 deve ser solicitada pelo juiz competente, ou pelo instrutor do processo, em documento dirigido ao Presidente da Assembleia da República, e a decisão será precedida de audição do Deputado.
+b) Desempenhar os cargos na Assembleia e as funções para que sejam eleitos ou designados, sob proposta dos respectivos grupos parlamentares;
+
+c) Participar nas votações;
+
+d) Assegurar o indispensável contacto com os eleitores.
+
+2 - O exercício de quaisquer outras actividades, quando legalmente admissível, não pode pôr em causa o regular cumprimento dos deveres previstos no número anterior.

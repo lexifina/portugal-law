@@ -6,7 +6,7 @@
 
 ### Condições de exercício da função de Deputado
 
-1 - São garantidas aos Deputados condições adequadas ao eficaz exercício das suas funções, designadamente ao indispensável contacto com os cidadãos eleitores.
+1 - Os Deputados exercem livremente o seu mandato, sendo-lhes garantidas condições adequadas ao eficaz exercício das suas funções, designadamente ao indispensável contacto com os cidadãos eleitores e à sua informação regular.
 
 2 - Cada Deputado tem direito a dispor de condições adequadas de trabalho na sede da Assembleia.
 

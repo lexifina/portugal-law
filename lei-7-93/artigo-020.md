@@ -2,38 +2,36 @@
 
 ### Incompatibilidades
 
-1 - Não podem exercer as respectivas funções enquanto exercerem o mandato de Deputado à Assembleia da República:
+1 - São incompatíveis com o exercício do mandato de Deputado à Assembleia da República os seguintes cargos ou funções:
 
-a) O Presidente da República, os membros do Governo e os ministros da República;
+a) Presidente da República, membro do Governo e ministro da República;
 
-b) Os membros do Tribunal Constitucional, do Supremo Tribunal de Justiça, do Tribunal de Contas e do Conselho Superior de Magistratura e o provedor de Justiça;
+b) Membro do Tribunal Constitucional, do Supremo Tribunal de Justiça, do Tribunal de Contas, do Conselho Superior da Magistratura, do Conselho Superior dos Tribunais Administrativos e Fiscais, Procurador-Geral da República e Provedor de Justiça;
 
-c) Os Deputados ao Parlamento Europeu;
+c) Deputado ao Parlamento Europeu;
 
-d) Os membros dos órgãos de governo próprio das Regiões Autónomas;
+d) Membro dos órgãos de governo próprio das Regiões Autónomas;
 
-e) Os embaixadores não oriundos da carreira diplomática;
+e) Embaixador não oriundo da carreira diplomática;
 
-f) O Governador, os membros do Governo e os Deputados à Assembleia Legislativa de Macau;
+f) Governador e vice-governador civil;
 
-g) Os governadores e vice-governadores civis;
+g) Presidente e vereador a tempo inteiro ou em regime de meio tempo das câmaras municipais;
 
-h) Os presidentes e vereadores a tempo inteiro ou em regime de meio tempo das câmaras municipais;
+h) Funcionário do Estado ou de outras pessoas colectivas públicas;
 
-i) Os funcionários do Estado ou de outras pessoas colectivas públicas;
+i) Membro da Comissão Nacional de Eleições;
 
-j) Os membros da Comissão Nacional de Eleições;
+j) Membro dos gabinetes ministeriais ou legalmente equiparados;
 
-l) Os membros dos gabinetes ministeriais ou legalmente equiparados;
+l) Funcionário de organização internacional ou de Estado estrangeiro;
 
-m) Os funcionários de organização internacional ou de Estado estrangeiro;
+m) Presidente e vice-presidente do Conselho Económico e Social;
 
-n) O presidente e o vice-presidente do Conselho Económico e Social;
+n) Membro da Alta Autoridade para a Comunicação Social;
 
-o) Os membros da Alta Autoridade para a Comunicação Social;
+o) Membro dos conselhos de gestão das empresas públicas, das empresas de capitais públicos ou maioritariamente participadas pelo Estado e de instituto público autónomo.
 
-p) Os membros dos conselhos de gestão das empresas públicas, das empresas de capitais públicos ou maioritariamente participadas pelo Estado e de instituto público autónomo.
+2 - O disposto na alínea h) do número anterior não abrange o exercício gratuito de funções docentes no ensino superior, de actividade de investigação e outras de relevante interesse social similares como tais reconhecidas caso a caso pela Comissão de Ética da Assembleia da República.
 
-2 - O disposto na alínea i) do número anterior não abrange o exercício gratuito de funções docentes no ensino superior, de actividade de investigação e outras similares como tais reconhecidas caso a caso pela Assembleia da República.
-
-3 - A suspensão de mandato relativamente aos vice-presidentes do Conselho Económico e Social verifica-se durante os períodos em que, nos termos da regulamentação interna respectiva, se encontrem na efectividade das funções de substituição do presidente.
+3 - Sem prejuízo do disposto na alínea a) do n.º 1 e no n.º 2 do artigo 4.º, o exercício de cargo ou função incompatível implica a perda do mandato de Deputado, observado o disposto no n.º 7 do artigo 21.º

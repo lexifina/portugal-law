@@ -8,9 +8,7 @@
 
 1 - É criado um registo de interesses na Assembleia da República.
 
-2 - O registo de interesses consiste na inscrição, em livro próprio, de todas as actividades susceptíveis de gerarem incompatibilidades ou impedimentos e quaisquer actos que possam proporcionar proveitos financeiros ou conflitos de interesses.
-
-3 - Para efeitos do disposto no número anterior, serão inscritos, em especial, os seguintes factos:
+2 - O registo de interesses consiste na inscrição, em documento próprio, de todas as actividades susceptíveis de gerar incompatibilidades ou impedimentos, designadamente:
 
 a) Actividades públicas ou privadas, nelas se incluindo actividades comerciais ou empresariais e, bem assim, o exercício de profissão liberal;
 
@@ -20,6 +18,6 @@ c) Apoios ou benefícios financeiros ou materiais recebidos para o exercício da
 
 d) Entidades a quem sejam prestados serviços remunerados de qualquer natureza;
 
-e) Sociedades em cujo capital o titular, por si, pelo cônjuge ou pelos filhos, disponha de capital.
+e) Sociedades em cujo capital o titular participe, por si ou pelo cônjuge não separado de pessoas e bens.
 
-4 - O registo é público e pode ser consultado por quem o solicitar.
+3 - O registo é público e pode ser consultado por quem o solicitar.
