@@ -1,0 +1,25 @@
+Despacho Normativo n.º 244/79
+Tendo em conta os trabalhos desenvolvidos no âmbito da Comissão de Financiamento do Sector Empresarial do Estado, criado nos termos do n.º 1 do artigo 7.º do Decreto-Lei n.º 453/78, de 30 de Dezembro, com a nova redacção que lhe foi dada pelo n.º 2 do artigo único do Decreto-Lei n.º 65/79, de 30 de Março, e dando cumprimento ao disposto na Resolução do Conselho de Ministros n.º 241/79, de 8 de Agosto, os Ministros das Finanças e do Plano e dos Transportes e Comunicações determinam:
+1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1979 os projectos do Metropolitano de Lisboa a seguir discriminados:
+Projectos:
+... Formação bruta de capital fixo em 1979 - Milhares de contos
+Programa de remodelação da rede:
+Ampliação de estações ... 214
+Alta e baixa tensão, sinalização, equipamento, via ... 53
+Investimentos correntes, equipamento oficinal, beneficiações ... 21
+Refeitório e sede ... 47
+PMOI - Ampliação de oficinas ... 38
+Material circulante - Cinquenta e seis carruagens de serviços e beneficiações ... 296
+Auto-investimento ... -
+Programa de ampliação da rede:
+Construção de Alvalade-Calvanas-Campo Grande-PMO II ... 30
+PMO II - Terrenos, infra-estruturas de base ...69
+Estudos ... -
+Investimentos de anos anteriores com pagamentos diferidos ... -
+... 768
+2 - No presente ano, para além das operações financeiras necessárias à actividade corrente, fica vedado à empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não contemplado no número anterior.
+3 - Este conjunto de projectos representa um investimento total de 905 milhares de contos e será financiado, em parte, com uma dotação para capital estatutário da empresa, no montante de 60 milhares de contos, e de 240 milhares de contos para financiamento de infra-estruturas de longa duração, nos termos do Decreto Regulamentar n.º 90/77, de 31 de Dezembro, a realizar, em princípio, integralmente em 1979, mediante despacho do Secretário de Estado do Tesouro, de acordo com a evolução demonstrada das aplicações.
+4 - Para completar o financiamento do programa de investimentos incluído no n.º 1, a empresa fica autorizada, ao abrigo do n.º 3 e da alínea e) do n.º 2 do artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a nova redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 25/79, de 19 de Fevereiro, a recorrer aos mercados interno e externo para a obtenção de capital alheio a médio ou longo prazo até ao valor de 605 milhares de contos.
+5 - Em princípio, os financiamentos externos não deverão exceder 85% da componente importada dos investimentos aprovados e os efeitos das alterações cambiais a eles associadas serão de conta da empresa.
+6 - No recurso ao crédito interno a médio ou longo prazo, e para efeitos de bonificação de taxa de juro, não será aplicado à empresa regime diferente do esquema estabelecido pelo Banco de Portugal em vigor na altura da assinatura de cada contrato de financiamento.
+Ministérios das Finanças e do Plano e dos Transportes e Comunicações, 31 de Julho de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.
