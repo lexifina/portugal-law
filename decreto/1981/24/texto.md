@@ -1,0 +1,7 @@
+Decreto n.º 24/81
+de 9 de Janeiro
+O Presidente da República decreta, nos termos da alínea g) do artigo 136.º da Constituição, o seguinte:
+São nomeados, sob proposta do Primeiro-Ministro, o Dr. Basílio Adolfo Mendonça Horta da Franca, o Dr. Fernando Monteiro do Amaral, o engenheiro Luís Aníbal de Sá de Azevedo Coutinho, o Prof. Doutor André Roberto Delaunay Gonçalves Pereira, o Dr. José Manuel Meneres Sampaio Pimentel, o Dr. João António de Morais Leitão, o Prof. Doutor Vítor Pereira Crespo, o Dr. Henrique Alberto Freitas do Nascimento Rodrigues, o Dr. Carlos Matos Chaves de Macedo, o engenheiro António José Baptista Cardoso e Cunha, o Dr. Alexandre de Azeredo Vaz Pinto, o engenheiro Ricardo Manuel Simões Bayão Horta, o Dr. Luís Eduardo da Silva Barbosa, o engenheiro José Carlos Pinto Soromenho Viana Baptista, o Dr. Eusébio Marques de Carvalho, o Dr. Augusto Martins Ferreira do Amaral e o engenheiro Álvaro Roque de Pinho Bissaia Barreto, respectivamente Ministros de Estado Adjunto do Primeiro-Ministro, da Administração Interna, da Defesa Nacional, dos Negócios Estrangeiros, da Justiça, das Finanças e do Plano, da Educação e Ciência, do Trabalho, dos Assuntos Sociais, da Agricultura e Pescas, do Comércio e Turismo, da Indústria e Energia, da Habitação e Obras Públicas, dos Transportes e Comunicações, da Reforma Administrativa, da Qualidade de Vida e para a Integração Europeia.
+Assinado em 9 de Janeiro de 1981.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
