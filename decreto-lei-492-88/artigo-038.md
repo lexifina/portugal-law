@@ -1,7 +1,3 @@
-## Capítulo V
-
-## Dos pagamentos em prestações
-
 ## Capítulo VI
 
 ## Dos registos
