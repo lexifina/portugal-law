@@ -1,0 +1,4 @@
+Portaria n.º 19130
+Nos termos do disposto no artigo 1.º e seu § 2.º do Decreto-Lei n.º 31913, de 12 de Março de 1942, e nos artigos 24.º, n.º 19.º, na nova redacção dada pelo Decreto-Lei n.º 41723, de 8 de Julho de 1958, e 170.º do Decreto-Lei n.º 35108, de 7 de Novembro de 1945:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, incluir no quadro de direcção e chefia do Instituto de Assistência Nacional aos Tuberculosos, aprovado pela Portaria n.º 16807, de 8 de Agosto de 1958, o lugar de chefe dos serviços de propaganda e relações com o público, com o vencimento correspondente à letra H do artigo 1.º do Decreto-Lei n.º 42046, de 23 de Dezembro de 1958.
+Ministérios das Finanças e da Saúde e Assistência, 14 de Abril de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.
