@@ -1,0 +1,4 @@
+Despacho Normativo n.º 29/79
+Tendo-se levantado dúvidas sobre a interpretação a dar à parte final do n.º 3 do artigo 48.º do Decreto-Lei n.º 548/77, de 31 de Dezembro, ao abrigo do artigo 67.º do mesmo diploma esclarece-se:
+A colocação de pessoal nos novos serviços implica poder ser aquele abonado pelas respectivas verbas atribuídas ao Ministério da Indústria e Tecnologia através dos serviços onde se encontram colocados, independentemente de publicação no Diário da República das listas nominativas a que se refere o n.º 3 do artigo 55.º do citado Decreto-Lei n.º 548/77.
+Ministérios das Finanças e do Plano e da Indústria e Tecnologia, 19 de Janeiro de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto.
