@@ -1,0 +1,5 @@
+Rectificação n.º 4/91
+Pelo presente se rectifica o anúncio n.º 1/91, publicado no Diário da República, 1.ª-A série, n.º 11, de 14 de Janeiro de 1991, cujo teor passa a ser o seguinte:
+Faz-se saber que no dia 23 de Novembro de 1990 foi instaurado na 1.ª Secção do Supremo Tribunal Administrativo pelo magistrado do Ministério Público em exercício junto deste Tribunal, com base na alínea i) do n.º 1 do artigo 26.º do Estatuto dos Tribunais Administrativos e Fiscais, correndo termos pela 2.ª Subsecção de Processos, sob o n.º 28953, um processo de declaração de ilegalidade, com força obrigatória geral, e com efeitos reportados a 15 de Março de 1988, das normas dos artigos 14.º a 19.º do Regulamento do Estágio para Solicitadores, homologado pelo Ministro da Justiça por despacho da referida data de 15 de Março de 1988, e que os eventuais interessados podem intervir no processo, nos termos e nos prazos fixados na lei.
+A Escrivã-Adjunta, Maria José Santos Antunes.
+Supremo Tribunal Administrativo, 22 de Janeiro de 1991. - O Juiz Conselheiro Relator, António Fernando Samagaio.
