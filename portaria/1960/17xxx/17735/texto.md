@@ -1,0 +1,5 @@
+Portaria n.º 17735
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do disposto no § 4.º do artigo 31.º do Decreto n.º 41787, de 7 de Agosto de 1958, conjugado com o § 1.º do artigo 4.º e o artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, introduzir as seguintes alterações no orçamento privativo do Núcleo de Documentação Técnica para o ano em curso:
+1.º Abrir um crédito especial da quantia de 3000$00 para reforçar a verba do artigo 5.º, n.º 2) «Despesas com o material - Despesas de conservação e aproveitamento do material - De móveis», tomando como contrapartida as disponibilidades do artigo 30.º, n.º 1) «Despesas com o pessoal - Outras despesas com o pessoal - Fardamentos e resguardos».
+2.º Reforçar com a quantia de 2500$00 a verba do artigo 8.º, n.º 2) «Pagamento de serviços e diversos encargos - Despesas de comunicações - Telefones», tomando como contrapartida as disponibilidades existentes na verba do artigo 11.º «Abono de família aos funcionários».
+Ministério do Ultramar, 19 de Maio de 1960. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
