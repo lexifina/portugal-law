@@ -1,0 +1,7 @@
+Aviso n.º 289/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, por notificação de 25 de Março de 1994, informou que as Baamas e as Honduras designaram como autoridade central, para os efeitos do artigo 6.º, parágrafo 1, da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, respectivamente, o Honorable Minister of Foreign Affairs e a Junta Nacional de Bienstar Social.
+Em conformidade com o artigo 38.º, parágrafo 2, da mencionada Convenção, a República da Eslovénia depositou o seu instrumento de adesão em 22 de Março de 1994.
+A Convenção entrou em vigor para a República da Eslovénia em 1 de Junho de 1994 e a adesão só produzirá efeitos nas relações entre este Estado e os Estados contratantes que declararam aceitar a adesão.
+Relativamente a Portugal, a Convenção foi aprovada, para ratificação, pelo Decreto do Governo n.º 33/88, conforme Diário da República, n.º 108, de 11 de Agosto de 1983. O depósito do instrumento de ratificação foi feito em 29 de Setembro de 1983, segundo o Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984.
+O Governo Português designou como autoridade central a Direcção-Geral dos Serviços Tutelares de Menores, conforme Diário da República, 1.ª série, n.º 165, de 20 de Julho de 1975.
+Departamento de Assuntos Jurídicos, 6 de Outubro de 1994. - O Director, José Maria Teixeira Leite Martins.
