@@ -1,0 +1,5 @@
+Declaração
+Segundo comunicação do Ministério do Plano e da Administração do Território, Secretaria de Estado do Planeamento e Desenvolvimento Regional, a Resolução do Conselho de Ministros n.º 48-B/86, publicada no Diário da República, 1.ª série, n.º 143 (suplemento), de 25 de Junho de 1986, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 2, onde se lê «São, desde já, nomeados os seguintes elementos que compõem a comissão:» deve ler-se «São, desde já, nomeados, por urgente conveniência de serviço, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 146-C/80, de 22 de Maio, os seguintes elementos:».
+No n.º 9, onde se lê «sem prejuízo da faculdade de requisição ou de destacamento de funcionários de outros organismos da Administração Pública» deve ler-se «sem prejuízo da faculdade de requisição de pessoal de outros organismos da Administração ou de empresas públicas».
+Secretaria-Geral da Presidência do Conselho de Ministros, 22 de Setembro de 1986. - O Secretário-Geral, França Martins.
