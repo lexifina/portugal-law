@@ -1,0 +1,9 @@
+Resolução n.º 43/80
+Pela Resolução n.º 367/79, de 11 de Dezembro, publicada no Diário da República, de segunda-feira, dia 31 de Dezembro de 1979, foi concedido o aval do Estado à operação de subrogação a efectuar por parte da banca, nos termos da alínea 7) do n.º 3.º da Resolução do Conselho de Ministros n.º 228/77, de 15 de Setembro, até ao montante de 231877000$00.
+Na mesma Resolução concedia-se ainda o aval do Estado à Supa - Companhia Portuguesa de Supermercados, S. A. R. L., pelo montante de 37618102$00, relativo a encargos financeiros ocasionados pelas diversas prorrogações dos prazos de todas as dívidas da Supa ao Estado e à banca, nos termos do ponto 2 do n.º 4.º da Resolução do Conselho de Ministros n.º 228/77, de 15 de Setembro.
+1 - Considerando, por um lado, o disposto na Resolução do Conselho de Ministros n.º 1/80 e, por outro, que a aplicação efectiva do contrato de viabilização da Supa, assinado em 6 de Março de 1979, se encontra dependente da realização da referida operação de subrogação, por parte da banca, dos créditos da Supa sobre as chamadas «empresas ex-integradas»;
+2 - Considerando que se encontra ainda por criar a comissão arbitral para apuramento do montante exacto dos créditos da Supa sobre as empresas referidas em 1:
+O Conselho de Ministros, reunido em 29 de Janeiro de 1980, resolveu:
+a) Confirmar a concessão dos avales apontados no primeiro e segundo parágrafos da presente resolução, nos termos em que foi decidida em 11 de Dezembro;
+b) A data de vencimento das livranças mencionada nas alíneas 1) e 2 do preâmbulo da Resolução do Conselho de Ministros em causa deverá ser transferida para 31 de Março de 1980.
+Presidência do Conselho de Ministros, 29 de Janeiro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
