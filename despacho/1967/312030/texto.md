@@ -1,0 +1,9 @@
+Despacho
+Por despacho de 9 de Dezembro de 1964, proferido nos termos do artigo 3.º do Decreto-Lei n.º 45576, de 28 de Fevereiro de 1964, foram fixadas as taxas a cobrar pela Junta Central das Casas dos Pescadores pelos fornecimentos de plantas marinhas à indústria nacional, como prestação de serviços que lhe incumbem por força do mesmo diploma.
+Considerou-se, porém, conveniente rever as taxas então fixadas no sentido da sua uniformização, atendendo a que a prestação de serviços efectuada por aquela entidade é igual, qualquer que seja o tipo ou qualidade das plantas marinhas fornecidas à indústria, e, ainda, que a melhoria das cotações internacionais permite não só a elevação dos preços aos apanhadores, como a remuneração mais justa e adequada dos serviços prestados pela Junta Central.
+Assim, nos termos do artigo 3.º do Decreto-Lei n.º 45576, de 28 de Fevereiro de 1964, e sob proposta da Junta Central das Casas dos Pescadores, determina-se o seguinte:
+1.º É fixada em 1$50/Kg a taxa a cobrar pela Junta Central das Casas dos Pescadores relativamente a todos os tipos e qualidades de plantas marinhas a fornecer à indústria nacional e cujos preços se encontram fixados nos termos do artigo 4.º do Decreto-Lei n.º 45576.
+2.º Para os tipos e qualidades de plantas marinhas não abrangidas por este despacho, a taxa a cobrar será aquela que for acordada entre a Junta e os interessados.
+3.º As taxas fixadas vigoram até 31 de Dezembro de 1967, podendo este prazo ser prorrogado por despacho do Secretário de Estado do Comércio.
+4.º Fica revogado o despacho publicado no Diário do Governo n.º 287, 1.ª série, de 9 de Dezembro de 1964.
+Ministérios das Finanças e das Corporações e Previdência Social e Secretaria de Estado do Comércio, 22 de Junho de 1967. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado.
