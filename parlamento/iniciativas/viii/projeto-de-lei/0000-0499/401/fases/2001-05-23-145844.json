@@ -1,0 +1,640 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "401",
+    "id": "7071",
+    "titulo": "Qualidade do ar interior"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-05-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1918",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-05-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "18538",
+        "leg": "VIII",
+        "nr": "447",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "513",
+            "obs": null,
+            "pag": [
+              "3328-3337"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-05-24",
+            "pubLeg": "VIII",
+            "pubNr": "85",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3328?pgs=3328-3337&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "A qualidade do ar no interior dos edifícios"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-05-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "16:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139797",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3328-3331"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-24",
+                "pubLeg": "VIII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3328?pgs=3328-3331&org=PLC"
+              }
+            ],
+            "sumario": "Qualidade do ar interior; A qualidade do ar no interior dos edifícios",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1167",
+                "nome": "Natalina Tavares de Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "16:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139798",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3329-3330"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-24",
+                "pubLeg": "VIII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3329?pgs=3329-3330&org=PLC"
+              }
+            ],
+            "sumario": "Qualidade do ar interior; A qualidade do ar no interior dos edifícios",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "16:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139799",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3330-3332"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-24",
+                "pubLeg": "VIII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3330?pgs=3330-3332&org=PLC"
+              }
+            ],
+            "sumario": "Qualidade do ar interior; A qualidade do ar no interior dos edifícios",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "16:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139800",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3331-3334"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-24",
+                "pubLeg": "VIII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3331?pgs=3331-3334&org=PLC"
+              }
+            ],
+            "sumario": "Qualidade do ar interior; A qualidade do ar no interior dos edifícios",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "16:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139801",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3332-3333",
+                  "3337-3337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-24",
+                "pubLeg": "VIII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3332?pgs=3332-3333,3337&org=PLC"
+              }
+            ],
+            "sumario": "Qualidade do ar interior; A qualidade do ar no interior dos edifícios",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "16:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139802",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3331-3334"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-24",
+                "pubLeg": "VIII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3331?pgs=3331-3334&org=PLC"
+              }
+            ],
+            "sumario": "Qualidade do ar interior; A qualidade do ar no interior dos edifícios",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "16:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139803",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3333-3333"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-24",
+                "pubLeg": "VIII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3333?pgs=3333&org=PLC"
+              }
+            ],
+            "sumario": "Qualidade do ar interior; A qualidade do ar no interior dos edifícios",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "16:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139804",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3334-3335"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-24",
+                "pubLeg": "VIII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3334?pgs=3334-3335&org=PLC"
+              }
+            ],
+            "sumario": "Qualidade do ar interior; A qualidade do ar no interior dos edifícios",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "16:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139805",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3335-3336"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-24",
+                "pubLeg": "VIII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3335?pgs=3335-3336&org=PLC"
+              }
+            ],
+            "sumario": "Qualidade do ar interior; A qualidade do ar no interior dos edifícios",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1701",
+                "nome": "Luísa Portugal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "16:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139806",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3336-3337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-24",
+                "pubLeg": "VIII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3336?pgs=3336-3337&org=PLC"
+              }
+            ],
+            "sumario": "Qualidade do ar interior; A qualidade do ar no interior dos edifícios",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "16:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139807",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3337-3337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-24",
+                "pubLeg": "VIII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3337?pgs=3337&org=PLC"
+              }
+            ],
+            "sumario": "Qualidade do ar interior; A qualidade do ar no interior dos edifícios",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145844",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "261436",
+        "obs": null,
+        "pag": [
+          "3328-3338"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-05-24",
+        "pubLeg": "VIII",
+        "pubNr": "85",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/085/2001-05-24/3328?pgs=3328-3338&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
