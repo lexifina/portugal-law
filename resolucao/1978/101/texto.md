@@ -1,0 +1,11 @@
+Resolução n.º 101/78
+Razões de vária ordem têm levado a que o País não tenha oportuno e pormenorizado conhecimento da forma como são executados os programas de actividade dos diversos Ministérios e dos respectivos custos, bem como das principais decisões e medidas tomadas, dos fundamentos em que se basearam e dos objectivos que visam.
+Por outro lado, o isolamento da Administração relativamente aos seus utentes, a ausência de canais de informação que proporcionem o esclarecimento e a compreensão das actividades estaduais, a deficiente informação ao público conduziram, por um lado, à noção de ser o Estado um ente inacessível e, por outro lado, à diminuta participação dos cidadãos na Administração.
+No sentido de minorar as deficiências apontadas, a Reforma Administrativa aponta para a adopção de soluções e esquemas capazes de aperfeiçoar e aumentar os instrumentos de contrôle da acção administrativa e de aproximar a Administração Pública das populações. A publicação de relatórios anuais da actividade dos Ministérios constituirá um dos meios de prossecução deste objectivo.
+Nestes termos, o Conselho de Ministros, reunido em 24 de Maio de 1978, resolveu:
+1 - Todos os Ministérios ficam obrigados à publicação de relatórios anuais das actividades desenvolvidas através dos seus Gabinetes, dos Gabinetes das Secretarias de Estado e dos serviços neles integrados, incluindo os serviços autónomos, bem como as entidades ou serviços públicos ainda que não abrangidos nas publicações financeiras do Estado.
+2 - A divulgação referida no número anterior abrange não só as principais actividades desenvolvidas e as iniciativas em curso, bem como os orçamentos aprovados, as despesas realizadas e pagas e a respectiva memória justificativa.
+3 - Os Ministros das Finanças e do Plano e da Reforma Administrativa apresentarão a Conselho de Ministros, no prazo de trinta dias, uma proposta conjunta contendo as regras de orientação genéricas a que deverá obedecer a elaboração dos referidos relatórios.
+4 - A divulgação dos relatórios deverá ter lugar até 31 de Março do ano seguinte ao que disserem respeito.
+5 - Esta resolução aplica-se às actividades desenvolvidas em 1978.
+Presidência do Conselho de Ministros, 24 de Maio de 1978. - O Primeiro-Ministro, Mário Soares.
