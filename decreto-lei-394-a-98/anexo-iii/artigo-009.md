@@ -1,19 +1,21 @@
 # Artigo 9.º
 
-### Estrutura accionista
+### Alienação de acções
 
-1 - As participações sociais no capital dos accionistas, em termos de detenção de acções ordinárias, são nas percentagens seguintes:
+1 - As participações sociais no capital dos accionistas, em termos de detenção de acções ordinárias, deverão manter-se nas percentagens seguintes:
 
-a) Estado, directa ou indirectamente, através da STCP e da CP - 60 %;
+a) Área metropolitana do Porto, englobando os municípios abrangidos pelo sistema de metro ligeiro - 60%;
 
-b) Área Metropolitana do Porto, englobando os municípios abrangidos pelo sistema de metro ligeiro - 40 %.
+b) CP - Caminhos de Ferro Portugueses, E. P. - 5%;
 
-2 - As percentagens acima mencionadas podem sofrer alterações, designadamente por transmissões entre acionistas ou a favor de outras entidades de direito público ou de capitais exclusivamente públicos, desde que as mesmas sejam objeto de autorização prévia por parte dos ministros responsáveis pelas áreas das finanças e da tutela, sob pena de nulidade.
+c) Sociedade de Transportes Colectivos do Porto, S. A. (STCP) - 25%;
 
-3 - As acções ou os direitos de subscrição podem, independentemente da autorização referida no número anterior, ser transmitidas entre accionistas nos seguintes termos:
+d) Estado - 10%.
 
-a) Os accionistas Estado, STCP e CP podem livremente transmitir acções entre si;
+2 - As percentagens acima mencionadas poderão sofrer alterações, designadamente por transmissões entre accionistas ou para terceiros, desde que a operação seja previamente autorizada por despacho conjunto dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
 
-b) O accionista Área Metropolitana do Porto pode transmitir aos municípios abrangidos pelo sistema de metro ligeiro acções do seu lote;
+3 - As acções ou os direitos de subscrição podem, independentemente da autorização referida no n.º 2, ser transmitidas entre accionistas nos seguintes termos:
 
-c) Os accionistas municípios podem transmitir acções a outros municípios abrangidos pelo sistema de metro ligeiro acções do seu lote.
+a) A accionista área metropolitana do Porto poderá transmitir ou distribuir aos municípios abrangidos pelo sistema de metro ligeiro acções do seu lote;
+
+b) Os accionistas STCP, CP e Estado poderão livremente transmitir acções entre si.

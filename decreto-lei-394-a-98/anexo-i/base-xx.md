@@ -6,4 +6,4 @@
 
 ### Operação do sistema no período inicial
 
-A operação do sistema durante o período inicial, que decorre até ao final de Março de 2009, é realizada pelo adjudicatário escolhido no âmbito do procedimento de contratação previsto no artigo 3.º do Decreto-Lei n.º 394-A/98, de 15 de Dezembro, devendo seguir a tramitação estabelecida na legislação aplicável.
+A operação do sistema durante o período inicial, que decorre entre a entrada em serviço do primeiro troço até três anos após a entrada em serviço de todo o sistema, será realizada pelo adjudicatário escolhido no âmbito do concurso previsto no artigo 3.º do diploma que aprova as presentes bases.

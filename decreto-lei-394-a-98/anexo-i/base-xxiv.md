@@ -6,9 +6,9 @@
 
 ### Multas
 
-1 - Pelo incumprimento de qualquer das obrigações inerentes à concessão poderá a concessionária ser punida com multa de (euro) 200000 a (euro) 20000000, segundo a sua gravidade.
+1 - Pelo incumprimento de qualquer das obrigações inerentes à concessão poderá a concessionária ser punida com multa de 1000000$00 a 100000000$00, segundo a sua gravidade.
 
-2 - É da competência do Instituto da Mobilidade e dos Transportes Terrestres, I. P., a aplicação das multas previstas na presente base.
+2 - É da competência da Direcção-Geral de Transportes Terrestres a aplicação das multas previstas na presente base.
 
 3 - O projecto de decisão sobre a multa a aplicar será notificado por escrito à concessionária, à qual será conferido o direito de apresentar a sua defesa escrita no prazo de 20 dias.
 
