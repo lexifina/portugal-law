@@ -1,0 +1,10 @@
+Portaria n.º 1028/81
+de 30 de Novembro
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano, ao abrigo do disposto no Decreto-Lei n.º 187/81, de 2 de Julho, autorizar a Região Autónoma da Madeira a emitir, ao par, 3000000 de obrigações de valor nominal de 1000$00 cada uma, em 2 séries iguais de 1500000, representadas por certificados de qualquer número de obrigações desde que divisível por 20 e destinadas à subscrição por instituições de crédito.
+A taxa de juro é a correspondente à básica de desconto do Banco de Portugal que vigorar no primeiro dia de cada período semestral de contagem de juros, não podendo, contudo, ser inferior a 15%.
+Os juros contar-se-ão semestralmente. O primeiro vencimento de juros das obrigações da 1.ª série terá lugar em 23 de Maio de 1982 e o último vencimento em 23 de Novembro de 1988, sendo as datas correspondentes para as obrigações da 2.ª série 23 de Junho de 1982 e 23 de Dezembro de 1988.
+Ao abrigo do artigo 27.º do Decreto-Lei n.º 46492, de 18 de Agosto de 1965, é concedida aos juros das obrigações a isenção do imposto de capitais e do imposto complementar.
+A duração máxima das obrigações será de 7 anos. A amortização efectuar-se-á, ao par, em 10 semestralidades iguais para cada série. A primeira amortização das obrigações da 1.ª série vence-se em 23 de Maio de 1984 e a última em 23 de Novembro de 1988, sendo as datas correspondentes para as obrigações da 2.ª série 23 de Junho de 1984 e 23 de Dezembro de 1988. A importância total de cada uma das semestralidades de amortização será dividida pelas entidades portadoras de certificados na proporção dos respectivos montantes.
+A amortização poderá ser antecipada por decisão do Governo Regional da Madeira.
+Os encargos deste empréstimo, que serão suportados pelo orçamento da Região Autónoma da Madeira, beneficiam do aval do Estado, conforme Resolução do Conselho de Ministros n.º 243/81, de 28 de Novembro.
+Ministério das Finanças e do Plano, 23 de Novembro de 1981. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
