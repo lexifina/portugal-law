@@ -140,7 +140,7 @@ Acesso e carreira. - 1 - O engenheiro técnico agrário será admitido como enge
 
 2 - O engenheiro técnico agrário de 2.ª classe será promovido à categoria imediatamente superior, desde que complete 5 anos de bom e efectivo serviço naquela categoria.
 
-3 - Mediante proposta fundamentada em matéria e competência profissional, o engenheiro técnico agrário de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de principal.
+3 - Mediante proposta fundamentada em mérito e competência profissional, o engenheiro técnico agrário de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de principal.
 
 Fiel de armazém
 

@@ -1,6 +1,6 @@
 ## Capítulo VIII
 
-## Cessação do contrato do trabalho
+## Cessação do contrato de trabalho
 
 # Artigo 41.º
 
