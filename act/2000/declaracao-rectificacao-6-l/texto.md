@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 6-L/2000
+Segundo comunicação do Ministério da Administração Interna, o Despacho Normativo n.º 23-B/2000, publicado no Diário da República, 1.ª série, n.º 106 (suplemento), de 8 de Maio de 2000, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê: «Ministério da Administração Interna, 5 de Maio de 2000. - O Ministro da Administração Interna, Fernando Manuel dos Santos Gomes.» deve ler-se «Presidência do Conselho de Ministros e Ministério da Administração Interna, 5 de Maio de 2000. - O Ministro Adjunto, Fernando Manuel dos Santos Gomes. - O Ministro da Administração Interna, Fernando Manuel dos Santos Gomes.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Maio de 2000. - O Secretário-Geral, Alexandre Figueiredo.
