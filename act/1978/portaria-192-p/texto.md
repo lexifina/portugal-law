@@ -1,0 +1,74 @@
+Portaria n.º 192-P/78
+de 7 de Abril
+Ao abrigo do disposto no artigo 1.º do Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro, bem como no n.º 2 do artigo 2.º do Decreto-Lei n.º 45835, de 27 de Julho de 1964:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, o seguinte:
+1.º Continua sujeita ao regime de preços máximos, a que se refere a alínea a) do n.º 1 do artigo 1.º do Decreto-Lei n.º 329-A/74, de 10 de Julho, a venda dos seguintes produtos:
+a) Margarinas;
+b) Óleos directamente comestíveis;
+c) Sabões tipos Offenbach, Super, Extra e Amêndoa.
+Margarinas
+2.º Os preços máximos de venda à porta dos armazéns das fábricas de margarinas são os seguintes:
+Preços máximos à porta dos armazéns das fábricas
+(ver documento original)
+3.º Os preços máximos de venda ao consumidor e ao sector industrial são os seguintes:
+Preços máximos ao consumidor e ao sector industrial
+(ver documento original)
+4.º As margens mínimas dos retalhistas na venda das margarinas são as seguintes:
+Margens mínimas dos retalhistas
+(ver documento original)
+5.º Os retalhistas podem abastecer-se directamente nas fábricas aos preços estabelecidos no n.º 2.º, as quais ficam obrigadas a satisfazer encomendas para entrega, por uma só vez, num mínimo de sessenta caixas de diversos tipos sortidos, excepto para embalagens de 1 kg, cuja quantidade mínima é de quarenta caixas.
+6.º A venda nas fábricas das margarinas Flora e Becel só é obrigatória aos adquirentes que possuam rede de frio completa (transporte e armazém).
+7.º Na embalagem de todas as margarinas deve constar, de forma bem legível, a data de fabrico, não podendo a sua comercialização exceder o prazo de cem dias sobre aquela data.
+8.º Quando for ultrapassado o prazo de validade da margarina, fica o fabricante obrigado a receber o produto por 50% do seu valor de custo.
+Óleos directamente comestíveis
+9.º O preço máximo de venda à porta da fábrica dos óleos directamente comestíveis refinados e a granel, seja qual for o fim a que se destinam, é o seguinte, por litro:
+Óleo de tipo alimentar e qualquer óleo estreme ... 37$00
+10.º O preço máximo de venda ao público dos óleos directamente comestíveis refinados e embalados são os seguintes, por litro:
+Óleo de tipo alimentar e qualquer óleo estreme ... 46$00
+11.º Na venda de óleos directamente comestíveis, em embalagens com capacidade inferior ou superior a 1 l, os preços máximos serão os correspondentes aos preços fixados no número anterior para as embalagens de 1 l.
+12.º - 1 - A diferença entre o preço à porta da fábrica e o preço de venda ao público constitui a margem global de comercialização, que abrange todas as despesas de comercialização, incluindo as de embalamento, transporte e de distribuição.
+2 - É assegurada ao retalhista a margem mínima de comercialização de 2$50 por litro.
+13.º Os retalhistas poderão abastecer-se directamente nas fábricas, desde que o produto esteja devidamente embalado, ficando estas obrigadas a satisfazer encomendas para entregas, por uma só vez, iguais ou superiores a trinta caixas (360 l), em relação a um ou mais óleos directamente comestíveis.
+Sabões
+14.º Os preços máximos de venda à porta da fábrica dos sabões tipo Offenbach, Super, Extra e Amêndoa são os seguintes:
+Offenbach:
+Em barras, caixas de 30 kg ... 506$00
+Em blocos embalados, caixas de 30 kg ... 556$00
+Super:
+Caixa de 20 kg ... 517$00
+Extra:
+Caixa de 30 kg ... 651$00
+Amêndoa:
+Caixa de 30 kg ... 192$00
+15.º Os preços máximos de venda ao público dos referidos tipos de sabão são os seguintes:
+Offenbach:
+Blocos de 500 g ... 10$70
+Blocos de 400 g ... 8$50
+Barras ... 19$60/kg
+Super:
+Blocos de 400 g ... 12$10
+Blocos de 333 g ... 10$10
+Blocos de 250 g ... 7$60
+Extra:
+Blocos de 500 g ... 12$60
+Amêndoa ... 7$60/kg
+16.º Os retalhistas poderão abastecer-se directamente nas fábricas, as quais ficam obrigadas a satisfazer encomendas para entregas, por uma só vez, iguais ou superiores a vinte caixas, em relação a um ou mais tipos de sabão.
+17.º - 1 - As margens mínimas dos retalhistas por caixa, na venda dos tipos de sabão referidos, são as seguintes:
+Offenbach:
+Em barras, caixa de 30 kg ... 49$20
+Em blocos, embalado, caixa de 30 kg ... 50$50
+Super:
+Caixa de 20 kg ... 51$70
+Extra:
+Caixa de 30 kg ... 63$20
+Amêndoa:
+Caixa de 30 kg ... 21$50
+2 - Os restantes sabões não incluídos no n.º 17.º, 1, terão a margem de comercialização máxima global de 25% sobre o preço de fábrica, com um mínimo de 15% para o retalhista.
+18.º Entende-se por margem do retalhista a diferença entre o preço do produto colocado à porta do retalhista e o preço ao consumidor.
+19.º A infracção ao disposto nos n.os 5.º, 13.º e 16.º constitui contravenção punível com a multa de 10000$00.
+20.º Os produtos a que se refere esta portaria que, à data da sua publicação, se encontrem embalados em poder dos industriais, armazenistas ou retalhistas serão obrigatoriamente vendidos, nos diferentes estádios da actividade económica, aos preços máximos anteriormente estabelecidos, sendo proibida a substituição ou alteração dos preços constantes dos respectivos rótulos.
+21.º O disposto no presente diploma aplica-se apenas ao continente.
+22.º Fica revogada a Portaria n.º 101-I/77, de 1 de Março.
+23.º As dúvidas e os casos omissos resultantes da aplicação desta portaria serão resolvidos por despacho do Secretário de Estado do Comércio Interno.
+24.º Esta portaria entra em vigor na data da sua publicação.
+Secretaria de Estado do Comércio Interno, 31 de Março de 1978. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
