@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal de Justiça de 1991-01-24, processo 078720
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 078720
+
+**Nº Convencional:** JSTJ00007588
+
+**Relator:** SOLANO VIANA
+
+**Descritores:** INDEMNIZAÇÃO DE PERDAS E DANOS; PRESCRIÇÃO; PRESCRIÇÃO DO PROCEDIMENTO CRIMINAL; PRAZO; ACÇÃO PENAL; PEDIDO CIVEL; ONUS DA PROVA
+
+**Nº do Documento:** SJ199101240787202
+
+**Data do Acordão:** 01/24/1991
+
+**Votação:** UNANIMIDADE
+
+**Tribunal Recurso:** T REL PORTO
+
+**Processo no Tribunal Recurso:** 9100/88
+
+**Data:** 05/06/1989
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** CONCEDIDA A REVISTA.
+
+**Área Temática:** DIR PROC PENAL.
+
+## Sumário
+
+I - O prazo de prescrição do direito a indemnização so começa a correr quando o direito puder ser exercido.
+
+II - Nos termos do artigo 29 do Codigo de Processo Penal de 1929, o pedido de indemnização por perdas e danos resultantes de um facto punivel, por que sejam responsaveis os seus agentes, deve fazer-se no processo em que correr a acção penal, e so podera ser feito separadamente em acção intentada nos tribunais civis, nos casos previstos naquele codigo.
+
+III - Sendo de cinco anos o prazo de prescrição do direito a indemnização, por ser o prazo de prescrição do procedimento criminal pelo crime praticado, tem o reu, se invocar a prescrição de fazer a respectiva prova, ou seja, que quando a acção foi intentada, ja havia decorrido o prazo dentro do qual a mesma acção devia ser proposta.
+
+IV - Não tendo decorrido, desde a decisão final do processo crime, ate a instauração da acção o prazo prescricional de cinco anos correspondente ao crime praticado, o reu tem de provar que tal prazo ja decorrera por se ter iniciado antes, o que so poderia suceder se no processo crime tivesse ocorrido qualquer dos casos suscitados no artigo 30 do Codigo de Processo Penal.
