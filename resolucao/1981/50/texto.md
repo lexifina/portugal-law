@@ -1,0 +1,6 @@
+Resolução n.º 50/81
+Nos termos do Decreto-Lei n.º 74/80, de 15 de Abril, o conselho de gerência da Electricidade de Portugal (EDP), E. P., solicitou ao Governo autorização para a aquisição de um imóvel sito na Avenida de José Malhoa, lote 13-A, em Lisboa.
+Considerando que esta aquisição permitirá à empresa resolver o grave problema da dispersão de alguns dos seus serviços, que tem afectado negativamente o bom cumprimento das missões que lhe competem;
+Considerando que esta aquisição foi objecto de negociações que levaram à efectivação de um contrato-promessa de compra e venda com eficácia real e hipoteca, celebrado em 12 de Novembro de 1976, tendo já sido entregue pela EDP aos promitentes vendedores a quantia correspondente à totalidade do preço acordado:
+O Conselho de Ministros, reunido em 24 de Fevereiro de 1981, resolveu, ao abrigo do artigo 1.º do Decreto-Lei n.º 74/80, de 15 de Abril, autorizar o conselho de gerência da Electricidade de Portugal, (EDP), E. P., a adquirir o imóvel sito na Avenida de José Malhoa, lote 13-A, em Lisboa, para instalação de parte dos seus serviços.
+Presidência do Conselho de Ministros, 24 de Fevereiro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
