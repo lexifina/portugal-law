@@ -1,0 +1,13 @@
+# Artigo 4.º
+
+O artigo 16.º do Decreto-Lei n.º 423/83, de 5 de Dezembro, passa a ter a seguinte redacção:
+
+Artigo 16.º - 1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Para os efeitos da alínea b) do n.º 1, o despacho de atribuição da utilidade turística definirá, sob proposta da Comissão de Utilidade Turística, a medida e o prazo dos benefícios a conceder.
+
+5 - ...
