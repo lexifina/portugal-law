@@ -1,0 +1,8 @@
+Portaria n.º 13/75
+de 6 de Janeiro
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, que os artigos 3.º, 4.º e 5.º do Regulamento do Prémio Prof. Antão de Almeida Garrett, aprovado pela Portaria n.º 238/70, de 14 de Maio, passem a ter a seguinte redacção:
+Art. 3.º O Prémio será concedido anualmente ao aluno da disciplina de Opção de Planeamento, do curso de Engenharia Civil, que, no ano lectivo imediatamente anterior, entre todos os seus condiscípulos, tenha obtido as mais altas classificações nas disciplinas de Planeamento Territorial I e II, com média resultante não inferior a 16 valores, e, havendo efectuado um estágio regulamentar sobre matéria daquele assunto, apresentar dele relatório que seja considerado sério e de valor.
+§ único. A qualificação do estágio será efectuada por júri ad hoc, designado pelo conselho escolar da Faculdade de Engenharia do Porto ou pelo órgão de gestão que legalmente o substituir, competindo ao dito júri propor o aluno a quem o Prémio deve ser atribuído no caso de haver mais de um candidato.
+Art. 4.º A designação do aluno a quem deve ser atribuído o Prémio será feita pelo conselho escolar ou pelo órgão que o substituir, com base na proposta do júri a que se refere o § único do artigo anterior, designação que será transmitida ao reitor da Universidade.
+Art. 5.º A entrega do Prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão solene de abertura do ano lectivo imediato ao da decisão que o atribuir.
+Ministério da Educação e Cultura, 18 de Dezembro de 1974. - O Ministro da Educação e Cultura, Manuel Rodrigues de Carvalho.
