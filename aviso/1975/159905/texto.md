@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, de harmonia com informação da Organização das Nações Unidas, os Governos da República Federal da Alemanha e da Tanzânia notificaram o Secretário-Geral daquela organização internacional em 15 de Maio e 4 de Junho de 1974, respectivamente, de que haviam completado os seus processos constitucionais que lhes permitem ser partes no Acordo Internacional do Café, 1968, tal como foi prorrogado com modificações até 30 de Setembro de 1975.
+Direcção-Geral dos Negócios Económicos, 27 de Janeiro de 1975. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
