@@ -4,6 +4,6 @@
 
 # Artigo 24.º
 
-### (Acção inibitória)
+### Declaração de nulidade
 
-As cláusulas contratuais gerais, elaboradas para utilização futura, quando contrariem o disposto nos artigos 18.º, 19.º, 21.º e 22.º podem ser proibidas por decisão judicial, independentemente da sua inclusão efectiva em contratos singulares.
+As nulidades previstas neste diploma são invocáveis nos termos gerais.

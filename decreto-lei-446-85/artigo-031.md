@@ -1,9 +1,7 @@
 # Artigo 31.º
 
-### (Consequências da proibição definitiva)
+### Proibição provisória
 
-1 - As cláusulas contratuais gerais objecto de proibição definitiva por decisão transitada em julgado, ou outras cláusulas que se lhes equiparem substancialmente, não podem ser incluídas em contratos que o demandado venha a celebrar, nem continuar a ser recomendadas.
+1 - Quando haja receio fundado de virem a ser incluídas em contratos singulares cláusulas gerais incompatíveis com o disposto no presente diploma, podem as entidades referidas no artigo 26.º requerer provisoriamente a sua proibição.
 
-2 - Aquele que seja parte, juntamente com o demandado vencido na acção inibitória, em contratos onde se incluam cláusulas gerais proibidas, nos termos referidos no número anterior, pode invocar a todo o tempo, em seu benefício, a declaração incidental de nulidade contida na decisão inibitória.
-
-3 - A inobservância do preceituado no n.º 1 tem como consequência a aplicação do artigo 9.º
+2 - A proibição provisória segue, com as devidas adaptações, os termos fixados na lei processual para os procedimentos cautelares não especificados.

@@ -1,5 +1,5 @@
 # Artigo 36.º
 
-### (Vigência)
+### Aplicação no tempo
 
-Este diploma entra em vigor 120 dias após a sua publicação.
+O presente diploma aplica-se também às cláusulas contratuais gerais existentes à data da sua entrada em vigor, exceptuando-se, todavia, os contratos singulares já celebrados com base nelas.

@@ -1,5 +1,5 @@
 # Artigo 23.º
 
-### (Declaração de nulidade)
+### Limitação do efeito da escolha da lei
 
-As nulidades previstas neste diploma são invocáveis nos termos gerais.
+Independentemente da lei que as partes hajam escolhido para reger o contrato, as normas desta secção aplicam-se sempre que o mesmo apresente ligação estreita ao território dos Estados membros da União Europeia.

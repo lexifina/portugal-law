@@ -1,5 +1,11 @@
 # Artigo 27.º
 
-### (Tribunal competente)
+### Legitimidade passiva
 
-Para a acção inibitória é competente o tribunal da comarca onde se localiza o centro da actividade principal do demandado ou, não se situando ele em território nacional, o da comarca da sua residência ou sede; se estas se localizarem no estrangeiro, será competente o tribunal do lugar em que as cláusulas contratuais gerais foram propostas ou recomendadas.
+1 - A acção referida no artigo anterior pode ser intentada:
+
+a) Contra quem, predispondo cláusulas contratuais gerais, proponha contratos que as incluam ou aceite propostas feitas nos seus termos;
+
+b) Contra quem, independentemente da sua predisposição e utilização em concreto, as recomende a terceiros.
+
+2 - A acção pode ser intentada, em conjunto, contra várias entidades que predisponham e utilizem ou recomendem as mesmas cláusulas contratuais gerais, ou cláusulas substancialmente idênticas, ainda que a coligação importe ofensa do disposto no artigo seguinte.
