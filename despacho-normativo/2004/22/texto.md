@@ -1,0 +1,9 @@
+Despacho Normativo n.º 22/2004
+O Despacho Normativo n.º 11/2004, de 9 de Fevereiro, publicado no Diário da República, 1.ª série-B, n.º 53, de 1 de Março de 2004, estabeleceu as regras de atribuição de um lote de 25000 direitos ao prémio à vaca em aleitamento.
+Em paralelo com esta nova atribuição, manteve-se em execução o mecanismo da reserva específica instituído pelo Regulamento (CE) n.º 1017/94, do Conselho, de 26 de Abril, relativamente ao qual o sector da criação de bovinos revelou uma elevada receptividade, o que conduziu a um inesperado volume de candidaturas, tendo sido manifestamente impossível proceder à atribuição daqueles direitos nos prazos previstos.
+Como tal, e por questões de segurança jurídica, importa reiterar que os direitos a atribuir, no presente ano, no âmbito da reserva específica são relevantes para o cálculo do número máximo de direitos a conceder a cada candidatura ao regime estabelecido pelo Despacho Normativo n.º 11/2004, de 9 de Fevereiro.
+Assim, ao abrigo do artigo 9.º do Regulamento (CE) n.º 1254/99, do Conselho, de 17 de Maio, e do n.º 8 do Despacho Normativo n.º 2/2000, de 10 de Janeiro, com a redacção que lhe foi dada pelo Despacho Normativo n.º 7/2004, de 30 de Janeiro, determino o seguinte:
+1 - Ao Despacho Normativo n.º 11/2004, de 9 de Fevereiro, é aditado o n.º 3-A, com a seguinte redacção:
+«Para efeitos de aplicação do n.º 3 do presente despacho normativo, serão tidos em conta os direitos ao prémio à vaca em aleitamento que o candidato venha a deter, em 2004, no âmbito da reserva específica.»
+2 - O presente despacho entra em vigor no dia seguinte ao da sua publicação.
+Ministério da Agricultura, Desenvolvimento Rural e Pescas, 12 de Abril de 2004. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.
