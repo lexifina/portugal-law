@@ -1,8 +1,8 @@
 # Artigo 12.º
 
-### Critérios de selecção
+### Critérios de prioridade
 
-Para efeitos de concessão de ajudas a projectos de modernização, será conferida prioridade às candidaturas que satisfaçam as seguintes condições:
+Para efeitos de concessão de ajudas a projectos de modernização será conferida prioridade às candidaturas que satisfaçam uma ou mais das seguintes condições:
 
 a) Prevejam operações de substituição de artes de pesca por outras mais selectivas;
 

@@ -1,8 +1,8 @@
 # Artigo 5.º
 
-### Critérios de selecção
+### Critérios de prioridade
 
-Para efeitos de concessão de apoio aos projectos de novas construções, será dada prioridade às candidaturas que satisfaçam as seguintes condições:
+Para efeitos de concessão de apoio aos projectos de novas construções, será dada prioridade às candidaturas que satisfaçam uma ou mais das seguintes condições:
 
 a) Garantam a necessária compatibilidade com as oportunidades de pesca disponíveis;
 

@@ -2,14 +2,26 @@
 
 ### (a que se refere o n.º 1 do artigo 16.º)
 
-1 - Construção
+A - Construção de embarcações
 
-Tabela de limites máximos de comparticipação de nova construção, não podendo as despesas elegíveis exceder os montantes do referido quadro multiplicado por um coeficiente:
+Tabelas de limites máximos de comparticipação de nova construção, não podendo as despesas elegíveis exceder os montantes dos referidos quadros, multiplicados por um coeficiente:
 
-(ver documento original)
+Coeficiente de 1,925 para embarcações em aço ou fibra de vidro;
 
-2 - Modernização
+Coeficiente de 1,375 para outras embarcações.
 
-Tabela de limites máximos de comparticipação de modernização, não podendo as despesas elegíveis exceder os montantes do referido quadro multiplicado por um coeficiente:
+QUADRO N.º 1
 
-(ver documento original)
+Embarcações com comprimento entre perpendiculares até 24 m, inclusive
+
+(ver quadro no documento original)
+
+QUADRO N.º 2
+
+Embarcações com comprimento entre perpendiculares com mais de 24 m
+
+(ver quadro no documento original)
+
+B - Modernização de embarcações
+
+Os limites máximos das despesas elegíveis a título de ajuda à modernização de embarcações são de 50% das despesas elegíveis para as ajudas à construção estabelecidas nos quadros n.os 1 e 2 deste anexo.

@@ -8,7 +8,7 @@ a) Trabalhos de manutenção corrente, nomeadamente pintura, manutenção perió
 
 b) Aquisição de equipamentos de pesca e navegação ou outros equipamentos dispensáveis para a actividade da embarcação;
 
-c) Aquisição de equipamentos em segunda mão, salvo os relativos à aquisição de motores revistos pelo fabricante, ou seu representante autorizado, e vendidos com certificado de garantia;
+c) Aquisição de equipamento em segunda mão;
 
 d) Equipamentos não amortizáveis;
 

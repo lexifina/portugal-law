@@ -6,4 +6,4 @@
 
 2 - A não celebração do contrato no prazo referido no número anterior por causa imputável ao candidato determina a perda do direito ao apoio.
 
-3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante a segurança social.
+3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante o Estado e a segurança social.
