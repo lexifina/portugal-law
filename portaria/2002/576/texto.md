@@ -1,0 +1,9 @@
+Portaria n.º 576/2002
+de 5 de Junho
+A Portaria n.º 316/98, de 18 de Março, com as alterações introduzidas pela Portaria n.º 743/98, de 10 de Setembro, estabelece, no seu n.º 6.º, um período de actividade com a arte de «sombreira», dirigida ao camarão-branco-legítimo, de 1 de Setembro a 30 de Abril, pretendendo-se deste modo proteger este recurso durante o período complementar.
+No entanto, tendo em conta as condições climatéricas do último Inverno, que, eventualmente, podem ter contribuído para uma menor disponibilidade da espécie no período habitual de pesca, as embarcações licenciadas para a pesca com esta arte foram afectadas no seu padrão de exploração durante aquele período, com consequências socioeconómicas para as respectivas comunidades piscatórias.
+Considerando que, pelo facto de não se ter exercido efectivamente a pesca com aquela arte, terá ocorrido uma protecção dos recursos, que permite a extensão do período de actividade, a título excepcional, durante o ano 2002;
+Considerando que um alargamento do período normal de pesca permitirá reduzir os impactos ao nível das populações dependentes da pesca que se defrontaram com uma significativa diminuição das capturas de camarão-branco-legítimo efectuadas de Setembro a Abril:
+Ao abrigo do disposto no artigo 49.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, que no ano 2002 o período de pesca referido na alínea a) do n.º 6.º da Portaria n.º 316/98, de 18 de Março, com as alterações introduzidas pela Portaria n.º 743/98, de 10 de Setembro, seja alargado até 31 de Maio.
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 30 de Abril de 2002.
