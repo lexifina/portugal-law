@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal de Justiça de 1990-03-30, processo 002344
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 002344
+
+**Nº Convencional:** JSTJ00003886
+
+**Relator:** MARIO AFONSO
+
+**Descritores:** JUSTA CAUSA DE DESPEDIMENTO; PRINCIPIO DA PROPORCIONALIDADE; SANÇÃO; ONUS DA PROVA; RELAÇÃO DE TRABALHO; DIREITOS FUNDAMENTAIS DOS TRABALHADORES; IMPUGNAÇÃO DO DESPEDIMENTO
+
+**Nº do Documento:** SJ199003300023444
+
+**Data do Acordão:** 03/30/1990
+
+**Votação:** UNANIMIDADE
+
+**Tribunal Recurso:** T REL LISBOA
+
+**Processo no Tribunal Recurso:** 4682/88
+
+**Data:** 04/05/1989
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Área Temática:** DIR TRAB - CONTRAT INDIV TRAB.
+
+## Sumário
+
+I - Por força do principio da segurança do emprego, consagrado no artigo 53 da Constituição da Republica, como um direito fundamental inserido "nos direitos, liberdades e garantias", nenhum trbalhador pode ser despedido sem justa causa.
+
+II - No conceito de justa causa concorrem um elemento subjectivo - o comportamento imputavel a culpa, por acção ou omissão, do trabalhador, outro, objectivo, que se traduz no desvalor juslaboral desse comportamento e nas suas consequencias negativas, cuja gravidade comprometa por forma irremissivel a manutenção da relação de trabalho.
+
+III - O juizo de prognose dessa impossibilidade estrutura-se em criterios objectivos, ou seja, os proprios de um bom pai de familia ou de um empregador normal, tendo-se em conta os criterios de valorização definidos nos ns. 5 e 6 do artigo 12 da Lei de Despedimentos.
+
+IV - Como a relação de trabalho tem vocação de perenidade, apenas se justificara o recurso a sanção expulsiva ou rescisoria do contrato de trabalho, que o despedimento representa, quando se revelarem inadequadas para o caso as medidas conservatorias ou correctivas, actuando, assim, o principio da proporcionalidade.
+
+V - Na acção de impugnação de despedimento, o onus da prova incumbe ao trabalhador, quanto a existencia do contrato de trabalho e ao despedimento, recaindo sobre a entidade patronal, nos termos do artigo 9 da Lei de Despedimentos, quanto a verificação de justa causa de despedimento invocada.
+
+VI - Ocorre justa causa de despedimento sempre que o comportamento culposo do trabalhador afronte por forma grave, tornando imediata e praticamente impossivel a manutenção da relação laboral, o principio da confiança com o empregador, que necessariamente lhe subjaz, e o dever de lealdade que recai sobre aquele.
+
+VII - A gravidade dessa ofensa deve ser apreciada a luz das funções do trabalhador, devendo considerar-se tanto mais intensa quanto mais elevados forem, quer a posição do trabalhador no quadro funcional da empresa, quer as tarefas que lhe estejam cometidas, quer o grau de confiança, por parte da entidade patronal.
+
+VIII - O repetido desinteresse do trabalhador pelo cumprimento dos seus deveres, mormente quando lhe estão cometidas funções de chefia e atribuições da maior relevancia, determinando uma total perda da confiança pela entidade patronal, tornam imediata e praticamente impossivel a manutenção da relação laboral, constituindo justa causa de despedimento.
