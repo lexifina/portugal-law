@@ -1,0 +1,49 @@
+Portaria n.º 869/92
+de 7 de Setembro
+Sob proposta da Universidade do Algarve e da comissão instaladora da sua Escola Superior de Tecnologia;
+Ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 303/80, de 16 de Agosto, e no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º
+Objectivo
+A presente portaria visa alterar a designação e a regulamentação do curso de bacharelato em Tecnologia Alimentar ministrado na Escola Superior de Tecnologia da Universidade do Algarve.
+2.º
+Alteração de designação
+O curso referido no n.º 1.º passa a designar-se por curso de bacharelato em Engenharia Alimentar.
+3.º
+Plano de estudos
+O plano de estudos do curso de bacharelato a que se refere o n.º 2.º é o constante do anexo à presente portaria.
+4.º
+Unidades curriculares de opção
+1 - O número mínimo de alunos necessário ao funcionamento de cada unidade curricular que integra o plano de estudos como unidade curricular de opção é de 10.
+2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da unidade curricular para além do número máximo de horas a que é obrigado por lei.
+3 - O regime do presente número aplica-se igualmente aos conjuntos de unidades curriculares inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.
+5.º
+Estágios
+1 - A Escola organizará estágio ou estágios com uma duração total não inferior a quinhentas e sessenta horas.
+2 - Os estágios revestem carácter escolar e têm por objectivo a aproximação do aluno à realidade da futura actividade profissional.
+3 - Os estágios serão objecto de avaliação, que se traduzirá numa classificação.
+4 - A realização e avaliação dos estágios obedecerão a regulamento a aprovar pelo conselho científico.
+5 - O regulamento a que se refere o n.º 4 será sujeito a homologação da comissão instaladora da Escola.
+6.º
+Regimes escolares
+Os regimes de frequência, avaliação de conhecimentos, transição de ano e de precedências são fixados pela Escola através do seu órgão competente.
+7.º
+Condições para a obtenção do grau
+São condições para a obtenção do grau de bacharel, cumulativamente:
+a) A aprovação na totalidade das unidades curriculares que integram o plano de estudos a que se refere o n.º 3.º;
+b) A realização, com aproveitamento, dos estágios a que se refere o n.º 5.º
+8.º
+Classificação final
+1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o plano de estudos a que se refere o n.º 3.º e dos estágios a que se refere o n.º 5.º
+2 - Os coeficientes de ponderação são fixados pelo conselho científico.
+9.º
+Entrada em funcionamento e regime de transição
+A alteração aprovada pela presente portaria entrará em funcionamento nos termos e prazos fixados por despacho do reitor da Universidade do Algarve, sob proposta da comissão instaladora da Escola Superior de Tecnologia, ouvido o respectivo conselho científico.
+10.º
+Disposição revogatória
+Sem prejuízo do disposto no n.º 9.º, é revogada a Portaria n.º 949/87, de 19 de Dezembro.
+Ministério da Educação.
+Assinada em 17 de Agosto de 1992.
+O Ministro da Educação, António Fernando Couto dos Santos.
+
+(ver documento original)
