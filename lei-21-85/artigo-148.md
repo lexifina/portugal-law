@@ -2,7 +2,7 @@
 
 ### (Estatuto dos membros do Conselho Superior da Magistratura)
 
-1 - Aos membros do Conselho Superior da Magistratura é aplicável, com as devidas adaptações, o regime de garantias e de incompatibilidades dos magistrados judiciais.
+1 - Aos vogais do Conselho Superior da Magistratura que não sejam juízes é aplicável o regime de garantias dos magistrados judiciais.
 
 2 - O Conselho Superior da Magistratura determina os casos em que o cargo de vogal deve ser exercido em tempo integral ou com redução do serviço correspondente ao cargo de origem.
 
