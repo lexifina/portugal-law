@@ -1,3 +1,11 @@
+## Secção IV
+
+## Admissão à negociação em mercado de bolsa a contado
+
+## Subsecção I
+
+## Requisitos e efeitos da admissão
+
 # Artigo 227.º
 
 ### Requisitos gerais

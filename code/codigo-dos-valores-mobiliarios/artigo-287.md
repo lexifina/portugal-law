@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Gestão
+
 # Artigo 287.º
 
 ### Regime

@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Processo de admissão
+
 # Artigo 233.º
 
 ### Pedido de admissão

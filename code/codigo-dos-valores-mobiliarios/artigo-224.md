@@ -1,3 +1,7 @@
+## Secção III
+
+## Operações a contado
+
 # Artigo 224.º
 
 ### Noção

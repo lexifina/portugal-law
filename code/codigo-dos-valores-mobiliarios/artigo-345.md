@@ -1,3 +1,7 @@
+## Secção VI
+
+## Consultoria para investimento
+
 # Artigo 345.º
 
 ### Deveres do consultor

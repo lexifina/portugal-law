@@ -1,3 +1,7 @@
+## Secção VI
+
+## Operações a prazo
+
 # Artigo 252.º
 
 ### Admissibilidade
