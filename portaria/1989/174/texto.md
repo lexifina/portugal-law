@@ -1,0 +1,20 @@
+Portaria n.º 174/89
+de 4 de Março
+Em execução do disposto nos artigos 14.º e 15.º do Decreto-Lei n.º 168/88, de 14 de Maio:
+Manda o Governo, pelos Ministros da Defesa Nacional, das Finanças, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações, o seguinte:
+1.º Pela fixação de uma lotação, nos termos do Decreto-Lei n.º 168/88, de 14 de Maio, são devidas taxas nos seguintes valores:
+a) Embarcações constantes dos n.os 1 e 2 do artigo 4.º - 40000$00;
+b) Embarcações de comércio do tráfego local e auxiliares locais - 20000$00;
+c) Embarcações de pesca local:
+De convés fechado - 10000$00;
+De convés aberto - 5000$00.
+2.º Os montantes previstos na alínea a) do número anterior são acrescidos de 50% nos casos em que haja interposição de recurso do despacho de fixação da lotação.
+3.º A cada membro das comissões técnicas referidas nos n.os 1 e 2 do artigo 7.º do citado diploma serão atribuídas as seguintes gratificações:
+a) Por cada lotação fixada - 7500$00;
+b) Por cada vistoria efectuada - 2000$00;
+a que acrescerá a importância correspondente a ajudas de custo e despesas de transporte.
+4.º Os técnicos referidos na alínea a) do n.º 4 do artigo 7.º e o coordenador referido no n.º 5 do artigo 8.º, ambos do supracitado diploma, terão direito a uma gratificação de 1000$00 por presença nas reuniões.
+5.º Aos presidentes das comissões de lotações e ao representante da Direcção-Geral do Pessoal do Mar e Estudos Náuticos, referidos nas alíneas a) do n.º 1 e a) e b) do n.º 2 do artigo 8.º daquele decreto-lei, será atribuída uma gratificação, respectivamente de 10000$00 e 5000$00, pela intervenção na fixação de cada lotação.
+Ministérios da Defesa Nacional, das Finanças, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.
+Assinada em 20 de Fevereiro de 1989.
+O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
