@@ -1,0 +1,3 @@
+# Artigo 17.º-B
+
+Da verba que lhe for atribuída nos termos da alínea a) do n.º 3 do artigo 17.º, o Instituto Nacional do Desporto reservará até 10% para suportar os encargos com a deslocação, por via aérea, entre o continente e as Regiões Autónomas, de equipas de futebol que disputem os campeonatos das quatro divisões nacionais, a Taça de Portugal, as provas de apuramento e a fase final do Campeonato Nacional de Juniores e com a deslocação das respectivas equipas de arbitragem, sem prejuízo do disposto no artigo 17.º-D; o remanescente desta verba cativada constituirá receita geral do Instituto Nacional do Desporto.
