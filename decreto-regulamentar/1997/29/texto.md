@@ -1,0 +1,100 @@
+Decreto Regulamentar n.º 29/97
+de 29 de Julho
+A Directiva n.º 80/836/EURATOM, do Conselho, de 15 de Julho, com as alterações que lhe foram introduzidas pela Directiva n.º 84/467/EURATOM, do Conselho, de 3 de Setembro, fixou as normas de base relativas à protecção sanitária da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes.
+Tendo em conta o disposto nas referidas directivas, o Decreto Regulamentar n.º 9/90, de 19 de Abril, que dá execução ao Decreto-Lei n.º 348/89, de 12 de Outubro, estabelece, relativamente aos trabalhadores e às populações, os princípios e as normas por que se devem reger as acções a desenvolver na área da protecção contra radiações ionizantes.
+Entretanto, considerando que as condições específicas de trabalho dos trabalhadores de empresas externas que intervêm em zonas sujeitas a regulamentação com vista à protecção contra radiações ionizantes requerem um sistema de vigilância radiológica apropriado, o Conselho aprovou a Directiva n.º 90/641/EURATOM, de 4 de Dezembro, tendo em vista completar as Directivas n.os 80/836/EURATOM e 84/467/EURATOM, respectivamente de 15 de Julho e de 3 de Setembro, e salvaguardar a protecção dos referidos trabalhadores contra os perigos das radiações ionizantes.
+Importa, agora, transpor para o direito interno a Directiva n.º 90/641/EURATOM, de 4 de Dezembro.
+Foi ouvida a Comissão Nacional de Protecção contra Radiações.
+Assim:
+Ao abrigo do disposto no artigo 15.º do Decreto-Lei n.º 348/89, de 12 de Outubro, e nos termos da alínea c) do artigo 202.º da Constituição, Governo decreta o seguinte:
+Artigo 1.º
+Objecto
+O presente diploma transpõe para a ordem jurídica interna a Directiva n.º 90/641/EURATOM, do Conselho, de 4 de Dezembro, e estabelece o regime de protecção dos trabalhadores externos que intervêm em zonas controladas.
+Artigo 2.º
+Definições
+Para efeitos do presente diploma, entende-se por:
+a) «Zona controlada» - qualquer zona que, na acepção dada pela alínea a) do artigo 12.º do Decreto Regulamentar n.º 9/90, de 19 de Abril, deva ser sujeita a regulamentação com vista à protecção contra radiações ionizantes;
+b) «Operador» - qualquer pessoa, singular ou colectiva, que, nos termos da legislação em vigor, assuma a responsabilidade numa zona controlada em que se exerça uma actividade sujeita a autorização, nos termos do artigo 3.º do presente diploma;
+c) «Empresa externa» - qualquer pessoa, singular ou colectiva, incluindo os membros do seu pessoal, que, não sendo operador, efectue uma intervenção, de qualquer tipo ou natureza, numa zona controlada;
+d) «Trabalhador externo» - qualquer trabalhador que, tendo vínculo laboral, a título temporário ou permanente, a uma empresa externa, incluindo os estagiários, aprendizes e estudantes, ou preste serviços na qualidade de trabalhador independente, efectue uma intervenção, de qualquer tipo ou natureza, na zona controlada e seja susceptível de classificação, de harmonia com o disposto no artigo 2.º do Decreto Regulamentar n.º 9/90, de 19 de Abril, na categoria A das pessoas profissionalmente expostas;
+e) «Intervenção de um trabalhador» - a prestação ou o conjunto de prestações efectuadas por um trabalhador externo numa zona controlada sob a responsabilidade de um operador;
+f) «Sistema de vigilância radiológica» - as medidas destinadas garantir a aplicação, durante a intervenção dos trabalhadores externos, das regras de vigilância e controlo nas zonas de risco previstas no Decreto Regulamentar n.º 9/90, de 19 de Abril.
+Artigo 3.º
+Autorização prévia
+O exercício, por empresas externas, de actividades que, pela sua susceptibilidade de exposição a radiações ionizantes, recaiam no âmbito de aplicação do Decreto Regulamentar n.º 9/90, de 19 de Abril, fica sujeito ao regime de autorização prévia previsto no artigo 34.º desse diploma e ao Decreto-Lei n.º 153/96, de 30 de Agosto, relativo ao regime de licenciamento das fontes radioactivas seladas.
+Artigo 4.º
+Sistema de vigilância radiológica
+1 - Aos trabalhadores externos deve ser garantida a efectividade de um sistema de vigilância radiológica que lhes assegure protecção equivalente àquela de que dispõem os trabalhadores permanentes do operador.
+2 - Para os efeitos do disposto no número anterior, a cada trabalhador externo, mesmo que transfronteiriço, deve ser atribuído um documento individual de controlo radiológico, a ser emitido pela Direcção-Geral da Saúde.
+3 - O modelo do documento individual de controlo radiológico referido no número anterior e bem assim as normas a que o mesmo deve obedecer serão aprovados por despacho da Ministra da Saúde a publicar no Diário da República.
+Artigo 5.º
+Obrigações da empresa externa
+A empresa externa deve garantir, por si ou através de acordos contratuais com o operador, a protecção radiológica dos seus trabalhadores externos em conformidade com as disposições do Decreto Regulamentar n.º 9/90, de 19 de Abril, nomeadamente:
+a) Assegurar a observância dos princípios gerais e das limitações de dose a que se refere o capítulo IV do Decreto Regulamentar n.º 9/90, de 19 de Abril;
+b) Prestar as informações e promover a formação, no domínio da protecção contra radiações, referidas nos artigos 5.º e 13.º do Decreto Regulamentar n.º 9/90, de 19 de Abril;
+c) Assegurar que os trabalhadores sejam submetidos a uma avaliação de exposição e a uma vigilância e controlo médicos, em conformidade com as condições descritas no capítulo III do Decreto Regulamentar n.º 9/90, de 19 de Abril;
+d) Requerer a actualização, nos documentos individuais a que se refere o n.º 2 do artigo 4.º, dos elementos radiológicos relativos ao controlo individual da exposição de cada um dos trabalhadores.
+Artigo 6.º
+Obrigações do operador
+1 - O operador é responsável, por si ou através de acordos contratuais, pelos aspectos operacionais de protecção radiológica da intervenção dos trabalhadores externos que actuem na zona controlada.
+2 - Em relação a cada trabalhador externo a quem seja atribuída qualquer tarefa na zona controlada, o operador deve:
+a) Verificar se possui, do ponto de vista médico, aptidão para o desempenho da tarefa que lhe é atribuída;
+b) Verificar se recebeu, além da formação de base em protecção contra radiações a que se refere a alínea b) do artigo anterior, uma formação específica relacionada com as particularidades da zona controlada e da intervenção;
+c) Verificar se dispõe dos equipamentos de protecção individual necessários e se beneficia de uma vigilância individual de exposição adequada à natureza da intervenção, bem como, se necessário, do acompanhamento dosimétrico operacional;
+d) Fazer respeitar os princípios gerais e as limitações de dose a que se refere o capítulo IV do Decreto Regulamentar n.º 9/90, de 19 de Abril;
+e) Garantir, após cada intervenção, o registo dos elementos radiológicos de controlo individual da exposição.
+Artigo 7.º
+Responsabilidade pela protecção e segurança contra radiações ionizantes
+1 - A empresa externa é considerada a entidade responsável pelo controlo regular de todos os dispositivos e aparelhos de protecção individual do trabalhador externo, com o fim de verificar se o seu estado, localização e funcionamento são satisfatórios.
+2 - Para os efeitos do número anterior, a empresa externa deve submeter à apreciação da Direcção-Geral da Saúde, nos termos previstos no artigo 7.º do Decreto Regulamentar n.º 9/90, de 19 de Abril, um programa de protecção e segurança contra radiações ionizantes.
+Artigo 8.º
+Obrigações dos trabalhadores externos
+Os trabalhadores externos devem contribuir para a protecção que o sistema de vigilância radiológico constante do artigo 4.º visa assegurar-lhes.
+Artigo 9.º
+Fiscalização
+Compete à Direcção-Geral da Saúde fiscalizar a observância das disposições do presente diploma, especialmente no que se refere à efectividade do sistema de vigilância radiológico.
+Artigo 10.º
+Normas aplicáveis
+Ao regime de protecção dos trabalhadores externos que intervêm em zonas controladas é aplicável, sem prejuízo das especificações constantes do presente diploma, o disposto no Decreto Regulamentar n.º 9/90, de 19 de Abril.
+Presidência do Conselho de Ministros, 8 de Maio de 1997. - António Manuel de Oliveira Guterres - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago.
+Promulgado em 26 de Junho de 1997.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 10 de Julho de 1997.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ANEXO I
+Disposições relativas aos documentos individuais referidos no n.º 2 do artigo 4.º
+Parte 1.ª
+1 - O sistema de vigilância radiológica, destinado aos trabalhadores externos, deve incluir os seguintes elementos:
+a) Dados relativos à identidade do trabalhador externo;
+b) Dados a fornecer antes de uma intervenção;
+c) Dados a fornecer no final de cada intervenção.
+2 - A Direcção-Geral da Saúde deve tomar as medidas necessárias para impedir qualquer falsificação, abuso ou manipulação ilegal do sistema de vigilância radiológico.
+3 - Os dados relativos à identidade do trabalhador externo devem incluir a indicação do sexo e da data de nascimento do titular.
+Parte 2.ª
+Antes da intervenção de empresa externa ou de uma autoridade habilitada, os dados do sistema de vigilância radiológica a fornecer, ao operador ou ao médico autorizado junto da empresa, são os seguintes:
+a) Nome e endereço da empresa externa;
+b) Classificação médica do trabalhador externo, nos termos do n.º 4 do artigo 20.º do Decreto Regulamentar n.º 9/90, de 19 de Abril;
+c) Data do último exame médico periódico;
+d) Resultado da vigilância individual de exposição do trabalhador externo.
+Parte 3.ª
+Os dados que, no final de cada intervenção, devem ser considerados para registo no sistema de vigilância radiológico são os seguintes:
+a) Período abrangido pela intervenção;
+b) Estimativa da dose eficaz eventualmente recebida pelo trabalhador externo;
+c) Em caso de exposição não uniforme, cálculo do equivalente de dose nas diferentes partes do corpo;
+d) Em caso de contaminação interna, estimativa da actividade incorporada ou da dose envolvida.
+
+ANEXO II
+Disposições complementares às do anexo I relativas ao documento individual de controlo radiológico
+1 - O documento individual de vigilância radiológico, emitido pela Direcção-Geral da Saúde para os trabalhadores externos, é um documento intransmissível.
+2 - Com base no disposto no n.º 2 da parte 1.º do anexo I do diploma de que o presente anexo constitui parte integrante, a emissão do documento individual é da responsabilidade da Direcção-Geral da Saúde, que lhe atribuirá um número de identificação.
+(ver documento original)
+Este documento (caderneta radiológica) é emitido pela Direcção-Geral da Saúde ao abrigo da legislação nacional que implementa a Directiva do Conselho n.º 90/641/EURATOM (4 de Dezembro) em Portugal.
+A caderneta radiológica deverá ser usada nos casos em que um trabalhador de uma empresa em Portugal efectuar trabalhos numa área controlada em Portugal ou noutro país da UE. Este preceito aplica-se mesmo quando o trabalho for de carácter científico.
+A caderneta radiológica deverá ser entregue ao operador da área controlada antes do início do trabalho.
+Após o final do trabalho as doses de radiação recebidas deverão ser registadas na caderneta pelo serviço de dosimetria autorizado, devendo esta ser enviada à empresa externa em Portugal, que, após dar conhecimento ao trabalhador, a enviará à Direcção-Geral da Saúde.
+This document (radiation passport) is issued in accordance with Portuguese Order which implements Council Directiv no. 90/641/EURATOM (4 December 1990) in Portugal.
+Radiation passport shall be used in those cases where a person from an outside undertaking in Portugal shall work in a controlled area in Portugal or in another UE-country. This applies even if the work is of scientific nature.
+The radiation passport shall be forwarded to the operator for the controlled area before the work commences.
+When the work is finished the radiation doses received during work shell be entered into the radiation passport by the Approved Dosimetry Service, which shall send it to the outside undertaking, and after knowledge of the outside worker, send to DGS.
