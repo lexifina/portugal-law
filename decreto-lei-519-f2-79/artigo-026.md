@@ -1,9 +1,11 @@
 # Artigo 26.º
 
-1 - Os conservadores e notários são substituídos nas suas faltas, licenças ou impedimentos pelos ajudantes, sem prejuízo do disposto no artigo 38.º, n.º 2, do presente diploma.
+1 - Em caso de vacatura do lugar, licença ou de impedimento que se presuma superior a 30 dias, os conservadores e notários são substituídos pelo conservador, notário ou adjunto que para o efeito for nomeado ou destacado.
 
-2 - Nas conservatórias divididas em secções e nas secretarias notariais, os conservadores e notários substituir-se-ão entre si e só na falta de todos intervem o ajudante.
+2 - Na impossibilidade de a substituição se efectuar nos termos previstos no número anterior, o director-geral designa para o efeito um ajudante da repartição.
 
-3 - Havendo mais de um ajudante na repartição, a substituição do conservador ou notário cabe ao ajudante de categoria superior ou, sendo todos da mesma categoria, ao mais antigo.
+3 - Se o impedimento for previsivelmente de longa duração, o director-geral pode determinar o provimento interino do lugar.
 
-4 - Na falta ou impedimento dos ajudantes, o substituto é o outro conservador ou notário da mesma localidade e na sua falta, o chefe da secretaria da câmara municipal, enquanto outra pessoa idónea não for designada pelo director-geral.
+4 - A substituição por período não superior a 30 dias é assegurada pelo adjunto ou, na sua falta, pelo ajudante da repartição designado pelo director-geral.
+
+5 - No caso previsto no número anterior, em conservatórias com mais de um conservador e nas secretarias notariais os conservadores e notários substituem-se entre si.
