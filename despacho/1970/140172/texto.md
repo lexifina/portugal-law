@@ -1,0 +1,4 @@
+Despacho
+1. Considerando que, por força da nova redacção dada pelo Decreto-Lei n.º 48725, de 3 de Dezembro de 1968, ao § único do artigo 1.º do Decreto-Lei n.º 48191, de 30 de Dezembro de 1967, também mercadorias em regime de transferência podem beneficiar de bonificação ou isenção, determino que os produtos derivados do petróleo provenientes da refinaria da Sacor em Leixões e que sejam submetidos a despacho de transferência na Alfândega do Porto e suas dependências na área portuária de Leixões fiquem isentos da taxa de porto referida no corpo do artigo 1.º do citado Decreto-Lei n.º 48191, de 30 de Dezembro de 1967.
+2. O presente despacho contempla os casos pendentes.
+Ministério das Comunicações, 18 de Junho de 1970. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
