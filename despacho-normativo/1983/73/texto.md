@@ -1,0 +1,5 @@
+Despacho Normativo n.º 73/83
+Considerando a conveniência de dotar os centros de saúde integrados de médicos especialistas que já desenvolvessem a sua actividade com vínculo definitivo aos Serviços Médico-Sociais;
+Visto o disposto no artigo 10.º do Decreto-Lei n.º 254/82, de 29 de Junho:
+Ao abrigo do artigo 18.º do Decreto-Lei n.º 254/82, de 29 de Junho, determino que os médicos possuidores de vínculo definitivo aos Serviços Médico-Sociais que trabalhem em áreas de especialidade e sejam especialistas da Ordem dos Médicos ou tenham o grau de assistente hospitalar ou equivalente em pediatria, estomatologia, oftalmologia, otorrinolaringologia, obstetrícia/ginecologia, patologia clínica, pneumologia e psiquiatria sejam integrados nos mapas dos centros de saúde integrados ou nos centros de saúde mental das administrações regionais de saúde no respectivo grau, desde que para tal se candidatem, sendo-lhes assegurada a integração nos quadros quando cessar o regime de instalação.
+Ministério dos Assuntos Sociais, 28 de Fevereiro de 1983. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde.
