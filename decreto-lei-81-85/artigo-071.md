@@ -16,7 +16,7 @@ e) O Decreto-Lei n.º 391/72, de 13 de Outubro;
 
 f) O Decreto-Lei n.º 807/74, de 31 de Dezembro;
 
-g) O Decreto n.º 174-B/75, de 1 de Abril;
+g) O Decreto-Lei n.º 174-B/75, de 1 de Abril;
 
 h) O Decreto-Lei n.º 560/76, de 16 de Julho;
 
