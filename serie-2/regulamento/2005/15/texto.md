@@ -1,0 +1,4 @@
+Regulamento n.º 15/2005. - Regulamento do Departamento de Gestão e Economia - alteração. - Nos termos da deliberação do senado universitário n.º 12/2005, em sessão de 26 de Janeiro, no uso da competência prevista no n.º 5 do artigo 40.º, conjugado com o n.º 1, alínea j), do artigo 21.º, dos Estatutos da Universidade da Madeira, aprovados pelo Despacho Normativo n.º 83/98, publicado no Diário da República, 1.ª série-B, n.º 301, de 31 de Dezembro de 1998, é alterado o n.º 3 do artigo 1.º do Regulamento do Departamento de Gestão e Economia da Universidade da Madeira, abreviadamente DGE, publicado no Diário da República, 2.ª série, n.º 249, de 26 de Outubro de 2001, o qual passa a ter a seguinte redacção:
+"Artigo 1.º
+3 - Constituem domínios científicos do DGE as áreas genéricas da Gestão, Economia, outras Ciências Sociais e Ciências Jurídicas."
+3 de Fevereiro de 2005. - O Reitor, Pedro Telhado Pereira.
