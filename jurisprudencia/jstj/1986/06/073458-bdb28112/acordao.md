@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal de Justiça de 1986-06-25, processo 073458
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 073458
+
+**Nº Convencional:** JSTJ00013736
+
+**Relator:** SA COIMBRA
+
+**Descritores:** COMPRA E VENDA; CONSENTIMENTO DO LESADO; OPOSIÇÃO; FRUTOS NATURAIS; COMPROPRIEDADE; COMPROPRIETÁRIO; ACTO DE ADMINISTRAÇÃO; CONSORTE; ADMINISTRAÇÃO; ANULAÇÃO; ANULABILIDADE
+
+**Nº do Documento:** SJ198606250734582
+
+**Data do Acordão:** 06/25/1986
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Indicações Eventuais:** P LIMA VARELA CCIV ANOTADO 1ED VIII PAG328.
+
+**Área Temática:** DIR CIV - DIR REAIS / DIR CONTRAT / TEORIA GERAL.
+
+## Sumário
+
+I - Nos termos do artigo 212, n. 1 e n. 2 do Código Civil, a cortiça é um fruto natural.
+
+II - Os comproprietários exercem em concurso todos os direitos que pertencem ao proprietário singular - artigo 1405 do Código Civil.
+
+III - De acordo com o artigo 1407, n. 1 do mesmo Código,
+
+é aplicável aos comproprietários o disposto no artigo 985, segundo o qual, na falta de convenção em contrário, todos os sócios tem igual poder para administrar.
+
+IV - E nos termos do n. 3 daquele artigo, os actos realizados pelo comproprietário contra a oposição da maioria legal dos consortes são anuláveis.
+
+V - A administração pode pertencer a todos ou só a alguns dos consortes, mas qualquer deles tem o direito de se opôr ao acto que outro realize ou pretenda realizar, cabendo, então, à maioria decidir - artigo 985, ns. 1 e 2.
+
+VI - O princípio de que todos os comproprietários têm igual poder para administrar, consagrado na nossa lei, é, pois, limitado pelo direito dos outros, que podem opor-se, desde que estejam em maioria pessoal e real.
