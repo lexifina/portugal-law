@@ -1,0 +1,5 @@
+Portaria n.º 17745
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, abrir em Angola um crédito especial da quantia de 160000$00 para reforçar a verba do capítulo 4.º, artigo 435.º, n.º 1) «Serviços de saúde e higiene - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da tabela de despesa ordinária do orçamento geral em vigor naquela província, destinado a dotar os lugares de um obstetra e um cardiologista, criados no quadro médico complementar de cirurgiões e especialistas pelo artigo 29.º, n.º 1), alínea a), do Decreto n.º 42672, de 23 de Novembro de 1959, tomando como contrapartida as disponibilidades existentes na verba do capítulo 10.º, artigo 1411.º «Encargos gerais - Saldo orçamental», da referida tabela de despesa.
+Ministério do Ultramar, 27 de Maio de 1960. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - A. Moreira.
