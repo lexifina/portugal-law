@@ -1,0 +1,797 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "42",
+    "id": "15303",
+    "titulo": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\""
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2001-06-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1926",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2001-06-01",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-06-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138617",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3528-3529"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3528?pgs=3528-3529&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1542",
+                "nome": "Filipe Vital"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3529-3529"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3529?pgs=3529&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ENSINO SUPERIOR",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Dinis Reis"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3529-3530",
+                  "3540-3542"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3529?pgs=3529-3530,3540-3542&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "152",
+                "nome": "António Braga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3530-3532"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3530?pgs=3530-3532&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "152",
+                "nome": "António Braga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138636",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3531-3531"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3531?pgs=3531&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "77",
+                "nome": "José Cesário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138637",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3532-3532"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3532?pgs=3532&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3532-3533",
+                  "3541-3542"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3532?pgs=3532-3533,3541-3542&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1693",
+                "nome": "Ricardo Fonseca de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138639",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3533-3534"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3533?pgs=3533-3534&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1666",
+                "nome": "Luiz Fagundes Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138640",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3534-3535"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3534?pgs=3534-3535&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1659",
+                "nome": "Natália Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138641",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3535-3537"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3535?pgs=3535-3537&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "152",
+                "nome": "António Braga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138642",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3536-3536",
+                  "3538-3538"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3536?pgs=3536,3538&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138643",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3537-3539"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3537?pgs=3537-3539&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1719",
+                "nome": "Rosado Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138644",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3539-3540",
+                  "3542-3542"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3539?pgs=3539-3540,3542&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1693",
+                "nome": "Ricardo Fonseca de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138645",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3541-3541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3541?pgs=3541&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1666",
+                "nome": "Luiz Fagundes Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138646",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3542-3542"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "90",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02/3542?pgs=3542&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 88/2001, de 23 de Março, que \"Aprova as adaptações necessárias a integração do ensino superior militar no sistema nacional de avaliação e acompanhamento do sensino superior\"",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146224",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1926",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-06-02",
+        "pubLeg": "VIII",
+        "pubNr": "90",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/090/2001-06-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
