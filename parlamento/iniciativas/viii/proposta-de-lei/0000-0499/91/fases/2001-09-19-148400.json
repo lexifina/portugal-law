@@ -1,0 +1,807 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "91",
+    "id": "18672",
+    "titulo": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-09-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2032",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-09-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Resolução",
+        "id": "18705",
+        "leg": "VIII",
+        "nr": "73",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "602",
+            "obs": null,
+            "pag": [
+              "22-39"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-09-20",
+            "pubLeg": "VIII",
+            "pubNr": "1",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/22?pgs=22-39&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "602",
+            "obs": null,
+            "pag": [
+              "22-39"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-09-20",
+            "pubLeg": "VIII",
+            "pubNr": "1",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/22?pgs=22-39&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "S",
+        "titulo": "Aprova, para ratificação, a \"Convenção Penal sobre a Corrupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Resolução",
+        "id": "18706",
+        "leg": "VIII",
+        "nr": "74",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "602",
+            "obs": null,
+            "pag": [
+              "22-39"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-09-20",
+            "pubLeg": "VIII",
+            "pubNr": "1",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/22?pgs=22-39&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "602",
+            "obs": null,
+            "pag": [
+              "22-39"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-09-20",
+            "pubLeg": "VIII",
+            "pubNr": "1",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/22?pgs=22-39&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "S",
+        "titulo": "Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-09-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139231",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-29",
+                  "37-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/22?pgs=22-29,37-39&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139232",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25",
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/25?pgs=25,34&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29",
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/28?pgs=28-29,36&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/29?pgs=29-31&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1436",
+                "nome": "Joaquim Sarmento"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/32?pgs=32-34&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-20",
+                "pubLeg": "VIII",
+                "pubNr": "1",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção; Estabelece medidas de combate  à criminalidade organizada e económico-financeira; Aprova, para ratificação, a \"Convenção Penal sobre a Corupção\", do Conselho da Europa, assinada em Estrasburgo, em 30 de Abril de l999;Aprova, para ratificação, a Convenção relativa à luta contra a corrupção em que estejam implicados funcionários das Comunidades Europeias ou dos Estados Membros da União Euopeia, assinada em Bruxelas, em 26 de Maio de l997",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "148400",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "265531",
+        "obs": null,
+        "pag": [
+          "22--39"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-09-20",
+        "pubLeg": "VIII",
+        "pubNr": "1",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/001/2001-09-20/22?pgs=22--39&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
