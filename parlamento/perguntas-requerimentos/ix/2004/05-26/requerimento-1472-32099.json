@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "32099",
+  "tipo": "Requerimento",
+  "numero": "1472",
+  "data_registo": "2004-05-26",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Extinção das direcções regionais do INE",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "263",
+        "nome": "Luís Fazenda"
+      }
+    ],
+    "DataEnvio": "2004-05-31",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2004-05-31",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  PRESIDÊNCIA",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2004-10-08",
+            "docRemetida": null,
+            "entidade": "MIN.  DE ESTADO E DA PRESIDÊNCIA",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764e32566d4e474e6d5a474d744d6a6731596930304d5749314c574a695a4441745a544a6b4d6a466a5a5755325a5459794c6e426b5a673d3d&fich=7ef4cfdc-285b-41b5-bbd0-e2d21cee6e62.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2004-05-26",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764f5467335954646a59574d744e6d49324e4330304d3245314c546b774e6a49744d544e6b4f57526b4d6a686d4f4441344c6e426b5a673d3d&fich=987a7cac-6b64-43a5-9062-13d9dd28f808.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "32099",
+    "Legislatura": "IX",
+    "Nr": "1472",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "291106",
+        "obs": "162-(18)",
+        "pag": [
+          "162-(18)-162-(18)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2004",
+        "pubLeg": "IX",
+        "pubNr": "32",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/032S1/2004-05-29/162-(18)?pgs=162-(18)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
