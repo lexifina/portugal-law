@@ -1,11 +1,3 @@
-## Capítulo VI
-
-## Disposições finais
-
-## Capítulo VII
-
-## Disposições transitórias
-
 # Artigo 90.º
 
 ### Técnicos de diagnóstico e terapêutica
