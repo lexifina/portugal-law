@@ -1,0 +1,27 @@
+Portaria n.º 21669
+Considerando que se torna necessário e urgente dotar os transportes rodoviários, com rubrica inscrita no Plano Intercalar de Fomento da província de Angola, com os meios financeiros indispensáveis à satisfação de encargos decorrentes da execução de obras e fornecimento de materiais em curso;
+Atendendo a que a aquisição de equipamento para instalação da rede de telex nos serviços dos correios, telégrafos e telefones implica o aumento da dotação para esse fim descrita no mencionado Plano Intercalar de Fomento;
+Considerando o que, no sentido exposto, foi proposto pelo Governo-Geral da referida província;
+Tendo em vista a autorização concedida pelo Conselho de Ministros para os Assuntos Económicos em sessão de 4 do corrente:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 2.º do Decreto n.º 35770, de 29 de Julho de 1946, que o Governo-Geral de Angola reforce com as quantias que se indicam as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
+1) Com 3000000$00 a verba do capítulo XII, artigo 1676.º, n.º 6), alínea e) «Plano Intercalar de Fomento - Transportes e comunicações - Telecomunicações», por transferência de igual importância a sair da verba do capítulo XII, artigo 1676.º, n.º 2), alínea d) «Plano Intercalar de Fomento - Agricultura, silvicultura e pecuária».
+2) Com 48000000$00 a verba do capítulo XII, artigo 1676.º, n.º 6), alínea a) «Plano Intercalar de Fomento - Transportes e comunicações - Transportes rodoviários», por transferência das seguintes quantias a sair destas verbas:
+Capítulo XII, artigo 1676.º - Plano Intercalar de Fomento:
+1) «Conhecimento científico do território e das populações. Investigação científica e estudos de base»:
+c) «Estudos de base» ... 3000000$00
+2) «Agricultura, silvicultura e pecuária»:
+d) «Esquemas de regadio e povoamento» ... 5000000$00
+4) «Energia»:
+a) «Estudos, produção, transporte e distribuição»:
+1) «Estudos» ... 4000000$00
+b) «Cobertura de empreendimentos já realizados»:
+2) «Lomaum» ... 30000000$00
+6) «Transportes e comunicações»:
+c) «Portos e navegação»:
+7) «Farolagem» ... 1000000$00
+7) «Turismo»:
+a) «Estudo, planeamento e realização dos melhoramentos de turismo» ... 5000000$00
+... 48000000$00
+Ministério do Ultramar, 12 de Novembro de 1965. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.
