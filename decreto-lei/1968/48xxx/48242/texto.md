@@ -1,0 +1,23 @@
+Decreto-Lei n.º 48242
+O Estatuto dos Tribunais do Trabalho, aprovado pelo Decreto-Lei n.º 41745, de 21 de Julho de 1958, já alterado pelo Decreto-Lei n.º 43357, de 24 de Novembro de 1960, volta a sê-lo pelo presente diploma.
+Razão comum às duas revisões é a necessidade que imperiosamente se tem feito sentir de dotar a jurisdição do trabalho com os meios suficientes para poder corresponder ao constante aumento de processos que se tem verificado, que em 1953 foi de 26764, subiu, decorridos cinco anos, para 45653, ascendendo em 1963 a 58574 e atingindo em 1966 o número de 60837.
+Este acentuado crescimento explica-se por uma série de causas, entre as quais avultam o desenvolvimento operado no complexo das normas reguladoras do trabalho, da organização corporativa e de previdência social, o melhor conhecimento dessas normas por parte dos seus destinatários, o incremento de industrialização do País e a própria colocação de novos órgãos jurisdicionais ao alcance e em condições de mais fácil utilização pelos interessados.
+Como é natural, esta inflação processual não se tem verificado com idêntica intensidade nos diversos tribunais, antes tem afectado mais uns do que outros, conforme o predomínio regional das actividades económicas secundárias ou terciárias ou das actividades económicas primárias, sabido como é serem aquelas que fornecem os maiores contingentes de causas da competência dos tribunais do trabalho. Daí que a necessidade de fazer face ao aumento dos processos mediante o alargamento dos quadros jurisdicionais tenha graduação geogràficamente diversa, apresentando neste momento especial acuidade na área de jurisdição do Tribunal do Trabalho de Braga, constituído por duas varas, uma com sede nesta cidade, outra na cidade de Guimarães, e cujo número de processos (pendentes e iniciados) foi no ano de 1966 de 11113. Razão por que se impõe um novo desdobramento, tendo agora em especial atenção a área correspondente a Vila Nova de Famalicão, cuja importância económica e social inteiramente o justifica.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+Artigo 1.º Os artigos 2.º e 5.º do Estatuto dos Tribunais do Trabalho, aprovado pelo Decreto-Lei n.º 41745, de 21 de Julho de 1958, e alterado pelo Decreto-Lei n.º 43357, de 24 de Novembro de 1960, passam a ter a seguinte redacção:
+Art. 2.º ...
+§ único. Os Tribunais do Trabalho de Lisboa e Porto são constituídos por oito e cinco varas, respectivamente, o de Braga por três varas e os de Aveiro, Coimbra, Leiria, Setúbal e Tomar por duas varas.
+...
+Art. 5.º ...
+1.º ...
+2.º No Tribunal de Braga por uma secção central comum às três varas e por duas secções de processos em cada vara e nos Tribunais de Aveiro, Coimbra, Leiria, Setúbal e Tomar por uma secção central comum às duas varas e por duas secções de processos em cada vara.
+3.º ...
+4.º ...
+§ único. ...
+Art. 2.º Na repartição dos processos pendentes na área de jurisdição do Tribunal do Trabalho de Braga observar-se-á o disposto no artigo 162.º do Estatuto dos Tribunais do Trabalho.
+Art. 3.º Os encargos a que der lugar a execução do presente diploma são reembolsados ao Estado trimestralmente pela receita prevista no artigo 152.º do Decreto-Lei n.º 45698, de 30 de Abril de 1964, mediante competente guia passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa, até que o reembolso seja dispensado por decreto dos Ministros das Finanças e das Corporações e Previdência Social.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 17 de Fevereiro de 1968. - ANTÓNIO DE OLIVEIRA SALAZAR - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
