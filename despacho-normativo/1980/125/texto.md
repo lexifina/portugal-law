@@ -1,0 +1,6 @@
+Despacho Normativo n.º 125/80
+Considerando que se têm suscitado dúvidas sobre se as entidades que exercem a actividade da indústria hoteleira ou similar podem exercer excepcional ou acessoriamente a actividade comercial de retalhistas de alguns dos produtos constantes da tabela referida no n.º 1 do artigo 3.º do Decreto-Lei n.º 247/78, de 22 de Agosto, sem a autorização prévia a que se refere o artigo 4.º do mesmo diploma;
+Considerando que o texto legal não fixa isenções para o exercício do comércio, seja ele acessório, excepcional ou de menor dimensão;
+Considerando que a actividade comercial carece de disciplina, quer genérica, quer específica, conforme se estatui no referido diploma:
+Esclarece-se, ao abrigo do artigo 23.º do Decreto-Lei n.º 247/78, de 22 de Agosto, que o exercício da actividade comercial de produtos constantes da tabela referida no n.º 1 do artigo 3.º, quando praticado nos estabelecimentos da indústria hoteleira e similares, designadamente hotéis, pensões, restaurantes e similares, casas de pasto e de vinhos, depende de autorização prévia, nos termos do artigo 4.º do mesmo diploma.
+Ministério do Comércio e Turismo, 28 de Março de 1980. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca.
