@@ -10,9 +10,9 @@ b) Executar e velar pelo cumprimento das deliberações da assembleia municipal;
 
 c) Proceder à marcação e justificação das faltas dos seus membros;
 
-d) Deliberar sobre a locação e aquisição de bens móveis e serviços, nos termos da lei;
+d) Executar as opções do plano e orçamentos aprovados, bem como aprovar as suas alterações;
 
-e) Alienar os bens móveis que se tornem dispensáveis, nos termos da lei;
+e) Elaborar e aprovar a norma de controlo interno, bem como o inventário de todos os bens, direitos e obrigações patrimoniais e respectiva avaliação, e ainda os documentos de prestação de contas, a submeter à apreciação e votação do órgão deliberativo;
 
 f) Adquirir e alienar ou onerar bens imóveis de valor até 1000 vezes o índice 100 das carreiras do regime geral do sistema remuneratório da função pública;
 
@@ -117,6 +117,8 @@ a) Apresentar à assembleia municipal propostas e pedidos de autorização, desi
 b) Deliberar sobre formas de apoio às freguesias;
 
 c) Propor à assembleia municipal a concretização de delegação de parte das competências da câmara nas freguesias que nisso tenham interesse, de acordo com o disposto no artigo 66.º
+
+d) Propor à assembleia municipal a realização de referendos locais.
 
 7 - Compete ainda à câmara municipal:
 

@@ -10,4 +10,4 @@
 
 4 - Os vereadores que não se encontrem em regime de permanência ou de meio tempo têm o direito às senhas de presença, nos termos do artigo 10.º da Lei n.º 29/87, de 30 de Junho.
 
-5 - Os vereadores podem ainda intervir no final da reunião para o exercício do direito de defesa da honra.
+5 - Os vereadores podem ainda intervir para o exercício do direito de defesa da honra.

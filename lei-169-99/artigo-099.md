@@ -2,7 +2,7 @@
 
 ### Impossibilidade de realização de eleições intercalares
 
-1 - Não há lugar à realização de eleições intercalares nos seis meses anteriores ao termo do prazo em que legalmente se devem realizar eleições gerais para os órgãos autárquicos, nem nos seis meses posteriores à realização destas.
+1 - Não há lugar realização de eleições intercalares nos seis meses anteriores ao termo do prazo em que legalmente se devem realizar eleições gerais para os órgãos autárquicos, nem nos seis meses posteriores à realização destas.
 
 2 - Nos casos previstos nos n.os 2 do artigo 29.º e 2 e 3 do artigo 59.º, quando não for possível a realização de eleições intercalares, a assembleia de freguesia ou a assembleia municipal designam uma comissão administrativa para substituição do órgão executivo da freguesia ou do órgão executivo do município, respectivamente.
 

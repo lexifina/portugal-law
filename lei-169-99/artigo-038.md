@@ -6,7 +6,7 @@
 
 a) Representar a freguesia em juízo e fora dele;
 
-b) Convocar, abrir e encerrar as reuniões, dirigir os trabalhos e assegurar o cumprimento das leis e a regularidade das deliberações;
+b) Elaborar a ordem do dia, convocar, abrir e encerrar as reuniões, dirigir os trabalhos e assegurar o cumprimento das leis e a regularidade das deliberações;
 
 c) Representar obrigatoriamente a junta no órgão deliberativo da freguesia e integrar, por direito próprio, o órgão deliberativo do município, comparecendo às sessões, salvo caso de justo impedimento, situação em que se faz representar pelo substituto legal por ele designado;
 
@@ -24,7 +24,7 @@ i) Autorizar a realização de despesas até ao limite estipulado por delegaçã
 
 j) Autorizar o pagamento das despesas orçamentadas, de harmonia com as deliberações da junta de freguesia;
 
-l) Submeter o relatório de actividades e os documentos de prestação de contas à aprovação da junta de freguesia e à apreciação da assembleia de freguesia;
+l) Submeter a norma de controlo interno, quando aplicável nos termos da lei, bem como o inventário de todos os bens, direitos e obrigações patrimoniais e respectiva avaliação e ainda os documentos de prestação de contas, à aprovação da junta de freguesia e à apreciação e votação da assembleia de freguesia, com excepção da norma de controlo interno;
 
 m) Submeter a visto prévio do Tribunal de Contas, quando for caso disso, os documentos elaborados na junta de freguesia ou em que a freguesia seja parte que impliquem despesa;
 
@@ -44,7 +44,15 @@ t) Promover a publicação edital do relatório de avaliação previsto no Estat
 
 u) Presidir à comissão recenseadora da freguesia;
 
-v) Exercer os demais poderes conferidos por lei ou por deliberação da junta de freguesia.
+v) Promover todas as acções necessárias à administração do património da freguesia;
+
+x) Elaborar e enviar à assembleia de freguesia os elementos referidos no artigo 17.º, n.º 1, alínea o);
+
+z) Informar a câmara municipal sobre a existência de edificações degradadas ou que ameacem desmoronar-se e solicitar a respectiva vistoria;
+
+aa) Responder no prazo de 20 dias aos pedidos de informação formulados pelos cidadãos recenseados na freguesia sobre assuntos nos quais tenham interesse e que estejam abrangidos nas atribuições e competências da junta;
+
+bb) Exercer os demais poderes conferidos por lei ou por deliberação da junta de freguesia.
 
 2 - Compete ao presidente da junta de freguesia proceder à distribuição de funções pelos vogais que a compõem e designar o seu substituto, para as situações de faltas e impedimentos.
 

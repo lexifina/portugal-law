@@ -4,7 +4,7 @@
 
 1 - Nas freguesias com mais de 150 eleitores, o presidente da junta é o cidadão que encabeçar a lista mais votada na eleição para a assembleia de freguesia e, nas restantes, é o cidadão eleito pelo plenário de cidadãos eleitores recenseados na freguesia.
 
-2 - Os vogais são eleitos pela assembleia de freguesia ou pelo plenário de cidadãos eleitores, de entre os seus membros, nos termos do artigo 9.º, tendo em conta que:
+2 - Os vogais são eleitos pela assembleia de freguesia ou pelo plenário de cidadãos eleitores, de entre os seus membros, mediante proposta do presidente da junta, nos termos do artigo 9.º, tendo em conta que:
 
 a) Nas freguesias com 5000 ou menos eleitores há dois vogais;
 

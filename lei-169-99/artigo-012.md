@@ -10,4 +10,4 @@
 
 4 - Os vogais da junta de freguesia que não sejam tesoureiros ou secretários têm direito às senhas de presença nos termos do n.º 1 do artigo 8.º da Lei n.º 11/96, de 18 de Abril.
 
-5 - Os vogais da junta de freguesia podem ainda intervir no final da reunião para o exercício do direito de defesa da honra.
+5 - Os vogais da junta de freguesia podem ainda intervir para o exercício do direito de defesa da honra.

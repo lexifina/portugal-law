@@ -8,7 +8,7 @@ a) Eleger, por voto secreto, o presidente da mesa e os dois secretários;
 
 b) Elaborar e aprovar o seu regimento;
 
-c) Acompanhar e fiscalizar a actividade da câmara e dos serviços municipalizados;
+c) Acompanhar e fiscalizar a actividade da câmara municipal, dos serviços municipalizados, das fundações e das empresas municipais;
 
 d) Acompanhar, com base em informação útil da câmara, facultada em tempo oportuno, a actividade desta e os respectivos resultados, nas associações e federações de municípios, empresas, cooperativas, fundações ou outras entidades em que o município detenha alguma participação no respectivo capital social ou equiparado;
 
@@ -16,31 +16,35 @@ e) Apreciar, em cada uma das sessões ordinárias, uma informação escrita do p
 
 f) Solicitar e receber informações, através da mesa, sobre assuntos de interesse para a autarquia e sobre a execução de deliberações anteriores, o que pode ser requerido por qualquer membro em qualquer momento;
 
-g) Conhecer e tomar posição sobre os relatórios definitivos, resultantes de acções tutelares ou de auditorias executadas sobre a actividade dos órgãos e serviços municipais;
+g) Aprovar referendos locais, sob proposta quer de membros da assembleia, quer da câmara municipal, quer dos cidadãos eleitores, nos termos da lei;
 
-h) Deliberar sobre a constituição de delegações, comissões ou grupos de trabalho para estudo dos problemas relacionados com as atribuições próprias da autarquia, sem interferência no funcionamento e na actividade normal da câmara;
+h) Apreciar a recusa, por acção ou omissão, de quaisquer informações e documentos, por parte da câmara municipal ou dos seus membros, que obstem à realização de acções de acompanhamento e fiscalização;
 
-i) Votar moções de censura à câmara municipal, em avaliação da acção desenvolvida pela mesma ou por qualquer dos seus membros;
+i) Conhecer e tomar posição sobre os relatórios definitivos, resultantes de acções tutelares ou de auditorias executadas sobre a actividade dos órgãos e serviços municipais;
 
-j) Discutir, a pedido de quaisquer dos titulares do direito de oposição, o relatório a que se refere o Estatuto do Direito de Oposição;
+j) Deliberar sobre a constituição de delegações, comissões ou grupos de trabalho para estudo dos problemas relacionados com as atribuições próprias da autarquia, sem interferência no funcionamento e na actividade normal da câmara;
 
-l) Elaborar e aprovar, nos termos da lei, o regulamento do conselho municipal de segurança;
+l) Votar moções de censura à câmara municipal, em avaliação da acção desenvolvida pela mesma ou por qualquer dos seus membros;
 
-m) Tomar posição perante os órgãos do poder central sobre assuntos de interesse para a autarquia;
+m) Discutir, a pedido de quaisquer dos titulares do direito de oposição, o relatório a que se refere o Estatuto do Direito de Oposição;
 
-n) Deliberar sobre recursos interpostos de marcação de faltas injustificadas aos seus membros;
+n) Elaborar e aprovar, nos termos da lei, o regulamento do conselho municipal de segurança;
 
-o) Pronunciar-se e deliberar sobre assuntos que visem a prossecução das atribuições da autarquia;
+o) Tomar posição perante os órgãos do poder central sobre assuntos de interesse para a autarquia;
 
-p) Exercer outras competências que lhe sejam conferidas por lei.
+p) Deliberar sobre recursos interpostos de marcação de faltas injustificadas aos seus membros;
+
+q) Pronunciar-se e deliberar sobre assuntos que visem a prossecução das atribuições da autarquia;
+
+r) Exercer outras competências que lhe sejam conferidas por lei.
 
 2 - Compete à assembleia municipal, em matéria regulamentar e de organização e funcionamento, sob proposta da câmara:
 
-a) Aprovar posturas e regulamentos;
+a) Aprovar as posturas e regulamentos do município, com eficácia externa;
 
 b) Aprovar as opções do plano e a proposta de orçamento, bem como as respectivas revisões;
 
-c) Apreciar o relatório de actividades e os documentos de prestação de contas;
+c) Apreciar o inventário de todos os bens, direitos e obrigações patrimoniais e respectiva avaliação, bem como apreciar e votar os documentos de prestação de contas;
 
 d) Aprovar ou autorizar a contratação de empréstimos nos termos da lei;
 
@@ -56,7 +60,7 @@ i) Autorizar a câmara municipal a adquirir, alienar ou onerar bens imóveis de 
 
 j) Determinar a remuneração dos membros do conselho de administração dos serviços municipalizados;
 
-l) Municipalizar serviços, autorizar o município, nos termos da lei, a criar empresas públicas municipais e fundações e a aprovar os respectivos estatutos, assim como a criar e participar em empresas de capitais exclusiva ou maioritariamente públicos, fixando as condições gerais da participação;
+l) Municipalizar serviços, autorizar o município, nos termos da lei, a criar fundações e empresas municipais e a aprovar os respectivos estatutos, bem como a remuneração dos membros dos corpos sociais, assim como a criar e participar em empresas de capitais exclusiva ou maioritariamente públicos, fixando as condições gerais da participação;
 
 m) Autorizar o município, nos termos da lei, a integrar-se em associações e federações de municípios, a associar-se com outras entidades públicas, privadas ou cooperativas e a criar ou participar em empresas privadas de âmbito municipal, que prossigam fins de reconhecido interesse público local e se contenham dentro das atribuições cometidas aos municípios, em quaisquer dos casos fixando as condições gerais dessa participação;
 
@@ -92,10 +96,10 @@ d) Autorizar a geminação do município com outros municípios ou entidades equ
 
 e) Autorizar os conselhos de administração dos serviços municipalizados a deliberar sobre a concessão de apoio financeiro, ou outro, a instituições legalmente constituídas pelos seus funcionários, tendo por objecto o desenvolvimento das actividades culturais, recreativas e desportivas, bem como a atribuição de subsídios a instituições legalmente existentes, criadas ou participadas pelos serviços municipalizados ou criadas pelos seus funcionários, visando a concessão de benefícios sociais aos mesmos e respectivos familiares.
 
-5 - A acção de fiscalização mencionada na alínea c) do n.º 1 consiste numa apreciação, casuística e posterior à respectiva prática, dos actos da câmara municipal.
+5 - A acção de fiscalização mencionada na alínea c) do n.º 1 consiste numa apreciação casuística e posterior à respectiva prática dos actos da câmara municipal, dos serviços municipalizados, das fundações e das empresas municipais, designadamente através de documentação e informação solicitada para o efeito.
 
-6 - A proposta apresentada pela câmara referente às alíneas b), c), i) e n) do n.º 2 não pode ser alterada pela assembleia municipal e carece da devida fundamentação quando rejeitada, mas a câmara pode acolher sugestões feitas pela assembleia.
+6 - A proposta apresentada pela câmara referente às alíneas b), c), i) e n) do n.º 2 não pode ser alterada pela assembleia municipal e carece da devida fundamentação quando rejeitada, mas a câmara deve acolher sugestões feitas pela assembleia, quando devidamente fundamentadas, salvo se aquelas enfermarem de previsões de factos que possam ser considerados ilegais.
 
 7 - Os pedidos de autorização para a contratação de empréstimos a apresentar pela câmara municipal, nos termos da alínea d) do n.º 2, serão obrigatoriamente acompanhados de informação sobre as condições praticadas em, pelo menos, três instituições de crédito, bem como do mapa demonstrativo de capacidade de endividamento do município.
 
-8 - Quando necessário para o eficiente exercício da sua competência, a assembleia municipal dispõe, sob orientação do respectivo presidente, de um núcleo de apoio composto por funcionários do município, a destacar pelo presidente da câmara municipal sem prejuízo dos poderes de gestão que a este cabem.
+8 - As alterações orçamentais por contrapartida da diminuição ou anulação das dotações da assembleia municipal têm de ser aprovadas por este órgão.

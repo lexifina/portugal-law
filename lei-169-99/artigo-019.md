@@ -4,18 +4,20 @@
 
 Compete ao presidente da assembleia de freguesia:
 
-a) Convocar as sessões ordinárias e extraordinárias;
+a) Representar a assembleia, assegurar o seu regular funcionamento e presidir aos seus trabalhos;
 
-b) Elaborar a ordem do dia das sessões e proceder à sua distribuição;
+b) Convocar as sessões ordinárias e extraordinárias;
 
-c) Abrir e dirigir os trabalhos mantendo a disciplina das reuniões;
+c) Elaborar a ordem do dia das sessões e proceder à sua distribuição;
 
-d) Assegurar o cumprimento das leis e a regularidade das deliberações;
+d) Abrir e dirigir os trabalhos mantendo a disciplina das reuniões;
 
-e) Suspender ou encerrar antecipadamente as reuniões, quando circunstâncias excepcionais o justifiquem, mediante decisão fundamentada, a incluir na acta da reunião;
+e) Assegurar o cumprimento das leis e a regularidade das deliberações;
 
-f) Comunicar à junta as faltas do seu presidente ou do substituto legal às reuniões da assembleia de freguesia;
+f) Suspender ou encerrar antecipadamente as reuniões, quando circunstâncias excepcionais o justifiquem, mediante decisão fundamentada, a incluir na acta da reunião;
 
-g) Participar ao representante do Ministério Público competente as faltas injustificadas dos membros da assembleia e da junta, quando em número relevante para efeitos legais;
+g) Comunicar à junta as faltas do seu presidente ou do substituto legal às reuniões da assembleia de freguesia;
 
-h) Exercer os demais poderes que lhe sejam cometidos por lei, pelo regimento interno ou pela assembleia.
+h) Participar ao representante do Ministério Público competente as faltas injustificadas dos membros da assembleia e da junta, quando em número relevante para efeitos legais;
+
+i) Exercer os demais poderes que lhe sejam cometidos por lei, pelo regimento interno ou pela assembleia.

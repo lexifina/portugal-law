@@ -34,7 +34,7 @@ o) Apreciar, em cada uma das sessões ordinárias, uma informação escrita do p
 
 p) Votar moções de censura à junta de freguesia, em avaliação da acção desenvolvida pela mesma ou por qualquer dos seus membros, no âmbito do exercício das respectivas competências;
 
-q) Aprovar referendos locais, sob proposta quer de membros da assembleia, quer da junta, quer da câmara municipal, quer dos cidadãos eleitores, nos termos da lei;
+q) Aprovar referendos locais, sob proposta, quer de membros da assembleia, quer da junta, quer da câmara municipal, quer dos cidadãos eleitores, nos termos da lei;
 
 r) Pronunciar-se e deliberar sobre todos os assuntos com interesse para a freguesia, por sua iniciativa ou por solicitação da junta;
 

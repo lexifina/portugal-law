@@ -18,7 +18,7 @@ f) Elaborar e manter actualizado o cadastro dos bens móveis e imóveis da fregu
 
 g) Adquirir os bens móveis necessários ao funcionamento dos serviços e alienar os que se tornem dispensáveis;
 
-h) Adquirir e alienar ou onerar bens imóveis de valor até 200 vezes o índice 100 da escala salarial das carreiras do regime geral do sistema remuneratório da função pública;
+h) Adquirir e alienar ou onerar bens imóveis de valor até 220 vezes o índice 100 da escala salarial do regime geral do sistema remuneratório da função pública nas freguesias até 5000 eleitores, de valor até 300 vezes aquele índice nas freguesias com mais de 5000 eleitores e menos de 20000 eleitores, e de valor até 400 vezes o mesmo índice nas freguesias com mais de 20000 eleitores.
 
 i) Alienar em hasta pública, independentemente de autorização do órgão deliberativo, bens imóveis de valor superior ao da alínea anterior, desde que a alienação decorra da execução das opções do plano e a respectiva deliberação seja aprovada por maioria de dois terços dos membros em efectividade de funções;
 
@@ -32,9 +32,9 @@ a) Elaborar e submeter a aprovação da assembleia de freguesia ou do plenário 
 
 b) Elaborar e submeter a aprovação da assembleia de freguesia ou do plenário de cidadãos eleitores as revisões às opções do plano e ao orçamento;
 
-c) Executar as opções do plano e o orçamento;
+c) Executar as opções do plano e orçamento, bem como aprovar as suas alterações;
 
-d) Elaborar e aprovar o relatório de actividades e a conta de gerência a submeter à apreciação do órgão deliberativo;
+d) Elaborar e aprovar a norma de controlo interno, quando aplicável nos termos da lei, bem como o inventário de todos os bens, direitos e obrigações patrimoniais e respectiva avaliação e ainda os documentos de prestação de contas, a submeter à apreciação do órgão deliberativo;
 
 e) Remeter ao Tribunal de Contas, nos termos da lei, as contas da freguesia.
 

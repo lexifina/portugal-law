@@ -6,7 +6,7 @@
 
 a) Do presidente da câmara municipal, em execução de deliberação desta;
 
-b) De um terço dos seus membros;
+b) De um terço dos seus membros ou de grupos municipais com idêntica representatividade;
 
 c) De um número de cidadãos eleitores inscritos no recenseamento eleitoral do município equivalente a 30 vezes o número de elementos que compõem a assembleia, quando aquele número for igual ou inferior a 10000, e a 50 vezes, quando for superior.
 
