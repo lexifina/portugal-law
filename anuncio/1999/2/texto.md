@@ -1,0 +1,6 @@
+Anúncio n.º 2/99
+Recurso contencioso n.º 1958/98.
+Recorrente: José Augusto Gonçalves Ramos e outros.
+Recorrido: Primeiro-Ministro e outros.
+Faz-se saber, nos termos e para os efeitos do disposto no artigo 64.º, n.º 3, da LPTA (Decreto-Lei n.º 267/85, de 16 de Julho), que no recurso contencioso supra-identificado, a correr termos na 1.ª Secção Administrativa do Tribunal Central Administrativo, interposto pelos recorrentes acima indicados, são citados os eventuais interessados para contestarem, querendo, no prazo de 30 dias, que começa a correr depois de finda a dilação de 30 dias contada da data da publicação do edital, mas a falta de contestação importa a confissão dos factos articulados pelos recorrentes, que consiste no pedido de declaração de ilegalidade de normas do artigo 45.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, publicado no Diário da República, 1.ª série, n.º 238, de 16 de Outubro de 1989, emanado da Presidência do Conselho de Ministros, no desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei n.º 184/89, de 2 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, conforme consta da petição inicial, cujo duplicado se encontra neste Tribunal à ordem dos citandos.
+Lisboa, 19 de Janeiro de 1999. - O Juiz Desembargador, Edmundo Moscoso. - A Escrivã-Adjunta, Maria João Fernandes.
