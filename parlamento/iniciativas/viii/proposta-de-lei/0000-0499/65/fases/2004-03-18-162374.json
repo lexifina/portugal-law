@@ -1,0 +1,175 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "65",
+    "id": "7100",
+    "titulo": "Tarifa de formação para estudantes do ensino superior da Região Autónoma da Madeira"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2004-03-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3068",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2004-03-18",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-03-18",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1945",
+                "nome": "Carlos Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148937",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3635-3635"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-19",
+                "pubLeg": "IX",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/065/2004-03-19/3635?pgs=3635&org=PLC"
+              }
+            ],
+            "sumario": "Tarifa de formação para estudantes do ensino superior da Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1278",
+                "nome": "Augusto Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148939",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3636-3636"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-19",
+                "pubLeg": "IX",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/065/2004-03-19/3636?pgs=3636&org=PLC"
+              }
+            ],
+            "sumario": "Tarifa de formação para estudantes do ensino superior da Região Autónoma da Madeira",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Texto final, apresentado pela Comissão de Educação, Ciência e Cultura relativo à Proposta de Lei",
+    "OevId": "162374",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3068",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-03-19",
+        "pubLeg": "IX",
+        "pubNr": "65",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/065/2004-03-19?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2004-03-18",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "31890",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "65",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
