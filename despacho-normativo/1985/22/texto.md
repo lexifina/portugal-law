@@ -1,0 +1,14 @@
+Despacho Normativo n.º 22/85
+Considerando que, no quadro da cooperação geral entre Portugal e Cabo Verde, se tem verificado um significativo desenvolvimento não só no campo das trocas comerciais mas também em termos de prestação de serviços por parte de Portugal;
+Considerando a conveniência em prosseguir o desenvolvimento das trocas comerciais com Cabo Verde, país com o qual Portugal tem vindo a ter, sistematicamente, balança comercial favorável;
+Considerando que para manter a posição predominante de Portugal no comércio de Cabo Verde se torna necessário encontrar soluções para a importação de bananas, seu principal produto de exportação;
+Considerando que a importação de bananas, classificadas pela rubrica 08.01.310 da NEMCE, se encontra sujeita ao regime de contingentação de bens de consumo;
+Considerando que no Plano de Importações de Bens Alimentares Essenciais para 1985 não foi incluída qualquer verba para a importação de bananas pela Junta Nacional das Frutas;
+Considerando, finalmente, que as quantidades que Cabo Verde pretende vender a Portugal são relativamente diminutas:
+Nos termos do artigo 1.º, alínea a), do Decreto-Lei n.º 23/84, de 14 de Janeiro, do artigo 2.º, alínea i), do Decreto-Lei n.º 540/74, de 12 de Outubro, e do artigo 1.º, n.º 3, do Decreto-Lei n.º 353-F/77, de 29 de Agosto:
+Usando da competência que me foi delegada pelo n.º 1 do Despacho n.º 70/84, de 22 de Outubro, do Ministro do Comércio e Turismo, determino que, durante o ano corrente sejam autorizadas, extracontingente, importações de bananas de Cabo Verde, classificadas pela rubrica 08.01.310 da NEMCE, respeitando os seguintes condicionalismos:
+a) As importações em causa realizar-se-ão até ao limite de 150 t por mês;
+b) A Direcção-Geral do Comércio Externo, face a eventuais solicitações das autoridades de Cabo Verde, poderá, tendo em consideração o grau de abastecimento do mercado interno nacional, autorizar importações mensais superiores ao limite estabelecido na alínea a) por antecipação de quantitativos autorizáveis em meses subsequentes;
+c) As importações de bananas de Cabo Verde só poderão ser realizadas por entidades privadas que estejam inscritas na Junta Nacional das Frutas, nos termos da legislação em vigor;
+d) As mencionadas importações ficarão sujeitas ao regime aduaneiro aplicável nos termos da legislação em vigor, designadamente o instituído pelo Decreto-Lei n.º 163/84, de 18 de Maio.
+Secretaria de Estado do Comércio Externo, 29 de Janeiro de 1985. - A Secretária de Estado do Comércio Externo, Maria Raquel Lopes de Bethencourt Ferreira.
