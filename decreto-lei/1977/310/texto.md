@@ -1,0 +1,26 @@
+Decreto-Lei n.º 310/77
+de 5 de Agosto
+Considerando que no reajustamento dos quadros de pessoal civil da Força Aérea, referido nos Decretos-Leis n.os 54/76, de 22 de Janeiro, e 837-A/76, de 2 de Dezembro, se manteve a categoria de aprendiz, incluída no grupo XV - Pessoal oficinal, nos quadros anexos àqueles diplomas;
+Considerando que, existindo no ensino secundário adequados cursos de formação técnico-profissional, se torna desnecessário e até inconveniente manter-se aquela categoria;
+Considerando que na categoria de operário de 3.ª classe se verifica manifesta insuficiência de lugares, que se traduz em prejuízo para os serviços;
+Considerando ainda que, com a extinção da categoria de aprendiz, em substituição de um aumento de lugares de operário de 3.ª classe, ora atribuído, não há lugar a aumento das despesas orçamentadas:
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+Artigo 1.º É extinta a categoria de aprendiz nos quadros orgânicos de pessoal civil da Força Aérea.
+Art. 2.º É aumentado de um lugar de operário de 3.ª classe o quadro I anexo ao Decreto-Lei n.º 54/76, de 22 de Janeiro, atribuído ao subgrupo mecânica auto constante do quadro II anexo à Portaria n.º 71/76, de 10 de Fevereiro.
+Art. 3.º É aumentado de sessenta e um lugares de operário de 3.ª classe o quadro II anexo ao Decreto-Lei n.º 837-A/76, de 2 de Dezembro, distribuídos pelos subgrupos referidos no quadro anexo à Portaria n.º 754/76, de 21 de Dezembro, a seguir indicados:
+Serralharia ... 15
+Mecânica auto ... 8
+Electricidade ... 8
+Carpintaria ... 7
+Pintura ... 5
+Equipamento de voo ... 3
+Estofos ... 2
+Estação de serviço ... 3
+Lavadaria ... 2
+Construção civil ... 8
+Art. 4.º - 1. Os actuais aprendizes passam a preencher vagas de operário de 3.ª classe nos subgrupos correspondentes desde a data do presente diploma.
+2. Os provimentos que assim houver que fazer serão efectuados mediante simples publicação no Diário da República de lista nominativa assinada pelo Chefe do Estado-Maior da Força Aérea e anotada pelo Tribunal de Contas.
+Visto e aprovado em Conselho da Revolução em 20 de Julho de 1977.
+Promulgado em 27 de Julho de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
