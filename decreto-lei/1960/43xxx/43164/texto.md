@@ -1,0 +1,5 @@
+Decreto-Lei n.º 43164
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. A cantina anexa às escolas do ensino primário da freguesia de Forjães, concelho de Esposende, distrito de Braga, criada pelo Decreto-Lei n.º 39445, de 21 de Novembro de 1953, passa a designar-se Cantina Escolar Marcelino de Queirós.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 16 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
