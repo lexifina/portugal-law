@@ -1,0 +1,6 @@
+Despacho Normativo n.º 47-A/77
+Vem-se tornando necessário proceder ao reforço da capacidade de intervenção do IAPMEI, designadamente no domínio financeiro, quando integrada em operações de reestruturação técnica e financeira, e de reconversão de pequenas e médias empresas industriais existentes, bem como em operações de investimento em capital fixo, com vista à obtenção dos desejáveis níveis de investimento neste importante sector da actividade económica.
+Assim, determina-se:
+1. Nos termos e para os efeitos do n.º 11 do despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia de 10 de Fevereiro de 1976, sobre concessão de avales a PME, fixa-se novo montante em 2 milhões de contos.
+2. Sob proposta do IAPMEI, será publicado, no prazo de sessenta dias, despacho de revisão do referido diploma legal, reajustando nomeadamente os montantes máximos de responsabilidades a assumir pelo Instituto por operação e por empresa, de acordo com as necessidades ora sentidas e a experiência colhida neste período de actividade.
+Ministérios do Plano e Coordenação Económica, das Finanças e da Indústria e Tecnologia, 28 de Fevereiro de 1977. - O Ministro do Plano e Coordenação Económica e da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.
