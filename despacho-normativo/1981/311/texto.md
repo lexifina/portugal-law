@@ -1,0 +1,8 @@
+Despacho Normativo n.º 311/81
+Tendo em conta os trabalhos desenvolvidos pelo grupo de trabalho criado pelo Despacho n.º 8/81 do Ministro das Finanças e do Plano, de acordo com o artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com nova redacção introduzida pelo Decreto-Lei n.º 25/79, de 19 de Fevereiro, o Primeiro-Ministro e o Ministro das Finanças e do Plano determinam:
+1 - São aprovados os instrumentos previsionais de gestão para 1981 apresentados pela EPDP, Empresa Pública do Jornal Diário Popular, com as alterações decorrentes dos números seguintes do presente despacho normativo.
+2 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1981 os projectos da empresa a seguir discriminados:
+(ver documento original)
+3 - No presente ano, para além das operações financeiras necessárias à actividade corrente, fica vedado à empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não contemplado no n.º 2.
+4 - Para financiar as despesas de investimento referidas no n.º 2, fica a empresa autorizada, ao abrigo dos n.os 2, alínea e), e 3 do artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 25/79, de 19 de Fevereiro, a recorrer ao mercado interno para a obtenção do capital alheio a médio ou a longo prazo necessário à concretização dos projectos incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1981.
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 22 de Agosto de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro das Finanças e do Plano, João António de Morais Leitão.
