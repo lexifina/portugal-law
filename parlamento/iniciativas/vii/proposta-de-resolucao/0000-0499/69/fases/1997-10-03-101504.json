@@ -1,0 +1,303 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "69",
+    "id": "4998",
+    "titulo": "Aprova para ratificação o protocolo ao acordo e parceria e de cooperação que estabelece uma parceria e seus estados-membros e por um lado e a Federação da Rússia por outro."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1997-10-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1090",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1997-10-03",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-10-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47110",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4258-4258"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-04",
+                "pubLeg": "VII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/112/1997-10-04/4258?pgs=4258&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O PROTOCOLO DE ACORDO DE PARCERIA ECOOPERACAO ESTABELECENDO PARCERIA ENTRE AS COMUNIDADES EUROPEIAS E SEUS ESTADOS MEMBROS POR UM LADO E FEDERACAO DA RUSSIA POR OUTRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "75",
+                "nome": "Jorge Roque Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47111",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4258-4259"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-04",
+                "pubLeg": "VII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/112/1997-10-04/4258?pgs=4258-4259&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O PROTOCOLO DE ACORDO DE PARCERIA ECOOPERACAO ESTABELECENDO PARCERIA ENTRE AS COMUNIDADES EUROPEIAS E SEUS ESTADOS MEMBROS POR UM LADO E FEDERACAO DA RUSSIA POR OUTRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1025",
+                "nome": "Artur Sousa Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47113",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4257-4258"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-04",
+                "pubLeg": "VII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/112/1997-10-04/4257?pgs=4257-4258&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O PROTOCOLO DE ACORDO DE PARCERIA ECOOPERACAO ESTABELECENDO PARCERIA ENTRE AS COMUNIDADES EUROPEIAS E SEUS ESTADOS MEMBROS POR UM LADO E FEDERACAO DA RUSSIA POR OUTRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47115",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4257-4257"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-04",
+                "pubLeg": "VII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/112/1997-10-04/4257?pgs=4257&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O PROTOCOLO DE ACORDO DE PARCERIA ECOOPERACAO ESTABELECENDO PARCERIA ENTRE AS COMUNIDADES EUROPEIAS E SEUS ESTADOS MEMBROS POR UM LADO E FEDERACAO DA RUSSIA POR OUTRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  NEGÓCIOS   ESTRANGEIROS  E  COOPERAÇÃO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Lamego"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "108018",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4257-4257"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-04",
+                "pubLeg": "VII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/112/1997-10-04/4257?pgs=4257&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O PROTOCOLO DE ACORDO DE PARCERIA ECOOPERACAO ESTABELECENDO PARCERIA ENTRE AS COMUNIDADES EUROPEIAS E SEUS ESTADOS MEMBROS POR UM LADO E FEDERACAO DA RUSSIA POR OUTRO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "101504",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1090",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-10-04",
+        "pubLeg": "VII",
+        "pubNr": "112",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/112/1997-10-04?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
