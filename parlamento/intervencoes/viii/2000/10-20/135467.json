@@ -1,0 +1,82 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2furkWvc0lKdq20ak2KlHOmirXJXFYm74sABWT32jiDLN0U8f%2fPEtMfn8RnKJ0uGruwmBNe3jwMO37t%2fiSCQ9aculmRkJeIKwr%2fOiOzMziHJAnUHHtOwdh287ngLEtCriB2WWEC7LYWi1fowW8ns7Xdb7ZeW1KZ%2fh4MoxhR77APfbIk6lGh2Xrj7umHYAgvxBKomL8r%2b7w%2bcVlag%2bST%2fprrlUOE0u%2b6qHwbnvIQKfKeygiUNrSNiI04zccBV4YEQPPfynibRRVQMmV0H0WPDuRcSm80sGGQgNyTsUcq3R2DGZQtkpt%2bs4PaWOTvEOy%2b0HxZFhxj0gLaLBKCcha3mTRy2bCNMZep%2b9wDXb88fyVXk%3d&fich=IntervencoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6a76c73abc08ffed4c44b15f3f36f3269364cf06e4b7f2d6259e2b14d6049817",
+  "legislatura": "VIII",
+  "id": "135467",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "António Montalvão Machado (PSD)",
+  "data_registo": "2000-10-20",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "104751",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "5884",
+        "tipo": "INI",
+        "titulo": "Apreciação Parlamentar - Decreto-lei nº 183/2000 de 10 de Agosto que\"altera o código de processo civil na redacção que lhe foi dada pelo decreto-lei nº 329-A/95 de 12 de Dezembro pelo Decreto-lei nº180/96 de 25 de Setembro e pelo Decreto-lei nº 375-A/99 de 20 de Setembro e o Decreto-lei nº 269/98 de 1 de Setembro na redacção que lhe foi dada pelo Decreto-lei nº 383/99 de 23 de Setembro¿."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2000-10-20",
+    "Debate": "Código de Processo Civil",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "1245",
+      "nome": "António Montalvão Machado"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "135467",
+    "IdDebate": "1614",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação de Decreto-Lei",
+        "id": "5884",
+        "tipo": "Apreciação Parlamentar"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "135467",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-10-21",
+        "pubLeg": "VIII",
+        "pubNr": "14",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/014/2000-10-21?org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "DL183/00 de 10/8, DL398/95 de 12/12, DL180/96 de 25/9, DL375-A/99 de 20/9, DL269/98 de 1/9, DL383/99 de 23/9. Ao deputado Jorge Lacão (PS) e ao Secretário de Estado Adj. do Min. da Justiça (Eduardo Cabrita).",
+    "Sessao": "2",
+    "Sumario": "Código de Processo Civil",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
