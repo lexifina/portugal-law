@@ -1,0 +1,4 @@
+Despacho conjunto
+Dada a necessidade de definir as medidas adequadas à efectivação do contrôle da cortiça amadia declarada indisponível pelo Decreto-Lei n.º 521/76, de 5 de Julho, por força do qual são aplicáveis à produção de cortiça amadia dos anos de 1976 e seguintes as disposições estabelecidas no Decreto-Lei n.º 407-B/75, de 30 de Julho, determina-se:
+Que sejam aplicadas à produção de cortiça amadia dos anos de 1976 e seguintes as normas constantes do despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio Externo de 17 de Outubro de 1975, publicado no Diário do Governo, 1.ª série, n.º 253, de 31 de Outubro de 1975.
+Ministérios da Agricultura e Pescas e do Comércio e Turismo, 17 de Agosto de 1976. - Pelo Ministro da Agricultura e Pescas, Reinaldo Vital Rodrigues, Secretário de Estado do Fomento Agrário. - Pelo Ministro do Comércio e Turismo, António Manuel Rodrigues Celeste, Secretário de Estado do Comércio Externo.
