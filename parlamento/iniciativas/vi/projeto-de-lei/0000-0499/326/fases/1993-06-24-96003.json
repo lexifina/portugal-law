@@ -1,0 +1,1387 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "326",
+    "id": "3785",
+    "titulo": "Para a protecção, gestão e fruição justa e racional dos recursos cinegéticos"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "1993-06-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "373",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "1993-06-24",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "4006",
+        "leg": "VI",
+        "nr": "208",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "568",
+            "obs": null,
+            "pag": [
+              "2769-2783"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-06-25",
+            "pubLeg": "VI",
+            "pubNr": "87",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2769?pgs=2769-2783&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Alargamento do acesso da prática da caça a todos os caçadores."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1993-06-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "126",
+                "nome": "Olinto Ravara"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "127",
+                "nome": "Pedro Holstein Campilho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "137",
+                "nome": "Vasco Miguel"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "102",
+                "nome": "Casimiro de Almeida"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "85",
+                "nome": "José Júlio Ribeiro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "67",
+                "nome": "João Maçãs"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "55",
+                "nome": "Francisco Bernardino Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "43",
+                "nome": "Eduardo Pereira da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "25",
+                "nome": "Armando Cunha"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "54",
+                "nome": "Antunes da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34106",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "12",
+                "nome": "António Morgado"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34107",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8",
+                "nome": "Álvaro Viegas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34108",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "13",
+                "nome": "António Germano Sá e Abreu"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34109",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "15",
+                "nome": "António Barradas Leitão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34110",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "32",
+                "nome": "Carlos Duarte"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34111",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2813-2813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2813?pgs=2813&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "220",
+                "nome": "Mário Tomé"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2782-2783"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2782?pgs=2782-2783&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "197",
+                "nome": "Capoulas Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2781-2781"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2781?pgs=2781&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "230",
+                "nome": "André Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2780-2781"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2780?pgs=2780-2781&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2780-2780"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2780?pgs=2780&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "150",
+                "nome": "António Campos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2779-2780"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2779?pgs=2779-2780&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "137",
+                "nome": "Vasco Miguel"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2778-2779",
+                  "2781-2782"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2778?pgs=2778-2779,2781-2782&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "55",
+                "nome": "Francisco Bernardino Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2778-2778"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2778?pgs=2778&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "54",
+                "nome": "Antunes da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2774-2777"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2774?pgs=2774-2777&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2770-2775"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2770?pgs=2770-2775&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "197",
+                "nome": "Capoulas Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2770-2771",
+                  "2775-2778"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2770?pgs=2770-2771,2775-2778&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "137",
+                "nome": "Vasco Miguel"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2769-2770"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-06-25",
+                "pubLeg": "VI",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25/2769?pgs=2769-2770&org=PLC"
+              }
+            ],
+            "sumario": "ALARGAMENTO DO ACESSO DA PRATICA DE CACA A TODOS OSCACADORESPARA PROTECCAO, GESTAO E FRUICAO DE RECURSOS CINERGETICOS.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "96003",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1993-06-24",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PSN</I>, <I> Raúl Castro (Indep)</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "21891",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "106284",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-06-25",
+            "pubLeg": "VI",
+            "pubNr": "87",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/087/1993-06-25?org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
