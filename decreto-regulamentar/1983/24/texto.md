@@ -1,0 +1,25 @@
+Decreto Regulamentar n.º 24/83
+de 17 de Março
+Reconhecendo-se a conveniência de alterar algumas das disposições do Decreto Regulamentar n.º 34/80, de 2 de Agosto, de modo a permitir um melhor funcionamento dos serviços do Instituto Português do Património Cultural:
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º Os artigos 12.º, 13.º e 50.º do Decreto Regulamentar n.º 34/80, de 2 de Agosto, passam a ter a seguinte redacção:
+Art. 12.º - 1 - O conselho administrativo é composto por:
+a) O presidente do IPPC, que presidirá;
+b) O vice-presidente;
+c) O director dos Serviços Administrativos;
+d) Um representante da Direcção-Geral da Contabilidade Pública.
+2 - O conselho administrativo será secretariado por um funcionário, a designar pelo presidente, sem direito a voto.
+Art. 13.º - 1 - ...
+2 - O conselho administrativo reúne ordinariamente uma vez por semana e extraordinariamente sempre que convocado pelo seu presidente.
+3 - As deliberações são tomadas à pluralidade de votos e o presidente terá voto de qualidade.
+4 - De cada reunião será elaborada acta, que será assinada pelo presidente e pelos vogais a ela presentes.
+5 - Poderá participar nas reuniões do conselho administrativo, sem direito a voto, qualquer dirigente ou técnico do Instituto para tal convocado, sempre que o presidente o entenda conveniente.
+6 - Ao representante da Direcção-Geral da Contabilidade Pública e ao secretariado será atribuída uma gratificação mensal certa, a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Cultura e Coordenação Científica.
+Art. 50.º Os levantamentos e transferências das contas abertas a favor do IPPC só poderão ter lugar com a assinatura de 2 membros do conselho administrativo, sendo um deles o presidente ou o vice-presidente.
+Art. 2.º Os tesoureiros do IPPC ou quem os substitua, durante o período de substituição, têm direito a abono para falhas.
+Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Francisco António Lucas Pires.
+Promulgado em 21 de Fevereiro de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 1 de Março de 1983.
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
