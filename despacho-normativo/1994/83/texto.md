@@ -1,0 +1,7 @@
+Despacho Normativo n.º 83/94
+Considerando que Jorge Manuel Beirão Barroco Duarte cessou, em 21 de Junho de 1993, a comissão de serviço que vinha exercendo como inspector-delegado na ex-Inspecção-Geral do Trabalho, em Évora, cargo equiparado a director de serviços, nos termos do artigo 59.º do Decreto-Lei n.º 327/83, de 8 de Julho;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção conferida pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+1 - É criado no quadro de pessoal do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, aprovado pela Portaria n.º 596-B/93, de 21 de Junho, um lugar de assessor principal, a extinguir quando vagar.
+2 - A criação do lugar referido no número anterior produz efeitos desde 21 de Junho de 1993.
+Ministérios das Finanças e do Emprego e da Segurança Social, 14 de Janeiro de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
