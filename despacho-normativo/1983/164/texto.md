@@ -1,0 +1,7 @@
+Despacho Normativo n.º 164/83
+Os diversos problemas que têm surgido na execução do Decreto-Lei n.º 227/83, de 27 de Maio, no que toca às disposições que respeitam à realização de operações cambiais pelo Tesouro derivam essencialmente do facto de não haver sido fixado qualquer prazo para a respectiva entrada em vigor, vindo ocasionar uma tranferência brusca de funções que não se afigura conveniente.
+Por outro lado, monstrando-se necessário o estabelecimento de uma nova displina jurídica para as operações cambiais do sector público, à luz dos princípios que informam a actual política económico-financeira, reconhece-se que este recente diploma não veio efectivamente contemplar a revisão do regime cambial do sector público, de uma forma global e integrada, como se pretende.
+Assim, ao abrigo de n.º 1 do artigo 2.º do Decreto-Lei n.º 227/83, de 27 de Maio, determina-se:
+1 - Excluem-se do regime previsto naquele diploma todos os serviços e fundos do Estado personalizados e com autonomia administrativa e financeira.
+2 - A necessidade da autorização prévia prevista no artigo 2.º do Decreto n.º 14611, de 23 de Novembro de 1937, e da autorização prévia a que se refere o Decreto-Lei n.º 513-I/79, de 24 de Dezembro, mantêm-se em vigor, visto a publicação do Decreto-Lei n.º 227/83 não as ter eliminado.
+Ministérios das Finanças e do Plano, 28 de Julho de 1983. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.
