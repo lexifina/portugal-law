@@ -1,0 +1,10 @@
+Portaria n.º 364/82
+de 12 de Abril
+O prazo para a entrega da declaração de direitos sobre prédios rústicos nacionalizados ou expropriados, a que se refere o n.º 1 do artigo 6.º da Lei n.º 80/77, de 26 de Outubro, terminou em 30 de Agosto de 1979, nos termos da Portaria n.º 307/79, de 30 de Junho.
+Sucede, porém, que após o termo daquele prazo foi declarada a utilidade pública da expropriação de diversos prédios rústicos, nos termos da Lei n.º 77/77, de 29 de Setembro, sendo certo que só após o acto expropriativo é que os ex-titulares de direitos sobre os bens expropriados poderiam legalmente exercer o direito à indemnização prevista no artigo 1.º da citada Lei n.º 80/77, de 26 de Outubro.
+Assim, importa fixar novo prazo para a entrega das declarações segundo o modelo fixado pela Portaria n.º 120-A/79, de 14 de Março.
+Nestes termos, ao abrigo do disposto no n.º 1 do artigo 6.º da Lei n.º 80/77, de 26 de Outubro:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Agricultura, Comércio e Pescas, o seguinte:
+1.º A declaração prevista no n.º 1 do artigo 6.º da Lei n.º 80/77, de 26 de Outubro, referente aos prédios expropriados depois de 30 de Agosto de 1979, deverá ser elaborada nos precisos termos da Portaria n.º 120-A/79, de 14 de Março, e entregue no Instituto de Gestão e Estruturação Fundiária no prazo de 180 dias a contar da publicação da presente portaria.
+2.º O disposto no número anterior aplica-se também às declarações referentes aos prédios rústicos a expropriar após a publicação desta portaria, começando, neste caso, o prazo de 180 dias a correr no dia imediato ao da publicação do respectivo acto expropriativo.
+Ministérios das Finanças e do Plano e da Agricultura, Comércio e Pescas, 11 de Fevereiro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
