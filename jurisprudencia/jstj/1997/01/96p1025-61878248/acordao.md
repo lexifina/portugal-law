@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal de Justiça de 1997-01-22, processo 96P1025
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 96P1025
+
+**Nº Convencional:** JSTJ00032725
+
+**Relator:** JOAQUIM DIAS
+
+**Descritores:** VÍCIOS DA SENTENÇA; CONTRADIÇÃO INSANÁVEL DA FUNDAMENTAÇÃO; ERRO NOTÓRIO NA APRECIAÇÃO DA PROVA; TRÁFICO DE ESTUPEFACIENTE; DETENÇÃO DE ESTUPEFACIENTE; PROPRIEDADE; VALOR CONSIDERAVELMENTE ELEVADO; AGRAVANTES
+
+**Nº do Documento:** SJ199701220010253
+
+**Data do Acordão:** 01/22/1997
+
+**Votação:** UNANIMIDADE
+
+**Tribunal Recurso:** T CIRC CASCAIS
+
+**Processo no Tribunal Recurso:** 15/95
+
+**Data:** 06/05/1996
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** PROVIDO PARCIAL.
+
+**Área Temática:** DIR CRIM - CRIM C/SOCIEDADE. DIR CIV - TEORIA GERAL.; DIR PROC PENAL - RECURSOS.
+
+## Sumário
+
+I - A contradição insanável de fundamentação prevista na alínea a) do n. 2 do artigo 410 do CPP, é um vício ao nível das permissas, determinando a formação defeituosa da conclusão. Se as permissas se contradizem, a conclusão correcta é impossível e não passa de mera falácia.
+
+II - O vício do n. 2, alínea b), do artigo 410, do CPP, pode ocorrer entre vários sectores, no mesmo plano - contradição entre os factos provados, contradição entre factos provados e motivos de facto, contradição entre factos provados e não provados, contradição entre a indicação das provas e os factos provados, contradição entre a indicação das provas e os factos não provados.
+
+III - O erro notório, previsto na alínea c) do n. 2 do artigo 410, do CPP, é um vício de raciocínio na apreciação das provas, evidenciado pela simples leitura do texto da decisão. Erro tão evidente que salta aos olhos do leitor médio, sem necessidade de qualquer exercício intelectual.
+
+IV - Incorre em erro notório na apreciação da prova o tribunal que dá como provado que a arguida, quando os agentes da PJ procuravam entrar na casa em companhia do arguido, lançou fora 34 embalagens de heroína, extraindo do facto negativo
+
+- (não se provou que as substâncias estupefacientes encontradas fossem também pertença da arguida), a sua absolvição, visto que atribui relevância jurídica a um facto manifestamente irrelevante.
+
+V - A droga não tem que pertencer ao traficante; o artigo 21 do DL 15/93 de 22 de Janeiro não o exige. Basta a simples detenção.
+
+VI - A "avultada compensação remuneratória" de que fala a alínea c), do artigo 24 daquele diploma não precisa de exceder as 200 unidades de conta a que se refere o artigo
+
+202 do CP. A expressão não é sinónima de "consideravelmente elevada".
