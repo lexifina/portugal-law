@@ -1,0 +1,22 @@
+Portaria n.º 22009
+Tendo em atenção os bons resultados obtidos com a realização das Primeiras Jornadas de Engenharia de Moçambique;
+Considerando o voto que no seu decurso foi aprovado por unanimidade, no sentido de se dar continuidade a realizações de tão alto interesse, alargando o seu âmbito a todo o ultramar:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º V da base X da Lei Orgânica do Ultramar Português, o seguinte:
+1.º Deverão os Governos-Gerais de Angola e Moçambique promover a realização periódica nas duas províncias de encontros de engenheiros, arquitectos e outros técnicos das várias parcelas do território nacional, a que se dará o nome de «Jornadas de Engenharia e Arquitectura do Ultramar», adiante designadas por «Jornadas» e cujas principais finalidades serão:
+a) Estudar os problemas específicos do ultramar no planeamento do progresso económico e social de todo o espaço português;
+b) Proporcionar uma súmula das realizações levadas a efeito no ultramar nos domínios da engenharia e da arquitectura, e submetê-la, periòdicamente, à discussão directa;
+c) Incentivar a permanente actualização profissional dos engenheiros e outros técnicos do ultramar;
+d) Elaborar conclusões e recomendações visando a definição de critérios orientadores dos problemas revelados mais prementes nos domínios da engenharia e da arquitectura no ultramar.
+2.º Nas Jornadas poderão participar engenheiros com as especialidades de civil, electrotecnia, mecânica, construção naval, minas, químico-industrial, engenheiros geógrafos engenheiros militares, arquitectos e diplomados com curso superior que exerçam actividade nos domínios da geologia, geofísica, hidrografia e meteorologia.
+3.º Para a organização das Jornadas serão constituídas, por despacho do respectivo governador-geral, comissões permanentes em Angola e Moçambique, devendo estar nelas representados os Estudos Gerais Universitários e outras entidades públicas e privadas mais directamente interessadas nos objectivos das Jornadas.
+§ 1.º As comissões deverão estar constituídas dentro do prazo de três meses a contar da data da presente portaria.
+§ 2.º A duração do mandato dos membros será de quatro anos, podendo ser alargada até cinco anos por despacho do governador-geral.
+§ 3.º Haverá em cada comissão permanente um presidente, um vice-presidente e um secretariado constituído por um secretário-geral e três vogais, um dos quais desempenhará as funções de tesoureiro.
+§ 4.º Os serviços burocráticos inerentes aos secretariados serão assegurados pelos laboratórios de engenharia das respectivas províncias.
+4.º As Jornadas realizar-se-ão alternadamente em Angola e Moçambique com a periodicidade de três anos.
+§ único. Quando o Ministro do Ultramar achar conveniente, poderão as Jornadas realizar-se na metrópole, competindo então a sua organização à Direcção-Geral de Obras Públicas e Comunicações, através de uma comissão que, para o efeito, oportunamente se criará.
+5.º As próximas Jornadas realizar-se-ão em Angola em 1968.
+6.º No prazo de seis meses a contar da data da sua constituição deverá a comissão permanente de Moçambique, dada a sua experiência no assunto, elaborar um regulamento que estabelecerá as regras da organização e funcionamento das Jornadas, o qual será submetido à aprovação do Ministro do Ultramar, com o parecer da comissão permanente de Angola.
+Ministério do Ultramar, 19 de Maio de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.
