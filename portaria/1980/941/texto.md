@@ -1,0 +1,7 @@
+Portaria n.º 941/80
+de 7 de Novembro
+O Decreto-Lei n.º 191-F/79, de 26 de Junho, que estabelece critérios de ordem geral relativamente ao provimento de cargos dirigentes na Administração Pública, dispõe no n.º 4 do seu artigo 2.º que o recrutamento daquele pessoal possa ser alargado, em condições especiais.
+Pela multiplicidade e natureza dos serviços que integram o Ministério dos Transportes e Comunicações, nomeadamente no sector da marinha mercante, cuja orgânica foi estabelecida pela Portaria n.º 873/74, de 31 de Dezembro, atendendo à especificidade e especialização das áreas de actuação dos serviços nele compreendidos:
+Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comunicações e pelo Secretário de Estado da Reforma Administrativa, nos termos do disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, o seguinte:
+Para efeito de provimento dos lugares dirigentes, com excepção dos da área dos serviços administrativos, na Inspecção-Geral de Navios e na Direcção-Geral do Pessoal do Mar e Estudos Náuticos, são dispensadas as habilitações exigidas por lei, devendo os nomeados ser possuidores do curso da Escola Náutica ou de Engenharia de Construção Naval.
+Presidência do Conselho de Ministros e Ministério dos Transportes e Comunicações, 30 de Outubro de 1980. - Pelo Ministro dos Transportes e Comunicações, José Miguel Nunes Anacoreta Correia, Secretário de Estado dos Transportes. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
