@@ -17,9 +17,29 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/09/20900/09450953.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-09-07",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "edcaf672bc78e6ca6b4a02ae324e0672e95153c8fb5bc5fd616b472632ca7286",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.3,
+    "pages": 9,
+    "columns": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "609daff8fddc64a583531e299f1728ea86e5f76769a051b1af9b853c35e8536e",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 5826
 }
