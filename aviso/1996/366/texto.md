@@ -1,0 +1,7 @@
+Aviso n.º 366/96
+Por ordem superior se torna público que, por nota de 6 de Junho de 1996 e agindo na sua qualidade de depositário das Convenções de Genebra de 12 de Agosto de 1949 para a Protecção das Vítimas da Guerra e do Protocolo Adicional I, adoptado em Genebra em 8 de Junho de 1977, o Conselho Federal Suíço notificou ter a República da Colômbia, em 17 de Abril de 1996, depositado a seguinte declaração:
+(ver documento original)
+Tradução
+O Governo da República da Colômbia declara que reconhece ipso facto e sem acordo especial, em relação a qualquer outra Alta Parte Contratante que aceite a mesma obrigação, a competência da Comissão Internacional de Inquérito para proceder a uma investigação acerca das denúncias formuladas por essa outra Parte, tal como autorizado pelo artigo 90.º do Protocolo Adicional às Convenções de Genebra de 12 de Agosto de 1949, relativo à Protecção das Vítimas dos Conflitos Armados Internacionais (Protocolo I).
+Portugal é Parte no mesmo Protocolo, que foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 10/92, de 1 de Abril, tendo depositado o seu instrumento de ratificação em 27 de Maio de 1992, conforme os avisos n.os 100/92, de 17 de Julho, e 277/94, de 28 de Outubro, tornando pública a declaração facultativa referente ao artigo 90.º
+Departamento de Assuntos Jurídicos, 21 de Novembro de 1996. - O Director, José Maria Teixeira Leite Martins.
