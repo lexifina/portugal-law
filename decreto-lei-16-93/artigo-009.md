@@ -12,10 +12,6 @@ Arquivo regional, quando reúne predominantemente a documentação relativa a um
 
 Arquivo municipal, quando reúne predominantemente a documentação relativa a um município ou proveniente de organismos administrativos do mesmo âmbito;
 
-b) Quanto à sua titularidade, em:
-
-Arquivo público, quando reunido por uma entidade pública;
-
-Arquivo privado, quando reunido por uma entidade privada.
+b) (Revogada).
 
 2 - Os arquivos referidos no número anterior podem ainda ser classificados em função da origem, tema ou suporte da documentação que reúnem.
