@@ -1,0 +1,5 @@
+Declaração
+Segundo comunicação do Gabinete do Secretário de Estado Adjunto do Ministro Adjunto e da Juventude, a Portaria n.º 310/88, publicada no Diário da República, 1.ª série, n.º 114 (suplemento), de 17 de Maio de 1988, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Em A) Disposições gerais, n.º 6.º, alínea g), onde se lê «Em curso de edição há menos de um ano à data da formulação do respectivo pedido de apoio;» deve ler-se «Em curso de edição há menos de um ano à data da formulação do respectivo pedido de apoio, salvo no caso de porte pago;».
+Na alínea i), onde se lê «Os boletins de empresa e as publicações cuja venda ao público não atinja 50% do volume de exemplares expedidos» deve ler-se «Os boletins de empresa e as publicações cuja venda ao público não atinja 50% do volume de exemplares editados».
+Secretaria-Geral da Presidência do Conselho de Ministros, 9 de Junho de 1988. - O Secretário-Geral, França Martins.
