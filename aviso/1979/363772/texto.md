@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que em 8 de Agosto de 1979 foi depositado junto do Secretário-Geral das Nações Unidas, em Nova Iorque, o instrumento de adesão do Governo das Honduras ao Protocolo, concluído em Genebra em 25 de Março de 1972, que emenda a Convenção Única sobre Estupefacientes de 1961.
+De acordo com o parágrafo 2 do seu artigo 18.º, o Protocolo entrará em vigor para as Honduras trinta dias após a data do depósito do seu instrumento de adesão, ou seja, no dia 7 de Setembro de 1979. Consequentemente, as Honduras tornar-se-ão, na mesma data, parte da Convenção Única sobre Estupefacientes de 1961, com as modificações trazidas pelo Protocolo que emenda a Convenção Única sobre Estupefacientes de 1961.
+Direcção-Geral dos Negócios Políticos, 4 de Outubro de 1979. - O Director-Geral-Adjunto dos Negócios Políticos, António Leal da Costa Lobo.
