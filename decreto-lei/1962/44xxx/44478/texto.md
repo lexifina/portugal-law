@@ -1,0 +1,6 @@
+Decreto-Lei n.º 44478
+Usando da faculdade conferida pela 1.ª parte de n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+Artigo único. A missão diplomática de Portugal em Manila é elevada à categoria de embaixada, considerando-se extinta a legação existente na referida cidade.
+§ único. As despesas de representação daquela embaixada serão inscritas no orçamento para 1963 e as que hajam de ser pagas no corrente ano sê-lo-ão por força da verba inscrita na alínea b) do n.º 1) do artigo 24.º, capítulo 3.º, do orçamento em vigor para a legação extinta pelo presente diploma.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 24 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernanda Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
