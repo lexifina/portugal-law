@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1924/12/28100/18571857.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1924-12-18",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "75cf82762e6dc54c91f63164cb80e2247d273ce64f29b16112f7b41abffa97b9",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.3,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "892b92d6df1cc65633e6b1bbd61b48666140662ca0fb9c2dff4d7e2b12456334",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 136
 }
