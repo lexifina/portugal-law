@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1926/06/13400/06120613.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1926-06-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "5ec8a64e5708f8e052e3456492fef7af8d0e0c5b817edda5b6c7dbc0186117f3",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "6a557cb7005e9010bb2777e734139edd56b3ccd08555e738abfc0bb11a4bb641",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 567
 }
