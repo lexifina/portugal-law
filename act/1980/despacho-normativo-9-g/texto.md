@@ -1,0 +1,7 @@
+Despacho Normativo n.º 9-G/80
+O processo de primeiro provimento do pessoal do Ministério do Trabalho desenvolveu-se em dois momentos diferentes, tal como os respectivos quadros resultaram de diplomas distanciados no tempo: os dos Decretos-Leis n.º 47/78 e 48/78, de 21 de Março, por um lado; os do Decreto n.º 146/78, de 13 de Dezembro, por outro.
+Existem, em consequência, dois conjuntos de normas de primeiro provimento, aprovadas, respectivamente, pelo despacho de 22 de Março de 1978 e pelo de 16 de Dezembro do mesmo ano, as quais, além das determinações especificamente aplicáveis às carreiras que são privativas, também integram disposições destinadas às carreiras que são comuns.
+Verificando-se existirem discrepâncias na forma como as normas aplicáveis a estas últimas carreiras se encontram elaboradas, com os inconvenientes que desnecessário se torna sublinhar, tratando-se de pessoal pertencente ao mesmo Ministério;
+Atendendo a que os prazos fixados no artigo 7.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, foram prorrogados até 15 de Janeiro do próximo ano, em diploma recentemente aprovado em Conselho de Ministros:
+Determino que as propostas de alteração às situações derivadas de primeiro provimento que as hierarquias entendam apresentar com fundamento nas discrepâncias acima referidas sejam elaboradas ao abrigo da norma que lhes seja ajustável de qualquer dos despachos, os quais passam assim a ser de aplicação unívoca a todos os funcionários.
+Ministério do Trabalho, 20 de Dezembro de 1979. - O Ministro do Trabalho, Jorge de Carvalho Sá Borges.
