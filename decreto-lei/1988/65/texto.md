@@ -1,0 +1,14 @@
+Decreto-Lei n.º 65/88
+de 1 de Março
+Tendo em vista adequar o corpo do artigo 136.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, à nova realidade jurídica consubstanciada na existência de terminais de carga para as mercadorias transportadas por via marítima, prevista no n.º 7 do § 1.º do artigo 140.º da citada Reforma, torna-se necessário rever o regime actualmente em vigor.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. O artigo 136.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passa a ter a seguinte redacção:
+Art. 136.º Na falta de depósitos de trânsito, podem as mercadorias em trânsito ser recebidas em depósitos reais, especiais de caminho de ferro, terminais TIR, aeroportuários, de carga para as mercadorias transportadas por via marítima e depósitos gerais francos, tomando-se as necessárias cautelas de modo a ser observado o regime aduaneiro de trânsito, devendo a sua arrumação fazer-se em separado quando se trate de depósitos gerais francos.
+§ único ...
+Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1988. - Aníbal António Cavaco Silva Miguel - José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
+Promulgado em 18 de Fevereiro de 1988.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 22 de Fevereiro de 1988.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
