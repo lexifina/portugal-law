@@ -1,0 +1,141 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tKfXsA%2fENKNnp0LKqSGHXsjkrRl7S077Q3%2bDShtNlJSfDEIxb29heS60fekSU9Mh%2bOaOxN93u5lJXhXrF20O3GwJrwgX%2b0YU%2bhQwCIVqWOtg4qLdCOsovw17HpQ%2b61GwzRT0xyKc0H%2fa9DQdlP4PkB2kdgun9cM%2f%2fx7V2KVgyAwbUtpLdjftXVCgqJHGFNGYlFDP1m8Jzr0rp%2bkkIm21JfRb4lD2mU2lj506V%2fnSNSb2tR3%2bEDlK3FCGtu7ykpvS5%2bJJC%2frUbEM2mltYb1VfVOgZIDgJPPhSuZN2zIxPp9%2f2OdtvhAO8Vt2qGCJv%2bMWDKcdwAI%2fMSsLsMJfNmLa7xtfsjI6y%2ft3q%2btijdCCXBQfnO9%2b8PHRu402cRBtkKANn&fich=PeticoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "6041edea08a28f8315a7bbbffd2127aaa9493aac12482c88a108bc6b12f7d746",
+  "legislatura": "VII",
+  "id": "6161",
+  "numero": "182",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1999-07-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2000-01-24",
+            "dataResposta": "2002-02-18",
+            "entidades": [
+              "Ministro das Finanças"
+            ],
+            "nrOficio": "129/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2001-09-04",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2000-01-18",
+        "DataArquivo": "2001-09-04",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2001-10-03",
+        "DataReaberta": "2000-01-18",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "27",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2001-09-03",
+            "gp": "PS",
+            "id": "159",
+            "motivoCessacao": null,
+            "nome": "Artur Penedos"
+          }
+        ],
+        "RelatorioFinal": [
+          "21649"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2001-09-04",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "23",
+        "Legislatura": "VII",
+        "Nome": "COMISSÃO DE TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6161",
+    "PetAssunto": "Solicitam a manutenção do Decreto-Lei nº 89/92 de 21 de Maio (Reforma Aduaneira - harmonização com o Regulamento CEE 3632/85 de 12/12).",
+    "PetDataEntrada": "1999-07-26",
+    "PeticoesAssociadas": null,
+    "PetId": "6161",
+    "PetLeg": "VII",
+    "PetNr": "182",
+    "PetNrAssinaturas": "19",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
