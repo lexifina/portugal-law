@@ -1,0 +1,5 @@
+Aviso n.º 270/95
+Por ordem superior se torna público que, por nota de 4 de Agosto de 1995 e nos termos do artigo 25.º da Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia em 5 de Outubro de 1961, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Espanha, por nota datada de 1 de Junho de 1995 e recebida em 20 de Junho de 1995, informado da retirada das reservas feitas aquando da sua ratificação, em 22 de Maio de 1987, da mencionada Convenção.
+Nos termos do artigo 23.º, parágrafo 4.º, aquelas reservas deixaram de produzir efeitos em 19 de Agosto de 1995.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto-Lei n.º 48494, de 22 de Agosto de 1968, tendo depositado o seu instrumento de ratificação em 6 de Dezembro de 1968, conforme aviso publicado no Diário de Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1969.
+Departamento de Assuntos Jurídicos, 21 de Março de 1995. - O Director, José Maria Teixeira Leite Martins.
