@@ -2,11 +2,11 @@
 
 ### Subvenções aos partidos e grupos parlamentares
 
-1 - A cada um dos partidos que hajam concorrido ao acto eleitoral, ainda que em coligação, representados na Assembleia da República é concedida, nos termos dos números seguintes, uma subvenção anual para a realização dos seus fins próprios, desde que a requeiram ao Presidente da Assembleia da República.
+1 - Revogado
 
-2 - A subvenção consiste numa quantia em dinheiro equivalente à fracção 1/225 do salário mínimo nacional por cada voto obtido na mais recente eleição de deputados à Assembleia da República.
+2 - Revogado
 
-3 - Nos casos de coligação eleitoral, a subvenção devida a cada um dos partidos nela integrados é igual à subvenção que, nos termos do n.º 2, corresponder à respectiva coligação eleitoral, distribuída proporcionalmente em função dos deputados eleitos por cada partido.
+3 - Revogado
 
 4 - A cada grupo parlamentar é atribuída, anualmente, uma subvenção para encargos de assessoria aos Deputados não inferior a quatro vezes o salário mínimo nacional anual, mais metade do valor do mesmo por Deputado, a ser paga mensalmente, nos termos do n.º 6.
 
