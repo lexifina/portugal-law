@@ -1,3 +1,5 @@
 # Artigo 620.º
 
-As vagas que se abrirem nos quadros dos serviços especiais serão sempre providas por meio de concurso, salvo quando se trate do recrutamento do pessoal maior dos corpos de polícia ou de bombeiros.
+§ 1.º Nos concursos para provimento dos cargos dos serviços especiais observar-se-ão as normas aplicáveis do regulamento dos concursos respeitantes aos funcionários de carteira, designadamente quanto à publicação das listas dos candidatos e entrega de documentos.
+
+§ 2.º O candidato preferido que se recusar a tomar posse ou a outorgar no contrato fica sujeito ao disposto no § 3.º do artigo 490.º, na parte aplicável.

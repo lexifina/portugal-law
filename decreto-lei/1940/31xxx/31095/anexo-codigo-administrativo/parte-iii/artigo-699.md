@@ -1,5 +1,5 @@
 # Artigo 699.º
 
-Todos os depósitos dos corpos administrativos e seus serviços autónomos serão feitos na Caixa Geral de Depósitos, Crédito e Previdência.
+§ 1.º Serão obrigatoriamente depositados na mesma Caixa todos os fundos que não tenham imediata aplicação.
 
-§ único. Serão obrigatòriamente depositados na mesma Caixa todos os fundos que não tenham imediata aplicação, incluindo os depósitos de garantia ou caução dos consumidores dos serviços municipalizados ou susceptíveis de municipalização.
+§ 2.º As importâncias dos depósitos de garantia dos consumidores dos serviços municipalizados ou susceptíveis de municipalização poderão ser utilizadas como fundo de maneio, devendo os materiais em armazém e as disponibilidades de caixa cobrir sempre o seu montante global, com o limite mínimo para estas últimas de 10 por cento desse montante.

@@ -11,3 +11,5 @@ A licença graciosa só pode ser concedida aos funcionários com mais de um ano 
 § 4.º Não poderão gozar das regalias garantidas no presente artigo e seus parágrafos os funcionários que há menos de um ano tiverem sofrido pena disciplinar superior à de repreensão verbal ou escrita.
 
 § 5.º As licenças graciosas são sempre revogáveis por conveniência de serviço.
+
+§ 6.º Aos funcionários que em dois ou três anos consecutivos não tiverem gozado licença graciosa poderá ser concedida licença até ao máximo de sessenta ou noventa dias, respectivamente, quando, por motivos justificados, pretendam gozá-la, total ou parcialmente, fora do continente ou do distrito insular onde exerçam funções.
