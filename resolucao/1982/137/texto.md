@@ -1,0 +1,3 @@
+Resolução n.º 137/82
+O Conselho de Ministros, reunido em 5 de Agosto de 1982, resolveu, nos termos do Tratado entre a República Federal da Alemanha e a República de Portugal Relativo à Extradição e à Assistência Judiciária em Matéria Penal, de 8 de Abril de 1965, e do artigo 24.º, n.º 2, do Decreto-Lei n.º 437/75, de 16 de Agosto, deferir o pedido de extradição apresentado pelas autoridades da República Federal da Alemanha referente ao seu súbdito Georg Paga para ser submetido a procedimento criminal pela prática de um crime de furto.
+Presidência do Conselho de Ministros, 5 de Agosto de 1982. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
