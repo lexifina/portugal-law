@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 19-O/2002
+Segundo comunicação do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, a Portaria n.º 406/2002, publicada no Diário da República, 1.ª série, n.º 91, de 18 de Abril de 2002, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com com a seguinte inexactidão, que assim se rectifica:
+No n.º 1.º, onde se lê «pelo período de 12 anos, ao Clube de Caça e Pesca de Sameice, com o número de pessoa colectiva 505046180 e sede na Rua de Paulo da Gama, 13, Lisboa» deve ler-se «pelo período de 12 anos, renovável automaticamente por dois iguais períodos, ao Clube de Caça e Pesca de Sameice, com o número de pessoa colectiva 505046180 e sede na Rua do Chão de Cima, 6270-271 Seia».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Abril de 2002. - O Secretário-Geral, Alexandre Figueiredo.
