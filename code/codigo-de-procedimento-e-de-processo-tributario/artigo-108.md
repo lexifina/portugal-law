@@ -1,0 +1,13 @@
+# Artigo 108.º
+
+### Requisitos da petição inicial
+
+1 - A impugnação será formulada em petição articulada, dirigida ao juiz do tribunal competente, em que se identifiquem o acto impugnado e a entidade que o praticou e se exponham os factos e as razões de direito que fundamentam o pedido.
+
+2 - Na petição indicar-se-á o valor do processo ou a forma como se pretende a sua determinação a efectuar pelos serviços competentes da administração tributária.
+
+3 - Com a petição, elaborada em triplicado, sendo uma cópia para arquivo e outra para o impugnante, oferecerá este os documentos de que dispuser, arrolará testemunhas e requererá as demais provas que não dependam de ocorrências supervenientes.
+
+4 - Se o impugnante pretender que a prova seja produzida no serviço local ou periférico da administração tributária, declará-lo-á na petição.
+
+5 - Caso o impugnante pretenda que o processo suba logo a tribunal após a realização das diligências previstas no artigo 110.º, declará-lo-á na petição.

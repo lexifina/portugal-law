@@ -1,0 +1,35 @@
+1 - A lei geral tributária, aprovada pelo artigo 1.º do Decreto-Lei n.º 398/98, de 17 de Dezembro, exige uma extensa e profunda adaptação às suas disposições dos vários códigos e leis tributárias, designadamente do Código de Processo Tributário, aprovado pelo artigo 1.º do Decreto-Lei n.º 154/91, de 23 de Abril.
+
+Na verdade, aquela lei chamou a si a regulamentação directa de aspectos essenciais da relação jurídico-tributária e do próprio procedimento tributário, que constavam até então do Código de Processo Tributário e de outras leis tributárias. Impõe-se agora a modificação da sistematização e disciplina deste Código, que ficará essencialmente a ser um código de processo judicial tributário e das execuções fiscais, sem prejuízo de complementar a regulamentação do procedimento tributário efectuada pela lei geral tributária, o que é feito no título II.
+
+2 - A reforma do Código de Processo Civil efectuada pelos Decretos-Leis n.os 329-A/95, de 12 de Dezembro, e 180/96, de 25 de Setembro, impõe também a harmonização com as suas disposições do Código de Processo Tributário.
+
+O processo tributário é processo especial, mas a evolução do processo civil não podia deixar de reflectir-se na evolução do processo tributário, que não é qualquer realidade estática nem enclave autónomo do direito processual comum.
+
+3 - As modificações agora introduzidas no Código de Processo Tributário (agora definido, de acordo com a nova terminologia da lei geral tributária, como sendo também código do procedimento tributário) visam também objectivos gerais de simplicidade e eficácia.
+
+Simplicidade e eficácia não são, no entanto, incompatíveis com os direitos e garantias dos contribuintes. Pelo contrário, sem eficácia e simplicidade do procedimento e processo, esses direitos e garantias não passarão de proclamações retóricas, sem conteúdo efectivo. Pretende-se que a regulamentação do procedimento e processo tributários assegure não só a certeza, como a celeridade na declaração e realização dos direitos tributários, que é condição essencial de uma melhor justiça fiscal.
+
+O presente Código de Procedimento e de Processo Tributário não se aplica apenas aos impostos administrados tradicionalmente pela Direcção-Geral dos Impostos (DGCI). Fica também claro que se aplica ao exercício dos direitos tributários em geral, quer pela DGCI, quer por outras entidades públicas, designadamente a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC), quer inclusivamente por administrações tributárias não dependentes do Ministério das Finanças. Foram eliminadas todas as referências ao Código de Processo Tributário que inviabilizavam ou dificultavam a sua aplicação por parte das referidas entidades, sem prejuízo de se salvaguardar o disposto no direito comunitário ou em lei especial que pontualmente aponte para soluções diferentes das consagradas no presente Código. Paralelamente, introduziram-se no Regulamento das Custas dos Processos Tributários, aprovado pelo artigo 1.º do Decreto-Lei n.º 29/98, de 11 de Fevereiro, as adaptações destinadas a viabilizar a sua efectiva aplicação aos processos aduaneiros.
+
+4 - A opção por novas sistematização e ordenação das disposições que integravam o Código de Processo Tributário resulta da amplitude das modificações exigidas pela lei geral tributária e pela reforma do Código de Processo Civil. É o resultado, no entanto, de meras opções de técnica legislativa, não representando qualquer alteração substancial do actual quadro das relações Fisco-contribuinte, que é considerado equilibrado, e mantendo-se rigorosamente no âmbito da autorização legislativa concedida pelo n.º 1 do artigo 51.º da Lei n.º 87-B/98, de 31 de Dezembro.
+
+5 - O título I do presente Código mantém, na medida do possível, a estrutura do título I do Código de Processo Tributário, expurgada das matérias substantivas, incluindo as normas sobre responsabilidade tributária, que passaram entretanto a constar da lei geral tributária.
+
+Assinalam-se em especial nesse título a adaptação das normas sobre a personalidade e capacidade tributárias, prazos e notificações às alterações do Código de Processo Civil e à lei geral tributária e a definição de um quadro claro de resolução de conflitos de competências, incluindo entre administrações tributárias diferentes.
+
+6 - No título II registam-se a adaptação das normas de procedimento tributário que não foram incluídas na lei geral tributária aos princípios e disposições desta, a consagração do princípio do duplo grau de decisão no procedimento tributário, que é uma garantia da sua celeridade e eficácia, a possibilidade de, em caso de erro na forma de procedimento, este ser convolado na forma adequada, o desenvolvimento dos deveres de informação dos contribuintes previstos na lei geral tributária, a regulamentação de subprocedimentos de especial importância, como os da declaração de abuso de direito ou de elisão de presunções legais, e a simplificação do processo de decisão das reclamações. São igualmente integradas no Código as normas de natureza procedimental do Estatuto dos Benefícios Fiscais que não devam caber na lei geral tributária.
+
+7 - No processo judicial tributário, que integra o título III, anotam-se especialmente, além da simplificação do processo de decisão, incluindo na fase da preparação do processo pela administração tributária, a regulamentação, pela primeira vez, da impugnação das providências cautelares adoptadas pela administração tributária e da possibilidade de reacção dos contribuintes contra omissões lesivas da administração tributária, dando-se assim consagração a inovações da última revisão constitucional obviamente acolhidas pela lei geral tributária.
+
+8 - Na execução fiscal, que integra o título IV, avulta essencialmente a sua adequação ao modelo do novo processo civil, acentuando-se a ideia de uma execução não universal, mas simultaneamente ampliando-se as garantias do executado e de terceiros, sem prejuízo das necessárias eficácia e celeridade do processo.
+
+9 - No título V regressa-se ao modelo do Código de Processo das Contribuições e Impostos, reconhecido como mais adequado, da autonomização da matéria dos recursos jurisdicionais e esclarecem-se algumas das soluções legislativas do Código de Processo Tributário à luz da experiência concreta da sua aplicação. Procede-se também, de acordo com o balanço feito da aplicação do Código de Processo Tributário, a uma simplificação e harmonização do sistema de recursos.
+
+10 - Finalmente, a aprovação do presente Código insere-se na linha da Resolução do Conselho de Ministros n.º 119/97, de 14 de Julho, na medida em que reforça e aperfeiçoa o sistema de garantias dos contribuintes e imprime maior eficácia e celeridade à justiça tributária.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+No uso da autorização legislativa concedida pelos n.os 1 e 6 do artigo 51.º da Lei n.º 87-B/98, de 31 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:

@@ -1,0 +1,9 @@
+## Secção III
+
+## Do pagamento voluntário
+
+# Artigo 84.º
+
+### Pagamento voluntário
+
+Constitui pagamento voluntário de dívidas de impostos e demais prestações tributárias o efectuado dentro do prazo estabelecido nas leis tributárias.

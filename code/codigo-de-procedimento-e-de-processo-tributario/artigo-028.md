@@ -1,0 +1,43 @@
+# Artigo 28.º
+
+### Arquivo
+
+1 - Com os verbetes a que se refere o artigo anterior, organizar-se-á um índice geral alfabético informatizado dos processos administrativos e judiciais.
+
+2 - À medida que os processos administrativos ou judiciais findarem, serão os verbetes retirados do índice geral vivo e com eles organizar-se-ão, de acordo com as características do serviço e a natureza de cada um dele, os seguintes índices históricos:
+
+a) Processos administrativos de reclamação graciosa;
+
+b) Processos administrativos de cobrança a posteriori dos tributos;
+
+c) Processos administrativos de reembolso ou dispensa de pagamento dos tributos;
+
+d) Processos de impugnação judicial;
+
+e) Execuções extintas por cobrança;
+
+f) Execuções extintas por dação;
+
+g) Execuções extintas por confusão;
+
+h) Execuções extintas por conversão de créditos em capital;
+
+i) Execuções extintas por transferência de titularidade dos créditos;
+
+j) Execuções extintas por perdão ou amnistia;
+
+k) Execuções extintas por prescrição;
+
+l) Execuções extintas por anulação das dívidas;
+
+m) Execuções extintas por declaração em falhas;
+
+n) Cartas precatórias cumpridas;
+
+o) Outros processos administrativos;
+
+p) Outros processos judiciais.
+
+3 - Apenas em caso de impossibilidade de processamento dos índices por meios informáticos, poderão estes ser processados manualmente.
+
+4 - Os documentos integrando os processos administrativos ou judiciais correspondentes aos verbetes referidos no n.º 2 manter-se-ão arquivados por 8 anos, salvo aqueles em que tenha havido venda de bens, sub-rogação, oposição, embargos de terceiros e reclamação de créditos quando os pagamentos tenham sido efectuados de acordo com a graduação de créditos, que permanecerão arquivados por tempo indeterminado.
