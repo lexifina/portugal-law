@@ -1,0 +1,47 @@
+Decreto-Lei n.º 98/89
+de 29 de Março
+O presente diploma actualiza, para 1989, as remunerações base, pensões e ajudas de custo dos trabalhadores da Administração Pública.
+No que se reporta às remunerações base, no conceito introduzido pelo Decreto-Lei n.º 415/87, de 31 de Dezembro, a actualização consubstancia um aumento de 8%.
+Assim, as remunerações base previstas no presente diploma resultam de um aumento de 8% sobre os valores das remunerações definidas nas tabelas anexas ao Decreto-Lei n.º 487/88, de 30 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 90/89, de 27 de Março, o qual procedeu ao reajustamento das remunerações dos funcionários públicos, com vista à salvaguarda dos seus rendimentos, líquidos de impostos, relativos a 1988, tendo em conta a respectiva tributação em IRS a partir de 1 de Janeiro de 1989.
+Acresce aditar que as tabelas integradas no Decreto-Lei n.º 487/88, de 30 de Dezembro, foram estruturadas ponderando a remuneração extraordinária e eventual definida pelo Decreto-Lei n.º 450-A/88, de 12 de Dezembro.
+No que respeita às pensões, para as quais o Decreto-Lei n.º 487/88, de 30 de Dezembro, adoptou filosofia de compensação idêntica à observada para as remunerações base, são também aumentadas em 8%, mantendo-se, tal como nos anos anteriores, o princípio segundo o qual da sua actualização não devem resultar valores superiores aos correspondentes vencimentos líquidos dos funcionários no activo.
+Refira-se, finalmente, que a presente actualização das remunerações base e outras prestações pecuniárias foi objecto de processo negocial e precedida de um protocolo de acordo e de uma acta subscritos pelo Governo e, respectivamente, pelo Sindicato dos Quadros Técnicos do Estado e pela Frente Sindical da Administração Pública.
+Acresce que, para além da actualização ora estabelecida para 1989, ainda no corrente ano entrará em vigor o novo sistema retributivo da função pública, para cuja aplicação serão disponibilizados significativos reforços orçamentais, o que se traduzirá num aumento real da massa salarial global da função pública.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º - 1 - A tabela de remunerações base dos funcionários e agentes da Administração Pública e dos organismos de coordenação económica e demais institutos públicos que revistam a natureza de serviços personalizados ou fundos públicos passa a ser, a partir de 1 de Janeiro de 1989, a constante do anexo ao presente diploma, que dele faz parte integrante.
+2 - A tabela de remunerações base a que se refere o número anterior inclui o vencimento base do cargo ou funções desempenhadas, bem como as respectivas diuturnidades, cujos valores resultaram de um acréscimo de 8% sobre o ajustamento das remunerações base de 1988, operado pelo Decreto-Lei n.º 487/88, de 30 de Dezembro.
+3 - O disposto nos números anteriores é aplicável ao pessoal cujas remunerações sejam asseguradas pelos cofres gerais dos tribunais e dos conservadores, notários e funcionários de justiça, mediante despacho do Ministro da Justiça.
+Art. 2.º - 1 - As remunerações base que não coincidam com qualquer das letras da tabela a que se refere o n.º 1 do artigo 1.º são aumentadas, a partir de 1 de Janeiro de 1989, na percentagem de 8%, com arredondamento para a centena de escudos imediatamente superior, sobre as tabelas corrigidas constantes do Decreto-Lei n.º 487/88, de 30 de Dezembro, com as alterações decorrentes do Decreto-Lei n.º 90/89 de 27 de Março.
+2 - A actualização das gratificações previstas nas alíneas b) e c) do n.º 1 do artigo 6.º do Decreto-Lei n.º 110-A/81, de 14 de Maio, é feita de acordo com a percentagem fixada no número anterior, tendo em conta o ajustamento operado pelo Decreto-Lei n.º 487/88, de 30 de Dezembro.
+Art. 3.º - 1 - As remunerações dos aprendizes e praticantes são aumentadas, com efeitos a partir de 1 de Janeiro de 1989, em 8%, com arredondamento para a centena de escudos imediatamente superior.
+2 - A remuneração mensal dos trabalhadores rurais ao serviço das entidades referidas no artigo 1.º será a correspondente à letra U, sem diuturnidades, sem prejuízo dos salários correntes na região, quando superiores.
+Art. 4.º - 1 - As remunerações base do pessoal dirigente abrangido pela coluna das designações do mapa anexo ao Decreto-Lei n.º 191-F/79, de 26 de Junho, bem como dos dirigentes expressamente equiparados ao abrigo do Decreto-Lei n.º 116/84, de 6 de Abril, e da Resolução n.º 354-B/79, de 14 de Dezembro, são determinadas nos termos do Decreto-Lei n.º 383-A/87, de 23 de Dezembro, com efeitos desde 1 de Janeiro de 1989.
+2 - As remunerações base dos titulares de cargos equiparados a funções dirigentes mas que não detenham o efectivo exercício de competências de chefia, bem como as do pessoal dirigente constante do anexo II ao Decreto-Lei n.º 406/82, de 27 de Setembro, são actualizadas a partir de 1 de Janeiro de 1989 em 8%, com arredondamento para a centena de escudos imediatamente superior, sobre as correspondentes tabelas anexas ao Decreto-Lei n.º 487/88, de 30 de Dezembro.
+Art. 5.º - 1 - São aumentadas em 8%, com arredondamento para a centena de escudos imediatamente superior, com efeitos a partir de 1 de Janeiro de 1989 e com base nos valores determinados nos termos dos artigos 3.º e 5.º do Decreto-Lei n.º 487/88, de 30 de Dezembro:
+a) As pensões de aposentação, reforma e invalidez;
+b) As pensões de sobrevivência pagas através do Montepio dos Servidores do Estado;
+c) As pensões de preço de sangue e outras a cargo do Montepio dos Servidores do Estado, com excepção das resultantes de condecorações e das Leis n.os 1942, de 27 de Julho de 1936, e 1127, de 3 de Agosto de 1935.
+2 - O aumento das pensões mencionadas nas alíneas a) e b) do n.º 1 incide sobre a pensão global, com a inclusão da componente da diuturnidade.
+3 - São aumentadas na mesma percentagem referida no n.º 1 as pensões fixadas nos termos do n.º 4 do artigo 5.º do Decreto-Lei n.º 20-A/86, de 13 de Fevereiro.
+Art. 6.º - 1 - As ajudas de custo previstas no Decreto-Lei n.º 519-M/79, de 28 de Dezembro, têm, a partir de 1 de Janeiro de 1989, os seguintes valores:
+Membros do Governo - 6200$00;
+Categorias com vencimentos fixados no presente decreto-lei:
+Superiores à letra D - 5500$00;
+Da letra D à letra H - 4500$00;
+Outras - 4100$00.
+2 - No caso das deslocações em que um funcionário ou agente acompanhe outro de escalão superior terá direito ao pagamento pelo escalão imediatamente superior ao seu.
+Art. 7.º As remunerações base dos membros das Casas Civil e Militar do Presidente da República, do seu Gabinete e do Gabinete do Primeiro-Ministro, dos Gabinetes do Ministro da República para as Regiões Autónomas da Madeira e dos Açores e dos gabinetes dos membros do Governo são determinadas nos termos do Decreto-Lei n.º 25/88, de 30 de Janeiro.
+Art. 8.º Quando a execução de um diploma legal esteja dependente, em matéria pecuniária, da aprovação de outras medidas legais, o pagamento das remunerações por elas abrangido reporta-se à data da entrada em vigor destas últimas.
+Art. 9.º - 1 - É revogado o Decreto-Lei n.º 26/88, de 30 de Janeiro.
+2 - Mantêm-se em vigor os n.os 3 e 4 do artigo 5.º e o n.º 1 do artigo 12.º do Decreto-Lei n.º 20-A/86, de 13 de Fevereiro.
+Visto e aprovado em Conselho de Ministros de 9 de Março de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+Promulgado em 11 de Março de 1989.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 11 de Março de 1989.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+Anexo a que se refere o n.º 1 do artigo 1.º do Decreto-Lei n.º 98/89, de 27 de Março
+Letras de vencimento
+(ver documento original)
