@@ -1,0 +1,16 @@
+Decreto-Lei n.º 126/84
+de 26 de Abril
+Considerando haverem cessado as circunstâncias que, tendo tido razão de ser e a sua época, justificaram a criação das comissões a que se refere o n.º 1 do artigo 3.º do Decreto-Lei n.º 48368, de 4 de Maio de 1968;
+Convindo por esse facto proceder, no mais curto intervalo de tempo, à conclusão das operações ainda em curso no âmbito de tais comissões:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º São extintas as comissões criadas pelo n.º 1 do artigo 3.º do Decreto-Lei n.º 48368, de 4 de Maio de 1968.
+Art. 2.º - 1 - É criada, nas mesmas condições de dependência, no Estado-Maior-General das Forças Armadas, onde funcionava a Comissão de Reequipamento Extraordinário do Exército e Força Aérea (CREEFA), a comissão liquidatária das comissões a que se refere o artigo anterior.
+2 - Competirá à referida comissão o encerramento dos processos ainda existentes no âmbito daquelas, de acordo com as atribuições que às mesmas estavam consignadas.
+3 - A comissão ora criada será constituída por 1 presidente e 2 vogais, a nomear por despacho do Chefe do Estado-Maior-General das Forças Armadas, e cessa a sua actividade em 30 de Junho de 1984.
+Art. 3.º O presente diploma produz efeitos desde 20 de Julho de 1983.
+Visto e aprovado em Conselho de Ministros de 12 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto.
+Promulgado em 13 de Abril de 1984.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 16 de Abril de 1984.
+O Primeiro-Ministro, Mário Soares.
