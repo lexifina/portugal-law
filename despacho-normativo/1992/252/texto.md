@@ -1,0 +1,6 @@
+Despacho Normativo n.º 252/92
+Considerando que o assessor do quadro da Direcção-Geral da Indústria Pedro José Pinto Homem e Sousa cessou, em 24 de Julho de 1992, a comissão de serviço em que se encontrava investido como vice-presidente do Laboratório Nacional de Engenharia e Tecnologia Industrial;
+Considerando que o funcionário preenche os requisitos da alínea a) do n.º 2 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, que lhe confere o direito ao provimento em categoria superior àquela que possuía no quadro do organismo de origem à data da nomeação para cargo dirigente:
+1 - É criado, ao abrigo da alínea a) do n.º 2 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, um lugar de assessor principal no quadro de pessoal da Direcção-Geral da Indústria, do Ministério da Indústria e Energia, constante do mapa VII anexo à Portaria n.º 704/87, de 18 de Agosto, lugar a extinguir quando vagar, nos termos dos n.os 4 e 5 do artigo 18.º do mesmo diploma.
+2 - Este despacho produz efeitos a partir de 24 de Julho de 1992.
+Ministérios das Finanças e da Indústria e Energia, 24 de Novembro de 1992. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
