@@ -1,0 +1,3 @@
+Declaração
+Segundo comunicação do Gabinete do Ministro da Defesa Nacional, o despacho ministerial, publicado pela Presidência do Conselho no Diário do Governo n.º 261, 1.ª série, de 13 do mês em curso, que fixa os salários a abonar ao pessoal assalariado nomeado a título eventual para prestar serviços de manutenção e pequena reparação nos imóveis afectos ao Departamento da Defesa Nacional obteve a concordância do Subsecretário de Estado do Orçamento, nos termos do artigo único do Decreto-Lei n.º 44491, de 6 de Agosto do corrente ano.
+Secretaria-Geral da Presidência do Conselho, 21 de Novembro de 1962. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
