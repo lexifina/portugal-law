@@ -1,0 +1,6 @@
+Aviso n.º 63/2002
+Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 30 de Maio de 2002, junto do Secretário-Geral do Conselho da Europa, o instrumento de ratificação da Carta Social Europeia Revista, aberta à assinatura em Estrasburgo em 3 de Maio de 1996 e assinada por Portugal na mesma data.
+A referida Carta foi aprovada para ratificação, em 21 de Setembro de 2001, pela Resolução da Assembleia da República n.º 64-A/2001 e ratificada pelo Decreto do Presidente da República n.º 54-A/2001, ambos publicados no Diário da República, 1.ª série-A, n.º 241, de 17 de Outubro de 2001.
+O instrumento de ratificação contém reservas relativas aos artigos 2.º e 6.º da presente Carta.
+Nos termos do n.º 2 do seu artigo K, da parte VI, a presente Carta entrará em vigor no 1.º dia do mês seguinte ao decurso de um período de um mês após a data em que três Estados-Membros do Conselho da Europa tiverem manifestado o seu consentimento em estarem abrangidos pela presente Carta, de acordo com o disposto no n.º 1 do mesmo artigo.
+Direcção de Serviços das Organizações Políticas Internacionais, 17 de Junho de 2002. - O Director de Serviços, Rui Filipe Monteiro Belo Macieira.
