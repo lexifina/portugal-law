@@ -1,0 +1,63 @@
+# Acórdão do Supremo Tribunal Administrativo de 1975-04-18, processo 009101
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 009101
+
+**Data do Acordão:** 04/18/1975
+
+**Tribunal:** PLENO
+
+**Relator:** GONÇALVES PEREIRA
+
+**Descritores:** OLEOS COMESTIVEIS; CUF; JUNTA NACIONAL DO AZEITE; ORGANISMO DE COORDENAÇÃO ECONOMICA; TAXA; IMPOSTO; RECEITA PARAFISCAL; RESERVA DE LEI; PRINCIPIO DA LEGALIDADE; ESTADO; INCONSTITUCIONALIDADE MATERIAL; INSTITUTO DO AZEITE E PRODUTOS OLEAGINOSOS
+
+**Nº Convencional:** JSTA00001415
+
+**Nº do Documento:** SAP19750418009101
+
+**Data de Entrada:** 04/26/1974
+
+**Recorrente:** IAPO
+
+**Recorrido 1:** COMP UNIÃO FABRIL SARL
+
+**Votação:** MAIORIA COM 1 DEC VOT E 1 VOT VENC
+
+**Ano da Publicação:** 0
+
+**Página:** 0
+
+**Apêndice:** DG
+
+**Data do Apêndice:** 12/16/1976
+
+**1ª Pág. de Publicação do Acordão:** 138
+
+**Referência Publicação 1:** AD N163 ANOXIV PAG1045
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC 1 SECÇÃO.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR FISC - IMPOSTOS / RECEITA PARAFISCAL / TAXA.
+
+**Área Temática 2:** DIR CONST - DIR FUND / SISTEM FINANC FISC.
+
+**Recusa Aplicação:** PORT 21883 DE 1966/02/21.
+
+**Legislação Nacional:** CONST33 ART8 N16 ART63 ART69 ART70 N1 N2 N3 PAR1 ART91 N13 ART93 H ART131.; EJ62 ART110.; DL 45835 DE 1964/07/27 ART2 N2.; CCIV66 ART9.; DL 426/72 DE 1972/10/31 ART29 N1 A C ART40.; DL 427/72 DE 1972/10/31 ART28 N1 A C.; DL 428/72 DE 1972/10/31 ART29 N1 A C.; D 30021 DE 1939/11/03 ART15 N1 N2.; D 709/73 DE 1973/12/19 ART1.
+
+**Jurisprudência Nacional:** AC STA DE 1972/06/13 IN AD N133 PAG13.; AC STA IN AD N87 PAG339.
+
+**Referência a Doutrina:** AFONSO QUEIRO LIÇÕES DE DIREITO ADMINISTRATIVO 1956 VI PAG260.; CARDOSO DA COSTA CURSO DE DIREITO FISCAL 2ED PAG12 PAG47 PAG171 PAG178 PAG180 PAG187.; TEIXEIRA RIBEIRO PRINCIPIOS CONSTITUCIONAIS DA FISCALIDADE PORTUGUESA IN BOLETIM DA FACULDADE DE DIREITO DE COIMBRA VXLII PAG228.; ALBERTO XAVIER CONCEITO E NATUREZA DO ACTO TRIBUTARIO PAG281-307.; ALBERTO XAVIER DIREITO FISCAL PAG71-72 PAG135.; MARCELLO CAETANO MANUAL DE CIENCIA POLITICA E DIREITO CONSTITUCIONAL 5ED PAG553.; PESSOA JORGE CURSO DE DIREITO FISCAL PAG109.; Texto Integral
+
+## Sumário
+
+I - As receitas cobradas ao abrigo da Portaria n. 21883 constituem impostos e não taxas, estando, consequentemente, sujeitas ao regime do paragrafo 1 do artigo 70 da Constituição de 1933.
+
+II - A mencionada portaria enferma de inconstitucionalidade material.
