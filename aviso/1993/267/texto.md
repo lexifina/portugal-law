@@ -1,0 +1,3 @@
+Aviso n.º 267/93
+Por ordem superior se torna público que a República Checa depositou junto do Secretário-Geral das Nações Unidas, a 22 de Fevereiro de 1993, notificação de sucessão relativamente ao Pacto Internacional Relativo aos Direitos Económicos, Sociais e Culturais, ao Pacto Internacional Relativo aos Direitos Civis e Políticos e ao Protocolo Facultativo ao Pacto Internacional Relativo aos Direitos Civis e Políticos, adoptados pela Assembleia Geral das Nações Unidas, a 16 de Dezembro de 1966.
+Direcção-Geral dos Negócios Político-Económicos, 23 de Novembro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
