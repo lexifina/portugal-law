@@ -1,0 +1,13 @@
+Portaria n.º 180/90
+de 12 de Março
+Pelo Decreto-Lei n.º 450-A/88, de 12 de Dezembro, foi atribuída aos funcionários e agentes da administração pública central e local, dos organismos de coordenação económica e demais institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos, uma remuneração extraordinária e eventual, correspondente a 1,5% das remunerações base, sem diuturnidades e reportada, para todos os efeitos legais, ao mês de Dezembro de 1988.
+Atentos os fins públicos prosseguidos pelas instituições de previdência social, aos trabalhadores ao seu serviço, abrangidos por um regime jurídico-laboral específico, constante da Portaria n.º 193/79, de 21 de Abril, têm vindo a ser aplicados os diplomas entretanto publicados para a função pública, designadamente no respeitante a carreiras, e por efeitos da aplicação do disposto no artigo 174.º da referida portaria, as retribuições daquele pessoal são revistas sempre que se verifica alteração dos vencimentos dos funcionários públicos em idêntica percentagem de aumento.
+Urge, pois, aplicar ao pessoal abrangido pela Portaria n.º 193/79 o normativo constante do Decreto-Lei n.º 450-A/88, de 12 de Dezembro, atribuindo-lhe uma retribuição extraordinária e eventual reportada ao mês de Dezembro transacto, de montante líquido idêntico à remuneração por aquele diploma criada para a função pública, líquida de encargos.
+Assim, em execução do disposto no artigo 174.º da Portaria n.º 193/79, de 21 de Abril:
+Manda o Governo, pelos Secretários de Estado do Orçamento e da Segurança Social, o seguinte:
+1.º Ao pessoal abrangido pela Portaria n.º 193/79, de 21 de Abril, é reconhecido o direito ao pagamento de uma retribuição extraordinária e eventual de montante líquido idêntico à remuneração que, deduzida dos respectivos encargos sociais e fiscais, o Decreto-Lei n.º 450-A/88, de 12 de Dezembro, atribuiu aos funcionários e agentes da Administração Pública.
+2.º A retribuição a que se refere o número anterior reporta-se, para todos os efeitos legais, ao mês de Dezembro de 1988, e sobre o respectivo montante ilíquido incidem os correspondentes encargos fiscais e sociais.
+3.º A presente portaria não se aplica aos cargos de pessoal dirigente a que se refere o n.º 2 do artigo 16.º da Portaria n.º 193/79, de 21 de Abril, na redacção que lhe foi conferida pela Portaria n.º 38-A/80, de 12 de Fevereiro.
+Ministérios das Finanças e do Emprego e da Segurança Social.
+Assinada em 16 de Fevereiro de 1990.
+A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.
