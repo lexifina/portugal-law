@@ -1,0 +1,2237 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "1",
+    "id": "32896",
+    "titulo": "Sobre a aplicação das verbas do Fundo Social Europeu."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1988-02-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5250",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1988-02-11",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-02-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1703-1704",
+                  "1705-1705",
+                  "1706-1706"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1703?pgs=1703-1704,1705,1706&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1704-1704"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1704?pgs=1704&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210763",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1705-1706"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1705?pgs=1705-1706&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EMPREGO E DA SEGURANÇA SOCIAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Silva Peneda"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210765",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1706-1708",
+                  "1710-1712"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1706?pgs=1706-1708,1710-1712&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210766",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1708-1708"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1708?pgs=1708&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210767",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1708-1708"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1708?pgs=1708&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1708-1709"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1708?pgs=1708-1709&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210771",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1709-1709"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1709?pgs=1709&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1709-1710"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1709?pgs=1709-1710&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1710-1710"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1710?pgs=1710&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210774",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1712-1712"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1712?pgs=1712&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  EMPREGO E FORMAÇÃO PROFISSIONAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Bagao Felix"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1712-1713",
+                  "1713-1714"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1712?pgs=1712-1713,1713-1714&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210778",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1713-1713"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1713?pgs=1713&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1714-1714"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1714?pgs=1714&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  EMPREGO E FORMAÇÃO PROFISSIONAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Bagao Felix"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210789",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1714-1714"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1714?pgs=1714&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210790",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1714-1714"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1714?pgs=1714&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  EMPREGO E FORMAÇÃO PROFISSIONAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Bagao Felix"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210792",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1714-1714"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1714?pgs=1714&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210794",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1714-1715",
+                  "1715-1716",
+                  "1716-1716"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1714?pgs=1714-1715,1715-1716,1716&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210795",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1716-1716"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1716?pgs=1716&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210797",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1716-1716",
+                  "1717-1717"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1716?pgs=1716,1717&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210805",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1717-1717",
+                  "1717-1717"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1717?pgs=1717,1717&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210806",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1717-1718"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1717?pgs=1717-1718&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210807",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1718-1718"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1718?pgs=1718&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210809",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1718-1718",
+                  "1718-1718",
+                  "1718-1718"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1718?pgs=1718,1718,1718&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210810",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1718-1718",
+                  "1718-1718"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1718?pgs=1718,1718&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210811",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1718-1718",
+                  "1718-1718"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1718?pgs=1718,1718&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210868",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1734-1734",
+                  "1734-1734"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1734?pgs=1734,1734&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210869",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1734-1734"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1734?pgs=1734&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210870",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1739-1739"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1739?pgs=1739&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210871",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1736-1737"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1736?pgs=1736-1737&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210872",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1737",
+                  "1737-1737"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1737?pgs=1737,1737&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210873",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1738-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1738?pgs=1738&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210874",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1738-1739"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1738?pgs=1738-1739&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210875",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1739-1739"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1739?pgs=1739&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210876",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1739-1739"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1739?pgs=1739&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210877",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1739-1739"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1739?pgs=1739&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210878",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1739-1739"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1739?pgs=1739&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210879",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1739-1740"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1739?pgs=1739-1740&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210880",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1740-1741",
+                  "1742-1742",
+                  "1743-1743"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1740?pgs=1740-1741,1742,1743&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210881",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1741-1741"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1741?pgs=1741&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210882",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1741-1742",
+                  "1742-1742"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1741?pgs=1741-1742,1742&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210883",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1743-1743",
+                  "1744-1744",
+                  "1745-1745"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1743?pgs=1743,1744,1745&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210884",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1743-1744"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1743?pgs=1743-1744&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210885",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1744-1744",
+                  "1744-1744"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1744?pgs=1744,1744&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210886",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1745-1745",
+                  "1745-1746",
+                  "1746-1746"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1745?pgs=1745,1745-1746,1746&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210887",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1745-1745"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1745?pgs=1745&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210888",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1746-1746"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1746?pgs=1746&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210889",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1746-1746",
+                  "1746-1746"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1746?pgs=1746,1746&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210890",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1746-1746"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1746?pgs=1746&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "00:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210891",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1746-1746"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-12",
+                "pubLeg": "V",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12/1746?pgs=1746&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a aplicação das verbas do Fundo Social Europeu.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "242196",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5250",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-02-12",
+        "pubLeg": "V",
+        "pubNr": "51",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
