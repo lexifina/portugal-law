@@ -1,0 +1,5 @@
+Portaria n.º 18817
+No decorrer dos trabalhos a que vem procedendo a comissão reorganizadora da indústria das tintas preparadas, nomeada pelas Portarias n.os 18005 e 18305, respectivamente de 17 de Outubro de 1960 e 6 de Março do corrente ano, verificou-se a necessidade de dar uma mais ampla representação à respectiva modalidade, por forma a poderem ser convenientemente apreciados os problemas dos industriais com produção efectiva compreendida entre 100 t e 500 t anuais.
+Nestas condições:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, que à comissão reorganizadora da indústria das tintas preparadas, presentemente em funcionamento, sejam agregados, com direito a voto, dois representantes, respectivamente, da Inspecção-Geral dos Produtos Agrícolas e Industriais e dos industriais com uma produção anual efectiva compreendida entre 100 t e 500 t.
+Secretaria de Estado da Indústria, 18 de Novembro de 1961. - O Secretário de Estado da Indústria, António Alves de Carvalho Fernandes.
