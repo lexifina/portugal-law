@@ -1,0 +1,26 @@
+Resolução n.º 212/77
+Considerando que por resolução do Conselho de Ministros de 20 de Maio de 1975, publicada no Diário do Governo, 1.ª série, n.º 126, de 2 de Junho de 1975, foi determinada a intervenção do Estado na Fundição e Construção Mecânicas, S. A. R. L. (Fundição de Oeiras), ao abrigo do Decreto-Lei n.º 660/74, de 25 de Novembro;
+Considerando que, para os efeitos do Decreto-Lei n.º 907/76, de 31 de Dezembro, por despacho conjunto dos Ministros do Plano e Coordenação Económica, das Finanças e da Indústria e Tecnologia, publicado no Diário da República, 2.ª série, n.º 73, de 28 de Março de 1977, foi nomeada uma comissão interministerial que apresentou um relatório sobre a empresa, nos termos previstos no diploma citado e para elaboração do qual procedeu à audição das partes interessadas, nomeadamente dos trabalhadores, através da respectiva comissão;
+Considerando que o relatório atrás referido destaca os seguintes pontos:
+Se trata de uma empresa de relevante importância para a economia nacional;
+Uma das suas principais actividades actuais se enquadra na indústria do armamento;
+Durante o período de intervenção do Estado a empresa registou notável desenvolvimento, tendo realizado investimentos superiores a 100000 contos, com o que mais que duplicou o volume das suas vendas e aumentou em cerca de 60% o número de postos de trabalho que assegura;
+Ainda durante o período de intervenção do Estado se verificou uma reabertura à exportação, o que se traduz numa significativa entrada de divisas no País;
+A Inspecção-Geral de Finanças, no exame que realizou à escrita da empresa, se referiu à inoperância da administração presentemente suspensa e detectou indícios da prática de irregularidades, cujo apuramento e definição das responsabilidades implicadas se encontra, porém, cometida às instâncias competentes;
+O capital social actual é de 6345 contos, encontrando-se manifestamente desajustado para uma empresa desta dimensão e características;
+Através da Caixa Geral de Depósitos e da banca comercial o Estado é credor da empresa pelo montante de 460000 contos;
+É possível viabilizar económica e financeiramente a empresa;
+Considerando ainda que, do conjunto dos aspectos focados, resulta manifesto interesse e conveniência de o Estado continuar a participar na gestão da empresa;
+Considerando que a comissão de trabalhadores, apontando para a transformação da Fundição de Oeiras em empresa pública, aceitaria, porém, embora com reservas, a sua transformação em empresa de economia mista;
+Considerando, por último, que, não obstante o disposto na parte final do artigo 8.º da Lei n.º 46/77, de 8 de Julho, se justifica que o Estado assuma posição maioritária na empresa;
+O Conselho de Ministros, reunido em 10 de Agosto de 1977, resolveu:
+a) Nos termos dos artigos 20.º e 21.º do Decreto-Lei n.º 422/76, de 29 de Maio, na redacção que lhes foi dada pelo Decreto-Lei n.º 543/76, de 10 de Julho, fazer preceder a cessação da intervenção do Estado, instituída na empresa Fundição e Construção Mecânicas, S. A. R. L., em 20 de Maio de 1975, por resolução do Conselho de Ministros tomada ao abrigo do Decreto-Lei n.º 660/74, de 25 de Novembro, da sua transformação em empresa de economia mista, com o simultâneo aumento do seu capital social para 150000 contos, sendo esse aumento reservado ao Estado, cabendo ao Instituto das Participações do Estado o desenvolvimento das acções necessárias para assegurar a participação maioritária dos capitais públicos na empresa.
+b) Fixar o prazo de noventa dias para a comissão administrativa proceder, com a assistência de um representante dos actuais sócios, às operações seguintes:
+Reavaliação do activo da empresa, nos termos do Decreto-Lei n.º 126/77, de 2 de Abril;
+Proposta concreta da repartição dos capitais próprios da empresa, na sequência do aumento referido na alínea a) da presente resolução, que deverá ser aprovada pelo Conselho de Ministros;
+Apresentação do projecto dos futuros estatutos da Fundição e Construção Mecânicas, S. A. R. L., como empresa de economia mista, conforme estabelecido na presente resolução, para devida aprovação do Conselho de Ministros, nos termos legais;
+c) Convocação de uma assembleia geral para eleição, nos termos dos novos estatutos entretanto aprovados, dos órgãos sociais que deverão assumir funções na data da cessação da intervenção do Estado;
+d) No caso de, para realização das operações descritas na alínea b), se vir a considerar necessário o reforço da actual comissão administrativa, poderá o Ministro da Indústria e Tecnologia, por despacho, nomear um terceiro elemento;
+e) Fixar o prazo de cento e vinte dias para, realizadas as medidas atrás discriminadas na alínea b), a cessação da intervenção do Estado na empresa Fundição e Construção Mecânicas, S. A. R. L., instituída ao abrigo do Decreto-Lei n.º 660/74, de 25 de Novembro, e sua entrega aos respectivos titulares à data, conforme previsto na alínea d) do n.º 1 do artigo 24.º do Decreto-Lei n.º 422/76, de 29 de Maio;
+f) Exonerar a comissão administrativa em funções, com efeitos a partir da cessação da intervenção, data em que deverão ser empossados os novos órgãos sociais entretanto eleitos nos termos da alínea c).
+Presidência do Conselho de Ministros, 10 de Agosto de 1977. - O Primeiro-Ministro, Mário Soares.
