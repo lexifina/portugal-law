@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 1/2003
+Para os devidos efeitos se declara que o Decreto-Lei n.º 10/2003, publicado no Diário da República, 1.ª série, n.º 15, de 18 de Janeiro de 2003, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Nas assinaturas, onde se lê «José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.» deve ler-se «José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 22 de Janeiro de 2003. - O Secretário-Geral, José M. Sousa Rego.
