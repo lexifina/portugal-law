@@ -1,0 +1,264 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "171",
+    "id": "29111",
+    "titulo": "Aprova a Lei-quadro das regiões administrativas"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "1991-06-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4873",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "1991-06-06",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29030",
+        "leg": "V",
+        "nr": "45",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei de bases da regionalização"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29003",
+        "leg": "V",
+        "nr": "60",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei quadro das regiões administrativas"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29044",
+        "leg": "V",
+        "nr": "69",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei de Bases da Regionalização"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28969",
+        "leg": "V",
+        "nr": "129",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei quadro das regiões administrativas"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28961",
+        "leg": "V",
+        "nr": "134",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei quadro das regiões administrativas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-06-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160549",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2964-2964"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-07",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07/2964?pgs=2964&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160550",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2965-2965"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-07",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07/2965?pgs=2965&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160551",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2965-2966"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-07",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07/2965?pgs=2965-2966&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro das regiões administrativas",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "224338",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "330618",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-06-07",
+        "pubLeg": "V",
+        "pubNr": "89",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Marques Júnior (PRD)",
+          "José Magalhães (Indep)",
+          "Manuel Valente Fernandes (Indep)"
+        ],
+        "data": "1991-04-11",
+        "descricao": "Votado o texto elaborado pela Comissão",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> PEV</I><BR>Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Marques Júnior (PRD)</I>, <I> José Magalhães (Indep)</I>, <I> Manuel Valente Fernandes (Indep)</I>",
+        "id": "45693",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "62",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
