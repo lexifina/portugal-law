@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/05/12500/06270628.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-05-29",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "44e7d3a04608d0932515b67d3fe92c4f7f3a7b5f85db3baa86265b87df717f7b",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.7,
+    "pages": 2,
+    "columns": [
+      3,
+      8
+    ],
+    "pdf_sha256": "b9d76f7aa21b979fc476f745def8a5f7ed4289bb83952beed781e77e936b5048",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 653
 }
