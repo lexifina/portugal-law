@@ -1,0 +1,8 @@
+Decreto-Lei n.º 44602
+Tendo-se reconhecido a impossibilidade de instalar a Academia Militar junto das instalações da Escola Naval, no Alfeite;
+Convindo, nestas condições, reduzir a área sujeita a servidão militar confinante com a das instalações da Marinha no Alfeite, demarcada pelo Decreto-Lei n.º 42427, de 3 de Agosto de 1959, de maneira a satisfazer exclusivamente as necessidades previstas do Ministério da Marinha;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Fica revogado o Decreto-Lei n.º 42427 de 3 Agosto de 1959, e, bem assim, os Decretos-Leis n.os 33742, de 28 de Junho de 1944, 37527, de 17 de Agosto de 1949, e 41124, de 22 de Maio de 1957.
+Art. 2.º A área confinante com a das instalações da Marinha no Alfeite sujeita a servidão militar será definida por decreto do Ministério da Marinha, nas condições fixadas na Lei n.º 2078, de 11 de Julho de 1955.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 27 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
