@@ -1,0 +1,6 @@
+Resolução n.º 231/80
+A Resolução do Conselho de Ministros n.º 67/79, publicada no Diário da República, 1.ª série, n.º 57, de 9 de Março de 1979, determinou a cessação da intervenção do Estado nas empresas do grupo Prainha.
+Os prazos previstos nos n.os 8 e 12 da referida resolução foram prorrogados por noventa dias, contados a partir de 31 de Março de 1980, pela Resolução n.º 167/80, publicada no Diário da República, 1.ª série, n.º 111, de 14 de Maio de 1980.
+Por estarem ainda em curso as negociações com vista à celebração do contrato de viabilização das empresas, considera-se imprescindível manter as condições necessárias à sua sobrevivência.
+Assim, o Conselho de Ministros, reunido em 25 de Junho de 1980, resolveu prorrogar por mais cento e oitenta dias ou até à data da celebração do contrato de viabilização das empresas do grupo Prainha, se entretanto esta ocorrer, os prazos previstos nos n.os 8 e 12 da citada Resolução n.º 67/79, os quais já foram objecto de prorrogação pelas Resoluções n.º 276/79, publicada no Diário da República, n.º 213, de 14 de Setembro de 1979, e n.º 167/80, publicada no Diário da República, n.º 111, de 14 de Maio de 1980.
+Presidência do Conselho de Ministros, 25 de Junho de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
