@@ -1,0 +1,6 @@
+Despacho Normativo n.º 219/82
+1 - O quadro de pessoal da Secretaria-Geral da Presidência do Conselho de Ministros, aprovado pela Portaria n.º 547/80, de 28 de Agosto, que adequou o seu anterior quadro de pessoal às disposições constantes do Decreto-Lei n.º 191-C/79, de 25 de Junho, dispõe de lugares vagos e nunca providos. No entanto, torna-se necessário proceder ao preenchimento de alguns deles ou dispor atempadamente de autorização legal para poder preencher outros.
+2 - Nestes termos, tendo presente o disposto no artigo 7.º do Decreto-Lei n.º 165/82, de 10 de Maio, é aprovada a programação para preenchimento de lugares vagos e nunca providos do quadro de pessoal da Secretaria-Geral da Presidência do Conselho de Ministros, constante do mapa anexo ao presente despacho.
+MAPA ANEXO
+(ver documento original)
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Reforma Administrativa, 22 de Setembro de 1982. - Pelo Primeiro-Ministro, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares, Secretária de Estado da Presidência do Conselho de Ministros. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Reforma Administrativa, José Manuel Meneres Sampaio Pimentel.
