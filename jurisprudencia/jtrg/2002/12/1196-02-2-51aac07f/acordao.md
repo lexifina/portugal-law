@@ -1,0 +1,35 @@
+# Acórdão do Tribunal da Relação de Guimarães de 2002-12-11, processo 1196/02-2
+
+**Acórdãos TRG:** Acórdão do Tribunal da Relação de Guimarães
+
+**Processo:** 1196/02-2
+
+**Relator:** TERESA PAIS
+
+**Descritores:** EXPROPRIAÇÃO; APLICAÇÃO DA LEI NO TEMPO
+
+**Nº do Documento:** RG
+
+**Data do Acordão:** 12/11/2002
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+## Sumário
+
+I-- É entendimento doutrinal e jurisprudencial dominante que a lei aplicável aos processos de expropriação é a lei em vigor à data da declaração de utilidade pública.
+
+II-- Na verdade, considerando que a declaração de utilidade pública é o facto constitutivo da relação expropriativa, no que concerne à lei substantiva, designadamente no que diz respeito aos critérios de fixação de indemnização, a expropriação é regulada pela lei vigente à data da publicação da declaração da utilidade pública no Diário da República, ainda que a lei adjectiva seja imediatamente aplicável.
+
+III-- Ora, no caso em apreço, constata-se e que a aprovação administrativa do traçado e o projecto de infra-estruturas, que tem efeitos equivalentes à declaração de utilidade pública, conforme dispõe o n.º 4 do artigo 2.º do Decreto-Lei n.º 232/90, de 16 de Julho, foi publicada pelo Aviso constante do Diário da República, 2.ª Série, n.º 91, de 18.04.97 e que o recurso da decisão arbitral deu entrada em juízo no ano de 2000 (Processo n.º 73/2000, do Tribunal Judicial da Comarca de Ponte de Lima).
+
+IV-- Por isso, a lei adjectiva aplicável é a do Código das Expropriações de 1999, em face da sucessão das leis no tempo verificada entre a publicação da declaração de utilidade pública da parcela expropriativa e a presente data (cfr. Decreto-Lei n.º 438/91, de 9 de Novembro e Lei n.º 168/99, de 18 de Setembro), muito embora os critérios substantivos de cálculo da indemnização a aplicar sejam os que decorrem do Código da s Expropriações, aprovado pelo Decreto-Lei n.º 438/91, de 9 de Setembro, cuja vigência se iniciou em 07.02.1992 e terminou em 16.11.99, pois que, em 17.11.99 entrou em vigor o novo e actual Código das Expropriações (cfr. artigo 4.º da Lei n.º 168/99, de 18 de Setembro.
+
+11.12.02
+
+Relatora: Teresa Pais
+
+Adjuntos: Leonel Serôdio; Manso Raínho
