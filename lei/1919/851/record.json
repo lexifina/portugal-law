@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1919/08/15900/18761876.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1919-08-12",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "05afe54aafd36eeb2cf049155c3935b8660fe39b41b9ef0cd17a048ab9f8f4e7",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.8,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "dc969e09d55d75259213ca0e623b950e0f439f3fb252dbfabd5c06b3b4eca47f",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 87
 }
