@@ -1,0 +1,10 @@
+Declaração de rectificação n.º 103/93
+Para os devidos efeitos se declara que o Decreto-Lei n.º 185/93, publicado no Diário da República, n.º 119, de 22 de Maio de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No 2.º parágrafo, onde se lê «quadro geral de protecção à criança desprovida de um meio familiar normal,» deve ler-se «quadro geral de protecção à criança desprovida de meio familiar normal,».
+No 18.º parágrafo, onde se lê «evitando que se prolonguem situações em que este sofre as carências derivadas da ausência» deve ler-se «evitando que se prolonguem situações em que esta sofre as carências derivadas da ausência».
+No 20.º parágrafo, onde se lê «A idade mínima para a adopção pela singular baixa» deve ler-se «A idade mínima para a adopção plena singular baixa».
+No capítulo II, artigo 167.º, n.º 2, onde se lê «2 - Curador provisório será a pessoa a quem» deve ler-se «2 - O curador provisório será a pessoa a quem».
+No capítulo II, artigo 170.º, n.º 3, onde se lê «a que corresponde a pena de prisão até um ano ou de multa até 120 dias.» deve ler-se «a que corresponde a pena de prisão até um ano ou a de multa até 120 dias.»
+No capítulo IV, artigo 17.º, n.º 1, alínea c), onde se lê «c) Se estiver previsto um período de conveniência entre o menor e o candidato a adoptante suficiente para avaliar da convivência da constituição do vínculo;» deve ler-se «c) Se estiver previsto um período de convivência entre o menor e o candidato a adoptante suficiente para avaliar da conveniência da constituição do vínculo;» e, na alínea d), onde se lê «para o adoptando e se funda em motivos» deve ler-se «para o adoptando e se funde em motivos».
+No capítulo IV, artigo 24.º, n.º 1, onde se lê «1 - O Ministério Público tem legitimidade para requerer a revisão da decisão estrangeira» deve ler-se «1 - O Ministério Público tem legitimidade para requerer a revisão de decisão estrangeira».
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Junho de 1993. - O Secretário-Geral, França Martins.
