@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ikbb22EfidWyh5aL9J45Him8rhm3hBQttHxkrMbFeyYEwrlCCV9ZfcNHgV8WjSxu83VjOPt6VK7tfawrIfKZtTDmfI0Eg1Qj2%2fgR4zkB218vexxTlHm9ELnuOSX5QSKeM5RBZD467bhRAPU4hPcfbqahvryp3gb6e37C1v7CloSAMeYftDHuGXetsMTuqWKWDw8jw4LLkjhOMYrtuWUeiCrg7lyiTG%2fjnHAs%2fmcgrOZO8jIFWuyniqH%2f16iGaVZzEzfL%2b4SfA3O6drPBVYibztEF%2fs9tJC4xx3DcN5MsnQfVSXH3wVPofkvbJEOlvWHKvrzXi7OMn9qcwTKLuqkVUEIS1yusoxybTMXClPgsIs8%3d&fich=IntervencoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "ab3e3445119ef03a27cc4debeadf3049422a38e0d13b37a933bd5be6cbd2d916",
+  "legislatura": "IX",
+  "id": "148171",
+  "tipo": "Declaração de voto",
+  "orador": "Fernando Cabral (PS)",
+  "data_registo": "2004-01-29",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "161049",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "19895",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2004-01-29",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "2256",
+      "nome": "Fernando Cabral"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "148171",
+    "IdDebate": "2966",
+    "Iniciativas": [
+      {
+        "fase": "Votação final global",
+        "id": "19895",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IX",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "148171",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2534-2535"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-01-30",
+        "pubLeg": "IX",
+        "pubNr": "45",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/045/2004-01-30/2534?pgs=2534-2535&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "2",
+    "Sumario": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração de voto"
+  }
+}
