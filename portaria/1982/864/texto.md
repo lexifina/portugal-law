@@ -1,0 +1,34 @@
+Portaria n.º 864/82
+de 11 de Setembro
+O fomento da cultura das oleaginosas arvenses, nomeadamente de cártamo e girassol, constitui um dos objectivos da política de produção agrícola do Governo e que visa contribuir para a diminuição da nossa dependência externa, quer em óleos alimentares, quer em matérias-primas para a alimentação animal.
+Pelo presente diploma, estabelecem-se os preços e condições de intervenção para as sementes de cártamo e de girassol para a campanha de produção de 1982. Estes preços tomam em consideração não só a integral repercussão de todos os agravamentos de custo dos factores de produção, como também a legítima remuneração dos produtores agrícolas, e ainda um acréscimo destinado a servir de estímulo à expansão destas culturas.
+Nestes termos:
+Ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 45835, de 27 de Julho de 1964, e na alínea e) do n.º 1 do artigo 3.º e no artigo 32.º do Decreto-Lei n.º 426/72, de 31 de Outubro:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento, da Produção Agrícola e do Comércio, o seguinte:
+1.º O Instituto do Azeite e Produtos Oleaginosos garantirá a intervenção na compra de sementes de cártamo e de girassol de produção nacional nas condições estabelecidas no anexo ao presente diploma e aos seguintes preços por quilograma:
+Cártamo ... 26$00
+Girassol ... 28$00
+2.º O Instituto do Azeite e Produtos Oleaginosos garantirá o fornecimento de sementes de cártamo e de girassol de variedades apropriadas, segundo recomendação dos serviços do Ministério da Agricultura, Comércio e Pescas, aos produtores nacionais que as requisitem, quer directamente, quer por intermédio das empresas industriais.
+3.º Os serviços competentes do Ministério da Agricultura, Comércio e Pescas prestarão a assistência técnica que lhes venha a ser solicitada pelos produtores destas oleaginosas.
+4.º Fica revogada a Portaria n.º 780/81, de 10 de Setembro.
+5.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.
+Secretarias de Estado do Orçamento, da Produção Agrícola e do Comércio, 16 de Julho de 1982. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Produção Agrícola, José Vicente Carvalho Cardoso. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
+
+ANEXO
+Condições para o estabelecimento dos preços de intervenção a que se refere o n.º 1.º
+1 - Características de qualidade:
+Os preços fixados entendem-se para grão limpo, seco, são e sem cheiros estranhos.
+2 - Características de base:
+(ver documento original)
+3 - Bonificações e penalizações:
+3.1 - Cártamo:
+a) Por cada 1% de diferença na percentagem de óleo constante do quadro anterior, na semente pura verificar-se-á a variação de 2% no preço;
+b) A variação na percentagem de humidade, com base em 8% e o máximo de 10%, será penalizada na base de 1:1;
+c) A variação na percentagem de impurezas, com base em 2% e o máximo de 6%, será penalizada na base de 1:1.
+3.2 - Girassol:
+a) Por cada 1% de diferença na percentagem de óleo constante no quadro anterior, na semente, tal qual, verificar-se-á a variação de 1:1 no preço;
+b) A variação na percentagem de humidade, com base em 10% e o máximo de 12%, será penalizada na base de 1:1;
+c) A variação na percentagem de impurezas, com base em 2% e o máximo de 4%, será penalizada na base de 1:1.
+4 - Local de entrega:
+Estes preços entendem-se para sementes entregues pelos produtores em local a designar pelo comprador. Quando este local se situar fora do distrito em que as sementes hajam sido produzidas, o produtor terá direito a uma compensação, a pagar pelo comprador, correspondente ao acréscimo do custo do frete.
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Produção Agrícola, José Vicente Carvalho Cardoso. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
