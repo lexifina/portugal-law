@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/05/10500/03510352.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-05-18",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "b5c5db049fa0f252e521041e3ecddaf67bda9b490a55ba7e8ce0a255885f9fab",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.5,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "762cf2e45030274d96961e4fdee5c157093411314ad1875f01fb262004e65900",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 803
 }
