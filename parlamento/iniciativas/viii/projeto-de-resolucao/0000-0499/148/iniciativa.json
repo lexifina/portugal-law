@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "tipo": "Projeto de Resolução",
+  "numero": "148",
+  "id": "18681",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2001-07-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2001-09-14",
+    "DataInicioleg": "2000-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1762",
+        "nome": "Margarida  Botelho"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "208",
+        "nome": "Agostinho Lopes"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1423",
+        "nome": "Luísa Mesquita"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "833",
+        "nome": "Vicente Merendas"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1659",
+        "nome": "Natália Filipe"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1058",
+        "nome": "Bernardino Soares"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "222",
+        "nome": "Octávio Teixeira"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "18681",
+    "IniLeg": "VIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a426d4d6d51304e47566d4c5441774d4455744e446c6b5a693034597a55314c54526c5a6a4e694d5455324d7a566c4d43356b62324d3d&fich=0f2d44ef-0005-49df-8c55-4ef3b15635e0.doc&Inline=true",
+    "IniNr": "148",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Medidas de reforço da participação cívica e política das mulheres",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
