@@ -1,0 +1,652 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "436",
+    "id": "18523",
+    "titulo": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remisão e a melhoria de outras prestações."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-06-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1950",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-06-26",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-06-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138983",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3915-3920"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-27",
+                "pubLeg": "VIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27/3915?pgs=3915-3920&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remição e à melhoria de outras prestações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1022",
+                "nome": "Eugénio Marinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138984",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3918-3919"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-27",
+                "pubLeg": "VIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27/3918?pgs=3918-3919&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remição e à melhoria de outras prestações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1158",
+                "nome": "Barbosa de Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138985",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3919-3919"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-27",
+                "pubLeg": "VIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27/3919?pgs=3919&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remição e à melhoria de outras prestações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138986",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3920-3921"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-27",
+                "pubLeg": "VIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27/3920?pgs=3920-3921&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remição e à melhoria de outras prestações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1022",
+                "nome": "Eugénio Marinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138987",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3921-3923"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-27",
+                "pubLeg": "VIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27/3921?pgs=3921-3923&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remição e à melhoria de outras prestações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138988",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3922-3923"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-27",
+                "pubLeg": "VIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27/3922?pgs=3922-3923&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remição e à melhoria de outras prestações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "159",
+                "nome": "Artur Penedos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138989",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3923-3927"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-27",
+                "pubLeg": "VIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27/3923?pgs=3923-3927&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remição e à melhoria de outras prestações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138990",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3926-3927"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-27",
+                "pubLeg": "VIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27/3926?pgs=3926-3927&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remição e à melhoria de outras prestações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138991",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3927-3928"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-27",
+                "pubLeg": "VIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27/3927?pgs=3927-3928&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remição e à melhoria de outras prestações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1578",
+                "nome": "Virgílio Almeida Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138992",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3928-3929"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-27",
+                "pubLeg": "VIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27/3928?pgs=3928-3929&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remição e à melhoria de outras prestações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1677",
+                "nome": "Bruno Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138993",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3929-3930"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-27",
+                "pubLeg": "VIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27/3929?pgs=3929-3930&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remição e à melhoria de outras prestações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138994",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3930-3931"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-27",
+                "pubLeg": "VIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27/3930?pgs=3930-3931&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico da reparação dos acidentes de trabalho e doenças profissionais, procedendo a revalorização das pensões, ao aumento do capital de remição e à melhoria de outras prestações",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146426",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1950",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-06-27",
+        "pubLeg": "VIII",
+        "pubNr": "101",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/101/2001-06-27?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
