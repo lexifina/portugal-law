@@ -1,0 +1,8 @@
+Portaria n.º 38/81
+de 15 de Janeiro
+Tendo sido dada por finda, por despacho conjunto de 24 de Março de 1980, nos termos do n.º 3 do artigo 4.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, a comissão de serviço ao abrigo da qual o engenheiro Mário Francisco Barreira da Ponte vinha exercendo as funções de director-geral do Comércio Alimentar da Secretaria de Estado do Comércio Interno;
+Tendo sido o mesmo funcionário nomeado definitivamente assessor (letra B) do quadro do pessoal da Direcção-Geral do Comércio Alimentar, com efeitos a partir de 1 de Julho de 1979, por despacho do Ministro do Comércio e Turismo de 26 de Julho do mesmo ano;
+Havendo necessidade, nos termos do n.º 2 do artigo 14.º do citado Decreto-Lei n.º 191-F/79, de 26 de Junho, de alterar o quadro da mesma Direcção-Geral e criar o lugar necessário ao provimento do mesmo funcionário:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e do Comércio e Turismo e pelo Secretário de Estado da Reforma Administrativa, o seguinte:
+É criado um lugar de assessor (letra B) no quadro do pessoal da Direcção-Geral do Comércio Alimentar, aprovado pelo Decreto n.º 324/76, de 6 de Maio, o qual será extinto quando vagar.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Comércio e Turismo, 5 de Janeiro de 1981. - Pelo Ministro das Finanças e do Plano, José António da Silveira Godinho, Secretário de Estado Adjunto do Ministro das Finanças e do Plano. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
