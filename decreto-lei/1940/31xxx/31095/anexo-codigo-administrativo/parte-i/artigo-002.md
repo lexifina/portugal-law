@@ -1,3 +1,13 @@
+## Anexo CÓDIGO ADMINISTRATIVO
+
+## Parte I
+
+## Da organização administrativa
+
+## Título I
+
+## Da divisão do território
+
 # Artigo 2.º
 
 ### Os concelhos classificam-se em urbanos e rurais.
