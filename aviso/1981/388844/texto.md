@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, tendo sido assinado entre o Governo da República Portuguesa e o Governo da República da Guiné-Bissau em Lisboa, aos 13 de Janeiro de 1978, o Acordo que, por lapso, continha o título «Acordo Comercial a Celebrar entre a República Portuguesa e a República da Guiné-Bissau», e como tal foi aprovado pelo Decreto n.º 62/78, de 4 de Julho, procederam as Partes, por troca de notas, à rectificação daquele lapso, passando o referido Acordo a ter a seguinte denominação: «Acordo Comercial entre o Governo da República Portuguesa e o Governo da República da Guiné-Bissau».
+Direcção-Geral dos Negócios Económicos, 25 de Março de 1981. - O Director-Geral-Adjunto, Carlos Alberto Soares Simões Coelho.
