@@ -1,0 +1,750 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "77",
+    "id": "18721",
+    "titulo": "Aprova, para ratificação, a Convenção entre a República Portuguesa e a República de Malta para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 26 de Janeiro de 2001."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2000-10-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5864",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2000-10-13",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-10-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1703",
+                "nome": "João Sequeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30351",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "400-401"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/400?pgs=400-401&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30352",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "400-400"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/400?pgs=400&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30353",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "399-399"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/399?pgs=399&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30354",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "398-398"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/398?pgs=398&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1762",
+                "nome": "Margarida  Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "398-398"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/398?pgs=398&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NAJUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "397-397"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/397?pgs=397&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1762",
+                "nome": "Margarida  Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "395-396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/395?pgs=395-396&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "395-395"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/395?pgs=395&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30360",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "393-395"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/393?pgs=393-395&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1547",
+                "nome": "Mafalda Troncho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "392-393"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/392?pgs=392-393&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30362",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "391-393"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/391?pgs=391-393&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1374",
+                "nome": "João Pedro Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30363",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "391-391"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/391?pgs=391&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1653",
+                "nome": "Helena Neves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30364",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "390-391"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/390?pgs=390-391&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1547",
+                "nome": "Mafalda Troncho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30365",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "389-390"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-14",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14/389?pgs=389-390&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE COMBATE A FACTORES DE RISCO NA ADOLESCENCIA E NA JUVENTUDE",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "249483",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5864",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-10-14",
+        "pubLeg": "VIII",
+        "pubNr": "11",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/011/2000-10-14?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
