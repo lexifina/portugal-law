@@ -1,0 +1,840 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "15",
+    "id": "5547",
+    "titulo": "Altera o regime jurídico de incompatibilidades e impedimentos dos titulares de cargos políticos e altos cargos públicos."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-03-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1445",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-03-21",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-03-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44477",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1600-1600"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1600?pgs=1600&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E   TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44478",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1598-1599"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1598?pgs=1598-1599&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44479",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1597-1598"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1597?pgs=1597-1598&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "691",
+                "nome": "Nuno Baltazar Mendes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44480",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1597-1597"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1597?pgs=1597&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44481",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1596-1597",
+                  "1598-1598"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1596?pgs=1596-1597,1598&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44482",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1595-1596"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1595?pgs=1595-1596&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "691",
+                "nome": "Nuno Baltazar Mendes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1594-1595",
+                  "1599-1600"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1594?pgs=1594-1595,1599-1600&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1593-1594"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1593?pgs=1593-1594&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1593-1593"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1593?pgs=1593&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1592-1592"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1592?pgs=1592&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44488",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1591-1591"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1591?pgs=1591&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44489",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1590-1590"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1590?pgs=1590&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44490",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1585-1585"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1585?pgs=1585&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44492",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1587-1588"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1587?pgs=1587-1588&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107399",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1588-1589",
+                  "1590-1591",
+                  "1592-1593"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1588?pgs=1588-1589,1590-1591,1592-1593&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107400",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1591-15922"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-03-22",
+                "pubLeg": "VII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22/1591?pgs=1591-15922&org=PLC"
+              }
+            ],
+            "sumario": "ALTERACAO DO REGIME DAS INCOMPATIBILIDADES E IMPEDIMENTOS DOS TITULARES DOS CARGOS POLITICOS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103947",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1445",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-03-22",
+        "pubLeg": "VII",
+        "pubNr": "50",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/050/1996-03-22?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
