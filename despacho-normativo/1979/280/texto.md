@@ -1,0 +1,3 @@
+Despacho Normativo n.º 280/79
+Ao abrigo do disposto do n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 1 «Produtos fitofarmacêuticos», é autorizada a substituição da embalagem com a capacidade de 5 kg por outra de 200 g em produtos fitofarmacêuticos com base em clorprofame, cujo tipo de formulação é em pó, com o teor de 1% de substância activa.
+Secretarias de Estado do Fomento Agrário e do Comércio Interno, 31 de Julho de 1979. - Pelo Secretário de Estado do Fomento Agrário, João Ribeiro Goulão, Secretário de Estado da Estruturação Agrária. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.
