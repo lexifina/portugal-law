@@ -1,0 +1,32 @@
+Decreto n.º 45105
+Sendo necessário definir as zonas confinantes com as instalações da Estação Radionaval de Luanda, localizada a sul da cidade de Luanda, na região de Corimba, perto da povoação de Belas, que estão sujeitas ao regime de servidão militar;
+Considerando o disposto na Lei n.º 2078, de 11 de Julho de 1955, e na Portaria n.º 17072, de 17 de Março de 1959;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º Ficam sujeitas ao regime de servidão militar as áreas confinantes com as centrais emissora e receptora da Estação Radionaval de Luanda que constituem a sua zona de segurança, assim definidas:
+a) A área compreendida no círculo de 1500 m de raio, com o centro no edifício da recepção da central receptora;
+b) A área compreendida no círculo de 800 m de raio, com o centro no edifício da emissão da central emissora.
+§ único. As centrais receptora e emissora ocupam as áreas delimitadas, respectivamente, pelos vértices 1, 2, 3, 4 e A, B, C, D, devidamente assinalados no terreno, definidos pelas seguintes coordenadas rectangulares, com origem no vértice do observatório de Luanda:
+(ver documento original)
+Art. 2.º Nos termos do disposto no artigo 13.º da Lei n.º 2078, na área sujeita a servidão militar são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:
+a) Construções de qualquer natureza, mesmo que sejam enterradas, subterrâneas ou aquáticas;
+b) Alterações de qualquer forma, por meio de escavações ou aterros, do relevo ou configuração do solo;
+c) Depósitos permanentes ou temporários de materiais explosivos ou perigosos que possam prejudicar a segurança da organização ou das instalações;
+d) Montagem ou alteração de instalações eléctricas, máquinas e aparelhos eléctricos industriais ou comerciais, tais como motores, instrumentos eléctricos de cabeleireiro, tabuletas ou anúncios luminosos de funcionamento intermitente, trolleys de carros eléctricos, ascensores, aparelhos electrónicos, grupos electrogéneos e outros aparelhos e instrumentos que possam produzir interferências nas recepções e emissões radiotelefónicas e radiotelegráficas da Estação Radionaval;
+e) Trabalhos de levantamento fotográfico e topográfico;
+f) Sobrevoos de aviões, balões ou outras aeronaves;
+g) Instalação de cabos aéreos de transporte de energia eléctrica;
+h) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segurança da organização ou das instalações.
+§ 1.º Os proprietários de qualquer equipamento eléctrico existente na zona de segurança da central receptora que interfira com a recepção da respectiva central ficam obrigados a interromper imediatamente o funcionamento dessa aparelhagem, após simples notificação do dirigente da mesma central, podendo, se se verificar que o seu funcionamento é gravemente afectado, efectuar-se a selagem daquela aparelhagem e cancelar as autorizações concedidas nos termos do presente diploma.
+§ 2.º A execução de qualquer obra pública fica igualmente sujeita à disciplina estabelecida no presente decreto.
+§ 3.º As autarquias locais e as autoridades administrativas não poderão executar nem conceder licença para qualquer obra antes de ter sido dada a necessária autorização pela autoridade militar competente, salvo quando se trate de obras de reparação ou de simples conservação que não envolvam alteração de dimensões ou da configuração exterior.
+Art. 3.º As zonas indicadas no artigo 1.º serão demarcadas na carta n.º 361 da Missão Hidrográfica de Angola e S. Tomé e Príncipe, na escala de 1/50000, sendo destinados exemplares às seguintes entidades:
+a) Secretariado-Geral da Defesa Nacional;
+b) Ministério da Marinha;
+c) Ministério do Ultramar;
+d) Governo-Geral de Angola.
+Art. 4.º Compete ao Ministério da Marinha, pelo Comando Naval de Angola, ouvido o Estado-Maior da Armada, a concessão das licenças a que se refere o presente decreto, ficando a cargo daquele Comando a fiscalização do exacto cumprimento da lei e da rigorosa observância das condições impostas nas licenças concedidas.
+§ único. Das decisões tomadas ao abrigo deste artigo, poderão os interessados recorrer para o Ministro da Defesa Nacional.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 2 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial de Angola. - Peixoto Correia.
