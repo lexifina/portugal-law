@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Dos órgãos e serviços do SNA
-
 ## Secção I
 
 ## Dos órgãos
