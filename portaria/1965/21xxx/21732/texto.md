@@ -1,0 +1,3 @@
+Portaria n.º 21732
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial de 100000$00 destinado a reforçar a verba do capítulo único, artigo 10.º, n.º 3) «Diversos encargos - Encargos administrativos - Publicação da revista», da tabela de despesa do orçamento privativo do Núcleo de Documentação Técnica, para o corrente ano, tomando como contrapartida a receita proveniente do subsídio de igual importância concedido pelo Fundo de Fomento e de Propaganda do Café.
+Ministério do Ultramar, 18 de Dezembro de 1965. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
