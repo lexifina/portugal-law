@@ -1,0 +1,689 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "221",
+    "id": "5348",
+    "titulo": "Altera o regime de liberdade condicional."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-11-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3254",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-11-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5343",
+        "leg": "VII",
+        "nr": "226",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "207",
+            "obs": null,
+            "pag": [
+              "267-285"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-06-26",
+            "pubLeg": "VII",
+            "pubNr": "85",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/267?pgs=267-285&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o regime jurídico da liberdade condicional."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-06-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "595",
+                "nome": "Nuno Correia da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50781",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "282-282"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-26",
+                "pubLeg": "VII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/282?pgs=282&org=PLC"
+              }
+            ],
+            "sumario": "LIBERDADE CONDICIONAL: ALTERACAO DO REGIME JURIDICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "281-282"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-26",
+                "pubLeg": "VII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/281?pgs=281-282&org=PLC"
+              }
+            ],
+            "sumario": "LIBERDADE CONDICIONAL: ALTERACAO DO REGIME JURIDICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1373",
+                "nome": "Osvaldo de Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50783",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "279-281",
+                  "282-283"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-26",
+                "pubLeg": "VII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/279?pgs=279-281,282-283&org=PLC"
+              }
+            ],
+            "sumario": "LIBERDADE CONDICIONAL: ALTERACAO DO REGIME JURIDICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "691",
+                "nome": "Nuno Baltazar Mendes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50784",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "278-278"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-26",
+                "pubLeg": "VII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/278?pgs=278&org=PLC"
+              }
+            ],
+            "sumario": "LIBERDADE CONDICIONAL: ALTERACAO DO REGIME JURIDICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50785",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "276-278",
+                  "278-279"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-26",
+                "pubLeg": "VII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/276?pgs=276-278,278-279&org=PLC"
+              }
+            ],
+            "sumario": "LIBERDADE CONDICIONAL: ALTERACAO DO REGIME JURIDICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50786",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "275-276"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-26",
+                "pubLeg": "VII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/275?pgs=275-276&org=PLC"
+              }
+            ],
+            "sumario": "LIBERDADE CONDICIONAL: ALTERACAO DO REGIME JURIDICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50787",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "274-275"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-26",
+                "pubLeg": "VII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/274?pgs=274-275&org=PLC"
+              }
+            ],
+            "sumario": "LIBERDADE CONDICIONAL: ALTERACAO DO REGIME JURIDICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1373",
+                "nome": "Osvaldo de Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50788",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "273-274"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-26",
+                "pubLeg": "VII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/273?pgs=273-274&org=PLC"
+              }
+            ],
+            "sumario": "LIBERDADE CONDICIONAL: ALTERACAO DO REGIME JURIDICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50789",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "283-285"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-26",
+                "pubLeg": "VII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/283?pgs=283-285&org=PLC"
+              }
+            ],
+            "sumario": "LIBERDADE CONDICIONAL: ALTERACAO DO REGIME JURIDICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50790",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "272-272"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-26",
+                "pubLeg": "VII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/272?pgs=272&org=PLC"
+              }
+            ],
+            "sumario": "LIBERDADE CONDICIONAL: ALTERACAO DO REGIME JURIDICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1436",
+                "nome": "Joaquim Sarmento"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50791",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "271-271"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-26",
+                "pubLeg": "VII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/271?pgs=271&org=PLC"
+              }
+            ],
+            "sumario": "LIBERDADE CONDICIONAL: ALTERACAO DO REGIME JURIDICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "280",
+                "nome": "Carlos Encarnação"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50792",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "267-271",
+                  "271-276"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-26",
+                "pubLeg": "VII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/085/1997-06-26/267?pgs=267-271,271-276&org=PLC"
+              }
+            ],
+            "sumario": "LIBERDADE CONDICIONAL: ALTERACAO DO REGIME JURIDICO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "164209",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "291318",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-11-07",
+        "pubLeg": "VII",
+        "pubNr": "8",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/008/1996-11-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
