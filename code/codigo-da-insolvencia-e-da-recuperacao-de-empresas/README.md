@@ -6,9 +6,9 @@ Decreto-Lei n.º 53/2004 · No uso da autorização legislativa concedida pela L
 
 <https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-34529075>
 
-Em vigor desde 2004-09-14; 15 dias com versões no DR (o último em 2024-11-10). Os artigos do próprio Decreto-Lei n.º 53/2004 estão em [`decreto-lei-53-2004/`](decreto-lei-53-2004/).
+Em vigor desde 2004-09-15; 15 dias com versões no DR (o último em 2024-11-10). Os artigos do próprio Decreto-Lei n.º 53/2004 estão em [`decreto-lei-53-2004/`](decreto-lei-53-2004/).
 
-In force since 2004-09-14; 15 days with versions in the Diário da República (the last on 2024-11-10). The articles of Decreto-Lei n.º 53/2004 itself are in [`decreto-lei-53-2004/`](decreto-lei-53-2004/).
+In force since 2004-09-15; 15 days with versions in the Diário da República (the last on 2024-11-10). The articles of Decreto-Lei n.º 53/2004 itself are in [`decreto-lei-53-2004/`](decreto-lei-53-2004/).
 
 | Disposição | Ficheiro | Alterações | Última alteração |
 | --- | --- | ---: | --- |
