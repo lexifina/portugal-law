@@ -1,0 +1,4 @@
+Resolução da Assembleia da República n.º 8/92
+Constituição de uma comissão parlamentar de inquérito para apuramento de responsabilidades quanto à decisão e ao processo de vazamento da albufeira do Maranhão, bem como quanto às suas consequências económicas, sociais e ambientais, designadamente na região que envolve os municípios de Avis e Mora.
+A Assembleia da República, na sua reunião de 21 de Janeiro de 1992, resolveu, nos termos dos artigos 169.º, n.º 5, e 181.º, n.º 1, da Constituição e do artigo 40.º do Regimento, constituir uma comissão parlamentar de inquérito para apuramento de responsabilidades quanto à decisão e ao processo de vazamento da albufeira do Maranhão, bem como quanto às suas consequências económicas, sociais e ambientais, designadamente na região que envolve os municípios de Avis e Mora.
+Assembleia da República, 21 de Janeiro de 1992. - O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
