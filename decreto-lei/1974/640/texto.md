@@ -1,0 +1,16 @@
+Decreto-Lei n.º 640/74
+de 20 de Novembro
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O artigo 33.º do Decreto-Lei n.º 47331, de 23 de Novembro de 1966, passa a ter a redacção seguinte:
+Art. 33.º ...
+§ 1.º (Igual ao § único.)
+§ 2.º Os embaixadores escolhidos nos termos do parágrafo anterior, quando funcionários de outros serviços do Estado, são nomeados em comissão de serviço amovível, sendo-lhes aplicável o disposto nos artigos 35.º e 36.º do presente diploma.
+§ 3.º O quadro do serviço diplomático considerar-se-á aumentado de tantos lugares de embaixador quantos os embaixadores escolhidos pelo Conselho de Ministros, nos termos do § 1.º deste artigo.
+Art. 2.º - 1. O quadro do pessoal especializado do Ministério dos Negócios Estrangeiros é aumentado de dezasseis unidades, sendo quatro de conselheiros de imprensa, quatro de adidos de imprensa e oito de conselheiros sociais.
+2. No ano económico em curso os abonos de representação a atribuir aos funcionários referidos no número anterior serão fixados por despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros.
+Art. 3.º Até à realização das necessárias alterações orçamentais, os encargos decorrentes do presente diploma serão satisfeitos de conta das disponibilidades das dotações inscritas para pessoal no orçamento do Ministério dos Negócios Estrangeiros.
+Art. 4.º Fica revogado o Decreto-Lei n.º 1/70, de 2 de Janeiro.
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Soares.
+Promulgado em 13 de Novembro de 1974.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
