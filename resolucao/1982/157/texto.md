@@ -1,0 +1,4 @@
+Resolução n.º 157/82
+Considerando a necessidade de possibilitar a transferência para a SOINTAL - Sociedade de Iniciativas Turísticas Algarvias, S. A. R. L., dos débitos avalizados à ex-CAETA, prevista na Resolução do Conselho de Ministros n.º 267/80, de 25 de Junho;
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 159/75, de 27 de Março, o Conselho de Ministros para os Assuntos Económicos, reunido em 27 de Julho de 1982, resolveu autorizar a prestação do aval do Estado aos juros em dívida à data da formalização desta garantia, que deverá ter lugar no prazo de 60 dias a contar da data da publicação da presente resolução, relativamente aos débitos a avalizar à SOINTAL - Sociedade de Iniciativas Turísticas Algarvias, S. A. R. L., nos termos da Resolução do Conselho de Ministros n.º 267/80, de 25 de Junho.
+Presidência do Conselho de Ministros, 27 de Julho de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
