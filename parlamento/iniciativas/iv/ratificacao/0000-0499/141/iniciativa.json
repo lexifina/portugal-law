@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=sHIRRaZSClvqs2fgPou4a23MGhhl3X0gpgbp%2btNARhGZicYLOXPZWkruq4vVo2sWGLeVuvGAgqbFJbJwQRW44CI9tfmX%2bbWTsyeHmJUtTMccM5o%2bccvn1sCfcA%2fpd%2bu%2fwKJ%2bFD1ev4cnIw3pVnfMa%2bhzSz6cuwzZblBv5LWM36SEbL%2bBs5zO8uiZpaydxrwOvnbXHxO20Qolz2olAmCgsT1gDBlsVm7WmD5xQWyQKm1VSK31nRXYjP8b8P%2feFXtP5tOSkcyuffzIm3hAkBaoFGuUyO4s%2fkJ5BzS9ISNRC1O2ZlNJZ6At2vSnnzEc478srqvpEWstyCICdzJ0iIVMlkL18DFe0lclA2tQQF6038g%3d&fich=IniciativasIV_json.txt&Inline=true",
+  "ficheiro_sha256": "66d499906f5f48d8fdeb07035c408bad3bf810ad88e2ed743ec1b74baa57e0d7",
+  "legislatura": "IV",
+  "tipo": "Ratificação",
+  "numero": "141",
+  "id": "27270",
+  "fases": 4,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1987-04-24",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1987-08-12",
+    "DataInicioleg": "1986-10-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "211",
+        "nome": "João Amaral"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2963",
+        "nome": "Cláudio Percheiro"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2923",
+        "nome": "Anselmo Aníbal"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3131",
+        "nome": "João Abrantes"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3034",
+        "nome": "Luis Roque"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3025",
+        "nome": "José Vitoriano"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "222",
+        "nome": "Octávio Teixeira"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "569",
+        "nome": "Ilda Figueiredo"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3104",
+        "nome": "Bento Calado"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2915",
+        "nome": "Álvaro Brasileiro"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Ratificação",
+    "IniEpigrafe": null,
+    "IniId": "27270",
+    "IniLeg": "IV",
+    "IniLinkTexto": "",
+    "IniNr": "141",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "F",
+    "IniTitulo": "Decreto-Lei n.º 64/87, de 6 de Fevereiro, que aprova a Lei orgânica da Inspecção-Geral da Administração do Território (IGAT)",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
