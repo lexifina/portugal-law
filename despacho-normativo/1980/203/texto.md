@@ -1,0 +1,3 @@
+Despacho Normativo n.º 203/80
+Para efeitos de execução da Portaria n.º 42-B/80, de 15 de Fevereiro, na redacção que lhe foi dada pela Portaria n.º 143/80, de 31 de Março, o Instituto do Azeite e Produtos Oleaginosos liquidará às fábricas de sabões e margarinas, por verba a suportar pelo Fundo de Abastecimento, um montante de 1000$00 por tonelada, de acordo com as quantidades de sebo (tipo Fancy) em poder daquelas fábricas à data da publicação da Portaria n.º 42-B/80.
+Secretarias de Estado do Orçamento e do Comércio Interno, 27 de Maio de 1980. - Pelo Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp, Subsecretário de Estado do Orçamento. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
