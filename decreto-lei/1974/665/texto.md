@@ -1,0 +1,16 @@
+Decreto-Lei n.º 665/74
+de 27 de Novembro
+Considerando que a experiência colhida desde a entrada em vigor do diploma legal que definiu os quantitativos do pessoal civil em serviço no Museu Militar aconselha uma redistribuição das funções então atribuídas;
+Considerando que as necessidades de manutenção do mesmo Museu tornam conveniente um melhor aproveitamento da capacidade técnica de algum do pessoal ali em serviço;
+Usando da faculdade conferida pelo artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. A alínea b) do artigo 3.º do Decreto-Lei n.º 37082, de 2 de Outubro de 1948, passa a ter a seguinte redacção:
+b) Pessoal assalariado:
+1 carpinteiro decorador.
+1 carpinteiro.
+1 serralheiro-espingardeiro.
+4 encarregados de 1.ª classe.
+1 servente.
+Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias - Victor Manuel Rodrigues Alves - José da Silva Lopes.
+Promulgado em 13 de Novembro de 1974.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES
