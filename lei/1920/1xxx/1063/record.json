@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1920/11/22500/15371537.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1920-11-06",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "28359faa5a505457cd16d91ff0bce3d4b3c588ae6c6b0fb0827a8c1aa728e9b1",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.8,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "7d4f165d1c799c15c873e387c4adec1e9d74cbf0b01dc960061ae2640eed4c7c",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 134
 }
