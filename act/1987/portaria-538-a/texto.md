@@ -1,0 +1,13 @@
+Portaria n.º 538-A/87
+de 30 de Junho
+Considerando que o Serviço Nacional de Parques, Reservas e Conservação da Natureza, organismo dotado de personalidade jurídica e autonomia administrativa e financeira, a cuja Divisão de Apoio Técnico, dependente directamente da sua presidência, no âmbito das suas atribuições, compete desenvolver um conjunto de acções cujos programas e projectos se requer adequadamente integrados nos planos anuais e plurianuais e devidamente acompanhados na sua gestão e execução com vista à sua viabilização e compatibilização com o financiamento através do PIDDAC, com o consequente estabelecimento de relações com a orgânica de planeamento central, sectorial e regional;
+Considerando que para o desempenho do cargo de chefe da Divisão de Apoio Técnico do referido Serviço se requer a escolha de um funcionário dotado com um perfil adequado e com qualidades e conhecimentos no domínio do planeamento, programação, gestão, orçamentação e com larga experiência devidamente comprovada;
+Considerando que não é viável encontrar a curto prazo, dentro da área de recrutamento legalmente estabelecida nos termos da alínea b) do n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, candidatos que tenham conhecimentos e experiências específicas na área dos serviços atrás descritos;
+Considerando que em tais circunstâncias se justifica seja alargada a área de recrutamento a candidatos que reúnam os requisitos específicos em detrimento daqueles que reúnam os requisitos formais;
+Usando da faculdade prevista no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Administração do Território, o seguinte:
+1.º É excepcionalmente alargada a área de recrutamento de forma a considerarem-se outros níveis da estrutura da carreira técnica superior, preferencialmente a técnicos superiores de 1.ª classe, licenciados em Economia, com competência e experiência profissional comprovadas, para provimento do lugar de chefe da Divisão de Apoio Técnico do Serviço Nacional de Parques, Reservas e Conservação da Natureza, lugar criado pela alínea d) do n.º 1 do artigo 7.º do Decreto Regulamentar n.º 3/86, de 8 de Janeiro, constante do anexo I do mesmo diploma.
+2.º O despacho de nomeação será acompanhado do currículo do nomeado.
+Ministérios das Finanças e do Plano e da Administração do Território.
+Assinada em 15 de Maio de 1987.
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro do Plano e da Administração do Território, Carlos Alberto Martins Pimenta, Secretário de Estado do Ambiente e Recursos Naturais.
