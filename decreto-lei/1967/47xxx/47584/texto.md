@@ -1,0 +1,10 @@
+Decreto-Lei n.º 47584
+Prevê a alínea d) do n.º 1 da base XVIII da Lei 2115, de 18 de Junho de 1962, como modalidade de aplicação de valores das caixas sindicais de previdência, a concessão de empréstimos às Casas dos Pescadores para atender às necessidades de habitação dos trabalhadores e suas famílias.
+Para o efeito, torna-se indispensável estabelecer as condições em que esses empréstimos podem ser concedidos.
+Considerando que em relação às Casas do Povo se tem mostrado suficiente e de execução prática a fórmula que está sendo seguida, preconiza-se a adopção de idêntico mecanismo para os empréstimos às Casas dos Pescadores.
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Os empréstimos às Casas dos Pescadores, previstos na alínea d) do n.º 1 da base XVIII da Lei n.º 2115, de 18 de Junho de 1962, serão concedidos de harmonia com o disposto para as Casas do Povo na Lei n.º 2092, de 9 de Abril de 1958, no Decreto-Lei n.º 43186, de 23 de Setembro de 1960, e no regulamento aprovado nos termos do n.º 1 da base X da referida Lei n.º 2092, cabendo à Junta Central das Casas dos Pescadores e ao Fundo Comum das Casas dos Pescadores as funções, competência e responsabilidade para o efeito atribuídas respectivamente à Junta Central das Casas do Povo e ao Fundo Comum das Casas do Povo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 9 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
