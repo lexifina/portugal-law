@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 9.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Indústria e Energia, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 211, de 12 de Setembro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No cap. 01, div. 01, subdiv. 01, C. E. 06.03.00, C. F. 8.01.0, al. B, onde se lê «B - Mod. ind. inv. tecn. d. Energia» deve ler-se «B - Mod. ind. inov. tecn. d. Energética» e onde se lê «Cap. 01, div. 08, subdiv. 01 - Instituto Português da Qualidade» deve ler-se «Cap. 01, div. 08 - Instituto Português da Qualidade».
+Secretaria-Geral da Presidência do Conselho de Ministros, 4 de Outubro de 1990. - O Secretário-Geral, França Martins.
