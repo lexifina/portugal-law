@@ -29,3 +29,5 @@ g) Os contratos de trabalho a termo certo.
 4 - Para efeitos da alínea b) do n.º 1 do artigo 46.º do presente diploma, só devem ser remetidos ao Tribunal de Contas os contratos celebrados pela administração directa e indirecta do Estado, pela administração directa e indirecta das Regiões Autónomas e pelas autarquias locais, federações e associações de municípios que excedam um montante a definir anualmente.
 
 5 - Para o ano de 1997, o montante referido no número anterior é fixado em 600 vezes o valor correspondente ao índice 100 da escala indiciária do regime geral da função pública, arredondado para a centena de contos imediatamente superior.
+
+6 - Todos os juízes auxiliares em funções em 31 de Dezembro de 2000 passam à situação de juízes além do quadro, aplicando-se-lhes o n.º 3 do artigo 23.º, sem prejuízo do direito ao provimento doutros candidatos melhor graduados.
