@@ -1,0 +1,29 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2001-10-09, processo 3732/00
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 3732/00
+
+**Secção:** Contencioso Tributário
+
+**Data do Acordão:** 10/09/2001
+
+**Relator:** Cristina Santos
+
+**Descritores:** CESSÃO DE CRÉDITOS
+
+**Aditamento:** 1
+
+## Sumário
+
+1. Devido ao efeito liberatório da cessão de créditos na pessoa do transmitente, cessam todas as relações jurídicas entre cedente e cedido continuando este a responder pela dívida em face do cessionário, que subingressa na posição contratual do cedente por mero efeito do contrato celebrado e configurando-se a relação contratual cedida pelo estado em que se encontrava na titularidade do cedente ao tempo da cessão.
+
+2. As provas têm por função a demonstração da 'realidade dos factos (artº 341º C. Civil), pelo que não é juridicamente admissível postergar as normas de direito probatório e os critérios 'legais de eficácia probatória dos meios de prova, salvo em caso de disposição legal expressa nesse sentido, na medida em que o princípio da livre apreciação cede em face do princípio da prova legal, ou seja, cede perante provas com valoração legalmente tabelada, v.g. presunções legais, documentos e confissão.
+
+3. A prova legal fundada na documentação contabilística e a eficácia probatória do respectivo conteúdo apenas é susceptível de destruição pela prova do contrario, isto é, pela prova da inveracidade dos registos contabilísticos, seja por vício de lançamento seja por vício dos próprios suportes documentais dos lançamentos - cfr. artºs. 44º nº l C. Comercial e 347º C. Civil.
+
+4. Tendo em conta os limites materiais postos por lei à prova testemunhal, esta não é meio idóneo para contrariar a eficácia, da prova assente em escrituração comercial cuja fidelidade de lançamentos e suportes documentais não tenha sido descredibilizada e, por isso, se mostre revestida de eficácia probatória plena - cfr. artºs. 392º e 393º n" 2 C. Civil e 44º nº l C. Comercial.
+
+5. Sendo o preço pago pela cessão de um crédito entre sociedades inferior ao valor do crédito cedido, o lançamento contabilístico a favor do cessionário do valor da diferença entre crédito cedido e preço da cessão, é tributável em rendimentos da categoria C, cfr. artº 4º nº 2 al. g) CIRS, por configurar um acto isolado de comércio nos termos do artº 2º C. Comercial.
+
+6. O contribuinte que notificado no seu domicílio fiscal e sob a expressa cominação legal em caso de recusa, para exibir os documentos relativos a rendimentos, custos, despesas e abatimentos por si declarados, todavia, nada apresenta, incorre na presunção legal do artº 125º nº 3 CIRS, atenta a obrigação a que está adstrito nos termos do art º 119º nº 2 do mesmo Código.
