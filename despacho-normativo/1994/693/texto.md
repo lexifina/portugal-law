@@ -1,0 +1,6 @@
+Despacho Normativo n.º 693/94
+Considerando que a arquitecta Maria Isabel Soares Corrêa da Costa, técnica superior principal do quadro de pessoal do Instituto Português do Património Arquitectónico e Arqueológico, a exercer, em comissão de serviço, o cargo de director de serviços na Direcção-Geral do Ordenamento do Território, se encontra nomeada para o exercício de funções dirigentes, desde 16 de Junho de 1992, reúne os requisitos necessários para acesso à categoria de assessor principal e requereu a criação do referido lugar;
+Considerando o disposto no n.º 1 do artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e ainda nos termos dos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+É criado no quadro de pessoal do Instituto Português do Património Arquitectónico e Arqueológico, fixado pela Portaria n.º 181/93, de 17 de Fevereiro, um lugar de assessor principal da carreira técnica superior, a extinguir quando vagar.
+Presidência do Conselho de Ministros e Ministério das Finanças, 11 de Julho de 1994. - O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa.
