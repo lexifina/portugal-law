@@ -1,0 +1,7 @@
+Despacho Normativo n.º 1-A/2003
+Apesar de se ter verificado nos últimos anos uma ligeira recuperação do diferencial perdido entre o aumento de preços do sector de transportes públicos de passageiros e a taxa de inflação, tal é ainda insuficiente para assegurar um nível de cobertura dos custos de produção do sector pelas tarifas que não ponha em causa o serviço público que é prestado.
+Assim, e tendo em conta as previsões das Grandes Opções do Plano, ao abrigo do disposto na alínea b) do n.º 2 do artigo 10.º do Decreto-Lei n.º 8/93, de 11 de Janeiro, determina-se o seguinte:
+1 - É fixada em 3,5% a percentagem máxima de aumento médio para os transportes urbanos de Lisboa e do Porto, para os transportes colectivos rodoviários interurbanos de passageiros e para os transportes ferroviários e fluviais.
+2 - Por despacho do director-geral de Transportes Terrestres será definida a tabela do preço máximo de referência do quilómetro rodoviário interurbano.
+3 - Os preços decorrentes da execução do presente despacho poderão ser aplicados pelos operadores a partir de 1 de Fevereiro de 2003.
+Ministérios das Finanças, da Economia e das Obras Públicas, Transportes e Habitação, 4 de Janeiro de 2003. - A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Obras Públicas, Transportes e Habitação, Luís Francisco Valente de Oliveira.
