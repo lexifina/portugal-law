@@ -1,0 +1,10 @@
+Portaria n.º 184/70
+Havendo conveniência para o serviço em aumentar a frequência dos cursos de alistamento de artífices condutores de máquinas, artífices electricistas e artífices radioelectricistas, embora desse facto resulte maior esforço para as escolas na revisão de matérias que convém relembrar no início daqueles cursos:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+O n.º 19.º da Portaria n.º 23266, de 13 de Março de 1968, passa a ter a seguinte redacção:
+19.º Nos concursos de admissão aos cursos de alistamento a apreciação dos conhecimentos gerais exigidos para as classes de artífices condutores de máquinas, artífices electricistas e artífices radioelectricistas é efectuada através dos documentos comprovativos das habilitações exigidas.
+Nos concursos de admissão dos restantes cursos de alistamento há provas de apreciação dos referidos conhecimentos gerais, subordinadas aos programas nas condições do artigo 31.º do Estatuto dos Sargentos e Praças da Armada que são classificados de 0 a 20 pelos júris nomeados para o efeito.
+A classificação final de cada candidato é a classificação obtida nas habilitações mínimas exigidas como condição especial de admissão, considerando todas as classificações como tendo o mesmo peso, ou então, no caso de haver provas, é a média aproximada a centésimas das classificações de cada prova, sendo excluídos do concurso os candidatos que não obtiveram classificação igual ou superior a 10 valores em qualquer delas.
+O ordenamento dos candidatos aprovados é efectuado de acordo com as classificações finais obtidas e, em caso de igualdade de classificações, serão observadas as condições de preferência estabelecidas pelo artigo 32.º do Estatuto dos Sargentos e Praças da Armada.
+O Ministro da Marinha, a quem as listas de ordenamento serão presentes, designará os candidatos a admitir aos cursos de alistamento. Para os restantes cursos e instruções de ingresso nas classes o Ministro da Marinha delega no superintendente dos Serviços do Pessoal da Armada essa prerrogativa.
+Ministério da Marinha, 9 de Abril de 1970. - O Ministro da Marinha, Manuel Pereira Crespo.
