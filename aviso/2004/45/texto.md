@@ -1,0 +1,5 @@
+Aviso n.º 45/2004
+Por ordem superior se torna público que, em 19 de Setembro de 2003, o Chipre depositou o seu instrumento de ratificação à Convenção sobre Acesso à Informação, Participação do Público no Processo de Tomada de Decisão e Acesso à Justiça em Matéria de Ambiente, de 25 de Junho de 1998.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 11/2003, publicada no Diário da República, 1.ª série-A, n.º 47, de 25 de Fevereiro de 2003, e tendo depositado o instrumento de ratificação em 9 de Junho de 2003, conforme o Aviso n.º 210/2003, publicado no Diário da República, 1.ª série-A, n.º 246, de 23 de Outubro de 2003.
+A Convenção sobre Acesso à Informação, Participação do Público no Processo de Tomada de Decisão e Acesso à Justiça em Matéria de Ambiente entrou em vigor para o Chipre em 19 de Dezembro de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 24 de Março de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
