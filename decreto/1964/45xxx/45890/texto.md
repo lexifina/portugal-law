@@ -1,0 +1,10 @@
+Decreto n.º 45890
+A produção de plantas pelos serviços florestais não está a corresponder às exigências dos trabalhos de florestação, pelo que se impõe a instalação de novos viveiros estratègicamente distribuídos pela metrópole e ilhas adjacentes.
+Dada a transitoriedade das necessidades a satisfazer e, portanto, da existência dos viveiros, tem-se adoptado o critério de recorrer ao arrendamento dos terrenos em que se pretende instalá-los.
+Verifica-se agora a necessidade de constituir um viveiro florestal e a possibilidade de arrendar, por um período de dez anos, um terreno, com a área de 32272 m2, denominado «Vale Chorido», sito na freguesia da Sé, concelho de Bragança, pertencente a Amélia Gonçalves Cavaleiro de Ferreira, que se apresenta dotado de condições favoráveis ao fim em vista.
+Nestas condições, tendo em vista o disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contrato com Amélia Gonçalves Cavaleiro de Ferreira para o arrendamento da sua propriedade denominada «Vale Chorido», sita na freguesia da Sé, concelho de Bragança, por um prazo de dez anos, renovável por iguais e sucessivos períodos, se isso convier às partes contratantes.
+Art. 2.º A despesa com o citado arrendamento não poderá exceder 7000$00 anualmente e constituirá, no corrente ano económico, encargo da dotação inscrita na despesa extraordinária do orçamento do Ministério da Economia, sob o capítulo 22.º, artigo 325.º, n.º 3) «Campanha contra pragas e epifitias florestais, e de futuro da verba própria inscrita em orçamento.
+Publique-se e cumpra-se como dele se contém.
+Paços do Governo da República, 25 de Agosto de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Luís Maria Teixeira Pinto - Luís Le Cocq de Albuquerque de Azevedo Coutinho.
