@@ -1,0 +1,3 @@
+Resolução
+Nos termos da alínea a) do n.º 2 do artigo 5.º do Decreto-Lei n.º 656/74, de 23 de Novembro, e atento o disposto do Decreto-Lei n.º 289/75, de 14 de Junho, o Conselho da Revolução, em sessão de 19 do corrente, autoriza a administração do Arsenal do Alfeite a admitir, dentro dos seus limites orçamentais, o pessoal destinado a substituir os operários que ascenderam às funções de mestrança e chefia, considerando que essa admissão se reveste de carácter urgente e indispensável para cumprimento das tarefas cometidas pela Armada ao Arsenal do Alfeite.
+Conselho da Revolução, 19 de Janeiro de 1976. - O Presidente, Francisco da Costa Gomes, general.
