@@ -1,0 +1,15 @@
+Despacho Normativo n.º 55/79
+Para ingresso nas carreiras que compõem o grupo de pessoal auxiliar (grupo 12) estabelecidas pelo Decreto Regulamentar n.º 79/77, de 26 de Novembro, e consequente primeiro provimento dos lugares que constam do mapa anexo ao mesmo decreto regulamentar, determino que na elaboração das listas nominativas a que se refere o artigo 52.º do Decreto-Lei n.º 221/77, de 28 de Maio (com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 320/78, de 4 de Novembro), se apliquem as seguintes normas:
+1 - Os funcionários a integrar no grupo de pessoal auxiliar transitarão para as carreiras afins ou de idêntico conteúdo funcional.
+2 - Os funcionários, ainda que pertencendo a outros grupos de pessoal, que exerçam actividades pouco especializadas ou actividades múltiplas poderão transitar para as carreiras onde melhor possam satisfazer as necessidades dos serviços.
+3 - Para a carreira de fiéis de armazém transitarão:
+a) Para a categoria de fiel, os fiéis de armazém e o pessoal exercendo funções de idêntico conteúdo funcional já remunerados pela letra R ou que tenham pelo menos cinco anos de serviço;
+b) Para a categoria de fiel auxiliar, os fiéis de armazém e o pessoal exercendo funções de idêntico conteúdo funcional com menos de cinco anos de serviço;
+c) Consoante as necessidades dos serviços, para as categorias de fiel ou de fiel auxiliar, conforme tenham ou não pelo menos cinco anos de serviço, os funcionários, com o mínimo de três anos de serviço, que tenham demonstrado possuir o perfil e as qualificações necessárias para o bom desempenho do lugar.
+4 - Transitará para a carreira de encarregados gerais o pessoal com o perfil adequado ao desempenho dessas funções e pelo menos quinze anos de bom e efectivo serviço.
+5 - Quando da aplicação dos n.os 1, 2 e 3, alíneas a) e b), resultarem excedentes de pessoal relativamente ao número de lugares, em cada categoria, que consta do mapa anexo ao Decreto Regulamentar n.º 79/77, de 26 de Novembro, será feito recurso ao previsto nos n.os 4 e 5 do artigo 52.º do Decreto-Lei n.º 221/77, de 28 de Maio (com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 320/78, de 4 de Novembro).
+6 - Para efeitos de aplicação deste despacho, as categorias nele mencionadas reportam-se a 28 de Maio de 1977 e o tempo de serviço prestado em organismos estatais e paraestatais, bem como as habilitações literárias adquiridas, reportam-se a 31 de Dezembro de 1977.
+7 - Estas normas são também aplicáveis ao pessoal já provido por listas nominativas anteriormente à publicação deste despacho.
+8 - O pessoal abrangido pelas disposições do presente despacho deverá apresentar todos os elementos necessários à organização dos respectivos processos no prazo improrrogável de trinta dias, a contar da data da sua publicação.
+9 - O presente despacho normativo revoga o despacho interno de 5 de Dezembro de 1977, na parte referente ao pessoal auxiliar (parágrafos 15.1, 15.2 e 15.3).
+Ministério da Agricultura e Pescas, 2 de Março de 1979. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.
