@@ -124,4 +124,6 @@ Triazolam - 8-cloro-6-(2-clorofenil)-1-metil-4H-[1,2,4] triazol [4,3-(alfa)] [1,
 
 Vinilbital - ácido 5-(1-metilbutil)-5 vinilbarbitúrico.
 
+zolpidem {N, N, 6-trimetil-2-(ró)-tolilimidazol [1,2-(alfa)] piridina-3-acetamida}
+
 Os sais das substâncias indicadas nesta tabela, sempre que a existência de tais sais seja possível.

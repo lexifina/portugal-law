@@ -58,4 +58,6 @@ Tenociclidina, TCP - 1-[1-(2-tienil) ciclo-hexil] piperidina.
 
 TMA - (mais ou menos)-3,4,5-trimetoxi-a-metilfeniletilamina.
 
+2C-B (4-bromo-2,5-dimetoxifenetilamina), GHB ((gama)-ácido hidroxibutírico)
+
 Os sais das substâncias indicadas nesta tabela, sempre que a existência de tais sais seja possível.
