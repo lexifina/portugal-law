@@ -1,0 +1,7 @@
+Portaria n.º 23897
+No n.º 13.º da Portaria n.º 23309, de 13 de Abril de 1968, dispôs-se que 50 por cento das taxas e adicional previstos nos n.os 9.º e 10.º da mesma portaria constituem receita das câmaras municipais onde sejam apresentados os documentos necessários à troca de licenças de condução de velocípedes por cartas de condução de ciclomotores e à matrícula de ciclomotores transitòriamente matriculados como velocípedes.
+Nada se estabeleceu, porém, sobre os encargos que as câmaras municipais terão de suportar com contrapartida na referida receita, os quais se considera conveniente definir.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros do Interior e das Comunicações, de acordo com o disposto nos artigos 2.º e 5.º do Decreto n.º 47070, de 4 de Julho de 1966, que à Portaria n.º 23309, de 13 de Abril de 1968, seja aditado o seguinte número:
+14.º Constitui encargo das câmaras municipais a aquisição e distribuição dos impressos necessários à execução da presente portaria, podendo os mesmos corpos administrativos conceder ao seu pessoal remuneração pelo trabalho extraordinário que da referida execução lhe advirá, nos termos que vierem a ser definidos em instruções da Direcção-Geral de Administração Política e Civil.
+Ministérios do Interior e das Comunicações, 5 de Fevereiro de 1969. - O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro das Comunicações, José Estêvão Abranches Couceiro do Canto Moniz.
