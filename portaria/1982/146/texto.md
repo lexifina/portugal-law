@@ -1,0 +1,5 @@
+Portaria n.º 146/82
+de 2 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Educação e das Universidades e da Reforma Administrativa, o seguinte:
+Nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 415/80, de 27 de Setembro, é acrescido à lista de organismos anexa ao mesmo decreto-lei o Instituto Português de Ensino a Distância, associado ao Gabinete Coordenador de Ingresso no Ensino Superior, nos termos do n.º 1 do artigo 9.º do Decreto-Lei n.º 519-VI/79, de 29 de Dezembro, modificado pelo artigo único do Decreto-Lei n.º 375/80, de 12 de Setembro.
+Ministérios das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa, 26 de Novembro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
