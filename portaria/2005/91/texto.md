@@ -1,0 +1,12 @@
+Portaria n.º 91/2005
+de 25 de Janeiro
+Pela Portaria n.º 667-U5/93, de 14 de Julho, foi concessionada à VICETUR - Sociedade de Empreendimentos Turísticos, Lda., a zona de caça turística da Herdade da Defesa de Cima e outras (processo n.º 1175-DGRF), situada no município de Borba, válida até 15 de Julho de 2004.
+Vem agora a Ribeira do Lucefécit - Turismo e Cinegética, Lda., requerer a transmissão da concessão da zona de caça atrás citada e ao mesmo tempo a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 3 do artigo 164.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, no artigo 42.º e no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 2 do artigo 36.º, do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, e ouvido o Conselho Cinegético Municipal:
+Manda o Governo, pelos Ministros da Agricultura, Pescas e Florestas e do Turismo, o seguinte:
+1.º Pela presente portaria, a zona de caça turística da Herdade da Defesa de Cima e outras (processo n.º 1175-DGRF) é transferida para a Ribeira do Lucefécit - Turismo e Cinegética, Lda., com o número de pessoa colectiva 505318024 e sede na Quinta dos Mártires, 7100 Estremoz.
+2.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Herdade da Defesa de Cima e outras (processo n.º 1175-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Rio de Moinhos, município de Borba, com a área de 1352 ha.
+3.º A Direcção-Geral do Turismo emitiu, ao abrigo do disposto no n.º 3 do artigo 34.º e nos n.os 4 e 6 do artigo 42.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, parecer favorável, mantendo-se em vigor os condicionantes decorrentes do despacho de 31 de Maio de 2004, designadamente à verificação da conformidade da obra do pavilhão de caça com o projecto aprovado em 4 de Dezembro de 2002.
+4.º É revogada a Portaria n.º 1033-AH/2004, de 10 de Agosto.
+5.º A presente portaria produz efeitos a partir do dia 16 de Julho de 2004.
+Pelo Ministro da Agricultura, Pescas e Florestas, Luís António Pires Pinheiro, Secretário de Estado das Florestas, em 30 de Dezembro de 2004. - Pelo Ministro do Turismo, Carlos José das Neves Martins, Secretário de Estado Adjunto do Ministro do Turismo, em 5 de Janeiro de 2005.
