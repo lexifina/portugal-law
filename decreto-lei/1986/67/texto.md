@@ -1,0 +1,20 @@
+Decreto-Lei n.º 67/86
+de 26 de Março
+Pelo Decreto-Lei n.º 520/72, de 15 de Dezembro, foi fixada uma nova organização de estudos para o Instituto Superior de Economia da Universidade Técnica de Lisboa, no quadro de uma reestruturação geral dos estudos de economia e gestão nos estabelecimentos de ensino superior de Lisboa.
+Através do Decreto-Lei n.º 226/74, de 28 de Maio, foram conferidos ao então criado conselho directivo do Instituto Superior de Economia os poderes necessários para introduzir na organização dos estudos as alterações que entendesse mais adequadas.
+Entendeu então o conselho directivo do Instituto Superior de Economia que as necessidades do País no que respeitava às áreas de Economia e Organização e Gestão de Empresas já não justificavam o grau de bacharel, não tendo, em consequência, o mesmo sido considerado na organização curricular então aprovada e nas organizações curriculares vigentes desde então.
+Tal medida estava e está em consonância com o sentido da reestruturação que vem sendo operada desde o final de 1976 no sistema de ensino superior com a introdução do subsistema do ensino superior politécnico e que conduziu à extinção do grau de bacharel nas universidades, medida que tem vindo a ser tomada progressivamente nas diferentes instituições de ensino superior.
+Divergências de interpretação quanto ao alcance dos poderes conferidos ao conselho directivo pelo Decreto-Lei n.º 226/74, de 28 de Maio, e orientações diversas seguidas pelos órgãos de gestão do Instituto Superior de Economia quanto à concessão do grau de bacharel recomendam que seja tomada uma medida legal clarificadora da situação contemplando um adequado mecanismo de transição.
+Nestes termos:
+Sob proposta do Instituto Superior de Economia da Universidade Técnica de Lisboa e com a concordância da Reitoria da mesma Universidade:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º É extinto o grau de bacharel em Economia e em Organização e Gestão de Empresas conferido pela Universidade Técnica de Lisboa através do Instituto Superior de Economia.
+Art. 2.º Os alunos que entre os anos lectivos de 1972-1973 e de 1984-1985 se tenham inscrito pela primeira vez no 1.º ano nos cursos de licenciatura em Economia e Organização e Gestão de Empresas ministrados pelo Instituto Superior de Economia poderão requerer a concessão do grau de bacharel em Economia e em Organização e Gestão de Empresas, respectivamente.
+Art. 3.º Cabe ao conselho científico do Instituto Superior de Economia fixar os planos de estudos que deveriam ou deverão ser cumpridos para a atribuição do grau de bacharel.
+Art. 4.º O grau de bacharel pela Universidade Técnica de Lisboa através do Instituto Superior de Economia será conferido pela última vez no ano lectivo de 1986-1987.
+Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1986. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
+Promulgado em 6 de Março de 1986.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 7 de Março de 1986.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
