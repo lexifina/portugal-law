@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "38992",
+  "tipo": "Intervenção",
+  "orador": "Guilherme Silva (PSD)",
+  "data_registo": "1993-12-15",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "95554",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3686",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Estabelece os mecanismos de controlo e fiscalização do sistema de informação Schengen"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1993-12-15",
+    "Debate": "PPL 81",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "618",
+      "nome": "Guilherme Silva"
+    },
+    "FaseDebate": "GENERALIDADE",
+    "FaseSessao": "POD",
+    "Id": "38992",
+    "IdDebate": "325",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "3686",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "38992",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "668-670"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-12-16",
+        "pubLeg": "VI",
+        "pubNr": "19",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/019/1993-12-16/668?pgs=668-670&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "INTERVEM NO DEBATE. SCHENGEN . ",
+    "Sessao": "3",
+    "Sumario": "SCHENGEN: ESTABELECE OS MECANISMOS DE CONTROLO E FISCALIZA-CAO DO SISTEMA DE INFORMACAO DE SCHENGEN",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
