@@ -1,0 +1,3 @@
+Aviso n.º 197/91
+Por ordem superior se torna público que a República Federativa Checa e Eslovaca, a Mongólia e o Nepal depositaram, junto do Secretário-Geral das Nações Unidas, em 12 de Março, 16 de Abril e 14 de Maio de 1991, respectivamente, os instrumentos de adesão ao Protocolo Facultativo do Pacto Internacional Relativo aos Direitos Civis e Políticos, adoptado pela Assembleia Geral das Nações Unidas em 16 de Dezembro de 1966.
+Direcção-Geral dos Negócios Político-Económicos, 29 de Novembro de 1991. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
