@@ -1,0 +1,812 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "372",
+    "id": "28705",
+    "titulo": "Lei de bases dos recursos geológicos e do uso do subsolo"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1989-03-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4383",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1989-03-30",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "29258",
+        "leg": "V",
+        "nr": "85",
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-03-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ENERGIA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Nuno Ribeiro Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220489",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1942-1944",
+                  "1946-1946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1942?pgs=1942-1944,1946&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220490",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1944-1945"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1944?pgs=1944-1945&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220491",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1945-1945"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1945?pgs=1945&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220492",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1945-1946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1945?pgs=1945-1946&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220493",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1946-1946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1946?pgs=1946&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220494",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1947-1947"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1947?pgs=1947&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220495",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1947-1947"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1947?pgs=1947&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220496",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1947-1947"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1947?pgs=1947&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220497",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1947-1949",
+                  "1950-1950"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1947?pgs=1947-1949,1950&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ENERGIA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Nuno Ribeiro Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220498",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1949-1949"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1949?pgs=1949&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220499",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1949-1950"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1949?pgs=1949-1950&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220500",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1950-1951",
+                  "1951-1951",
+                  "1952-1952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1950?pgs=1950-1951,1951,1952&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220501",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1951-1951",
+                  "1951-1952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1951?pgs=1951,1951-1952&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220502",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1952-1953"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1952?pgs=1952-1953&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220503",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1953-1953",
+                  "1954-1954"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1953?pgs=1953,1954&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220504",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1953-1954"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1953?pgs=1953-1954&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220505",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1954-1955"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-31",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31/1954?pgs=1954-1955&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre o aproveitamento dos recursos geológicos; Lei de bases dos recursos geológicos e do uso do subsolo.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "220008",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "332524",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-03-31",
+        "pubLeg": "V",
+        "pubNr": "56",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/056/1989-03-31?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
