@@ -1,7 +1,7 @@
 # Artigo 146.º
 
-### (Julgamento)
+### (Decisão)
 
-1 - Recebido em juízo e independentemente de despacho, o processo vai com vista ao Ministério Público para emissão de parecer.
+1 - Recebido em juízo, e independentemente de despacho, o processo vai com vista ao Ministério Público, para emissão de parecer.
 
-2 - O juiz que tenha intervindo no processo donde conste o acto cujo registo está em causa fica impedido de julgar a impugnação judicial.
+2 - A sentença é proferida no prazo de 8 dias a contar da conclusão.

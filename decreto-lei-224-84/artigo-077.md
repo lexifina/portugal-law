@@ -2,8 +2,8 @@
 
 ### (Data e assinatura)
 
-1 - A data dos registos é a da apresentação ou, se desta não dependerem, a data em que forem efectuados.
+1 - A data dos registos é a da apresentação dos documentos ou, se desta não dependerem, a data em que forem lavrados.
 
-2 - Os registos são assinados, com menção da respectiva qualidade, pelo conservador ou pelo seu substituto legal, quando em exercício, ou, ainda, pelo oficial de registo, quando competente.
+2 - Os registos são assinados, com menção da respectiva qualidade, pelo conservador ou pelo seu substituto legal, quando em exercício.
 
-3 - (Revogado).
+3 - Nos averbamentos e anotações pode usar-se, respectivamente, a assinatura abreviada e a simples rubrica.

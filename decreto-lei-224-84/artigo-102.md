@@ -4,11 +4,11 @@
 
 1 - O averbamento deve conter os seguintes elementos:
 
-a) O número, a data e a hora da apresentação ou, se desta não depender, a data em que é feito;
+a) A letra e o número da inscrição a que respeita, seguidas do número de ordem correspondente ao averbamento;
 
-b) A data da inscrição a que respeita;
+b) O número e a data da apresentação, ou, se desta não depender, a data em que é feito;
 
-c) A menção do facto averbado e das cláusulas suspensivas ou resolutivas que condicionem os efeitos de actos de disposição ou de oneração;
+c) A menção do facto averbado e das condições suspensivas ou resolutivas que o afectem;
 
 d) Os sujeitos do facto averbado.
 

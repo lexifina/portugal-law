@@ -1,7 +1,7 @@
 # Artigo 132.º
 
-### Decisão da impugnação judicial
+### (Isenções)
 
-1 - Recebido em juízo e independentemente de despacho, o processo vai com vista ao Ministério Público, para emissão de parecer.
+1 - Os processos de rectificação estão isentos de custas e selo quando o pedido for julgado procedente ou a rectificação for promovida pelo conservador.
 
-2 - O juiz que tenha intervindo no processo donde conste o ato cujo registo está em causa fica impedido de julgar a impugnação judicial.
+2 - O registo da rectificação ou da sua pendência é gratuito, salvo se se tratar de inexactidão proveniente de deficiência dos títulos.

@@ -1,25 +1,15 @@
 # Artigo 108.º
 
-### (Dados recolhidos)
+### (Elementos a anotar no título)
 
-1 - São recolhidos para tratamento automatizado os seguintes dados pessoais respeitantes aos sujeitos do registo:
+Do título de registo devem constar:
 
-a) Nome;
+a) A designação da conservatória;
 
-b) Estado civil e, sendo o de solteiro, menção de maioridade ou menoridade;
+b) A identificação do prédio ou da fracção autónoma, de harmonia com os elementos constantes da respectiva descrição;
 
-c) Nome do cônjuge e regime de bens;
+c) A indicação discriminada de todos os registos em vigor, mediante a menção da espécie do facto registado, do nome completo dos titulares respectivos e do valor dos encargos e sua duração;
 
-d) Residência habitual ou domicílio profissional;
+d) A data da emissão;
 
-e) Número de identificação fiscal.
-
-2 - Relativamente aos apresentantes dos pedidos de registo, são recolhidos os dados referidos nas alíneas a), d) e e) do número anterior e ainda os seguintes:
-
-a) Número do documento de identificação ou da cédula profissional;
-
-b) Número de identificação bancária, se disponibilizado pelo apresentante.
-
-3 - São ainda recolhidos quaisquer outros dados referentes à situação jurídica dos prédios, bem como o preço de cada transação.
-
-4 - Os dados relativos ao preço de transação dos imóveis são disponibilizados no Portal da Justiça, de forma anonimizada e agregada por freguesia, município e distrito, com atualização mínima mensal.
+e) A assinatura do conservador ou do ajudante.

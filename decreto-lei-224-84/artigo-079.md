@@ -1,6 +1,6 @@
 ## Capítulo II
 
-## Descrições, averbamentos e anotações
+## Descrições e seus averbamentos
 
 ## Secção I
 
@@ -14,6 +14,6 @@
 
 2 - De cada prédio é feita uma descrição distinta.
 
-3 - No seguimento da descrição do prédio são lançadas as inscrições ou as correspondentes cotas de referência.
+3 - À margem da descrição são lançadas as cotas de referência das respectivas inscrições.
 
-4 - Sempre que se cancelem ou caduquem as inscrições correspondentes, ou se transfiram os seus efeitos mediante novo registo, as inscrições ou as cotas de referência devem publicitar que a informação deixou de estar em vigor.
+4 - As cotas de referência são trancadas e rubricadas logo que se cancelem ou caduquem as inscrições correspondentes ou quando os efeitos destas se transfiram mediante novo registo.

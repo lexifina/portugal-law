@@ -2,16 +2,18 @@
 
 ### (Representação)
 
-1 - O registo pode ser pedido por mandatário com procuração que lhe confira poderes especiais para o acto.
+1 - O registo pode ser pedido por mandatário com procuração bastante.
 
-2 - Não carecem de procuração para pedir o registo:
+2 - Salvo se constar do título a vontade de não registar, o registo pode ainda ser pedido:
 
-a) Aqueles que tenham poderes de representação para intervir no respectivo título, nos quais se haverão como compreendidos os necessários às declarações complementares relativas à identificação do prédio;
+a) Por quem tenha poderes de representação para intervir no respectivo título;
 
-b) Os advogados, os notários e os solicitadores.
+b) Pelo mandatário com poderes forenses gerais;
 
-3 - Sem prejuízo do disposto na alínea a), o número anterior não se aplica aos pedidos de averbamento à descrição de factos que não constem de documento oficial.
+c) Por qualquer outra pessoa que assine a requisição de registo.
 
-4 - A representação abrange sempre a faculdade de requerer urgência na realização do registo, subsiste até à feitura do registo e implica a responsabilidade solidária do representante no pagamento dos respectivos encargos.
+3 - A representação subsiste até à feitura do registo e, no caso da alínea c) do número anterior, implica a responsabilidade solidária do representante no pagamento dos respectivos encargos.
 
-5 - Compete ao respetivo representante legal ou ao Ministério Público requerer o registo quando, em processo de inventário, for adjudicado a incapaz ou ausente em parte incerta qualquer direito sobre imóveis.
+4 - Os pedidos de averbamento à descrição e a interposição de recurso ou reclamação hierárquica exigem procuração expressa.
+
+5 - As declarações complementares relativas à identificação do prédio podem também ser feitas por quem tenha poderes conferidos nos termos da alínea a) do n.º 2.

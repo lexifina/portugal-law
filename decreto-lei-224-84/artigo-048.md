@@ -1,9 +1,5 @@
 # Artigo 48.º
 
-### Penhora
+### (Aquisição por arrematação judicial)
 
-1 - Sem prejuízo do disposto quanto às execuções fiscais, o registo da penhora é efectuado com base em comunicação electrónica do agente de execução ou em declaração por ele subscrita.
-
-2 - (Revogado).
-
-3 - (Revogado).
+O registo provisório de aquisição por arrematação judicial é feito com base em certidão comprovativa da arrematação e do depósito da décima parte do preço e das despesas prováveis.

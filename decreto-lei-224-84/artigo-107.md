@@ -1,7 +1,15 @@
+## Secção I
+
+## Títulos de registo
+
 # Artigo 107.º
 
-### (Entidade responsável pelo tratamento das bases de dados)
+### (Emissão dos títulos)
 
-1 - O presidente do Instituto dos Registos e do Notariado, I. P., é o responsável pelo tratamento das bases de dados, nos termos e para os efeitos definidos na Lei de Protecção de Dados Pessoais, sem prejuízo da responsabilidade que, nos termos da lei, é atribuída aos conservadores.
+1 - Por cada prédio ou fracção autónoma é emitido pela conservatória um título de registo destinado à anotação da respectiva descrição e dos registos em vigor.
 
-2 - Cabe ao presidente do Instituto dos Registos e do Notariado, I. P., assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, bem como velar pela legalidade da consulta ou comunicação da informação.
+2 - Os títulos de registo obedecem a modelo aprovado por portaria do Ministro da Justiça e são emitidos ou actualizados, a pedido verbal do proprietário inscrito.
+
+3 - Só pode ser passada 2.ª via do título no caso de destruição ou extravio alegado em requerimento do proprietário.
+
+4 - A emissão do título é sempre anotada à descrição.

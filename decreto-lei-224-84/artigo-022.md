@@ -6,8 +6,8 @@
 
 ### (Diário e fichas)
 
-Existem nos serviços de registo:
+Haverá em cada conservatória, para o serviço de registo:
 
-a) Um diário, em suporte informático, destinado à anotação cronológica dos pedidos de registo e respectivos documentos;
+a) O livro Diário, destinado à anotação cronológica dos pedidos de registo e respectivos documentos;
 
-b) Fichas de registo, em suporte informático, destinadas a descrições, inscrições, averbamentos e anotações.
+b) Fichas de registo, destinadas a descrições, indiscrições, averbamentos e anotações.

@@ -6,4 +6,4 @@
 
 2 - Quando o prédio não estiver descrito será passada certidão negativa pela conservatória a cuja área pertenceu, salvo se estiver concluída a transferência de todas as fichas ou fotocópias.
 
-3 - As certidões e fotocópias referidas nos números anteriores são requisitadas e passadas gratuitamente, com indicação do fim a que se destinam.
+3 - As certidões e fotocópias referidas nos números anteriores são requisitadas e passadas gratuitamente com isenção de selo e indicação do fim a que se destinam.

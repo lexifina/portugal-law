@@ -2,6 +2,6 @@
 
 ### (Documentos provisoriamente arquivados)
 
-1 - Enquanto as condições técnicas não permitirem o seu arquivo electrónico, os documentos respeitantes a actos recusados permanecem no serviço de registo quando tenha sido interposto recurso hierárquico ou impugnação judicial ou enquanto o prazo para a sua interposição não tiver expirado.
+1 - Os documentos respeitantes a actos recusados permanecem na conservatória quando tenha sido interposto recurso ou reclamação hierárquica, ou enquanto o prazo para a sua interposição não tiver expirado, salvo, no último caso, se o interessado pedir a sua devolução.
 
-2 - (Revogado).
+2 - O pedido de devolução dos documentos equivale à renúncia de recurso ou reclamação.

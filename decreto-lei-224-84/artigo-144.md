@@ -1,11 +1,7 @@
 # Artigo 144.º
 
-### (Decisão do recurso hierárquico)
+### (Registos pendentes)
 
-1 - O recurso hierárquico é decidido no prazo de 90 dias, pelo presidente do Instituto dos Registos e do Notariado, I. P., que pode determinar que seja previamente ouvido o conselho técnico.
+1 - No caso de recusa, julgados procedentes o recurso ou a reclamação, ou reparada a decisão pelo conservador, anotar-se-á a caducidade dos registos provisórios incompatíveis com o acto recusado e converter-se-ão oficiosamente os registos dependentes.
 
-2 - Quando haja de ser ouvido, o conselho técnico deve pronunciar-se no prazo máximo de 60 dias, incluído no prazo referido no número anterior.
-
-3 - A decisão proferida é notificada ao recorrente e comunicada ao conservador que sustentou a decisão.
-
-4 - Sendo o recurso hierárquico deferido, deve ser dado cumprimento à decisão no próprio dia.
+2 - Verificando-se a caducidade do direito de impugnação, ou qualquer dos factos previstos no n.º 2 do artigo anterior, é anotada a caducidade dos registos dependentes e são convertidos os registos incompatíveis.

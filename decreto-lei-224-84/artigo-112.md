@@ -2,16 +2,10 @@
 
 ### (Conteúdo da certidão)
 
-1 - As certidões de registo devem conter:
+1 - As certidões ou fotocópias devem transcrever literalmente as descrições e todos os registos em vigor sobre o imóvel, salvo se tiverem sido pedidas com referência apenas a certos actos de registo.
 
-a) A reprodução das descrições e dos actos de registo em vigor respeitantes aos prédios em causa, salvo se tiverem sido pedidas com referência a todos os actos de registo;
+2 - As certidões de narrativa e as certidões e fotocópias pedidas com referência a certos actos serão passadas por forma a não induzirem em erro acerca do conteúdo do registo e da posição dos seus titulares e devem referir os factos registados ou os títulos apresentados que alterem o pedido.
 
-b) A menção das apresentações pendentes sobre o prédio em causa;
+3 - As certidões e fotocópias de registo que revele alguma irregularidade ou deficiência não rectificada devem mencionar esta circunstância.
 
-c) As irregularidades ou deficiências de registo não rectificadas;
-
-d) Os documentos arquivados para os quais os registos remetam.
-
-2 - Se as condições técnicas o permitirem, podem ser emitidas certidões com referência a determinados actos de registo ou partes de documentos.
-
-3 - Se for encontrado um prédio descrito que apenas ofereça semelhança com o identificado no pedido, é passada certidão daquele, com menção desta circunstância, devendo, neste caso, os interessados declarar, nos instrumentos ou termos processuais a que a certidão se destine, se existe relação entre ambos os prédios.
+4 - Se for encontrado descrito um prédio que apenas ofereça semelhança com o identificado no pedido, será passada certidão daquele, com menção desta circunstância, devendo, neste caso, os interessados declarar, nos instrumentos ou termos processuais a que a certidão se destine, se existe relação entre ambos os prédios.

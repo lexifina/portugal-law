@@ -1,9 +1,13 @@
 # Artigo 56.º
 
-### (Cancelamento de hipoteca)
+### (Cancelamento de hipotecas)
 
-1 - O cancelamento do registo de hipoteca é feito com base em documento de que conste o consentimento do credor.
+1 - O cancelamento de registo de hipoteca é feito com base em documento autêntico ou autenticado de que conste o consentimento do credor.
 
-2 - O documento referido no número anterior deve conter a assinatura reconhecida presencialmente, salvo se esta for feita na presença de funcionário de serviço de registo no momento do pedido.
+2 - A hipoteca para garantia de pensões periódicas é cancelada em face da certidão de óbito do respectivo titular e de algum dos seguintes documentos:
 
-3 - O consentimento do credor para o cancelamento do registo de hipoteca pode ser prestado por via electrónica, nos termos definidos por portaria do membro do Governo responsável pela área da justiça.
+a) Recibos de pagamento das pensões vencidas nos 5 anos anteriores à morte do pensionista;
+
+b) Declaração, assinada pelos herdeiros habilitados do pensionista, de não estar em dívida nenhuma pensão;
+
+c) Certidão, passada pelo tribunal da residência dos devedores, comprovativa de não ter sido distribuído no último decénio processo para cobrança das pensões, se o pensionista tiver morrido há mais de 5 anos.

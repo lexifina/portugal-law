@@ -6,4 +6,4 @@
 
 2 - A inexistência pode ser invocada por qualquer pessoa, a todo o tempo, independentemente de declaração judicial.
 
-3 - (Revogado).
+3 - No caso previsto na alínea a) do artigo anterior, o conservador transferirá os documentos e cópia dos registos para a conservatória competente, que efectuará oficiosamente o registo com comunicação ao interessado.

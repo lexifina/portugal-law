@@ -1,15 +1,17 @@
+## Secção II
+
+## Certidões e fotocópias
+
 # Artigo 111.º
 
-### (Pedido de certidão)
+### (Requisição)
 
-1 - As certidões podem ser pedidas verbalmente ou por escrito.
+1 - As certidões e as fotocópias são requisitadas em impressos de modelo oficial, entregue na conservatória ou remetido pelo correio, nele se anotando a data da entrada e o número de ordem anual.
 
-2 - Os modelos dos pedidos de certidões requisitadas por escrito são aprovados por despacho do presidente do Instituto dos Registos e do Notariado, I. P.
+2 - As requisições não têm apresentação e devem conter, além da identificação do requisitante, o número da descrição e a freguesia dos prédios ou fracções autónomas a que respeitem.
 
-3 - O pedido de certidão pode ser efectuado por qualquer uma das modalidades previstas no artigo 41.º-B.
+3 - Os duplicados das requisições são arquivados em maços mensais.
 
-4 - Os pedidos de certidão devem conter, além da identificação do requerente, o número da descrição, a freguesia e o concelho dos prédios ou fracções autónomas a que respeitem.
+4 - Tratando-se de prédio não descrito deve indicar-se a natureza do prédio, a sua situação, as confrontações, o artigo da matriz e o nome, estado e residência do proprietário ou possuidor actual, bem como dois imediatamente anteriores, salvo, quanto a estes, se o requisitante alegar na requisição as razões justificativas do seu desconhecimento.
 
-5 - Tratando-se de prédio não descrito deve indicar-se a natureza do prédio, a sua situação, as confrontações, o artigo da matriz e o nome, estado e residência do proprietário ou possuidor actual, bem como dos dois imediatamente anteriores, salvo, quanto a estes, se o requerente alegar no pedido as razões justificativas do seu desconhecimento.
-
-6 - Se o pedido respeitar a quota-parte de prédio não descrito e indiviso, deve conter o nome, estado e, sendo casado, o nome do cônjuge de todos os comproprietários.
+5 - Se a requisição respeitar a quota-parte de prédio indiviso, deve conter o nome, estado e residência de todos os comproprietários.

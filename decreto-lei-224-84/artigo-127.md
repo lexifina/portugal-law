@@ -1,11 +1,7 @@
 # Artigo 127.º
 
-### (Indeferimento liminar)
+### (Rectificação judicial)
 
-1 - Sempre que o pedido se prefigure como manifestamente improcedente, o conservador indefere liminarmente o requerido, por despacho fundamentado de que notifica o requerente.
+1 - Se a conferência não for possível ou na falta de acordo, pode a rectificação judicial ser requerida por qualquer interessado.
 
-2 - A decisão de indeferimento liminar pode ser impugnada nos termos do artigo 131.º
-
-3 - Pode o conservador, face aos fundamentos alegados no recurso interposto, reparar a sua decisão de indeferir liminarmente o pedido, mediante despacho fundamentado que ordene o prosseguimento do processo, do qual é notificado o recorrente.
-
-4 - Não sendo a decisão reparada, são notificados os interessados a que se refere o artigo 129.º para, no prazo de 10 dias, impugnarem os fundamentos do recurso, remetendo-se o processo à entidade competente.
+2 - Não sendo requerida no prazo de 8 dias, deve o conservador promover oficiosamente a rectificação, quando reconheça que o registo é inexacto ou foi indevidamente lavrado, ou, no caso contrário, cancelar o averbamento a que se refere o n.º 2 do artigo anterior.

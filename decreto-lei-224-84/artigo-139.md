@@ -6,4 +6,4 @@
 
 2 - Julgada procedente a acção, será o registo lavrado com a menção das inscrições a que se refere.
 
-3 - A acção não prejudica os direitos decorrentes de factos registados antes do registo da acção que não tenham constado dos suportes documentais reformados.
+3 - A acção não prejudica os direitos decorrentes de factos registados antes do registo da acção que não tenham estado inscritos no livro ou na ficha perdida.

@@ -1,11 +1,9 @@
 # Artigo 126.º
 
-### (Averbamento de pendência da rectificação)
+### (Rectificação em conferência)
 
-1 - Quando a rectificação não deva ser efectuada nos termos dos artigos 124.º ou 125.º, é averbada ao respectivo registo a pendência da rectificação, com referência à anotação no diário do pedido ou do auto de verificação da inexactidão, consoante os casos.
+1 - Suscitada a inexactidão ou nulidade do registo indevidamente lavrado e não sendo a rectificação requerida por todos os interessados, o conservador, por sua iniciativa ou a pedido de qualquer deles, convocará, por carta registada com aviso de recepção, uma conferência de todos para deliberarem sobre a rectificação.
 
-2 - O averbamento a que se refere o número anterior não prejudica o decurso do prazo de caducidade a que o registo rectificando esteja sujeito.
+2 - O requerimento é anotado no Diário, juntamente com os documentos, e a pendência da rectificação é averbada, em qualquer caso, ao respectivo registo.
 
-3 - Os registos de outros factos que venham a ser efectuados e que dependam, directa ou indirectamente, da rectificação pendente estão sujeitos ao regime de provisoriedade previsto na alínea b) do n.º 2 do artigo 92.º, sendo-lhes aplicável, com as adaptações necessárias, os n.os 6 a 8 do mesmo artigo.
-
-4 - O averbamento da pendência é oficiosamente cancelado mediante decisão definitiva que indefira a retificação.
+3 - Se o conservador e todos os interessados acordarem na rectificação, lavrar-se-á auto de acordo.

@@ -1,11 +1,11 @@
 # Artigo 57.º
 
-### (Cancelamento de hipoteca para garantia de pensões periódicas)
+### (Créditos sujeitos a manifesto fiscal)
 
-A hipoteca para garantia de pensões periódicas é cancelada em face da certidão de óbito do respectivo titular e de algum dos seguintes documentos:
+1 - O cancelamento da inscrição relativa a crédito sujeito a manifesto fiscal é efectuado em face de documento pelo qual se mostre o distrate da dívida, independentemente da apresentação do título comprovativo do pagamento do imposto de capitais.
 
-a) Recibos de pagamento das pensões vencidas nos cinco anos anteriores à morte do pensionista;
+2 - O cancelamento da inscrição relativa a crédito sujeito a manifesto fiscal pode também ser feito com base em certidão comprovativa de qualquer dos seguintes factos:
 
-b) Declaração, assinada pelos herdeiros habilitados do pensionista, de não estar em dívida nenhuma pensão;
+a) Ter sido cancelado o manifesto há mais de 10 anos;
 
-c) Certidão, passada pelo tribunal da residência dos devedores, comprovativa de não ter sido distribuído no último decénio processo para cobrança das pensões, se o pensionista tiver morrido há mais de cinco anos.
+b) Não constar o crédito dos livros para lançamento do imposto sobre a aplicação de capitais referente aos últimos 5 anos, no caso de o manifesto dever ter sido feito há mais de 10 anos.

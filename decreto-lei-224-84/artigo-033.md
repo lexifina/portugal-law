@@ -6,8 +6,8 @@
 
 ### (Denominação das vias públicas e numeração policial)
 
-1 - As câmaras municipais comunicam, sempre que possível por via electrónica e automática, aos serviços de registo, até ao último dia de cada mês, todas as alterações de denominações de vias públicas e de numeração policial dos prédios verificadas no mês anterior, no caso de essa informação não estar disponível nas respectivas bases de dados.
+1 - As câmaras municipais comunicarão à conservatória competente, até ao último dia de cada mês, todas as alterações de denominações de vias públicas e de numeração policial dos prédios verificadas no mês anterior.
 
-2 - A prova da correspondência entre a antiga e a nova denominação ou numeração, se não puder ser obtida nos termos do número anterior, nem resultar dos documentos apresentados, considera-se suprida por declaração complementar dos interessados, quando a câmara municipal, a pedido do serviço de registo, comunicar a impossibilidade de a estabelecer.
+2 - A prova da correspondência entre a antiga e a nova denominação ou numeração, se não resultar dos documentos apresentados, pode ser suprida por declaração complementar dos interessados, quando a câmara municipal certificar a impossibilidade de a estabelecer.
 
-3 - (Revogado).
+3 - A certidão a que se refere o número anterior é requerida em papel comum, isenta de selo e passada gratuitamente.

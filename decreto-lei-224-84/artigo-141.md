@@ -1,11 +1,9 @@
 # Artigo 141.º
 
-### Prazos e legitimidade
+### (Prazo)
 
-1 - O prazo para a interposição de recurso hierárquico ou de impugnação judicial é de 30 dias a contar da notificação a que se refere o artigo 71.º.
+1 - O prazo para interposição do recurso ou da reclamação hierárquica é de 30 dias a contar do termo do prazo para o registo ou da notificação a que se refere o n.º 1 do artigo 71.º
 
-2 - (Revogado).
+2 - A interposição considera-se feita com a apresentação da petição na conservatória.
 
-3 - A interposição da impugnação judicial faz precludir o direito de interpor recurso hierárquico e equivale à desistência deste, quando já interposto.
-
-4 - Tem legitimidade para interpor recurso hierárquico ou impugnação judicial o apresentante do registo ou a pessoa que por ele tenha sido representada.
+3 - Sendo deduzida reclamação hierárquica, o prazo para interposição do recurso contencioso é alargado para 180 dias.

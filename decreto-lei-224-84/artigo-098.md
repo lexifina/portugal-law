@@ -6,4 +6,4 @@
 
 2 - A inscrição de propriedade limitada pelos direitos referidos no número anterior, fora do condicionalismo aí previsto, conterá a menção das limitações a que a propriedade está sujeita.
 
-3 - Se a plena propriedade for inscrita com base na aquisição separada da propriedade e do direito de usufruto, ainda que por títulos diferentes, proceder-se-á oficiosamente ao cancelamento do registo daquele direito.
+3 - Se a plena propriedade for inscrita com base na aquisição separada da propriedade e dos direitos de usufruto ou uso e habitação, ainda que por títulos diferentes, proceder-se-á oficiosamente ao cancelamento do registo daqueles direitos.

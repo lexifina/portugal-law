@@ -4,18 +4,18 @@
 
 1 - A anotação da apresentação deve conter os seguintes elementos:
 
-a) O número de ordem, a data, a hora da apresentação em UTC (Universal Time, Coordinated) e a modalidade do pedido;
+a) O número de ordem e a data da apresentação;
 
-b) O nome do apresentante e o seu cargo, quando se trate de entidade oficial que nessa qualidade formule o pedido de registo;
+b) O nome completo do apresentante ou o seu cargo, quando se trate de entidade oficial que nessa qualidade assine a requisição de registo;
 
 c) O facto que se pretende registar;
 
-d) O número da descrição ou das descrições a que o facto respeita, freguesia e concelho, ou, tratando-se de prédio não descrito, o número da inscrição matricial, natureza, freguesia e concelho;
+d) O número da descrição ou descrições a que o facto respeita;
 
 e) A espécie dos documentos e o seu número.
 
-2 - As indicações para a anotação resultam do pedido de registo.
+2 - As indicações para a anotação são extraídas da requisição de registo.
 
-3 - Cada um dos prédios não descritos é identificado pelo número da descrição que lhe vier a corresponder, em anotação complementar, a efectuar automaticamente logo que as condições técnicas o permitam.
+3 - Cada um dos prédios não descritos será identificado pelo número da descrição que lhe vier a corresponder, em anotação complementar, na linha respectiva deixada em branco para esse efeito.
 
-4 - (Revogado).
+4 - Na coluna reservada a observações será aposta a data da feitura do último registo em cada dia.

@@ -1,9 +1,13 @@
+## Capítulo II
+
+## Recurso contencioso
+
 # Artigo 145.º
 
-### (Impugnação judicial)
+### (Processamento)
 
-1 - Tendo o recurso hierárquico sido julgado improcedente, o interessado pode ainda impugnar judicialmente a decisão de qualificação do ato de registo.
+1 - Na petição do recurso, o recorrente fundamentará a improcedência da decisão do conservador e pedirá a realização do registo ou a sua conversão em definitivo.
 
-2 - A impugnação judicial é proposta mediante apresentação do requerimento no serviço de registo competente, no prazo de 20 dias a contar da data da notificação da decisão que tiver julgado improcedente o recurso hierárquico.
+2 - A petição e os documentos oferecidos devem ser entregues na conservatória e anotados no Diário.
 
-3 - O processo é remetido ao tribunal no prazo de cinco dias, instruído com o de recurso hierárquico.
+3 - No prazo de 5 dias, o conservador, se não reparar a decisão, proferirá despacho de sustentação, juntando cópia dos motivos da recusa ou das dúvidas e os documentos que entender necessários e remeterá o processo a juízo.
