@@ -1,0 +1,373 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "128",
+    "id": "6173",
+    "titulo": "Estabelece a igualdade de condições de financiamento a todas as freguesias abrangidas pelo regime de permanência."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2001-06-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2000",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2001-06-28",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-06-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "108",
+                "nome": "Manuel Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4014-4014",
+                  "4023-4023"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-29",
+                "pubLeg": "VIII",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/103/2001-06-29/4014?pgs=4014,4023&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE A IGUALDADE DE CONDIÇÕES DE FINANCIAMENTO A TODAS AS FREGUESIAS ABRANGIDAS PELO REGIME DE PERMANÊNCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4014-4014",
+                  "4023-4023"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-29",
+                "pubLeg": "VIII",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/103/2001-06-29/4014?pgs=4014,4023&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE A IGUALDADE DE CONDIÇÕES DE FINANCIAMENTO A TODAS AS FREGUESIAS ABRANGIDAS PELO REGIME DE PERMANÊNCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1351",
+                "nome": "Manuel Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4023-4023"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-29",
+                "pubLeg": "VIII",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/103/2001-06-29/4023?pgs=4023&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE A IGUALDADE DE CONDIÇÕES DE FINANCIAMENTO A TODAS AS FREGUESIAS ABRANGIDAS PELO REGIME DE PERMANÊNCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1022",
+                "nome": "Eugénio Marinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4023-4023"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-29",
+                "pubLeg": "VIII",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/103/2001-06-29/4023?pgs=4023&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE A IGUALDADE DE CONDIÇÕES DE FINANCIAMENTO A TODAS AS FREGUESIAS ABRANGIDAS PELO REGIME DE PERMANÊNCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1242",
+                "nome": "João Moura de Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4023-4023"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-29",
+                "pubLeg": "VIII",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/103/2001-06-29/4023?pgs=4023&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE A IGUALDADE DE CONDIÇÕES DE FINANCIAMENTO A TODAS AS FREGUESIAS ABRANGIDAS PELO REGIME DE PERMANÊNCIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4023-4023"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-29",
+                "pubLeg": "VIII",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/103/2001-06-29/4023?pgs=4023&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE A IGUALDADE DE CONDIÇÕES DE FINANCIAMENTO A TODAS AS FREGUESIAS ABRANGIDAS PELO REGIME DE PERMANÊNCIA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146903",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2000",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-06-29",
+        "pubLeg": "VIII",
+        "pubNr": "103",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/103/2001-06-29?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2001-06-28",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> PEV</I>, <I> BE</I>",
+        "id": "28157",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "103",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
