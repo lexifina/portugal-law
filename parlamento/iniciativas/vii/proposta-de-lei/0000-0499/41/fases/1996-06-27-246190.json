@@ -1,0 +1,2013 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "41",
+    "id": "5452",
+    "titulo": "Altera os estatutos da Santa Casa da Misericórdia."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-06-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5536",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-06-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5454",
+        "leg": "VII",
+        "nr": "39",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "188",
+            "obs": null,
+            "pag": [
+              "2998-2999",
+              "3000-3005"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-06-28",
+            "pubLeg": "VII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2998?pgs=2998-2999,3000-3005&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "188",
+            "obs": null,
+            "pag": [
+              "2998-2999",
+              "3000-3005"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-06-28",
+            "pubLeg": "VII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2998?pgs=2998-2999,3000-3005&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Estabelece critérios relativos a atribuição de verbas destinadas a certas entidades provenientes da exploração do totobola."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5453",
+        "leg": "VII",
+        "nr": "40",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "188",
+            "obs": null,
+            "pag": [
+              "2998-2999",
+              "3000-3005"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-06-28",
+            "pubLeg": "VII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2998?pgs=2998-2999,3000-3005&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "188",
+            "obs": null,
+            "pag": [
+              "2998-2999",
+              "3000-3005"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-06-28",
+            "pubLeg": "VII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2998?pgs=2998-2999,3000-3005&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Altera o regime jurídico relativo a distribuição das receitas do totobola, passando a promoção e o desenvolvimento do futebol a receber a sua totalidade, sendo que 50% desta verba e afectada ao pagamento das dívidas referentes a impostos e contribuições para a segurança social contraídas pelos clubes, ate 31 de Maio de 1996."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-06-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2999-2999"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2999?pgs=2999&org=PLC"
+              }
+            ],
+            "sumario": "VOTACAO DE DIPLOMAS: ART° 27° DO ESTATUTO DOS DEPUTADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "68",
+                "nome": "João Mota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3029-3029"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3029?pgs=3029&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2999-2999"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2999?pgs=2999&org=PLC"
+              }
+            ],
+            "sumario": "VOTACAO DE DIPLOMAS: ART° 27° DO ESTATUTO DOS DEPUTADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "33",
+                "nome": "Carlos Marta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3028-3028"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3028?pgs=3028&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43119",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3003-3003"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3003?pgs=3003&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "201",
+                "nome": "Mário Videira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2999-2999"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2999?pgs=2999&org=PLC"
+              }
+            ],
+            "sumario": "VOTACAO DE DIPLOMAS: ART° 27° DO ESTATUTO DOS DEPUTADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "370",
+                "nome": "Luís Marques Mendes"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43120",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3001"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "35",
+                "nome": "Carlos Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2998-2998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2998?pgs=2998&org=PLC"
+              }
+            ],
+            "sumario": "VOTACAO DE DIPLOMAS: ART° 27° DO ESTATUTO DOS DEPUTADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43121",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3001"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2998-2999"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2998?pgs=2998-2999&org=PLC"
+              }
+            ],
+            "sumario": "VOTACAO DE DIPLOMAS: ART° 27° DO ESTATUTO DOS DEPUTADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43122",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3001"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2998-2998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2998?pgs=2998&org=PLC"
+              }
+            ],
+            "sumario": "VOTACAO DE DIPLOMAS: ART° 27° DO ESTATUTO DOS DEPUTADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "280",
+                "nome": "Carlos Encarnação"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3001"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43125",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3003",
+                  "3005-3005"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001-3003,3005&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3003"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001-3003&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "68",
+                "nome": "João Mota"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43127",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3000-3000"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3000?pgs=3000&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "33",
+                "nome": "Carlos Marta"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3000-3000"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3000?pgs=3000&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1350",
+                "nome": "Gilberto Parca Madail"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43129",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3000-3000"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3000?pgs=3000&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3001"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          }
+        ]
+      },
+      {
+        "dataReuniaoPlenaria": "1996-06-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2999-2999"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2999?pgs=2999&org=PLC"
+              }
+            ],
+            "sumario": "VOTACAO DE DIPLOMAS: ART° 27° DO ESTATUTO DOS DEPUTADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "68",
+                "nome": "João Mota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3029-3029"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3029?pgs=3029&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2999-2999"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2999?pgs=2999&org=PLC"
+              }
+            ],
+            "sumario": "VOTACAO DE DIPLOMAS: ART° 27° DO ESTATUTO DOS DEPUTADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "33",
+                "nome": "Carlos Marta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3028-3028"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3028?pgs=3028&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43119",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3003-3003"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3003?pgs=3003&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "201",
+                "nome": "Mário Videira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2999-2999"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2999?pgs=2999&org=PLC"
+              }
+            ],
+            "sumario": "VOTACAO DE DIPLOMAS: ART° 27° DO ESTATUTO DOS DEPUTADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "370",
+                "nome": "Luís Marques Mendes"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43120",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3001"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "35",
+                "nome": "Carlos Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2998-2998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2998?pgs=2998&org=PLC"
+              }
+            ],
+            "sumario": "VOTACAO DE DIPLOMAS: ART° 27° DO ESTATUTO DOS DEPUTADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43121",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3001"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2998-2999"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2998?pgs=2998-2999&org=PLC"
+              }
+            ],
+            "sumario": "VOTACAO DE DIPLOMAS: ART° 27° DO ESTATUTO DOS DEPUTADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43122",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3001"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2998-2998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/2998?pgs=2998&org=PLC"
+              }
+            ],
+            "sumario": "VOTACAO DE DIPLOMAS: ART° 27° DO ESTATUTO DOS DEPUTADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "280",
+                "nome": "Carlos Encarnação"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3001"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43125",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3003",
+                  "3005-3005"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001-3003,3005&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3003"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001-3003&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "68",
+                "nome": "João Mota"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43127",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3000-3000"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3000?pgs=3000&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "33",
+                "nome": "Carlos Marta"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3000-3000"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3000?pgs=3000&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1350",
+                "nome": "Gilberto Parca Madail"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43129",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3000-3000"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3000?pgs=3000&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "23:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3001"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-28",
+                "pubLeg": "VII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/088/1996-06-28/3001?pgs=3001&org=PLC"
+              }
+            ],
+            "sumario": "TOTOBOLA: VERBAS RECEITAS E ESTATUT DA STA CASA MISERICORDIAMISERICORDIA.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "246190",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
