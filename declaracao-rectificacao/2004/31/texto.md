@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 31/2004
+Segundo comunicação do Ministério das Finanças, a Portaria n.º 150/2004, publicada no Diário da República, 1.ª série, n.º 37, de 13 de Fevereiro de 2004, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Na lista dos países, onde se lê «16) Ilhas Cocos e Kelling;» deve ler-se «16) Ilhas Cocos o Keeling;», onde se lê «34) Ilhas Keslim;» deve ler-se «34) Ilha de Queshm;», onde se lê «54) Ilhas Pacífico;» deve ler-se «54) Ilhas do Pacífico não compreendidas nos restantes números;», onde se lê «72) Ilhas Svalbard;» deve ler-se «72) Ilhas Svalbard (arquipélago Spitsbergen e ilha Bjornoya);».
+Secretaria-Geral da Presidência do Conselho de Ministros, 10 de Março de 2004. - O Secretário-Geral, José M. Sousa Rego.
