@@ -1,0 +1,4 @@
+Aviso n.º 131/2001
+Por ordem superior se torna público que, pela Resolução da Assembleia da República n.º 33/2001, publicada no Diário da República, 1.ª série-A, de 1 de Março de 2001, ratificada pelo Decreto do Presidente da República n.º 27/2001, publicado no Diário da República, 1.ª série-A, de 4 de Abril de 2001, foi aprovada a Convenção entre a República Portuguesa e a República Federativa do Brasil Destinada a Evitar a Dupla Tributação e a Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e o Protocolo Anexo, assinada em Brasília em 16 de Maio de 2000.
+A troca dos instrumentos de ratificação, prevista no artigo 28.º da referida Convenção, foi efectuada em 5 de Setembro de 2001, pelo que, nos termos do mesmo artigo, a Convenção entrou em vigor em 5 de Outubro de 2001.
+Direcção-Geral das Relações Bilaterais, 28 de Novembro de 2001. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira.
