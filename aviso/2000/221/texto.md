@@ -1,0 +1,5 @@
+Aviso n.º 221/2000
+Por ordem superior se torna público que, por nota de 30 de Outubro de 2000, o Secretariado-Geral do Conselho da União Europeia notificou que as Partes Contratantes do Protocolo do Acordo de Parceria e de Cooperação Que Estabelece Uma Parceria entre as Comunidades Europeias e os Seus Estados Membros, por um lado, e a Federação da Rússia, por outro, assinado em Bruxelas, em 21 de Maio de 1997, concluíram, em 13 de Outubro de 2000, as formalidades necessárias à entrada em vigor do Protocolo.
+Portugal é Parte neste Protocolo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 62-A/97 e ratificado pelo Decreto do Presidente da República n.º 67-B/97, ambos publicados no Diário da República, 1.ª série-A, n.º 248, suplemento, de 25 de Outubro de 1997.
+Nos termos do artigo 4.º, o Protocolo entra em vigor em 1 de Dezembro de 2000.
+Direcção-Geral dos Assuntos Comunitários, 13 de Novembro de 2000. - O Director do Serviço dos Assuntos Jurídicos, Luís Inez Fernandes.
