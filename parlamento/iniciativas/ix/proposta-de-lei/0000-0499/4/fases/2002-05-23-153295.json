@@ -1,0 +1,869 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "4",
+    "id": "19025",
+    "titulo": "Altera a Lei n.º 31-A/98, de 14 de Julho, que aprova a Lei da Televisão."
+  },
+  "fase": "Recurso admissibilidade",
+  "codigo_fase": "80",
+  "data_registo": "2002-05-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2248",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "80",
+    "Comissao": null,
+    "DataFase": "2002-05-23",
+    "EvtId": "52",
+    "Fase": "Recurso admissibilidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-05-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "451-451",
+                  "460-462",
+                  "469-469",
+                  "472-472"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/451?pgs=451,460-462,469,472&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1700",
+                "nome": "Vitalino Canas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141605",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "451-451"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/451?pgs=451&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141606",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "451-452",
+                  "462-464"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/451?pgs=451-452,462-464&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141607",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "452-452",
+                  "460-460",
+                  "474-475"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/452?pgs=452,460,474-475&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141608",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "475-477"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/475?pgs=475-477&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "390",
+                "nome": "Mota Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141609",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "460-464"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/460?pgs=460-464&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141610",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "463-464",
+                  "471-472"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/463?pgs=463-464,471-472&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141611",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "464-464",
+                  "474-477"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/464?pgs=464,474-477&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141612",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "464-465"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/464?pgs=464-465&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141613",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "465-466"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/465?pgs=465-466&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141614",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "467-470",
+                  "473-473"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/467?pgs=467-470,473&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141615",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "461-461",
+                  "465-466",
+                  "469-469",
+                  "470-470"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/461?pgs=461,465-466,469,470&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141616",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "466-466",
+                  "470-473"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/466?pgs=466,470-473&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141617",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "471-471",
+                  "474-475"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/471?pgs=471,474-475&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141618",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "471-471"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/471?pgs=471&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "23:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141619",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "466-468",
+                  "473-474"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-24",
+                "pubLeg": "IX",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24/466?pgs=466-468,473-474&org=PLC"
+              }
+            ],
+            "sumario": "Apresentação de recurso de admissibilidade, pelo Presidente da Assembleia da República, da PPL 4/IX, que altera a Lei 31-A/98, de 14 de Julho (PJL 14/IX - BE)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Os recursos não foram admitidos pelo PAR tendo os GP do PS e BE recorrido desta decisão",
+    "OevId": "153295",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2248",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-05-24",
+        "pubLeg": "IX",
+        "pubNr": "13",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/013/2002-05-24?org=PLC"
+      }
+    ],
+    "RecursoDeputados": [
+      "Vitalino Canas (PS)",
+      "Francisco Louçã (BE)"
+    ],
+    "RecursoGP": [
+      "BE",
+      "PS"
+    ],
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
