@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros n.º 45/84
+A próxima adesão do nosso país às Comunidades Europeias implica que sejam tomadas desde já importantes medidas no campo da formação e informação em todos os domínios afectados pela integração comunitária.
+Conforme foi reconhecido no Programa do IX Governo Constitucional, só com o empenho efectivo de todos será possível levar a cabo o processo de mudança que se impõe introduzir, assegurando o Governo o diálogo com os agentes económicos e os parceiros sociais envolvidos.
+Em 1982 a Comissão de Coordenação da Região do Norte, a Universidade do Porto, a Universidade Católica Portuguesa, a Associação Industrial Portuense e a Associação Comercial do Porto constituíram-se em comissão instaladora para a criação de um Centro de Documentação e Estudos Europeus, que entretanto havia sido oficialmente reconhecido pela Comissão das Comunidades Europeias como Centro de Documentação Europeia, beneficiando do envio sistemático e gratuito de todas as publicações de cada uma das instituições comunitárias.
+Assim:
+Considerando o alto valor de que se reveste o estudo e a divulgação da problemática comunitária;
+Considerando as vantagens que podem advir da associação de pessoas de direito público e de direito privado para a prossecução de objectivos que assumem um carácter marcadamente nacional;
+Considerando, finalmente, que as entidades e organismos envolvidos possuem relevante capacidade técnica e científica:
+O Conselho de Ministros, reunido em 2 de Agosto de 1984, resolveu autorizar o Ministro da Administração Interna, através da Comissão de Coordenação da Região do Norte, a associar-se com a Universidade do Porto, a Associação Comercial do Porto, a Associação Industrial Portuense e a Universidade Católica Portuguesa às quais se juntará o Instituto do Emprego e Formação Profissional, com vista à criação do Centro de Documentação e Estudos Europeus, que tem como objectivo geral o estudo e divulgação da problemática comunitária.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares.
