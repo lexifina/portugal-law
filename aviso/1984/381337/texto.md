@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Organização Mundial da Propriedade Intelectual, o Governo da República da Índia fez o depósito, em 17 de Junho de 1984, de uma notificação através da qual renova a declaração feita em 11 de Fevereiro de 1984, nos termos da qual aquele Governo invoca o benefício da faculdade prevista pelo artigo II e a prevista pelo artigo III do Anexo da Convenção de Berna para a Protecção das Obras Literárias e Artísticas de 9 de Setembro de 1886, revista em Paris em 24 de Julho de 1971.
+Conforme o artigo I (2), a), do referido Anexo, a renovação da dita declaração feita pela República da Índia é válida por um período de 10 anos a contar de 10 de Outubro de 1984, isto é, até Outubro de 1994.
+Direcção-Geral dos Negócios Económicos, 17 de Julho de 1984. - O Subdirector-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
