@@ -1,0 +1,3 @@
+Despacho Normativo n.º 309/79
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Junho, e em aditamento à tabela n.º 1 «Produtos fitofarmacêuticos», é autorizado o lançamento no mercado de uma nova embalagem com capacidade para 10 g, em produtos fitofarmacêuticos com base em pirimicarbe, cujo tipo de formulação é pó molhável, com o teor de 50% de substância activa.
+Ministérios da Agricultura e Pescas e do Comércio e Turismo, 4 de Setembro de 1979. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.
