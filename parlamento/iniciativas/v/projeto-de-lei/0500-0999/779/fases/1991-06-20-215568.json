@@ -1,0 +1,470 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "779",
+    "id": "28150",
+    "titulo": "Amnistia diversas infracções e concede outras medidas de clemência"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "1991-06-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3999",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "1991-06-20",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-06-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160841",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3323-3324",
+                  "3332-3333",
+                  "3335-3335",
+                  "3338-3338"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-21",
+                "pubLeg": "V",
+                "pubNr": "96",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/096/1991-06-21/3323?pgs=3323-3324,3332-3333,3335,3338&org=PLC"
+              }
+            ],
+            "sumario": "Amnistia diversas infracções e concede outras medidas de clemência",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3323-3323",
+                  "3335-3335",
+                  "3338-3338"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-21",
+                "pubLeg": "V",
+                "pubNr": "96",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/096/1991-06-21/3323?pgs=3323,3335,3338&org=PLC"
+              }
+            ],
+            "sumario": "Amnistia diversas infracções e concede outras medidas de clemência",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3323-3323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-21",
+                "pubLeg": "V",
+                "pubNr": "96",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/096/1991-06-21/3323?pgs=3323&org=PLC"
+              }
+            ],
+            "sumario": "Amnistia diversas infracções e concede outras medidas de clemência",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3323-3323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-21",
+                "pubLeg": "V",
+                "pubNr": "96",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/096/1991-06-21/3323?pgs=3323&org=PLC"
+              }
+            ],
+            "sumario": "Amnistia diversas infracções e concede outras medidas de clemência",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160865",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3332-3332"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-21",
+                "pubLeg": "V",
+                "pubNr": "96",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/096/1991-06-21/3332?pgs=3332&org=PLC"
+              }
+            ],
+            "sumario": "Amnistia diversas infracções e concede outras medidas de clemência",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160866",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3333-3333"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-21",
+                "pubLeg": "V",
+                "pubNr": "96",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/096/1991-06-21/3333?pgs=3333&org=PLC"
+              }
+            ],
+            "sumario": "Amnistia diversas infracções e concede outras medidas de clemência",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160867",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3333-3333"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-21",
+                "pubLeg": "V",
+                "pubNr": "96",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/096/1991-06-21/3333?pgs=3333&org=PLC"
+              }
+            ],
+            "sumario": "Amnistia diversas infracções e concede outras medidas de clemência",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160868",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3333-3333",
+                  "3335-3335"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-21",
+                "pubLeg": "V",
+                "pubNr": "96",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/096/1991-06-21/3333?pgs=3333,3335&org=PLC"
+              }
+            ],
+            "sumario": "Amnistia diversas infracções e concede outras medidas de clemência",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160870",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3339-3339"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-21",
+                "pubLeg": "V",
+                "pubNr": "96",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/096/1991-06-21/3339?pgs=3339&org=PLC"
+              }
+            ],
+            "sumario": "Amnistia diversas infracções e concede outras medidas de clemência",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Foram rejeitadas (votação nominal) duas propostas de aditamento ao Projecto de Lei",
+    "OevId": "215568",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3999",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-06-21",
+        "pubLeg": "V",
+        "pubNr": "96",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/096/1991-06-21?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1991-06-20",
+        "descricao": "Votação artigo a artigo",
+        "detalhe": null,
+        "id": "44429",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "96",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
