@@ -1,0 +1,11 @@
+Portaria n.º 186/75
+de 17 de Março
+O serviço de recolha de automóveis, que em 24 de Abril de 1974 se encontrava sujeito ao regime de homologação prévia, ficou, por força da alínea b) do artigo 4.º do Decreto-Lei n.º 329-A/74, de 10 de Julho, submetido ao regime de preços controlados.
+Trata-se de um serviço a que recorre, com carácter permanente, uma percentagem muito escassa de utentes de automóveis.
+Por outro lado, o público consumidor que procura este serviço aufere proventos superiores à média dos seus concidadãos, o que lhe permite possuir automóvel e recolhê-lo em garagem.
+Dado o exposto, considera-se que não se justifica, na actual conjuntura, sobrecarregar a Direcção-Geral de Fiscalização Económica com o contrôle de um serviço, face às demais tarefas que lhe estão cometidas.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Abastecimento e Preços, ao abrigo do preceituado no n.º 1 do artigo 2.º e na alínea c) do n.º 1 do artigo 13.º do Decreto-Lei n.º 329-A/74, de 10 de Julho, o seguinte:
+1.º O serviço de recolha de automóveis fica sujeito ao regime de preços livres, a que se refere a alínea f) do n.º 1 do artigo 1.º do Decreto-Lei n.º 329-A/74, de 10 de Julho.
+2.º Esta portaria entra imediatamente em vigor.
+Secretaria de Estado do Abastecimento e Preços, 5 de Março de 1975. - O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo.
