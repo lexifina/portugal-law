@@ -12,6 +12,6 @@ c) Diminuição para metade dos prazos estabelecidos para as reintegrações e a
 
 3 - As reduções previstas no n.º 1 deste artigo poderão ir até 50% das respectivas taxas e o prazo da sua duração será no máximo de 7 anos, salvo o disposto no artigo seguinte.
 
-4 - O despacho de atribuição da utilidade turística definirá os benefícios atribuídos em cada caso e os respectivos prazos, mediante despacho conjunto dos Ministros da tutela e das Finanças e do Plano, com base e parecer fundamentado da Direcção-Geral das Contribuições e Impostos, ouvida a Direcção-Geral do Turismo.
+4 - Para os efeitos da alínea b) do n.º 1, o despacho de atribuição da utilidade turística definirá, sob proposta da Comissão de Utilidade Turística, a medida e o prazo dos benefícios a conceder.
 
 5 - Na definição dos benefícios atender-se-á, para além dos pressupostos previstos no artigo 4.º, aos montantes de investimento e de capital próprio e à rentabilidade do empreendimento.
