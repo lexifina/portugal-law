@@ -1,0 +1,5 @@
+Aviso n.º 109/2000
+Por ordem superior se torna público que, em 16 de Junho de 1998 e em 9 de Maio de 2000, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da República Popular da China e pelo Ministério dos Negócios Estrangeiros Português, em que se comunica o cumprimento das formalidades exigidas pelos ordenamentos jurídicos de ambos os Estados para a aprovação da Convenção entre o Governo da República Portuguesa e o Governo da República Popular da China para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e respectivo Protocolo, assinados em Pequim em 21 de Abril de 1998.
+A citada Convenção e o respectivo Protocolo foram aprovados pela Resolução da Assembleia da República n.º 28/2000 e ratificados pelo Decreto do Presidente da República n.º 15/2000, publicados no Diário da República, n.º 76, de 30 de Março de 2000.
+Em conformidade com o artigo 28.º da Convenção, esta entra em vigor em 8 de Junho de 2000.
+Direcção-Geral das Relações Bilaterais, 10 de Maio de 2000. - O Director-Geral, José Caetano de Campos Andrada da Costa Pereira.
