@@ -1,0 +1,119 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jvMQgL4qeojTXYc%2byhcz5p3ic3xODuK0iUO0Y2y2ClcTtFB9k3sD%2b9wQveZYSd8NZLsCb9yzJniqsFTagd7CbMNr9RiU3i%2bk3rmuobGx84PbCdMXEaO2tAt4ls9fukmsItoX60VYYqS8JyucRXeNK4DfI799g%2blbezfSJpZ8w7%2baZYMBqfv1VesnUx6bJSW47suQTEZztwlqhsheF%2fV6CayXq9XylkeKBdMS4k0WpFeGsJUrYs53Ga%2fzv4nbFZSlZiCimHdTEOsH%2b%2fNcwjWayb61QyVSstj3ODN9XM8DB46f%2bPQ7wSP1KSIrsnu6vc0NN5UqeG88nqFw4kPOlzPTpz7DVHur%2fsRBhn0B8NlVzMX2nw7jDBVCKY54B7pyG%2fWe&fich=PeticoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "a0b19d1767819df1af646741c024bf367ae6532369315672414b384340a05bf4",
+  "legislatura": "VI",
+  "id": "11096",
+  "numero": "92",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1992-04-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "1993-02-03",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1992-07-01",
+        "DataArquivo": "1993-02-03",
+        "DataBaixaComissao": "1993-01-27",
+        "DataEnvioPAR": "1993-02-11",
+        "DataReaberta": "1992-07-01",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "77",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO DE PETIÇÕES (ANTIGA)",
+        "NotasAdmissibilidade": null,
+        "Numero": "72",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "1993-02-03",
+            "dataNomeacao": "1993-01-27",
+            "gp": "PSD",
+            "id": "25",
+            "motivoCessacao": null,
+            "nome": "Armando Cunha"
+          }
+        ],
+        "RelatorioFinal": [
+          "21049"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11096",
+    "PetAssunto": "Solicitam as medidas necessárias com carácter de urgência para a construção e entrada em funcionamento da Escola C+S de Avintes.",
+    "PetDataEntrada": "1992-04-09",
+    "PeticoesAssociadas": null,
+    "PetId": "11096",
+    "PetLeg": "VI",
+    "PetNr": "92",
+    "PetNrAssinaturas": "1342",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "169570",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-02-17",
+        "pubLeg": "VI",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR II série C",
+        "pubTp": "C",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2c/06/02/017/1993-02-17?org=PLC"
+      }
+    ]
+  }
+}
