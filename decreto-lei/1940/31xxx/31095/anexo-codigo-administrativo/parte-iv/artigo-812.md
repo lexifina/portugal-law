@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Do funcionamento
+
 # Artigo 812.º
 
 Os papéis relativos aos actos processuais das partos serão apresentados nas secretarias dos tribunais do contencioso administrativo dentro dos prazos legais e às horas regulamentares, mediante recibo, se fôr exigido.
