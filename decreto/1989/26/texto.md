@@ -1,0 +1,26 @@
+Decreto n.º 26/89
+de 27 de Junho
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+Artigo único. São aprovados, para ratificação, os Actos Finais da Conferência Administrativa Regional para a Planificação da Radiodifusão Sonora em Ondas Métricas, respeitante à região 1 e a parte da região 3, que constituem o Acordo de Genebra de 1984, assinados em 1984 e 1985, respectivamente, cujos textos originais em francês e a respectiva tradução para português vão anexos ao presente decreto.
+Visto e aprovado em Conselho de Ministros de 23 de Março de 1989. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins - António Fernando Couto dos Santos.
+Ratificado em 14 de Abril de 1989.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 14 de Abril de 1989.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+ACTES FINALS
+de la Conférence administrative régionale pour la planification de la radiodiffusion sonore en ondes métriques (Région 1 et partie de la Région 3)
+(ver documento original)
+
+ACTOS FINAIS
+da Conferência Administrativa Regional para a Planificação da Radiodifusão Sonora em Ondas Métricas (Região 1 e parte da Região 3)
+(ver documento original)
+
+ACTES FINALS
+de la Conférence administrative régionale des Membres de l'Union appartenant à la Zone européenne de radiodiffusion chargée de réviser certaines parties de l'Accord de Stockholm (1961)
+(ver documento original)
+
+ACTOS FINAIS
+da Conferência Administrativa Regional dos Membros da União pertencentes à Zona Europeia de Radiodifusão encarregada de rever algumas partes do Acordo de Estocolmo (1961)
+(ver documento original)
