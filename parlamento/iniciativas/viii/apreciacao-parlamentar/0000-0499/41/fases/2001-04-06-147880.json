@@ -1,0 +1,612 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "41",
+    "id": "7098",
+    "titulo": "Decreto-Lei n.º 56/2001, de l9 de Fevereiro (Estabelece o novo sistema de incentivos do Estado a Comunicação Social)"
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2001-04-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2029",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2001-04-06",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "5721",
+        "leg": "VIII",
+        "nr": "38",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "506",
+            "obs": null,
+            "pag": [
+              "2749-2762"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-04-07",
+            "pubLeg": "VIII",
+            "pubNr": "70",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2749?pgs=2749-2762&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "506",
+            "obs": null,
+            "pag": [
+              "2749-2762"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-04-07",
+            "pubLeg": "VIII",
+            "pubNr": "70",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2749?pgs=2749-2762&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "A",
+        "titulo": "Decreto-lei nº 56/2001, de 19 de Fevereiro, que \"estabelece o novo sistema de incentivos do estado a comunicação social¿."
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "5706",
+        "leg": "VIII",
+        "nr": "39",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "506",
+            "obs": null,
+            "pag": [
+              "2749-2762"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-04-07",
+            "pubLeg": "VIII",
+            "pubNr": "70",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2749?pgs=2749-2762&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "506",
+            "obs": null,
+            "pag": [
+              "2749-2762"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-04-07",
+            "pubLeg": "VIII",
+            "pubNr": "70",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2749?pgs=2749-2762&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "A",
+        "titulo": "Decreto-lei nº 56/2001, de 19 de Fevereiro, que \"estabelece o novo sistema de incentivos do Estado à comunicação social¿."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-04-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2749-2750",
+                  "2759-2760"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-07",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2749?pgs=2749-2750,2759-2760&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.° 56/2001, DE 19 DE FEVEREIRO, QUE \"ESTABELECE O NOVO SISTEMA DE INCENTIVOS DO ESTADO A COMUNICACAO SOCIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137605",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2750-2751",
+                  "2757-2759"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-07",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2750?pgs=2750-2751,2757-2759&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.° 56/2001, DE 19 DE FEVEREIRO, QUE \"ESTABELECE O NOVO SISTEMA DE INCENTIVOS DO ESTADO A COMUNICACAO SOCIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137606",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2751-2753"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-07",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2751?pgs=2751-2753&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.° 56/2001, DE 19 DE FEVEREIRO, QUE \"ESTABELECE O NOVO SISTEMA DE INCENTIVOS DO ESTADO A COMUNICACAO SOCIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1349",
+                "nome": "António Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137607",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2753-2755"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-07",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2753?pgs=2753-2755&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.° 56/2001, DE 19 DE FEVEREIRO, QUE \"ESTABELECE O NOVO SISTEMA DE INCENTIVOS DO ESTADO A COMUNICACAO SOCIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137608",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2754-2755",
+                  "2757-2757"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-07",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2754?pgs=2754-2755,2757&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.° 56/2001, DE 19 DE FEVEREIRO, QUE \"ESTABELECE O NOVO SISTEMA DE INCENTIVOS DO ESTADO A COMUNICACAO SOCIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137609",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2755-2755"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-07",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2755?pgs=2755&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.° 56/2001, DE 19 DE FEVEREIRO, QUE \"ESTABELECE O NOVO SISTEMA DE INCENTIVOS DO ESTADO A COMUNICACAO SOCIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  COMUNICACAO SOCIAL",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Arons de Carvalho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137610",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2756-2757",
+                  "2761-2762"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-07",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2756?pgs=2756-2757,2761-2762&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.° 56/2001, DE 19 DE FEVEREIRO, QUE \"ESTABELECE O NOVO SISTEMA DE INCENTIVOS DO ESTADO A COMUNICACAO SOCIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "370",
+                "nome": "Luís Marques Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137611",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2760-2761"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-07",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2760?pgs=2760-2761&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.° 56/2001, DE 19 DE FEVEREIRO, QUE \"ESTABELECE O NOVO SISTEMA DE INCENTIVOS DO ESTADO A COMUNICACAO SOCIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1349",
+                "nome": "António Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137612",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2761-2761"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-07",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2761?pgs=2761&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.° 56/2001, DE 19 DE FEVEREIRO, QUE \"ESTABELECE O NOVO SISTEMA DE INCENTIVOS DO ESTADO A COMUNICACAO SOCIAL",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "147880",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "269610",
+        "obs": null,
+        "pag": [
+          "2749-2762"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-04-07",
+        "pubLeg": "VIII",
+        "pubNr": "70",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/070/2001-04-07/2749?pgs=2749-2762&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
