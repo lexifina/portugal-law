@@ -1,0 +1,339 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "6121",
+  "numero": "36",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2000-10-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2001-10-04",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2000-12-11",
+        "DataArquivo": "2001-10-04",
+        "DataBaixaComissao": "2000-12-11",
+        "DataEnvioPAR": "2001-11-06",
+        "DataReaberta": "2000-12-11",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2000-10-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e505453383352554e444c305276593356745a57353062334e515a585270593246764c3249304d6a4d31596a64694c54426c4f5755744e4455314e5330354e7a637a4c5467354e6d4a6d4f44646b4e5746695a4335775a47593d&fich=b4235b7b-0e9e-4555-9773-896bf87d5abd.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "21",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE EDUCAÇAO, CIENCIA E CULTURA",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2000-12-11",
+            "gp": "PSD",
+            "id": "1640",
+            "motivoCessacao": null,
+            "nome": "David Justino"
+          }
+        ],
+        "RelatorioFinal": [
+          "13536"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-04-02",
+    "Documentos": [
+      {
+        "DataDocumento": "2000-10-13",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938314d4755784f54566a4f4331694d544a6c4c54526a59574974596d59774d79316d597a63774f5755354e6d4d79596a6b756347526d&fich=50e195c8-b12e-4cab-bf03-fc709e96c2b9.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-04-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3986-3987"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-03",
+                "pubLeg": "IX",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/073/2004-04-03/3986?pgs=3986-3987&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM A CRIAÇÃO DA UNIVERSIDADE DE BRAGANÇA, COM BASE NO ACTUAL INSTITUTO POLITÉCNICO",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-04-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149086",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3987-3987"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-03",
+                "pubLeg": "IX",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/073/2004-04-03/3987?pgs=3987&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM A CRIAÇÃO DA UNIVERSIDADE DE BRAGANÇA, COM BASE NO ACTUAL INSTITUTO POLITÉCNICO",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-04-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3988-3989"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-03",
+                "pubLeg": "IX",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/073/2004-04-03/3988?pgs=3988-3989&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM A CRIAÇÃO DA UNIVERSIDADE DE BRAGANÇA, COM BASE NO ACTUAL INSTITUTO POLITÉCNICO",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-04-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3989-3990"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-03",
+                "pubLeg": "IX",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/073/2004-04-03/3989?pgs=3989-3990&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM A CRIAÇÃO DA UNIVERSIDADE DE BRAGANÇA, COM BASE NO ACTUAL INSTITUTO POLITÉCNICO",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6121",
+    "PetAssunto": "Solicitam a criação da Universidade de Bragança, com base no actual Instituto Politécnico.",
+    "PetDataEntrada": "2000-10-13",
+    "PeticoesAssociadas": null,
+    "PetId": "6121",
+    "PetLeg": "VIII",
+    "PetNr": "36",
+    "PetNrAssinaturas": "15266",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "161",
+        "obs": null,
+        "pag": [
+          "3986-3990"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-04-03",
+        "pubLeg": "IX",
+        "pubNr": "73",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/073/2004-04-03/3986?pgs=3986-3990&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "121514",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-12-16",
+        "pubLeg": "VIII",
+        "pubNr": "9",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/009/2000-12-16?org=PLC"
+      }
+    ]
+  }
+}
