@@ -1,0 +1,10 @@
+Decreto n.º 45931
+Considerando que foi adjudicado ao comerciante Dr. Kurt Saalfeld, com escritório na Travessa do Fala-Só, 13, 2.º, direito, da cidade de Lisboa, o fornecimento e montagem, na respectiva oficina da Imprensa Nacional, de um dispositivo de alimentação de papel químico, em bobina, e de colagem do mesmo papel aos impressos, com destino a uma máquina Goebel - Variforma 500, com acessórios;
+Atendendo a que, como se verifica da proposta apresentada pelo adjudicatário, para execução de tal fornecimento está fixado prazo que ultrapassa o presente ano económico, a contar da data da encomenda, resultando encargo a satisfazer em ano posterior àquele em que o contrato é celebrado;
+Com fundamento no disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizada a Imprensa Nacional de Lisboa a celebrar contrato no corrente ano económico com o comerciante Dr. Kurt Saalfeld, com escritório na Travessa do Fala-Só, 13, 2.º, direito, desta cidade, para fornecimento e montagem, na respectiva oficina daquele estabelecimento, de um dispositivo de alimentação de papel químico, em bobina, e de colagem do mesmo papel aos impressos, com destino a uma máquina Goebel - Variforma 500, com vários acessórios, pela quantia de 151200$00.
+Art. 2.º O encargo total deste contrato, no valor de 151200$00, será pago da seguinte maneira: 11200$00 no corrente ano económico e 140000$00 no ano económico de 1965, após a entrega do referido dispositivo e acessórios.
+Art. 3.º A entrega da importância de 11200$00, a realizar por conta do orçamento do corrente ano económico, terá lugar logo que o respectivo contrato seja visado pelo Tribunal de Contas e o adjudicatário preste garantia bancária reputada idónea.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 18 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - António Manuel Pinto Barbosa.
