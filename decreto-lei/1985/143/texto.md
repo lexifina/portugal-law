@@ -1,0 +1,23 @@
+Decreto-Lei n.º 143/85
+de 8 de Maio
+Considerando a necessidade de garantir a todos os que tenham prestado serviço ao Estado Português o direito à certificação da efectividade de serviço, para todos os efeitos legais;
+Considerando que o exercício desse direito se encontra por vezes dificultado quando se trata de serviço prestado nas ex-províncias ultramarinas ou mesmo nos novos Estados de expressão portuguesa ao abrigo de contratos ou acordos de cooperação ou por determinação de entidade competente;
+Considerando ainda que tais dificuldades, mormente na obtenção dos documentos indispensáveis, justificam a adopção de processo de certificação especial:
+Assim, e dado o disposto no artigo 16.º do Decreto-Lei n.º 170/82, de 10 de Maio:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - A Secretaria de Estado da Administração Pública poderá certificar, sempre que disponha de elementos de informação que considere suficientes, a pedido dos funcionários e agentes da extinta administração ultramarina, o tempo de serviço por eles prestado nas ex-províncias ultramarinas até ao dia anterior ao da sua independência, independentemente de terem ou não ingressado no quadro geral de adidos.
+2 - Poderá também ser certificado o tempo de serviço prestado nos novos Estados de expressão portuguesa ao abrigo de acordos de cooperação ou de contratos previamente aprovados ou autorizados pelo Estado Português, desde que o requerente o tenha prestado na qualidade de adido e na situação de actividade fora do quadro.
+3 - Poderá certificar-se ainda a efectividade do serviço prestado pelo pessoal do ex-Corpo de Polícia de Moçambique, quando o requerente prove que esse facto resultou de determinação do ex-Alto-Comissário para Moçambique.
+4 - As certidões a que respeitam os números anteriores relevarão para todos os efeitos legais, designadamente aposentação, diuturnidades e progressão na carreira.
+Art. 2.º - 1 - A passagem das certidões referidas no artigo anterior fica dependente da organização de processo especial de justificação administrativa, que se inicia com a petição do interessado dirigida ao Secretário de Estado da Administração Pública, indicando os departamentos e serviços em que exerceu actividade e em que condições e o tempo de serviço que pretende ver certificado.
+2 - A petição será instruída com indicação, documentalmente comprovada, dos despachos de nomeação, transferências e exonerações, despachos de nomeação para comissões eventuais, guias de marcha e de vencimentos, elementos biográficos referentes ao tempo de serviço efectivo prestado constantes de registos, de listas de antiguidade ou de documentos emanados de serviços ou entidades oficiais e publicações oficiais de que conste ou pelas quais se possa provar que o interessado se manteve ao serviço durante o tempo que deseja ver certificado.
+3 - O interessado poderá requerer que os elementos ou meios de prova referidos no número anterior que não possa obter directamente sejam oficialmente requisitados.
+Art. 3.º O serviço incumbido da organização do processo especial de certificação deve, sempre que se suscitem dúvidas sobre a autenticidade dos documentos apresentados ou a veracidade do seu conteúdo, solicitar a confirmação respectiva, nomeadamente junto do posto diplomático ou consular competente.
+Art. 4.º É revogado o Decreto n.º 409-B/75, de 6 de Agosto.
+Art. 5.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 10 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Manuel Bastos Ambar.
+Promulgado em 22 de Abril de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 24 de Abril de 1985.
+O Primeiro-Ministro, Mário Soares.
