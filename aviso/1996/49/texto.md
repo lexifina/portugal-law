@@ -1,0 +1,4 @@
+Aviso n.º 49/96
+Por ordem superior se faz público que, segundo comunicação da Organização Mundial da Propriedade Intelectual, o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte depositou, em 13 de Dezembro de 1995, uma notificação respeitante à aplicação à ilha de Man da Convenção de Berna para a Protecção das Obras Literárias e Artísticas de 9 de Setembro, revista em Paris em 24 de Julho de 1971 e modificada a 28 de Setembro de 1979, território pelo qual o Reino Unido da Grã-Bretanha e Irlanda do Norte assume a responsabilidade das relações internacionais.
+A aplicação da dita Convenção à ilha de Man produzirá efeitos a partir de 18 de Março de 1996.
+Direcção-Geral dos Assuntos Multilaterais, 10 de Janeiro de 1996. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
