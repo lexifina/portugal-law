@@ -6,4 +6,4 @@
 
 ### (Declaração relativa à perda da nacionalidade)
 
-Sem prejuízo do disposto na lei, perdem a nacionalidade portuguesa os que, sendo nacionais de outro Estado, declarem que não querem ser portugueses.
+Perdem a nacionalidade portuguesa os que, sendo nacionais de outro Estado, declarem que não querem ser portugueses.

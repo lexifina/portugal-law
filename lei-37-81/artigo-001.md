@@ -12,22 +12,12 @@
 
 1 - São portugueses de origem:
 
-a) Os filhos de mãe portuguesa ou de pai português nascidos no território português;
+a) Os filhos de pai português ou mãe portuguesa nascidos em território português ou sob administração portuguesa, ou no estrangeiro se o progenitor português aí se encontrar ao serviço do Estado Português;
 
-b) Os filhos de mãe portuguesa ou de pai português nascidos no estrangeiro se o progenitor português aí se encontrar ao serviço do Estado Português;
+b) Os filhos de pai português ou mãe portuguesa nascidos no estrangeiro se declararem que querem ser portugueses ou inscreverem o nascimento no registo civil português;
 
-c) Os filhos de mãe portuguesa ou de pai português nascidos no estrangeiro se tiverem o seu nascimento inscrito no registo civil português ou se declararem que querem ser portugueses;
+c) Os indivíduos nascidos em território português, filhos de estrangeiros que aqui residam com título válido de autorização de residência há, pelo menos, 6 ou 10 anos, conforme se trate, respectivamente, de cidadãos nacionais de países de língua oficial portuguesa ou de outros países, e desde que não se encontrem ao serviço do respectivo Estado, se declararem que querem ser portugueses;
 
-d) Os indivíduos com, pelo menos, um ascendente de nacionalidade portuguesa originária do 2.º grau na linha reta que não tenha perdido essa nacionalidade, se declararem que querem ser portugueses e possuírem laços de efetiva ligação à comunidade nacional;
+d) Os indivíduos nascidos em território português quando não possuam outra nacionalidade.
 
-e) Os indivíduos nascidos no território português, filhos de estrangeiros, se pelo menos um dos progenitores também aqui tiver nascido e aqui tiver residência, independentemente de título, ao tempo do nascimento;
-
-f) Os indivíduos nascidos no território português, filhos de estrangeiros que não se encontrem ao serviço do respetivo Estado, se declararem que querem ser portugueses, desde que, no momento do nascimento, um dos progenitores resida legalmente no território português há pelo menos cinco anos;
-
-g) Os indivíduos nascidos no território português e que não possuam outra nacionalidade.
-
-2 - Presumem-se nascidos no território português, salvo prova em contrário, os recém-nascidos que aqui tenham sido expostos.
-
-3 - A atribuição da nacionalidade portuguesa ao abrigo da alínea d) do n.º 1 pressupõe o preenchimento dos requisitos constantes das alíneas c) a h) do n.º 1 do artigo 6.º
-
-4 - A prova da residência legal referida na alínea f) do n.º 1 faz-se mediante a exibição, no momento da declaração, do documento de identificação do pai ou da mãe, bem como de um dos documentos comprovativos dos títulos ou estatutos válidos referidos nos n.os 1 e 2 do artigo 15.º
+2 - Presumem-se nascidos em território português ou sob administração portuguesa, salvo prova em contrário, os recém-nascidos expostos naqueles territórios.

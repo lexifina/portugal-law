@@ -8,6 +8,6 @@ a) Das declarações para atribuição da nacionalidade;
 
 b) Das declarações para aquisição ou perda da nacionalidade;
 
-c) Da naturalização de estrangeiros e apátridas.
+c) Da naturalização de estrangeiros.
 
-2 - (Revogado.)
+2 - O registo dos actos a que se refere o número anterior é feito a requerimento dos interessados.

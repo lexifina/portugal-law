@@ -6,4 +6,4 @@
 
 ### (Legitimidade)
 
-Têm legitimidade para impugnar judicialmente quaisquer atos relativos à atribuição, aquisição ou perda de nacionalidade portuguesa os interessados diretos e o Ministério Público.
+Têm legitimidade para interpor recurso de quaisquer actos relativos à atribuição, aquisição ou perda de nacionalidade portuguesa os interessados directos e o Ministério Público.
