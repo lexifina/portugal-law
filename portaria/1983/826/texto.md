@@ -1,0 +1,16 @@
+Portaria n.º 826/83
+de 6 de Agosto
+Considerando que os arrastões de crustáceos praticam arrasto demersal para fora das 6 milhas e há necessidade de preservar a globalidade das espécies existentes;
+Reconhecendo que se torna premente a uniformização da malhagem para todas as embarcações de crustáceos, sem qualquer excepção;
+Atendendo a que os resultados dos estudos que têm vindo a ser realizados nesta matéria aconselham a revisão dos limites das malhagens, por forma que seja possível uma adequada protecção dos recursos, e que, estando de acordo com os estudos científicos, não prejudiquem desnecessariamente o exercício da pesca de crustáceos;
+Nestes termos, e enquanto não for concluída a elaboração em curso de um novo regulamento da pesca de arrasto:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado, das Pescas, o seguinte:
+1.º O artigo 27.º do Regulamento da Pesca do Arrasto Costeiro, aprovado pela Portaria n.º 49/73, de 24 de Janeiro, e alterado pelas Portarias n.os 1094-D/80, de 16 de Dezembro, e 669-A/83, de 8 de Junho, passa a ter a seguinte redacção:
+Art. 27.º - 1 - ...
+2 - ...
+3 - A todas as autorizações já concedidas ou a conceder só é permitido o exercício desta modalidade de pesca com redes de arrasto de malhagem não inferior a 45 mm na parte do mar territorial limitado entre as 6 e as 12 milhas, na distância à linha de costa e de malhagem não inferior a 60 mm por fora do limite das 12 milhas, na subárea do continente, da zona económica exclusiva. Na área marítima compreendida entre os meridianos da Praia da Luz (longitude 08º 44' W) e da Quarteira (longitude 08º 16' W), a malhagem de 45 mm pode ser utilizada por fora das 12 milhas desde que dirigida especialmente à captura da gamba, não sendo de admitir captura incidental (by catch) de outras espécies de crustáceos superior a 20%
+2.º São revogados o n.º 5.º da Portaria n.º 1094-D/80, de 16 de Dezembro, e as Portarias n.os 22312, de 14 de Novembro de 1966, e 49/73, de 24 de Janeiro, em tudo o que contrarie o presente diploma.
+3.º Esta portaria entra em vigor em 1 de Janeiro de 1984. Até essa data os arrastões de crustáceos não poderão utilizar, para dentro das 12 milhas, as redes com malhagem inferior à actualmente autorizada às embarcações da PESCRUL - Sociedade de Pesca de Crustáceos, S. A. R. L.
+Secretaria de Estado das Pescas.
+Assinada em 22 de Julho de 1983
+O Secretário de Estado das Pescas, Alberto Augusto Faria dos Santos.
