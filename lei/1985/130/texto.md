@@ -1,0 +1,36 @@
+Lei n.º 130/85
+de 4 de Outubro
+Criação da freguesia de Tunes no concelho de Silvas
+A Assembleia da República decreta, nos termos da alínea j) do artigo 167.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:
+ARTIGO 1.º
+É criada no concelho de Silves a freguesia de Tunes.
+ARTIGO 2.º
+Os limites da nova freguesia, conforme representação cartográfica anexa, são:
+A sul, concelho de Albufeira;
+A leste, concelho de Albufeira;
+A oeste, sai do limite do concelho a cerca de 300 m do geodésico Boias, segue pelo caminho do Poço, atravessa a estrada n.º 269 no sítio do Paço, seguindo pelo caminho da Torre, indo atravessar o caminho de ferro ao quilómetro 303,72 do ramal de Lagos, continuando o caminho do sítio das Alagoinhas, continuando até ao Penedo Gordo junto da passagem de nível dos caminhos de ferro da linha do Sul, seguindo paralelamente ao caminho de ferro até à passagem de nível desguarnecida da referida linha ao quilómetro 299,6, atravessando a mesma e seguindo pelo caminho da Alagoa de Viseu, por detrás da referida Alagoa até à Umbria;
+A norte, segue pelo caminho da Umbria que liga ao canto sueste da freguesia de São Bartolomeu de Messines com o limite do concelho, no sítio do Lenho.
+ARTIGO 3.º
+1 - A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 10.º da Lei n.º 11/82, de 2 de Junho.
+2 - Para os efeitos da disposição referida no número anterior, a Assembleia Municipal de Silves nomeará uma comissão instaladora constituída por:
+a) 1 representante da Câmara Municipal de Silves;
+b) 1 representante da Assembleia Municipal de Silves;
+c) 1 representante da Assembleia de Freguesia de Algoz;
+d) 1 representante da junta de Freguesia de Algoz;
+e) 5 cidadãos eleitores designados de acordo com o n.º 3 do artigo 10.º da Lei n.º 11/82.
+ARTIGO 4.º
+1 - A comissão instaladora exercerá funções até à tomada de posse dos órgãos autárquicos da nova freguesia.
+2 - O artigo 10.º, n.º 6, da Lei n.º 11/82 não se aplica à criação da presente freguesia.
+ARTIGO 5.º
+As eleições para a assembleia da nova freguesia realizar-se-ão na data das primeiras eleições autárquicas gerais posteriores à entrada em vigor da presente lei.
+ARTIGO 6.º
+A presente lei entra em vigor 5 dias após a sua publicação.
+Aprovada em 11 de Julho de 1985.
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
+Promulgada em 2 de Setembro de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendada em 4 de Setembro de 1985.
+O Primeiro-Ministro, Mário Soares.
+
+(ver documento original)
