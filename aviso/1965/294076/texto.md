@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, conforme comunicação da Embaixada da Polónia em Londres, transmitida pelo Ministério dos Negócios Estrangeiros do Reino Unido, o Quénia e o Ruanda notificaram em 7 de Outubro de 1964 e em 1 de Dezembro de 1964, respectivamente, a sua adesão à Convenção para a unificação de certas regras relativas ao transporte aéreo internacional, assinada em Varsóvia a 12 de Outubro de 1929, cujo texto foi publicado no Diário do Governo n.º 185, 1.ª série, de 10 de Agosto de 1948.
+Em virtude de a Convenção referida já vigorar naqueles territórios, a notificação equivale a uma confirmação e tem efeitos a partir das datas de acesso daqueles países à independência.
+Direcção-Geral dos Negócios Económicos e Consulares, 20 de Abril de 1965. - O Director-Geral Adjunto, Carlos Augusto Fernandes.
