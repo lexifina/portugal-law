@@ -1,0 +1,5 @@
+Aviso n.º 211/2004
+Por ordem superior, torna-se público que em 6 de Junho de 2000 e em 15 de Novembro de 2004 foram emitidas notas, respectivamente da Embaixada da República da Turquia e do Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República da Turquia sobre Supressão de Vistos em Passaportes Diplomáticos, assinado em Ankara em 14 de Março de 2000.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 26/2000, de 13 de Novembro, publicado no Diário da República, 1.ª série-A, n.º 262, da mesma data.
+Nos termos do artigo 10.º do Acordo, este Acordo entrou em vigor 30 dias após a data da troca de notas, ou seja, 30 dias após a recepção da última das notas do Ministério dos Negócios Estrangeiros de Portugal, em 15 de Dezembro de 2000.
+Direcção-Geral das Relações Bilaterais, 6 de Dezembro de 2004. - O Director dos Serviços da Europa, Pedro Costa Pereira.
