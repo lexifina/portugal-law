@@ -14,4 +14,4 @@
 
 4 - No ano de 2005, a taxa a que se referem os n.os 1 do artigo 14.º-A e 4 do artigo 15.º da Lei n.º 42/98, de 6 de Agosto, com a redacção dada pela Lei n.º 94/2001, de 20 de Agosto, é de 2%.
 
-5 - Para além do montante estabelecido no n.º 3, para os municípios, o valor global da participação destes impostos do Estado, a que se refere o n.º 1, é ainda acrescido de (euro) 2400000, tendo em vista assegurar, no ano de 2005, o crescimento mínimo de 2,5% para os municípios referidos na alínea a) do n.º 2 do artigo 14.º-A da Lei n.º 42/98, de 6 de Agosto, com a redacção dada pela Lei n.º 94/2001, de 20 de Agosto.
+5 - Para além do montante estabelecido no n.º 3, para os municípios, o valor global da participação destes nos impostos do Estado, a que se refere o n.º 1, é ainda acrescido de (euro) 2400000, tendo em vista assegurar, no ano de 2005, o crescimento mínimo de 2,5% para os municípios referidos na alínea a) do n.º 2 do artigo 14.º-A da Lei n.º 42/98, de 6 de Agosto, com a redacção dada pela Lei n.º 94/2001, de 20 de Agosto.
