@@ -1,0 +1,7 @@
+Portaria n.º 658/2002
+de 17 de Junho
+Com fundamento na Lei n.º 30/86, de 27 de Agosto, e no Decreto-Lei n.º 274-A/88, de 3 de Agosto, foi, pela Portaria n.º 955/90, de 9 de Outubro, corrigida pela Portaria n.º 485/99, de 6 de Julho, criada a zona de caça social da serra da Nogueira (processo n.º 381-DGF), sendo a sua administração atribuída à Direcção Regional de Agricultura de Trás-os-Montes.
+Considerando que se deixaram de verificar os objectivos que levaram à criação desta zona de caça;
+Considerando que as juntas de freguesia que estão integradas na respectiva comissão de gestão pretendem assumir, de modo próprio, a gestão de zonas de caça municipais na área daquela zona de caça social:
+Manda o Governo, pelos Ministros da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, com fundamento na alínea a) do n.º 1 do artigo 47.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, que seja revogada a concessão da zona de caça social da serra da Nogueira (processo n.º 381-DGF), criada pela Portaria n.º 955/90, de 9 de Outubro, corrigida pela Portaria n.º 485/99, de 6 de Julho.
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 30 de Abril de 2002. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais, em 2 de Maio de 2002.
