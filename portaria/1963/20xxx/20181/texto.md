@@ -1,0 +1,5 @@
+Portaria n.º 20181
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 30000$00 a verba do capitulo 10.º, artigo 263.º, n.º 20), alínea a) «Encargos gerais - Diversas despesas - Despesas com a assistência médica, tratamento e internamento em hospitais, manicómios, casas de saúde e sanatórios de funcionários do activo, aposentados e operários do Estado - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral em vigor na província de Macau, tomando como contrapartida igual importância da verba do capítulo 4.º, artigo 115.º, n.º 1) «Administração geral e fiscalização - Polícia Internacional e de Defesa do Estado - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei», da referida tabela de despesa.
+Ministério do Ultramar, 21 de Novembro de 1963. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Macau. - Silva Cunha.
