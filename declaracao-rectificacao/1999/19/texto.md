@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 19/99
+Por terem sido publicados com inexactidão no Diário da República, 1.ª série-A, n.º 261, de 9 de Novembro de 1999, no Decreto do Presidente da República n.º 205/99, rectifica-se que onde se lê «aprovado pelo Decreto n.º 16/94, de 28 de Maio,» deve ler-se «aprovado pelo Decreto n.º 16/84, de 28 de Maio,» e, no Decreto do Presidente da República n.º 218/99, onde se lê «aprovado pelo Decreto n.º 19/93, de 18 de Junho,» deve ler-se «aprovado pelo Decreto n.º 19/88, de 18 de Junho,».
+Secretaria-Geral da Presidência da República, 9 de Novembro de 1999. - O Secretário-Geral, José Vicente de Bragança.
