@@ -1,0 +1,18 @@
+Portaria n.º 811/89
+de 14 de Setembro
+Manda o Governo, pelos Ministros do Planeamento e da Administração do Território, da Indústria e Energia e Adjunto e da Juventude, nos termos do n.º 5 do artigo 25.º do Decreto-Lei an.º 303/83, de 28 de Junho, na redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 266/89, de 18 de Agosto, o seguinte:
+1.º A presente portaria aplica-se à publicidade à venda de veículos automóveis novos ligeiros de passageiros difundida através da rádio e da televisão.
+2.º Os encargos anuais inerentes ao veículo a considerar na respectiva publicidade são:
+a) Consumo de combustível;
+b) Seguro obrigatório de responsabilidade civil automóvel;
+c) Impostos.
+3.º Tais encargos serão calculados tendo por base 15000 Km percorridos por ano de utilização do veículo e os preços vigentes numa data compreendida nos seis meses anteriores ao início da difusão da campanha.
+4.º Para efeitos da alínea a) do n.º 2.º ter-se-á em conta a média dos valores de consumo constantes da «Ficha de recepção CEE» do veículo a publicitar, a quilometragem prevista no número anterior e os preços dos combustíveis.
+5.º Para efeitos da alínea b) do n.º 2.º, o montante dos encargos a indicar será o que o Instituto de Seguros de Portugal vier a definir, a pedido dos interessados, como valor médio dos prémios praticados pelas companhias seguradoras para aquele tipo de veículo.
+6.º Para efeitos dá alínea c) do n.º 2.º, ter-se-ão em conta o imposto sobre veículos e os impostos de compensação e especial sobre veículos, se aplicáveis.
+7.º A informação sobre os encargos previstos no n.º 2.º poderá fazer-se de forma agregada, através da menção de um quantitativo global.
+8.º Tal informação deverá conter referência expressa de que o valor ou valores indicados respeitam a 15000 km por ano de utilização e ainda menção do mês e ano a que se reportam os preços utilizados no cálculo.
+9.º Sempre que a mensagem publicitária tenha por objecto diferentes modelos ou versões de veículos automóveis ligeiros de passageiros, deverá a informação sobre os encargos indicar os valores mínimos e máximos aplicáveis.
+Presidência do Conselho de Ministros e Ministérios do Planeamento e da Administração do Território e da Indústria e Energia.
+Assinada em 1 de Setembro de 1989.
+Pelo Ministro do Planeamento e da Administração do Território, José Macário Correia, Secretário de Estado do Ambiente e dos Recursos Naturais. - Pelo Ministro da Indústria e Energia, Nuno Manuel Franco Ribeiro da Silva, Secretário de Estado da Energia. - Pelo Ministro Adjunto e da Juventude, Albino Azevedo Soares, Secretário de Estado Adjunto do Ministro Adjunto e da Juventude.
