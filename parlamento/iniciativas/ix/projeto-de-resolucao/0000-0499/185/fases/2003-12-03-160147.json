@@ -1,0 +1,852 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "185",
+    "id": "19890",
+    "titulo": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2003-12-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2891",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2003-12-03",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-12-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147447",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1563-1566"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1563?pgs=1563-1566&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147450",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1564-1565"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1564?pgs=1564-1565&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "155",
+                "nome": "António José Seguro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147455",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1566-1571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1566?pgs=1566-1571&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147456",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1569-1570"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1569?pgs=1569-1570&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147457",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1571-1576",
+                  "1592-1593"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1571?pgs=1571-1576,1592-1593&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147458",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1574-1575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1574?pgs=1574-1575&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147459",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1576-1576"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1576?pgs=1576&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147460",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1576-1578",
+                  "1580-1580"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1576?pgs=1576-1578,1580&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147462",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1579-1579"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1579?pgs=1579&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147464",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1580-1583"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1580?pgs=1580-1583&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147465",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1583-1584",
+                  "1589-1589"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1583?pgs=1583-1584,1589&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "143",
+                "nome": "Alberto Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147467",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1584-1585"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1584?pgs=1584-1585&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147468",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1585-1587",
+                  "1589-1590"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1585?pgs=1585-1587,1589-1590&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147469",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1587-1589"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1587?pgs=1587-1589&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147470",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1590-1591"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1590?pgs=1590-1591&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147471",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1591-1592"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-04",
+                "pubLeg": "IX",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04/1591?pgs=1591-1592&org=PLC"
+              }
+            ],
+            "sumario": "Referendo sobre as grandes escolhas do Tratado que institui uma Constituição para a Europa.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "160147",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2891",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-12-04",
+        "pubLeg": "IX",
+        "pubNr": "27",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/027/2003-12-04?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
