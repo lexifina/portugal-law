@@ -1,0 +1,4 @@
+Portaria n.º 230/74
+de 28 de Março
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Comunicações, nos termos do n.º 3 do artigo 23.º do estatuto da empresa pública Telefones de Lisboa e Porto, anexo ao Decreto-Lei n.º 48007, de 26 de Outubro de 1967, atendendo ao que por ela foi solicitado e ao acordo conferido pelos CTT em conformidade com a mesma disposição estatutária, autorizar a primeira empresa a contrair na Caixa Geral de Depósitos um empréstimo até ao montante de 243000000$00, à taxa de juro de 8% ao ano, com o período de utilização de seis meses, a contar da data da escritura, e um ano de diferimento da amortização, que será efectuada em vinte e quatro semestralidades.
+Ministérios das Finanças e das Comunicações, 15 de Março de 1974. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro das Comunicações, Rui Alves da Silva Sanches.
