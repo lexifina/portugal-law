@@ -1,0 +1,6 @@
+Despacho Normativo n.º 675/94
+Considerando que Luís Gonzaga Alves Pereira, chefe de divisão do ex-quadro de pessoal do Laboratório Nacional de Engenharia e Tecnologia Industrial (actual Instituto Nacional de Engenharia e Tecnologia Industrial), cessou em 20 de Junho de 1993 a comissão de serviço em que se encontrava investido, por força do disposto no n.º 2.º da Portaria n.º 592-A/93, de 15 de Junho;
+Considerando que o referido funcionário, atento o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, reúne os requisitos necessários para acesso à categoria de assessor;
+Considerando o disposto nos n.os 6 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro:
+Determina-se que seja criado no quadro de pessoal do Instituto Nacional de Engenharia e Tecnologia Industrial, aprovado pela Portaria n.º 592-B/93, de 15 de Junho, um lugar de assessor, a extinguir quando vagar.
+Ministérios das Finanças e da Indústria e Energia, 26 de Agosto de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
