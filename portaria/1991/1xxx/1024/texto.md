@@ -1,0 +1,9 @@
+Portaria n.º 1024/91
+de 7 de Outubro
+Tendo em atenção a importância para o sector vitivinícola da exportação de vinhos de mesa e de vinagres e considerando a conveniência em aproximar as regras nacionais às comunitárias, foi estabelecido pela Portaria n.º 540/90, de 12 de Julho, um sistema de subvenção nacional à exportação daqueles produtos para países terceiros, válido até 31 de Agosto do mesmo ano, com um limite global de 250000 contos.
+No sentido de não ser criado um vazio legislativo entre 1 de Setembro de 1990 e a data de início da aplicação a Portugal do regime comunitário de apoios à exportação, foi publicada a Portaria n.º 437/91, de 28 de Maio, que, sem alterar o quantitativo global fixado na Portaria n.º 540/90, permitia a aplicação do regime nela fixado até 31 de Dezembro de 1991.
+Tendo-se verificado que, devido ao dinamismo evidenciado pelas empresas exportadoras e à pressão da oferta resultante do facto de a vindima de 1990 ter sido relativamente abundante, a verba prevista na Portaria n.º 540/90 se revelou manifestamente insuficiente:
+Manda o Governo, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo, ao abrigo do disposto no n.º 11 do artigo 11.º do Decreto-Lei n.º 517/85, de 31 de Dezembro, que o montante estabelecido na Portaria n.º 540/90, de 12 de Julho, passe a ser de 600000 contos.
+Ministérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
+Assinada em 26 de Setembro de 1991.
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.
