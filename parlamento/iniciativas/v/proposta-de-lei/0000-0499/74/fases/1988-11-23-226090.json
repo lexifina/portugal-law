@@ -1,0 +1,2792 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "74",
+    "id": "29257",
+    "titulo": "Orçamento do Estado para 1989."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1988-11-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5014",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1988-11-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "29260",
+        "leg": "V",
+        "nr": "75",
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-11-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215959",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "438-438",
+                  "472-473"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/438?pgs=438,472-473&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215960",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "438-438",
+                  "473-473"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/438?pgs=438,473&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215962",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "440-440",
+                  "473-473",
+                  "495-495"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/440?pgs=440,473,495&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215964",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "440-440",
+                  "473-473"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/440?pgs=440,473&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "440-442",
+                  "448-451"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/440?pgs=440-442,448-451&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215982",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "442-443"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/442?pgs=442-443&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215985",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "443-444"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/443?pgs=443-444&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215987",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "444-445"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/444?pgs=444-445&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215989",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "445-445"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/445?pgs=445&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215992",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "445-446"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/445?pgs=445-446&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215995",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "446-446"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/446?pgs=446&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215999",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "446-446"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/446?pgs=446&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216004",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "447-447"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/447?pgs=447&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "447-448"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/447?pgs=447-448&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "448-448"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/448?pgs=448&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216034",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "451-454",
+                  "454-455"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/451?pgs=451-454,454-455&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216035",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "454-454"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/454?pgs=454&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216036",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "454-454"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/454?pgs=454&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216037",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "455-459",
+                  "464-465"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/455?pgs=455-459,464-465&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216038",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "459-459"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/459?pgs=459&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "459-459"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/459?pgs=459&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "459-460"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/459?pgs=459-460&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "460-461"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/460?pgs=460-461&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "461-461"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/461?pgs=461&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "461-462"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/461?pgs=461-462&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "462-463"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/462?pgs=462-463&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "463-463"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/463?pgs=463&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216049",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "463-464"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/463?pgs=463-464&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216050",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "465-467",
+                  "468-469"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/465?pgs=465-467,468-469&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "467-467"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/467?pgs=467&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "467-467"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/467?pgs=467&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "467-468"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/467?pgs=467-468&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "469-470",
+                  "471-472"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/469?pgs=469-470,471-472&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "470-470"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/470?pgs=470&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "470-470"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/470?pgs=470&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "470-471"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/470?pgs=470-471&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "473-473"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/473?pgs=473&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216062",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "473-475",
+                  "476-477"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/473?pgs=473-475,476-477&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "475-475"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/475?pgs=475&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "475-476"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/475?pgs=475-476&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "476-476"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/476?pgs=476&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "477-478"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/477?pgs=477-478&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "478-478"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/478?pgs=478&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO PLANEAMENTO E ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Valente De Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "478-481",
+                  "482-483"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/478?pgs=478-481,482-483&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "481-481"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/481?pgs=481&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "481-482"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/481?pgs=481-482&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "482-482"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/482?pgs=482&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "483-484"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/483?pgs=483-484&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "484-487",
+                  "488-490"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/484?pgs=484-487,488-490&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "487-487"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/487?pgs=487&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "487-488"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/487?pgs=487-488&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "488-488"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/488?pgs=488&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216086",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "488-488"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/488?pgs=488&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "490-490"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/490?pgs=490&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "490-490"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/490?pgs=490&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216089",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "490-492"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/490?pgs=490-492&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "492-494",
+                  "495-496"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/492?pgs=492-494,495-496&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "495-495"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/495?pgs=495&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  INDÚSTRIA E ENERGIA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Mira Amaral"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "496-497",
+                  "498-498"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/496?pgs=496-497,498&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "497-497"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/497?pgs=497&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216094",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "497-498"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/497?pgs=497-498&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "498-500"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-24",
+                "pubLeg": "V",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24/498?pgs=498-500&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1989; Grandes Opções do Plano para 1989-1992 e Grandes Opções do Plano para 1989.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "226090",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "329670",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-11-24",
+        "pubLeg": "V",
+        "pubNr": "16",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/016/1988-11-24?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "329671",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-11-25",
+        "pubLeg": "V",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/017/1988-11-25?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "329672",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-11-26",
+        "pubLeg": "V",
+        "pubNr": "18",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/018/1988-11-26?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
