@@ -1,0 +1,8 @@
+Portaria n.º 931/99
+de 20 de Outubro
+A Portaria n.º 198/98, de 25 de Março, aprovou o Regulamento de Aplicação da Acção de Transformação e Comercialização de Produtos Agrícolas e Silvícolas - Regulamentos (CE) n.os 951/97 e (CEE) n.º 867/90.
+Da sua aplicação decorre, no entanto, a necessidade de proceder a alterações no que se refere ao montante mínimo de investimento exigido para os projectos de natureza ambiental, de forma a permitir que unidades de pequena dimensão possam ter acesso às ajudas previstas naquele dispositivo legal.
+Assim, ao abrigo do disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 150/94, de 25 de Maio:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que a alínea c) do n.º 2 do artigo 3.º do Regulamento de Aplicação da Acção de Transformação e Comercialização de Produtos Agrícolas e Silvícolas, aprovado pela Portaria n.º 198/98, de 25 de Março, passe a ter a seguinte redacção:
+«c) Envolverem um montante mínimo de investimento em activos fixos, elegíveis no âmbito da aplicação desta acção, de 20000 contos, excepto para o sector 'Produtos silvícolas', para o sector 'Mel natural', para 'criação de postos de recepção afectos ao lagar' do subsector 'Oleaginosas (azeite)' ou quando o projecto respeite exclusivamente ao cumprimento de normativos sobre condições hígio-sanitárias ou normalização/classificação de produtos, em que o montante mínimo é de 5000 contos, ou ao cumprimento de normativos sobre protecção de ambiente, em que o montante mínimo é de 3000 contos;»
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 1 de Outubro de 1999.
