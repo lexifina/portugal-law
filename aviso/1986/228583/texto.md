@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros enviou à Embaixada da Hungria em Lisboa uma nota verbal, datada de 26 de Maio de 1986, informando que a Parte Portuguesa deu já cumprimento às formalidades constitucionais relativas à elaboração e entrada em vigor do Acordo sobre Protecção Recíproca de Indicações de Proveniência, Denominações de Origem e Denominações Similares entre o Governo da República Portuguesa e o Governo da República Popular da Hungria, assinado em Lisboa em 22 de Maio de 1981 e publicado no Diário da República, 1.ª série, n.º 89, de 17 de Abril de 1986.
+O Ministério dos Negócios Estrangeiros da Hungria enviara à Embaixada de Portugal em Budapeste uma nota verbal datada de 3 de Maio de 1985 informando estarem cumpridas as mesmas formalidades pela Parte Húngara.
+Nesta conformidade, segundo o disposto no seu artigo 9.º, o Acordo em apreço entra em vigor no dia 26 de Junho de 1986.
+Direcção-Geral dos Negócios Político-Económicos, 2 de Junho de 1986. - O Director-Geral, João Uva de Matos Proença.
