@@ -1,0 +1,21 @@
+Lei n.º 10/92
+de 15 de Julho
+Autoriza o Governo a alterar o regime de suspensão do contrato de trabalho e de redução do período normal de trabalho
+A Assembleia da República decreta, nos termos dos artigos 164.º, alínea e), 168.º, n.º 1, alínea b), e 169.º, n.º 3, da Constituição, o seguinte:
+Artigo 1.º Fica o Governo autorizado a alterar o regime de suspensão do contrato de trabalho e de redução do período normal de trabalho.
+Art. 2.º O sentido e a extensão da legislação a produzir são definidos nas alíneas seguintes:
+a) Previsão de que a redução dos períodos normais de trabalho se possa traduzir quer na interrupção da actividade por um ou mais períodos normais de trabalho, podendo abranger, rotativamente, diferentes grupos de trabalhadores, quer na diminuição do número de horas correspondente àqueles períodos;
+b) Dispensa de autorização administrativa para a suspensão dos contratos de trabalho, quando permitida por lei, isto é, nas situações em que a redução dos períodos normais de trabalho se mostre inadequada ou insuficiente para assegurar a viabilidade da empresa e a manutenção dos postos de trabalho;
+c) Limitação da proibição legal de aumento das remunerações dos membros dos corpos sociais aos casos em que se verifique comparticipação financeira da segurança social na compensação salarial concedida aos trabalhadores;
+d) Eliminação da proibição de proceder ao reembolso de prestações suplementares de capital ou de suprimentos;
+e) Eliminação dos critérios de selecção dos trabalhadores abrangidos pelas medidas de redução ou suspensão da prestação de trabalho;
+f) Previsão de medidas adequadas à protecção dos representantes sindicais e dos membros das comissões de trabalhadores, designadamente pela atribuição de preferência na manutenção das condições normais de trabalho, salvo diferente regime estabelecido por instrumento de regulamentação colectiva de trabalho de natureza convencional;
+g) Garantia de que a redução dos períodos normais de trabalho ou a suspensão do contrato de trabalho relativa a trabalhador que seja representante sindical ou membro da comissão de trabalhadores não prejudique o direito ao normal exercício das actividades de representante dos trabalhadores no interior da empresa.
+Art. 3.º A presente autorização legislativa tem a duração de 90 dias.
+Aprovada em 7 de Maio de 1992.
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
+Promulgada em 17 de Junho de 1992.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendada em 23 de Junho de 1992.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
