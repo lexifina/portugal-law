@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação do Secretário de Estado norte-americano, o Governo do Malawi depositou junto do Departamento de Estado, em 15 de Fevereiro último, o instrumento de acessão à Convenção da Organização Meteorológica Mundial, assinada em Washington em 11 de Outubro de 1947, aprovada para ratificação pelo Decreto-Lei n.º 38055, publicado no Diário do Governo n.º 234, 1.ª série, de 16 de Novembro de 1950, e que Portugal efectivamente ratificou em 15 de Janeiro de 1951, facto que foi tornado público por aviso no Diário do Governo n.º 172, 1.ª série, de 6 de Agosto de 1952.
+A Convenção, com as emendas aprovadas no IV Congresso da Organização Meteorológica, reunido em Genebra de 11 a 27 de Abril de 1963, entrou em vigor para o Malawi em 17 de Março de 1965.
+Direcção-Geral dos Negócios Económicos e Consulares, 2 de Junho de 1965. - O Director-Geral, José Calvet de Magalhães.
