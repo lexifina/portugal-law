@@ -1,0 +1,18 @@
+Lei n.º 34/88
+de 2 de Abril
+Autorização ao Governo para legislar sobre a produção de energia eléctrica por pessoas singulares ou colectivas, públicas ou privadas
+A Assembleia da República decreta, nos termos dos artigos 164.º, alínea e), 168.º, n.º 1, alíneas e), j), r) e x), e 169.º, n.º 2, da Constituição, o seguinte:
+Artigo 1.º Fica o Governo autorizado a legislar:
+a) Com o objectivo de possibilitar que a actividade de produção de energia eléctrica possa ser exercida por pessoas singulares ou colectivas, de direito público ou privado, independentemente da forma jurídica que assumam, desde que o respectivo estabelecimento industrial de produção de energia, no seu conjunto, não ultrapasse a potência instalada aparente de 10000 kVA, e sejam utilizados recursos renováveis, combustíveis nacionais, resíduos industriais, agrícolas ou urbanos, ou se trate de instalações de co-geração, estas últimas sem limite de potência e desde que sejam parte integrante de instalações cuja actividade principal não seja a produção de energia eléctrica;
+b) No sentido de alterar a Lei n.º 46/77, de 8 de Julho, e os diplomas que a modificaram, de forma a todos adaptar aos objectivos enunciados na alínea a);
+c) No sentido de criar regimes especiais de expropriação por utilidade pública e de utilização de bens do domínio público que sejam adequados aos objectivos enunciados na alínea a), sem pôr em causa os direitos das autarquias e de outras entidades públicas;
+d) No sentido de proceder à revisão da legislação sobre atribuições das autarquias locais e competências dos respectivos órgãos, por forma a explicitamente admitir a participação dos municípios no capital de sociedades produtoras de energia eléctrica no âmbito da alínea a), por deliberação dos órgãos atrás referidos.
+Art. 2.º O Governo utilizará por uma só vez a autorização concedida pelo artigo 1.º através de decreto-lei que concretize o objectivo aí definido e desenvolva o regime jurídico no sentido de alcançar um quadro total e imediatamente aplicável.
+Art. 3.º A presente autorização legislativa tem a duração de três meses, contados a partir da data da sua entrada em vigor.
+Aprovada em 18 de Fevereiro de 1988.
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
+Promulgada em 14 de Março de 1988.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendada em 15 de Março de 1988.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
