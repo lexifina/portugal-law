@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 1-D/2003
+Para os devidos efeitos se declara que o Decreto-Lei n.º 14/2003, publicado no Diário da República, 1.ª série, n.º 25, de 30 de Janeiro de 2003, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No sumário, onde se lê «Disciplina a atribuição de benefícios e regalias suplementares ao sistema remuneratório dos titulares de órgãos de administração ou gestor e do restante pessoal dos serviços e fundos autónomos e das entidades públicas empresariais» deve ler-se «Disciplina a atribuição de benefícios e regalias suplementares ao sistema remuneratório dos titulares de órgãos de administração ou gestor e do restante pessoal dos serviços e fundos autónomos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Janeiro de 2003. - O Secretário-Geral, José M. Sousa Rego.
