@@ -1,0 +1,17 @@
+Decreto n.º 44908
+Considerando que foram adjudicadas:
+Ao empreiteiro António Torres Baptista a execução da obra de construção de anexos a um hangar metálico, de uma barraca de manutenção e de outras pequenas obras de construção civil na base aérea n.º 1 (Sintra);
+À firma Pinto & Cruz, Lda., a execução da obra de aquisição e montagem de equipamento para a cozinha da esquadra n.º 12 do grupo de detecção, alerta e conduta da intercepção n.º 1 (Paços de Ferreira);
+À firma J. Emílio Mateus a execução da obra de instalação telefónica da base aérea n.º 1 (Sintra);
+À firma Alves Ribeiro, Lda., a execução da obra de ampliação da rede de águas da base aérea n.º 1 (Sintra);
+Considerando que o prazo de execução de tais obras abrange parte dos anos económicos de 1963 e 1964;
+Tendo em conta o disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar os seguintes contratos:
+Com o empreiteiro António Torres Baptista para a execução da obra de construção de anexos a um hangar metálico, de uma barraca de manutenção e de outras pequenas obras de construção civil na base aérea n.º 1 (Sintra), pela importância de 1395388$10.
+Com a firma Pinto & Cruz, Lda., para a execução da obra de aquisição e montagem de equipamento para a cozinha da esquadra n.º 12 do grupo de detecção, alerta e conduta da intercepção n.º 1 (Paços de Ferreira), pela importância de 728520$00.
+Com a firma J. Emílio Mateus para a execução da obra de instalação telefónica da base aérea n.º 1 (Sintra), pela importância de 738522$80.
+Com a firma Alves Ribeiro, Lda., para a execução da obra de ampliação da rede de águas da base aérea n.º 1 (Sintra), pela importância de 285555$00.
+Art. 2.º O encargo com estas obras, no montante de 3147985$90, a custear por conta da verba apropriada do orçamento suplementar de defesa, será na sua totalidade liquidado pelo referido conselho administrativo no ano económico de 1964.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 6 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Francisco António das Chagas.
