@@ -1,0 +1,8 @@
+Despacho Normativo n.º 285/80
+Tendo em conta os trabalhos desenvolvidos no âmbito da secção especializada CTIP, criada nos termos do Despacho Normativo n.º 325/79, de 3 de Novembro, e dando cumprimento ao disposto na Resolução do Conselho de Ministros n.º 215/80, de 9 de Junho, os Ministros das Finanças e do Plano e da Indústria e Energia determinam:
+1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1980 os projectos da Empresa Nacional de Urânio, E. P., a seguir discriminados:
+(ver documento original)
+Estes investimentos correspondem em 1980 a um dispêndio global de 170 milhares de contos.
+2 - No ano em curso, para além das operações financeiras necessárias à actividade corrente, fica vedado à Empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não contemplado no número anterior.
+3 - O conjunto de projectos mencionados no n.º 1 será integralmente financiado por fundos gerados pela própria Empresa, não necessitando assim de qualquer dotação de capital estatutário nem de recorrer aos mercados interno ou externo para obtenção de capital alheio, no pressuposto de que a Empresa consegue comercializar 150 t de concentrado de urânio, autorizada por via da Resolução do Conselho de Ministros n.º 358/79, de 30 de Novembro (Diário da República, de 21 de Dezembro de 1979).
+Ministérios das Finanças e do Plano e da Indústria e Energia, 6 de Agosto de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - Pelo Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta, Secretário de Estado da Indústria Transformadora.
