@@ -12,10 +12,8 @@
 
 São órgãos da Fundação:
 
-a) O conselho de administração;
+a) O conselho directivo;
 
 b) O conselho executivo;
 
-c) O conselho de curadores;
-
-d) O fiscal único.
+c) O conselho consultivo.
