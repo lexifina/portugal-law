@@ -1,0 +1,24 @@
+Despacho Normativo n.º 335/79
+Considerando as recentes reformulações de carreiras aprovadas para a função pública pelos Decretos-Leis n.os 191-C/79, de 25 de Junho, e 377/79, de 13 de Setembro;
+Considerando que a aplicação desses diplomas ao quadro geral de adidos impõe regras próprias, atenta a especificidade da situação dos funcionários adidos e, muito particularmente, o facto de os mesmos serem por vezes titulares de categorias não previstas nos quadros da função pública:
+Determino, ao abrigo do n.º 2 do artigo 9.º do Decreto-Lei n.º 377/79, de 13 de Setembro, o seguinte:
+1 - O disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 377/79, de 13 de Setembro, é aplicável, pela forma e condições nele estabelecidas, ao pessoal integrado no quadro geral de adidos (QGA).
+2 - Aos funcionários adidos titulares de categorias com designações constantes da 1.ª coluna do anexo ao Decreto-Lei n.º 377/79, de 13 de Setembro, serão aplicadas as equivalências nele estabelecidas, independentemente da letra de vencimento que possuam no QGA, desde que reúnam os requisitos habilitacionais estabelecidos no citado diploma.
+2.1 - Os funcionários adidos que, sendo portadores das categorias enumeradas na 1.ª coluna do anexo 1 ao Decreto-Lei n.º 377/79, de 13 de Setembro, não estejam, porém, incluídos em classes transitarão para a categoria a que corresponda igual letra de vencimento ou, não a havendo, para a categoria com letra de vencimento imediatamente superior.
+3 - As alterações de vencimentos referentes às categorias de escriturário-dactilógrafo, telefonista, motoristas de ligeiros e pesados, contínuos, porteiros e guardas, todas elas integradas em carreiras horizontais, ficam estritamente dependentes da apresentação pelos interessados, perante o Serviço Central de Pessoal, de certidões ou documentos comprovativos do tempo de serviço prestado naquelas categorias, passadas pelas entidades competentes para o efeito.
+3.1 - As alterações só produzirão efeitos retroactivos a 1 de Julho de 1979 se a prova do tempo contável for feita perante o Serviço Central de Pessoal até 31 de Janeiro de 1980.
+3.2 - A falta de apresentação dos documentos nesse prazo implica que a alteração da categoria ou da letra só produzirá efeitos a partir do dia 1 do mês seguinte ao da apresentação dos documentos exigidos, excepto se o interessado provar que o atraso lhe não é de forma alguma imputável.
+4 - Na integração dos funcionários adidos nas categorias da carreira de escriturário-dactilógrafo previstas no n.º 1 do artigo 12.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, será tido em consideração o tempo de serviço prestado nas seguintes categorias:
+Aspirante;
+Dactilógrafo;
+Escriturário;
+Auxiliar de secretaria;
+Auxiliar de administração;
+Catalogador dactilógrafo;
+Ajudante administrativo.
+4.1 - O disposto no número anterior é aplicável aos funcionários que, sendo oriundos do quadro geral de adidos, se encontrem já integrados em quadros da Administração.
+5 - Aos funcionários adidos que tenham sido ou venham a ser objecto de reclassificação nos termos dos artigos 19.º e 56.º do Decreto-Lei n.º 294/76, de 24 de Abril, o primeiro dos quais na redacção que lhe foi conferida pelo Decreto-Lei n.º 819/76, de 12 de Novembro, só será contado o tempo de serviço na categoria a partir da data em que a reclassificação produzir efeitos, com excepção dos casos previstos no n.º 4.
+6 - A transição do pessoal adido para situações decorrentes da aplicação do regime estabelecido neste despacho será formalizada mediante publicação no Diário da República de listas nominativas aprovadas por despacho do Secretário de Estado da Administração Pública e anotadas pelo Tribunal de Contas.
+6.1 - A competência prevista no número anterior é desde já delegada no director-geral do Serviço Central de Pessoal, que a poderá subdelegar, nos termos previstos na lei.
+7 - A aplicação do regime estabelecido no Decreto-Lei n.º 377/79 a novas categorias, ao abrigo dos artigos 2.º e 3.º desse diploma, será extensiva às idênticas categorias do QGA, de harmonia com critérios a fixar por despacho do Secretário de Estado da Administração Pública.
+Presidência do Conselho de Ministros, 9 de Novembro de 1979. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.
