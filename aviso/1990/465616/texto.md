@@ -1,0 +1,69 @@
+Aviso
+Por ordem superior se torna público o conteúdo da Resolução n.º 670 (1990), aprovada pelo Conselho de Segurança das Nações Unidas na sua sessão realizada a 25 de Setembro de 1990, cujos textos na versão original em inglês e a tradução para português se anexam.
+Direcção-Geral dos Negócios Político-Económicos, 28 de Setembro de 1990. - O Subdirector-Geral, Júlio Francisco de Sales Mascarenhas.
+
+RESOLUTION No. 670 (1990)
+(Adopted by the Security Council at its 2943rd meeting on 25 September 1990)
+The Security Council:
+Reaffirming its Resolutions nos. 660 (1990), 661 (1990), 662 (1990), 664 (1990), 665 (1990), 666 (1990) and 667 (1990);
+Condemning Iraq's continued occupation of Kuwait, its failure to rescind its actions and end its purported annexation and its holding of third State nationals against their will, in flagrant violation of Resolutions nos. 660 (1990), 662 (1990), 664 (1990) and 667 (1990) and of international humanitarian law;
+Condemning further the treatment by Iraqi forces of Kuwaiti nationals, including measures to force them to leave their own country and mistreatment of persons and property in Kuwait in violation of international law;
+Noting with grave concern the persistent attempts to evade the measures laid down in Resolution no. 661 (1990);
+Further noting that a number of States have limited the number of Iraqi diplomatic and consular officials in their countries and that others are planning to do so;
+Determined to ensure by all necessary means the strict and complete application of the measures laid down in Resolution no. 661 (1990);
+Determined to ensure respect for its decisions and the provisions of articles 25 and 48 of the Charter of the United Nations;
+Affirming that any acts of the Government of Iraq which are contrary to the above-mentioned resolutions or to articles 25 or 48 of the Charter of the United Nations, such as Decree no. 377 of the Revolution Command Council of Iraq of 16 September 1990, are null and void;
+Reaffirming its determination to ensure compliance with Security Council resolutions by maximum use of political and diplomatic means;
+Welcoming the Secretary-General's use of his good offices to advance a peaceful solution based on the relevant Security Council resolutions and noting with appreciation his continuing efforts to this end;
+Underlining to the Government of Iraq that its continued failure to comply with the terms of Resolutions nos. 660 (1990), 661 (1990), 662 (1990), 664 (1990), 666 (1990) and 667 (1990) could lead to further serious action by the Council under the Charter of the United Nations, including under chapter VII;
+Recalling the provisions of article 103 of the Charter of the United Nations;
+Acting under chapter VII of the Charter of the United Nations:
+1 - Calls upon all States to carry out their obligations to ensure strict and complete compliance with Resolution no. 661 (1990) and in particular paragraphs 3, 4 and 5 thereof.
+2 - Confirms that Resolution no. 661 (1990) applies to all means of transport, including aircraft.
+3 - Decides that all States, notwithstanding the existence of any rights or obligations conferred or imposed by any international agreement or any contract entered into or any licence or permit granted before the date of the present resolution, shall deny permission to any aircraft to take off from their territory if the aircraft would carry any cargo to or from Iraq or Kuwait other than food in humanitarian circumstances, subject to authorization by the Council or the Committee established by Resolution no. 661 (1990) and in accordance with Resolution no. 666 (1990), or supplies intended strictly for medical purposes or solely for UNIIMOG.
+4 - Decides further that all States shall deny permission to any aircraft destined to land in Iraq or Kuwait, whatever its State of registration, to overfly its territory unless:
+a) The aircraft lands at an airfield designated by that State outside Iraq or Kuwait in order to permit its inspection to ensure that there is no cargo on board in violation of Resolution no. 661 (1990) or the present resolution, and for this purpose the aircraft may be detained for as long as necessary; or
+b) The particular flight has been approved by the Committee established by Resolution no. 661 (1990); or
+c) The flight is certified by the United Nations as solely for the purposes of UNIIMOG.
+5 - Decides that each State shall take all necessary measures to ensure that any aircraft registered in its territory or operated by an operator who has his principal place of business or permanent residence in its territory complies with the provisions of Resolution no. 661 (1990) and the present resolution.
+6 - Decides further that all States shall notify in a timely fashion the Committee established by Resolution no. 661 (1990) of any flight between its territory and Iraq or Kuwait to which the requirement to land in paragraph 4 above does not apply, and the purpose for such a flight.
+7 - Calls upon all States to co-operate in taking such measures as may be necessary, consistent with international law, including the Chicago Convention, to ensure the effective implementation of the provisions of Resolution no. 661 (1990) or the present resolution.
+8 - Calls upon all States to detain any ships of Iraqi registry which enter their ports and which are being or have been used in violation of Resolution no. 661 (1990), or to deny such ships entrance to their ports except in circumstances recognized under international law as necessary to safeguard human life.
+9 - Reminds all States of their obligations under Resolution no. 661 (1990) with regard to the freezing of Iraqi assets, and the protection of the assets of the legitimate Government of Kuwait and its agencies, located within their territory and to report to the Committee established under Resolution no. 661 (1990) regarding those assets.
+10 - Calls upon all States to provide to the Committee established by Resolution no. 661 (1990) information regarding the action taken by them to implement the provisions laid down in the present resolution.
+11 - Affirms that the United Nations Organization, the specialized agencies and other international organizations in the United Nations system are required to take such measures as may be necessary to give effect to the terms of Resolution no. 661 (1990) and this resolution.
+12 - Decides to consider, in the event of evasion of the provisions of Resolution no. 661 (1990) or of the present resolution by a State or its nationals or through its territory, measures directed at the State in question to prevent such evasion.
+13 - Reaffirms that the Fourth Geneva Convention applies to Kuwait and that as a High Contracting Party to the Convention Iraq is bound to comply fully with all its terms and in particular is liable under the Convention in respect of the grave breaches committed by it, as are individuals who commit or order the commission of grave breaches.
+
+RESOLUÇÃO N.º 670 (1990)
+(Aprovada pelo Conselho de Segurança na sua sessão de 25 de Setembro de 1990)
+O Conselho de Segurança:
+Reafirmando as suas Resoluções n.os 660 (1990), 661 (1990), 662 (1990), 664 (1990), 665 (1990), 666 (1990) e 667 (1990);
+Condenando a ocupação continuada do Koweit pelo Iraque, a incapacidade para cessar as suas acções e a pretensa anexação, e a retenção de nacionais de Estados terceiros contra a sua vontade, em violação flagrante das Resoluções n.os 660 (1990), 662 (1990), 664 (1990) e 667 (1990) e do direito internacional humanitário;
+Condenando ainda o tratamento aplicado aos nacionais koweitianos pelas forças iraquianas, incluindo medidas que os forçam a deixar o seu próprio país e os danos causados a pessoas e bens no Koweit, em violação do direito internacional;
+Tomando nota, com profunda preocupação, das tentativas constantes de evasão às medidas expressas na Resolução n.º 661 (1990);
+Observando ainda que alguns Estados diminuíram o número de funcionários diplomáticos e consulares iraquianos nos seus países e que outros tencionam fazê-lo;
+Determinado a assegurar, por todos os meios necessários, a estrita e completa aplicação das medidas expressas na Resolução n.º 661 (1990);
+Determinado a assegurar o respeito pelas suas decisões e pelas disposições dos artigos 25 e 48 da Carta das Nações Unidas;
+Afirmando que quaisquer acções do Governo Iraquiano contrárias às resoluções acima mencionadas ou aos artigos 25 e 48 da Carta das Nações Unidas, tais como o Decreto n.º 377 do Conselho do Comando da Revolução do Iraque, de 16 de Setembro de 1990, são nulas e sem validade;
+Reafirmando a sua determinação em assegurar o cumprimento das resoluções do Conselho de Segurança pelo uso máximo dos meios políticos e diplomáticos;
+Acolhendo os bons ofícios do Secretário-Geral ao propor uma solução pacífica baseada nas resoluções relevantes do Conselho de Segurança e observando com apreço os seus esforços nesse sentido;
+Sublinhando ao Governo do Iraque que a sua incapacidade no cumprimento do conteúdo das Resoluções n.os 660 (1990), 661 (1990), 662 (1990), 664 (1990), 666 (1990) e 667 (1990) poderia levar a uma posterior actuação do Conselho de Segurança com consequências mais graves ao abrigo da Carta das Nações Unidas, incluindo o capítulo VII;
+Recordando as disposições do artigo 103 da Carta das Nações Unidas;
+Actuando de acordo com o capítulo VII da Carta das Nações Unidas:
+1 - Exorta todos os Estados a cumprirem as suas obrigações no sentido de assegurarem uma observância estrita e completa da Resolução n.º 661 (1990) e, em particular, dos seus parágrafos 3, 4 e 5.
+2 - Confirma que a Resolução n.º 661 (1990) abrange todos os meios de transporte, incluindo o aéreo.
+3 - Decide que todos os Estados, não obstante a existência de quaisquer direitos ou obrigações outorgados ou impostos em virtude de qualquer acordo internacional ou qualquer contrato do qual façam parte, ou qualquer licença ou autorização concedida antes da data da presente resolução, deverão negar autorização para que qualquer aeronave descole do seu território se aquela transportar qualquer outra mercadoria de e para o Iraque ou Koweit que não alimentos por razões humanitárias, sujeitos a autorização do Conselho de Segurança ou do Comité estabelecido pela Resolução n.º 661 (1990) e de acordo com a Resolução n.º 666 (1990), ou fornecimentos destinados a fins estritamente médicos ou unicamente para a UNIIMOG.
+4 - Decide ainda que todos os Estados deverão negar autorização a qualquer aeronave com destino ao Iraque ou Koweit, qualquer que seja o Estado de registo, para sobrevoar o seu território, a menos que:
+a) A aeronave aterre numa pista indicada por aquele Estado fora do Iraque ou Koweit, por forma a permitir a sua inspecção e assegurar que não há mercadorias a bordo em violação da Resolução n.º 661 (1990) ou da presente resolução, razão pela qual a aeronave poderá ser retida pelo tempo que for necessário; ou
+b) O voo em questão tenha sido aprovado pelo Comité estabelecido pela Resolução n.º 661 (1990); ou
+c) O voo seja reconhecido pelas Nações Unidas como unicamente destinado à prossecução dos objectivos da UNIIMOG.
+5 - Decide que cada Estado deverá adoptar todas as medidas necessárias para assegurar que qualquer aeronave registada no seu território ou utilizada por um operador com o seu principal estabelecimento ou residência permanente no seu território obedeça às disposições da Resolução n.º 661 (1990) e da presente resolução.
+6 - Decide ainda que todos os Estados deverão notificar pontualmente ao Comité estabelecido ao abrigo da Resolução n.º 661 (1990) qualquer voo entre o seu território e o Iraque ou Koweit, para o qual o pedido de aterragem referido no parágrafo 4 não se aplica, bem como o seu propósito.
+7 - Exorta todos os Estados a cooperarem na tomada, sempre que necessário, de tais medidas, em conformidade com o direito internacional, incluindo a Convenção de Chicago, para assegurar uma aplicação efectiva das disposições da Resolução n.º 661 (1990) ou da presente resolução.
+8 - Exorta todos os Estados a reterem quaisquer navios com registo iraquiano que entrem nos seus portos, e que estejam a ser ou hajam sido usados em violação da Resolução n.º 661 (1990), ou a negar-lhes entrada nos seus portos, excepto em circunstâncias reconhecidas pelo direito internacional como necessárias à salvaguarda da vida humana.
+9 - Relembra a todos os Estados as suas obrigações decorrentes da Resolução n.º 661 (1990), respeitantes ao congelamento dos bens iraquianos e à protecção dos bens do Governo legítimo do Koweit e das suas agências, localizadas no seu território, e a sua obrigação de apresentar relatório ao Comité estabelecido ao abrigo da Resolução n.º 661 (1990).
+10 - Exorta todos os Estados a fornecerem ao Comité estabelecido ao abrigo da Resolução n.º 661 (1990) informações relativas ao procedimento por eles adoptado com vista à aplicação das disposições expressas na presente resolução.
+11 - Afirma que a Organização das Nações Unidas, as agências especializadas e outros organismos internacionais do sistema das Nações Unidas são chamados a adoptar, sempre que necessário, tais medidas para tornar efectivo o conteúdo da Resolução n.º 661 (1990) e o desta resolução.
+12 - Decide considerar, na eventualidade do não cumprimento das disposições da Resolução n.º 661 (1990) ou da presente resolução, por um Estado ou pelos seus nacionais, ou através do seu território, medidas dirigidas ao Estado em questão para impedir tal incumprimento.
+13 - Reafirma que a IV Convenção de Genebra se aplica ao Koweit e, sendo o Iraque Alta Parte Contratante daquela Convenção, está obrigado a submeter-se plenamente a todas as suas condições, sendo, em particular, responsável, de acordo com a Convenção, pelas graves infracções cometidas, assim como o são os indivíduos que cometam ou ordenem a prática de graves infracções.
