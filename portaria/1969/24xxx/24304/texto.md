@@ -1,0 +1,3 @@
+Portaria n.º 24304
+Manda o Governo da República Portuguesa, pelos Ministro do Interior e Secretário de Estado da Agricultura, que a Câmara Municipal do Barreiro seja transferida do grupo C da relação n.º 1 anexa à Portaria n.º 9708, de 23 de Dezembro de 1940, para o grupo D da mesma portaria, nas condições expressas no seu artigo 8.º, alínea a), ficando assim autorizada a cobrar a taxa de 2,5 por cento sobre o valor da carne dos animais abatidos no seu matadouro, calculada na base da estiva aprovada pela Portaria n.º 11466, de 22 de Agosto de 1946.
+Ministério do Interior e Secretaria de Estado da Agricultura, 24 de Setembro de 1969. - O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.
