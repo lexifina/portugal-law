@@ -1,0 +1,3 @@
+Declaração
+Para os devidos efeitos se declara que S. Ex.ª o Ministro da Marinha, por despacho de 12 de Maio de 1966, determinou, ao abrigo do disposto no artigo 18.º e seus parágrafos do Decreto-Lei n.º 29962, de 9 de Outubro de 1939, que a taxa devida à Junta Nacional da Marinha Mercante pelos armadores por transportes de passageiros e de carga na navegação de longo curso e cabotagem, cujo quantitativo se encontra fixado em 0,25 por cento, seja extensiva aos armadores da navegação costeira nacional e internacional detentores de tonelagem superior a 500 t de arqueação bruta.
+Repartição do Gabinete, 12 de Maio de 1966. - O Chefe do Gabinete, Eugénio Ferreira de Almeida, comodoro.
