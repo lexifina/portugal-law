@@ -1,0 +1,13 @@
+Decreto-Lei n.º 513-P/79
+de 26 de Dezembro
+As disposições do Decreto-Lei n.º 468/71, de 5 de Novembro, atribuíram à Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos poderes mais amplos do que os consignados no Regulamento dos Serviços Hidráulicos, aprovado por Decreto de 19 de Dezembro de 1892, e mais legislação em vigor, tendo em vista a disciplina das construções nas zonas marginais dos cursos de águas afectados pelas cheias, através da definição do conceito de zonas adjacentes.
+Sucede, porém, que esses poderes só poderão ter concretização prática após a definição das referidas zonas adjacentes, nos termos do artigo 14.º daquele diploma legal, o que vem impossibilitar a utilização imediata das disposições legais atribuídas pelo Decreto-Lei n.º 468/71 para os casos em que não tenham ainda sido definidas tais zonas. Em muitos casos, como sejam os principais rios do País (Tejo, Douro, Guadiana e Mondego), está em curso ou prevista a realização de grandes obras que irão alterar profundamente todo o funcionamento hidráulico desses cursos de água, o que não permite desde já definir as zonas adjacentes consequentes de tais obras.
+Para obviar aos inconvenientes apontados e permitir que os serviços hidráulicos disponham de legislação aplicável para o cabal desempenho das suas funções, considera-se necessário estabelecer um regime de transição entre a aplicabilidade prática das disposições consignadas no Decreto-Lei n.º 468/71 e as que constam de legislação que o precedeu, no que respeita à utilização dos leitos e margens dos cursos de água, lagos e lagoas, incluindo as zonas inundáveis pelas cheias.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. - 1 - Repõe-se em vigor a disciplina dos artigos 261.º do Regulamento dos Serviços Hidráulicos, aprovado por Decreto de 19 de Dezembro de 1892, e 5.º do Decreto-Lei n.º 23925, de 29 de Maio de 1934, mantendo-se a sua vigência até à publicação dos diplomas que vierem a definir, nos termos do artigo 14.º do Decreto-Lei n.º 468/71, de 5 de Novembro, as zonas adjacentes dos cursos de água, lagos e lagoas.
+2 - As disposições do artigo 15.º do Decreto-Lei n.º 468/71, de 5 de Novembro, para os casos em que não se encontrem ainda definidas as zonas adjacentes dos cursos de água, nos termos do artigo 14.º do mesmo diploma, são aplicáveis aos campos marginais tradicionalmente inundados pelas águas, quer ordinárias, quer de cheias.
+Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.
+Promulgado em 17 de Dezembro de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
