@@ -17,9 +17,23 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1933/07/15500/13761378.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1933-07-12",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "45a2bf27ccd5bbbdd74bafe55594f7e918ce1ad9762aa9a9597da4d54e7b50f6",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.3,
+    "pages": 3,
+    "columns": [
+      3,
+      3,
+      8
+    ],
+    "pdf_sha256": "f7ba6f7cef092cf3e7a9fb6723cd9a1f8aee1ffca00bb4f29268f04182d108c1",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 1994
 }
