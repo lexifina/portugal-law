@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação do Ministério da Administração Interna, a Portaria n.º 621/89, publicada no Diário da República, 1.ª série, n.º 179, de 5 de Agosto de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No 2.º parágrafo do preâmbulo, onde se lê «aquele diploma estabeleceu no respectivo artigo 23.º o direito dos bombeiros» deve ler-se «aquele diploma estabeleceu no respectivo artigo 22.º o direito dos bombeiros».
+No 3.º parágrafo do preâmbulo, onde se lê «à semelhança do previsto no artigo 22.º do mesmo diploma para os bombeiros» deve ler-se «à semelhança do previsto no artigo 21.º do mesmo diploma para os bombeiros».
+No 4.º parágrafo do preâmbulo, onde se lê «nomeadamente os respeitantes ao pagamento das contribuições correspondentes, são conforme previstos no n.º 2 do artigo 23.º daquele decreto-lei,» deve ler-se «nomeadamente os respeitantes ao pagamento das contribuições correspondentes, são conforme previstos no n.º 2 do artigo 22.º daquele decreto-lei,».
+Secretaria-Geral da Presidência do Conselho de Ministros, 18 de Agosto de 1989. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, José Serra.
