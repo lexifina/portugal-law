@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se faz público que o Governo do Quénia, em nota de 22 de Março de 1965 dirigida à Embaixada da Suíça em Nairobi, denunciou, na parte que diz respeito ao seu país, os seguintes Acordos celebrados entre Portugal e o Reino Unido da Grã-Bretanha e Irlanda do Norte antes do acesso do referido país à independência:
+1) Acordo, por troca de notas, entre os Governos Português e Britânico sobre documentos de viagem dos membros das aeronaves das carreiras aéreas entre os respectivos países, concluído em 8 de Janeiro de 1940 e publicado no Diário do Governo n.º 53, 1.ª serie, de 5 de Março de 1940;
+2) Acordo, por troca de notas, entre os Governos de Portugal e do Reino Unido acerca da exploração de serviços aéreos sobre territórios na África, celebrado em 24 de Outubro de 1935 e publicado no Diário do Governo n.º 252, 1.ª série, de 31 de Outubro de 1935;
+3) Acordo entre os Governos Português e Inglês sobre serviços aéreos através dos territórios português e britânico, feito em Lisboa em 6 de Dezembro de 1945 e publicado no Diário do Governo n.º 122, 1.ª série, de 4 de Junho de 1946.
+Direcção-Geral dos Negócios Económicos e Consulares, 26 de Abril de 1966. - O Adjunto do Director-Geral, Fernando de Magalhães Cruz.
