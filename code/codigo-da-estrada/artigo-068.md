@@ -1,15 +1,7 @@
 # Artigo 68.º
 
-### Estacionamento proibido
+### Imobilização forçada de veículo ou animal
 
-1 - Nos parques e zonas de estacionamento é proibido estacionar:
+1 - Em caso de imobilização forçada de veículo ou animal ou de queda da respectiva carga numa passagem de nível, o respectivo condutor deve promover a sua imediata remoção ou, não sendo esta possível, tomar as medidas necessárias para que os condutores dos veículos ferroviários que se aproximem possam aperceber-se da presença do obstáculo.
 
-a) Veículos destinados à venda de quaisquer artigos ou a publicidade de qualquer natureza;
-
-b) Veículos utilizados para transportes públicos, quando não alugados, salvas as excepções previstas em regulamentos locais;
-
-c) Veículos de classes ou tipo diferentes daqueles a que o parque ou zona tenha sido exclusivamente afectado nos termos do artigo anterior;
-
-d) Por tempo superior ao estabelecido ou sem o pagamento da taxa fixada nos termos do artigo anterior.
-
-2 - Quem infringir o disposto no número anterior será punido com coima de 5000$00 a 25000$00.
+2 - Quem infringir o disposto no número anterior é sancionado com coima de 20000$00 a 100000$00.

@@ -1,27 +1,13 @@
-## SUBSECÇÃO IV
+## SUBSECÇÃO II
 
-## Do trânsito nas auto-estradas e vias equiparadas
+## Trânsito nos cruzamentos e entroncamentos
 
 # Artigo 69.º
 
-### Auto-estradas
+### Atravessamento
 
-1 - Nas auto-estradas e respectivos acessos, quando devidamente sinalizados, é proibido o trânsito de peões, animais, veículos de tracção animal, velocípedes, ciclomotores, motociclos de cilindrada não superior a 50 cm3, tractores agrícolas, bem como de veículos ou conjunto de veículos insusceptíveis de atingir em patamar a velocidade de 40 km/hora.
+1 - O condutor não deve entrar num cruzamento ou entroncamento, ainda que as regras de cedência de passagem ou a sinalização luminosa lho permitam, se for previsível que, tendo em conta a intensidade do trânsito, fique nele imobilizado, perturbando a circulação transversal.
 
-2 - Nas auto-estradas e respectivos acessos, quando devidamente sinalizados, é proibido:
+2 - O condutor imobilizado num cruzamento ou entroncamento em que o trânsito é regulado por sinalização luminosa pode sair dele sem esperar que a circulação seja aberta no seu sentido de trânsito, desde que não perturbe os outros utentes.
 
-a) Circular sem as luzes regulamentares;
-
-b) Parar ou estacionar, ainda que fora das faixas de rodagem, salvo nos locais especialmente destinados a esse fim;
-
-c) Inverter o sentido de marcha;
-
-d) Fazer marcha atrás;
-
-e) Transpor os separadores de tráfego ou as aberturas neles existentes;
-
-f) O ensino da condução, fora dos casos legalmente previstos.
-
-3 - Quem infringir o disposto no n.º 1 e nas alíneas a) e b) do n.º 2 será punido com coima de 10000$00 a 50000$00, salvo tratando-se de peão, caso em que a coima será de 5000$00 a 25000$00.
-
-4 - Quem infringir o disposto nas alíneas c), d), e) e f) do n.º 2 será punido com coima de 40000$00 a 200000$00.
+3 - Quem infringir o disposto no n.º 1 é sancionado com coima de 5000$00 a 25000$00.

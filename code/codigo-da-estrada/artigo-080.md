@@ -1,23 +1,15 @@
-## SECÇÃO II
-
-## Iluminação
-
 # Artigo 80.º
 
-### Utilização das luzes
+### Poluição sonora
 
-1 - Sempre que, nos termos do artigo 59.º, seja obrigatória a utilização de dispositivos de sinalização luminosa e de iluminação, os condutores de veículos automóveis e seus reboques devem utilizar as seguintes luzes:
+1 - A condução de veículos e as operações de carga e descarga devem fazer-se de modo a evitar ruídos incómodos.
 
-a) Mínimos, durante a paragem ou o estacionamento ou enquanto aguardem a abertura de passagem de nível;
+2 - É proibido o trânsito de veículos a motor que emitam ruídos superiores aos limites máximos fixados em diploma próprio.
 
-b) Médios, em locais cuja iluminação permita ao condutor uma visibilidade não inferior a 100 m, no cruzamento com outros veículos, pessoas ou animais, quando o veículo transite a menos de 100 m daquele que o precede, na aproximação de passagem de nível fechada ou durante a imobilização ou detenção da marcha do veículo;
+3 - No uso de aparelhos radiofónicos ou de reprodução sonora instalados no veículo é proibido superar os limites sonoros máximos fixados em diploma próprio.
 
-c) Máximos, nos restantes casos.
+4 - As condições de utilização de dispositivos de alarme sonoro antifurto em veículos podem ser fixadas em regulamento.
 
-2 - As características das espécies de luzes referidas no número anterior são definidas em regulamento.
+5 - Quem infringir o disposto no n.º 1 é sancionado com coima de 5000$00 a 25000$00.
 
-3 - Nos veículos que transitem sobre carril reversível, o uso de dispositivos de sinalização luminosa e de iluminação é obrigatório em qualquer circunstância.
-
-4 - Quem infringir o disposto nos números anteriores será punido com coima de 5000$00 a 25000$00, salvo o disposto no número seguinte.
-
-5 - Quem utilizar os máximos no cruzamento com outros veículos, pessoas ou animais, quando o veículo transite a menos de 100 m daquele que o precede ou durante a imobilização ou detenção da marcha do veículo será punido com coima de 10000$00 a 50000$00.
+6 - Quem infringir o disposto nos n.os 2 e 3 é sancionado com coima de 10000$00 a 50000$00, se sanção mais grave não for aplicável por força de outro diploma legal.

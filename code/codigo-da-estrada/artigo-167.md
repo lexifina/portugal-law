@@ -1,11 +1,17 @@
 # Artigo 167.º
 
-### Presunção de abandono
+### Outros casos de apreensão de cartas e licenças de condução
 
-1 - Removido o veículo, nos termos do artigo anterior, deve ser notificado o proprietário para, no prazo de 90 dias, o levantar, sob pena de se considerar abandonado em favor do Estado.
+1 - As cartas ou licenças de condução devem ser apreendidas para cumprimento da cassação da carta ou licença, proibição ou inibição de conduzir.
 
-2 - Tendo em vista o estado geral do veículo, se for previsível um risco de deterioração ou conservação que possa fazer recear que o preço obtido em venda em hasta pública não cubra as despesas decorrentes da remoção e depósito, o prazo previsto no número anterior é reduzido a 30 dias.
+2 - A entidade competente deve ainda determinar a apreensão das cartas ou licenças de condução quando:
 
-3 - Os prazos referidos nos números anteriores contam-se a partir da notificação ou do último dos anúncios a que se refere o artigo seguinte.
+a) Qualquer dos exames realizados nos termos dos n.os 1 a 3 do artigo 129.º revelar incapacidade técnica ou inaptidão física, mental ou psicológica do examinando para conduzir com segurança;
 
-4 - O veículo é considerado imediatamente abandonado quando essa for a vontade manifestada por escrito pelo seu proprietário.
+b) O condutor não se apresentar a qualquer dos exames referidos na alínea anterior ou no n.º 3 do artigo 148.º, salvo se justificar a falta no prazo de cinco dias;
+
+c) A carta de condução tenha caducado nos termos do n.º 1 do artigo 130.º
+
+3 - Nos casos previstos nos números anteriores, o condutor é notificado para, no prazo de 20 dias, entregar a carta ou licença de condução à entidade competente, sob pena de desobediência.
+
+4 - Sem prejuízo da punição por desobediência, se o condutor não proceder à entrega da carta ou licença de condução nos termos do número anterior, pode a entidade competente determinar a sua apreensão, através da autoridade de fiscalização do trânsito e seus agentes.

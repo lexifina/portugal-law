@@ -1,9 +1,23 @@
 # Artigo 106.º
 
-### Cuidados a observar pelos condutores
+### Classes e tipos de automóveis
 
-1 - Ao aproximar-se de uma passagem de peões sinalizada, o condutor, mesmo que a sinalização lhe permita avançar, deve deixar passar os peões que já tenham iniciado a travessia da faixa de rodagem.
+1 - Os automóveis classificam-se em:
 
-2 - Ao mudar de direcção, o condutor, mesmo não existindo passagem assinalada para a travessia de peões, deve reduzir a sua velocidade e se necessário parar a fim de deixar passar os peões que estejam a atravessar a faixa de rodagem da via em que vai entrar.
+a) Ligeiros: veículos com peso bruto até 3500 kg e com lotação não superior a nove lugares, incluindo o do condutor;
 
-3 - Quem infringir o disposto nos números anteriores será punido com coima de 20000$00 a 100000$00.
+b) Pesados: veículos com peso bruto superior a 3500 kg ou com lotação superior a nove lugares, incluindo o do condutor, e veículos tractores.
+
+2 - Os automóveis ligeiros ou pesados incluem-se, segundo a sua utilização, nos seguintes tipos:
+
+a) De passageiros: os veículos que se destinam ao transporte de pessoas;
+
+b) De mercadorias: os veículos que se destinam ao transporte de carga;
+
+c) Mistos: os veículos que se destinam ao transporte, alternado ou simultâneo, de pessoas e carga;
+
+d) Tractores: os veículos construídos para desenvolver um esforço de tracção, sem comportar carga útil;
+
+e) Especiais: os veículos destinados ao desempenho de uma função específica, diferente do transporte normal de passageiros ou carga.
+
+3 - As categorias de veículos para efeitos de aprovação de modelo são definidas em regulamento.

@@ -1,9 +1,7 @@
-## SECÇÃO V
-
-## Condução de veículos de transporte profissional
-
 # Artigo 86.º
 
-### Limitação do tempo de condução
+### Prescrições especiais
 
-Por razões de segurança, poderão ser definidos, para os condutores de veículos de transporte profissional, os tempos de condução e descanso e, bem assim, pode ser exigida a presença de mais de uma pessoa habilitada para a condução de um mesmo veículo.
+1 - O condutor a quem tenha sido averbado na sua carta ou licença de condução o uso de lentes, próteses ou outros aparelhos deve usá-los durante a condução.
+
+2 - Quem infringir o disposto no número anterior é sancionado com coima de 10000$00 a 50000$00.

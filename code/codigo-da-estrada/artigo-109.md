@@ -1,11 +1,7 @@
 # Artigo 109.º
 
-### Classificação dos veículos automóveis
+### Outros veículos a motor
 
-Os veículos automóveis classificam-se em:
+1 - Veículo sobre carris é aquele que, independentemente do sistema de propulsão, se desloca sobre carris.
 
-a) Motociclos: veículos automóveis de duas rodas munidos de motor térmico de propulsão de cilindrada superior a 50 cm3 ou que, por construção, atinjam em patamar uma velocidade superior a 45 km/hora;
-
-b) Automóveis ligeiros: veículos não incluídos na alínea anterior, com peso bruto até 3500 kg e cujo número de lugares sentados, incluindo o do condutor, não seja superior a nove;
-
-c) Automóveis pesados: veículos com peso bruto superior a 3500 kg ou cujo número de lugares sentados, incluindo o do condutor, seja superior a nove.
+2 - Máquina industrial é o veículo com motor de propulsão, de dois ou mais eixos, destinado à execução de obras ou trabalhos industriais e que só eventualmente transita na via pública, sendo pesado ou ligeiro consoante a sua tara exceda ou não 3500 kg.

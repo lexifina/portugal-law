@@ -1,17 +1,13 @@
 # Artigo 82.º
 
-### Sinalização de perigo
+### Utilização de acessórios de segurança
 
-1 - Os dispositivos de sinalização luminosa destinados a assinalar a mudança de direcção podem ser utilizados em simultâneo com vista a assinalar um perigo especial que o veículo represente para os outros utentes da via.
+1 - O condutor e passageiros transportados em automóveis são obrigados a usar os cintos e demais acessórios de segurança nos termos estabelecidos em regulamento.
 
-2 - Os condutores deverão usar os dispositivos referidos no número anterior:
+2 - Os condutores e passageiros de motociclos, com ou sem carro lateral, e de ciclomotores devem proteger a cabeça usando capacete de modelo oficialmente aprovado, devidamente ajustado e apertado.
 
-a) Em caso de imobilização forçada do veículo por acidente ou avaria, sempre que o mesmo represente um perigo para os demais utentes da via;
+3 - Exceptuam-se do disposto no número anterior os condutores e passageiros de veículos providos de caixa rígida.
 
-b) Em caso de avaria nas luzes do veículo, pelo tempo estritamente necessário à sua circulação até um lugar de paragem ou estacionamento;
+4 - Quem infringir o disposto no n.º 1 é sancionado com coima de 20000$00 a 100000$00.
 
-c) Quando o veículo esteja a ser rebocado;
-
-d) Em caso de súbita redução da velocidade, provocada por obstáculo imprevisto ou por condições meteorológicas especiais.
-
-3 - Quem infringir o disposto no número anterior será punido com coima de 10000$00 a 50000$00.
+5 - Quem infringir o disposto no n.º 2 é sancionado com coima de 10000$00 a 50000$00.

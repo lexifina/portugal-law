@@ -1,11 +1,11 @@
 # Artigo 100.º
 
-### Trânsito em certas vias
+### Posição a ocupar na via
 
-1 - Não é permitida, nas estradas, a condução de animais agrupados, sempre que hajam sido fixados outros itinerários em caminhos a utilizar para esse fim.
+1 - Os peões devem transitar pela direita dos locais que lhes são destinados, salvo nos casos previstos na alínea d) do n.º 2 do artigo anterior.
 
-2 - Pode proibir-se em regulamento o trânsito de animais em grupo em certas vias.
+2 - Nos casos previstos nas alíneas b) e c) do n.º 2 do artigo anterior, os peões devem transitar pelo lado esquerdo da faixa de rodagem, a não ser que tal comprometa a sua segurança.
 
-3 - A entrada de gado na via pública deverá ser devidamente assinalada pelo respectivo condutor e, salvo autorização especial, deve fazer-se por caminhos ou serventias a esse fim destinados.
+3 - Nos casos previstos nas alíneas b), c) e e) do n.º 2 do artigo anterior, os peões devem transitar o mais próximo possível do limite da faixa de rodagem.
 
-4 - Quem infringir o disposto nos números anteriores será punido com coima de 5000$00 a 25000$00.
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de 1000$00 a 5000$00.

@@ -1,9 +1,5 @@
-## SECÇÃO V
-
-## Remissão
-
 # Artigo 95.º
 
-### Remissão
+### Sinalização de perigo
 
-É aplicável, com as necessárias adaptações, aos condutores de motociclos, ciclomotores e velocípedes o disposto nas secções IV e VI do capítulo anterior, sendo, porém, reduzidas a metade as sanções aplicáveis aos condutores de velocípedes.
+É aplicável aos motociclos e ciclomotores, quando estejam munidos de luzes de mudança de direcção, o disposto no artigo 63.º, com as necessárias adaptações.

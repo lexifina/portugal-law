@@ -1,19 +1,15 @@
-## SECÇÃO III
+## CAPÍTULO III
 
-## Cassação da licença de condução de veículo motorizado
+## Disposições processuais
+
+## SECÇÃO I
+
+## Regras do processo
 
 # Artigo 150.º
 
-### Cassação da carta ou licença
+### Legislação aplicável
 
-1 - Pode ser cassada pelo tribunal a carta ou licença de condução quando, em face da gravidade das contra-ordenações praticadas e da personalidade do condutor, este deva ser julgado inapto para a condução de veículo motorizado.
+1 - Às contra-ordenações previstas neste Código e legislação complementar são aplicáveis as normas gerais que regulam o processo das contra-ordenações, com as adaptações constantes dos artigos seguintes.
 
-2 - É susceptível de revelar a inaptidão para a condução do veículo motorizado a prática, no período de três anos, de:
-
-a) Três contra-ordenações muito graves;
-
-b) Cinco contra-ordenações graves;
-
-c) Duas contra-ordenações muito graves e três graves;
-
-d) Uma contra-ordenação muito grave e quatro graves.
+2 - Se o mesmo facto constituir simultaneamente crime e contra-ordenação, a aplicação da sanção acessória, nos termos do n.º 1 do artigo 136.º, é da competência do tribunal competente para o julgamento do crime.

@@ -1,15 +1,11 @@
 # Artigo 62.º
 
-### Trânsito de veículos em serviço de urgência
+### Avaria
 
-1 - Os condutores de veículos que transitem em missão urgente de socorro ou de polícia, assinalando adequadamente a sua marcha, podem, quando a sua missão o exigir, deixar de observar as regras e os sinais de trânsito, mas devem respeitar as ordens dos agentes reguladores do trânsito.
+1 - Sempre que, nos termos do artigo 59.º, seja obrigatória a utilização de dispositivos de sinalização luminosa e de iluminação, a condução de veículos com avaria dos referidos dispositivos só é permitida quando os mesmos disponham de, pelo menos:
 
-2 - Os referidos condutores não podem, porém, em circunstância alguma, pôr em perigo os demais utentes da via, sendo, designadamente, obrigados a suspender a sua marcha:
+a) Dois médios, ou um médio do lado esquerdo e dois mínimos para a frente, um indicador de presença no lado esquerdo e uma das luzes de travagem, quando obrigatória, à retaguarda; ou
 
-a) Perante o sinal luminoso vermelho de regulação do trânsito, embora possam prosseguir, depois de tomadas as devidas precauções, sem esperar que a sinalização mude;
+b) Luzes de perigo, caso em que apenas podem transitar pelo tempo estritamente necessário à sua circulação até um lugar de paragem ou estacionamento.
 
-b) Perante o sinal de paragem obrigatória em cruzamento ou entroncamento.
-
-3 - É proibida a utilização dos sinais que identificam a marcha de um veículo prioritário quando este não transite em missão urgente.
-
-4 - Quem infringir o disposto nos números anteriores será punido com coima de 10000$00 a 50000$00.
+2 - Quem infringir o disposto no número anterior é sancionado com coima de 10000$00 a 50000$00.

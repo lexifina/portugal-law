@@ -1,13 +1,23 @@
-## SUBSECÇÃO III
+## SECÇÃO X
 
-## Parques e zonas de estacionamento
+## Trânsito em certas vias ou troços
+
+## SUBSECÇÃO I
+
+## Trânsito nas passagens de nível
 
 # Artigo 67.º
 
-### Regras gerais
+### Atravessamento
 
-1 - Nos locais da via pública especialmente destinados ao estacionamento, quando devidamente assinalados, os condutores não poderão transitar ou atravessar as linhas de demarcação neles existentes para fins diversos do estacionamento.
+1 - O condutor só pode iniciar o atravessamento de uma passagem de nível, ainda que a sinalização lho permita, depois de se certificar de que a intensidade do trânsito não o obriga a imobilizar o veículo sobre ela.
 
-2 - A afectação exclusiva de parques e zonas de estacionamento a veículos de certa classe ou tipo e a limitação do tempo de estacionamento, bem como a fixação de uma taxa a cobrar através de agentes ou de meios mecânicos adequados, são feitas por regulamento.
+2 - O condutor não deve entrar na passagem de nível:
 
-3 - Quem infringir o disposto no n.º 1 será punido com coima de 5000$00 a 25000$00.
+a) Enquanto os meios de protecção estejam atravessados na via pública ou em movimento;
+
+b) Quando as instruções dos agentes ferroviários ou a sinalização existente o proibir.
+
+3 - Se a passagem de nível não dispuser de protecção ou sinalização, o condutor só pode iniciar o atravessamento depois de se certificar de que se não aproxima qualquer veículo ferroviário.
+
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de 20000$00 a 100000$00.

@@ -1,13 +1,9 @@
 # Artigo 161.º
 
-### Outros casos de apreensão de cartas e licenças de condução
+### Imobilização do veículo
 
-1 - As cartas e licenças de condução devem ser apreendidas para cumprimento da inibição de conduzir ou da cassação da carta ou licença.
+1 - Para garantir a observância do impedimento previsto nos n.os 1 e 2 do artigo anterior deve o veículo ser imobilizado ou removido para parque ou local apropriado, providenciando-se, sempre que tal se mostre indispensável, o encaminhamento dos ocupantes do veículo.
 
-2 - A entidade competente deve ainda determinar a apreensão das cartas e licenças de condução nos seguintes casos:
+2 - Não há lugar à imobilização ou remoção do veículo se outro condutor, com consentimento do que ficar impedido, ou do proprietário do veículo, se propuser conduzi-lo, depois de submetido a teste de pesquisa do álcool com resultado negativo.
 
-a) Quando qualquer dos exames realizados nos termos dos n.os 2 e 3 do artigo 129.º revelar incapacidade técnica, física ou psíquica do examinando para conduzir com segurança;
-
-b) Quando o condutor não se apresentar a qualquer dos exames previstos na alínea anterior, salvo se justificar a falta no prazo de cinco dias.
-
-3 - Nos casos previstos nos números anteriores, o condutor é notificado para, no prazo de 15 dias, entregar a carta ou licença de condução à entidade competente, sob pena de desobediência.
+3 - No caso previsto no número anterior, o condutor substituto deve ser notificado de que fica responsável pela observância do impedimento referido no artigo anterior, sob pena de desobediência qualificada.

@@ -1,11 +1,13 @@
+## SUBSECÇÃO III
+
+## Parques e zonas de estacionamento
+
 # Artigo 70.º
 
-### Entrada e saída das auto-estradas
+### Regras gerais
 
-1 - A entrada e saída nas auto-estradas faz-se unicamente pelos acessos a tal fim destinados.
+1 - Nos locais da via pública especialmente destinados ao estacionamento, quando devidamente assinalados, os condutores não podem transitar ou atravessar as linhas de demarcação neles existentes para fins diversos do estacionamento.
 
-2 - Se existir uma via de aceleração, o condutor que pretender entrar na auto-estrada deve utilizá-la, regulando a sua velocidade por forma a tomar a via de trânsito adjacente sem perigo ou embaraço para os veículos que nela transitem.
+2 - Os parques e zonas de estacionamento podem ser afectados a veículos de determinada categoria e ter utilização limitada no tempo, bem como sujeita ao pagamento de uma taxa, nos termos a fixar em regulamento.
 
-3 - O condutor que pretender sair de uma auto-estrada deve ocupar com a necessária antecedência a via de trânsito mais à direita e, se existir via de desaceleração, entrar nela logo que possível.
-
-4 - Quem infringir o disposto nos números anteriores será punido com coima de 40000$00 a 200000$00.
+3 - Quem infringir o disposto no n.º 1 é sancionado com coima de 5000$00 a 25000$00.

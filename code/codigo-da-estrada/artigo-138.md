@@ -1,7 +1,5 @@
 # Artigo 138.º
 
-### Concurso de infracções
+### Coima
 
-1 - Se o mesmo facto constituir simultaneamente crime e contra-ordenação, o agente será punido sempre a título de crime, sem prejuízo da aplicação da sanção acessória prevista para a contra-ordenação.
-
-2 - As sanções aplicadas às contra-ordenações em concurso são sempre cumuladas materialmente.
+As coimas aplicadas nos termos deste Código e legislação complementar não estão sujeitas a qualquer adicional e do seu produto não pode atribuir-se qualquer percentagem aos agentes autuantes.

@@ -1,9 +1,9 @@
 # Artigo 171.º
 
-### Usufruto, locação financeira e reserva de propriedade
+### Notificação por estacionamento abusivo
 
-1 - Existindo sobre o veículo um direito de usufruto, a notificação referida nos artigos 167.º e 168.º deve ser feita ao usufrutuário, aplicando-se ao proprietário, com as necessárias adaptações, o disposto no artigo 169.º
+1 - Sempre que um veículo se encontrar estacionado abusivamente, a autoridade
 
-2 - Em caso de locação financeira, a notificação referida nos artigos 167.º e 168.º deve ser feita ao locatário, aplicando-se ao locador, com as necessárias adaptações, o disposto no artigo 169.º
+competente para a fiscalização deve proceder à notificação do proprietário, para o domicílio constante do respectivo registo, através de carta registada com aviso de recepção, para que o retire do local no prazo máximo de quarenta e oito horas.
 
-3 - Tendo o veículo sido vendido com reserva de propriedade e mantendo-se esta, a notificação referida nos artigos 167.º e 168.º deve ser feita ao adquirente, aplicando-se ao proprietário, com as necessárias adaptações, o disposto no artigo 169.º
+2 - No caso de o veículo apresentar sinais exteriores evidentes de impossibilidade de deslocação com segurança pelos seus próprios meios, da notificação deve ainda constar que o veículo não pode estacionar na via pública enquanto não for reparado.

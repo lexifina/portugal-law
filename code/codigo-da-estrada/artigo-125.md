@@ -1,25 +1,29 @@
 # Artigo 125.º
 
-### Carta de condução
+### Outros títulos
 
-1 - O documento que titula a habilitação para conduzir veículos automóveis designa-se 'carta de condução' e será emitido pelas entidades competentes.
+1 - Além dos títulos referidos nos artigos 123.º e 124.º, habilitam também à condução de veículos a motor:
 
-2 - As cartas de condução são válidas para a categoria de veículos e pelo período de tempo nelas averbados, sem prejuízo do disposto no número seguinte.
+a) Licenças especiais de condução;
 
-3 - Quando inicialmente emitidas a favor de quem não seja titular de habilitação legal para conduzir, as cartas de condução têm carácter provisório e só se convertem em definitivas após o decurso dos dois primeiros anos do seu período de validade sem que ao seu titular haja sido aplicada sanção de inibição do direito de conduzir.
+b) Cartas de condução emitidas pelos serviços competentes do território de Macau;
 
-4 - A aplicação de sanção de inibição de conduzir ao titular da carta de condução com carácter provisório implica a caducidade da respectiva carta.
+c) Licenças de condução emitidas por outros Estados membros do espaço económico europeu;
 
-5 - A habilitação legal pode ser para a condução de uma ou mais das seguintes categorias de veículos:
+d) Licenças de condução emitidas por Estado estrangeiro que o Estado Português se tenha obrigado a reconhecer, por convenção ou tratado internacional;
 
-A - motociclos;
+e) Licenças de condução emitidas por Estado estrangeiro, desde que este reconheça idêntica validade aos títulos nacionais;
 
-B - automóveis ligeiros, ainda que com reboque, desde que o peso bruto deste não exceda 750 kg ou que o peso bruto deste não exceda a tara do automóvel e o peso bruto do conjunto automóvel e reboque não exceda 3500 kg;
+f) Licenças internacionais de condução.
 
-C - automóveis pesados de mercadorias;
+2 - As condições de emissão das licenças referidas na alínea a) do número anterior, bem como de autorizações especiais para conduzir, são definidas em regulamento.
 
-D - automóveis pesados de passageiros;
+3 - O regulamento a que se refere o número anterior pode englobar disposições prevendo iniciativas pedagógicas dirigidas à condução de ciclomotores por condutores com idade não inferior a 14 anos.
 
-E - veículos articulados ou conjuntos de veículos cujo tractor pertença a uma das categorias B, C ou D, mas que, eles próprios, não se integrem numa dessas categorias.
+4 - Os titulares das licenças referidas nas alíneas d), e) e f) do n.º 1 apenas estão autorizados a conduzir veículos a motor se não tiverem residência habitual em Portugal.
 
-6 - Os titulares de cartas de condução válidas para veículos da categoria C ou D estão habilitados para conduzir veículos da categoria B.
+5 - Os titulares das licenças referidas no n.º 1 apenas estão autorizados ao exercício da condução se possuírem a idade mínima exigida para a respectiva habilitação, nos termos deste Código.
+
+6 - A condução de veículos afectados a determinados transportes ou serviços pode ainda depender, nos termos fixados em legislação própria, da titularidade do correspondente documento de aptidão ou licenciamento profissional.
+
+7 - Quem infringir o disposto nos n.os 4 e 5 é sancionado com coima de 50000$00 a 250000$00.

@@ -1,11 +1,13 @@
 # Artigo 156.º
 
-### Identificação do condutor
+### Notificações
 
-1 - Quando o agente de fiscalização não puder identificar o autor da contra-ordenação, deve ser intimado o proprietário do veículo, o usufrutuário ou o locatário em regime de locação financeira para, no prazo de 15 dias, proceder a essa identificação.
+1 - As notificações efectuam-se:
 
-2 - A pessoa intimada nos termos do número anterior é obrigada a proceder à identificação do condutor, salvo se provar a utilização abusiva do veículo.
+a) No acto de autuação, quando possível, mediante a entrega de um duplicado do auto, donde constem as indicações referidas no n.º 1 do artigo anterior;
 
-3 - Na falta de cumprimento do dever referido no número anterior, presume-se que o autor da infracção seja a pessoa que omite o dever de identificação.
+b) Por contacto pessoal com o notificando no lugar em que for encontrado;
 
-4 - Tratando-se de pessoas colectivas, a responsabilidade pela identificação do condutor cabe às pessoas com poderes para as obrigarem.
+c) Mediante carta com aviso de recepção, expedida para o domicílio ou sede do notificando.
+
+2 - O domicílio do condutor para os efeitos revistos na alínea c) do número anterior é o constante do registo a que se refere o n.º 8 do artigo 122.º, e a notificação presume-se efectuada àquele, no dia em que for assinado o aviso de recepção.

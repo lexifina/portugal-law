@@ -1,9 +1,9 @@
 # Artigo 103.º
 
-### Posição a ocupar na via
+### Cuidados a observar pelos condutores
 
-1 - Os peões devem transitar pela direita dos locais que lhes são destinados, salvo nos casos previstos na alínea d) do n.º 2 do artigo anterior.
+1 - Ao aproximar-se de uma passagem de peões assinalada, o condutor, mesmo que a sinalização lhe permita avançar, deve deixar passar os peões que já tenham iniciado a travessia da faixa de rodagem.
 
-2 - Nos casos previstos nas alíneas b) e c) do n.º 2 do artigo anterior, os peões devem transitar pelo lado esquerdo da faixa de rodagem, a não ser que tal comprometa a sua segurança.
+2 - Ao mudar de direcção, o condutor, mesmo não existindo passagem assinalada para a travessia de peões, deve reduzir a sua velocidade e, se necessário, parar a fim de deixar passar os peões que estejam a atravessar a faixa de rodagem da via em que vai entrar.
 
-3 - Nos casos previstos nas alíneas b), c) e e) do n.º 2 do artigo anterior, os peões devem transitar o mais próximo possível da margem da faixa de rodagem.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 20000$00 a 100000$00.

@@ -1,7 +1,15 @@
 # Artigo 71.º
 
-### Trânsito de veículos pesados de mercadorias ou conjunto de veículos
+### Estacionamento proibido
 
-1 - Nas auto-estradas ou troços de auto-estradas com três ou mais vias de trânsito afectas ao mesmo sentido, os condutores de veículos pesados de mercadorias ou conjuntos de veículos cujo comprimento exceda 7 m só podem utilizar as duas vias de trânsito mais à direita.
+1 - Nos parques e zonas de estacionamento é proibido estacionar:
 
-2 - Quem infringir o disposto no número anterior será punido com coima de 20000$00 a 100000$00.
+a) Veículos destinados à venda de quaisquer artigos ou a publicidade de qualquer natureza;
+
+b) Veículos utilizados para transportes públicos, quando não alugados, salvas as excepções previstas em regulamentos locais;
+
+c) Veículos de categorias diferentes daquelas a que o parque ou zona de estacionamento tenha sido exclusivamente afectado nos termos do n.º 2 do artigo anterior;
+
+d) Por tempo superior ao estabelecido ou sem o pagamento da taxa fixada nos termos do n.º 2 do artigo anterior.
+
+2 - Quem infringir o disposto no número anterior é sancionado com coima de 5000$00 a 25000$00.

@@ -6,10 +6,14 @@
 
 ### Como devem efectuar-se
 
-1 - Fora das localidades, a paragem e o estacionamento devem fazer-se fora das faixas de rodagem ou, não sendo isso possível, o mais próximo possível da respectiva margem direita, paralelamente a esta e no sentido da marcha.
+1 - Considera-se paragem a imobilização de um veículo pelo tempo estritamente necessário para a entrada ou saída de passageiros ou para breves operações de carga ou descarga, desde que o condutor esteja pronto a retomar a marcha e o faça sempre que estiver a impedir a passagem de outros veículos.
 
-2 - Dentro das localidades, a paragem e o estacionamento na faixa de rodagem devem fazer-se, em regra, o mais próximo possível da sua margem direita; fora da faixa de rodagem, devem fazer-se da forma indicada, nos locais especialmente destinados a esse efeito.
+2 - Considera-se estacionamento a imobilização de um veículo que não constitua paragem e que não seja motivada por circunstâncias próprias da circulação.
 
-3 - Ao estacionar o veículo, o condutor deve deixar os intervalos indispensáveis à saída de outros veículos, à ocupação dos espaços vagos e ao fácil acesso aos prédios, bem como tomar as precauções indispensáveis para evitar que aquele se ponha em movimento.
+3 - Fora das localidades, a paragem e o estacionamento devem fazer-se fora das faixas de rodagem ou, sendo isso impossível, o mais próximo possível do respectivo limite direito, paralelamente a este e no sentido da marcha.
 
-4 - Quem infringir o disposto nos números anteriores será punido com coima de 5000$00 a 25000$00.
+4 - Dentro das localidades, a paragem e o estacionamento devem fazer-se nos locais especialmente destinados a esse efeito e pela forma indicada ou na faixa de rodagem, o mais próximo possível do respectivo limite direito, paralelamente a este e no sentido da marcha.
+
+5 - Ao estacionar o veículo, o condutor deve deixar os intervalos indispensáveis à saída de outros veículos, à ocupação dos espaços vagos e ao fácil acesso aos prédios, bem como tomar as precauções indispensáveis para evitar que aquele se ponha em movimento.
+
+6 - Quem infringir o disposto nos n.os 3 a 5 é sancionado com coima de 5000$00 a 25000$00.

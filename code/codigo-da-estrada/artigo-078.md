@@ -1,25 +1,15 @@
-## SECÇÃO XII
-
-## Documentos de que o condutor deve ser portador
-
 # Artigo 78.º
 
-### Documentos de que o condutor deve ser portador
+### Pistas especiais
 
-1 - Sempre que um veículo automóvel ou ciclomotor transite na via pública o seu condutor deve ser portador dos seguintes documentos:
+1 - Quando existam pistas especialmente destinadas a animais ou veículos de certas espécies, o trânsito destes deve fazer-se por aquelas pistas.
 
-a) Documento legal de identificação pessoal;
+2 - É proibida a utilização das pistas referidas no número anterior a quaisquer outros veículos, salvo para acesso a garagens, a propriedades e a locais de estacionamento ou, quando a sinalização o permita, para efectuar a manobra de mudança de direcção no cruzamento ou entroncamento mais próximo.
 
-b) Carta ou licença de condução;
+3 - Nas pistas destinadas aos velocípedes é proibido o trânsito daqueles que tiverem mais de duas rodas não dispostas em linha ou que atrelarem reboque.
 
-c) Título de registo de propriedade do veículo ou documento equivalente;
+4 - Os peões só podem utilizar as pistas referidas no número anterior quando não existam locais que lhes sejam especialmente destinados.
 
-d) Livrete do veículo ou documento equivalente;
+5 - Quem infringir o disposto nos n.os 1 a 3 é sancionado com coima de 5000$00 a 25000$00.
 
-e) Ficha de inspecção periódica do veículo, quando obrigatória nos termos legais;
-
-f) Certificado de seguro.
-
-2 - O condutor que se não fizer acompanhar dos documentos referidos no n.º 1 será punido com coima de 5000$00 a 25000$00, salvo se, no prazo de oito dias, não apresentar o documento em falta à autoridade que lhe for indicada pelo agente de fiscalização, caso em que será punido com coima de 10000$00 a 50000$00.
-
-3 - Tratando-se de condutor de ciclomotor, as coimas aplicáveis nos termos do número anterior serão reduzidas a metade.
+6 - Quem infringir o disposto no n.º 4 é sancionado com coima de 1000$00 a 5000$00.

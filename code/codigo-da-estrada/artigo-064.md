@@ -1,19 +1,19 @@
-## SECÇÃO X
+## SECÇÃO IX
 
-## Do trânsito em certas vias ou troços
-
-## SUBSECÇÃO I
-
-## Do trânsito nas passagens de nível
+## Trânsito de veículos em serviço de urgência ou que efectuem transportes especiais
 
 # Artigo 64.º
 
-### Travessia
+### Trânsito de veículos em serviço de urgência
 
-1 - O condutor só pode iniciar a travessia de uma passagem de nível, ainda que a sinalização lho permita, depois de se certificar de que a intensidade do tráfego não o obrigará a imobilizar o veículo sobre ela.
+1 - Os condutores de veículos que transitem em missão urgente de socorro ou de polícia assinalando adequadamente a sua marcha podem, quando a sua missão o exigir, deixar de observar as regras e os sinais de trânsito, mas devem respeitar as ordens dos agentes reguladores do trânsito.
 
-2 - Sem prejuízo da obediência devida à sinalização existente e às instruções dos agentes ferroviários, o condutor não deve entrar na passagem de nível enquanto os meios de protecção estejam atravessados na via pública ou em movimento.
+2 - Os referidos condutores não podem, porém, em circunstância alguma, pôr em perigo os demais utentes da via, sendo, designadamente, obrigados a suspender a sua marcha:
 
-3 - Se a passagem de nível não dispuser de protecção ou sinalização, o condutor só pode iniciar a travessia depois de se certificar de que se não aproxima qualquer veículo ferroviário.
+a) Perante o sinal luminoso vermelho de regulação do trânsito, embora possam prosseguir, depois de tomadas as devidas precauções, sem esperar que a sinalização mude;
 
-4 - Quem infringir o disposto nos números anteriores será punido com coima de 20000$00 a 100000$00.
+b) Perante o sinal de paragem obrigatória em cruzamento ou entroncamento.
+
+3 - É proibida a utilização dos sinais que identificam a marcha dos veículos referidos no n.º 1 quando não transitem em missão urgente.
+
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de 10000$00 a 50000$00.

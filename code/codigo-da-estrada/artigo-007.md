@@ -10,8 +10,8 @@
 
 2.º Prescrições resultantes dos sinais luminosos;
 
-3.º Prescrições resultantes dos sinais gráficos verticais;
+3.º Prescrições resultantes dos sinais verticais;
 
-4.º Prescrições resultantes dos sinais gráficos marcados no pavimento.
+4.º Prescrições resultantes das marcas rodoviárias.
 
 3 - As ordens dos agentes reguladores do trânsito prevalecem sobre as prescrições resultantes dos sinais e sobre as regras de trânsito.

@@ -1,15 +1,11 @@
 # Artigo 153.º
 
-### Auto de notícia e de denúncia
+### Cumprimento voluntário
 
-1 - Quando qualquer autoridade ou agente da autoridade, no exercício das suas funções de fiscalizacão do trânsito, presenciar contra-ordenação, levanta ou manda levantar auto de notícia que mencionará os factos que constituem a infracção, o dia, a hora, o local e as circunstâncias em que foi cometida, o nome e a qualidade da autoridade ou agente de autoridade que a presenciou e tudo o que puderem averiguar acerca da identificação dos agentes da infracção e, quando possível, de uma testemunha que possa depor sobre os factos.
+1 - É admitido o pagamento voluntário da coima, pelo mínimo, nos termos e com os efeitos dos números seguintes.
 
-2 - O auto de notícia é assinado pela autoridade ou agente de autoridade que o levantou ou mandou levantar, pela testemunha, quando for possível, e pelo infractor, se quiser assinar, devendo ser lavrada certidão no caso de recusa.
+2 - A opção de pagamento pelo mínimo e sem acréscimo de custas deve verificar-se no prazo de 20 dias a contar da notificação para o efeito.
 
-3 - Pode levantar-se um único auto de notícia por diferentes infracções cometidas na mesma ocasião ou relacionadas umas com as outras, embora sejam diversos os agentes.
+3 - Em qualquer altura do processo, mas sempre antes da decisão, pode ainda o arguido optar pelo pagamento voluntário da coima, a qual, neste caso, é liquidada pelo mínimo, sem prejuízo das custas que forem devidas.
 
-4 - O auto de notícia levantado nos termos dos números anteriores faz fé sobre os factos presenciados pelo autuante, até prova em contrário.
-
-5 - O disposto no número anterior aplica-se aos elementos de prova obtidos através de aparelhos ou instrumentos aprovados nos termos legais e regulamentares.
-
-6 - A autoridade ou agente da autoridade que tiver notícia, por denúncia ou conhecimento próprio, de contra-ordenação de que lhe cumpra conhecer levanta auto a que é correspondentemente aplicável o disposto nos n.os 1, 2 e 3, com as necessárias adaptações.
+4 - O pagamento voluntário da coima nos termos dos números anteriores determina o arquivamento do processo, salvo se a contra-ordenação for grave ou muito grave, caso em que prossegue restrito à aplicação da inibição de conduzir.

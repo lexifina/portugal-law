@@ -1,15 +1,15 @@
-## SECÇÃO VI
+## SECÇÃO XIV
 
-## Da condução sob o efeito do álcool ou de estupefacientes
+## Comportamento em caso de avaria ou acidente
 
 # Artigo 87.º
 
-### Condução sob o efeito do álcool ou de estupefacientes
+### Imobilização forçada por avaria ou acidente
 
-1 - É proibido conduzir sob a influência do álcool, considerando-se como tal a condução com uma taxa de álcool no sangue igual ou superior a 0,5 g/l.
+1 - Em caso de imobilização forçada de um veículo em consequência de avaria ou acidente, o condutor deve proceder imediatamente ao seu regular estacionamento ou, não sendo isso viável, retirar o veículo da faixa de rodagem ou aproximá-lo o mais possível do limite direito desta e promover a sua rápida remoção da via pública.
 
-2 - Quem conduzir sob a influência do álcool será punido com coima de 20000$00 a 100000$00, salvo se a taxa de álcool no sangue for igual ou superior a 0,8 g/l, caso em que a coima será de 40000$00 a 200000$00.
+2 - Enquanto o veículo não for devidamente estacionado ou removido, o condutor deve adoptar as medidas necessárias para que os outros se apercebam da sua presença, usando para tanto os dispositivos de sinalização previstos no presente Código e legislação complementar.
 
-3 - É proibido conduzir sob a influência de estupefacientes, psicotrópicos, estimulantes ou outras substâncias similares, nos termos estabelecidos em diploma próprio.
+3 - É proibida a reparação de veículos na via pública, salvo se for indispensável à respectiva remoção ou, tratando-se de avarias de fácil reparação, ao prosseguimento da marcha.
 
-4 - A infracção ao disposto no número anterior será punida com coima de 40000$00 a 200000$00.
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de 5000$00 a 25000$00, se outra não for especialmente aplicável.

@@ -1,11 +1,11 @@
-## SUBSECÇÃO V
-
-## Vias reservadas, corredores de circulação e pistas especiais
-
 # Artigo 73.º
 
-### Vias reservadas
+### Entrada e saída das auto-estradas
 
-1 - Por regulamento e desde que tal seja devidamente sinalizado, podem as faixas de rodagem das vias públicas ser reservadas ao trânsito de veículos de certas classes ou tipos, sendo proibida a sua utilização pelos condutores de quaisquer outros veículos.
+1 - A entrada e saída das auto-estradas faz-se unicamente pelos acessos a tal fim destinados.
 
-2 - Quem infringir o disposto no número anterior será punido com coima de 20000$00 a 100000$00.
+2 - Se existir uma via de aceleração, o condutor que pretender entrar na auto-estrada deve utilizá-la, regulando a sua velocidade por forma a tomar a via de trânsito adjacente sem perigo ou embaraço para os veículos que nela transitem.
+
+3 - O condutor que pretender sair de uma auto-estrada deve ocupar com a necessária antecedência a via de trânsito mais à direita e, se existir via de abrandamento, entrar nela logo que possível.
+
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de 40000$00 a 200000$00.

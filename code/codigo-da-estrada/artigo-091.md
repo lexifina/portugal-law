@@ -1,13 +1,13 @@
-## SECÇÃO III
+## SECÇÃO II
 
-## Iluminação
+## Transporte de passageiros e de carga
 
 # Artigo 91.º
 
-### Utilização das luzes
+### Transporte de passageiros
 
-1 - Nos motociclos e ciclomotores, o uso de dispositivos de sinalização luminosa e de iluminação é obrigatório em qualquer circunstância.
+1 - Nos motociclos e ciclomotores é proibido o transporte de passageiros de idade inferior a 7 anos, salvo tratando-se de veículos providos de caixa rígida não destinada apenas ao transporte de carga.
 
-2 - Sem prejuízo do disposto no n.º 1 do artigo 80.º, os condutores de motociclos e ciclomotores devem transitar com os médios acesos.
+2 - Nos velocípedes é proibido o transporte de passageiros.
 
-3 - É aplicável, com as necessárias adaptações, o disposto nos n.os 4 e 5 do artigo 80.º
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 10000$00 a 50000$00.

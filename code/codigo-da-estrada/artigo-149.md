@@ -1,25 +1,9 @@
 # Artigo 149.º
 
-### Contra-ordenações muito graves
+### Interdição da concessão de carta ou licença
 
-São muito graves as seguintes contra-ordenações:
+1 - Quando ordenar a cassação da carta ou licença de condução, o tribunal determina que não pode ser concedida ao seu titular nova carta ou licença de condução de veículos a motor, de qualquer categoria, pelo período de um a cinco anos.
 
-a) A paragem ou o estacionamento nas faixas de rodagem, fora das localidades, a menos de 50 m dos cruzamentos e entroncamentos, curvas ou lombas de visibilidade insuficiente e ainda a paragem ou o estacionamento nas faixas de rodagem nas auto-estradas;
+2 - Quando a cassação da carta ou licença de condução for ordenada ao abrigo da alínea b) do n.º 1 do artigo anterior, o período de interdição de concessão de carta ou licença de condução pode ser prorrogado por outro período de um a três anos se, findo o prazo determinado na sentença, o tribunal considerar que se mantém a situação que motivou a cassação.
 
-b) O estacionamento, de noite, nas faixas de rodagem, fora das localidades;
-
-c) A não utilização do sinal de pré-sinalização de perigo, quando obrigatório, fora das localidades;
-
-d) A utilização dos máximos de modo a provocar encandeamento;
-
-e) A entrada ou saída das auto-estradas por locais diferentes dos acessos a esses fins destinados;
-
-f) A utilização, em auto-estradas, dos separadores de tráfego ou de aberturas eventualmente neles existentes;
-
-g) As infracções previstas nas alíneas a), e) e l) do artigo anterior quando praticadas nas auto-estradas;
-
-h) A infracção prevista nas alíneas b) e c) do artigo anterior, quando o excesso de velocidade for superior ao dobro do ali previsto;
-
-i) A infracção prevista na alínea m) do artigo anterior, quando a taxa de álcool no sangue for superior a 0,8 g/l;
-
-j) A condução sob influência de estupefacientes, psicotrópicos, estimulantes ou outras substâncias similares nos termos a fixar em lei especial.
+3 - O condutor a quem tiver sido cassada carta ou licença de condução só pode obter novo título após aprovação em exame especial, nos termos a fixar em regulamento.

@@ -1,7 +1,13 @@
+## CAPÍTULO IV
+
+## Dos veículos
+
+## CAPÍTULO I
+
+## Classificação dos veículos
+
 # Artigo 105.º
 
-### Iluminação de cortejos e formações organizadas
+### Automóveis
 
-1 - Sempre que transitem na faixa de rodagem desde o anoitecer ao amanhecer e sempre que as condições de visibilidade o aconselhem, os cortejos e formações organizadas devem assinalar a sua presença com, pelo menos, uma luz branca dirigida para a frente e uma luz vermelha dirigida para a retaguarda, ambas do lado esquerdo do cortejo ou formação.
-
-2 - Quem infringir o disposto no número anterior será punido com coima de 5000$00 a 25000$00.
+Automóvel é o veículo com motor de propulsão, dotado de pelo menos quatro rodas, com tara superior a 400 kg, cuja velocidade máxima é, por construção, superior a 25 km/h, e que se destina, pela sua função, a transitar na via pública, sem sujeição a carris.

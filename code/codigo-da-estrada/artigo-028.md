@@ -1,15 +1,17 @@
 # Artigo 28.º
 
-### Limites especiais de velocidade instantânea
+### Limites especiais de velocidade
 
-1 - Sempre que a intensidade do trânsito ou as características deste ou das vias o imponham podem ser fixados:
+1 - Sempre que a intensidade do trânsito ou as características das vias o aconselhem podem ser fixados, para vigorar em certas vias, troços de via ou períodos:
 
-a) Limites mínimos de velocidade instantânea e, bem assim, limites máximos diferentes dos estabelecidos no n.º 1 do artigo anterior para certas vias ou troços de vias;
+a) Limites mínimos de velocidade instantânea;
 
-b) Limites máximos diferentes dos estabelecidos no n.º 1 do artigo anterior para vigorar em certas vias ou regiões e períodos.
+b) Limites máximos de velocidade instantânea inferiores ou superiores aos estabelecidos no n.º 1 do artigo anterior.
 
 2 - Os limites referidos no número anterior devem ser sinalizados ou, se temporários e não sendo possível a sinalização, divulgados pelos meios de comunicação social, afixação de painéis de informação ou outro meio adequado.
 
-3 - É aplicável às infracções aos limites estabelecidos nos termos deste artigo o disposto nos n.os 3 e 4 do artigo anterior.
+3 - A circulação de veículos a motor na via pública pode ser condicionada à incorporação de dispositivos limitadores de velocidade, nos termos a definir em regulamento.
 
-4 - A circulação de veículos automóveis na via pública poderá ser condicionada à incorporação de dispositivos de limitação de velocidade, em termos a definir por regulamento.
+4 - É aplicável às infracções aos limites máximos estabelecidos nos termos deste artigo o disposto no n.º 3 do artigo anterior.
+
+5 - Quem infringir os limites mínimos de velocidade instantânea estabelecidos nos termos deste artigo é sancionado com coima de 5000$00 a 25000$00.

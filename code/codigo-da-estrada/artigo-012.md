@@ -2,6 +2,6 @@
 
 ### Início de marcha
 
-1 - Os condutores não podem iniciar ou retomar a marcha sem adoptar as precauções necessárias para evitar riscos de acidente e, nomeadamente, sem assinalar a sua intenção com a antecedência que as circunstâncias aconselharem.
+1 - Os condutores não podem iniciar ou retomar a marcha sem assinalarem com a necessária antecedência a sua intenção e sem adoptarem as precauções necessárias para evitar qualquer acidente.
 
-2 - Quem infringir o disposto no número anterior será punido com coima de 10000$00 a 50000$00.
+2 - Quem infringir o disposto no número anterior é sancionado com coima de 10000$00 a 50000$00.

@@ -1,11 +1,13 @@
+## SECÇÃO VI
+
+## Transporte de pessoas e de carga
+
 # Artigo 53.º
 
-### Imobilização forçada por avaria ou acidente
+### Regras gerais
 
-1 - Em caso de imobilização forçada de um veículo em consequência de avaria ou acidente, o condutor deve proceder imediatamente ao seu regular estacionamento ou, não sendo isso possível, retirar o veículo da faixa de rodagem ou aproximá-lo quanto puder da margem direita desta e promover a sua rápida remoção da via pública.
+1 - É proibido entrar, sair, carregar, descarregar ou abrir as portas dos veículos sem que estes estejam completamente imobilizados.
 
-2 - Enquanto o veículo não for devidamente estacionado ou removido, o condutor deve adoptar as medidas necessárias para que os outros se apercebam da sua presença, usando para tanto os dispositivos de sinalização regulamentares.
+2 - A entrada ou saída de pessoas e as operações de carga ou descarga devem fazer-se o mais rapidamente possível, salvo se o veículo estiver devidamente estacionado e as pessoas não saírem para a faixa de rodagem e sempre de modo a não causar perigo ou embaraço para os outros utentes.
 
-3 - É proibida a reparação de veículos na via pública, salvo se for indispensável à respectiva remoção ou, tratando-se de avarias de fácil reparação, ao prosseguimento da marcha.
-
-4 - Quem infringir o disposto nos números anteriores será punido com coima de 5000$00 a 25000$00, salvo tratando-se do disposto no n.º 2, caso em que a coima será de 20000$00 a 100000$00.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 5000$00 a 25000$00.

@@ -1,29 +1,29 @@
 ## SECÇÃO III
 
-## Condução de animais
+## Do trânsito de peões
 
 # Artigo 99.º
 
-### Regras gerais
+### Lugares em que podem transitar
 
-1 - A condução de animais agrupados deve fazer-se com observância das disposições seguintes:
+1 - Os peões devem transitar pelos passeios, pistas ou passagens a eles destinados ou, na sua falta, pelas bermas.
 
-a) Haverá um condutor para cada seis cabeças de gado cavalar, muar, bovino ou asinino;
+2 - Os peões podem, no entanto, transitar pela faixa de rodagem, com prudência e por forma a não prejudicar o trânsito de veículos, nos seguintes casos:
 
-b) Os condutores de gado cavalar, muar ou asinino devem, sempre que possível, conduzir os animais pela arreata;
+a) Quando efectuem o seu atravessamento;
 
-c) O gado bravo deverá ser acompanhado de bois de cabresto e campino a cavalo;
+b) Na falta dos locais referidos no n.º 1 ou na impossibilidade de os utilizar;
 
-d) Os agrupamentos de animais não devem exceder 15 m de comprimento e devem seguir separados entre si de, pelo menos, 50 m;
+c) Quando transportem objectos que, pelas suas dimensões ou natureza, possam constituir perigo para o trânsito dos outros peões;
 
-e) O gado deve ser conduzido de maneira a ocupar apenas a via de trânsito mais à direita;
+d) Nas vias públicas em que esteja proibido o trânsito de veículos;
 
-f) A passagem de um agrupamento de gado por outro que transite em sentido oposto deverá fazer-se com a maior rapidez e, tanto quanto possível, fora dos cruzamentos, entroncamentos ou curvas de visibilidade reduzida.
+e) Quando sigam em formação organizada sob a orientação de um monitor ou em cortejo.
 
-2 - O disposto no número anterior não é aplicável nos caminhos vicinais.
+3 - Nos casos previstos nas alíneas b), c) e e) do número anterior os peões podem transitar pelas pistas a que se refere o artigo 78., desde que a intensidade do trânsito o permita e não prejudiquem a circulação dos veículos ou animais a que aquelas estão afectas.
 
-3 - O transporte de arados poderá fazer-se colocando a relha sobre a canga e revestindo a extremidade do timão em contacto com o solo de tiras de borracha ou dispositivos equivalentes.
+4 - Sempre que transitem na faixa de rodagem, desde o anoitecer ao amanhecer e sempre que as condições de visibilidade ou a intensidade do trânsito o aconselhem, os peões devem transitar numa única fila, salvo quando seguirem em cortejo ou formação organizada nos termos previstos no artigo 102.º
 
-4 - Quem infringir o disposto nos números anteriores será punido com coima de 5000$00 a 25000$00.
+5 - Quem infringir o disposto nos números anteriores é sancionado com coima de 1000$00 a 5000$00.
 
-5 - Serão punidos com coima de 5000$00 a 25000$00 os condutores de animais que os deixem vaguear por forma a impedir ou fazer perigar o trânsito, bem como os proprietários daqueles que habitualmente vagueiem nas vias públicas.
+6 - Quem, com violação dos deveres de cuidado e de protecção, não impedir que os menores de 16 anos que, por qualquer título, se encontrem a seu cargo brinquem nas faixas de rodagem das vias públicas é sancionado com coima de 5000$00 a 25000$00.

@@ -1,7 +1,7 @@
 # Artigo 141.º
 
-### Sanção acessória
+### Dispensa e atenuação especial da inibição de conduzir
 
-1 - As contra-ordenações graves e muito graves são puníveis com coima e com sanção acessória de inibição de conduzir.
+1 - A sanção de inibição de conduzir cominada para as contra-ordenações graves pode não ser aplicada, tendo em conta as circunstâncias da infracção, se o condutor não tiver praticado qualquer contra-ordenação grave ou muito grave nos últimos cinco anos.
 
-2 - A sanção acessória de inibição de conduzir tem a duração mínima de um mês e máxima de seis meses, ou mínima de dois meses e máxima de um ano, consoante seja aplicável às contra-ordenações graves ou muito graves, respectivamente.
+2 - Os limites mínimo e máximo da sanção de inibição de conduzir cominada para as contra-ordenações muito graves podem ser reduzidos para metade, nas condições previstas no número anterior.

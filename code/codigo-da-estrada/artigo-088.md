@@ -1,27 +1,19 @@
-## CAPÍTULO III
-
-## Da condução de motociclos, ciclomotores e velocípedes
-
-## SECÇÃO I
-
-## Regras especiais
-
 # Artigo 88.º
 
-### Regras especiais
+### Sinal de pré-sinalização de perigo
 
-1 - Os condutores de motociclos, ciclomotores ou velocípedes não podem:
+1 - Todos os veículos a motor em circulação, salvo os dotados apenas de duas ou três rodas e os motocultivadores, devem estar equipados com o sinal de pré-sinalização de perigo.
 
-a) Conduzir com as mãos fora do guiador, salvo para assinalar qualquer manobra;
+2 - É obrigatório o uso do sinal de pré-sinalização de perigo:
 
-b) Seguir com os pés fora dos pedais ou apoios;
+a) De dia, quando o veículo imobilizado, total ou parcialmente, na faixa de rodagem ou a carga que tenha caído sobre o pavimento não for visível a uma distância de, pelo menos, 100 m;
 
-c) Fazer-se rebocar;
+b) Do anoitecer ao amanhecer, em quaisquer circunstâncias de imobilização do veículo ou de carga caída na faixa de rodagem ou na berma, salvo nos locais onde as condições de iluminação permitam um fácil reconhecimento a uma distância de 100 m, sem prejuízo do disposto no presente Código quanto à iluminação dos veículos.
 
-d) Levantar a roda da frente no arranque ou em circulação;
+3 - O sinal deve ser colocado verticalmente em relação ao pavimento e ao eixo da faixa de rodagem, a uma distância nunca inferior a 30 m da retaguarda do veículo ou da carga a sinalizar e por forma a ficar bem visível a uma distância de, pelo menos, 100 m.
 
-e) Seguir a par, salvo se transitarem em pista especial, e não causarem perigo ou embaraço para o trânsito.
+4 - Em regulamento são fixadas as características do sinal de pré-sinalização de perigo.
 
-2 - Os condutores de velocípedes devem transitar o mais próximo possível das bermas ou passeios, mesmo nos casos em que, no mesmo sentido de trânsito, sejam possíveis duas ou mais filas.
+5 - Quem infringir o disposto no n.º 1 é sancionado com coima de 10000$00 a 50000$00.
 
-3 - Quem infringir o disposto nos números anteriores será punido com coima de 5000$00 a 25000$00.
+6 - Quem infringir o disposto nos n.os 2 e 3 é sancionado com coima de 20000$00 a 100000$00.

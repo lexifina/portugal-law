@@ -1,13 +1,9 @@
-## SECÇÃO IV
-
-## Utilização de acessórios de segurança
-
 # Artigo 94.º
 
-### Uso de capacete de protecção
+### Avaria nas luzes
 
-1 - Os condutores e passageiros de motociclos, com ou sem carro lateral, e de ciclomotores devem proteger a cabeça usando capacete de modelo oficialmente aprovado, devidamente ajustado e apertado.
+1 - Em caso de avaria nas luzes de motociclos ou ciclomotores é aplicável, com as necessárias adaptações, o disposto no artigo 62.º
 
-2 - Exceptuam-se do disposto no número anterior os condutores e passageiros de veículos providos de caixa rígida.
+2 - Em caso de avaria nas luzes, os velocípedes devem ser conduzidos à mão.
 
-3 - Quem infringir o disposto no n.º 1 será punido com coima de 10000$00 a 50000$00.
+3 - Quem infringir o disposto no n.º 2 é sancionado com coima de 5000$00 a 25000$00.

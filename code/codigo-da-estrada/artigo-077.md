@@ -1,13 +1,9 @@
 # Artigo 77.º
 
-### Poluição sonora
+### Corredores de circulação
 
-1 - O condutor de veículos ou animais deve evitar ruídos incómodos causados pelo modo de conduzir, especialmente se se tratar de veículos com motor, pela disposição da carga, ou pelas operações de carga e descarga.
+1 - Podem ser criados nas vias públicas corredores de circulação destinados ao trânsito de veículos de certas espécies ou a veículos afectados a determinados transportes, sendo proibida a sua utilização pelos condutores de quaisquer outros.
 
-2 - É proibido o trânsito de veículos que emitam ruídos superiores aos máximos fixados em diploma próprio.
+2 - É, porém, permitida a utilização das vias referidas no número anterior para acesso a garagens, a propriedades e a locais de estacionamento ou, quando a sinalização o permita, para efectuar a manobra de mudança de direcção no cruzamento ou entroncamento mais próximo.
 
-3 - No uso de aparelhos radiofónicos ou de reprodução sonora instalados no veículo é proibido superar os limites sonoros máximos fixados em diploma próprio.
-
-4 - Os dispositivos de alarme acústico antifurto instalados nos veículos só podem ser utilizados nos termos e pelos períodos fixados em diploma próprio.
-
-5 - Quem infringir o disposto no n.º 1 será punido com coima de 5000$00 a 25000$00.
+3 - Quem infringir o disposto no n.º 1 é sancionado com coima de 20000$00 a 100000$00.

@@ -1,7 +1,13 @@
 # Artigo 111.º
 
-### Máquinas
+### Veículos únicos e conjuntos de veículos
 
-1 - Máquina é o veículo com motor de propulsão que, pelas suas características técnicas e pela sua função, só eventualmente transita na via pública, sendo automóveis pesados ou ligeiros consoante o seu peso bruto exceda ou não 3500 kg.
+1 - Consideram-se veículos únicos:
 
-2 - Motocultivador é a máquina agrícola com duas rodas, manobrada por um condutor que segue a pé, mas que será equiparado ao tractor agrícola se estiver equipado com retrotrem ou com reboque.
+a) O automóvel pesado composto por dois segmentos rígidos permanentemente ligados por uma secção articulada que permite a comunicação entre ambos;
+
+b) O comboio turístico constituído por um tractor e um ou mais reboques destinados ao transporte de passageiros em pequenos percursos e com fins turísticos ou de diversão.
+
+2 - Conjunto de veículos é o grupo constituído por um veículo tractor e seu reboque ou semi-reboque.
+
+3 - Para efeitos de circulação, o conjunto de veículos é equiparado a veículo único.

@@ -1,27 +1,7 @@
-## TÍTULO III
-
-## Trânsito de peões
-
 # Artigo 102.º
 
-### Lugares em que podem transitar
+### Iluminação de cortejos e formações organizadas
 
-1 - Os peões devem transitar pelos passeios, pistas ou passagens a eles destinados ou, na sua falta, pelas bermas.
+1 - Sempre que transitem na faixa de rodagem desde o anoitecer até ao amanhecer e sempre que as condições de visibilidade o aconselhem, os cortejos e formações organizadas devem assinalar a sua presença com, pelo menos, uma luz branca dirigida para a frente e uma luz vermelha dirigida para a retaguarda, ambas do lado esquerdo do cortejo ou formação.
 
-2 - Os peões podem, no entanto, transitar pela faixa de rodagem, com prudência e por forma a não prejudicar o trânsito de veículos, nos seguintes casos:
-
-a) Quando efectuem a sua travessia;
-
-b) Na falta dos locais referidos no n.º 1 ou na impossibilidade de os utilizar;
-
-c) Quando transportem objectos que, pelas suas dimensões ou natureza, possam constituir perigo para o trânsito dos outros peões;
-
-d) Nas vias em que esteja proibido o trânsito de veículos;
-
-e) Quando sigam em formação organizada sob a orientação de um monitor ou em cortejo.
-
-3 - Nos casos previstos nas alíneas b), c) e e), os peões podem transitar pelas pistas a que se refere o artigo 75.º, desde que a intensidade do tráfego o permita e não prejudiquem o trânsito dos veículos ou animais a que aquelas estão afectas.
-
-4 - Sempre que transitem na faixa de rodagem, desde o anoitecer ao amanhecer e sempre que as condições de visibilidade ou a intensidade do tráfego o aconselhem, os peões devem transitar numa única fila, salvo quando seguirem em cortejo ou formação organizada, nos termos previstos no artigo 105.º
-
-5 - Quem, com violação dos deveres de cuidado e de protecção, não impedir que os menores de 16 anos que, por qualquer título, se encontrem a seu cargo brinquem nas faixas de rodagem das vias públicas será punido com coima de 5000$00 a 25000$00.
+2 - Quem infringir o disposto no número anterior é sancionado com coima de 5000$00 a 25000$00.

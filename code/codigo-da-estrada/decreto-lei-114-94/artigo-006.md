@@ -1,11 +1,15 @@
-# Art. 6.º
+# Artigo 6.º
 
-1 - A competência para a execução do presente Código, para a sinalização das vias e para o ordenamento e fiscalização do trânsito é objecto de diploma próprio.
+1 - Sem prejuízo do disposto no artigo seguinte, os regulamentos previstos no Código da Estrada são aprovados por decreto regulamentar.
 
-2 - Os regulamentos previstos nos artigos 28.º, 55.º, 121.º, n.os 3 e 4, 123.º a 127.º e 130.º do Código da Estrada são aprovados por decreto regulamentar.
+2 - Exceptuam-se do disposto no número anterior:
 
-3 - Os regulamentos previstos nos artigos 6.º, 10.º, 57.º, 58.º, 61.º, 80.º, 83.º, 118.º, 120.º e 121.º, n.º 5, do Código da Estrada são aprovados por portaria do Ministro da Administração Interna.
+a) Os regulamentos locais;
 
-4 - Os regulamentos previstos no artigo 9.º do Código da Estrada são aprovados por portaria conjunta dos Ministros da Administração Interna e das Obras Públicas, Transportes e Comunicações.
+b) Os regulamentos previstos nos artigos 10.º, 21.º, 22.º, 56.º a 58.º, 157.º, n.º 1, e 172.º, n.º 6, que são aprovados por portaria do Ministro da Administração Interna;
 
-5 - Os regulamentos previstos no artigo 153.º do Código da Estrada são aprovados por portaria conjunta dos Ministros da Administração Interna e da Indústria e Energia.
+c) O regulamento previsto no artigo 9.º, que é aprovado por portaria conjunta dos Ministros da Administração Interna e do Equipamento, do Planeamento e da Administração do Território;
+
+d) O regulamento previsto no artigo 165.º, n.º 1, que é aprovado por portaria conjunta dos Ministros da Administração Interna, da Justiça e da Saúde.
+
+3 - Os regulamentos municipais que visem disciplinar o trânsito de veículos e peões nas vias sob jurisdição das autarquias só podem conter disposições susceptíveis de sinalização nos termos do Código da Estrada e legislação complementar.

@@ -6,6 +6,6 @@
 
 ### Regra geral
 
-1 - A ultrapassagem deve fazer-se pela esquerda.
+1 - A ultrapassagem deve efectuar-se pela esquerda.
 
-2 - Quem infringir o disposto no número anterior será punido com coima de 20000$00 a 100000$00.
+2 - Quem infringir o disposto no número anterior é sancionado com coima de 20000$00 a 100000$00.

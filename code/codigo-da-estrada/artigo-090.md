@@ -1,9 +1,27 @@
+## CAPÍTULO II
+
+## Disposições especiais para motociclos, ciclomotores e velocípedes
+
+## SECÇÃO I
+
+## Regras especiais
+
 # Artigo 90.º
 
-### Transporte de carga
+### Regras de condução
 
-1 - O transporte de carga em motociclo, ciclomotor ou velocípede só pode fazer-se em atrelado ou caixa de carga.
+1 - Os condutores de motociclos, ciclomotores ou velocípedes não podem:
 
-2 - É proibido aos condutores e passageiros dos veículos referidos no número anterior transportar objectos susceptíveis de prejudicar a condução ou constituir perigo para a segurança das pessoas e das coisas ou embaraço para o trânsito.
+a) Conduzir com as mãos fora do guiador, salvo para assinalar qualquer manobra;
 
-3 - Quem infringir o disposto nos números anteriores será punido com coima de 10000$00 a 50000$00.
+b) Seguir com os pés fora dos pedais ou apoios;
+
+c) Fazer-se rebocar;
+
+d) Levantar a roda da frente no arranque ou em circulação;
+
+e) Seguir a par, salvo se transitarem em pista especial e não causarem perigo ou embaraço para o trânsito.
+
+2 - Os condutores de velocípedes devem transitar o mais próximo possível das bermas ou passeios, mesmo nos casos em que, no mesmo sentido de trânsito, sejam possíveis duas ou mais filas.
+
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 5000$00 a 25000$00.

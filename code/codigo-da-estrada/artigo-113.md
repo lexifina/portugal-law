@@ -1,11 +1,7 @@
 # Artigo 113.º
 
-### Veículos articulados e conjuntos de veículos
+### Reboque de veículos de duas rodas e carro lateral
 
-1 - São veículos únicos:
+1 - Os motociclos, ciclomotores e velocípedes podem atrelar, à retaguarda, um reboque de um eixo destinado ao transporte de carga.
 
-a) Os conjuntos de tractor e semi-reboque (veículos articulados);
-
-b) Os veículos pesados de passageiros compostos por dois segmentos rígidos permanentemente ligados por uma secção articulada e que comuniquem livremente entre si (autocarros articulados).
-
-2 - São conjuntos de veículos os grupos de veículos formados por veículo tractor e reboque.
+2 - Os motociclos de cilindrada superior a 125 cm3 podem acoplar carro lateral destinado ao transporte de um passageiro.

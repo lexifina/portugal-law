@@ -2,11 +2,11 @@
 
 ### Transporte de carga
 
-1 - A carga e descarga devem ser feitas pela retaguarda ou pelo lado da margem da faixa de rodagem junto da qual o veículo esteja parado ou estacionado.
+1 - A carga e a descarga devem ser feitas pela retaguarda ou pelo lado da faixa de rodagem junto de cujo limite o veículo esteja parado ou estacionado.
 
 2 - É proibido o trânsito de veículos ou animais carregados por tal forma que possam constituir perigo ou embaraço para os outros utentes da via ou danificar os pavimentos, instalações, obras de arte e imóveis marginais.
 
-3 - Na disposição da carga deverá prover-se a que:
+3 - Na disposição da carga deve prover-se a que:
 
 a) Fique devidamente assegurado o equilíbrio do veículo, parado ou em marcha;
 
@@ -20,6 +20,12 @@ e) Não seja excedida a capacidade dos animais;
 
 f) Não seja excedida a altura de 4 m a contar do solo;
 
-g) Tratando-se de veículos destinados ao transporte de mercadorias, aquela se contenha, em comprimento e largura, nos limites da caixa, salvo autorização especial nos termos do artigo 58.º
+g) Tratando-se de veículos destinados ao transporte de passageiros ou mistos, aquela não ultrapasse os contornos envolventes do veículo, salvaguardando a correcta identificação dos dispositivos de sinalização e de iluminação e da matrícula;
 
-4 - Quem infringir o disposto nos números anteriores será punido com coima de 10000$00 a 50000$00.
+h) Tratando-se de veículos destinados ao transporte de mercadorias, aquela se contenha em comprimento e largura nos limites da caixa, salvo em condições excepcionais a definir em regulamento;
+
+i) Tratando-se de transporte de mercadorias a granel, aquela não exceda a altura definida pelo bordo superior dos taipais ou dispositivos análogos.
+
+4 - Consideram-se contornos envolventes do veículo os planos verticais que passam pelos seus pontos extremos.
+
+5 - Quem infringir o disposto nos n.os 1 a 3 é sancionado com coima de 10000$00 a 50000$00.

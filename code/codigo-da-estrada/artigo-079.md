@@ -1,19 +1,11 @@
-## CAPÍTULO II
+## SECÇÃO XI
 
-## Da condução de veículos automóveis e seus reboques
-
-## SECÇÃO I
-
-## Transporte de passageiros
+## Poluição
 
 # Artigo 79.º
 
-### Transporte de crianças
+### Poluição do solo e do ar
 
-1 - É proibido o transporte de crianças com idade inferior a 12 anos de idade no banco da frente, salvo:
+1 - É proibido o trânsito de veículos a motor que emitam fumos ou gases em quantidade superior à fixada em regulamento ou que derramem óleo ou quaisquer outras substâncias.
 
-a) Se o veículo não dispuser de banco na retaguarda;
-
-b) Se tal transporte se fizer utilizando acessório devidamente homologado.
-
-2 - Quem infringir o disposto no número anterior será punido com coima de 5000$00 a 25000$00, sendo essa importância aplicável por cada passageiro transportado indevidamente.
+2 - Quem infringir o disposto no número anterior é sancionado com coima de 10000$00 a 50000$00.

@@ -1,11 +1,13 @@
 # Artigo 145.º
 
-### Suspensão da execução de sanção acessória e caução de boa conduta
+### Registo de infracções do condutor
 
-1 - Pode ser suspensa a execução da sanção acessória, verificando-se os pressupostos de que a lei penal geral faz depender a suspensão da execução das penas.
+1 - Por cada condutor é organizado, nos termos estabelecidos em diploma próprio, um registo do qual devem constar:
 
-2 - A suspensão da execução da sanção acessória será, em regra, condicionada à prestação de caução de boa conduta.
+a) Os crimes praticados no exercício da condução de veículos a motor e respectivas penas e medidas de segurança;
 
-3 - O período de suspensão será fixado entre seis meses e dois anos.
+b) As contra-ordenações graves e muito graves praticadas no exercício da condução de veículos a motor e respectivas sanções.
 
-4 - A caução de boa conduta será fixada entre 20000$00 e 200000$00, tendo em conta a medida da sanção e a situação económica do infractor.
+2 - Aos processos em que deva ser apreciada a responsabilidade de qualquer condutor é sempre junta uma cópia dos assentamentos que lhe dizem respeito.
+
+3 - O condutor tem acesso ao seu registo, sempre que o solicite nos termos legais.
