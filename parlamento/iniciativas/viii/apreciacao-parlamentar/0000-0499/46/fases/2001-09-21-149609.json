@@ -1,0 +1,536 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "46",
+    "id": "18594",
+    "titulo": "Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Estabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias"
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2001-09-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2065",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2001-09-21",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "18596",
+        "leg": "VIII",
+        "nr": "47",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "604",
+            "obs": null,
+            "pag": [
+              "89-98"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-09-22",
+            "pubLeg": "VIII",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/89?pgs=89-98&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de l8 de Julho, que estabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex-colónias"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-09-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1654",
+                "nome": "João Rebelo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139295",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-91"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/89?pgs=89-91&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias; Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1641",
+                "nome": "Henrique Rocha de Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139296",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "91-92"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/91?pgs=91-92&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias; Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  DEFESA NACIONAL",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Pena"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139297",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "92-95",
+                  "98-98"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/92?pgs=92-95,98&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias; Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1641",
+                "nome": "Henrique Rocha de Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "93-94"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/93?pgs=93-94&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias; Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1654",
+                "nome": "João Rebelo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "94-94"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/94?pgs=94&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias; Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1162",
+                "nome": "Gonçalo Almeida Velho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139300",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "95-96"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/95?pgs=95-96&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias; Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139301",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "96-96"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/96?pgs=96&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias; Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139302",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "97-97"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/97?pgs=97&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias; Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "280",
+                "nome": "Carlos Encarnação"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139303",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "97-98"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/97?pgs=97-98&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias; Decreto-Lei n.º 161/2001, de 22 de Maio, que \"Regulamenta a Lei n.º 34/98, de 18 de Julho, que \"Etabeleceu um regime excepcional de apoio aos prisioneiros de guerra nas ex:colónias",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "149609",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "265583",
+        "obs": null,
+        "pag": [
+          "89--98"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-09-22",
+        "pubLeg": "VIII",
+        "pubNr": "3",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/89?pgs=89--98&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
