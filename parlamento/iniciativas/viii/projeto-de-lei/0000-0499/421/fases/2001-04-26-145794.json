@@ -1,0 +1,978 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "421",
+    "id": "7085",
+    "titulo": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-04-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1907",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-04-26",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "7086",
+        "leg": "VIII",
+        "nr": "422",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "507",
+            "obs": null,
+            "pag": [
+              "2934-2955"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-04-27",
+            "pubLeg": "VIII",
+            "pubNr": "75",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2934?pgs=2934-2955&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-04-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1640",
+                "nome": "David Justino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138042",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2934-2939",
+                  "2954-2954"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2934?pgs=2934-2939,2954&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1762",
+                "nome": "Margarida  Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2935-2936",
+                  "2950-2951"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2935?pgs=2935-2936,2950-2951&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2936-2937"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2936?pgs=2936-2937&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2937-2938"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2937?pgs=2937-2938&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1839",
+                "nome": "José Alberto Fateixa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2938-2939"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2938?pgs=2938-2939&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1762",
+                "nome": "Margarida  Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2939-2941"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2939?pgs=2939-2941&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1723",
+                "nome": "Carlos Antunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2940-2941"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2940?pgs=2940-2941&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1672",
+                "nome": "Isabel Pires de Lima"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138049",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2941-2944"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2941?pgs=2941-2944&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1622",
+                "nome": "Ana Maria Narciso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138050",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2943-2943"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2943?pgs=2943&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2943-2944"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2943?pgs=2943-2944&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1719",
+                "nome": "Rosado Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2944-2947"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2944?pgs=2944-2947&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2946-2947"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2946?pgs=2946-2947&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2947-2948"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2947?pgs=2947-2948&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  EDUCAÇÃO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Augusto Santos Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2948-2955"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2948?pgs=2948-2955&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1640",
+                "nome": "David Justino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2949-2950"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2949?pgs=2949-2950&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2951-2952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2951?pgs=2951-2952&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "459",
+                "nome": "João Cravinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2952-2952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2952?pgs=2952&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "728",
+                "nome": "Rosalina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2953-2954"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2953?pgs=2953-2954&org=PLC"
+              }
+            ],
+            "sumario": "Lei-Quadro para a avaliação e qualidade dos ensinos básico e secundário; Obriga à divulgação, por escola e por disciplina, dos resultados dos exames do 12.º ano de escolaridade bem como de outra informação complementar que possibilite o conhecimento geral sobre o sucesso e insucesso escolares no ensino secundário",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145794",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "261371",
+        "obs": null,
+        "pag": [
+          "2934-2955"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-04-27",
+        "pubLeg": "VIII",
+        "pubNr": "75",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2934?pgs=2934-2955&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
