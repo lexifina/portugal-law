@@ -1,0 +1,22 @@
+Portaria n.º 217/70
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do artigo 1.º do Decreto-Lei n.º 47912, de 7 de Setembro de 1967, com a redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 180/70, de 25 de Abril de 1970, ouvido o Banco de Portugal, o seguinte:
+1.º Salvo o disposto no n.º 3.º, os bancos comerciais e os estabelecimentos especiais de crédito não poderão abonar juros de depósitos, que estejam legalmente autorizados a receber, a taxas superiores aos limites que resultarem da subtracção dos seguintes valores à taxa de desconto do Banco de Portugal:
+a) 2,5 por cento nos depósitos à ordem e com pré-aviso inferior a quinze dias;
+b) 1,5 por cento nos depósitos com pré-aviso igual ou superior a quinze dias, mas inferior a trinta dias;
+c) 0,5 por cento nos depósitos a prazo ou com pré-aviso igual ou superior a trinta dias, mas não a noventa dias.
+2.º Igualmente, salvo o disposto no n.º 3.º, não poderão os bancos comerciais e os estabelecimentos especiais de crédito abonar juros de depósitos, que estejam legalmente autorizados a receber, a taxas superiores aos limites que resultarem da adição dos seguintes valores à taxa de desconto do Banco de Portugal:
+a) 0,5 por cento nos depósitos a prazo superior a noventa dias, mas não a cento e oitenta dias;
+b) 1,5 por cento nos depósitos a prazo superior a cento e oitenta dias e até um ano, inclusive.
+3.º Os estabelecimentos especiais de crédito poderão abonar aos seguintes depósitos, quando estejam legalmente autorizados a recebê-los, juros a taxas que não excedam:
+a) A taxa de desconto do Banco de Portugal, diminuída de 0,5 por cento, nos depósitos à ordem e com pré-aviso inferior a quinze dias de pessoas ou entidades que não sejam sociedades, até à importância de 50000$00; a mesma taxa de desconto, diminuída de 2 por cento, nos depósitos acima de 50000$00;
+b) A taxa de desconto do Banco de Portugal, adicionada de 2 por cento, nos depósitos a prazo superior a um ano;
+c) A taxa de desconto do Banco de Portugal, adicionada de 3 por cento, nos depósitos a prazo superior a dois anos que se destinem à aquisição de imóveis ou de valores mobiliários, nos termos que vierem a ser objecto de regulamentação.
+4.º As instituições de crédito não poderão cobrar pelas suas operações activas juros de taxas superiores aos limites que resultarem da soma da taxa de desconto do Banco de Portugal com os seguintes valores:
+a) 1,75 por cento nas operações por prazo não superior a cento e oitenta dias;
+b) 2,5 por cento nas operações por prazo superior a cento e oitenta dias, mas não a um ano;
+c) 3,25 por cento nas operações a mais de um ano e até dois anos;
+d) 3,75 por cento nas operações por prazo superior a dois anos.
+5.º Nas operações de crédito efectuadas pelas instituições parabancárias ou em quaisquer operações em que haja mediação das entidades referidas no Decreto-Lei n.º 43767, de 30 de Junho de 1961, as taxas de juro máximas não poderão exceder as referidas no n.º 4.º
+6.º O regime de taxas ora fixado aplicar-se-á aos depósitos já existentes no prazo de trinta dias após a publicação da presente portaria, se se tratar de depósitos com pré-aviso, ou a partir do termo do prazo para que foram constituídos, se se tratar de depósitos a prazo.
+7.º Esta portaria entra imediatamente em vigor.
+Ministério das Finanças, 25 de Abril de 1970. - O Ministro das Finanças, João Augusto Dias Rosas.
