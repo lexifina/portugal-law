@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o sumário da Portaria n.º 2/90, publicada no Diário da República, 1.ª série, n.º 3, de 4 de Janeiro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê «Aprova o modelo de declaração de rendimentos a apresentar à Direcção-Geral das Contribuições e Impostos pelas entidades a ela obrigadas nos termos do artigo 114.º, n.º 1, alínea c), do Código do Imposto sobre o Rendimento das Pessoas Singulares» deve ler-se «Aprova a declaração modelo n.º 1, o anexo D e o anexo 'Benefícios fiscais', a que se refere a alínea a) do n.º 1 do artigo 57.º do Código do IRS».
+Secretaria-Geral da Presidência do Conselho de Ministros, 5 de Janeiro de 1990. - O Secretário-Geral, França Martins.
