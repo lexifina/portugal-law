@@ -1,0 +1,8 @@
+Resolução n.º 237/81
+Nos termos do Decreto-Lei n.º 200-F/80, de 24 de Junho, o conselho de gestão da União de Bancos Portugueses solicitou ao Governo autorização para tomar de arrendamento a 1.ª cave, o rés-do-chão e a galeria do prédio sito em Lisboa, no gaveto da Avenida do Brasil-Campo Grande, a fim de no local instalar uma nova agência bancária.
+Considerando que a localização desta agência na Avenida do Brasil se deve a critérios de racionalização da cobertura bancária existente, tendo, por contrapartida, o encerramento por aquela instituição de crédito da dependência em Moscavide;
+Considerando que se encontram cumpridas as formalidades legalmente exigíveis para a prática do acto, designadamente tendo sido o processo organizado pela Direcção-Geral do Património do Estado com base em parecer da comissão a que se refere o Decreto n.º 38202, de 13 de Março de 1951, merecendo aquele despacho favorável da Secretaria de Estado do Tesouro:
+Nestes termos:
+O Conselho de Ministros para os Assuntos Económicos, reunido em 3 de Novembro de 1981, resolveu:
+Autorizar, no âmbito da competência que lhe é atribuída pelo n.º 1 do artigo 1.º do Decreto-Lei n.º 200-F/80, de 24 de Junho, o conselho de gestão da União de Bancos Portugueses a tomar de arrendamento, pela renda anual de 2268000$00, o conjunto constituído pela 1.ª cave, pelo rés-do-chão e pela galeria do prédio sito em Lisboa, no gaveto na Avenida do Brasil-Campo Grande, para instalação de uma agência bancária.
+Presidência do Conselho de Ministros, 3 de Novembro de 1981. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
