@@ -1,0 +1,6 @@
+Decreto n.º 206/74
+de 15 de Maio
+Usando da faculdade concedida pelo n.º 3.º do artigo 7.º e n.º 3 do artigo 14.º da Lei n.º 3/74, de 14 de Maio, sob proposta do Primeiro-Ministro, tenho por bem:
+Nomear o Dr. Deodato Nuno de Azevedo Coutinho Secretário de Estado da Administração no Ministério da Coordenação Interterritorial; o Dr. José da Silva Lopes, Secretário de Estado das Finanças; o Engenheiro José de Melo Torres Campos, Secretário de Estado da Indústria e Energia; o Dr. Emílio Rui da Veiga Peixoto Vilar, Secretário de Estado do Comércio Externo e Turismo; o Dr. Nelson Sérgio Melo da Rocha Trigo, Secretário de Estado do Abastecimento e Preços; o Dr. António Costa Leal, Subsecretário de Estado do Orçamento; o Dr. Artur Luís Alves Conde, Subsecretário de Estado do Tesouro; o Engenheiro Pedro Nunes, Secretário de Estado das Obras Públicas; o Engenheiro Manuel Ferreira Lima, Secretário de Estado dos Transportes e Comunicações; o Arquitecto Nuno Portas, Secretário de Estado de Habitação e Urbanismo; o Arquitecto Gonçalo Ribeiro Telles, Subsecretário de Estado do Ambiente; o Dr. António Galhordas, Secretário de Estado da Saúde, e a Dr.ª Maria de Lourdes Pintassilgo, Secretário de Estado da Segurança Social.
+Publique-se.
+Presidência da República, 15 de Maio de 1974. - O Presidente da República, ANTÓNIO DE SPÍNOLA.
