@@ -1,0 +1,4 @@
+Rectificação n.º 17/91
+Declara-se que a Lei n.º 34/91, de 27 de Julho (Mecenato Social), publicada no Diário da República, n.º 171, de 27 de Julho de 1991, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 1.º, onde se lê «[...], aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro,» deve ler-se «[...] aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 192/90, de 9 de Junho,»; no artigo 40.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, na nova redacção dada pelo referido artigo 1.º, onde se lê «n.º 4» deve ler-se «n.º 5» e no artigo 56.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, alterado pelo artigo 2.º da mesma lei, não foi indicado o n.º 3, que se mantém na actual redacção.
+Assembleia da República, 14 de Agosto de 1991. - O Secretário-Geral, substituto, José Manuel Cerqueira.
