@@ -1,0 +1,7 @@
+Despacho
+1 - Por despacho conjunto das Secretarias de Estado do Tesouro, do Comércio Externo e Turismo e da Habitação e Urbanismo foi ordenado inquérito às actividades da empresa TAU - Propriedades e Empreendimentos Turísticos, Lda., sob intervenção estatal no âmbito da comissão administrativa para as empresas turísticas do Algarve, consoante resolução do Conselho de Ministros de 29 de Abril de 1975.
+2 - Pela respectiva comissão de inquérito foram detectadas numerosas irregularidades imputáveis à gerência da empresa, bem como situações anómalas no seu património, grande parte do qual indevidamente registado em nome da sócia gerente Joaquina Rita dos Reis Henriques Martins.
+3 - Dada a deplorável situação económica e financeira da empresa, e no sentido de evitar a delapidação do seu património, em permanente estado de fluidez enquanto a referida sócia gerente puder dispor livremente dos seus bens, afigura-se conveniente a preventiva adopção das apropriadas medidas cautelares.
+4 - Pelo exposto, determina-se, ao abrigo do artigo 1.º do Decreto-Lei n.º 313/76, de 29 de Abril:
+Que se proceda ao congelamento das contas bancárias e se proíba a alienação ou oneração de bens móveis e imóveis de Joaquina Rita dos Reis Henriques Martins.
+Ministério das Finanças, 1 de Junho de 1976. - O Secretário de Estado do Tesouro, Artur Eduardo Brochado dos Santos Silva. - O Secretário de Estado dos Investimentos Públicos, António Francisco Barroso de Sousa Gomes.
