@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=2UPfDKqx4yThZkCiWeDvzZahwRkNMsQnE24OvBZ8AQP4b9vLhOz5HeV8hVxyPJHJ8ksq0tq9PZ0dW0Thx2wqKViMfSelY21acf9tKlvuT%2bBVZy2KHe0HmmPBynAp85sbnt1BVV39jrAzsrdek%2f7TtHhLFct8jeYawEpIt%2fQHOLswD3sih4hoy66fgBVAtt6H9ygINxTWi5FNmDyriNdNwoWb5VskQvfOcNrmYVIjTS9IGBP0EQjeMWuwshVlzHJQGqcAmyrmR8xAksXUjJuMhfFCQiBeCAAXQSIoMEzuV9pOUAqkueBVsQQFz%2bJsM9g9na0p69krrgJ3RGL8GdN9jLKc97oScVoy8bOVtmNyjig%3d&fich=IniciativasII_json.txt&Inline=true",
+  "ficheiro_sha256": "2d1420d0c7ebeb0e40f4da305b81f9a5f39e3f60a98c12da4ec0fe9e3f55e5fc",
+  "legislatura": "II",
+  "tipo": "Projeto de Lei",
+  "numero": "389",
+  "id": "30764",
+  "fases": 2,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1983-01-05",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1983-05-30",
+    "DataInicioleg": "1982-10-19",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "3543",
+        "nome": "António Barroso Gomes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3527",
+        "nome": "Aquilino Machado"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3523",
+        "nome": "Júlio Carrapato"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "147",
+        "nome": "Almeida Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "160",
+        "nome": "Carlos Lage"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "198",
+        "nome": "Manuel dos Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2933",
+        "nome": "António Esteves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "506",
+        "nome": "Mata Cáceres"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "30764",
+    "IniLeg": "II",
+    "IniLinkTexto": "",
+    "IniNr": "389",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Lei quadro relativa à criação de uma taxa municipal de transportes",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
