@@ -1,0 +1,14 @@
+Decreto n.º 47349
+Convindo definir, convenientemente, que o direito à passagem por conta do Estado, instituído pelo Decreto n.º 44914, de 13 de Março de 1963, não se limita à província ultramarina onde o militar, a seu pedido, é desligado da efectividade de serviço, mas é extensivo a qualquer outra província ultramarina onde pretenda fixar a sua residência;
+Convindo, ainda, restabelecer, e tornar extensivo a todos os militares dos três ramos das forças armadas, o direito, por dois anos, à passagem de regresso à metrópole, estabelecido, para sargentos, cabos e soldados do Ministério do Exército, no § único do artigo 29.º do Decreto n.º 36019, de 7 de Dezembro de 1946, revogado pelos artigos 37.º, 46.º e 51.º do Decreto n.º 42937, de 22 de Abril de 1960;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º Aos militares dos três ramos das forças armadas que, estando em comissão de serviço no ultramar, a seu pedido, ali sejam desligados da efectividade de serviço para exercerem actividades ou profissões civis em qualquer província ultramarina, ser-lhes-á facultado transporte, por conta do Estado, do local onde são desligados da efectividade de serviço para a localidade dessa ou de outras províncias onde vão fixar residência.
+§ único. A estes militares são ainda concedidas passagens por conta do Estado para a mulher, filhos menores, filhas solteiras e outras pessoas que justifiquem o direito ao abono de família, desde que os acompanhem.
+Art. 2.º Aos militares referidos no corpo do artigo 1.º é mantido por dois anos o direito à passagem por conta do Estado de regresso à metrópole, devendo, contudo, indemnizar prèviamente o Estado do montante das passagens que, para si e seus familiares, lhe tiverem sido abonadas nos termos do artigo 1.º e seu § único.
+§ único. O direito à concessão da passagem por conta do Estado de regresso à metrópole é igualmente tornado extensivo à mulher, filhos menores, filhas solteiras e outras pessoas que justifiquem o direito ao abono de família, desde que à data da separação do militar da efectividade de serviço tenham obtido já o direito a essa concessão e o acompanhem.
+Art. 3.º Os casos omissos serão resolvidos por despacho do Ministro da Defesa Nacional.
+Art. 4.º Fica revogado o Decreto n.º 44914, de 13 de Março de 1963.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 28 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Joaquim Moreira da Silva Cunha - Francisco António das Chagas.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.
