@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, em 27 de Junho de 1985, o Embaixador da Finlândia depositou junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos o instrumento de ratificação da Convenção Suprimindo a Exigência de Legalização de Actos Públicos Estrangeiros, de que Portugal já é parte. Aquele instrumento diplomático entra em vigor, com referência àquele país, em 26 de Agosto de 1985.
+Em conformidade com o artigo 6, a Finlândia designou o Notary Public das cidades de Helsínquia, Tampere, Turku, Lahti, Kuopio, Pori, Vaasa e Oulu como autoridades competentes para opor a apostilha prevista no artigo 3, 1.ª alínea, da Convenção.
+Secretaria-Geral do Ministério, 24 de Julho de 1985. - O Director dos Serviços Jurídicos e de Tratados, Francisco Manuel dos Reis Caldeira.
