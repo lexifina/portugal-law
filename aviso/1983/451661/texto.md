@@ -1,0 +1,8 @@
+Aviso
+Por ordem superior se torna público que, de harmonia com a notificação da Embaixada da Suíça, o Governo do Líbano depositou, em 28 de Fevereiro de 1983, um instrumento de:
+Ratificação da Convenção Internacional Respeitante ao Transporte de Passageiros e de Bagagens por Caminho de Ferro (CIV), celebrada em Berna a 7 de Fevereiro de 1970;
+Ratificação do Protocolo adicional de 7 de Fevereiro de 1970 às Convenções Internacionais respeitantes ao Transporte por Caminho de Ferro de Mercadorias (CIM) e de Passageiros e de Bagagens (CIV), celebradas em Berna a 7 de Fevereiro de 1970;
+Ratificação da Convenção Adicional à Convenção Internacional Respeitante ao Transporte de Passageiros e de Bagagens por Caminho de Ferro, de 7 de Fevereiro de 1970, Relativa à Responsabilidade do Caminho de Ferro por Morte e Ferimentos de Passageiros;
+Adesão ao Protocolo II de 9 de Novembro de 1973 estabelecido pela Conferência Diplomática reunida com vista à entrada em vigor das Convenções Internacionais sobre o Transporte por Caminho de Ferro de Mercadorias (CIM) e de Passageiros e de Bagagens (CIV), de 7 de Fevereiro de 1970, respeitante ao prolongamento da duração da validade da Convenção adicional à CIV de 1961, Relativa à Responsabilidade do Caminho de Ferro por Morte e Ferimentos de Passageiros, assinada em 26 de Fevereiro de 1966 e entrada em vigor em 1 de Janeiro de 1973.
+A ratificação da Convenção CIV, do Protocolo adicional e da Convenção adicional assim como a adesão ao Protocolo II entram em vigor, para o Líbano, a partir de 1 de Abril de 1983.
+Direcção-Geral dos Negócios Económicos, 29 de Abril de 1983. - O Adjunto do Director-Geral, António Guilherme Lopes de Oliveira Cascais.
