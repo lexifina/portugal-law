@@ -1,0 +1,5 @@
+Portaria n.º 22330
+Reconhecendo-se a necessidade de distribuir os serviços que competem à 1.ª Repartição da Direcção do Serviço de Administração Naval por duas secções, uma das quais dedicada especialmente à organização de um ficheiro sobre a legislação técnico-administrativa e disposições respeitantes ao serviço de abastecimento, bem como à publicação de instruções e manuais referentes aos mesmos assuntos:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, nos termos do artigo 5.º do Decreto n.º 42715, de 11 de Dezembro de 1959, introduzir no artigo 5.º do Regulamento da Direcção do Serviço de Administração Naval, aprovado pela Portaria n.º 17835, de 19 de Julho de 1960, um parágrafo único com o seguinte teor:
+§ único. Os assuntos da competência da 1.ª Repartição serão distribuídos por duas secções, uma das quais se ocupará, exclusivamente, da organização de um ficheiro sobre legislação técnico-administrativa e disposições respeitantes ao serviço de abastecimento e da publicação de instruções e manuais sobre os mesmos assuntos.
+Ministério da Marinha, 26 de Novembro de 1966. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
