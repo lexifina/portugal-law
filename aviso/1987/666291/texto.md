@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público ter o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificado, de acordo com o artigo 42, alínea e), da Convenção sobre Obtenção de Provas no Estrangeiro no Domínio Civil e Comercial, concluída na Haia em 18 de Março de 1970, que a França, em conformidade com o artigo 34 da referida Convenção, por carta datada de 24 de Dezembro de 1986 e recebida no Ministério dos Negócios Estrangeiros do Reino dos Países Baixos em 19 de Janeiro de 1987, modificou a sua declaração relativa ao artigo 23 da mesma como se segue:
+A declaração feita pela República Francesa conforme ao artigo 23, relativo às cartas rogatórias que têm como objecto um processo de pretrial discovery of documents, não se aplica quando os documentos são limitativamente enumerados na carta rogatória e têm uma relação directa e precisa com o objecto do litígio.
+Portugal é parte no instrumento diplomático em apreço.
+Secretaria-Geral do Ministério, 26 de Março de 1987. - O Director do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Fávila Vieira.
