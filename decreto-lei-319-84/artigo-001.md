@@ -1,0 +1,3 @@
+# Artigo 1.º
+
+Aos cidadãos portugueses que como elementos pertencentes a corporações de segurança e similares ou como civis, colaborando em operações militares de apoio às Forças Armadas nos antigos territórios do ultramar, adquiriram uma diminuição da capacidade geral de ganho em resultado de acidente ocorrido nas condições definidas nos artigos 1.º e 2.º do Decreto-Lei n.º 43/76, de 20 de Janeiro, é reconhecido o direito à percepção de uma pensão de invalidez, bem como ao gozo dos direitos e regalias constantes das disposições aplicáveis dos artigos 4.º, 5.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º e 16.º do mesmo diploma.
