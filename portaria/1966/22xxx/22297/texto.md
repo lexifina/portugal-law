@@ -1,0 +1,4 @@
+Portaria n.º 22297
+Havendo conveniência em tornar extensiva aos restantes cursos superiores a providência estabelecida no § 2.º do artigo 11.º do regulamento constante da Portaria n.º 19405, de 25 de Setembro de 1962:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, nos termos do artigo 47.º do Regulamento de Admissões e Promoções do Pessoal da Direcção-Geral dos Serviços Pecuários, aprovado pela Portaria n.º 19405, de 25 de Setembro de 1962, e com observância do artigo 89.º do Decreto-Lei n.º 41380, de 20 de Novembro de 1957, que o disposto no § 2.º do artigo 11.º daquele regulamento seja extensivo aos demais cursos superiores a que se refere o artigo 74.º do mencionado decreto-lei.
+Secretaria de Estado da Agricultura, 5 de Novembro de 1966. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
