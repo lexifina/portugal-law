@@ -1,0 +1,7 @@
+Portaria n.º 18328
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 16.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com o artigo 5.º do Decreto n.º 40712, de 1 de Agosto de 1956, o seguinte:
+1.º Que o governador da província de Macau abra um crédito especial da quantia de 194400$00 para reforçar a rubrica «Outras despesas extraordinárias - Despesas com a representação da Mocidade Portuguesa da província nas comemorações henriquinas a realizar em Lisboa», mandada aditar à tabela de despesa extraordinária do orçamento geral para 1960, nos termos da Portaria n.º 17873, de 30 de Julho de 1960, tomando como contrapartida o saldo das contas de exercícios findos.
+2.º Que o governador da província de Timor abra um crédito especial da quantia de 204038$30 para reforçar a rubrica «Outras despesas extraordinárias - Despesas com a representação da Mocidade Portuguesa da província nas comemorações henriquinas a realizar em Lisboa», mandada aditar à tabela de despesa extraordinária do orçamento geral para 1960, nos termos da Portaria n.º 17873, de 30 de Julho de 1960, tomando como contrapartida o saldo das contas de exercícios findos.
+Ministério do Ultramar, 15 de Março de 1961. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Macau e Timor. - A. Moreira.
