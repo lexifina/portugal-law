@@ -1,0 +1,4 @@
+Portaria n.º 429/72
+de 4 de Agosto
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da importância de 50000$00, destinado a reforçar a verba do capítulo único, artigo 10.º «Diversos encargos - Abono de família», do orçamento da despesa do Gabinete de Planeamento e Integração Económica em vigor, tomando como contrapartida igual importância a sair das disponibilidades do capítulo único, artigo 7.º, n.º 1 «Pagamento de serviços - Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem, limpeza e outras despesas», do mesmo orçamento.
+Ministério do Ultramar, 21 de Julho de 1972. - Pelo Ministro do Ultramar, Rui Martins dos Santos, Subsecretário de Estado do Fomento Ultramarino.
