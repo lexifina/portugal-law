@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1952/01/00900/02370237.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1952-01-14",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "3660b3ff1bb4a0fc052b74f7777c555c8e0e0af98cdb355136641a7edd0f503d",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.3,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "28a875fa3dc316c3b4e12f00ea769198e04758ce3b87358046d199aba3c58246",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 184
 }
