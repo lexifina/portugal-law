@@ -1,0 +1,17 @@
+Decreto n.º 134/78
+de 21 de Novembro
+Foi aprovada em Conselho de Ministros a atribuição de uma verba destinada aos orçamentos das Direcções-Gerais do Ensino Superior, das Construções Escolares e dos Edifícios e Monumentos Nacionais em consequência do incêndio que no dia 17 de Março do presente ano atingiu a Faculdade de Ciências da Universidade de Lisboa, de modo a permitir a continuidade do funcionamento dos cursos ministrados naquela escola e a apressar a construção de novas instalações a construir na Cidade Universitária de Lisboa.
+Dessa verba serão destinados 124000000$00 à substituição do equipamento atingido pelo incêndio cujo investimento tem de ser escalonado.
+Deste modo:
+Tendo em vista as disposições do artigo 6.º do Decreto-Lei n.º 48234, de 31 de Janeiro de 1968;
+Usando da faculdade conferida pela alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º É autorizada a Direcção-Geral do Ensino Superior a celebrar contratos para reequipar a Faculdade de Ciências de Lisboa, pela importância de 124000000$00.
+Art. 2.º - 1 - O encargo resultante da execução dos contratos referidos no artigo anterior não poderá, em cada ano, exceder as seguintes importâncias:
+Em 1979 ... 37200000$00
+Em 1980 ... 74400000$00
+Em 1981 ... 12400000$00
+2 - As importâncias fixadas, para os anos de 1980 e 1981 serão acrescidas dos saldos apurados nos anos anteriores.
+Alfredo Jorge Nobre da Costa - José da Silva Lopes - Carlos Alberto Lloyd Braga.
+Promulgado em 10 de Novembro de 1978.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
