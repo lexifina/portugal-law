@@ -1,0 +1,3 @@
+Despacho ministerial
+Considerando que o Conselho de Ministros na sua reunião de 7 do corrente decidiu generalizar a doutrina contida no meu despacho de 18 de Fevereiro de 1975, publicado no suplemento ao Diário do Governo, 1.ª série, de 28 de Fevereiro, relativo a acumulação de funções, ficando assim os funcionários de todos os Ministérios em igualdade de circunstâncias, determino que fique suspensa a contagem dos prazos a que se refere aquele meu despacho, aguardando, portanto, a publicação de resolução do Conselho de Ministros.
+Ministério da Economia, 10 de Março de 1975. - O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.
