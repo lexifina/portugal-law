@@ -1,8 +1,8 @@
 # Artigo 420.º
 
-### (Competência do conselho fiscal)
+### Competência do fiscal único e do conselho fiscal
 
-1 - Compete ao conselho fiscal:
+1 - Compete ao fiscal único ou ao conselho fiscal:
 
 a) Fiscalizar a administração da sociedade;
 
@@ -22,6 +22,6 @@ h) Convocar a assembleia geral, quando o presidente da respectiva mesa o não fa
 
 i) Cumprir as demais atribuições constantes da lei ou do contrato de sociedade.
 
-2 - Os membros do conselho fiscal devem proceder, conjunta ou separadamente e em qualquer época do ano, a todos os actos de verificação e inspecção que considerem convenientes para o cumprimento das suas obrigações de fiscalização.
+2 - O fiscal único ou qualquer membro do conselho fiscal, quando este exista devem proceder, conjunta ou separadamente e em qualquer época do ano, a todos os actos de verificação e inspecção que considere convenientes para cumprimento das suas obrigações de fiscalização.
 
 3 - O revisor oficial de contas membro do conselho fiscal tem, especialmente e sem prejuízo da actuação dos outros membros, o dever de proceder a todos os exames e verificações necessários à revisão e certificação legais das contas, nos termos previstos em lei especial, e bem assim os outros deveres especiais que esta lei lhe imponha.
