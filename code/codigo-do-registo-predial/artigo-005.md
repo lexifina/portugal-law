@@ -1,0 +1,15 @@
+# Artigo 5.º
+
+### (Oponibilidade a terceiros)
+
+1 - Os factos sujeitos a registo só produzem efeitos contra terceiros depois da data do respectivo registo.
+
+2 - Exceptuam-se do disposto no número anterior:
+
+a) A aquisição, fundada na usucapião, dos direitos referidos na alínea a) do n.º 1 do artigo 2.º;
+
+b) As servidões aparentes;
+
+c) Os factos relativos a bens indeterminados, enquanto estes não forem devidamente especificados e determinados.
+
+3 - A falta de registo não pode ser oposta aos interessados pelos seus representantes legais a quem incumba a obrigação de o promover, nem pelos herdeiros destes.
