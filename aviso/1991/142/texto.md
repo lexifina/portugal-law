@@ -1,0 +1,4 @@
+Aviso n.º 142/91
+Por ordem superior se torna público que se encontra concluído por ambas as Partes o processo de aprovação do II Protocolo Adicional ao Acordo Judiciário entre Portugal e Cabo Verde, assinado em Lisboa em 3 de Março de 1982, e corrigido por acordo rectificativo, nos termos da troca de notas de 28 de Janeiro de 1983, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 4/91, e ratificado por Decreto do Presidente da República n.º 2/91, de 18 de Janeiro, ambos publicados no Diário da República, n.º 15, de 18 de Janeiro de 1991.
+Nos termos do artigo 2.º do II Protocolo Adicional ao Acordo Judiciário, este entrou em vigor no dia 22 de Janeiro de 1991.
+Direcção-Geral para a Cooperação, 26 de Agosto de 1991. - Pelo Director-Geral, o Subdirector-Geral, J. Vieira Branco.
