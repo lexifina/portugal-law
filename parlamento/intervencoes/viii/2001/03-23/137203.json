@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2furkWvc0lKdq20ak2KlHOmirXJXFYm74sABWT32jiDLN0U8f%2fPEtMfn8RnKJ0uGruwmBNe3jwMO37t%2fiSCQ9aculmRkJeIKwr%2fOiOzMziHJAnUHHtOwdh287ngLEtCriB2WWEC7LYWi1fowW8ns7Xdb7ZeW1KZ%2fh4MoxhR77APfbIk6lGh2Xrj7umHYAgvxBKomL8r%2b7w%2bcVlag%2bST%2fprrlUOE0u%2b6qHwbnvIQKfKeygiUNrSNiI04zccBV4YEQPPfynibRRVQMmV0H0WPDuRcSm80sGGQgNyTsUcq3R2DGZQtkpt%2bs4PaWOTvEOy%2b0HxZFhxj0gLaLBKCcha3mTRy2bCNMZep%2b9wDXb88fyVXk%3d&fich=IntervencoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6a76c73abc08ffed4c44b15f3f36f3269364cf06e4b7f2d6259e2b14d6049817",
+  "legislatura": "VIII",
+  "id": "137203",
+  "tipo": "Intervenção",
+  "orador": "António Filipe (PCP)",
+  "data_registo": "2001-03-23",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "145869",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "5746",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Altera a Lei nº 74/98, de 11 de Novembro que, aprova o regime da publicação, identificação e formulário dos diplomas,  no sentido de atribuir relevância jurídica para todos os efeitos legais à versão electrónica do Diário da República"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2001-03-23",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "209",
+      "nome": "António Filipe"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "137203",
+    "IdDebate": "1923",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "5746",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "137203",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2515-2515"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-24",
+        "pubLeg": "VIII",
+        "pubNr": "64",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2515?pgs=2515&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "INCM - Imprensa Nacional Casa da Moeda",
+    "Sessao": "2",
+    "Sumario": "ALTERA A LEI N.74/98 DE 11 DE NOVEMBRO QUE APROVA O REGIME DA PUBLICACAO IDENTIFICACAO E FORMULARIO DOS DIPLOMAS NO SENTIDO DE ATRIBUIR RELEVANCIA JURIDICA PARA TODOS OS EFEITOS LEGAIS A VERSAO ELECTRONICA DO DIARIO DA REPUBLICA",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
