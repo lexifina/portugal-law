@@ -1,0 +1,4 @@
+Aviso n.º 163/2000
+Por ordem superior se torna público que a Lituânia ratificou, em 8 de Julho de 1999, com entrada em vigor a 1 de Agosto de 1999, o Protocolo n.º 6 à Convenção para a Protecção dos Direitos do Homem e das Liberdades Fundamentais Relativo à Abolição da Pena de Morte, conforme alterada pelo Protocolo n.º 11.
+Portugal é parte do mesmo Protocolo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 12/86, conforme publicado no Diário da República, 1.ª série, n.º 129, de 6 de Junho de 1986, tendo sido depositado o respectivo instrumento de ratificação em 2 de Outubro de 1986, conforme publicado no Diário da República, 1.ª série, n.º 258, de 8 de Novembro de 1986.
+Direcção-Geral dos Assuntos Multilaterais, 12 de Julho de 2000. - O Director de Serviços das Organizações Políticas Internacionais, Rui Filipe Monteiro Belo Macieira.
