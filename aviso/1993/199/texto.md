@@ -1,0 +1,4 @@
+Aviso n.º 199/93
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos transmitiu uma notificação, em conformidade com o artigo 45.º da Convenção Relativa aos Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, segundo a qual a República das Maurícias declarou que só assume a responsabilidade pelas despesas previstas no artigo 25.º, parágrafo 2, relativas à participação de advogado ou consultor jurídico, na medida em que tais despesas possam ser cobertas pelo seu sistema de assistência judiciária e jurídica.
+A Convenção foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, conforme Diário da República, 1.ª série, n.º 108, de 11 de Agosto de 1983.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 30 de Junho de 1993. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
