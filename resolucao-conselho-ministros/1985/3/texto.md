@@ -1,0 +1,8 @@
+Resolução do Conselho de Ministros n.º 3/85
+Considerando que a experiência adquirida ao longo dos últimos 8 anos, quer no domínio parlamentar quer no âmbito do poder local, aconselha a redução tendencial do número de deputados à Assembleia da República, o estabelecimento de uma ligação mais estreita entre eleitores e eleitos e o reforço da estabilidade dos governos e dos executivos autárquicos;
+Considerando que, para tanto, se torna indispensável proceder, em prazo útil, à revisão das leis eleitorais em vigor, designadamente na perspectiva das próximas eleições autárquicas:
+O Conselho de Ministros, reunido em 27 de Dezembro de 1984, resolveu:
+1 - É criada uma Comissão Interministerial para a Revisão da Legislação Eleitoral, abreviadamente CIRLE, composta pelo Ministro de Estado e dos Assuntos Parlamentares, que assegurará a sua coordenação, e pelos Ministros da Administração Interna e da Justiça.
+2 - A CIRLE é incumbida de elaborar e apresentar ao Conselho de Ministros, até 31 de Março de 1985, um projecto de proposta de lei eleitoral para a Assembleia da República, tendo em vista, designadamente, a redução tendencial do número de deputados, o estabelecimento de uma ligação mais estreita entre eleitores e eleitos e o reforço da estabilidade dos governos.
+3 - A CIRLE é incumbida de elaborar e apresentar ao Conselho de Ministros, até 31 de Março de 1985, um projecto de decreto-lei sobre o regime eleitoral para a eleição dos órgãos das autarquias locais, tendo em vista, designadamente, o reforço da estabilidade dos executivos autárquicos.
+Presidência do Conselho de Ministros - O Primeiro-Ministro, Mário Soares.
