@@ -1,0 +1,3 @@
+Despacho Normativo n.º 313/81
+No uso da autorização que me é conferida pelo n.º 2 do Despacho Normativo n.º 270/81, de 8 de Setembro, publicado no Diário da República, 1.ª série, n.º 225, de 30 de Setembro de 1981, subdelego no Secretário de Estado da Defesa Nacional, engenheiro Carlos José Sanches Vaz Pardal, a competência que, ao abrigo do disposto no artigo 4.º, n.º 1, do Decreto-Lei n.º 510/80, de 25 de Outubro, me foi delegada no n.º 1 do citado despacho normativo.
+Ministério da Defesa Nacional, 6 de Outubro de 1981. - O Vice-Primeiro-Ministro e Ministro da Defesa Nacional, Diogo Pinto de Freitas do Amaral.
