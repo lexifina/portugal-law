@@ -1,0 +1,900 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P0Fiu%2fOxm2B6i1Qb1v6Kl8P9Ddn6RTIUCktgva%2fyOaH7lWGUnkkysYTUSoIwHSs4BsNkQvxZU1Jn26l834KO7HtuiuTauD6UP2bFLXGt1tGFPrfPngnS3CSTBHYbjc71uc6LAaWwWMNPEAhBQhLTogdfX0k86zYaSRdtMb5VxaaW%2bmRVLZ1kFuUjHoiU3DnKr1hwTFH2RjyVH0%2bkvoh5J2473p4WEAcwEGu0cbkopo0uGKBdgu45lweS1xncByHsc5RkSTt5XtJ4jYpzMHGU0JCobwocVoDRrWDIaByf6THsN8d28CiCvqU0mvdSGeyt9pZrFNIo3KeVbLuYHnmRx0uPU1z9aF2A03pcO1L5Ivg%3d&fich=AtividadesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "158feac9a195837800498c997c5f15d982e196bc878ba5194b23e12459159b60",
+  "legislatura": "IX",
+  "tipo": "Cerimónia",
+  "numero": "161248",
+  "data_registo": "2004-04-25",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "XXX Aniversário do \"25 de Abril\"",
+    "AutoresGP": null,
+    "Convidados": [
+      {
+        "cargo": "Presidente da República",
+        "honra": "S",
+        "nome": "Jorge Sampaio",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "1º Vice-Presidente da AN",
+        "honra": "N",
+        "nome": "João Manuel Lourenço",
+        "pais": "Angola"
+      },
+      {
+        "cargo": "Deputado",
+        "honra": "N",
+        "nome": "Mário de Alcântara Monteiro",
+        "pais": "Angola"
+      },
+      {
+        "cargo": "Deputado",
+        "honra": "N",
+        "nome": "Armindo Moisés Kassessa",
+        "pais": "Angola"
+      },
+      {
+        "cargo": "Presidente de Parlamento",
+        "honra": "N",
+        "nome": "Aristides Raimundo Lima",
+        "pais": "Cabo Verde"
+      },
+      {
+        "cargo": "Deputada",
+        "honra": "N",
+        "nome": "Elsa Soares",
+        "pais": "Cabo Verde"
+      },
+      {
+        "cargo": "Deputado",
+        "honra": "N",
+        "nome": "Mário Fernandes",
+        "pais": "Cabo Verde"
+      },
+      {
+        "cargo": "Deputado",
+        "honra": "N",
+        "nome": "Admilo Fernandes",
+        "pais": "Cabo Verde"
+      },
+      {
+        "cargo": "Funcionária",
+        "honra": "N",
+        "nome": "Nilce Rodrigues",
+        "pais": "Cabo Verde"
+      },
+      {
+        "cargo": "Segurança",
+        "honra": "N",
+        "nome": "Alberto Alves",
+        "pais": "Cabo Verde"
+      },
+      {
+        "cargo": "Presidente de Parlamento",
+        "honra": "N",
+        "nome": "Eduardo Joaquim Mulémbwè",
+        "pais": "Moçambique"
+      },
+      {
+        "cargo": "2º Vice-Presidente de Parlamento",
+        "honra": "N",
+        "nome": "Leopoldo Alfredo Ernesto",
+        "pais": "Moçambique"
+      },
+      {
+        "cargo": "Deputado",
+        "honra": "N",
+        "nome": "Sérgio Vieira",
+        "pais": "Moçambique"
+      },
+      {
+        "cargo": "Deputado",
+        "honra": "N",
+        "nome": "Raimundo Domingos Pachinuapa",
+        "pais": "Moçambique"
+      },
+      {
+        "cargo": "Chefe do Departamento",
+        "honra": "N",
+        "nome": "Paulino da Costa",
+        "pais": "Moçambique"
+      },
+      {
+        "cargo": "Segurança",
+        "honra": "N",
+        "nome": "Augusto Firmino",
+        "pais": "Moçambique"
+      },
+      {
+        "cargo": "Presidente de Parlamento",
+        "honra": "N",
+        "nome": "Dionísio Tomé Dias",
+        "pais": "São Tomé e Príncipe"
+      },
+      {
+        "cargo": "Deputado",
+        "honra": "N",
+        "nome": "Alcino Martinho de Barros Pinto",
+        "pais": "São Tomé e Príncipe"
+      },
+      {
+        "cargo": "Deputado",
+        "honra": "N",
+        "nome": "Edgar Manuel Azevedo Agostinho das Neves",
+        "pais": "São Tomé e Príncipe"
+      },
+      {
+        "cargo": "Deputado",
+        "honra": "N",
+        "nome": "Alberto da Trindade Luís",
+        "pais": "São Tomé e Príncipe"
+      },
+      {
+        "cargo": "Secretária",
+        "honra": "N",
+        "nome": "Josefina Sacramento Bargão",
+        "pais": "São Tomé e Príncipe"
+      },
+      {
+        "cargo": "Segurança",
+        "honra": "N",
+        "nome": "Daniel Afonso Pires Neto",
+        "pais": "São Tomé e Príncipe"
+      },
+      {
+        "cargo": "Presidente de Parlamento",
+        "honra": "N",
+        "nome": "Francisco Guterres Lu Olo",
+        "pais": "Timor-Leste"
+      },
+      {
+        "cargo": "Funcionário",
+        "honra": "N",
+        "nome": "Harold Moucho",
+        "pais": "Timor-Leste"
+      },
+      {
+        "cargo": "Presidente da República",
+        "honra": "N",
+        "nome": "Xanana Gusmão",
+        "pais": "Timor-Leste"
+      },
+      {
+        "cargo": "1ª Vice-Presidente do Congresso dos Deputado",
+        "honra": "N",
+        "nome": "Carmen Chacón Y Calvo",
+        "pais": "Espanha"
+      },
+      {
+        "cargo": "Ex-Presidente da República",
+        "honra": "N",
+        "nome": "Mário Soares",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Primeira Dama",
+        "honra": "N",
+        "nome": "Maria José Ritta",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": null,
+        "honra": "N",
+        "nome": "Margarida Sousa Uva",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Ex-Presidente da AR",
+        "honra": "N",
+        "nome": "Leonardo Ribeiro de Almeida",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Ex-Presidente da AR",
+        "honra": "N",
+        "nome": "Francisco Oliveira Dias",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Ex-Primeiro Ministro",
+        "honra": "N",
+        "nome": "General Vasco Gonçalves",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": null,
+        "honra": "N",
+        "nome": "Maria Barroso",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": null,
+        "honra": "N",
+        "nome": "Ana Perez",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Funcionária da AR",
+        "honra": "N",
+        "nome": "Rosa Nunes de Almeida",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Chefe de Gabinete da Primeira Dama",
+        "honra": "N",
+        "nome": "Seixas",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Presidente Supremo Tribunal de Justiça",
+        "honra": "N",
+        "nome": "Jorge Alberto Aragão Seia",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Presidente Tribunal Constitucional",
+        "honra": "N",
+        "nome": "Luis Nunes de Almeida",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Procurador Geral da República",
+        "honra": "N",
+        "nome": "Eduardo Souto Moura",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Presidente Supremo Tribunal Administrativo",
+        "honra": "N",
+        "nome": "Juiz Conselheiro Manuel Fernando dos Santos Serra",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Presidente Tribunal de Contas",
+        "honra": "N",
+        "nome": "Juiz Conselheiro Alfredo José de Sousa",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Ministro República para Madeira",
+        "honra": "N",
+        "nome": "Antero Alves Monteiro Diniz",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Provedor de Justiça",
+        "honra": "N",
+        "nome": "Henrique do Nascimento Rodrigues",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Chefe de Estado Maior General das Forças Armadas",
+        "honra": "N",
+        "nome": "Almirante José Manuel Garcia Mendes Cabeçadas",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Presidente Supremo Tribunal Militar",
+        "honra": "N",
+        "nome": "Almirante José Manuel Castanho Paes",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Presidente Assembleia Legislativa Regional dos Açores",
+        "honra": "N",
+        "nome": "Fernando Menezes",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Vice-Presidente Assembleia Legislativa Regional da Madeira",
+        "honra": "N",
+        "nome": "Miguel Sousa",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Presidente do Conselho Económico e Social",
+        "honra": "N",
+        "nome": "Alfredo Bruto da Costa",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Conselheiro de Estado",
+        "honra": "N",
+        "nome": "José Galvão Teles",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Conselheira de Estado",
+        "honra": "N",
+        "nome": "Maria Jesus Serra Lopes",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Conselheiro de Estado",
+        "honra": "N",
+        "nome": "Vítor Constancio",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Chefe do Estado Maior da Armada",
+        "honra": "N",
+        "nome": "Almirante Francisco António Torres Vidal Abreu",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Chefe do Estado Maior do Exército",
+        "honra": "N",
+        "nome": "General Luís Vasco Valença Pinto",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Chefe do Estado Maior da Força Aérea",
+        "honra": "N",
+        "nome": "General Manuel José Taveira Martins",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Vice-Presidente Supremo Tribunal de Justiça",
+        "honra": "N",
+        "nome": "Juiz Conselheiro José Moura Nunes da Cruz",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Tribunal Constitucional",
+        "honra": "N",
+        "nome": "Juiz Conselheiro Rui Moura Ramos",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Tribunal Constitucional",
+        "honra": "N",
+        "nome": "Juiz Conselheiro Gil Galvão",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Tribunal Constitucional",
+        "honra": "N",
+        "nome": "Juiza Conselheira Helena Brito",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Tribunal Constitucional",
+        "honra": "N",
+        "nome": "Juiz Conselheiro Artur Maurício",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Tribunal Constitucional",
+        "honra": "N",
+        "nome": "Juiza Conselheira Maria Prazeres Beleza",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Tribunal Constitucional",
+        "honra": "N",
+        "nome": "Juiz Conselheiro Paulo Mota Pinto",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Tribunal Constitucional",
+        "honra": "N",
+        "nome": "Juiz Conselheiro Vitor Gomes",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Secretário Regional Ambiente Açores",
+        "honra": "N",
+        "nome": "Helder Guerreiro Marques da Silva",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Presidente da Câmara Municipal de Lisboa",
+        "honra": "N",
+        "nome": "Pedro Santana Lopes",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Governador Civil de Lisboa",
+        "honra": "N",
+        "nome": "José Lino Ramos",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Presidente Alta Autoridade Comunicação Social",
+        "honra": "N",
+        "nome": "Juiz Conselheiro Armando Torres Paulo",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Presidente Comissão Nacional Protecção de Dados",
+        "honra": "N",
+        "nome": "Luis Lingnau da Silveira",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Presidente Comissão Acesso Documentos Administrativos",
+        "honra": "N",
+        "nome": "Juiz Conselheiro Agostinho de Castro Martins",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Comandante Naval",
+        "honra": "N",
+        "nome": "Almirante Américo Silva e Santos",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Governador Militar de Lisboa",
+        "honra": "N",
+        "nome": "Tenente General Armando de Almeida Martins",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Comandante Comando Operacional das Forças Terrestres",
+        "honra": "N",
+        "nome": "Tenente General António Abrantes",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Comandante Geral da GNR",
+        "honra": "N",
+        "nome": "Tenente General Mourato Nunes",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Director Nacional Adjunto da PSP",
+        "honra": "N",
+        "nome": "Superintendente Gaspar Fernandes",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Comandante Comando Operacional Força Aérea",
+        "honra": "N",
+        "nome": "Tenente General António José Martins de Matos",
+        "pais": "Portugal"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Núncio Apostólico da Santa Sé",
+        "pais": "Vaticano"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Líbia",
+        "pais": "Líbia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Lituânia",
+        "pais": "Lituânia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Bulgária",
+        "pais": "Bulgária"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador do Paquistão",
+        "pais": "Paquistão"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Hungria",
+        "pais": "Hungria"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da República Checa",
+        "pais": "Chéquia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador de Cuba",
+        "pais": "Cuba"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador do Peru",
+        "pais": "Peru"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da África do Sul",
+        "pais": "África do Sul"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Finlândia",
+        "pais": "Finlândia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Dinamarca",
+        "pais": "Dinamarca"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Tunísia",
+        "pais": "Tunísia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Sérvia e Montenegro",
+        "pais": "Sérvia e Montenegro"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador do Reino Unido",
+        "pais": "Reino Unido"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador de Israel",
+        "pais": "Israel"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Ucrânia",
+        "pais": "Ucrânia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Alemanha",
+        "pais": "Alemanha"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador de Moçambique",
+        "pais": "Moçambique"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Turquia",
+        "pais": "Turquia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Eslovénia",
+        "pais": "Eslovénia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador de Timor-Leste",
+        "pais": "Timor-Leste"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Rússia",
+        "pais": "Rússia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Guiné-Bissau",
+        "pais": "Guiné-Bissau"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da França",
+        "pais": "França"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Espanha",
+        "pais": "Espanha"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador do Japão",
+        "pais": "Japão"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Argentina",
+        "pais": "Argentina"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Colômbia",
+        "pais": "Colômbia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Noruega",
+        "pais": "Noruega"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador de Angola",
+        "pais": "Angola"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da China",
+        "pais": "China"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador de S. Tomé e Príncipe",
+        "pais": "São Tomé e Príncipe"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Letónia",
+        "pais": "Letónia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador do Luxemburgo",
+        "pais": "Luxemburgo"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador do Brasil",
+        "pais": "Brasil"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador do Canadá",
+        "pais": "Canadá"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Estónia",
+        "pais": "Estónia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Croácia",
+        "pais": "Croácia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador do Egipto",
+        "pais": "Egito"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Bélgica",
+        "pais": "Bélgica"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador do Chile",
+        "pais": "Chile"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Suíça",
+        "pais": "Suiça"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Argélia",
+        "pais": "Argélia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador do Irão",
+        "pais": "Irão"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Eslováquia",
+        "pais": "Eslováquia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Índia",
+        "pais": "India"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Tailândia",
+        "pais": "Tailândia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador de Itália",
+        "pais": "Itália"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Polónia",
+        "pais": "Polónia"
+      },
+      {
+        "cargo": "Delegado Geral",
+        "honra": "N",
+        "nome": "Delegado Geral da Palestina",
+        "pais": "Palestina"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador do Paraguai",
+        "pais": "Paraguai"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador do Congo",
+        "pais": "Congo"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Nigéria",
+        "pais": "Nigéria"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador de Marrocos",
+        "pais": "Marrocos"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Arábia Saudita",
+        "pais": "Arábia Saudita"
+      },
+      {
+        "cargo": "Encarregado de Negócios",
+        "honra": "N",
+        "nome": "Enc. Negócios de Cabo Verde",
+        "pais": "Cabo Verde"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador dos EUA",
+        "pais": "Estados Unidos da América"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Grécia",
+        "pais": "Grécia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador dos Países Baixos",
+        "pais": "Países Baixos"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Venezuela",
+        "pais": "Venezuela"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Coreia",
+        "pais": "República da Coreia"
+      },
+      {
+        "cargo": "Embaixador",
+        "honra": "N",
+        "nome": "Embaixador da Suécia",
+        "pais": "Suécia"
+      }
+    ],
+    "DataAgendamentoDebate": "2004-04-25",
+    "DataAnuncio": null,
+    "DataEntrada": "2004-04-25",
+    "DescTipo": "Cerimónia",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "IX",
+    "Numero": "161248",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "907033",
+        "obs": null,
+        "pag": [
+          "4380-4394"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-04-26",
+        "pubLeg": "IX",
+        "pubNr": "80",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/080/2004-04-26/4380?pgs=4380-4394&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "40",
+        "obs": null,
+        "pag": [
+          "4380-4394"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-04-26",
+        "pubLeg": "IX",
+        "pubNr": "80",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/080/2004-04-26/4380?pgs=4380-4394&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "SES",
+    "TipoAutor": null,
+    "VotacaoDebate": null
+  }
+}
