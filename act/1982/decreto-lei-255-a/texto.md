@@ -1,0 +1,48 @@
+Decreto-Lei n.º 255-A/82
+de 30 de Junho
+1. Na linha de orientação começada a definir pelo Decreto-Lei n.º 129/75, de 13 de Março, veio o Decreto-Lei n.º 765/76, de 22 de Outubro, restringir o âmbito de incidência do imposto de compensação aos veículos ligeiros de passageiros e ligeiros mistos, uns e outros de serviço particular.
+Tal medida acabaria por destruir, afinal, toda a filosofia que presidiria à criação do imposto, ou seja, a ideia base de que o seu objectivo nuclear seria compensar (e daí a sua designação) o Estado da utilização em veículos automóveis de carburantes ou combustíveis não onerados com os mesmos impostos incidentes sobre a gasolina.
+Saliente-se ainda que a grande parcela do sector automóvel afastada da incidência do imposto, ou dele isenta desde 1976, contribui, só por si, para cerca de 85% do consumo de gasóleo na estrada.
+Parece, pois, evidente - e elementar consequência do princípio da igualdade tributária - a necessidade de se redefinir o âmbito de incidência do imposto, por forma que, sem prejuízo das necessárias adaptações à conjuntura sócio-económica actual, ele reassuma a sua razão de ser inicial, voltando a abarcar todo o parque automóvel utilizador de carburantes ou combustíveis não sujeitos aos mesmos impostos que oneram a gasolina.
+2. Por outro lado, e para além de se manterem todas as situações de isenção subjectiva já hoje existentes (Estado e seus serviços personalizados, corpos administrativos, associações de bombeiros, associações de beneficência, misericórdias, etc.), estabelecem-se agora - à semelhança do que sucede já noutros impostos - outras, das quais cumpre destacar, atenta a sua projecção social, a relativa aos deficientes.
+Do mesmo modo, e tomada em conta a sua importante função sócio-económica, entendeu-se deverem ficar isentos, na sua totalidade, os veículos afectos ao serviço público, os veículos de caixa aberta pertencentes a empresários agrícolas e licenciados para o transporte exclusivo de produtos agrícolas ou directamente ligados à agricultura e os tractores agrícolas.
+De realçar também que a reposição do imposto relativamente aos veículos de mercadorias e ligeiros mistos de peso bruto superior a 2500 kg virá pôr cobro a situações de flagrante evasão fiscal, dado a prática ter revelado que, quer estes últimos, quer aqueles (quando ligeiros e de caixa fechada), eram utilizados preponderante ou mesmo exclusivamente como automóveis de passageiros.
+Todavia, o impacte que a imediata uniformização do imposto poderia provocar junto daqueles que até ao presente não o pagavam aconselha a que, numa primeira fase, fiquem sujeitos a um imposto igual à diferença da taxa que agora se revê, a fim de poderem gradualmente adaptar-se ao seu aumento.
+3. Por último, recorde-se que a taxa actual se encontra em vigor desde 1 de Outubro de 1979 (Decreto-Lei n.º 374-M/79, de 10 de Setembro), não tendo, pois, e desde aí, sido objecto de qualquer revisão, não obstante os posteriores aumentos do preço dos combustíveis, com maior incidência, aliás, no caso da gasolina que no do gasóleo. Também neste domínio, portanto, o princípio da igualdade tributária impunha a respectiva actualização.
+Finalmente, e sem prejuízo de uma - aliás, já encetada - revisão global da estrutura do imposto, aproveita-se a oportunidade para se introduzir já uma significativa alteração às regras de liquidação do mesmo.
+Nestes termos:
+Usando da autorização legislativa concedida pelo artigo 28.º da Lei n.º 40/81, de 31 de Dezembro:
+O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Os artigos 22.º e 23.º do Decreto-Lei n.º 45331, de 28 de Outubro de 1963, passam a ter a seguinte redacção:
+Art. 22.º Os proprietários dos veículos automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos no Decreto-Lei n.º 32440, de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão um imposto de compensação da seguinte taxa anual:
+a) Veículos ligeiros de passageiros e mistos até 2500 kg de peso bruto ... 42000$00
+b) Os restantes veículos ... 12000$00
+Art. 23.º - 1 - Estão isentos do imposto de compensação:
+a) O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados;
+b) As autarquias locais e as suas federações, uniões e associações;
+c) As pessoas colectivas de utilidade pública e utilidade pública administrativa;
+d) Os Estados estrangeiros, quando haja reciprocidade de tratamento;
+e) O pessoal das missões diplomáticas e consulares, nos termos das respectivas convenções;
+f) As organizações estrangeiras ou internacionais, nos termos dos acordos celebrados pelo Estado português;
+g) Os deficientes cujo grau de invalidez seja igual ou superior a 60%.
+2 - Ficam igualmente isentos:
+a) Os veículos pesados de passageiros;
+b) Os veículos licenciados para transportes públicos, bem como para aluguer sem condutor;
+c) Os veículos matriculados para o serviço de instrução, para o de venda e os que circulem com as chapas de trânsito a que se referem o Decreto-Lei n.º 40995, de 9 de Fevereiro de 1957, e a Portaria n.º 20393, de 26 de Fevereiro de 1964, ou outras cuja obrigatoriedade, para fins semelhantes, venha a ser legalmente instituída;
+d) Os tractores agrícolas;
+e) Os veículos de mercadoria de caixa aberta pertencentes a empresários agrícolas, quando licenciados para o transporte exclusivo de produtos agrícolas ou directamente ligados à agricultura;
+f) Os automóveis ligeiros de passageiros matriculados anteriormente a 1950, desde que constituam património a preservar, reconhecido pela DGTT.
+3 - A isenção prevista na alínea g) do n.º 1 deste artigo não pode ser fruída por cada beneficiário em relação a mais de um veículo, e dela só aproveitarão os veículos de cilindrada não superior a 1750 cm3 e cuja propriedade esteja registada unicamente a favor do beneficiário.
+4 - O grau de invalidez deverá ser provado mediante a exibição do cartão de deficiente das forças armadas ou em face de documento emitido por entidade competente para o efeito.
+5 - A situação de isenção consignada para os veículos em serviço de venda só terá lugar desde que haja sido requerida pelo respectivo titular do registo de propriedade a inscrição para tal serviço ou a continuação de tal inscrição e tenha sido efectuado o depósito dos seus documentos na Direcção-Geral de Transportes Terrestres.
+6 - Os veículos abrangidos pelo número anterior só poderão circular desde que estejam comprovadamente a ser utilizados em serviço de experiência ou demonstração ou ainda quando se desloquem entre estabelecimentos de venda e de ou para fábricas de montagem ou oficinas de reparação.
+Art. 2.º As instituições privadas de solidariedade social às quais tenha sido reconhecida a isenção do imposto de compensação, mas que se não encontrem ainda registadas nos termos do estatuto aprovado pelo Decreto-Lei n.º 519-G2/79, de 29 de Dezembro, deverão, para efeitos de manutenção de tal benefício, proceder àquele registo dentro dos seis meses seguintes à publicação deste diploma.
+Art. 3.º - 1 - As prestações do imposto de compensação são sempre devidas por inteiro e uma única vez em cada trimestre, independentemente da verificação de quaisquer alterações à situação do veículo durante aquele período.
+2 - Quando de facto gerador da obrigação tributária ocorrer no último mês do trimestre, só é devido o imposto a partir do trimestre seguinte.
+3 - O disposto no número anterior não se aplica a situações de perda da isenção transitória prevista no artigo 24.º do Decreto-Lei n.º 45331, de 28 de Outubro de 1963.
+Art. 4.º O Governo elaborará o regulamento para a boa execução do presente diploma, através do qual, designadamente, se fixarão as competências em matéria de liquidação e revisão tributária, o sistema e a forma de cobrança e as penalidades.
+Art. 5.º O disposto nos artigos 1.º e 3.º deste diploma produz efeitos a partir de 1 de Julho do corrente ano.
+Visto e aprovado em Conselho de Ministros de 29 de Junho de 1982. - Diogo Pinto Freitas do Amaral - João Maurício Fernandes Salgueiro.
+Promulgado em 30 de Junho de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
