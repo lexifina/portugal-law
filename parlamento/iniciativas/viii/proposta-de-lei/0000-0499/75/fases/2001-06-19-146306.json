@@ -1,0 +1,552 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "75",
+    "id": "18546",
+    "titulo": "Autoriza o Governo a atribuir e transferir competencias relativamente a um conjunto de processos especiais dos tribunais judiciais para o Ministério Público, as conservatórias do registo civil, predial, comercial e automóvel e os cartórios notariais"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-06-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1936",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-06-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-06-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138873",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3783-3788",
+                  "3794-3796"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3783?pgs=3783-3788,3794-3796&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a atribuir e transferir competências relativamente a um conjunto de processos especiais dos tribunais judiciais para o Ministério Público, as conservatórias de registo civil, predial, comercial e automóvel e os cartórios notariais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138875",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3785-3785",
+                  "3793-3794"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3785?pgs=3785,3793-3794&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a atribuir e transferir competências relativamente a um conjunto de processos especiais dos tribunais judiciais para o Ministério Público, as conservatórias de registo civil, predial, comercial e automóvel e os cartórios notariais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138876",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3786-3786"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3786?pgs=3786&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a atribuir e transferir competências relativamente a um conjunto de processos especiais dos tribunais judiciais para o Ministério Público, as conservatórias de registo civil, predial, comercial e automóvel e os cartórios notariais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138877",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3786-3787"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3786?pgs=3786-3787&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a atribuir e transferir competências relativamente a um conjunto de processos especiais dos tribunais judiciais para o Ministério Público, as conservatórias de registo civil, predial, comercial e automóvel e os cartórios notariais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138883",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3788-3789"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3788?pgs=3788-3789&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a atribuir e transferir competências relativamente a um conjunto de processos especiais dos tribunais judiciais para o Ministério Público, as conservatórias de registo civil, predial, comercial e automóvel e os cartórios notariais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1245",
+                "nome": "António Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138886",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3789-3790"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3789?pgs=3789-3790&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a atribuir e transferir competências relativamente a um conjunto de processos especiais dos tribunais judiciais para o Ministério Público, as conservatórias de registo civil, predial, comercial e automóvel e os cartórios notariais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138890",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3790-3791"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3790?pgs=3790-3791&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a atribuir e transferir competências relativamente a um conjunto de processos especiais dos tribunais judiciais para o Ministério Público, as conservatórias de registo civil, predial, comercial e automóvel e os cartórios notariais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138899",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3791-3791",
+                  "3796-3796"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3791?pgs=3791,3796&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a atribuir e transferir competências relativamente a um conjunto de processos especiais dos tribunais judiciais para o Ministério Público, as conservatórias de registo civil, predial, comercial e automóvel e os cartórios notariais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1166",
+                "nome": "Claudio Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138900",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3791-3794"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3791?pgs=3791-3794&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a atribuir e transferir competências relativamente a um conjunto de processos especiais dos tribunais judiciais para o Ministério Público, as conservatórias de registo civil, predial, comercial e automóvel e os cartórios notariais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1245",
+                "nome": "António Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138902",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3793-3793",
+                  "3796-3796"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3793?pgs=3793,3796&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a atribuir e transferir competências relativamente a um conjunto de processos especiais dos tribunais judiciais para o Ministério Público, as conservatórias de registo civil, predial, comercial e automóvel e os cartórios notariais",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146306",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1936",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-06-20",
+        "pubLeg": "VIII",
+        "pubNr": "97",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
