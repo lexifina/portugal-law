@@ -1,0 +1,6 @@
+Rectificação n.º 20/91
+Declara-se que a Resolução da Assembleia da República n.º 7/91, de 14 de Fevereiro, que aprova, para ratificação, o Acordo de Cooperação Jurídica e Judiciária entre a República Portuguesa e a República Popular de Moçambique, publicada no Diário da República, n.º 37, de 14 de Fevereiro de 1991, saiu com as seguintes inexactidões no anexo, que assim se rectificam:
+No n.º 2 do artigo 85.º, onde se lê «No acto de notificação do condenado será o mesmo informado que» deve ler-se «No acto de notificação do condenado será o mesmo informado de»;
+Na alínea a) do n.º 2 do mesmo artigo, onde se lê «Que foi apresentado um pedido de execução, sem conformidade com o presente subtítulo» deve ler-se «Que foi apresentado um pedido de execução, em conformidade com o presente subtítulo»;
+No n.º 3 do artigo 88.º, onde se lê «Se o condenado comparecer pessoalmente ou estiver representado segundo a lei do Estado requerido, o facto será julgado como se for» deve ler-se «Se o condenado comparecer pessoalmente ou estiver representado segundo a lei do Estado requerido, o facto será julgado como se fora».
+Assembleia da República, 28 de Novembro de 1991. - O Secretário-Geral da Assembleia da República Substituto, Mário Costa Pinto Marchante.
