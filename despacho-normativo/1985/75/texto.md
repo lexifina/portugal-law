@@ -1,0 +1,4 @@
+Despacho Normativo n.º 75/85
+Nos termos do n.º 8 do Despacho Normativo n.º 1/80, de 17 de Dezembro de 1979, publicado no Diário da República, 1.ª série, n.º 3, de 4 de Janeiro de 1980, por proposta da Direcção-Geral de Geologia e Minas e ouvida a Direcção-Geral do Ensino Secundário, determina-se o seguinte:
+O curso de prospector da extinta Junta de Energia Nuclear é reconhecido como curso de formação técnico-profissional complementar apenas para efeitos de provimento de pessoal no âmbito da Direcção-Geral de Geologia e Minas, beneficiando assim do disposto no n.º 2 do artigo 10.º do Decreto-Lei n.º 191-C/79, de 25 de Junho.
+Presidência do Conselho de Ministros e Ministério da Educação, 23 de Julho de 1985. - O Ministro da Educação, João de Deus Rogado Salvador Pinheiro. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
