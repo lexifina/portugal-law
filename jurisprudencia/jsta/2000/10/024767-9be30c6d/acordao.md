@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal Administrativo de 2000-10-04, processo 024767
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 024767
+
+**Data do Acordão:** 10/04/2000
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** MENDES PIMENTEL
+
+**Descritores:** CONTRA-ORDENAÇÃO FISCAL NÃO ADUANEIRA.; PRESCRIÇÃO DO PROCEDIMENTO.
+
+**Nº Convencional:** JSTA00054619
+
+**Nº do Documento:** SA220001004024767
+
+**Data de Entrada:** 02/02/2000
+
+**Recorrente:** EMATEXTIL-EMP FABRIL DE MALHAS SA
+
+**Recorrido 1:** FAZENDA PÚBLICA
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TT1INST DO PORTO 2º JUÍZO.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - CONTRA ORDENAÇÃO.
+
+**Legislação Nacional:** CIRS88 ART29 N2 ART29 N4 ART29 N9 ART91.; CPTRIB91 ART35 N1.; RJIFNA90 ART29.; CCIV67 ART297 N2.; DL 433/82 DE 1982/10/27 ART4 N2 ART3 N2 ART27.; CP82 ART119 ART120.
+
+**Jurisprudência Nacional:** AC STA PROC13148 IN AP-DR DE 1993/09/23 PAG372-377.; AC STA PROC11948 DE 1990/11/07.; AC STA PROC15195 DE 1993/10/06.; AC STJ DE 1988/10/19 IN BMJ N380 PAG259.; ASSENTO STJ DE 1989/02/15 IN DR IS DE 1989/03/17.; AC TC 227/92 DE 1992/06/17 IN DR IIS N211 DE 1992/09/12 PAG8498.
+
+**Referência a Doutrina:** G. CANOTILHO E VITAL MOREIRA CONSTITUIÇÃO DA REPÚBLICA 2ED VI PAG208.; NUNO SÁ GOMES CIÊNCIA E TÉCNICA FISCAL N358 PAG16.; ALFREDO JOSÉ DE SOUSA INFRACÇÕES FISCAIS NÃO ADUANEIRAS PAG32.; SOARES MARTINEZ MANUAL DE DIREITO FISCAL COIMBRA 1989 PAG148.; FIGUEIREDO DIAS O MOVIMENTO DE DESCRIMINALIZAÇÃO E O ILÍCITO DE MERA ORDENAÇÃO SOCIAL IN JORNADAS DE DIREITO CRIMINAL CEJ PAG330.; CAVALEIRO FERREIRA DIREITO PENAL PORTUGUÊS VI PAG17.; TERESA PIZARRO BELEZA DIREITO PENAL VI 1980 EDAAFDL PAG120.
+
+## Sumário
+
+Por mais favorável à arguida, é de aplicar o regime decorrente do RJIFNA ao prazo de prescrição do procedimento por contra-ordenações p. e p. pelas disposições conjugadas dos artigos 91º do CIRS e 29º, 2 e 4, daquele diploma, consumadas em 1990.
+
+Não, pois, o do artigo 35º, 1, do CPT, como entendido em 1ª Instância.
