@@ -18,7 +18,7 @@ f) Certificado internacional das linhas de carga ou certificado das linhas de á
 
 g) Impresso para informação das condições em que foi feito o carregamento;
 
-h) Certificado de inspecção dos meios de salvação;
+h) (Revogada.)
 
 i) Certificados e outros documentos do Regulamento do Serviço Radioeléctrico das Embarcações (R. S. R. E.);
 
