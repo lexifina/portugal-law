@@ -10,12 +10,14 @@
 
 4 - O acto administrativo que conceda um benefício fiscal não é revogável nem pode rescindir-se o respectivo acordo de concessão, ou ainda diminuir-se, por acto unilateral da administração tributária, os direitos adquiridos, salvo se houver inobservância imputável ao beneficiário das obrigações impostas, ou se o benefício tiver sido indevidamente concedido, caso em que aquele acto pode ser revogado.
 
-5 - No caso de benefícios fiscais permanentes ou temporários dependentes de reconhecimento da administração tributária o acto administrativo que os concedeu suspende os seus efeitos se se verificarem cumulativamente as seguintes situações:
+5 - No caso de benefícios fiscais permanentes ou temporários dependentes de reconhecimento da administração tributária o acto administrativo que os concedeu cessa os seus efeitos nas seguintes situações:
 
 a) O sujeito passivo tenha deixado de efectuar o pagamento de qualquer imposto sobre o rendimento, a despesa ou o património, e das contribuições relativas ao sistema da segurança social e se mantiver a situação de incumprimento;
 
-b) A dívida não tenha sido objecto de reclamação, impugnação ou oposição com a prestação de garantia idónea, quando exigível, for igual ou superior a (euro) 500 e represente, no mínimo, 10% ou 30% da totalidade dos benefícios fiscais no caso de pessoas colectivas ou de pessoas singulares, respectivamente.
+b) A dívida não tenha sido objecto de reclamação, impugnação ou oposição com a prestação de garantia idónea, quando exigível.
 
-6 - Verificando-se as situações previstas nas alíneas a) e b) do número anterior os benefícios automáticos não produzem efeitos no ano em que ocorram os seus pressupostos, até ao pagamento da dívida que originou a sua suspensão.
+6 - Verificando-se as situações previstas nas alíneas a) e b) do número anterior os benefícios automáticos não produzem os seus efeitos no ano ou período de tributação em que ocorram os seus pressupostos.
 
-7 - É proibida a renúncia aos benefícios fiscais automáticos e dependentes de reconhecimento oficioso, sendo, porém, permitida a renúncia definitiva aos benefícios fiscais dependentes de requerimento do interessado, bem como aos constantes de acordo, desde que aceite pela administração fiscal.
+7 - O disposto nos números anteriores aplica-se sempre que as situações previstas nas alíneas a) e b) do n.º 5 ocorram, relativamente aos impostos periódicos, no final do ano ou período de tributação em que se verificou o facto tributário e, nos impostos de obrigação única, na data em que o facto tributário ocorreu.
+
+8 - É proibida a renúncia aos benefícios fiscais automáticos e dependentes de reconhecimento oficioso, sendo, porém, permitida a renúncia definitiva aos benefícios fiscais dependentes de requerimento do interessado, bem como aos constantes de acordo, desde que aceite pela administração fiscal.
