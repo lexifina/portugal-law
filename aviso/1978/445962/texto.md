@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros enviou à Embaixada da República Popular da Bulgária uma nota verbal, datada de 17 de Fevereiro de 1978, informando que a parte portuguesa dera cumprimento às formalidades constitucionais relativas à entrada em vigor do Acordo Relativo à Navegação Comercial entre o Governo da República Portuguesa e o Governo da República Popular da Bulgária, assinado em Lisboa em 23 de Outubro de 1975, e publicado no Diário da República, 1.ª série, n.º 138, de 17 de Junho de 1977, em resposta a uma nota verbal daquela Embaixada que informava estarem aquelas formalidades cumpridas pela parte búlgara.
+Nesta conformidade, e segundo o disposto no seu artigo 12, o Acordo em apreço entrou em vigor no dia 17 de Fevereiro de 1978.
+Direcção-Geral dos Negócios Económicos, 21 de Fevereiro de 1978. - O Director-Geral Adjunto, Paulo Ennes.
