@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 61/2004
+Para os devidos efeitos se declara que o Decreto Regulamentar Regional n.º 16/2004/A, publicado no Diário da República, 1.ª série, n.º 131, de 4 de Junho de 2004, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No último parágrafo do preâmbulo, relativo às normas habilitantes do diploma, onde se lê «Nos termos do n.º 5 do artigo 231.º da Constituição e da alínea p) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores» deve ler-se «Nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição e da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores».
+Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Junho de 2004. - O Secretário-Geral, José M. Sousa Rego.
