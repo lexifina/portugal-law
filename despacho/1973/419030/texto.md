@@ -1,0 +1,3 @@
+Despacho
+Considerando as necessidades de financiamento no sector das pescas tal como são contempladas no III Plano de Fomento, é autorizado o Fundo de Renovação e de Apetrechamento da Indústria da Pesca a contrair na Caixa Geral de Depósitos, Crédito e Previdência, ao abrigo do Decreto-Lei n.º 268/71, de 18 de Junho, um empréstimo até 225000000$00, à taxa de juro de 6,25% ao ano, amortizável em vinte semestralidades iguais e seguidas, vencendo-se a primeira seis meses após o termo do período de utilização, que será de um ano a contar da realização do contrato.
+Ministérios das Finanças e da Marinha, 19 de Julho de 1973. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro da Marinha, Manuel Pereira Crespo.
