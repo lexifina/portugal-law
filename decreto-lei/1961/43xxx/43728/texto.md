@@ -1,0 +1,8 @@
+Decreto-Lei n.º 43728
+Na sequência de disposições já tomadas com vista a melhorar o rendimento do trabalho burocrático, incluem-se no presente diploma providências relativas a pessoal que vêm permitir à Administração mais facilidades de recrutamento e maior rapidez no preenchimento de determinadas vagas.
+Testes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Os primeiros-oficiais dos quadros permanentes do Estado com mais de três anos de serviço efectivo poderão, mediante autorização ministerial, ser nomeados interinamente e por período não superior a um ano para o desempenho do cargo de chefe de secção, quando nos quadros a que pertencem se verifiquem vagas nesta categoria que não possam ser imediatamente preenchidas por não existirem funcionários aprovados em concurso.
+Art. 2.º É revogado o artigo 45.º da 3.ª Carta de Lei de 9 de Setembro de 1908.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 12 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
