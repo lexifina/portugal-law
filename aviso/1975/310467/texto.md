@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros enviou à Embaixada da Roménia em Lisboa uma nota verbal, datada de 18 de Outubro de 1975, informando que a Parte Portuguesa dera já cumprimento às formalidades constitucionais relativas à elaboração e entrada em vigor do Acordo de Comércio a longo prazo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia, assinado em Bucareste em 14 de Junho de 1975 e publicado no Diário do Governo, 1.ª série, n.º 232, de 7 de Outubro de 1975, em resposta a uma nota verbal daquela Embaixada, datada de 15 de Agosto último, que informou estarem cumpridas as mesmas formalidades pela Parte Romena.
+Nesta conformidade e segundo o disposto no seu artigo 10.º, o Acordo em apreço entrou em vigor no dia 18 de Outubro de 1975.
+Direcção-Geral dos Negócios Económicos, 3 de Novembro de 1975. - O Director-Geral-Adjunto, Fernando Manuel da Silva Marques.
