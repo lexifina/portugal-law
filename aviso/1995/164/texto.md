@@ -1,0 +1,4 @@
+Aviso n.º 164/95
+Por ordem superior se torna público que foram trocados em Lisboa, a 28 de Junho de 1995, os instrumentos de ratificação da Convenção entre a República Portuguesa e o Reino de Espanha para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e respectivo Protocolo, assinados em Madrid em 26 de Outubro de 1993 e aprovados, para ratificação, pela Resolução da Assembleia da República n.º 6/95, de 29 de Junho de 1994, e ratificados pelo Decreto do Presidente da República n.º 14/95, de 12 de Janeiro, publicado no Diário da República, n.º 24, de 28 de Janeiro de 1995.
+Nesta conformidade, e segundo o disposto no seu artigo 28.º, a Convenção e o respectivo Protocolo entraram em vigor em 28 de Junho de 1995.
+Direcção-Geral dos Assuntos Comunitários, 3 de Julho de 1995. - O Subdirector-Geral, Francisco Seixas da Costa.
