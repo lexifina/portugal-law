@@ -1,0 +1,8 @@
+Despacho Normativo n.º 38-A/2002
+O sector dos transportes públicos colectivos de passageiros tem-se ressentido fortemente do facto de o aumento dos seus preços não acompanhar a inflação. Essas diferenças de ritmos de crescimento - ampliadas sobretudo nos anos 80 - têm hoje um efeito acumulado muito considerável que deve ser progressivamente neutralizado, sob pena de se pôr em causa o serviço público que é prestado.
+Com efeito, nem o aumento dos custos de produção do sector, agravados com o dos combustíveis, nem as melhorias de qualidade da oferta tiveram repercussão nas tarifas, designadamente no último aumento tarifário do passado mês de Março.
+Assim, a título excepcional e ao abrigo do disposto na alínea b) do n.º 2 do artigo 10.º do Decreto-Lei n.º 8/93, de 11 de Janeiro, determina-se o seguinte:
+1 - É fixada em 3,5% a percentagem máxima de aumento médio para os transportes urbanos de Lisboa e do Porto, para os transportes colectivos rodoviários interurbanos de passageiros e para os transportes ferroviários e fluviais.
+2 - Por despacho do director-geral de Transportes Terrestres será definida a tabela do preço máximo de referência do quilómetro rodoviário interurbano.
+3 - Os preços decorrentes da execução do presente despacho poderão ser aplicados pelos operadores a partir de 1 de Agosto de 2002.
+Ministérios das Finanças, da Economia e das Obras Públicas, Transportes e Habitação, 12 de Julho de 2002. - A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Obras Públicas, Transportes e Habitação, Luís Francisco Valente de Oliveira.
