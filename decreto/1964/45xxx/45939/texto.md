@@ -1,0 +1,11 @@
+Decreto n.º 45939
+Conforme dispõe o Decreto n.º 30270, de 12 de Janeiro de 1940, compete à Comissão Reguladora dos Produtos Químicos e Farmacêuticos assegurar a regularidade na distribuição das matérias-primas e dos produtos que lhe estão afectos, garantindo o conveniente abastecimento das actividades que os utilizam.
+Verifica-se, porém, que tanto as disposições daquele diploma como as do Decreto n.º 38909, de 12 de Setembro de 1952, que ampliou a função reguladora do organismo, são omissas quanto à criação dos meios de armazenagem que, no caso de certos produtos como os fertilizantes e o sal, podem ser de grande utilidade para a regularização do abastecimento.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizada a Comissão Reguladora dos Produtos Químicos e Farmacêuticos a promover a instalação de armazéns destinados a produtos que lhe estejam afectos, com o objectivo de assegurar a regularidade do abastecimento público e de garantir o justo preço daqueles produtos.
+Art. 2.º Para os efeitos do disposto no artigo anterior, a Comissão Reguladora dos Produtos Químicos e Farmacêuticos poderá adquirir terrenos, construir, comprar ou arrendar imóveis e custear as despesas de manutenção e funcionamento de armazéns, quer por força das receitas próprias, quer de outras verbas que sejam postas à sua disposição para tal fim, devendo observar-se, no caso de arrendamento, o disposto no § 2.º do artigo 23.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957.
+Art. 3.º A Comissão Reguladora dos Produtos Químicos e Farmacêuticos, quando o julgue conveniente, poderá confiar a exploração dos armazéns que possua a organismos corporativos, celebrando com eles os necessários contratos.
+Art. 4.º Mediante proposta fundamentada, o Secretário de Estado do Comércio poderá autorizar a Comissão Reguladora dos Produtos Químicos e Farmacêuticos a conceder empréstimos a organismos corporativos que se proponham construir armazéns destinados aos produtos sujeitos à disciplina daquele organismo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 24 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Luís Maria Teixeira Pinto - Armando Ramos de Paula Coelho.
