@@ -1,0 +1,8 @@
+Decreto-Lei n.º 43802
+Considerando os novos e crescentes encargos que advieram à Liga dos Combatentes como consequência da obra social que lhe cumpre alargar, nos termos do estatuto aprovado pela Portaria n.º 18053, de 11 de Novembro de 1960;
+Atendendo à necessidade, que se impõe, de se darem à prestante instituição os meios necessários ao exercício da sua acção patriótica e de assistência, que interessa assegurar;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É elevado para 50$00 o valor da estampilha da Liga das Combatentes da Grande Guerra, cuja venda e incidência são presentemente reguladas pelo Decreto n.º 13670, de 26 de Maio de 1927, Decreto-Lei n.º 41647 e Decreto n.º 41648, de 26 de Maio de 1958.
+Art. 2.º A fiscalização da incidência da estampilha a que se refere o artigo anterior incumbe directamente às autoridades civis e militares competentes.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 19 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
