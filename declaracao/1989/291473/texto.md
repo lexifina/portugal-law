@@ -1,0 +1,5 @@
+Declaração
+Segundo comunicação do Ministério das Obras Públicas, Transportes e Comunicações, a Portaria n.º 251/89, publicada no Diário da República, 1.ª série, n.º 80, de 6 de Abril de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 32.º, n.º 2, alínea a), do regulamento, onde se lê «Estar habilitado com um curso de formação profissional para electricista ou seis anos de» deve ler-se «Estar habilitado com um curso de formação profissional para electricista e seis anos de».
+No artigo 33.º, n.º 2, alínea a), do regulamento, onde se lê «Estar habilitado com um curso de formação profissional da área ocupacional de mecânica ou seis anos» deve ler-se «Estar habilitado com um curso de formação profissional da área ocupacional de mecânica e seis anos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Agosto de 1989. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, José Serra.
