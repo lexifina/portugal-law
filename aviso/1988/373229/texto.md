@@ -1,0 +1,3 @@
+Aviso
+Para os devidos efeitos se torna público que, em virtude das obrigações decorrentes do ingresso de Portugal nas Comunidades Europeias em 1 de Janeiro de 1986, foi denunciado, segundo o calendário estabelecido pela Comissão da referida Comunidade, por meio de nota endereçada à Embaixada da República Popular da Hungria em Lisboa, o Acordo sobre Trocas Comerciais e o Desenvolvimento de Cooperação Económica, Industrial e Técnica, assinado entre os Governos daquele país e da República Portuguesa em 23 de Janeiro de 1975 e publicado no Diário do Governo, 1.ª série, n.º 274, de 26 de Novembro de 1975.
+Direcção-Geral dos Negócios Político-Económicos, 27 de Junho de 1988. - O Director de Serviços da Europa, Afonso Maria Teixeira da Mota.
