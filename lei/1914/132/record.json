@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1914/04/05200/02050206.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1914-04-04",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "dfacbde582de3c2c6227527cab18c5329771c8c5bc1419ba8512f0535db86df8",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "d75a2cec0bd7b1ac472494f2367518790b39cef940e3c5923c116f69f3196e1c",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 226
 }
