@@ -1,0 +1,3 @@
+Despacho Normativo n.º 44/83
+Ao abrigo do disposto nos n.os 1 e 3 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, são autorizadas as embalagens com os conteúdos líquidos de 16 g, 120 g e 1 kg e a alteração do teor em substância activa de 50% para 25%, relativamente aos produtos fitofarmacêuticos com base em azinfos-metilo, formulados em pó molhável.
+Secretarias de Estado da Produção Agrícola e do Comércio, 17 de Janeiro de 1983. - O Secretário de Estado da Produção Agrícola, José Vicente Carvalho Cardoso. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
