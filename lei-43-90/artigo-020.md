@@ -1,13 +1,15 @@
 # Artigo 20.º
 
-### Poderes da comissão
+### Apreciação pelo Plenário
 
-1 - A comissão pode ouvir os peticionantes, solicitar depoimentos de quaisquer cidadãos e requerer e obter informações e documentos de outros órgãos de soberania ou de quaisquer entidades públicas ou privadas, sem prejuízo do disposto na lei sobre segredo de Estado, segredo de justiça ou sigilo profissional, podendo solicitar à Administração Pública as diligências que se mostrem necessárias.
+1 - As petições são apreciadas em Plenário sempre que se verifique uma das condições seguintes:
 
-2 - A audição dos peticionantes é obrigatória sempre que a petição seja subscrita por mais de 2000 cidadãos.
+a) Sejam subscritas por mais de 4000 cidadãos;
 
-3 - Após exame da questão suscitada pelo peticionante, a comissão poderá solicitar, sob proposta do relator, que as entidades competentes tomem posição sobre a matéria.
+b) Seja elaborado relatório e parecer favorável à sua apreciação em Plenário, devidamente fundamentado, tendo em conta, em especial, o âmbito dos interesses em causa, a sua importância social, económica ou cultural e a gravidade da situação objecto da petição.
 
-4 - O cumprimento do solicitado tem prioridade sobre quaisquer outros serviços da Administração Pública, devendo ser efectuado no prazo máximo de 20 dias.
+2 - As petições que, nos termos do número anterior, estejam em condições de serem apreciadas pelo Plenário são enviadas ao Presidente da Assembleia da República, para agendamento, acompanhadas dos relatórios devidamente fundamentados e dos elementos instrutórios, se os houver.
 
-5 - As solicitações previstas neste artigo devem referir a presente lei e transcrever o número anterior, bem como o artigo 19.º
+3 - A matéria constante da petição não é submetida à votação, mas, com base na mesma, qualquer Deputado ou grupo parlamentar pode exercer o direito de iniciativa, nos termos regimentais, e, aquando da apreciação desta, será avocada a petição.
+
+4 - Do que se passar será dado conhecimento ao primeiro signatário da petição, a quem será enviado um exemplar do número do Diário da Assembleia da República em que se mostre reproduzido o debate, a eventual apresentação de qualquer proposta com ele conexa e o resultado da respectiva votação.

@@ -1,15 +1,7 @@
 # Artigo 18.º
 
-### Registo informático
+### Diligência conciliadora
 
-1 - Por forma a assegurar a gestão e publicitação adequadas das petições que lhe sejam remetidas, a Assembleia da República organiza e mantém actualizado um sistema de registo informático da recepção e tramitação de petições.
+1 - Concluídos os procedimentos previstos no artigo 17.º, a comissão pode ainda realizar uma diligência conciliadora, desde que esta seja devidamente justificada.
 
-2 - A Assembleia da República disponibiliza uma plataforma eletrónica para receção de petições e recolha de assinaturas pela Internet, a qual contém uma declaração de aceitação dos termos e condições da sua utilização pelos peticionários, com indicação dos prazos de recolha de assinaturas.
-
-3 - A existência desta plataforma não prejudica a recolha cumulativa ou alternativa de assinaturas em suporte de papel ou através de outras plataformas eletrónicas, que garantam o cumprimento das exigências legais.
-
-4 - A Assembleia da República verifica a validade dos endereços de correio eletrónico, cuja indicação é obrigatória pelos subscritores que utilizam a plataforma eletrónica.
-
-5 - A Assembleia da República pode solicitar aos serviços competentes da Administração Pública a verificação administrativa, por amostragem, da autenticidade da identificação dos subscritores da petição.
-
-6 - A Assembleia da República disponibiliza informação completa sobre as petições apresentadas, incluindo o seu texto integral e respetiva tramitação.
+2 - Havendo diligência conciliadora, o presidente da comissão convidará a entidade em causa no sentido de poder corrigir a situação ou reparar os efeitos que deram origem à petição.
