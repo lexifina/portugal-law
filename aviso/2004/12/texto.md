@@ -1,0 +1,5 @@
+Aviso n.º 12/2004
+Por ordem superior se torna público que, em 17 de Dezembro de 2002 e em 24 de Março de 2003, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros português e pela Embaixada da República da Eslovénia, em que se comunica ter sido aprovado o Acordo sobre Cooperação Científica e Tecnológica, assinado em Liubliana em 6 de Junho de 2001, e cumpridas as respectivas formalidades constitucionais internas.
+Por parte de Portugal, o Acordo foi ratificado pelo Decreto do Presidente da República n.º 40/2002, publicado no Diário da República, 1.ª série-A, n.º 290, de 16 de Dezembro de 2002.
+Nos termos do § 1.º do artigo 8.º do Acordo, este entrou em vigor à data da última comunicação sobre o cumprimento das respectivas formalidades constitucionais internas, ou seja, à data da recepção da Nota Verbal da República da Eslovénia, em 28 de Março de 2003.
+Direcção-Geral das Relações Bilaterais, 9 de Janeiro de 2004. - A Directora de Serviços da Europa, Helena de Almeida Coutinho.
