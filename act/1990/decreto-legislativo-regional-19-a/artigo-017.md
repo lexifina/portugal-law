@@ -10,7 +10,7 @@
 
 4 - Os deputados que residam na ilha onde se realizam as reuniões têm direito a um terço da ajuda de custo fixada no n.º 1 deste artigo, desde que a distância entre a sua residência e o local dos trabalhos exceda 5 km.
 
-5 - Os deputados que realizem as deslocações previstas nos n.os 4, 5 e 6 do artigo anterior têm direito a ajudas de custo durante a permanência no círculo ou ilha visitada, a qual não poderá exceder 6 dias, salvo tratado-se de São Miguel, em que o limite máximo será de 10 dias.
+5 - Os deputados que realizem as deslocações previstas nos n.os 4, 5 e 6 do artigo anterior têm direito a ajudas de custo durante a permanência no círculo ou ilha visitada, a qual não poderá exceder 6 dias, salvo tratando-se de São Miguel, em que o limite máximo será de 10 dias.
 
 6 - Para além dos dias de serviço referidos nos números anteriores, os deputados têm direito a ajudas de custo nos dias em que se encontrem deslocados da sua residência por motivos de indisponibilidade de transporte, expressamente justificada quando exceda três dias, e ainda durante o período que mediar entre duas reuniões, desde que não exceda três dias e não se desloquem à sua residência.
 

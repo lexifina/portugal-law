@@ -36,6 +36,6 @@ p) Os membros da Alta Autoridade para a Comunicação Social;
 
 q) Os membros dos conselhos de gestão das empresas públicas, das empresas de capitais públicos ou maioritariamente participadas pelo Estado e pela Região e de institutos públicos autónomos.
 
-2 - O disposto na alínea j) do número anterior não abrange os deputados não afectos permanentemente, nos dias em que se verifique a situação de não afectação, nem o exercício gratuito de funções docentes no ensino superior, de actividade de investigação e outras similares como tal reconhecidas caso a caso pela Assembleia Legislativa Regional.
+2 - O disposto na alínea j) do número anterior não abrange os deputados não afectos permanentemente, nos dias em que se verifique a situação de não afectação, nem o exercício gratuito de funções docentes no ensino superior, de actividade de investigação e outras similares como tais reconhecidas caso a caso pela Assembleia Legislativa Regional.
 
 3 - A suspensão do mandato relativamente aos vice-presidentes do Conselho Económico e Social verifica-se durante os períodos em que, nos termos da regulamentação interna respectiva, se encontrem na efectividade das funções de substituição do presidente.

@@ -6,7 +6,7 @@
 
 a) Exercer o mandato judicial como autores nas acções civis contra o Estado e contra a Região;
 
-b) Servir de peritos ou árbitros a título remunerado em qualquer processo em que sejam parte o Estado, a Região e demais pessoas colectivas de direito público;
+b) Servir de perito ou árbitro a título remunerado em qualquer processo em que sejam parte o Estado, a Região e demais pessoas colectivas de direito público;
 
 c) Integrar a administração de sociedades concessionárias de serviços públicos;
 
