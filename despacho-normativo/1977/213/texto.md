@@ -1,0 +1,9 @@
+Despacho Normativo n.º 213/77
+Considerando o interesse e as vantagens que para a Imprensa Nacional-Casa da Moeda decorrem da aquisição do imóvel designado por Palácio Bramão;
+Considerando que as partes intervenientes acordaram já o valor de indemnização referente à expropriação do citado imóvel, valor esse autorizado por despacho de 30 de Junho findo, e a que há a acrescer o montante da indemnização autónoma ao arrendatário comercial pela caducidade do respectivo contrato;
+Considerando ainda que a necessária adaptação do imóvel conducente à sua plena utilização pela Imprensa Nacional-Casa da Moeda implica a realização de obras de variada índole, com os consequentes encargos adicionais a elas inerentes;
+Considerando a deliberação do conselho de administração da Imprensa Nacional-Casa da Moeda de solicitar à Caixa Geral de Depósitos um empréstimo a longo prazo no montante de 25000 contos, destinado a financiar o aludido investimento, nos termos do n.º 3 do artigo 57.º do Decreto-Lei n.º 225/72, de 4 de Julho;
+Tendo em conta os considerandos acima expendidos:
+Ao abrigo do disposto no n.º 2 do artigo 57.º do referido diploma legal, fica o conselho de administração da Imprensa Nacional-Casa da Moeda autorizado a contrair junto da Caixa Geral de Depósitos um empréstimo no montante de 25000 contos, pelo prazo de dez anos, sendo o primeiro de utilização com juro à taxa de 16,75% ao ano, alterável pela Caixa dentro dos limites legais em vigor na data da mesma alteração, e, bem assim, a garantir os encargos correspondentes através da inscrição orçamental das verbas necessárias à sua satisfação.
+É anulado o despacho de 21 de Setembro de 1976, publicado no Diário da República, 1.ª série, n.º 247, de 21 de Outubro seguinte.
+Ministério das Finanças, 24 de Outubro de 1977. - Pelo Secretário de Estado do Tesouro, Eurico Macedo Ferreira Nunes, Subsecretário de Estado das Finanças.
