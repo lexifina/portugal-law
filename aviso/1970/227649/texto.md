@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Organização Intergovernamental Consultiva de Navegação Marítima, o Governo da União das Repúblicas Socialistas Soviéticas depositou, em 8 de Setembro de 1969, o seu instrumento de aceitação do texto modificado da Convenção Internacional de 1954 para a Prevenção da Poluição das Águas do Mar pelos Óleos (1962).
+2. O referido instrumento de aceitação contém a seguinte reserva:
+O Governo da União das Repúblicas Socialistas Soviéticas não se considera vinculado pelas disposições do artigo XIII da Convenção, em virtude das quais qualquer divergência entre os Governos Contratantes relativa à interpretação ou aplicação da Convenção que não possa ser resolvida por via de negociação, será submetida, a pedido de qualquer das partes, ao Tribunal Internacional de Justiça, e afirma que, para se submeter essa divergência ao Tribunal Internacional de Justiça, será necessária, em cada caso, a obtenção do acordo de todas as partes no conflito.
+3. De harmonia com o disposto no artigo XV da Convenção, o texto modificado desta entrou em vigor em relação à União das Repúblicas Socialistas Soviéticas a partir de 3 de Dezembro de 1969.
+Direcção-Geral dos Negócios Económicos, 4 de Fevereiro de 1970. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
