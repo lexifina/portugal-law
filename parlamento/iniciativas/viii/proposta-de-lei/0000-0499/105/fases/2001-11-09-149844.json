@@ -1,0 +1,682 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "105",
+    "id": "18754",
+    "titulo": "Orçamento do Estado para 2002"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-11-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2086",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-11-09",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "18753",
+        "leg": "VIII",
+        "nr": "104",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "617",
+            "obs": null,
+            "pag": [
+              "816-829"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-11-10",
+            "pubLeg": "VIII",
+            "pubNr": "22",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/816?pgs=816-829&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Grandes Opções do Plano para 2002"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-11-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139919",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "816-816"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-10",
+                "pubLeg": "VIII",
+                "pubNr": "22",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/816?pgs=816&org=PLC"
+              }
+            ],
+            "sumario": "GOP 2002-Grandes Opções do Plano para 2002; OE 2002-Orçamento do Estado para 2002",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "816-817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-10",
+                "pubLeg": "VIII",
+                "pubNr": "22",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/816?pgs=816-817&org=PLC"
+              }
+            ],
+            "sumario": "GOP 2002-Grandes Opções do Plano para 2002; OE 2002-Orçamento do Estado para 2002",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139921",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "817-818"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-10",
+                "pubLeg": "VIII",
+                "pubNr": "22",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/817?pgs=817-818&org=PLC"
+              }
+            ],
+            "sumario": "GOP 2002-Grandes Opções do Plano para 2002; OE 2002-Orçamento do Estado para 2002",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "818-820"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-10",
+                "pubLeg": "VIII",
+                "pubNr": "22",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/818?pgs=818-820&org=PLC"
+              }
+            ],
+            "sumario": "GOP 2002-Grandes Opções do Plano para 2002; OE 2002-Orçamento do Estado para 2002",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139923",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "820-822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-10",
+                "pubLeg": "VIII",
+                "pubNr": "22",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/820?pgs=820-822&org=PLC"
+              }
+            ],
+            "sumario": "GOP 2002-Grandes Opções do Plano para 2002; OE 2002-Orçamento do Estado para 2002",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "822-824"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-10",
+                "pubLeg": "VIII",
+                "pubNr": "22",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/822?pgs=822-824&org=PLC"
+              }
+            ],
+            "sumario": "GOP 2002-Grandes Opções do Plano para 2002; OE 2002-Orçamento do Estado para 2002",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Guilherme D'Oliveira Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "824-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-10",
+                "pubLeg": "VIII",
+                "pubNr": "22",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/824?pgs=824-827&org=PLC"
+              }
+            ],
+            "sumario": "GOP 2002-Grandes Opções do Plano para 2002; OE 2002-Orçamento do Estado para 2002",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "827-828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-10",
+                "pubLeg": "VIII",
+                "pubNr": "22",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/827?pgs=827-828&org=PLC"
+              }
+            ],
+            "sumario": "GOP 2002-Grandes Opções do Plano para 2002; OE 2002-Orçamento do Estado para 2002",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "828-828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-10",
+                "pubLeg": "VIII",
+                "pubNr": "22",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/828?pgs=828&org=PLC"
+              }
+            ],
+            "sumario": "GOP 2002-Grandes Opções do Plano para 2002; OE 2002-Orçamento do Estado para 2002",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1373",
+                "nome": "Osvaldo de Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "828-828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-10",
+                "pubLeg": "VIII",
+                "pubNr": "22",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/828?pgs=828&org=PLC"
+              }
+            ],
+            "sumario": "GOP 2002-Grandes Opções do Plano para 2002; OE 2002-Orçamento do Estado para 2002",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "147",
+                "nome": "António de Almeida Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "828-829"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-10",
+                "pubLeg": "VIII",
+                "pubNr": "22",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/828?pgs=828-829&org=PLC"
+              }
+            ],
+            "sumario": "GOP 2002-Grandes Opções do Plano para 2002; OE 2002-Orçamento do Estado para 2002",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139930",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "829-829"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-10",
+                "pubLeg": "VIII",
+                "pubNr": "22",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/829?pgs=829&org=PLC"
+              }
+            ],
+            "sumario": "GOP 2002-Grandes Opções do Plano para 2002; OE 2002-Orçamento do Estado para 2002",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "149844",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "266233",
+        "obs": null,
+        "pag": [
+          "815--827"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-11-10",
+        "pubLeg": "VIII",
+        "pubNr": "22",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/022/2001-11-10/815?pgs=815--827&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
