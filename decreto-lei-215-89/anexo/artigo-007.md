@@ -1,5 +1,5 @@
 # Artigo 7.º
 
-### Sanções impeditivas, suspensivas ou extintivas estranhas aos benefícios fiscais
+### Medidas impeditivas, suspensivas ou extintivas de benefícios fiscais
 
-Só são permitidas sanções impeditivas, suspensivas ou extintivas aos benefícios fiscais com fundamento em infracção fiscal relacionada com o benefício concedido.
+As sanções impeditivas, suspensivas ou extintivas de benefícios fiscais poderão ser aplicadas sempre que seja cometida uma infracção fiscal relacionada com os impostos sobre o rendimento, a despesa ou o património, ou às normas do sistema de segurança social, independentemente da sua relação com o benefício concedido.
