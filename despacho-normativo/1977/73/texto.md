@@ -1,0 +1,4 @@
+Despacho Normativo n.º 73/77
+Considerando que a redacção do n.º 13.º do Despacho Normativo n.º 50-D/77, publicado no 2.º suplemento ao Diário da República, 1.ª série, n.º 50, de 1 de Março, e ao abrigo do disposto nas alíneas a) e b) do n.º 2 do artigo 1.º do Decreto-Lei n.º 75-P/77, de 28 de Fevereiro, que fixa os preços e condições de venda dos cereais no continente, não ficou suficientemente clara, respeitando a matéria em relação à qual não pode haver dúvidas, determina-se que o citado número passe a ter a seguinte redacção:
+13.º As restantes condições de comercialização dos cereais, nomeadamente prazos e formas de pagamento, serão fixadas pelo Instituto dos Cereais.
+Ministérios da Agricultura e Pescas e do Comércio e Turismo, 8 de Março de 1977. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
