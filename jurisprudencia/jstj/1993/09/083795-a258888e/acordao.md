@@ -1,0 +1,57 @@
+# Acórdão do Supremo Tribunal de Justiça de 1993-09-29, processo 083795
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 083795
+
+**Nº Convencional:** JSTJ00020814
+
+**Relator:** RAUL MATEUS
+
+**Descritores:** EMPREITADA; DESISTÊNCIA; INCUMPRIMENTO DO CONTRATO; CASO JULGADO; CLÁUSULA PENAL; OBRIGAÇÃO PECUNIÁRIA; DANO; CRÉDITO ILÍQUIDO; MORA DO DEVEDOR; OBRIGAÇÃO ILÍQUIDA; ANATOCISMO; JUROS DE MORA; CAPITALIZAÇÃO DE JUROS; DEVEDOR; LITIGÂNCIA DE MÁ FÉ; DOLO
+
+**Nº do Documento:** SJ199309290837952
+
+**Apenso:** 6
+
+**Data do Acordão:** 09/29/1993
+
+**Votação:** UNANIMIDADE
+
+**Tribunal Recurso:** T REL LISBOA
+
+**Processo no Tribunal Recurso:** 1785
+
+**Data:** 05/18/1982
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Área Temática:** DIR CIV - DIR OBG.
+
+## Sumário
+
+I - O artigo 1229 do Código Civil não interdita que os estipulantes se socorram dos artigos 405 e 406 do Código Civil, de algo convencionarem sobre o incumprimento das obrigações assumidas no acordo da empreitada.
+
+II - O caso julgado material pode valer em processo posterior como autoridade de caso julgado, quando o objecto da acção subsequente é dependente do objecto da acção anterior.
+
+III - Não tendo sido pagas atempadamente, em execução de contrato de empreitada, prestações devidas, pode o credor accionar, nos termos do artigo 810, n. 1, do Código Civil, a cláusula penal compensatória contratualmente prevista. Após a desistência da empreitada o credor não pode, por aquela via continuar a ressarcir-se dos prejuízos derivados da mora no cumprimento daquelas obrigações, mas pode fazê-lo relativamente às obrigações pecuniárias nos termos dos artigos 806, ns. 1 e 2 e 559, n. 1 do Código Civil.
+
+IV - Se o crédito for ilíquido não há mora enquanto se não tornar líquido, salvo se a falta de liquidez for imputável ao devedor.
+
+V - Uma obrigação não é líquida quando a sua determinação não dependa de prévia e controvertida averiguação.
+
+A condenação no pagamento de uma soma de dinheiro determinada, embora inferior à do pedido inicialmente formulado em quantia certa correspondente á importância de dívida accionada, não altera a liquidez da obrigação, pois que uma coisa é o pedido líquido impugnado e outra uma obrigação ilíquida.
+
+VI - O artigo 560, n. 2, do Código Civil permite que sejam capitalizados os juros referentes ao período de um ano.
+
+VII - Tal pode verificar-se a partir da notificação judicial ao devedor para capitalizar os juros vencidos, ou para proceder ao seu pagamento sob pena de capitalização.
+
+VIII - O crédito de juros não nasce num só momento, vai nascendo à medida que o tempo decorre, podendo vencer-se em data diferente daquela em que nasce.
+
+IX - Só há litigância de má fé quando exista dolo, seja substancial, seja meramente instrumental.
