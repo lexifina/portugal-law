@@ -2,7 +2,7 @@
 
 Quando não ocorra nenhum dos casos previstos no artigo anterior e se mostrar feito o preparo, proferirá o auditor o despacho de recebimento do recurso.
 
-§ 1.º O despacho deve ser proferido nos dez dias seguintes à entrada da petição na secretaria.
+§ 1.º O despacho deve ser proferido nos cinco dias depois de feito o preparo ou da apresentação da nova petição organizada nos termos do § 1.º do artigo anterior.
 
 § 2.º No despacho de recebimento ordenará o auditor a citação do autor do acto recorrido e dos demais interessados no recurso.
 

@@ -16,6 +16,6 @@ Os impostos indirectos consistem em determinadas taxas lançadas sôbre os gados
 
 5.º As máquinas agrícolas ou destinadas à indústria;
 
-6.º Os automóveis e seus acessórios, a gasolina, o petróleo e os óleos minerais;
+6.º Os automóveis e seus acessórios, a gasolina e os óleos minerais.
 
 7.º As águas mínero-medicinais.

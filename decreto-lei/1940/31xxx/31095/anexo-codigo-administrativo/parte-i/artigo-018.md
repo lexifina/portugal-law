@@ -1,5 +1,7 @@
 # Artigo 18.º
 
+### Não podem ser eleitos ou por qualquer modo designados para fazer parte do conselho municipal:
+
 Não podem ser eleitos ou por qualquer modo designados para fazer parte do conselho municipal:
 
 1.º Os que não estejam no gôzo dos seus direitos civis e políticos ou não saibam ler e escrever;

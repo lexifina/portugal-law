@@ -22,7 +22,7 @@ São requisitos essenciais para a admissão aos concursos:
 
 § 1.º Os candidatos que anteriormente tenham exercido qualquer função pública ou administrativa deverão provar a quitação com a Fazenda Nacional ou com a autarquia que serviram.
 
-§ 2.º No caso de os candidatos serem funcionários do Estado ou administrativos à data do concurso, ficam dispensados, mediante a prova dessa qualidade, da junção dos documentos comprovativos dos requisitos dos n.os 1.º a 6.º e 9.º
+§ 2.º No caso de os candidatos serem funcionários do Estado ou administrativos à data do concurso, ficam dispensados, mediante a prova dessa qualidade, da junção dos documentos comprovativos dos requisitos dos n.os 1.º a 6.º
 
 § 3.º Os candidatos que não sejam ainda funcionários devem juntar ao requerimento de admissão ao concurso os documentos comprovativos dos requisitos dos n.os 1.º, 2.º, 5.º e 7.º a 9.º, ficando porém, quando aprovados, dependente o provimento da junção dos documentos restantes, para o que serão notificados por aviso publicado no Diário do Govêrno.
 

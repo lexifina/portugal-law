@@ -1,7 +1,5 @@
 # Artigo 450.º
 
-As associações religiosas constituem-se por simples participação escrita ao governador civil do distrito onde tenham a sua sede.
+As associações religiosas adquirem personalidade jurídica pelo acto de registo da participação escrita da sua constituição, apresentada na secretaria do govêrno civil do respectivo distrito.
 
-§ 1.º A participação da constituïção das associações religiosas da igreja católica será feita pelo bispo da diocese onde tiverem a sede ou por seu legítimo representante.
-
-§ 2.º A participação a que se refere o parágrafo anterior será registada em livro próprio na secretaria do govêrno civil respectivo, ficando desde o registo reconhecida a personalidade jurídica da associação a que respeitar.
+§ único. Exceptuam-se as associações religiosas da Igreja Católica, cuja personalidade jurídica resulta da simples participação escrita feita pelo bispo da diocese onde tiverem a sua sede, ou por seu legítimo representante, ao governador civil competente.
