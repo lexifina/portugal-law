@@ -6,9 +6,9 @@
 
 2 - Para efeitos do disposto no número anterior a comunicação dos serviços postais para levantamento de carta registada remetida pela administração fiscal deve sempre conter de forma clara a identificação do remetente.
 
-3 - As notificações não abrangidas pelo n.º 1 do presente artigo serão efectuadas por carta registada.
+3 - As notificações não abrangidas pelo n.º 1, bem como as relativas às liquidações de tributos que resultem de declarações dos contribuintes ou de correcções à matéria tributável que tenha sido objecto de notificação para efeitos do direito de audição, são efectuadas por carta registada.
 
-4 - As liquidações de impostos periódicos feitas nos prazos previstos na lei serão comunicadas por simples via postal.
+4 - As notificações relativas a liquidações de impostos periódicos feitas nos prazos previstos na lei são efectuadas por simples via postal.
 
 5 - As notificações serão pessoais nos casos previstos na lei ou quando a entidade que a elas proceder o entender necessário.
 

@@ -6,4 +6,4 @@
 
 2 - O serviço competente efectuará o registo no prazo de 15 dias e, dentro deste prazo, remeterá o respectivo certificado e a certidão de ónus, a fim de serem juntos ao processo.
 
-3 - (Eliminado).
+3 - A penhora prevista neste artigo também pode ser realizada por comunicação electrónica à conservatória competente, nos termos previstos no Código de Processo Civil.
