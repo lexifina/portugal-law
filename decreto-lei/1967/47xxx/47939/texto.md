@@ -1,0 +1,5 @@
+Decreto-Lei n.º 47939
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º da artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Ao pessoal do Ministério das Finanças em serviço na ilha do Porto Santo é tornado extensivo o disposto no artigo 1.º do Decreto-Lei n.º 38477, de 29 de Outubro de 1951, com o limite estabelecido no n.º 2 do artigo 5.º do Decreto-Lei n.º 47137, de 5 de Agosto de 1966.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 15 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
