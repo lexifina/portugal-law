@@ -1,0 +1,8 @@
+Aviso n.º 193/2000
+Por ordem superior se torna público que, por nota de 18 de Maio de 2000, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República da Bulgária depositado, em 11 de Abril de 2000 e nos termos do artigo 92.º, 2.º parágrafo, o seu instrumento de ratificação da Convenção para a Solução Pacífica dos Conflitos Internacionais, concluída na Haia em 18 de Outubro de 1907, com a seguinte declaração:
+«The accession of the Republic of Bulgaria to the Convention for Pacific Settlement of International Disputes, adopted at The Hague on 18 October 1907, shall in no way be considered or interpreted as a renouncement or an infringement of the principles of non-use of force and peaceful settlement of international disputes, as they are set forth in contemporary international law.»
+Tradução
+A adesão da República da Bulgária à Convenção para a Solução Pacífica de Conflitos Internacionais, concluída na Haia aos 18 de Outubro de 1907, não será, de nenhum modo, considerada ou interpretada como uma renúncia ou uma desobediência aos princípios de não uso da força e solução pacífica de conflitos internacionais, tal como se apresentam no direito internacional contemporâneo.
+Nos termos do artigo 95.º, a Convenção entrou em vigor para a Bulgária em 10 de Junho de 2000.
+Portugal é Parte na mesma Convenção, tendo depositado o seu instrumento de ratificação em 13 de Abril de 1911, conforme Diário do Governo, n.os 49, de 2 de Março de 1911, e 104, de 5 de Maio de 1911.
+Departamento de Assuntos Jurídicos, 7 de Agosto de 2000. - A Directora, Maria Margarida Aleixo Antunes Rei.
