@@ -1,0 +1,12 @@
+Portaria n.º 134/83
+de 4 de Fevereiro
+Ao abrigo do disposto nos n.os 1 e 3 do artigo 1.º do Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio e das Pescas:
+1.º Os n.os 2.º, 4.º e 5.º da Portaria n.º 84/81, de 19 de Janeiro, passam a ter a seguinte redacção:
+2.º As margens de comercialização das espécies e tipos comerciais de pescado congelado são fixadas em 15% para o armazenista ou industrial de congelação e de transformação, quando este exerça as funções de armazenista, e em 20% para o retalhista.
+Qualquer destas margens não pode ser, contudo, inferior a 5$00 por quilograma.
+3.º ...
+4.º Os preços de venda ao público de todas as espécies de pescado congelado poderão ser agravado, sempre que os produtos sejam acondicionados em embalagem comercial ou industrial, com os valores máximos, respectivamente, de 10$00 e 3$50 por quilograma.
+5.º O valor da embalagem de todo o pescado congelado, quando fraccionado, poderá ser acrescido da importância máxima de 7$00 por quilograma.
+2.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.
+Secretarias de Estado do Comércio e das Pescas, 24 de Janeiro de 1983. - O Secretário de Estado do Comércio, António Escaja Gonçalves. - O Secretário de Estado das Pescas, Alberto Augusto Faria dos Santos.
