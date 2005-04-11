@@ -1,0 +1,4 @@
+Aviso n.º 108/2005
+Por ordem superior se torna público que, em 9 de Dezembro de 2004, a República Unida da Tanzânia depositou o seu instrumento de aprovação da Emenda de Gaborone, ao artigo XXI, adoptada em Gaborone em 30 de Abril de 1983, à Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção (CITES), assinada em Washington em 3 de Março de 1973.
+Portugal é Parte da mesma Emenda à Convenção, aprovada, para ratificação, pelo Decreto n.º 17/88, de 28 de Julho, publicado no Diário da República, 1.ª série-A, n.º 173, de 28 de Julho de 1988, tendo depositado o seu instrumento de ratificação em 5 de Março de 1992, conforme o aviso n.º 132/92, publicado no Diário da República, 1.ª série-A, n.º 197, de 27 de Agosto de 1992.
+Direcção-Geral dos Assuntos Multilaterais, 1 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
