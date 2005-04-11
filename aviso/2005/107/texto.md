@@ -1,0 +1,5 @@
+Aviso n.º 107/2005
+Por ordem superior se torna público que, em 9 de Novembro de 2004, o Estado Independente de Samoa depositou o seu instrumento de adesão à Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção (CITES), assinada em Washington em 3 de Março de 1973.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 50/80, publicado no Diário da República, 1.ª série-A, n.º 168, de 23 de Julho de 1980, tendo depositado o seu instrumento de ratificação em 11 de Dezembro de 1980 (Diário da República, 1.ª série-A, n.º 260, de 11 de Novembro de 1981), e tendo entrado em vigor em 11 de Março de 1981 (Diário da República, 1.ª série-A, n.º 157, de 10 de Julho de 2003).
+Nos termos do artigo XXII, parágrafo 2, a Convenção, aditada das emendas de Bona de 22 de Junho de 1979, entrará em vigor para o Estado Independente de Samoa 90 dias após o depósito do seu instrumento de adesão.
+Direcção-Geral dos Assuntos Multilaterais, 1 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
