@@ -1,0 +1,5 @@
+Aviso n.º 109/2005
+Por ordem superior se torna público que, em 1 de Dezembro de 2004, o Chile informou o Governo Suíço de que retirava a reserva, por si formulada, relativamente à Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção (CITES), assinada em Washington em 3 de Março de 1973.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 50/80, publicado no Diário da República, 1.ª série-A, n.º 168, de 23 de Julho de 1980, tendo depositado o seu instrumento de ratificação em 11 de Dezembro de 1980 (Diário da República, 1.ª série-A, n.º 260, de 11 de Novembro de 1981), e tendo entrado em vigor em 11 de Março de 1981 (Diário da República, 1.ª série-A, n.º 157, de 10 de Julho de 2003).
+Aquela reserva foi formulada em 1 de Setembro de 1987 e referia-se à transferência da população de Fitzroya cupressoides da cordilheira litoral do Chile do anexo II para o anexo I.
+Direcção-Geral dos Assuntos Multilaterais, 1 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
