@@ -1,0 +1,13 @@
+Portaria n.º 417/2005
+de 13 de Abril
+Com fundamento no disposto no n.º 3 do artigo 164.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, na alínea a) do n.º 1 do artigo 36.º e no n.º 1 do artigo 114.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro;
+Ouvido o Conselho Cinegético Municipal de Silves:
+Manda o Governo, pelos Ministros da Agricultura, Pescas e Florestas e do Ambiente e do Ordenamento do Território, o seguinte:
+1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, à Associação de Caçadores de Silves, com o número de pessoa colectiva 501882804 e sede no Edifício Fernando, sítio da Arrochela, Estação de Silves, 8300 Silves, a zona de caça associativa do Taborda (processo n.º 3864-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Silves, com a área de 236 ha.
+2.º A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas alterações de condicionantes por planos especiais de ordenamento do território de áreas protegidas ou obtidos dados científicos que comprovem a incompatibilidade com a actividade cinegética, até ao máximo de 10% da área total da zona de caça.
+3.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+4.º A sinalização da zona de caça deve obedecer ao disposto no n.º 8.º da Portaria n.º 1391/2002, de 25 de Outubro, com a redacção que lhe foi conferida pela Portaria n.º 45/2004, de 14 de Janeiro.
+Em 7 de Dezembro de 2004.
+Pelo Ministro da Agricultura, Pescas e Florestas, Luís António Pires Pinheiro, Secretário de Estado das Florestas. - Pelo Ministro do Ambiente e do Ordenamento do Território, Jorge Manuel Lopes Moreira da Silva, Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território.
+
+(ver planta no documento original)
