@@ -1,0 +1,5 @@
+Aviso n.º 119/2005
+Por ordem superior se torna público que, em 19 de Maio de 2004, o Tuvalu depositou o seu instrumento de aceitação às emendas à Convenção Instituidora da Organização Marítima Consultiva Intergovernamental, adoptadas pela Resolução A.400(X) na 10.ª Sessão da Assembleia Geral da Organização, assinadas em Londres em 17 de Novembro de 1977.
+Portugal é Parte das mesmas emendas, adoptadas pela Resolução A.450(XI) na 11.ª Sessão da Assembleia Geral da Organização Marítima Internacional, aprovadas pelo Decreto n.º 126/82, publicado no Diário da República, 1.ª série, n.º 259, de 9 de Novembro de 1982, tendo depositado o instrumento de adesão em 10 de Dezembro de 1982, conforme o aviso publicado no Diário da República, 1.ª série, n.º 72, de 28 de Março de 1983, e tendo as mesmas entrado em vigor em 10 de Novembro de 1984 (Diário da República, 1.ª série, n.º 48, de 25 de Fevereiro de 1984).
+As emendas entraram em vigor para o Tuvalu em 19 de Maio de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 8 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
