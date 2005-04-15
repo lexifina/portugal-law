@@ -1,0 +1,4 @@
+Aviso n.º 120/2005
+Por ordem superior se torna público que, em 25 de Maio de 2004, a República da Lituânia depositou o seu instrumento de aprovação à emenda de Gaborone ao artigo XXI da Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção (CITES), assinada em Washington no dia 3 de Março de 1973.
+Portugal é Parte da mesma emenda à Convenção, aprovada, para ratificação, pelo Decreto n.º 17/88, de 28 de Julho, publicado no Diário da República, 1.ª série-A, n.º 173, de 28 de Julho de 1988, tendo depositado o seu instrumento de ratificação em 5 de Março de 1992, conforme o Aviso n.º 132/92, publicado no Diário da República, 1.ª série-A, n.º 197, de 27 de Agosto de 1992.
+Direcção-Geral dos Assuntos Multilaterais, 8 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
