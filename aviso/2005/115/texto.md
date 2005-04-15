@@ -1,0 +1,5 @@
+Aviso n.º 115/2005
+Por ordem superior se torna público que, em 19 de Maio de 2004 e em 19 de Fevereiro de 2005, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros português e pelo Ministério dos Negócios Estrangeiros da Sérvia e Montenegro, em que se comunicava a aprovação do Acordo sobre a Sucessão dos Tratados Vigentes entre a República Portuguesa e a Antiga República Socialista Federativa da Jugoslávia, assinado em Lisboa em 3 de Março de 2003.
+Por parte de Portugal o citado Acordo foi aprovado pelo Decreto-Lei n.º 10/2004, publicado no Diário da República, 1.ª série-A, n.º 101, de 29 de Março de 2004.
+A Nota emitida pela Embaixada de Portugal em Belgrado acusando recepção da Nota do Ministério dos Negócios Estrangeiros da Sérvia e Montenegro data de 19 de Fevereiro de 2005, pelo que, em consonância com o artigo 3.º, n.º 1, do referido Acordo, o mesmo entrará em vigor no 30.º dia subsequente, ou seja, em 21 de Março de 2005.
+Direcção-Geral das Relações Bilaterais, 3 de Março de 2005. - O Director dos Serviços da Europa, Pedro Costa Pereira.
