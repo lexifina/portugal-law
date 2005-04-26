@@ -1,0 +1,5 @@
+Aviso n.º 155/2005
+Por ordem superior se torna público que o Secretário-Geral da Organização das Nações Unidas procedeu a uma corrigenda no que concerne à comunicação n.º 1232.2004.TREATIES-1, relativa à aceitação das Emendas aos anexos I e II do Acordo Europeu sobre as Grandes Linhas de Transporte Combinado Internacional e Respectivas Instalações, assinado em Genebra em 1 de Fevereiro de 1991.
+Portugal é Parte do mesmo Acordo, aprovado, para adesão, pelo Decreto n.º 32/94, publicado no Diário da República, 1.ª série-A, n.º 254, de 3 de Novembro de 1994, tendo depositado o seu instrumento de confirmação e adesão em 17 de Janeiro de 1995, conforme o Aviso n.º 128/95 (Diário da República, 1.ª série-A, n.º 128, de 2 de Junho de 1995).
+A aceitação das Emendas aos anexos I e II do Acordo em epígrafe enviada em 7 de Dezembro de 2004 é considerada nula e sem efeito.
+Direcção-Geral dos Assuntos Multilaterais, 21 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
