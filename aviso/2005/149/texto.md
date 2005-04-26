@@ -1,0 +1,5 @@
+Aviso n.º 149/2005
+Por ordem superior se torna público que, em 21 de Janeiro de 2004, o Vietname depositou o seu instrumento de adesão ao Protocolo de Cartagena sobre Segurança Biológica à Convenção sobre a Diversidade Biológica, assinado em Montreal em 29 de Janeiro de 2000.
+Portugal é Parte do mesmo Protocolo, aprovado pelo Decreto n.º 7/2004, publicado no Diário da República, 1.ª série-A, n.º 91, de 17 de Abril de 2004, tendo depositado o seu instrumento de adesão em 30 de Setembro de 2004, conforme o Aviso n.º 205/2004, publicado no Diário da República, 1.ª série-A, n.º 297, de 21 de Dezembro de 2004, sendo que o Protocolo entrou em vigor para Portugal em 29 de Dezembro de 2004 (Diário da República, 1.ª série-A, n.º 297, de 21 de Dezembro de 2004).
+O Protocolo entrou em vigor para o Vietname em 20 de Abril de 2004, conforme estipula o seu artigo 37.º, n.º 2.
+Direcção-Geral dos Assuntos Multilaterais, 16 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
