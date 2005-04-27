@@ -1,0 +1,5 @@
+Despacho Normativo n.º 27/2005
+As medidas de aperfeiçoamento implementadas no sistema educativo português, em particular a introdução de exames nacionais nas disciplinas de Língua Portuguesa e Matemática do 9.º ano de escolaridade, obrigam, desde já, a proceder a uma alteração ao Regulamento dos Exames Nacionais do Ensino Básico, recentemente aprovado pelo Despacho Normativo n.º 15/2005, de 28 de Fevereiro, uma vez que os alunos abrangidos pelo despacho n.º 22/SEEI/96, de 19 de Junho, não se encontram abrangidos pelo Despacho Normativo n.º 1/2005, de 5 de Janeiro.
+Assim, ao abrigo do Decreto-Lei n.º 6/2001, de 18 de Janeiro, com as alterações introduzidas pelo Decreto-Lei n.º 209/2002, de 17 de Outubro, e do Despacho Normativo n.º 1/2005, de 5 de Janeiro, determino o seguinte:
+É revogada a alínea d) do n.º 1.4 do Regulamento dos Exames Nacionais do Ensino Básico, constante do anexo II do Despacho Normativo n.º 15/2005, de 28 de Fevereiro.
+Ministério da Educação, 11 de Março de 2005. - A Ministra da Educação, Maria do Carmo Félix da Costa Seabra.
