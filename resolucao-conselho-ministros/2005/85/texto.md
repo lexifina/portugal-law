@@ -1,0 +1,28 @@
+Resolução do Conselho de Ministros n.º 85/2005
+A Lei n.º 27/2002, de 8 de Novembro, que aprovou o novo regime jurídico da gestão hospitalar e procedeu à primeira alteração à Lei de Bases da Saúde, veio estabelecer que os hospitais públicos passariam a poder revestir a natureza de sociedades anónimas de capitais exclusivamente públicos ou de estabelecimentos públicos, dotados de personalidade jurídica, autonomia administrativa, financeira e patrimonial e natureza empresarial.
+Na sequência da referida lei, o XV Governo Constitucional procedeu à transformação de 36 hospitais em sociedades anónimas, de forma a realçar a autonomia de gestão do Serviço Nacional de Saúde.
+No entanto, o processo de empresarialização da gestão hospitalar foi iniciado em 1998 pelo XIII Governo Constitucional, com a criação do Hospital de São Sebastião, tendo em vista a melhoria do desempenho e da eficiência económico-financeira do Serviço Nacional de Saúde.
+Entretanto, foram objecto de divulgação pública os resultados das actividades desenvolvidas e os níveis de produção atingidos em 2003 pelos 31 hospitais sociedades anónimas, bem como as principais linhas de actuação para o ano de 2004.
+Conforme prevê o Programa do XVII Governo Constitucional, considera-se oportuno que, decorridos quase três anos, se proceda à avaliação externa das mudanças ocorridas e ao estudo do modelo económico dos hospitais que foram transformados em sociedades anónimas.
+Nestes termos, a presente resolução procede à criação de uma equipa de projecto com o estatuto de estrutura de missão para, em estreita articulação com a Unidade de Missão dos Hospitais Sociedades Anónimas, as administrações regionais de saúde, os serviços centrais do Ministério da Saúde, a Inspecção-Geral de Finanças e a Direcção-Geral do Tesouro proceder à avaliação da experiência dos hospitais que foram convertidos em sociedades anónimas e apresentar as propostas das medidas necessárias à revisão do respectivo modelo económico e organizacional.
+Assim:
+Ao abrigo do disposto no artigo 28.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Criar, na dependência do Ministro da Saúde, a Comissão para a Avaliação dos Hospitais Sociedades Anónimas, adiante designada por Comissão, com a natureza de estrutura de missão e os objectivos de:
+a) Proceder à avaliação global externa dos hospitais do Serviço Nacional de Saúde que foram convertidos em sociedades anónimas, designadamente no que respeita à sua eficiência, desempenho financeiro e evolução dos indicadores de qualidade;
+b) Sistematizar informação sobre a respectiva produção, situação financeira e recursos existentes;
+c) Comparar o seu desempenho com o de hospitais sujeitos a diferentes estatutos e definir recomendações para a política hospitalar do Serviço Nacional de Saúde.
+2 - Determinar que, no âmbito dos objectivos referidos no número anterior, compete à Comissão:
+a) Proceder à avaliação da actual situação dos hospitais do Serviço Nacional de Saúde que foram convertidos em sociedades anónimas;
+b) Identificar as regras, condicionalismos e circunstâncias a que tem vindo a submeter-se a gestão dos hospitais referidos na alínea anterior, designadamente no que respeita à sua produção e geração de receita, cobrança, despesa e endividamento;
+c) Identificar os efeitos da transformação dos hospitais públicos em sociedades anónimas, nomeadamente em termos de universalidade de atendimento e não discriminação por entidade pagadora;
+d) Propor as medidas que considere adequadas à melhoria do funcionamento dos hospitais e da respectiva gestão, bem como da sua articulação horizontal, entre hospitais, e vertical, com centros de saúde, cuidados continuados e outras unidades prestadoras de cuidados de saúde;
+e) Analisar a evolução registada nas diversas vertentes, de forma comparada, nos hospitais integrados no sector público empresarial e no sector público administrativo;
+f) Formular as recomendações que se mostrem necessárias em resultado dos estudos realizados.
+3 - Designar presidente da Comissão o Prof. Doutor Miguel Gouveia, que será coadjuvado por quatro adjuntos, nomeados por despacho do Ministro da Saúde.
+4 - Cometer ao presidente da Comissão as competências legalmente atribuídas aos titulares dos cargos de direcção superior de 1.º grau, designadamente as previstas na Lei n.º 2/2004, de 15 de Janeiro, e na alínea b) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de Junho.
+5 - Equiparar, para efeitos remuneratórios, o presidente da Comissão e os adjuntos, respectivamente, a presidente e vogais do conselho de administração de empresa pública do grupo B, nível 1.
+6 - Determinar que todos os encargos orçamentais decorrentes da presente resolução serão suportados pelo Instituto de Gestão Informática e Financeira da Saúde, através de dotação global inscrita no respectivo orçamento.
+7 - Determinar que o apoio logístico e de execução financeira ao funcionamento da Comissão compete ao serviço central do Ministério da Saúde que assegura o apoio aos gabinetes dos membros do Governo.
+8 - Incumbir os serviços e organismos dos Ministérios das Finanças e da Saúde, bem como os estabelecimentos do Serviço Nacional de Saúde e a Unidade de Missão dos Hospitais Sociedades Anónimas, da prestação à Comissão da colaboração que lhes seja solicitada.
+9 - Determinar que o mandato da Comissão tem a duração de seis meses contados da data de assinatura da presente resolução, prorrogável pelo prazo máximo de seis meses por despacho dos Ministros das Finanças e da Saúde.
+Presidência do Conselho de Ministros, 7 de Abril de 2005. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
