@@ -1,0 +1,4 @@
+Aviso n.º 171/2005
+Por ordem superior se torna público que, agindo na sua qualidade de depositário da Convenção para a Protecção dos Bens Culturais em Caso de Conflito Armado, adoptada na Haia em 14 de Maio de 1954, o director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) comunicou terem as Seychelles depositado, em 8 de Outubro de 2003, o seu instrumento de adesão à citada Convenção, que entrou em vigor para este país em 8 de Janeiro de 2004.
+Portugal é Parte da mencionada Convenção, tendo depositado o respectivo instrumento de ratificação em 4 de Agosto de 2000, conforme publicado no Diário da República, 1.ª série-A, n.º 40, de 16 de Fevereiro de 2001.
+Direcção-Geral dos Assuntos Multilaterais, 10 de Março de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Jorge Roza de Oliveira.
