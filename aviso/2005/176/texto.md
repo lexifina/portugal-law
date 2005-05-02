@@ -1,0 +1,5 @@
+Aviso n.º 176/2005
+Por ordem superior se torna público que, em 23 de Dezembro de 2004, a Letónia depositou o seu instrumento de adesão à Convenção das Nações Unidas sobre o Direito do Mar, assinada em Montego Bay em 10 de Dezembro de 1982.
+Portugal é Parte da mesma Convenção, aprovada pela Resolução da Assembleia da República n.º 60-B/97 e aprovada para ratificação pelo Decreto do Presidente da República n.º 67-A/97, publicados no Diário da República, 1.ª série-A, n.º 238, suplemento, de 14 de Outubro de 1997, tendo depositado o seu instrumento de ratificação em 3 de Novembro de 1997, conforme o Aviso n.º 81/98, publicado no Diário da República, 1.ª série-A, n.º 93, de 21 de Abril de 1998, tendo entrado em vigor para Portugal em 3 de Dezembro de 1997 (Diário da República, 1.ª série-A, n.º 93, de 21 de Abril de 1998).
+Nos termos do disposto no seu artigo 6.º, n.º 2, a Convenção entrou em vigor para a Letónia em 22 de Janeiro de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 23 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
