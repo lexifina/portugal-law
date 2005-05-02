@@ -1,0 +1,5 @@
+Aviso n.º 174/2005
+Por ordem superior se torna público que, em 17 de Junho de 2004, o Afeganistão depositou o seu instrumento de adesão às Emendas introduzidas ao Protocolo de Montreal sobre as Substâncias Que Empobrecem a Camada de Ozono, adoptadas na 2.ª Reunião das Partes Contratantes do Protocolo, concluídas em Londres em 29 de Junho de 1990.
+Portugal é Parte das mesmas Emendas, aprovadas para ratificação pelo Decreto n.º 39/92, de 20 de Agosto, publicado no Diário da República, 1.ª série-A, n.º 191, de 20 de Agosto de 1992, tendo depositado o seu instrumento de ratificação em 24 de Novembro de 1992, conforme o Aviso n.º 88/93, publicado no Diário da República, 1.ª série-A, n.º 94, de 22 de Abril de 1993, sendo que as Emendas entraram em vigor para Portugal em 22 de Fevereiro de 1993 (Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 1998).
+As Emendas entraram em vigor para o Afeganistão em 15 de Setembro de 2004, conforme estipula o artigo 2.º, parágrafo 3.
+Direcção-Geral dos Assuntos Multilaterais, 16 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
