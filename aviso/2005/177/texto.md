@@ -1,0 +1,5 @@
+Aviso n.º 177/2005
+Por ordem superior se torna público que, em 16 de Fevereiro de 2005, em 18 de Fevereiro de 2005 e em 25 de Fevereiro de 2005, respectivamente, a Argélia, a Venezuela e o Quénia depositaram os seus instrumentos de adesão ao Protocolo de Quioto à Convenção Quadro sobre Alterações Climáticas, de 9 de Maio de 1992, concluído em Quioto em 11 de Dezembro de 1997.
+Portugal é Parte do mesmo Protocolo, aprovado pelo Decreto n.º 7/2002, publicado no Diário da República, 1.ª série-A, n.º 71, de 25 de Março de 2002, tendo Portugal depositado o seu instrumento de aprovação junto do Secretário-Geral das Nações Unidas em 31 de Maio de 2002, conforme o Aviso n.º 49/2005, publicado no Diário da República, 1.ª série-A, n.º 35, de 18 de Fevereiro de 2005.
+O Protocolo de Quioto à Convenção Quadro sobre Alterações Climáticas entrará em vigor para a Argélia em 17 de Maio de 2005, para a Venezuela em 19 de Maio de 2005 e para o Quénia em 26 de Maio de 2005, conforme estipula o artigo 25.º, n.º 3, do Protocolo.
+Direcção-Geral dos Assuntos Multilaterais, 31 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
