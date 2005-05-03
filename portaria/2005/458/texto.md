@@ -1,0 +1,18 @@
+Portaria n.º 458/2005
+de 3 de Maio
+O acordo colectivo de trabalho celebrado entre a empresa Douro Acima - Transportes, Turismo e Restauração, Lda., e outras e a FESMAR - Federação de Sindicatos dos Trabalhadores do Mar e outra, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 15, de 22 de Abril de 2004, abrange as relações de trabalho entre empregadores e trabalhadores representados pelas associações que o outorgaram.
+A associação sindical outorgante requereu a extensão da mesma convenção a todas as empresas não outorgantes do mesmo sector de actividade e área geográfica. Contudo, o sector de actividade em que se insere a actividade das empresas outorgantes é regulado pelo contrato colectivo celebrado entre a Associação dos Armadores de Tráfego Fluvial e o Sindicato dos Transportes Fluviais, Costeiros e da Marinha Mercante e outros e pelas convenções colectivas de trabalho celebradas pela UNIHSNOR - União das Associações da Hotelaria e Restauração do Norte de Portugal, que especificamente se aplicam a embarcações turísticas, bem como pelas respectivas portarias de extensão, pelo que a eventual extensão do acordo colectivo de trabalho só se justificará relativamente às relações de trabalho estabelecidas entre as empresas signatárias e respectivos trabalhadores não representados pelas associações sindicais subscritoras.
+A extensão da convenção terá, no plano social, o efeito de uniformizar as condições de trabalho dos trabalhadores ao serviço das empresas outorgantes.
+No entanto, são excluídas da presente extensão:
+A cláusula 24.ª, n.º 1, por reduzir as situações de isenção de horário de trabalho previstas no n.º 1 do artigo 177.º do Código do Trabalho, atento o disposto no n.º 2 do mesmo artigo;
+A cláusula 27.ª, n.º 3, sobre feriados facultativos, na medida em que se afasta do correspondente regime do artigo 209.º do Código do Trabalho, contrariando o artigo 210.º do mesmo Código;
+A cláusula 37.ª, n.º 2, efeitos das faltas injustificadas no direito a férias, na medida em que reduz o período mínimo de férias previsto no artigo 232.º, n.º 2, do Código do Trabalho;
+A cláusula 64.ª, n.º 2, licença por adopção, por prever um período de licença inferior ao consagrado no artigo 38.º, n.º 1, do Código do Trabalho.
+Assim, verificando-se as circunstâncias sociais e económicas justificativas da extensão, exigidas pelo n.º 3 do artigo 575.º do Código do Trabalho, é conveniente promover a extensão do acordo colectivo de trabalho em causa.
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, 1.ª série, n.º 46, de 15 de Dezembro de 2004, à qual não foi deduzida oposição por parte dos interessados.
+Assim:
+Ao abrigo dos n.os 1 e 3 do artigo 575.º do Código do Trabalho, manda o Governo, pelo Secretário de Estado Adjunto e do Trabalho, o seguinte:
+1.º - 1 - As condições de trabalho constantes do ACT entre a empresa Douro Acima - Transportes, Turismo e Restauração, Lda., e outras e a FESMAR - Federação de Sindicatos dos Trabalhadores do Mar e outra, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 15, de 22 de Abril de 2004, são estendidas às relações de trabalho entre as empresas outorgantes e os trabalhadores ao seu serviço, das categorias profissionais previstas na convenção, não representados pelas associações sindicais signatárias.
+2 - Não são objecto da presente extensão as cláusulas 24.ª, n.º 1, 27.ª, n.º 3, 37.ª, n.º 2, e 64.ª, n.º 2.
+2.º A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes, em 10 de Março de 2005.
