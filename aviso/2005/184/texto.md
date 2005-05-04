@@ -1,0 +1,4 @@
+Aviso n.º 184/2005
+Por ordem superior se torna público que o Secretário-Geral das Nações Unidas procedeu a uma comunicação à Convenção Aduaneira Relativa ao Transporte Internacional de Mercadorias Efectuado ao Abrigo das Cadernetas TIR, assinada em Genebra em 14 de Novembro de 1975, segundo a qual as Emendas ao artigo 26.º, parágrafo 1.º, da Convenção entraram em vigor para todas as Partes Contratantes em 19 de Setembro de 2004, conforme estipula o artigo 59.º, parágrafo 3.º, da Convenção.
+Portugal é Parte da mesma Convenção, aprovada, para adesão, pelo Decreto-Lei n.º 102/78, publicado no Diário da República, 1.ª série, n.º 217, de 20 de Setembro de 1978, tendo aderido à Convenção em 13 de Fevereiro de 1979, conforme o aviso publicado no Diário da República, 1.ª série, n.º 138, de 18 de Junho de 1979.
+Direcção-Geral dos Assuntos Multilaterais, 21 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
