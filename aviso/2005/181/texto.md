@@ -1,0 +1,5 @@
+Aviso n.º 181/2005
+Por ordem superior se torna público que, aquando da 41.ª sessão do Grupo de Trabalho do Transporte Intermodal e da Logística da Comissão Económica das Nações Unidas para a Europa (CEE/ONU), foram adoptadas as Emendas, propostas pela Rússia, aos anexos I e II do Acordo Europeu sobre as Grandes Linhas de Transporte Combinado Internacional e Respectivas Instalações, assinado em Genebra em 1 de Fevereiro de 1991.
+Portugal é Parte do mesmo Acordo, aprovado, para adesão, pelo Decreto n.º 32/94, publicado no Diário da República, 1.ª série-A, n.º 254, de 3 de Novembro de 1994, tendo depositado o seu instrumento de confirmação e adesão em 17 de Janeiro de 1995, conforme o Aviso n.º 128/95 (Diário da República, 1.ª série-A, n.º 128, de 2 de Junho de 1995).
+As propostas de emendas aos anexos I e II foram adoptadas por unanimidade pelas Partes presentes e votantes, conforme estipula o artigo 15.º, parágrafos 1.º a 6.º, do Acordo em epígrafe.
+Direcção-Geral dos Assuntos Multilaterais, 21 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
