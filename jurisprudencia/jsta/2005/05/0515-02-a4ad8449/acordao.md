@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2005-05-05, processo 0515/02
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0515/02
+
+**Data do Acordão:** 05/05/2005
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** ADÉRITO SANTOS
+
+**Descritores:** REFORMA AGRÁRIA.; PRÉDIO ARRENDADO.; INDEMNIZAÇÃO.; RECURSO CONTENCIOSO.
+
+**Nº Convencional:** JSTA0005352
+
+**Nº do Documento:** SAP2005050505352
+
+**Recorrente:** A... E OUTROS
+
+**Recorrido 1:** MINADRP E OUTROS
+
+**Votação:** UNANIMIDADE
+
+**Área Temática 1:** *
+
+## Sumário
+
+I – A indemnização, devida ao proprietário de prédio rústico pela privação do uso e fruição desse prédio desde a data da expropriação até à respectiva devolução, deve ser calculada em função das rendas que seriam devidas nesse período se nele se tivesse mantido a relação de arrendamento, nos termos do artigo 14, número 4, do Decreto-Lei nº 199/88, de 31 de Maio, na redacção do Decreto-Lei nº 38/95, de 14 de Fevereiro, e número 2 da Portaria nº 197-A/95, de 17 de Março.
+
+II – Conforme o artigo 6 do Estatuto dos Tribunais Administrativos e Fiscais aprovado pelo Decreto-Lei nº 129/84, de 27 de Abril, o recurso contencioso é de mera legalidade, tendo por objecto o acto impugnado e visando apenas a sua anulação, declaração de nulidade ou inexistência jurídica.
+
+III – Assim, no recurso contencioso interposto de acto que fixou indemnização a que se alude em 1., deve apenas decretar-se a respectiva anulação, se nele foram violados os preceitos legais ali indicados.
+
+IV - Nesse recurso, não têm cabimento o pedido de fixação do montante concreto da indemnização devida e o de condenação da Administração, por danos não patrimoniais alegadamente decorrentes da perda da fruição e de uso do terreno em causa.
