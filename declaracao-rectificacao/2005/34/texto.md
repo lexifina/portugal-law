@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 34/2005
+Segundo comunicação do Ministério da Ciência, Tecnologia e Ensino Superior, a Portaria n.º 359/2005, publicada no Diário da República, 1.ª série, n.º 64, de 1 de Abril de 2005, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No sumário, onde se lê «Autoriza o funcionamento do curso bietápico de licenciatura em Educação, variante de Administração Educacional, no Instituto Superior de Educação e Trabalho e aprova o respectivo plano de estudos» deve ler-se «Autoriza o funcionamento do curso de licenciatura em Educação, variante de Administração Educacional, no Instituto Superior de Educação e Trabalho, e aprova o respectivo plano de estudos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 18 de Abril de 2005. - O Secretário-Geral, José M. Sousa Rego.
