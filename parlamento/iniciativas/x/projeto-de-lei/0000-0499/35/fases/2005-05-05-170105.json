@@ -1,0 +1,758 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "35",
+    "id": "20775",
+    "titulo": "Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2005-05-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3427",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2005-05-05",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "20774",
+        "leg": "X",
+        "nr": "34",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "834",
+            "obs": null,
+            "pag": [
+              "670-687"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-05-06",
+            "pubLeg": "X",
+            "pubNr": "17",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/670?pgs=670-687&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "834",
+            "obs": null,
+            "pag": [
+              "670-687"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-05-06",
+            "pubLeg": "X",
+            "pubNr": "17",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/670?pgs=670-687&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Limitação de mandatos dos eleitos locais."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "20787",
+        "leg": "X",
+        "nr": "4",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "834",
+            "obs": null,
+            "pag": [
+              "670-687"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-05-06",
+            "pubLeg": "X",
+            "pubNr": "17",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/670?pgs=670-687&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "834",
+            "obs": null,
+            "pag": [
+              "670-687"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-05-06",
+            "pubLeg": "X",
+            "pubNr": "17",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/670?pgs=670-687&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2005-05-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  PRESIDÊNCIA",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Silva Pereira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "670-671",
+                  "673-674",
+                  "687-687"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-05-06",
+                "pubLeg": "X",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/670?pgs=670-671,673-674,687&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais; Limitação de mandatos dos eleitos locais; Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "671-672",
+                  "685-685"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-05-06",
+                "pubLeg": "X",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/671?pgs=671-672,685&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais; Limitação de mandatos dos eleitos locais; Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "672-672"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-05-06",
+                "pubLeg": "X",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/672?pgs=672&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais; Limitação de mandatos dos eleitos locais; Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1245",
+                "nome": "António Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "673-673"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-05-06",
+                "pubLeg": "X",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/673?pgs=673&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais; Limitação de mandatos dos eleitos locais; Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "674-675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-05-06",
+                "pubLeg": "X",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/674?pgs=674-675&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais; Limitação de mandatos dos eleitos locais; Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1245",
+                "nome": "António Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "675-677"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-05-06",
+                "pubLeg": "X",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/675?pgs=675-677&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais; Limitação de mandatos dos eleitos locais; Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "180",
+                "nome": "Jorge Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "677-680"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-05-06",
+                "pubLeg": "X",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/677?pgs=677-680&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais; Limitação de mandatos dos eleitos locais; Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "680-680"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-05-06",
+                "pubLeg": "X",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/680?pgs=680&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais; Limitação de mandatos dos eleitos locais; Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "180",
+                "nome": "Jorge Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "680-681"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-05-06",
+                "pubLeg": "X",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/680?pgs=680-681&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais; Limitação de mandatos dos eleitos locais; Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "681-683"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-05-06",
+                "pubLeg": "X",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/681?pgs=681-683&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais; Limitação de mandatos dos eleitos locais; Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "551",
+                "nome": "Abílio Dias Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "683-685"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-05-06",
+                "pubLeg": "X",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/683?pgs=683-685&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais; Limitação de mandatos dos eleitos locais; Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2195",
+                "nome": "Ricardo Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "685-687"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-05-06",
+                "pubLeg": "X",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/685?pgs=685-687&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime da duração do exercício de funções do Primeiro Ministro, dos Presidentes dos Governos Regionais e do Mandato dos Presidentes dos Órgãos executivos das Autarquias Locais; Limitação de mandatos dos eleitos locais; Limitações temporais às nomeações para o exercício das funções de Primeiro-Ministro e de Presidente do Governo Regional.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "170105",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "298859",
+        "obs": null,
+        "pag": [
+          "670-687"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-05-06",
+        "pubLeg": "X",
+        "pubNr": "17",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/670?pgs=670-687&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
