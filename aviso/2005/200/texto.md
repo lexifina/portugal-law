@@ -1,0 +1,4 @@
+Aviso n.º 200/2005
+Por ordem superior se torna público que o Comité Administrativo do Acordo Relativo à Adopção de Condições Uniformes da Homologação e de Reconhecimento Recíproco de Homologação dos Equipamentos e Peças de Veículos a Motor, assinado em Genebra em 20 de Março de 1958, propôs emendas ao Regulamento n.º 54, assinado em Genebra em 1 de Março de 1983, Relativo à Adopção de Condições Uniformes de Homologação de Pneus para Automóveis e Seus Reboques.
+Portugal é Parte do mesmo Regulamento, aprovado pelo Decreto n.º 14/89, publicado no Diário da República, 1.ª série, n.º 90, de 18 de Abril de 1989, tendo entrado em vigor em 11 de Agosto de 1989 (Diário da República, 1.ª série, n.º 250, de 30 de Outubro de 1989).
+Direcção-Geral dos Assuntos Multilaterais, 23 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
