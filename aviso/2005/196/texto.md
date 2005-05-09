@@ -1,0 +1,5 @@
+Aviso n.º 196/2005
+Por ordem superior se torna público que, em 16 de Fevereiro de 2005, os Emirados Árabes Unidos depositaram o seu instrumento de adesão às Emendas introduzidas ao Protocolo de Montreal sobre as Substâncias Que Empobrecem a Camada de Ozono, adoptadas na 2.ª Reunião das Partes Contratantes do Protocolo, concluídas em Londres em 29 de Junho de 1990.
+Portugal é Parte das mesmas Emendas, aprovadas, para ratificação, pelo Decreto n.º 39/92, de 20 de Agosto, publicado no Diário da República, 1.ª série-A, n.º 191, de 20 de Agosto de 1992, tendo depositado o seu instrumento de ratificação em 24 de Novembro de 1992, conforme o Aviso n.º 88/93, publicado no Diário da República, 1.ª série-A, n.º 94, de 22 de Abril de 1993, sendo que as Emendas entraram em vigor para Portugal em 22 de Fevereiro de 1993 (Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 1998).
+As Emendas entrarão em vigor para os Emirados Árabes Unidos em 17 de Maio de 2005, conforme estipula o seu artigo 2.º, parágrafo 3.º
+Direcção-Geral dos Assuntos Multilaterais, 21 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
