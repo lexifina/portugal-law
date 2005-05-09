@@ -1,0 +1,6 @@
+Aviso n.º 203/2005
+Por ordem superior se torna público que o Secretário-Geral das Nações Unidas fez a seguinte declaração ao Regulamento n.º 109 do Acordo Relativo à Adopção de Condições Uniformes da Homologação e de Reconhecimento Recíproco de Homologação dos Equipamentos e Peças de Veículos a Motor, assinado em Genebra em 20 de Março de 1958.
+Declaração
+Nenhuma das Partes Contratantes que aplicam o Regulamento n.º 109 notificou o seu desacordo ao projecto de emendas no prazo de seis meses após a notificação depositária C.N.467.2004.TREATIES-1, de 13 de Maio de 2004. Consequentemente, em virtude do n.º 2 do artigo 12.º do Acordo, as Emendas são tidas como adoptadas e são obrigatórias para todas as Partes Contratantes, aplicando-se o Regulamento n.º 109 desde 13 de Novembro de 2004.
+Portugal é Parte do mesmo Regulamento, aprovado pelo Decreto n.º 14/89, publicado no Diário da República, 1.ª série-A, n.º 90, de 18 de Abril de 1989, tendo entrado em vigor em 11 de Agosto de 1989 (Diário da República, 1.ª série, n.º 250, de 30 de Outubro de 1989).
+Direcção-Geral dos Assuntos Multilaterais, 28 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
