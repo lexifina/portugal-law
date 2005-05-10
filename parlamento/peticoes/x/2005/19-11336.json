@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11336",
+  "numero": "19",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-05-10",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2006-07-21",
+            "dataResposta": "2006-08-17",
+            "entidades": [
+              "Ministro dos Assuntos Parlamentares"
+            ],
+            "nrOficio": "124/10ª/CS/2006",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d454e544c305276593356745a57353062334e515a585270593246764c7a63774d5445344e324d7a4c5745344f544d744e44426b5a6931685a475a694c5759325a6d46684e544d334e546b784f5335775a47593d&fich=701187c3-a893-40df-adfb-f6faa5375919.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2007-02-23",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-06-21",
+        "DataArquivo": "2007-02-28",
+        "DataBaixaComissao": "2005-06-21",
+        "DataEnvioPAR": "2007-03-07",
+        "DataReaberta": "2005-06-21",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-05-10",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d454e544c305276593356745a57353062334e515a585270593246764c7a49314d6d466c5a6a67354c54426a4d4745744e44426b4d4330345a4745784c5745775a6a45335a6d55314d7a5178596935775a47593d&fich=252aef89-0c0a-40d0-8da1-a0f17fe5341b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2005-05-10",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d454e544c305276593356745a57353062334e515a585270593246764c7a63774d5445344e324d7a4c5745344f544d744e44426b5a6931685a475a694c5759325a6d46684e544d334e546b784f5335775a47593d&fich=701187c3-a893-40df-adfb-f6faa5375919.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-05-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d454e544c305276593356745a57353062334e515a585270593246764c7a517a4e7a4d314d444d784c546c6d595745744e474d334d7930354e6a637a4c54417759546c6a4e444178595446694d6935775a47593d&fich=43735031-9faa-4c73-9673-00a9c401a1b2.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "252",
+        "Legislatura": "X",
+        "Nome": "Comissão de Saúde (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-06-07",
+            "gp": "PSD",
+            "id": "2114",
+            "motivoCessacao": null,
+            "nome": "Emídio Guerreiro"
+          }
+        ],
+        "RelatorioFinal": [
+          "21958"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2005-05-10",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396c4d444a684f4756684e79307a4e5451304c545131596d5174595759344d79316d4d4449795a54646a4f444d7a4f5759756347526d&fich=e02a8ea7-3544-45bd-af83-f022e7c8339f.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11336",
+    "PetAssunto": "Denúncia de erro médico ocorrido no Hospital Distrital de Chaves levando o doente a ser internado nos cuidados intensivos do Hospital de Santo António, no Porto, com Pancreatite Aguda Edematosa.",
+    "PetDataEntrada": "2005-05-10",
+    "PeticoesAssociadas": null,
+    "PetId": "11336",
+    "PetLeg": "X",
+    "PetNr": "19",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
