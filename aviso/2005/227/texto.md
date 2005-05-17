@@ -1,0 +1,4 @@
+Aviso n.º 227/2005
+Por ordem superior se torna público que a Convenção para a Repressão da Captura Ilícita de Aeronaves, assinada na Haia em 16 de Dezembro de 1970, entrou em vigor para o Principado de Andorra no dia 23 de Outubro de 2004.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 386/72, publicado no Diário do Governo, 1.ª série, n.º 238, de 12 de Outubro de 1972, tendo depositado o seu instrumento de ratificação em 27 de Novembro de 1972 (Diário do Governo, 1.ª série, n.º 299, suplemento, de 27 de Dezembro de 1972), e tendo entrado em vigor para Portugal em 27 de Dezembro de 1972 (Diário da República, 1.ª série, n.º 83, de 8 de Abril de 2003).
+Direcção-Geral dos Assuntos Multilaterais, 18 de Abril de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
