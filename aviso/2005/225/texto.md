@@ -1,0 +1,5 @@
+Aviso n.º 225/2005
+Por ordem superior se torna público que, em 22 de Março de 2005, a Sérvia e Montenegro depositaram o seu instrumento de adesão às Emendas introduzidas ao Protocolo de Montreal sobre as Substâncias Que Empobrecem a Camada de Ozono, adoptadas na 2.ª Reunião das Partes Contratantes do Protocolo, concluídas em Londres em 29 de Junho de 1990.
+Portugal é Parte das mesmas Emendas, aprovadas, para ratificação, pelo Decreto n.º 39/92, de 20 de Agosto, publicado no Diário da República, 1.ª série-A, n.º 191, de 20 de Agosto de 1992, tendo Portugal depositado o seu instrumento de ratificação às Emendas em 24 de Novembro de 1992, conforme o Aviso n.º 88/93, publicado no Diário da República, 1.ª série-A, n.º 94, de 22 de Abril de 1993.
+As Emendas entrarão em vigor para a Sérvia e Montenegro em 20 de Junho de 2005, conforme estipula o seu artigo 2.º, n.º 3.
+Direcção-Geral dos Assuntos Multilaterais, 18 de Abril de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
