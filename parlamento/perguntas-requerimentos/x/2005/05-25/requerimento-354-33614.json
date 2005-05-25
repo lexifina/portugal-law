@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "33614",
+  "tipo": "Requerimento",
+  "numero": "354",
+  "data_registo": "2005-05-25",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Escola Prática de Polícia",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "2069",
+        "nome": "Jorge Machado"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "209",
+        "nome": "António Filipe"
+      }
+    ],
+    "DataEnvio": "2005-05-30",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2005-05-30",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DE ESTADO  E DA  ADMINISTRAÇÃO INTERNA",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2005-07-08",
+            "docRemetida": null,
+            "entidade": "MIN.  DE ESTADO  E DA  ADMINISTRAÇÃO INTERNA",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443396a5a4759304d7a49794d6931684d7a5a694c54526b4e444d744f4445314f53307a4d6a45334e324a6c4d4745334d6a45756347526d&fich=cdf43222-a36b-4d43-8159-32177be0a721.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2005-05-25",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338345a574e6d4e57457a597930774d6a67794c545268593249745954497a4e433169597a51784d4755305a6a52684e4751756347526d&fich=8ecf5a3c-0282-4acb-a234-bc410e4f4a4d.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "33614",
+    "Legislatura": "X",
+    "Nr": "354",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "306165",
+        "obs": null,
+        "pag": [
+          "36-37"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2005",
+        "pubLeg": "X",
+        "pubNr": "9",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/009S1/2005-06-18/36?pgs=36-37&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
