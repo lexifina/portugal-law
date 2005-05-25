@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 97/2005
+A LABICER - Laboratório Industrial Cerâmico, S. A., é uma sociedade recentemente constituída que tem por objecto o desenvolvimento de componentes para a indústria e o fabrico, a importação, a exportação, a comercialização e a distribuição de produtos cerâmicos.
+A LABICER - Laboratório Industrial Cerâmico, S. A., decidiu realizar um projecto de investimento que consiste na criação de uma unidade fabril para o fabrico de produtos cerâmicos e revestimentos produzidos pela sociedade através da utilização de sistemas e técnicas inovadores quer ao nível do processo quer do produto.
+O investimento em causa ronda 33,3 milhões de euros e prevê um valor de vendas acumulado de cerca de 81,1 milhões de euros em 2006 bem como a criação de 106 postos de trabalho.
+Deste modo, considera-se que este projecto, pelo seu mérito, demonstra especial interesse para a economia nacional e reúne as condições necessárias à admissão ao regime contratual e à concessão de incentivos financeiros e fiscais previstos para grandes projectos de investimento.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar a minuta do contrato de investimento e respectivos anexos a celebrar entre o Estado Português, representado pela Agência Portuguesa para o Investimento, E. P. E., a LABICER - Laboratório Industrial Cerâmico, S. A., e Telmo Belino Pedreiras dos Reis que tem por objecto a criação da unidade industrial daquela sociedade.
+2 - Atento ao disposto no n.º 1 do artigo 39.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 198/2001, de 3 de Julho, e pela Lei n.º 109-B/2001, de 27 de Dezembro, e no Decreto-Lei n.º 409/99, de 15 de Outubro, sob proposta do Ministro de Estado e das Finanças, conceder os benefícios fiscais em sede de IRC, de imposto municipal sobre imóveis, de imposto municipal sobre as transmissões onerosas de imóveis e de imposto do selo que constam do contrato de investimento e do contrato de concessão de benefícios fiscais.
+3 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 30 de Abril de 2005. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
