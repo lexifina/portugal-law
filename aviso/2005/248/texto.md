@@ -1,0 +1,6 @@
+Aviso n.º 248/2005
+Por ordem superior se torna público que, em 22 de Março de 2005, a China depositou uma comunicação de exclusão territorial no que concerne à Região Administrativa Especial de Hong-Kong à Convenção de Roterdão Relativa ao Procedimento de Prévia Informação e Consentimento para Determinados Produtos Químicos e Pesticidas Perigosos no Comércio Internacional, assinada em Roterdão em 11 de Setembro de 1998, relativamente a Hong-Kong e a Macau:
+«Declaração
+Conforme dispõe o artigo 138.º da lei fundamental da Região Administrativa Especial de Macau (República Popular da China) e o artigo 153.º da lei fundamental da Região Especial Administrativa de Hong-Kong (República Popular da China), o Governo da República Popular da China decidiu aplicar a Convenção à Região Especial Administrativa de Macau (República Popular da China), e não à Região Administrativa Especial de Hong-Kong (República Popular da China), até aviso do Governo da China.»
+Portugal é Parte da mesma Convenção, aprovada pelo Decreto n.º 33/2004, publicado no Diário da República, 1.ª série-A, n.º 255, de 29 de Outubro de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 18 de Abril de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
