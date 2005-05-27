@@ -1,0 +1,5 @@
+Aviso n.º 254/2005
+Por ordem superior se torna público que, em 10 de Outubro de 2001 e em 12 de Abril de 2005, foram emitidas notas, respectivamente da Embaixada da República da Lituânia em Lisboa e do Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República da Lituânia e a República Portuguesa no Domínio do Turismo, assinado em Lisboa em 8 de Novembro de 1999.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 24/2002, publicado no Diário da República, 1.ª série-A, n.º 175, de 31 de Julho de 2002.
+Nos termos do artigo 11.º do Acordo, este Acordo entrou em vigor na data da recepção da última notificação sobre o cumprimento das formalidades internas exigidas, ou seja, à data da recepção da nota verbal da República Portuguesa, em 18 de Abril de 2005.
+Direcção-Geral das Relações Bilaterais, 27 de Abril de 2005. - O Director dos Serviços da Europa, Pedro Costa Pereira.
