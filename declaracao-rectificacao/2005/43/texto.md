@@ -1,0 +1,6 @@
+Declaração de Rectificação n.º 43/2005
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 81/2005, publicada no Diário da República, 1.ª série, n.º 63, de 31 de Março de 2005, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+1 - No prefácio, onde se lê «De igual modo, a correcção da dilimitação das unidades operativas, previstas no n.º 6 do artigo 65.º do regulamento» deve ler-se «De igual modo, a correcção da delimitação das unidades operativas, previstas no n.º 5 do artigo 65.º do regulamento».
+2 - No n.º 1 do artigo 58.º, onde se lê «Nesta área não são permitidas operações de loteamento, admitindo-se apenas construções nas condições referidas nas alíneas a), b), c) e d) do n.º 1 do artigo 52.º deste regulamento.» deve ler-se «Nesta área não são permitidas operações de loteamento, admitindo-se apenas construções nas condições referidas nas alíneas a), b), c) e d) do n.º 1 do artigo 53.º deste regulamento.».
+3 - No n.º 2 do artigo 75.º, onde se lê «será justificada no estudo técnico referido no n.º 1 do artigo 76.º deste regulamento» deve ler-se «será justificada no estudo técnico referido no n.º 1 do artigo 77.º deste regulamento».
+Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Maio de 2005. - O Secretário-Geral, José M. Sousa Rego.
