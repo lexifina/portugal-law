@@ -1,0 +1,5 @@
+Aviso n.º 257/2005
+Por ordem superior se torna público que, respectivamente em 9 e em 17 de Março de 2005, a Uganda e o Malawi depositaram os seus instrumentos de ratificação à Convenção das Nações Unidas contra a Criminalidade Organizada Transnacional, concluída em Nova Iorque em 15 de Novembro de 2000.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 32/2004, tendo sido ratificada pelo Decreto do Presidente da República n.º 19/2004, publicado no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, e tendo Portugal depositado o seu instrumento de ratificação em 10 de Maio de 2004, conforme o Aviso n.º 121/2004, publicado no Diário da República, 1.ª série-A, n.º 141, de 17 de Junho de 2004.
+Nos termos do artigo 38.º, n.º 2, da Convenção, esta entrou em vigor para a Uganda em 8 de Abril de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 28 de Abril de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
