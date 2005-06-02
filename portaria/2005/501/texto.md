@@ -1,0 +1,9 @@
+Portaria n.º 501/2005
+de 2 de Junho
+Tendo em conta a vulnerabilidade do nosso país relativamente aos efeitos da seca sobre o teor de humidade dos combustíveis de áreas florestais, agrícolas e urbanizadas e que lhes são contíguas, ao elevado número de ocorrências causadas pelo homem e suas actividades nestes espaços rurais, nomeadamente o uso do fogo através de queimadas, foguetes, fogueiras, queima de sobrantes, utilização de maquinaria, fumar ou foguear;
+Tendo em conta a importância de reduzir o número de ocorrências, nomeadamente num ano de seca, onde a probabilidade de um acontecimento singular é superior, a anos anteriores, em se transformar num incêndio de elevadas proporções e elevados danos;
+Tendo em consideração que o dispositivo de vigilância, detecção, alerta e combate irá entrar em funcionamento de 15 de Maio em diante, procurando detectar rápido as ocorrências e garantir o combate pronto e eficaz;
+Tendo em consideração que urge, atempadamente, gerir o risco de incêndio e dar primazia à utilização racional dos recursos humanos, materiais e financeiros afectos à vigilância, detecção, alerta, primeira intervenção, combate e rescaldo na preservação do património florestal existente, na salvaguarda do património edificado e nas vidas humanas:
+Assim:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo da alínea f) do artigo 3.º do Decreto-Lei n.º 156/2004, de 30 de Junho, que, por força de circunstâncias meteorológicas excepcionais, se estabeleça que o período crítico, no âmbito do Sistema Nacional de Prevenção e Protecção da Floresta contra Incêndios, vigore de 15 de Maio a 30 de Setembro, durante o qual se asseguram medidas especiais de prevenção contra incêndios florestais.
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 10 de Maio de 2005.
