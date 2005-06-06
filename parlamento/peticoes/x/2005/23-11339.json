@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11339",
+  "numero": "23",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-06-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2006-01-09",
+            "dataResposta": "2006-03-06",
+            "entidades": [
+              "Presidente da Câmara Municipal da Amadora"
+            ],
+            "nrOficio": "111/DAC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539554c305276593356745a57353062334e515a585270593246764c324a6a4e6d526d4e3255334c5746695a4441744e4459345a5330344d574d784c5459324f5456695a4749794e546b334e7935775a47593d&fich=bc6df7e7-abd0-468e-81c1-6695bdb25977.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2006-01-16",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-06-14",
+        "DataArquivo": "2007-01-23",
+        "DataBaixaComissao": "2005-06-14",
+        "DataEnvioPAR": "2007-01-26",
+        "DataReaberta": "2005-06-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-06-06",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539554c305276593356745a57353062334e515a585270593246764c7a6b784d44677a5a544e6c4c544a6c593245744e4755354f5330344e6d45774c5749314d475977596a51334d54597a4d4335775a47593d&fich=91083e3e-2eca-4e99-86a0-b50f0b471630.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2005-06-06",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539554c305276593356745a57353062334e515a585270593246764c324a6a4e6d526d4e3255334c5746695a4441744e4459345a5330344d574d784c5459324f5456695a4749794e546b334e7935775a47593d&fich=bc6df7e7-abd0-468e-81c1-6695bdb25977.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-06-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539554c305276593356745a57353062334e515a585270593246764c324e6b4f446b7a4d4749784c5459354e4759744e446b355a69316859544a684c545269596a4130596a4e694f4749784d4335775a47593d&fich=cd8930b1-694f-499f-aa2a-4bb04b3b8b10.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "249",
+        "Legislatura": "X",
+        "Nome": "Comissão de Poder Local, Ambiente e Ordenamento do Território (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-07-12",
+            "gp": "PSD",
+            "id": "2128",
+            "motivoCessacao": null,
+            "nome": "Miguel Almeida"
+          }
+        ],
+        "RelatorioFinal": [
+          "22027"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2005-06-06",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396b5a6d4d7a595759324e4330334e446b304c5451775a474974596a646b4e7931695a54526b4e444d325a574a6a4e4751756347526d&fich=dfc3af64-7494-40db-b7d7-be4d436ebc4d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11339",
+    "PetAssunto": "Pedido de ajuda relativo a hipoteca de casa própria e respectiva ordem de despejo e consequente situação do agregado familiar da peticionária.",
+    "PetDataEntrada": "2005-06-06",
+    "PeticoesAssociadas": null,
+    "PetId": "11339",
+    "PetLeg": "X",
+    "PetNr": "23",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
