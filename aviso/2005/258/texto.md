@@ -1,0 +1,5 @@
+Aviso n.º 258/2005
+Por ordem superior se torna público que, em 19 de Janeiro de 2005, a República do Usbequistão depositou o seu instrumento de adesão ao Acto de Paris da Convenção de Berna para a Protecção das Obras Literárias e Artísticas (de 9 de Setembro de 1886, revista em 24 de Julho de 1971 e modificada em 28 de Setembro de 1979), de 24 de Julho de 1971.
+Portugal é Parte do mesmo Acto, aprovado, para adesão, pelo Decreto n.º 73/78, publicado no Diário da República, 1.ª série, n.º 170, de 26 de Julho de 1978, tendo aderido em 10 de Outubro de 1978, conforme o aviso publicado no Diário da República, 1.ª série, n.º 1, de 2 de Janeiro de 1979, e tendo o Acto entrado em vigor em 12 de Janeiro de 1979 (Diário da República, 1.ª série, n.º 1, de 2 de Janeiro de 1979).
+O Acto de Paris entrou em vigor para a República do Usbequistão em 19 de Abril de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 6 de Maio de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
