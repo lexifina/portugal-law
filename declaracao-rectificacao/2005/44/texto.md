@@ -1,0 +1,6 @@
+Declaração de Rectificação n.º 44/2005
+Para os devidos efeitos se declara que o Decreto-Lei n.º 85/2005, publicado no Diário da República, 1.ª série, n.º 82, de 28 de Abril de 2005, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+1 - Na subalínea vii) da alínea b) do n.º 2 do artigo 2.º, onde se lê «conforme o estabelecido nos artigos 4.º [com excepção das alíneas c), d), e) e f)], 5.º [com excepção das alíneas a), b), c), d), f) e g)] e 6.º [com excepção das alíneas c), d), e), f), g), j) e l)]» deve ler-se «conforme o estabelecido no n.º 1 do artigo 4.º [com excepção das alíneas c), d, e) e f)], no n.º 1 do artigo 5.º [com excepção das alíneas a), b), c), d), f) e g)] e no n.º 1 do artigo 6.º [com excepção das alíneas c), d), e), f), g), j) e l)]».
+2 - No n.º 1 do artigo 16.º, onde se lê «no prazo de um ano contado da data da emissão da licença de instalação,» deve ler-se «no prazo de um ano contado da data da emissão da licença de exploração,».
+3 - No n.º 4 do artigo 28.º, onde se lê «da sua fracção solúvel total na fracção solúvel de metais pesados.» deve ler-se «da sua fracção solúvel total e a fracção solúvel de metais pesados.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 25 de Maio de 2005. - O Secretário-Geral, José M. Sousa Rego.
