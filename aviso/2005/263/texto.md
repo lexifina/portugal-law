@@ -1,0 +1,8 @@
+Aviso n.º 263/2005
+Por ordem superior se torna público que o Secretariado-Geral do Conselho da União Europeia notificou, pela nota n.º 4522, de 20 de Abril de 2005, ter a República de Chipre concluído, em 31 de Março de 2005, as formalidades previstas pelas respectivas normas constitucionais para a entrada em vigor dos seguintes textos:
+Convenção, estabelecida com base no artigo K.3 do Tratado da União Europeia, Relativa à Protecção dos Interesses Financeiros das Comunidades Europeias, assinada em 26 de Julho de 1995 em Bruxelas;
+Protocolo, estabelecido com base no artigo K.3 do Tratado da União Europeia, da Convenção Relativa à Protecção dos Interesses Financeiros das Comunidades Europeias, assinado em 27 de Setembro de 1996 em Dublim;
+Protocolo, estabelecido com base no artigo K.3 do Tratado da União Europeia, relativo à interpretação a título prejudicial, pelo Tribunal de Justiça das Comunidades Europeias da Convenção Relativa à Protecção dos Interesses Financeiros das Comunidades Europeias, assinado em 29 de Novembro de 1996 em Bruxelas.
+Nos termos dos artigos 12.º, n.º 4, 10.º, n.º 4, e 17.º, n.º 4, respectivamente, a Convenção e os Protocolos entram em vigor na República de Chipre em 29 de Junho de 2005.
+Portugal é Parte na Convenção e nos Protocolos, aprovados, para ratificação, pela Resolução da Assembleia da República n.º 86/2000 e ratificados pelo Decreto do Presidente da República n.º 82/2000, ambos publicados no Diário da República, 1.ª série-A, n.º 288, de 15 de Dezembro de 2000, com as reservas e declarações neles constantes.
+Direcção-Geral dos Assuntos Comunitários, 11 de Maio de 2005. - O Director do Serviço dos Assuntos Jurídicos, Luís Inez Fernandes.
