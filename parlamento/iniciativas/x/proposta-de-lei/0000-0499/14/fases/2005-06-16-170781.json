@@ -1,0 +1,648 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "14",
+    "id": "20884",
+    "titulo": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2005-06-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3463",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2005-06-16",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2005-06-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "Luís Campos E Cunha"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1252-1253",
+                  "1255-1257",
+                  "1259-1259"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-17",
+                "pubLeg": "X",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1252?pgs=1252-1253,1255-1257,1259&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1253-1253"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-17",
+                "pubLeg": "X",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1253?pgs=1253&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1254-1254"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-17",
+                "pubLeg": "X",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1254?pgs=1254&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152569",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1254-1255"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-17",
+                "pubLeg": "X",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1254?pgs=1254-1255&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1592",
+                "nome": "Vítor Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1257-1257"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-17",
+                "pubLeg": "X",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1257?pgs=1257&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1258-1258"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-17",
+                "pubLeg": "X",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1258?pgs=1258&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2249",
+                "nome": "Aldemira Pinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1259-1260"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-17",
+                "pubLeg": "X",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1259?pgs=1259-1260&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1260-1262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-17",
+                "pubLeg": "X",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1260?pgs=1260-1262&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1977",
+                "nome": "António Gameiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1262-1264"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-17",
+                "pubLeg": "X",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1262?pgs=1262-1264&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1264-1265"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-17",
+                "pubLeg": "X",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1264?pgs=1264-1265&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1265-1266"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-17",
+                "pubLeg": "X",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1265?pgs=1265-1266&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1266-1266"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-17",
+                "pubLeg": "X",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1266?pgs=1266&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, e legislação complementar procedendo ao aumento da taxa normal deste imposto.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "170781",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3463",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-06-17",
+        "pubLeg": "X",
+        "pubNr": "31",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
