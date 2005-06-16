@@ -1,0 +1,158 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=NcsHHdaa6jvttRWoxPJ73b3%2f2%2ftQZdxqvgcwR9HhU6U72YBnemmk1zfDnkyJC2khVisd94odYdzMlZ0%2f%2fX4wPsJ79iFJjtn07b3tBvqgQzvKu%2bXIs%2bW%2fX8sXyHLXgUpmADPU0OwIHExaxkaIGSH27FrUlMES%2fqZOhmEHSO3a6tOd8bMJIApMe8Js7ZDhWUXISToTI6Gt9UghhDLfWD%2bHtBCeQ2qHGcYyClLE8utG3Stl1XFXCi888QLjScx4CE8zDeHjIbAAJuoVAsMVPsZ7keNRSzw3mFkm%2f1dLA2Gj4Wi2z4QDYrHPqtV%2f0OYUVaYz3wUZej3UCuBc0xVIyPkQ5n1u3x%2bvYwtMviSRulY3%2bLc%3d&fich=AtividadesX_json.txt&Inline=true",
+  "ficheiro_sha256": "ebfe74c166306d899b60b6dc4babfc7d5533752981b0ad8bca289da158595cb6",
+  "legislatura": "X",
+  "tipo": "Voto",
+  "numero": "12",
+  "data_registo": "2005-06-16",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Pesar pelo falecimento do General Vasco Gonçalves",
+    "AutoresGP": [
+      "PCP",
+      "José Soeiro (PCP)",
+      "Agostinho Lopes (PCP)",
+      "Jerónimo de Sousa (PCP)",
+      "Bernardino Soares (PCP)",
+      "António Filipe (PCP)",
+      "Miguel Tiago (PCP)",
+      "Honório Novo (PCP)",
+      "Jorge Machado (PCP)",
+      "Luísa Mesquita (PCP)",
+      "Abílio Dias Fernandes (PCP)",
+      "Francisco Lopes (PCP)",
+      "Odete Santos (PCP)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2005-06-16",
+    "DataAnuncio": null,
+    "DataEntrada": "2005-06-16",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "X",
+    "Numero": "12",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "300370",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-06-18",
+        "pubLeg": "X",
+        "pubNr": "9",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/009/2005-06-18/2?pgs=2&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "21730",
+        "obs": null,
+        "pag": [
+          "1267-1271"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-06-17",
+        "pubLeg": "X",
+        "pubNr": "31",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1267?pgs=1267-1271&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2005-06-16",
+        "descricao": "Parte preambular",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>CDS-PP</I><BR>Abstenção:<I>PSD</I>",
+        "id": "33085",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "299870",
+            "obs": null,
+            "pag": [
+              "1271-1271"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-06-17",
+            "pubLeg": "X",
+            "pubNr": "31",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1271?pgs=1271&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "31",
+        "tipoReuniao": null,
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2005-06-16",
+        "descricao": "Parte dispositiva",
+        "detalhe": null,
+        "id": "33110",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "299873",
+            "obs": null,
+            "pag": [
+              "1271-1271"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-06-17",
+            "pubLeg": "X",
+            "pubNr": "31",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/031/2005-06-17/1271?pgs=1271&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "31",
+        "tipoReuniao": null,
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
