@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11356",
+  "numero": "40",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-06-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2006-07-07",
+            "dataResposta": "2006-08-18",
+            "entidades": [
+              "Ministério da Agricultura, Desenvolvimento Regional e Pescas"
+            ],
+            "nrOficio": "64/CAEIDR/2006",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453383251304646535552534c305276593356745a57353062334e515a585270593246764c7a526c4f5449344d7a51784c54597a4e6a45744e4745304d5331684d7a63324c5759355a6a6c6b4d544a6a5a6a41785a6935775a47593d&fich=4e928341-6361-4a41-a376-f9f9d12cf01f.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2006-12-12",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-07-27",
+        "DataArquivo": "2006-12-19",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2006-12-19",
+        "DataReaberta": "2005-07-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-06-17",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453383251304646535552534c305276593356745a57353062334e515a585270593246764c7a646d597a4e6a597a686d4c574e6a4d4451744e4749784d4330355a6d497a4c545a6d597a59354d574e6c4d6a566a4d7935775a47593d&fich=7fc3cc8f-cc04-4b10-9fb3-6fc691ce25c3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2005-06-17",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453383251304646535552534c305276593356745a57353062334e515a585270593246764c7a526c4f5449344d7a51784c54597a4e6a45744e4745304d5331684d7a63324c5759355a6a6c6b4d544a6a5a6a41785a6935775a47593d&fich=4e928341-6361-4a41-a376-f9f9d12cf01f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-06-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453383251304646535552534c305276593356745a57353062334e515a585270593246764c7a5a6a4e5751304d4455784c54646d4d6d51744e446b774f5330354d544d794c5751304e6d4e6c4e575669597a526d4d7935775a47593d&fich=6c5d4051-7f2d-4909-9132-d46ce5ebc4f3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "248",
+        "Legislatura": "X",
+        "Nome": "Comissão de Assuntos Económicos, Inovação e Desenvolvimento Regional (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-07-27",
+            "gp": "PS",
+            "id": "2109",
+            "motivoCessacao": null,
+            "nome": "Lúcio Ferreira"
+          }
+        ],
+        "RelatorioFinal": [
+          "22310"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2005-06-17",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c63793834596a4d324e546b354d69307a4d6a637a4c5451795a6d457459574e6a4e4330345a6a6b774e6d4d774d4441315a6d49756347526d&fich=8b365992-3273-42fa-acc4-8f906c0005fb.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11356",
+    "PetAssunto": "Solicita a revisão do Decreto-Lei 246/2000 de 29 de Setembro e um estudo sobre o comércio clandestino de pescado.",
+    "PetDataEntrada": "2005-06-17",
+    "PeticoesAssociadas": null,
+    "PetId": "11356",
+    "PetLeg": "X",
+    "PetNr": "40",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
