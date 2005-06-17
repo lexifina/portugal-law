@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11352",
+  "numero": "36",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-06-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2006-07-20",
+            "dataResposta": "2006-08-10",
+            "entidades": [
+              "Ministro dos Assuntos Parlamentares"
+            ],
+            "nrOficio": "59/5ªCOF/2006",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039474c305276593356745a57353062334e515a585270593246764c32566b5a6a55354e4441334c544e694e544d744e474d774d7931684f5759344c54566d595467795a6a49324e4455344f5335775a47593d&fich=edf59407-3b53-4c03-a9f8-5fa82f264589.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2006-10-06",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-07-13",
+        "DataArquivo": "2006-10-11",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2006-10-11",
+        "DataReaberta": "2005-07-13",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-06-17",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039474c305276593356745a57353062334e515a585270593246764c7a457a4d47566d5a544e684c57466a4d7a41744e446b324e7931695a574e6c4c544a6d59324e6a5a6a4e694d6a67794d5335775a47593d&fich=130efe3a-ac30-4967-bece-2fcccf3b2821.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2005-06-17",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039474c305276593356745a57353062334e515a585270593246764c32566b5a6a55354e4441334c544e694e544d744e474d774d7931684f5759344c54566d595467795a6a49324e4455344f5335775a47593d&fich=edf59407-3b53-4c03-a9f8-5fa82f264589.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-06-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039474c305276593356745a57353062334e515a585270593246764c324934595749354e6a4e6d4c546333595445744e475a6a4d4330354d575a6a4c54646a596a41305957526a596a4579595335775a47593d&fich=b8ab963f-77a1-4fc0-91fc-7cb04adcb12a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "247",
+        "Legislatura": "X",
+        "Nome": "Comissão de Orçamento e Finanças (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-07-13",
+            "gp": "PS",
+            "id": "2225",
+            "motivoCessacao": null,
+            "nome": "Hortense Martins"
+          }
+        ],
+        "RelatorioFinal": [
+          "21972"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2005-06-17",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c63793833596a59315a47517a5969316b4d7a49324c5451794d6a51744f474d344e6930794e7a466a4d7a4a6c4d7a6c694d4449756347526d&fich=7b65dd3b-d326-4224-8c86-271c32e39b02.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11352",
+    "PetAssunto": "Violação do Princípio da Proporcionalidade quanto ao montante do Imposto Municipal sobre Veículos.",
+    "PetDataEntrada": "2005-06-17",
+    "PeticoesAssociadas": null,
+    "PetId": "11352",
+    "PetLeg": "X",
+    "PetNr": "36",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
