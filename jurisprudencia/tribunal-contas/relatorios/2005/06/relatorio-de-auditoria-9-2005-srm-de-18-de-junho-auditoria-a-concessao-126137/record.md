@@ -1,0 +1,61 @@
+# Relatório de Auditoria 9/2005 - SRM de 18 de junho - Auditoria à concessão RAM/VIALITORAL - 2002 e 2003
+
+**Designação:** Relatório de Auditoria 9/2005 - SRM de 18 de junho - Auditoria à concessão RAM/VIALITORAL - 2002 e 2003
+
+**Data do documento:** 2005-06-18
+
+**Espécie:** Relatórios de Auditoria, de Verificação Externa de Contas, de Verificação Interna de Contas, de Acompanhamento da Execução Orçamental, de Apuramento de Responsabilidades, OAC
+
+**Tipo de documento:** Relatório de Auditoria
+
+**Relator:** Manuel Roberto Mota Botelho
+
+**Entidades:** Secretaria Regional do Equipamento Social e Transportes; VIALITORAL - Concessões Rodoviárias da Madeira, S.A.; Direção Regional de Estradas-Região Autónoma Madeira; Direção Regional de Planeamento e Finanças
+
+**Descritores:** CONTRATO DE CONCESSÃO; CONTRATO DE CONCESSÃO DE SERVIÇOS PÚBLICOS; ESTUDO COMPARADOR PÚBLICO; PARCERIA PÚBLICO PRIVADA; PORTAGEM SEM CUSTOS PARA O UTILIZADOR (SCUT); REGIÃO AUTÓNOMA DA MADEIRA; RENDAS
+
+**Texto integral (PDF oficial):** https://www.tcontas.pt/pt-pt/ProdutosTC/Relatorios/RelatoriosAuditoria/Documents/2005/rel009-2005-srmtc.pdf
+
+**Registo oficial:** https://tcjure.tcontas.pt/GetDocument.aspx?numero=126137
+
+## Sumário
+
+1.2. Observações
+1.2.1. Apreciação global
+a) O DLR n.º 21-A/99/M, de 24 de Agosto, ao criar a VIALITORAL, concessionou-lhe a exploração e manutenção da ER 101, compreendida entre a Ribeira Brava e Machico, numa extensão de 36,938 km de via. Posteriormente, o art.º 42.º do DLR n.º 4-A/2001/M, de 3 de Abril , acrescentou à concessão o troço entre Machico e Caniçal, com 7,26 km.
+b) Na concessão, em que não estão presentes os riscos de derrapagens temporais e financeiras associados à concepção e construção da infra-estrutura rodoviária, recaem:
+• Sobre a concessionária, os riscos de procura de tráfego, de operação e manutenção, de desempenho (sujeito a penalizações), de subcontratação junto de terceiros no âmbito da actividade concessionada, e o financeiro;
+• E sobre a concedente, riscos relacionados com situações que ponham em causa o equilíbrio financeiro da concessão, das quais resultem alterações com impacto no RCSD, no RCVE ou na TIR.
+c) Em 31 de Dezembro de 2003, a accionista RAM tinha uma participação de 20%, ou seja, de €.3.750.000,00, no capital social subscrito da VIALITORAL, que atingia o total de €.18.750.000,00, repartido por 100.000 acções com o valor nominal de € 187,50 cada.
+d) Os encargos suportados pela RAM, incluindo a comparticipação comunitária, com as expropriações de terrenos e a concepção e construção dos três primeiros lanços da via concessionada (com a extensão de 32,42 km, entre a Ribeira Brava e o Aeroporto) totalizavam, em finais de 2003, € 600.763.637,03, com um custo médio por km de € 18,5 milhões.
+e) No modelo de financiamento subjacente à concessão, assume particular relevância a obrigação imposta à VIALITORAL de, pela transferência da totalidade dos lanços da via concessionada, pagar à RAM o valor de € 324.218.633,54, o que gerou fluxos de receita extraordinária, em igual montante, nos anos de 1999 a 2004.
+f) No processo de montagem da concessão, não foram explicitados os critérios que presidiram à quantificação do esforço financeiro exigido à concessionária por conta da entrega dos lanços concessionados (€ 324.218.633,54), cuja razão de ser entronca, aparentemente, na necessidade do capital, num contexto em que sobressai a desvantagem de o financiamento privado ser mais caro.
+g) No mesmo modelo, a concessionária tem o direito a receber as importâncias relativas às portagens SCUT, devidas em função do volume de tráfego registado e as demais receitas previstas no CC e quaisquer outros rendimentos obtidos no âmbito da concessão. A lógica é a de as rendas suportadas pela Região, ao longo do período da concessão (25 anos), remunerarem a actividade de exploração e manutenção da via e o seu financiamento, de maneira a garantir à sociedade concessionária quer a cobertura dos custos operacionais e dos encargos financeiros quer ainda a remuneração dos capitais investidos pelos respectivos accionistas.
+h) Atento o significativo envolvimento financeiro da RAM e o princípio de que uma opção deste tipo apenas encontra justificação quando se revelar proveitosa em confronto com o comparador do sector público, ficou por demonstrar que a concessão da actividade de exploração e manutenção da via concessionada representa vantagens, nomeadamente económicas, sobre o recurso ao tradicional meio alternativo de financiamento via OR.
+i) Não houve igualmente a preocupação de antecipadamente, numa visão prospectiva, analisar os efeitos a longo prazo sobre as contas públicas regionais, designadamente, o esforço financeiro exigível às gerações vindouras, e que vinculam no nosso tempo, as administrações orçamentais do futuro. Essa preocupação com o horizonte plurianual das finanças públicas regionais visa, por um lado, permitir aos decisores públicos avaliar objectivamente, em toda a sua dimensão e projecção temporal, os custos e benefícios da opção tomada, e, por outro, habilitar a concedente a evidenciar e enquadrar orçamentalmente os compromissos financeiros decorrentes do contrato.
+j) Para o período de duração da concessão, os custos de médio e longo prazo a satisfazer pela RAM foram estimados em cerca de 1,18 mil milhões de euros, os quais, no entanto, não têm sido objecto de orçamentação plurianual, quando, pelo reflexo que comportam em termos de alteração do perfil da despesa pública regional, afectam e condicionam parte dos respectivos orçamentos futuros.
+k) À luz do PEC e na óptica do SEC, os fluxos financeiros gerados pelo CC não constituem dívida pública, devendo ser-lhes dado o seguinte tratamento contabilístico:
+• A receita obtida pela RAM, reconfigurá-la num valor equivalente de rendas, a distribuir pelos anos da concessão, cujo valor anual seria registado como produção de serviço do ano respectivo (P.11), e as rendas vincendas contabilizadas como um adiantamento financeiro (F.7), originando um acréscimo do passivo financeiro correspondente - “AF.7 – Outros débitos e créditos”;
+• A exploração da via pela concessionária, e o fluxo conexo dos pagamentos anuais efectuados pela RAM, configura uma locação operacional, sendo, por isso, os correspondentes encargos despesa pública de consumo corrente, na medida em que remuneram o serviço prestado pela sociedade.
+
+1.2.2. Apreciação específica
+No âmbito estrito da concessão, e relativamente aos anos de 2002 e 2003, salientam-se os seguintes dados:
+a) Do lado da VIALITORAL
+a1) Até 31 de Dezembro de 2003, na sequência da transferência dos troços rodoviários, a VIALITORAL pagou à RAM a quantia de € 309.254.707,54, dentro dos prazos fixados pelo CC e respectivo aditamento, tendo a entrega do montante remanescente de € 14.963.926,00 ocorrido em 2004.
+a2) Face aos custos de exploração efectivamente suportados, a projecção considerada no Caso Base mostra-se empolada em 33% e 31%, em relação, respectivamente, aos anos de 2002 e 2003.
+a3) No período em referência, os custos totais atingiram € 72.545.847,62 resultantes de: € 10.785.599,00 relativos às operações de exploração e manutenção da via, de €.61.744.471,02 de encargos financeiros e de € 15.777,60 da aquisição de equipamento no âmbito do protocolo celebrado com a PSP.
+b) Do lado da concedente
+b1) Com excepção do lanço Aeroporto – Machico, a transferência dos lanços construídos à data da concessão, envolvendo 19,07 km de via, por ter sido concretizada em 28 de Janeiro de 2000, cumpriu o prazo fixado no ponto 16.1. do CC, mas o início da respectiva exploração e conservação pela con-cessionária remonta a 29 de Julho de 2000.
+b2) Até 31 de Dezembro de 2003, cerca de 88,9% dos 27 sub-lanços da via concessionada encontravam-se sob a exploração e conservação da VIALITORAL, restando transferir, até ao final de Junho de 2005, os 3 sub-lanços correspondentes à expansão da concessão entre Machico e Caniçal.
+b3) As portagens SCUT pagas em 2002 e 2003, importaram numa despesa global de €.90.325.946,95, que foi suportada pelo Orçamento de Investimento da SREST, no projecto denominado Gestão das infra-estruturas rodoviárias – GSR, quando, por estar relacionada com o pagamento de contrapartidas pela utilização das vias rodoviárias concessionadas, deveria ter sido escriturada na rubrica de classificação económica 02.02.21 – Aquisição de serviços – Utilização de infra-estruturas de transportes.
+b4) Atendendo à forma de liquidação das portagens SCUT (pagamentos por conta), foram realizados naqueles dois anos quatro pagamentos, tendo três deles sido efectuados com um atraso de 30 dias, relativamente ao prazo contratualmente estipulado (cfr. o ponto 4.2.4.).
+b5) Entre Julho de 2000 (data efectiva do início de exploração da concessão) e 13 de Dezembro de 2002 (data da celebração do contrato com a referida assessoria técnica), e, muito particularmente, durante o ano de 2002 (em Janeiro deste ano entrou em vigor o sistema de portagens SCUT), não há registos de que a concedente tenha exercido adequadamente os seus poderes de fiscalização do CC.
+b6) Relativamente à assessoria financeira do Banco Efisa, não só o respectivo procedimento administrativo conducente à sua adjudicação suscita dúvidas quanto à observância dos preceitos legais do DL n.º 197/99, de 8 de Junho, como também a despesa referente a 2002, no valor de € 39.771,90, paga através do projecto Gestão das infra-estruturas rodoviárias – GSR, não foi adequadamente classificada, porquanto, deveria ter sido imputada à rubrica 02.02.13 – Aquisição de serviços – Estudos, pareceres, projectos e consultadoria, do orçamento da SREST.
+b7) A SREST recorreu ainda a diversos prestadores de serviços jurídicos, sem, no entanto, desencadear procedimentos transparentes quanto: à especificação dos serviços pretendidos, à identificação das entidades consultadas/concorrentes, à indicação do âmbito temporal das assessorias, à previsão dos custos prováveis e à eventual redução a escrito das obrigações contratuais, seguindo, para o efeito, o padrão de legalidade ditado pelo DL n.º 197/99, de 8 de Junho.
+b8) Nos anos de 2002 e 2003, o Orçamento de Investimento da SREST, no projecto denominado Gestão das infra-estruturas rodoviárias – GSR assumiu e/ou suportou custos globais de € 90.756.904,99, por conta do pagamento das portagens SCUT, no valor de € 90.325.946,95, e da contratação de assessorias externas: a financeira €.99.442,78, as jurídicas € 114.148,46 e a técnica € 217.366,80.
+
+1.3. Recomendações
+a) No recurso a parcerias, procurando captar fundos e competências privadas para a prossecução de interesses públicos, acolha, na sua essência, o regime preconizado pelo DL n.º 86/2003, de 26 de Abril, observando os pressupostos aí enunciados, designadamente aquele que exige a demonstração de que a opção, à luz dos factores risco, flexibilidade e preço, apresenta vantagens, incluindo económicas, sobre um programa de investimento público alternativo, tendo ainda presente que as referidas parcerias não devem comprometer a justiça na distribuição de benefícios e custos entre gerações.
+b) Inscreva, no orçamento regional, mais concretamente no “Mapa XVII das responsabilidades contratuais plurianuais dos serviços integrados e dos serviços e fundos autónomos, agrupados por secretarias”, quer os encargos relativos às portagens SCUT, directamente emergentes da concessão, quer as despesas assumidas com as assessorias contratadas neste âmbito, de maneira a permitir e facilitar o respectivo controlo político e financeiro, conforme resulta dos termos conjugados dos art.ºs 2.º, 10.º e 12.º da Lei n.º 28/92, de 1 de Setembro.
+c) Em cumprimento da regra da especificação e classificação orçamental das despesas, prevista no art.º 8.º da Lei n.º 28/92, de 1 de Setembro, orçamente e contabilize de forma adequada as despesas relacionadas com a concessão, respeitando, para o efeito, o preceituado no DL n.º 26/2002, de 14 de Fevereiro.
+d) Na aquisição de serviços de assessoria, cumpra as disposições legais em matéria da contratação pública, constantes do DL n.º 197/99, de 8 de Junho, devendo ainda documentar os resultados das acções de fiscalização e acompanhamento da concessão, realizadas pelas entidades contratadas.
