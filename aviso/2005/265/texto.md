@@ -1,0 +1,4 @@
+Aviso n.º 265/2005
+Por ordem superior se torna público que, em 15 de Abril de 2005, a República Portuguesa depositou, junto do Secretário-Geral da Organização Mundial das Alfândegas, o instrumento de adesão ao Protocolo de Revisão da Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros, concluído em Bruxelas em 26 de Junho de 1999.
+O Protocolo de Revisão da Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros foi aprovado pela Resolução da Assembleia da República n.º 10/2005 e ratificado pelo Decreto do Presidente da República n.º 17/2005, publicados no Diário da República, 1.ª série-A, n.º 50, de 11 de Março de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 17 de Maio de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
