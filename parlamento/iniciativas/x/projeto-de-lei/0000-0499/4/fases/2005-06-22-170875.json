@@ -1,0 +1,395 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "4",
+    "id": "20703",
+    "titulo": "Estabelece o regime de mera gestão dos órgãos autárquicos (no período entre as eleições e a instalação dos novos órgãos)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2005-06-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3464",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2005-06-22",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "20904",
+        "leg": "X",
+        "nr": "117",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "841",
+            "obs": null,
+            "pag": [
+              "1327-1334"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-06-23",
+            "pubLeg": "X",
+            "pubNr": "32",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/032/2005-06-23/1327?pgs=1327-1334&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estabelece o regime de gestão limitada dos órgãos das autarquias locais e seus titulares."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2005-06-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "246",
+                "nome": "Hermínio Loureiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152619",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1327-1330"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-23",
+                "pubLeg": "X",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/032/2005-06-23/1327?pgs=1327-1330&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de mera gestão dos órgãos autárquicos (no período entre as eleições e a instalação dos novos órgãos); Estabelece o regime de gestão limitada dos órgãos das autarquias locais e seus titulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2182",
+                "nome": "Cláudia Couto Vieira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152620",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1328-1329"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-23",
+                "pubLeg": "X",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/032/2005-06-23/1328?pgs=1328-1329&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de mera gestão dos órgãos autárquicos (no período entre as eleições e a instalação dos novos órgãos); Estabelece o regime de gestão limitada dos órgãos das autarquias locais e seus titulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2167",
+                "nome": "Abel Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152621",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1330-1330"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-23",
+                "pubLeg": "X",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/032/2005-06-23/1330?pgs=1330&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de mera gestão dos órgãos autárquicos (no período entre as eleições e a instalação dos novos órgãos); Estabelece o regime de gestão limitada dos órgãos das autarquias locais e seus titulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1153",
+                "nome": "José Augusto de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152622",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1331-1331",
+                  "1334-1334"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-23",
+                "pubLeg": "X",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/032/2005-06-23/1331?pgs=1331,1334&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de mera gestão dos órgãos autárquicos (no período entre as eleições e a instalação dos novos órgãos); Estabelece o regime de gestão limitada dos órgãos das autarquias locais e seus titulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2063",
+                "nome": "Alda Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152623",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1332-1332"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-23",
+                "pubLeg": "X",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/032/2005-06-23/1332?pgs=1332&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de mera gestão dos órgãos autárquicos (no período entre as eleições e a instalação dos novos órgãos); Estabelece o regime de gestão limitada dos órgãos das autarquias locais e seus titulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "152624",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1333-1334"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-06-23",
+                "pubLeg": "X",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/032/2005-06-23/1333?pgs=1333-1334&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de mera gestão dos órgãos autárquicos (no período entre as eleições e a instalação dos novos órgãos); Estabelece o regime de gestão limitada dos órgãos das autarquias locais e seus titulares",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "170875",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "299909",
+        "obs": null,
+        "pag": [
+          "1327-1334"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-06-23",
+        "pubLeg": "X",
+        "pubNr": "32",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/032/2005-06-23/1327?pgs=1327-1334&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
