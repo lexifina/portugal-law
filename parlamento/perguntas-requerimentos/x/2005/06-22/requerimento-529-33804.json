@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "33804",
+  "tipo": "Requerimento",
+  "numero": "529",
+  "data_registo": "2005-06-22",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Encerramento da CPT - Companhia Portuguesa de Têxteis, Lda (Vila do Conde)",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1696",
+        "nome": "Honório Novo"
+      }
+    ],
+    "DataEnvio": "2005-06-27",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2005-06-27",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  ECONOMIA, DA INOVAÇÃO E DO DESENVOLVIMENTO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2005-09-21",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  ECONOMIA, DA INOVAÇÃO E DO DESENVOLVIMENTO",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338324e574a694d7a5a6c4d4330334d7a51784c5451344d7a5174595449304d79316b4e575535596a4e6c4d4445305a4441756347526d&fich=65bb36e0-7341-4834-a243-d5e9b3e014d0.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2005-06-22",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a465454433969597a59774f474531595331684e54646b4c54526b5a546374596a68684e5330354e44417759324e6b595451334d5759756347526d&fich=bc608a5a-a57d-4de7-b8a5-9400ccda471f.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "33804",
+    "Legislatura": "X",
+    "Nr": "529",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "312551",
+        "obs": null,
+        "pag": [
+          "40-41"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2005",
+        "pubLeg": "X",
+        "pubNr": "10",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/010S1/2005-06-25/40?pgs=40-41&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
