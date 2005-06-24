@@ -1,0 +1,239 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "23",
+    "id": "20924",
+    "titulo": "Altera a Lei n.º 3/99, de 13 de Janeiro, (Lei de Organização e Funcionamento dos Tribunais Judiciais), a Lei n.º 21/85, de 30 de Julho (Estatuto dos Magistrados Judiciais), a Lei n.º 47/86, de 15 de Outubro, (Estatuto do Ministério Público), a Lei n.º 28/82, de 15 de Novembro, (Lei Orgânica sobre a Organização, Funcionamento e Processo do Tribunal Constitucional) e o Decreto-Lei n.º 343/99, de 26 de Agosto (Estatuto dos Funcionários de Justiça), diminuindo o período de férias judiciais no verão."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2005-06-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "8086",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2005-07-19",
+            "id": "82619",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-19",
+            "id": "82618",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-19",
+            "id": "82617",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-19",
+            "id": "82616",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-20",
+            "id": "82620",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-21",
+            "id": "82624",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-21",
+            "id": "82623",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-21",
+            "id": "82622",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-21",
+            "id": "82621",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-26",
+            "id": "82629",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-26",
+            "id": "82628",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-26",
+            "id": "82627",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-26",
+            "id": "82626",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2005-07-26",
+            "id": "82625",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2005-06-29",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2005-06-24",
+        "DatafimApreciacaoPublica": "2005-07-27",
+        "DatainicioApreciacaoPublica": "2005-07-08",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": null,
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "243",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias (pré RAR)",
+        "Numero": "243",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório, conclusões e parecer, texto de substituição e respectivo anexo contendo propostas de alteração apresentadas pelo PS",
+            "pag": [
+              "13-23"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-07-30",
+            "pubLeg": "X",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/10/01/040/2005-07-30/13?pgs=13-23&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório, conclusões e parecer, texto de substituição e respectivo anexo contendo propostas de alteração apresentadas pelo PS",
+            "pag": [
+              "13-23"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-07-30",
+            "pubLeg": "X",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/10/01/040/2005-07-30/13?pgs=13-23&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "1245",
+            "motivoCessacao": null,
+            "nome": "António Montalvão Machado"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "2066",
+            "motivoCessacao": null,
+            "nome": "Paulo Castro Rangel"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2005-07-27",
+            "dataRemessa": "2005-07-28",
+            "numeroOficio": "986/COM",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2005-07-27",
+            "dataRemessa": "2005-07-28",
+            "numeroOficio": "985/COM",
+            "observacoes": "Texto de Substituição aprovado (Favor: PS - Contra: PSD, PCP e CDS-PP - Ausências: BE e PEV)",
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "BE",
+              "PEV"
+            ],
+            "data": "2005-07-27",
+            "descricao": "Votadas as Conclusões e Parecer",
+            "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> CDS-PP</I><BR>Ausência: <I>BE</I>, <I> PEV</I>",
+            "id": "33237",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "32",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2005-06-24",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "170964",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
