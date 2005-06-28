@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "33849",
+  "tipo": "Requerimento",
+  "numero": "569",
+  "data_registo": "2005-06-28",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Abertura de contas gémeas pelo Balcão de Castelo da Maia da CGD",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "1773",
+        "nome": "João Teixeira Lopes"
+      }
+    ],
+    "DataEnvio": "2005-06-30",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2005-06-30",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Caixa Geral de Depositos",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2005-07-11",
+            "docRemetida": null,
+            "entidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338314d57466a596d4a6d4f4331684f5756694c54517959325574596a59785a43316a4e474d324d5467794d446b78593259756347526d&fich=51acbbf8-a9eb-42ce-b61d-c4c6182091cf.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          },
+          {
+            "dataResposta": "2005-07-25",
+            "docRemetida": null,
+            "entidade": "Caixa Geral de Depositos",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a465454433968593245354e546b304d69316b5a4445304c54526a595759744f5755335a69316d4d6a557a4f4759354e6a55784f5755756347526d&fich=aca95942-dd14-4caf-9e7f-f2538f96519e.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2005-06-28",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443396a5a6d4e6a4e5467325a6930794f5463324c5451324d6d59744f54417a5a4331694d54526a4d3255304f5441345a544d756347526d&fich=cfcc586f-2976-462f-903d-b14c3e4908e3.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "33849",
+    "Legislatura": "X",
+    "Nr": "569",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "306289",
+        "obs": null,
+        "pag": [
+          "53-54"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2005",
+        "pubLeg": "X",
+        "pubNr": "11",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/011S1/2005-07-02/53?pgs=53-54&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
