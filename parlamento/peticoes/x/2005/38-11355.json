@@ -1,0 +1,427 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11355",
+  "numero": "38",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-06-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2005-07-12",
+            "entidades": null,
+            "id": "80813",
+            "tipo": null,
+            "titulo": "Audição em 2005-07-12 com Peticionários da Petição nº 38/X/1ª - Movimento Quadros de Escola Desterrados"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2005-07-27",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-07-01",
+        "DataArquivo": "2005-07-27",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2005-07-28",
+        "DataReaberta": "2005-07-01",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-06-28",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e686279387759544e6d5a546c6a4f5331695a474a684c5451344f5745744f5446694e6930784f54646a4d6a45774d7a6c6c5a6a55756347526d&fich=0a3fe9c9-bdba-489a-91b6-197c21039ef5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-06-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e68627938774d444977596d4d794e79316b4d6a41344c54517a4d324574596d55785969316a4e7a4e684e7a45324d44557a595459756347526d&fich=0020bc27-d208-433a-be1b-c73a716053a6.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "250",
+        "Legislatura": "X",
+        "Nome": "Comissão de Educação, Ciência e Cultura (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-07-01",
+            "gp": "PS",
+            "id": "2213",
+            "motivoCessacao": null,
+            "nome": "Isabel Coutinho"
+          }
+        ],
+        "RelatorioFinal": [
+          "21961"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2005-12-02",
+    "Documentos": [
+      {
+        "DataDocumento": "2005-06-28",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396b5a5459345a574979595331694e5459314c5451345a444574596a6331596930354d474d304e7a5978595463304d5451756347526d&fich=de68eb2a-b565-48d1-b75b-90c4761a7414.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2005-12-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153711",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3063-3063"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-03",
+                "pubLeg": "X",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/064/2005-12-03/3063?pgs=3063&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do processo de concurso para selecção e recrutamento de pessoal docente",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2005-12-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153712",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3063-3063"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-03",
+                "pubLeg": "X",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/064/2005-12-03/3063?pgs=3063&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do processo de concurso para selecção e recrutamento de pessoal docente",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2005-12-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153713",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3063-3064"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-03",
+                "pubLeg": "X",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/064/2005-12-03/3063?pgs=3063-3064&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do processo de concurso para selecção e recrutamento de pessoal docente",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2005-12-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153714",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3064-3065"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-03",
+                "pubLeg": "X",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/064/2005-12-03/3064?pgs=3064-3065&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do processo de concurso para selecção e recrutamento de pessoal docente",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2005-12-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153715",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3065-3066"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-03",
+                "pubLeg": "X",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/064/2005-12-03/3065?pgs=3065-3066&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do processo de concurso para selecção e recrutamento de pessoal docente",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2005-12-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153716",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3066-3066"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-03",
+                "pubLeg": "X",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/064/2005-12-03/3066?pgs=3066&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do processo de concurso para selecção e recrutamento de pessoal docente",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11355",
+    "PetAssunto": "Propõem a revisão e alteração do processo do Concurso para selecção e recrutamento de pessoal docente.",
+    "PetDataEntrada": "2005-06-28",
+    "PeticoesAssociadas": null,
+    "PetId": "11355",
+    "PetLeg": "X",
+    "PetNr": "38",
+    "PetNrAssinaturas": "5541",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "190",
+        "obs": null,
+        "pag": [
+          "3063-3066"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-12-03",
+        "pubLeg": "X",
+        "pubNr": "64",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/064/2005-12-03/3063?pgs=3063-3066&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
