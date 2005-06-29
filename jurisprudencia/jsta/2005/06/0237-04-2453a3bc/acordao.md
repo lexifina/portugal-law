@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal Administrativo de 2005-06-29, processo 0237/04
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0237/04
+
+**Data do Acordão:** 06/29/2005
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** PAIS BORGES
+
+**Descritores:** PROFESSOR DO ENSINO SECUNDÁRIO.; PROGRESSÃO NA CARREIRA.; ESCALÃO DE VENCIMENTO.; AVALIAÇÃO DE DESEMPENHO
+
+**Nº Convencional:** JSTA0005632
+
+**Nº do Documento:** SA1200506290237
+
+**Recorrente:** A...
+
+**Recorrido 1:** SE DA ADMINISTRAÇÃO EDUCATIVA
+
+**Votação:** UNANIMIDADE
+
+**Área Temática 1:** *
+
+## Sumário
+
+I. A Portaria nº 584/99, de 2 de Agosto regula a progressão na carreira dos docentes que preenchem os requisitos aí exigidos, ou seja, a progressão que decorre nos moldes e de acordo com os módulos de tempo fixados nos arts. 8º e 9º do DL nº 409/89, de 18 de Novembro.
+
+II. O nº 1 da referida Portaria subordina expressamente a contagem integral do tempo de serviço efectivo ao imperativo das regras gerais estabelecidas nos artigos 8º e 9º do DL nº 409/89, onde se inserem os critérios da qualidade do desempenho e da frequência com aproveitamento de módulos de formação.
+
+III. Não tendo a recorrente sido avaliada em processo de candidatura ao 8º escalão, nos termos do art. 10º do citado DL nº 409/89, de 18 de Novembro, nem tendo feito entrega do Relatório Crítico ou Currículo Profissional para efeitos de avaliação nos termos das pertinentes disposições do DL nº 14/92, de 4 de Julho e do art. 10º do DL nº 41/96, de 7 de Maio, é evidente que a mesma não preenche os requisitos legalmente exigidos em 1992, não lhe sendo aplicável o disposto no nº 2 da referida Portaria nº 584/99.
