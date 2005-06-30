@@ -1,0 +1,496 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11357",
+  "numero": "39",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-06-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.Audiencias",
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-07-19",
+        "DataArquivo": "2007-10-23",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": "2005-07-19",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "245",
+        "Legislatura": "X",
+        "Nome": "Comissão de Assuntos Europeus (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "3",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-09-27",
+            "gp": "PSD",
+            "id": "2142",
+            "motivoCessacao": null,
+            "nome": "Luís Pais Antunes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída para: Comissão de Assuntos Europeus."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2008-04-17",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2008-04-17",
+        "DataBaixaComissao": "2007-10-23",
+        "DataEnvioPAR": "2008-04-17",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-06-30",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533830513046466347397a556b46534c305276593356745a57353062334e515a585270593246764c324e6c4e3249344d474a6b4c5749795a6a55744e4445315a5331684e446b334c5451794d6a55314d6a45324e5464694e5335775a47593d&fich=ce7b80bd-b2f5-415e-a497-4225521657b5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-06-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533830513046466347397a556b46534c305276593356745a57353062334e515a585270593246764c3255324e4451775957526a4c5455324e6a63744e445a6a595331684d44686d4c574e6c4d6a4a6c5a6a55334f544d7a597935775a47593d&fich=e6440adc-5667-46ca-a08f-ce22ef57933c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1906",
+        "Legislatura": "X",
+        "Nome": "Comissão de Assuntos Europeus",
+        "NotasAdmissibilidade": null,
+        "Numero": "4",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-10-23",
+            "gp": "PSD",
+            "id": "2142",
+            "motivoCessacao": null,
+            "nome": "Luís Pais Antunes"
+          }
+        ],
+        "RelatorioFinal": [
+          "22435"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Assuntos Europeus (pré RAR) para esta comissão."
+      }
+    ],
+    "DataDebate": "2008-04-18",
+    "Documentos": [
+      {
+        "DataDocumento": "2005-06-30",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396b5a6d49785a6d55334e7930354e7a41794c54526b4e7a67745957466c5a4330775a5442694d3255774d444577595451756347526d&fich=dfb1fe77-9702-4d78-aaed-0e0b3e0010a4.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2008-04-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-04-19",
+                "pubLeg": "X",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/074/2008-04-19/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Comissão Executiva de Mandatários da Petição sobre a Gestão de Recursos do Mar solicitando que, no referendo sobre o Tratado que constitui uma Constituição para a Europa, seja incluída uma pergunta sobre os direitos de soberania de Portugal para fins de exploração e aproveitamento, conservação e gestão dos recursos biológicos do mar",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-04-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-04-19",
+                "pubLeg": "X",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/074/2008-04-19/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Comissão Executiva de Mandatários da Petição sobre a Gestão de Recursos do Mar solicitando que, no referendo sobre o Tratado que constitui uma Constituição para a Europa, seja incluída uma pergunta sobre os direitos de soberania de Portugal para fins de exploração e aproveitamento, conservação e gestão dos recursos biológicos do mar",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-04-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168578",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-04-19",
+                "pubLeg": "X",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/074/2008-04-19/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Comissão Executiva de Mandatários da Petição sobre a Gestão de Recursos do Mar solicitando que, no referendo sobre o Tratado que constitui uma Constituição para a Europa, seja incluída uma pergunta sobre os direitos de soberania de Portugal para fins de exploração e aproveitamento, conservação e gestão dos recursos biológicos do mar",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-04-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168579",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-04-19",
+                "pubLeg": "X",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/074/2008-04-19/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Comissão Executiva de Mandatários da Petição sobre a Gestão de Recursos do Mar solicitando que, no referendo sobre o Tratado que constitui uma Constituição para a Europa, seja incluída uma pergunta sobre os direitos de soberania de Portugal para fins de exploração e aproveitamento, conservação e gestão dos recursos biológicos do mar",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-04-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168580",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-04-19",
+                "pubLeg": "X",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/074/2008-04-19/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Comissão Executiva de Mandatários da Petição sobre a Gestão de Recursos do Mar solicitando que, no referendo sobre o Tratado que constitui uma Constituição para a Europa, seja incluída uma pergunta sobre os direitos de soberania de Portugal para fins de exploração e aproveitamento, conservação e gestão dos recursos biológicos do mar",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-04-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168581",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-04-19",
+                "pubLeg": "X",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/074/2008-04-19/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Comissão Executiva de Mandatários da Petição sobre a Gestão de Recursos do Mar solicitando que, no referendo sobre o Tratado que constitui uma Constituição para a Europa, seja incluída uma pergunta sobre os direitos de soberania de Portugal para fins de exploração e aproveitamento, conservação e gestão dos recursos biológicos do mar",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11357",
+    "PetAssunto": "Solicitam que, no referendo sobre o Tratado que constitui uma Constituição para a Europa, seja incluída a pergunta: \"Concorda que Portugal deixe de ter direitos de soberania para fins de exploração e aproveitamento, conservação e gestão dos recursos biológicos do mar, passando a competência exclusiva da gestão dos recursos biológicos para a União Europeia?\". Solicitam ainda que seja agendada no plenário uma discussão sobre as implicações da competência exclusiva da União, prevista no art. 12º do projecto de Tratado que institui uma Constituição para a Europa.",
+    "PetDataEntrada": "2005-06-30",
+    "PeticoesAssociadas": null,
+    "PetId": "11357",
+    "PetLeg": "X",
+    "PetNr": "39",
+    "PetNrAssinaturas": "27637",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "Deliberado aguardar pelo futuro do Tratado que estabeleçe uma Constituição para a Europa",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "251",
+        "obs": null,
+        "pag": [
+          "42-47"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-04-19",
+        "pubLeg": "X",
+        "pubNr": "74",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/074/2008-04-19/42?pgs=42-47&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "430051",
+        "obs": null,
+        "pag": [
+          "4-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-04-19",
+        "pubLeg": "X",
+        "pubNr": "90",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/090/2008-04-19/4?pgs=4-5&org=PLC"
+      }
+    ]
+  }
+}
