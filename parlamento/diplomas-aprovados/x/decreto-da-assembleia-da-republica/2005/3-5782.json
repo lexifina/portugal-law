@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=3d4h3iJUzJ5%2ftQ8sS%2fv2R6TCj8bCDkLL%2bFdTRK40%2bilvyl3jbC46ru%2bbuvKRKJ3lgapPwkE42I%2fcPFXX64A753V2F4NAeMLX9Q5f9dhfRw%2fZFjlxWBwzJlA%2fEAJw8kEfEAFouQqDrN%2b9iY6U6sL2%2fE8%2bdI8xG5omU6EURK6xQ6fcjzTD%2fTWSt8eLiep1ZNqUU0km0C4VCM%2biGLus4uuMEhij5lBvmmjWv530iGZUmCkpaUeaTFUPHUi4Nzu0CYvun3VwXRQb8gjThUiCFcrGcQcuzNFSOhnaeWKbg%2bt7bLF54ELv6OteOSIaaDkb%2fWmThXvmwAOcMAaxBwFGo70ZNVhlH4xT8ogN433mxWauB%2fk%3d&fich=DiplomasX_json.txt&Inline=true",
+  "ficheiro_sha256": "724a3fff001c963e771445a5cbb0ce949f9feb66d52e11eac6e03ce068278a50",
+  "legislatura": "X",
+  "id": "5782",
+  "tipo": "Decreto da Assembleia da República",
+  "numero": "3",
+  "data_registo": "2005-06-30",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2005",
+    "Id": "5782",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "20821",
+        "IniLeg": null,
+        "IniLinkTexto": "",
+        "IniNr": "9",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "P",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "X",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a573530595849764e545a6b4d32526b5a4459745a446b355a4330304d5455324c5745314d6a497459324d334e6d4e6c4f5467324e5467354c6d527659773d3d&fich=56d3ddd6-d99d-4156-a522-cc76ce986589.doc&Inline=true",
+    "Numero": "3",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "300354",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-06-30",
+        "pubLeg": "X",
+        "pubNr": "30",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/10/01/030/2005-06-30/2?pgs=2&org=PLC"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Decreto da Assembleia da República",
+    "Titulo": "Segunda Alteração ao Decreto-Lei n.º 44/2004, de 3 de Março, que estabelece um regime especial de Registo de prédios situados nos municípios do Corvo, Lajes das Flores e de Santa Cruz das Flores, bem como dos direiros e ónus ou encargos sobre estes incidentes",
+    "Tp": "D",
+    "Versao": "1"
+  }
+}
