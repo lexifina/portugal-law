@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 54/2005
+Para os devidos efeitos se declara que o Aviso n.º 200/2005, publicado no Diário da República, 1.ª série, n.º 89, de 9 de Maio de 2005, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No primeiro parágrafo do texto, onde se lê «propôs emendas ao Regulamento n.º 54, assinado em Genebra em 1 de Março de 1983, Relativo à Adopção de Condições Uniformes de Homologação de Pneus para Automóveis e Seus Reboques.» deve ler-se «comunicou ao Secretariado das Nações Unidas o ponto de situação do Acordo e seus Regulamentos à data de 16 de Junho de 2004.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Junho de 2005. - Pelo Secretário-Geral, o Secretário-Geral-Adjunto, Jorge dos Santos Sousa.
