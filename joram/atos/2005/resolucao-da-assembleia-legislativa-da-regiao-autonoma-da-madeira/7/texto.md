@@ -1,0 +1,32 @@
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 7/2005/M
+
+**Emissor:** ASSEMBLEIA LEGISLATIVA
+
+**Publicação:** JORAM, I série, n.º 82/2005, de 2005-07-12
+
+**Sumário:** Resolve solicitar pareceres jurídicos relativamente à Lei eleitoral para a Assembleia Legislativa Regional da Madeira e ao Estatuto Político-Administrativo, face à última revisão constitucional e às disposições da Lei Constitucional n.º 1/2004, de 24 de Julho. Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 8/2005/M Resolve aprovar o relatório e conta da Assembleia Legislativa da Região Autónoma da Madeira referente ao ano de 2003.
+
+## Texto
+
+Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 7/2005/M
+de 11 de Julho
+Pedido de pareceres jurídicos relativamente à Lei Eleitoral para a Assembleia Legislativa da Região Autónoma da Madeira e ao Estatuto Político-Administrativo, face à última revisão constitucional e às disposições da Lei Constitucional n.º 1/2004, de 24 de Julho.
+Através da Lei Constitucional n.º 1/2004, de 24 de Julho, foi introduzida alteração ao n.º 1 do artigo 226.º da Constituição, por via do qual foi conferida aos parlamentares regionais, relativamente às leis eleitorais para as Assembleias Legislativas das Regiões Autónomas, reserva de iniciativa idêntica à já anteriormente prevista para os Estatutos Político-Administrativos.
+Porém, ficou estabelecido no n.º 1 do artigo 47.º da citada lei de revisão constitucional que as Assembleias Legislativas das Regiões Autónomas teriam de apresentar à Assembleia da República, no prazo de seis meses, proposta de alteração da lei eleitoral, sob pena de perda de tal reserva a favor da Assembleia da República, ficando os grupos parlamentares e os deputados à Assembleia da República livres para apresentarem projecto de lei de alteração da lei eleitoral para as Assembleias Legislativas das Regiões Autónomas.
+No caso da Região Autónoma da Madeira, a matéria relativa ao sistema eleitoral tem assento no Decreto-Lei n.º 318-E/76, de 30 de Abril, e no Estatuto Político-Administrativo (Lei n.º 130/99, de 21 de Agosto - artigos 13.º a 19.º).
+AAssembleia Legislativa da Região Autónoma da Madeira fez entrar, em 15 de Abril de 2005, na Assembleia da República, a proposta de lei n.º 3/X, que altera simultaneamente o Estatuto Político-Administrativo (na parte das normas eleitorais, entre outras) e a Lei Eleitoral (Decreto-Lei n.º 318-E/76, de 30 de Abril). Ou seja, a Assembleia Legislativa da Região Autónoma da Madeira não só observou o prazo do artigo 47.º, n.º 1, da Lei Constitucional n.º 1/2004, de 24 de Julho, como teve o cuidado de alterar tanto o Estatuto Político-administrativo, na parte relativa às normas eleitorais (artigos 13.º a 19.º), como o Decreto-Lei n.º 318-E/76, de 30 de Abril - Lei Eleitoral para a Assembleia Legislativa da Região Autónoma da Madeira -, evitando qualquer discussão sobre prevalência hierárquica normativa entre a Lei Eleitoral e o Estatuto.
+Já depois de admitida a proposta de lei n.º 3/X, pelo Presidente da Assembleia da República, foram admitidos os projectos de lei n.os 39/X e 42/X, do PCPe do BE, respectivamente, de alteração à Lei Eleitoral para a Assembleia Legislativa da Região Autónoma da Madeira, o que colide com a reserva de iniciativa conferida às Assembleias Legislativas das Regiões Autónomas.
+Interposto o recurso da admissão daqueles projectos de lei, entendeu o Plenário da Assembleia da República rejeitar o recurso com o entendimento de que a Assembleia Legislativa da Região Autónoma da Madeira tinha perdido a reserva de iniciativa por ter acoplado numa só proposta de lei a alteração da Lei Eleitoral, sendo diferentes as maiorias exigidas para a sua aprovação na Assembleia da República.
+Assim: AAssembleia Legislativa da Região Autónoma da Madeira, nos termos da alínea a) do artigo 38.º da Lei n.º 130/99, de 21 de Agosto, resolve aprovar a presente resolução solicitando pareceres jurídicos a reputados constitucionalistas sobre as seguintes questões: a) Saber se o artigo 47.º, n.º 1, da Lei Constitucional n.º
+1/2004, de 24 de Julho, é constitucional; b) Saber se, independentemente da questão anterior, a
+Assembleia Legislativa da Região Autónoma da Madeira, através da proposta de lei n.º 3/X, deu cumprimento, ou não, ao disposto no artigo 47.º, n.º 1, da Lei Constitucional n.º 1/2004 e se, em consequência, não perdeu a reserva de iniciativa que lhe foi conferida em
+
+matéria de lei eleitoral, sendo, ou não, ultrapassável, na Assembleia da República, a questão da maioria especial exigida para a votação da Lei Eleitoral, e não já para o Estatuto; c) Saber se poderá considerar-se conforme à Constituição a admissão dos projectos de lei n.os 39/X e 42/X, de alteração à Lei Eleitoral para a Assembleia Legislativa da Região Autónoma da Madeira, do PCP e do BE, respectivamente; d) Saber se a aprovação da lei de alteração à Lei Eleitoral para a Assembleia Legislativa da Região Autónoma da Madeira com base em projectos de lei apresentados por deputados e grupos parlamentares na Assembleia da República, com preterição da proposta de lei n.º 3/X, vinda da Assembleia Legislativa da Região Autónoma da Madeira, é constitucional; e) Saber quais as questões que se levantam, quanto à lei aplicável, se for alterada a Lei Eleitoral (Decreto-Lei n.º 318-E/76, de 30 de Abril) e se mantiverem, com a redacção actual, os artigos 13.º a 19.º do Estatuto Político-Administrativo da Região Autónoma da Madeira (Lei n.º 130/99, de 21 de Agosto).
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 1 de Junho de 2005.
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, José Miguel Jardim d'Olival Mendonça
+Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 8/2005/M
+de 11 de Julho
+Aprova o relatório e conta da Assembleia Legislativa da Região Autónoma da Madeira do ano de 2003
+AAssembleia Legislativa da Região Autónoma da Madeira, reunida em plenário em 8 de Junho de 2005, resolveu, nos termos dos artigos 5.º, alínea b), e 57.º do Decreto Legislativo Regional n.º 24/89/M, de 7 de Setembro, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 10-A/2000/M, de 27 de Abril, aprovar o relatório e conta da Assembleia Legislativa da Região Autónoma da Madeira referente ao ano de 2003.
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 8 de Junho de 2005.
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
