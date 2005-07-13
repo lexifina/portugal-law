@@ -20,4 +20,6 @@ g) Da denominação de empresário individual não comerciante, da sua alteraç�
 
 h) Da constituição de associação ou instituição de fundação com personalidade jurídica, bem como da alteração da denominação, do objecto estatutário ou da transferência da sede para outro concelho.
 
-2 - O certificado a que se refere o número anterior deve estar dentro do seu prazo de validade à data da apresentação do pedido de registo, salvo se este tiver sido precedido da celebração, há menos de um ano, de escritura pública ou outro instrumento notarial.
+2 - O disposto no número anterior não é aplicável à alteração da denominação decorrente de transformação que se restrinja à alteração do elemento que identifica o tipo de pessoa colectiva.
+
+3 - O certificado a que se refere o n.º 1 deve estar dentro do prazo de validade à data da apresentação do pedido de registo, salvo se este tiver sido precedido da celebração, há menos de três meses, de escritura pública, instrumento notarial ou outro título.

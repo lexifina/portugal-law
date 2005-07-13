@@ -6,7 +6,7 @@
 
 2 - Os juízos sobre a distinção e a não susceptibilidade de confusão ou erro devem ter em conta o tipo de pessoa, o seu domicílio ou sede, a afinidade ou proximidade das suas actividades e o âmbito territorial destas.
 
-3 - Quando, por qualquer causa, deixe de ser associado ou sócio pessoa cujo nome figure na firma ou denominação de pessoa colectiva, deve tal firma ou denominação ser alterada no prazo de um ano, a não ser que o associado ou sócio que se retire ou os herdeiros do que falecer consintam por escrito na continuação da mesma firma ou denominação.
+3 - Não são admitidas denominações constituídas exclusivamente por vocábulos de uso corrente que permitam identificar ou se relacionem com actividade, técnica ou produto, bem como topónimos e qualquer indicação de proveniência geográfica.
 
 4 - A incorporação na firma ou denominação de sinais distintivos registados está sujeita à prova do seu uso legítimo.
 

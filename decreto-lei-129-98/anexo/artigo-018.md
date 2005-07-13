@@ -10,4 +10,4 @@
 
 4 - O número provisório de identificação é constituído de acordo com o disposto no artigo 13.º mas antecedido da letra «P».
 
-5 - O cartão provisório de identificação é válido durante o prazo de seis meses contado a partir da data da sua emissão, podendo, porém, ser revalidado em caso de impossibilidade de conclusão do processo de constituição ou regularização não imputável ao seu titular.
+5 - O cartão provisório de identificação é válido durante o prazo de três meses contado a partir da data da sua emissão, podendo, porém, ser revalidado em caso de impossibilidade de conclusão do processo de constituição ou regularização não imputável ao seu titular.
