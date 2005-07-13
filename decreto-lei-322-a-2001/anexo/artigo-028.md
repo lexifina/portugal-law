@@ -48,12 +48,16 @@
 
 12 - A Comissão da Liberdade Religiosa goza de isenção emolumentar pelo acesso à base de dados do registo de pessoas colectivas religiosas, efectuado nos termos previstos no respectivo regime.
 
-13 - Estão isentos de tributação emolumentar os actos notariais e de registo relacionados com a aquisição e administração de bens imóveis pertencentes ao domínio privado do Estado em que a Direcção-Geral do Património ou outros serviços da administração directa ou indirecta do Estado tenham intervenção ou sejam por eles requeridos.
+13 - Pela consulta em linha efectuada pelos solicitadores de execução às bases de dados registrais e de identificação civil não há lugar ao pagamento de assinatura mensal, sendo devidos por cada acesso (euro) 0,5.
 
-14 - Estão isentos de tributação emolumentar os actos de registo requeridos pelos institutos públicos relacionados com a regularização extraordinária da situação jurídica dos bens imóveis pertencentes ao seu património próprio nos termos previstos em legislação especial.
+14 - Estão isentos de tributação emolumentar os actos notariais e de registo relacionados com a aquisição e administração de bens imóveis pertencentes ao domínio privado do Estado em que a Direcção-Geral do Património ou outros serviços da administração directa ou indirecta do Estado tenham intervenção ou sejam por eles requeridos.
 
-15 - Estão isentos de tributação emolumentar os actos de registo requeridos pelos adquirentes de bens imóveis ao Estado ou a instituto público necessários à regularização da situação jurídica dos mesmos nos termos previstos na legislação referida no número anterior, com excepção do registo da aquisição ao Estado ou ao instituto público.
+15 - Estão isentos de tributação emolumentar os actos de registo requeridos pelos institutos públicos relacionados com a regularização extraordinária da situação jurídica dos bens imóveis pertencentes ao seu património próprio nos termos previstos em legislação especial.
 
-16 - As isenções emolumentares previstas nos n.os 13 a 15 vigoram até ao final de 2008, sendo as previstas no n.º 13 aplicáveis, no que respeita aos actos notariais, apenas aos actos praticados pelos notários públicos durante o período transitório previsto no artigo 106.º do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro.
+16 - Estão isentos de tributação emolumentar os actos de registo requeridos pelos adquirentes de bens imóveis ao Estado ou a instituto público necessários à regularização da situação jurídica dos mesmos nos termos previstos na legislação referida no número anterior, com excepção do registo da aquisição ao Estado ou ao instituto público.
 
-17 - Estão isentos de tributação emolumentar os actos notariais e de registo exigidos para execução de providências integradoras ou decorrentes de plano de insolvência judicialmente homologado que visem o saneamento da empresa, através da recuperação do seu titular ou da sua transmissão, total ou parcial, a outra ou outras entidades.
+17 - As isenções emolumentares previstas nos n.os 13 a 15 vigoram até ao final de 2008, sendo as previstas no n.º 13 aplicáveis, no que respeita aos actos notariais, apenas aos actos praticados pelos notários públicos durante o período transitório previsto no artigo 106.º do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro.
+
+18 - Estão isentos de tributação emolumentar os actos notariais e de registo exigidos para execução de providências integradoras ou decorrentes de plano de insolvência judicialmente homologado que visem o saneamento da empresa, através da recuperação do seu titular ou da sua transmissão, total ou parcial, a outra ou outras entidades.
+
+19 - Os emolumentos devidos pelo regime especial de constituição imediata de sociedades são reduzidos em (euro) 60 quando a actividade principal da sociedade seja classificada como actividade informática ou conexa, ou ainda como de investigação e desenvolvimento, não sendo devida participação emolumentar pela referida redução.

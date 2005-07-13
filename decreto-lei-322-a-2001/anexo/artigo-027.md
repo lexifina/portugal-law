@@ -32,12 +32,18 @@
 
 2.2 - Do emolumento referido no n.º 2.1 pertencem dois terços ao cartório notarial e um terço à conservatória do registo comercial.
 
-3 - Impugnação das decisões:
+3 - Regime especial de constituição imediata de sociedades:
 
-3.1 - Por cada processo de recurso hierárquico ... 150
+3.1 - Pela prática dos actos compreendidos no regime especial de constituição imediata de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade - (euro) 330.
 
-3.2 - Em caso de procedência do recurso haverá lugar à devolução do respectivo preparo.
+3.2 - Do emolumento referido no número anterior pertencem dois terços à conservatória do registo comercial e um terço ao Registo Nacional de Pessoas Colectivas.
 
-3.3 - Havendo provimento parcial, o emolumento do n.º 3.1 é reduzido a metade.
+4 - Impugnação das decisões:
 
-4 - Por cada certificado emitido nos termos do artigo 133.º do Regulamento dos Serviços dos Registos e do Notariado ... 50
+4.1 - Por cada processo de recurso hierárquico ... 150
+
+4.2 - Em caso de procedência do recurso haverá lugar à devolução do respectivo preparo.
+
+4.3 - Havendo provimento parcial, o emolumento do n.º 3.1 é reduzido a metade.
+
+5 - Por cada certificado emitido nos termos do artigo 133.º do Regulamento dos Serviços dos Registos e do Notariado ... 50
