@@ -1,0 +1,479 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11361",
+  "numero": "44",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-07-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2005-10-11",
+            "entidades": null,
+            "id": "80763",
+            "tipo": null,
+            "titulo": "Audição em 2005-10-11 com "
+          },
+          {
+            "data": "2005-10-11",
+            "entidades": null,
+            "id": "80789",
+            "tipo": null,
+            "titulo": "Audição em 2005-10-11 com Empresa Metro do Porto SA - Prof. Manuel de Oliveira Marques"
+          },
+          {
+            "data": "2006-02-07",
+            "entidades": null,
+            "id": "80795",
+            "tipo": null,
+            "titulo": "Audição em 2006-02-07 com Campo Aberto - Organização não-Governamental de Ambiente, IPPAR - Instituto Português do Património Arquitectónico"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2005-11-22",
+            "dataResposta": "2006-06-09",
+            "entidades": [
+              "Secretário de Estado Adjunto e da Administração Local"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e68627938324e7a6b785a6a41775a69307959544d784c54526d4f474d74596d526c4f4330315a4446695a47566d5a444578597a67756347526d&fich=6791f00f-2a31-4f8c-bde8-5d1bdefd11c8.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2005-11-18",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-07-27",
+        "DataArquivo": "2005-11-22",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2005-11-29",
+        "DataReaberta": "2005-07-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-07-21",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e68627938794e4449774f445a6d4d4330355a6a55344c5451335a54457459544e684e4330354e6a6b774d7a51324e3255334e6d4d756347526d&fich=242086f0-9f58-47e1-a3a4-96903467e76c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2005-07-21",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e68627938324e7a6b785a6a41775a69307959544d784c54526d4f474d74596d526c4f4330315a4446695a47566d5a444578597a67756347526d&fich=6791f00f-2a31-4f8c-bde8-5d1bdefd11c8.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-07-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e6862793878597a63774f444a6c4e5330794e324e6a4c5451774d47557459574a6c595331694f47526a4f5459305a574e694e7a67756347526d&fich=1c7082e5-27cc-400e-abea-b8dc964ecb78.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "250",
+        "Legislatura": "X",
+        "Nome": "Comissão de Educação, Ciência e Cultura (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-07-27",
+            "gp": "PS",
+            "id": "1969",
+            "motivoCessacao": null,
+            "nome": "Manuela de Melo"
+          }
+        ],
+        "RelatorioFinal": [
+          "21973"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2006-06-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2005-07-21",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938774e544179597a5a6b4f4330344f544d7a4c54526d4e4467744f544a6a5a5330794e54557a595451304f44646b4f4467756347526d&fich=0502c6d8-8933-4f48-92ce-2553a4487d88.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6163-6164"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6163?pgs=6163-6164&org=PLC"
+              }
+            ],
+            "Sumario": "Manifestam o seu desacordo relativamente à intervenção urbanistica no conjunto Avenida dos Aliados/Praça da Liberdade, no Porto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6164-6164"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6164?pgs=6164&org=PLC"
+              }
+            ],
+            "Sumario": "Manifestam o seu desacordo relativamente à intervenção urbanistica no conjunto Avenida dos Aliados/Praça da Liberdade, no Porto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6164-6165"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6164?pgs=6164-6165&org=PLC"
+              }
+            ],
+            "Sumario": "Manifestam o seu desacordo relativamente à intervenção urbanistica no conjunto Avenida dos Aliados/Praça da Liberdade, no Porto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6165-6166"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6165?pgs=6165-6166&org=PLC"
+              }
+            ],
+            "Sumario": "Manifestam o seu desacordo relativamente à intervenção urbanistica no conjunto Avenida dos Aliados/Praça da Liberdade, no Porto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6166-6166"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6166?pgs=6166&org=PLC"
+              }
+            ],
+            "Sumario": "Manifestam o seu desacordo relativamente à intervenção urbanistica no conjunto Avenida dos Aliados/Praça da Liberdade, no Porto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6167-6167"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6167?pgs=6167&org=PLC"
+              }
+            ],
+            "Sumario": "Manifestam o seu desacordo relativamente à intervenção urbanistica no conjunto Avenida dos Aliados/Praça da Liberdade, no Porto",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11361",
+    "PetAssunto": "Protesto relativo à intervenção urbanística no conjunto Av. dos Aliados/Praça da Liberdade, no Porto.",
+    "PetDataEntrada": "2005-07-21",
+    "PeticoesAssociadas": null,
+    "PetId": "11361",
+    "PetLeg": "X",
+    "PetNr": "44",
+    "PetNrAssinaturas": "5726",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "198",
+        "obs": null,
+        "pag": [
+          "6163-6167"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-06-12",
+        "pubLeg": "X",
+        "pubNr": "134",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6163?pgs=6163-6167&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "307563",
+        "obs": null,
+        "pag": [
+          "5-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-09-10",
+        "pubLeg": "X",
+        "pubNr": "13",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/013/2005-09-10/5?pgs=5&org=PLC"
+      }
+    ]
+  }
+}
