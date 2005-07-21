@@ -1,0 +1,13 @@
+Despacho Normativo n.º 34/2005
+O Despacho Normativo n.º 18/2005, de 11 de Fevereiro, com as alterações introduzidas pelo Despacho Normativo n.º 26/2005, de 18 de Abril, definiu as regras relativas à competência, metolodologia, tramitação, procedimentos e calendário de candidaturas no âmbito do sistema integrado de gestão e de controlo, bem como no referente às ajudas à produção de azeite e à produção de azeitonas de mesa.
+O Despacho Normativo n.º 7/2005, de 17 de Janeiro, estabelece os requisitos mínimos para as boas condições agrícolas e ambientais, incluindo a manutenção das terras ocupadas por pastagens permanentes, nos termos e para os efeitos do disposto no artigo 5.º do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, e no artigo 4.º do Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril.
+Através do Despacho Normativo n.º 33/2005, de 28 de Junho, são introduzidas alterações ao Despacho Normativo n.º 7/2005, nomeadamente com a introdução do n.º 20) do anexo, em que são estabelecidos os procedimentos para a definição de prazos para apresentação de pedidos e comunicações de alteração de uso das parcelas.
+Considerando que a alteração do uso das parcelas classificadas como pastagens permanentes, bem como a permuta entre parcelas exploradas pelo mesmo agricultor, depende de pedido de autorização prévia ao Instituto Nacional de Intervenção e Garantia Agrícola (INGA);
+Considerando, nos casos de parcelas isentas de reposição, que a respectiva alteração de uso carece de comunicação prévia ao INGA:
+Face ao anteriormente referido, importa introduzir ajustamentos ao Despacho Normativo n.º 18/2005, de 11 de Fevereiro, com a redacção dada pelo Despacho Normativo n.º 26/2005, de 18 de Abril, pelo que se determina o seguinte:
+1 - O capítulo VII é renumerado para capítulo VIII.
+2 - O capítulo VII passa a ter a seguinte redacção:
+«VII - Datas e prazos para comunicação e pedidos de alteração de uso/permuta de pastagens permanentes
+1 - Os pedidos de autorização para permuta e ou alteração de uso e de comunicação de alteração de uso das parcelas classificadas como pastagens permanentes deverão ser apresentados junto das entidades previstas no Despacho Normativo n.º 18/2005, de 11 de Fevereiro, até 29 de Julho.
+2 - As entidades referidas no número anterior procederão à sua entrega no INGA até 12 de Agosto, excepto para a Região Autónoma dos Açores, em que o envio ao INGA será até 26 de Agosto, já com o parecer prévio previsto no n.º 18) do Despacho Normativo n.º 33/2005, de 28 de Junho.»
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 6 de Julho de 2005. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
