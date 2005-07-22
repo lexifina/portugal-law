@@ -1,0 +1,5 @@
+Aviso n.º 278/2005
+Por ordem superior se torna público que, em 14 de Abril de 2005, as ilhas Cook depositaram o seu instrumento de adesão ao Protocolo para a Repressão de Actos Ilícitos de Violência nos Aeroportos ao Serviço da Aviação Civil Internacional, assinado em Montreal em 24 de Fevereiro de 1988, Complementar à Convenção para a Repressão de Actos Ilícitos contra a Segurança da Aviação Civil, assinada em Montreal em 23 de Setembro de 1971.
+Portugal é Parte do mesmo Protocolo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 32/98, tendo sido ratificado pelo Decreto do Presidente da República n.º 22/98, publicados no Diário da República, 1.ª série-A, n.º 137, de 17 de Junho de 1998, e tendo Portugal depositado o instrumento de ratificação em 19 de Dezembro de 2001, conforme o aviso n.º 32/2002, publicado no Diário da República, 1.ª série-A, n.º 81, de 6 de Abril de 2002.
+Nos termos do n.º 3 do artigo VII, o Protocolo entrou em vigor para as ilhas Cook em 14 de Maio de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 1 de Julho de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
