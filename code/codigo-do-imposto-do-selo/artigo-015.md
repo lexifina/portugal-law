@@ -1,6 +1,6 @@
 # Artigo 15.º
 
-### Valor tributável de participações sociais e títulos de crédito
+### Valor tributável de participações sociais, títulos de créditos e valores monetários
 
 1 - O valor das quotas ou partes em sociedades que não sejam por acções e o dos estabelecimentos comerciais, industriais ou agrícolas com contabilidade organizada determina-se pelo último balanço, ou pelo valor atribuído em partilha ou liquidação dessas sociedades, salvo se, não continuando as sociedades com o herdeiro, legatário ou donatário do sócio falecido ou doador, o valor das quotas ou partes tiver sido fixado no contrato social.
 
@@ -53,3 +53,5 @@ a) Tratando-se de sociedades liquidadas ou partilhadas, o valor das acções é 
 b) O valor dos títulos representativos do capital social das cooperativas é o correspondente ao seu valor nominal;
 
 c) O valor das acções que apenas conferem direito a participação nos lucros é o que resultar da multiplicação da média do dividendo distribuído nos dois exercícios anteriores ao da transmissão pelo factor f mencionado na alínea a) do número anterior.
+
+5 - O valor tributável dos valores monetários corresponde ao montante existente à data da transmissão, o qual, quando estiver expresso em moeda sem curso legal em Portugal, é determinado de acordo com o disposto no artigo 10.º, aplicando-se as taxas de câmbio à data da transmissão.

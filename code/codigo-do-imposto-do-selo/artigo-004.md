@@ -28,6 +28,8 @@ c) Os direitos de crédito ou direitos patrimoniais sobre pessoas singulares ou 
 
 d) As participações sociais quando a sociedade participada tenha a sua sede, direcção efectiva ou estabelecimento estável em território nacional, desde que o adquirente tenha domicílio neste território;
 
-e) Os direitos de propriedade industrial, direitos de autor e direitos conexos registados ou sujeitos a registo em território nacional.
+e) Os valores monetários depositados em instituições com sede, direcção efectiva ou estabelecimento estável em território nacional, ou, não se tratando de valores monetários depositados, o autor da transmissão tenha domicílio, sede, direcção efectiva ou estabelecimento estável neste território;
+
+f) Os direitos de propriedade industrial, direitos de autor e direitos conexos registados ou sujeitos a registo em território nacional.
 
 5 - Nas transmissões gratuitas, consideram-se domiciliadas em território nacional as pessoas referidas no artigo 16.º do Código do IRS.

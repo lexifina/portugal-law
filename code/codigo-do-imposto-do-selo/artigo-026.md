@@ -34,12 +34,6 @@ i) No caso referido na alínea c) do n.º 4 do artigo 15.º, documento comprovat
 
 j) Extracto do último balanço do estabelecimento comercial, industrial ou agrícola, ou do balanço de liquidação, havendo-o, ou certidão do contrato social, nos termos e para os efeitos das alíneas a) e b) do n.º 4 do artigo 15.º, ou, não havendo balanço, o inventário previsto no n.º 1 do artigo 16.º, podendo a certidão do contrato social ser substituída por exemplar do Diário da República onde tenha sido publicado;
 
-l) Documentos necessários para comprovar o passivo referido no artigo 20.º
+l) Documento comprovativo dos valores monetários existentes, emitido pelas instituições competentes, no caso de valores depositados, bem como, tratando-se de dinheiro depositado em instituições bancárias, extracto do depósito ou da respectiva conta-corrente à data da transmissão, com demonstração dos movimentos efectuados nos últimos 60 dias;
 
-7 - Quando não possa juntar-se a certidão do testamento por este se encontrar em poder de terceiro, o chefe de finanças deve notificá-lo para, dentro do prazo de 15 dias, lhe fornecer aquela certidão.
-
-8 - Alegando e provando os interessados que não lhes é possível obter o extracto do balanço ou inventário ou as declarações referidas nas alíneas f) a h) do n.º 6, serão notificados os administradores, gerentes ou liquidatários da empresa ou os administradores da massa falida para os apresentarem dentro de 15 dias.
-
-9 - Se, no termo do prazo, houver bens da herança na posse de qualquer herdeiro ou legatário que não tenham sido relacionados pelo cabeça-de-casal, incumbirá àqueles descrevê-los nos 30 dias seguintes.
-
-10 - Os documentos referidos nas alíneas f), g) e j) do n.º 6 devem conter a assinatura de quem represente a sociedade no momento da sua emissão, a qual deve ser comprovada através de reconhecimento, podendo este ser efectuado pelo serviço de finanças competente.
+m) Documentos necessários para comprovar o passivo referido no artigo 20.º.
