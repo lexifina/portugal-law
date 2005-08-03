@@ -20,7 +20,7 @@ a) Direito de propriedade ou figuras parcelares desse direito sobre bens imóvei
 
 b) Bens móveis sujeitos a registo, matrícula ou inscrição;
 
-c) Participações sociais, valores mobiliários e direitos de crédito associados, ainda que transmitidos autonomamente, bem como títulos e certificados da dívida pública;
+c) Participações sociais, valores mobiliários e direitos de crédito associados, ainda que transmitidos autonomamente, títulos e certificados da dívida pública, bem como valores monetários, ainda que objecto de depósito em contas bancárias;
 
 d) Estabelecimentos comerciais, industriais ou agrícolas;
 
@@ -34,13 +34,7 @@ g) Aquisição derivada de invalidade, distrate, renúncia ou desistência, reso
 
 5 - Não são sujeitas a imposto do selo as seguintes transmissões gratuitas:
 
-a) De valores monetários, ainda que objecto de depósito em contas bancárias, incluindo:
-
-i) O abono de família em dívida à morte do titular;
-
-ii) Os créditos provenientes de seguros de vida;
-
-iii) As pensões e subsídios atribuídos, ainda que a título de subsídio por morte, por sistemas de segurança social;
+a) O abono de família em dívida à morte do titular, os créditos provenientes de seguros de vida e as pensões e subsídios atribuídos, ainda que a título de subsídio por morte, por sistemas de segurança social;
 
 b) De valores aplicados em fundos de poupança-reforma, fundos de poupança-educação, fundos de poupança-reforma-educação, fundos de poupança-acções, fundos de pensões ou fundos de investimento mobiliário e imobiliário;
 
@@ -53,3 +47,7 @@ e) Transmissões a favor de sujeitos passivos de imposto sobre o rendimento das 
 f) Bens de uso pessoal ou doméstico.
 
 6 - Para efeitos do presente Código, o conceito de prédio é o definido no Código do Imposto Municipal sobre Imóveis (CIMI).
+
+7 - Os valores e dinheiro depositados em contas conjuntas, guardados em cofres de aluguer ou confiados a qualquer pessoa ou entidade, consideram-se pertencentes em partes iguais aos respectivos titulares, salvo prova em contrário, tanto da Fazenda Nacional como dos interessados.
+
+8 - Os saldos das contas de depósitos existentes à data da sucessão em nome de qualquer herdeiro ou legatário, e que pudessem ser movimentados pelo autor da herança, presumir-se-ão fazer parte desta, salvo prova em contrário.
