@@ -6,9 +6,9 @@
 
 ### Utilização das dotações orçamentais
 
-1 - Ficam cativos 20% do total das verbas afectas à Lei de Programação Militar.
+1 - Ficam cativos 37% do total das verbas afectas à Lei de Programação Militar.
 
-2 - Ficam cativos 21,4% das despesas afectas ao capítulo 50 do Orçamento do Estado.
+2 - Ficam cativos (euro) 450000000 das dotações inscritas no capítulo 50 do Orçamento do Estado em financiamento nacional, a repartir por ministério, mediante despacho do Ministro das Finanças.
 
 3 - Ficam cativos 15% do total das verbas não referidas nos números anteriores, com excepção de:
 
@@ -28,4 +28,4 @@ d) Contribuição do Estado para a Caixa Geral de Aposentações.
 
 7 - Ficam sujeitas a autorização dos Ministros da tutela e das Finanças e da Administração Pública quaisquer alterações orçamentais que impliquem aumento de despesa nos orçamentos dos serviços integrados e dos serviços e fundos autónomos constantes do mapa VII.
 
-8 - O Governo, através do Ministro das Finanças e da Administração Pública, face à evolução da execução orçamental que vier a verificar-se, decide sobre a descativação das verbas referidas nos números anteriores, bem como sobre os respectivos graus.
+8 - A descativação das verbas referidas nos n.os 1 a 5 só pode realizar-se por razões excepcionais, estando sempre sujeita à autorização do Governo, através do Ministro das Finanças, que decide os montantes a descativar em função da evolução da execução orçamental.

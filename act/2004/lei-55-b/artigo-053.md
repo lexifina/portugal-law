@@ -31,3 +31,5 @@ m) Regularização de responsabilidades relativas ao subsídio de risco dos func
 n) Regularização de responsabilidades passadas decorrentes da renegociação do contrato de concessão para a exploração do serviço de transporte suburbano de passageiros no eixo ferroviário norte-sul;
 
 o) Responsabilidades passadas decorrentes dos contratos relativos à convergência tarifária da energia eléctrica celebrados com as Regiões Autónomas dos Açores e da Madeira.
+
+p) Regularização de responsabilidades no âmbito do regime de crédito à habitação bonificado relativas a empréstimos concedidos nos territórios das Regiões Autónomas dos Açores e da Madeira, nos termos do n.º 2 do artigo 26.º do Decreto-Lei n.º 349/98, de 11 de Novembro.

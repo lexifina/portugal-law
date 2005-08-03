@@ -61,3 +61,9 @@ Na execução do Orçamento do Estado para 2005 fica o Governo autorizado a:
 28) Transferir para o Orçamento do Estado de 2005 os saldos das dotações dos programas com co-financiamento comunitário, constantes do orçamento do ano económico anterior, para programas de idêntico conteúdo, tendo em vista as características desses programas e com o objectivo de que não sofram qualquer interrupção por falta de verbas;
 
 29) Proceder às alterações orçamentais necessárias para a introdução de sistemas de partilha de actividades comuns preconizados pelo artigo 8.º da Lei n.º 4/2004, de 15 de Janeiro.
+
+30) Transferir as dotações inscritas no capítulo 50 do orçamento da Secretaria-Geral do anteriormente designado Ministério das Actividades Económicas e do Trabalho, actual Ministério da Economia e da Inovação, a favor da Direcção-Geral do Emprego e das Relações de Trabalho (DGERT), da Inspecção-Geral do Trabalho (IGT) e do Instituto António Sérgio para o Sector Cooperativo (INSCOOP), no montante global de (euro) 1538000, destinadas à prossecução dos projectos com as referências P001-M003-4389, P006-M003-4009, P001-M003-4387, P006-M002-3531, P006-M006-4229, P006-M006-4232 e P006-M003-1294, bem como os saldos das respectivas dotações orçamentais, para os orçamentos dos serviços em referência;
+
+31) Transferir verbas do Ministério da Defesa Nacional para o orçamento da segurança social destinadas ao reembolso do pagamento das prestações previstas nas Leis n.os 9/2002, de 11 de Fevereiro, e 21/2004, de 5 de Junho, e no Decreto-Lei n.º 160/2004, de 2 de Julho;
+
+32) Transferir do capítulo 50 do orçamento do Ministério das Obras Públicas, Transportes e Comunicações uma verba até (euro) 315000000 para a EP - Estradas de Portugal, E. P. E., destinada ao cumprimento das obrigações decorrentes da construção de infra-estruturas rodoviárias.

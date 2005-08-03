@@ -30,7 +30,7 @@ b) À cessão de activos financeiros que o Estado, através da Direcção-Geral 
 
 c) À anulação de créditos detidos pela Direcção-Geral do Tesouro, quando, em casos devidamente fundamentados, se verifique que não se justifica a respectiva recuperação;
 
-d) À contratação de prestação de serviços no âmbito da recuperação dos créditos do Estado, em casos devidamente fundamentados.
+d) À contratação de prestação de serviços, em casos devidamente fundamentados, no âmbito da recuperação dos créditos do Estado e do patrocínio do Estado sempre que este assuma a posição de empresas dissolvidas, relativamente às quais exista acções judiciais pendentes.
 
 4 - A recuperação dos créditos decorrentes dos incentivos financeiros concedidos ao abrigo do Sistema Integrado de Incentivos ao Investimento (SIII), instituído pelo Decreto-Lei n.º 194/80, de 19 de Junho, alterado pelo Decreto-Lei n.º 132/83, de 18 de Março, será efectuada através do processo de execução fiscal nos termos previstos no Código de Procedimento e de Processo Tributário, constituindo a certidão de dívida emitida pela Direcção-Geral do Tesouro título executivo para esse efeito.
 
