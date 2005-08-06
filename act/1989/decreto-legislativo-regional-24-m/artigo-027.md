@@ -1,6 +1,6 @@
-## Subsecção III
+## Subsecção IV
 
-## Divisão Administrativa e Financeira
+## Divisão de Documentação e Informação Bibliográfica
 
 # Artigo 27.º
 

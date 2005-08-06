@@ -1,11 +1,3 @@
-## Capítulo VI
-
-## Pessoal dos serviços da Assembleia Legislativa Regional
-
-## Secção I
-
-## Disposições gerais
-
 # Artigo 34.º
 
 ### Estatuto do pessoal parlamentar

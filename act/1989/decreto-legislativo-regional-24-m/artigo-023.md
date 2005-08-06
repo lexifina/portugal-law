@@ -1,3 +1,7 @@
+## Subsecção IV
+
+## Gabinete de Informação e Comunicação
+
 ## Secção III
 
 ## Organização dos serviços

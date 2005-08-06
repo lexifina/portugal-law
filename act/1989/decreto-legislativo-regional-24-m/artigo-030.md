@@ -1,6 +1,10 @@
-## Subsecção IV
+## Capítulo VI
 
-## Divisão de Documentação e Informação Bibliográfica
+## Pessoal dos serviços da Assembleia Legislativa Regional
+
+## Secção I
+
+## Disposições gerais
 
 # Artigo 30.º
 

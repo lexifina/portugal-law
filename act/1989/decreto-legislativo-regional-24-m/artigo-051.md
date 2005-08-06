@@ -2,7 +2,7 @@
 
 ### Receitas
 
-Constituem receitas da Assembleia:
+1 - Constituem receitas da Assembleia:
 
 a) As dotações inscritas no Orçamento da Região Autónoma da Madeira;
 
@@ -13,3 +13,5 @@ c) O produto das edições e publicações;
 d) Os direitos de autor;
 
 e) As demais receitas que lhe forem atribuídas por lei, resolução da Assembleia, contrato, sucessão ou doação.
+
+2 - Os saldos positivos apurados no fim de cada ano económico são transferidos para a gerência do ano seguinte e distribuídos pelo Conselho de Administração pelas rubricas cujo reforço se mostre necessário nos termos do n.º 2 do artigo anterior.

@@ -2,6 +2,8 @@
 
 ### Conta
 
-1 - O relatório e a conta são organizados pelos serviços competentes, sob a directa coordenação do secretário-geral da Assembleia Legislativa Regional, que os submeterá ao Conselho de Administração, e são aprovados pelo Plenário até ao dia 31 de Maio do ano seguinte àquele a que disserem respeito.
+1 - O relatório e a conta são organizados pelos serviços competentes, sob a directa coordenação do Secretário-Geral da Assembleia Legislativa Regional, que os submeterá até ao dia 31 de Março do ano seguinte àquele a que disserem respeito ao Conselho de Administração.
 
-2 - A conta é publicada no Diário da Assembleia Legislativa Regional e no Jornal Oficial da Região Autónoma da Madeira.
+2 - O Conselho de Administração após aprovar a conta, submete-a ao Presidente da Assembleia Legislativa Regional para aprovação do Plenário e remete-a para parecer do Tribunal de Contas, Secção Regional da Madeira, nos termos da legislação em vigor.
+
+3 - A conta é publicada no Diário da Assembleia Legislativa Regional, no Diário da República e no Jornal Oficial da Região.

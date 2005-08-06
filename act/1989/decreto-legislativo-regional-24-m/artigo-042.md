@@ -1,13 +1,7 @@
 # Artigo 42.º
 
-### Chefes de divisão
+### Remunerações
 
-1 - Aos chefes de divisão compete especialmente:
+1 - As remunerações do director de serviços ou equiparado e do chefe de divisão são as estabelecidas na lei.
 
-a) Promover a organização interna dos serviços;
-
-b) Coordenar os trabalhos próprios dos seus serviços, garantindo a sua execução e controle;
-
-c) Coadjuvar o director de serviços na observância das regras de assiduidade e disciplina pelo pessoal da respectiva divisão.
-
-2 - Os chefes de divisão são substituídos nas suas faltas ou impedimentos por quem o director de serviços designar.
+2 - Ao pessoal dirigente podem ser abonadas despesas de representação em montantes a fixar por despacho do Presidente da Assembleia Legislativa Regional e mediante parecer do Conselho de Administração.

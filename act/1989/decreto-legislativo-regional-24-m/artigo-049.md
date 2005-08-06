@@ -1,11 +1,19 @@
 ## Capítulo VIII
 
-## Orçamento e regime financeiro
+## Regime financeiro
+
+## Secção I
+
+## Orçamento
 
 # Artigo 49.º
 
 ### Elaboração do orçamento
 
-1 - O projecto de orçamento é elaborado pelos serviços competentes, sob a coordenação do secretário-geral da Assembleia Legislativa Regional, de acordo com as orientações e objectivos previamente fixados pelo Conselho de Administração.
+1 - O projecto do orçamento é elaborado pelo Departamento Financeiro até ao dia 31 de Outubro do ano anterior àquele a que respeita, sob a coordenação do Secretário-Geral da Assembleia Legislativa Regional, de acordo com as orientações e objectivos previamente fixados pelo Conselho de Administração.
 
-2 - Submetido o projecto ao Presidente da Assembleia Legislativa Regional e após a obtenção do parecer do Conselho de Administração, o mesmo é remetido pelo Presidente ao Plenário até 15 de Novembro do ano anterior àquele a que respeita, sendo publicado no Diário da Assembleia Legislativa Regional e no Jornal Oficial da Região Autónoma da Madeira.
+2 - Apreciado o projecto do orçamento pelo Conselho de Administração, este submete-o ao Presidente da Assembleia Legislativa Regional que, após a obtenção do parecer emitido pelo Conselho Consultivo, o remete ao Plenário.
+
+3 - O orçamento da Assembleia Legislativa Regional é aprovado pelo Plenário até 30 de Novembro do ano anterior àquele a que respeita.
+
+4 - O orçamento é publicado no Diário da Assembleia Legislativa Regional, no Diário da República e no Jornal Oficial da Região Autónoma da Madeira.

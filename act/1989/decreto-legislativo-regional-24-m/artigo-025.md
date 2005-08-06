@@ -1,3 +1,7 @@
+## Subsecção III
+
+## Gabinete de Informática
+
 # Artigo 25.º
 
 ### Competências
