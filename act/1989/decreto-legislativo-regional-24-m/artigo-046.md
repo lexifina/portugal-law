@@ -6,19 +6,9 @@
 
 ### Gabinetes dos partidos e dos grupos parlamentares
 
-1 - Os partidos com um único deputado e os grupos parlamentares dispõem, para a utilização de gabinetes constituídos por pessoal da sua livre escolha, nomeação, exoneração e qualificação, de uma verba anual, resultante do quadro seguinte:
+1 - Os partidos com um único deputado e os grupos parlamentares dispõem, para a utilização de gabinetes constituídos por pessoal da sua livre escolha, nomeação, exoneração e qualificação, de uma verba anual calculada nos seguintes termos:
 
-a) Deputado único/partido - 15 x 14 SMNR (salário mínimo nacional aplicável na Madeira)/ano;
-
-b) Grupo parlamentar até 2 deputados - 15 x 14 SMNR/mês/número de deputados;
-
-c) Grupo parlamentar de 3 a 10 deputados - 11 x 14 SMNR/mês/número de deputados;
-
-d) Grupo parlamentar de 11 a 20 deputados - 9 x 14 SMNR/mês/número de deputados;
-
-e) Grupo parlamentar de 21 a 30 deputados - 8 x 14 SMNR/mês/número de deputados;
-
-f) Grupo parlamentar superior a 30 deputados - 7 x 14 SMNR/mês/número de deputados.
+a) Deputado único/partido e grupos parlamentares - 15 x 14 SMNR (salário mínimo nacional em vigor na Madeira)/mês/número de deputados.
 
 2 - O Presidente da Assembleia Legislativa Regional fixa, por despacho, o quadro de pessoal do gabinete de cada grupo parlamentar, por proposta vinculativa do respectivo grupo, e desde que não ultrapasse o montante referido no número anterior.
 

@@ -1,7 +1,3 @@
-## Subsecção IV
-
-## Gabinete de Informação e Comunicação
-
 ## Secção III
 
 ## Organização dos serviços
@@ -14,10 +10,14 @@
 
 ### Unidades orgânicas
 
-Os serviços da Assembleia Legislativa Regional compreendem uma Direcção de Serviços, a qual integra as seguintes divisões:
+Os serviços da Assembleia Legislativa compreendem:
 
-a) Divisão de Apoio Parlamentar;
+a) Direcção de Serviços;
 
-b) Divisão Administrativa e Financeira;
+b) Gabinete de Informática;
 
-c) Divisão de Documentação e Informação Bibliográfica.
+c) Arquivo Histórico-Parlamentar;
+
+d) Gabinete de Apoio Audiovisual;
+
+e) Departamento Financeiro.

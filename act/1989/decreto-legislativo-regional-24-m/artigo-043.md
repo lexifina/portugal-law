@@ -6,7 +6,7 @@
 
 ### Requisição de pessoal
 
-1 - O Presidente da Assembleia Legislativa Regional, obtido o parecer favorável do Conselho de Administração, pode autorizar a requisição ou o destacamento, nos termos da lei geral, de funcionários de outros departamentos da Administração Pública para prestarem serviço na Assembleia.
+1 - O Presidente da Assembleia Legislativa, obtido o parecer favorável do Conselho de Administração, pode autorizar a requisição de funcionários de outros departamentos da Administração Pública para prestarem serviço na Assembleia, não se aplicando a estas requisições os limites de duração previstos na lei geral.
 
 2 - O Presidente da Assembleia Legislativa Regional, obtido o parecer favorável do Conselho de Administração, pode ainda autorizar a requisição de técnicos de empresas públicas ou privadas, assim como de outros organismos, por período julgado necessário, nos termos seguintes:
 
@@ -16,6 +16,8 @@ b) Os requisitados auferem, por inteiro, as remunerações inerentes aos cargos 
 
 c) Estas requisições só podem ser realizadas com a concordância dos requisitados e dos respectivos serviços.
 
-3 - As requisições previstas nos números anteriores visam preferentemente a realização de trabalhos de carácter técnico, nomeadamente para apoio às comissões, a solicitação dos respectivos presidentes.
+3 - As requisições podem ser feitas por períodos não superiores ao da legislatura, cujo termo determina a sua caducidade.
 
-4 - O pessoal requisitado ou destacado nos termos dos números anteriores tem de possuir as qualificações académicas e profissionais exigidas para os funcionários do quadro da Assembleia Legislativa Regional e será portador de um cartão de identidade, conforme anexo III do presente diploma.
+4 - Decorrido o prazo da requisição ou uma vez caducada, nos termos do número anterior, a requisição do pessoal a que se referem os n.os 1 e 2 pode ser autorizada de novo pelo Presidente da Assembleia Legislativa, mediante o parecer favorável do Conselho de Administração.
+
+5 - O pessoal requisitado tem de possuir as qualificações académicas e profissionais exigidas, para as mesmas categorias ou funções, aos funcionários do quadro da Assembleia Legislativa.

@@ -2,10 +2,20 @@
 
 ### Subvenção aos partidos
 
-1 - É concedida uma subvenção anual a cada um dos partidos políticos representados na Assembleia para a realização dos seus fins próprios.
+1 - Às representações parlamentares é atribuída uma subvenção mensal para encargos de assessoria, contactos com os eleitores e outras actividades correspondentes aos respectivos mandatos no valor de dois terços do salário mínimo nacional aplicável nesta Região Autónoma (SMNR) por deputado eleito, mais a ponderação dos seguintes factores:
 
-2 - A subvenção consiste numa quantia em dinheiro equivalente à fracção 1/225 do salário mínimo nacional por cada voto obtido na mais recente eleição dos deputados à Assembleia.
+a) Representação de um só deputado e grupos parlamentares - 1 SMNR x número de deputados.
 
-3 - Aos grupos parlamentares é atribuída uma subvenção mensal para encargos de assessoria aos deputados não inferior a quatro vezes o salário mínimo nacional anual por grupo parlamentar, mais dois terços do mesmo por deputado.
+b) Grupo parlamentar até dois deputados: 7,5 SMNR;
 
-4 - As subvenções referidas no presente artigo são pagas em duodécimos, por conta de dotações especiais inscritas no orçamento da Assembleia Legislativa Regional.
+c) Grupo parlamentar de 3 a 10 deputados: 10 SMNR;
+
+d) Grupo parlamentar de 11 a 20 deputados: 15 SMNR;
+
+e) Grupo parlamentar de 21 a 30 deputados: 20 SMNR;
+
+f) Grupo parlamentar com mais de 30 deputados: 30 SMNR.
+
+2 - A subvenção referida no presente artigo é paga em duodécimos, por conta de dotações especiais inscritas no orçamento da Assembleia Legislativa Regional.
+
+3 - Os partidos mantêm sempre, até final da VIII Legislatura, a subvenção mensal adquirida, em 31 de Dezembro de 2004, se da aplicação do disposto na alínea a) do n.º 1 resultar a sua diminuição.

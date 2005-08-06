@@ -1,6 +1,6 @@
-## Subsecção IV
+## Subsecção VI
 
-## Divisão de Documentação e Informação Bibliográfica
+## Departamento Financeiro
 
 # Artigo 27.º
 

@@ -2,9 +2,9 @@
 
 ### Estatuto
 
-1 - O secretário-geral é nomeado pelo Presidente da Assembleia Legislativa Regional, em comissão de serviço e pelo período da legislatura, ouvido o Conselho Consultivo, e permanece em funções até à nomeação do novo secretário-geral.
+1 - O secretário-geral é nomeado pelo Presidente da Assembleia Legislativa em comissão de serviço e por sessão legislativa, sem prejuízo do previsto no número seguinte, e permanece em funções até à nomeação do novo secretário-geral.
 
-2 - O secretário-geral da Assembleia Legislativa Regional pode ser exonerado a todo o tempo pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho Consultivo.
+2 - O secretário-geral da Assembleia Legislativa pode ser exonerado a todo o tempo pelo Presidente da Assembleia Legislativa.
 
 3 - O secretário-geral não pode exercer actividades profissionais privadas nem desempenhar outras funções públicas, salvo as que resultem de inerência ou de actividades de reconhecido interesse público cujo exercício seja autorizado por despacho do Presidente da Assembleia Legislativa Regional.
 
