@@ -1,29 +1,17 @@
 # Artigo 26.º
 
-### Estrutura
+### Competências
 
-1 - A Divisão de Apoio Parlamentar compreende:
+1 - Compete ao Gabinete de Informática:
 
-a) Serviços de Apoio ao Plenário e às Comissões;
+a) Promover, desenvolver e implementar sistemas e tecnologias de informação, de acordo com as necessidades da Assembleia Legislativa Regional;
 
-b) Serviços de Redacção.
+b) Estruturar e criar condições de acesso à informação relevante a todos os utilizadores do sistema;
 
-2 - Compete aos Serviços de Apoio ao Plenário e às Comissões:
+c) Promover acções de sensibilização e formação e prestar apoio aos órgãos e serviços da Assembleia Legislativa Regional no domínio dos sistemas e tecnologias de informação;
 
-a) Assegurar todo o apoio técnico-administrativo inerente ao seu funcionamento;
+d) Pronunciar-se nos domínios dos sistemas e tecnologias de informação, quando solicitado, em consonância com os princípios, regras e normas gerais de actuação superiormente aprovadas;
 
-b) Registar e organizar os processos relativos ao funcionamento do Plenário;
+e) Estudar e promover a implementação de uma arquitectura de informação global, coerente e actualizada no âmbito da Assembleia Legislativa Regional.
 
-c) Assegurar o registo dos diplomas submetidos à apreciação da Assembleia com anotação dos seus trâmites;
-
-d) Garantir o apoio administrativo e de secretariado às comissões;
-
-e) Informar da realização das reuniões das comissões;
-
-f) Canalizar o expediente para o secretário-geral decorrente das relações das comissões com o pessoal e entidades estranhas à Assembleia.
-
-3 - Compete aos Serviços de Redacção:
-
-a) Elaborar o original do Diário da Assembleia Legislativa Regional;
-
-b) Verificar a exactidão do texto a publicar no Diário da Assembleia Legislativa Regional com o original.
+2 - O Gabinete de Informática é dirigido por um director equiparado a director de serviços.

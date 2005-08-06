@@ -8,22 +8,10 @@
 
 # Artigo 30.º
 
-### Competências
+### Estatuto do pessoal parlamentar
 
-À Divisão de Documentação e Informação Bibliográfica compete:
+1 - O pessoal da Assembleia Legislativa Regional rege-se por estatuto próprio, nos termos do presente decreto legislativo regional e das resoluções e dos regulamentos da Assembleia Legislativa Regional.
 
-a) Promover a pesquisa e aquisição da informação técnico-científica;
+2 - A legislação referente à Administração Pública, bem como o estatuto do pessoal da Assembleia da República, é aplicável, subsidiariamente, aos funcionários da Assembleia Legislativa Regional, com as necessárias adaptações.
 
-b) Assegurar o apoio documental e bibliográfico;
-
-c) Organizar e manter actualizados os ficheiros de legislação, jurisprudência e doutrina;
-
-d) Analisar, tratar, arquivar e promover a difusão da legislação e outra documentação regional, nacional e estrangeira;
-
-e) Tratar e analisar, em colaboração com o Serviço de Relações Públicas, a informação noticiosa dos órgãos de comunicação social com interesse para a Assembleia;
-
-f) Planificar e promover a edição de publicações com interesse para a Assembleia;
-
-g) Assegurar a gestão da Biblioteca;
-
-h) Inserir e actualizar as bases de dados respeitantes à documentação, informação bibliográfica e gestão da Biblioteca.
+3 - O pessoal referido no n.º 1 é portador de um cartão de identidade, conforme o anexo III do presente diploma.

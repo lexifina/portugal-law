@@ -1,19 +1,7 @@
 # Artigo 31.º
 
-### Estrutura
+### Quadro de pessoal
 
-À Divisão de Documentação e Informação Bibliográfica compete:
+1 - A Assembleia Legislativa Regional dispõe do pessoal constante do quadro anexo I do presente diploma, do qual faz parte integrante.
 
-a) Indexar os documentos seleccionados e manter actualizados os ficheiros de armazenamento de documentação;
-
-b) Organizar e manter um ficheiro de utilizadores para envio de documentação e do Diário da Assembleia Legislativa Regional;
-
-c) Elaborar boletins bibliográficos;
-
-d) Planificar, redigir e editar as publicações que digam respeito à Assembleia;
-
-e) Planear e coordenar todo o processo respeitante à aquisição de publicações;
-
-f) Organizar, catalogar e indexar o património bibliográfico da Assembleia;
-
-g) Assegurar a utilização dos ficheiros sistemáticos.
+2 - O quadro do pessoal da Assembleia Legislativa Regional pode ser alterado por resolução da Assembleia mediante proposta no Conselho de Administração.
