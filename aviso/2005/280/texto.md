@@ -1,0 +1,5 @@
+Aviso n.º 280/2005
+Por ordem superior se torna público que a República Federal da Alemanha depositou junto do Secretário-Geral do Conselho da Europa, em 30 de Março de 2005, o seu instrumento de ratificação à Convenção Europeia sobre a Violência e os Excessos dos Espectadores por Ocasião das Manifestações Desportivas e nomeadamente de Jogos de Futebol, aberta para assinatura em Estrasburgo em 19 de Agosto de 1985.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 11/87, publicada no Diário da República, 1.ª série-A, n.º 57, de 10 de Março de 1987, tendo depositado o seu instrumento de ratificação em 26 de Junho de 1987, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 204, em 5 de Setembro de 1987.
+Esta Convenção entrou em vigor para a República Federal da Alemanha em 1 de Maio de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 7 de Julho de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
