@@ -1,0 +1,5 @@
+Aviso n.º 281/2005
+Por ordem superior se torna público que, em 30 de Junho de 2004 e em 15 de Março de 2005, foram emitidas notas, respectivamente do Ministério dos Negócios Estrangeiros, Cooperação e Comunidades de Cabo Verde e do Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo de Cooperação Jurídica e Judiciária entre a República de Portugal e a República de Cabo Verde, assinado na Praia em 2 de Dezembro de 2003.
+Por parte de Portugal, o acordo foi aprovado pelo Decreto n.º 10/2005, publicado no Diário da República, 1.ª série-A, n.º 32, de 15 de Fevereiro de 2005.
+Nos termos do n.º 1 do artigo 86.º do acordo, este acordo entrou em vigor na data da recepção da última notificação sobre o cumprimento das formalidades internas exigidas, ou seja, à data da recepção da nota verbal da República Portuguesa, em 8 de Julho de 2005.
+Direcção-Geral das Relações Bilaterais, 11 de Julho de 2005. - O Director de Serviços da África Subsariana, António Ricoca Freire.
