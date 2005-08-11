@@ -1,0 +1,5 @@
+Aviso n.º 286/2005
+Por ordem superior se torna público que, em 12 de Maio de 2005, a República Helénica depositou o seu instrumento de ratificação ao Protocolo que Consolida a Convenção Internacional de Cooperação para a Segurança da Navegação Aérea «EUROCONTROL», de 13 de Dezembro de 1960, tal como foi várias vezes modificada, emitido em Bruxelas no dia 27 de Junho de 1997.
+Portugal é Parte do mesmo Protocolo, aprovado para ratificação pela Resolução da Assembleia da República n.º 35/2001, tendo sido ratificado por Decreto do Presidente da República n.º 28/2001, publicado no Diário da República, 1.ª série-A, n.º 103, de 4 de Maio de 2001, tendo Portugal depositado o seu instrumento de ratificação em 12 de Julho de 2001, conforme o aviso n.º 103/2001, publicado no Diário da República, 1.ª série-A, n.º 220, de 21 de Setembro de 2001.
+Nos termos do n.º 4 do artigo II, o Protocolo entrou em vigor para a República Helénica em 1 de Julho de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 18 de Julho de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
