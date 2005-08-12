@@ -1,0 +1,12 @@
+Despacho Normativo n.º 41/2005
+O Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, estabeleceu regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e instituiu determinados regimes de apoio aos agricultores que, dada a adesão à União Europeia da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, de Malta, da Polónia, da Eslovénia e da Eslováquia, sofreram adaptações consubstanciadas no Regulamento (CE) n.º 864/2004, do Conselho, de 29 de Abril.
+Este regulamento, para além de estabelecer um regime de pagamento específico para o sector do algodão e para o lúpulo, regula de forma diversa da actualmente vigente o regime de pagamento aos sectores do azeite e do tabaco, pelo que se justifica que se proceda aos ajustamentos pertinentes para a sua aplicação na ordem jurídica nacional.
+Assim, ao abrigo do disposto nos artigos 110.º-I e 110.º-L, conjugados com o constante da alínea 5), H e I, do anexo ao Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, determina-se o seguinte:
+1 - A partir de 1 de Janeiro de 2006, o regime de apoio ligado à produção no sector do azeite passa a ser integrado no regime de pagamento único na sua totalidade.
+2 - Sem prejuízo do disposto no número anterior, 10% do montante a conceder a título de pagamento único ao sector do azeite é retido para efeitos de pagamento complementar relacionado com a qualidade e ou com a comercialização.
+3 - A partir de 1 de Janeiro de 2006, o regime de apoio ligado à produção no sector do tabaco é integrado no regime de pagamento único em 50%.
+4 - Os restantes 50% da ajuda são concedidos aos produtores de tabaco de acordo com os critérios estabelecidos no título IV, capítulo 10-C, do Regulamento (CE) n.º 1782/2003.
+5 - O disposto no presente diploma apenas é aplicável no território do continente, competindo aos órgãos de governo próprio das Regiões Autónomas a fixação das regras de aplicação do Regulamento (CE) n.º 1782/2003.
+6 - Compete ao Gabinete de Planeamento e Política Agro-Alimentar a comunicação à Comissão Europeia do regime adoptado no presente diploma.
+7 - As normas de execução do disposto no n.º 2 são estabelecidas em legislação específica a publicar no prazo de 45 dias após a entrada em vigor do presente diploma.
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 26 de Julho de 2005. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas.
