@@ -1,7 +1,5 @@
 # Artigo 295.º
 
-### (Data e entrada em vigor da Constituição)
+### (Referendo sobre tratado europeu)
 
-1. A Constituição da República Portuguesa tem a data da sua aprovação pela Assembleia Constituinte, 2 de Abril de 1976.
-
-2. A Constituição da República Portuguesa entra em vigor no dia 25 de Abril de 1976.
+O disposto no n.º 3 do artigo 115.º não prejudica a possibilidade de convocação e de efectivação de referendo sobre a aprovação de tratado que vise a construção e aprofundamento da união europeia.

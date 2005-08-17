@@ -10,6 +10,6 @@
 
 ### (Direito à vida)
 
-1. A vida humana é inviolával.
+1. A vida humana é inviolável.
 
 2. Em caso algum haverá pena de morte.
