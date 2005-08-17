@@ -1,0 +1,5 @@
+Aviso n.º 301/2005
+Por ordem superior se torna público que a Bósnia-Herzegovina depositou junto do Secretário-Geral do Conselho da Europa, em 25 de Abril de 2005, o seu instrumento de ratificação da Convenção Europeia de Extradição, aberto para assinatura, em Paris, em 13 de Dezembro de 1957.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 23/89, publicada no Diário da República, 1.ª série-A, n.º 191, de 21 de Agosto de 1989, e ratificada pelo Decreto do Presidente da República n.º 57/89, publicado no Diário da República, 1.ª série-A, n.º 191, de 21 de Agosto de 1989, tendo depositado o seu instrumento de ratificação, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 76, em 31 de Março de 1990.
+Esta Convenção entrará em vigor para a Bósnia-Herzegovina em 24 de Julho de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 3 de Agosto de 2005. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
