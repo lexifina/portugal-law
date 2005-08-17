@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros n.º 136/2005
+As deficiências graves existentes na estrutura fundiária da freguesia da Benquerença e a necessidade de racionalizar a utilização da nova rede de rega prevista no âmbito do projecto de aproveitamento hidroagrícola da Cova da Beira fundamentaram a decisão de elaborar o projecto de emparcelamento da Benquerença.
+O projecto de emparcelamento do perímetro da Benquerença foi aprovado pela Resolução do Conselho de Ministros n.º 168/96, de 14 de Outubro, a qual determinou a conclusão da execução do projecto até final de 1999.
+Porém, ainda não foi possível concluir a execução do mesmo, principalmente devido à oposição de um crescente número de proprietários que se recusam a sair das suas propriedades, inviabilizando a implementação da nova estrutura predial.
+Esta situação só poderia ser ultrapassada através do recurso aos meios legais, designadamente à expropriação por utilidade pública, o que, para além da morosidade processual, acarretaria também enormes recursos financeiros que não se coadunam com os objectivos a atingir.
+O projecto de emparcelamento aprovado cumpre o objectivo definido, ou seja, o de adaptar a estrutura fundiária, através da concentração e do redimensionamento dos prédios, com vista à optimização da nova rede de rega. Faltou, porém, o enquadramento numa estratégia de desenvolvimento agrícola para a zona adequada às necessidades dos beneficiários.
+Isto demonstra que, para o êxito de um projecto de estruturação fundiária, não basta a sua correcção e rigor técnico. É também imprescindível que o mesmo seja orientado para o desenvolvimento agrícola e rural da zona e da região, em consonância com as reais expectativas e interesses dos destinatários.
+O Governo entende, assim, dever revogar a resolução do Conselho de Ministros que aprovou o projecto de emparcelamento do perímetro da Benquerença e, em simultâneo, criar condições para a promoção do desenvolvimento agrícola e rural da zona, enquadrado na globalidade do Projecto de Aproveitamento Hidroagrícola da Cova da Beira.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Revogar a Resolução do Conselho de Ministros n.º 168/96, de 14 de Outubro, sem prejuízo dos direitos entretanto adquiridos.
+2 - Incumbir o Instituto de Desenvolvimento Rural e Hidráulica (IDRHa), atento o manifesto interesse público, de elaborar ou apoiar um plano de desenvolvimento agrícola e rural para a zona da Benquerença, de forma a potenciar o melhor aproveitamento dos recursos existentes.
+3 - Cometer ainda ao IDRHa a promoção ou o apoio de outras operações de emparcelamento com vista à melhoria das explorações agrícolas dos agricultores que adquiriram justificadas expectativas na execução do projecto de emparcelamento da Benquerença e que a elas queiram aderir.
+4 - Autorizar a utilização dos terrenos adquiridos para o banco de terras constituído no âmbito do Projecto de Emparcelamento da Benquerença para apoiar as referidas operações de emparcelamento.
+Presidência do Conselho de Ministros, 29 de Julho de 2005. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
