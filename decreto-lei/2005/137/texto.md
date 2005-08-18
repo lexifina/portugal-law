@@ -1,0 +1,88 @@
+Decreto-Lei n.º 137/2005
+de 17 de Agosto
+Em conformidade com o n.º 2 do artigo 4.º da Directiva n.º 89/398/CE, do Conselho, de 3 de Maio, que estabelece as regras respeitantes aos géneros alimentícios destinados a uma alimentação especial, a Comissão das Comunidades Europeias adoptou a Directiva n.º 2001/15/CE, de 15 de Fevereiro, que fixa as substâncias que podem ser adicionadas, para fins nutricionais específicos, aos géneros alimentícios destinados a uma alimentação especial, bem como os critérios de pureza que devem ser-lhes aplicáveis.
+Reconheceu-se, porém, aquando da adopção da referida Directiva n.º 2001/15/CE, da Comissão, de 15 de Fevereiro, existirem dificuldades em definir as substâncias nutritivas para os fins em causa e a impossibilidade, tendo em conta os conhecimentos existentes, de estabelecer uma lista exaustiva de todas aquelas substâncias cuja utilização em géneros alimentícios destinados a uma alimentação especial não devesse ser excluída.
+Assim, verificou-se a necessidade de autorizar a utilização, em todos os géneros alimentícios destinados a uma alimentação especial, de outras categorias de substâncias nutritivas não identificadas, em relação às quais viesse a ser comprovada cientificamente a sua conformidade com os critérios que devem nortear a lista das substâncias a aprovar, isto é, a inocuidade do produto final, bem como a sua disponibilidade para absorção pelo organismo e propriedades organolépticas e tecnológicas. A mesma directiva permitia igualmente a comercialização de produtos não conformes com as respectivas disposições até 31 de Março de 2004.
+No período que decorreu após a publicação da Directiva n.º 2001/15/CE, foram avaliadas favoravelmente mais algumas substâncias químicas pelo Comité Científico da Alimentação Humana ou da Autoridade Europeia para a Segurança dos Alimentos, enquanto outras ainda aguardam a avaliação daquelas entidades, continuando a ser utilizadas como aditivos em géneros alimentícios destinados a uma alimentação especial e comercializadas em alguns Estados membros.
+Em resultado destas considerações, foram adoptadas as Directivas n.os 2004/5/CE e 2004/06/CE, da Comissão, de 20 de Janeiro.
+A primeira altera a Directiva n.º 2001/15/CE a fim de incluir no seu anexo as substâncias químicas, entretanto avaliadas favoravelmente, a segunda permite, até 31 de Dezembro de 2006, a comercialização de produtos que contenham certas substâncias, desde que estas estejam a ser utilizadas em produtos comercializados num dos Estados membros e a Autoridade Europeia para a Segurança dos Alimentos não venha entretanto a pronunciar-se desfavoravelmente quanto à sua utilização no fabrico daqueles produtos.
+Tendo sido publicado o Decreto-Lei n.º 241/2002, de 5 de Novembro, com vista à transposição para a ordem jurídica interna da citada Directiva n.º 2001/15/CE, torna-se agora necessário proceder à sua alteração.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objecto e âmbito
+O presente decreto-lei transpõe para o ordenamento jurídico interno as seguintes directivas comunitárias:
+a) Directiva n.º 2004/5/CE, da Comissão, de 20 de Janeiro, que altera a Directiva n.º 2001/15/CE, a fim de incluir determinadas substâncias no seu anexo;
+b) Directiva n.º 2004/6/CE, da Comissão, de 20 de Janeiro, que derroga a Directiva n.º 2001/15/CE, de modo a permitir a comercialização de determinados produtos.
+Artigo 2.º
+Alteração ao Decreto-Lei n.º 241/2002, de 5 de Novembro
+Os artigos 2.º, 6.º e 11.º do Decreto-Lei n.º 241/2002, de 5 de Novembro, passam a ter a seguinte redacção:
+«Artigo 2.º
+[...]
+1 - Para as categorias de substâncias enumeradas no anexo I ao presente diploma, que dele faz parte integrante, adicionadas, para fins nutricionais específicos, aos géneros alimentícios destinados a uma alimentação especial, abrangidos pelo Decreto-Lei n.º 227/99, de 22 de Junho, na redacção que lhe foi dada pelo Decreto-Lei n.º 285/2000, de 10 de Novembro, e pela legislação específica que lhes é aplicável, só podem ser utilizadas as substâncias químicas mencionadas em cada categoria.
+2 - ...
+3 - Não obstante o disposto no n.º 1 e relativamente a produtos comercializados até à data prevista no n.º 3 do artigo 11.º, podem ainda ser adicionadas aos géneros alimentícios destinados a uma alimentação especial abrangidos pelo n.º 1 do artigo 1.º as substâncias químicas mencionadas em cada categoria de substâncias enumeradas no anexo II do presente diploma, que dele faz parte integrante, desde que:
+a) A Autoridade Europeia para a Segurança dos Alimentos não emita parecer desfavorável relativamente à sua utilização no respectivo fabrico;
+b) A mesma haja sido utilizada no fabrico de um ou mais daqueles produtos e estes tenham sido comercializados na Comunidade até 11 de Fevereiro de 2004.
+Artigo 6.º
+[...]
+1 - A comercialização de géneros alimentícios destinados a uma alimentação especial com violação do disposto no presente diploma constitui contra-ordenação punível com coima mínima de (euro) 50 e máxima de (euro) 3740.
+2 - ...
+Artigo 11.º
+[...]
+1 - ...
+2 - ...
+3 - Não obstante o disposto no número anterior, é autorizada a comercialização até 31 de Dezembro de 2006, nos termos previstos no n.º 3 do artigo 2.º, dos produtos que contenham as substâncias enumeradas no anexo II.
+4 - As referências ao anexo, sem outra indicação, constantes do presente diploma, devem entender-se como sendo feitas ao actual anexo I, que dele faz parte integrante.»
+Artigo 3.º
+Alteração ao anexo ao Decreto-Lei n.º 241/2002, de 5 de Novembro
+O anexo ao Decreto-Lei n.º 241/2002, de 5 de Novembro, é alterado nos termos seguintes:
+ANEXO I
+[...]
+1 - Na secção relativa à «Categoria 2 - Minerais» é aditada a seguinte linha, sob a rubrica «Cálcio»:
+(ver tabela no documento original)
+2 - Na secção relativa à «Categoria 3 - Aminoácidos» são aditadas as seguintes linhas:
+(ver tabela no documento original)
+3 - Na secção relativa à «Categoria 4 - Carnitina e taurina» é aditada a seguinte linha:
+(ver tabela no documento original)
+Artigo 4.º
+Aditamento ao Decreto-Lei n.º 241/2002, de 5 de Novembro
+É aditado o anexo II ao Decreto-Lei n.º 241/2002, de 5 de Novembro, que dele faz parte integrante, com a seguinte redacção:
+«ANEXO II
+Substâncias que podem ser adicionadas transitoriamente, nos termos do n.º 3 do artigo 2.º, para fins nutricionais específicos, aos géneros alimentícios destinados a uma alimentação especial.
+Categoria 1 - Vitaminas
+Vitamina E:
+Succinato de D-alfa-tocoferil polietilenoglicol 1000.
+Categoria 2 - Minerais
+Boro:
+Ácido bórico;
+Borato de sódio.
+Cálcio:
+Quelato com aminoácido;
+Pidolato.
+Crómio:
+Quelato com aminoácido.
+Cobre:
+Quelato com aminoácido.
+Ferro:
+Hidróxido ferroso;
+Pidolato ferroso;
+Quelato com aminoácido.
+Selénio:
+Levedura enriquecida.
+Magnésio:
+Quelato com aminoácido;
+Pidolato.
+Manganês:
+Quelato com aminoácido.
+Zinco:
+Quelato com aminoácido.»
+Artigo 5.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 14 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Manuel Mendonça de Oliveira Neves - Manuel António Gomes de Almeida de Pinho - Francisco Ventura Ramos.
+Promulgado em 2 de Agosto de 2005.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 5 de Agosto de 2005.
+Pelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna.
