@@ -1,0 +1,5 @@
+Aviso n.º 310/2005
+Por ordem superior se torna público que a Bósnia-Herzegovina depositou junto do Secretário-Geral do Conselho da Europa, em 15 de Abril de 2005, o seu instrumento de ratificação da Convenção Relativa à Transferência de Pessoas Condenadas, aberta para assinatura, em Estrasburgo, em 21 de Março de 1983.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 8/93, publicada no Diário da República, 1.ª série-A, n.º 92, de 20 de Abril de 1993, e ratificada pelo Decreto do Presidente da República n.º 8/93, publicado no Diário da República, 1.ª série-A, n.º 92, de 20 de Abril de 1993, tendo depositado o seu instrumento de ratificação em 28 de Junho de 1993, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 196, de 21 de Agosto de 1993.
+A Convenção entrou em vigor para a Bósnia-Herzegovina em 1 de Agosto de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 2 de Agosto de 2005. - O Subdirector-Geral dos Assuntos Multilaterais, Miguel Maria Simões Coelho de Almeida e Sousa.
