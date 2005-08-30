@@ -1,0 +1,5 @@
+Aviso n.º 316/2005
+Por ordem superior se torna público que, em 13 de Julho de 2005, a República da Turquia depositou uma declaração ao abrigo da alínea a) do n.º 7 do artigo 8.º do Protocolo Relativo ao Acordo de Madrid Relativo ao Registo Internacional de Marcas, concluído em Madrid no dia 27 de Junho de 1989, segundo a qual, por cada registo, ou renovação de registo, internacional em que ela seja mencionada, segundo o artigo 3.º do mesmo Protocolo, pretende receber, no lugar de uma parte dos lucros provenientes dos emolumentos suplementares e dos complementos dos emolumentos, uma taxa individual.
+Portugal é Parte do mesmo Protocolo, aprovado para ratificação pelo Decreto n.º 31/96, publicado no Diário da República, 1.ª série, n.º 248, de 25 de Outubro de 1996, e depositou o seu instrumento de confirmação e ratificação ao Protocolo em 20 de Dezembro de 1996, conforme o Aviso n.º 23/97 (Diário da República, 1.ª série-A, n.º 22, de 27 de Janeiro de 1997).
+Esta declaração surtirá efeito a 13 de Outubro de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 8 de Agosto de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
