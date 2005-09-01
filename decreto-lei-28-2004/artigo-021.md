@@ -16,6 +16,6 @@
 
 3 - Para efeitos do disposto no n.º 1 não é considerado o dia do início da incapacidade, se o mesmo tiver sido remunerado.
 
-4 - Nas situações em que o certificado de incapacidade temporária não seja recebido nas instituições gestoras no prazo previsto no n.º 1 do artigo 34.º, o subsídio de doença é devido a partir da data em que seja recebido aquele certificado, sem prejuízo da aplicação dos períodos de espera previstos neste artigo.
+4 - Nas situações em que o certificado de incapacidade temporária não seja remetido às instituições gestoras no prazo previsto no n.º 1 do artigo 34.º, o subsídio de doença é devido a partir da data em que seja remetido aquele certificado, sem prejuízo da aplicação dos períodos de espera previstos neste artigo.
 
 5 - Não existe período de espera nas situações de internamento hospitalar, de incapacidade decorrente de tuberculose, bem como nos casos em que a incapacidade tenha início no decurso do período de atribuição do subsídio de maternidade e ultrapasse o termo desse período.

@@ -2,7 +2,7 @@
 
 ### Requerimento
 
-1 - A atribuição de subsídio de doença não depende da apresentação de requerimento pelo beneficiário, sem prejuízo da sua apresentação para efeitos do disposto no artigo 17.º do presente diploma.
+1 - A atribuição de subsídio de doença não depende da apresentação de requerimento pelo beneficiário.
 
 2 - A atribuição da prestação compensatória do não pagamento de subsídios de férias, de Natal ou outros de natureza análoga, prevista no n.º 2 do artigo 4.º do presente diploma, depende de requerimento.
 
