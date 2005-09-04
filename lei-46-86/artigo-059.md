@@ -1,39 +1,9 @@
-## Capítulo IX
-
-## Disposições finais e transitórias
-
 # Artigo 59.º
 
-### (Desenvolvimento da lei)
+### Funcionamento de estabelecimentos e cursos
 
-1 - O Governo fará publicar no prazo de um ano, sob a forma de decreto-lei, a legislação complementar necessária para o desenvolvimento da presente lei que contemple, designadamente, os seguintes domínios:
+1 - As instituições de ensino particular e cooperativo podem, no exercício da liberdade de ensinar e aprender, seguir os planos curriculares e conteúdos programáticos do ensino a cargo do Estado ou adoptar planos e programas próprios, salvaguardadas as disposições constantes do n.º 1 do artigo anterior.
 
-a) Gratuitidade da escolaridade obrigatória;
+2 - Quando o ensino particular e cooperativo adoptar planos e programas próprios, o seu reconhecimento oficial é concedido caso a caso, mediante avaliação positiva resultante da análise dos respectivos currículos e das condições pedagógicas da realização do ensino, segundo normas a estabelecer por decreto-lei.
 
-b) Formação de pessoal docente;
-
-c) Carreiras de pessoal docente e de outros profissionais da educação;
-
-d) Administração e gestão escolares;
-
-e) Planos curriculares dos ensinos básico e secundário;
-
-f) Formação profissional;
-
-g) Ensino recorrente de adultos;
-
-h) Ensino a distância;
-
-i) Ensino português no estrangeiro;
-
-j) Apoios e complementos educativos;
-
-l) Ensino particular e cooperativo;
-
-m) Educação física e desporto escolar;
-
-n) Educação artística.
-
-2 - Quando as matérias referidas no número anterior já constarem de lei da Assembleia da República, deverá o Governo, em igual prazo, apresentar as necessárias propostas de lei.
-
-3 - O Conselho Nacional de Educação deve acompanhar a aplicação e o desenvolvimento do disposto na presente lei.
+3 - A autorização para a criação e funcionamento de instituições e cursos de ensino superior particular e cooperativo, bem como a aprovação dos respectivos planos de estudos e o reconhecimento oficial dos correspondentes diplomas, faz-se, caso a caso, por decreto-lei.

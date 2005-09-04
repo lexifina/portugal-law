@@ -1,5 +1,5 @@
 # Artigo 28.º
 
-### (Apoio de saúde escolar)
+### Apoios a alunos com necessidades escolares específicas
 
-Será realizado o acompanhamento do saudável crescimento e desenvolvimento dos alunos, o qual é assegurado, em princípio, por serviços especializados dos centros comunitários de saúde em articulação com as estruturas escolares.
+Nos estabelecimentos de ensino básico é assegurada a existência de actividades de acompanhamento e complemento pedagógicos, de modo positivamente diferenciado, a alunos com necessidades escolares específicas.

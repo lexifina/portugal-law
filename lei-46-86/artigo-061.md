@@ -1,5 +1,7 @@
 # Artigo 61.º
 
-### (Regime de transição)
+### Intervenção do Estado
 
-O regime de transição do sistema actual para o previsto na presente lei constará de disposições regulamentares a publicar em tempo útil pelo Governo, não podendo professores, alunos e pessoal não docente ser afectados nos direitos adquiridos.
+1 - O Estado fiscaliza e apoia pedagógica e tecnicamente o ensino particular e cooperativo.
+
+2 - O Estado apoia financeiramente as iniciativas e os estabelecimentos de ensino particular e cooperativo quando, no desempenho efectivo de uma função de interesse público, se integrem no plano de desenvolvimento da educação, fiscalizando a aplicação das verbas concedidas.

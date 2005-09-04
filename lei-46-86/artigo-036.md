@@ -1,9 +1,7 @@
 # Artigo 36.º
 
-### (Princípios gerais das carreiras de pessoal docente e de outros profissionais da educação)
+### Qualificação para outras funções educativas
 
-1 - Os educadores, professores e outros profissionais da educação têm direito a retribuição e carreira compatíveis com as suas habilitações e responsabilidades profissionais, sociais e culturais.
+1 - Adquirem qualificação para a docência em educação especial os educadores de infância e os professores dos ensinos básico e secundário com prática de educação ou de ensino regular ou especial que obtenham aproveitamento em cursos especialmente vocacionados para o efeito realizados em estabelecimentos de ensino superior que disponham de recursos próprios nesse domínio.
 
-2 - A progressão na carreira deve estar ligado à avaliação, de toda a actividade desenvolvida, individualmente ou em grupo, na instituição educativa, no plano da educação e do ensino e da prestação de outros serviços à comunidade, bem como às qualificações profissionais, pedagógicas e científicas.
-
-3 - Aos educadores, professores e outros profissionais da educação é reconhecido o direito de recurso das decisões da avaliação referida no número anterior.
+2 - Nas instituições de formação referidas nos n.os 3 e 5 do artigo 34.º podem ainda ser ministrados cursos especializados de administração e inspecção escolares, de animação sócio-cultural, de educação de base de adultos e outros necessários ao desenvolvimento do sistema educativo.

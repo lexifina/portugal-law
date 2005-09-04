@@ -1,11 +1,7 @@
-## Capítulo VIII
-
-## Ensino particular e cooperativo
-
 # Artigo 54.º
 
-### (Especificidade)
+### Estatísticas da educação
 
-1 - É reconhecido pelo Estado o valor do ensino particular e cooperativo, como uma expressão concreta da liberdade de aprender e ensinar e do direito da família a orientar a educação dos filhos.
+1 - As estatísticas da educação são instrumento fundamental para a avaliação e o planeamento do sistema educativo, devendo ser organizadas de modo a garantir a sua realização em tempo oportuno e de forma universal.
 
-2 - O ensino particular e cooperativo rege-se por legislação e estatuto próprios, que devem subordinar-se ao disposto na presente lei.
+2 - Para este efeito devem ser estabelecidas as normas gerais e definidas as entidades responsáveis pela recolha, tratamento e difusão das estatísticas da educação.

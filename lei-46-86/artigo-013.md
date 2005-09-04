@@ -1,29 +1,17 @@
 # Artigo 13.º
 
-### (Graus e diplomas)
+### (Organização da formação, reconhecimento e mobilidade)
 
-1 - No ensino superior são conferidos os seguintes graus:
+1 - A organização da formação ministrada pelos estabelecimentos de ensino superior adopta o sistema europeu de créditos.
 
-a) Bacharel;
+2 - Os créditos são a unidade de medida do trabalho do estudante.
 
-b) Licenciado;
+3 - O número de horas de trabalho do estudante a considerar inclui todas as formas de trabalho previstas, designadamente as horas de contacto e as horas dedicadas a estágios, projectos, trabalhos no terreno, estudo e avaliação.
 
-c) Mestre;
+4 - A mobilidade dos estudantes entre os estabelecimentos de ensino superior nacionais, do mesmo ou de diferentes subsistemas, bem como entre estabelecimentos de ensino superior estrangeiros e nacionais, é assegurada através do sistema de créditos, com base no princípio do reconhecimento mútuo do valor da formação e das competências adquiridas.
 
-d) Doutor.
+5 - Os estabelecimentos de ensino superior reconhecem, através da atribuição de créditos, a experiência profissional e a formação pós-secundária dos que nele sejam admitidos através das modalidades especiais de acesso a que se refere o n.º 5 do artigo 12.º
 
-2 - No ensino superior podem ainda ser atribuídos diplomas de estudos superiores especializados, bem como outros certificados e diplomas para cursos de pequena duração.
+6 - Os estabelecimentos de ensino superior podem associar-se com outros estabelecimentos de ensino superior, nacionais ou estrangeiros, para conferirem os graus académicos e atribuírem os diplomas previstos nos artigos seguintes.
 
-3 - No ensino universitário são conferidos os graus de licenciado, mestre e doutor e são atribuídos outros certificados e diplomas, sem prejuízo do disposto na alínea b) do n.º 1 do artigo 31.º
-
-4 - No ensino politécnico é conferido o grau de bacharel e são atribuídos diplomas de estudos superiores especializados, bem como outros certificados e diplomas para cursos de pequena duração.
-
-5 - Têm acesso aos cursos de estudos superiores especializados os indivíduos habilitados com o grau de bacharel ou licenciado.
-
-6 - O diploma de estudos superiores especializados é equivalente ao grau de licenciado para efeitos profissionais e académicos.
-
-7 - Os cursos de estudos superiores especializados do ensino politécnico que formem um conjunto coerente com um curso de bacharelato precedente podem conduzir à obtenção do grau de licenciado.
-
-8 - O ensino universitário e o ensino politécnico são articulados entre si pelo reconhecimento mútuo do valor da formação e competências adquiridas em cada unidade e ainda através de um sistema de créditos baseado na análise dos planos de estudo.
-
-9 - A duração dos cursos superiores que conferem graus deve ser regulamentada de forma a garantir o nível científico da formação adquirida.
+7 - Não é permitido o funcionamento de estabelecimentos de ensino superior em regime de franquia.

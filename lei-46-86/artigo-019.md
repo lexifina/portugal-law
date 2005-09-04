@@ -1,43 +1,21 @@
+## Subsecção IV
+
+## Modalidades especiais de educação escolar
+
 # Artigo 19.º
 
-### (Formação profissional)
+### Modalidades
 
-1 - A formação profissional, para além de complementar a preparação para a vida activa iniciada no ensino básico, visa uma integração dinâmica no mundo do trabalho pela aquisição de conhecimentos e de competências profissionais, por forma a responder às necessidades nacionais de desenvolvimento e à evolução tecnológica.
+1 - Constituem modalidades especiais de educação escolar:
 
-2 - Têm acesso à formação profissional:
+a) A educação especial;
 
-a) Os que tenham concluído a escolaridade obrigatória;
+b) A formação profissional;
 
-b) Os que não concluíram a escolaridade obrigatória até à idade limite desta;
+c) O ensino recorrente de adultos;
 
-c) Os trabalhadores que pretendam o aperfeiçoamento ou a reconversão profissionais.
+d) O ensino a distância;
 
-3 - A formação profissional estrutura-se segundo um modelo institucional e pedagógico suficientemente flexível que permita integrar os alunos com níveis de formação e características diferenciados.
+e) O ensino português no estrangeiro.
 
-4 - A formação profissional estrutura-se por forma a desenvolver acções de:
-
-a) Iniciação profissional;
-
-b) Qualificação profissional;
-
-c) Aperfeiçoamento profissional;
-
-d) Reconversão profissional.
-
-5 - A organização dos cursos de formação profissional deve adequar-se às necessidades conjunturais nacionais e regionais de emprego, podendo integrar módulos de duração variável e combináveis entre si, com vista à obtenção de níveis profissionais sucessivamente mais elevados.
-
-6 - O funcionamento dos cursos e módulos pode ser realizado segundo formas institucionais diversificadas, designadamente:
-
-a) Utilização de escolas de ensino básico e secundário;
-
-b) Protocolos com empresas e autarquias;
-
-c) Apoios a instituições e iniciativas estatais e não estatais;
-
-d) Dinamização de acções comunitárias e de serviços à comunidade;
-
-e) Criação de instituições específicas.
-
-7 - A conclusão com aproveitamento de um módulo ou curso de formação profissional confere direito à atribuição da correspondente certificação.
-
-8 - Serão estabelecidos processos que favoreçam a recorrência e a progressão no sistema de educação escolar dos que completarem cursos de formação profissional.
+2 - Cada uma destas modalidades é parte integrante da educação escolar, mas rege-se por disposições especiais.

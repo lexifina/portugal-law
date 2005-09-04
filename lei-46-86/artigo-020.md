@@ -1,17 +1,23 @@
 # Artigo 20.º
 
-### (Ensino recorrente de adultos)
+### Âmbito e objectivos da educação especial
 
-1 - Para os indivíduos que já não se encontram na idade normal de frequência dos ensinos básico e secundário é organizado um ensino recorrente.
+1 - A educação especial visa a recuperação e integração sócio-educativas dos indivíduos com necessidades educativas específicas devidas a deficiências físicas e mentais.
 
-2 - Este ensino é também destinado aos indivíduos que não tiveram oportunidade de se enquadrar no sistema de educação escolar na idade normal de formação, tendo em especial atenção a eliminação do analfabetismo.
+2 - A educação especial integra actividades dirigidas aos educandos e acções dirigidas às famílias, aos educadores e às comunidades.
 
-3 - Têm acesso a esta modalidade de ensino os indivíduos:
+3 - No âmbito dos objectivos do sistema educativo, em geral, assumem relevo na educação especial:
 
-a) Ao nível do ensino básico, a partir dos 15 anos:
+a) O desenvolvimento das potencialidades físicas e intelectuais;
 
-b) Ao nível do ensino secundário, a partir dos 18 anos.
+b) A ajuda na aquisição da estabilidade emocional;
 
-4 - Este ensino atribui os mesmos diplomas e certificados que os conferidos pelo ensino regular, sendo as formas de acesso e os planos e métodos de estudos organizados de modo distinto, tendo em conta os grupos etários a que se destinam, a experiência de vida entretanto adquirida e o nível de conhecimentos demonstrados.
+c) O desenvolvimento das possibilidades de comunicação;
 
-5 - A formação profissional referida no artigo anterior pode ser também organizada de forma recorrente.
+d) A redução das limitações provocadas pela deficiência;
+
+e) O apoio na inserção familiar, escolar e social de crianças e jovens deficientes;
+
+f) O desenvolvimento da independência a todos os níveis em que se possa processar;
+
+g) A preparação para uma adequada formação profissional e integração na vida activa.

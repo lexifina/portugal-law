@@ -1,5 +1,5 @@
 # Artigo 29.º
 
-### (Apoio a trabalhadores-estudantes)
+### Apoio psicológico e orientação escolar e profissional
 
-Aos trabalhadores-estudantes será proporcionado um regime especial de estudos que tenha em consideração a sua situação de trabalhadores e de estudantes e que lhes permita a aquisição de conhecimentos, a progressão no sistema do ensino e a criação de oportunidades de formação profissional adequadas à sua valorização pessoal.
+O apoio no desenvolvimento psicológico dos alunos e à sua orientação escolar e profissional, bem como o apoio psicopedagógico às actividades educativas e ao sistema de relações da comunidade escolar, são realizados por serviços de psicologia o orientação escolar profissional inseridos em estruturas regionais escolares.

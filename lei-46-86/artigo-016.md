@@ -1,21 +1,7 @@
-## Subsecção IV
-
-## Modalidades especiais de educação escolar
-
 # Artigo 16.º
 
-### (Modalidades)
+### Formação pós-secundária
 
-1 - Constituem modalidades especiais de educação escolar:
+1 - Os estabelecimentos de ensino superior podem ainda realizar cursos de ensino pós-secundário não superior visando a formação profissional especializada.
 
-a) A educação especial;
-
-b) A formação profissional;
-
-c) O ensino recorrente de adultos;
-
-d) O ensino a distância;
-
-e) O ensino português no estrangeiro.
-
-2 - Cada uma destas modalidades é parte integrante da educação escolar, mas rege-se por disposições especiais.
+2 - Os titulares dos cursos referidos no número anterior estão habilitados a concorrer ao acesso e ingresso no ensino superior, sendo a formação superior neles realizada creditável no âmbito do curso em que sejam admitidos.

@@ -1,7 +1,7 @@
 # Artigo 55.º
 
-### (Articulação com a rede escolar)
+### Estruturas de apoio
 
-1 - Os estabelecimentos do ensino particular e cooperativo que se enquadrem nos princípios gerais, finalidades, estruturas e objectivos do sistema educativo são considerados parte integrante da rede escolar.
+1 - O Governo criará estruturas adequadas que assegurem e apoiem actividades de desenvolvimento curricular, de fomento de inovação e de avaliação do sistema e das actividades educativas.
 
-2 - No alargamento ou no ajustamento da rede o Estado terá também em consideração as iniciativas e os estabelecimentos particulares e cooperativos, numa perspectiva de racionalização de meios, de aproveitamento de recursos e de garantia de qualidade.
+2 - Estas estruturas devem desenvolver a sua actividade em articulação com as escolas e com as instituições de investigação em educação e de formação de professores.

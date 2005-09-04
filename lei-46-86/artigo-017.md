@@ -1,23 +1,11 @@
 # Artigo 17.º
 
-### (Âmbito e objectivos da educação especial)
+### Estabelecimentos
 
-1 - A educação especial visa a recuperação e integração sócio-educativas dos indivíduos com necessidades educativas específicas devidas a deficiências físicas e mentais.
+1 - O ensino universitário realiza-se em universidades e em escolas universitárias não integradas.
 
-2 - A educação especial integra actividades dirigidas aos educandos e acções dirigidas às famílias, aos educadores e às comunidades.
+2 - O ensino politécnico realiza-se em escolas superiores especializadas nos domínios da tecnologia, das artes e da educação, entre outros.
 
-3 - No âmbito dos objectivos do sistema educativo, em geral, assumem relevo na educação especial:
+3 - As universidades podem ser constituídas por escolas, institutos ou faculdades diferenciados e ou por departamentos ou outras unidades, podendo ainda integrar escolas superiores do ensino politécnico.
 
-a) O desenvolvimento das potencialidades físicas e intelectuais;
-
-b) A ajuda na aquisição da estabilidade emocional;
-
-c) O desenvolvimento das possibilidades de comunicação;
-
-d) A redução das limitações provocadas pela deficiência;
-
-e) O apoio na inserção familiar, escolar e social de crianças e jovens deficientes;
-
-f) O desenvolvimento da independência a todos os níveis em que se possa processar;
-
-g) A preparação para uma adequada formação profissional e integração na vida activa.
+4 - As escolas superiores do ensino politécnico podem ser associadas em unidades mais amplas, com designações várias, segundo critérios de interesse regional e ou de natureza das escolas.
