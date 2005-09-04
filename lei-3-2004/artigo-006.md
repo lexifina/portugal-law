@@ -4,11 +4,11 @@
 
 1 - Os institutos públicos regem-se pelas normas constantes da presente lei e demais legislação aplicável às pessoas colectivas públicas, em geral, e aos institutos públicos, em especial, bem como pelos respectivos estatutos e regulamentos internos.
 
-2 - São, designadamente, aplicáveis aos institutos públicos, quaisquer que sejam as particularidades dos seus estatutos e do seu regime de gestão, mas com as ressalvas estabelecidas no título iv da presente lei:
+2 - São, designadamente, aplicáveis aos institutos públicos, quaisquer que sejam as particularidades dos seus estatutos e do seu regime de gestão, mas com as ressalvas estabelecidas no título IV da presente lei:
 
 a) O Código do Procedimento Administrativo, no que respeita à actividade de gestão pública, envolvendo o exercício de poderes de autoridade, a gestão da função pública ou do domínio público, ou a aplicação de outros regimes jurídico-administrativos;
 
-b) O regime jurídico aplicável aos trabalhadores que exercem funções públicas;
+b) O regime jurídico da função pública ou o do contrato individual de trabalho, de acordo com o regime de pessoal aplicável;
 
 c) O regime da administração financeira e patrimonial do Estado;
 

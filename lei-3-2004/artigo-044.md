@@ -6,7 +6,7 @@ Os institutos públicos devem disponibilizar uma página electrónica, com todos
 
 a) Os diplomas legislativos que os regulam, os estatutos e regulamentos internos;
 
-b) A composição dos corpos gerentes, incluindo os elementos biográficos mencionados no n.º 4 do artigo 19.º, e respectiva remuneração;
+b) A composição dos corpos gerentes, incluindo os elementos biográficos mencionados no n.º 4 do artigo 19.º;
 
 c) Os planos de actividades e os relatórios de actividades dos últimos três anos;
 

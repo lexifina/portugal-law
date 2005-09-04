@@ -20,7 +20,7 @@ g) Manter o conselho directivo informado sobre os resultados das verificações 
 
 h) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global;
 
-i) Propor aos membros do Governo responsáveis pelas áreas das finanças e da tutela ou ao conselho directivo a promoção de auditorias externas a realizar por sociedades de revisores oficiais de contas registadas como Auditores junto da Comissão do Mercado de Valores Mobiliários, quando isso se revelar necessário ou conveniente;
+i) Propor ao ministro da tutela ou ao conselho directivo a realização de auditorias externas, quando isso se revelar necessário ou conveniente;
 
 j) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelo conselho directivo, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira do Estado.
 
@@ -34,4 +34,4 @@ b) Ter livre acesso a todos os serviços e à documentação do instituto, poden
 
 c) Tomar ou propor as demais providências que considere indispensáveis.
 
-4 - O fiscal único não pode ter exercido actividades remuneradas no instituto ou nas entidades a que se refere o artigo 13.º nos últimos cinco anos antes do início das suas funções e não pode exercer actividades remuneradas no instituto público fiscalizado ou nas entidades a que se refere o artigo 13.º durante os cinco anos que se seguirem ao termo das suas funções.
+4 - O fiscal único não pode ter exercido actividades remuneradas no instituto nos últimos três anos antes do início das suas funções e não poderá exercer actividades remuneradas no instituto público fiscalizado durante os três anos que se seguirem ao termo das suas funções.

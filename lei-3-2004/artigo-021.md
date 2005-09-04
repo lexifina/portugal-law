@@ -53,5 +53,3 @@ g) Exercer os demais poderes previstos nos estatutos e que não estejam atribuí
 4 - Sem prejuízo do disposto na alínea n) do n.º 1, o conselho directivo pode sempre optar por solicitar o apoio e a representação em juízo por parte do Ministério Público, ao qual competirá, nesse caso, defender os interesses do instituto.
 
 5 - Os actos administrativos da autoria do conselho directivo são impugnáveis junto dos tribunais administrativos, nos termos das leis do processo administrativo.
-
-6 - O conselho diretivo pode delegar competências em qualquer dos membros previstos no n.º 1 do artigo 19.º

@@ -12,10 +12,12 @@
 
 # Artigo 17.º
 
-### Órgãos
+### Órgãos necessários
 
-1 - Os institutos públicos de regime comum adoptam para órgão de direcção o modelo de conselho directivo.
+1 - São órgãos necessários dos institutos públicos, sem prejuízo do disposto no artigo 45.º:
 
-2 - Os institutos públicos dotados de autonomia administrativa e financeira dispõem ainda, obrigatoriamente de um fiscal único.
+a) O conselho directivo;
 
-3 - O diploma orgânico de cada instituto pode prever outros órgãos, nomeadamente de natureza consultiva ou de participação dos destinatários da respectiva actividade.
+b) O fiscal único.
+
+2 - Os estatutos podem prever outros órgãos, nomeadamente de natureza consultiva ou de participação dos destinatários da respectiva actividade.

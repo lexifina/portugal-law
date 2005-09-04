@@ -8,13 +8,13 @@
 
 1 - Os institutos públicos encontram-se sujeitos a tutela governamental.
 
-2 - Carecem de aprovação do membro do Governo da tutela:
+2 - Carecem de aprovação do ministro da tutela:
 
 a) O plano de actividades, o orçamento, o relatório de actividades e as contas;
 
 b) Os demais actos previstos na lei e nos estatutos.
 
-3 - Carecem de autorização prévia do membro do Governo da tutela:
+3 - Carecem de autorização prévia do ministro da tutela:
 
 a) A aceitação de doações, heranças ou legados;
 
@@ -22,17 +22,17 @@ b) A criação de delegações territorialmente desconcentradas;
 
 c) Outros actos previstos na lei ou nos estatutos.
 
-4 - Carecem de aprovação dos membros do Governo responsáveis pelas áreas das finanças e da tutela:
+4 - Carecem de aprovação dos Ministros das Finanças e da tutela:
 
-a) (Revogada);
+a) Os regulamentos internos;
 
-b) (Revogada);
+b) Os mapas de pessoal;
 
 c) Outros actos previstos na lei ou nos estatutos.
 
-5 - Carecem de autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da tutela:
+5 - Carecem de autorização prévia dos Ministros das Finanças e da tutela:
 
-a) (Revogada);
+a) A negociação de acordos e convenções colectivas de trabalho;
 
 b) A criação de entes de direito privado, a participação na sua criação, a aquisição de participações em tais entidades, quando esteja previsto na lei ou nos estatutos e se mostrar imprescindível para a prossecução das respectivas atribuições;
 
@@ -42,10 +42,10 @@ c) Outros actos previstos na lei ou nos estatutos.
 
 7 - A falta de autorização prévia ou de aprovação determina a ineficácia jurídica dos actos sujeitos a aprovação.
 
-8 - No domínio disciplinar, compete ao membro do Governo da tutela:
+8 - No domínio disciplinar, compete ao ministro da tutela:
 
 a) Exercer acção disciplinar sobre os membros dos órgãos dirigentes;
 
 b) Ordenar inquéritos ou sindicâncias aos serviços do instituto.
 
-9 - O membro do Governo da tutela goza de tutela substitutiva na prática de actos legalmente devidos, em caso de inércia grave do órgão responsável.
+9 - O ministro da tutela goza de tutela substitutiva na prática de actos legalmente devidos, em caso de inércia grave do órgão responsável.

@@ -2,7 +2,7 @@
 
 ### Reestruturação, fusão e extinção
 
-1 - A reestruturação, a fusão e a extinção de institutos públicos são objecto de diploma de valor igual ou superior ao da sua criação.
+1 - Os diplomas que procedam à reestruturação, fusão ou extinção de institutos públicos regularão igualmente os termos da liquidação e o destino do seu pessoal.
 
 2 - Os institutos públicos devem ser extintos:
 

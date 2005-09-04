@@ -1,13 +1,13 @@
 # Artigo 19.º
 
-### Composição e designação
+### Composição e nomeação
 
-1 - O conselho directivo é um órgão composto por um presidente e até dois vogais, podendo ter ainda um vice-presidente.
+1 - O conselho directivo é um órgão colegial composto por um presidente e dois a quatro vogais, podendo ter também um vice-presidente em vez de um dos vogais.
 
-2 - O limite previsto no número anterior não prejudica a existência de situações de representação cruzada entre órgãos de direcção e de administração de outras entidades públicas, expressamente previstas nos respectivos diplomas orgânicos, caso em que as funções a exercer são de natureza não executiva e não determinam o abono de qualquer remuneração.
+2 - O presidente é substituído, nas faltas e impedimentos, pelo vice-presidente, se o houver, ou pelo vogal que ele indicar, e na sua falta pelo vogal mais antigo.
 
-3 - O presidente é substituído, nas faltas e impedimentos, pelo vice-presidente, se o houver, ou pelo vogal que ele indicar, e na sua falta pelo vogal mais antigo.
+3 - Os membros do conselho directivo são nomeados por despacho conjunto do Primeiro-Ministro e do ministro da tutela, sob proposta deste.
 
-4 - Os membros do conselho directivo são designados por despacho do membro do Governo da tutela, na sequência de procedimento concursal, ao qual se aplicam, com as necessárias adaptações, as regras de recrutamento, selecção e provimento nos cargos de direcção superior da Administração Pública previstos no Estatuto do Pessoal Dirigente da Administração Pública.
+4 - A nomeação é acompanhada da publicação de uma nota sobre o currículo académico e profissional dos nomeados.
 
-5 - O despacho de designação, devidamente fundamentado, é publicado no Diário da República, juntamente com uma nota relativa ao currículo académico e profissional do designado.
+5 - Não pode haver nomeação de membros do conselho directivo depois da demissão do Governo ou da convocação de eleições para a Assembleia da República, nem antes da confirmação parlamentar do Governo recém-nomeado.
