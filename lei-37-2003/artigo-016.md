@@ -17,7 +17,3 @@
 7 - Sem prejuízo do disposto no artigo 35.º, os estudantes a quem se aplique o estatuto do estudante internacional, aprovado por decreto-lei, não abrangidos pelo regime geral de acesso, por acordos internacionais ou por regimes de apoio a estudantes luso-descendentes, pagam uma propina correspondente ao custo real médio da formação a adquirir.
 
 8 - Sempre que as universidades, os institutos politécnicos e os estabelecimentos de ensino superior não integrados e as respectivas unidades orgânicas com autonomia administrativa e financeira não fixem em determinado ano o valor das propinas, o respectivo montante é actualizado nos termos do n.º 2.
-
-9 - A propina devida pela frequência de ciclo de estudos conducente ao grau de licenciado, bem como de ciclo de estudos conducente ao grau de mestre organizado nos termos do n.º 7 do artigo 13.º-A da Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro, e alterada pelas Leis n.os 115/97, de 19 de setembro, 49/2005, de 30 de agosto, e 85/2009, de 27 de agosto, é objeto de pagamento em, pelo menos, sete prestações mensais, a contar do ato da matrícula, sem prejuízo da criação de outras modalidades de pagamento, total ou parcial, pelas instituições.
-
-10 - O pagamento de propinas pelos beneficiários de bolsas de ação social apenas pode ter lugar após o início do efetivo pagamento das bolsas.

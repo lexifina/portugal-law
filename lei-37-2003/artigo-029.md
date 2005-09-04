@@ -6,6 +6,8 @@
 
 ### Consequência do não pagamento da propina
 
-1 - O não pagamento da propina, prevista no artigo 16.º, tem como única consequência o não reconhecimento dos atos académicos realizados no período a que a obrigação se reporta.
+O não pagamento da propina devida nos termos do artigo 16.º implica:
 
-2 - A consequência prevista no número anterior cessa automaticamente com o cumprimento da obrigação.
+a) A nulidade de todos os actos curriculares praticados no ano lectivo a que o incumprimento da obrigação se reporta;
+
+b) Suspensão da matrícula e da inscrição anual, com a privação do direito de acesso aos apoios sociais até à regularização dos débitos, acrescidos dos respectivos juros, no mesmo ano lectivo em que ocorreu o incumprimento da obrigação.

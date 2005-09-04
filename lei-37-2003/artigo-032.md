@@ -18,7 +18,7 @@ d) Incentivos ao investimento;
 
 e) Apoios à investigação;
 
-f) [Revogada.]
+f) Bolsas de mérito aos estudantes com aproveitamento escolar excepcional;
 
 g) Outros apoios inseridos em regimes contratuais.
 
