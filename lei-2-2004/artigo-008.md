@@ -18,15 +18,15 @@ e) Praticar os actos previstos no anexo II, que é parte integrante da presente 
 
 a) Assegurar a qualidade técnica do trabalho produzido na sua unidade orgânica e garantir o cumprimento dos prazos adequados à eficaz prestação do serviço, tendo em conta a satisfação do interesse dos destinatários;
 
-b) Efectuar o acompanhamento profissional no local de trabalho, apoiando e motivando os trabalhadores em funções públicas e proporcionando-lhes os adequados conhecimentos e aptidões profissionais necessários ao exercício do respectivo posto de trabalho, bem como os procedimentos mais adequados ao incremento da qualidade do serviço a prestar;
+b) Efectuar o acompanhamento profissional no local de trabalho, apoiando e motivando os funcionários e proporcionando-lhes os adequados conhecimentos e aptidões profissionais necessários ao exercício do respectivo posto de trabalho, bem como os procedimentos mais adequados ao incremento da qualidade do serviço a prestar;
 
-c) Divulgar junto dos trabalhadores em funções públicas os documentos internos e as normas de procedimento a adoptar pelo serviço, bem como debater e esclarecer as acções a desenvolver para cumprimento dos objectivos do serviço, de forma a garantir o empenho e a assunção de responsabilidades por parte dos trabalhadores em funções públicas;
+c) Divulgar junto dos funcionários os documentos internos e as normas de procedimento a adoptar pelo serviço, bem como debater e esclarecer as acções a desenvolver para cumprimento dos objectivos do serviço, de forma a garantir o empenho e a assunção de responsabilidades por parte dos funcionários;
 
-d) Proceder de forma objectiva à avaliação do mérito dos trabalhadores em funções públicas, em função dos resultados individuais e de grupo e à forma como cada um se empenha na prossecução dos objectivos e no espírito de equipa;
+d) Proceder de forma objectiva à avaliação do mérito dos funcionários, em função dos resultados individuais e de grupo e à forma como cada um se empenha na prossecução dos objectivos e no espírito de equipa;
 
-e) Identificar as necessidades de formação específica dos trabalhadores em funções públicas da sua unidade orgânica e propor a frequência das acções de formação consideradas adequadas ao suprimento das referidas necessidades, sem prejuízo do direito à autoformação;
+e) Identificar as necessidades de formação específica dos funcionários da sua unidade orgânica e propor a frequência das acções de formação consideradas adequadas ao suprimento das referidas necessidades, sem prejuízo do direito à autoformação;
 
-f) Proceder ao controlo efectivo da assiduidade, pontualidade e cumprimento do período normal de trabalho por parte dos trabalhadores em funções públicas da sua unidade orgânica;
+f) Proceder ao controlo efectivo da assiduidade, pontualidade e cumprimento do período normal de trabalho por parte dos funcionários da sua unidade orgânica;
 
 g) Autorizar a passagem de certidões de documentos arquivados na respectiva unidade orgânica, excepto quando contenham matéria confidencial ou reservada, bem como a restituição de documentos aos interessados.
 
