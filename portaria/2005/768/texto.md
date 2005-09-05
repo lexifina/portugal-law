@@ -1,0 +1,11 @@
+Portaria n.º 768/2005
+de 5 de Setembro
+Pela Portaria n.º 689/99, de 24 de Agosto, foi concessionada à MALPICAÇA - Sociedade Cinegética do Tejo a zona de caça turística da Baliza, processo n.º 2183-DGRF, englobando vários prédios rústicos sitos na freguesia de Malpica do Tejo, município de Castelo Branco, com a área de 2866,7250 ha, válida até 24 de Agosto de 2011.
+Vem agora a Sociedade Turística da Baliza, Lda., requerer a transmissão da concessão da zona de caça atrás citada.
+Assim:
+Com fundamento no disposto no n.º 3 do artigo 164.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, e no artigo 42.º e no n.º 2 do artigo 114.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria a zona de caça turística da Baliza, processo n.º 2183-DGRF, situada na freguesia de Malpica do Tejo, município de Castelo Branco, é transferida para a Sociedade Turística da Baliza, Lda., com o número de pessoa colectiva 504658514 e sede na Rua do Dr. Alfredo da Mota, 6, 2.º, esquerdo, 6000 Castelo Branco.
+2.º A Direcção-Geral do Turismo emitiu, ao abrigo do disposto no n.º 3 do artigo 34.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, parecer favorável condicionado a que a entidade transmissária cumpra os requisitos nele elencados, referente à verificação da conformidade da obra com o projecto aprovado, a fim de dar cumprimento às condicionantes decorrentes do estabelecido no n.º 3.º da Portaria n.º 689/99.
+Em 2 de Agosto de 2005.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente. - Pelo Ministro da Economia e da Inovação, Bernardo Luís Amador Trindade, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas.
