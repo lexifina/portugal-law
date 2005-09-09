@@ -1,10 +1,10 @@
 # Artigo 129.º
 
-### Modo de exercício do direito de voto antecipado por razões profissionais
+### Modo de exercício por militares, agentes das forças de segurança e trabalhadores
 
-1 - Qualquer eleitor que esteja nas condições previstas nas alíneas a), b), c), f) e g) do n.º 1 do artigo anterior pode dirigir-se ao presidente da câmara do município em cuja área se encontre recenseado, entre o 10.º e o 5.º dias anteriores ao do referendo, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
+1 - Qualquer eleitor que esteja nas condições previstas nas alíneas a), b) e c) do artigo anterior pode dirigir-se ao presidente da câmara do município em cuja área se encontre recenseado, entre o 10.º e o 5.º dia anteriores ao do referendo, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
 
-2 - O eleitor identifica-se da forma prevista nos n.os 1 e 2 do artigo 126.º e faz prova do impedimento invocado através de documento assinado pelo seu superior hierárquico, pela entidade patronal ou outro que comprove suficientemente a existência do impedimento ao normal exercício do direito de voto.
+2 - O eleitor identifica-se por forma idêntica à prevista nos n.os 1 e 2 do artigo 126.º e faz prova do impedimento invocado, apresentando documentos autenticados pelo seu superior hierárquico ou pela entidade patronal, consoante os casos.
 
 3 - O presidente da câmara municipal entrega ao eleitor um boletim de voto e dois sobrescritos.
 
