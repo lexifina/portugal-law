@@ -1,0 +1,145 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11369",
+  "numero": "52",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-09-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2005-11-23",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Defesa Nacional"
+            ],
+            "nrOficio": "8866/DAC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2005-12-15",
+                "dataResposta": null,
+                "nrOficio": "9528/DAC",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338305130524f4c305276593356745a57353062334e515a585270593246764c7a6c6a5a47526d596a67344c574d344e5451744e474d77597931695a6a45314c574e695a544d794d474d305a4442684e4335775a47593d&fich=9cddfb88-c854-4c0c-bf15-cbe320c4d0a4.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2006-03-07",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-10-18",
+        "DataArquivo": "2006-03-21",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2006-03-22",
+        "DataReaberta": "2005-10-18",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-09-12",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338305130524f4c305276593356745a57353062334e515a585270593246764c7a63345a5445334d4755784c5745774e6a55744e444a6c4f5330344d446b334c5467774f5751305a444d35597a41304d4335775a47593d&fich=78e170e1-a065-42e9-8097-809d4d39c040.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2005-09-12",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338305130524f4c305276593356745a57353062334e515a585270593246764c7a6c6a5a47526d596a67344c574d344e5451744e474d77597931695a6a45314c574e695a544d794d474d305a4442684e4335775a47593d&fich=9cddfb88-c854-4c0c-bf15-cbe320c4d0a4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-09-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338305130524f4c305276593356745a57353062334e515a585270593246764c3249324d6d51794e7a63314c5441334d6d4d744e446c6c5a4331684d7a46694c5463304e6a6c684d4755324f574e694f5335775a47593d&fich=b62d2775-072c-49ed-a31b-7469a0e69cb9.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "246",
+        "Legislatura": "X",
+        "Nome": "Comissão de Defesa Nacional (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "4",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-10-18",
+            "gp": "CDS-PP",
+            "id": "1654",
+            "motivoCessacao": null,
+            "nome": "João Rebelo"
+          }
+        ],
+        "RelatorioFinal": [
+          "21982"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2005-09-12",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938325a6a51774f57457a4d79303359574a6c4c5451775a4755744f4455344f4330345a6d52684d7a6c6c59325a6d4e4455756347526d&fich=6f409a33-7abe-40de-8588-8fda39ecff45.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11369",
+    "PetAssunto": "Solicita a revisão do Decreto-Lei n.º 134/97, de 31 de Maio, que \"Promove ao posto a que teriam ascendido os militares dos Quadros Permanentes deficientes das Forças Armadas, nos termos das alíneas b) e c) do n.º 1 do artigo 18º do Decreto-Lei 43/76, de 20 de Janeiro, na situação de reforma extraordinária com um grau de incapacidade geral de ganho igual ou superior a 30%, e que não optaram pelo serviço activo, revendo as respectivas pensões de reforma\".",
+    "PetDataEntrada": "2005-09-12",
+    "PeticoesAssociadas": null,
+    "PetId": "11369",
+    "PetLeg": "X",
+    "PetNr": "52",
+    "PetNrAssinaturas": "4",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
