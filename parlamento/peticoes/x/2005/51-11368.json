@@ -1,0 +1,402 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11368",
+  "numero": "51",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-09-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2005-12-13",
+            "entidades": null,
+            "id": "82570",
+            "tipo": null,
+            "titulo": "Audição em 2005-12-13 com Plataforma Nacional dos Sindicatos Independentes"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2006-01-05",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-10-11",
+        "DataArquivo": "2006-01-17",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2006-01-17",
+        "DataReaberta": "2005-10-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-09-12",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314d765247396a6457316c626e52766331426c64476c6a595738764e47526a4f546c6c4e4755744d544d314d6930304d544e6a4c546c6d5a4745744e44466c5a444d345954686d5a5445354c6e426b5a673d3d&fich=4dc99e4e-1352-413c-9fda-41ed38a8fe19.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-09-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314d765247396a6457316c626e52766331426c64476c6a595738764d5752694e6d49344d445974596a6b794f5330304e6a59354c546869596d4d744f47597a4f5455785a5445774d4451334c6e426b5a673d3d&fich=1db6b806-b929-4669-8bbc-8f3951e10047.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "253",
+        "Legislatura": "X",
+        "Nome": "Comissão de Trabalho e Segurança Social (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-10-11",
+            "gp": "PS",
+            "id": "2103",
+            "motivoCessacao": null,
+            "nome": "Isabel Santos"
+          }
+        ],
+        "RelatorioFinal": [
+          "21979"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2006-09-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2005-09-12",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d597a49354f47566b5a69316d4e444d334c5451354d3249744f444e6b5a4330354d324a6a5a6d566d4d7a677a4e7a55756347526d&fich=fc298edf-f437-493b-83dd-93bcfef38375.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2006-09-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162525",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-09-23",
+                "pubLeg": "X",
+                "pubNr": "4",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/004/2006-09-23/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesta discordância face às medidas propostas pelo XVII Governo Constitucional, nomeadamente quanto ao congelamento da progressão na carreira, ao aumento da idade da reforma, à diminuição de comparticipação na doença/ADSE, à diminuição da pensão de aposentação e à perda dos suplementos remuneratórios atribuídos aos conselhos executivos, aos coordenadores de escola e do ensino especial, com vista à dignificação da carreira docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-09-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162526",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-09-23",
+                "pubLeg": "X",
+                "pubNr": "4",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/004/2006-09-23/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesta discordância face às medidas propostas pelo XVII Governo Constitucional, nomeadamente quanto ao congelamento da progressão na carreira, ao aumento da idade da reforma, à diminuição de comparticipação na doença/ADSE, à diminuição da pensão de aposentação e à perda dos suplementos remuneratórios atribuídos aos conselhos executivos, aos coordenadores de escola e do ensino especial, com vista à dignificação da carreira docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-09-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162527",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-09-23",
+                "pubLeg": "X",
+                "pubNr": "4",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/004/2006-09-23/26?pgs=26&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesta discordância face às medidas propostas pelo XVII Governo Constitucional, nomeadamente quanto ao congelamento da progressão na carreira, ao aumento da idade da reforma, à diminuição de comparticipação na doença/ADSE, à diminuição da pensão de aposentação e à perda dos suplementos remuneratórios atribuídos aos conselhos executivos, aos coordenadores de escola e do ensino especial, com vista à dignificação da carreira docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-09-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162528",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-09-23",
+                "pubLeg": "X",
+                "pubNr": "4",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/004/2006-09-23/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesta discordância face às medidas propostas pelo XVII Governo Constitucional, nomeadamente quanto ao congelamento da progressão na carreira, ao aumento da idade da reforma, à diminuição de comparticipação na doença/ADSE, à diminuição da pensão de aposentação e à perda dos suplementos remuneratórios atribuídos aos conselhos executivos, aos coordenadores de escola e do ensino especial, com vista à dignificação da carreira docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-09-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162529",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-09-23",
+                "pubLeg": "X",
+                "pubNr": "4",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/004/2006-09-23/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesta discordância face às medidas propostas pelo XVII Governo Constitucional, nomeadamente quanto ao congelamento da progressão na carreira, ao aumento da idade da reforma, à diminuição de comparticipação na doença/ADSE, à diminuição da pensão de aposentação e à perda dos suplementos remuneratórios atribuídos aos conselhos executivos, aos coordenadores de escola e do ensino especial, com vista à dignificação da carreira docente.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11368",
+    "PetAssunto": "Manifesta discordância face às medidas propostas pelo XVII Governo Constitucional, nomeadamente quanto ao congelamento da progressão na carreira, ao aumento da idade da reforma, à diminuição de comparticipação na doença/ADSE, à diminuição da pensão de aposentação e à perda dos suplementos remuneratórios atribuídos aos conselhos executivos, aos coordenadores de escola e do ensino especial, com vista à dignificação da carreira docente.",
+    "PetDataEntrada": "2005-09-12",
+    "PeticoesAssociadas": null,
+    "PetId": "11368",
+    "PetLeg": "X",
+    "PetNr": "51",
+    "PetNrAssinaturas": "11500",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "203",
+        "obs": null,
+        "pag": [
+          "24-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-09-23",
+        "pubLeg": "X",
+        "pubNr": "4",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/004/2006-09-23/24?pgs=24-28&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "311460",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-10-22",
+        "pubLeg": "X",
+        "pubNr": "17",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/017/2005-10-22/4?pgs=4&org=PLC"
+      }
+    ]
+  }
+}
