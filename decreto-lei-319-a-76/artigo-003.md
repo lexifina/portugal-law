@@ -2,7 +2,9 @@
 
 ### (Incapacidades eleitorais)
 
-Não gozam de capacidade eleitoral activa:
+1 - Não são eleitores do Presidente da República os cidadãos portugueses que tenham obtido estatuto de igualdade de direitos políticos em país de língua portuguesa, nos termos do n.º 3 do artigo 15.º da Constituição.
+
+2 - Não são também cidadãos eleitores do Presidente da República:
 
 a) Os interditos por sentença com trânsito em julgado;
 
