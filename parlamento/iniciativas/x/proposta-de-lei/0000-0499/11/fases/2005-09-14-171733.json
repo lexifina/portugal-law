@@ -1,0 +1,502 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "11",
+    "id": "20855",
+    "titulo": "Cria a ERC - Entidade Reguladora para a Comunicação extinguindo a Alta Autoridade para a Comunicação Social."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2005-09-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3513",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2005-09-14",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2005-09-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "Augusto Santos Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2023-2027",
+                  "2038-2041"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-09-15",
+                "pubLeg": "X",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/044/2005-09-15/2023?pgs=2023-2027,2038-2041&org=PLC"
+              }
+            ],
+            "sumario": "Cria a ERC - Entidade Reguladora para a Comunicação, extinguindo a Alta Autoridade para a Comunicação Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1998",
+                "nome": "Luís Campos Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2025-2025"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-09-15",
+                "pubLeg": "X",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/044/2005-09-15/2025?pgs=2025&org=PLC"
+              }
+            ],
+            "sumario": "Cria a ERC - Entidade Reguladora para a Comunicação, extinguindo a Alta Autoridade para a Comunicação Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2026-2026"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-09-15",
+                "pubLeg": "X",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/044/2005-09-15/2026?pgs=2026&org=PLC"
+              }
+            ],
+            "sumario": "Cria a ERC - Entidade Reguladora para a Comunicação, extinguindo a Alta Autoridade para a Comunicação Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2065",
+                "nome": "Agostinho Branquinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2027-2029",
+                  "2041-2041"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-09-15",
+                "pubLeg": "X",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/044/2005-09-15/2027?pgs=2027-2029,2041&org=PLC"
+              }
+            ],
+            "sumario": "Cria a ERC - Entidade Reguladora para a Comunicação, extinguindo a Alta Autoridade para a Comunicação Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2029-2030"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-09-15",
+                "pubLeg": "X",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/044/2005-09-15/2029?pgs=2029-2030&org=PLC"
+              }
+            ],
+            "sumario": "Cria a ERC - Entidade Reguladora para a Comunicação, extinguindo a Alta Autoridade para a Comunicação Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153061",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2030-2033",
+                  "2042-2042"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-09-15",
+                "pubLeg": "X",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/044/2005-09-15/2030?pgs=2030-2033,2042&org=PLC"
+              }
+            ],
+            "sumario": "Cria a ERC - Entidade Reguladora para a Comunicação, extinguindo a Alta Autoridade para a Comunicação Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "142",
+                "nome": "Alberto Arons de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153062",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2033-2035"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-09-15",
+                "pubLeg": "X",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/044/2005-09-15/2033?pgs=2033-2035&org=PLC"
+              }
+            ],
+            "sumario": "Cria a ERC - Entidade Reguladora para a Comunicação, extinguindo a Alta Autoridade para a Comunicação Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153063",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2035-2037"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-09-15",
+                "pubLeg": "X",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/044/2005-09-15/2035?pgs=2035-2037&org=PLC"
+              }
+            ],
+            "sumario": "Cria a ERC - Entidade Reguladora para a Comunicação, extinguindo a Alta Autoridade para a Comunicação Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153064",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2037-2038"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-09-15",
+                "pubLeg": "X",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/044/2005-09-15/2037?pgs=2037-2038&org=PLC"
+              }
+            ],
+            "sumario": "Cria a ERC - Entidade Reguladora para a Comunicação, extinguindo a Alta Autoridade para a Comunicação Social",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "171733",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3513",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-09-15",
+        "pubLeg": "X",
+        "pubNr": "44",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/044/2005-09-15?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
