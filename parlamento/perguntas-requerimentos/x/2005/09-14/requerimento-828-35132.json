@@ -1,0 +1,118 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "35132",
+  "tipo": "Requerimento",
+  "numero": "828",
+  "data_registo": "2005-09-14",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Contratação do Deputado António Vitorino ",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1058",
+        "nome": "Bernardino Soares"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1696",
+        "nome": "Honório Novo"
+      }
+    ],
+    "DataEnvio": "2005-09-15",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2005-09-15",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "PRIMEIRO-MINISTRO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2005-12-13",
+            "docRemetida": null,
+            "entidade": "PRIMEIRO-MINISTRO",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338354d6a41344d6d55795a53316c4d5467354c54517a4f544174596d5a6c4d79307a4d444d784d6a466d4d444d344f4441756347526d&fich=92082e2e-e189-4390-bfe3-303121f03880.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2005-09-14",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338345a6d4e6a4e4759335a6930775a475a694c545130595455744f5459794d7930354e6a68694d6a4a6b4d4749354e5755756347526d&fich=8fcc4f7f-0dfb-44a5-9623-968b22d0b95e.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "35132",
+    "Legislatura": "X",
+    "Nr": "828",
+    "Observacoes": "GALP",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "313089",
+        "obs": null,
+        "pag": [
+          "28-29"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2005",
+        "pubLeg": "X",
+        "pubNr": "15",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/015S1/2005-09-24/28?pgs=28-29&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": [
+      {
+        "dataResposta": null,
+        "docRemetida": null,
+        "entidade": null,
+        "ficheiro": "",
+        "ficheiroComTipo": null,
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "324718",
+            "obs": null,
+            "pag": [
+              "25-25"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "2005",
+            "pubLeg": "X",
+            "pubNr": "26",
+            "pubSL": "1",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/026S2/2005-12-31/25?pgs=25&org=PLC"
+          }
+        ]
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
