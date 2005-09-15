@@ -2,7 +2,7 @@
 
 ### Forma e conteúdo do requerimento
 
-1 - Salvo manifesta inadequação ao caso concreto, o requerimento de injunção deve constar de impresso de modelo aprovado por portaria do Ministro da Justiça.
+1 - O modelo de requerimento de injunção é aprovado por portaria do Ministro da Justiça.
 
 2 - No requerimento deve o requerente:
 
@@ -20,4 +20,22 @@ f) Indicar a taxa de justiça paga;
 
 g) Indicar, quando for o caso, que se trata de transacção comercial abrangida pelo Decreto-Lei n.º 32/2003, de 17 de Fevereiro.
 
-3 - Quando subscrito por mandatário judicial, é bastante a menção da existência do mandato e do domicílio profissional do mandatário.
+h) Indicar o seu domicílio;
+
+i) Indicar o endereço de correio electrónico, se o requerente pretender receber comunicações ou ser notificado por este meio;
+
+j) Indicar se pretende que o processo seja apresentado à distribuição, no caso de se frustrar a notificação;
+
+l) Indicar se pretende a notificação por solicitador de execução ou mandatário judicial e, em caso afirmativo, indicar o seu nome e o respectivo domicílio profissional;
+
+m) Assinar o requerimento.
+
+3 - Durante o procedimento de injunção não é permitida a alteração dos elementos constantes do requerimento, designadamente o pedido formulado.
+
+4 - Se a secretaria competente para a apresentação do requerimento de injunção for uma secretaria-geral, criada nos termos do n.º 4 do artigo 8.º, o requerente deve indicar, no requerimento de injunção, o tribunal competente para apreciar os autos no caso de estes serem apresentados à distribuição.
+
+5 - Se o requerente indicar endereço de correio electrónico, nos termos e para os efeitos da alínea i) do n.º 2, as comunicações e notificações pela secretaria ao requerente são efectuadas por meios electrónicos, em termos a definir por portaria do Ministro da Justiça.
+
+6 - O requerimento pode ser subscrito por mandatário judicial, bastando para o efeito a menção da existência do mandato e do domicílio profissional do mandatário.
+
+7 - A subscrição do requerimento por mandatário judicial não o exime da necessidade de preenchimento de todos os elementos relativos ao representado, nomeadamente a indicação do respectivo domicílio.

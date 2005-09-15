@@ -16,4 +16,8 @@
 
 7 - Não sendo possível a notificação nos termos dos números anteriores, a secretaria procederá conforme considere mais conveniente, tentando, designadamente, a notificação noutro local conhecido ou aguardando o regresso do requerido.
 
-8 - O disposto no presente artigo não prejudica a notificação por solicitador de execução ou mandatário judicial, nos termos previstos no Código de Processo Civil para a citação.
+8 - Não se aplica o disposto nos n.os 1 e 2 se o requerente indicar que pretende a notificação por solicitador de execução ou mandatário judicial, caso em que se aplica, com as necessárias adaptações, o disposto no Código de Processo Civil para a citação por solicitador de execução ou mandatário judicial.
+
+9 - No caso de se frustrar a notificação por solicitador de execução ou mandatário judicial, procede-se à notificação nos termos dos n.os 3 a 7.
+
+10 - Por despacho conjunto do ministro com a tutela do serviço público de correios e do Ministro da Justiça, pode ser aprovado modelo próprio de carta registada com aviso de recepção para o efeito do n.º 1, nos casos em que o volume de serviço o justifique.
