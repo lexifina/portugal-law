@@ -1,0 +1,15 @@
+Despacho Normativo n.º 44/2005
+O Regulamento dos Exames Nacionais do Ensino Básico e o Regulamento dos Exames do Ensino Secundário, aprovados pelo Despacho Normativo n.º 15/2005, de 28 de Fevereiro, estabelecem que a correcção/classificação e a reapreciação das provas de exame de Língua Portuguesa e de Matemática do 9.º ano de escolaridade e das provas de exame do ensino secundário elaboradas a nível nacional e a nível de escola, quando equivalentes aos exames nacionais, são da competência de professores classificadores e relatores dos estabelecimentos de ensino público, particular ou cooperativo. Do mesmo modo, os referidos Regulamentos estabelecem que a reapreciação das provas dos exames de equivalência à frequência, bem como das provas de exame dos 2.º e 3.º ciclos do ensino básico (situações especiais), compete a professores relatores dos estabelecimentos de ensino público, particular e cooperativo.
+Assim, considerando que:
+A avaliação dos alunos é uma componente permanente da actividade dos professores, regularmente inscrita nas suas obrigações profissionais, quer do ponto de vista pedagógico quer do ponto de vista administrativo e regulamentar, incluindo a realização e classificação de provas de exame;
+No caso dos exames do ensino básico, estes só têm lugar em duas disciplinas - Língua Portuguesa e Matemática -, deixando de haver lugar à realização de prova global, de cuja preparação e correcção os professores ficam assim libertos, ao contrário das restantes disciplinas em que a realização de tal prova é obrigatória;
+No ensino secundário, os exames são, na sua maioria, provas de ingresso para candidatura ao ensino superior e, por vezes, assumem mesmo somente esta função, pelo que já não poderão considerar-se no âmbito das actividades dos professores do ensino secundário e dos seus deveres profissionais:
+Determino:
+1 - A correcção das provas de exame do ensino básico não está sujeita a qualquer remuneração adicional, por se inserir no domínio das tarefas a cumprir pelos professores no âmbito das actividades de ensino de que estão incumbidos e dos deveres a observar no exercício de actividade docente.
+2 - Os professores que asseguram a correcção/classificação das provas de exame do ensino secundário, referentes ao ano lectivo de 2004-2005, têm direito à importância ilíquida de (euro) 5 pela correcção/classificação de cada prova.
+3 - Pela reapreciação de cada uma das provas, seja do ensino básico seja do ensino secundário, é devida a importância ilíquida de (euro) 7,48.
+4 - Aos especialistas que asseguram a análise e decisão das reclamações relativas às reapreciações a que se refere o número anterior é paga a importância ilíquida de (euro) 14,96 por reclamação.
+5 - Cabe aos estabelecimentos de ensino público, particular ou cooperativo o processamento dos pagamentos a que se referem os números anteriores.
+É revogado o n.º 6.5 do anexo I do Despacho Normativo n.º 15/2005, de 28 de Fevereiro.
+Os efeitos do presente despacho normativo reportam-se à data de 1 de Julho de 2005.
+Ministério da Educação, 26 de Agosto de 2005. - O Secretário de Estado da Educação, Valter Victorino Lemos.
