@@ -1,0 +1,85 @@
+Portaria n.º 874/2005
+de 21 de Setembro
+O Decreto-Lei n.º 74/2004, de 26 de Março, estabeleceu os princípios orientadores da organização e gestão do currículo, bem como da avaliação e certificação das aprendizagens do nível secundário de educação, definindo a diversidade da oferta formativa do referido nível de educação, na qual se incluem os cursos profissionais vocacionados para a qualificação inicial dos alunos, privilegiando a sua inserção no mundo do trabalho e permitindo o prosseguimento de estudos.
+No n.º 5 do seu artigo 5.º, determina o supramencionado decreto-lei que os cursos de nível secundário e os respectivos planos de estudos são criados e aprovados por portaria do Ministro da Educação.
+Entretanto, e ainda de acordo com o mesmo diploma, veio a Portaria n.º 550-C/2004, de 21 de Maio, regular, na sua especificidade, os cursos profissionais, definindo, no seu artigo 7.º, os requisitos formais a observar e determinando, no seu artigo 2.º, que a criação e a organização dos mesmos deverão obedecer, quanto às disciplinas, formação em contexto de trabalho e respectivas cargas horárias, à matriz curricular aprovada, bem como aos referenciais de formação das famílias profissionais em que se enquadram, concebidos, validados e aprovados de acordo com o estabelecido no seu artigo 3.º
+Assim, no âmbito da revisão curricular do ensino profissional e da racionalização da oferta formativa consagradas nos diplomas acima referidos, importa proceder à reestruturação dos cursos actualmente em vigor, criados ao abrigo da legislação anterior, e, consequentemente, aprovar os novos cursos e planos de estudos, à luz das novas regras e matriz curricular estabelecidas pelos citados Decreto-Lei n.º 74/2004, de 26 de Março, e Portaria n.º 550-C/2004, de 21 de Maio.
+Nestes termos:
+Atento o disposto no n.º 5 do artigo 5.º do Decreto-Lei n.º 74/2004, de 26 de Março, e ao abrigo dos n.os 1 e 2 do artigo 7.º da Portaria n.º 550-C/2004, de 21 de Maio:
+Manda o Governo, pela Ministra da Educação, o seguinte:
+1.º É criado o curso profissional de Técnico de Construção Civil/Condução de Obra, com as variantes de Edifícios, Construção Tradicional Ecoambiental e Infra-Estruturas Urbanas, visando a saída profissional de técnico de obra (condução de obra).
+2.º O curso criado no número anterior enquadra-se na família profissional de Construção Civil e integra-se na área de educação e formação de Construção Civil e Engenharia Civil (582), de acordo com a classificação aprovada pela Portaria n.º 256/2005, de 16 de Março.
+3.º O plano de estudos do curso agora criado é o constante do anexo n.º 1 da presente portaria, da qual faz parte integrante, e que resulta da reestruturação dos cursos profissionais aprovados pelos diplomas a que se refere o n.º 6.º
+4.º A componente de formação científica do referido curso é constituída pelas disciplinas de Matemática e Física e Química, as quais, conjuntamente com a disciplina de Português, serão sujeitas a avaliação sumativa externa concretizada na realização de exames nacionais, nos termos e para os efeitos estabelecidos no artigo 11.º do Decreto-Lei n.º 74/2004, de 26 de Março, conjugado com os artigos 26.º, 27.º e 30.º a 33.º da Portaria n.º 550-C/2004, de 21 de Maio.
+5.º O perfil de desempenho à saída do curso é o constante do anexo n.º 2 do presente diploma.
+6.º Com a publicação da presente portaria são extintos o curso profissional de Mestre de Construção Civil Tradicional (Técnico Empresário), criado pela Portaria n.º 550/95, de 3 de Junho, o de Técnico de Construção Civil, criado pela Portaria n.º 263/92, de 27 de Março, os de Técnico de Construção Civil/Condução de Obra, criados pelas Portarias n.os 692/90, de 18 de Agosto, 706/90, de 21 de Agosto, 724/90, de 21 de Agosto, 193/92, de 17 de Março, 194/92, de 18 de Março, 236/92, de 24 de Março, e 320/92, de 8 de Abril, e o de Técnico de Construção Civil/Condução de Obra, em regime pós-laboral, criado pela Portaria n.º 531/95, de 2 de Junho.
+7.º Pela presente, são parcialmente revogadas, nas partes que àqueles cursos respeitam, as portarias mencionadas no número anterior.
+8.º Sem prejuízo do disposto no n.º 7.º, os planos de estudos dos cursos profissionais agora extintos continuarão em vigor até à conclusão dos cursos por parte dos alunos que, entretanto, os tiverem iniciado.
+9.º Aos alunos que concluírem com aproveitamento o presente curso profissional será atribuído um diploma de conclusão do nível secundário de educação e um certificado de qualificação profissional de nível 3, de acordo com o previsto nos n.os 1 e 2 do artigo 15.º do Decreto-Lei n.º 74/2004, de 26 de Março, e no n.º 1 do artigo 33.º da Portaria n.º 550-C/2004, de 21 de Maio.
+10.º A presente portaria produz efeitos a partir da data da sua assinatura.
+Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação, em 8 de Setembro de 2005.
+
+ANEXO N.º 1
+Curso profissional de Técnico de Construção Civil/Condução de Obra
+Variantes de Edifícios/Construção Tradicional Ecoambiental/Infra-Estruturas Urbanas (ver nota a)
+Plano de estudos
+(ver quadro no documento original)
+(nota a) As variantes a oferecer, bem como o número de variantes a funcionar no mesmo ciclo de formação, dependem das opções da escola, no âmbito do seu projecto educativo, e ainda, consoante a natureza jurídica do estabelecimento de educação e ensino, da sua conformidade com o previsto na respectiva autorização de funcionamento, ou com o aprovado em sede de definição da rede nacional de oferta formativa, nos termos do n.º 7 do artigo 5.º do Decreto-Lei n.º 74/2004, de 26 de Março.
+(ver notas referentes ao quadro no documento original)
+
+ANEXO N.º 2
+Curso profissional de Técnico de Construção Civil/Condução de Obra
+Saída profissional: técnico de obra (condução de obra)
+Família profissional: construção civil
+Área de educação e formação: 582 - Construção Civil e Engenharia Civil
+Perfil de desempenho à saída do curso
+O técnico de construção civil/condução de obra é o profissional qualificado apto a participar no planeamento e organização de trabalhos de construção civil e obras públicas e a orientar e controlar em obra a sua execução.
+As actividades principais desempenhadas por este técnico são:
+Colaborar com os responsáveis pela obra no planeamento e preparação da mesma:
+Ler e interpretar projectos de arquitectura, engenharia e instalações especiais de construção civil e obras públicas;
+Apresentar propostas de processos construtivos, no sentido de optimizar a relação prazo, qualidade e custos, tendo em conta as especificidades dos projectos, as disponibilidades da empresa e a localização da obra;
+Colaborar na determinação de mão-de-obra, equipamentos e materiais a afectar à obra e na definição de subempreitadas necessárias, de acordo com as disponibilidades da empresa e com as necessidades detectadas;
+Colaborar na definição do estaleiro em termos da sua localização e dimensão, tendo em conta o plano de segurança e saúde e a regulamentação aplicável e analisando o local da obra e a sua envolvente;
+Colaborar na determinação e sequência das diversas fases de construção da obra e das actividades inerentes à sua execução, tendo em conta os projectos e o plano de segurança e saúde;
+Colaborar na implantação do estaleiro e da obra:
+Colaborar no processo de obtenção, junto das entidades públicas e privadas competentes, de serviços e licenças necessários à implantação da obra, nomeadamente fornecimento de electricidade e água, autorizações para ocupação da via pública e construção de acessos à obra;
+Orientar os trabalhos de montagem do estaleiro de acordo com o plano estabelecido;
+Colaborar no processo de implantação da obra, orientando a marcação de elementos construtivos de acordo com o projecto;
+Orientar e controlar a construção da obra, segundo o plano de trabalhos estabelecido:
+Organizar e distribuir o trabalho das diferentes equipas e dos subempreiteiros, tendo em conta as necessidades específicas da obra;
+Executar desenhos de esboço cotados, a partir de elementos constantes nos projectos e da análise das situações específicas da obra;
+Efectuar medições em obra com vista a verificar e complementar os dados constantes nos projectos, a determinar os materiais necessários à prossecução da obra e a fornecer os elementos necessários à elaboração de autos de medição;
+Orientar e controlar a execução dos trabalhos de movimentação de terras, redes gerais de saneamento, abastecimento e vias de comunicação, estruturas, alvenarias, instalações técnicas e especiais e acabamentos, ao nível da qualidade, prazo de realização e cumprimento das normas de segurança, higiene e saúde, tendo em conta o planeamento preestabelecido;
+Colaborar na avaliação de desempenho dos trabalhadores;
+Colaborar na reorganização do plano de trabalhos, propondo medidas alternativas adequadas, em função dos desvios, erros, omissões e outros imprevistos detectados;
+Assegurar a gestão corrente de aprovisionamento da obra, providenciando a requisição e armazenamento dos equipamentos, materiais e meios auxiliares, verificando a sua qualidade e quantidade e orientando a sua distribuição pelas frentes de trabalho;
+Efectuar o registo dos trabalhos desenvolvidos em obra, a fim de fornecer os elementos necessários ao processamento da facturação;
+Variante de Edifícios:
+Ler e interpretar projectos de arquitectura, engenharia e instalações especiais, tendo em vista a construção ou a reabilitação de edifícios;
+Colaborar no planeamento e na organização da obra, com vista à construção ou à reabilitação de edifícios;
+Colaborar na implantação do estaleiro e das obras referentes a edifícios;
+Orientar e controlar a construção de edifícios, segundo o plano de trabalhos estabelecido;
+Contribuir para assegurar a gestão de stocks, o controlo de qualidade e a aplicação das normas de segurança e saúde, em obras envolvendo edifícios;
+Identificar sumariamente, com os meios e conhecimentos disponíveis, patologias das construções dos edifícios;
+Variante de Construção Tradicional Ecoambiental:
+Avaliar e planear os trabalhos e classificar os diferentes sistemas construtivos tradicionais;
+Classificar o comportamento e as características dos diferentes sistemas construtivos tradicionais, identificando e seleccionando as diferentes matérias-primas utilizadas em cada um deles;
+Determinar as quantidades de matérias-primas, recursos humanos e equipamentos necessários à execução da obra;
+Colaborar na implantação e organização de estaleiros de apoio à obra;
+Participar no planeamento e aplicar os diferentes programas de trabalho necessários à consecução dos sistemas construtivos tradicionais;
+Orientar e controlar trabalhos de construção tradicional ecoambiental, segundo o plano estabelecido;
+Contribuir para assegurar a gestão de stocks, o controlo de qualidade e a aplicação das normas de segurança e saúde, em obras envolvendo a construção tradicional ecoambiental;
+Escolher/definir os métodos aplicáveis à execução de instalações técnicas e revestimentos nos diferentes sistemas construtivos;
+Identificar sumariamente, com os meios e conhecimentos disponíveis, patologias das construções tradicionais ecoambientais;
+Variante de Infra-Estruturas Urbanas:
+Interpretar projectos de infra-estruturas, bem como os esboços, esquemas e descritivos dos pormenores técnicos do trabalho;
+Planear e preparar a obra de infra-estruturas, em colaboração com os seus responsáveis, e determinar as necessidades de mão-de-obra, equipamentos e materiais a afectar à mesma;
+Apresentar propostas de processos construtivos, no sentido de optimizar a relação prazo, qualidade e custos;
+Coordenar as actividades de execução da obra de infra-estruturas e distribuir o trabalho pelas várias equipas, de acordo com as prioridades definidas nos respectivos programas;
+Determinar as quantidades de trabalho realizadas no período fixado para elaboração dos autos de medição;
+Identificar e seleccionar os componentes e serviços técnicos de que a obra necessita (máquinas e equipamentos, fornecimentos de electricidade e água, acessos, locais de armazenamento dos materiais e de instalações de pessoal);
+Controlar a execução dos trabalhos ao nível da sua qualidade, prazo de realização e cumprimento das normas de higiene, segurança e saúde, quer dos serviços internos quer das empresas subcontratadas, em articulação com o director de obra;
+Identificar sumariamente, com os meios e conhecimentos disponíveis, patologias das infra-estruturas urbanas.
+Certificação escolar e profissional
+Curso do nível secundário de educação.
+Qualificação profissional de nível 3.
