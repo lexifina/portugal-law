@@ -1,0 +1,564 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11418",
+  "numero": "99",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-09-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2007-04-17",
+            "entidades": null,
+            "id": "82973",
+            "tipo": null,
+            "titulo": "Audição em 2007-04-17 com Gil Nadais R. Fonseca e Outros - Subscritores da Petição 99/X-1ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2007-05-31",
+            "dataResposta": "2007-07-06",
+            "entidades": [
+              "Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional"
+            ],
+            "nrOficio": "87/CPLAOT",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2006-01-10",
+        "DataArquivo": "2007-10-23",
+        "DataBaixaComissao": "2006-01-10",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2006-01-10",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "249",
+        "Legislatura": "X",
+        "Nome": "Comissão de Poder Local, Ambiente e Ordenamento do Território (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2006-01-10",
+            "gp": "PS",
+            "id": "437",
+            "motivoCessacao": null,
+            "nome": "Horácio Antunes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída para: Comissão de Poder Local, Ambiente e Ordenamento do Território."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2007-10-25",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2007-10-30",
+        "DataBaixaComissao": "2007-10-23",
+        "DataEnvioPAR": "2007-10-25",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-09-22",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c3251324d6d4e6c5a574e6a4c546733596a45744e4441794e5330344e7a68694c5751315a54646b5a4455354d3259774f4335775a47593d&fich=d62ceecc-87b1-4025-878b-d5e7dd593f08.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2005-09-22",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c7a557a5a4446694f446b7a4c544e694e444d744e4455334e79303459574d314c544134596a526d4e54466b4d6a4a6c595335775a47593d&fich=53d1b893-3b43-4577-8ac5-08b4f51d22ea.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-09-22",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c32566d4d6a566c4e6d5a6a4c54466a4d6a67744e4759334d433035597a42684c54646a595449775a6a67354d5463354e4335775a47593d&fich=ef25e6fc-1c28-4f70-9c0a-7ca20f891794.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1909",
+        "Legislatura": "X",
+        "Nome": "Comissão de Poder Local, Ambiente e Ordenamento do Território",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-10-23",
+            "gp": "PS",
+            "id": "437",
+            "motivoCessacao": null,
+            "nome": "Horácio Antunes"
+          }
+        ],
+        "RelatorioFinal": [
+          "22619"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Poder Local, Ambiente e Ordenamento do Território (pré RAR) para esta comissão."
+      }
+    ],
+    "DataDebate": "2007-11-28",
+    "Documentos": [
+      {
+        "DataDocumento": "2005-09-22",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938325a5459344d6d4a6d597930794f5459354c5451775a6d5974595441334d6931684f4749324d32566d5a446c6c596d51756347526d&fich=6e682bfc-2969-40ff-a072-a8b63efd9ebd.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2007-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166552",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-11-29",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/018/2007-11-29/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Gil Nadais R. Fonseca e outros solicitando que a Assembleia da República legisle no sentido de salvaguardar a lagoa natural denominada \"Pateira de Fermentelos\"",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-11-29",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/018/2007-11-29/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Gil Nadais R. Fonseca e outros solicitando que a Assembleia da República legisle no sentido de salvaguardar a lagoa natural denominada \"Pateira de Fermentelos\"",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-11-29",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/018/2007-11-29/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Gil Nadais R. Fonseca e outros solicitando que a Assembleia da República legisle no sentido de salvaguardar a lagoa natural denominada \"Pateira de Fermentelos\"",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166555",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-11-29",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/018/2007-11-29?org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Gil Nadais R. Fonseca e outros solicitando que a Assembleia da República legisle no sentido de salvaguardar a lagoa natural denominada \"Pateira de Fermentelos\"",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-11-29",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/018/2007-11-29/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Gil Nadais R. Fonseca e outros solicitando que a Assembleia da República legisle no sentido de salvaguardar a lagoa natural denominada \"Pateira de Fermentelos\"",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-11-29",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/018/2007-11-29/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Gil Nadais R. Fonseca e outros solicitando que a Assembleia da República legisle no sentido de salvaguardar a lagoa natural denominada \"Pateira de Fermentelos\"",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-11-29",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/018/2007-11-29/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Gil Nadais R. Fonseca e outros solicitando que a Assembleia da República legisle no sentido de salvaguardar a lagoa natural denominada \"Pateira de Fermentelos\"",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11418",
+    "PetAssunto": "Solicitam medidas legislativas para salvaguarda da Pateira de Fermentelos.",
+    "PetDataEntrada": "2005-09-22",
+    "PeticoesAssociadas": null,
+    "PetId": "11418",
+    "PetLeg": "X",
+    "PetNr": "99",
+    "PetNrAssinaturas": "5145",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "235",
+        "obs": null,
+        "pag": [
+          "51-55"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-11-29",
+        "pubLeg": "X",
+        "pubNr": "18",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/018/2007-11-29/51?pgs=51-55&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "325667",
+        "obs": null,
+        "pag": [
+          "6-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-01-14",
+        "pubLeg": "X",
+        "pubNr": "27",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/027/2006-01-14/6?pgs=6&org=PLC"
+      }
+    ]
+  }
+}
