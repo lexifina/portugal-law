@@ -1,0 +1,5 @@
+Aviso n.º 323/2005
+Por ordem superior se torna público que, em 28 de Abril de 2005, a Bulgária depositou o seu instrumento de ratificação ao Protocolo à Convenção de 1979 sobre a Poluição Atmosférica Transfronteiriça a Longa Distância Relativo à Redução de Acidificação, Eutrofização e Ozono Troposférico, assinado em Gotemburgo em 1 de Dezembro de 1999, declarando no acto de depósito que, no que diz respeito aos parágrafos 1 e 2 do anexo VII e aos parágrafos 6 e 9 do anexo IX, pretende ser considerada como um país de economia de transição.
+Portugal é Parte do mesmo Protocolo, aprovado pelo Decreto n.º 20/2004, publicado no Diário da República, 1.ª série-A, n.º 196, de 20 de Agosto de 2004, tendo Portugal depositado o seu instrumento de aprovação em 16 de Fevereiro de 2005, conforme o aviso n.º 179/2005, publicado no Diário da República, 1.ª série-A, n.º 86, de 4 de Maio de 2005.
+O Protocolo entrará em vigor para a Bulgária em 3 de Outubro de 2005, conforme estipula o n.º 2 do artigo 17.º do mesmo Protocolo.
+Direcção-Geral dos Assuntos Multilaterais, 13 de Setembro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
