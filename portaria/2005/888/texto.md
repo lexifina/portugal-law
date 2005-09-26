@@ -1,0 +1,115 @@
+Portaria n.º 888/2005
+de 26 de Setembro
+O Decreto-Lei n.º 74/2004, de 26 de Março, estabeleceu os princípios orientadores da organização e gestão do currículo, bem como da avaliação e certificação das aprendizagens do nível secundário de educação, definindo a diversidade da oferta formativa do referido nível de educação, na qual se incluem os cursos profissionais vocacionados para a qualificação inicial dos alunos, privilegiando a sua inserção no mundo do trabalho e permitindo o prosseguimento de estudos.
+No n.º 5 do seu artigo 5.º, determina o supramencionado decreto-lei que os cursos de nível secundário e os respectivos planos de estudos são criados e aprovados por portaria do Ministro da Educação.
+Entretanto, e ainda de acordo com o mesmo diploma, veio a Portaria n.º 550-C/2004, de 21 de Maio, regular, na sua especificidade, os cursos profissionais, definindo, no seu artigo 7.º, os requisitos formais a observar e determinando, no seu artigo 2.º, que a criação e a organização dos mesmos deverão obedecer, quanto às disciplinas, formação em contexto de trabalho e respectivas cargas horárias, à matriz curricular aprovada, bem como aos referenciais de formação das famílias profissionais em que se enquadram, concebidos, validados e aprovados de acordo com o estabelecido no seu artigo 3.º
+Assim, no âmbito da revisão curricular do ensino profissional e da racionalização da oferta formativa consagradas nos diplomas acima referidos, importa proceder à reestruturação dos cursos actualmente em vigor, criados ao abrigo da legislação anterior, e, consequentemente, aprovar os novos cursos e planos de estudos, à luz das novas regras e matriz curricular estabelecidas pelos citados Decreto-Lei n.º 74/2004, de 26 de Março, e Portaria n.º 550-C/2004, de 21 de Maio.
+Nestes termos:
+Atento o disposto no n.º 5 do artigo 5.º do Decreto-Lei n.º 74/2004, de 26 de Março, e ao abrigo dos n.os 1 e 2 do artigo 7.º da Portaria n.º 550-C/2004, de 21 de Maio:
+Manda o Governo, pela Ministra da Educação, o seguinte:
+1.º É criado o curso profissional de Técnico de Construção Civil/Organização e Preparação de Obra, com as variantes de Desenho de Construção Civil, Topografia e Medições e Orçamentos, visando as saídas profissionais de técnico de desenho de construção civil, de técnico de topografia e de técnico de medições e orçamentos.
+2.º O curso criado no número anterior enquadra-se na família profissional de construção civil e integra-se na área de educação e formação de Construção Civil e Engenharia Civil (582), de acordo com a classificação aprovada pela Portaria n.º 256/2005, de 16 de Março.
+3.º O plano de estudos do curso agora criado é o constante do anexo n.º 1 da presente portaria, da qual faz parte integrante, e que resulta da reestruturação dos cursos profissionais aprovados pelos diplomas a que se refere o n.º 6.º
+4.º A componente de formação científica do referido curso é constituída pelas disciplinas de Matemática e Física e Química, as quais, conjuntamente com a disciplina de Português, serão sujeitas a avaliação sumativa externa concretizada na realização de exames nacionais, nos termos e para os efeitos estabelecidos no artigo 11.º do Decreto-Lei n.º 74/2004, de 26 de Março, conjugado com os artigos 26.º, 27.º e 30.º a 33.º da Portaria n.º 550-C/2004, de 21 de Maio.
+5.º Os perfis de desempenho à saída do curso são os constantes dos anexos n.os 2, 3 e 4 do presente diploma.
+6.º Com a publicação da presente portaria são extintos os cursos profissionais de Técnico de Construção Civil/Desenho, criados pelas Portarias n.os 701/90, de 20 de Agosto, alterada pela Portaria n.º 319/92, de 8 de Abril, no que a este curso respeita, 706/90, de 21 de Agosto, 720/90, de 21 de Agosto, alterada pela Portaria n.º 316/92, de 8 de Abril, no que a este curso respeita, 241/92, de 25 de Março, 286/92, de 2 de Abril, e 299/92, de 3 de Abril, os de Técnico de Construção Civil/Medições e Orçamentos, criados pelas Portarias n.os 706/90, de 21 de Agosto, 720/90, de 21 de Agosto, 241/92, de 25 de Março, e 327/92, de 9 de Abril, os de Técnico de Construção Civil/Topografia, criados pelas Portarias n.os 706/90, de 21 de Agosto, 194/92, de 18 de Março, e 241/92, de 25 de Março, o de Técnico de Construção Civil/Topografia/Medições e Orçamentos/Desenho, em regime pós-laboral, criado pela Portaria n.º 531/95, de 2 de Junho, e o de Técnico de Construção Civil (especificações), criado pela Portaria n.º 294/97, de 2 de Maio.
+7.º Pela presente, são parcialmente revogadas, nas partes que àqueles cursos respeitam, as Portarias n.os 701/90, de 20 de Agosto, 706/90, de 21 de Agosto, 720/90, de 21 de Agosto, 241/92, de 25 de Março, 286/92, de 2 de Abril, 299/92, de 3 de Abril, 327/92, de 9 de Abril, 194/92, de 18 de Março, 531/95, de 2 de Junho, e 294/97, de 2 de Maio.
+8.º São revogadas, na sua totalidade, as restantes portarias mencionadas no n.º 6.º
+9.º Sem prejuízo do disposto nos n.os 7.º e 8.º, os planos de estudos dos cursos profissionais agora extintos continuarão em vigor até à conclusão dos cursos por parte dos alunos que, entretanto, os tiverem iniciado.
+10.º Aos alunos que concluírem com aproveitamento o presente curso profissional será atribuído um diploma de conclusão do nível secundário de educação e um certificado de qualificação profissional de nível 3, de acordo com o previsto nos n.os 1 e 2 do artigo 15.º do Decreto-Lei n.º 74/2004, de 26 de Março, e no n.º 1 do artigo 33.º da Portaria n.º 550-C/2004, de 21 de Maio.
+11.º A presente portaria produz efeitos a partir da data da sua assinatura.
+Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação, em 7 de Setembro de 2005.
+
+ANEXO N.º 1
+Curso profissional de Técnico de Construção Civil/Organização e Preparação de Obra
+Variantes de Desenho de Construção Civil/Topografia/Medições e Orçamentos (ver nota a)
+Plano de estudos
+(ver quadro no documento original)
+(nota a) As variantes a oferecer, bem como o número de variantes a funcionar no mesmo ciclo de formação, dependem das opções da escola, no âmbito do seu projecto educativo, e, ainda, consoante a natureza jurídica do estabelecimento de educação e ensino, da sua conformidade com o previsto na respectiva autorização de funcionamento, ou com o aprovado em sede de definição da rede nacional de oferta formativa, nos termos do n.º 7 do artigo 5.º do Decreto-Lei n.º 74/2004, de 26 de Março.
+(ver notas referentes ao quadro no documento original)
+
+ANEXO N.º 2
+Curso profissional de Técnico de Construção Civil/Organização e Preparação de Obra
+Variante de Desenho de Construção Civil
+Saída profissional: técnico de desenho de construção civil
+Família profissional: construção civil
+Área de educação e formação: 582 - Construção Civil e Engenharia Civil
+Perfil de desempenho à saída do curso
+O técnico de construção civil/organização e preparação de obra, variante de Desenho da Construção Civil, é o profissional qualificado apto a executar desenhos relativos aos projectos desta área.
+As actividades principais desempenhadas por este técnico são:
+Ler e interpretar projectos, desenhos, croquis e outras informações técnicas relativas à construção civil;
+Efectuar desenhos para a realização de projectos de obra de construção civil, manualmente ou com apoio informático específico:
+Colaborar na realização do estudo prévio, executando a representação da volumetria da construção e o enquadramento da mesma relativamente à envolvente;
+Colaborar no projecto de licenciamento, efectuando desenhos de conjunto, designadamente da arquitectura, da estrutura e das instalações;
+Efectuar as peças desenhadas de projectos de alterações, recorrendo à simbologia adequada;
+Colaborar na elaboração de projectos de execução, efectuando desenhos de pormenor, esquemas e mapas de informação técnica, tendo em conta as especificações arquitectónicas e técnicas e as normas de construção predefinidas, adoptando escalas e simbologias adequadas;
+Verificar a conformidade da cotagem, legendagem e outros elementos dos desenhos de acordo com as especificações recebidas e efectuando eventuais rectificações;
+Acompanhar a preparação e execução de obras:
+Efectuar rectificações aos desenhos dos projectos de execução, tendo em conta as necessidades de construção ou da instalação, elaborando, sempre que necessário, novas peças desenhadas;
+Proceder à elaboração dos desenhos do projecto de alterações, assinalando adequadamente as demolições e as novas construções, de acordo com as instruções recebidas e ou recolhidas em obra;
+Elaborar e ou actualizar o processo técnico de construções existentes:
+Efectuar o levantamento à mão livre de construções existentes;
+Efectuar a recolha das medidas necessárias à elaboração dos desenhos técnicos;
+Proceder à elaboração de desenhos técnicos das construções existentes;
+Elaborar relatórios, especificando os materiais e as características construtivas utilizados.
+Certificação escolar e profissional
+Curso do nível secundário de educação.
+Qualificação profissional de nível 3.
+
+ANEXO N.º 3
+Curso profissional de Técnico de Construção Civil/Organização e Preparação de Obra
+Variante de Topografia
+Saída profissional: técnico de topografia
+Família profissional: construção civil
+Área de educação e formação: 582 - Construção Civil e Engenharia Civil
+Perfil de desempenho à saída do curso
+O técnico de construção civil/organização e preparação de obra, variante de Topografia, é o profissional qualificado apto a efectuar trabalhos topográficos, tendo em vista a elaboração de plantas, cartas, mapas e apoios topométricos, destinados à preparação e orientação de trabalhos de construção civil e obras públicas, quer na fase de projecto, quer na fase de execução da obra.
+As actividades principais desempenhadas por este técnico são:
+Executar levantamentos topográficos:
+Analisar os dados relevantes para o reconhecimento do terreno e seleccionar os meios, os materiais e os instrumentos de trabalho necessários ao levantamento topográfico;
+Observar a rede geodésica nacional, a fim de determinar as coordenadas dos vértices de apoio aos levantamentos;
+Determinar a posição relativa dos pontos notáveis de determinada zona da superfície terrestre, registando as observações e calculando as coordenadas planimétricas e altimétricas, utilizando técnicas e processos de observação específicos;
+Traçar esboços e elaborar relatórios das operações efectuadas em campo;
+Realizar a completagem dos trabalhos de campo, rectificando, se necessário, os dados recolhidos para a elaboração das plantas topográficas;
+Efectuar representações gráficas da superfície terrestre necessárias à concepção do projecto e à realização da obra:
+Analisar e interpretar os elementos de apoio aos levantamentos topográficos e outros dados relevantes para a representação do terreno;
+Representar graficamente, em escala adequada, a configuração do terreno, por métodos clássicos ou com o apoio de programas informáticos específicos;
+Colaborar na execução de projectos, elaborando os elementos gráficos e analíticos necessários à implantação da obra e calculando, nomeadamente, ângulos, rumos, distâncias, áreas e volumes;
+Proceder à piquetagem/implantação da obra a partir de elementos do projecto:
+Calcular e implantar as linhas gerais e de pormenor de apoio à execução da obra, utilizando instrumentos adequados;
+Efectuar nivelamentos geométricos para apoio de levantamentos topográficos e implantações, utilizando instrumentos adequados;
+Acompanhar a evolução da obra:
+Verificar as áreas e volumes de movimentos de terras, tendo em conta os elementos definidos no projecto e ou recolhidos em obra;
+Acompanhar a execução da obra, verificando as implantações e montagens, a partir de pontos previamente definidos e coordenados geometricamente, detectando desvios de execução;
+Controlar geometricamente as deformações do património edificado.
+Certificação escolar e profissional
+Curso do nível secundário de educação.
+Qualificação profissional de nível 3.
+
+ANEXO N.º 4
+Curso profissional de Técnico de Construção Civil/Organização e Preparação de Obra
+Variante de Medições e Orçamentos
+Saída profissional: técnico de medições e orçamentos
+Família profissional: construção civil
+Área de educação e formação: 582 - Construção Civil e Engenharia Civil
+Perfil de desempenho à saída do curso
+O técnico de construção civil/organização e preparação de obra, variante de Medições e Orçamentos, é o profissional qualificado apto a determinar as quantidades e os custos de materiais, de mão-de-obra, de equipamentos e de serviços necessários para a execução de uma obra.
+As actividades principais desempenhadas por este técnico são:
+Realizar medições com vista à execução de uma obra:
+Analisar as diversas partes componentes do projecto, nomeadamente peças escritas e desenhadas e especificações relativas às características técnicas da construção ou da instalação;
+Determinar as diversas actividades necessárias à concretização da obra, descrevê-las e organizá-las sequencialmente, com base em regras e critérios ajustados às condições da obra;
+Efectuar as medições de cada actividade, com vista à determinação das quantidades de trabalho;
+Efectuar orçamentos, estabelecendo as quantidades de materiais, de mão-de-obra, de equipamentos e de serviços, e os custos necessários à execução da obra:
+Recolher e actualizar tabelas de preços simples e compostos;
+Determinar as quantidades de materiais, de mão-de-obra, de equipamentos e de serviços necessários para a execução da obra, a partir das medições efectuadas;
+Consultar tabelas de preços, dados dos fornecedores e empresas subempreiteiras, no sentido de preparar a elaboração de orçamentos;
+Elaborar orçamentos, com vista a determinar os custos globais da obra, que incluam os encargos e a margem industrial a aplicar;
+Acompanhar a preparação e a execução da obra no que respeita, nomeadamente, à medição/orçamentação de materiais, equipamentos e mão-de-obra:
+Transmitir aos responsáveis pela obra, na fase da sua preparação, toda a informação constante do projecto de execução no que respeita, nomeadamente, a quantidades de materiais, de equipamentos e de mão-de-obra;
+Efectuar medições in loco, no sentido de detectar erros, omissões, incongruências e alterações, alertando os técnicos responsáveis;
+Realizar autos de medição, de forma a avaliar o avanço e a qualidade da obra e a fornecer dados necessários à gestão e à facturação;
+Efectuar a revisão de preços contratados para a empreitada;
+Participar na elaboração de propostas para concursos, recolhendo, junto dos diferentes serviços da empresa, a documentação solicitada nos programas de concurso, procedendo à sua organização e representando a empresa no acto público de abertura de propostas.
+Certificação escolar e profissional
+Curso do nível secundário de educação.
+Qualificação profissional de nível 3.
