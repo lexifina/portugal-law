@@ -1,0 +1,5 @@
+Aviso n.º 326/2005
+Por ordem superior se torna público que, por nota de 20 de Junho de 2005, e agindo na sua qualidade de depositário das Convenções de Genebra de 12 de Agosto de 1949 para a Protecção das Vítimas de Guerra e dos Protocolos Adicionais I e II, adoptados em Genebra em 8 de Junho de 1977, o Conselho Federal Suíço notificou ter a República Democrática de Timor-Leste, em 12 de Abril de 2005, depositado os seus instrumentos de adesão aos Protocolos Adicionais I e II.
+Nos termos das suas disposições finais, os Protocolos entrarão em vigor para a República Democrática de Timor-Leste seis meses após o depósito dos instrumentos de adesão, isto é, em 12 de Outubro de 2005.
+Portugal é Parte nos mesmos Protocolos, os quais foram aprovados pela Resolução da Assembleia da República n.º 10/92, de 1 de Abril, tendo depositado o seu instrumento de ratificação em 27 de Maio de 1992, conforme o Aviso n.º 100/92, de 17 de Julho, estando em vigor para Portugal desde 27 de Novembro de 1992.
+Departamento de Assuntos Jurídicos, 14 de Setembro de 2005. - O Director, Luís Serradas Tavares.
