@@ -8,7 +8,7 @@
 
 1 - Quem, causando prejuízo patrimonial ao tomador do cheque ou a terceiro:
 
-a) Emitir e entregar a outrem cheque para pagamento de quantia superior a (euro) 62,35 que não seja integralmente pago por falta de provisão ou por irregularidade do saque;
+a) Emitir e entregar a outrem cheque para pagamento de quantia superior a (euro) 150 que não seja integralmente pago por falta de provisão ou por irregularidade do saque;
 
 b) Antes ou após a entrega a outrem de cheque sacado pelo próprio ou por terceiro, nos termos e para os fins da alínea anterior, levantar os fundos necessários ao seu pagamento, proibir à instituição sacada o pagamento desse cheque, encerrar a conta sacada ou, por qualquer modo, alterar as condições da sua movimentação, assim impedindo o pagamento do cheque; ou
 
