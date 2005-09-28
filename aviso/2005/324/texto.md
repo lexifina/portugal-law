@@ -1,0 +1,5 @@
+Aviso n.º 324/2005
+Por ordem superior se torna público que, por nota de 20 de Junho de 2005, e agindo na sua qualidade de depositário das Convenções de Genebra de 12 de Agosto de 1949 para a Protecção das Vítimas de Guerra e dos Protocolos Adicionais I e II, adoptados em Genebra em 8 de Junho de 1977, o Conselho Federal Suíço notificou ter o Estado do Qatar, em 5 de Janeiro de 2005, depositado o seu instrumento de adesão ao Protocolo Adicional II.
+Nos termos das suas disposições finais, o Protocolo entrou em vigor para o Estado do Qatar seis meses após o depósito do instrumento de adesão, isto é, em 5 de Julho de 2005.
+Portugal é Parte no mesmo Protocolo, o qual foi aprovado pela Resolução da Assembleia da República n.º 10/92, de 1 de Abril, tendo depositado o seu instrumento de ratificação em 27 de Maio de 1992, conforme o Aviso n.º 100/92, de 17 de Julho, estando em vigor para Portugal desde 27 de Novembro de 1992.
+Departamento de Assuntos Jurídicos, 14 de Setembro de 2005. - O Director, Luís Serradas Tavares.
