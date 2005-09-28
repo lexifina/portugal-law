@@ -1,0 +1,30 @@
+Portaria n.º 930/2005
+de 28 de Setembro
+O Decreto-Lei n.º 221/2004, de 18 de Novembro, fixou as condições a que deve obedecer o transporte particular de trabalhadores agrícolas nas caixas de carga dos reboques, semi-reboques e veículos de mercadorias, remetendo para futura regulamentação a determinação dos requisitos técnicos a observar pelos veículos utilizados naquele transporte.
+Pela presente portaria fixam-se os referidos requisitos técnicos.
+Assim:
+Ao abrigo do disposto no artigo 3.º do Decreto-Lei n.º 221/2004, de 18 de Novembro:
+Manda o Governo, pelo Ministro de Estado e da Administração Interna, o seguinte:
+1.º O transporte particular de trabalhadores agrícolas só pode ser efectuado nas caixas de carga, não basculantes, pertencentes a veículos de mercadorias ou a reboques e semi-reboques cujos respectivos certificados de matrícula os identifiquem como pertencentes ao tipo agrícola.
+2.º É proibido o transporte de trabalhadores em pé.
+3.º Os bancos destinados a este transporte devem possuir estrutura robusta, isolada ou contínua, e estarem fixados de forma adequada e directa ao estrado da caixa da carga.
+4.º A colocação dos bancos pode ser efectuada:
+a) Longitudinalmente junto aos taipais laterais, ficando os espaldares em concordância com os mesmos taipais e aos quais se podem fixar de forma amovível;
+b) Se a caixa tiver largura suficiente para mais de duas filas de bancos, estes também podem ser colocados, no sentido longitudinal, ao longo da zona média;
+c) Transversalmente, devendo neste caso, situarem-se o mais à frente possível, virados para a retaguarda ou para a frente;
+d) Quando virados para a frente, os bancos devem possuir cintos de segurança de dois pontos, pelo menos, devidamente homologados.
+5.º As dimensões mínimas dos bancos são as seguintes:
+a) A altura da parte superior do assento ao pavimento pode variar entre 35 cm e 45 cm;
+b) A largura mínima do assento é de 40 cm por pessoa ou por banco individual;
+c) A profundidade mínima do mesmo assento é de 35 cm;
+d) A sobrelevação mínima do espaldar é de 35 cm.
+6.º O espaço livre mínimo à frente dos assentos é:
+a) De 35 cm para os bancos orientados no mesmo sentido;
+b) De 60 cm para os bancos colocados frente-a-frente.
+7.º No espaço livre destinado à colocação dos pés deve ter a dimensão mínima de 35 cm.
+8.º O transporte conjunto de utensílios agrícolas na mesma caixa de carga deve ser efectuado por uma das seguintes formas:
+a) Na parte da frente da caixa do veículo, separado das pessoas por um taipal de, pelo menos, 45 cm de altura;
+b) Dentro de uma caixa dotada de tampa e de fecho apropriados, a fixar de forma adequada em qualquer local da caixa de carga do veículo.
+9.º Os lugares para passageiros, bem como os locais destinados aos utensílios, devem ser distribuídos no interior das caixas de carga dos veículos de forma a assegurar a maior estabilidade dos mesmos.
+10.º Os reboques, semi-reboques e veículos de mercadorias de caixa aberta devem estar equipados com uma estrutura do tipo toldo, de paredes não rígidas, destinada a proteger dos agentes atmosféricos os trabalhadores transportados.
+Pelo Ministro de Estado e da Administração Interna, Ascenso Luís Seixas Simões, Secretário de Estado da Administração Interna, em 2 de Setembro de 2005.
