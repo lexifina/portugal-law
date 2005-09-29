@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal Administrativo de 2005-09-29, processo 0625/05
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0625/05
+
+**Data do Acordão:** 09/29/2005
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** RUI BOTELHO
+
+**Descritores:** PROVAS.; PROVA DOCUMENTAL.; VALOR PROBATÓRIO DOS DOCUMENTOS.
+
+**Nº Convencional:** JSTA0005787
+
+**Nº do Documento:** SA1200509290625
+
+**Recorrente:** MINISTÉRIO PÚBLICO
+
+**Recorrido 1:** A...
+
+**Votação:** UNANIMIDADE
+
+**Área Temática 1:** *
+
+## Sumário
+
+I - Compete ao autor, na petição inicial, "Expor os factos e as razões de direito que servem de fundamento à acção;" (art.º 467º, n.º 1, c) do CPC), cabendo ao réu, na contestação, contraditar esses factos e invocar outros que obstem à apreciação do seu mérito (art.ºs 487, nº 2 e 488º).
+
+II - Nos termos do art.º 341º do CC "As provas têm por função a demonstração da realidade dos factos."
+
+III - Prova documental é a que resulta de documento, dizendo-se "documento qualquer objecto elaborado pelo homem com o fim de reproduzir ou representar uma pessoa, coisa ou facto" (art.º 362º).
+
+IV - As provas, designadamente as provas documentais, assumem, assim, uma natureza marcadamente instrumental em relação à matéria do litígio.
+
+V - Se os documentos visam provar factos invocados pelas partes, perdem qualquer valor provatório se os factos probandos afinal nunca foram alegados. Na verdade, os documentos, em caso algum, podem visar suprir insuficiências alegatórias, tornando-se, ocorrendo essa omissão, inteiramente irrelevantes.
