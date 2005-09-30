@@ -1,0 +1,733 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "149",
+    "id": "20978",
+    "titulo": "Previne e proíbe a discriminação com base na deficiência."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2005-09-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3536",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2005-09-30",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "20866",
+        "leg": "X",
+        "nr": "92",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Proíbe e pune as discriminações no exercício de direitos por motivos baseados na deficiência."
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "21029",
+        "leg": "X",
+        "nr": "161",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência ou na existência de risco agravado de saúde."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "21031",
+        "leg": "X",
+        "nr": "163",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "21034",
+        "leg": "X",
+        "nr": "165",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "854",
+            "obs": null,
+            "pag": [
+              "2360-2368"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-01",
+            "pubLeg": "X",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2368&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Define medidas de prevenção e combate à discriminação no exercício de direitos por motivos baseados na deficiência."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2005-09-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "614",
+                "nome": "Celeste Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2360-2361"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-01",
+                "pubLeg": "X",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2360?pgs=2360-2361&org=PLC"
+              }
+            ],
+            "sumario": "Proíbe e pune as discriminações no exercício de direitos por motivos baseados na deficiência.Previne e proíbe a discriminação com base na deficiência.Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência ou na existência de risco agravado de saúde.Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência.Define medidas de prevenção e combate à discriminação no exercício de direitos por motivos baseados na deficiência.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2361-2362"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-01",
+                "pubLeg": "X",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2361?pgs=2361-2362&org=PLC"
+              }
+            ],
+            "sumario": "Proíbe e pune as discriminações no exercício de direitos por motivos baseados na deficiência.Previne e proíbe a discriminação com base na deficiência.Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência ou na existência de risco agravado de saúde.Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência.Define medidas de prevenção e combate à discriminação no exercício de direitos por motivos baseados na deficiência.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2362-2364"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-01",
+                "pubLeg": "X",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2362?pgs=2362-2364&org=PLC"
+              }
+            ],
+            "sumario": "Proíbe e pune as discriminações no exercício de direitos por motivos baseados na deficiência.Previne e proíbe a discriminação com base na deficiência.Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência ou na existência de risco agravado de saúde.Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência.Define medidas de prevenção e combate à discriminação no exercício de direitos por motivos baseados na deficiência.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2364-2364"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-01",
+                "pubLeg": "X",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2364?pgs=2364&org=PLC"
+              }
+            ],
+            "sumario": "Proíbe e pune as discriminações no exercício de direitos por motivos baseados na deficiência.Previne e proíbe a discriminação com base na deficiência.Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência ou na existência de risco agravado de saúde.Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência.Define medidas de prevenção e combate à discriminação no exercício de direitos por motivos baseados na deficiência.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2365-2366"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-01",
+                "pubLeg": "X",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2365?pgs=2365-2366&org=PLC"
+              }
+            ],
+            "sumario": "Proíbe e pune as discriminações no exercício de direitos por motivos baseados na deficiência.Previne e proíbe a discriminação com base na deficiência.Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência ou na existência de risco agravado de saúde.Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência.Define medidas de prevenção e combate à discriminação no exercício de direitos por motivos baseados na deficiência.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1619",
+                "nome": "Feliciano Barreiras Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2366-2368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-01",
+                "pubLeg": "X",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2366?pgs=2366-2368&org=PLC"
+              }
+            ],
+            "sumario": "Proíbe e pune as discriminações no exercício de direitos por motivos baseados na deficiência.Previne e proíbe a discriminação com base na deficiência.Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência ou na existência de risco agravado de saúde.Proíbe as discriminações no exercício de direitos por motivos baseados na deficiência.Define medidas de prevenção e combate à discriminação no exercício de direitos por motivos baseados na deficiência.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "172019",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "309138",
+        "obs": null,
+        "pag": [
+          "2359-2368"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-10-01",
+        "pubLeg": "X",
+        "pubNr": "52",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/052/2005-10-01/2359?pgs=2359-2368&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
