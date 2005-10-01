@@ -1,0 +1,51 @@
+Aviso do Banco de Portugal n.º 10/2005
+A cobrança por débito em conta bancária é um dos mais importantes instrumentos de pagamento no nosso país, pela segurança, comodidade e eficácia que oferece aos seus utilizadores. A confiança dos devedores e credores no processamento das cobranças de carácter periódico e valor constante ou variável através do sistema de débitos directos, consagrado no Aviso do Banco de Portugal n.º 1/2002, de 13 de Março, designadamente as cobranças efectuadas pelas entidades fornecedoras de serviços como electricidade, água, telefone ou outros, manifesta-se no crescente volume de operações verificado nestes últimos anos e que se acentuou significativamente em 2004.
+O regime jurídico das cobranças por débito em conta consta de dois avisos do Banco de Portugal, o Aviso do Banco de Portugal n.º 1/2002, de 13 de Março, relativo ao sistema de débitos directos, e o Aviso do Banco de Portugal n.º 10/2003, de 17 de Setembro, referente às demais cobranças por débito em conta. Os direitos e deveres das entidades envolvidas no processamento das cobranças - devedor, credor e instituição de crédito - enunciados são análogos, factor que garante e reforça a fiabilidade dos pagamentos electrónicos com recurso ao débito em conta.
+A experiência recolhida através da observação do modo de funcionamento dos sistemas de cobrança por débito em conta evidencia a necessidade de aperfeiçoar e adequar o respectivo regime.
+As alterações agora introduzidas têm em vista: a) reformular alguns conceitos contribuindo para a sua clarificação, designadamente o conceito de «débito directo», atenta a possibilidade de intervenção de entidades representantes dos credores no processo de cobranças; b) ampliar o período de que dispõe o devedor para anular o débito após a sua efectivação na conta de depósitos, aproximando-o do novo quadro legal de pagamentos no espaço europeu que actualmente se discute nas instituições comunitárias; c) regular o cancelamento de autorizações de débito sobre as quais não tenham sido dadas instruções de débito; d) promover a desmaterialização das autorizações de débito, justificada pela evidente dificuldade de gestão, manutenção e arquivo de tão elevado número de autorizações em suporte papel, e e) clarificar o quadro da intervenção de entidades credoras ou suas representantes que agreguem num mesmo processamento várias cobranças.
+Assim, o Banco de Portugal, no uso da competência que lhe é conferida pelo artigo 14.º da sua Lei Orgânica, estabelece o seguinte:
+Artigo 1.º
+Alterações ao Aviso do Banco de Portugal n.º 1/2002
+1 - A alínea b) do artigo 1.º do Aviso do Banco de Portugal n.º 1/2002, publicado no Diário da República, 1.ª série-B, n.º 61, de 13 de Março de 2002, passa a ter a seguinte redacção: «Débito directo - débito, em conta bancária, com base numa autorização de débito em conta e numa instrução de cobrança transmitida pelo credor ou pelo seu representante processada através do SDD.»
+2 - A alínea e) do artigo 1.º do mencionado Aviso do Banco de Portugal n.º 1/2002 passa a ter a seguinte redacção: «Autorização de débito em conta - consentimento expresso do devedor transmitido a uma instituição de crédito pelo qual permite ao credor ou a um seu representante débitos directos, de montante fixo, variável ou até um determinado valor e ou data previamente definidos, na conta de depósitos aberta em seu nome nessa instituição de crédito.»
+Artigo 2.º
+Anulação do débito
+1 - O direito de anulação do débito, enunciado no n.º 2 do artigo 3.º do mencionado Aviso do Banco de Portugal n.º 1/2002 e na alínea c) do n.º 1 do artigo 4.º do Aviso do Banco de Portugal n.º 10/2003, publicado no Diário da República, 1.ª série-B, n.º 215, de 17 de Setembro de 2003, pode ser exercido no prazo de 30 dias após a efectivação do débito.
+2 - Caso sejam agregadas várias cobranças na mesma autorização de débito em conta, a anulação do débito não presume discordância de todos os valores parcelarmente incluídos numa única instrução de débito, cabendo ao credor ou ao seu representante apurar qual a cobrança que esteve na origem da anulação.
+3 - Não poderão ser aplicadas ao devedor quaisquer penalizações ou encargos de qualquer espécie, decorrentes do não pagamento de cobranças, nos casos em que o incumprimento resulte do exercício do direito de anulação do devedor mencionado no número anterior.
+Artigo 3.º
+Cancelamento das autorizações de débito
+1 - As instituições de crédito podem cancelar as autorizações de débito em conta dadas pelos seus clientes, devendo, nesse caso, informá-los por escrito e com a antecedência mínima de 30 dias da sua decisão e dos motivos que a justificaram.
+2 - A não efectivação de quaisquer instruções de cobrança pelos credores durante 18 meses consecutivos, designadamente, constitui motivo justificativo de cancelamento da autorização de débito em conta.
+3 - Os credores ou os seus representantes devem ser informados do cancelamento das autorizações de débito em conta através da sua instituição de crédito.
+Artigo 4.º
+Autorizações de débito e sua desmaterialização
+1 - As autorizações de débito devem ser guardadas pelas instituições de crédito ou pelo credor que directamente as processar e exibidas quando solicitadas nos termos da regulamentação em vigor.
+2 - A prova da existência e regularidade das autorizações de débito é da responsabilidade da instituição de crédito do devedor, através da exibição física da autorização ou do registo do procedimento electrónico de desmaterialização.
+3 - Consideram-se desmaterializadas todas as autorizações de débito em conta:
+a) Que tenham sido criadas, validadas ou conferidas pelos devedores directamente através de procedimentos electrónicos;
+b) Sobre as quais o devedor tenha criado ou modificado os limites, através de procedimentos electrónicos, quanto ao prazo de validade da autorização ou ao valor máximo de cobrança;
+c) Cuja existência e regularidade tenham sido anteriormente provadas, a pedido do devedor, nos termos da regulamentação em vigor.
+4 - Presumem-se desmaterializadas todas as autorizações de débito em conta relativamente às quais tenham sido processadas pelo menos três instruções de débito no intervalo temporal mínimo de três anos entre a primeira e a última, sem que se tenha verificado qualquer incidente no circuito de cobrança.
+5 - As instituições de crédito estão obrigadas a informar os seus clientes do dever de conferirem, através de procedimentos electrónicos, os elementos que compõem as autorizações de débito em conta que concederam, bem como da presunção de desmaterialização.
+6 - Não se presumem desmaterializadas as autorizações de débito em conta relativamente às quais as instituições de crédito não tenham cumprido o dever de informação mencionado no número anterior.
+7 - As autorizações de débito em conta processadas pelos credores depois da entrada em vigor deste aviso devem conter a indicação escrita de que os devedores estão informados do dever de conferirem, através de procedimentos electrónicos, os elementos que as compõem.
+8 - Relativamente às autorizações de débito em conta processadas pelos credores antes da entrada em vigor deste aviso e que não contenham a indicação escrita referida no número anterior, os credores estão obrigados a informar os devedores, preferencialmente através da facturação e no prazo de seis meses, do dever de conferirem, através de procedimentos electrónicos, os respectivos elementos.
+9 - Consideram-se irregulares todas as autorizações de débito em conta relativamente às quais os devedores não tenham sido informados pelos credores, nos termos referidos nos números anteriores, do dever de conferirem as autorizações concedidas.
+10 - Os procedimentos electrónicos são disponibilizados através do sistema multibanco ou quaisquer outros colocados à disposição dos devedores pelas respectivas instituições de crédito, designadamente ATM privativos, portais bancários e atendimento telefónico certificado.
+Artigo 5.º
+Agregação de cobranças
+1 - Sem prejuízo do disposto no n.º 2 do artigo 2.º deste aviso, a agregação de cobranças numa mesma autorização de débito em conta está sujeita às regras enunciadas nos números seguintes.
+2 - No caso de autorizações de débito em conta a que, por não terem ainda sido processadas, não foram atribuídos os respectivos números identificativos, referidos no n.º 3 do artigo 2.º do Aviso do Banco de Portugal n.º 1/2002 e no n.º 1 do artigo 3.º do Aviso do Banco de Portugal n.º 10/2003, a agregação de cobranças na mesma autorização presume-se consentida pelo devedor, excepto se este expressamente se opuser à agregação.
+3 - No caso de autorizações de débito em conta às quais anteriormente tenham sido atribuídos números identificativos diferentes para cada uma delas, a agregação de cobranças na mesma autorização presume-se não consentida pelo devedor, excepto se este expressamente consentir a agregação.
+4 - O devedor pode opor-se a todo o tempo à agregação, cancelando a autorização de débito em conta ou informando o credor desta sua pretensão.
+5 - O credor ou o seu representante deve facultar ao devedor a informação e os instrumentos necessários para que este possa expressamente manifestar a sua vontade em todas as situações.
+Artigo 6.º
+Prestador de cobranças
+1 - Designa-se por prestador de cobranças a entidade que apresenta várias instruções de débito relativas a diferentes autorizações de débito em conta, na qualidade de representante de um ou vários credores, sem prejuízo de apresentar instruções de débito nas quais figure como credor.
+2 - O exercício da actividade de prestador de cobranças não pode condicionar os direitos dos devedores, designadamente os de poderem individualmente validar, consultar, alterar os parâmetros temporais e pecuniários da autorização de débito, anular o débito e cancelar a autorização e, em especial, o de identificar as entidades credoras.
+3 - O disposto no n.º 2 não é aplicável às cobranças agregadas nos termos do artigo anterior.
+Artigo 7.º
+Entrada em vigor
+O presente aviso entra em vigor no dia 1 de Outubro de 2005, com excepção do disposto no n.º 1 do artigo 2.º, que entra em vigor no dia 1 de Julho de 2005.
+Lisboa, 8 de Junho de 2005. - O Governador, Vítor Constâncio.
