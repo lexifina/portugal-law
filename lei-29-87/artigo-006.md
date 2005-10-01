@@ -4,7 +4,7 @@
 
 1 - Os eleitos locais em regime de permanência têm direito a remuneração mensal, bem como a dois subsídios extraordinários, de montante igual àquela, em Junho e Novembro.
 
-2 - O valor base das remunerações dos presidentes das câmaras municipais é fixado por referência ao vencimento base atribuído ao Presidente da República, de acordo com os índices seguintes, arredondado para a centena de escudos imediatamente superior:
+2 - O valor base das remunerações dos presidentes das câmaras municipais é fixado por referência ao vencimento base atribuído ao Presidente da República, de acordo com os índices seguintes, arredondado para a unidade de euro imediatamente superior:
 
 a) Municípios de Lisboa e Porto - 55%;
 

@@ -1,7 +1,9 @@
 # Artigo 3.º
 
-### Incompatibilidades
+### Exclusividade e incompatibilidades
 
-1 - Sem prejuízo do disposto em legislação especial, as funções desempenhadas pelos eleitos locais em regime de permanência são incompatíveis com a actividade de agente ou funcionário da administração central, regional ou local ou com o exercício da actividade de pessoa colectiva de direito público ou trabalhador de empresa pública ou nacionalizada.
+1 - Os presidente e vereadores de câmaras municipais, mesmo em regime de permanência, podem exercer outras actividades, devendo comunicá-las, quando de exercício continuado, quanto à sua natureza e identificação, ao Tribunal Constitucional e à assembleia municipal, na primeira reunião desta a seguir ao início do mandato ou previamente à entrada em funções nas actividades não autárquicas.
 
-2 - Sem prejuízo do disposto no n.º 1, não perdem o mandato os funcionários da administração central, regional e local que, durante o exercício de permanência, forem colocados, por motivos de admissão ou promoção, nas situações de inelegibilidade previstas na alínea a) do n.º 1 do artigo 4.º do Decreto-Lei n.º 701-B/76, de 29 de Setembro.
+2 - O disposto no número anterior não revoga os regimes de incompatibilidades e impedimentos previstos noutras leis para o exercício de cargos ou actividades profissionais.
+
+3 - Não perdem o mandato os funcionários da administração central, regional e local que, durante o exercício de permanência, forem colocados, por motivos de admissão ou promoção, nas situações de inelegibilidade previstas na alínea h) do n.º 1 do artigo 6.º e nas alíneas a) e b) do n.º 1 do artigo 7.º da Lei Orgânica n.º 1/2001, de 14 de Agosto.

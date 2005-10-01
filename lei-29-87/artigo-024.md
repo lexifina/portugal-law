@@ -2,7 +2,7 @@
 
 ### Encargos
 
-1 - As remunerações, compensações, subsídios e demais encargos previstos na presente lei são suportados pelo orçamento da respectiva autarquia local, salvo o disposto no artigo 18.º
+1 - As remunerações, compensações, subsídios e demais encargos previstos na presente lei são suportados pelo orçamento da respectiva autarquia local.
 
 2 - Os encargos derivados da participação dos presidentes das juntas de freguesia nas reuniões das assembleias municipais são suportados pelo orçamento dos municípios respectivos.
 
