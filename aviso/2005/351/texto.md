@@ -1,0 +1,8 @@
+Aviso n.º 351/2005
+Por ordem superior se torna público ter a República da Moldávia depositado, no dia 14 de Março de 2002, junto do Secretário-Geral do Conselho da Europa, o seu instrumento de ratificação à Convenção Europeia sobre o Estatuto Jurídico das Crianças Nascidas fora do Casamento, aberta para assinatura em Estrasburgo em 15 de Outubro de 1975, com a seguinte declaração:
+«In accordance with article 13, paragraph 1, of the Convention, the Republic of Moldova declares that it will not be bound by the provisions of the Convention with respect to the territory actually controlled by the local authorities of the self-proclaimed Trans-Dniester Republic until the final settlement of the conflict in this region.»
+Tradução
+«Em conformidade com o disposto no n.º 1 do artigo 13.º da Convenção, a República da Moldávia declara que só ficará vinculada pelas disposições da Convenção relativamente ao território actualmente controlado pelas autoridades locais da auto-proclamada República do Trans-Dniester após a resolução do conflito nesta região.»
+Esta Convenção entrou em vigor para a República da Moldávia em 15 de Junho de 2002.
+Portugal é Parte nesta Convenção, que foi aprovada para ratificação pelo Decreto n.º 34/82, publicado no Diário da República, 1.ª série-A, n.º 61, de 15 de Março de 1982, tendo em 7 de Maio de 1982 Portugal depositado o seu instrumento de ratificação à Convenção, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 130, de 8 de Junho de 1982.
+Direcção-Geral dos Assuntos Multilaterais, 15 de Setembro de 2005. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
