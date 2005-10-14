@@ -1,0 +1,810 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "147",
+    "id": "20976",
+    "titulo": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Segurança Social para a carreira de educador de infância\"."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2005-10-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3554",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2005-10-14",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "20793",
+        "leg": "X",
+        "nr": "47",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "859",
+            "obs": null,
+            "pag": [
+              "2504-2515"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-15",
+            "pubLeg": "X",
+            "pubNr": "55",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2504?pgs=2504-2515&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "859",
+            "obs": null,
+            "pag": [
+              "2504-2515"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-15",
+            "pubLeg": "X",
+            "pubNr": "55",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2504?pgs=2504-2515&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alteração à Lei n.º 5/2001, de 2 de Maio, que considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos da carreira docente."
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "21041",
+        "leg": "X",
+        "nr": "168",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "859",
+            "obs": null,
+            "pag": [
+              "2504-2515"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-15",
+            "pubLeg": "X",
+            "pubNr": "55",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2504?pgs=2504-2515&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "859",
+            "obs": null,
+            "pag": [
+              "2504-2515"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-10-15",
+            "pubLeg": "X",
+            "pubNr": "55",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2504?pgs=2504-2515&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alteração da Lei n.º 5/2001, de 2 de Maio - considera o tempo de serviço prestado na categoria de Auxiliar de Educação pelos educadores de Infância habilitados com cursos de formação a Educadores de Infância para efeitos da carreira docente"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2005-10-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153386",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2504-2505"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2504?pgs=2504-2505&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2213",
+                "nome": "Isabel Coutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153387",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2505-2508"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2505?pgs=2505-2508&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2167",
+                "nome": "Abel Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153388",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2507-2507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2507?pgs=2507&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1238",
+                "nome": "Sérgio Vieira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153389",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2508-2509"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2508?pgs=2508-2509&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153390",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2509-2510"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2509?pgs=2509-2510&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2167",
+                "nome": "Abel Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153391",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2510-2510"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2510?pgs=2510&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1949",
+                "nome": "Maximiano Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153392",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2510-2512"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2510?pgs=2510-2512&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153393",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2512-2512"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2512?pgs=2512&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153394",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2512-2513"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2512?pgs=2512-2513&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153395",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2514-2514"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2514?pgs=2514&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153396",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2514-2514"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2514?pgs=2514&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153397",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2515-2515"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2515?pgs=2515&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153398",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2515-2515"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-10-15",
+                "pubLeg": "X",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2515?pgs=2515&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos de carreira docente\" e o Decreto-Lei n.º 180/93, de 12 de Maio, que \"Determina a transição dos auxiliares de educação dos serviços e estabelecimentos do sector da Seguraça Social para a carreira de educador de infância\"",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "172155",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "309698",
+        "obs": null,
+        "pag": [
+          "2504-2515"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-10-15",
+        "pubLeg": "X",
+        "pubNr": "55",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/055/2005-10-15/2504?pgs=2504-2515&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
