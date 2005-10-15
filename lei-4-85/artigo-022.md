@@ -2,4 +2,4 @@
 
 ### (Residência oficial)
 
-Os ministros da República para as regiões autónomas têm direito a residência oficial.
+Os Representantes da República nas Regiões Autónomas têm direito a residência oficial.
