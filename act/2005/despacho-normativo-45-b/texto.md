@@ -1,0 +1,16 @@
+Despacho Normativo n.º 45-B/2005
+Os preços dos combustíveis têm uma forte incidência nos custos de produção dos transportes, pelo que as suas frequentes subidas provocam desequilíbrios financeiros nas empresas que prestam serviços de transporte público colectivo de passageiros, sujeitos a tarifas máximas.
+Esta situação recomenda que sejam adoptados mecanismos que permitam fazer repercutir, nas tarifas praticadas nestes serviços de transporte, as subidas e descidas dos preços dos combustíveis, independentemente da revisão anual dos preços ou de alterações da estrutura tarifária, as quais devem obedecer também a outros critérios.
+Face aos sucessivos acréscimos do preço dos combustíveis ocorridos no ano em curso, mormente desde a actualização tarifária de 1 de Maio, torna-se conveniente que as empresas possam, desde já, repercutir nas tarifas a percentagem dessas subidas.
+Assim, ao abrigo do disposto na alínea b) do n.º 2 do artigo 10.º do Decreto-Lei n.º 8/93, de 11 de Janeiro, determina-se o seguinte:
+1 - É fixada em 3,98% a percentagem máxima de aumento médio para os transportes urbanos de Lisboa e do Porto, para os transportes colectivos rodoviários interurbanos de passageiros e para os transportes ferroviários e fluviais, resultante da indexação aos preços dos combustíveis.
+2 - Por despacho do director-geral de Transportes Terrestres e Fluviais, será definida a tabela de preço máximo de referência do quilómetro rodoviário interurbano.
+3 - Os preços decorrentes da execução do presente despacho poderão ser aplicados pelos operadores a partir de 1 de Novembro de 2005.
+4 - A fórmula utilizada no cálculo da percentagem máxima de aumento médio constante no n.º 1 deste despacho é a seguinte:
+(Delta)T(índice n) = Ax(Delta)PMC(índice n - 1)
+(Delta)PMC(índice n - 1) = (PMC(índice n - 1) - PMC(índice n - 2))/PMC(índice n - 2)
+em que:
+(Delta)T(índice n) - variação de tarifas no trimestre n;
+A - constante que reflete a relação entre as receitas dos operadores e o peso das despesas com combustíveis na estrutura de custos, e que se determina ser 0,30;
+PMC(índice n) - média simples dos preços médios de referência do gasóleo rodoviário, de acordo com a Direcção-Geral de Geologia e Energia, verificados no trimestre n.
+Ministérios das Finanças e da Administração Pública, da Economia e da Inovação e das Obras Públicas, Transportes e Comunicações, 11 de Outubro de 2005. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Economia e Inovação, Fernando Pereira Serrasqueiro, Secretário de Estado do Comércio, Serviços e Defesa do Consumidor. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.
