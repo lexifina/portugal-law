@@ -1,0 +1,24 @@
+Resolução do Conselho de Ministros n.º 163/2005
+Os grandes projectos de investimento público constituem um importante factor de dinamização da economia, podendo contribuir de modo acrescido para a diversificação do tecido empresarial, criando emprego qualificado e acrescentando valor, tendo em conta o balanço económico externo de cada um, apresentando, ainda, uma especial valia sob o ponto de vista da sua inserção numa estratégia de desenvolvimento regional e, em geral, de crescimento e modernização do País.
+No entanto, estes objectivos têm de ser adequadamente conjugados com os objectivos da política de estabilização e de rigor orçamental, pressupondo, por isso, uma forte articulação entre o Ministério das Finanças e da Administração Pública e os ministérios responsáveis pela implementação e pelo acompanhamento técnico dos projectos.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Estabelecer o enquadramento geral relativo ao acompanhamento do estudo e implementação dos grandes projectos que envolvam investimento público por parte de equipas de projecto interministeriais.
+2 - Estabelecer que, para efeitos da aplicação da presente resolução, se entende por grandes projectos que requerem investimento público os projectos promovidos pelo Estado, exclusivamente ou em parceria com entidades privadas, independentemente do sector de actividade em que se insiram:
+a) Cujo investimento público exceda 250 milhões de euros; e ou
+b) Que, por despacho conjunto do Ministro de Estado e das Finanças e do ministro responsável pelo respectivo sector, sejam considerados projectos estruturantes para um sector de actividade económica ou para a economia nacional no seu todo ou que constituam uma especial valia sob o ponto de vista da sua inserção numa estratégia de desenvolvimento regional e, em geral, de crescimento e modernização do País.
+3 - Determinar que, sem prejuízo do controlo e acompanhamento da execução financeira, nos termos da lei, de todos os projectos de investimento público, as equipas de projecto referidas no n.º 1 da presente resolução têm como missão:
+a) Assegurar o necessário acompanhamento dos projectos ao longo das diversas fases de concepção e implementação, com vista à sua adequada inserção nos objectivos do Governo e a maximizar o seu impacte positivo na economia;
+b) Apoiar o efectivo acompanhamento dos projectos ao nível governamental, com vista a assegurar um maior rigor na aplicação dos recursos públicos;
+c) Garantir uma eficaz articulação entre os serviços e organismos dos ministérios envolvidos, com vista a imprimir maior celeridade e eficácia à sua acção em benefício do respectivo projecto; e
+d) Antecipar eventuais dificuldades na concretização dos projectos e propor ao Governo a adopção de soluções para as mesmas.
+4 - Estabelecer que as referidas equipas de projecto são constituídas por despacho conjunto do Ministro de Estado e das Finanças e do ministro responsável pelo sector de actividade em que se insere o projecto.
+5 - Definir que as equipas de projecto são compostas por quatro elementos, sendo dois indicados pelo Ministro de Estado e das Finanças e dois pelo ministro responsável pelo acompanhamento e implementação de cada projecto, às quais podem ser associados outros elementos em função da especificidade do projecto.
+6 - Determinar que as equipas de projecto reúnem com a periodicidade necessária em função do andamento dos trabalhos relativos aos projectos e ainda sempre que solicitado pelos representantes de um dos ministros referidos no número anterior.
+7 - Determinar que as equipas de projecto apresentam trimestralmente aos membros do Governo que procederam à sua constituição um relatório sintético dos desenvolvimentos registados pelo projecto, que inclui, designadamente:
+a) O seu grau de implementação físico e financeiro;
+b) A análise de eventuais desvios detectados;
+c) Uma comparação entre o orçamento aprovado por fontes de financiamento e o custo estimado de conclusão do projecto em cada momento.
+8 - Estabelecer que, por despacho conjunto do Ministro de Estado e das Finanças e do ministro responsável pelo sector de actividade em que se insere o projecto, exarado sob proposta devidamente fundamentada, as equipas de projecto sejam autorizadas a solicitar a colaboração necessária aos serviços e organismos sob a tutela de outros ministros não representados nas esquipas de projecto.
+9 - Determinar que a participação nas equipas de projecto agora definidas não confere direito a qualquer remuneração adicional, sendo as eventuais despesas decorrentes do seu funcionamento repartidas pelos orçamentos dos serviços e organismos de origem dos seus membros.
+Presidência do Conselho de Ministros, 29 de Setembro de 2005. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
