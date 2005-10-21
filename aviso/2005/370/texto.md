@@ -1,0 +1,5 @@
+Aviso n.º 370/2005
+Por ordem superior se torna público que, em 30 de Junho de 2005, a Geórgia depositou o seu instrumento de adesão ao Tratado de Budapeste sobre o Reconhecimento Internacional do Depósito de Microrganismos para Efeitos do Procedimento em Matéria de Patentes, concluído em Budapeste no dia 26 de Setembro de 1980.
+Portugal é Parte do mesmo Tratado, aprovado para adesão pela Resolução da Assembleia da República n.º 32/97, ratificada pelo Decreto do Presidente da República n.º 29/97, publicado no Diário da República, 1.ª série-A, n.º 115, de 19 de Maio de 1997, tendo depositado o seu instrumento de adesão em 16 de Julho de 1997, conforme o Aviso n.º 255/97, e tendo o Tratado entrado em vigor em 16 de Outubro de 1997 (Diário da República, 1.ª série-A, n.º 207, de 8 de Setembro de 1997).
+O Tratado em epígrafe entrou em vigor para a Geórgia em 30 de Setembro de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 10 de Outubro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
