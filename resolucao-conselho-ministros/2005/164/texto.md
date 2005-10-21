@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 164/2005
+Sob proposta da Câmara Municipal, a Assembleia Municipal de São Pedro do Sul aprovou, em 18 de Fevereiro de 2005, a prorrogação, por mais um ano, do prazo de vigência da suspensão parcial do Plano Director Municipal e das medidas preventivas estabelecidas para a área de intervenção desta suspensão objecto da elaboração do Plano de Urbanização da Área Ribeirinha e do Plano de Pormenor da Quinta Além da Fonte, ambas ratificadas pela Resolução do Conselho de Ministros n.º 102/2003, de 8 de Agosto.
+Nos termos do n.º 1 do artigo 112.º do Decreto-Lei n.º 380/99, de 22 de Setembro, o prazo de vigência das medidas preventivas é fixado no acto que as estabelecer, não podendo ser superior a dois anos, prorrogável por mais um, quando tal se mostre necessário.
+Não tendo sido possível, contudo, concluir a elaboração do Plano de Urbanização da Área Ribeirinha e do Plano de Pormenor da Quinta Além da Fonte antes da caducidade das referidas medidas preventivas, torna-se imperiosa a prorrogação do seu prazo de vigência, nos termos legais, por forma a dar cumprimento aos objectivos que determinaram o seu estabelecimento inicial, bem como a prorrogação pelo mesmo prazo da suspensão parcial do Plano Director Municipal de São Pedro do Sul.
+Foi emitido parecer favorável pela Comissão de Coordenação e Desenvolvimento Regional do Centro.
+Nos termos do disposto no n.º 9 do artigo 112.º do Decreto-Lei n.º 380/99, de 22 de Setembro, a prorrogação das medidas preventivas está sujeita às regras aplicáveis ao seu estabelecimento inicial.
+Considerando o disposto na alínea b) do n.º 2 do artigo 100.º, no artigo 109.º e nos n.os 1 e 9 do artigo 112.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção do Decreto-Lei n.º 310/2003, de 10 de Dezembro:
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Ratificar a prorrogação, por mais um ano, do prazo de vigência das medidas preventivas e da suspensão parcial do Plano Director Municipal de São Pedro do Sul, ambas ratificadas pela Resolução do Conselho de Ministros n.º 102/2003, publicada no Diário da República, de 8 de Agosto de 2003.
+2 - Os efeitos da presente resolução retroagem à data de caducidade das medidas preventivas.
+Presidência do Conselho de Ministros, 15 de Setembro de 2005. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
