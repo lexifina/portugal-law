@@ -1,7 +1,5 @@
 # Artigo 3.º
 
-1. As direcções de viação comunicarão à conservatória competente todos os cancelamentos de matrícula que efectuarem, bem como a sua reposição.
+1. Os registos lavrados posteriormente ao cancelamento da matrícula do veículo são nulos.
 
-2. Os registos lavrados posteriormente ao cancelamento da matrícula do veículo são nulos.
-
-3. O cancelamento da matrícula feita pelas direcções de viação não prejudica os registos que estiverem em vigor sobre o veículo.
+2 - O cancelamento de matrícula não prejudica os registos que estiverem em vigor sobre o veículo.

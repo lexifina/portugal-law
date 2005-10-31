@@ -10,12 +10,20 @@ c) A hipoteca, a modificação e cessão dela, bem como a cessão do grau de pri
 
 d) A locação financeira e a transmissão dos direitos dela emergentes;
 
-e) A transmissão de direitos ou créditos registados e o penhor, o arresto e a penhora desses créditos;
+e) O aluguer por prazo superior a um ano;
 
-f) O arresto e penhora de veículos automóveis, bem como a apreensão prevista neste diploma;
+f) A afectação do veículo ao regime de aluguer sem condutor;
 
-g) A extinção ou a modificação de direitos ou encargos anteriormente registados, a alteração da composição do nome ou denominação e a mudança de residência habitual ou sede dos proprietários, usufrutuários e locatários dos veículos;
+g) A transmissão de direitos ou créditos registados e o penhor, o arresto e a penhora desses créditos;
 
-h) Quaisquer outros factos jurídicos que o Código Civil especialmente declara sujeitos a registo.
+h) A penhora, o arresto, o arrolamento, a apreensão ou quaisquer outras providências judiciais ou administrativas que afectem a livre disposição de veículos;
 
-2 - obrigatório o registo da propriedade, do usufruto, da locação financeira e da transmissão dos direitos dela emergentes, bem como da reserva a que se refere a alínea b) do número anterior, e da mudança de nome ou denominação, residência habitual ou sede dos proprietários, usufrutuários e locatários dos veículos.
+i) Os ónus de inalienabilidade ou indisponibilidade previstos na legislação fiscal;
+
+j) A extinção ou a modificação de direitos ou encargos anteriormente registados, a alteração da composição do nome ou denominação e a mudança de residência habitual ou sede dos proprietários, usufrutuários e locatários dos veículos;
+
+l) Quaisquer outros factos jurídicos sujeitos por lei a registo.
+
+2 - É obrigatório o registo dos factos previstos nas alíneas a), b), d), e), f) e i) e o registo da mudança de nome ou denominação e da residência habitual ou sede dos proprietários, usufrutuários e locatários dos veículos.
+
+3 - É dispensado o registo de propriedade, em caso de sucessão hereditária, quando o veículo se destine a ser alienado pelo herdeiro ou herdeiros.
