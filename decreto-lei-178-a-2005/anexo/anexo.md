@@ -180,17 +180,13 @@ Versão (se disponível);
 
 (V.6) Coeficiente de absorção corrigido no caso dos motores diesel (em min-1);
 
-(V.7) CO2 (em g/km) ou emissões específicas de CO2, se indicadas no ponto 49.5 do certificado CE de conformidade de veículos pesados definido no apêndice do anexo viii do Regulamento de Execução (UE) 2020/683 da Comissão, de 15 de abril de 2020, na sua redação atual, ou na posição 49.5 do certificado de homologação de veículo individual definido no apêndice 1 do anexo iii desse Regulamento;
+(V.7) CO(índice 2) (em g/km);
 
 (V.8) Consumo de combustível em ciclo combinado (em l/100 km);
 
 (V.9) Indicação da classe ambiental de homologação CE; referência da versão aplicável por força da Directiva n.º 70/220/CEE ou da Directiva n.º 88/77/CEE;
 
-(V.10) Classe de emissões de CO2 de veículos pesados determinada no momento da primeira matrícula, nos termos do artigo 7.º-GA, n.º 2, da Diretiva 1999/62/CE, do Parlamento Europeu e do Conselho, relativa à aplicação de imposições aos veículos pesados de mercadorias pela utilização de certas infraestruturas.
-
 (W) Capacidade do(s) depósito(s) de combustível (em litros).
-
-X) Comprovativo da inspeção técnica, data da próxima inspeção técnica ou caducidade do atual certificado.
 
 2.6 - As entidades emissoras podem incluir no certificado de matrícula informações complementares, designadamente acrescentando, entre parêntesis, aos códigos de identificação, conforme estabelecido nos n.os 2.4 e 2.5, códigos nacionais adicionais.
 
