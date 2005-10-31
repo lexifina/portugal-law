@@ -2,4 +2,4 @@
 
 ### (Forma que devem revestir as certidões)
 
-As certidões dos actos de registo serão passadas, sob as formas narrativa ou esquemática, em impressos do modelo oficial selados por estampilha.
+As certidões e as cópias não certificadas podem ser emitidas em suporte de papel, por telecópia ou por via electrónica, nos termos fixados em despacho do director-geral dos Registos e do Notariado.

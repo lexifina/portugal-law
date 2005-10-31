@@ -10,4 +10,8 @@
 
 ### (Apresentação prévia)
 
-Nenhum direito ou facto relativo a veículos automóveis pode ingressar no registo sem que se mostre lavrada a respectiva nota de apresentação.
+1 - Nenhum direito ou facto relativo a veículos pode figurar no registo sem que seja lavrada a respectiva nota de apresentação.
+
+2 - A apresentação gera um número de ordem a nível nacional, que determina a prioridade do registo.
+
+3 - Sem prejuízo do disposto no número anterior, cada conservatória pode adoptar um número de ordem dos actos para efeitos de organização interna do serviço.

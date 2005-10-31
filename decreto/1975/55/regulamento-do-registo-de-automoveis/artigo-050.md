@@ -2,4 +2,4 @@
 
 ### (Despacho de recusa)
 
-O despacho de recusa será exarado no requerimento do acto recusado, e devidamente datado e rubricado pelo conservador.
+O despacho de recusa é, preferencialmente, exarado pelo funcionário competente no requerimento do acto recusado.

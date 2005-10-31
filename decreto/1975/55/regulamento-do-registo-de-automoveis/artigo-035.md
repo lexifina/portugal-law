@@ -6,7 +6,7 @@
 
 a) Número de ordem, dia, mês e ano da apresentação;
 
-b) Identificação do veículo a que o registo respeita, mediante a indicação da matrícula e classe, podendo esta ser referenciada apenas pela letra inicial da respectiva designação;
+b)Identificação do veículo a que o registo respeita, mediante a indicação da matrícula;
 
 c) Nome completo, firma ou denominação da pessoa ou da sociedade a favor de quem o registo deve ser lavrado, dispensando-se, porém, este elemento na nota de apresentação de requerimentos submetidos a tratamento automático;
 

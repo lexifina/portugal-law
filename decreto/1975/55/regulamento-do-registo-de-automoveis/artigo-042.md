@@ -6,12 +6,10 @@
 
 ### (Prazo em que devem ser requeridos)
 
-1 - O registo de propriedade deve ser requerido em condições de ser efectuado no prazo de trinta dias a contar, conforme os casos, da data da guia referida no artigo 24.º ou da data da aquisição do veículo.
+1 - O registo obrigatório deve ser requerido no prazo de 60 dias a contar da data do facto.
 
-2 - Exceptua-se do disposto no número anterior a propriedade adquirida por sucessão, cujo registo deve ser requerido dentro do prazo de trinta dias a contar da data da junção da relação de bens ao processo de liquidação do respectivo imposto ou, havendo inventário judicial, da data em que este tiver atingido o seu termo.
+2 - Tratando-se de registo inicial de propriedade, o prazo referido no número anterior conta-se a partir da data de atribuição da matrícula.
 
-3 - Se para a realização do registo for indispensável algum documento autêntico, o decurso do prazo sustar-se-á desde a data da requisição desse documento até à data da sua passagem, presumindo-se, até prova em contrário, que esse período teve a duração de oito dias.
+3 - No caso de registo de propriedade adquirida por via de sucessão hereditária, o prazo a que se refere o n.º 1 conta-se a partir da data da partilha ou, no caso de esta não ocorrer, da data da junção da relação de bens.
 
-4 - A apresentação em conservatória intermediária faz sustar o prazo a que se refere este artigo desde a sua data até que hajam decorrido três dias úteis sobre a recepção dos documentos na conservatória competente; no caso de remessa nas condições previstas no artigo 40.º, o prazo sustar-se-á da data da expedição até três dias depois da data da recepção.
-
-5 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, aos registos de usufruto, de reserva de propriedade e de locação financeira.
+4 - Se para a realização do registo for indispensável algum documento autêntico, o decurso do prazo sustar-se-á desde a data da requisição desse documento até à data da sua passagem, presumindo-se, até prova em contrário, que esse período teve a duração de oito dias.

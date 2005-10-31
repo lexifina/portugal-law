@@ -8,6 +8,6 @@
 
 # Artigo 53.º
 
-### (Quem os pode pedir)
+### Legitimidade
 
-Qualquer pessoa pode obter certidões, fotocópias ou cópias dos actos de registo e dos documentos arquivados.
+Qualquer pessoa pode obter certidões ou cópias não certificadas dos actos de registo e dos documentos arquivados.

@@ -1,5 +1,5 @@
 # Artigo 52.º
 
-### (Prazo para a interposição do recurso)
+### Interposição do recurso
 
-O prazo para a interposição de recurso é de sessenta dias, contados da data do despacho recorrido, sem prejuízo da reclamação hierárquica prevista na lei orgânica dos serviços.
+Independentemente da categoria funcional de quem pratica o acto, se houver interposição de recurso hierárquico ou contencioso, o despacho recorrido é submetido à apreciação do conservador para efeitos de sustentação ou reparação da decisão.

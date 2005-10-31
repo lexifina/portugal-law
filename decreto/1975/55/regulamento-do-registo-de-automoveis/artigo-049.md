@@ -4,6 +4,10 @@
 
 # Artigo 49.º
 
-### (Casos especiais da recusa)
+### Casos especiais de recusa
 
-Será recusado o acto de registo requerido se o requerimento, documentos e verbete que o devam instruir se não mostrem redigidos ou preenchidos claramente e nas demais condições previstas neste diploma.
+Para além dos motivos de recusa previstos na legislação subsidiariamente aplicável, o acto de registo deve ser recusado:
+
+a) Se não for apresentado o certificado de matrícula, nos casos em que tal apresentação seja exigível ao requerente;
+
+b) Se o requerimento de registo ou os documentos que o instruam apresentem deficiências insupríveis e que impeçam a feitura do acto.
