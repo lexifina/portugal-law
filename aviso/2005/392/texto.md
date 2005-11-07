@@ -1,0 +1,22 @@
+Aviso n.º 392/2005
+Por ordem superior se torna público que a República da Roménia depositou junto do Secretário-Geral do Conselho da Europa, em 27 de Fevereiro de 2002, o seu instrumento de ratificação à Convenção para a Protecção das Pessoas Relativamente ao Tratamento Automatizado de Dados de Carácter Pessoal, aberta para assinatura, em Estrasburgo, em 28 de Janeiro de 1981, com as seguintes declarações:
+«In accordance with article 3, sub-paragraph 2.a, this Convention shall not apply to the processing of personal data which are included in a data base when:
+a) The automatic processing is realized in the framework of activities in the field of national defence and national security, which are performed within the limits and with the restrictions established by the law;
+b) The automatic processing of personal data concerns data obtained from documents accessible to the public, in accordance with the law;
+c) The automatic processing of personal data are realized by natural persons exclusively for their personal use, if those data are not to be disclosed.
+In accordance with article 3, sub-paragraph 2.c, the Convention shall also apply to the non-automatic processing of personal data which are part of a data base or which are to be included in such a data base.
+In accordance with article 13 of the Convention, the national competent authority is:
+The Ombudsperson, 3-5 Lancu de Hunedoara Avenue, Sector 1, Bucharest, postal code 71204, tel.: 2315001/fax: 2315000.
+This Convention shall also apply to the automatic processing of personal data realized within the framework of the legitimate activities of any foundation, association or any other non-profit organization having political, philosophical, religious or trade-union character, under condition that the concerned person be a member of this organization or has constant relations with it regarding the specific activity of the organization and that the data shall not be disclosed to a third party without prior consent of the concerned person.»
+Tradução
+«Em conformidade com o disposto na alínea a) do n.º 2 do artigo 3.º, a presente Convenção não será aplicável ao processamento de dados pessoais incluídos numa base de dados se:
+O tratamento automatizado for efectuado no âmbito de actividades nos domínios da defesa nacional e da segurança nacional, realizadas nos limites e com as restrições impostas pela lei;
+O tratamento automatizado dos dados se reportar aos dados obtidos a partir de documentos acessíveis ao público, em conformidade com a lei;
+O tratamento automatizado for efectuado por pessoas singulares, para fins exclusivamente pessoais.
+Em conformidade com o disposto na alínea c) do n.º 2 do artigo 3.º, a Convenção será aplicável igualmente ao tratamento não automatizado de dados de carácter pessoal incluídos numa base de dados, ou que nela devam ser incluídos.
+Em conformidade com o artigo 13.º, a autoridade nacional competente é:
+'Ombudsperson', 3-5 Lancu de Hunedoara Avenue, Sector 1, Bucareste, código postal 71204, tel.: 2315001/fax: 2315000.
+A presente Convenção será, igualmente, aplicável ao tratamento automatizado de dados de carácter pessoal efectuado no âmbito de actividades legítimas de qualquer fundação, associação ou outro organismo com fins não lucrativos, de carácter político, filosófico, religioso ou sindical, com a condição de que as pessoas em causa sejam membros de tal organismo ou mantenham relações constantes com ele relacionadas com a actividade específica do organismo e de que os dados não sejam comunicados a terceiros sem o acordo prévio da pessoa em causa.»
+Esta Convenção entrou em vigor para a República da Roménia em 1 de Junho de 2002.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 23/93, publicada no Diário da República, n.º 159, 1.ª série-A, de 9 de Julho de 1993, e ratificada pelo Decreto do Presidente da República n.º 21/93, publicado no Diário da República, 1.ª série-A, n.º 159, de 9 de Julho de 1993, tendo depositado o seu instrumento de ratificação em 2 de Setembro de 1993, tendo em 5 de Novembro de 1993 depositado o instrumento de ratificação à Convenção, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 259, de 5 de Novembro de 1993.
+Direcção-Geral dos Assuntos Multilaterais, 13 de Outubro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
