@@ -1,7 +1,7 @@
 # Artigo 79.º
 
-### Exercício de funções publicas por aposentados
+### Cumulação de remunerações
 
-Nos casos em que aos aposentados ou reservistas das Forças Armadas seja permitido, nos termos do artigo anterior, desempenhar funções públicas ou prestação de trabalho remunerado nas empresas públicas ou entidades equiparadas, é-lhes mantida a pensão de aposentação ou de reforma e abonada uma terça parte da remuneração que competir a essas funções, salvo se o Primeiro-Ministro, sob proposta do membro do Governo que tenha o poder hierárquico ou de tutela sobre a entidade onde prestará o seu trabalho o aposentado ou reservista, autorizar montante superior, até ao limite da mesma remuneração.
+1 - Quando aos aposentados e reservistas, ou equiparados, seja permitido, nos termos do artigo anterior, exercer funções públicas ou prestar trabalho remunerado, é-lhes mantida a respectiva pensão ou remuneração na reserva, sendo-lhes, nesse caso, abonada uma terça parte da remuneração base que competir àquelas funções ou trabalho, ou, quando lhes seja mais favorável, mantida esta remuneração, acrescida de uma terça parte da pensão ou remuneração na reserva que lhes seja devida.
 
-2 - O artigo 79.º do Estatuto da Aposentação, na redaçcão que lhe é dada pelo presente decreto-lei, não se aplica aos reservistas das Forças Armadas, no caso da sua permanência ou convocação para regressarem à efectividade de serviço.
+2 - As condições de cumulação referidas no número anterior são fixadas pela decisão prevista na alínea b) do n.º 1 do artigo anterior.
