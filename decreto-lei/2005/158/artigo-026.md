@@ -8,4 +8,4 @@
 
 3 - Quando do incumprimento do dever referido no n.º 1 resulte o pagamento indevido pelos SAD, deve o beneficiário reembolsar o serviço de todos os montantes já dispendidos, sem prejuízo do direito de regresso em relação ao responsável.
 
-4 - Quando do incumprimento do dever de comunicação previsto no n.º 1 resulte a impossibilidade de exercício do direito de regresso contra o responsável, cessa o direito ao pagamento provisório previsto no n.º 2 do artigo 13.º, devendo o beneficiário reembolsar o serviço de todos os montantes já despendidos.
+4 - Quando do incumprimento do dever de comunicação previsto no n.º 1 resulte a impossibilidade de exercício do direito de regresso contra o responsável, cessa o direito ao pagamento provisório previsto no n.º 3 do artigo 13.º, devendo o beneficiário reembolsar o serviço de todos os montantes já despendidos.
