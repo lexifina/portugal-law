@@ -1,0 +1,5 @@
+Aviso n.º 391/2005
+Por ordem superior se torna público que, por comunicação de 16 de Setembro de 2005 e agindo na sua qualidade de depositário da Convenção para a Protecção do Meio Marinho do Atlântico Nordeste (Convenção OSPAR), concluída em Paris em 22 de Setembro de 1992, o Ministério dos Negócios Estrangeiros Francês notificou ter o Reino da Bélgica depositado o seu instrumento de ratificação das emendas, constituídas pelo anexo V e apêndice n.º 3 a esta Convenção, adoptadas em Sintra em 23 de Julho de 1998.
+Nos termos do artigo 15.º da Convenção OSPAR, as emendas, constituídas pelos anexo V e apêndice n.º 3 à Convenção, entraram em vigor para o Reino da Bélgica 30 dias após o depósito do instrumento de ratificação, isto é, em 28 de Agosto de 2005.
+Portugal é Parte na Convenção OSPAR, a qual foi aprovada, para ratificação, pelo Decreto n.º 59/97, de 31 de Outubro, tendo depositado o seu instrumento de ratificação em 23 de Fevereiro de 1998, conforme o Aviso n.º 122/98, de 30 de Junho, estando em vigor para Portugal desde 25 de Março de 1998.
+Departamento de Assuntos Jurídicos, 7 de Outubro de 2005. - O Director, Luís Serradas Tavares.
