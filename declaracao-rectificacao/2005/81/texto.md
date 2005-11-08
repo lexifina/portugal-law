@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 81/2005
+Segundo comunicação do Ministério do Trabalho e da Solidariedade Social, a Portaria n.º 1010/2005, publicada no Diário da República, 1.ª série, n.º 192, de 6 de Outubro de 2005, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão que assim se rectifica:
+No 5.º parágrafo, onde se lê «As alterações da convenção actualizam outras prestações pecuniárias, como o abono para falhas (2,6%), diuturnidades (3,3%) e outras ajudas de custo (2,7%-2,8%).» deve ler-se «As alterações da convenção actualizam outras prestações pecuniárias, como o abono para falhas (2,6%), diuturnidades (3,3%) e outras ajudas de custo (2,7%-2,9%).».
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Outubro de 2005. - O Secretário-Geral, José M. Sousa Rego.
