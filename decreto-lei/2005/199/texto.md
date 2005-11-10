@@ -1,0 +1,26 @@
+Decreto-Lei n.º 199/2005
+de 10 de Novembro
+O Decreto-Lei n.º 122/2005, de 29 de Julho, alterou o regime jurídico do pagamento dos prémios de seguro, com o principal objectivo de diminuir o número de litígios relacionados com o pagamento desses prémios, aplicando em toda a sua extensão o princípio segundo o qual o contrato de seguro só deve produzir os seus efeitos com o pagamento do prémio ou fracção por parte do tomador do seguro.
+Com efeito, verificou-se que um número muito relevante de acções judiciais (12% das acções declarativas findas em primeira instância, em 2003) se refere a litígios sobre dívidas relativas a prémios de seguros. Para isso seguramente contribuía a circunstância de o seguro se renovar automaticamente pelo prazo de 30 dias, mesmo quando o tomador do seguro não pagasse o prémio ou fracção correspondente à renovação, originando assim um número muito significativo de litígios e de acções judiciais para cobrança do prémio respeitante àquele período adicional de 30 dias.
+Assim, com o propósito de minimizar o número de litígios em torno desta questão e de tornar mais transparentes e apreensíveis para seguradores e segurados as regras quanto ao pagamento e renovação dos contratos de seguro, estabeleceu-se que os contratos de seguro só se renovam com o pagamento prévio do prémio de seguro.
+Para esse efeito, previu-se um aumento do prazo de aviso para pagamento do prémio de 30 para 60 dias. Desse aviso devem constar obrigatoriamente as consequências da falta de pagamento do prémio ou fracção. Em relação aos prémios ou fracções subsequentes, mantém-se o dever da empresa de seguros de informar o tomador do seguro acerca do momento em que o prémio ou fracção é devido. Este novo regime aprovado pelo já referido Decreto-Lei n.º 122/2005, de 29 de Julho, aplica-se, nos termos do n.º 2 do respectivo artigo 5.º, aos contratos que venham a ser celebrados a partir de 1 de Dezembro de 2005 e, bem assim, aos contratos vigentes nessa data, estes últimos no que respeita aos prémios ou fracções subsequentes vincendos.
+Porém, constatou-se após a publicação do decreto-lei que, quanto aos contratos já vigentes, a generalidade das empresas de seguros não conseguiriam adaptar atempadamente os seus procedimentos internos para realizar o processo de emissão dos avisos para pagamento com 60 dias de antecedência. Acresce que as referidas adaptações procedimentais pressupõem a emissão de algumas normas regulamentares pela entidade reguladora competente - o Instituto de Seguros de Portugal.
+É propósito do Governo que os benefícios das novas medidas tenham repercussão efectiva sobre o sistema judicial e proporcionem uma efectiva redução do número de litígios relativos a dívidas de prémios de seguros. Tal justificou a opção de fazer aplicar o novo regime imediatamente aos contratos novos e aos contratos vigentes em 1 de Dezembro de 2005. Mas não pretende o Governo que se criem novos tipos de litígios em matéria de seguros por não ter sido possível às seguradoras cumprir a obrigação de emissão de avisos para pagamento com 60 dias de antecedência quanto a contratos já vigentes, quando já se constatou que existiria uma evidente e comprovada dificuldade em cumprir essas condições.
+Portanto, para que o novo regime aprovado produza efectivamente os resultados visados - de redução do número de acções judiciais nesta matéria - e evitar que tenha um efeito inverso ao pretendido, considera-se conciliável com aquele objectivo que apenas fiquem subordinados às novas regras os prémios ou fracções subsequentes que se vençam a partir de 1 de Março de 2006, concedendo assim mais tempo aos operadores para a execução das adaptações procedimentais necessárias.
+Esta modificação, que apenas se refere à produção de efeitos do novo regime e respectiva aplicação no tempo, não afecta a sua entrada em vigor, que se mantém para 1 de Dezembro de 2005.
+Foram realizadas as diligências necessárias à audição do Conselho Superior da Magistratura, do Conselho Superior do Ministério Público, da Ordem dos Advogados, da Câmara dos Solicitadores, do Conselho dos Oficiais de Justiça, do Instituto de Seguros de Portugal, do Instituto do Consumidor, da Associação Portuguesa de Seguradoras e da Associação Portuguesa para a Defesa do Consumidor.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo único
+Alteração ao Decreto-Lei n.º 122/2005, de 29 de Julho
+O artigo 5.º do Decreto-Lei n.º 122/2005, de 29 de Julho, passa a ter a seguinte redacção:
+«Artigo 5.º
+[...]
+1 - ...
+2 - O presente decreto-lei aplica-se aos contratos que venham a ser celebrados após 1 de Dezembro de 2005 e aos contratos já existentes nessa data, no que respeita aos prémios ou fracções subsequentes que se vençam a partir de 1 de Março de 2006.»
+Visto e aprovado em Conselho de Ministros de 29 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
+Promulgado em 31 de Outubro de 2005.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 2 de Novembro de 2005.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
