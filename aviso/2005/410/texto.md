@@ -1,0 +1,5 @@
+Aviso n.º 410/2005
+Por ordem superior se torna público que, em 29 de Junho de 2005, a Jamahiriya Árabe Líbia Popular Socialista depositou o seu instrumento de adesão à Convenção sobre o Direito Relativo à Utilização dos Cursos de Água Internacionais para Fins Diversos da Navegação, concluída em Nova Iorque no dia 21 de Maio de 1997.
+Portugal é Parte da mesma Convenção, aprovada pela Resolução da Assembleia da República n.º 9/2005, ratificada pelo Decreto do Presidente da República n.º 16/2005, publicado no Diário da República, 1.ª série-A, n.º 44, de 3 de Março de 2005, tendo depositado o seu instrumento de ratificação em 22 de Junho de 2005, conforme o Aviso n.º 275/2005, publicado no Diário da República, 1.ª série-A, n.º 138, de 20 de Julho de 2005.
+A Convenção entrou em vigor para a Jamahiriya Árabe Líbia Popular Socialista em 14 de Junho de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 28 de Outubro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
