@@ -1,0 +1,5 @@
+Aviso n.º 407/2005
+Por ordem superior se torna público que, em 23 de Dezembro de 2003, a Finlândia depositou o seu instrumento de aceitação ao Protocolo à Convenção de 1979 sobre a Poluição Atmosférica Transfronteiriça a Longa Distância Relativo à Redução de Acidificação, Eutrofização e Ozono Troposférico, concluído em Gotemburgo no dia 30 de Novembro de 1999.
+Portugal é Parte do mesmo Protocolo, aprovado pelo Decreto n.º 20/2004, publicado no Diário da República, 1.ª série-A, n.º 196, de 20 de Agosto de 2004, tendo depositado o seu instrumento de aprovação em 16 de Fevereiro de 2005, conforme o Aviso n.º 179/2005, publicado no Diário da República, 1.ª série-A, n.º 86, de 4 de Maio de 2005, e tendo o Protocolo entrado em vigor em 17 de Maio de 2005, conforme o Aviso n.º 195/95, publicado no Diário da República, 1.ª série-A, n.º 89, de 9 de Maio de 2005.
+O Protocolo entrou em vigor para a Finlândia em 23 de Dezembro de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 28 de Outubro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
