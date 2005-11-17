@@ -1,0 +1,133 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11398",
+  "numero": "81",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-11-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2005-12-07",
+            "dataResposta": "2006-01-24",
+            "entidades": [
+              "Secretário de Estado da Administração Pública"
+            ],
+            "nrOficio": "9447/DAC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2006-04-05",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-12-06",
+        "DataArquivo": "2006-04-06",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2006-04-06",
+        "DataReaberta": "2005-12-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-11-17",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314d765247396a6457316c626e52766331426c64476c6a595738764d6d4e68597a497a4d4451744d6a6b774d4330304d4749784c54686d4f54517459546b314d6d457a596a63355a6a466a4c6e426b5a673d3d&fich=2cac2304-2900-40b1-8f94-a952a3b79f1c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-11-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314d765247396a6457316c626e52766331426c64476c6a595738764d54526d5a6a59325a6a63744e5459354f4330305a544d314c5749784d324d744e4759774d3249314e444e6c59574d314c6e426b5a673d3d&fich=14ff66f7-5698-4e35-b13c-4f03b543eac5.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "253",
+        "Legislatura": "X",
+        "Nome": "Comissão de Trabalho e Segurança Social (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-12-06",
+            "gp": "PSD",
+            "id": "1619",
+            "motivoCessacao": null,
+            "nome": "Feliciano Barreiras Duarte"
+          }
+        ],
+        "RelatorioFinal": [
+          "22017"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2005-11-17",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938775a5467334d6a63774f43307a593245794c54513359545174596a59314d7930794e7a59334f4459794d5751304d7a41756347526d&fich=0e872708-3ca2-47a4-b653-27678621d430.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11398",
+    "PetAssunto": "Solicita a alteração do artigo 10º do Decreto-Lei n.º 100/99, de 31.3 (Estabelece o regime de férias, faltas e licenças dos funcionários e agentes da administração central, regional e local, incluindo os institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos), no sentido de se passar a prever a interrupção das férias por motivo de falecimento de familiares.",
+    "PetDataEntrada": "2005-11-17",
+    "PeticoesAssociadas": null,
+    "PetId": "11398",
+    "PetLeg": "X",
+    "PetNr": "81",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
