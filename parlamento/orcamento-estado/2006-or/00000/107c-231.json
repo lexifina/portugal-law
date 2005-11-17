@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=TzuqchoBfEqqafIKymiAu4%2bv9m8aigP3lM9OZ57fLPEslxw6cBBIhxpGuZEbsfOv5%2b%2f6i7SXA6dmfEWmlUQu3yjMwMNe%2b4mi3mPJ34kvYy9bIfx3XcFI9jbnK565DZL%2bWhGCpJF%2fG7Tybjr%2fxkACKzLw2%2fVNrphBh7jwDKf3GTX6uohyoOyK0x6PbLH9V37BP5K%2bRz3TImjfo%2bgSjJMdIowAphZsSgwgtM5D524GR%2fFwSvLGF7TrK%2bG%2b6Gm9JaNPijpEjsOjjS%2fACByeCI%2fyUhMvu6SpepFgp1tMvDTJ3XSMBpb60cFcIWT4Hw7fO%2fBW0z%2faviQf9A0fpOg2ZCR9GvOsAT%2fHNp6vDBYAKa9XJH8VSTClMtti1sWSN5qE%2fEBNqVZxdYPnL4%2fQsc1Jutjn%2bxRgIPleTxxFCG7dI42tyWw%3d&fich=OEPropostasAlteracao2006Or_json.txt&Inline=true",
+  "ficheiro_sha256": "f98996dbc05849e3d0d8f0f1d4961b0375a3a92a04b589210891a0afc41b37fa",
+  "legislatura": "X",
+  "id": "231",
+  "numero": "107C",
+  "orcamento": "2006",
+  "versao": "Or",
+  "data_registo": "2005-11-17",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "231",
+    "Numero": "107C",
+    "Data": "17/11/2005 17:31:00",
+    "Titulo": "Emenda do n.º 1",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Emenda",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774e6a49774d4455784d4445334c3142424c3255794d6d51795a6a59324c545577597a45744e444e6a5a5331694e6a63794c54417a595463774e4459304d474d775a4335775a47593d&Fich=e22d2f66-50c1-43ce-b672-03a704640c0d.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "CDS-PP, CDS-PP, CDS-PP",
+    "Proponentes": null,
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 2.º",
+        "Titulo": "Utilização das dotações orçamentais",
+        "Texto": "1 -\tFicam cativos 40 % do total das verbas afectas à Lei de Programação Militar. \r\n\r\n2 -\tFicam cativos 7,5% das despesas afectas ao capítulo 50 do Orçamento do Estado em financiamento nacional, a repartir por ministério, mediante despacho do Ministro de Estado e das Finanças. \r\n\r\n3 -\tFicam cativos 7,5 % do to",
+        "Estado": "Aprovado(a) em Comissão",
+        "Numeros": {
+          "Numero": "N.º 1",
+          "Titulo": null,
+          "Texto": "Ficam cativos 40 % do total das verbas afectas à Lei de Programação Militar.",
+          "Estado": "Aprovado(a) em Comissão"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 1, Artigo 2.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "23/11/2005 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Contra",
+            "Favor",
+            "Favor",
+            "Contra",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
