@@ -1,0 +1,102 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=TzuqchoBfEqqafIKymiAu4%2bv9m8aigP3lM9OZ57fLPEslxw6cBBIhxpGuZEbsfOv5%2b%2f6i7SXA6dmfEWmlUQu3yjMwMNe%2b4mi3mPJ34kvYy9bIfx3XcFI9jbnK565DZL%2bWhGCpJF%2fG7Tybjr%2fxkACKzLw2%2fVNrphBh7jwDKf3GTX6uohyoOyK0x6PbLH9V37BP5K%2bRz3TImjfo%2bgSjJMdIowAphZsSgwgtM5D524GR%2fFwSvLGF7TrK%2bG%2b6Gm9JaNPijpEjsOjjS%2fACByeCI%2fyUhMvu6SpepFgp1tMvDTJ3XSMBpb60cFcIWT4Hw7fO%2fBW0z%2faviQf9A0fpOg2ZCR9GvOsAT%2fHNp6vDBYAKa9XJH8VSTClMtti1sWSN5qE%2fEBNqVZxdYPnL4%2fQsc1Jutjn%2bxRgIPleTxxFCG7dI42tyWw%3d&fich=OEPropostasAlteracao2006Or_json.txt&Inline=true",
+  "ficheiro_sha256": "f98996dbc05849e3d0d8f0f1d4961b0375a3a92a04b589210891a0afc41b37fa",
+  "legislatura": "X",
+  "id": "130",
+  "numero": "273C",
+  "orcamento": "2006",
+  "versao": "Or",
+  "data_registo": "2005-11-17",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "130",
+    "Numero": "273C",
+    "Data": "17/11/2005 17:59:00",
+    "Titulo": "Reforço da Dotação para 2006 (100.000 Euros)",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Mapa PIDDAC",
+    "Tipo": "Emenda",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774e6a49774d4455784d4445334c3142424c3245334d444e694d7a457a4c574d344d4441744e445a6c4d7930345a4449344c544a6c4e6d457a4d6a686a5a6a5a6a4e4335775a47593d&Fich=a703b313-c800-46e3-8d28-2e6a328cf6c4.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP, PCP, PCP",
+    "Proponentes": null,
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 1.º",
+        "Titulo": "Aprovação",
+        "Texto": "1 -\tÉ aprovado pela presente lei o Orçamento do Estado para o ano de 2006, constante dos mapas seguintes: \r\n\r\na)\tMapas I a IX, com o orçamento da administração central, incluindo os orçamentos dos serviços e fundos autónomos; \r\n\r\nb)\tMapas X a XII, com o orçamento da segurança social; \r\n\r\nc)\tMapas XIII e XIV, ",
+        "Estado": "Aprovado(a) em Plenário",
+        "Numeros": {
+          "Numero": "N.º 1",
+          "Titulo": null,
+          "Texto": "É aprovado pela presente lei o Orçamento do Estado para o ano de 2006, constante dos mapas seguintes:",
+          "Estado": "Aprovado(a) em Plenário",
+          "Alineas": {
+            "Alinea": "Alínea d)",
+            "Titulo": null,
+            "Texto": "Mapa XV, com os Programas de Investimento e Despesas de Desenvolvimento da Administração Central (PIDDAC);",
+            "Estado": "Aprovado(a) em Plenário"
+          }
+        }
+      }
+    },
+    "ProgramasMedidas": {
+      "Nome": "P17 - Serviços e Equipamentos Sociais",
+      "Descricao": "M1 - Rede de Equipamentos de apoio a crianças e jovens em risco"
+    },
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": "11 - Trabalho e Solidariedade Social",
+    "Medidas_Programas": {
+      "Descricao": "P17 - Serviços e Equipamentos Sociais",
+      "SubDescricao": "M1 - Rede de Equipamentos de apoio a crianças e jovens em risco"
+    },
+    "NUTS": {
+      "Descricao": [
+        "PT1                  (Continente)",
+        "PT17                 (Lisboa)",
+        "PT172                (Península de Setúbal)",
+        "1512                 (Setúbal)"
+      ]
+    },
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": null,
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "22/11/2005 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
