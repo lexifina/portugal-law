@@ -1,0 +1,77 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=TzuqchoBfEqqafIKymiAu4%2bv9m8aigP3lM9OZ57fLPEslxw6cBBIhxpGuZEbsfOv5%2b%2f6i7SXA6dmfEWmlUQu3yjMwMNe%2b4mi3mPJ34kvYy9bIfx3XcFI9jbnK565DZL%2bWhGCpJF%2fG7Tybjr%2fxkACKzLw2%2fVNrphBh7jwDKf3GTX6uohyoOyK0x6PbLH9V37BP5K%2bRz3TImjfo%2bgSjJMdIowAphZsSgwgtM5D524GR%2fFwSvLGF7TrK%2bG%2b6Gm9JaNPijpEjsOjjS%2fACByeCI%2fyUhMvu6SpepFgp1tMvDTJ3XSMBpb60cFcIWT4Hw7fO%2fBW0z%2faviQf9A0fpOg2ZCR9GvOsAT%2fHNp6vDBYAKa9XJH8VSTClMtti1sWSN5qE%2fEBNqVZxdYPnL4%2fQsc1Jutjn%2bxRgIPleTxxFCG7dI42tyWw%3d&fich=OEPropostasAlteracao2006Or_json.txt&Inline=true",
+  "ficheiro_sha256": "f98996dbc05849e3d0d8f0f1d4961b0375a3a92a04b589210891a0afc41b37fa",
+  "legislatura": "X",
+  "id": "237",
+  "numero": "111C",
+  "orcamento": "2006",
+  "versao": "Or",
+  "data_registo": "2005-11-17",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "237",
+    "Numero": "111C",
+    "Data": "17/11/2005 17:31:00",
+    "Titulo": "Criação do Art.º 101-A",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 101.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774e6a49774d4455784d4445334c3142424c7a466a5a546b795a4463774c574a6b5a5755744e44597a596930355a6a67354c544534597a566c4f5449304d6d49304d4335775a47593d&Fich=1ce92d70-bdee-463b-9f89-18c5e9242b40.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "CDS-PP, CDS-PP, CDS-PP",
+    "Proponentes": null,
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 101.º",
+        "Titulo": "Alteração ao Plano Oficial de Contabilidade das Autarquias Locais",
+        "Texto": "O artigo 8.º do Plano Oficial de Contabilidade das Autarquias Locais, aprovado pelo Decreto-Lei n.º 54-A/99, de 22 de Fevereiro, alterado pela Lei n.º 162/99, de 14 de Setembro e pelos Decretos-Leis n.º 315/2000, de 2 de Dezembro, e n.º 84-A/2002, de 5 de Abril, passa a ter a seguinte redacção:\r\n\r\n\r\n\r\n«Artigo",
+        "Estado": "Aprovado(a) por Unanimidade em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": null,
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "23/11/2005 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Favor",
+            "Contra",
+            "Favor",
+            "Favor",
+            "Contra",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
