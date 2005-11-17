@@ -1,0 +1,157 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11394",
+  "numero": "75",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-11-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2006-01-24",
+            "entidades": null,
+            "id": "81057",
+            "tipo": null,
+            "titulo": "Audição em 2006-01-24 com Peticionário da Petição no 75/X/1ª - Vítor Manuel Maximiano Vieira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2006-01-24",
+            "dataResposta": "2006-02-14",
+            "entidades": [
+              "Ministério da Educação"
+            ],
+            "nrOficio": "1831/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e686279396d5a54426c4d7a41784e693168597a45304c54526a4e545174596d59774d4330784f4468684e6a566d5a5455775a546b756347526d&fich=fe0e3016-ac14-4c54-bf00-188a65fe50e9.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2006-02-01",
+            "dataResposta": "2006-03-14",
+            "entidades": [
+              "Ministro da Justiça"
+            ],
+            "nrOficio": "1881/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e686279396d5a54426c4d7a41784e693168597a45304c54526a4e545174596d59774d4330784f4468684e6a566d5a5455775a546b756347526d&fich=fe0e3016-ac14-4c54-bf00-188a65fe50e9.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2006-03-12",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-12-06",
+        "DataArquivo": "2006-03-12",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2006-03-15",
+        "DataReaberta": "2005-12-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-11-17",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e686279396d4f5759354f4755324d5330304e54517a4c5451794e6a45744f5455354e6930324f5446684d7a63324d475179595749756347526d&fich=f9f98e61-4543-4261-9596-691a3760d2ab.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2005-11-17",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e686279396d5a54426c4d7a41784e693168597a45304c54526a4e545174596d59774d4330784f4468684e6a566d5a5455775a546b756347526d&fich=fe0e3016-ac14-4c54-bf00-188a65fe50e9.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-11-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e6862793834597a45354d6a51324e5330774d47526c4c5451774f474d74595755784f5330794d6d49324f47566d4e7a646c4f4755756347526d&fich=8c192465-00de-408c-ae19-22b68ef77e8e.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "250",
+        "Legislatura": "X",
+        "Nome": "Comissão de Educação, Ciência e Cultura (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-12-06",
+            "gp": "PCP",
+            "id": "1423",
+            "motivoCessacao": null,
+            "nome": "Luísa Mesquita"
+          }
+        ],
+        "RelatorioFinal": [
+          "21997"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2005-11-17",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a4d6d4d344d5468694f4330775a6d49344c5451784d5455744f446333595330304d446b784e6a4d355a545a6b5a6a6b756347526d&fich=32c818b8-0fb8-4115-877a-4091639e6df9.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11394",
+    "PetAssunto": "Solicita que se impeça a solicitação de quantias adiantadas com vista à reserva de vagas em Creches e Infantários.",
+    "PetDataEntrada": "2005-11-17",
+    "PeticoesAssociadas": null,
+    "PetId": "11394",
+    "PetLeg": "X",
+    "PetNr": "75",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
