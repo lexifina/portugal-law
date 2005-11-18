@@ -1,0 +1,5 @@
+Aviso n.º 417/2005
+Por ordem superior se torna público que, em 16 de Janeiro de 2004, o Secretário-Geral das Nações Unidas, de acordo com a sua qualidade de depositário, comunicou a aceitação das Emendas aos anexos I e II do Acordo Europeu sobre as Grandes Linhas de Transporte Combinado Internacional e Respectivas Instalações, concluído em Genebra no dia 1 de Fevereiro de 1991.
+Portugal é Parte do mesmo Acordo, aprovado para adesão pelo Decreto n.º 32/94, publicado no Diário da República, 1.ª série-A, n.º 254, de 3 de Novembro de 1994, tendo depositado o seu instrumento de confirmação e adesão em 17 de Janeiro de 1995, conforme o Aviso n.º 128/95 (Diário da República, 1.ª série-A, n.º 128, de 2 de Junho de 1995), e tendo as Emendas aos anexos I e II do Acordo entrado em vigor em 7 de Abril de 1995, publicado no Diário da República, 1.ª série-A, n.º 80, de 26 de Abril de 2005.
+Nos termos do artigo 15.º, n.º 5, do Acordo, as Emendas entraram em vigor em 16 de Abril de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 28 de Outubro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
