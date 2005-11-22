@@ -1,0 +1,33 @@
+# Acórdão do Tribunal da Relação de Évora de 2005-11-22, processo 1783/05-1
+
+**Acórdãos TRE:** Acórdão do Tribunal da Relação de; Évora
+
+**Processo:** 1783/05-1
+
+**Relator:** PROENÇA DA COSTA
+
+**Descritores:** MOTIVAÇÃO; DESPACHO DE APERFEIÇOAMENTO; MODIFICABILIDADE DA MATÉRIA DE FACTO; TRÁFICO DE ESTUPEFACIENTE; CRIME DE PERIGO; QUALIFICAÇÃO
+
+**Data do Acordão:** 11/22/2005
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Meio Processual:** RECURSO PENAL
+
+**Decisão:** NÃO PROVIDO
+
+## Sumário
+
+1- Quando o recorrente não tiver concretizado as especificações previstas nas alíneas a), b) e c), do nº 3, do artº 412º, do Código de Processo Penal, nem nas conclusões nem na parte restante da motivação, não lhe assiste o direito de apresentar uma segunda motivação não podendo, por isso, haver lugar a despacho de aperfeiçoamento.
+
+2- Na omissão de tal concretização, o tribunal da relação fica legalmente impossibilitado de modificar a decisão recorrida sobre matéria de facto, nos termos do disposto no artº 431º, b), do Código de Processo Penal.
+
+3- Para que se esteja perante o cometimento de um crime de tráfico de estupefacientes, necessário se torna que ocorra a verificação de qualquer das circunstâncias/situações mencionadas no artº 21º, nº 1, do DL nº 15/93, de 22 de Janeiro, fora das situações de consumo o agente tenha conhecimento da natureza estupefaciente das plantas, substâncias ou preparações e da ilicitude da sua conduta/actividade.
+
+4- Por se tratar de um crime de perigo comum e abstracto, a sua consumação ocorre logo que o agente detenha a droga, sem necessidade de se apurar o fim visado com a sua actividade; pelo que só a demonstração de outro fim permite excluir que a detenção vise o tráfico.
+
+5- Para a qualificação do crime de tráfico de estupefacientes não há que atender apenas à quantidade de droga apreendida, interessando também o total da droga vendida ao longo da actividade delituosa.
+
+6- Vindo, o arguido, a dedicar-se à venda de heroína e cocaína a consumidores desde o início do ano de 2004, motivado pelo lucro, e tendo sido encontrados na sua posse 130€, provenientes daquela actividade, não pode falar-se de uma ilicitude consideravelmente diminuta; o que afasta a subsunção do caso à previsão do tráfico de menor gravidade do artº 25º, al. a), do DL nº 15/93, de 22 de Janeiro.
