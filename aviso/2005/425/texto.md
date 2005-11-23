@@ -1,0 +1,4 @@
+Aviso n.º 425/2005
+Por ordem superior se torna público que, na 93.ª Sessão do Conselho Internacional do Café, que decorreu em Londres de 18 a 20 de Maio de 2005, foi decidido, pela Resolução n.º 422, prorrogar, até 31 de Maio de 2006, a data limite para depósito dos instrumentos de ratificação, aceitação ou aprovação para os Estados que apliquem provisoriamente o Acordo Internacional do Café, assinado em Londres em 28 de Setembro de 2000.
+Portugal é Parte do mesmo Convénio, aprovado para ratificação pela Resolução da Assembleia da República n.º 19/2003, tendo sido ratificado pelo Decreto do Presidente da República n.º 17/2003, publicado no Diário da República, 1.ª série-A, n.º 59, de 11 de Março de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 2 de Novembro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
