@@ -1,0 +1,13 @@
+Portaria n.º 1187/2005
+de 24 de Novembro
+A evolução do emprego e do desemprego no distrito do Porto tem revelado persistentemente vulnerabilidades particularmente intensas, sobretudo por razões de ordem estrutural, relacionadas com o seu padrão de especialização produtiva e com a transformação do contexto competitivo, o que se tem traduzido em níveis de desemprego nesta região superiores à média nacional, mesmo em períodos de crescimento económico.
+Este facto esteve na origem em 1999 do desenvolvimento do Plano Regional de Emprego para a Área Metropolitana do Porto (PREAMP), aprovado pela Resolução do Conselho de Ministros n.º 47/99, de 26 de Maio, e do surgimento em 2003 do Programa de Promoção do Emprego no Distrito do Porto (PROPEP), aprovado pela Resolução do Conselho de Ministros n.º 128/2003, de 28 de Agosto, e regulamentado pela Portaria n.º 1408/2003, de 22 de Dezembro.
+O Plano Nacional de Emprego 2005-2008 define como uma das suas prioridades de intervenção o relançamento das abordagens territoriais das políticas de emprego, adequando os respectivos instrumentos e enquadrando devidamente, do ponto de vista organizacional e institucional, as especificidades regionais. Neste quadro desenvolver-se-á ao longo deste período um processo de revisão dos programas regionais em vigor, entre os quais o PROPEP, reestruturando-os com base na avaliação dos mesmos, com o objectivo de aumentar a sua efectividade. Este processo de revisão centrar-se-á no relançamento dos instrumentos de base regional e local e na adaptação de instrumentos de carácter nacional, bem como na criação de um modelo de governação eficaz.
+Até à efectiva conclusão deste processo de revisão, que exige uma participação activa dos actores locais e regionais, devem manter-se em vigor as actuais medidas do PROPEP.
+Nos termos do disposto, de forma conjugada, nos n.os 7 e 8 da Resolução do Conselho de Ministros n.º 128/2003, de 28 de Agosto, e no n.º 7.º da Portaria n.º 1408/2003, de 22 de Dezembro:
+Manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, o seguinte:
+Artigo 1.º
+É prorrogada, por um período de 12 meses, até 23 de Junho de 2006, a vigência da Portaria n.º 1408/2003, de 22 de Dezembro, que aprovou o regulamento que rege a execução das medidas de emprego e formação profissional instituídas pela Resolução do Conselho de Ministros n.º 128/2003, de 28 de Agosto, no âmbito do Programa de Promoção do Emprego no Distrito do Porto (PROPEP).
+Artigo 2.º
+O presente diploma produz efeitos desde 23 de Junho de 2005.
+Pelo Ministro do Trabalho e da Solidariedade Social, Fernando Medina Maciel Almeida Correia, Secretário de Estado do Emprego e da Formação Profissional, em 28 de Outubro de 2005.
