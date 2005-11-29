@@ -20,6 +20,6 @@ f) Um representante da DGRF sem direito a voto;
 
 g) Um representante do ICN, no caso da área do município abranger áreas classificadas, sem direito a voto.
 
-3 - A composição de cada conselho é fixada por despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural.
+3 - A composição de cada conselho é fixada por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
 
 4 - A duração do mandato dos membros destes conselhos é de quatro anos.

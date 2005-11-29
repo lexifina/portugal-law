@@ -14,7 +14,7 @@ b) O exercício da caça em local que não seja permitido;
 
 c) Efectuar repovoamentos, reforços cinegéticos e largadas fora das condições previstas no artigo 5.º;
 
-d) A violação dos critérios de proporcionalidade no acesso dos caçadores às ZCN e ZCM fixados nos respectivos despachos de constituição de ZCM e nos despachos de transferência de gestão de ZCN e do disposto na alínea e) do artigo 19.º;
+d) A violação dos critérios de proporcionalidade no acesso dos caçadores às ZCN e ZCM fixados nas respectivas portarias de constituição de ZCM e nas portarias de transferência de gestão de ZCN e do disposto na alínea e) do artigo 19.º;
 
 e) O não cumprimento pelas respectivas entidades gestoras de ZCN e ZCM das obrigações constantes nas alíneas f) e i) do artigo 19.º;
 
@@ -26,7 +26,7 @@ h) A infracção ao disposto na alínea a) do artigo 19.º e na alínea a) do n.
 
 i) O não cumprimento pelos titulares de zonas de caça do disposto nas alíneas b), c) e f) do n.º 1 do artigo 42.º e no n.º 3 do artigo 43.º;
 
-j) O não cumprimento pelos titulares de zonas de caça do disposto na alínea e) do n.º 1 e nos n.os 2, 3 e 5 do artigo 42.º, a não apresentação de um novo POEC quando ocorra renovação automática da concessão, no prazo de seis meses após o termo do período de concessão cessante, de acordo com o previsto na parte final do n.º 4 do artigo 42.º, e o não cumprimento dos n.os 2 e 3 do artigo 43.º e do n.º 7 do artigo 117.º;
+j) O não cumprimento pelos titulares de zonas de caça do disposto na alínea e) do n.º 1 e nos n.os 2, 3 e 5 do artigo 42.º, nos n.os 2 e 3 do artigo 43.º e no n.º 7 do artigo 117.º;
 
 l) O não cumprimento pelos titulares de zonas de caça do disposto na alínea g) do n.º 1 do artigo 42.º;
 
@@ -44,15 +44,15 @@ r) O exercício da caça no período estabelecido para a renovação excepcional
 
 s) O transporte de armas de fogo e de aves de presa, por parte dos secretários ou mochileiros, fora das condições previstas no n.º 1 do artigo 77.º;
 
-t) A infração ao disposto no n.º 3 do artigo 77.º;
+t) A infracção ao disposto nos n.os 3 e 4 do artigo 77.º;
 
-u) A infração ao disposto nas alíneas a) a d) do n.º 3 do artigo 79.º e do n.º 1 do artigo 80.º;
+u) A infracção ao disposto nas alíneas a) a c) do n.º 3 do artigo 79.º e nas alíneas a) a c) do n.º 1 do artigo 80.º;
 
 v) A infracção ao disposto no n.º 5 do artigo 79.º e no n.º 2 do artigo 80.º;
 
-x) A infração ao disposto no n.º 2 do artigo 83.º e no n.º 3 do artigo 85.º;
+x) A infracção ao disposto no n.º 2 do artigo 83.º, no n.º 4 do artigo 84.º e no n.º 3 do artigo 85.º;
 
-z) A utilização de matilhas com um número de cães diferente do previsto na alínea s) do artigo 2.º ou cujos cães e condutor não possuam o registo previsto no n.º 5 do artigo 84.º, bem como a utilização no ato venatório de um número de cães superior ao previsto nos n.os 1 e 3 do artigo 84.º;
+z) A utilização, no exercício venatório, de cães em número superior ao previsto nos n.os 1 e 3 do artigo 84.º;
 
 aa) A infracção ao disposto no n.º 2 do artigo 87.º;
 

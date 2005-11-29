@@ -4,9 +4,9 @@
 
 Constituem obrigações das entidades gestoras, designadamente:
 
-a) Efetuar e manter a sinalização das zonas de caça;
+a) Efectuar a sinalização das zonas de caça e conservá-la em bom estado;
 
-b) Cumprir as normas reguladoras do exercício da caça que lhes são diretamente aplicáveis;
+b) Cumprir e fazer cumprir as normas reguladoras do exercício da caça;
 
 c) Cumprir os PG, assim como os planos anuais de exploração;
 
@@ -22,9 +22,7 @@ ii) Número de exemplares de cada espécie a abater, devendo, no caso da caça m
 
 iii) Número previsto de jornadas de caça e limite de peças a abater por jornada de caça;
 
-iv) Condições especiais de candidatura e de acesso dos caçadores às jornadas de caça;
-
-g) Após a aprovação do PAE, promover a divulgação das condições de candidatura e de acesso dos caçadores às jornadas de caça, com a antecedência mínima de 10 dias relativamente à data limite de receção de candidaturas, nos locais de uso e costume das freguesias e dos municípios onde se situam as zonas de caça;
+g) Após a aprovação do PAE, promover a divulgação das condições de candidatura e de acesso dos caçadores às jornadas de caça, com a antecedência mínima de 10 dias relativamente à data limite de recepção de candidaturas, nos locais de uso e costume e, pelo menos, num jornal de expansão nacional;
 
 h) Manter actualizada uma contabilidade simplificada, na qual sejam registadas as receitas e despesas efectuadas, e onde se possa apurar o resultado final;
 

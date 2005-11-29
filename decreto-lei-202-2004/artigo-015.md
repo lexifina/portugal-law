@@ -12,6 +12,4 @@ c) Os caçadores não residentes nos municípios onde as mesmas se situam, não 
 
 d) Os demais caçadores.
 
-2 - Os critérios de proporcionalidade da participação dos diferentes grupos são fixados nos respectivos despachos de transferência.
-
-3 - As condições gerais de acesso e do exercício da caça nas ZCN e ZCM, nomeadamente os critérios de admissão de candidaturas e de atribuição de jornadas de caça, os procedimentos de apresentação de candidaturas, a duração mínima dos períodos de inscrição e as demais regras de funcionamento, são determinadas por portaria do membro do Governo responsável pela área das florestas.
+2 - Os critérios de proporcionalidade da participação dos diferentes grupos são fixados nas respectivas portarias de transferência.

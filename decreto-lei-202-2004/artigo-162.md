@@ -2,4 +2,4 @@
 
 ### Conselhos cinegéticos e de conservação da fauna
 
-Até à publicação dos despachos que fixam a composição dos conselhos cinegéticos e de conservação da fauna, mantêm-se em vigor as portarias de constituição existentes.
+Até à publicação das portarias que fixam a composição dos conselhos cinegéticos e de conservação da fauna, mantêm-se em vigor as portarias de constituição existentes.

@@ -2,8 +2,8 @@
 
 ### Decisão final
 
-O membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural pode, por despacho:
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas pode:
 
-a) Conceder a respectiva transferência de gestão;
+a) Conceder, por portaria, a respectiva transferência de gestão;
 
-b) Indeferir o pedido de transferência.
+b) Por despacho devidamente fundamentado, indeferir o pedido de transferência.

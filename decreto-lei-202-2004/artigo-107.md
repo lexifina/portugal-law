@@ -6,14 +6,14 @@
 
 ### Espécies cinegéticas em cativeiro
 
-1 - A reprodução, criação e detenção de espécies cinegéticas em cativeiro pode ser autorizada para fins de repovoamento, utilização em campos de treino de caça, produção de reprodutores, consumo alimentar e produção de peles, bem como para fins científicos, didáticos e recreativos.
+1 - A reprodução, criação e detenção de espécies cinegéticas em cativeiro pode ser autorizada para fins de repovoamento, utilização em campos de treino, produção de reprodutores, consumo alimentar, produção de peles ou fins científicos, didácticos, recreativos e de colecção.
 
-2 - Só é permitida a reprodução, criação e detenção em cativeiro das espécies cinegéticas e subespécies identificadas em portaria do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural, que estabelece os fins a que se destina cada espécie e subespécie, bem como as condições das explorações.
+2 - Só é permitida a reprodução, criação e detenção em cativeiro das espécies cinegéticas e subespécies identificadas em portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ouvido o Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, que estabelece os fins a que se destina cada espécie e, ainda, as condições de autorização.
 
-3 - A atividade de reprodução, criação e detenção de espécies cinegéticas em cativeiro só pode ser desenvolvida, independentemente do seu efetivo, sobre uma exploração pecuária autorizada ao abrigo do regime do exercício da atividade pecuária, mediante parecer vinculativo favorável do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), com exceção da reprodução do coelho bravo, de populações locais em zonas de caça com fim exclusivo de proceder ao respetivo repovoamento.
+3 - A reprodução, a criação e a detenção de espécies cinegéticas em cativeiro dependem de autorização expressa da DGRF e de parecer favorável do ICN nas áreas classificadas, após parecer favorável da Direcção-Geral de Veterinária sobre os aspectos sanitários, com excepção da reprodução de coelho-bravo de populações locais em zonas de caça com o fim exclusivo de proceder ao respectivo repovoamento.
 
-4 - O ICNF, I. P., pode autorizar a reprodução, criação e detenção de espécies cinegéticas em centros de recuperação de animais, parques zoológicos ou exposições, bem como para fins científicos, didáticos ou recreativos, sem que estas assumam a condição de explorações pecuárias.
+4 - A DGRF pode ainda autorizar a detenção de espécies cinegéticas em centros de recuperação de animais.
 
-5 - Compete ao ICNF, I. P., o controlo do padrão genético dos espécimes em cativeiro.
+5 - Os alvarás para reprodução, criação e detenção de espécies cinegéticas em cativeiro definem as obrigações decorrentes da autorização e são válidos por cinco anos civis, renováveis por iguais períodos.
 
-6 - A reprodução de pombo da rocha e de coelho bravo prevista no n.º 3 não carece de autorização, obedecendo a captura dos reprodutores, no caso dos coelhos, ao disposto no n.º 2 do artigo 4.º
+6 - A reprodução de pombo-da-rocha e de coelho-bravo prevista no n.º 3 não carece de alvará, obedecendo a captura dos reprodutores, no caso dos coelhos, ao disposto no n.º 2 do artigo 4.º

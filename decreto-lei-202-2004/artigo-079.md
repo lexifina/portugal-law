@@ -12,14 +12,12 @@ a) Cartuchos carregados com múltiplos projécteis de diâmetro superior a 4,5 m
 
 b) Na caça às espécies de caça menor, cartuchos carregados com um projéctil único, vulgarmente designado por bala;
 
-c) Na caça às espécies de caça maior, cartuchos carregados com múltiplos projécteis, vulgarmente designados por chumbos;
-
-d) Cartuchos carregados com múltiplos projéteis de chumbo, nas zonas húmidas identificadas na portaria a que se refere o n.º 2 do artigo 3.º
+c) Na caça às espécies de caça maior, cartuchos carregados com múltiplos projécteis, vulgarmente designados por chumbos.
 
 4 - No exercício da caça com armas de fogo, os caçadores devem recolher os cartuchos vazios após a sua utilização.
 
 5 - Fora do exercício da caça ou de actividades de carácter venatório apenas é permitido o transporte de armas de fogo legalmente classificadas como de caça quando descarregadas e acondicionadas em estojo ou bolsa.
 
-6 - Excetuam-se do disposto no número anterior as deslocações entre locais de espera distanciados de menos de 100 m e, no que respeita ao acondicionamento em estojo ou bolsa e cadeado, as deslocações dos caçadores dentro de uma zona de caça.
+6 - O disposto no número anterior não é aplicável às deslocações entre locais de espera, desde que a distância entre eles não exceda 100 m.
 
 7 - Exceptua-se do disposto na alínea b) do n.º 3 a caça às raposas e saca-rabos, durante as montarias e batidas de caça maior realizadas em terreno ordenado, em que é permitido o uso de bala.

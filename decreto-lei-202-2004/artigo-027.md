@@ -2,7 +2,7 @@
 
 ### Transferência
 
-1 - As associações e federações de caçadores, associações de agricultores, de produtores florestais e de defesa do ambiente, autarquias locais isoladamente ou em acordo de parceria que estabeleça o parceiro líder e as obrigações assumidas por cada um dos parceiros, podem requerer a transferência da gestão de terrenos cinegéticos não ordenados, mediante apresentação de candidaturas no Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.)
+1 - As associações e federações de caçadores, associações de agricultores, de produtores florestais e de defesa do ambiente, autarquias locais ou outras entidades integradas por aquelas isoladamente ou em parceria podem requerer a transferência da gestão de terrenos cinegéticos não ordenados, mediante apresentação de candidatura na DGRF.
 
 2 - A candidatura à transferência da gestão de terrenos cinegéticos não ordenados é apresentada na DGRF e é instruída com:
 

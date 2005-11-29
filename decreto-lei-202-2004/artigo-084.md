@@ -2,15 +2,11 @@
 
 ### Cães de caça
 
-1 - No exercício da caça às espécies de caça menor, cada caçador só pode utilizar até dois cães e cada grupo de caçadores até 10 cães, sem prejuízo das seguintes exceções:
+1 - No exercício da caça às espécies de caça menor, cada caçador só pode utilizar até dois cães, sem prejuízo das seguintes excepções:
 
 a) Na caça de batida, em que o número de cães não é limitado;
 
-b) Na caça ao coelho-bravo por processo diferente de batida em que:
-
-i) Nos terrenos cinegéticos não ordenados cada caçador ou grupo de caçadores pode utilizar até 10 cães;
-
-ii) Nos terrenos cinegéticos ordenados o número de cães a utilizar por cada caçador ou grupo de caçadores é definido pela respetiva entidade titular da zona de caça, tendo em conta as populações existentes e a sustentabilidade das mesmas;
+b) Na caça ao coelho-bravo, por processo diferente do de batida, cada caçador ou grupo de caçadores pode utilizar até 10 cães;
 
 c) Na caça à raposa a corricão podem ser utilizados até 50 cães.
 
@@ -20,8 +16,8 @@ c) Na caça à raposa a corricão podem ser utilizados até 50 cães.
 
 4 - Nas montarias e caça de salto, previstas no artigo 105.º, o número de cães não é limitado, devendo no caso das montarias ser utilizadas apenas matilhas de caça maior.
 
-5 - É obrigatório o registo dos cães de caça afetos a matilhas de caça maior e dos matilheiros no ICNF, I. P., nos termos e condições a estabelecer por portaria do membro do Governo responsável pela área das florestas.
+5 - A DGRF deve organizar e manter um cadastro nacional das matilhas de caça maior.
 
-6 - (Revogado.)
+6 - A organização do cadastro referido no número anterior pode ser transferida para as OSC mediante protocolo estabelecido entre o Ministério da Agricultura Desenvolvimento Rural e Pescas e cada uma destas.
 
 7 - (Revogado).

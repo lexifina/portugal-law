@@ -4,9 +4,9 @@
 
 1 - Constituem obrigações dos titulares de zonas de caça:
 
-a) Efetuar e manter a sinalização das zonas de caça;
+a) Efectuar a sinalização da zona de caça e conservá-la em bom estado;
 
-b) Cumprir as normas reguladoras do exercício da caça que lhes são diretamente aplicáveis;
+b) Cumprir e fazer cumprir as normas reguladoras do exercício da caça;
 
 c) Efectuar o pagamento da taxa anual;
 
@@ -22,6 +22,6 @@ g) Não permitir que, nos dois últimos anos de concessão, seja caçado um núm
 
 3 - Os concessionários de zonas de caça devem comunicar à DGRF as alterações da sede social, no prazo de 90 dias contado da mesma.
 
-4 - Os concessionários devem apresentar um novo plano de ordenamento e exploração cinegética (POEC) sempre que no decurso de um período de concessão ocorram alterações significativas no meio, com reflexos sobre as espécies a explorar e também quando ocorra renovação automática da concessão, devendo, neste último caso, ser apresentado nos seis meses seguintes ao do termo do período cessante.
+4 - Os concessionários devem proceder à actualização dos planos de ordenamento cinegético sempre que ocorram alterações significativas no meio com reflexos sobre as espécies a explorar.
 
 5 - Os concessionários devem prestar informações e colaborar com a DGRF e com o ICN no que respeita às áreas classificadas, em tudo o que estas fundamentadamente solicitarem.

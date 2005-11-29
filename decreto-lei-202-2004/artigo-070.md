@@ -2,7 +2,7 @@
 
 ### Equivalência de carta de caçador
 
-1 - Os portugueses e os estrangeiros residentes em território português que são titulares da carta de caçador ou de documento equivalente válido, emitido por outro Estado-Membro da União Europeia, após aprovação em exame destinado a apurar a sua aptidão e conhecimento necessários ao exercício da caça, podem requerer ao ICNF, I. P., a emissão de carta de caçador portuguesa, desde que reúnam as condições exigidas no n.º 2 do artigo 21.º da Lei n.º 173/99, de 21 de setembro, alterado pelos Decretos-Leis n.os 159/2008, de 8 de agosto, e 2/2011, de 6 de janeiro.
+1 - Os portugueses e os estrangeiros residentes em território português que sejam titulares da carta de caçador ou documento equivalente emitido por outro país da União Europeia, após aprovação em exame destinado a apurar a sua aptidão e conhecimento necessários ao exercício da caça, podem requerer ao director-geral dos Recursos Florestais a emissão de carta de caçador portuguesa com especificação correspondente, desde que o referido documento esteja válido e os interessados reúnam as demais condições exigidas no n.º 2 do artigo 21.º da Lei n.º 173/99, de 21 de Setembro.
 
 2 - A emissão de carta de caçador portuguesa, relativamente à equivalência concedida aos estrangeiros residentes em território português, é condicionada ao regime de reciprocidade.
 

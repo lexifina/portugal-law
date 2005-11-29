@@ -16,10 +16,18 @@ c) Não estarem sujeitas a proibição de caçar por disposição legal ou decis
 
 d) Terem sido aprovadas em exame destinado a apurar a aptidão e o conhecimento necessário ao exercício da caça.
 
-2 - (Revogado).
+2 - A carta de caçador admite as seguintes especificações:
 
-3 - A carta de caçador habilita o respetivo titular ao exercício do ato venatório com qualquer dos meios de caça permitidos, sem prejuízo do cumprimento dos demais requisitos legais.
+a) Sem arma de caça nem ave de presa;
 
-4- (Revogado).
+b) Com arma de fogo;
 
-5 - (Revogado).
+c) Arqueiro-caçador;
+
+d) Cetreiro.
+
+3 - O titular de carta de caçador com a especificação 'com arma de fogo' ou 'arqueiro-caçador' ou 'cetreiro' está habilitado também a exercer o acto venatório com lança e os correspondentes à especificação definida na alínea a) do número anterior.
+
+4 - A carta de caçador com a especificação «arqueiro-caçador» permite ao seu titular exercer o acto venatório com arco ou com besta.
+
+5 - Os titulares de carta de caçador em que não conste qualquer especificação estão habilitados a exercer os actos venatórios correspondentes à especificação «com arma de fogo».

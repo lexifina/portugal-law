@@ -8,4 +8,4 @@
 
 3 - A caça a esta espécie pode ser permitida nos meses de Setembro a Fevereiro, inclusive, sem prejuízo do disposto no número seguinte.
 
-4 - Nos meses de Janeiro e Fevereiro, a caça à lebre só pode ser permitida a corricão e de cetraria e apenas em zonas de caça.
+4 - Nos meses de Janeiro e Fevereiro, a caça à lebre só pode ser permitida a corricão e apenas em zonas de caça.

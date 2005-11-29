@@ -2,7 +2,7 @@
 
 ### Zonas de caça
 
-1 - A criação de zonas de caça, a anexação e desanexação de terrenos, bem como a sua renovação, revogação e mudança de concessionário, são efectuadas por despacho dos membros do Governo responsáveis pelas áreas da agricultura e do desenvolvimento rural, do ambiente e do ordenamento do território.
+1 - A criação de zonas de caça, a anexação e desanexação de terrenos, bem como a sua renovação, revogação e mudança de concessionário, são efectuadas por portaria dos Ministros da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente.
 
 2 - A DGRF deve comunicar ao ICN as informações que lhe forem prestadas nos termos do disposto nas alíneas f) e i) do artigo 19.º e do n.º 1 do artigo 43.º
 
