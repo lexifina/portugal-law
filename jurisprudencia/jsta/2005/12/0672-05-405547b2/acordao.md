@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal Administrativo de 2005-12-06, processo 0672/05
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0672/05
+
+**Data do Acordão:** 12/06/2005
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** ANTÓNIO MADUREIRA
+
+**Descritores:** ACTO DE PROCESSAMENTO DE VENCIMENTOS.; RESERVA DE REVOGAÇÃO.; REPOSIÇÃO DE VERBAS.; PRESCRIÇÃO.
+
+**Nº Convencional:** JSTA0006065
+
+**Nº do Documento:** SAP200512060672
+
+**Recorrente:** A...
+
+**Recorrido 1:** VEREADOR DA CM DE SETÚBAL
+
+**Votação:** MAIORIA COM 2 VOT VENC
+
+**Área Temática 1:** *
+
+## Sumário
+
+I - Cada acto de processamento de vencimentos constitui, em princípio, um verdadeiro acto administrativo, e não uma simples operação material, já que, como acto jurídico individual e concreto, define a situação do funcionário abonado perante a Administração e que, por isso, se vai sucessivamente firmando na ordem jurídica, se não for objecto de oportuna impugnação ou revogação.
+
+II - Os actos de processamento de vencimentos de acordo com despacho anterior de vereador responsável, após já ter entrado em vigor um novo estatuto remuneratório dos bombeiros, com tabelas indiciárias diferentes das aplicáveis nos termos daquele despacho, não são de considerar como simples operações materiais, mas sim como actos administrativos que, por falta de impugnação, se firmaram na ordem jurídica. E o erro nesse processamento não é de conceber como um mero erro de cálculo ou material, mas sim como um erro jurídico.
+
+III - A reserva de revogação, feita através de acto administrativo, só é válida em actos praticados no exercício de poderes discricionários. Nos actos praticados no exercício de poderes vinculados, essa reserva apenas é válida se estiver estabelecida em lei específica, não podendo, sem essa habilitação, ser feita através de acto administrativo, pois que tal atentaria contra o princípio da legalidade.
+
+IV - Assim, ao acto que ordena a devolução das diferenças remuneratórias resultantes da aplicação das escalas indiciárias da P.S.P., por força da determinação contida no despacho do Vereador responsável (mesmo que, eventualmente, por errada interpretação deste), em vez da nova escala indiciária definida em diploma próprio para os bombeiros, não são aplicáveis as regras da prescrição de créditos do Estado, mas as normas de revogabilidade de actos administrativos constitutivos de direitos.
+
+V - O prazo prescricional de cinco anos, estabelecido do art.º 40.º do D.L. 155/92, de 28/7, para a obrigatoriedade de reposição de quantias recebidas que devam entrar nos cofres do Estado, reporta-se exclusivamente à exigibilidade ou à possibilidade de cobrança de um crédito preexistente a favor do Estado e não à prévia definição jurídica da obrigação de repor, em nada interferindo, pois, com a regra geral da revogação dos actos administrativos constitutivos de direitos.
