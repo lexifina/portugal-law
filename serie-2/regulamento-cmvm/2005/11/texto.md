@@ -1,0 +1,34 @@
+Regulamento da CMVM n.º 11/2005. - Âmbito das normas internacionais de contabilidade. - O Regulamento n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho, teve como objectivo tornar obrigatória a elaboração e a apresentação das normas internacionais de contabilidade (também conhecidas como IAS/IFRS) para as contas consolidadas das sociedades com valores mobiliários admitidos em mercados regulamentados. Para esse efeito, habilitou a Comissão Europeia a decidir pela adopção e utilização dessas normas em respeito das condições estabelecidas no mesmo Regulamento. O artigo 5.º deste regulamento comunitário prevê a possibilidade dos Estados membros permitirem ou obrigarem o uso das normas internacionais de contabilidade nas contas individuais dessas sociedades.
+O Decreto-Lei n.º 35/2005, de 17 de Fevereiro, ao abrigo do referido artigo 5.º, estabelece que a Comissão do Mercado de Valores Imobiliários (CMVM) tem competência para definir o âmbito subjectivo de aplicação das normas internacionais de contabilidade relativamente às entidades sujeitas à sua supervisão [alínea b) do artigo 13.º].
+A CMVM considera que a comparabilidade da informação financeira é uma característica essencial para o desenvolvimento do mercado de capitais, na medida em que facilita a tomada de decisões de investimento. A CMVM considera igualmente que as normas internacionais de contabilidade são hoje em dia um referencial geralmente aceite por todos os intervenientes nos mercados de capitais no espaço europeu.
+O Regulamento n.º 1606/2002 aplica-se a mais de 7000 sociedades cotadas nos Estados membros, contribuindo claramente para a comparabilidade nos mercados de capitais da União Europeia.
+As entidades emitentes com valores mobiliários admitidos em mercado regulamentado que apenas elaboram contas individuais vêem a sua comparabilidade dificultada, o que em última análise prejudica a sua capacidade de financiamento no mercado de capitais.
+Por outro lado, a CMVM está ciente de que a transição para um normativo contabilístico diferente é um processo complexo e exigente, implicando alterações profundas na organização interna das sociedades e devendo ser preparado com alguma antecedência.
+Nessa medida, por forma a todas as entidades com valores mobiliários admitidos à negociação em mercado regulamentado poderem apresentar um relatório e contas elaborado nos termos das IAS/IFRS, a CMVM decidiu que, após 1 de Janeiro de 2007, as empresas que não consolidem contas devem, ainda assim, apresentar o seu relatório e contas em IAS/IFRS (individual).
+O presente regulamento foi sujeito a consulta pública e apreciado pelo conselho consultivo da CMVM. Foram ouvidos a Comissão de Normalização Contabilística, a Ordem dos Revisores Oficiais de Contas, o Instituto de Seguros de Portugal e o Banco de Portugal.
+Assim, ao abrigo do disposto no artigo 11.º do Código dos Valores Mobiliários e do disposto na alínea b) do n.º 1 do artigo 13.º do Decreto-Lei n.º 35/2005, de 17 de Fevereiro, o conselho directivo da CMVM aprovou o seguinte regulamento:
+Artigo 1.º
+Âmbito de aplicação
+O presente regulamento aplica-se a todas as sociedades sujeitas à supervisão da CMVM.
+Artigo 2.º
+Obrigatoriedade da elaboração e apresentação das contas individuais de acordo com as normas internacionais de contabilidade
+1 - Os emitentes de valores mobiliários admitidos à negociação em mercado regulamentado e que não sejam obrigados a elaborar e apresentar contas consolidadas devem elaborar e apresentar as suas contas individuais de acordo com as normas internacionais de contabilidade adoptadas nos termos do artigo 3.º do Regulamento n.º 1606/2002, do Parlamento e do Conselho, de 19 de Julho.
+2 - A elaboração e apresentação das contas individuais de acordo com as normas internacionais de contabilidade, nos termos do número anterior, é obrigatória para os exercícios que se iniciem em, ou após, 1 de Janeiro de 2007.
+3 - Sem prejuízo da aplicação do número anterior, o dever previsto no n.º 1 surge igualmente a partir do 1.º dia do exercício económico em que um emitente deixe de ser obrigado a elaborar e apresentar contas consolidadas, nos termos da legislação aplicável.
+4 - Excluem-se do disposto do n.º 1 as sociedades também sujeitas à supervisão do Banco de Portugal ou do Instituto de Seguros de Portugal, devendo, nestes casos, ser prestada informação financeira complementar de acordo com as normas internacionais de contabilidade, nos termos de regras a estabelecer de forma articulada entre a CMVM, o Banco de Portugal e o Instituto de Seguros de Portugal.
+Artigo 3.º
+Possibilidade da elaboração e apresentação das contas individuais de acordo com as normas internacionais de contabilidade
+1 - Sem prejuízo do disposto no n.º 2 do artigo anterior, todas as sociedades sujeitas à supervisão da CMVM que apliquem o Plano Oficial de Contabilidade podem elaborar e apresentar as suas contas individuais de acordo com as normas internacionais de contabilidade adoptadas nos termos do artigo 3.º do Regulamento n.º 1606/2002, do Parlamento e do Conselho, de 19 de Julho, ainda que a legislação e regulamentação aplicáveis a tal não obrigue.
+2 - Caso uma sociedade opte pela utilização das normas internacionais de contabilidade deve comunicar à CMVM essa decisão e os respectivos fundamentos, apresentando um mapa comparativo que ilustre de forma adequada os principais impactes da transição. A comunicação relativa à transição para as normas internacionais de contabilidade deve ser comunicada ao mercado o mais tardar até à data de apresentação da informação financeira referente ao primeiro período económico subsequente.
+3 - O disposto no n.º 1 não exclui os deveres previstos no artigo 4.º
+Artigo 4.º
+Aplicação das normas internacionais de contabilidade
+1 - A aplicação das normas internacionais de contabilidade, nos termos do presente regulamento, deve ser integral.
+2 - A aplicação das normas internacionais de contabilidade não exclui outros deveres previstos em lei especial, nomeadamente de carácter prudencial.
+Artigo 5.º
+Contas intercalares
+Os emitentes incluídos no âmbito de aplicação do presente regulamento que aplicam as normas internacionais de contabilidade quer ao abrigo do artigo 2.º quer ao abrigo do artigo 3.º devem iniciar a sua aplicação a partir do 1.º dia referente ao exercício económico aplicável, devendo toda a informação intercalar que, nos termos da legislação e regulamentação aplicáveis, deva ser enviada à CMVM ou publicada nos meios legalmente definidos conformar-se com o novo referencial de contabilidade adoptado.
+Artigo 6.º
+Entrada em vigor
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+3 de Novembro de 2005. - O Presidente do Conselho Directivo, Carlos Manuel Tavares. - O Vice-Presidente do Conselho Directivo, Amadeu Ferreira.
