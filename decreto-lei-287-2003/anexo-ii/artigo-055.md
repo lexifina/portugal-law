@@ -14,4 +14,4 @@
 
 4 - Os bens são entregues ao preferente mediante depósito do preço inexactamente indicado ou simulado e do imposto liquidado ao preferido.
 
-5 - Com vista a permitir o exercício do direito de preferência das autarquias locais previsto no presente artigo, os notários devem remeter à câmara municipal da área do imóvel, até ao dia 15 de cada mês, cópias das escrituras lavradas no mês anterior.
+5 - Com vista a permitir o exercício do direito de preferência das autarquias locais previsto no presente artigo, a Direcção-Geral dos Impostos disponibiliza, por via electrónica, à câmara municipal da área da situação do imóvel a informação relativa às escrituras lavradas no mês anterior.
