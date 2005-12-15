@@ -1,0 +1,753 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "182",
+    "id": "21092",
+    "titulo": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2005-12-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3600",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2005-12-15",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2005-12-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153787",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3241-3245"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3241?pgs=3241-3245&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "413",
+                "nome": "Luís Pita Ameixa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153788",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3245-3247"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3245?pgs=3245-3247&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153789",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3246-3246"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3246?pgs=3246&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153790",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3247-3248"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3247?pgs=3247-3248&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "413",
+                "nome": "Luís Pita Ameixa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153791",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3248-3249"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3248?pgs=3248-3249&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "551",
+                "nome": "Abílio Dias Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153792",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3249-3249"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3249?pgs=3249&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153793",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3250-3250",
+                  "3253-3255"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3250?pgs=3250,3253-3255&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2066",
+                "nome": "Paulo Castro Rangel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153794",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3250-3252",
+                  "3257-3257"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3250?pgs=3250-3252,3257&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153795",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3252-3253",
+                  "3260-3261"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3252?pgs=3252-3253,3260-3261&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153796",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3255-3257"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3255?pgs=3255-3257&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "1785",
+                "nome": "Francisco Madeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153797",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3257-3258"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3257?pgs=3257-3258&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "121",
+                "nome": "Mário Albuquerque"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153798",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3258-3268"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3258?pgs=3258-3268&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1700",
+                "nome": "Vitalino Canas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153799",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3262-3262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3262?pgs=3262&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153800",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3262-3264"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-16",
+                "pubLeg": "X",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16/3262?pgs=3262-3264&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime das inelegibilidades para a eleição dos órgãos das autarquias locais e adita um novo motivo de suspensão do mandato dos titulares desses órgãos",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "172633",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3600",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-12-16",
+        "pubLeg": "X",
+        "pubNr": "68",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/068/2005-12-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
