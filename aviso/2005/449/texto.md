@@ -1,0 +1,5 @@
+Aviso n.º 449/2005
+Por ordem superior se torna público que, em 24 de Junho de 2005, o Governo Federal de Transição da República da Somália depositou o seu instrumento de ratificação ao Segundo e Quarto Protocolos Adicionais à Constituição da União Postal Universal, concluídos em Lausanne no dia 5 de Julho de 1974 e em Washington no dia 14 de Dezembro de 1989.
+Portugal é Parte do Segundo Protocolo, aprovado pelo Decreto n.º 89/79, publicado no Diário da República, 1.ª série-A, n.º 193, de 22 de Agosto de 1979.
+Portugal é Parte do Quarto Protocolo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 36-A/95 e ratificado pelo Decreto do Presidente da República n.º 64-A/95, publicado no Diário da República, 1.ª série, n.º 188, de 16 de Agosto de 1995, tendo depositado o seu instrumento de ratificação em 6 de Dezembro de 1995, conforme o Aviso n.º 316/97, publicado no Diário da República, 1.ª série, n.º 298, de 27 de Dezembro de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 29 de Novembro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
