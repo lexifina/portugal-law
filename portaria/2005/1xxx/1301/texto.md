@@ -1,0 +1,39 @@
+Portaria n.º 1301/2005
+de 20 de Dezembro
+Pelo Decreto-Lei n.º 205/2005, de 28 de Novembro, o Governo aprovou o regime de instalação e funcionamento bem como os requisitos de segurança a que devem obedecer os estabelecimentos que prestem aos consumidores, a título oneroso ou gratuito, de forma exclusiva ou em simultâneo com outras actividades, o serviço de bronzeamento artificial mediante a utilização de aparelhos bronzeadores que emitem radiações ultravioletas (UV) em qualquer das suas modalidades.
+O artigo 19.º deste decreto-lei determina que os centros de bronzeamento estão obrigados a afixar de forma permanente, clara e visível com caracteres facilmente legíveis, em local imediatamente acessível ao consumidor, um letreiro contendo informação destinada a possibilitar ao consumidor uma utilização adequada do centro, dos aparelhos bronzeadores e do serviço de bronzeamento, remetendo para portaria conjunta dos Ministros da Economia e da Inovação e da Saúde a definição da informação a constar deste letreiro.
+Do mesmo modo, os artigos 22.º e 32.º, n.º 3, estabelecem que os profissionais que prestem serviço no centro de bronzeamento devem receber formação específica adequada ao exercício da função, remetendo para portaria conjunta dos Ministros da Economia e da Inovação e da Saúde a definição das matérias mínimas obrigatórias que integram o plano do curso de formação daqueles profissionais.
+Assim:
+Ao abrigo do disposto nos artigos 19.º, 22.º e 32.º do Decreto-Lei n.º 205/2005, de 28 de Novembro, manda o Governo, pelos Ministros da Economia e da Inovação e da Saúde, o seguinte:
+1.º
+Do letreiro a que se refere o artigo 19.º do Decreto-Lei n.º 205/2005, de 28 de Novembro, deve constar a seguinte informação:
+a) «As radiações ultravioletas podem afectar gravemente a pele e os olhos, as exposições intensas e frequentes provocam o envelhecimento da pele e aumentam o risco de aparecimento de cancro da pele. Os danos causados na pele são irreversíveis»;
+b) «É obrigatória a utilização de óculos de protecção para fazer face às radiações ultravioletas emitidas pelos aparelhos de bronzeamento, como meio de evitar lesões oculares, designadamente inflamação da córnea ou cataratas»;
+c) «É obrigatória a utilização de protectores de genitais externos masculinos como meio de evitar lesões nos órgãos genitais»;
+d) «As radiações ultravioletas podem ser especialmente perigosas nos utilizadores com pele muito branca e sensível e não devem ser utilizadas por pessoas que se queimam sem nunca bronzear ou que tenham tido cancro de pele. As radiações ultravioletas estão desaconselhadas nas pessoas com muitos sinais ou que tenham história de queimaduras solares de repetição na infância. As pessoas que tenham antecedentes familiares de cancro de pele devem também evitar a exposição às radiações dos aparelhos»;
+e) «As exposições e radiações ultravioletas estão proibidas aos menores de 18 anos de idade, grávidas e pessoas que apresentem sinais de insolação»;
+f) «Não se recomenda a exposição às radiações ultravioletas durante os períodos de tratamento com medicamentos, nomeadamente com ansiolíticos, antibióticos, antidepressivos, uma vez que aumentam a sensibilidade às radiações. Em caso de dúvida consulte o seu médico»;
+g) «Antes de qualquer exposição deve retirar sempre toda a maquilhagem ou qualquer outro cosmético»;
+h) «Não utilizar cremes de protecção solar nem cremes bronzeadores durante a exposição, com excepção do protector labial de utilização obritatória»;
+i) «Não se expor ao sol e às radiações artificiais de UV no mesmo dia»;
+j) «Respeitar, no mínimo, quarenta e oito horas entre as duas primeiras exposições às radiações»;
+k) «Seguir sempre as recomendações relativas à duração, intensidade de exposição e distância da lâmpada»;
+l) «Consultar um médico se surgirem caroços persistentes, úlceras ou pigmentações ou outras manifestações que se desenvolvam na pele».
+2.º
+As matérias mínimas obrigatórias que integram o plano do curso de formação dos profissionais que prestam serviço nos centros de bronzeamento são:
+a) Conhecimentos básicos sobre radiações UV e seus efeitos biológicos, assim como da anatomia da pele e os fototipos cutâneos;
+b) Conhecimentos sobre as principais doenças causadas pelas radiações UV sobre a pele;
+c) Conhecimento adequado sobre os aparelhos, manipulação e manutenção dos mesmos;
+d) Conhecimentos de todas as medidas de protecção obrigatórias e das recomendações a prestar aos consumidores face aos perigos das radiações;
+e) Conhecimentos da legislação vigente que regula esta actividade;
+f) Conhecimentos sobre direitos dos consumidores.
+3.º
+Ao Instituto do Emprego e Formação Profissional, I. P., compete, em articulação com a Direcção-Geral da Saúde, a definição do perfil das competências dos profissionais e do referencial de formação (conteúdos, organização, gestão, acompanhamento e avaliação da formação).
+4.º
+O curso de formação profissional é ministrado pelas entidades públicas ou privadas acreditadas pelo Ministério da Saúde e pelo Instituto para a Qualidade na Formação, I. P.
+5.º
+Os profissionais que trabalham nos centros de bronzeamento existentes à data da entrada em vigor do Decreto-Lei n.º 205/2005, de 28 de Novembro, devem submeter-se a formação específica adequada a ser ministrada pelo Instituto do Emprego e Formação Profissional, I. P., ou pelas entidades públicas e privadas acreditadas pelo Instituto para a Qualidade na Formação, I. P., devendo esta formação estar concluída até ao dia 2 de Junho de 2006.
+6.º
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Em 7 de Dezembro de 2005.
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Ministro da Saúde, António Fernando Correia de Campos.
