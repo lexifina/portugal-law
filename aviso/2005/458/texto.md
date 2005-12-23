@@ -1,0 +1,9 @@
+Aviso n.º 458/2005
+Por ordem superior se torna público ter a República de São Marino depositado, no dia 17 de Abril de 2002, junto do Secretário-Geral do Conselho da Europa, o seu instrumento de ratificação à Convenção Europeia para a Repressão do Terrorismo, aberta para assinatura, em Estrasburgo, em 27 de Janeiro de 1977, com a seguinte reserva:
+«Conformément à l'article 13, paragraphe 1, de la Convention la République de Saint-Marin se réserve le droit de refuser l'extradition en ce qui concerne toute infraction énumérée dans l'article 1 qu'elle considère comme une infraction politique, comme une infraction connexe à une infraction politique ou comme une infraction inspirée par des mobiles politiques.»
+Tradução
+Em conformidade com o n.º 1 do artigo 13.º da Convenção, a República de São Marino reserva-se a faculdade de recusar a extradição relativamente a qualquer infracção penal prevista no artigo 1.º da Convenção, que considere ser uma infracção política, uma infracção conexa de infracção política ou uma infracção penal com motivação política.
+Esta Convenção entrou em vigor para a República de São Marino em 18 de Julho de 2002.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Lei n.º 19/81, publicada no Diário da República, 1.ª série, n.º 188, de 18 de Agosto de 1981, tendo depositado o seu instrumento de ratificação à Convenção em 14 de Dezembro de 1981, conforme aviso publicado no Diário da República, 1.ª série, n.º 246, de 23 de Outubro de 1982.
+A ratificação foi feita com uma reserva, conforme aviso publicado no Diário da República, 1.ª série, n.º 188, de 18 de Agosto de 1981.
+Direcção-Geral dos Assuntos Multilaterais, 6 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
