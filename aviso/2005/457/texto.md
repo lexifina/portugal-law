@@ -1,0 +1,5 @@
+Aviso n.º 457/2005
+Por ordem superior se torna público que a Bósnia-Herzegovina depositou junto do Secretário-Geral do Conselho da Europa, em 25 de Abril de 2005, o seu instrumento de ratificação à Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal, aberta para assinatura, em Estrasburgo, em 20 de Abril de 1959.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 39/94, publicada no Diário da República, 1.ª série-A, n.º 161, de 14 de Julho de 1994, e ratificada pelo Decreto do Presidente da República n.º 56/94, publicado no Diário da República, 1.ª série-A, n.º 161, de 14 de Julho de 1994, tendo depositado o seu instrumento de ratificação à Convenção em 27 de Setembro de 1994, conforme o Aviso n.º 280/94, publicado no Diário da República, 1.ª série-A, n.º 255, de 4 de Novembro de 1994.
+Esta Convenção entrou em vigor para a Bósnia-Herzegovina em 24 de Julho de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 6 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
