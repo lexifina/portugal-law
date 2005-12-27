@@ -1,0 +1,9 @@
+Aviso n.º 463/2005
+Por ordem superior se torna público ter a República Checa depositado, em 23 de Março de 2002, junto do Secretário-Geral do Conselho da Europa, uma declaração de actualização de anexos ao Acordo Provisório sobre os Regimes de Segurança Social Relativos à Velhice, Invalidez e Sobrevivência, aberta para assinatura, em Paris, em 11 de Dezembro de 1953, com a seguinte declaração:
+«Annex II - Bilateral and multilateral agreements to which the Agreement applies
+As a Contracting Party to the European Agreement, the Czech Republic notifies, pursuant to article 8, paragraph 2, of the Agreement, for the purposes of inclusion in annex II thereof, that an agreement between the Czech Republic and the Grand Duchy of Luxembourg on social security was signed on 17 November 2000 and came into force on 1 March 2002.»
+Tradução
+Anexo II - Acordos bilaterais e multilaterais aos quais se aplica o presente Acordo
+Na sua qualidade de Parte Contratante no Acordo Provisório Europeu, a República Checa notifica, nos termos do disposto no n.º 2 do artigo 8.º do Acordo, para efeitos de inclusão no respectivo anexo II, que um acordo entre a República Checa e o Grão-Ducado do Luxemburgo sobre segurança social foi assinado a 17 de Novembro de 2000, tendo entrado em vigor a 1 de Março de 2002.
+Portugal é Parte neste Acordo, que foi aprovado, para ratificação, pelo Decreto n.º 3/78, publicado no Diário da República, 1.ª série, n.º 7, de 9 de Janeiro de 1978, tendo em 21 de Abril de 1978 Portugal depositado o seu instrumento de ratificação ao Acordo conforme aviso publicado no Diário da República, 1.ª série, n.º 130, de 7 de Junho de 1978.
+Direcção-Geral dos Assuntos Multilaterais, 7 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
