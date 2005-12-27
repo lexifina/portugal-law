@@ -1,0 +1,16 @@
+Aviso n.º 467/2005
+Por ordem superior se torna público que a Antiga República Jugoslava da Macedónia depositou junto do Secretário-Geral do Conselho da Europa, em 29 de Fevereiro de 2002, o seu instrumento de ratificação à Convenção sobre o Reconhecimento das Qualificações Relativas ao Ensino Superior na Região Europa, aberta para assinatura em Lisboa em 11 de Abril de 1997, com as seguintes declarações:
+«In accordance with article II.2 of the Convention in The Former Yugoslav Republic of Macedonia the authorities competent to make different categories of decision in recognition cases are the Ministry of Education and Science of The Former Yugoslav Republic of Macedonia and higher education institutions.
+In accordance with article IX.2 of the Convention the function of The Former Yugoslav Republic of Macedonia information center is fulfilled by the:
+Ministry of Education and Science of The Former Yugoslav Republic of Macedonia, Information Center ENIC, Dimitrie Cuposki str., no. 9, 1000 Skopje/The Former Yugoslav Republic of Macedonia.
+Contact person: Nadezda Uzelac; tel: ++ 3892106523; fax: ++ 3892117631; e-mail: nimana@yahoo.com; http://www.mofk.ov.mk.
+In accordance with article X.3, the Information Center of The Former Republic of Macedonia is designated as a member of the European Network of National Information Centers on Academic Mobility and Recognition (the ENIC Network).»
+Tradução
+Em conformidade com o artigo II.2, na Antiga República Jugoslava da Macedónia as autoridades competentes para tomar os diferentes tipos de decisão em matéria de reconhecimento são o Ministério da Educação e da Ciência da Antiga República Jugoslava da Macedónia e os estabelecimentos do ensino superior.
+Em conformidade com o artigo IX.2 da Convenção, as funções de Centro de Informações da Antiga República Jugoslava da Macedónia são desempenhadas por:
+Ministério da Educação e da Ciência da Antiga República Jugoslava da Macedónia, Centro de Informação ENIC, Dimitrie Cuposki str., 9, 1000 Skopje/Antiga República Jugoslava da Macedónia.
+Contacto: Nadezda Uzelac; telefone: 3892106523; fax: 3892117631; e-mail: nimana@yahoo.com; http://www.mofk.ov.mk.
+Em conformidade com o artigo X.3, o Centro de Informações da Antiga República Jugoslava da Macedónia é designado membro da Rede Europeia dos Centros Nacionais de Informação sobre Reconhecimento e Mobilidade Académicos (Rede ENIC).
+Esta Convenção entrou em vigor para a Antiga República Jugoslava da Macedónia em 1 de Janeiro de 2003.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 25/2000, publicada no Diário da República, 1.ª série, n.º 76, de 30 de Março de 2000, e ratificada pelo Decreto do Presidente da República n.º 12/2000, publicado no Diário da República, 1.ª série, n.º 76, de 30 de Março de 2000, tendo depositado o seu instrumento de ratificação em 15 de Outubro de 2001, conforme o Aviso n.º 122/2001, publicado no Diário da República, 1.ª série-A, n.º 279, em 3 de Dezembro de 2001.
+Direcção-Geral dos Assuntos Multilaterais, 12 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
