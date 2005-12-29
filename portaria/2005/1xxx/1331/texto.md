@@ -1,0 +1,7 @@
+Portaria n.º 1331/2005
+de 29 de Dezembro
+Pela Portaria n.º 555/92, de 24 de Junho, foi concessionada à PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., a zona de caça turística de Vale de Reis (processo n.º 944-DGRF), situada no município de Alcácer do Sal, com a área de 3225,2550 ha.
+Vem agora a Lazer e Floresta, Empresa para o Desenvolvimento Agro-Florestal, Imobiliária e Turismo, S. A., requerer a transmissão da concessão da zona de caça atrás citada.
+Assim:
+Com fundamento no disposto no artigo 45.º e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, que, pela presente portaria, a zona de caça turística de Vale de Reis (processo n.º 944-DGRF), situada na freguesia de Santa Maria do Castelo, município de Alcácer do Sal, seja transferida para a Lazer e Floresta, Empresa para o Desenvolvimento Agro-Florestal, Imobiliária e Turismo, S. A., com o número de pessoa colectiva 504529319 e sede na Rua de Joaquim António de Aguiar, 3, 1099-015 Lisboa.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 8 de Novembro de 2005. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 31 de Outubro de 2005.
