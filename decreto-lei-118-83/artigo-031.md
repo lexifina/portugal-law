@@ -1,7 +1,3 @@
-## Secção II
-
-## Dos cuidados de saúde
-
 ## Subsecção I
 
 ## Dos cuidados de saúde no estrangeiro
