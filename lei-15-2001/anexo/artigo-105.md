@@ -12,6 +12,6 @@
 
 5 - Nos casos previstos nos números anteriores, quando a entrega não efectuada for superior a (euro) 50000, a pena é a de prisão de um a cinco anos e de multa de 240 a 1200 dias para as pessoas colectivas.
 
-6 - Se o valor da prestação a que se referem os números anteriores não exceder (euro) 1000, a responsabilidade criminal extingue-se pelo pagamento da prestação, juros respectivos e valor mínimo da coima aplicável pela falta de entrega da prestação no prazo legal, até 30 dias após a notificação para o efeito pela administração tributária.
+6 - Se o valor da prestação a que se referem os números anteriores não exceder (euro) 2000, a responsabilidade criminal extingue-se pelo pagamento da prestação, juros respectivos e valor mínimo da coima aplicável pela falta de entrega da prestação no prazo legal, até 30 dias após a notificação para o efeito pela administração tributária.
 
 7 - Para efeitos do disposto nos números anteriores, os valores a considerar são os que, nos termos da legislação aplicável, devam constar de cada declaração a apresentar à administração tributária.

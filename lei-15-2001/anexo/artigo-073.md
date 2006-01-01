@@ -10,4 +10,6 @@
 
 4 - São correspondentemente aplicáveis as disposições do n.º 6 do artigo 18.º, do n.º 3 do artigo 19.º, do n.º 3 do artigo 20.º e do n.º 2 do artigo 38.º
 
-5 - O interessado pode requerer ao tribunal tributário competente a revogação da decisão que determinou a apreensão de bens com fundamento em ilegalidade.
+5 - Quando a apreensão tiver por objecto bens móveis sujeitos a registo, serão igualmente apreendidos os respectivos documentos identificativos.
+
+6 - O interessado pode requerer ao tribunal tributário competente a revogação da decisão que determinou a apreensão de bens com fundamento em ilegalidade.

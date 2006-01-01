@@ -12,4 +12,4 @@
 
 3 - Considera-se recusada a entrega, exibição ou apresentação de escrita, de contabilidade ou de documentos fiscalmente relevantes quando o agente não permita o livre acesso ou a utilização pelos funcionários competentes dos locais sujeitos a fiscalização de agentes da administração tributária, nos termos da lei.
 
-4 - Para os efeitos dos números anteriores, consideram-se documentos fiscalmente relevantes os livros, demais documentos e suportes informáticos, indispensáveis ao apuramento e fiscalização da situação tributária do contribuinte.
+4 - Para efeitos dos números anteriores, consideram-se documentos fiscalmente relevantes os livros, demais documentos e respectivas versões electrónicas, indispensáveis ao apuramento e fiscalização da situação tributária do contribuinte.

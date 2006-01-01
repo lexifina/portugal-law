@@ -14,6 +14,6 @@ b) Ocultação de factos ou valores não declarados e que devam ser revelados à
 
 c) Celebração de negócio simulado, quer quanto ao valor, quer quanto à natureza, quer por interposição, omissão ou substituição de pessoas.
 
-2 - Os factos previstos nos números anteriores não são puníveis se a vantagem patrimonial ilegítima for inferior a (euro) 7500.
+2 - Os factos previstos nos números anteriores não são puníveis se a vantagem patrimonial ilegítima for inferior a (euro) 15000.
 
 3 - Para efeitos do disposto nos números anteriores, os valores a considerar são os que, nos termos da legislação aplicável, devam constar de cada declaração a apresentar à administração tributária.
