@@ -2,27 +2,21 @@
 
 1 - O pessoal do QPMM, além dos abonos e subsídios comuns a todos os servidores do Estado, tem direito ainda aos seguintes:
 
-a) Suplemento por comissão de serviço militarizado;
+a) Suplemento de condição de militarizados da Marinha;
 
-b) Adicional por serviço de policiamento e fiscalização;
+b) Subsídio de embarque;
 
-c) Suplemento especial de serviço militarizado;
+c) Gratificação de instrução;
 
-d) Subsídio de embarque;
+d) Abono para fardamento;
 
-e) Gratificação de instrução;
+e) Abono de alimentação;
 
-f) Abono para fardamento;
+f) Subsídio mensal de deslocamento;
 
-g) Abono de alimentação;
+g) Subsídio para funeral.
 
-h) Subsídio mensal de deslocamento;
-
-i) Subsídio para funeral.
-
-2 - O suplemento por comissão de serviço militarizado, em quantitativos iguais a 70% do suplemento por comissão de serviço militar, instituído pelo n.º 1 do artigo 3.º do Decreto-Lei n.º 251-A/78, de 24 de Agosto, é concedido a todo o pessoal do QPMM, em conformidade com a equiparação referida no artigo 18.º
-
-3 - O adicional por serviço de policiamento e fiscalização, em quantitativos iguais a 30% do suplemento por comissão de serviço militar, referido no número anterior será concedido, em conformidade com a equiparação referida no artigo 18.º, ao pessoal dos seguintes grupos mencionados no n.º 1 do artigo 2.º:
+2 - O suplemento de condição de militarizado da Marinha, em quantitativos iguais a 100% do suplemento de condição militar, instituído pelo n.º 1 do artigo 2.º do Decreto-Lei n.º 190/88, de 28 de Maio, é concedido ao pessoal dos seguintes grupos, mencionados no n.º 1 do artigo 2.º, em conformidade com a equiparação referida no artigo anterior:
 
 Grupo 1 - Polícia Marítima;
 
@@ -30,20 +24,24 @@ Grupo 2 - Polícia dos Estabelecimentos de Marinha;
 
 Grupo 3 - Cabos-de-mar;
 
-Grupo 4 - Troço do mar, quando desempenhado, com carácter permanente, o serviço de policiamento e fiscalização.
+Grupo 4 - Troço do mar.
 
-4 - O suplemento especial de serviço militarizado, em quantitativos iguais ao suplemento especial de serviço, instituído pelo n.º 1 do artigo 1.º do Decreto-Lei n.º 81-A/84, de 12 de Março, é concedido a todo o pessoal do QPMM, em conformidade com a equiparação referida no artigo 18.º
+3 - O suplemento de condição de militarizado da Marinha, em quantitativos iguais a 83% do suplemento de condição militar anteriormente citado, com arredondamento para a centena de escudos imediatamente superior, é concedido ao pessoal dos seguintes grupos, mencionados no n.º 1 do artigo 2.º, em conformidade com a equiparação referida no artigo anterior:
 
-5 - As condições e quantitativos em que são recebidos o subsídio de embarque e a gratificação de instrução referidos nas alíneas d) e e) do n.º 1 são idênticos aos fixados para os militares da Armada, tendo em atenção a equiparação referida no artigo 18.º
+Grupo 5 - Práticos da costa do Algarve;
 
-6 - O abono para fardamento é concedido em condições idênticas às estabelecidas no regime aplicável aos militares da Armada.
+Grupo 6 - Faroleiros.
 
-7 - O abono de alimentação é concedido em condições idênticas às estabelecidas no regime de alimentação aplicável ao pessoal dos quadros permanentes da Armada.
+4 - As condições e quantitativos em que são recebidos o subsídio de embarque e a gratificação de instrução referidos nas alíneas b) e c) do n.º 1 são idênticos aos fixados para os militares da Armada, tendo em atenção a equiparação referida no artigo anterior.
 
-8 - O subsídio mensal de deslocamento e respectivo acréscimo é abonado nos mesmos termos e condições em que é abonado aos militares da Armada.
+5 - O abono para fardamento é concedido em condições idênticas às estabelecidas no regime aplicável aos militares da Armada.
 
-9 - O subsídio para funeral é igual ao estabelecido para os militares da Armada, pelo artigo 23.º do Decreto-Lei n.º 30250, de 30 de Dezembro de 1939.
+6 - O abono de alimentação é concedido em condições idênticas às estabelecidas no regime de alimentação aplicável ao pessoal dos quadros permanentes da Armada.
 
-10 - O suplemento por comissão de serviço militarizado e o adicional por serviço de policiamento e fiscalização são considerados para os efeitos da alínea a) do n.º 1 do artigo 47.º do Estatuto da Aposentação e, como tal, estão sujeitos aos descontos de quota para a Caixa Geral de Aposentações.
+7 - O subsídio mensal de deslocamento e respectivo acréscimo é abonado nos mesmos termos e condições em que é abonado aos militares da Armada.
 
-11 - O suplemento por comissão de serviço militarizado, o adicional por serviço de policiamento e fiscalização e o suplemento especial de serviço militarizado são considerados no abono dos subsídios de férias e de Natal.
+8 - O subsídio para funeral é igual ao estabelecido para os militares da Armada pelo artigo 23.º do Decreto-Lei n.º 30250, de 30 de Dezembro de 1939.
+
+9 - O suplemento de condição de militarizado da Marinha é considerado para os efeitos da alínea a) do n.º 1 do artigo 47.º do Estatuto da Aposentação, e como tal está sujeito ao desconto de quota para a Caixa Geral de Aposentações.
+
+10 - O suplemento de condição de serviço militarizado da Marinha é considerado no abono dos subsídios de férias e de Natal.
