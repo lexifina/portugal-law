@@ -18,4 +18,4 @@ c) A requerimento do próprio, mediante despacho favorável do CEM do ramo.
 
 5 - O militar na reserva pode ser nomeado para frequentar cursos ou estágios de actualização.
 
-6 - Os efectivos e as condições em que os militares na situação de reserva podem prestar serviço efectivo são definidos em portaria do MDN, sob proposta do CCEM.
+6 - Os efectivos e as condições em que estes prestam serviço são definidos anualmente por portaria do Ministro da Defesa Nacional, sob proposta do CCEM, tendo em conta as necessidades de exercício de funções descritas no n.º 1.
