@@ -1,7 +1,3 @@
-## Capítulo VI
-
-## Disposições finais e transitórias
-
 # Artigo 79.º
 
 ### Norma revogatória

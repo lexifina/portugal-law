@@ -1,3 +1,7 @@
+Decreto-Lei n.º 204-A/2001
+
+de 26 de Julho
+
 Com o presente diploma é reestruturado o Instituto de Reinserção Social, na sequência da entrada em vigor da Lei Orgânica do Ministério da Justiça, aprovada pelo Decreto-Lei n.º 146/2000, de 18 de Julho, e dando-se igualmente cumprimento ao disposto na Resolução do Conselho de Ministros n.º 108/2000, publicada em 19 de Agosto, que determinou tal reestruturação.
 
 Nesta nova lei orgânica dos serviços de reinserção social mantém-se basicamente o modelo estrutural existente, de orientação fortemente desconcentrada, com serviços de nível regional, sub-regional e local, sob a direcção de um sistema nacional de órgãos, apoiado por serviços centrais, com competências nos domínios da administração e gestão de recursos e de coordenação técnica das actividades operacionais.
