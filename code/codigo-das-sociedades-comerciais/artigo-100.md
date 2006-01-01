@@ -8,4 +8,4 @@
 
 3 - Pela forma determinada para os anúncios sociais, deve ser publicada notícia de ter sido efectuado o registo do projecto de fusão e de que este e a documentação anexa podem ser consultados, na sede de cada sociedade, pelos respectivos sócios e credores sociais e de quais as datas designadas para as assembleias.
 
-4 - Sem prejuízo do disposto no número anterior, a notícia por ele exigida deve constar também da convocatória da assembleia publicada no jornal oficial.
+4 - Sem prejuízo do disposto no número anterior, a notícia por ele exigida deve constar também da convocatória da assembleia publicada nos termos do n.º 1 do artigo 167.º
