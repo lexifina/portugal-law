@@ -31,3 +31,5 @@ b) Eliminação da dupla tributação económica nos termos e condições estabe
 6 - Excluem-se da aplicação do disposto nos números anteriores os investimentos efectuados em zonas francas ou nos países, territórios e regiões, sujeitos a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças.
 
 7 - No caso de os projectos de investimento se realizarem num Estado membro da União Europeia, o disposto no presente artigo aplica-se exclusivamente a pequenas e médias empresas, definidas nos termos comunitários.
+
+8 - Os contratos relativos a projectos de investimento realizados em território português devem prever normas que salvaguardem as contrapartidas dos incentivos fiscais em caso de cessação de actividade da entidade beneficiária, designadamente por transferência da sede e direcção efectiva para fora do território português.

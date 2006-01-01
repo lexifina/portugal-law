@@ -104,7 +104,7 @@ c) Nos restantes casos, de acordo com as seguintes regras:
 
 17 - (Eliminado).
 
-18 - (Eliminado).
+18 - 18 - As entidades responsáveis pela administração e exploração das Zonas Francas da Madeira e da ilha de Santa Maria devem comunicar, anualmente, até ao último dia do mês de Fevereiro, com referência ao exercício anterior, a identificação das entidades que, naquele exercício ou em parte dele, estiveram autorizadas a exercer actividades no âmbito institucional da respectiva zona franca.
 
 19 - A falta de apresentação das provas de não residente pelas entidades instaladas nas zonas francas que a tal estejam respectivamente obrigadas, nos termos dos n.os 14 e 15, tem, no período de tributação a que respeita, as consequências seguintes:
 
