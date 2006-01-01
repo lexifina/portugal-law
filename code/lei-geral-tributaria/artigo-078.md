@@ -8,7 +8,7 @@
 
 3 - A revisão dos actos tributários nos termos do n.º 1, independentemente de se tratar de erro material ou de direito, implica o respectivo reconhecimento devidamente fundamentado nos termos do n.º 1 do artigo anterior.
 
-4 - Sem prejuízo do disposto nos números anteriores, o dirigente máximo do serviço pode autorizar, excepcionalmente, nos três anos posteriores ao do acto tributário a revisão da matéria tributável apurada com fundamento em injustiça grave ou notória.
+4 - O dirigente máximo do serviço pode autorizar, excepcionalmente, nos três anos posteriores ao do acto tributário a revisão da matéria tributável apurada com fundamento em injustiça grave ou notória, desde que o erro não seja imputável a comportamento negligente do contribuinte.
 
 5 - Para efeitos do número anterior, apenas se considera notória a injustiça ostensiva e inequívoca e grave a resultante de tributação manifestamente exagerada e desproporcionada com a realidade ou de que tenha resultado elevado prejuízo para a Fazenda Nacional.
 
