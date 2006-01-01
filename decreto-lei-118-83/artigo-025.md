@@ -1,7 +1,3 @@
-## Secção II
-
-## Dos cuidados de saúde
-
 # Artigo 25.º
 
 ### (Termas)

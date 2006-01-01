@@ -4,14 +4,14 @@
 
 # Artigo 5.º
 
-### (Autarquias)
+### Autarquias
 
-a) Os funcionários e agentes das autarquias locais gozam dos benefícios concedidos pela ADSE nos mesmos termos que o pessoal da administração central do Estado.
+1 - Os funcionários e agentes das autarquias locais gozam dos benefícios concedidos pela ADSE nos mesmos termos que o pessoal da administração central do Estado.
 
-b) Os encargos resultantes do previsto na alínea anterior serão satisfeitos por conta dos orçamentos próprios.
+2 - Os encargos resultantes do previsto no número anterior são satisfeitos por conta dos orçamentos próprios.
 
-c) As verbas despendidas pela ADSE em produtos farmacêuticos adquiridos pelos trabalhadores das autarquias e seus familiares serão compensadas pelo desconto legal efectuado nos vencimentos daqueles, o qual constituirá receita do Orçamento Geral do Estado.
+3 - As verbas despendidas pela ADSE em produtos farmacêuticos adquiridos pelos trabalhadores das autarquias e seus familiares são compensadas pelo desconto legal efectuado nos vencimentos daqueles, o qual constitui receita do Orçamento Geral do Estado.
 
-d) Deverão ainda as autarquias reembolsar a ADSE das despesas por esta suportadas em consequência de acordos celebrados ou a celebrar com entidades de cuidados de saúde.
+4 - Devem ainda as autarquias reembolsar a ADSE das despesas por esta suportadas em consequência de acordos celebrados ou a celebrar com entidades de cuidados de saúde.
 
-e) As autarquias devem concorrer a favor da ADSE, a título de comparticipação, nas despesas da Administração com o quantitativo anual por beneficiário inscrito, titular ou familiar, fixado por despacho do Ministro de Estado e das Finanças e do Plano.
+5 - As autarquias devem concorrer a favor da ADSE, a título de comparticipação, nas despesas da Administração com o quantitativo anual por beneficiário inscrito, titular ou familiar, fixado por despacho do membro do Governo responsável pelas áreas das finanças e da Administração Pública.

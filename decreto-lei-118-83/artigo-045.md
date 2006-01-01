@@ -8,7 +8,7 @@
 
 1 - Os beneficiários que, para a obtenção das regalias oferecidas pela ADSE, usem de procedimento irregular, por acção ou omissão, ficarão sujeitos à responsabilidade disciplinar ou criminal perante a ADSE e os serviços de que dependam, sem prejuízo de reposição das importâncias indevidamente recebidas.
 
-2 - O previsto no número anterior implica a obrigatoriedade de os serviços de que depende o beneficiário instaurarem o competente processo disciplinar, nos termos do Decreto-Lei n.º 191-D/79, de 25 de Junho, de cujos resultados deverão dar conhecimento à ADSE.
+2 - O previsto no número anterior implica a obrigatoriedade de os serviços de que depende o beneficiário instaurarem o competente processo disciplinar, nos termos do Decreto-Lei n.º 24/84, de 16 de Janeiro, de cujos resultados devem dar conhecimento à ADSE.
 
 3 - As penas a aplicar pela ADSE são as previstas no artigo 25.º do Decreto-Lei n.º 476/80, de 15 de Outubro.
 
