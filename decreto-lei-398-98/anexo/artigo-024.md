@@ -10,4 +10,4 @@ b) Pelas dívidas tributárias cujo prazo legal de pagamento ou entrega tenha te
 
 2 - A responsabilidade prevista neste artigo aplica-se aos membros dos órgãos de fiscalização e revisores oficiais de contas nas pessoas colectivas em que os houver, desde que se demonstre que a violação dos deveres tributários destas resultou do incumprimento das suas funções de fiscalização.
 
-3 - A responsabilidade prevista neste artigo aplica-se também aos técnicos oficiais de contas em caso de violação dolosa dos deveres de assunção de responsabilidade pela regularização técnica nas áreas contabilística e fiscal ou de assinatura de declarações fiscais, demonstrações financeiras e seus anexos.
+3 - A responsabilidade prevista neste artigo aplica-se aos técnicos oficiais de contas desde que se demonstre a violação dos deveres de assunção de responsabilidade pela regularização técnica nas áreas contabilística e fiscal ou de assinatura de declarações fiscais, demonstrações financeiras e seus anexos.
