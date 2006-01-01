@@ -34,7 +34,7 @@ m) Nos empréstimos efectuados pelos sócios às sociedades em que seja estipula
 
 n) Em caso de actos, contratos, documentos, títulos, livros, papéis e outros factos previstos na Tabela anexa ao presente Código em que não intervenham a qualquer título pessoas colectivas ou pessoas singulares no exercício de actividade de comércio, indústria ou prestação de serviços, quando forem apresentados perante qualquer entidade pública;
 
-o) Nos actos referidos na verba n.º 26 da Tabela anexa ao presente Código, no momento da celebração da escritura;
+o) Nos actos referidos na verba n.º 26 da tabela anexa ao presente Código, no momento da celebração da escritura, salvo quando o acto revista a forma de documento particular ou de diploma, caso em que a obrigação tributária se considera constituída, respectivamente, no momento da assinatura do documento ou da entrada em vigor do diploma;
 
 p) Nas sucessões por morte, na data da abertura da sucessão;
 
