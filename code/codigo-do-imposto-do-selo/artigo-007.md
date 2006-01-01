@@ -26,7 +26,7 @@ j) Os mútuos constituídos no âmbito do regime legal do crédito à habitaçã
 
 l) Os juros cobrados por empréstimos para aquisição, construção, reconstrução ou melhoramento de habitação própria;
 
-m) (Eliminada);
+m) O reporte de valores mobiliários ou direitos equiparados realizado em bolsa de valores;
 
 n) O crédito concedido por meio de conta poupança-ordenado, na parte em que não exceda, em cada mês, o montante do salário mensalmente creditado na conta;
 
@@ -34,9 +34,11 @@ o) Os actos, contratos e operações em que as instituições comunitárias ou o
 
 p) O jogo do bingo e os jogos organizados por instituições de solidariedade social, pessoas colectivas legalmente equiparadas ou pessoas colectivas de utilidade pública que desempenhem única e exclusiva ou predominantemente fins de caridade, assistência ou beneficência, quando a receita se destine aos seus fins estatutários ou, nos termos da lei, reverta obrigatoriamente a favor de outras entidades;
 
-q) As garantias prestadas ao Estado no âmbito da gestão da respectiva dívida pública directa com a exclusiva finalidade de cobrir a sua exposição a risco de crédito;
+q) A constituição e o aumento do capital resultante da entrega por uma ou mais sociedades de capitais da totalidade do respectivo património ou de um ou vários ramos da sua actividade a uma ou mais sociedades de capitais em vias de constituição ou já existentes;
 
 r) A constituição e o aumento do capital social das sociedades gestoras de participações sociais (SGPS) e das sociedades de capital de risco (SCR).
+
+s) Os registos e averbamentos relativos a veículo que utilize exclusivamente energia eléctrica ou solar, ou outra forma não poluente de energia, efectuados em conservatórias de registo e respectivos postos de atendimento ou em serviços desconcentrados da Direcção-Geral de Viação.
 
 2 - O disposto nas alíneas g) e h) do n.º 1 não se aplica quando qualquer dos intervenientes não tenha sede ou direcção efectiva no território nacional, com excepção das situações em que o credor tenha sede ou direcção efectiva noutro Estado membro da União Europeia ou num Estado em relação ao qual vigore uma convenção para evitar a dupla tributação sobre o rendimento e o capital acordada com Portugal, caso em que subsiste o direito à isenção, salvo se o credor tiver previamente realizado os financiamentos previstos nas alíneas g) e h) do n.º 1 através de operações realizadas com instituições de crédito ou sociedades financeiras sediadas no estrangeiro ou com filiais ou sucursais no estrangeiro de instituições de crédito ou sociedades financeiras sediadas no território nacional.
 

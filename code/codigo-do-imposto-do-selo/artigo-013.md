@@ -15,3 +15,5 @@
 4 - Na determinação dos valores patrimoniais tributários de bens imóveis ou de figuras parcelares do direito de propriedade, observam-se as regras previstas no CIMT para as transmissões onerosas.
 
 5 - No prazo para a apresentação da participação a que se refere o artigo 26.º, podem os interessados requerer a avaliação de imóveis nos termos e para os efeitos previstos no artigo 30.º do CIMT.
+
+6 - Quando a propriedade for transmitida separadamente do usufruto, o imposto devido pelo adquirente, em consequência da consolidação da propriedade com o usufruto, incide sobre a diferença entre o valor patrimonial tributário do prédio constante da matriz e o valor da sua propriedade considerado na respectiva liquidação.
