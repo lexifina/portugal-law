@@ -1,0 +1,12 @@
+Aviso n.º 52/2006
+Por ordem superior se torna público que a República da Moldávia depositou junto do Secretário-Geral do Conselho da Europa, em 26 de Março de 2003, o seu instrumento de ratificação da Convenção Europeia sobre Televisão Transfronteiras, aberta para assinatura em Estrasburgo em 5 de Maio de 1989, com a seguinte reserva e declarações:
+«According to article 32 of the Convention, the Republic of Moldova reserves the right to restrict the retransmission on its territory of programme services containing advertisements for alcoholic beverages.
+According to article 19, paragraph 2, of the Convention, the Coordinating Council of Audiovisuals from the Republic of Moldova is designated as competent authority for its implementation.
+The Republic of Moldova declares that it will apply the provisions of the Convention only on the territory controlled by the Government of the Republic of Moldova until the full establishment of the territorial integrity of the Republic of Moldova.»
+Tradução
+Em conformidade com o disposto no artigo 32.º da Convenção, a República da Moldávia reserva-se o direito de se opor à retransmissão no seu território de serviços de programas que contenham publicidade a bebidas alcoólicas.
+Em conformidade com o disposto no n.º 2 do artigo 19.º da Convenção, o Conselho Coordenador para o Audiovisual da República da Moldávia é designado autoridade competente para a implementação da Convenção.
+A República da Moldávia declara que fará aplicar as disposições da presente Convenção apenas ao território controlado pelo Governo da República da Moldávia, até ao completo restabelecimento da integridade territorial da República da Moldávia.
+Esta Convenção entrou em vigor para a República da Moldávia em 1 de Julho de 2003.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 50/2001, publicada no Diário da República, 1.ª série-A, n.º 161, de 13 de Julho de 2001, e ratificada pelo Decreto do Presidente da República n.º 36/2001, publicado no Diário da República, 1.ª série-A, n.º 161, de 13 de Julho de 2001, tendo depositado o seu instrumento de ratificação em 30 de Maio de 2002, conforme o Aviso n.º 61/2002, publicado no Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 2002.
+Direcção-Geral dos Assuntos Multilaterais, 20 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
