@@ -1,0 +1,5 @@
+Aviso n.º 61/2006
+Por ordem superior se torna público que a República Democrática do Congo depositou junto do Secretário-Geral das Nações Unidas, em 28 de Outubro de 2005, o seu instrumento de ratificação à Convenção Internacional para a Eliminação do Financiamento do Terrorismo, concluída em Nova Iorque em 9 de Dezembro de 1999.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 51/2002, publicada no Diário da República, 1.ª série, n.º 177, de 2 de Agosto de 2002, e ratificada pelo Decreto do Presidente da República n.º 31/2002, publicado no Diário da República, 1.ª série, n.º 177, de 2 de Agosto de 2002, tendo depositado o seu instrumento de ratificação em 18 de Outubro de 2002, conforme o Aviso n.º 356/2005, publicado no Diário da República, 1.ª série, n.º 193, de 7 de Outubro de 2005.
+A Convenção em epígrafe entrou em vigor para a República Democrática do Congo em 27 de Novembro de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 20 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
