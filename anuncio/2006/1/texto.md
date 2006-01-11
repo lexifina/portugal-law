@@ -1,0 +1,3 @@
+Anúncio n.º 1/2006
+Faz-se saber que no dia 23 de Novembro de 2005 foi instaurada uma acção administrativa especial no Supremo Tribunal Administrativo pelos municípios de Palmela, Sesimbra e Setúbal, registada com o n.º 1142/2005, para impugnação das normas contidas no Plano de Ordenamento do Parque Natural da Arrábida, aprovado pela Resolução do Conselho de Ministros n.º 141/2005, de 23 de Junho, publicada no Diário da República, 1.ª série-B, n.º 161, de 23 de Agosto de 2005, podendo os eventuais interessados intervir nos autos nos termos e nos prazos fixados na lei.
+14 de Dezembro de 2005. - O Juiz Conselheiro Relator, Edmundo António Vasco Moscoso. - A Escrivã-Auxiliar, Maria Teresa Ribeiro Guedes.
