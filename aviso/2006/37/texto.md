@@ -1,0 +1,5 @@
+Aviso n.º 37/2006
+Por ordem superior se torna público que a Bósnia-Herzegovina depositou junto do Secretário-Geral das Nações Unidas, em 11 de Agosto de 2003, o seu instrumento de adesão à Convenção sobre a Segurança do Pessoal das Nações Unidas e Pessoal Associado, concluída em Nova Iorque em 9 de Dezembro de 1994.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 39/98, publicada no Diário da República, 1.ª série-A, n.º 185, de 12 de Agosto de 1998, e ratificada pelo Decreto do Presidente da República n.º 36/98, publicado no Diário da República 1.ª série-A, n.º 185, de 12 de Agosto de 1998, tendo depositado o seu instrumento de ratificação em 7 de Dezembro de 1998, conforme o Aviso n.º 281/98, publicado no Diário da República, 1.ª série-A, n.º 282, de 7 de Dezembro de 1998.
+A Convenção em epígrafe entrou em vigor para a Bósnia-Herzegovina em 10 de Setembro de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 15 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
