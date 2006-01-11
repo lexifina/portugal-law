@@ -1,0 +1,7 @@
+Aviso n.º 33/2006
+Por ordem superior se torna público que o Reino Unido depositou junto do Secretário-Geral do Conselho da Europa, em 10 de Outubro de 2003, o seu instrumento de ratificação do Protocolo n.º 13 à Convenção para a Protecção dos Direitos do Homem e das Liberdades Fundamentais, Relativo à Abolição da Pena de Morte em Quaisquer Circunstâncias, aberta para assinatura em Vilnius em 3 de Maio de 2002, com a seguinte declaração:
+«In accordance with article 4 of the Protocol, the Government of the United Kingdom declares that the United Kingdom will initially apply the Protocol to the metropolitan area of Great Britain and Northern Ireland.»
+Tradução
+Em conformidade com o artigo 4.º do Protocolo, o Governo do Reino Unido declara que o Reino Unido fará aplicar, inicialmente, o Protocolo à área metropolitana da Grã-Bretanha e Irlanda do Norte.
+Portugal é Parte neste Protocolo, que foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 44/2003, publicada no Diário da República, 1.ª série-A, n.º 119, de 23 de Maio de 2003, tendo em 3 de Outubro de 2003 Portugal depositado o seu instrumento de ratificação do Protocolo, conforme o Aviso n.º 222/2003, publicado no Diário da República, 1.ª série-A, n.º 262, de 12 de Novembro de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 14 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
