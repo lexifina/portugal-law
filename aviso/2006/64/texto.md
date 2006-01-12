@@ -1,0 +1,5 @@
+Aviso n.º 64/2006
+Por ordem superior se torna público que, por nota de 6 de Outubro de 2005, o Secretário-Geral das Nações Unidas notificou ter o Mónaco depositado, em 4 de Outubro de 2005, o seu instrumento de adesão à Convenção de Viena sobre Relações Consulares, concluída em Viena em 24 de Abril de 1963.
+De acordo com o parágrafo 2 do artigo 77.º da Convenção, esta entrará em vigor para o Mónaco em 3 de Novembro de 2005.
+A República Portuguesa é Parte na mesma Convenção, a qual foi aprovada pelo Decreto-Lei n.º 183/72, de 30 de Maio, publicado no Diário do Governo, 1.ª série, n.º 127, suplemento, de 30 de Maio de 1972, tendo depositado o seu instrumento de adesão em 13 de Setembro de 1972 e estando esta Convenção em vigor para Portugal desde 13 de Outubro de 1972, conforme o aviso publicado no Diário do Governo, 1.ª série, n.º 234, de 7 de Outubro de 1972.
+Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas, 14 de Dezembro de 2005. - O Director-Geral, José Sequeira e Serpa.
