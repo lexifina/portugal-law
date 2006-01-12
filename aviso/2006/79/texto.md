@@ -1,0 +1,7 @@
+Aviso n.º 79/2006
+Por ordem superior se torna público que a República Federal da Jugoslávia depositou junto do Secretário-Geral do Conselho da Europa, em 18 de Dezembro de 2002, o seu instrumento de adesão à Convenção Penal sobre a Corrupção, aberta para assinatura em Estrasburgo em 27 de Janeiro de 1999, com a seguinte declaração:
+«In accordance with article 37, paragraph 3, of the Convention, the Federal Republic of Yugoslavia reserves the right to reject a request for international legal assistance under article 26, paragraph 1, if the request concerns a criminal offence which is considered a political offence according to Yugoslav legislation.»
+Tradução
+Em conformidade com o n.º 3 do artigo 37.º da Convenção, a República Federal da Jugoslávia reserva-se o direito de recusar um pedido de auxílio mútuo previsto no n.º 1 do artigo 26.º se o pedido se reportar a uma infracção penal considerada como infracção política pela legislação jugoslava.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 68/2001, publicada no Diário da República, 1.ª série-A, n.º 249, de 26 de Outubro de 2001, tendo, em 7 de Maio de 2002, Portugal depositado o seu instrumento de ratificação da Carta, conforme o Aviso n.º 60/2002, publicado no Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 2002.
+Direcção-Geral dos Assuntos Multilaterais, 19 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
