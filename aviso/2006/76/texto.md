@@ -1,0 +1,5 @@
+Aviso n.º 76/2006
+Por ordem superior se torna público que a República da Irlanda depositou junto do Secretário-Geral das Nações Unidas, em 11 de Abril de 2002, o seu instrumento de adesão à Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes, adoptada pela Assembleia Geral das Nações Unidas, concluída em Nova Iorque em 10 de Dezembro de 1984.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 11/88, publicada no Diário da República, 1.ª série, n.º 118, de 21 de Maio de 1988, e ratificada pelo Decreto do Presidente da República n.º 57/88, publicado no Diário da República, 1.ª série, n.º 166, de 20 de Julho de 1988, tendo depositado o seu instrumento de ratificação em 9 de Fevereiro de 1989, conforme aviso publicado no Diário da República, 1.ª série, n.º 128, de 5 de Junho de 1989.
+A Convenção em epígrafe entrou em vigor para a República da Irlanda em 11 de Maio de 2002.
+Direcção-Geral dos Assuntos Multilaterais, 19 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
