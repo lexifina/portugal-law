@@ -1,0 +1,5 @@
+Aviso n.º 65/2006
+Por ordem superior se torna público ter a Sérvia e Montenegro depositado junto do Secretário-Geral do Conselho da Europa, em 3 de Abril de 2003, o seu instrumento de adesão ao Estatuto do Conselho da Europa, aberto para assinatura em Londres em 5 de Maio de 1949, tornando-se membro desta organização a partir daquela mesma data.
+Mais se informa que o Comité de Ministros do Conselho da Europa adoptou a Resolução Res(2003)3, que altera o artigo 26.º do referido Estatuto e atribui sete lugares à representação da Sérvia e Montenegro na Assembleia Parlamentar do Conselho da Europa. Esta alteração, que foi aprovada pela Assembleia Parlamentar através do aviso n.º 239(2002), entrou igualmente em vigor em 3 de Abril de 2003.
+Portugal é Parte neste Estatuto, ao qual aderiu através da Lei n.º 9/76, que aprovou o instrumento de adesão ao Conselho da Europa, publicada no Diário da República, 1.ª série, n.º 303, 4.º suplemento, de 31 de Dezembro de 1976.
+Direcção-Geral dos Assuntos Multilaterais, 14 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
