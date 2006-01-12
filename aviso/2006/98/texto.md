@@ -1,0 +1,4 @@
+Aviso n.º 98/2006
+Por ordem superior se torna público que a República Popular da China depositou junto do Secretário-Geral das Nações Unidas, em 10 de Julho de 2002, o seu instrumento de aceitação da emenda ao artigo 8.º da Convenção Internacional sobre a Eliminação de Todas as Formas de Discriminação Racial, concluída em Nova Iorque em 15 de Janeiro de 1992.
+Portugal é Parte nesta emenda, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 4/2001, publicada no Diário da República, 1.ª série, n.º 23, de 27 de Janeiro de 2001, e ratificada pelo Decreto do Presidente da República n.º 5/2001, publicado no Diário da República, 1.ª série, n.º 23, de 27 de Janeiro de 2001.
+Direcção-Geral dos Assuntos Multilaterais, 23 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
