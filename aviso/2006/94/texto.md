@@ -1,0 +1,5 @@
+Aviso n.º 94/2006
+Por ordem superior se torna público que a República Portuguesa depositou junto do Secretário-Geral das Nações Unidas, em 16 de Maio de 2003, o seu instrumento de ratificação ao Protocolo Facultativo à Convenção sobre os Direitos da Criança Relativo à Venda de Crianças, Prostituição Infantil e Pornografia Infantil, aberto para assinatura em Nova Iorque em 25 de Maio de 2000.
+O referido Protocolo Facultativo foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 16/2003, publicada no Diário da República, 1.ª série-A, n.º 54, de 5 de Março de 2003, e ratificado pelo Decreto do Presidente da República n.º 14/2003, publicado no Diário da República, 1.ª série-A, n.º 54, de 5 de Março de 2003.
+Nos termos do n.º 2 do artigo 14.º, o referido Protocolo Facultativo entrou em vigor para Portugal em 16 de Junho de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 22 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
