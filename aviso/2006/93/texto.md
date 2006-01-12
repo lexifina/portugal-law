@@ -1,0 +1,4 @@
+Aviso n.º 93/2006
+Por ordem superior se torna público que a República Portuguesa depositou junto do Secretário-Geral das Nações Unidas, em 17 de Abril de 1998, o seu instrumento de aceitação das emendas ao artigo 17.º, parágrafo 7, e ao artigo 18.º, parágrafo 5, da Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes, abertas para assinatura em Nova Iorque em 8 de Setembro de 1992.
+As referidas emendas foram aprovadas, para ratificação, pela Resolução da Assembleia da República n.º 71/94, publicada no Diário da República, 1.ª série-A, n.º 288, de 15 de Dezembro de 1994, e ratificadas pelo Decreto do Presidente da República n.º 80/94, publicado no Diário da República, 1.ª série-A, n.º 68, de 15 de Dezembro de 1994.
+Direcção-Geral dos Assuntos Multilaterais, 22 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
