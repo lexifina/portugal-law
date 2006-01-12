@@ -1,0 +1,5 @@
+Aviso n.º 66/2006
+Por ordem superior se torna público ter a República do Azerbaijão depositado junto do Secretário-Geral do Conselho da Europa, em 25 de Janeiro de 2001, o seu instrumento de adesão ao Estatuto do Conselho da Europa, aberto para assinatura em Londres em 5 de Maio de 1949, tornando-se membro desta organização a partir daquela mesma data.
+Mais se informa que o Comité de Ministros do Conselho da Europa adoptou a Resolução (2000)14, que altera o artigo 26.º do referido Estatuto e atribui seis lugares à representação da República do Azerbaijão na Assembleia Parlamentar do Conselho da Europa. Esta alteração, que foi aprovada pela Assembleia Parlamentar através do aviso n.º 222(2000), entrou igualmente em vigor em 25 de Janeiro de 2001.
+Portugal é Parte neste Estatuto, ao qual aderiu através da Lei n.º 9/76, que aprovou o instrumento de adesão ao Conselho da Europa, publicada no Diário da República, 1.ª série, n.º 303 (4.º suplemento), de 31 de Dezembro de 1976.
+Direcção-Geral dos Assuntos Multilaterais, 14 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
