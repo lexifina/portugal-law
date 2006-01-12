@@ -1,0 +1,5 @@
+Aviso n.º 72/2006
+Por ordem superior se torna público que o Djibouti depositou junto do Secretário-Geral das Nações Unidas, em 5 de Novembro de 2002, o seu instrumento de adesão ao Segundo Protocolo Facultativo ao Pacto Internacional sobre os Direitos Civis e Políticos com vista à Abolição da Pena de Morte, concluído em Nova Iorque em 15 de Dezembro de 1989.
+Portugal é Parte neste Protocolo Facultativo, que foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 25/90, publicada no Diário da República, 1.ª série, n.º 224, de 27 de Setembro de 1990, e ratificado pelo Decreto do Presidente da República n.º 54/90, publicado no Diário da República, 1.ª série, n.º 224, de 27 de Setembro de 1990, tendo depositado o seu instrumento de ratificação em 19 de Outubro de 1990, conforme aviso publicado no Diário da República, 1.ª série, n.º 273, de 26 de Novembro de 1990.
+O Protocolo Facultativo em epígrafe entrou em vigor para o Djibouti em 5 de Fevereiro de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 16 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
