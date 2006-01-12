@@ -1,0 +1,10 @@
+Portaria n.º 41/2006
+de 12 de Janeiro
+O Decreto-Lei n.º 10/2001, de 23 de Janeiro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 339-D/2001, de 28 de Dezembro, prevê, no seu artigo 10.º, que as entidades obrigadas a constituir reservas de petróleo possam ser autorizadas, por motivos de força maior, a substituir total ou parcialmente essa obrigação de manutenção de reservas próprias pelo pagamento à EGREP, Entidade Gestora das Reservas Estratégicas de Produtos de Petróleo, E. P. E., do montante correspondente.
+Ao abrigo dessa disposição, a PETROIBÉRICA - Sociedade de Petróleos Ibero Latinos, S. A., requereu tal autorização, invocando a falta de capacidade de armazenagem própria, em território nacional, estando a desenvolver diligências para dispor de armazenagem para o efeito.
+Assim:
+Ao abrigo do n.º 2 do artigo 10.º do Decreto-Lei n.º 10/2001, de 23 de Janeiro, com a redacção dada pelo Decreto-Lei n.º 339-D/2001, de 28 de Dezembro:
+Manda o Governo, pelo Ministro da Economia e da Inovação, o seguinte:
+1.º É autorizada a PETROIBÉRICA - Sociedade de Petróleos Ibero Latinos, S. A., a efectuar a totalidade das reservas de petróleo a que se encontra obrigada na EGREP, Entidade Gestora das Reservas Estratégicas de Produtos de Petróleo, E. P. E., mediante pagamento do montante correspondente, por ter sido reconhecida a falta de capacidade de armazenagem em território nacional.
+2.º A autorização a que respeita o número anterior é concedida pelo prazo de 12 meses, prorrogável por igual período, por despacho do director-geral de Geologia e Energia, mediante pedido da PETROIBÉRICA - Sociedade de Petróleos Ibero Latinos, S. A., a apresentar com a antecedência de dois meses, desde que a empresa demonstre ter desenvolvido diligências que devam proporcionar, até final dessa prorrogação, capacidade para constituição de reservas adequadas ao seu negócio.
+Pelo Ministro da Economia e da Inovação, António José de Castro Guerra, Secretário de Estado Adjunto, da Indústria e da Inovação, em 13 de Dezembro de 2005.
