@@ -1,0 +1,4 @@
+Aviso n.º 123/2006
+Por ordem superior se torna público que a República do Chipre depositou junto do Secretário-Geral do Conselho da Europa, em 23 de Junho de 2005, o seu instrumento de ratificação da Convenção Europeia sobre a Protecção dos Animais de Abate, aberta para assinatura, em Estrasburgo, em 10 de Maio de 1979.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 99/81, publicada no Diário da República, 1.ª série-A, n.º 172, de 29 de Julho de 1981, tendo, em 3 de Novembro de 1981, Portugal depositado o seu instrumento de ratificação à Convenção, publicado no Diário da República, 1.ª série-A, n.º 286, de 14 de Dezembro de 1981.
+Direcção-Geral dos Assuntos Multilaterais, 22 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
