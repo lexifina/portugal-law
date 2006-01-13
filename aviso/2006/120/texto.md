@@ -1,0 +1,5 @@
+Aviso n.º 120/2006
+Por ordem superior se torna público que a Federação Russa depositou junto do Secretário-Geral das Nações Unidas, em 26 de Maio de 2004, o seu instrumento de ratificação do Protocolo Adicional Relativo à Prevenção, à Repressão e à Punição do Tráfico de Pessoas, em especial de Mulheres e Crianças, concluído em Nova Iorque em 15 de Novembro de 2000.
+Portugal é Parte neste Protocolo Adicional, que foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 32/2004, publicada no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, e ratificado pelo Decreto do Presidente da República n.º 19/2004, publicado no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, tendo depositado o seu instrumento de ratificação em 10 de Maio de 2004, conforme o Aviso n.º 121/2004, publicado no Diário da República, 1.ª série, n.º 141, de 17 de Junho de 2004.
+O Protocolo Adicional em epígrafe entrou em vigor para a Federação Russa em 25 de Junho de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 21 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
