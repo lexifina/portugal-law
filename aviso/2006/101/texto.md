@@ -1,0 +1,14 @@
+Aviso n.º 101/2006
+Por ordem superior se torna público ter a República da Estónia depositado junto do Secretário-Geral do Conselho da Europa, em 20 de Julho de 2004, o seu instrumento de ratificação à Convenção Europeia de Assistência Social e Médica, aberta para a assinatura, em Paris, em 11 de Dezembro de 1953, com as seguintes declarações:
+«Declarations
+The Republic of Estonia applies to lawful residence in the territory of a Contracting Party provided in article 6, paragraph a), and in article 11, paragraph a), the Aliens Act, Refugees Act and Citizen of European Union Act, according to which lawful residence in the territory of Estonia may depend on availability of permanent legal income and on duly submission for renewal of a document affording proof of lawful residence.
+The Republic of Estonia shall bear the costs provided in article 8, paragraph a), according to the Aliens Act.
+Pursuant to article 2, paragraph a), sub-paragraph ii), of the Convention, the Republic of Estonia declares that the term 'national' under the present Convention shall cover Estonian nationales and the term 'territory' shall cover the territory under the jurisdiction of the Republic of Estonia.»
+Tradução
+Declarações
+A República da Estónia aplica à residência legal no território de uma Parte Contratante, conforme previsto na alínea a) do artigo 6.º e na alínea a) do artigo 11.º, as disposições constantes da Lei Relativa aos Estrangeiros, da Lei sobre os Refugiados e da Lei sobre os Cidadãos da União Europeia, nos termos das quais a residência legal no território da Estónia pode depender da disponibilidade de rendimentos legais permanentes e da apresentação, em tempo útil e para efeitos de renovação, de um documento fazendo prova de residência legal.
+A República da Estónia suporta as custas de repatriamento referidas na alínea a) do artigo 8.º, em conformidade com a Lei Relativa aos Estrangeiros.
+Em aplicação do disposto na subalínea ii) da alínea a) do artigo 2.º da Convenção, a República da Estónia declara que o termo «nacional», no contexto da presente Convenção, compreende os nacionais estonianos e que o termo «território» compreende o território sob jurisdição da República da Estónia.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação pelo Decreto n.º 182/77, publicado no Diário da República, 1.ª série, n.º 302, 2.º suplemento, de 31 de Dezembro de 1977, tendo depositado o seu instrumento de ratificação em 3 de Julho de 1978, conforme aviso publicado no Diário da República, 1.ª série, n.º 173, de 29 de Julho de 1978.
+A Convenção entrou em vigor para a República da Estónia em 1 de Agosto de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 15 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
