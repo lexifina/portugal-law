@@ -1,0 +1,4 @@
+Aviso n.º 125/2006
+Por ordem superior se torna público que a República Portuguesa depositou junto do Secretário-Geral das Nações Unidas, em 8 de Janeiro de 2002, o seu instrumento de aceitação da emenda ao artigo 20.º, parágrafo 1, da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres, aberta para assinatura em Nova Iorque em 22 de Dezembro de 1995.
+A referida emenda foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 15/97, publicada no Diário da República, 1.ª série-A, n.º 68, de 21 de Março de 1997, e ratificada pelo Decreto do Presidente da República n.º 16/97, publicado no Diário da República, 1.ª série-A, n.º 68, de 21 de Março de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 22 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
