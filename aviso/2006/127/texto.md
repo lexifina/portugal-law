@@ -1,0 +1,4 @@
+Aviso n.º 127/2006
+Por ordem superior se torna público que o Iraque depositou junto do Secretário-Geral das Nações Unidas, em 25 de Maio de 2001, o seu instrumento de aceitação à emenda do artigo 8.º da Convenção Internacional sobre a Eliminação de Todas as Formas de Discriminação Racial, concluída em Nova Iorque em 15 de Janeiro de 1992.
+Portugal é Parte nesta emenda, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 4/2001, publicada no Diário da República, 1.ª série, n.º 23, de 27 de Janeiro de 2001, e ratificada pelo Decreto do Presidente da República n.º 5/2001, publicado no Diário da República, 1.ª série, n.º 23, de 27 de Janeiro de 2001.
+Direcção-Geral dos Assuntos Multilaterais, 23 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
