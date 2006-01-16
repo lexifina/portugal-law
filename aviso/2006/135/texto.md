@@ -1,0 +1,5 @@
+Aviso n.º 135/2006
+Por ordem superior se torna público que, em 8 de Agosto de 2005, o Reino da Suazilândia depositou o seu instrumento de adesão à Convenção sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos e Sua Eliminação, concluída em Basileia no dia 22 de Março de 1989.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 37/93, publicado no Diário da República, 1.ª série-A, n.º 246, de 20 de Outubro de 1993, tendo depositado a carta de ratificação em 26 de Janeiro de 1994, conforme o Aviso n.º 144/94, publicado no Diário da República, 1.ª série-A, n.º 109, de 11 de Maio de 1994, e tendo entrado em vigor em 11 de Maio de 1994, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 118, de 22 de Maio de 1998.
+A Convenção em epígrafe entrou em vigor para o Reino da Suazilândia em 6 de Novembro de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 22 de Dezembro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
