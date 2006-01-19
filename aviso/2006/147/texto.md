@@ -1,0 +1,5 @@
+Aviso n.º 147/2006
+Por ordem superior se torna público que, em 18 de Dezembro de 2003, o Gabão depositou o seu instrumento de adesão à Convenção de Roterdão Relativa ao Procedimento de Prévia Informação e Consentimento para Determinados Produtos Químicos e Pesticidas Perigosos no Comércio Internacional, concluída em Roterdão no dia 11 de Setembro de 1998.
+Portugal é Parte da mesma Convenção, aprovada pelo Decreto n.º 33/2004, publicado no Diário da República, 1.ª série-A, n.º 255, de 29 de Outubro de 2004, tendo depositado o seu instrumento de aprovação em 16 de Fevereiro de 2005, conforme o Aviso n.º 193/2005, publicado no Diário da República, 1.ª série-A, n.º 86, de 4 de Maio de 2005, e tendo entrado em vigor em 17 de Maio de 2005, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 86, de 4 de Maio de 2005.
+A Convenção em epígrafe entrou em vigor para o Gabão em 17 de Março de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 19 de Dezembro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
