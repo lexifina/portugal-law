@@ -1,0 +1,5 @@
+Aviso n.º 141/2006
+Por ordem superior se torna público que, em 11 de Outubro de 2005, o Reino do Nepal depositou o seu instrumento de adesão à Convenção de Berna para a Protecção das Obras Literárias e Artísticas, concluída no dia 9 de Setembro de 1886, revista em Paris no dia 24 de Julho de 1971 e modificada no dia 28 de Setembro de 1979.
+Portugal é Parte da Convenção, aprovada, para adesão, pelo Decreto n.º 73/78, publicado no Diário da República, 1.ª série, n.º 170, de 26 de Julho de 1978, tendo aderido em 10 de Outubro de 1978, conforme aviso publicado no Diário da República, 1.ª série, n.º 1, de 2 de Janeiro de 1979, e tendo entrado em vigor em 12 de Janeiro de 1979, conforme aviso publicado no Diário da República, 1.ª série, n.º 1, de 2 de Janeiro de 1979.
+A Convenção em epígrafe, revista e modificada, entrará em vigor para o reino do Nepal em 11 de Janeiro de 2006.
+Direcção-Geral dos Assuntos Multilaterais, 19 de Dezembro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
