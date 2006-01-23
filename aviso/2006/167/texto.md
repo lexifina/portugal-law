@@ -1,0 +1,5 @@
+Aviso n.º 167/2006
+Por ordem superior se torna público que o Nauru depositou junto do Secretário-Geral das Nações Unidas, em 2 de Agosto de 2005, o seu instrumento de adesão à Convenção Internacional para a Repressão de Atentados Terroristas à Bomba, concluída em Nova Iorque em 15 de Dezembro de 1997.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 40/2001, publicada no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, e ratificada pelo Decreto do Presidente da República n.º 31/2001, publicado no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, tendo depositado o seu instrumento de ratificação em 10 de Novembro de 2001, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 81, de 6 de Abril de 2002.
+A Convenção entrou em vigor para o Nauru em 1 de Setembro de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 3 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
