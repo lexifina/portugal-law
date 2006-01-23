@@ -1,0 +1,5 @@
+Aviso n.º 187/2006
+Por ordem superior se torna público que, em 27 de Junho de 2003 e em 29 de Novembro de 2005, foram emitidas notas, respectivamente pela Embaixada de Cuba em Lisboa e pelo Ministério dos Negócios Estrangeiros Português, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação da Convenção entre o Governo da República Portuguesa e o Governo da República de Cuba para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Havana em 30 de Outubro de 2000.
+Por parte de Portugal, a Convenção foi aprovada pela Resolução da Assembleia da República n.º 49/2001, publicada no Diário da República, 1.ª série, n.º 161, de 13 de Julho de 2001.
+Nos termos do artigo 28.º da Convenção, esta entrou em vigor em 28 de Dezembro de 2005.
+Direcção-Geral das Relações Bilaterais, 6 de Janeiro de 2006. - A Directora de Serviços da América do Sul e Central, Helena Margarida Rezende de Almeida Coutinho.
