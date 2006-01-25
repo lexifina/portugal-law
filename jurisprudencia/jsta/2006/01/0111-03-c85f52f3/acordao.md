@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2006-01-25, processo 0111/03
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0111/03
+
+**Data do Acordão:** 01/25/2006
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** ABEL ATANÁSIO
+
+**Descritores:** LOTEAMENTO URBANO.; PARECER VINCULATIVO.; ACTO CONTENCIOSAMENTE RECORRÍVEL.; PRINCIPIO DA IGUALDADE.; FUNDAMENTAÇÃO DE DIREITO.; ACEITAÇÃO DO ACTO.
+
+**Nº Convencional:** JSTA0006199
+
+**Nº do Documento:** SA1200601250111
+
+**Recorrente:** A...
+
+**Recorrido 1:** CM DE SESIMBRA
+
+**Votação:** MAIORIA COM UM VOT VENC
+
+**Área Temática 1:** *
+
+## Sumário
+
+I - A aceitação do acto deriva da prática espontânea e sem reservas, de facto incompatível com a vontade de recorrer, devendo tal comportamento ter um significado unívoco, que não deixe quaisquer dúvidas quanto ao seu significado de acatamento integral do acto, das determinações nele contidas, e da inerente vontade de renunciar ao recurso.
+
+II - São impugnáveis autonomamente os pareceres vinculativos, emitidos no decurso de procedimentos de licenciamento de operações de loteamento pelas CCR.
+
+III - Sendo o Parecer da CCRLVT vinculativo, nos termos conjugados dos artigos 40º nº 2 e 56º, nº 1 alínea a), ambos do DL 448/91 de 29/11, a sua prolação em sentido desfavorável gera a nulidade do deferimento tácito de operação de loteamento que entretanto ocorrera.
+
+IV - Os alegados vícios do parecer referido, a ocorrerem, não sendo geradores da inexistência deste nem de vício gerador de nulidade (art. 133.º do C.P.A.), mas de mera anulabilidade (art. 135.º do mesmo Código), não poderiam obstar aos efeitos vinculativos previstos na lei para aquele parecer relativamente à decisão do pedido de licenciamento a proferir pela Câmara Municipal.
+
+V - Os princípios constitucionais da igualdade, da justiça e da proporcionalidade, funcionam como limites da discricionariedade, só neste domínio encontrando a sua justificação, ou seja, tais princípios só se configuram como fonte autónoma de invalidade quando a Administração. goze de liberdade para escolher o comportamento a adoptar, não relevando no domínio da actividade vinculada.
+
+VI - Na fundamentação de direito dos actos administrativos não se exige a referência expressa aos preceitos legais, bastando a referência aos princípios jurídicos pertinentes, ao regime legal aplicável ou a um quadro normativo determinado.
