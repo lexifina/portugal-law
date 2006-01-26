@@ -1,0 +1,9 @@
+Aviso n.º 245/2006
+Por ordem superior se torna público que a Roménia depositou junto do Secretário-Geral do Conselho da Europa, em 12 de Maio de 2004, o seu instrumento de ratificação da Convenção Europeia sobre o Reconhecimento e a Execução das Decisões Relativas à Guarda de Menores e sobre o Restabelecimento da Guarda de Menores, aberta para assinatura no Luxemburgo em 20 de Maio de 1980, com a seguinte declaração:
+«In accordance with article 17, paragraph 1, of the Convention, Romania declares that in cases covered by articles 8 and 9, recognition and enforcement of decisions related to custody of children may be refused on such grounds provided under article 10 of the Convention.
+In accordance with article 2, paragraph 1, of the Convention, the Ministry of Justice is the Romanian central authority appointed to carry out the functions provided for by this Convention.»
+Tradução
+Em conformidade com o n.º 1 do artigo 17.º da Convenção, a Roménia declara que, nos casos previstos nos artigos 8.º e 9.º, o reconhecimento e a execução das decisões relativas à guarda de menores podem ser recusados com os fundamentos previstos no artigo 10.º da Convenção.
+Em conformidade com o n.º 1 do artigo 2.º da Convenção, a Roménia declara que o Ministério da Justiça é a autoridade central romena que executará as funções previstas pela Convenção.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 136/82, publicado no Diário da República, 1.ª série, n.º 293, de 21 de Dezembro de 1982, tendo em 18 de Março de 1983 depositado o seu instrumento de ratificação, conforme aviso publicado no Diário da República, 1.ª série, n.º 91, de 20 de Abril de 1983.
+Direcção-Geral dos Assuntos Multilaterais, 12 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
