@@ -1,0 +1,15 @@
+Directiva n.º 1/2006. - Circular n.º 1/2006. - No uso da competência atribuída pelo artigo 12.º, n.º 2, alínea b), do Estatuto do Ministério Público (Lei n.º 60/98, de 27 de Agosto), profere-se o seguinte despacho:
+O n.º 5 do artigo 11.º-A do Decreto-Lei n.º 454/91, de 28 de Dezembro, resultante de aditamento operado pela Lei n.º 48/2005, de 29 de Agosto, consagrou, expressamente, que a competência do Procurador-Geral da República para autorizar a desistência de queixa nos processos por crime de emissão de cheque sem provisão em que o Estado seja ofendido "é delegável nos termos gerais".
+Operacionalidade, agilização do procedimento, celeridade, economia de custos e racionalidade na gestão dos meios humanos foram, seguramente, os objectivos que presidiram à disciplina legislativa recentemente instituída.
+Tais desideratos tornam oportuna a concretização da faculdade legalmente prevista e justificam que se consagre, a par da delegação da competência em foco, a efectuar por acto individualizado conforme à estrutura orgânica do Ministério Público, a possibilidade de subdelegação do poder conferido.
+A uniformização dos critérios que deverão nortear o exercício da competência delegada é uma necessidade que se impõe por razões de equidade e justiça, afigurando-se alcançável com a observância do conteúdo da circular n.º 8/2001, da Procuradoria-Geral da República, no segmento em que faz preceder a decisão de autorização de desistência do conhecimento e análise de elementos que concretamente enunciou.
+Assim:
+1 - Ao abrigo do disposto no artigo 11.º-A, n.º 5, do Decreto-Lei n.º 454/91, de 28 de Dezembro, resultante de alteração introduzida pela Lei n.º 48/2005, de 29 de Agosto, delego nos procuradores-gerais-distritais licenciados Alípio Fernando Tibúrcio Ribeiro, João Dias Borges, Alberto Mário Coelho Braga Temido e Luís Armando Bilro Verão, com faculdade de a subdelegarem, a competência do Procurador-Geral da República fixada no n.º 4 do preceito referido, relativamente aos processos por crime de emissão de cheque sem provisão em que o Estado seja ofendido e que corram termos nas circunscrições que integrem o distrito judicial que superintendam.
+2 - As decisões proferidas no exercício do poder delegado, bem como as que resultem de uma eventual subdelegação, deverão basear-se na apreciação do certificado do registo criminal do arguido ou denunciado, bem como em informação prestada pelo competente departamento do Estado, acerca:
+Do pagamento da dívida a que o(s) cheque(s) se reporte(m);
+Da pendência de outros casos semelhantes que envolvam o mesmo arguido/denunciado;
+Do interesse manifestado relativamente ao prosseguimento dos autos.
+3 - Revogo a circular n.º 8/2001 da Procuradoria-Geral da República, porque estruturada em função de um quadro de actuação diverso do agora instituído.
+Publique-se.
+Circule-se para conhecimento de todos os magistrados e agentes do Ministério.
+10 de Janeiro de 2006. - O Procurador-Geral da República, José Adriano Machado Souto de Moura.
