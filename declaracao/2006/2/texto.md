@@ -1,0 +1,3 @@
+Declaração n.º 2/2006
+Nos termos do disposto no n.º 7 do artigo 206.º do Regimento da Assembleia da República, declara-se que se considera caduco o processo relativo à apreciação parlamentar n.º 6/X ao Decreto-Lei n.º 167/2005, de 23 de Setembro, que estabelece o regime jurídico da assistência na doença aos militares das Forças Armadas, apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que foram rejeitadas pela Comissão de Defesa Nacional todas as propostas de alteração e que o Plenário foi informado do facto.
+Assembleia da República, 12 de Janeiro de 2006. - A Deputada Secretária da Mesa da Assembleia da República, Celeste Correia.
