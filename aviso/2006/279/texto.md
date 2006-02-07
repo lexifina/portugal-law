@@ -1,0 +1,5 @@
+Aviso n.º 279/2006
+Por ordem superior se torna público ter o Grão-Ducado do Luxemburgo depositado junto do Secretário-Geral das Nações Unidas, em 23 de Maio de 2003, o seu instrumento de ratificação da Convenção das Nações Unidas sobre o Direito dos Tratados, concluída em Viena em 23 de Maio de 1969.
+Portugal é Parte desta Convenção, aprovada, para adesão, pela Resolução da Assembleia da República n.º 67/2003, publicada no Diário da República, 1.ª série-A, n.º 181, de 7 de Agosto de 2003, e ratificada pelo Decreto do Presidente da República n.º 46/2003, publicado no Diário da República, 1.ª série-A, n.º 181, de 7 de Agosto de 2003, tendo depositado o seu instrumento de adesão em 6 de Fevereiro de 2004, conforme o Aviso n.º 27/2004, publicado no Diário da República, 1.ª série-A, n.º 80, de 3 de Abril de 2004.
+A Convenção entrou em vigor para o Grão-Ducado do Luxemburgo em 22 de Junho de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 23 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
