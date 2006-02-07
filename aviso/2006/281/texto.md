@@ -1,0 +1,5 @@
+Aviso n.º 281/2006
+Por ordem superior se torna público ter a Jugoslávia junto do Secretário-Geral das Nações Unidas, em 24 de Setembro de 2004, sucedido à Convenção para a Supressão do Tráfico de Pessoas e da Exploração de Outrem, concluída em Lake Success, Nova Iorque em 21 de Março de 1950.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 31/91, publicada no Diário da República, 1.ª série-A, n.º 233, de 10 de Outubro de 1991, e ratificada pelo Decreto do Presidente da República n.º 48/91, publicado no Diário da República, 1.ª série-A, n.º 233, de 10 de Outubro de 1991, tendo depositado o seu instrumento de adesão em 30 de Setembro de 1992, conforme o Aviso n.º 19/93, publicado no Diário da República, 1.ª série-A, n.º 21, de 26 de Janeiro de 1993.
+A Convenção entrou em vigor para a Jugoslávia em 27 de Abril de 1992, data da sucessão do Estado.
+Direcção-Geral dos Assuntos Multilaterais, 23 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
