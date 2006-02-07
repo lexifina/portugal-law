@@ -1,0 +1,5 @@
+Aviso n.º 277/2006
+Por ordem superior se torna público que, em 22 de Novembro de 2005 e em 3 de Janeiro de 2006, foram emitidas Notas, respectivamente pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pela Embaixada de Chipre em Lisboa, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República de Chipre sobre Cooperação nas Áreas da Educação, Ciência e Ensino Superior, Cultura, Juventude, Desporto e Comunicação Social, assinado em Lisboa em 23 de Junho de 2004.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 21/2005, publicado no Diário da República, 1.ª série-A, n.º 184, de 23 de Setembro de 2005.
+Nos termos do artigo 19.º do Acordo, este Acordo entrará em vigor 30 dias após a data da recepção da última notificação por via diplomática, ou seja dia 3 de Fevereiro de 2006.
+Direcção-Geral das Relações Bilaterais, 18 de Janeiro de 2006. - Pelo Director dos Serviços da Europa, o Chefe de Divisão, Eduardo Ramos.
