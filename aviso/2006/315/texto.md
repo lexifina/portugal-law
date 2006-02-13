@@ -1,0 +1,4 @@
+Aviso n.º 315/2006
+Para os devidos efeitos se torna público que no Aviso n.º 439/2005, de 5 de Dezembro, relativo à Convenção para a Criação de Um Conselho de Cooperação Aduaneira e Anexo, publicado no Diário da República, 1.ª série-A, n.º 232, de 5 de Dezembro de 2005, no segundo parágrafo, onde se lê «tendo depositado o seu instrumento de ratificação em 26 de Janeiro de 1953» deve ler-se «tendo sido ratificada em 26 de Janeiro de 1953».
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto-Lei n.º 39006, publicado no Diário do Governo, 1.ª série, n.º 264, de 24 de Novembro de 1952, e tendo sido ratificada em 26 de Janeiro de 1953, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 137, de 30 de Junho de 1953.
+Direcção-Geral dos Assuntos Multilaterais, 24 de Janeiro de 2006. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
