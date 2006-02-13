@@ -1,0 +1,12 @@
+Aviso n.º 303/2006
+Por ordem superior se torna público que a República da Polónia depositou junto do Secretário-Geral do Conselho da Europa, em 17 de Março de 2004, o seu instrumento de ratificação da Convenção sobre o Reconhecimento das Qualificações Relativas ao Ensino Superior na Região Europa, aberta para assinatura em Lisboa em 11 de Abril de 1997, com as seguintes declarações:
+«In accordance with article II.2 of the Convention, the Republic of Poland declares that the authorities which are competent to make decisions in recognition cases in Poland are the local governmental educational authorities, higher education institutions and accredited science institutions.
+In accordance with article IX.2 of the Convention, the Republic of Poland declares that the national information centre is:
+The Bureau for Academic Recognition and International Exchange, Ul. Smolna 13, 00-375 Warsaw - Poland; tel.: +48228267434; fax: +48228262823; e-mail: biuro@buwiwm.edu.pl; Internet: http://www.buwiwm.edu.pl.»
+Tradução
+Em conformidade com o artigo II.2, a República da Polónia declara que as autoridades competentes para tomar decisões em matéria de reconhecimento na Polónia são as autoridades do governo local de educação, os estabelecimentos de ensino superior e os estabelecimentos científicos acreditados.
+Em conformidade com o artigo IX.2 da Convenção, a República da Polónia declara que o centro nacional de informações é:
+Gabinete para o Reconhecimento Universitário e Intercâmbio Internacionais, Ul. Smolna 13, 00-375 Varsóvia - Polónia; telefone: +48228267434; fax: +48228262823; e-mail: biuro@buwiwm.edu.pl; Internet: http://www.buwiwm.edu.pl.
+Esta Convenção entrou em vigor para a República da Polónia em 1 de Maio de 2004.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 25/2000, publicada no Diário da República, 1.ª série-A, n.º 76, de 30 de Março de 2000, e ratificada pelo Decreto do Presidente da República n.º 12/2000, publicado no Diário da República, 1.ª série-A, n.º 76, de 30 de Março de 2000, tendo depositado o seu instrumento de ratificação em 15 de Outubro de 2001, conforme o Aviso n.º 122/2001, publicado no Diário da República, 1.ª série-A, n.º 279, de 3 de Dezembro de 2001.
+Direcção-Geral dos Assuntos Multilaterais, 13 de Dezembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
