@@ -1,0 +1,4 @@
+Aviso n.º 331/2006
+Para os devidos efeitos se torna público que no Aviso n.º 436/2005, de 5 de Dezembro, relativo ao Acordo de Nice sobre a Classificação Internacional de Produtos e de Serviços com Fins de Registos de Marcas, publicado no Diário da República, 1.ª série-A, n.º 232, de 5 de Dezembro de 2005, onde se lê «tendo depositado o seu instrumento de ratificação em 2 de Abril de 1959» deve ler-se «tendo sido ratificado em 2 de Abril de 1959».
+Portugal é Parte do mesmo Acordo, aprovado pelo Decreto-Lei n.º 41735, publicado no Diário do Governo, 1.ª série, n.º 153, de 16 de Julho de 1958, tendo sido ratificado em 2 de Abril de 1959, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 88, de 18 de Abril de 1959.
+Direcção-Geral dos Assuntos Multilaterais, 24 de Janeiro de 2006. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
