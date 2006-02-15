@@ -1,0 +1,5 @@
+Aviso n.º 339/2006
+Por ordem superior se torna público terem os Emirados Árabes Unidos depositado junto do Secretário-Geral das Nações Unidas, em 25 de Fevereiro de 2003, o seu instrumento de adesão à Convenção sobre Prevenção e Repressão de Crimes contra Pessoas Gozando de Protecção Internacional, Incluindo os Agentes Diplomáticos, concluída em Nova Iorque em 14 de Dezembro de 1973.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 20/94, publicada no Diário da República, 1.ª série-A, n.º 104, de 5 de Maio de 1994, e ratificada pelo Decreto do Presidente da República n.º 22/94, publicado no Diário da República, 1.ª série-A, n.º 104, de 5 de Maio de 1994, tendo depositado o seu instrumento de ratificação em 11 de Setembro de 1995, conforme o Aviso n.º 268/97, publicado no Diário da República, 1.ª série-A, n.º 218, de 20 de Setembro de 1997.
+A Convenção entrou em vigor para os Emiratos Árabes Unidos em 27 de Março de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 25 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
