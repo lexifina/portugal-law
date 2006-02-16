@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "170",
+    "id": "21045",
+    "titulo": "Revisão da Lei da Nacionalidade"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2006-02-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2006-02-16",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "173407",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "327614",
+        "obs": null,
+        "pag": [
+          "4312-4313"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-02-17",
+        "pubLeg": "X",
+        "pubNr": "91",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/091/2006-02-17/4312?pgs=4312-4313&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2006-02-16",
+        "descricao": "Texto de substituição apresentado pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo ao Projecto de Lei n.º 18/X (BE), Projecto de Lei n.º 31/X (PEV), Projecto de Lei n.º 40/X (PCP), Projecto de Lei n.º 170/X (PPD/PSD), Projecto de Lei n.º 173/X (CDS-PP) e a Proposta de Lei n.º 32/X (GOV). Votos Favor: 145; Contra: 1; Abstenção:18 \n",
+        "detalhe": "A Favor: <I>94-PS</I>, <I> 39-PSD</I>, <I> 2-PEV</I>, <I> 10-PCP</I><BR>Contra:<I>1-PS</I><BR>Abstenção:<I>3-PSD</I>, <I> 6-BE</I>, <I> 9-CDS-PP</I>",
+        "id": "33825",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "89",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
