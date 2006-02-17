@@ -1,0 +1,5 @@
+Aviso n.º 357/2006
+Por ordem superior se torna público ter a República Italiana depositado junto do Secretário-Geral das Nações Unidas, em 27 de Março de 2003, o seu instrumento de ratificação da Convenção Internacional para a Eliminação do Financiamento do Terrorismo, concluída em Nova Iorque em 9 de Dezembro de 1999.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 51/2002, publicada no Diário da República, 1.ª série-A, n.º 177, de 2 de Agosto de 2002, e ratificada pelo Decreto do Presidente da República n.º 31/2002, publicado no Diário da República, 1.ª série-A, n.º 177, de 2 de Agosto de 2002, tendo depositado o seu instrumento de ratificação em 18 de Outubro de 2002, conforme o Aviso n.º 356/2005, publicado no Diário da República, 1.ª série-A, n.º 193, de 7 de Outubro de 2005.
+A Convenção entrou em vigor para a República Italiana em 26 de Abril de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 26 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
