@@ -1,0 +1,5 @@
+Aviso n.º 345/2006
+Por ordem superior se torna público ter a República Federal Islâmica das Comores depositado junto do Secretário-Geral das Nações Unidas, em 27 de Setembro de 2004, o seu instrumento de adesão à Convenção de Viena sobre Relações Diplomáticas, concluída em Viena em 18 de Abril de 1961.
+Portugal é Parte desta Convenção, aprovada, para adesão, pelo Decreto-Lei n.º 48 295, publicado no Diário do Governo, 1.ª série, n.º 74, de 27 de Março de 1968, tendo depositado o seu instrumento de adesão em 11 de Setembro de 1968, com uma reserva, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 253, de 26 de Outubro de 1968, e tendo sido decidido retirar a mesma reserva, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 300, de 28 de Dezembro de 1972.
+A Convenção entrou em vigor para a República Federal Islâmica das Comores em 27 de Outubro de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 23 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
