@@ -1,0 +1,5 @@
+Aviso n.º 371/2006
+Por ordem superior se torna público ter Madagáscar depositado junto do Secretário-Geral das Nações Unidas, em 13 de Dezembro de 2005, o seu instrumento de ratificação da Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes, adoptada pela Assembleia Geral das Nações Unidas, concluída em Nova Iorque em 10 de Dezembro de 1984.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 11/88, publicada no Diário da República, 1.ª série-A, n.º 118, de 21 de Maio de 1988, e ratificada pelo Decreto do Presidente da República n.º 57/88, publicado no Diário da República, 1.ª série-A, n.º 166, de 20 de Julho de 1988, tendo depositado o seu instrumento de ratificação em 9 de Fevereiro de 1989, conforme o Aviso n.º 128/89, publicado no Diário da República, 1.ª série-A, n.º 128, de 5 de Junho de 1989.
+A Convenção entrou em vigor para Madagáscar em 12 de Janeiro de 2006.
+Direcção-Geral dos Assuntos Multilaterais, 27 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
