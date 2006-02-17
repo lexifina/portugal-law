@@ -1,0 +1,9 @@
+Aviso n.º 367/2006
+Por ordem superior se torna público que a Antiga República Jugoslava da Macedónia depositou junto do Secretário-Geral do Conselho da Europa, em 15 de Janeiro de 2003, o seu instrumento de ratificação ao Acordo Europeu sobre a Transmissão de Pedidos de Assistência Judiciária, aberto para assinatura em Estrasburgo em 27 de Janeiro de 1977, com a seguinte declaração:
+«According to article 13, paragraph 1, of the Agreement 'the former Yogoslav Republic of Macedonia' declares that it excludes the application of article 6, paragraph 1 (b).
+In accordance to article 8 of the Agreement, 'the former Yugoslav Republic of Macedonia' informs that the Ministry of Justice of 'the former Yugoslav Republic of Macedonia' is designated as transmitting and receiving authority, as mentioned in article 2 (1) and (2) of the Agreement.»
+Tradução
+Em conformidade com o disposto no n.º 1 do artigo 13.º do Acordo, a Antiga República Jugoslava da Macedónia declara que exclui a aplicação das disposições da alínea b) do n.º 1 do artigo 6.º
+Em conformidade com o disposto no artigo 8.º do Acordo, a Antiga República Jugoslava da Macedónia informa que o Ministério da Justiça da Antiga República Jugoslava da Macedónia é designado autoridade de recepção e transmissão conforme previsto nos n.os 1 e 2 do artigo 2.º do Acordo.»
+Portugal é Parte neste Acordo, que foi aprovado, para ratificação, pelo Decreto do Governo n.º 57/84, publicado no Diário da República, 1.ª série, n.º 226, de 28 de Setembro de 1984, tendo, em 16 de Junho de 1986, Portugal depositado o seu instrumento de ratificação ao Acordo, conforme aviso publicado no Diário da República, 1.ª série, n.º 160, de 15 de Julho de 1986.
+Direcção-Geral dos Assuntos Multilaterais, 26 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
