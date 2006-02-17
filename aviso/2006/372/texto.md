@@ -1,0 +1,5 @@
+Aviso n.º 372/2006
+Por ordem superior se torna público ter a República Popular do Bangladesh depositado junto do Secretário-Geral das Nações Unidas, em 20 de Maio de 2005, o seu instrumento de adesão à Convenção Internacional para a Repressão de Atentados Terroristas à Bomba, concluída em Nova Iorque em 15 de Dezembro de 1997.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 40/2001, publicada no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, ratificada pelo Decreto do Presidente da República n.º 31/2001, publicado no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, tendo depositado o seu instrumento de ratificação em 10 de Novembro de 2001, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 81, de 6 de Abril de 2002.
+A Convenção entrou em vigor para a República Popular do Bangladesh em 19 de Junho de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 27 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
