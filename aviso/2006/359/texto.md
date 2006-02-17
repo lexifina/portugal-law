@@ -1,0 +1,5 @@
+Aviso n.º 359/2006
+Por ordem superior se torna público que, em 20 de Agosto de 2003, o Reino do Butão depositou o seu instrumento de adesão à Convenção Internacional de Combate à Desertificação nos Países Afectados pela Seca Grave e ou Desertificação, particularmente em África, e respectivos quadro anexos, concluída em Paris no dia 17 de Junho de 1994.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 41/95, publicado no Diário da República, 1.ª série-A, n.º 287, de 14 de Dezembro de 1995, tendo depositado o seu instrumento de ratificação em 1 de Abril de 1996, conforme o Aviso n.º 137/98, publicado no Diário da República, 1.ª série-A, n.º 160, de 14 de Julho de 1998, e tendo entrado em vigor em 26 de Dezembro de 1996, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 190, de 19 de Agosto de 1998.
+A Convenção entrou em vigor para o Reino do Butão em 18 de Novembro de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 26 de Janeiro de 2006. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
