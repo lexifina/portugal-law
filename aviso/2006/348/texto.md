@@ -1,0 +1,5 @@
+Aviso n.º 348/2006
+Por ordem superior se torna público terem os Emiratos Árabes Unidos depositado junto do Secretário-Geral das Nações Unidas, em 2 de Junho de 2003, o seu instrumento de adesão à Convenção sobre os Privilégios e Imunidades das Nações Unidas, concluída em Nova Iorque em 13 de Fevereiro de 1946.
+Portugal é Parte desta Convenção, aprovada, para adesão, pela Resolução da Assembleia da República n.º 38/98, publicada no Diário da República, 1.ª série-A, n.º 175, de 31 de Julho de 1998, e ratificada pelo Decreto do Presidente da República n.º 34/98, publicado no Diário da República, 1.ª série-A, n.º 175, de 31 de Julho de 1998, tendo depositado o seu instrumento de adesão em 14 de Outubro de 1998, conforme o Aviso n.º 277/98, publicado no Diário da República, 1.ª série-A, n.º 280, de 4 de Dezembro de 1998.
+A Convenção entrou em vigor para os Emiratos Árabes Unidos em 2 de Junho de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 24 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
