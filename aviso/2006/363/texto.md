@@ -1,0 +1,7 @@
+Aviso n.º 363/2006
+Por ordem superior se torna público que a Noruega depositou junto do Secretário-Geral do Conselho da Europa, em 2 de Março de 2004, o seu instrumento de denúncia à Convenção Europeia sobre a Protecção dos Animais em Transporte Internacional, aberta para assinatura em Paris em 13 de Dezembro de 1968, com a seguinte declaração:
+«In accordance with article 37 of the Convention for the Protection of Animals during International Transport (revised), Norway will continue to apply the Convention of 1968 as amended by its Additional Protocol of 1979 until the entry into force of the revised Convention.»
+Tradução
+Em conformidade com o disposto no artigo 37.º da Convenção Europeia sobre a Protecção dos Animais em Transporte Internacional (revista), a Noruega continuará a aplicar a Convenção de 1968, conforme modificada pelo seu Protocolo Adicional de 1979, até à entrada em vigor da Convenção revista.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 33/82, publicada no Diário da República, 1.ª série, n.º 58, de 11 de Março de 1982, tendo, em 1 de Junho de 1982 Portugal depositado o seu instrumento de ratificação à Convenção, conforme aviso publicado no Diário da República, 1.ª série, n.º 155, de 8 de Julho de 1982.
+Direcção-Geral dos Assuntos Multilaterais, 26 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
