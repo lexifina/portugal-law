@@ -1,0 +1,664 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "104",
+    "id": "21169",
+    "titulo": "Recomenda a criação de uma base de dados sobre crianças em perigo."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2006-02-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3739",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2006-02-22",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "20864",
+        "leg": "X",
+        "nr": "90",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "885",
+            "obs": null,
+            "pag": [
+              "4371-4385"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-02-23",
+            "pubLeg": "X",
+            "pubNr": "93",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4371?pgs=4371-4385&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "885",
+            "obs": null,
+            "pag": [
+              "4371-4385"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-02-23",
+            "pubLeg": "X",
+            "pubNr": "93",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4371?pgs=4371-4385&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alteração à Lei n.º 147/99, de 1 de Setembro com a redacção que lhe foi dada pela Lei n.º 31/2003, de 22 de Agosto. Lei de protecção das crianças e jovens em perigo."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "21171",
+        "leg": "X",
+        "nr": "212",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "885",
+            "obs": null,
+            "pag": [
+              "4371-4385"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-02-23",
+            "pubLeg": "X",
+            "pubNr": "93",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4371?pgs=4371-4385&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "885",
+            "obs": null,
+            "pag": [
+              "4371-4385"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-02-23",
+            "pubLeg": "X",
+            "pubNr": "93",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4371?pgs=4371-4385&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Adopta medidas para o eficaz funcionamento das comissões de protecção de jovens e crianças em perigo."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2006-02-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154383",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4371-4374",
+                  "4384-4385"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-02-23",
+                "pubLeg": "X",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4371?pgs=4371-4374,4384-4385&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei n.º 147/99, de 1 de Setembro com a redacção que lhe foi dada pela Lei n.º 31/2003, de 22 de Agosto. Lei de protecção das crianças e jovens em perigo; Adopta medidas para o eficaz funcionamento das comissões de protecção de jovens e crianças em perigo; Recomenda a criação de uma base de dados sobre crianças em perigo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154384",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4374-4376"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-02-23",
+                "pubLeg": "X",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4374?pgs=4374-4376&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei n.º 147/99, de 1 de Setembro com a redacção que lhe foi dada pela Lei n.º 31/2003, de 22 de Agosto. Lei de protecção das crianças e jovens em perigo; Adopta medidas para o eficaz funcionamento das comissões de protecção de jovens e crianças em perigo; Recomenda a criação de uma base de dados sobre crianças em perigo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1028",
+                "nome": "Sónia Fertuzinhos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154385",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4375-4375"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-02-23",
+                "pubLeg": "X",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4375?pgs=4375&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei n.º 147/99, de 1 de Setembro com a redacção que lhe foi dada pela Lei n.º 31/2003, de 22 de Agosto. Lei de protecção das crianças e jovens em perigo; Adopta medidas para o eficaz funcionamento das comissões de protecção de jovens e crianças em perigo; Recomenda a criação de uma base de dados sobre crianças em perigo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154386",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4376-4376"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-02-23",
+                "pubLeg": "X",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4376?pgs=4376&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei n.º 147/99, de 1 de Setembro com a redacção que lhe foi dada pela Lei n.º 31/2003, de 22 de Agosto. Lei de protecção das crianças e jovens em perigo; Adopta medidas para o eficaz funcionamento das comissões de protecção de jovens e crianças em perigo; Recomenda a criação de uma base de dados sobre crianças em perigo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1923",
+                "nome": "Teresa Vasconcelos Caeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154387",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4376-4378"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-02-23",
+                "pubLeg": "X",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4376?pgs=4376-4378&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei n.º 147/99, de 1 de Setembro com a redacção que lhe foi dada pela Lei n.º 31/2003, de 22 de Agosto. Lei de protecção das crianças e jovens em perigo; Adopta medidas para o eficaz funcionamento das comissões de protecção de jovens e crianças em perigo; Recomenda a criação de uma base de dados sobre crianças em perigo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154388",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4378-4378"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-02-23",
+                "pubLeg": "X",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4378?pgs=4378&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei n.º 147/99, de 1 de Setembro com a redacção que lhe foi dada pela Lei n.º 31/2003, de 22 de Agosto. Lei de protecção das crianças e jovens em perigo; Adopta medidas para o eficaz funcionamento das comissões de protecção de jovens e crianças em perigo; Recomenda a criação de uma base de dados sobre crianças em perigo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2095",
+                "nome": "Maria José Gamboa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154389",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4378-4380"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-02-23",
+                "pubLeg": "X",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4378?pgs=4378-4380&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei n.º 147/99, de 1 de Setembro com a redacção que lhe foi dada pela Lei n.º 31/2003, de 22 de Agosto. Lei de protecção das crianças e jovens em perigo; Adopta medidas para o eficaz funcionamento das comissões de protecção de jovens e crianças em perigo; Recomenda a criação de uma base de dados sobre crianças em perigo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1135",
+                "nome": "Helena Lopes da Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154390",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4380-4383"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-02-23",
+                "pubLeg": "X",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4380?pgs=4380-4383&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei n.º 147/99, de 1 de Setembro com a redacção que lhe foi dada pela Lei n.º 31/2003, de 22 de Agosto. Lei de protecção das crianças e jovens em perigo; Adopta medidas para o eficaz funcionamento das comissões de protecção de jovens e crianças em perigo; Recomenda a criação de uma base de dados sobre crianças em perigo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1923",
+                "nome": "Teresa Vasconcelos Caeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154391",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4382-4382"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-02-23",
+                "pubLeg": "X",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4382?pgs=4382&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei n.º 147/99, de 1 de Setembro com a redacção que lhe foi dada pela Lei n.º 31/2003, de 22 de Agosto. Lei de protecção das crianças e jovens em perigo; Adopta medidas para o eficaz funcionamento das comissões de protecção de jovens e crianças em perigo; Recomenda a criação de uma base de dados sobre crianças em perigo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "1785",
+                "nome": "Francisco Madeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154392",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4383-4384"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-02-23",
+                "pubLeg": "X",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4383?pgs=4383-4384&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei n.º 147/99, de 1 de Setembro com a redacção que lhe foi dada pela Lei n.º 31/2003, de 22 de Agosto. Lei de protecção das crianças e jovens em perigo; Adopta medidas para o eficaz funcionamento das comissões de protecção de jovens e crianças em perigo; Recomenda a criação de uma base de dados sobre crianças em perigo.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "173564",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "327706",
+        "obs": null,
+        "pag": [
+          "4371-4385"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-02-23",
+        "pubLeg": "X",
+        "pubNr": "93",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/093/2006-02-23/4371?pgs=4371-4385&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
