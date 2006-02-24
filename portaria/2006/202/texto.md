@@ -1,0 +1,19 @@
+Portaria n.º 202/2006
+de 24 de Fevereiro
+As alterações do contrato colectivo de trabalho entre a Associação dos Agricultores do Baixo Alentejo e a FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal, publicadas no Boletim do Trabalho e Emprego, 1.ª série, n.º 26, de 15 de Julho de 2005, abrangem as relações de trabalho entre empregadores que, no distrito de Beja, se dediquem à actividade agrícola e pecuária e à exploração silvícola ou florestal e trabalhadores ao seu serviço, todos representados pelas associações que as outorgaram.
+As partes outorgantes requereram a extensão da convenção referida às relações de trabalho entre empregadores e trabalhadores não representados pelas associações outorgantes que no referido distrito se dediquem à mesma actividade.
+As alterações em causa actualizam a tabela salarial. O estudo de avaliação do impacte da extensão da tabela salarial teve por base as retribuições efectivas praticadas no sector abrangido, apuradas pelos quadros de pessoal de 2002 e actualizadas com base no aumento percentual médio das tabelas salariais das convenções publicadas nos anos intermédios.
+Os trabalhadores a tempo completo do sector, com exclusão dos aprendizes e praticantes, são cerca de 1476, dos quais 996 auferem retribuições inferiores às da convenção colectiva, sendo que 344 trabalhadores têm retribuições inferiores às convencionais em mais de 6,4%. É nas empresas de menor dimensão (até 10 trabalhadores) que se encontra o maior número de trabalhadores com remunerações inferiores às convencionais.
+Por outro lado, a convenção actualiza outras prestações de natureza pecuniária, tais como o subsídio de capatazaria, em 6,1%, o subsídio de refeição, em 8,7%, as diuturnidades, em 6,1%, e o subsídio em pequenas deslocações, entre 3,4% e 8,7%. Não se dispõe de dados estatísticos que permitam avaliar o impacte desta prestação.
+Atendendo ao valor das actualizações e porque as mesmas prestações foram objecto de extensão anterior, justifica-se incluí-las na extensão.
+A extensão tem, no plano social, o efeito de melhorar as condições de trabalho de um conjunto significativo de trabalhadores e, no plano económico, promove a aproximação das condições de concorrência entre empresas do mesmo sector.
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, 1.ª série, n.º 47, de 22 de Dezembro de 2005, ao qual não foi deduzida oposição por parte de interessados.
+Assim:
+Ao abrigo dos n.os 1 e 3 do artigo 575.º do Código do Trabalho, manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, o seguinte:
+1.º
+As condições de trabalho constantes das alterações do contrato colectivo de trabalho entre a Associação dos Agricultores do Baixo Alentejo e a FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal, publicadas no Boletim do Trabalho e Emprego, 1.ª série, n.º 26, de 15 de Julho, com rectificação publicada no Boletim do Trabalho e Emprego, 1.ª série, n.º 31, de 22 de Agosto, ambos de 2005, são estendidas, no distrito de Beja:
+a) Às relações de trabalho entre empregadores não filiados na associação de empregadores outorgante que se dediquem à actividade agrícola e pecuária e à exploração silvícola ou florestal e trabalhadores ao seu serviço das profissões e categorias profissionais nela previstas;
+b) Às relações de trabalho entre empregadores filiados na associação de empregadores outorgante que exerçam a actividade económica mencionada na alínea anterior e trabalhadores ao seu serviço das aludidas profissões e categorias profissionais não representados pela associação sindical outorgante.
+2.º
+A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 31 de Janeiro de 2006.
