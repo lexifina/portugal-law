@@ -1,0 +1,41 @@
+Decreto-Lei n.º 45/2006
+de 24 de Fevereiro
+Considerando que a estrutura central do Ministério dos Negócios Estrangeiros, em Lisboa, se encontra ainda fortemente centralizada e concentrada, com a quase totalidade das competências decisórias atribuídas por lei ao próprio Ministro, e sendo estas, em muitos casos, consideradas indelegáveis;
+Considerando que este tipo de organização não só contraria a directriz descentralizadora e desconcentradora expressamente consignada no n.º 2 do artigo 267.º da Constituição, como se tem revelado na prática geradora de ineficiências e lentidão excessiva no processo de tomada de decisões;
+Considerando ainda que, pelas mesmas razões, a intervenção do Primeiro-Ministro nos actos de nomeação, promoção e exoneração, no contexto da carreira diplomática, deve ser reservada aos casos que envolvam as categorias mais elevadas da carreira;
+Considerando, por outro lado, que deve ser alargado o âmbito da possibilidade de delegação de poderes no secretário-geral do Ministério, para fazer dele, plenamente, como é tradicional e está na lei, «o mais alto funcionário da hierarquia do Ministério dos Negócios Estrangeiros» (Lei Orgânica do Ministério dos Negócios Estrangeiros, de 1994, artigo 5.º, n.º 2);
+Considerando, por último, que a publicação em lista, no Diário da República, dos indivíduos aprovados nos concursos para adidos de embaixada e para conselheiros de embaixada poupará ao Primeiro-Ministro e ao Ministro dos Negócios Estrangeiros, em cada ano, várias centenas de assinaturas de diplomas individuais em duplicado ou triplicado:
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Alteração ao Decreto-Lei n.º 48/94, de 24 de Fevereiro
+É alterado o artigo 19.º do Decreto-Lei n.º 48/94, de 24 de Fevereiro, que passa a ter a seguinte redacção:
+«Artigo 19.º
+Forma dos actos
+1 - A nomeação e exoneração dos embaixadores e dos funcionários que desempenhem funções de chefe de missão diplomática bem como dos enviados extraordinários são efectuadas por decreto do Presidente da República, nos termos da Constituição.
+2 - A promoção a embaixador é efectuada por decreto, nos termos da Constituição e da lei.
+3 - São praticados por despacho conjunto do Primeiro-Ministro e do Ministro dos Negócios Estrangeiros os actos seguintes:
+a) A promoção de funcionários diplomáticos a ministro plenipotenciário de 1.ª ou de 2.ª classe;
+b) A nomeação e a exoneração de directores-gerais ou cargos equiparados, incluindo as direcções de institutos públicos integrados na administração central do Ministério.
+4 - São efectuadas por despacho do Ministro dos Negócios Estrangeiros:
+a) A nomeação e exoneração dos subdirectores gerais, dos directores de serviço e dos chefes de divisão ou equiparados;
+b) A homologação dos resultados dos concursos para adido de embaixada e para conselheiro de embaixada, devendo a nomeação individual dos candidatos aprovados ser efectuada mediante lista conjunta publicada no Diário da República, com a assinatura do secretário-geral do Ministério;
+c) A colocação e transferência dos funcionários diplomáticos com categoria igual ou superior à de conselheiro de embaixada, sem prejuízo do disposto no n.º 1;
+d) A nomeação, exoneração e promoção dos funcionários diplomáticos até à categoria de conselheiro de embaixada;
+e) A nomeação, exoneração e transferência dos cônsules-gerais, dos cônsules e dos cônsules honorários;
+f) A nomeação, exoneração e transferência dos vice-cônsules e chanceleres;
+g) A emissão de cartas patentes que acreditem perante outros Estados ou organizações internacionais os funcionários diplomáticos que não sejam embaixadores ou chefes de missão diplomática, bem como os cônsules gerais, cônsules e vice-cônsules, e bem assim os cônsules honorários;
+h) A emissão de cartas patentes, ou documentos de idêntico valor jurídico, que acreditem, perante quaisquer organizações internacionais, congressos ou outras reuniões internacionais, as delegações portuguesas que aí forem enviadas;
+i) Todos os outros actos que criem, alterem ou extingam a situação dos funcionários diplomáticos bem como dos demais funcionários ou agentes ao serviço do Ministério dos Negócios Estrangeiros.
+5 - As competências conferidas ao Ministro dos Negócios Estrangeiros nas alíneas a), b), e c) do número anterior são indelegáveis.
+6 - As competências conferidas ao Ministro dos Negócios Estrangeiros nas alíneas d), e), f) e g) do n.º 4 são delegáveis em Secretários de Estado ou Subsecretários de Estado que coadjuvem o Ministro.
+7 - As competências referidas nas alíneas h) e i) do n.º 4 são delegáveis no secretário-geral do Ministério dos Negócios Estrangeiros.»
+Artigo 2.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho.
+Promulgado em 9 de Fevereiro de 2006.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 14 de Fevereiro de 2006.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
