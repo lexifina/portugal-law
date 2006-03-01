@@ -1,0 +1,5 @@
+Aviso n.º 399/2006
+Por ordem superior se torna público que, em 2 de Novembro de 2005, a República do Burundi depositou o seu instrumento de adesão à Convenção Relativa a Um Código de Conduta das Conferências Marítimas, concluída em Genebra em 6 de Abril de 1974.
+Portugal é Parte da mesma Convenção, aprovada, para adesão, pela Resolução da Assembleia da República n.º 6/90, publicada no Diário da República, 1.ª série, n.º 57, de 9 de Março de 1990, tendo sido ratificada pelo Decreto do Presidente da República n.º 13/90, publicado no Diário da República, 1.ª série, n.º 57, de 9 de Março de 1990, tendo sido depositado o instrumento de adesão à Convenção conforme aviso publicado no Diário da República, 1.ª série, n.º 161, de 14 de Julho de 1990, e tendo entrado em vigor em 13 de Dezembro de 1990, conforme aviso publicado no Diário da República, 1.ª série, n.º 258, de 8 de Novembro de 1990.
+A Convenção entrará em vigor para a República do Burundi a 2 de Maio de 2006.
+Direcção-Geral dos Assuntos Multilaterais, 3 de Fevereiro de 2006. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
