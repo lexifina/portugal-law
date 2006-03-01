@@ -10,4 +10,10 @@ b) O cidadão estrangeiro, refugiado ou apátrida habilitado com título válido
 
 2 - Consideram-se cidadãos nacionais residentes em território nacional os trabalhadores da Administração Pública Portuguesa, quer tenham vínculo de direito público ou privado, e os membros do respectivo agregado familiar, desde que aqueles prestem serviço no estrangeiro e sejam remunerados, total ou parcialmente, pelo Estado Português.
 
-3 - Consideram-se equiparados a residentes os cidadãos estrangeiros, refugiados ou apátridas portadores de visto de trabalho ou de título de protecção temporária válidos.
+3 - Consideram-se equiparados a residentes para efeitos de atribuição da prestação de subsídio de funeral os cidadãos estrangeiros portadores de títulos válidos de autorização de permanência ou visto de trabalho, bem como os refugiados ou apátridas, portadores de título de protecção temporária válidos.
+
+4 - Consideram-se ainda equiparados a residentes para efeitos de atribuição da prestação de abono de família a crianças e jovens:
+
+a) Os refugiados ou apátridas portadores de título de protecção temporária válido;
+
+b) Os cidadãos estrangeiros portadores de títulos válidos de permanência, ou respectivas prorrogações, nos termos e condições a definir em portaria conjunta dos Ministros de Estado e da Administração Interna, da Presidência e do Trabalho e da Solidariedade Social.
