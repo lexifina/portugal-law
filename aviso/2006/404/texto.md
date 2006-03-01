@@ -1,0 +1,5 @@
+Aviso n.º 404/2006
+Por ordem superior se torna público ter a República da Geórgia depositado junto do Secretário-Geral do Conselho da Europa, em 14 de Dezembro de 2005, o seu instrumento de ratificação da Convenção para a Protecção das Pessoas relativamente ao Tratamento Automatizado de Dados de Carácter Pessoal, aberta para assinatura em Estrasburgo em 28 de Janeiro de 1981.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 23/93, publicada no Diário da República, 1.ª série-A, n.º 159, de 9 de Julho de 1993, e ratificada pelo Decreto do Presidente da República n.º 21/93, publicado no Diário da República, 1.ª série-A, n.º 159, de 9 de Julho de 1993, tendo depositado o seu instrumento de ratificação em 2 de Setembro de 1993, conforme o Aviso n.º 227/93, publicado no Diário da República, 1.ª série-A, n.º 259, de 5 de Novembro de 1993.
+A Convenção em epígrafe entrará em vigor para a República da Geórgia em 1 de Abril de 2006.
+Direcção-Geral dos Assuntos Multilaterais, 8 de Fevereiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
