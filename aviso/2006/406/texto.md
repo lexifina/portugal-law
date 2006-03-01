@@ -1,0 +1,5 @@
+Aviso n.º 406/2006
+Por ordem superior se torna público ter o Reino Unido da Grã-Bretanha e Irlanda do Norte depositado junto do Secretário-Geral do Conselho da Europa, em 16 de Dezembro de 2005, uma declaração de extensão ao Bailiado de Jersey da Convenção Europeia sobre o Reconhecimento e a Execução das Decisões Relativas à Guarda de Menores e sobre o Restabelecimento da Guarda de Menores, aberta para assinatura no Luxemburgo em 20 de Maio de 1980.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pelo Decreto n.º 136/82, publicado no Diário da República, 1.ª série, n.º 293, de 21 de Dezembro de 1982, tendo em 18 de Março de 1983 depositado o seu instrumento de ratificação, conforme aviso publicado no Diário da República, 1.ª série, n.º 91, de 20 de Abril de 1983.
+A Convenção em epígrafe entrará em vigor para o Bailiado de Jersey em 1 de Abril de 2006.
+Direcção-Geral dos Assuntos Multilaterais, 9 de Fevereiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
