@@ -1,0 +1,5 @@
+Aviso n.º 405/2006
+Por ordem superior se torna público ter a República da Geórgia depositado junto do Secretário-Geral do Conselho da Europa, em 22 de Dezembro de 2005, o seu instrumento de ratificação da Convenção Quadro para a Protecção das Minorias Nacionais, aberta para assinatura em Estrasburgo em 1 de Fevereiro de 1995.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 42/2001, publicada no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, e ratificada pelo Decreto do Presidente da República n.º 33/2001, publicado no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, tendo depositado o seu instrumento de ratificação em 7 de Maio de 2002, conforme o Aviso n.º 59/2002, publicado no Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 2002.
+A referida Convenção entrará em vigor para a República da Geórgia em 1 de Abril de 2006.
+Direcção-Geral dos Assuntos Multilaterais, 9 de Fevereiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
