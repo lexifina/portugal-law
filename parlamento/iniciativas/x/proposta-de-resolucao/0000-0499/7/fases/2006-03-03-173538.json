@@ -1,0 +1,290 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "7",
+    "id": "20936",
+    "titulo": "Aprova, para ratificação, o Acordo de Diálogo político e Cooperação entre a Comunidade Europeia e os seus Estados Membros, por um lado, e as Repúblicas da Costa Rica, de El Salvador, da Guatemala, das Honduras, da Nicarágua e do Panamá, por outro, assinado em Roma, em 15 de Dezembro de 2003."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2006-03-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3732",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2006-03-03",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Resolução",
+        "id": "20937",
+        "leg": "X",
+        "nr": "8",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "888",
+            "obs": null,
+            "pag": [
+              "4616-4619"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-03-04",
+            "pubLeg": "X",
+            "pubNr": "98",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/098/2006-03-04/4616?pgs=4616-4619&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "S",
+        "titulo": "Aprova, para ratificação, o Acordo de Diálogo Político e Cooperação entre a Comunidade Europeia e os seus Estados Membros, por um lado, e a Comunidade Andina e os seus Países Membros, Repúblicas da Bolívia, Colômbia, Equador, Peru e Venezuela, por outro, incluíndo as declarações, assinado em Roma, em 15 de Dezembro de 2003."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2006-03-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DOS ASSUNTOS EUROPEUS",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "Fernando de Oliveira Neves"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154652",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4616-4617"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-03-04",
+                "pubLeg": "X",
+                "pubNr": "98",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/098/2006-03-04/4616?pgs=4616-4617&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Acordo de Diálogo político e Cooperação entre a Comunidade Europeia e os seus Estados Membros, por um lado, e as Repúblicas da Costa Rica, de El Salvador, da Guatemala, das Honduras, da Nicarágua e do Panamá, por outro, assinado em Roma, em 15 de Dezembro de 2003; idem, e a Comunidade Andina e os seus Países Membros, Repúblicas da Bolívia, Colômbia, Equador, Peru e Venezuela, por outro, incluíndo as declarações, assinado em Roma, em 15 de Dezembro de 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1742",
+                "nome": "Mário Santos David"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154653",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4617-4617"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-03-04",
+                "pubLeg": "X",
+                "pubNr": "98",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/098/2006-03-04/4617?pgs=4617&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Acordo de Diálogo político e Cooperação entre a Comunidade Europeia e os seus Estados Membros, por um lado, e as Repúblicas da Costa Rica, de El Salvador, da Guatemala, das Honduras, da Nicarágua e do Panamá, por outro, assinado em Roma, em 15 de Dezembro de 2003; idem, e a Comunidade Andina e os seus Países Membros, Repúblicas da Bolívia, Colômbia, Equador, Peru e Venezuela, por outro, incluíndo as declarações, assinado em Roma, em 15 de Dezembro de 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2197",
+                "nome": "Renato Leal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4617-4618"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-03-04",
+                "pubLeg": "X",
+                "pubNr": "98",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/098/2006-03-04/4617?pgs=4617-4618&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Acordo de Diálogo político e Cooperação entre a Comunidade Europeia e os seus Estados Membros, por um lado, e as Repúblicas da Costa Rica, de El Salvador, da Guatemala, das Honduras, da Nicarágua e do Panamá, por outro, assinado em Roma, em 15 de Dezembro de 2003; idem, e a Comunidade Andina e os seus Países Membros, Repúblicas da Bolívia, Colômbia, Equador, Peru e Venezuela, por outro, incluíndo as declarações, assinado em Roma, em 15 de Dezembro de 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Hélder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "154655",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4618-4619"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-03-04",
+                "pubLeg": "X",
+                "pubNr": "98",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/098/2006-03-04/4618?pgs=4618-4619&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Acordo de Diálogo político e Cooperação entre a Comunidade Europeia e os seus Estados Membros, por um lado, e as Repúblicas da Costa Rica, de El Salvador, da Guatemala, das Honduras, da Nicarágua e do Panamá, por outro, assinado em Roma, em 15 de Dezembro de 2003; idem, e a Comunidade Andina e os seus Países Membros, Repúblicas da Bolívia, Colômbia, Equador, Peru e Venezuela, por outro, incluíndo as declarações, assinado em Roma, em 15 de Dezembro de 2003",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "173538",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "327920",
+        "obs": null,
+        "pag": [
+          "4616-4619"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-03-04",
+        "pubLeg": "X",
+        "pubNr": "98",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/098/2006-03-04/4616?pgs=4616-4619&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
