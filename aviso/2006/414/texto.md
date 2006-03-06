@@ -1,0 +1,5 @@
+Aviso n.º 414/2006
+Por ordem superior se torna público ter a República de Chipre depositado junto do Secretário-Geral das Nações Unidas, em 3 de Agosto de 2004, o seu instrumento de adesão ao Protocolo ao Acordo de 22 de Novembro de 1950, para a Importação de Objectos de Carácter Educativo, Científico ou Cultural, adoptada pela UNESCO, concluído em Nairobi em 26 de Novembro de 1976.
+Portugal é Parte deste Protocolo, aprovado, para adesão, pela Resolução da Assembleia da República n.º 7/84, publicada no Diário da República, 1.ª série, n.º 51, de 29 de Fevereiro de 1984, tendo depositado o seu instrumento de adesão, com uma reserva, em 11 de Junho de 1984, conforme aviso publicado no Diário da República, 1.ª série, n.º 184, suplemento, de 9 de Agosto de 1984.
+O Protocolo em epígrafe entrou em vigor para a República de Chipre em 3 de Fevereiro de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 20 de Janeiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
