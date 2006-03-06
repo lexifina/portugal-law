@@ -1,0 +1,5 @@
+Aviso n.º 421/2006
+Por ordem superior se torna público ter a República do Paraguai depositado junto do Director-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), em 9 de Novembro de 2004, o seu instrumento de adesão ao Primeiro Protocolo à Convenção para a Protecção dos Bens Culturais em Caso de Conflito Armado, concluído na Haia em 14 de Maio de 1954.
+Portugal é Parte deste Protocolo, aprovado, para adesão, pela Resolução da Assembleia da República n.º 4/2005, publicada no Diário da República, 1.ª série-A, n.º 31, de 14 de Fevereiro de 2005, e ratificado pelo Decreto do Presidente da República n.º 9/2005, publicado no Diário da República, 1.ª série-A, n.º 31, de 14 de Fevereiro de 2005, tendo depositado o seu instrumento de adesão em 18 de Fevereiro de 2005, conforme o Aviso n.º 228/2005, publicado no Diário da República, 1.ª série-A, n.º 99, de 23 de Maio de 2005.
+O Protocolo entrou em vigor para a República do Paraguai em 9 de Fevereiro de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 14 de Fevereiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
