@@ -1,0 +1,5 @@
+Aviso n.º 420/2006
+Por ordem superior se torna público ter a República da Islândia depositado junto do Director-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), em 9 de Novembro de 2004, o seu instrumento de ratificação à Convenção Relativa às Medidas a Adoptar para Proibir e Impedir a Importação, a Exportação e a Transferência Ilícitas de Propriedade de Bens Culturais, adoptada na 16.ª sessão da Conferência Geral da UNESCO, concluída em Paris em 14 de Novembro de 1970.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pelo Decreto do Governo n.º 26/85, publicado no Diário da República, 1.ª série, n.º 170, de 26 de Julho de 1985, tendo depositado o seu instrumento de ratificação em 9 de Dezembro de 1985, conforme o aviso n.º 78/2002 publicado no Diário da República, 1.ª série-A, n.º 177, de 2 de Agosto de 2002.
+A Convenção entrou em vigor para a República da Islândia em 9 de Fevereiro de 2005.
+Direcção-Geral dos Assuntos Multilaterais, 13 de Fevereiro de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
