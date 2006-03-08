@@ -1,0 +1,174 @@
+# Acórdão do Tribunal Constitucional n.º 182/2006, de 2006-03-08
+
+**Acórdão:** 182/06
+
+**Processo:** 404/05
+
+**Formação:** 2ª Secção
+
+**Espécie:** Recurso
+
+**Data:** 08.03.2006
+
+**Relator:** Cons. Mário Torres
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/20060182.html
+
+## Texto integral
+
+ACÓRDÃO N.º 182/2006
+Processo n.º 404/05
+
+2.ª Secção
+
+Relator: Conselheiro Mário Torres
+
+Acordam na 2.ª Secção do Tribunal Constitucional,
+
+1. Relatório
+
+A Caixa Geral de Depósitos intentou, em 6 de Março de 2003, no Tribunal Judicial da Comarca da Moita, acção executiva para pagamento de quantia certa, com pro­cesso ordinário, contra A. e mulher, B., emergente de três contratos de mútuo com hipoteca, sendo um dele celebrado em 21 de Dezembro de 1999 e outros dois em 19 de Outubro de 2001, que estes teriam incumprido.
+
+Por despacho de 2 de Maio de 2003 (fls. 72), foi ordenada a citação dos exe­cutados, através de via postal simples, para, decorrida a legal dilação, no prazo de 20 dias pagarem ao exequente, sob pena de o imóvel hipotecado ser penhorado (artigos 811.º, n.º 1, e 835.º do Código de Processo Civil – CPC).
+
+A citação foi efectuada pela via indicada, para a morada dos executados cons­tante das escrituras dos referidos contratos (…, …, Moita), constando dos autos menção desse envio, em 9 de Maio de 2003 (fls. 73), e tendo sido juntos os talões com a declaração do distribuidor do serviço postal de que, em 13 de Maio de 2003, havia procedido ao depósito das cartas de citação no receptáculo postal da referida morada (fls. 74 e 75).
+
+O executado marido arguiu, em 8 de Abril de 2004, a nulidade da citação, afirmando nunca ter recebido a correspondente carta e ter tido conhecimento da pendência do presente processo apenas quando o comprador de um dos imóveis o registou, aduzindo que a morada indicada nos autos corresponde a uma quinta, não oferecendo o respectivo receptáculo postal (que se encontra a mais de 130 metros da residência e não é inspeccionado diariamente) qualquer garantia de inviolabilidade. Mais suscitou a questão da inconstitucionalidade, por violação dos princípios da proibição da indefesa e do processo equitativo, consagrados no artigo 20.º da Constituição da República Portuguesa (CRP), da aplicação do regime da citação por via postal simples, estabelecido no artigo 236.º‑A do CPC, às acções executivas.
+
+A exequente respondeu, afirmando não corresponder à verdade o aduzido pelo executado quanto ao conhecimento da pendência da execução, pois ele já sabia há muito que tinha sido instaurada acção executiva, na sequência do que manteve vários contactos com a exequente, quer nas instalações na Moita, quer na Baixa da Banheira, tendo, numa reunião realizada em Novembro de 2003, solicitado à exequente a marcação de data para a celebração da escritura de compra e venda, altura em que liquidaria a quantia exequenda, mas, marcada a escritura para 19 de Novembro de 2003, os executados não compareceram. Quanto à sua resi­dência, ela não constitui uma “quinta”, no sentido de terreno rústico com certo isolamento, mas moradia com piscina e jardim, local de morada dos executados, por eles indicada para efeitos fiscais e eleitorais, para a qual sempre foi remetida e recebida a correspondência rela­tiva aos mútuos em causa e expedida, em 26 de Novembro de 2003, a carta registada de noti­ficação do termo de penhora, que não foi devolvida, pelo que a arguição de nulidade da cita­ção, efectuada em Abril de 2004, além de infundada, se mostrava manifestamente extemporâ­nea.
+
+Por despacho de 15 de Julho de 2004 (fls. 22 e 23), foi julgada improcedente a invocada excepção dilatória da falta de citação, reputando‑se conforme à Constituição a apontada solução legislativa. Ponderou‑se nesse despacho:
+
+“A citação ordenada no despacho de fls. 46 e efectivada a fls. 48 e 49 (por depósito) colhe a sua base legal no artigo 236.º‑A, n.º 1, do Código de Processo Civil (com a redacção que lhe foi conferida pelo Decreto‑Lei n.º 183/2000, de 10 de Agosto), onde a morada dos executados nas escrituras de compra e venda de fls. 16 e 23 é a mesma que consta da petição inicial e sendo a acção executiva para pagamento de quantia certa, com escritura pública como título executivo, é esta acção que, por excelência, representa o cumprimento de obrigações pecuniárias (não distinguindo a lei entre acções declarativas e o processo especial de execução), por isso determinando o Tribunal o cumpri­mento desta forma de citação.
+
+Prosseguindo‑se a citação por via postal simples nos termos do artigo 236.º‑A do Código de Processo Civil, não vislumbramos qualquer inconstitu­cionalidade face ao artigo 20.º da CRP.
+
+Com efeito, essa opção do legislador ordinário fundou‑se, entre outras razões, na responsabilidade do cidadão em sociedade perante os compromissos que assume (os quais foram firmados em 19 de Outubro de 2001, ou seja, as escrituras foram celebradas em data posterior à entrada em vigor da opção le­gislativa taxada no artigo 236.º‑A do Código de Processo Civil), onde se o mesmo indica uma morada e aí residindo (como continua a residir), torna‑se responsável por essa indicação. Se o executado não verifica a caixa de correio diariamente, ou se achava que a mesma se encontrava demasiado distante da sua residência, tinha a obrigação de corrigir essa situação de incerteza, com as quais era conivente e unicamente a si imputável (razão porque não pode nunca operar a nulidade por falta de citação nos termos dos artigos 194.º, alínea a), e 195.º, alínea e), in fine, do Código de Processo Civil).
+
+Não pode é, sem mais, lançar a incerteza, afirmando que não recebeu qualquer carta (que a lei processual, na altura em vigor, não admitia – cfr. ar­tigo 236.º–A, n.º 2, do Código de Processo Civil) perante qualquer notificação que se lhe dirija judicial ou extrajudicial. Com efeito, a caixa de correio, mere­cendo actualmente tutela penal, pela sua privacidade (enquanto extensão social e pessoal do indivíduo), não deixa de o ser pela circunstância de os executados não a consultarem diariamente, ou acharem que a mesma se encontrava dema­siado distante.
+
+A solução legislativa que vigorou na redacção do artigo 236.º‑A não criou qualquer incerteza ou injustiça entre as partes, antes promoveu a respon­sabilidade dos contraentes e a segurança nas relações jurídicas, não se encon­trando de modo algum afectados quaisquer dos princípios plasmados no artigo 20.º da CRP.
+
+Pelo exposto, tendo‑se cumprido as formalidades legais e efecti­vando‑se a citação do executado, inexiste qualquer nulidade por falta de citação nos termos dos artigos 194.º, alínea a), e 195.º, alínea e), ou sequer nulidade de citação nos termos do artigo 198.º, n.º 1, do Código de Processo Civil, pelo que julgo improcedente a invocada excepção dilatória, dela absolvendo o exe­quente.”
+
+Deste despacho agravou o executado para o Tribunal da Relação de Lisboa, reiterando nas respectivas alegações a tese de que “o disposto no artigo 236.º‑A do CPC, em vigor na altura, a aplicar‑se às acções executivas, é inconstitucional, por violar os princípios da proibição da indefesa e do processo equitativo, consagrados no artigo 20.º da Constitui­ção da República Portuguesa”.
+
+Por acórdão de 24 de Fevereiro de 2005, o Tribunal da Relação de Lisboa ne­gou provimento ao agravo, com a seguinte fundamentação:
+
+“Quer à data da instauração da execução quer da respectiva citação, en­contrava‑se em vigor o disposto no artigo 236.°‑A do Código de Processo Ci­vil, introduzido pelo Decreto‑Lei n.º 183/2000, de 10 de Agosto.
+
+Nos termos do artigo 811.º, n.º 1, do Código de Processo Civil, na re­dacção anterior à que lhe foi dada pelo Decreto‑Lei n.º 38/2003, de 8 de Março, quando não houvesse fundamento para indeferimento liminar ou aperfeiçoa­mento da petição executiva, o juiz deveria ordenar a citação do executado.
+
+As normas reguladoras da acção executiva não definiam a forma como deveria ser efectuada a citação, preceituando o artigo 466.°, n.º 1, do referido Código, igualmente na redacção anterior à do mencionado Decreto‑Lei n.º 38/2003, que: «São subsidiariamente aplicáveis ao processo de execução, com as necessárias adaptações, as disposições reguladoras do processo de decla­ração que se mostrem compatíveis com a natureza da acção executiva».
+
+Deste modo, a citação para a acção executiva teria de ser efectuada pela forma prevista para o processo declarativo e, tratando‑se de incumprimento contratual, esta deveria operar‑se por via postal simples, como determinava o n.º 1 do referido artigo 236.°‑A do Código de Processo Civil.
+
+Dúvidas não restam de que a morada indicada na petição executiva é a que consta dos contratos de mútuo e que a citação se efectuou por depósito no respectivo receptáculo postal, razão para que o facto de o agravante ter indi­cado para efeitos do registo predial outra morada distinta da constante dos alu­didos contratos seja de todo irrelevante, tendo em conta o n.º 2 do artigo 236.°‑A, do mencionado Código.
+
+A circunstância de o receptáculo postal se encontrar a 130 metros, não ser inspeccionado diariamente e não oferecer garantias de inviolabilidade tam­bém não conduz à ilegalidade da citação, na medida em que é ao agravante que incumbe providenciar pela aquisição e colocação de um receptáculo postal não só em condições de segurança como ainda em local apropriado e cómodo para a sua conveniente inspecção.
+
+A revogação da citada disposição legal, operada pelo dito Decreto‑Lei n.º 38/2003, de 8 de Março, não teve a ver com qualquer dúvida, porventura existente, sobre a constitucionalidade do preceito, mas sim com o constante do preâmbulo deste diploma, na parte em que refere: «Aproveita‑se a nova figura do solicitador de execução para lhe atribuir a citação pessoal do réu na acção declarativa, simultaneamente se fazendo cessar a modalidade da citação pos­tal simples».
+
+Na realidade, o facto de nas acções para cumprimento de obrigações pecuniárias emergentes de contrato reduzido a escrito, a citação ser efectuada por aviso postal simples, para a morada indicada nesse contrato, não inibe o réu ou executado e, consequentemente, o agravante, de se defender, nem tão‑pouco de exercer os direitos previstos no artigo 20.° da Constituição da República Portuguesa.
+
+O artigo 236.°‑A do Código de Processo Civil teve em vista a segurança jurídica e o evitar perturbações nas citações nos casos ali previstos.
+
+Perante isto, não se vislumbra que uma citação operada por aviso postal simples e colocada, como foi o caso em apreço, no receptáculo da residência do agravante possa obstar aos seus direitos de defesa e ao acesso ao direito e à tutela jurisdicional efectiva, motivo pelo que a alegada inconstitucionalidade não se verifica.
+
+A citação foi, pois, legalmente efectuada.
+
+Assim, face ao exposto, nega‑se provimento ao agravo e, em conse­quência, confirma‑se o douto despacho recorrido.”
+
+É contra este acórdão que, pelo mesmo recorrente, vem interposto o presente recurso para o Tribu­nal Cons­titucional, ao abrigo do artigo 70.º, n.º 1, alínea b), da Lei de Orga­ni­za­ção, Fun­ciona­mento e Processo do Tri­bunal Cons­titucional, aprovada pela Lei n.º 28/82, de 15 de Novembro, e alterada, por úl­timo, pela Lei n.º 13‑A/98, de 26 de Fe­ve­reiro (LTC), pre­tendendo ver apreciada a inconstitu­cionalidade, por violação dos princípios da proibição da indefesa e do processo equitativo, consagrados no artigo 20.º da CRP, “da norma ínsita no artigo 236.º‑A do CPC, com a redacção que lhe foi dada pelo Decreto‑Lei n.º 183/2000, de 10 de Agosto”.
+
+No Tribunal Constitucional, o recorrente apresentou alegações, no termo das quais formulou as seguintes conclusões:
+
+“I – O disposto no artigo 236.°‑A, n.º 1, do CPC, em vigor na altura, a aplicar‑se às acções executivas, é inconstitucional por violar os princípios da proibição da indefesa e do processo equitativo, consagrados no artigo 20.° da Constituição da República Portuguesa.
+
+II – Tal violação foi prontamente verificada pelo legislador que, com a entrada em vigor do Decreto‑Lei n.º 38/2003, de 8 de Março, revogou tal dis­posição, acabando com a possibilidade da citação por via postal simples.”
+
+A recorrida não contra‑alegou.
+
+Tudo visto, cumpre apreciar e decidir.
+
+2. Fundamentação
+
+Foi o Decreto‑Lei n.º 183/2000, de 10 de Agosto, que, com o aditamento do artigo 236.º‑A e a alteração de redacção do artigo 238.º, ambos do CPC, veio estabelecer a possibilidade de “citação por via postal simples” em duas situações: nas acções para cum­pri­mento de obrigações pecuniárias emergentes de contrato reduzido a escrito e nos casos de frustração de citação por via postal por meio de carta registada com aviso de recepção. Na primeira hipótese, a citação era feita mediante o envio de carta simples, dirigida ao citando e endereçada para o domicílio ou sede que tivesse sido inscrito naquele contrato para identifica­ção da parte (excepto se esta tivesse expressamente convencionado um outro local onde se devesse considerar domiciliada ou sediada para efeitos de realização da citação em caso de litígio). Na segunda hipótese, a secretaria obtinha informação sobre a residência, local de tra­balho ou, tratando‑se de pessoa colectiva ou sociedade, sobre a sede ou local onde funcionava normalmente a administração do citando, nas bases de dados dos serviços de identificação civil, da segurança social, da Direcção‑Geral dos Impostos e da Direcção‑Geral da Viação, e, então, das duas uma: ou existia coincidência entre os endereços da carta registada enviada e os constantes de todas as bases de dados, caso em que se procedia à citação por via postal simples para esse local; ou não existia essa coincidência, caso em que a citação por via postal simples devia ser feita para cada um dos locais constantes dessas bases. As formalidades da citação eram as seguintes: (i) o funcionário judicial lavrava uma cota no processo com a indi­cação expressa da data da expedição da carta simples ao ci­tando e do domicílio ou sede para a qual foi enviada (n.º 5 do artigo 236.º‑A); (ii) o distribuidor do serviço postal pro­cedia ao de­pósito da referida carta na caixa de correio do citando e lavrava uma declaração indicando a data e confirmando o local exacto desse depósito, remetendo‑a de imediato ao serviço ou tri­bunal remetente (n.º 6 do artigo 236.º‑A). A notificação considerava‑se efectuada no dia em que o distri­buidor do serviço postal tivesse depositado a carta na caixa postal do citando ou na caixa postal do endereço indicado nas bases de dados, data que era indicada na declaração remetida ao tribunal, e tinha‑se por efectuada na pessoa do citando (n.º 2 do artigo 238.º‑A do CPC).
+
+Essa possibilidade de citação por via postal simples, instituída pelo De­creto‑Lei n.º 183/2000, foi entretanto revogada pelo Decreto‑Lei n.º 38/2003, de 8 de Março, sendo agora regra a de que a citação postal se faz por meio de carta registada com aviso de recepção (artigo 236.º) e de que, frustrando‑se essa via postal, é efectuada mediante contacto pessoal do solicitador de execução com o citando (artigo 239.º).
+
+É conhecida a polémica que a referida inovação suscitou quer entre os profis­sionais forenses, quer a nível doutrinário, com base na alegada insegurança, não só do conhe­cimento, mas da própria cognoscibilidade do acto de citação por parte do destinatário. Carlos Lopes do Rego (“Os princípios constitucionais da proibição da indefesa, da propor­cionalidade dos ónus e cominações e o regime da citação em processo civil”, em Estudos em Homenagem ao Conselheiro José Manuel Cardoso da Costa, Coimbra, 2003, pp. 835‑859) aponta, a este pro­pósito, como aspectos criticáveis: (i) quanto ao primeiro grupo de situações (acções emergentes de contratos escritos): 1) a suficiência da mera indicação da residência ou sede do ci­tando constante do contrato escrito (não se exigindo – como no “Regime dos pro­cedimentos destinados a exigir o cumprimento de obrigações pecuniárias emergentes de contratos de valor não superior à alçada do tribunal de 1.ª instância”, aprovado pelo De­creto‑Lei n.º 269/98, de 1 de Setembro – a convenção pelas partes do local onde se conside­ram domiciliadas para efeito de realização de citação ou notificação em caso de litígio); 2) a aplicabilidade do regime independentemente do valor da causa; e 3) a não exigência de uma primeira tenta­tiva de citação por via postal registada (como ocorria nesse Regime); (ii) quanto ao segundo grupo de situações (acções que não tenham como causa de pedir um contrato em que se haja inscrito o domicílio ou a sede do réu mas em que se frustrou a tentativa de citação por via postal registada): a criação de um verdadeiro domicílio judicial necessá­rio, assente nos elementos que constem, em alternativa, das quatro bases de dados referidas, a que a secretaria passa a ter acesso sem necessidade da autorização judicial prevista no artigo 519.º‑A do CPC; (iii) quanto a ambos os grupos de situações: a manutenção integral dos efeitos cominatórios e preclusivos associados à revelia do réu, cuja gravidade “pressupõe ne­cessariamente uma cer­teza prática no conhecimento ou cognoscibilidade do acto de citação e uma efectiva e real possibilidade de arguir os vícios que, porventura, inquinem tal acto”, condições que “não se mostram suficientemente asseguradas pelo regime estabelecido para a citação por via postal simples, já que o simples depósito de uma carta no receptáculo postal de um domicílio pre­sumido não assegura, em termos bastantes, aquela cognoscibilidade”.
+
+Apesar do conhecimento destas críticas e da vigência do questionado regime durante cerca de três anos, o certo é que esta é a primeira vez que a questão da constituciona­lidade da norma do artigo 236.º‑A do CPC é colocada ao Tribunal Constitucional, e, no que concerne à estatuição do artigo 238.º, apenas se registaram cinco decisões deste Tribunal: Acórdãos n.ºs 287/2003, 91/2004, 243/2005 e 104/2006 e Decisão Sumária n.º 505/2004.
+
+A primeira decisão que o Tribunal Constitucional proferiu sobre o regime da citação por via postal simples recaiu numa hipótese em que, em acção declarativa subsequente a procedimento de injunção em que se frustrara a notificação por carta registada com aviso de recepção do requerido, não tendo as partes estipulado um domicílio no contrato de cujo in­cumprimento emergia a acção, o réu foi imediatamente citado, por via postal simples, para a residência indicada pelo credor, sem que o tribunal averiguasse previamente a coincidência dessa residência com as constantes das bases de dados referenciadas no n.º 1 do artigo 238.º do CPC. Trata‑se do Acórdão n.º 287/2003, no qual o Tribunal Constitucional julgou incons­titucional a interpretação normativa do n.º 2 do artigo 238.º do CPC em causa, e, no qual, após recordar anterior jurisprudência sobre o princípio da proibição de indefesa, designadamente em citações e notificações no domínio do direito processual civil (Acórdãos n.ºs 271/95 e 333/95), consignou o seguinte:
+
+“Recentemente, disse‑se no Acórdão n.º 508/2002, de 2 de Dezembro de 2002, in Diário da República, II Série, de 26 de Fevereiro de 2003:
+
+«O direito de defesa do réu ou demandado judicialmente, ou o chamado princípio da proibição da indefesa é indiscutivelmente um di­reito de natureza processual ínsito no direito de acesso aos tribunais, constante do artigo 20.º da Constituição, e cuja violação acarretará para o particular prejuízos efectivos, decorrentes de um impedimento ou um efectivo cerceamento ao exercício do seu direito de defesa.»
+
+E, mais adiante, escreveu‑se que «(...) o legislador tem de prever meca­nismos para evitar que o processo fique parado indefinidamente, à espera de que o demandado seja localizado e chamado ao processo. Há que conciliar e equilibrar os vários princípios e interesses em jogo, nomeadamente os do con­traditório e da referida proibição da indefesa com aquele outro princípio da ce­leridade processual e ainda com os princípios da segurança e da paz jurí­dica, que são valores e princípios de igual relevância e constitucionalmente protegi­dos» e não permitir que o processo «se arraste indefinidamente em in­vestiga­ções exaustivas e infindáveis ou que as mesmas se possam reabrir ou efectuar novamente a qualquer momento no decurso do processo, o que pode­ria ter con­sequências desestabilizadoras e frustrar assim o alcance da jus­tiça».
+
+7 – Ora, no caso em apreço, seguindo esta linha jurisprudencial, o que importa decidir é se, no balanceamento daqueles princípios e interesses, referi­dos no acórdão que se acabou de transcrever, a solução legislativa em causa – tal como o julgador a interpretou – ofende desproporcionadamente os direitos de defesa do demandado, pela forma adoptada de comunicação da propositura da acção, nomeadamente se ela oferece as garantias mínimas de segurança e fiabilidade em termos de se não tornar impossível ou excessivamente difícil a ilisão da presunção de efectivo recebimento da citação, defendendo‑se contra a eventualidade de ausências ocasionais.
+
+E recorde‑se, uma vez mais, que a interpretação judicial em causa – afastada por inconstitucionalidade – se configura nos seguintes termos:
+
+Em caso de cobrança de um crédito inferior à alçada da 1.ª instância, emergente de um contrato escrito, sem domicílio convencionado, a citação do demandado, na acção subsequente ao processo de injunção em que se frustrou a notificação por carta registada endereçada para o domicílio indicado pelo autor, deve fazer‑se por via postal simples, sem prévia consulta às bases referi­das no artigo 238.º, n.º 1, do CPC.
+
+Entende‑se que esta «norma» ofende o disposto no artigo 20.º da Cons­tituição.
+
+Tem, com efeito, razão o recorrente quando sustenta que deste modo se confere uma tutela desproporcionada ao interesse da celeridade no andamento dos processos «desvalorizando, concomitantemente, as exigências de segu­rança e justiça e o cabal cumprimento da regra do contraditório».
+
+De facto, tal «norma» acaba por fazer aplicar aos casos em que não há domicílio convencionado – e, consequentemente, não há por parte do devedor o dever de informar o credor das alterações do domicílio, nem a obrigação de controlar periodicamente o correio depositado no receptáculo postal do domi­cílio – o regime previsto para as situações de domicílio pactuado.
+
+Com este regime, em que não há qualquer comprovação de exactidão do dado referente ao domicílio do réu (não se consultam as bases referidas no artigo 283.º, n.º 1, do CPC), torna‑se extremamente onerosa ou mesmo impos­sível a ilisão da presunção de depósito da carta simples no receptáculo postal daquele domicílio (a prova de um facto negativo), sendo certo que a certifica­ção do depósito é feita pelo distribuidor do servidor postal que, como diz o re­corrente, «não pode considerar-se um funcionário público provido de fé pú­blica».
+
+Trata‑se, pois, de uma situação em que se pressupõe o efectivo conhe­cimento da petição, por parte do réu, quando o depósito da carta simples não representa um índice seguro da sua recepção e difícilmente pode ser ilidido. Tudo com a consequência de a falta de contestação gerar a condenação de pre­ceito consagrada no artigo 2.º do «Regime dos Procedimentos» anexo ao De­creto‑Lei n.º 269/98 e a subsequente execução do réu.
+
+Mostra‑se, assim, violado o princípio constitucional da «proibição da indefesa» e a exigência de um «processo equitativo», ínsitos no artigo 20.º da CRP.”
+
+Posteriormente, pelos Acórdãos n.ºs 91/2004 e 243/2005, o Tribunal Constitu­cional viria a não julgar inconstitucional a norma do n.º 2 do artigo 238.º do CPC, mas sa­lientando que a situação era diversa na apreciada no Acórdão n.º 287/2003 (nos casos de que emergiram os recursos onde foram proferidos aqueles dois Acórdãos, havia sido inicialmente tentada a citação através de carta registada com aviso de recepção, que resultou frustrada por a carta não ter sido reclamada pelo destinatário, e a secretaria procedera a pedidos de infor­mação às entidades oficiais e a consulta das aludidas bases de dados, tendo sido expedidas cartas postais simples para todos os endereços apurados), e não deixando de sublinhar, por reprodu­ção do afirmado no Acórdão n.º 335/95, que:
+
+“(...) nos processos cíveis – normalmente quando estão essencialmente em causa pretensões de natureza patrimonial e as partes são, para a lei, perfei­tamente iguais – o legislador tem de prever mecanismos para evitar que o pro­cesso fique parado indefinidamente, à espera de que o demandado seja locali­zado e chamado ao processo. Tratando‑se de processos de diferente natureza, por exemplo em processos de natureza penal, as preocupações de evitar que o processo fique parado à espera de localização do arguido levam à consagração de outros mecanismos, sendo perfeitamente compreensível que o grau de exi­gência quanto a tais mecanismos seja superior, dados os interesses em causa, nomeadamente a regra constitucional de que o processo penal assegura todas as garantias de defesa (veja‑se o instituto da contumácia em processo penal).”
+
+Por seu turno, a Decisão Sumária n.º 505/2004, em caso considerado similar àquele sobre que versara o Acórdão n.º 91/2004, voltou a julgar não inconstitucional a norma do artigo 238.º, n.º 2, do CPC.
+
+Por último, o Acórdão n.º 104/2006 julgou inconstitucional, por violação dos artigos 20.º, n.ºs 1 e 4, e 18.º, n.º 2, da CRP, a norma do artigo 238.º‑A, n.º 4, do CPC, na redacção do Decreto‑Lei n.º 183/2000, de 10 de Agosto, “quando aplicada a casos de inter­venção provocada em que a não intervenção do chamado no processo não impeça que se constitua, quanto a ele, caso julgado”. Convocando, como parâmetros constitucionais, os princípios da proibição da indefesa e da proporcionalidade, este na tripla perspectiva da ade­quação (a medida legislativa em causa é apropriada à prossecução do fim, a ela subjacente, da celeridade processual?), da necessidade (ela significou a “menor desvantagem possível” para a posição fundamental decorrente do direito de acesso aos tribunais?) e da proporcionalidade em sentido estrito (o resultado obtido é proporcional à carga coactiva que comporta?), na “ponderação de meios e fins”, a que o acórdão referido procedeu, foram determinantes, para a emissão final do juízo de inconstitucionalidade, as circunstâncias de, no caso concreto em apreço: (i) a quantia envolvida no processo ser elevada (85 880 278$00); (ii) o citando já não residir nos diferentes locais em que se presumia a sua residência; (iii) não se estar perante uma situação de domicílio convencional ou electivo; e (iv) a posição processual do citando, como chamado, poder implicar, nos termos em que o chamamento foi feito, a formação de caso julgado, mesmo sem a sua intervenção no processo.
+
+No presente caso, porém, está em causa a norma do artigo 236.º‑A, n.º 1, do referido Código, que possibilita, nas acções para cumprimento de obrigações pecuniárias emergentes de contrato reduzido a escrito, a citação mediante o envio de carta simples, diri­gida ao citando e endereçada para o domicílio ou sede que tenha sido inscrito naquele contrato para identificação da parte, excepto se esta tiver convencionado um outro local onde se deva considerar domiciliada ou sediada para efeitos de realização da citação em caso de litígio. Não se exige, pois, nestas situações, ao contrário do que sucede na previsão do artigo 238.º do CPC, nem a prévia tentativa (frustrada) de citação por via postal registada, nem a consulta das referidas quatro bases de dados para controlo da correcção da indicação da morada do citando.
+
+Não se afigura, porém, que, no contexto do caso em análise, estas diferenças de regime se revelem particularmente relevantes. Quando as duas últimas escrituras dos contra­tos de mútuo que estiveram na base da instauração do processo executivo foram celebradas (em 19 de Outubro de 2001) já estava em vigor o regime instituído pelo Decreto‑Lei n.º 183/2000, de 10 de Agosto, através do adita­mento do artigo 236.º‑A e da alteração de redac­ção do artigo 238.º, ambos do CPC, pelo que o recorrente sabia (ou podia e devia saber) que a morada por ele indicada como sua nos referi­dos contratos (e uma vez que nestes não fora ex­pressamente convencionado um outro local onde se devesse considerar domiciliado) era aquela para onde seriam remetidas todas as cita­ções e notificações nos processos judiciais que, em caso de litígio, contra ele viessem a ser instaurados. Por outro lado, também sabia (ou podia e devia saber) que, em caso de alteração de residência, tinha a obrigação legal de a co­municar à outra parte, com a antecedência fixada no n.º 2 do mesmo artigo 236.º-A.
+
+Sublinhe‑se que, com a celebração dos contratos em causa – contratos de mútuo com hipoteca, celebrados um em 21 de Dezembro de 1999, da quantia de 9 900 000$00 (€ 49 380,99), e dois em 19 de Outubro de 2001, das quantias de 19 028 741$00 (€ 94 914,16) e de 16 764 000$00 (€ 83 618,48), destinados ao financiamento de aquisição de habitação própria permanente, sendo que a hipoteca constituída nos dois últi­mos contratos recaiu sobre o prédio já habitado pelos mutuários – se estabeleceu entre as partes um relacionamento duradouro, que, em princípio, se estenderia ao longo dos anos até total amortização dos empréstimos (cujo prazo foi sempre estipulado em 30 anos), sendo essencial, para o cumprimento das recíprocas obrigações, que cada uma mantivesse a outra informada de eventuais alterações do domicílio ou sede inicialmente indicados. Neste con­texto, não se pode considerar que fosse inesperada ou abusiva (no sentido de desconforme com a finalidade da sua menção) a utilização da morada indicada pelos mutuários nas escritu­ras como endereço adequado para dar notícia da instauração da execução, muito provavel­mente na sequência da frustração de tentativas extrajudiciais de solução do litígio, diferente­mente das situações em que só com o chamamento a juízo o notificando se apercebe da ins­tauração do pleito contra si.
+
+Por outro lado, no presente caso – diversamente do ocorrido no processo em que foi proferido o Acórdão n.º 104/2006, em que se apurou que o citando já não residia nos diferentes locais em que se presumia a residência –, nenhuma dúvida se suscita quanto à cor­recção da morada dos executados, pois a que constava dos contratos de mútuo e para a qual foram ende­reçadas as cartas de citação corresponde justamente à sua residência efectiva, pelo que a não exigência (em contraste com o estatuído no artigo 238.º) de prévia consulta às alu­didas bases de dados surge como, de todo, irrelevante.
+
+Em causa está, pois, tão‑só a fiabilidade da tramitação desta forma de citação. Ora, há que reconhecer que o legislador rodeou a utilização deste modo de comunicação de actos de especiais cautelas: exige que o oficial de justiça lavre cota no processo com a indica­ção expressa da data da expedição da carta simples ao citando ou ao notificando e do domicí­lio ou sede para a qual foi enviada (n.º 5 do artigo 236.º‑A do CPC e n.º 2.º da Portaria n.º 1178‑A/2000, de 15 de Dezembro) e exige que o distribuidor do serviço postal emita duas declarações escritas (uma no verso do sobrescrito depositado e a outra na prova de depósito, que deve destacar do sobrescrito e enviar de imediato ao tribunal remetente) de que efectuou o depósito da carta na caixa de correio do citando ou do notificando, confirmando o local exacto deste depósito, indicando a respectiva data e apondo a sua assinatura de forma legível (n.º 6 do artigo 236.º‑A do CPC e n.º 3.º da Porta­ria n.º 1178‑A/2000). A isto acresce que eventual falsa declaração de depósito fará incorrer o distribuidor de serviço postal seu autor em infrac­ção disciplinar e mesmo, caso exista intenção de causar prejuízo a outra pessoa ou ao Estado ou de obter para si ou para outra pessoa bene­fício ilegítimo, infracção criminal (artigo 256.º, n.º 1, alínea b), do Código Penal).
+
+Por outro lado, não surge como excessivamente oneroso para os particulares destinatários das comunicações judiciais, no âmbito do dever de colaboração com a adminis­tração da justiça, enquanto manifestação de uma cidadania responsável, a manutenção, em condições de segurança, de receptáculos para a correspondência postal que lhes seja dirigida e a consulta regular da mesma. Ao que acresce a previsão, no n.º 3 do artigo 252.º‑A do CPC (na redacção do Decreto‑Lei n.º 183/2000, alterada pela Lei n.º 30‑D/2000, de 20 de Dezem­bro), de que ao prazo de defesa do citando acresce uma dilação de 30 dias quando a citação haja sido por via postal simples, o que previne situações de eventuais ausências temporárias do citando da sua residência.
+
+Por último, saliente‑se que – diversamente do que ocorria na situação sobre que versou o Acórdão n.º 104/2006, em que a posição processual do citando, como chamado, podia implicar a formação de caso julgado a ele oponível, mesmo sem a sua intervenção no processo –, no presente caso (em que o executado, nas intervenções processuais que veio a assumir nos autos após a arguição da nulidade da citação, jamais questionou a existência e validade dos contratos celebrados nem a interrupção do cumprimento das prestações a que se obrigara) o despacho notificando (cf. fls. 72) destinava‑se a instar o executado a pagar ao exe­quente, no prazo de 20 dias, decorrida a legal dilação, sob pena de o imóvel hipotecado ser penhorado, o que, aliás, resulta de determinação legal expressa (artigo 835.º, n.º 1, do CPC).
+
+Neste contexto, associando, por um lado, as particulares cautelas previstas pelo legislador para evitar a ocorrência de erros na tramitação deste meio de comunicação, com clara identificação de todos os passos dessa tramitação e respectivos responsáveis, com, por ou­tro lado, a colaboração razoavelmente exigível aos destinatários das comunicações, e ainda, por último, a concessão da aludida dilação, im­põe‑se a conclusão de que o sistema instituído oferece suficientes garantias de assegurar, pelo menos, que o acto de comunicação foi colo­cado na área de cognoscibilidade do seu destinatá­rio, em termos de ele poder eficazmente exercitar os seus direitos de defesa, o que é o sufi­ciente para não dar por verificada a violação dos princípios da proibição da inde­fesa e do pro­cesso equitativo.
+
+3. Decisão
+
+Em face do exposto, acordam em:
+
+a) Não julgar inconstitucional a norma do artigo 236.º‑A, n.º 1, do Código de Pro­cesso Civil, na redacção dada pelo Decreto‑Lei n.º 183/2000, de 10 de Agosto; e, conse­quen­temente,
+
+b) Negar provimento ao recurso, confirmando a decisão recorrida, na parte impugnada.
+
+Custas pelo recorrente, fixando‑se a taxa de justiça em 20 (vinte) unidades de conta.
+
+Lisboa, 8 de Março de 2006.
+
+Mário José de Araújo Torres
+
+Maria Fernanda Palma
+
+Paulo Mota Pinto
+
+Benjamim Silva Rodrigues
+
+Rui Manuel Moura Ramos
