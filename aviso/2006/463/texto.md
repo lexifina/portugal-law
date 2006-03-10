@@ -1,0 +1,5 @@
+Aviso n.º 463/2006
+Por ordem superior se torna público que, em 16 de Dezembro de 2005, o Reino da Suazilândia depositou o seu instrumento de adesão às emendas ao Protocolo de Montreal Relativo às Substâncias Que Empobrecem a Camada de Ozono adoptadas na 2.ª Reunião das Partes, concluída em Londres no dia 29 de Junho de 1990.
+Portugal é Parte das mesmas emendas, aprovadas, para ratificação, pelo Decreto n.º 39/92, publicado no no Diário da República, 1.ª série-A, n.º 191, de 20 de Agosto de 1992, tendo depositado o seu instrumento de ratificação em 24 de Novembro de 1992, conforme o Aviso n.º 88/93, publicado no Diário da República, 1.ª série-A, n.º 94, de 22 de Abril de 1993, tendo entrado em vigor em 22 de Fevereiro de 1993, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 1998.
+A emenda entrará em vigor para o Reino da Suazilândia em 16 de Março de 2006.
+Direcção de Serviços das Organizações Económicas Internacionais da Direcção-Geral dos Assuntos Multilaterais, 20 de Fevereiro de 2006. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
