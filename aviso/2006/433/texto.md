@@ -1,0 +1,12 @@
+Aviso n.º 433/2006
+Por ordem superior se torna público que, por nota de 6 de Agosto de 2004, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou terem as Ilhas Seychelles emitido uma declaração, em 12 de Maio de 2004, à Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, adoptada na Haia em 18 de Março de 1970.
+A declaração é a seguinte:
+«The Ministry of Foreign Affairs is pleased to advise the Ministry that it wishes to declare, in accordance with article 35 clause c) and pursuant to article 23, first paragraph of the Convention, that the Republic of Seychelles 'will not execute Letters of Request issued for the purpose of obtaining pre-trial discovery of documents as known in Common Law countries'.»
+Traduction
+«Le Ministère des Affaires Etrangères a le plaisir de notifier au Ministère qu'en application de l'article 35 sous a) et conformément à l'article 23, premier paragraphe, de la Convention, la République des Seychelles 'n'exécutera pas les commissions rogatoires qui ont pour objet une procédure connue dans les Etats du common law sous le nom de pre-trial discovery of document'.»
+Tradução
+O Ministério dos Negócios Estrangeiros tem a honra de informar ao Ministério que, nos termos do artigo 35.º, alínea c), e ao abrigo do artigo 23.º, n.º 1, da Convenção, a República das Seychelles «não executará cartas rogatórias com o objectivo de obter uma descoberta preliminar de documentos como acontece nos países de Direito Consuetudinário».
+A República Portuguesa é Parte na mesma Convenção, a qual foi aprovada, para ratificação, pelo Decreto n.º 764/74, publicado no Diário do Governo, 1.ª série, n.º 302, 2.º suplemento, de 30 de Dezembro de 1974.
+A Convenção foi ratificada em 12 de Março de 1975 e encontra-se em vigor para a República Portuguesa desde 11 de Maio de 1975, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 82, de 8 de Abril de 1975.
+A autoridade portuguesa competente para esta Convenção é a Direcção-Geral da Administração da Justiça, que, nos termos do artigo 31.º, n.º 4, do Decreto-Lei n.º 146/2000, publicado no Diário da República, 1.ª série, n.º 164, de 18 de Julho de 2000, sucedeu nas competências à Direcção-Geral dos Serviços Judiciários, autoridade designada para a Convenção, tal como consta do aviso publicado no Diário da República, 1.ª série, n.º 122, de 26 de Maio de 1984.
+Departamento de Assuntos Jurídicos, 14 de Fevereiro de 2006. - O Director, Luís Serradas Tavares.
