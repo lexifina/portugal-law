@@ -1,0 +1,10 @@
+Portaria n.º 244/2006
+de 10 de Março
+Pela Portaria n.º 129/2000, de 8 de Março, foi renovada, até 15 de Julho de 2005, a zona de caça associativa da Herdade de Tagarrais (processo n.º 1340-DGRF), situada no município de Arronches, concessionada à Associação de Caçadores da Herdade de Tagarrais.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 3 do artigo 164.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 1 do artigo 36.º e no n.º 1 do artigo 114.º, do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, e ouvido o Conselho Cinegético Municipal:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa da Herdade de Tagarrais (processo n.º 1340-DGRF), abrangendo o prédio rústico denominado «Herdade dos Tagarrais», sito na freguesia de Esperança, município de Arronches, com a área de 789 ha.
+2.º A concessão da alguns terrenos incluídos em área classificada poderá terminar sem direito a indemnização sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade com a actividade cinegética com a conservação da natureza, até um máximo de 10% da área total da zona de caça.
+3.º A presente portaria produz efeitos a partir do dia 16 de Julho de 2005.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 21 de Fevereiro de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 18 de Novembro de 2005.
