@@ -1,0 +1,5 @@
+Aviso n.º 483/2006
+Por ordem superior se torna público que, em 23 de Agosto de 2005 e em 22 de Fevereiro de 2006, foram emitidas notas, respectivamente pela Embaixada da República Democrática e Popular da Argélia em Lisboa e pelo Ministério dos Negócios Estrangeiros de Portugal em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Tratado de Amizade, Boa Vizinhança e Cooperação entre a República Portuguesa e a República Democrática e Popular da Argélia, assinado em Argel em 8 de Janeiro de 2005.
+Por parte de Portugal o Tratado foi aprovado pela Resolução da Assembleia da República n.º 14/2006 e ratificado pelo Decreto do Presidente da República n.º 13/2006, publicados no Diário da República, 1.ª série-A, n.º 37, de 21 de Fevereiro de 2006.
+Nos termos do artigo 19.º do Tratado, este entrará em vigor no dia 24 de Março de 2006.
+Direcção-Geral das Relações Bilaterais, 24 de Fevereiro de 2006. - O Director de Serviços do Médio Oriente e Magrebe, Miguel de Calheiros Velozo.
