@@ -1,0 +1,5 @@
+Aviso n.º 473/2006
+Por ordem superior se torna público que, em 12 de Outubro de 2005, o Vietname depositou o seu instrumento de adesão à Convenção Relativa à Distribuição de Sinais Portadores de Programas Transmitidos por Satélites, concluída em Bruxelas em 21 de Maio de 1974.
+Portugal é Parte da mesma Convenção, aprovada, para adesão, pelo Decreto n.º 19/88, publicado no Diário da República, 1.ª série, n.º 197, de 26 de Agosto de 1988, tendo sido depositado o seu instrumento de adesão à Convenção em 11 de Dezembro de 1995, conforme o Aviso n.º 363/96, publicado no Diário da República, 1.ª série-A, n.º 283, de 7 de Dezembro de 1996, tendo entrado em vigor em 11 de Março de 1996, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 24, de 29 de Janeiro de 1998.
+A Convenção entrou em vigor, para o Vietname, em 12 de Janeiro de 2006.
+Direcção de Serviços das Organizações Económicas Internacionais, da Direcção-Geral dos Assuntos Multilaterais, 20 de Fevereiro de 2006. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
