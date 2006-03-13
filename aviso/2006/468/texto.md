@@ -1,0 +1,5 @@
+Aviso n.º 468/2006
+Por ordem superior, torna-se público que, em 18 de Junho de 2003 e em 13 de Setembro de 2005, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da República da Estónia e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo entre a República da Estónia sobre Cooperação nos Domínios da Língua, Educação, Cultura e Tecnologia, Juventude, Desporto e Comunicação Social, assinado em Tallin em 12 de Maio de 2003.
+Por parte de Portugal, o Acordo foi aprovado em Conselho de Ministros em 29 de Julho de 2005, pelo Decreto n.º 16/2005, publicado no Diário da República, 1.ª série-A, n.º 168, de 1 de Setembro de 2005.
+Nos termos do artigo 13.º do Acordo, este entrará em vigor 90 dias após a data da recepção da última notificação escrita, ou seja, dia 17 de Dezembro de 2005.
+Direcção-Geral das Relações Bilaterais, 5 de Novembro de 2005. - Pelo Director dos Serviços da Europa, (Assinatura ilegível.)
