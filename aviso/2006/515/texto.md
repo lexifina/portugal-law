@@ -1,0 +1,5 @@
+Aviso n.º 515/2006
+Por ordem superior se torna público que, em 2 de Dezembro de 2005, a República da Albânia depositou o seu instrumento de adesão à Convenção das Nações Unidas sobre Poluição Atmosférica Transfronteiras a Longa Distância, concluída em Genebra em 13 de Novembro de 1979.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 45/80, publicado no Diário da República, 1.ª série, n.º 159, de 12 de Julho de 1980, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1980, conforme aviso publicado no Diário da República, 1.ª série, n.º 275, de 27 de Novembro de 1980, e tendo entrado em vigor em 16 de Março de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 49, de 1 de Março de 1983.
+A Convenção entrará em vigor para a República da Albânia em 2 de Março de 2006.
+Direcção de Serviços das Organizações Económicas Internacionais, da Direcção-Geral dos Assuntos Multilaterais, 24 de Fevereiro de 2006. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
