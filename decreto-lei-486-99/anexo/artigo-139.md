@@ -2,4 +2,4 @@
 
 ### Adaptação do prospecto em casos especiais
 
-O conteúdo do prospecto deve ser adaptado, para efeitos do artigo 135.º, se, e na medida em que, seja necessário em função da forma jurídica ou das características particulares do emitente ou da natureza e das características dos valores mobiliários que são objecto da oferta.
+Sem prejuízo da informação adequada dos investidores, quando, excepcionalmente, determinadas informações exigidas, nomeadamente pelo Regulamento (CE) n.º 809/2004, da Comissão, de 29 de Abril, para serem incluídas no prospecto forem inadequadas à esfera de actividade ou à forma jurídica do emitente ou ainda aos valores mobiliários a que se refere o prospecto, o prospecto deve conter, quando possível, informações equivalentes à informação exigida.

@@ -1,5 +1,5 @@
 # Artigo 117.º
 
-### Conformidade com direito estrangeiro
+### Legalidade da oferta
 
-Se a oferta tiver por objecto valores mobiliários emitidos ou a emitir por entidade cuja lei pessoal seja uma lei estrangeira ou que estejam sujeitos a direito estrangeiro, a CMVM pode exigir parecer jurídico, a mencionar no prospecto, elaborado por técnico qualificado, atestando que o emitente se constituiu e funciona e que os valores mobiliários foram ou vão ser emitidos em conformidade com o direito aplicável.
+O oferente assegura que a oferta cumpre as normas legais e regulamentares aplicáveis, nomeadamente as relativas à licitude do seu objecto, à transmissibilidade dos valores mobiliários e, quando for o caso, à sua emissão.

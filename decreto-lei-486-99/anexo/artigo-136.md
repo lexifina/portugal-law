@@ -2,7 +2,7 @@
 
 ### Conteúdo comum do prospecto
 
-Além das previstas no artigo 123.º, o prospecto deve incluir informações sobre:
+O prospecto deve, nomeadamente, incluir informações sobre:
 
 a) As pessoas que, nos termos do artigo 149.º, são responsáveis pelo seu conteúdo;
 

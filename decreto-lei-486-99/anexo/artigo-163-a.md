@@ -10,4 +10,4 @@ b) Se tiver sido elaborado no âmbito de uma oferta dirigida a vários Estados; 
 
 c) Se a lei pessoal do emitente for estrangeira.
 
-2 - Nos casos previstos nas alíneas b) e c) do número anterior, a CMVM pode exigir que seja divulgado um sumário em português que descreva as características e os riscos essenciais associados à oferta, ao emitente e aos valores mobiliários oferecidos.
+2 - Nos casos previstos nas alíneas b) e c) do número anterior, a CMVM pode exigir que o sumário seja divulgado também em português.

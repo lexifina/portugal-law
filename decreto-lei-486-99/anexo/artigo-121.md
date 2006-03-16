@@ -6,7 +6,7 @@
 
 a) Obedecer aos princípios enunciados no artigo 7.º;
 
-b) Referir a existência ou a disponibilidade futura de prospecto;
+b) Referir a existência ou a disponibilidade futura de prospecto e indicar as modalidades de acesso ao mesmo;
 
 c) Harmonizar-se com o conteúdo do prospecto.
 
