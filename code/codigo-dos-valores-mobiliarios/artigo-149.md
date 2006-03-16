@@ -27,3 +27,5 @@ h) As demais pessoas que aceitem ser nomeadas no prospecto como responsáveis po
 2 - A culpa é apreciada de acordo com elevados padrões de diligência profissional.
 
 3 - A responsabilidade é excluída se alguma das pessoas referidas no n.º 1 provar que o destinatário tinha ou devia ter conhecimento da deficiência de conteúdo do prospecto à data da emissão da sua declaração contratual ou em momento em que a respectiva revogação ainda era possível.
+
+4 - A responsabilidade é ainda excluída se os danos previstos no n.º 1 resultarem apenas do sumário de prospecto, ou de qualquer das suas traduções, salvo se o mesmo contiver menções enganosas, inexactas ou incoerentes quando lido em conjunto com os outros documentos que compõem o prospecto.

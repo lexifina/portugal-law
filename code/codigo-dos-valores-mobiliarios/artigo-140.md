@@ -2,12 +2,36 @@
 
 ### Divulgação
 
-1 - O prospecto deve ser divulgado:
+1 - O prospecto só pode ser divulgado após aprovação pela CMVM, devendo o respectivo texto e formato a divulgar ser idênticos à versão original aprovada.
 
-a) Através de publicação num ou mais jornais de grande circulação no País; ou
+2 - Após aprovação, a versão final do prospecto, já com a indicação da data de aprovação ou do número de registo, deve ser enviada à CMVM e colocada à disposição do público pelo oferente com uma antecedência razoável em função das características da oferta e dos investidores a que se destina.
 
-b) Sob a forma de brochura colocada gratuitamente à disposição do público, designadamente na sede do oferente e do emitente, na sede e nas agências dos intermediários financeiros encarregados da recolha das declarações dos destinatários e na sede da entidade gestora dos mercados regulamentados em que os valores mobiliários estejam ou venham a estar admitidos à negociação.
+3 - O prospecto deve ser divulgado:
 
-2 - Quando seja também divulgado por meio diferente dos previstos no número anterior, o prospecto deve ser acessível de modo separado em relação a qualquer outra informação, designadamente publicitária.
+a) Em caso de oferta pública de distribuição precedida de negociação de direitos, até ao dia útil anterior ao da data de destaque dos direitos;
 
-3 - O prospecto só pode ser divulgado após aprovação pela CMVM.
+b) Nas restantes ofertas públicas de distribuição, o mais tardar até ao início da oferta pública a que respeita.
+
+4 - Tratando-se de oferta pública de uma categoria de acções ainda não admitida à negociação num mercado regulamentado e que se destina a ser admitida à negociação em mercado regulamentado pela primeira vez, o prospecto deve estar disponível pelo menos seis dias úteis antes do termo do prazo da oferta.
+
+5 - Considera-se colocado à disposição do público o prospecto que tenha sido divulgado:
+
+a) Através de publicação num ou mais jornais de difusão nacional ou de grande difusão; ou
+
+b) Sob forma impressa, colocado gratuitamente à disposição do público nas instalações do mercado em que é solicitada a admissão à negociação dos valores mobiliários, ou na sede estatutária do emitente e nas agências dos intermediários financeiros responsáveis pela sua colocação, incluindo os responsáveis pelo serviço financeiro do emitente; ou
+
+c) Sob forma electrónica no sítio da Internet do emitente e, se for caso disso, no sítio da Internet dos intermediários financeiros responsáveis pela colocação ou venda dos valores mobiliários, incluindo os responsáveis pelo serviço financeiro do emitente; ou
+
+d) Sob forma electrónica no sítio da Internet do mercado regulamentado em que se solicita a admissão à negociação; ou
+
+e) Sob forma electrónica no sítio da Internet da CMVM.
+
+6 - Se o oferente optar pela divulgação do prospecto através das formas previstas nas alíneas a) ou b) do número anterior, deve também divulgar o prospecto sob forma electrónica de acordo com a alínea c) do número anterior.
+
+7 - Se o prospecto for constituído por vários documentos e ou contiver informação mediante remissão, os documentos e a informação que o compõem podem ser publicados e divulgados de forma separada, desde que os referidos documentos sejam colocados gratuitamente à disposição do público de acordo com o disposto nos números anteriores.
+
+8 - Para efeitos do número anterior, cada documento deve indicar onde podem ser obtidos os restantes documentos constitutivos do prospecto completo.
+
+9 - Se o prospecto for disponibilizado sob forma electrónica, o emitente, o oferente ou intermediários financeiros responsáveis pela colocação dos valores devem disponibilizar ao investidor, gratuitamente, uma versão em suporte de papel, sempre que este o solicite.
+
+10 - A divulgação do prospecto obedece ao disposto no Regulamento (CE) n.º 809/2004, da Comissão, de 29 de Abril.

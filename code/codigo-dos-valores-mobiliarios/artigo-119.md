@@ -1,6 +1,6 @@
 # Artigo 119.º
 
-### Recusa de registo
+### Recusa de aprovação de prospecto e de registo
 
 1 - O registo da oferta é recusado apenas quando:
 
@@ -8,4 +8,6 @@ a) Algum dos documentos que instruem o pedido for falso ou desconforme com os re
 
 b) A oferta for ilegal ou envolver fraude à lei.
 
-2 - Antes da recusa, a CMVM deve notificar o oferente para suprir, em prazo razoável, os vícios sanáveis.
+2 - A aprovação do prospecto é recusada apenas quando se verificar a situação prevista na alínea a) do número anterior.
+
+3 - Antes da recusa, a CMVM deve notificar o oferente para suprir, em prazo razoável, os vícios sanáveis.

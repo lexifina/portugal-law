@@ -1,7 +1,19 @@
+## Capítulo II
+
+## Ofertas públicas de distribuição
+
+## Secção I
+
+## Disposições gerais
+
 # Artigo 159.º
 
-### Preço da oferta
+### Omissão de informação
 
-1 - O oferente pode estabelecer que o preço ou, tratando-se de valores mobiliários representativos de dívida, a taxa de juro sejam determinados até ao dia anterior ao do apuramento do resultado da oferta, desde que no anúncio de lançamento sejam indicados os limites máximo e mínimo e os critérios objectivos que presidem à sua fixação.
+1 - Sempre que o preço definitivo da oferta e o número de valores mobiliários que são oferecidos ao público não possam ser incluídos, o prospecto pode omitir essa informação se:
 
-2 - O preço ou a taxa de juro definitivos devem ser divulgados nos mesmos termos do anúncio de lançamento e comunicados à CMVM no próprio dia em que sejam fixados.
+a) Os critérios e ou as condições segundo os quais o preço e o número de valores mobiliários são determinados ou, no caso do preço, o preço máximo forem indicados no prospecto; ou
+
+b) A aceitação da aquisição ou subscrição de valores mobiliários possa ser revogada durante um prazo não inferior a dois dias úteis após a notificação do preço definitivo da oferta e do número de valores mobiliários objecto da oferta ao público.
+
+2 - Logo que sejam apurados, o preço definitivo da oferta e o número dos valores mobiliários devem ser comunicados à CMVM e divulgados nos termos do artigo 140.º

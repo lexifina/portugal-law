@@ -1,15 +1,11 @@
 # Artigo 147.º
 
-### Reconhecimento mútuo
+### Emitentes não comunitários
 
-1 - O prospecto aprovado por autoridade competente de Estado membro da Comunidade Europeia relativo a uma oferta pública realizada simultaneamente ou em datas próximas em Portugal e noutro Estado membro é reconhecido para efeitos do registo na CMVM, desde que:
+1 - A CMVM pode aprovar um prospecto relativo a oferta pública de distribuição de valores mobiliários de emitente que tenha sede estatutária num Estado não membro da União Europeia elaborado em conformidade com a legislação de um Estado não membro da União Europeia desde que:
 
-a) Seja relativo a valores mobiliários emitidos por entidades com sede em Estado membro da Comunidade Europeia;
+a) O prospecto tenha sido elaborado de acordo com as normas internacionais estabelecidas por organizações internacionais de supervisores de valores mobiliários, incluindo as normas da Organização Internacional de Comissões de Valores Mobiliários; e
 
-b) Inclua informações respeitantes às instituições que asseguram o serviço financeiro do emitente, ao regime fiscal a que estão sujeitos em Portugal os rendimentos dos valores mobiliários que são objecto da oferta e ao modo de publicação de avisos destinados aos investidores; e
+b) O prospecto contenha informação, nomeadamente de natureza financeira, equivalente à prevista neste Código e no Regulamento (CE) n.º 809/2004, da Comissão, de 29 de Abril.
 
-c) Esteja traduzido para língua portuguesa, sem prejuízo do disposto no n.º 2 do artigo 6.º
-
-2 - Para efeitos do número anterior, o oferente deve comunicar às autoridades competentes a intenção de utilização do prospecto em Portugal.
-
-3 - O prospecto é reconhecido mesmo que beneficie de dispensa parcial, desde que essa dispensa esteja prevista neste Código.
+2 - Aos prospectos a que se refere o presente artigo aplica-se também o artigo 146.º

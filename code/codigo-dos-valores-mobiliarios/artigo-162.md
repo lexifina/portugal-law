@@ -6,10 +6,6 @@
 
 a) Limitar a revelação de informação relativa à oferta ao que for necessário para os objectivos da oferta, advertindo os destinatários sobre o carácter reservado da informação transmitida;
 
-b) Limitar a utilização da informação reservada aos fins relacionados com a preparação da oferta.
+b) Assegurar que a informação prestada é coerente com a contida no prospecto;
 
-2 - As entidades referidas no número anterior que, a partir do momento em que a oferta se torne pública, divulguem informação relacionada com o emitente ou com a oferta devem:
-
-a) Observar os princípios a que deve obedecer a qualidade da informação;
-
-b) Esclarecer as suas ligações com o emitente ou o seu interesse na oferta.
+c) Limitar a utilização da informação reservada aos fins relacionados com a preparação da oferta.
