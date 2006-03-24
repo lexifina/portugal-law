@@ -1,0 +1,47 @@
+Decreto-Lei n.º 71/2006
+de 24 de Março
+A criação de um instrumento operacional designado por Fundo Português de Carbono, destinado a financiar medidas que facilitem o cumprimento dos compromissos do Estado Português no âmbito do Protocolo de Quioto, foi prevista pela Resolução do Conselho de Ministros n.º 53/2005, de 3 de Março, que aprovou o Plano Nacional de Atribuição de Licenças de Emissão. Tendo-se previsto na lei do Orçamento do Estado para o ano de 2006 a transferência de uma verba, até ao limite de (euro) 6000000, que permita dar início ao seu funcionamento, impõe-se agora proceder à constituição do Fundo e estabelecer o essencial do seu regime jurídico.
+A actividade do Fundo centra-se na obtenção de créditos de emissão por via dos mecanismos de flexibilidade previstos no Protocolo de Quioto. Atento o défice de cumprimento previsto no Programa Nacional para as Alterações Climáticas, adoptado pela Resolução do Conselho de Ministros n.º 119/2004, de 31 de Julho, a evolução recente do preço do carbono nos mercados internacionais de comércio de emissões e a complexidade e morosidade do recurso aos Mecanismos de Desenvolvimento Limpo e aos projectos de Implementação Conjunta, torna-se urgente a actuação pelo Governo nesta matéria.
+Os recursos financeiros a afectar ao Fundo são constituídos, inicialmente, pela dotação prevista na Lei do Orçamento do Estado para 2006.
+Como princípios relevantes para a actuação do Fundo Português de Carbono, devem destacar-se a maximização do seu retorno em termos de equivalentes de carbono, o alinhamento com as políticas sectoriais do Governo, a flexibilidade na selecção de medidas e investimentos a financiar e a transparência na gestão financeira, que permita o completo escrutínio público do seu funcionamento.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Designação, âmbito e natureza jurídica
+1 - É criado, no âmbito do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, o Fundo Português de Carbono, doravante designado por Fundo.
+2 - O Fundo tem a natureza de património autónomo sem personalidade jurídica.
+Artigo 2.º
+Objectivos e actividade
+1 - O Fundo tem como objectivo contribuir para o cumprimento dos compromissos quantificados de limitação de emissões de gases com efeito de estufa a que o Estado Português se comprometeu ao ratificar o Protocolo de Quioto.
+2 - Na prossecução do objectivo enunciado no número anterior, o Fundo desenvolve a sua actividade, nomeadamente, através das seguintes linhas de acção:
+a) Obtenção de créditos de emissão de gases com efeito de estufa, a preços competitivos, através do investimento directo em mecanismos de flexibilidade do Protocolo de Quioto (Comércio de Licenças de Emissão, projectos de Implementação Conjunta e projectos de Mecanismos de Desenvolvimento Limpo);
+b) Obtenção de créditos de emissão de gases com efeito de estufa, a preços competitivos, através do investimento em fundos geridos por terceiros ou outros instrumentos do mercado de carbono;
+c) Apoio a projectos, em Portugal, que conduzam a uma redução de emissões de gases com efeito de estufa, nomeadamente nas áreas da eficiência energética, energias renováveis, sumidouros de carbono, captação e sequestração geológica de CO(índice 2), e adopção de novas tecnologias, quando o retorno em termos de emissões evitadas assim o recomende;
+d) Promoção da participação de entidades públicas e privadas nos mecanismos de flexibilidade do Protocolo de Quioto.
+Artigo 3.º
+Fontes de financiamento e transição de saldos
+1 - O Fundo é financiado pelas seguintes receitas:
+a) As dotações que para ele sejam canalizadas anualmente por meio da lei do Orçamento do Estado;
+b) O produto das taxas, contribuições ou impostos que lhe sejam afectos;
+c) Os rendimentos dos investimentos previstos no n.º 2 do artigo 2.º;
+d) A percentagem do valor das coimas que lhe venha a ser afecta por lei;
+e) Os rendimentos provenientes de aplicações financeiras;
+f) O produto de doações, heranças, legados ou contribuições mecenáticas;
+g) O produto da alienação, oneração ou cedência temporária de bens ou direitos do seu património;
+h) Quaisquer outras receitas que lhe sejam atribuídas por lei ou negócio jurídico.
+2 - Os saldos que vierem a ser apurados no fim do ano económico transitam para o ano seguinte, nos termos do decreto de execução orçamental em vigor.
+Artigo 4.º
+Despesas
+Constituem despesas do Fundo as que resultem de encargos decorrentes da aplicação do presente decreto-lei.
+Artigo 5.º
+Entidades gestoras e regulamento de gestão
+1 - A gestão do Fundo é atribuída:
+a) Ao comité executivo da CAC, na vertente técnica;
+b) À Direcção-Geral do Tesouro, na vertente financeira.
+2 - O regulamento de gestão do Fundo determina as condições em que se realizarão as despesas referidas no artigo anterior, sendo aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, do ambiente e da economia.
+Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra.
+Promulgado em 1 de Março de 2006.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 2 de Março de 2006.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
