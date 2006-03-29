@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal Administrativo de 2006-03-29, processo 01267/05
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01267/05
+
+**Data do Acordão:** 03/29/2006
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** MADEIRA DOS SANTOS
+
+**Descritores:** FUNDAMENTAÇÃO DO ACTO ADMINISTRATIVO.; ABATE DE ARVORES.
+
+**Nº Convencional:** JSTA00062894
+
+**Nº do Documento:** SA12006032901267
+
+**Data de Entrada:** 12/15/2005
+
+**Recorrente:** CM DE GONDOMAR
+
+**Recorrido 1:** A...
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAF PORTO.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR PROC ADM GRAC - PRINCÍPIOS GERAIS.
+
+**Legislação Nacional:** CPA91 ART125.
+
+## Sumário
+
+I – A fundamentação de facto de um acto administrativo pode ser validamente enunciada através de uma proposição conclusiva se esta permitir que facilmente se ascenda às suas premissas ou razões.
+
+II – O grau de exigência do dever de fundamentação varia consoante as concretas circunstâncias dos casos, nas quais também se inclui o conhecimento que o destinatário do acto objectivamente possua acerca do assunto nele decidido.
+
+III – Assim, mostra-se suficientemente fundamentado de facto o acto que, já depois de a Administração e o destinatário da ordem saberem que três eucaliptos existentes num terreno tinham caído sobre uma habitação limítrofe, ordenou o abate de outros eucaliptos implantados naquele prédio por eles colocarem em perigo a mesma habitação.
+
+IV – Porque esse perigo resultante de uma possível queda só existe em relação aos eucaliptos que estejam suficientemente próximos da habitação a proteger, é de entender que essa proximidade define o âmbito da referida ordem de abate, em vez de consistir num fundamento de facto do acto administrativo.
+
+V – A proposição usada para fundamentar um acto não tem que ser acompanhada pela negação das proposições que lhe repugnariam, não só porque essa tarefa é virtualmente inesgotável em face do número indefinido das proposições repugnantes, mas também porque ela nada acrescentaria logicamente ao fundamento já enunciado, pois que se limitaria a negar negações, mantendo-se o fundamento com o exacto alcance significativo que antes detinha.
