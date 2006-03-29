@@ -1,0 +1,53 @@
+# Acórdão do Supremo Tribunal Administrativo de 2006-03-29, processo 0857/02
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0857/02
+
+**Data do Acordão:** 03/29/2006
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** FREITAS CARVALHO
+
+**Descritores:** TRATAMENTO DE DADOS PESSOAIS.; AUTORIZAÇÃO PRÉVIA.; ASSOCIAÇÃO NACIONAL DAS FARMÁCIAS.; COMISSÃO NACIONAL DE PROTECÇÃO DE DADOS.; INTERPRETAÇÃO CONFORME AO DIREITO COMUNITÁRIO.
+
+**Nº Convencional:** JSTA00062961
+
+**Nº do Documento:** SA1200603290857
+
+**Data de Entrada:** 10/11/2002
+
+**Recorrente:** ASSOC NAC DE FARMÁCIAS
+
+**Recorrido 1:** COMIS NAC DE PROTECÇÃO DE DADOS
+
+**Votação:** MAIORIA COM 1 VOT VENC
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC TCA.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM GER.
+
+**Área Temática 2:** DIR INFORMAT.
+
+**Legislação Nacional:** L 67/98 DE 1998/10/26 ART7 ART9 ART27 ART29.
+
+**Jurisprudência Nacional:** AC STJ PROC3S2467 DE 2004/05/27.
+
+**Referência a Doutrina:** MARIA JOÃO PALMA BREVES NOTAS SOBRE A INVOCAÇÃO DAS DIRECTIVAS COMUNITÁRIAS PERANTE OS TRIBUNAIS NACIONAIS PAG48.
+
+## Sumário
+
+I - A interpretação das normas de direito interno conforme o direito comunitário só é possível quando o sentido da norma nacional for ambíguo e comporte, entre os vários sentidos possíveis, uma interpretação que se harmonize com aquele direito.
+
+II - Nos termos do n.º4, do artigo 7, da Lei n.º 67/98, de 26-10, o tratamento de dados pessoais relativos à saúde e à vida sexual, ainda que efectuado por um profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional e se destine a fins de medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde, estando ainda garantidas medidas adequadas de segurança da informação, só pode ser autorizado quando se demonstre que contribuem de forma suficientemente importante para a prossecução daqueles fins, ainda que os mesmos sejam levados a cabo por outras pessoas ou entidades que não a que procede ao tratamento dos dados.
+
+III - A verificação em concreto de tal requisito (necessidade), face à larga margem de liberdade técnica que é reconhecida às entidades que prosseguem aqueles fins para aferirem da necessidade do tratamento dos dados em causa, não permite ao Tribunal concluir pela caracterização da situação nos termos em que o faz a norma em apreço no que tange à definição dos fins do tratamento de dados.
+
+IV - Cabe ao requerente da autorização para o tratamento dos dados, ao abrigo do n.º 2, do referido artigo 7, carrear para o procedimento todos os elementos disponíveis por forma a convencer a CNPD da verificação em concreto da importância para o interesse público com o tratamento e da indispensabilidade desse mesmo tratamento para o exercício das suas atribuições legais e estatutárias.
+
+V - O consentimento do titular dos dados a que alude o n.º2, do artigo 7, tem de anteceder a autorização da Comissão Nacional de Protecção de Dados.
