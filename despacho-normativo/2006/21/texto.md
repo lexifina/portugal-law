@@ -1,0 +1,18 @@
+Despacho Normativo n.º 21/2006
+O Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, alterado pelo Regulamento (CE) n.º 864/2004, do Conselho, de 29 de Abril, veio determinar as condições da integração do regime de apoio ao algodão no sistema de pagamento único, estabelecendo, para evitar excessivas perturbações do mercado, que apenas são integrados no regime do pagamento único 65% do total da ajuda que os produtores receberam indirectamente durante o período de referência, permanecendo os restantes 35% da ajuda ligados à produção através de um pagamento específico à superfície.
+Por outro lado, o Regulamento (CE) n.º 1973/2004, da Comissão, de 29 de Outubro, que estabeleceu as normas de execução do Regulamento (CE) n.º 1782/2003, alterado pelo Regulamento (CE) n.º 2182/2005, da Comissão, de 22 de Dezembro, definiu as modalidades de aplicação desta ajuda específica e determinou que os Estados membros fixem um conjunto de normas para a elegibilidade do apoio atribuído aos produtores de algodão, nomeadamente critérios objectivos para a autorização de terras agrícolas, variedades para sementeira e densidade mínima de plantação.
+Neste contexto, para que a cultura do algodão continue a ter um bom desenvolvimento e uma produtividade adequada, deve continuar a ser realizada em regime de regadio.
+Tendo ainda em consideração as especificidades do algodoeiro no que respeita às condições edafo-climáticas, optou-se por limitar a superfície elegível para a sua produção às regiões potencialmente mais adaptadas a esta cultura.
+Tendo também em conta a minimização do impacte ambiental, com efeitos benéficos para os solos e culturas seguintes, considerou-se que a cultura do algodão deve ser desenvolvida de acordo com um regime de rotação cultural, não se permitindo a sua produção mais de dois anos consecutivos na mesma parcela.
+Estabelece-se, por último, que devem ser utilizadas as variedades pertencentes ao Catálogo Comunitário de Variedades mais adaptadas ao mercado e, com o objectivo de se manter um normal desenvolvimento agronómico até à abertura das cápsulas, que a densidade mínima deve ser de 100000 plantas/ha.
+Assim:
+Ao abrigo do disposto do capítulo 10-A do título IV do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, e no capítulo 17-A do Regulamento (CE) n.º 1973/2004, da Comissão, de 29 de Outubro, determina-se o seguinte:
+1 - O presente diploma estabelece os critérios nacionais para a atribuição do pagamento específico à superfície aos produtores de algodão, previsto no capítulo 10-A do título IV do Regulamento (CE) n.º 1782/2003, do Conselho de 29 de Setembro.
+2 - A cultura do algodão deve ser feita em regime de regadio e ser mantida no solo até à abertura das cápsulas.
+3 - A superfície elegível para a produção de algodão fica limitada aos distritos de Beja, Castelo Branco, Évora, Faro e Portalegre.
+4 - Não é permitida a produção de algodão por mais de dois anos consecutivos na mesma parcela.
+5 - As variedades utilizadas para a prática desta cultura devem estar inscritas no Catálogo Comunitário de Variedades.
+6 - A densidade mínima de plantação é de 100000 plantas/ha.
+7 - Aos pagamentos específicos à superfície efectuados aos agricultores do sector do algodão aplicam-se as regras estabelecidas no âmbito do Sistema Integrado de Gestão e Controlo, previsto na parte II do Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril.
+8 - O disposto no presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 15 de Março de 2006. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
