@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "36224",
+  "tipo": "Requerimento",
+  "numero": "1755",
+  "data_registo": "2006-03-30",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Abate a tiro de cães vadios em Santa Cruz da Graciosa",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "204",
+        "nome": "Rosa Maria Albernaz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2195",
+        "nome": "Ricardo Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1666",
+        "nome": "Luiz Fagundes Duarte"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2197",
+        "nome": "Renato Leal"
+      }
+    ],
+    "DataEnvio": "2006-03-31",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2006-03-31",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DE ESTADO  E DA  ADMINISTRAÇÃO INTERNA",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2006-05-23",
+            "docRemetida": null,
+            "entidade": "MIN.  DE ESTADO  E DA  ADMINISTRAÇÃO INTERNA",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443396a4e54646d4e5455334d6930324e474d304c5451324e475174596d4d35596930774d446c684d574a6b59546c6b4e7a4d756347526d&fich=c57f5572-64c4-464d-bc9b-009a1bda9d73.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2006-03-30",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443396c4f54426a4d6a5a694d433078596a466d4c54513259324d74595459324d79316c4d5455774e444669597a557a4e4755756347526d&fich=e90c26b0-1b1f-46cc-a663-e15041bc534e.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "36224",
+    "Legislatura": "X",
+    "Nr": "1755",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "350153",
+        "obs": null,
+        "pag": [
+          "3-4"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2006",
+        "pubLeg": "X",
+        "pubNr": "38",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/038S1/2006-04-08/3?pgs=3-4&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
