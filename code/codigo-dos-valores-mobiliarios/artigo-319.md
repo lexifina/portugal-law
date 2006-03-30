@@ -12,6 +12,6 @@ c) Limites e requisitos da subcontratação de actividades de intermediação fi
 
 d) Limites e requisitos da prospecção de investidores;
 
-e) Informações a prestar sobre os serviços que envolvam riscos não aparentes para investidores não institucionais;
+e) Informações a prestar sobre os serviços que envolvam riscos não aparentes para investidores não qualificados;
 
 f) Termos em que as entidades gestoras dos mercados regulamentados devem pôr à disposição da CMVM as informações a que se refere o artigo 313.º

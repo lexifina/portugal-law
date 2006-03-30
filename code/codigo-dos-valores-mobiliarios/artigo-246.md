@@ -8,7 +8,7 @@ a) O montante líquido do volume de negócios;
 
 b) O resultado antes ou após dedução de impostos;
 
-c) O texto integral do relatório de auditor registado na CMVM.
+c) [Revogada].
 
 2 - A informação exigida no n.º 1 contém os elementos necessários para que os investidores formem um juízo fundamentado sobre a evolução da actividade e dos resultados da sociedade desde o termo do exercício anterior, bem como, se possível, a evolução previsível no exercício em curso, em particular:
 

@@ -2,7 +2,7 @@
 
 ### Relatório e contas anuais
 
-1 - Os emitentes de valores mobiliários admitidos à negociação em bolsa publicam, logo que possível e o mais tardar até 30 dias após a sua aprovação:
+1 - Os emitentes de valores mobiliários admitidos à negociação em mercado regulamentado publicam, logo que possível, e o mais tardar até 30 dias após a sua aprovação:
 
 a) O relatório de gestão, as contas anuais, a certificação legal de contas e demais documentos de prestação de contas exigidos por lei ou regulamento;
 
@@ -18,4 +18,4 @@ b) Elementos correspondentes à certificação legal de contas, se esta não for
 
 4 - Se o relatório e contas anuais não derem uma imagem exacta do património, da situação financeira e dos resultados da sociedade, pode a CMVM ordenar a publicação de informações complementares.
 
-5 - Os documentos que integram o relatório e as contas anuais são enviados à CMVM e à entidade gestora da bolsa logo que sejam colocados à disposição dos accionistas.
+5 - Os documentos que integram o relatório e as contas anuais são enviados à CMVM e à entidade gestora de mercado regulamentado logo que sejam colocados à disposição dos accionistas.

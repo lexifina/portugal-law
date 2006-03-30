@@ -10,8 +10,8 @@ b) Se tiver sido elaborado no âmbito de um pedido de admissão dirigido a merca
 
 c) Se a lei pessoal do emitente for estrangeira;
 
-d) Se se destinar a mercado ou segmento de mercado que, pelas suas características, apenas seja acessível a investidores institucionais.
+d) Se se destinar a mercado ou segmento de mercado que, pelas suas características, apenas seja acessível a investidores qualificados.
 
-2 - Aos casos previstos no número anterior é aplicável o n.º 2 do artigo 163.º-A.
+2 - Aos casos previstos nas alíneas b) e c) do número anterior é aplicável o n.º 2 do artigo 163.º-A.
 
 3 - A informação periódica relativa a emitentes de valores mobiliários admitidos à negociação nas situações previstas no artigo 163.º-A pode ser redigida numa língua de uso corrente nos mercados financeiros internacionais.

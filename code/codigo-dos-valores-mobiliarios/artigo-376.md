@@ -17,3 +17,5 @@ d) Formação de quadros e troca de experiências no âmbito das respectivas atr
 3 - Os acordos a que se refere o número anterior podem abranger a participação subordinada de representantes de instituições congéneres de Estado estrangeiro em actos da competência da CMVM, quando haja suspeita de violação de lei daquele Estado.
 
 4 - A cooperação a que se refere o presente artigo deve ser desenvolvida nos termos da lei, do direito comunitário e das convenções internacionais que vinculam o Estado Português.
+
+5 - O disposto no presente artigo é aplicável, com as necessárias adaptações, às relações decorrentes da participação da CMVM em organizações internacionais.

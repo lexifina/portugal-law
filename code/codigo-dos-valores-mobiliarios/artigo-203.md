@@ -12,7 +12,7 @@ b) Participem no sistema de liquidação das operações realizadas nesse mercad
 
 3 - Podem ainda ser admitidos como membros de mercado:
 
-a) Investidores institucionais, desde que preencham os requisitos da alínea b) do número anterior;
+a) Investidores qualificados referidos nos n.os 1 e 3 do artigo 30.º, desde que preencham os requisitos da alínea b) do número anterior;
 
 b) Outras entidades que negoceiem exclusivamente por conta própria, nos termos a definir em regulamento da CMVM e desde que preencham os requisitos da alínea b) do número anterior.
 

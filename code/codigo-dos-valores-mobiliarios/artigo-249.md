@@ -2,7 +2,7 @@
 
 ### Outras informações
 
-1 - Os emitentes de valores mobiliários admitidos à negociação enviam à CMVM e à entidade gestora da bolsa:
+1 - Os emitentes de valores mobiliários admitidos à negociação enviam à CMVM e à entidade gestora do mercado regulamentado:
 
 a) Projecto de alteração dos estatutos, até à data da convocação do órgão competente para aprovar as alterações;
 

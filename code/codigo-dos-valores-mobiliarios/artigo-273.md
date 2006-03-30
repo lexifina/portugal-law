@@ -12,7 +12,7 @@ c) Garantias a prestar a favor da contraparte central;
 
 d) Regras de gestão, prudenciais e de contabilidade, necessárias para garantir a separação patrimonial.
 
-2 - Em relação aos sistemas utilizados na liquidação de operações de bolsa, a CMVM, sob proposta ou com audiência prévia da entidade gestora do sistema em causa, define ou concretiza, através de regulamento:
+2 - Em relação aos sistemas utilizados na liquidação de operações de mercado regulamentado, a CMVM, sob proposta ou com audiência prévia da entidade gestora dos sistemas em causa, define ou concretiza, através de regulamento:
 
 a) Os prazos em que deve processar-se a liquidação;
 

@@ -2,7 +2,7 @@
 
 ### Informação
 
-1 - Constitui contra-ordenação muito grave a comunicação ou divulgação, por qualquer entidade e através de qualquer meio, de informação relativa a valores mobiliários ou outros instrumentos financeiros que não seja completa, verdadeira, actual, clara, objectiva e lícita.
+1 - Constitui contra-ordenação muito grave a comunicação ou divulgação, por qualquer pessoa ou entidade e através de qualquer meio, de informação que não seja completa, verdadeira, actual, clara, objectiva e lícita.
 
 2 - Inclui-se no número anterior a prestação de informação aos seus clientes por qualquer entidade que exerça actividades de intermediação.
 
@@ -15,6 +15,8 @@ b) Envio às entidades de supervisão e às entidades gestoras de mercados, de s
 c) Falta de envio, total ou parcial, de documentos ou de informações à CMVM e à entidade gestora de mercado regulamentado;
 
 d) Publicação de informação não acompanhada de relatório ou parecer elaborados por auditor registado na CMVM quando a lei o exija.
+
+e) A violação dos regimes da informação que contenha recomendações de investimento e dos conflitos de interesses com aquela relacionados.
 
 4 - Constitui contra-ordenação menos grave a divulgação de informação não redigida em português ou não acompanhada de tradução para português, quando exigível.
 

@@ -1,6 +1,6 @@
 ## Secção IV
 
-## Admissão à negociação em mercado de bolsa a contado
+## Admissão à negociação em mercado regulamentado a contado
 
 ## Subsecção I
 
@@ -32,4 +32,4 @@ b) A identificação do participante em sistema de liquidação aceite pela enti
 
 5 - A CMVM pode dispensar os requisitos das alíneas b) e c) do n.º 2 quando os interesses do emitente e dos investidores o aconselhem e o requisito da alínea d), por si só, permita aos investidores formar um juízo esclarecido sobre o emitente e os valores mobiliários.
 
-6 - Se à data previsível para a admissão já tiverem decorrido mais de nove meses sobre o termo do último exercício a que se reportam as contas anuais apresentadas, a entidade que não se encontre obrigada a publicar informação semestral, ou que não haja cumprido essa obrigação, deve apresentar relatórios e contas especiais, organizados nos termos prescritos para o relatório e contas anuais e reportados a data não anterior ao fim do 1.º semestre do exercício em curso.
+6 - [Revogado].

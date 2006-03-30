@@ -30,8 +30,8 @@ a) De conservar os documentos pelo prazo legalmente exigido;
 
 b) De elaborar o regulamento interno;
 
-c) De aceitar ordens que devam ser recusadas;
+c) De aceitar ordens;
 
-d) De recusar ordens que deva aceitar;
+d) De recusar ordens;
 
 e) De registar na CMVM as cláusulas contratuais gerais que utilize na contratação.

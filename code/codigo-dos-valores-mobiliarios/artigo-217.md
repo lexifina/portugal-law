@@ -1,7 +1,7 @@
 # Artigo 217.º
 
-### Funções dos membros da bolsa
+### Funções dos membros do mercado regulamentado
 
-1 - Os membros da bolsa que apenas exerçam funções de negociação só podem ser admitidos após terem celebrado contrato com um ou mais membros que assegurem a liquidação das operações por eles negociadas.
+1 - Os membros dos mercados regulamentados que apenas exerçam funções de negociação só podem ser admitidos após terem celebrado contrato com um ou mais membros que assegurem a liquidação das operações por eles negociadas.
 
-2 - Só podem ser membros liquidadores os participantes em sistema de liquidação utilizado pela bolsa, que estejam autorizados a realizar operações por conta própria.
+2 - Só podem ser membros liquidadores os participantes em sistema de liquidação utilizado pelo mercado regulamentado que estejam autorizados a realizar operações por conta própria.

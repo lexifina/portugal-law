@@ -6,7 +6,7 @@
 
 a) Funcionem regularmente;
 
-b) Obedeçam a requisitos iguais ou similares aos fixados no capítulo II do presente título quanto à prestação de informação, à admissão dos membros do mercado e dos valores mobiliários à negociação e ao funcionamento do mercado;
+b) Obedeçam aos requisitos fixados no capítulo II do presente título;
 
 c) Sejam como tal autorizados, a pedido da entidade gestora, por portaria do Ministro das Finanças, ouvida a CMVM.
 

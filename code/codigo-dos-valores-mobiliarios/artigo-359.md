@@ -10,7 +10,7 @@ b) Intermediários financeiros e consultores autónomos;
 
 c) Emitentes de valores mobiliários;
 
-d) Investidores institucionais e titulares de participação qualificada em sociedade aberta;
+d) Investidores qualificados referidos nas alíneas a) a f) do n.º 1 do artigo 30.º e titulares de participações qualificadas;
 
 e) Fundos de garantia e sistemas de indemnização dos investidores e respectivas entidades gestoras;
 
