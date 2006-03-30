@@ -4,9 +4,9 @@
 
 1 - A emissão de unidades de titularização pode efectuar-se com recurso a subscrição pública, sendo aplicável à oferta o disposto no Código dos Valores Mobiliários.
 
-2 - O lançamento da oferta pública de subscrição é feito, pela sociedade gestora, através da divulgação do prospecto em boletim de cotações de mercado regulamentado situado ou a funcionar em território nacional ou no sistema de difusão de informação previsto pelo artigo 367.º do Código dos Valores Mobiliários.
+2 - O lançamento da oferta pública de subscrição é feito pela sociedade gestora, através da divulgação do prospecto nos termos do Regulamento (CE) n.º 809/2004, da Comissão, de 29 de Abril.
 
-3 - A CMVM define, por regulamento, a informação a constar do prospecto, designadamente:
+3 - A CMVM define, por regulamento, a informação a constar do prospecto de fundos de titularização de património variável, designadamente:
 
 a) O conteúdo integral do regulamento de gestão;
 

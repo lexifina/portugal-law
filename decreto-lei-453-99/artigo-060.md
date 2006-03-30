@@ -10,6 +10,6 @@
 
 2 - As emissões de obrigações titularizadas não estão sujeitas a registo comercial.
 
-3 - A oferta pública e a oferta particular de obrigações titularizadas estão sujeitas, respectivamente, a registo prévio e a comunicação subsequente à CMVM, a qual define, por regulamento, os termos e o conteúdo dessa comunicação.
+3 - A oferta pública e a oferta particular de obrigações titularizadas estão sujeitas ao disposto no título III do Código dos Valores Mobiliários e às disposições que o complementem.
 
-4 - O pedido de registo de oferta pública de distribuição de obrigações titularizadas deve ser instruído com relatório de notação de risco cujo conteúdo deve observar, com as devidas adaptações, o disposto no n.º 4 do artigo 27.º
+4 - O pedido de aprovação de prospecto de oferta pública de distribuição de obrigações titularizadas deve ser instruído com relatório de notação de risco cujo conteúdo deve observar, com as devidas adaptações, o disposto no n.º 4 do artigo 27.º
