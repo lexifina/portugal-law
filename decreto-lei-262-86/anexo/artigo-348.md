@@ -10,9 +10,15 @@
 
 ### Emissão de obrigações
 
-1 - As sociedades anónimas podem, obtidas as autorizações administrativas eventualmente necessárias, emitir títulos negociáveis que, numa mesma emissão, conferem direitos de crédito iguais para o mesmo valor nominal e que se denominam obrigações.
+1 - As sociedades anónimas podem emitir valores mobiliários que, numa mesma emissão, conferem direitos de crédito iguais e que se denominam obrigações.
 
-2 - Só podem emitir obrigações as sociedades cujo contrato esteja definitivamente registado há mais de dois anos e cujos dois últimos balanços estejam regularmente aprovados ou que tenham resultado da fusão ou cisão de sociedades das quais uma, pelo menos, se encontre nestas condições, a não ser que o Estado ou entidade pública a ele equiparada por lei para este efeito possua a maior parte das acções ou que a emissão seja especialmente autorizada pelo Estado ou garantida pelo Estado ou por aquela outra entidade ou ainda por meio de títulos de crédito sobre o Estado ou aquelas entidades.
+2 - Só podem emitir obrigações as sociedades cujo contrato esteja definitivamente registado há mais de um ano, salvo se:
+
+a) Tenham resultado de fusão ou de cisão de sociedades das quais uma, pelo menos, se encontre registada há mais de um ano; ou
+
+b) O Estado ou entidade pública equiparada detenha a maioria do capital social da sociedade;
+
+c) As obrigações forem objecto de garantia prestada por instituição de crédito, pelo Estado ou entidade pública equiparada.
 
 3 - Por portaria dos Ministros das Finanças e da Justiça podem ser dispensados, no todo ou em parte, os requisitos previstos no número anterior.
 
