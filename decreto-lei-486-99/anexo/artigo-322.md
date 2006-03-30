@@ -2,7 +2,7 @@
 
 ### Contratos celebrados fora do estabelecimento
 
-1 - As ordens para execução de operações e os contratos de gestão de carteira cuja emissão ou conclusão por um investidor não institucional tenha tido lugar fora do estabelecimento do intermediário financeiro, sem anterior relação de clientela e sem solicitação do investidor, só produzem efeito três dias úteis após a declaração negocial do investidor.
+1 - As ordens para execução de operações e os contratos de gestão de carteira cuja emissão ou conclusão por um investidor não qualificado tenha tido lugar fora do estabelecimento do intermediário financeiro, sem anterior relação de clientela e sem solicitação do investidor, só produzem efeito três dias úteis após a declaração negocial do investidor.
 
 2 - Neste prazo, pode o investidor comunicar o seu arrependimento ao intermediário financeiro.
 
@@ -16,4 +16,4 @@ c) O intermediário financeiro tenha a seu cargo o registo ou o depósito de val
 
 4 - Presume-se que o contacto efectuado pelo intermediário financeiro não foi solicitado quando não exista anterior relação de clientela entre o intermediário financeiro e o investidor.
 
-5 - O consultor autónomo não pode efectuar quaisquer contactos com investidores não institucionais que por estes não tenham sido solicitados.
+5 - O consultor autónomo não pode efectuar quaisquer contactos com investidores não qualificados que por estes não tenham sido solicitados.

@@ -20,4 +20,8 @@ g) Difundir informações;
 
 h) Publicar estudos.
 
+i) Avaliar e divulgar regularmente, após consulta aos interessados, as práticas de mercado que podem ou não ser aceites, reapreciando-as quando necessário, bem como as suas características, termos e condições de conformidade com os princípios consagrados no artigo 358.º e com o restante quadro legal e regulamentar aplicável, comunicando a respectiva decisão ao Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários.
+
 2 - Os poderes referidos na alínea e) do n.º 1 são exercidos em relação a quaisquer pessoas, ainda que não incluídas no âmbito do n.º 1 do artigo 359.º
+
+3 - Para efeito do disposto na alínea i) do n.º 1, a CMVM deve ter em conta, nomeadamente, os princípios constantes do artigo 358.º, os possíveis efeitos das práticas em causa sobre a liquidez e eficiência do mercado, a sua transparência e adequação à natureza dos mercados e aos processos de negociação adoptados, a interacção entre diferentes mercados, a nível nacional e internacional, e os diversos riscos que podem estar associados às mesmas.

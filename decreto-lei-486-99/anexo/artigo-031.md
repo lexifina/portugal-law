@@ -2,9 +2,9 @@
 
 ### Acção popular
 
-1 - Gozam do direito de acção popular para a protecção de interesses individuais homogéneos ou colectivos dos investidores não institucionais em valores mobiliários:
+1 - Gozam do direito de acção popular para a protecção de interesses individuais homogéneos ou colectivos dos investidores não qualificados em valores mobiliários:
 
-a) Os investidores não institucionais;
+a) Os investidores não qualificados;
 
 b) As associações de defesa dos investidores que reúnam os requisitos previstos no artigo seguinte;
 

@@ -4,11 +4,11 @@
 
 1 - Constitui contra-ordenação muito grave:
 
-a) A realização de oferta pública sem registo na CMVM ou depois de este ter caducado;
+a) A realização de oferta pública sem aprovação de prospecto ou sem registo na CMVM;
 
-b) A divulgação de oferta pública de distribuição decidida ou projectada e a aceitação de ordens de subscrição ou de aquisição, antes da publicação do anúncio de lançamento;
+b) A divulgação de oferta pública de distribuição decidida ou projectada e a aceitação de ordens de subscrição ou de aquisição, antes da divulgação do prospecto ou, no caso de oferta pública de aquisição, antes da publicação do anúncio de lançamento;
 
-c) A divulgação de prospecto, respectivas adenda e rectificação, ou de prospecto complementar, sem prévia aprovação pela autoridade competente;
+c) A divulgação do prospecto, respectivas adendas e rectificação do prospecto de base, sem prévia aprovação pela autoridade competente;
 
 d) A revelação de informação reservada sobre oferta pública de distribuição, decidida ou projectada;
 
@@ -20,9 +20,9 @@ a) De igualdade de tratamento e de observância das regras de rateio;
 
 b) De divulgação do resultado da oferta ou do requerimento de admissão à negociação dos valores mobiliários que são objecto da oferta;
 
-c) De divulgação do prospecto, respectivas adenda e rectificação, ou do prospecto complementar;
+c) De divulgação do prospecto, do prospecto de base, respectivas adendas e rectificação, ou das condições finais da oferta;
 
-d) De divulgação do preço ou da taxa de juro definitivos em oferta pública de distribuição;
+d) De inclusão de informação no prospecto, no prospecto de base, nas respectivas adendas e rectificação, ou nas condições finais da oferta, que seja completa, verdadeira, actual, clara, objectiva e lícita segundo os modelos previstos no Regulamento (CE) n.º 809/2004, da Comissão, de 29 de Abril;
 
 e) De segredo sobre a preparação de oferta pública de aquisição;
 
@@ -38,19 +38,25 @@ j) Relativos à realização de transacções na pendência de oferta pública d
 
 3 - Constitui contra-ordenação grave a realização de oferta pública:
 
-a) Sem intervenção de intermediário financeiro;
+a) Sem a intervenção de intermediário financeiro, nos casos em que esta seja obrigatória;
 
 b) Com violação das regras relativas à sua modificação, revisão, suspensão, retirada ou revogação.
 
 4 - Constitui contra-ordenação grave:
 
-a) A recolha de intenções de investimento sem registo prévio na CMVM ou antes da divulgação de prospecto preliminar;
+a) A recolha de intenções de investimento sem aprovação do prospecto preliminar pela CMVM ou antes da divulgação do mesmo;
 
 b) A violação do dever de cooperação do emitente em oferta pública de venda;
 
 c) A falta de envio de anúncio preliminar à CMVM, à sociedade visada ou às entidades gestoras de mercados regulamentados;
 
 d) A violação, por sociedade visada em oferta pública de aquisição, do dever de publicar relatório sobre a oferta e de o enviar à CMVM e ao oferente, do dever de informar a CMVM sobre as transacções realizadas sobre valores mobiliários que são objecto da oferta e do dever de informar os trabalhadores sobre o conteúdo dos documentos da oferta.
+
+e) A violação do dever de prévia comunicação do documento de registo à CMVM;
+
+f) A violação do dever de inclusão de lista de remissões no prospecto quando contenha informações por remissão;
+
+g) A violação do dever de envio à CMVM do documento de consolidação da informação anual.
 
 5 - Constitui contra-ordenação menos grave a omissão de comunicação à CMVM:
 

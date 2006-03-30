@@ -20,20 +20,26 @@ g) A falta de divulgação do prospecto de admissão, das respectivas adenda e r
 
 h) A falta de publicação da informação exigida, pelos emitentes de valores mobiliários negociados em mercado regulamentado.
 
+i) A violação do regime da informação privilegiada, excepto no caso em que tal facto constitua crime.
+
 2 - Constitui contra-ordenação grave a violação de qualquer dos seguintes deveres:
 
 a) De envio à entidade gestora de mercado regulamentado, pelos emitentes de valores mobiliários admitidos à negociação, dos elementos necessários para informação ao público;
 
 b) De conexão informativa com outros mercados regulamentados;
 
-c) De prestação à entidade gestora da bolsa, pelos membros desta, das informações necessárias à boa gestão do mercado;
+c) De prestação à entidade gestora do mercado regulamentado, pelos membros deste, das informações necessárias à boa gestão do mercado;
 
 d) De pedido de admissão à negociação em mercado regulamentado de valores mobiliários da mesma categoria dos já admitidos;
 
 e) De envio à CMVM, pelos emitentes de valores mobiliários admitidos à negociação em mercado regulamentado, das informações exigidas por lei.
 
+f) De publicação do documento de consolidação de informação anual;
+
+g) De divulgação de informação exigida no n.º 2 do artigo 134.º
+
 3 - Constitui contra-ordenação menos grave a falta de nomeação:
 
 a) De representante para as relações com o mercado e com a CMVM, por entidade com valores admitidos à negociação;
 
-b) De interlocutor perante a entidade gestora desse mercado e a CMVM, por membro da bolsa ou de outro mercado regulamentado.
+b) De interlocutor perante a entidade gestora desse mercado e a CMVM, por membro do mercado regulamentado.

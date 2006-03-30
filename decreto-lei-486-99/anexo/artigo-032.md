@@ -6,6 +6,6 @@ Sem prejuízo da liberdade de associação, só beneficiam dos direitos conferid
 
 a) Tenham como principal objecto estatutário a protecção dos interesses dos investidores em valores mobiliários;
 
-b) Contem entre os seus associados pelo menos 100 pessoas singulares que não sejam investidores institucionais;
+b) Contem entre os seus associados pelo menos 100 pessoas singulares que não sejam investidores qualificados;
 
 c) Exerçam actividade efectiva há mais de um ano.

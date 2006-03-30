@@ -2,7 +2,7 @@
 
 ### Reporte
 
-Nos reportes realizados em bolsa é permitido:
+Nos reportes realizados em mercado regulamentado é permitido:
 
 a) Que a primeira venda seja a contado ou a prazo;
 

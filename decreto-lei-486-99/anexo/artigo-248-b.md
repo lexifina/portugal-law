@@ -1,19 +1,35 @@
 # Artigo 248.º-B
 
-### Operações de dirigentes
+### Comunicação de transacções
 
-1 - A notificação de operações de dirigentes de emitentes de valores mobiliários ou outros instrumentos financeiros admitidos à negociação ou que tenham aprovado ou requerido a respetiva admissão à negociação e de pessoas estreitamente relacionadas com aqueles efetua-se segundo o disposto no Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
+1 - Os dirigentes de um emitente de valores mobiliários admitidos à negociação em mercado regulamentado ou de sociedade que o domine, bem como as pessoas com aqueles estreitamente relacionadas, informam a CMVM, no prazo de cinco dias úteis, sobre todas as transacções efectuadas por conta própria, de terceiros ou por estes por conta daqueles, relativas às acções daquele emitente ou aos instrumentos financeiros com estas relacionados.
 
-2 - A divulgação de operações de dirigentes e de pessoas estreitamente relacionadas efetua-se nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados, e através do sistema de difusão de informação referido no artigo 367.º
+2 - A comunicação prevista no número anterior identifica relativamente à transacção:
 
-3 - O conteúdo da notificação de operações de dirigentes e de pessoas estreitamente relacionadas rege-se pelo Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
+a) A natureza;
 
-4 - Os emitentes elaboram uma lista de dirigentes e das pessoas estreitamente relacionadas com os dirigentes, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
+b) A data;
 
-5 - Os emitentes notificam por escrito os dirigentes das obrigações relativas às operações de dirigentes, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
+c) O local;
 
-6 - Os dirigentes notificam por escrito as pessoas estreitamente relacionadas das obrigações relativas às operações de dirigentes, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
+d) O preço;
 
-7 - Os emitentes e os dirigentes conservam, pelo prazo de cinco anos, uma cópia da notificação referida nos n.os 5 e 6, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
+e) O volume;
 
-8 - Sem prejuízo de eventual responsabilidade criminal, os dirigentes estão proibidos de efetuar operações em período anterior à divulgação de relatório financeiro intercalar ou anual que o emitente esteja obrigado a divulgar ao público, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
+f) O emitente;
+
+g) O instrumento financeiro que dela é objecto;
+
+h) O motivo da obrigação de comunicação;
+
+i) O número de acções do emitente de que o dirigente passou a ser titular após a transacção.
+
+3 - Para efeito do disposto no n.º 1, consideram-se dirigentes os membros dos órgãos de administração e de fiscalização do emitente e os responsáveis que, não sendo membros daqueles órgãos, possuem um acesso regular a informação privilegiada e participam nas decisões sobre a gestão e estratégia negocial do emitente.
+
+4 - Para efeito do disposto no n.º 1, consideram-se pessoas estreitamente relacionadas com os dirigentes as seguintes:
+
+a) O cônjuge do dirigente ou pessoa que com ele viva em união de facto, descendentes a seu cargo e outros familiares que com ele coabitem há mais de um ano;
+
+b) Qualquer entidade que seja directa ou indirectamente dominada pelo dirigente, constituída em seu benefício ou de que este seja também dirigente.
+
+5 - As normas previstas nos números anteriores aplicam-se aos dirigentes de emitentes que tenham sede em Portugal ou que, não tendo sede num Estado membro da União Europeia, estejam obrigados a prestar à CMVM a informação relativa às contas anuais.

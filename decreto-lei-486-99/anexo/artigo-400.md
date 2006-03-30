@@ -7,3 +7,5 @@ A violação de deveres não referidos nos artigos anteriores mas previstos nest
 a) Contra-ordenação menos grave; ou
 
 b) Contra-ordenação grave, quando o agente seja intermediário financeiro ou qualquer das entidades gestoras a que se refere a alínea b) do n.º 2 do artigo 388.º, no exercício das respectivas actividades.
+
+c) Contra-ordenação muito grave, quando se trate de violação do dever de segredo sobre a actividade de supervisão da CMVM.

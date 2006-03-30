@@ -14,4 +14,6 @@
 
 6 - A desistência da acusação pelo Ministério Público depende da concordância da CMVM.
 
-7 - A CMVM tem legitimidade para recorrer autonomamente das decisões proferidas no processo de impugnação que admitam recurso.
+7 - A CMVM tem legitimidade para recorrer autonomamente das decisões proferidas no processo de impugnação que admitem recurso, bem como para responder a recursos interpostos.
+
+8 - Não é aplicável aos processos de contra-ordenação instaurados e decididos nos termos deste Código a proibição de reformatio in pejus, devendo essa informação constar de todas as decisões finais que admitam impugnação ou recurso.

@@ -2,9 +2,9 @@
 
 ### Conexão com outros sistemas e instituições
 
-1 - Os sistemas utilizados na liquidação de operações de bolsa devem estabelecer as ligações necessárias à boa liquidação das operações, constituindo uma rede de conexões, nomeadamente com:
+1 - Os sistemas utilizados na liquidação de operações de mercado regulamentado devem estabelecer as ligações necessárias à boa liquidação das operações, constituindo uma rede de conexões, nomeadamente com:
 
-a) Entidades gestoras das bolsas onde se realizem as operações a liquidar;
+a) Entidades gestoras dos mercados regulamentados onde se realizem as operações a liquidar;
 
 b) Sistemas centralizados de valores mobiliários;
 

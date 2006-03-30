@@ -2,7 +2,7 @@
 
 ### Informação sobre preços e quantidades
 
-1 - A entidade gestora da bolsa deve colocar à disposição do público as seguintes informações relativas às operações efectuadas em cada sessão:
+1 - A entidade gestora do mercado regulamentado deve colocar à disposição do público as seguintes informações relativas às operações efectuadas em cada sessão:
 
 a) O preço de cada operação, imediatamente após a sua formação;
 

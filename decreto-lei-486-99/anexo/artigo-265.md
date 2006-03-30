@@ -1,8 +1,8 @@
 # Artigo 265.º
 
-### Gestão de operações fora de bolsa
+### Gestão de operações fora de mercado regulamentado
 
-1 - A entidade gestora da bolsa pode prestar serviços de gestão e de liquidação de operações a prazo, padronizadas ou não, que se realizem fora de bolsa.
+1 - A entidade gestora de mercado regulamentado pode prestar serviços de gestão e de liquidação de operações a prazo, padronizadas ou não, que se realizem fora de mercado regulamentado.
 
 2 - Às operações referidas no número anterior aplica-se o disposto nos artigos 255.º e 256.º
 
