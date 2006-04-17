@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 24/2006
+Para os devidos efeitos se declara que a Lei n.º 6/2006, de 27 de Fevereiro [aprova o Novo Regime do Arrendamento Urbano (NRAU), que estabelece um regime especial de actualização das rendas antigas e altera o Código Civil, o Código de Processo Civil, o Decreto-Lei n.º 287/2003, de 12 de Novembro, o Código do Imposto Municipal sobre Imóveis e o Código do Registo Predial], publicada no Diário da República, 1.ª série-A, n.º 41, de 27 de Fevereiro de 2006, saiu com as seguintes incorrecções, que assim se rectificam:
+Na alínea a) do n.º 1 do artigo 1102.º do Código Civil, constante do artigo 3.º da Lei n.º 6/2006, de 27 de Fevereiro, e do anexo que republicou o capítulo IV do título II do livro II do Código Civil, onde se lê «Ser o senhorio comproprietário ou usufrutuário» deve ler-se «Ser o senhorio proprietário, comproprietário ou usufrutuário».
+No n.º 1 do artigo 12.º da Lei n.º 6/2006, de 27 de Fevereiro, onde se lê «no n.º 2 do artigo 9.º» deve ler-se «no n.º 2 do artigo 10.º».
+Assembleia da República, 6 de Abril de 2006. - A Secretária-Geral, Adelina Sá Carvalho.
