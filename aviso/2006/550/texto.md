@@ -1,0 +1,5 @@
+Aviso n.º 550/2006
+Por ordem superior se torna público que, em 16 de Agosto de 2005, a República do Zimbabwe depositou o seu instrumento de aceitação à Convenção Instituidora da Organização Marítima Internacional (IMCO/IMO), alterada de harmonia com as resoluções adoptadas pela Assembleia da Organização em 15 de Setembro de 1964 e 28 de Setembro de 1965, concluída em Genebra em 6 de Março de 1948.
+Portugal é Parte da Convenção, aprovada, para adesão, pelo Decreto n.º 117/76, publicado no Diário do Governo, 1.ª série, n.º 33, de 9 de Fevereiro de 1976, tendo depositado o seu instrumento de adesão à Convenção em 17 de Março de 1976, conforme aviso publicado no Diário da República, 1.ª série, n.º 136, de 11 de Junho de 1976, e tendo entrado em vigor em 17 de Março de 1976, de acordo com os artigos 5.º e 71.º da Convenção.
+A Convenção entrou em vigor para a República do Zimbabwe em 16 de Agosto de 2005.
+Direcção de Serviços das Organizações Económicas Internacionais, da Direcção-Geral dos Assuntos Multilaterais, 22 de Março de 2006. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
