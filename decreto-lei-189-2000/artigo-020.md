@@ -1,13 +1,15 @@
 # Artigo 20.º
 
-### Aplicação e destino das coimas
+### Procedimento de contra-ordenação e aplicação de coimas
 
-1 - Sem prejuízo das competências das autoridades policiais e administrativas, a instrução dos processos contra-ordenacionais, bem como a aplicação das coimas, cabe à autoridade competente, designada no artigo 15.º
+1 - A instrução dos procedimentos de contra-ordenação cabe ao INFARMED, sem prejuízo da intervenção, no domínio das respectivas atribuições, de outras entidades públicas.
 
-2 - O produto das coimas reverte:
+2 - A aplicação das coimas previstas no presente diploma compete ao presidente do órgão executivo do INFARMED.
 
-a) Em 60% para o Estado;
+3 - O produto das coimas aplicadas ao abrigo do disposto no presente capítulo reverte:
 
-b) Em 10% para a entidade que levantou o auto de notícia;
+a) Em 10% para a entidade que levanta o auto de notícia;
 
-c) Em 30% para a entidade instrutora do processo.
+b) Em 30% para o INFARMED;
+
+c) Em 60% para o Estado.
