@@ -4,7 +4,7 @@
 
 1 - O requerimento só pode ser recusado se:
 
-a) Não estiver endereçado à secretaria judicial competente ou não respeitar o disposto no n.º 4 do artigo anterior;
+a) Não estiver endereçado à secretaria judicial competente ou não respeitar o disposto na alínea l) do n.º 2 do artigo anterior;
 
 b) Omitir a identificação das partes, o domicílio do requerente ou o lugar da notificação do devedor;
 

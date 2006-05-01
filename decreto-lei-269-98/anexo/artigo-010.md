@@ -4,7 +4,7 @@
 
 1 - O modelo de requerimento de injunção é aprovado por portaria do Ministro da Justiça.
 
-2 - No requerimento deve o requerente:
+2 - No requerimento, deve o requerente:
 
 a) Identificar a secretaria do tribunal a que se dirige;
 
@@ -26,16 +26,16 @@ i) Indicar o endereço de correio electrónico, se o requerente pretender recebe
 
 j) Indicar se pretende que o processo seja apresentado à distribuição, no caso de se frustrar a notificação;
 
-l) Indicar se pretende a notificação por solicitador de execução ou mandatário judicial e, em caso afirmativo, indicar o seu nome e o respectivo domicílio profissional;
+l) Indicar o tribunal competente para apreciação dos autos se forem apresentados à distribuição;
 
-m) Assinar o requerimento.
+m) Indicar se pretende a notificação por solicitador de execução ou mandatário judicial e, em caso afirmativo, indicar o seu nome e o respectivo domicílio profissional;
+
+n) Assinar o requerimento.
 
 3 - Durante o procedimento de injunção não é permitida a alteração dos elementos constantes do requerimento, designadamente o pedido formulado.
 
-4 - Se a secretaria competente para a apresentação do requerimento de injunção for uma secretaria-geral, criada nos termos do n.º 4 do artigo 8.º, o requerente deve indicar, no requerimento de injunção, o tribunal competente para apreciar os autos no caso de estes serem apresentados à distribuição.
+4 - Se o requerente indicar endereço de correio electrónico, nos termos e para os efeitos da alínea i) do n.º 2, as comunicações e notificações pela secretaria ao requerente são efectuadas por meios electrónicos, em termos a definir por portaria do Ministro da Justiça.
 
-5 - Se o requerente indicar endereço de correio electrónico, nos termos e para os efeitos da alínea i) do n.º 2, as comunicações e notificações pela secretaria ao requerente são efectuadas por meios electrónicos, em termos a definir por portaria do Ministro da Justiça.
+5 - O requerimento pode ser subscrito por mandatário judicial, bastando para o efeito a menção da existência do mandato e do domicílio profissional do mandatário.
 
-6 - O requerimento pode ser subscrito por mandatário judicial, bastando para o efeito a menção da existência do mandato e do domicílio profissional do mandatário.
-
-7 - A subscrição do requerimento por mandatário judicial não o exime da necessidade de preenchimento de todos os elementos relativos ao representado, nomeadamente a indicação do respectivo domicílio.
+6 - A subscrição do requerimento por mandatário judicial não o exime da necessidade de preenchimento de todos os elementos relativos ao representado, nomeadamente a indicação do respectivo domicílio.
