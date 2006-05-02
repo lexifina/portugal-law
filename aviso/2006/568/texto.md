@@ -1,0 +1,4 @@
+Aviso n.º 568/2006
+Por ordem superior se torna público que, em 15 de Novembro de 2004, agindo na sua qualidade de depositário, o Secretário-Geral da Organização das Nações Unidas comunica ter recebido o depósito do instrumento de aceitação do Japão aos Estatutos do Grupo Internacional de Estudo do Cobre, pela Conferência das Nações Unidas sobre o Cobre, concluídos em Genebra em 24 de Fevereiro de 1989.
+Portugal é Parte dos mesmos Estatutos, aprovados, para aceitação, pela Resolução da Assembleia da República n.º 23/90, publicada no Diário da República, 1.ª série, n.º 224, de 27 de Setembro de 1990, tendo sido ratificados pelo Decreto do Presidente da República n.º 52/90, publicado no Diário da República, 1.ª série, n.º 224, de 27 de Setembro de 1990.
+Direcção de Serviços das Organizações Económicas Internacionais, da Direcção-Geral dos Assuntos Multilaterais, 31 de Março de 2006. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
