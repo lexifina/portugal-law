@@ -1,0 +1,5 @@
+Aviso n.º 570/2006
+Por ordem superior se torna público que, em 6 de Outubro de 2005, a União de Estados da Sérvia e Montenegro depositou o seu instrumento de adesão ao Acordo Europeu sobre as Grandes Linhas de Transporte Combinado Internacional e Respectivas Instalações, concluído em Genebra em 1 de Fevereiro de 1991.
+Portugal é Parte do mesmo Acordo, aprovado, para adesão, pelo Decreto n.º 32/94, publicado no Diário da República, 1.ª série-A, n.º 254, de 3 de Novembro de 1994, tendo depositado o seu instrumento de confirmação e adesão em 17 de Janeiro de 1995, conforme o Aviso n.º 128/95 (Diário da República, 1.ª série-A, n.º 128, de 2 de Junho de 1995), e tendo as emendas aos anexos I e II do Acordo entrado em vigor em 7 de Abril de 1995, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 80, de 26 de Abril de 2005.
+O Acordo entrou em vigor para a União de Estados da Sérvia e Montenegro em 4 de Janeiro de 2006.
+Direcção de Serviços das Organizações Económicas Internacionais, da Direcção-Geral dos Assuntos Multilaterais, 31 de Março de 2006. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
