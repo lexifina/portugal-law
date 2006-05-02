@@ -1,0 +1,5 @@
+Aviso n.º 574/2006
+Por ordem superior se torna público que, em 29 de Novembro de 2005, o Grão-Ducado do Luxemburgo depositou o seu instrumento de denúncia ao Protocolo que altera a Convenção Internacional sobre Limite da Responsabilidade dos Proprietários de Navios de Alto Mar, concluído em Bruxelas em 21 de Dezembro de 1979.
+Portugal é Parte do mesmo Protocolo, aprovado, para ratificação, pelo Decreto n.º 6/82, publicado no Diário da República, 1.ª série, n.º 17, de 21 de Janeiro de 1982, tendo sido ratificado em 30 de Abril de 1982, conforme aviso publicado no Diário da República, 1.ª série, n.º 166, de 21 de Julho de 1982, e tendo entrado em vigor no dia 6 de Outubro de 1984, conforme aviso publicado no Diário da República, 1.ª série, n.º 294, de 21 de Dezembro de 1984.
+De acordo com o artigo VII, a denúncia referida entrará em vigor para o Grão-Ducado do Luxemburgo em 29 de Novembro de 2006.
+Direcção de Serviços das Organizações Económicas Internacionais, da Direcção-Geral dos Assuntos Multilaterais, 31 de Março de 2006. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
