@@ -1,0 +1,81 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7mX8CblfaZUC1PkJDB5lnqrCJq%2b7%2fttZ%2bq7V7723EchVdz3Nn2q812aFEYd6rr8874IzCmBVEAA%2bWOYWfsumzvqS1eq8naCM3HU8DfArtqjUIzglbaPE0CcQttqHCQQoMo%2fh%2fhKCb3g2GEQMzfq1KSc9%2fpTWFu72hTtxTyNYOeXkhbuONHMuCnIkQqg3msT7eeQmt0TfluQRzEBaM8DH7AQmw5Qhogj2EW6Pzk21Q%2bvziTvjPWoS33gxtX%2fH9JDDQX6mGASaug9iKuUhzQ7Z5ZK%2fZR5bCVlM5vvPHMxCwoMG%2bvQRYkXxSUhi0aLWAFUFURbTtAP3Ta6KrCvkgi0G8WZ9c9%2bLNnGsCv9PZZ1kJfTh41xRZVmeaxJdHrCKDxmC&fich=IntervencoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "6d409937a94b75ba2179b6cc6083cb33cce789e414851e22ef0c275c6cbcc284",
+  "legislatura": "X",
+  "id": "161473",
+  "tipo": "Intervenção",
+  "orador": "Freitas Do Amaral (MIN. DE ESTADO E DOS NEGÓCIOS ESTRANGEIROS)",
+  "data_registo": "2006-05-03",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "80247",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "80247",
+        "tipo": "DEB",
+        "titulo": "Debate de urgência - Sobre a tensão internacional suscitada pelo programa nuclear do Irão."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2006-05-03",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "161473",
+    "IdDebate": "3242",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "X",
+    "MembrosGoverno": {
+      "cargo": "MIN. DE ESTADO E DOS NEGÓCIOS ESTRANGEIROS",
+      "governo": "XVII GOVERNO CONSTITUCIONAL",
+      "nome": "Freitas Do Amaral"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "161473",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "5551-5553",
+          "5561-5564",
+          "5569-5570",
+          "5575-5576"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-05-04",
+        "pubLeg": "X",
+        "pubNr": "120",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/120/2006-05-04/5551?pgs=5551-5553,5561-5564,5569-5570,5575-5576&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Responde aos deputados José Vera Jardim (PS), Henrique Rocha de Freitas (PSD), António Filipe (PCP), Telmo Correia (CDS-PP), Francisco Louçã (BE) e Francisco Madeira Lopes (PEV)",
+    "Sessao": "1",
+    "Sumario": "Tensão internacional suscitada pelo programa nuclear do Irão",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
