@@ -1,0 +1,81 @@
+Portaria n.º 431/2006
+de 3 de Maio
+A Portaria n.º 1391/2002, de 25 de Outubro, veio estabelecer, em execução do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, os requisitos, prazos e termos de procedimento administrativo a seguir em processos relativos a zonas de caça associativas (ZCA), turísticas (ZCT) e municipais (ZCM).
+Entretanto, o Decreto-Lei n.º 202/2004, de 18 de Agosto, com a redacção conferida pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, introduziu alterações que, aliadas à necessidade de adequação à nova estrutura e competências da Direcção-Geral dos Recursos Florestais, implicam, nomeadamente, mudanças de procedimentos e circuitos relacionados com a tramitação dos processos relativos a zonas de caça e a áreas de não caça.
+Por outro lado, e inserindo-se na prossecução dos objectivos do Governo em matéria de simplificação administrativa, desburocratização e modernização, afigurou-se oportuna a instituição de novos procedimentos que permitam tornar mais célere, transparente e expedita a tramitação dos respectivos processos e simultaneamente a adopção de medidas de simplificação e eliminação de actos e procedimentos que se apresentem como dilatórios ou inúteis.
+Considerando que um dos objectivos fundamentais da Lei de Bases Gerais da Caça - Lei n.º 173/99, de 21 de Setembro - é o ordenamento de todo o território cinegético nacional, o que implica a aplicação de normas de gestão ordenada a todos os espaços com aptidão cinegética;
+Constatando-se, ainda, que a área sujeita a ordenamento cinegético cresceu notavelmente, ultrapassando já 80% dos terrenos cinegéticos nacionais:
+Entendeu-se ser curial terminar com a limitação temporal para a sinalização das zonas de caça, o que certamente ajudará a atingir aquele objectivo.
+Foram ouvidas as organizações do sector da caça e a Liga para a Protecção da Natureza.
+Assim:
+Com fundamento nos artigos 11.º, 16.º, 17.º, 19.º, alínea a), 21.º, 27.º, 35.º a 42.º, 45.º, 47.º a 49.º, 58.º, alínea b), e 159.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º
+Apresentação do pedido
+1 - O requerimento e demais documentação necessária à instrução de processos relativos a zonas de caça e a áreas de direito à não caça referidos nos artigos 27.º, 35.º, 37.º, 45.º e 58.º e ainda, consoante o caso, a documentação necessária ao cumprimento do disposto nos n.os 1 e 2 do artigo 30.º, no n.º 2 do artigo 34.º e no artigo 149.º, todos do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, devem ser apresentados nos serviços da Direcção-Geral dos Recursos Florestais (DGRF) com responsabilidades na área onde predominantemente se situem os terrenos em causa - núcleo florestal (NF) ou respectiva circunscrição florestal.
+2 - Os acordos a que se refere o artigo 36.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, podem ser compostos por duas partes:
+a) Na primeira devem constar nomeadamente a identificação das partes contratantes, o prazo do acordo e as condições de eventuais renovações;
+b) A segunda, constituída por formulário, conforme o modelo anexo a esta portaria e que dela faz parte integrante.
+3 - Os acordos referidos no número anterior devem ser estabelecidos pelo prazo mínimo de seis anos a contar da entrada em vigor da portaria que cria, renova ou altera a concessão, sem prejuízo da produção de efeitos, entre as partes, a partir da data da sua assinatura.
+4 - A planta dos terrenos a que se referem as alíneas b) do n.º 2 do artigo 27.º, a) do n.º 2 do artigo 35.º e b) do artigo 58.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, deve ser apresentada, em suporte digital, no formato shapefile «.dxf» ou outro acordado com os serviços da DGRF.
+Recursos Florestais.
+5 - No caso de zonas de caça, devem ser entregues dois exemplares dos respectivos planos, que podem ser entregues em suporte digital.
+6 - Sempre que as zonas de caça abranjam terrenos incluídos em áreas classificadas, deve ser apresentado um exemplar suplementar da planta dos terrenos e do respectivo plano.
+2.º
+Instrução do processo
+1 - A DGRF dispõe de um prazo de 7 dias, contado da data de entrada do requerimento no NF com responsabilidades na área onde predominantemente se situem os terrenos em causa, para verificar se o mesmo foi acompanhado de todos os documentos exigíveis, notificando de imediato a entidade requerente para apresentar os documentos em falta no prazo de 10 dias, sob pena de o requerimento ser indeferido.
+2 - Apresentado o requerimento e os documentos referidos no n.º 1, a DGRF dispõe de um prazo de 50 dias para a instrução do processo, podendo solicitar aos requerentes informações e documentos complementares, bem como solicitar as alterações que considere adequadas.
+3 - As diligências a que se refere o número anterior não suspendem o andamento do processo.
+4 - Caso o requerimento e os documentos referidos no n.º 1 do presente artigo sejam entregues na circunscrição florestal, ao prazo enunciado no n.º 2 do presente artigo acrescem-se três dias.
+3.º
+Pareceres externos à DGRF
+Imediatamente após a confirmação de que o processo inclui todos os documentos exigíveis, a DGRF remete, em simultâneo, para parecer:
+a) Ao Instituto da Conservação da Natureza (ICN), quando abranja terrenos incluídos em áreas classificadas, a planta dos terrenos e o plano de ordenamento e exploração cinegética (POEC) ou o plano de gestão (PG), bem como cópia do requerimento inicial;
+b) Ao conselho cinegético municipal (CCM) respectivo a planta dos terrenos, o requerimento e a listagem de caçadores ou o número de jornadas previsto.
+4.º
+Decisão da DGRF
+1 - Durante a fase de instrução de processos de transferência de gestão e, independentemente da data de entrada do pedido nos serviços competentes, têm prioridade os processos de direito à não caça ou de criação de zona de caça que forem apresentados pelo titular de direitos sobre os terrenos a incluir ou por quem com aqueles tenha estabelecido acordos.
+2 - Finda a instrução, a DGRF dispõe do prazo máximo de 15 dias para:
+a) Encontrando-se o processo em condições de deferimento, submeter o mesmo à decisão do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas (MADRP), e dar conhecimento ao requerente;
+b) Não reunindo o processo os requisitos técnicos ou legais ou não se revelando compatível com os critérios e os princípios superiormente aprovados, designadamente o referido no n.º 1, dar início ao processo de indeferimento.
+5.º
+Sinalização das zonas de caça
+1 - As zonas de caça só produzem efeitos relativamente a terceiros com a instalação da respectiva sinalização nas condições definidas em portaria do MADRP, que deve ser colocada no prazo máximo de seis meses contados a partir da data de publicação da portaria de criação da zona de caça.
+2 - A falta de sinalização no prazo previsto no n.º 1 constitui motivo de revogação da concessão ou da transferência de gestão.
+6.º
+Concessão, renovação, anexação, desanexação, transferência de gestão e mudança de concessionário
+O disposto nos números anteriores é aplicável à concessão de ZCA e de ZCT e à transferência de gestão de terrenos (ZCM), bem como, com as devidas adaptações, à renovação, à anexação e à desanexação de terrenos e à mudança de concessionário, sem prejuízo das disposições legais que regulam cada tipo de requerimento e zona de caça.
+7.º
+Falta de acordos
+Os titulares de direitos sobre prédios que tenham sido integrados em concessões, sem que para o efeito tenham sido celebrados os respectivos acordos, e que comprovem a sua qualidade, podem requerer ao MADRP a reposição da legalidade da situação, promovendo a DGRF a solução do litígio por acordo entre as partes, por desanexação dos prédios em causa ou por revogação da zona de caça.
+8.º
+Taxas devidas pela concessão de zonas de caça
+1 - Pela concessão e manutenção de ZCA e ZCT é devida uma taxa.
+2 - O pagamento da taxa acima referida efectua-se em duas fases:
+a) No acto de entrega do requerimento, através de prestação única correspondente ao valor de (euro) 150, independentemente da área a que se reporta;
+b) Anualmente, de 1 de Janeiro a 31 de Maio e correspondente ao valor de (euro) 1,20 por hectare ou fracção, sendo calculado em função da área total à data de pagamento.
+3 - No caso de se tratar de ZCA, o valor da taxa referido nas alíneas a) e b) do n.º 2 é reduzido para metade.
+4 - As zonas de caça estão isentas do pagamento referido na alínea b) do n.º 2 até 31 de Dezembro do ano seguinte ao ano de publicação da portaria de criação.
+5 - Exceptua-se do disposto no n.º 4 as zonas de caça cujos terrenos provenham maioritariamente de áreas de refúgio de caça, áreas de interdição à caça ou de outras zonas de caça.
+6 - Estão ainda isentas do pagamento referido na alínea b) do n.º 2 pelo período correspondente ao da suspensão as zonas de caça cujos processos de renovação, com data de entrada nas condições previstas no n.º 4 do artigo 48.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, não tenham sido concluídos atempadamente.
+7 - Para efeito do disposto no n.º 6, o montante a que se refere a alínea b) do n.º 2 é deduzido do valor dos duodécimos correspondentes ao período de suspensão.
+8 - O pagamento das importâncias referidas no n.º 2 pode ser efectuado em numerário, por cheque ou vale postal ou outras modalidades para tanto disponibilizadas.
+9 - Sempre que o pagamento da taxa tenha lugar fora do prazo referido na alínea b) do n.º 2, o valor da mesma é agravado 10% por cada mês ou fracção até o pagamento ser efectivado.
+10 - O valor total da taxa a pagar deve ser arredondado para o euro imediatamente superior.
+11 - As zonas de caça que tenham dentro do seu perímetro zonas interditas à caça e áreas de refúgio de caça ficam isentas de taxas na área correspondente a essas limitações.
+9.º
+Actualização anual das taxas
+1 - O valor da taxa definido no n.º 2 do n.º 8.º é actualizado anualmente de acordo com o coeficiente resultante da totalidade da variação do índice de preços no consumidor, excluída a habitação, correspondente aos últimos 12 meses, e para os quais existam valores disponíveis a 31 de Agosto, apurado pelo Instituto Nacional de Estatística, previsto no artigo 32.º do Regime de Arrendamento Urbano e publicado na forma de aviso no Diário da República até 30 de Outubro de cada ano.
+2 - Os valores referidos no número anterior são divulgados através de despacho do director-geral dos Recursos Florestais.
+10.º
+Falta de pagamento da taxa
+1 - Sem prejuízo da aplicação das sanções previstas na lei, a falta de pagamento das taxas nos prazos definidos no n.º 1 do n.º 7.º constitui causa de suspensão do exercício da caça e das actividades de carácter venatório, nos termos do artigo 42.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro.
+2 - O despacho que determinar a suspensão do exercício da caça e das actividades de carácter venatório referido no número anterior fixa no máximo em 60 dias o prazo para o pagamento da taxa em dívida e dos respectivos agravamentos.
+3 - Decorrido o prazo referido no número anterior, se o pagamento da taxa em dívida e dos respectivos agravamentos não for efectuado, a concessão da zona de caça é revogada.
+11.º
+Norma revogatória
+É revogada a Portaria n.º 1391/2002, de 25 de Outubro.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 13 de Abril de 2006.
+
+ANEXO
+(ver documento original)
