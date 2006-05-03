@@ -1,0 +1,34 @@
+Decreto-Lei n.º 82/2006
+de 3 de Maio
+O Decreto-Lei n.º 359/91, de 21 de Setembro, procedeu à transposição para a ordem jurídica nacional das Directivas do Conselho das Comunidades Europeias n.os 87/102/CEE, de 22 de Dezembro de 1986, e 90/88/CEE, de 22 de Fevereiro, relativas ao crédito ao consumo.
+A prática tem demonstrado que a aplicação daquele decreto-lei, com a redacção que lhe foi dada pelo Decreto-Lei n.º 101/2000, de 2 de Junho, não tem garantido uma eficaz transparência das comunicações comerciais dirigidas aos consumidores, pondo assim em causa a sua capacidade para, de forma consciente e esclarecida, formarem a sua vontade de contratar.
+Assim, por este motivo, o presente decreto-lei vem estabelecer que a taxa anual de encargos efectiva global (TAEG) deve ser apresentada sistematicamente em todas as comunicações comerciais, e não só quando seja mencionada a taxa de juros ou outro valor relacionado com o custo do crédito.
+Deste modo, toda a comunicação comercial deve indicar a TAEG para cada modalidade de crédito que vise promover, mesmo quando se apresente o crédito como gratuito, sem juros ou se utilize na mensagem uma outra expressão equivalente.
+Com este alargamento da obrigatoriedade de indicar a TAEG, pretende-se dar mais transparência ao mercado do crédito ao consumo e, simultaneamente, prevenir comportamentos menos cuidadosos por parte dos consumidores no recurso ao crédito, contribuindo-se, assim, para a diminuição do risco de sobreendividamento das famílias e dos consumidores.
+Nesse sentido, estabelece-se a obrigatoriedade de indicação da TAEG, de forma legível e perceptível, nas comunicações comerciais, incluindo a publicidade, relativas ao crédito ao consumo.
+Foi promovida a audição dos membros do Conselho Nacional do Consumo.
+Foram ouvidas a União Geral dos Consumidores, a Federação Nacional das Cooperativas de Consumo e a Associação dos Consumidores da Região Autónoma dos Açores.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Alteração ao Decreto-Lei n.º 359/91, de 21 de Setembro
+Os artigos 5.º e 17.º do Decreto-Lei n.º 359/91, de 21 de Setembro, alterado pelo Decreto-Lei n.º 101/2000, de 2 de Junho, passam a ter a seguinte redacção:
+«Artigo 5.º
+Comunicações comerciais
+1 - Sem prejuízo das normas aplicáveis em geral à actividade publicitária, toda a comunicação comercial, incluindo a publicidade, em que um agente económico se proponha conceder crédito ou servir de intermediário para a celebração de contratos de crédito deve indicar sempre a TAEG para cada modalidade de crédito a que essa comunicação se refere, mesmo que apresente o crédito como gratuito, sem juros ou utilize expressões equivalentes.
+2 - Se, em função das condições concretas do crédito, houver lugar à aplicação de diferentes TAEG, devem ser indicadas todas as TAEG aplicáveis.
+3 - A indicação da TAEG que, pelo seu tratamento gráfico ou áudio-visual, não seja facilmente legível ou perceptível pelo consumidor não cumpre o disposto nos números anteriores.
+4 - (Anterior n.º 2.)
+Artigo 17.º
+[...]
+1 - A infracção ao disposto no artigo 5.º constitui contra-ordenação punível com coima de (euro) 1746 a (euro) 3740 ou de (euro) 5000 a (euro) 40000, consoante o infractor seja pessoa singular ou colectiva.
+2 - ...»
+Artigo 2.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no prazo de 60 dias após a data da sua publicação.
+Visto e aprovado em Conselho de Ministros de 8 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
+Promulgado em 19 de Abril de 2006.
+Publique-se.
+O Presidente da República, ANÍBAL CAVACO SILVA.
+Referendado em 20 de Abril de 2006.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
