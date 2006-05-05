@@ -1,0 +1,5 @@
+Aviso n.º 579/2006
+Por ordem superior se torna público que, em 23 de Junho de 2005 e em 27 de Março de 2006, foram emitidas notas, respectivamente, pela Embaixada da República Democrática e Popular da Argélia em Lisboa e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e o Governo da República Democrática e Popular da Argélia para Evitar a Dupla Tributação, Prevenir a Evasão Fiscal e Estabelecer Regras de Assistência Mútua em Matéria de Cobrança de Impostos sobre o Rendimento e o Património, assinada em Argel em 2 de Dezembro de 2003.
+Por parte de Portugal a Convenção foi aprovada pela Resolução da Assembleia da República n.º 22/2006, publicada no Diário da República, 1.ª série-A, n.º 59, de 23 de Março de 2006.
+Nos termos do artigo 30.º da Convenção, esta entrará em vigor no dia 1 de Maio de 2006.
+Direcção-Geral das Relações Bilaterais, 6 de Abril de 2006. - O Director de Serviços do Médio Oriente e Magreb, Miguel de Calheiros Velozo.
