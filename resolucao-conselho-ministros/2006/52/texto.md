@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros n.º 52/2006
+Em 24 de Julho de 2001, foi celebrado entre o Estado Português, a Burns Philp Netherlands European Holdings, B. V., e a Mauri Fermentos, S. A., um contrato de investimento que tem por objecto a expansão e modernização da unidade industrial desta última, em Setúbal, para o fabrico de levedura instantânea activa, com utilização de tecnologia inovadora.
+Recentemente, a Burns Philp acordou na venda à Associated British Foods, P. L. C., do negócio de leveduras do grupo Burns Philp, a nível mundial.
+Em resultado desse acordo, a participação detida pela Burns Philp Netherlands European Holdings, B. V., no capital social da Mauri Fermentos, S. A., foi transmitida à AB Mauri, sociedade do grupo Associated British Foods.
+Tendo em conta que a AB Mauri integra um grande grupo europeu do ramo alimentar, em crescimento nas áreas de inovação e tecnologia, o Estado Português entendeu estar comprovada a continuidade da capacidade financeira e tecnológica bastante para assegurar o cumprimento do contrato de investimento e a realização dos objectivos do projecto.
+Torna-se, assim, necessária a formalização pela AB Mauri da assunção da posição contratual da Burns Philp, na qualidade de casa-mãe e sócia da Mauri Fermentos e da sua vinculação aos compromomissos e obrigações constantes do contrato de investimento e respectivos anexos.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Aprovar as minutas dos aditamentos ao contrato de investimento e ao seu anexo contrato de concessão de benefícios fiscais, que passam a integrar os contratos de investimento e de concessão de benefícios fiscais outorgados em 24 de Julho de 2001 e que são celebrados entre o Estado Português, representado respectivamente pela Agência Portuguesa para o Investimento, E. P. E., e pelo Ministro de Estado e das Finanças, a AB Mauri Holdings e a Mauri Fermentos, S. A.
+Presidência do Conselho de Ministros, 13 de Abril de 2006. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
