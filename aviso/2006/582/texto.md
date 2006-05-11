@@ -1,0 +1,4 @@
+Aviso n.º 582/2006
+Por ordem superior se torna público terem sido trocados, no dia 5 de Abril de 2006, os instrumentos de ratificação do Acordo de Cooperação Jurídica e Judiciária entre a República Portuguesa e a República de Angola, assinado em 30 de Agosto de 1995 na cidade de Luanda, entrando em vigor no dia 5 de Maio, nos termos do previsto no artigo 145.º, n.º 1, do referido Acordo.
+O Acordo de Cooperação Jurídica e Judiciária entre a República Portuguesa e a República de Angola foi aprovado para ratificação pela Resolução da Assembleia da República n.º 11/97 e ratificado pelo Decreto do Presidente da República n.º 9/97, ambos publicados no Diário da República, 1.ª série-A, n.º 53, de 4 de Março de 1997.
+Direcção-Geral das Relações Bilaterais, 20 de Abril de 2006. - O Director de Serviços da África Subsariana, António Manuel Ricoca Freire.
