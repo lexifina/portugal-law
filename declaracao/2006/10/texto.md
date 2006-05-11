@@ -1,0 +1,3 @@
+Declaração n.º 10/2006
+Nos termos do disposto no n.º 7 do artigo 206.º do Regimento da Assembleia da República, declara-se que se considera caduco o processo relativo à apreciação parlamentar n.º 19/X ao Decreto-Lei n.º 43/2006, de 24 de Fevereiro, que visa a equiparação entre o continente e as Regiões Autónomas dos preços de venda ao público de publicações não periódicas e de publicações periódicas de informação geral, apresentada pelo Grupo Parlamentar do Partido Popular, uma vez que foram rejeitadas pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias todas as propostas de alteração e que o Plenário foi informado do facto.
+Assembleia da República, 26 de Abril de 2006. - A Deputada Secretária da Mesa da Assembleia da República, Celeste Correia.
