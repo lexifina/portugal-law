@@ -1,0 +1,3 @@
+Declaração n.º 9/2006
+Nos termos do disposto no n.º 7 do artigo 206.º do Regimento da Assembleia da República, declara-se que se considera caduco o processo relativo à apreciação parlamentar n.º 15/X ao Decreto-Lei n.º 21/2006, de 2 de Fevereiro, que altera a Lei Orgânica do Serviço Nacional de Bombeiros e Protecção Civil, aprovada pelo Decreto-Lei n.º 49/2003, de 25 de Março, apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que foram rejeitadas pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias todas as propostas de alteração e que o Plenário foi informado do facto.
+Assembleia da República, 26 de Abril de 2006. - A Deputada Secretária da Mesa da Assembleia da República, Celeste Correia.
