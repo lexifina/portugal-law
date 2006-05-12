@@ -1,0 +1,353 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "60",
+    "id": "21205",
+    "titulo": "Autoriza o Governo a legislar sobre a redução do capital social de sociedades comerciais, eliminando a intervenção judicial obrigatória, enquanto medida integrada nas iniciativas de simplificação e eliminação de actos e procedimentos notariais e resgistrais, para fomentar o desenvolvimento económico e o investimento em Portugal."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2006-05-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5338",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2006-05-12",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2006-05-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "11:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  JUSTIÇA",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "João Tiago Silveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161372",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5694-5697",
+                  "5703-5705"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-05-13",
+                "pubLeg": "X",
+                "pubNr": "123",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/123/2006-05-13/5694?pgs=5694-5697,5703-5705&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a redução do capital social de sociedades comerciais, eliminando a intervenção judicial obrigatória, enquanto medida integrada nas iniciativas de simplificação e eliminação de actos e procedimentos notariais e resgistrais, para fomentar o desenvolvimento económico e o investimento em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "11:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161373",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5696-5696"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-05-13",
+                "pubLeg": "X",
+                "pubNr": "123",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/123/2006-05-13/5696?pgs=5696&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a redução do capital social de sociedades comerciais, eliminando a intervenção judicial obrigatória, enquanto medida integrada nas iniciativas de simplificação e eliminação de actos e procedimentos notariais e resgistrais, para fomentar o desenvolvimento económico e o investimento em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2147",
+                "nome": "Carlos Poço"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "11:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161374",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5697-5698"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-05-13",
+                "pubLeg": "X",
+                "pubNr": "123",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/123/2006-05-13/5697?pgs=5697-5698&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a redução do capital social de sociedades comerciais, eliminando a intervenção judicial obrigatória, enquanto medida integrada nas iniciativas de simplificação e eliminação de actos e procedimentos notariais e resgistrais, para fomentar o desenvolvimento económico e o investimento em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2140",
+                "nome": "Sónia Sanfona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "11:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161375",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5699-5701"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-05-13",
+                "pubLeg": "X",
+                "pubNr": "123",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/123/2006-05-13/5699?pgs=5699-5701&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a redução do capital social de sociedades comerciais, eliminando a intervenção judicial obrigatória, enquanto medida integrada nas iniciativas de simplificação e eliminação de actos e procedimentos notariais e resgistrais, para fomentar o desenvolvimento económico e o investimento em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "11:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161376",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5701-5702"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-05-13",
+                "pubLeg": "X",
+                "pubNr": "123",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/123/2006-05-13/5701?pgs=5701-5702&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a redução do capital social de sociedades comerciais, eliminando a intervenção judicial obrigatória, enquanto medida integrada nas iniciativas de simplificação e eliminação de actos e procedimentos notariais e resgistrais, para fomentar o desenvolvimento económico e o investimento em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "11:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161377",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5702-5703"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-05-13",
+                "pubLeg": "X",
+                "pubNr": "123",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/123/2006-05-13/5702?pgs=5702-5703&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a redução do capital social de sociedades comerciais, eliminando a intervenção judicial obrigatória, enquanto medida integrada nas iniciativas de simplificação e eliminação de actos e procedimentos notariais e resgistrais, para fomentar o desenvolvimento económico e o investimento em Portugal.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "243346",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5338",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-05-13",
+        "pubLeg": "X",
+        "pubNr": "123",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/123/2006-05-13?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
