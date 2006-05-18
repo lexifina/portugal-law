@@ -1,0 +1,7 @@
+Despacho Normativo n.º 31/2006
+O Decreto-Lei n.º 56/2006, de 15 de Março, altera a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa, consagrando no seu artigo 6.º que as normas regulamentares que venham a revelar-se necessárias para a aplicação do referido decreto-lei são aprovadas por despacho normativo do ministro que tutela a respectiva área sectorial.
+Ora, a alínea a) do n.º 5 do artigo 3.º do citado diploma consagra uma afectação global, pelo que se torna necessário proceder à sua regulamentação.
+Nestes termos, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 56/2006, de 15 de Março, determina-se o seguinte:
+1 - Afectação de 90% das verbas a que se refere a alínea a) do n.º 5 do artigo 3.º do Decreto-Lei n.º 56/2006, de 15 de Março, ao investimento em equipamentos sociais, designadamente no âmbito do PARES, bem como, quando aplicável, ao apoio às instituições e às famílias.
+2 - Afectação de 10% das verbas a que se refere a alínea a) do n.º 5 do artigo 3.º do Decreto-Lei n.º 56/2006, de 15 de Março, a outros programas, projectos, acções, equipamentos e serviços que se enquadrem no âmbito do estabelecido nesta alínea.
+Ministério do Trabalho e da Solidariedade Social, 28 de Abril de 2006. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.
