@@ -1,0 +1,10 @@
+Portaria n.º 467/2006
+de 22 de Maio
+A Portaria n.º 391/2006, publicada no Diário da República, 1.ª série-B, n.º 80, de 24 de Abril de 2006, que alterou e republicou o Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia, da subacção n.º 4.2, «Desenvolvimento de outros serviços à agricultura», da acção n.º 4, «Serviços à agricultura», da medida AGRIS, constante da Portaria n.º 1109-A/2000, de 27 de Novembro, veio actualizar os respectivos anexos, face a novas elegibilidades, e introduzir uma norma importante relativa à apresentação de candidaturas, a qual passou a ter como critério a localização da exploração onde se encontram os efectivos sobre os quais irão incidir as acções elegíveis.
+Contudo, tendo sido revogado o regime transitório constante do artigo 12.º da Portaria n.º 1109-A/2000, de 27 de Novembro, por lapso, não foi assegurado um novo regime transitório, pelo que o seu aditamento se revela essencial para o efeito da aplicação aos processos de candidatura relativos aos programas anuais de execução de 2006 das novas regras introduzidas pela Portaria n.º 391/2006, de 24 de Abril.
+Assim:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho, que à Portaria n.º 391/2006, de 24 de Abril, seja aditado o artigo 4.º-A, com a seguinte redacção:
+«Artigo 4.º-A
+A título transitório, os processos de candidatura relativos aos programas anuais de execução de 2006 às ajudas à preservação e melhoramento genético das raças autóctones, raças exóticas e raça bovina frísia podem ser entregues até 30 dias após a entrada em vigor do presente diploma.»
+Em 8 de Maio de 2006.
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
