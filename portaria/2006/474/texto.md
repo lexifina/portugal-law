@@ -1,0 +1,20 @@
+Portaria n.º 474/2006
+de 22 de Maio
+O contrato colectivo de trabalho celebrado entre a Associação dos Armadores de Tráfego Fluvial e o SIMAMEVIP - Sindicato dos Trabalhadores da Marinha Mercante, Agências de Viagens, Transitários e Pesca e outros, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 13, de 8 de Abril de 2005, abrange as relações de trabalho entre empregadores e trabalhadores representados pelas associações que o outorgaram.
+O SIMAMEVIP - Sindicato dos Trabalhadores da Marinha Mercante, Agências de Viagens, Transitários e Pesca requereu a extensão da referida convenção aos empregadores do mesmo sector de actividade e aos trabalhadores da mesma profissão ou profissão análoga que exerçam a sua actividade na mesma área geográfica e no mesmo âmbito sectorial da convenção.
+O aludido CCT actualiza a tabela salarial. O estudo de avaliação do impacte da extensão da tabela salarial teve por base as retribuições efectivas praticadas no sector abrangido pela convenção, apuradas pelos quadros de pessoal de 2002 e actualizadas de acordo com o aumento percentual médio das tabelas salariais das convenções publicadas em 2003 e 2004.
+Os trabalhadores a tempo completo, com exclusão de aprendizes e praticantes, abrangidos pela convenção, são 352, dos quais 62 (17,6%) auferem retribuições inferiores às convencionais. São as empresas do escalão entre 51 e 200 trabalhadores que empregam o maior número de trabalhadores com retribuições inferiores às da tabela salarial da convenção.
+Atendendo a que a convenção regula diversas condições de trabalho, procede-se à ressalva genérica de cláusulas que sejam contrárias a normas legais imperativas.
+Tendo em consideração a aplicação na área e no âmbito da presente convenção de outros instrumentos de regulamentação colectiva, negociais e não negociais, assegura-se, na medida do possível, a uniformização do estatuto laboral em cada empresa.
+A extensão da convenção tem, no plano social, o efeito de melhorar as condições de trabalho de um conjunto significativo de trabalhadores e, no plano económico, promove a aproximação das condições de concorrência entre empresas do mesmo sector.
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, 1.ª série, n.º 7, de 22 de Fevereiro de 2006, à qual não foi deduzida oposição por parte dos interessados.
+Assim:
+Ao abrigo dos n.os 1 e 3 do artigo 575.º do Código do Trabalho, manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, o seguinte:
+1.º
+1 - As condições de trabalho constantes do contrato colectivo de trabalho celebrado entre a Associação dos Armadores de Tráfego Fluvial e o SIMAMEVIP - Sindicato dos Trabalhadores da Marinha Mercante, Agências de Viagens, Transitários e Pesca e outros, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 13, de 8 de Abril de 2005, são estendidas, no território do continente:
+a) Às relações de trabalho entre empregadores não filiados na associação de empregadores outorgante não abrangidos por instrumentos de regulamentação colectiva de trabalho específicos, que sejam titulares de embarcações motorizadas e não motorizadas, destinadas nomeadamente ao transporte de mercadorias, cargas e descargas, serviço de reboque e lanchas transportadoras, transporte público de passageiros e turismo, extracção de areias e inertes, dragagens e obras públicas, navegação interior, navegação costeira nacional e outros serviços classificados e trabalhadores ao seu serviço das categorias profissionais nele previstas;
+b) Às relações de trabalho entre empregadores filiados na associação de empregadores outorgante e trabalhadores ao seu serviço, das categorias profissionais previstas na convenção, não representados pela associação sindical signatária.
+2 - Não são objecto de extensão as cláusulas que sejam contrárias a normas legais imperativas.
+2.º
+A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 30 de Abril de 2006.
