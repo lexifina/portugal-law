@@ -10,7 +10,7 @@ c) A hipoteca, a modificação e cessão dela, bem como a cessão do grau de pri
 
 d) A locação financeira e a transmissão dos direitos dela emergentes;
 
-e) O aluguer por prazo superior a um ano;
+e) O aluguer por prazo superior a um ano, quando do respectivo contrato resulte a existência de uma expectativa de transmissão da propriedade;
 
 f) A afectação do veículo ao regime de aluguer sem condutor;
 
