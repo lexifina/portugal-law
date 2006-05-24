@@ -1,0 +1,5 @@
+Aviso n.º 584/2006
+Por ordem superior, torna-se público que, em 6 e 26 de Abril de 2006, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pela Embaixada do Reino de Espanha em Lisboa, referindo ambas terem sido concluídas as respectivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e o Reino de Espanha para a Constituição de Um Mercado Ibérico da Energia Eléctrica, assinado em Santiago de Compostela em 1 de Outubro de 2004.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto do Presidente da República n.º 29/2006, de 5 de Março, e pela Resolução da Assembleia da República n.º 23/2006, de 19 de Janeiro, publicados no Diário da República, 1.ª série-A, n.º 59, de 23 de Março de 2006.
+Nos termos do n.º 1 do artigo 21.º do Acordo, este entrou em vigor em 10 de Abril de 2006.
+Direcção de Serviços da Europa da Direcção-Geral das Relações Bilaterais, 5 de Maio de 2006. - A Directora de Serviços, Liliana Araújo.
