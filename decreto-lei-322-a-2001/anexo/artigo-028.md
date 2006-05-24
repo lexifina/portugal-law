@@ -184,4 +184,18 @@ Isenções ou reduções emolumentares
 
 19 - Os registos relativos a veículo que utilize exclusivamente combustível de petróleo liquefeito (GPL) ou gás natural beneficiam de uma redução de 60% do valor do emolumento.
 
-20 - Os registos relativos a veículos que, no acto da entrada no consumo interno, se apresentem equipados com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de gás de petróleo liquefeito (GPL), gás natural, energia eléctrica ou solar, quer de gasolina ou gasóleo, beneficiam de uma redução de 30% do valor do emolumento.
+20 - Os registos relativos a veículo que utilize exclusivamente energia eléctrica ou solar, ou outra forma não poluente de energia, estão isentos de emolumentos.
+
+21 - Os registos relativos a veículo que utilize exclusivamente combustível de petróleo liquefeito (GPL) ou gás natural beneficiam de uma redução de 60% do valor do emolumento.
+
+22 - Os registos relativos a veículos que, no acto da entrada no consumo interno, se apresentem equipados com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de gás de petróleo liquefeito (GPL), gás natural, energia eléctrica ou solar, quer de gasolina ou gasóleo, beneficiam de uma redução de 30% do valor do emolumento.
+
+23 - Os emolumentos devidos por actos de registo, quando requeridos por via electrónica, são reduzidos em (euro) 15.
+
+24 - No caso da fusão ou da cisão, a redução prevista no número anterior não é aplicável ao depósito do projecto.
+
+25 - O registo por depósito promovido pela conservatória, nos termos do artigo 29.º-A do Código do Registo Comercial, não está sujeito ao pagamento do emolumento previsto no n.º 3 do artigo 22.º
+
+26 - Os emolumentos devidos pelo fornecimento em suporte electrónico de mapas estatísticos de registo de veículos a entidades sem fins lucrativos são reduzidos a um quarto.
+
+27 - Se o registo for solicitado por entidades licenciadas que exerçam a actividade de transportes rodoviários de mercadorias por conta de outrem, o primeiro registo de transmissão de reboques está isento de tributação emolumentar e os emolumentos devidos pelos subsequentes registos de transmissão de reboques são reduzidos a três quartos.

@@ -18,7 +18,7 @@
 
 1.4 - Se o registo for requerido fora do prazo, o emolumento previsto nos números anteriores é agravado em 50%.
 
-1.5 - Tratando-se de registo de alteração de nome, firma, residência ou sede ... 28
+1.5 - Tratando-se de registo de alteração de nome, firma, residência ou sede ... 30
 
 1.6 - Se o registo respeitar a diversos veículos, acresce, por cada veículo depois do primeiro, 50% do valor do emolumento previsto para o registo.
 
@@ -46,35 +46,35 @@
 
 5.1 - Pelo fornecimento em suporte de papel de mapas estatísticos:
 
-5.1.1 - Até 5000 registos ... 500
+5.2 - Até 5000 registos ... 750
 
-5.1.2 - Acima de 5000 registos ... 800
+5.3 - Acima de 5000 registos ... 1500
 
-5.2 - Pelo fornecimento em suporte magnético de mapas estatísticos:
+5.4 - Pelo fornecimento em suporte electrónico de mapas estatísticos:
 
-5.2.1 - Até 5000 registos ... 400
+5.5 - Até 5000 registos ... 100
 
-5.2.2 - Acima de 5000 registos ... 600
+5.6 - Acima de 5000 registos ... 200
 
-5.3 - Pela consulta em linha à base de dados do registo de automóveis:
+5.7 - Pela consulta em linha à base de dados do registo de automóveis:
 
-5.3.1 - Assinatura mensal, obrigatoriamente feita pelo período mínimo de um ano e que inclui até 300 acessos úteis ... 500
+5.7.1 - Assinatura mensal, obrigatoriamente feita pelo período mínimo de um ano e que inclui até 300 acessos úteis ... 500
 
-5.3.2 - Por cada acesso útil a mais ... 1
+5.7.2 - Por cada acesso útil a mais ... 1
 
-5.3.3 - São considerados acessos úteis, para efeitos do presente número, os que correspondem aos inputs ou outputs à finalidade para que foi autorizada a consulta.
+5.7.3 - São considerados acessos úteis, para efeitos do presente número, os que correspondem aos inputs ou outputs à finalidade para que foi autorizada a consulta.
 
-5.4 - Por cada cópia parcial em suporte magnético:
+5.8 - Por cada cópia parcial em suporte magnético:
 
-5.4.1 - Até 1000 registos ... 1000
+5.8.1 - Até 1000 registos ... 1000
 
-5.4.2 - Por cada adicional de 1000 registos ou fracção ... 500
+5.8.2 - Por cada adicional de 1000 registos ou fracção ... 500
 
-5.5 - Por cada cópia parcial em suporte de papel (conteúdo integral ou parcial de registo):
+5.9 - Por cada cópia parcial em suporte de papel (conteúdo integral ou parcial de registo):
 
-5.5.1 - Até 1000 registos ... 1500
+5.9.1 - Até 1000 registos ... 1500
 
-5.5.2 - Por cada adicional de 1000 registos ou fracção ... 750
+5.9.2 - Por cada adicional de 1000 registos ou fracção ... 750
 
 6 - Pelo processo de justificação ... 50
 
