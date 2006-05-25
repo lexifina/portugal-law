@@ -1,0 +1,569 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11458",
+  "numero": "135",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2006-05-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2006-10-24",
+            "dataResposta": "2007-02-02",
+            "entidades": [
+              "Ministro dos Assuntos Parlamentares"
+            ],
+            "nrOficio": "112/CAEIDR/2006",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2007-05-08",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2006-05-31",
+        "DataArquivo": "2007-05-16",
+        "DataBaixaComissao": "2006-05-31",
+        "DataEnvioPAR": "2007-05-16",
+        "DataReaberta": "2006-05-31",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2006-05-25",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453383251304646535552534c305276593356745a57353062334e515a585270593246764c7a5a6d4d5745305a544d314c54457a4f5449744e446b355a4331694e4755324c574d314f5745345a54457a5a57566c4e6935775a47593d&fich=6f1a4e35-1392-499d-b4e6-c59a8e13eee6.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2006-05-25",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453383251304646535552534c305276593356745a57353062334e515a585270593246764c3259304e7a45304e6a4a684c5751784d6d4d744e4464685a4331694e54526b4c54497a593251314f5459304d54526a4d4335775a47593d&fich=f471462a-d12c-47ad-b54d-23cd596414c0.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "248",
+        "Legislatura": "X",
+        "Nome": "Comissão de Assuntos Económicos, Inovação e Desenvolvimento Regional (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2006-05-31",
+            "gp": "PCP",
+            "id": "208",
+            "motivoCessacao": null,
+            "nome": "Agostinho Lopes"
+          }
+        ],
+        "RelatorioFinal": [
+          "22080"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2007-06-15",
+    "Documentos": [
+      {
+        "DataDocumento": "2006-05-25",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938334d444579597a6c6b5a43316c5a6d466b4c5451334d4751744f44497a5953316a4f47566a4d574d774f444e684f4755756347526d&fich=7012c9dd-efad-470d-823a-c8ec1c083a8e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2007-06-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-06-16",
+                "pubLeg": "X",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/095/2007-06-16/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação dos Agricultores de Portugal, solicitando uma intervenção da Assembleia da República para que lhes seja atribuído aquilo a que legalmente consideram ter direito, tendo em conta que as medidas agro-ambientais são da maior importância para o país, sendo que, em 2005, o Ministério da Agricultura decidiu não proceder ao pagamento das mesmas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-06-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165336",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-06-16",
+                "pubLeg": "X",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/095/2007-06-16/42?pgs=42-44&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação dos Agricultores de Portugal, solicitando uma intervenção da Assembleia da República para que lhes seja atribuído aquilo a que legalmente consideram ter direito, tendo em conta que as medidas agro-ambientais são da maior importância para o país, sendo que, em 2005, o Ministério da Agricultura decidiu não proceder ao pagamento das mesmas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-06-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-06-16",
+                "pubLeg": "X",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/095/2007-06-16/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação dos Agricultores de Portugal, solicitando uma intervenção da Assembleia da República para que lhes seja atribuído aquilo a que legalmente consideram ter direito, tendo em conta que as medidas agro-ambientais são da maior importância para o país, sendo que, em 2005, o Ministério da Agricultura decidiu não proceder ao pagamento das mesmas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-06-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165338",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-06-16",
+                "pubLeg": "X",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/095/2007-06-16/45?pgs=45&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação dos Agricultores de Portugal, solicitando uma intervenção da Assembleia da República para que lhes seja atribuído aquilo a que legalmente consideram ter direito, tendo em conta que as medidas agro-ambientais são da maior importância para o país, sendo que, em 2005, o Ministério da Agricultura decidiu não proceder ao pagamento das mesmas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-06-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-06-16",
+                "pubLeg": "X",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/095/2007-06-16/46?pgs=46&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação dos Agricultores de Portugal, solicitando uma intervenção da Assembleia da República para que lhes seja atribuído aquilo a que legalmente consideram ter direito, tendo em conta que as medidas agro-ambientais são da maior importância para o país, sendo que, em 2005, o Ministério da Agricultura decidiu não proceder ao pagamento das mesmas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-06-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165340",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-06-16",
+                "pubLeg": "X",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/095/2007-06-16/46?pgs=46-48&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação dos Agricultores de Portugal, solicitando uma intervenção da Assembleia da República para que lhes seja atribuído aquilo a que legalmente consideram ter direito, tendo em conta que as medidas agro-ambientais são da maior importância para o país, sendo que, em 2005, o Ministério da Agricultura decidiu não proceder ao pagamento das mesmas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-06-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165341",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-06-16",
+                "pubLeg": "X",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/095/2007-06-16/48?pgs=48&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação dos Agricultores de Portugal, solicitando uma intervenção da Assembleia da República para que lhes seja atribuído aquilo a que legalmente consideram ter direito, tendo em conta que as medidas agro-ambientais são da maior importância para o país, sendo que, em 2005, o Ministério da Agricultura decidiu não proceder ao pagamento das mesmas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-06-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165342",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-06-16",
+                "pubLeg": "X",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/095/2007-06-16/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação dos Agricultores de Portugal, solicitando uma intervenção da Assembleia da República para que lhes seja atribuído aquilo a que legalmente consideram ter direito, tendo em conta que as medidas agro-ambientais são da maior importância para o país, sendo que, em 2005, o Ministério da Agricultura decidiu não proceder ao pagamento das mesmas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-06-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "Augusto Santos Silva"
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165343",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-06-16",
+                "pubLeg": "X",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/095/2007-06-16/49?pgs=49&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação dos Agricultores de Portugal, solicitando uma intervenção da Assembleia da República para que lhes seja atribuído aquilo a que legalmente consideram ter direito, tendo em conta que as medidas agro-ambientais são da maior importância para o país, sendo que, em 2005, o Ministério da Agricultura decidiu não proceder ao pagamento das mesmas",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11458",
+    "PetAssunto": "Solicitam uma intervenção da Assembleia da República para que lhes seja atribuído aquilo a que legalmente consideram ter direito, tendo em conta que as medidas agro-ambientais são da maior importância para o país, sendo que em 2005, o Ministério da Agricultura decidiu não proceder ao pagamento das mesmas.",
+    "PetDataEntrada": "2006-05-25",
+    "PeticoesAssociadas": null,
+    "PetId": "11458",
+    "PetLeg": "X",
+    "PetNr": "135",
+    "PetNrAssinaturas": "9402",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "220",
+        "obs": null,
+        "pag": [
+          "41-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-06-16",
+        "pubLeg": "X",
+        "pubNr": "95",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/095/2007-06-16/41?pgs=41-50&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
