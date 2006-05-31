@@ -1,0 +1,26 @@
+Regulamento n.º 67/2006. - Norma n.º 04/2006-R - informação financeira complementar - aditamento à norma regulamentar n.º 5/2005-R, de 18 de Março. - A Norma Regulamentar n.º 5/2005-R, de 18 de Março, definiu o âmbito subjectivo e o regime de aplicação das normas internacionais de contabilidade (NIC) adoptadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho, relativamente às entidades sujeitas à supervisão do Instituto de Seguros de Portugal (ISP) que não sejam abrangidas pelo artigo 4.º do mesmo Regulamento.
+Relativamente a essas entidades, a opção foi, pelos fundamentos expostos no preâmbulo da referida norma regulamentar, no sentido de, respeitadas determinadas condições, permitir-se a elaboração das contas consolidadas/individuais de acordo com as NIC.
+Considerando, no entanto, que relativamente a entidades sujeitas à supervisão do ISP emitentes de valores mobiliários admitidos à negociação em mercado regulamentado que não sejam abrangidas pelo artigo 4.º do Regulamento (CE) n.º 1606/2002 e que não tenham optado por elaborar contas individuais de acordo com as NIC, se afigura necessário prever a prestação de informação financeira complementar que divulgue a estimativa dos impactes materiais que decorreriam da aplicação das NIC.
+Considerando que a prestação desta informação complementar é não só essencial da perspectiva do aumento da transparência e comparabilidade da informação financeira a prestar aos investidores pelas entidades emitentes de valores mobiliários admitidos à negociação em mercado regulamentado como também se revela vantajosa para os operadores no seu processo de adaptação progressiva às NIC;
+Considerando, por fim, que do ponto de vista prudencial é relevante a análise das práticas e procedimentos adoptadas no sector relativamente ao processo de adaptação às NIC:
+O ISP, ao abrigo do n.º 3 do artigo 4.º do seu Estatuto, aprovado pelo Decreto-Lei n.º 289/2001, de 13 de Novembro, emite a seguinte norma regulamentar:
+Artigo 1.º
+Aditamento à norma regulamentar n.º 5/2005-R
+1 - É aditado à norma regulamentar n.º 5/2005-R, de 18 de Março, o artigo 4.º-A, com a seguinte redacção:
+Artigo 4.º-A
+Prestação de informação financeira complementar
+1 - As entidades sujeitas à supervisão do ISP emitentes de valores mobiliários admitidos à negociação em mercado regulamentado que não sejam abrangidas pelo artigo 4.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho, e que não tenham optado por elaborar contas individuais de acordo com as NIC devem incluir em ponto autónomo e devidamente identificado do anexo às contas anuais, como informação complementar:
+a) A identificação das alterações de política contabilística que decorreriam da aplicação das NIC;
+b) A estimativa dos impactes materiais nas demonstrações financeiras que decorreriam dessa aplicação, incluindo uma reconciliação do balanço e da conta de ganhos e perdas face aos elaborados em conformidade com a normalização contabilística nacional em vigor;
+c) As notas anexas relevantes para compreender a posição financeira e os resultados das operações que seriam exigíveis caso fossem aplicadas as NIC e que não sejam já divulgadas em outras partes do anexo.
+2 - As entidades abrangidas no âmbito do número anterior que tenham uma empresa-mãe que elabore as respectivas contas consolidadas de acordo com as NIC devem incluir no referido ponto autónomo e devidamente identificado do anexo às contas anuais, adicionalmente à informação requerida nas alíneas a) e c), um balanço, conta de ganhos e perdas e mapa de alterações de capital próprio, elaborados em base individual e em conformidade com as NIC, produzidos internamente para efeitos do processo de consolidação."
+2 - É aditado na norma regulamentar n.º 5/2005-R, de 18 de Março, o n.º 3 ao artigo 5.º, com a seguinte redacção:
+"3 - As entidades sujeitas à supervisão do ISP que não sejam abrangidas pelo artigo 4.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho, e que não tenham optado por elaborar contas individuais de acordo com as NIC, mas que elaborem ou tenham uma empresa-mãe que elabore as respectivas contas consolidadas de acordo com as NIC, devem incluir no reporte prudencial os seguintes elementos:
+a) Balanço, conta de ganhos e perdas e mapa de alterações de capital próprio, elaborados em base individual e em conformidade com as NIC, produzidos internamente para efeitos do processo de consolidação, excepto quando divulgados nos termos do n.º 2 do artigo 4.º-A;
+b) Os princípios, bases e pressupostos de avaliação e reconhecimento aplicados à entidade sujeita à supervisão do ISP para efeitos da respectiva inclusão no processo de consolidação;
+c) A explicitação dos principais ajustamentos de transição para as NIC no caso de se tratar da primeira aplicação destas normas."
+Artigo 2.º
+Produção de efeitos
+1 - O disposto no n.º 1 do artigo 1.º da presente norma regulamentar é aplicável a partir do exercício que se inicia em 1 de Janeiro de 2007.
+2 - O disposto no n.º 2 do artigo 1.º da presente norma regulamentar é aplicável pela primeira vez às contas do exercício de 2006.
+15 de Maio de 2006. - Pelo Conselho Directivo: (Assinaturas ilegíveis.)
