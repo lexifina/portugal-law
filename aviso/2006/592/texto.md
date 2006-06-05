@@ -1,0 +1,5 @@
+Aviso n.º 592/2006
+Por ordem superior se torna público que, em 21 de Julho de 2003 e em 22 de Fevereiro de 2006, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros português e pela Embaixada da República Federativa do Brasil em Lisboa, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Tratado entre a República Portuguesa e a República Federativa do Brasil sobre a Transferência de Pessoas Condenadas, assinado em Brasília em 5 de Setembro de 2001.
+Por parte de Portugal, o Tratado foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 45/2003, de 13 de Março, e ratificado pelo Decreto do Presidente da República n.º 34/2003, de 23 de Maio, ambos publicados no Diário da República, 1.ª série-A, n.º 119, de 23 de Maio de 2003.
+Nos termos do n.º 2 do artigo 16.º do Tratado, este entrou em vigor em 23 de Março de 2006.
+Direcção-Geral das Relações Bilaterais, 16 de Maio de 2006. - A Directora de Serviços da América do Sul e Central, Helena Almeida Coutinho.
