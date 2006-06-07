@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal Administrativo de 2006-06-07, processo 0359/06
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0359/06
+
+**Data do Acordão:** 06/07/2006
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** JOÃO BELCHIOR
+
+**Descritores:** SUSPENSÃO DE EFICÁCIA.; MAGISTRATURA DO MINISTÉRIO PÚBLICO.; CLASSIFICAÇÃO DE MEDÍOCRE.; SUSPENSÃO DE FUNÇÕES.; PERICULUM IN MORA.; PREJUÍZO DE DIFÍCIL REPARAÇÃO.; FUMUS NON MALUS JURIS.; CRITÉRIO DE PONDERAÇÃO DE INTERESSES.
+
+**Nº Convencional:** JSTA00063266
+
+**Nº do Documento:** SA1200606070359
+
+**Data de Entrada:** 04/06/2006
+
+**Recorrente:** A...
+
+**Recorrido 1:** CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** SUSPEFIC.
+
+**Objecto:** DEL CSMP DE 2006/03/15.
+
+**Decisão:** INDEFERIMENTO.
+
+**Área Temática 1:** DIR ADM CONT - SUSPEFIC.
+
+**Legislação Nacional:** CPTA02 ART120 ART34.; EMP98 ART110 ART196 N3 ART128.; CONST ART32 ART269 N3.
+
+**Jurisprudência Nacional:** AC STA PROC108/06 DE 2006/03/14.
+
+**Referência a Doutrina:** AROSO DE ALMEIDA E OUTRO COMENTÁRIO AO CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS PAG602 PAG765.; VIEIRA DE ANDRADE A JUSTIÇA ADMINISTRATIVA LIÇÕES PAG310 PAG308.
+
+## Sumário
+
+I - Não se tendo invocado que a pretensão impugnatória a deduzir no processo principal assenta no carácter manifesto ou evidente da ilegalidade do acto classificativo suspendendo, não se verifica o critério de decisão enunciado na al. a) do artigo 120.º do CPTA.
+
+II - A suspensão do exercício de funções e a instauração de inquérito tomada nos termos do art.º 110.º n.º 2 do EMP não é de molde a causar fundado receio da constituição de uma situação de facto consumado, para os fins da al. b) do artigo 120.º do CPTA.
+
+III - Constituem prejuízos de difícil reparação os que decorrem para o bom nome profissional da suspensão de funções de um magistrado do Ministério Público na sequência da atribuição da classificação de serviço de Medíocre.
+
+IV - Basta que não seja evidente a improcedência da pretensão de fundo do requerente para que se dê como verificado o requisito de “fumus malus” enunciado na al. b) do artigo 120.º do CPTA.
+
+V - Numa situação em que anteriormente à classificação contida no acto suspendendo o magistrado em causa já havia obtido a mesma classificação de Medíocre (ou seja das duas vezes que o seu serviço foi avaliado apenas obteve aquela classificação), e em que àquele acto presidiu a ponderação de que o magistrado denotava falta de brio profissional, de dedicação ao serviço, desleixo, incúria e desinteresse pelo cumprimento das obrigações decorrentes do cargo, num contexto de condições de trabalho, no mínimo razoáveis, e embora as informações dos superiores hierárquicos imediatos considerassem positiva a prestação de serviço, atento ao que preside ao nº 2 do citado artº 120º do CPTA, e não obstante a verificação dos requisitos positivo e negativo (cf. o referido em 3 e 4) a adopção da providência de suspensão de eficácia do acto deve ser recusada, pese embora a autoridade requerida não tenha deduzido qualquer contestação.
