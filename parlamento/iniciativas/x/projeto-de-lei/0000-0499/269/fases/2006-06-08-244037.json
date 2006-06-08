@@ -1,0 +1,653 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "269",
+    "id": "33142",
+    "titulo": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2006-06-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5371",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2006-06-08",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2006-06-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161802",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6108-6114"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-09",
+                "pubLeg": "X",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09/6108?pgs=6108-6114&org=PLC"
+              }
+            ],
+            "sumario": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161803",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6111-6111"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-09",
+                "pubLeg": "X",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09/6111?pgs=6111&org=PLC"
+              }
+            ],
+            "sumario": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161804",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6112-6113"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-09",
+                "pubLeg": "X",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09/6112?pgs=6112-6113&org=PLC"
+              }
+            ],
+            "sumario": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1023",
+                "nome": "Maria do Rosário Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161805",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6114-6117"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-09",
+                "pubLeg": "X",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09/6114?pgs=6114-6117&org=PLC"
+              }
+            ],
+            "sumario": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161806",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6116-6116"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-09",
+                "pubLeg": "X",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09/6116?pgs=6116&org=PLC"
+              }
+            ],
+            "sumario": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2066",
+                "nome": "Paulo Castro Rangel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161807",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6118-6120",
+                  "6122-6122"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-09",
+                "pubLeg": "X",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09/6118?pgs=6118-6120,6122&org=PLC"
+              }
+            ],
+            "sumario": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161808",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6120-6122"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-09",
+                "pubLeg": "X",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09/6120?pgs=6120-6122&org=PLC"
+              }
+            ],
+            "sumario": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161809",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6123-6124"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-09",
+                "pubLeg": "X",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09/6123?pgs=6123-6124&org=PLC"
+              }
+            ],
+            "sumario": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161810",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6124-6125"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-09",
+                "pubLeg": "X",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09/6124?pgs=6124-6125&org=PLC"
+              }
+            ],
+            "sumario": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161811",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6125-6126"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-09",
+                "pubLeg": "X",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09/6125?pgs=6125-6126&org=PLC"
+              }
+            ],
+            "sumario": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2140",
+                "nome": "Sónia Sanfona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161812",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6126-6127"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-09",
+                "pubLeg": "X",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09/6126?pgs=6126-6127&org=PLC"
+              }
+            ],
+            "sumario": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161813",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6127-6129"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-09",
+                "pubLeg": "X",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09/6127?pgs=6127-6129&org=PLC"
+              }
+            ],
+            "sumario": "Altera a legislação penal em vigor (Código Penal, regime penal especial para jovens e a Lei tutelar educativa) reduzindo a idade de inimputabilidade de menores para 14 anos, baixando os limites mínimo e máximo de idade para efeitos de aplicação das correspondentes normas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "244037",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5371",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-06-09",
+        "pubLeg": "X",
+        "pubNr": "133",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/133/2006-06-09?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
