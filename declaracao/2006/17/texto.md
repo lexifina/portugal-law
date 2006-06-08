@@ -1,0 +1,3 @@
+Declaração n.º 17/2006
+Nos termos do disposto no n.º 7 do artigo 206.º do Regimento da Assembleia da República, declara-se que se considera caduco o processo relativo à apreciação parlamentar n.º 13/X do Decreto-Lei n.º 232/2005, de 29 de Dezembro, que cria o complemento solidário para idosos, apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que foram rejeitadas pela Comissão de Trabalho e Segurança Social todas as propostas de alteração e que o Plenário foi informado do facto.
+Assembleia da República, 24 de Maio de 2006. - A Deputada Secretária da Mesa da Assembleia da República, Celeste Correia.
