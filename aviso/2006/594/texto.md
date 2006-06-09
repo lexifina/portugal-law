@@ -1,0 +1,4 @@
+Aviso n.º 594/2006
+Por ordem superior se torna público que se encontram cumpridas as formalidades exigidas na República Portuguesa e no Reino da Noruega para a entrada em vigor do Acordo sobre Renúncia ao Reembolso de Despesas Relativas a Prestações em Espécie Concedidas nos Termos dos Capítulos I e IV do Título III do Regulamento (CEE) n.º 1408/71, do Conselho, de 14 de Junho, assinado em Oslo em 24 de Novembro de 2000.
+O Acordo foi aprovado pela Resolução da Assembleia da República n.º 32/2006, publicada no Diário da República, 1.ª série-A, n.º 69, de 6 de Abril de 2006. Na sequência das notificações a que se refere o seu n.º 1 do artigo 5.º, o mesmo Acordo entra em vigor em 1 de Junho de 2006.
+Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas, 12 de Maio de 2006. - O Director-Geral, José Manuel da Costa Arsénio.
