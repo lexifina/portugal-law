@@ -1,19 +1,13 @@
 # Artigo 7.º
 
-### Acesso aos dados
+### Acesso e comunicação de dados
 
-1 - A ANSR e, nas Regiões Autónomas, os serviços competentes, acedem aos dados contidos na base de dados a que se refere o artigo 1.º através de uma linha de transmissão de dados.
+1 - A Direcção-Geral, as direcções regionais, as delegações de viação e as divisões de contra-ordenações da DGV e, nas Regiões Autónomas, os serviços competentes acedem aos dados contidos na base de dados a que se refere o artigo 2.º através de uma linha de transmissão de dados.
 
-2 - Podem ainda aceder à informação contida na base de dados a que se refere o artigo 1.º:
+2 - Os dados registados no RIC não podem ser transmitidos a outras entidades distintas das mencionadas no número anterior, salvo o disposto no número seguinte.
 
-a) Os magistrados judiciais e do Ministério Público para fins de investigação criminal, de instrução de processos criminais ou no âmbito de recursos de decisões proferidas pela ANSR;
+3 - No âmbito da cooperação referida no n.º 4 do artigo anterior, os dados pessoais constantes na base de dados podem ser comunicados às forças de segurança ou aos governos civis, no quadro das respectivas atribuições, no âmbito da aplicação do Código da Estrada e legislação complementar, e ainda quando:
 
-b) As entidades que, no âmbito da lei processual, recebam delegação de competências para a prática de actos de inquérito ou de instrução;
+a) Exista obrigação ou autorização legal nesse sentido;
 
-c) O Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), para efeitos de revalidação, troca, substituição e emissão de 2.ª via de título de condução, emissão de títulos de certificação profissional, quando lei especial o imponha, e análise dos processos administrativos para efeitos do disposto no artigo 129.º do Código da Estrada;
-
-d) (Revogada).
-
-e) A Guarda Nacional Republicana e a Polícia de Segurança Pública, no âmbito de ações de fiscalização do trânsito, bem como quando exista obrigação ou autorização legal nesse sentido e, ainda, quando os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da ANSR.
-
-3 - [Revogado.]
+b) Os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da DGV.
