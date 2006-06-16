@@ -1,0 +1,9 @@
+Despacho Normativo n.º 35-A/2006
+Os preços dos combustíveis têm uma forte incidência nos custos de produção dos transportes, pelo que as suas frequentes subidas provocam desiquilíbrios financeiros nas empresas que prestam serviços de transporte público colectivo de passageiros, sujeitos a tarifas máximas.
+Esta situação recomenda que sejam adoptados mecanismos que permitam fazer repercutir nas tarifas praticadas nestes serviços de transporte as subidas e descidas dos preços dos combustíveis, independentemente da revisão anual dos preços ou de alterações da estrutura tarifária, as quais devem obedecer também a outros critérios.
+Face aos sucessivos acréscimos do preço dos combustíveis ocorridos no ano em curso, torna-se conveniente que as empresas possam, desde já, repercutir nas tarifas a percentagem dessas subidas.
+Assim, ao abrigo do disposto na alínea b) do n.º 2 do artigo 10.º do Decreto-Lei n.º 8/93, de 11 de Janeiro, determina-se o seguinte:
+1 - É fixada em 2,65% a percentagem máxima de aumento médio para os transportes urbanos de Lisboa e do Porto, para os transportes colectivos rodoviários interurbanos de passageiros e para os transportes ferroviários e fluviais, resultante da indexação aos preços dos combustíveis.
+2 - Por despacho do director-geral de Transportes Terrestres e Fluviais será definida a tabela de preço máximo de referência do quilómetro rodoviário interurbano.
+3 - Os preços decorrentes da execução do presente despacho poderão ser aplicados pelos operadores a partir de 1 de Julho de 2006.
+Ministérios das Finanças e da Administração Pública, da Economia e da Inovação e das Obras Públicas, Transportes e Comunicações, 9 de Junho de 2006. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.
