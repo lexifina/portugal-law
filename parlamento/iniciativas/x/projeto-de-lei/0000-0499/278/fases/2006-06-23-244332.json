@@ -1,0 +1,636 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "278",
+    "id": "33189",
+    "titulo": "Altera a Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto, aplicando todos os mecanismos de fiscalização prévia aí previstos às Empresas Municipais, Intermunicipais e Regionais."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2006-06-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5383",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2006-06-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "33145",
+        "leg": "X",
+        "nr": "73",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1152",
+            "obs": null,
+            "pag": [
+              "6341-6358"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-06-24",
+            "pubLeg": "X",
+            "pubNr": "139",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6341?pgs=6341-6358&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Quarta alteração à Lei da Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2006-06-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DO  TESOURO E FINANÇAS",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Costa Pina"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161919",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6341-6342",
+                  "6345-6346",
+                  "6355-6357"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-24",
+                "pubLeg": "X",
+                "pubNr": "139",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6341?pgs=6341-6342,6345-6346,6355-6357&org=PLC"
+              }
+            ],
+            "sumario": "Quarta alteração à Lei da Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto; Altera a Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto, aplicando todos os mecanismos de fiscalização prévia aí previstos às Empresas Municipais, Intermunicipais e Regionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2063",
+                "nome": "Alda Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6342-6343"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-24",
+                "pubLeg": "X",
+                "pubNr": "139",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6342?pgs=6342-6343&org=PLC"
+              }
+            ],
+            "sumario": "Quarta alteração à Lei da Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto; Altera a Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto, aplicando todos os mecanismos de fiscalização prévia aí previstos às Empresas Municipais, Intermunicipais e Regionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161921",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6343-6344"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-24",
+                "pubLeg": "X",
+                "pubNr": "139",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6343?pgs=6343-6344&org=PLC"
+              }
+            ],
+            "sumario": "Quarta alteração à Lei da Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto; Altera a Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto, aplicando todos os mecanismos de fiscalização prévia aí previstos às Empresas Municipais, Intermunicipais e Regionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6344-6344"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-24",
+                "pubLeg": "X",
+                "pubNr": "139",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6344?pgs=6344&org=PLC"
+              }
+            ],
+            "sumario": "Quarta alteração à Lei da Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto; Altera a Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto, aplicando todos os mecanismos de fiscalização prévia aí previstos às Empresas Municipais, Intermunicipais e Regionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2063",
+                "nome": "Alda Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161923",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6346-6347"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-24",
+                "pubLeg": "X",
+                "pubNr": "139",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6346?pgs=6346-6347&org=PLC"
+              }
+            ],
+            "sumario": "Quarta alteração à Lei da Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto; Altera a Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto, aplicando todos os mecanismos de fiscalização prévia aí previstos às Empresas Municipais, Intermunicipais e Regionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6347-6349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-24",
+                "pubLeg": "X",
+                "pubNr": "139",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6347?pgs=6347-6349&org=PLC"
+              }
+            ],
+            "sumario": "Quarta alteração à Lei da Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto; Altera a Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto, aplicando todos os mecanismos de fiscalização prévia aí previstos às Empresas Municipais, Intermunicipais e Regionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1977",
+                "nome": "António Gameiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6349-6352"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-24",
+                "pubLeg": "X",
+                "pubNr": "139",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6349?pgs=6349-6352&org=PLC"
+              }
+            ],
+            "sumario": "Quarta alteração à Lei da Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto; Altera a Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto, aplicando todos os mecanismos de fiscalização prévia aí previstos às Empresas Municipais, Intermunicipais e Regionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6350-6351"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-24",
+                "pubLeg": "X",
+                "pubNr": "139",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6350?pgs=6350-6351&org=PLC"
+              }
+            ],
+            "sumario": "Quarta alteração à Lei da Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto; Altera a Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto, aplicando todos os mecanismos de fiscalização prévia aí previstos às Empresas Municipais, Intermunicipais e Regionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6352-6353",
+                  "6357-6358"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-24",
+                "pubLeg": "X",
+                "pubNr": "139",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6352?pgs=6352-6353,6357-6358&org=PLC"
+              }
+            ],
+            "sumario": "Quarta alteração à Lei da Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto; Altera a Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto, aplicando todos os mecanismos de fiscalização prévia aí previstos às Empresas Municipais, Intermunicipais e Regionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1977",
+                "nome": "António Gameiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6353-6353"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-24",
+                "pubLeg": "X",
+                "pubNr": "139",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6353?pgs=6353&org=PLC"
+              }
+            ],
+            "sumario": "Quarta alteração à Lei da Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto; Altera a Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto, aplicando todos os mecanismos de fiscalização prévia aí previstos às Empresas Municipais, Intermunicipais e Regionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6353-6355"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-24",
+                "pubLeg": "X",
+                "pubNr": "139",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6353?pgs=6353-6355&org=PLC"
+              }
+            ],
+            "sumario": "Quarta alteração à Lei da Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto; Altera a Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de Agosto, aplicando todos os mecanismos de fiscalização prévia aí previstos às Empresas Municipais, Intermunicipais e Regionais.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "244332",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "359736",
+        "obs": null,
+        "pag": [
+          "6341-6358"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-06-24",
+        "pubLeg": "X",
+        "pubNr": "139",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/139/2006-06-24/6341?pgs=6341-6358&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
