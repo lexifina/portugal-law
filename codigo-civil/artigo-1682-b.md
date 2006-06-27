@@ -2,9 +2,9 @@
 
 ### (Disposição do direito ao arrendamento)
 
-Relativamente à casa de morada da família, carecem do consentimento de ambos os cônjuges:
+Relativamente à casa de morada de família, carecem do consentimento de ambos os cônjuges:
 
-a) A resolução ou denúncia do contrato de arrendamento pelo arrendatário;
+a) A resolução, a oposição à renovação ou a denúncia do contrato de arrendamento pelo arrendatário;
 
 b) A revogação do arrendamento por mútuo consentimento;
 

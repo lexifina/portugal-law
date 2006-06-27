@@ -6,7 +6,7 @@
 
 ### (Casos de caducidade)
 
-1. O contrato de locação caduca:
+O contrato de locação caduca:
 
 a) Findo o prazo estipulado ou estabelecido por lei;
 
@@ -18,6 +18,6 @@ d) Por morte do locatário ou, tratando-se de pessoa colectiva, pela extinção 
 
 e) Pela perda da coisa locada;
 
-f) No caso de expropriação por utilidade pública, a não ser que a expropriação se compadeça com a subsistência do contrato.
+f) Pela expropriação por utilidade pública, salvo quando a expropriação se compadeça com a subsistência do contrato;
 
-2 - (Revogado).
+g) Pela cessação dos serviços que determinaram a entrega da coisa locada.

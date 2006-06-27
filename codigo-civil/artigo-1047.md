@@ -8,6 +8,6 @@
 
 # Artigo 1047.º
 
-### (Falta de cumprimento por parte do locatário)
+### Resolução
 
-A resolução do contrato fundada na falta de cumprimento por parte do locatário tem de ser decretada pelo tribunal.
+A resolução do contrato de locação pode ser feita judicial ou extrajudicialmente.
