@@ -1,8 +1,8 @@
 # Artigo 16.º
 
-### Prédios urbanos não arrendados Actualização do valor patrimonial tributário
+### Actualização do valor patrimonial tributário
 
-1 - Enquanto não se proceder à avaliação geral, o valor patrimonial tributário dos prédios urbanos não arrendados, para efeitos de IMI, é actualizado com base em coeficientes de desvalorização da moeda ajustados pela variação temporal dos preços no mercado imobiliário nas diferentes zonas do País.
+1 - Enquanto não se proceder à avaliação geral, o valor patrimonial tributário dos prédios urbanos, para efeitos de IMI, é actualizado com base em coeficientes de desvalorização da moeda ajustados pela variação temporal dos preços no mercado imobiliário nas diferentes zonas do País.
 
 2 - Os coeficientes referidos no n.º 1 são estabelecidos, entre um máximo de 44,21 e um mínimo de 1, e constam de portaria do Ministro das Finanças.
 
