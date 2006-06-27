@@ -16,11 +16,13 @@ e) Um vogal indicado pelo Instituto Geográfico Português;
 
 f) Um vogal indicado pelas associações de proprietários;
 
-g) Um vogal indicado pelas associações de construtores;
+g) Um vogal indicado pelas associações de inquilinos;
 
-h) Um vogal indicado pelas associações de empresas de promoção e de mediação imobiliária;
+h) Um vogal indicado pelas associações de construtores;
 
-i) Um vogal indicado pelos organismos representativos dos avaliadores.
+i) Um vogal indicado pelas associações de empresas de promoção e de mediação imobiliária;
+
+j) Um vogal indicado pelos organismos representativos dos avaliadores.
 
 2 - Se as entidades referidas nas alíneas f) a i) do número anterior não chegarem a acordo quanto aos vogais que lhes compete indicar, é proposto pelo presidente um vogal de entre os indicados por cada uma daquelas entidades.
 

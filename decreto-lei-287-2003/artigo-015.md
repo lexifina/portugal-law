@@ -2,7 +2,7 @@
 
 ### Avaliação de prédios já inscritos na matriz
 
-1 - Enquanto não se proceder à avaliação geral, os prédios urbanos já inscritos na matriz serão avaliados, nos termos do CIMI, aquando da primeira transmissão ocorrida após a sua entrada em vigor, sem prejuízo, quanto a prédios arrendados, do disposto no artigo 17.º
+1 - Enquanto não se proceder à avaliação geral, os prédios urbanos já inscritos na matriz serão avaliados, nos termos do CIMI, aquando da primeira transmissão ocorrida após a sua entrada em vigor.
 
 2 - O disposto no n.º 1 aplica-se às primeiras transmissões gratuitas isentas de imposto do selo, bem como às previstas na alínea e) do n.º 5 do artigo 1.º do Código do Imposto do Selo, ocorridas após 1 de Janeiro de 2004, inclusive.
 
