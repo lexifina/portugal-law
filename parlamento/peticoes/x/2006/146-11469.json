@@ -1,0 +1,766 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11469",
+  "numero": "146",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2006-06-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2007-03-14",
+            "entidades": null,
+            "id": "82971",
+            "tipo": null,
+            "titulo": "Audição em 2007-03-14 com JF Vaqueiros - Subscritores da Petição 146/X-1ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2007-02-09",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Câmara Municipal de Alcanena"
+            ],
+            "nrOficio": "27/CPLAOT",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": null,
+                "dataResposta": null,
+                "nrOficio": null,
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2007-02-09",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional"
+            ],
+            "nrOficio": "28/CPLAOT",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": null,
+                "dataResposta": null,
+                "nrOficio": null,
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2006-07-19",
+        "DataArquivo": "2007-10-23",
+        "DataBaixaComissao": "2006-07-03",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2006-07-19",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "249",
+        "Legislatura": "X",
+        "Nome": "Comissão de Poder Local, Ambiente e Ordenamento do Território (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2006-07-20",
+            "gp": "PS",
+            "id": "2252",
+            "motivoCessacao": null,
+            "nome": "Jovita Ladeira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída para: Comissão de Poder Local, Ambiente e Ordenamento do Território."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": null,
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Câmara Municipal de Alcanena"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2007-10-31",
+                "dataResposta": null,
+                "nrOficio": "18/CPLAOT",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c324a6a4e5449774f4755324c5745334e4459744e44517a596930354e7a637a4c5441794e574d7a4e5759314d4445785a4335775a47593d&fich=bc5208e6-a746-443b-9773-025c35f5011d.pdf&Inline=true"
+          },
+          {
+            "dataOficio": null,
+            "dataResposta": null,
+            "entidades": [
+              "Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2007-10-31",
+                "dataResposta": "2007-11-07",
+                "nrOficio": "17/CPLAOT",
+                "oficioResposta": "6290/2007/7615"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c324a6a4e5449774f4755324c5745334e4459744e44517a596930354e7a637a4c5441794e574d7a4e5759314d4445785a4335775a47593d&fich=bc5208e6-a746-443b-9773-025c35f5011d.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2007-12-18",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2007-12-18",
+        "DataBaixaComissao": "2007-10-23",
+        "DataEnvioPAR": "2007-12-19",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2006-06-27",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c7a5a6c59574d314e44597a4c546331597a41744e4755355a6931694f57597a4c575a6c597a4132596a4e6d59574e6c4d7935775a47593d&fich=6eac5463-75c0-4e9f-b9f3-fec06b3face3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2006-06-27",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c324a6a4e5449774f4755324c5745334e4459744e44517a596930354e7a637a4c5441794e574d7a4e5759314d4445785a4335775a47593d&fich=bc5208e6-a746-443b-9773-025c35f5011d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2006-06-27",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c3249324e545a6b4e6a56684c54566a4d4745744e4755305a6930344e444a6b4c5449304e44426c596a6c6c5a6d55324d5335775a47593d&fich=b656d65a-5c0a-4e4f-842d-2440eb9efe61.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1909",
+        "Legislatura": "X",
+        "Nome": "Comissão de Poder Local, Ambiente e Ordenamento do Território",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-10-23",
+            "gp": "PS",
+            "id": "2252",
+            "motivoCessacao": null,
+            "nome": "Jovita Ladeira"
+          }
+        ],
+        "RelatorioFinal": [
+          "22622"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Poder Local, Ambiente e Ordenamento do Território (pré RAR) para esta comissão."
+      }
+    ],
+    "DataDebate": "2008-01-24",
+    "Documentos": [
+      {
+        "DataDocumento": "2006-06-27",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938354e474530597a5a6c5953316c4e4449774c54526c5a6a49744f4749774d5330355a6a64694e474a684e4449344e6a55756347526d&fich=94a4c6ea-e420-4ef2-8b01-9f7b4ba42865.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2008-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167367",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-01-25",
+                "pubLeg": "X",
+                "pubNr": "39",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/039/2008-01-25/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "Sumario": "Despoluição do Rio Alviela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167368",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-01-25",
+                "pubLeg": "X",
+                "pubNr": "39",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/039/2008-01-25/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "Sumario": "Despoluição do Rio Alviela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167369",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-01-25",
+                "pubLeg": "X",
+                "pubNr": "39",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/039/2008-01-25/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "Sumario": "Despoluição do Rio Alviela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167370",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-01-25",
+                "pubLeg": "X",
+                "pubNr": "39",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/039/2008-01-25/72?pgs=72&org=PLC"
+              }
+            ],
+            "Sumario": "Despoluição do Rio Alviela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167371",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-01-25",
+                "pubLeg": "X",
+                "pubNr": "39",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/039/2008-01-25/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "Sumario": "Despoluição do Rio Alviela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167372",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-01-25",
+                "pubLeg": "X",
+                "pubNr": "39",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/039/2008-01-25/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "Sumario": "Despoluição do Rio Alviela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167373",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-01-25",
+                "pubLeg": "X",
+                "pubNr": "39",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/039/2008-01-25/74?pgs=74&org=PLC"
+              }
+            ],
+            "Sumario": "Despoluição do Rio Alviela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167374",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-01-25",
+                "pubLeg": "X",
+                "pubNr": "39",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/039/2008-01-25/75?pgs=75&org=PLC"
+              }
+            ],
+            "Sumario": "Despoluição do Rio Alviela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167375",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-01-25",
+                "pubLeg": "X",
+                "pubNr": "39",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/039/2008-01-25/75?pgs=75&org=PLC"
+              }
+            ],
+            "Sumario": "Despoluição do Rio Alviela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167376",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-01-25",
+                "pubLeg": "X",
+                "pubNr": "39",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/039/2008-01-25/75?pgs=75-76&org=PLC"
+              }
+            ],
+            "Sumario": "Despoluição do Rio Alviela.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11469",
+    "PetAssunto": "Despoluição do Rio Alviela.",
+    "PetDataEntrada": "2006-06-27",
+    "PeticoesAssociadas": null,
+    "PetId": "11469",
+    "PetLeg": "X",
+    "PetNr": "146",
+    "PetNrAssinaturas": "7771",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "241",
+        "obs": null,
+        "pag": [
+          "69-76"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-01-25",
+        "pubLeg": "X",
+        "pubNr": "39",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/039/2008-01-25/69?pgs=69-76&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "371490",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-09-14",
+        "pubLeg": "X",
+        "pubNr": "56",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/056/2006-09-14/2?pgs=2&org=PLC"
+      }
+    ]
+  }
+}
