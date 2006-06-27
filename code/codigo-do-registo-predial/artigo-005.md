@@ -15,3 +15,5 @@ c) Os factos relativos a bens indeterminados, enquanto estes não forem devidame
 3 - A falta de registo não pode ser oposta aos interessados pelos seus representantes legais a quem incumba a obrigação de o promover, nem pelos herdeiros destes.
 
 4 - Terceiros, para efeitos de registo, são aqueles que tenham adquirido de um autor comum direitos incompatíveis entre si.
+
+5 - Não é oponível a terceiros a duração superior a seis anos do arrendamento não registado.
