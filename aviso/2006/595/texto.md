@@ -1,0 +1,5 @@
+Aviso n.º 595/2006
+Por ordem superior se torna público ter a República Portuguesa depositado junto do Secretário-Geral do Conselho da Europa, em 19 de Maio de 2006, o seu instrumento de ratificação ao Protocolo n.º 14 à Convenção de Salvaguarda dos Direitos do Homem e das Liberdades Fundamentais, introduzindo alterações no sistema de controlo da Convenção, aberto para assinatura, em Estrasburgo, em 13 de Maio de 2004.
+Este Procolo foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 11/2006, publicada no Diário da República, 1.ª série-A, n.º 37, de 21 de Fevereiro de 2006, e ratificado pelo Decreto do Presidente da República n.º 14/2006, publicado no Diário da República, 1.ª série-A, n.º 37, de 21 de Fevereiro de 2006.
+O Protocolo entrará em vigor para a República Portuguesa em 1 de Setembro de 2006.
+Direcção-Geral dos Assuntos Multilaterais, 31 de Maio de 2006. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte.
