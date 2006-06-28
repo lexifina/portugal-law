@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal Administrativo de 2006-06-28, processo 0144/06
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0144/06
+
+**Data do Acordão:** 06/28/2006
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** COSTA REIS
+
+**Descritores:** CONTRA-ORDENAÇÃO FISCAL.; DECISÃO DE APLICAÇÃO DE COIMA.; NULIDADE INSUPRÍVEL.
+
+**Nº Convencional:** JSTA00063314
+
+**Nº do Documento:** SA2200606280144
+
+**Data de Entrada:** 02/10/2006
+
+**Recorrente:** MINISTÉRIO PÚBLICO
+
+**Recorrido 1:** A... E OUTRA
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAF LOULÉ PER SALTUM.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - CONTRA ORDENAÇÃO.
+
+**Legislação Nacional:** RGIT01 ART27 ART63 ART79.
+
+**Jurisprudência Nacional:** AC STA PROC421/03 DE 2003/05/14.
+
+**Referência a Doutrina:** JORGE DE SOUSA E OUTRO REGIME GERAL DAS INFRACÇÕES TRIBUTÁRIAS PAG435.
+
+## Sumário
+
+I – Nos termos da al.ª d) do n.º 1, do art.º 63.º do RGIT constitui nulidade insuprível, no processo de contra-ordenação tributário, "a falta dos requisitos legais da decisão de aplicação das coimas...", sendo que estes são os descritos no n.º 1 do art.º 79.º do mesmo diploma entre os quais se encontra a "descrição sumária dos factos e indicação das normas violadas e punitivas" – sua al. b) - e a indicação da "coima e sanções acessórias, com indicação dos elementos que contribuíram para a sua fixação" – sua al. c).
+
+II - E, se assim é, ter-se-á de entender que, quando naquela al.ª b) se diz que a decisão administrativa deve conter uma descrição sumária dos factos e a indicação das normas punitivas violadas, esta obrigação compreende não só os factos de que o arguido vem acusado como os factos que se julgaram provados e que fundamentam a punição aplicada.
+
+III. – Nesta conformidade, a não especificação, nessa decisão, dos factos que se julgaram provados e a não indicação dos elementos objectivos e subjectivos que contribuíram para a penalidade aplicada constitui nulidade.
