@@ -1,4 +1,4 @@
-## Secção VII
+## Secção VI
 
 ## Determinação da renda
 

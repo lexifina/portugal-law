@@ -1,21 +1,11 @@
 # Artigo 54.º
 
-### Microentidade e associação privada sem fins lucrativos
+### Comunicação do senhorio
 
-1 - Caso o arrendatário invoque e comprove uma das circunstâncias previstas no n.º 4 do artigo 51.º, o contrato só fica submetido ao NRAU mediante acordo entre as partes ou, na falta deste, no prazo de 10 anos a contar da receção, pelo senhorio, da resposta do arrendatário nos termos do n.º 4 do artigo 51.º
+A comunicação do senhorio prevista no artigo 34.º contém, além do valor da renda actualizada, sob pena de ineficácia:
 
-2 - No período de 10 anos referido no número anterior, o valor atualizado da renda é determinado de acordo com os critérios previstos nas alíneas a) e b) do n.º 2 do artigo 35.º
+a) O valor da renda devida após a primeira actualização, calculada nos termos correspondentes a uma actualização faseada em 10 anos, quando se verifique alguma das circunstâncias previstas no n.º 2 do artigo anterior;
 
-3 - Se o valor da renda apurado nos termos do número anterior for inferior ao valor que resultaria da atualização anual prevista no n.º 1 do artigo 24.º, é este o aplicável.
+b) O valor da renda devida após a primeira actualização, calculada nos termos correspondentes a uma actualização faseada em cinco anos, quando não se verifiquem as referidas circunstâncias;
 
-4 - Quando for atualizada, a renda é devida no 1.º dia do 2.º mês seguinte ao da receção, pelo arrendatário, da comunicação com o respetivo valor.
-
-5 - Nos anos seguintes ao da invocação da circunstância regulada no presente artigo, o inquilino faz prova dessa circunstância, pela mesma forma e até ao dia 30 de setembro, quando essa prova seja exigida pelo senhorio até ao dia 1 de setembro do respetivo ano, sob pena de não poder prevalecer-se daquela circunstância.
-
-6 - Findo o período de 10 anos referido no n.º 1, o senhorio pode promover a transição do contrato para o NRAU, aplicando-se, com as necessárias adaptações, o disposto nos artigos 50.º e seguintes, com as seguintes especificidades:
-
-a) O arrendatário não pode invocar novamente qualquer das circunstâncias previstas no n.º 4 do artigo 51.º;
-
-b) No silêncio ou na falta de acordo das partes acerca do tipo ou da duração do contrato, este considera-se celebrado com prazo certo, pelo período de cinco anos;
-
-c) Durante o prazo de cinco anos previsto na alínea anterior e na falta de acordo das partes acerca do valor da renda, o senhorio pode atualizar a renda, de acordo com os critérios previstos nas alíneas a) e b) do n.º 2 do artigo 35.º, com aplicação dos coeficientes de atualização anual respetivos, definidos nos termos do artigo 24.º.
+c) A indicação de que não há lugar a faseamento da actualização, por se verificar alguma das circunstâncias previstas no artigo 56.º

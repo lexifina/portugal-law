@@ -1,15 +1,9 @@
 # Artigo 35.º
 
-### Arrendatário com RABC inferior a cinco RMNA
+### Pressupostos da iniciativa do senhorio
 
-1 - Caso o arrendatário invoque e comprove que o RABC do seu agregado familiar é inferior a cinco RMNA, o contrato não transita para o NRAU.
+O senhorio apenas pode promover a actualização da renda quando, cumulativamente:
 
-2 - A renda pode ser atualizada nos termos do artigo 24.º
+a) Exista avaliação do locado, nos termos do CIMI;
 
-3 - (Revogado.)
-
-4 - (Revogado.)
-
-5 - (Revogado.)
-
-6 - (Revogado.)
+b) O nível de conservação do prédio não seja inferior a 3.
