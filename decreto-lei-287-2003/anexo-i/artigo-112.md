@@ -16,26 +16,30 @@ c) Prédios urbanos avaliados, nos termos do CIMI: 0,2% a 0,5%.
 
 2 - Tratando-se de prédios constituídos por parte rústica e urbana, aplica-se ao valor patrimonial tributário de cada parte a respectiva taxa.
 
-3 - Para os prédios que sejam propriedade de entidades que tenham domicílio fiscal em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças, a taxa do imposto é de 5%.
+3 - As taxas previstas nas alíneas b) e c) do n.º 1 são elevadas ao dobro nos casos de prédios urbanos que se encontrem devolutos há mais de um ano, considerando-se devolutos os prédios como tal definidos em diploma próprio.
 
-4 - Os municípios, mediante deliberação da assembleia municipal, fixam a taxa a aplicar em cada ano, dentro dos intervalos previstos nas alíneas b) e c) do n.º 1.
+4 - Para os prédios que sejam propriedade de entidades que tenham domicílio fiscal em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças, a taxa do imposto é de 5%.
 
-5 - Os municípios, mediante deliberação da assembleia municipal, podem definir áreas territoriais, correspondentes a freguesias ou zonas delimitadas de freguesias, que sejam objecto de operações de reabilitação urbana ou combate à desertificação, e majorar ou minorar até 30% a taxa que vigorar para o ano a que respeita o imposto.
+5 - Os municípios, mediante deliberação da assembleia municipal, fixam a taxa a aplicar em cada ano, dentro dos intervalos previstos nas alíneas b) e c) do n.º 1.
 
-6 - Os municípios, mediante deliberação da assembleia municipal, podem definir áreas territoriais correspondentes a freguesias ou zonas delimitadas de freguesias e fixar uma redução até 20% da taxa que vigorar no ano a que respeita o imposto a aplicar aos prédios urbanos arrendados, que pode ser cumulativa com a definida no número anterior.
+6 - Os municípios, mediante deliberação da assembleia municipal, podem definir áreas territoriais, correspondentes a freguesias ou zonas delimitadas de freguesias, que sejam objecto de operações de reabilitação urbana ou combate à desertificação, e majorar ou minorar até 30% a taxa que vigorar para o ano a que respeita o imposto.
 
-7 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até 30% a taxa aplicável a prédios urbanos degradados, considerando-se como tais os que, face ao seu estado de conservação, não cumpram satisfatoriamente a sua função ou façam perigar a segurança de pessoas e bens.
+7 - Os municípios, mediante deliberação da assembleia municipal, podem definir áreas territoriais correspondentes a freguesias ou zonas delimitadas de freguesias e fixar uma redução até 20% da taxa que vigorar no ano a que respeita o imposto a aplicar aos prédios urbanos arrendados, que pode ser cumulativa com a definida no número anterior.
 
-8 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até 30% a taxa aplicável aos prédios urbanos ou às suas fracções autónomas que se encontrem devolutos.
+8 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até 30% a taxa aplicável a prédios urbanos degradados, considerando-se como tais os que, face ao seu estado de conservação, não cumpram satisfatoriamente a sua função ou façam perigar a segurança de pessoas e bens.
 
-9 - Consideram-se devolutos os prédios urbanos ou as suas fracções autónomas que, durante um ano, se encontrem desocupados, por não apresentarem, nomeadamente:
+9 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até ao dobro a taxa aplicável aos prédios rústicos com áreas florestais que se encontrem em situação de abandono, não podendo da aplicação desta majoração resultar uma colecta de imposto inferior a (euro) 20 por cada prédio abrangido.
 
-a) Contratos em vigor com prestadores de serviços públicos essenciais;
+10 - Consideram-se prédios rústicos com áreas florestais em situação de abandono aqueles que integrem terrenos ocupados com arvoredos florestais, com uso silvo-pastoril ou incultos de longa duração, e em que se verifiquem, cumulativamente, as seguintes condições:
 
-b) Facturação relativa a consumos de água, electricidade, gás e telecomunicações.
+a) Não estarem incluídos em zonas de intervenção florestal (ZIF), nos termos do disposto no Decreto-Lei n.º 127/2005, de 5 de Agosto;
 
-10 - Exceptuam-se do número anterior os prédios urbanos ou fracções autónomas dos mesmos que forem destinados à venda ou que sejam destinados a habitação por curtos períodos em praias, campo, termas e quaisquer outros lugares de vilegiatura, para arrendamentos temporários ou para uso próprio.
+b) A sua exploração não estar submetida a plano de gestão florestal elaborado, aprovado e executado nos termos da legislação aplicável;
 
-11 - As deliberações da assembleia municipal referidas no presente artigo devem ser comunicadas à Direcção-Geral dos Impostos para vigorarem no ano seguinte, aplicando-se as taxas mínimas referidas no n.º 1, caso as comunicações não sejam recebidas até 30 de Novembro.
+c) Não terem sido neles praticadas as operações silvícolas mínimas necessárias para reduzir a continuidade vertical e horizontal da carga combustível, de forma a limitar os riscos de ignição e propagação de incêndios no seu interior e nos prédios confinantes.
 
-12 - No caso de as deliberações compreenderem zonas delimitadas de freguesias, as comunicações referidas no número anterior são acompanhadas de listagem contendo a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
+11 - Constitui competência dos municípios proceder ao levantamento dos prédios rústicos com áreas florestais em situação de abandono e à identificação dos respectivos proprietários, até 30 de Março de cada ano, para posterior comunicação à Direcção-Geral dos Impostos.
+
+12 - As deliberações da assembleia municipal referidas no presente artigo devem ser comunicadas à Direcção-Geral dos Impostos para vigorarem no ano seguinte, aplicando-se as taxas mínimas referidas no n.º 1, caso as comunicações não sejam recebidas até 30 de Novembro.
+
+13 - No caso de as deliberações compreenderem zonas delimitadas de freguesias, as comunicações referidas no número anterior são acompanhadas de listagem contendo a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
