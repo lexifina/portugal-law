@@ -80,11 +80,11 @@
 
 7 - Certidões, certificados, fotocópias e boletins:
 
-7.1 - Pelo certificado de exactidão de tradução de documento feita por tradutor ajuramentado ... 24
+7.1 - (Revogado.)
 
 7.2 - Certidões:
 
-7.2.1 - Por cada certidão de registo ... 15
+7.2.1 - Por cada certidão de registo ou de documentos - «eur» 16,50;
 
 7.2.2 - Sendo a certidão para fins de abono de família, segurança social, e de nascimento para bilhete de identidade ... 8
 
@@ -92,7 +92,7 @@
 
 7.2.4 - Por cada certidão negativa de registo ... 23
 
-7.3 - Pela certidão de documento, além do emolumento previsto no n.º 7.2.1 acresce, por cada página ... 2,50
+7.3 - (Revogado.)
 
 7.4 - Por cada certificado de nacionalidade ... 34
 

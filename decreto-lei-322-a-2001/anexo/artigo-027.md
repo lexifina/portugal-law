@@ -32,11 +32,19 @@
 
 2.2 - Do emolumento referido no n.º 2.1 pertencem dois terços ao cartório notarial e um terço à conservatória do registo comercial.
 
-3 - Regime especial de constituição imediata de sociedades:
+3 - Regimes especiais de constituição imediata e de constituição on-line de sociedades:
 
-3.1 - Pela prática dos actos compreendidos no regime especial de constituição imediata de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade - (euro) 330.
+3.1 - Pela prática dos actos compreendidos no regime especial de constituição imediata de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade - (euro) 360.
 
-3.2 - Do emolumento referido no número anterior pertencem dois terços à conservatória do registo comercial e um terço ao Registo Nacional de Pessoas Colectivas.
+3.2 - O emolumento previsto no número anterior tem um valor único e inclui o custo da publicação obrigatória do registo.
+
+3.3 - Do emolumento previsto no n.º 3.1, deduzido da taxa devida pela publicação a que se refere o n.º 3.2, pertencem dois terços à conservatória do registo comercial e um terço ao Registo Nacional de Pessoas Colectivas (RNPC).
+
+3.4 - Pela prática dos actos compreendidos no regime especial de constituição on-line de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou acto constitutivo de modelo aprovado - (euro) 360.
+
+3.5 - No caso de constituição on-line de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou acto constitutivo elaborado pelos interessados - (euro) 380.
+
+3.6 - Os emolumentos previstos nos n.os 3.4 e 3.5 têm um valor único e incluem o custo da publicação obrigatória do registo.
 
 4 - Impugnação das decisões:
 
@@ -44,6 +52,26 @@
 
 4.2 - Em caso de procedência do recurso haverá lugar à devolução do respectivo preparo.
 
-4.3 - Havendo provimento parcial, o emolumento do n.º 3.1 é reduzido a metade.
+4.3 - Havendo provimento parcial, o emolumento do n.º 4.1 é reduzido a metade.
 
 5 - Por cada certificado emitido nos termos do artigo 133.º do Regulamento dos Serviços dos Registos e do Notariado ... 50
+
+6 - Reconhecimentos e termos de autenticação:
+
+6.1 - Pelo reconhecimento de cada assinatura e de letra e assinatura - (euro) 8;
+
+6.2 - Pelo reconhecimento que contenha, a pedido dos interessados, menção de qualquer circunstância especial - (euro) 12,50;
+
+6.3 - Por cada termo de autenticação com um só interveniente - (euro) 17,50;
+
+6.4 - Por cada interveniente a mais - (euro) 4;
+
+6.5 - Por cada termo de autenticação de procuração com um só mandante e mandatário - (euro) 15;
+
+6.6 - Por cada mandante ou mandatário adiciona - (euro) 6.
+
+7 - Traduções e certificados:
+
+7.1 - Pelo certificado de exactidão da tradução de cada documento realizada por tradutor ajuramentado - (euro) 17,50;
+
+7.2 - Pela tradução de documentos, por cada página - (euro) 15.

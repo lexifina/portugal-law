@@ -60,7 +60,7 @@
 
 18 - Os registos relativos a veículo que utilize exclusivamente energia eléctrica ou solar, ou outra forma não poluente de energia, estão isentos de emolumentos.
 
-19 - Os registos relativos a veículo que utilize exclusivamente combustível de petróleo liquefeito (GPL) ou gás natural beneficiam de uma redução de 60% do valor do emolumento.
+19 - Os emolumentos devidos pelos regimes especiais de constituição imediata e de constituição on-line de sociedades são reduzidos em (euro) 60 quando a actividade principal da sociedade seja classificada como actividade informática ou conexa, ou ainda como de investigação e desenvolvimento, não sendo devida participação emolumentar pela referida redução.
 
 20 - Os registos relativos a veículos que, no acto da entrada no consumo interno, se apresentem equipados com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de gás de petróleo liquefeito (GPL), gás natural, energia eléctrica ou solar, quer de gasolina ou gasóleo, beneficiam de uma redução de 30% do valor do emolumento.»
 

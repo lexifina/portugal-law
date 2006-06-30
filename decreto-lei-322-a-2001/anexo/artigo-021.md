@@ -66,11 +66,15 @@
 
 9.1.2 - Por cada prédio a mais ... 16
 
-9.2 - Requisição e emissão de certidão ou fotocópia de actos de registo, independentemente do número de prédios e até quatro páginas ... 27
+9.2 - Requisição e emissão de certidão ou fotocópia de actos de registo:
 
-9.2.1 - A partir da 5.ª página até à 12.ª página, por cada página a mais ... 2,50
+9.2.1 - (Revogado.)
 
-9.2.2 - A partir da 13.ª página, por cada página a mais ... 1
+9.2.2 - (Revogado.)
+
+9.2.3 - Respeitantes a um só prédio - (euro) 31,50;
+
+9.2.4 - Por cada prédio a mais - (euro) 16.
 
 9.3 - Requisição e emissão de certidão ou fotocópia de documentos, até nove páginas ... 27
 
@@ -91,3 +95,7 @@
 9.7 - Fotocópia não certificada, por cada página ... 0,50
 
 9.8 - O emolumento devido pelas certidões e fotocópias quando cobrado no acto do pedido é restituído no caso da recusa da sua emissão.
+
+9.9 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos nos n.os 9.2 e 9.3 são pagos pela Direcção-Geral dos Registos e do Notariado (DGRN).
+
+9.10 - Para fazer face ao encargo referido no número anterior, constitui receita da DGRN o montante de (euro) 1,50, a deduzir aos emolumentos previstos nos n.os 9.2 e 9.3, por cada certidão ou fotocópia emitida.
