@@ -4,7 +4,7 @@
 
 1 - A parte de um sócio só pode ser transmitida, por acto entre vivos, com o expresso consentimento dos restantes sócios.
 
-2 - A transmissão da parte de um sócio efectua-se por escritura pública quando a sociedade tiver bens imóveis.
+2 - A transmissão da parte de um sócio deve ser reduzida a escrito.
 
 3 - O disposto nos números anteriores aplica-se à constituição dos direitos reais de gozo sobre a parte do sócio.
 

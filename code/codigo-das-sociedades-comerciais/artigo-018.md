@@ -4,9 +4,9 @@
 
 1 - Quando não tenham convencionado entradas em espécie ou aquisições de bens pela sociedade, os interessados na constituição da sociedade podem apresentar na competente conservatória do registo comercial requerimento para registo prévio do contrato juntamente com um projecto completo do contrato de sociedade.
 
-2 - A escritura pública deve ser lavrada nos precisos termos do projecto previamente registado, caso não haja motivo legal para recusa.
+2 - O contrato de sociedade deve ser redigido nos precisos termos do projecto previamente registado.
 
-3 - No prazo de quinze dias, o notário deve enviar ao conservador certidão da escritura para conversão do registo em definitivo.
+3 - No prazo de 15 dias após a celebração do contrato, deve ser apresentada ao conservador, por um dos sócios subscritores ou, no caso de o contrato ter sido celebrado por escritura pública, pelo notário, cópia certificada do contrato para conversão do registo em definitivo.
 
 4 - O disposto nos números anteriores não é aplicável à constituição das sociedades anónimas, quando efectuada com apelo a subscrição pública.
 

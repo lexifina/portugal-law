@@ -12,7 +12,7 @@
 
 5 - Na falta da deliberação prevista no número anterior os restantes sócios devem tomar nova deliberação nos 90 dias seguintes, optando entre a dissolução da sociedade e a liquidação da parte do sócio falecido.
 
-6 - Se os sócios não tomarem nenhuma das deliberações previstas no número anterior, deve o representante do incapaz requerer judicialmente a exoneração do seu representado ou, se esta não for legalmente possível, a dissolução da sociedade.
+6 - Se os sócios não tomarem nenhuma das deliberações previstas no número anterior, deve o representante do incapaz requerer a exoneração judicial do seu representado ou, se esta não for legalmente possível, a dissolução da sociedade por via administrativa.
 
 7 - Dissolvida a sociedade ou devendo a parte do sócio falecido ser liquidada, entende-se que a partir da data da morte do sócio se extinguem todos os direitos e obrigações inerentes à parte social, operando-se a sucessão apenas quanto ao direito ao produto de liquidação da referida parte, reportado àquela data e determinado nos termos previstos no artigo 1021.º do Código Civil.
 

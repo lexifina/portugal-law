@@ -10,4 +10,4 @@
 
 4 - Os liquidatários darão conhecimento da acção a todos os antigos sócios, pela forma mais rápida que lhes for possível, e podem exigir destes adequada provisão para encargos judiciais.
 
-5 - Os liquidatários não podem escusar-se a funções atribuídas neste artigo; tendo eles falecido, tais funções serão exercidas pelos últimos gerentes, administradores ou directores ou, no caso de falecimento destes, pelos sócios, por ordem decrescente da sua participação no capital da sociedade.
+5 - Os liquidatários não podem escusar-se a funções atribuídas neste artigo, sendo essas funções exercidas, quando tenham falecido, pelos últimos gerentes ou administradores ou, no caso de falecimento destes, pelos sócios, por ordem decrescente da sua participação no capital da sociedade.

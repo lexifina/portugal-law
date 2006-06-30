@@ -4,7 +4,7 @@
 
 1 - A administração da sociedade deve:
 
-a) Em relação a acções tituladas, emitir os títulos das novas acções e entregá-los aos seus titulares no prazo de 180 dias a contar da escritura do aumento do capital resultante da emissão;
+a) Em relação a acções tituladas, emitir os títulos das novas acções e entregá-los aos seus titulares no prazo de 180 dias a contar do aumento de capital resultante da emissão;
 
 b) Em relação a acções escriturais, proceder ao registo em conta das novas acções imediatamente após o registo comercial do aumento de capital resultante da emissão.
 

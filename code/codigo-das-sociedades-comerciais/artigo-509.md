@@ -6,7 +6,7 @@
 
 ### Falta de cobrança de entradas de capital
 
-1 - O gerente, administrador ou director de sociedade que omitir ou fizer omitir por outrem actos que sejam necessários para a realização de entradas de capital será punida com multa até 60 dias.
+1 - O gerente ou administrador de sociedade que omitir ou fizer omitir por outrem actos que sejam necessários para a realização de entradas de capital é punido com multa até 60 dias.
 
 2 - Se o facto for praticado com intenção de causar dano, material ou moral, a algum sócio, à sociedade, ou a terceiro, a pena será de multa até 120 dias, se pena mais grave não couber por força de outra disposição legal.
 

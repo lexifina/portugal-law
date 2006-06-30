@@ -8,10 +8,4 @@ a) Todos os sócios de responsabilidade ilimitada sejam sociedades de responsabi
 
 b) Todos os sócios de responsabilidade ilimitada se encontrem eles próprios organizados sob a forma de sociedade de responsabilidade limitada ou segundo uma das formas previstas na alínea anterior.
 
-2 - A obrigação referida no artigo anterior é dispensada quando as sociedades nela mencionadas não ultrapassem dois dos limites fixados pelo n.º 2 do artigo 262.º, sem prejuízo do disposto no número seguinte.
-
-3 - (Revogado).
-
-4 - (Revogado).
-
-5 - (Revogado).
+2 - A obrigação referida no número anterior é dispensada quando as sociedades nela mencionadas não ultrapassem dois dos limites fixados pelo n.º 2 do artigo 262.º

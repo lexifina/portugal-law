@@ -1,6 +1,6 @@
-# Artigo 110.º
+# Artigo 101.º-D
 
-### (Portadores de outros títulos)
+### Portadores de outros títulos
 
 Os portadores de títulos que não sejam acções, mas aos quais sejam inerentes direitos especiais, devem continuar a gozar de direitos pelo menos equivalentes na sociedade incorporante ou na nova sociedade, salvo se:
 

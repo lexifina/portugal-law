@@ -2,7 +2,7 @@
 
 ### (Regras especiais de eleição)
 
-1 - O contrato de sociedade pode estabelecer que, para um número de administradores não excedente a um, dois ou três, conforme o número total for de três, cinco, ou mais de cinco, se proceda a eleição isolada, entre pessoas propostas em listas subscritas por grupos de accionistas, contanto que nenhum desses grupos possua acções representativas de mais de 20% e de menos de 10% do capital social.
+1 - O contrato de sociedade pode estabelecer que, para um número de administradores não excedente a um terço do órgão, se proceda a eleição isolada, entre pessoas propostas em listas subscritas por grupos de accionistas, contando que nenhum desses grupos possua acções representativas de mais de 20% e de menos de 10% do capital social.
 
 2 - Cada lista referida no número anterior deve propor pelo menos duas pessoas elegíveis por cada um dos cargos a preencher.
 
@@ -14,7 +14,7 @@
 
 6 - O contrato de sociedade pode ainda estabelecer que uma minoria de accionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem o direito de designar, pelo menos, um administrador, contanto que essa minoria represente, pelo menos, 10% do capital social.
 
-7 - Para execução do disposto no número anterior, a eleição será feita por votação entre os accionistas da referida minoria, na mesma assembleia, e o administrador assim eleito substitui automaticamente a pessoa menos votada da lista vencedora ou, em caso de igualdade de votos, aquela que figurar em último lugar na mesma lista.
+7 - Nos sistemas previstos nos números anteriores, a eleição é feita entre os accionistas que tenham votado contra a proposta que fez vencimento na eleição dos administradores, na mesma assembleia, e os administradores assim eleitos substituem automaticamente as pessoas menos votadas da lista vencedora ou, em caso de igualdade de votos, aquela que figurar em último lugar na mesma lista.
 
 8 - Nas sociedades com subscrição pública, ou concessionárias do Estado ou de entidade a este equiparada por lei, é obrigatória a inclusão no contrato de algum dos sistemas previstos neste artigo; sendo o contrato omisso, aplica-se o disposto nos precedentes n.os 6 e 7.
 

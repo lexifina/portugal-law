@@ -2,7 +2,7 @@
 
 ### Assembleias gerais de accionistas
 
-1 - As assembleias gerais de accionistas devem ser convocadas sempre que a lei o determine ou o conselho de administração, a direcção, o conselho fiscal ou o conselho geral entenda conveniente.
+1 - As assembleias gerais de accionistas devem ser convocadas sempre que a lei o determine ou o conselho de administração, a comissão de auditoria, o conselho de administração executivo, o conselho fiscal ou o conselho geral e de supervisão entenda conveniente.
 
 2 - A assembleia geral deve ser convocada quando o requererem um ou mais accionistas que possuam acções correspondentes a, pelo menos, 5% do capital social.
 

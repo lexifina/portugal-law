@@ -2,6 +2,6 @@
 
 ### (Entrega dos bens partilhados)
 
-1 - Depois da deliberação dos sócios e em conformidade com esta, os liquidatários procederão à entrega dos bens que pela partilha ficam cabendo a cada um; se aos sócios forem atribuídos bens para a transmissão dos quais seja necessária escritura pública ou outra formalidade, os liquidatários outorgarão essa escritura ou executarão essas formalidades.
+1 - Depois da deliberação dos sócios e em conformidade com esta, os liquidatários procedem à entrega dos bens que pela partilha ficam cabendo a cada um, devendo esses liquidatários executar as formalidades necessárias à transmissão dos bens atribuídos aos sócios, quando tais formalidades sejam exigíveis.
 
 2 - É admitida a consignação em depósito, nos termos gerais.

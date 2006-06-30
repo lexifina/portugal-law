@@ -2,7 +2,7 @@
 
 ### Poderes do fiscal único e dos membros do conselho fiscal
 
-1 - Para o desempenho das suas funções, pode o fiscal único ou qualquer membro do conselho fiscal, conjunta ou separadamente:
+1 - Para o desempenho das suas funções, pode o fiscal único, o revisor oficial de contas ou qualquer membro do conselho fiscal, conjunta ou separadamente:
 
 a) Obter da administração a apresentação, para exame e verificação, dos livros, registos e documentos da sociedade, bem como verificar os documentos de qualquer classe de valores, designadamente dinheiro, títulos e mercadorias;
 
@@ -13,3 +13,9 @@ c) Obter de terceiros que tenham realizado operações por conta da sociedade as
 d) Assistir às reuniões da administração, sempre que o entendam conveniente.
 
 2 - O disposto na alínea c) do n.º 1 não abrange a comunicação de documentos ou contratos detidos por terceiros, salvo se for judicialmente autorizada ou solicitada pelo revisor oficial de contas, no uso dos poderes que lhe são conferidos pela legislação que rege a sua actividade. Ao direito conferido pela mesma alínea não pode ser oposto segredo profissional que não pudesse ser também oposto à administração da sociedade.
+
+3 - Para o desempenho das suas funções, pode o conselho fiscal deliberar a contratação da prestação de serviços de peritos que coadjuvem um ou vários dos seus membros no exercício das suas funções.
+
+4 - A contratação e a remuneração dos peritos referidos no número anterior têm em conta a importância dos assuntos a ele cometidos e a situação económica da sociedade.
+
+5 - Na contratação dos peritos referidos nos números anteriores, a sociedade é representada pelos membros do conselho fiscal, aplicando-se, com as devidas adaptações e na medida aplicável, o disposto nos artigos 408.º e 409.º

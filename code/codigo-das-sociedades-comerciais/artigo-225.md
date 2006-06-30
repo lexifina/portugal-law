@@ -10,7 +10,7 @@
 
 2 - Quando, por força de disposições contratuais, a quota não for transmitida para os sucessores do sócio falecido, deve a sociedade amortizá-la, adquiri-la ou fazê-la adquirir por sócio ou terceiro; se nenhuma destas medidas for efectivada nos 90 dias subsequentes ao conhecimento da morte do sócio por algum dos gerentes, a quota considera-se transmitida.
 
-3 - No caso de se optar pela aquisição da quota, outorgarão na respectiva escritura apenas o representante da sociedade e o adquirente, se for sócio ou terceiro.
+3 - No caso de se optar por fazer adquirir a quota por sócio ou terceiro, o respectivo contrato é outorgado pelo representante da sociedade e pelo adquirente.
 
 4 - Salvo estipulação do contrato de sociedade em sentido diferente, à determinação e ao pagamento da contrapartida devida pelo adquirente aplicam-se as correspondentes disposições legais ou contratuais relativas à amortização, mas os efeitos da alienação da quota ficam suspensos enquanto aquela contrapartida não for paga.
 

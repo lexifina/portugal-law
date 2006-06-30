@@ -8,6 +8,6 @@
 
 3 - O disposto nos números anteriores é extensivo a actos ou contratos celebrados com as sociedades que estejam em relação de domínio ou de grupo com aquela de que o contraente é administrador.
 
-4 - No seu relatório anual, o conselho de administração deve especificar as autorizações que tenha concedido ao abrigo do n.º 2 e o relatório do conselho fiscal deve mencionar os pareceres proferidos sobre essas autorizações.
+4 - No seu relatório anual, o conselho de administração deve especificar as autorizações que tenha concedido ao abrigo do n.º 2 e o relatório do conselho fiscal ou da comissão de auditoria deve mencionar os pareceres proferidos sobre essas autorizações.
 
 5 - O disposto nos n.os 2, 3 e 4 não se aplica quando se trate de acto compreendido no próprio comércio da sociedade e nenhuma vantagem especial seja concedida ao contraente administrador.

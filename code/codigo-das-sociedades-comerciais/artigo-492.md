@@ -8,7 +8,7 @@
 
 1 - Duas ou mais sociedades que não sejam dependentes nem entre si nem de outras sociedades podem constituir um grupo de sociedades, mediante contrato pelo qual aceitem submeter-se a uma direcção unitária e comum.
 
-2 - O contrato e as suas alterações e prorrogações devem ser celebrados por escritura pública e precedidos de deliberações de todas as sociedades intervenientes, tomadas sobre proposta das suas administrações e pareceres dos seus órgãos de fiscalização, pela maioria que a lei ou os contratos de sociedade exijam para a fusão.
+2 - O contrato e as suas alterações e prorrogações devem ser reduzidos a escrito e precedidos de deliberações de todas as sociedades intervenientes, tomadas sobre proposta das suas administrações e pareceres dos seus órgãos de fiscalização, pela maioria que a lei ou os contratos de sociedade exijam para a fusão.
 
 3 - O contrato não pode ser estipulado por tempo indeterminado, mas pode ser prorrogado.
 

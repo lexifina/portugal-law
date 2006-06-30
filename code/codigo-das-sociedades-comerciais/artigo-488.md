@@ -10,7 +10,7 @@
 
 ### Domínio total inicial
 
-1 - Uma sociedade pode constituir, mediante escritura por ela outorgada, uma sociedade anónima de cujas acções ela seja inicialmente a única titular.
+1 - Uma sociedade pode constituir uma sociedade anónima de cujas acções ela seja inicialmente a única titular.
 
 2 - Devem ser observados todos os demais requisitos da constituição de sociedades anónimas.
 

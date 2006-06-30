@@ -4,7 +4,7 @@
 
 1 - A deliberação é tomada, na falta de disposição especial, nos termos prescritos para a alteração do contrato de sociedade.
 
-2 - A deliberação só pode ser executada depois de obtido o consentimento dos sócios prejudicados quando:
+2 - A fusão apenas pode ser registada depois de obtido o consentimento dos sócios prejudicados quando:
 
 a) Aumentar as obrigações de todos ou alguns dos sócios;
 

@@ -2,9 +2,9 @@
 
 ### (Direito colectivo à informação)
 
-1 - Accionistas cujas acções atinjam 10% do capital social podem solicitar, por escrito, ao conselho de administração ou à direcção que lhes sejam prestadas, também por escrito, informações sobre assuntos sociais.
+1 - Os accionistas cujas acções atinjam 10% do capital social podem solicitar, por escrito, ao conselho de administração ou ao conselho de administração executivo que lhes sejam prestadas, também por escrito, informações sobre assuntos sociais.
 
-2 - O conselho de administração ou a direcção não pode recusar as informações se no pedido for mencionado que se destinam a apurar responsabilidades de membros daquele órgão, do conselho fiscal ou do conselho geral, a não ser que, pelo seu conteúdo ou outras circunstâncias, seja patente não ser esse o fim visado pelo pedido de informação.
+2 - O conselho de administração ou o conselho de administração executivo não pode recusar as informações se no pedido for mencionado que se destinam a apurar responsabilidade de membros daquele órgão, do conselho fiscal ou do conselho geral e de supervisão, a não ser que, pelo seu conteúdo ou outras circunstâncias, seja patente não ser esse o fim visado pelo pedido de informação.
 
 3 - Podem ser pedidas informações sobre factos já praticados ou, quando deles possa resultar a responsabilidade referida no n.º 2 deste artigo, de actos cuja prática seja esperada.
 

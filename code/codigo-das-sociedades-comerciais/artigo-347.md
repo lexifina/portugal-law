@@ -4,11 +4,11 @@
 
 1 - O contrato de sociedade pode impor ou permitir que, em certos casos e sem consentimento dos seus titulares, sejam amortizadas acções.
 
-2 - A amortização de acções nos termos deste artigo implica sempre redução do capital da sociedade; as acções amortizadas extinguem-se na data da escritura de redução do capital.
+2 - A amortização de acções nos termos deste artigo implica sempre a redução do capital da sociedade, extinguindo-se as acções amortizadas na data da redução do capital.
 
 3 - Os factos que imponham ou permitam a amortização devem ser concretamente definidos no contrato de sociedade.
 
-4 - No caso de a amortização ser imposta pelo contrato de sociedade, deve este fixar todas as condições essenciais para que a operação possa ser efectuada, competindo ao conselho de administração ou à direcção apenas declarar, nos 90 dias posteriores ao conhecimento que tenha do facto, que as acções são amortizadas nos termos do contrato e dar execução ao que para o caso estiver disposto.
+4 - No caso de a amortização ser imposta pelo contrato de sociedade, deve este fixar todas as condições essenciais para que a operação possa ser efectuada, competindo ao conselho de administração ou ao conselho de administração executivo apenas declarar, nos 90 dias posteriores ao conhecimento que tenha do facto, que as acções são amortizadas nos termos do contrato e dar execução ao que para o caso estiver disposto.
 
 5 - No caso de a amortização ser permitida pelo contrato de sociedade, compete à assembleia geral deliberar a amortização e fixar as condições necessárias para que a operação seja efectuada na parte que não constar do contrato.
 

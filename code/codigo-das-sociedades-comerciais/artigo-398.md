@@ -6,6 +6,8 @@
 
 2 - Quando for designada administrador uma pessoa que, na sociedade ou em sociedades referidas no número anterior, exerça qualquer das funções mencionadas no mesmo número, os contratos relativos a tais funções extinguem-se, se tiverem sido celebrados há menos de um ano antes da designação, ou suspendem-se, caso tenham durado mais do que esse ano.
 
-3 - Os administradores não podem, sem autorização da assembleia geral, exercer, por conta própria ou alheia, actividade concorrente com a da sociedade.
+3 - Na falta de autorização da assembleia geral, os administradores não podem exercer por conta própria ou alheia actividade concorrente da sociedade nem exercer funções em sociedade concorrente ou ser designados por conta ou em representação desta.
 
-4 - Aplica-se o disposto nos n.os 2 a 6 do artigo 254.º
+4 - A autorização a que se refere o número anterior deve definir o regime de acesso a informação sensível por parte do administrador.
+
+5 - Aplica-se o disposto nos n.os 2, 5 e 6 do artigo 254.º

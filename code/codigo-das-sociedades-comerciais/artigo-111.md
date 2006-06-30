@@ -2,4 +2,4 @@
 
 ### (Registo da fusão)
 
-Decorrido o prazo previsto no artigo 107.º, n.º 2, sem que tenha sido deduzida oposição ou sem que se tenha verificado algum dos factos referidos no artigo 108.º, n.º 1, e outorgada a escritura de fusão, deve a administração de qualquer das sociedades participantes na fusão ou da nova sociedade pedir a inscrição da fusão no registo comercial.
+Deliberada a fusão por todas as sociedades participantes sem que tenha sido deduzida oposição no prazo previsto no artigo 101.º-A ou, tendo esta sido deduzida, se tenha verificado algum dos factos referidos no n.º 1 do artigo 101.º-B, deve ser requerida a inscrição da fusão no registo comercial por qualquer dos administradores das sociedades participantes na fusão ou da nova sociedade.

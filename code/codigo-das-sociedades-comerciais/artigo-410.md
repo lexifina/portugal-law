@@ -16,4 +16,4 @@
 
 7 - As deliberações são tomadas por maioria dos votos dos administradores presentes ou representados e dos que, caso o contrato de sociedade o permita, votem por correspondência.
 
-8 - De cada reunião deve ser lavrada acta no livro respectivo, assinada por todos os que nela tenham participado.
+8 - Se não for proibido pelos estatutos, as reuniões do conselho podem realizar-se através de meios telemáticos, se a sociedade assegurar a autenticidade das declarações e a segurança das comunicações, procedendo ao registo do seu conteúdo e dos respectivos intervenientes.
