@@ -2,7 +2,7 @@
 
 ## Procedimento administrativo de liquidação
 
-# Artigo 15
+# Artigo 15.º
 
 ### Início do procedimento e competência
 
@@ -20,7 +20,7 @@ a) A dissolução tenha sido realizada em procedimento administrativo de dissolu
 
 b) Se verifique terem decorrido os prazos previstos no artigo 150.º do Código das Sociedades Comerciais para a duração da liquidação sem que tenha sido requerido o respectivo registo de encerramento;
 
-c) Durante dois anos consecutivos, o titular do estabelecimento individual de responsabilidade limitada não tenha procedido ao registo da prestação de contas;
+c) Durante dois anos consecutivos, o titular do estabelecimento individual de responsabilidade limitada não tenha procedido ao depósito dos documentos de prestação de contas e a administração tributária tenha comunicado ao serviço de registo competente a omissão de entrega da declaração fiscal de rendimentos pelo mesmo período;
 
 d) A administração tributária tenha comunicado ao serviço de registo competente a ausência de actividade efectiva do estabelecimento individual de responsabilidade limitada, verificada nos termos previstos na legislação tributária;
 
@@ -28,11 +28,7 @@ e) A administração tributária tenha comunicado ao serviço de registo compete
 
 f) Se verifique que o titular do estabelecimento individual de responsabilidade limitada não procedeu ao aumento de capital do estabelecimento, nos termos do artigo 35.º-A do Decreto-Lei n.º 248/86, de 25 de Agosto;
 
-g) O estabelecimento individual de responsabilidade limitada não tenha sido objecto de actos de registo comercial obrigatórios durante mais de 20 anos;
-
-h) Tenha ocorrido o óbito do titular do estabelecimento individual de responsabilidade limitada, comprovado por consulta a base de dados de serviço da Administração Pública;
-
-i) O tribunal que decidiu o encerramento de um processo de insolvência por insuficiência da massa insolvente tenha comunicado esse encerramento ao serviço de registo competente, nos termos do n.º 4 do artigo 234.º do Código da Insolvência e da Recuperação de Empresas.
+g) O tribunal que decidiu o encerramento de um processo de insolvência por insuficiência da massa insolvente tenha comunicado esse encerramento ao serviço de registo competente, nos termos do n.º 4 do artigo 234.º do Código da Insolvência e da Recuperação de Empresas.
 
 6 - Os n.os 5 e 6 do artigo 4.º são aplicáveis ao procedimento administrativo de liquidação.
 

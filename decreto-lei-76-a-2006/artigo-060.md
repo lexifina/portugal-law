@@ -6,4 +6,4 @@
 
 ### Sociedades em processo de privatização
 
-As acções a privatizar, nos termos da lei, constituem sempre uma categoria especial de acções que apenas podem ser detidas pelo Estado ou por entidades que pertençam ao sector público.
+As acções a privatizar, nos termos da lei, constituem sempre uma categoria especial de acções, à qual, salvo disposição legal em contrário, não é aplicável a limitação da contagem de votos permitida na alínea b) do n.º 2 do artigo 384.º do Código das Sociedades Comerciais.
