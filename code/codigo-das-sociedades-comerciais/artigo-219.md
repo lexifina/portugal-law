@@ -18,7 +18,7 @@
 
 4 - A quota primitiva de um sócio e as que posteriormente adquirir são independentes. O titular pode, porém, unificá-las, desde que estejam integralmente liberadas e lhes não correspondam, segundo o contrato de sociedade, direitos e obrigações diversos.
 
-5 - A unificação pode ser efectuada por documento particular e deve ser registada e comunicada à sociedade.
+5 - A unificação deve ser reduzida a escrito, comunicada à sociedade e registada.
 
 6 - A medida dos direitos e obrigações inerentes a cada quota determina-se segundo a proporção entre o valor nominal desta e o do capital, salvo se por força da lei ou do contrato houver de ser diversa.
 
