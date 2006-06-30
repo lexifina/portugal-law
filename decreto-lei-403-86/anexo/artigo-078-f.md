@@ -9,5 +9,3 @@
 3 - Às entidades referidas no número anterior pode ser autorizada a consulta através de linha de transmissão de dados, garantido o respeito pelas normas de segurança da informação e da disponibilidade técnica.
 
 4 - A informação pode ser divulgada para fins de investigação científica ou de estatística desde que não possam ser identificáveis as pessoas a que respeita.
-
-5 - A informação para fins de investigação científica ou de estatística relativa a entidades sujeitas a registo comercial pode resultar do cruzamento dos dados contidos nas diversas bases de dados registais, Ficheiro Central de Pessoas Coletivas e Base de Dados das Contas Anuais, desde que não possam ser individualizadas as entidades a que respeita a informação.

@@ -1,7 +1,9 @@
 # Artigo 76.º
 
-### Certidões e fotocópias
+### Competência para a emissão
 
-1 - As certidões devem ser pedidas em impresso de modelo oficial, entregue na conservatória ou remetido pelo correio ou por telecópia, e passadas no prazo de cinco dias.
+1 - As certidões e as cópias não certificadas de registos podem ser emitidas e confirmadas por qualquer conservatória.
 
-2 - Podem ser pedidas, verbalmente, fotocópias com valor de certidão dos registos e despachos ou de quaisquer documentos arquivados.
+2 - As certidões negativas de registos e as certidões de documentos ou despachos apenas podem ser emitidas pela conservatória competente para o registo.
+
+3 - Para a emissão dos documentos referidos nos números anteriores é competente o conservador e qualquer oficial dos registos.
