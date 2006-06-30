@@ -2,10 +2,12 @@
 
 ### (Direito de exoneração dos sócios)
 
-1 - Se a lei ou o contrato de sociedade atribuir ao sócio que tenha votado contra o projecto de fusão o direito de se exonerar, pode o sócio exigir, nos 30 dias subsequentes à data da publicação prescrita no n.º 1 do artigo 107.º, que a sociedade adquira ou faça adquirir a sua participação social.
+1 - Se a lei ou o contrato de sociedade atribuir ao sócio que tenha votado contra o projecto de fusão o direito de se exonerar, pode o sócio exigir, no prazo de um mês a contar da data da deliberação, que a sociedade adquira ou faça adquirir a sua participação social.
 
-2 - Salvo estipulação diversa do contrato de sociedade ou acordo das partes, a contrapartida da aquisição deve ser calculada nos termos do artigo 1021.º do Código Civil, com referência ao momento da deliberação de fusão, por um revisor oficial de contas designado por mútuo acordo ou, na falta deste, pelo tribunal. É lícito a qualquer das partes requerer segunda avaliação, nos termos do Código de Processo Civil.
+2 - Salvo estipulação diversa do contrato de sociedade ou acordo das partes, a contrapartida da aquisição deve ser calculada nos termos do artigo 1021.º do Código Civil, com referência ao momento da deliberação de fusão, por um revisor oficial de contas designado por mútuo acordo ou, na falta deste, por um revisor oficial de contas independente designado pela respectiva Ordem, a solicitação de qualquer dos interessados.
 
-3 - O disposto na parte final do número anterior é também aplicável quando a sociedade não tiver oferecido uma contrapartida ou a não tiver oferecido regularmente; o prazo começará a contar-se, nestas hipóteses, depois de decorridos vinte dias sobre a data em que o sócio exigir à sociedade a aquisição da sua participação social.
+3 - É lícito a qualquer das partes requerer segunda avaliação para o cálculo da contrapartida da aquisição referida no número anterior, nos termos do Código de Processo Civil.
 
-4 - O direito de o sócio alienar por outro modo a sua participação social não é afectado pelo estatuído nos números anteriores nem a essa alienação, quando efectuada no prazo aí fixado, obstam as limitações prescritas pelo contrato de sociedade.
+4 - O disposto na parte final do número anterior é também aplicável quando a sociedade não tiver oferecido uma contrapartida ou a não tiver oferecido regularmente; o prazo começará a contar-se, nestas hipóteses, depois de decorridos vinte dias sobre a data em que o sócio exigir à sociedade a aquisição da sua participação social.
+
+5 - O direito de o sócio alienar por outro modo a sua participação social não é afectado pelo estatuído nos números anteriores nem a essa alienação, quando efectuada no prazo aí fixado, obstam as limitações prescritas pelo contrato de sociedade.
