@@ -22,15 +22,15 @@ c) Os actos de constituição, alteração e distrate de consignação de rendim
 
 d) As habilitações de herdeiros e os actos de alienação, repúdio e renúncia de herança ou legado, de que façam parte coisas imóveis;
 
-e) Os actos de constituição, dissolução e liquidação de sociedades comerciais, sociedades civis sob a forma comercial e sociedades civis das quais façam parte bens imóveis, bem como os actos de alteração dos respectivos contratos sociais;
+e) Os actos de constituição de sociedades comerciais, sociedades civis sob a forma comercial e sociedades civis, se essa for a forma exigida para a transmissão dos bens com que os sócios entram para a sociedade;
 
-f) Os actos de constituição de sociedades anónimas europeias com sede em Portugal e os de alteração dos estatutos das mesmas sociedades, nos casos em que da alteração decorra a transferência da sua sede para Portugal;
+f) (Revogada).
 
 g) Os actos de constituição de associações e de fundações, bem como os respectivos estatutos e suas alterações;
 
 h) Os actos de constituição, de modificação e de distrate de hipotecas, a cessão destas ou do grau de prioridade do seu registo e a cessão ou penhor de créditos hipotecários;
 
-i) A divisão e a cessão de participações sociais em sociedades por quotas, bem como noutras sociedades titulares de direitos reais sobre coisas imóveis, com excepção das anónimas;
+i) (Revogada).
 
 j) O contrato-promessa de alienação ou oneração de coisas imóveis ou móveis sujeitas a registo e o pacto de preferência respeitante a bens da mesma espécie, quando as partes lhes queiram atribuir eficácia real;
 
