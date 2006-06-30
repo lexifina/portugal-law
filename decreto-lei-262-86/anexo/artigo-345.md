@@ -22,4 +22,6 @@
 
 8 - A deliberação de remição de acções está sujeita a registo e publicação.
 
-9 - O contrato de sociedade pode prever sanções para o incumprimento pela sociedade da obrigação de remir na data nele fixada; na falta de disposição contratual, qualquer titular dessas acções pode requerer judicialmente a dissolução da sociedade, depois de passado um ano sobre aquela data sem a remição ter sido efectuada.
+9 - O contrato de sociedade pode prever sanções para o incumprimento pela sociedade da obrigação de remir na data nele fixada.
+
+10 - Na falta de disposição contratual, qualquer titular dessas acções pode requerer a dissolução da sociedade por via administrativa, depois de passado um ano sobre aquela data sem a remição ter sido efectuada.

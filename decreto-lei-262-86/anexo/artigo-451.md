@@ -4,11 +4,11 @@
 
 # Artigo 451.º
 
-### Exame das contas nas sociedades com conselho fiscal
+### Exame das contas nas sociedades com conselho fiscal e com comissão de auditoria
 
-1 - Até 30 dias antes da data da assembleia geral convocada para apreciar os documentos de prestação de contas, o conselho de administração deve apresentar ao conselho fiscal o relatório da gestão e as contas do exercício.
+1 - Até 30 dias antes da data da assembleia geral convocada para apreciar os documentos de prestação de contas, o conselho de administração deve apresentar ao conselho fiscal e ao revisor oficial de contas o relatório da gestão e as contas do exercício.
 
-2 - O membro do conselho fiscal que for revisor oficial de contas deve apreciar o relatório de gestão, completar o exame das contas com vista à sua certificação legal e elaborar relatório anual sobre a fiscalização efectuada.
+2 - O membro do conselho fiscal que for revisor oficial de contas ou, no caso das sociedades que adoptem as modalidades referidas nas alíneas a) e b) do n.º 1 do artigo 278.º e na alínea b) do n.º 1 do artigo 413.º, o revisor oficial de contas deve apreciar o relatório de gestão e completar o exame das contas com vista à sua certificação legal.
 
 3 - Em consequência do exame das contas, o revisor oficial de contas deve emitir documento de certificação legal das contas, o qual deve incluir:
 
@@ -24,4 +24,4 @@ e) Um parecer em que se indique se o relatório de gestão é ou não concordant
 
 f) Data e assinatura do revisor oficial de contas.
 
-4 - O relatório anual do revisor oficial de contas sobre a fiscalização efectuada deve ter o conteúdo exigido pela lei respectiva.
+4 - (Revogado.)

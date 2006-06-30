@@ -2,4 +2,6 @@
 
 ### (Obrigações convertíveis em acções)
 
-Só podem emitir obrigações convertíveis em acções as sociedades cujas acções estejam cotadas numa das Bolsas de Valores de Lisboa ou Porto.
+1 - As sociedades anónimas podem emitir obrigações convertíveis em acções representativas do seu capital ou por si detidas.
+
+2 - As obrigações convertíveis em acções só podem estar admitidas à negociação em mercado regulamentado se também estiverem as acções que lhes servem de activo subjacente.

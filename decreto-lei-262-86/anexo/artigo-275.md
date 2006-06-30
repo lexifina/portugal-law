@@ -6,4 +6,4 @@
 
 2 - Na firma não podem ser incluídas ou mantidas expressões indicativas de um objecto social que não esteja especificamente previsto na respectiva cláusula do contrato de sociedade.
 
-3 - No caso de o objecto contratual da sociedade ser alterado, deixando de incluir actividade especificada na firma, a escritura de alteração do objecto não poderá ser outorgada sem que se proceda simultaneamente à modificação da firma.
+3 - No caso de o objecto contratual da sociedade ser alterado, deixando de incluir actividade especificada na firma, a alteração do objecto deve ser simultaneamente acompanhada da modificação da firma.

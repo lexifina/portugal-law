@@ -2,7 +2,7 @@
 
 ### Ilícitos de mera ordenação social
 
-1 - O gerente, administrador ou director de sociedade que não submeter, ou por facto próprio impedir outrem de submeter, aos órgãos competentes da sociedade até ao fim do prazo previsto no n.º 1 do artigo 376.º, o relatório de gestão, as contas do exercício e os demais documentos de prestação de contas previstos na lei, e cuja apresentação lhe esteja cometida por lei, pelo contrato social, ou por outro título, bem como viole o disposto no artigo 65.º-A, será punido com coima de 10000$00 a 300000$00.
+1 - O gerente ou administrador de sociedade que não submeter, ou por facto próprio impedir outrem de submeter, aos órgãos competentes da sociedade, até ao fim do prazo previsto no n.º 1 do artigo 376.º, o relatório da gestão, as contas do exercício e os demais documentos de prestação de contas previstos na lei, e cuja apresentação lhe esteja cometida por lei ou pelo contrato social, ou por outro título, bem como viole o disposto no artigo 65.º-A, é punido com coima de (euro) 50 a (euro) 1500.
 
 2 - A sociedade que omitir em actos externos, no todo ou em parte, as indicações referidas no artigo 171.º deste Código será punida com coima de 50000$00 a 300000$00.
 

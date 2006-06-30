@@ -1,9 +1,9 @@
 # Artigo 453.º
 
-### Exame das contas nas sociedades com conselho geral
+### Exame das contas nas sociedades com conselho geral e de supervisão
 
-1 - Até 30 dias antes da data da assembleia geral convocada para apreciação geral da administração e fiscalização, a direcção deve apresentar ao revisor oficial de contas o relatório de gestão e as contas do exercício.
+1 - Até 30 dias antes da data da assembleia geral convocada para apreciar os documentos de prestação de contas, o conselho de administração executivo deve apresentar ao revisor oficial de contas o relatório de gestão e as contas do exercício, para os efeitos referidos nos números seguintes, e ao conselho geral e de supervisão.
 
-2 - O revisor oficial de contas deve apreciar o relatório de gestão, completar o exame das contas do exercício, elaborar o relatório anual e emitir o documento de certificação legal das contas, com ou sem reservas, certificação adversa, ou declaração de impossibilidade de certificação, apresentando-os ao conselho geral e, se o entender, pode também apresentar à assembleia geral o seu relatório anual.
+2 - O revisor oficial de contas deve apreciar o relatório de gestão e completar o exame das contas com vista à sua certificação legal.
 
-3 - O disposto no n.º 3 do artigo 451.º aplica-se ao documento de certificação legal das contas elaborado nos termos do presente artigo.
+3 - Aplica-se o disposto no n.º 3 do artigo 451.º e nos n.os 2 a 4 do artigo 452.º, com as necessárias adaptações.

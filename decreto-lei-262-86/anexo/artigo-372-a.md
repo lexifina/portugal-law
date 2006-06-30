@@ -2,4 +2,6 @@
 
 ### Obrigações com direito de subscrição de acções
 
-As obrigações referidas na alínea d) do artigo 360.º só podem ser emitidas desde que se encontrem cotadas em bolsa de valores as acções da sociedade emitente daquelas que poderão ser adquiridas pelo exercício do direito de subscrição.
+1 - As sociedades anónimas podem emitir obrigações com warrant.
+
+2 - As obrigações com warrant só podem estar admitidas à negociação em mercado regulamentado se também estiverem as acções que lhe servem de activo subjacente.

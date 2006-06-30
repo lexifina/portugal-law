@@ -16,6 +16,6 @@
 
 3 - A interpelação pode ser feita por meio de anúncio e fixará um prazo entre 30 e 60 dias para o pagamento, a partir do qual se inicia a mora.
 
-4 - Os administradores ou directores podem avisar, por carta registada, os accionistas que se encontrem em mora de que lhes é concedido um novo prazo, não inferior a 90 dias, para efectuarem o pagamento da importância em dívida, acrescida de juros, sob pena de perderem a favor da sociedade as acções em relação às quais a mora se verifique e os pagamentos efectuados quanto a essas acções; o aviso será repetido durante o segundo dos referidos meses.
+4 - Os administradores podem avisar, por carta registada, os accionistas que se encontrem em mora de que lhes é concedido um novo prazo não inferior a 90 dias, para efectuarem o pagamento da importância em dívida, acrescida de juros, sob pena de perderem a favor da sociedade as acções em relação às quais a mora se verifique e os pagamentos efectuados quanto a essas acções, sendo o aviso repetido durante o segundo dos referidos meses.
 
 5 - As perdas referidas no número anterior devem ser comunicadas, por carta registada, aos interessados; além disso, deve ser publicado anúncio donde constem, sem referência aos titulares, os números das acções perdidas a favor da sociedade e a data da perda.

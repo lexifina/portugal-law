@@ -32,4 +32,4 @@ f) Autorização do representante comum para a proposição de acções judiciai
 
 9 - É vedado à assembleia deliberar o aumento de encargos dos obrigacionistas ou quaisquer medidas que impliquem o tratamento desigual destes.
 
-10 - O obrigacionista pode fazer-se representar na assembleia por mandatário constituído por simples carta dirigida ao presidente da assembleia, com a assinatura reconhecida por notário.
+10 - O obrigacionista pode fazer-se representar na assembleia por mandatário constituído por simples carta dirigida ao presidente da assembleia.

@@ -8,4 +8,4 @@
 
 3 - Pode também qualquer obrigacionista requerer que o tribunal destitua, com fundamento em justa causa, o representante comum.
 
-4 - A designação e a destituição do representante comum devem ser comunicadas por escrito à sociedade e ser inscritas no registo comercial por iniciativa da sociedade ou do próprio representante.
+4 - A designação e a destituição do representante comum devem ser comunicadas por escrito à sociedade e registadas por depósito na conservatória do registo competente por iniciativa da sociedade ou do próprio representante.

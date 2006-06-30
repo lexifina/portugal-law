@@ -2,7 +2,7 @@
 
 ### Competências da comissão de auditoria
 
-1 - Compete à comissão de auditoria:
+Compete à comissão de auditoria:
 
 a) Fiscalizar a administração da sociedade;
 
@@ -35,5 +35,3 @@ o) Fiscalizar a independência do revisor oficial de contas, designadamente no t
 p) Contratar a prestação de serviços de peritos que coadjuvem um ou vários dos seus membros no exercício das suas funções, devendo a contratação e a remuneração dos peritos ter em conta a importância dos assuntos a eles cometidos e a situação económica da sociedade;
 
 q) Cumprir as demais atribuições constantes da lei ou do contrato de sociedade.
-
-2 - É aplicável à comissão de auditoria, com as devidas adaptações, o disposto nos n.os 5 e 6 do artigo 420.º

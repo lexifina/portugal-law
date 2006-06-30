@@ -1,5 +1,5 @@
 # Artigo 436.º
 
-### (Presidência do conselho geral)
+### Presidência do conselho geral e de supervisão
 
-O conselho geral designa aquele dos seus membros que servirá de presidente.
+À designação do presidente do conselho geral e de supervisão aplica-se o regime previsto no artigo 395.º, com as devidas adaptações.

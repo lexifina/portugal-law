@@ -8,4 +8,4 @@
 
 3 - As notificações ou declarações de terceiros à sociedade podem ser dirigidas a qualquer dos administradores, sendo nula toda a disposição em contrário do contrato de sociedade.
 
-4 - As notificações ou declarações de um administrador cujo destinatário seja a sociedade devem ser dirigidas ao presidente do conselho de administração ou, sendo ele o autor ou não havendo presidente, ao conselho fiscal.
+4 - As notificações ou declarações de um administrador cujo destinatário seja a sociedade devem ser dirigidas ao presidente do conselho de administração ou, sendo ele o autor, ao conselho fiscal ou à comissão de auditoria.

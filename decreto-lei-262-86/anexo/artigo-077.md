@@ -2,7 +2,7 @@
 
 ### (Acção de responsabilidade proposta por sócios)
 
-1 - Independentemente do pedido de indemnização dos danos individuais que lhe tenham causado, podem um ou vários sócios que possuam, pelo menos, 5% do capital social propor acção social de responsabilidade contra gerentes, administradores ou directores, com vista à reparação, a favor da sociedade, do prejuízo que esta tenha sofrido, quando a mesma a não haja solicitado.
+1 - Independentemente do pedido de indemnização dos danos individuais que lhes tenham causado, podem um ou vários sócios que possuam, pelo menos, 5% do capital social, ou 2% no caso de sociedade emitente de acções admitidas à negociação em mercado regulamentado, propor acção social de responsabilidade contra gerentes ou administradores, com vista à reparação, a favor da sociedade, do prejuízo que esta tenha sofrido, quando a mesma a não haja solicitado.
 
 2 - Os sócios podem, no interesse comum, encarregar, à sua custa, um ou alguns deles de os representar para o efeito do exercício do direito social previsto no número anterior.
 

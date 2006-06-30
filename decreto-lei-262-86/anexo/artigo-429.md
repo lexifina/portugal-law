@@ -2,8 +2,4 @@
 
 ### (Remuneração)
 
-1 - A remuneração dos directores é estabelecida pelo conselho geral, tendo em conta as funções desempenhadas e a situação económica da sociedade.
-
-2 - À remuneração fixa pode acrescer uma percentagem dos lucros do exercício, se o contrato de sociedade o autorizar; neste caso, o contrato estabelecerá a percentagem máxima.
-
-3 - A percentagem referida no número anterior não incide sobre distribuições de reservas nem sobre qualquer parte do lucro do exercício que não pudesse, por lei, ser distribuída aos accionistas.
+À remuneração dos administradores aplica-se o disposto no artigo 399.º, competindo a sua fixação ao conselho geral e de supervisão ou a uma sua comissão de remuneração ou, no caso em que o contrato de sociedade assim o determine, à assembleia geral de accionistas ou a uma comissão por esta nomeada.

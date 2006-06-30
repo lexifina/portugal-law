@@ -6,7 +6,7 @@
 
 ### (Dissolução e liquidação)
 
-1 - Além dos casos previstos na lei, a sociedade pode ser dissolvida judicialmente:
+1 - Além dos casos previstos na lei, a sociedade pode ser dissolvida:
 
 a) A requerimento do sucessor do sócio falecido, se a liquidação da parte social não puder efectuar-se por força do disposto no artigo 188.º, n.º 1;
 

@@ -1,39 +1,19 @@
 # Artigo 414.º
 
-### Requisitos e incompatibilidades
+### Composição qualitativa
 
-1 - O fiscal único e o suplente ou, no caso de existência de conselho fiscal, um membro efectivo e um dos suplentes, têm de ser revisores oficiais de contas ou sociedades de revisores oficiais de contas e não podem ser accionistas.
+1 - O fiscal único e o suplente têm de ser revisores oficiais de contas ou sociedade de revisores oficiais de contas e não podem ser accionistas.
 
-2 - Os restantes membros do conselho fiscal podem não ser accionistas, mas devem ser pessoas singulares com capacidade jurídica plena, excepto se forem sociedades de advogados ou sociedades de revisores oficiais de contas.
+2 - O conselho fiscal deve incluir um revisor oficial de contas ou uma sociedade de revisores oficiais de contas, salvo se for adoptada a modalidade referida na alínea b) do n.º 1 do artigo anterior.
 
-3 - Não podem ser eleitos ou designados membros do conselho fiscal ou fiscal único:
+3 - Os restantes membros do conselho fiscal podem ser sociedades de advogados, sociedades de revisores oficiais de contas ou accionistas, mas neste último caso devem ser pessoas singulares com capacidade jurídica plena e devem ter as qualificações e a experiência profissional adequadas ao exercício das suas funções.
 
-a) Os beneficiários de vantagens particulares da própria sociedade;
+4 - Nos casos previstos na alínea a) do n.º 2 do artigo anterior, o conselho fiscal deve incluir pelo menos um membro que tenha curso superior adequado ao exercício das suas funções e conhecimentos em auditoria ou contabilidade e que seja independente.
 
-b) Os que exercem funções de administração da própria sociedade ou as exerceram nos últimos três anos;
+5 - Considera-se independente a pessoa que não esteja associada a qualquer grupo de interesses específicos na sociedade nem se encontre em alguma circunstância susceptível de afectar a sua isenção de análise ou de decisão, nomeadamente em virtude de:
 
-c) Os membros do órgão de administração de sociedade que se encontre em relação de domínio ou de grupo com a sociedade fiscalizada;
+a) Ser titular ou actuar em nome ou por conta de titulares de participação qualificada igual ou superior a 2% do capital social da sociedade;
 
-d) O sócio de sociedade em nome colectivo que se encontre em relação de domínio com a sociedade fiscalizada;
+b) Ter sido reeleita por mais de dois mandatos, de forma contínua ou intercalada.
 
-e) Os que prestem serviços remunerados com carácter permanente à sociedade fiscalizada ou sociedade que com esta se encontre em relação de domínio ou de grupo;
-
-f) Os que exerçam funções em empresa concorrente;
-
-g) Os cônjuges, parentes e afins na linha recta e até ao terceiro grau, inclusive, na linha colateral, de pessoas impedidas por força do disposto nas alíneas a), b), c), d) e f), bem como os cônjuges das pessoas abrangidas pelo disposto na alínea e);
-
-h) Os que exerçam funções de administração ou de fiscalização em cinco sociedades, exceptuando as sociedades de advogados, as sociedades de revisores oficiais de contas e os revisores oficiais de contas, aplicando-se a estes o regime do artigo 9.º do Decreto-Lei n.º 519-L2/79, de 29 de Dezembro;
-
-i) Os revisores oficiais de contas em relação aos quais se verifiquem outras incompatibilidades previstas na respectiva legislação;
-
-j) Os interditos, os inabilitados, os insolventes, os falidos e os condenados a pena que implique a inibição, ainda que temporária, do exercício de funções públicas.
-
-4 - A superveniência de algum dos motivos indicados no número anterior importa caducidade da designação.
-
-5 - É nula a designação de pessoa relativamente à qual se verifique alguma das incompatibilidades estabelecidas no n.º 3 ou que não possua a capacidade exigida pelo n.º 2.
-
-6 - A sociedade de revisores oficiais de contas que fizer parte do conselho fiscal deve designar até dois dos seus revisores para assistir às reuniões dos órgãos de fiscalização e de administração e da assembleia geral da sociedade fiscalizada.
-
-7 - A sociedade de advogados que fizer parte do conselho fiscal deve, para os efeitos do número anterior, designar um dos seus sócios.
-
-8 - Os revisores designados nos termos do n.º 6 e os sócios de sociedades de advogados, designados nos termos do n.º 7, ficam sujeitos às incompatibilidades previstas no n.º 3.
+6 - Em sociedades emitentes de acções admitidas à negociação em mercado regulamentado, o conselho fiscal deve ser composto por uma maioria de membros independentes.

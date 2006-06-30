@@ -2,7 +2,7 @@
 
 ### (Autorização judicial)
 
-1 - A redução do capital não pode ser consignada em escritura pública nem inscrita no registo comercial sem que primeiro a sociedade obtenha autorização judicial, nos termos do Código de Processo Civil.
+1 - A redução do capital não pode ser registada antes de a sociedade obter autorização judicial, nos termos do Código de Processo Civil.
 
 2 - A autorização judicial não deve ser concedida se a situação líquida da sociedade não ficar excedendo o novo capital em, pelo menos, 20%
 

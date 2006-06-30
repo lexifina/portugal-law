@@ -15,3 +15,5 @@ a) Os métodos seguidos na definição da relação de troca proposta;
 b) A justificação da aplicação ao caso concreto dos métodos utilizados pelo órgão de administração das sociedades ou pelos próprios revisores, os valores encontrados através de cada um desses métodos, a importância relativa que lhes foi conferida na determinação dos valores propostos e as dificuldades especiais com que tenham deparado nas avaliações a que procederam.
 
 5 - Cada um dos revisores pode exigir das sociedades participantes as informações e documentos que julgue necessários, bem como proceder aos exames indispensáveis ao cumprimento das suas funções.
+
+6 - O exame do projecto de fusão referido no n.º 2 pode ser dispensado por acordo de todos os sócios de cada uma das sociedades que participam na fusão.

@@ -2,7 +2,7 @@
 
 ### Perda de metade do capital
 
-1 - Resultando das contas de exercício ou de contas intercalares, tal como elaboradas pelo órgão de administração, que metade do capital social se encontra perdido, ou havendo em qualquer momento fundadas razões para admitir que essa perda se verifica, devem os gerentes convocar de imediato a assembleia geral ou os administradores ou directores requerer prontamente a convocação da mesma, a fim de nela se informar os sócios da situação e de estes tomarem as medidas julgadas convenientes.
+1 - Resultando das contas de exercício ou de contas intercalares, tal como elaboradas pelo órgão de administração, que metade do capital social se encontra perdido, ou havendo em qualquer momento fundadas razões para admitir que essa perda se verifica, devem os gerentes convocar de imediato a assembleia geral ou os administradores requerer prontamente a convocação da mesma, a fim de nela se informar os sócios da situação e de estes tomarem as medidas julgadas convenientes.
 
 2 - Considera-se estar perdida metade do capital social quando o capital próprio da sociedade for igual ou inferior a metade do capital social.
 
