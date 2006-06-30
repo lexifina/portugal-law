@@ -44,7 +44,7 @@ c) Terem sido titulares, gerentes ou administradores de um estabelecimento indiv
 
 9 - Para efeitos do disposto no n.º 4, o vendedor deve apresentar na Direcção-Geral do Turismo um requerimento instruído com os seguintes elementos:
 
-a) Certidão da escritura pública de constituição do estabelecimento individual de responsabilidade limitada, da cooperativa ou da sociedade comercial;
+a) Certidão do acto constitutivo do estabelecimento individual de responsabilidade limitada, da cooperativa ou da sociedade comercial;
 
 b) Certidão do registo comercial definitivo do estabelecimento individual de responsabilidade limitada, da cooperativa ou da sociedade comercial;
 
