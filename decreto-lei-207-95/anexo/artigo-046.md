@@ -12,7 +12,7 @@ a) A designação do dia, mês, ano e lugar em que for lavrado ou assinado e, qu
 
 b) O nome completo do funcionário que nele interveio, a menção da respectiva qualidade e a designação do cartório a que pertence;
 
-c) O nome completo, estado, naturalidade e residência habitual dos outorgantes, bem como das pessoas singulares por estes representadas, a identificação das sociedades nos termos da lei comercial e as denominações das demais pessoas colectivas que os outorgantes representem, com indicação das suas sedes;
+c) O nome completo, estado, naturalidade e residência habitual dos outorgantes, bem como das pessoas singulares por estes representadas, a identificação das sociedades, nos termos da lei comercial, e das demais pessoas colectivas que os outorgantes representem, com menção, quanto a estas últimas, das suas denominações, sedes e números de identificação de pessoa colectiva;
 
 d) A referência à forma como foi verificada a identidade dos outorgantes, das testemunhas instrumentárias e dos abonadores;
 
