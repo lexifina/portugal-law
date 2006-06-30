@@ -26,6 +26,8 @@ j) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal
 
 l) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal por quaisquer entidades que, no território português, realizem quaisquer outras operações abrangidas pela incidência do presente Código em regime de livre prestação de serviços.
 
+m) Conservadores e oficiais dos registos, em exclusivo, nos casos em que os actos referidos na verba n.º 26 da tabela anexa ao presente Código não revistam a forma de escritura pública.
+
 2 - Nas transmissões gratuitas, são sujeitos passivos do imposto as pessoas singulares para quem se transmitam os bens, sem prejuízo das seguintes regras:
 
 a) Nas sucessões por morte, o imposto é devido pela herança, representada pelo cabeça-de-casal, e pelos legatários;
