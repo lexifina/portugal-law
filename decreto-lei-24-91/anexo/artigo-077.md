@@ -10,7 +10,7 @@
 
 4 - Durante o período de intervenção, compete ao delegado da Caixa Central a orientação, supervisão e disciplina dos serviços, podendo fazer-se assistir por profissionais da sua escolha.
 
-5 - A nomeação do delegado bem como os respectivos poderes devem ser registados por averbamento à matrícula da caixa agrícola, sob pena de não produzirem efeitos relativamente a terceiros.
+5 - A nomeação do delegado, bem como os respectivos poderes, devem ser registados, sob pena de não produzirem efeitos relativamente a terceiros.
 
 6 - A designação do delegado da Caixa Central a que se refere o n.º 2 só poderá ser feita pelo prazo máximo de um ano, o qual, havendo motivo fundado, poderá ser prorrogado por igual período.
 

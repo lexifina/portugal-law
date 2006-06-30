@@ -12,7 +12,7 @@ c) A verificação dos factos previstos nos n.os 2 e 3 do artigo 79.º e 8 do ar
 
 2 - A deliberação de exclusão, tomada em assembleia geral da Caixa Central e de cuja convocatória deverá constar, será imediatamente comunicada ao Banco de Portugal para efeitos de averbamento no registo a que se refere o artigo 10.º
 
-3 - O Banco de Portugal providenciará ainda a publicação da deliberação de exclusão no Diário da República e a afixação de avisos nas instalações da caixa agrícola.
+3 - O Banco de Portugal deve promover a publicação da deliberação de exclusão, nos termos do n.º 1 do artigo 167.º do Código das Sociedades Comerciais, bem como a afixação de avisos nas instalações da caixa agrícola.
 
 4 - A exclusão só produzirá efeitos relativamente a terceiros após a publicação referida no número anterior.
 
