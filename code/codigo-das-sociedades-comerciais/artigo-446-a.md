@@ -1,4 +1,4 @@
-## Secção VI
+## Secção VII
 
 ## Secretário da sociedade
 

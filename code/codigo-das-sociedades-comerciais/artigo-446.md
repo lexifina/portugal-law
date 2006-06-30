@@ -1,4 +1,4 @@
-## Secção V
+## Secção VI
 
 ## Revisor oficial de contas
 

@@ -1,6 +1,6 @@
-## Secção IV
+## Secção V
 
-## Conselho geral
+## Conselho geral e de supervisão
 
 # Artigo 434.º
 
