@@ -1,0 +1,131 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=NcsHHdaa6jvttRWoxPJ73b3%2f2%2ftQZdxqvgcwR9HhU6U72YBnemmk1zfDnkyJC2khVisd94odYdzMlZ0%2f%2fX4wPsJ79iFJjtn07b3tBvqgQzvKu%2bXIs%2bW%2fX8sXyHLXgUpmADPU0OwIHExaxkaIGSH27FrUlMES%2fqZOhmEHSO3a6tOd8bMJIApMe8Js7ZDhWUXISToTI6Gt9UghhDLfWD%2bHtBCeQ2qHGcYyClLE8utG3Stl1XFXCi888QLjScx4CE8zDeHjIbAAJuoVAsMVPsZ7keNRSzw3mFkm%2f1dLA2Gj4Wi2z4QDYrHPqtV%2f0OYUVaYz3wUZej3UCuBc0xVIyPkQ5n1u3x%2bvYwtMviSRulY3%2bLc%3d&fich=AtividadesX_json.txt&Inline=true",
+  "ficheiro_sha256": "ebfe74c166306d899b60b6dc4babfc7d5533752981b0ad8bca289da158595cb6",
+  "legislatura": "X",
+  "tipo": "Voto",
+  "numero": "56",
+  "data_registo": "2006-07-05",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto pelo encerramento do campo prisional de Guantanamo",
+    "AutoresGP": [
+      "BE",
+      "Francisco Louçã (BE)",
+      "Ana Drago (BE)",
+      "Helena Pinto (BE)",
+      "Alda Macedo (BE)",
+      "João Semedo (BE)",
+      "Fernando Rosas (BE)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2006-07-06",
+    "DataAnuncio": null,
+    "DataEntrada": "2006-07-05",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "X",
+    "Numero": "56",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "360200",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-07-01",
+        "pubLeg": "X",
+        "pubNr": "50",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/050/2006-07-01/2?pgs=2&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "24048",
+        "obs": null,
+        "pag": [
+          "6594-6598"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-07-07",
+        "pubLeg": "X",
+        "pubNr": "144",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/144/2006-07-07/6594?pgs=6594-6598&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2006-07-06",
+        "descricao": "Pontos 1 e 3",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> 1-PS</I>",
+        "id": "49091",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "360742",
+            "obs": null,
+            "pag": [
+              "6598-6599"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-07-07",
+            "pubLeg": "X",
+            "pubNr": "144",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/144/2006-07-07/6598?pgs=6598-6599&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "142",
+        "tipoReuniao": null,
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2006-07-06",
+        "descricao": "Ponto 2",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>",
+        "id": "49092",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "142",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
