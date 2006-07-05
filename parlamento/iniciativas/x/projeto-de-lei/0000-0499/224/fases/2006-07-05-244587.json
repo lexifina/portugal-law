@@ -1,0 +1,823 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "224",
+    "id": "21197",
+    "titulo": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos."
+  },
+  "fase": "Votação especialidade decreto",
+  "codigo_fase": "480",
+  "data_registo": "2006-07-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5399",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "480",
+    "Comissao": null,
+    "DataFase": "2006-07-05",
+    "EvtId": "59",
+    "Fase": "Votação especialidade decreto",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "21197",
+        "leg": "X",
+        "nr": "224",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1154",
+            "obs": null,
+            "pag": [
+              "6510-6523"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-07-06",
+            "pubLeg": "X",
+            "pubNr": "143",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6510?pgs=6510-6523&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1154",
+            "obs": null,
+            "pag": [
+              "6510-6523"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-07-06",
+            "pubLeg": "X",
+            "pubNr": "143",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6510?pgs=6510-6523&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "21197",
+        "leg": "X",
+        "nr": "224",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1154",
+            "obs": null,
+            "pag": [
+              "6510-6523"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-07-06",
+            "pubLeg": "X",
+            "pubNr": "143",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6510?pgs=6510-6523&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1154",
+            "obs": null,
+            "pag": [
+              "6510-6523"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-07-06",
+            "pubLeg": "X",
+            "pubNr": "143",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6510?pgs=6510-6523&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2006-07-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1700",
+                "nome": "Vitalino Canas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162113",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6510-6511"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-07-06",
+                "pubLeg": "X",
+                "pubNr": "143",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6510?pgs=6510-6511&org=PLC"
+              }
+            ],
+            "sumario": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2126",
+                "nome": "Zita Seabra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162114",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6511-6513"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-07-06",
+                "pubLeg": "X",
+                "pubNr": "143",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6511?pgs=6511-6513&org=PLC"
+              }
+            ],
+            "sumario": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162115",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6513-6515",
+                  "6520-6521"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-07-06",
+                "pubLeg": "X",
+                "pubNr": "143",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6513?pgs=6513-6515,6520-6521&org=PLC"
+              }
+            ],
+            "sumario": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162116",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6515-6516",
+                  "6519-6519"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-07-06",
+                "pubLeg": "X",
+                "pubNr": "143",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6515?pgs=6515-6516,6519&org=PLC"
+              }
+            ],
+            "sumario": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162117",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6516-6517"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-07-06",
+                "pubLeg": "X",
+                "pubNr": "143",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6516?pgs=6516-6517&org=PLC"
+              }
+            ],
+            "sumario": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162118",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6517-6518"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-07-06",
+                "pubLeg": "X",
+                "pubNr": "143",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6517?pgs=6517-6518&org=PLC"
+              }
+            ],
+            "sumario": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1671",
+                "nome": "Maria de Belém Roseira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162119",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6519-6520"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-07-06",
+                "pubLeg": "X",
+                "pubNr": "143",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6519?pgs=6519-6520&org=PLC"
+              }
+            ],
+            "sumario": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2126",
+                "nome": "Zita Seabra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162120",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6521-6521"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-07-06",
+                "pubLeg": "X",
+                "pubNr": "143",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6521?pgs=6521&org=PLC"
+              }
+            ],
+            "sumario": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162121",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6521-6522"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-07-06",
+                "pubLeg": "X",
+                "pubNr": "143",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6521?pgs=6521-6522&org=PLC"
+              }
+            ],
+            "sumario": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162122",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6522-6522"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-07-06",
+                "pubLeg": "X",
+                "pubNr": "143",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6522?pgs=6522&org=PLC"
+              }
+            ],
+            "sumario": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1700",
+                "nome": "Vitalino Canas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "162123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6523-6523"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-07-06",
+                "pubLeg": "X",
+                "pubNr": "143",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6523?pgs=6523&org=PLC"
+              }
+            ],
+            "sumario": "Lei da Paridade: Estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as Autarquias Locais, são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Segunda deliberação do Decreto n.º 52/X",
+    "OevId": "244587",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "360470",
+        "obs": null,
+        "pag": [
+          "6523-6525"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-07-06",
+        "pubLeg": "X",
+        "pubNr": "143",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/143/2006-07-06/6523?pgs=6523-6525&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2006-07-05",
+        "descricao": "Proposta de alteração do n.º 4 do artigo 2.º, apresentada pelo PS",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> PEV</I>, <I> PCP</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>",
+        "id": "49072",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "141",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2006-07-05",
+        "descricao": "Proposta de aditamento de um artigo 7.º, apresentada pelo PS",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> PEV</I>, <I> PCP</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>",
+        "id": "49079",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "141",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2006-07-05",
+        "descricao": "Proposta de aditamento de um artigo 8º, apresentada pelo PS",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> PEV</I>, <I> PCP</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>",
+        "id": "49080",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "141",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2006-07-05",
+        "descricao": "Proposta de alteração do artigo 3.º, apresentada pelo BE",
+        "detalhe": "A Favor: <I>BE</I><BR>Contra:<I>PSD</I>, <I> PEV</I>, <I> PCP</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>",
+        "id": "49073",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "141",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2006-07-05",
+        "descricao": "Proposta de alteração do artigo 3.º, apresentada pelo PS",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> PEV</I>, <I> PCP</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>",
+        "id": "49074",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "141",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2006-07-05",
+        "descricao": "Proposta de aditamento de um artigo 4.º, apresentada pelo BE",
+        "detalhe": "A Favor: <I>BE</I><BR>Contra:<I>PSD</I>, <I> PEV</I>, <I> PCP</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>",
+        "id": "49075",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "141",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2006-07-05",
+        "descricao": "Proposta de aditamento de um artigo 4.º, apresentada pelo PS",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> PEV</I>, <I> PCP</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>",
+        "id": "49076",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "141",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2006-07-05",
+        "descricao": "Proposta de aditamento de um artigo 5.º, apresentada pelo PS",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> PEV</I>, <I> PCP</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>",
+        "id": "49077",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "141",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2006-07-05",
+        "descricao": "Proposta de aditamento de um artigo 6.º, apresentada pelo PS",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> PEV</I>, <I> PCP</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>",
+        "id": "49078",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "141",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
