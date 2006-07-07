@@ -1,0 +1,3 @@
+# Artigo único
+
+A contratação por entidades de natureza privada e pelas entidades administradoras dos baldios, como tal considerados pela Lei n.º 68/93, de 4 de Setembro, de empreitadas destinadas à execução de todos os projectos de investimento enquadrados no 3.º Quadro Comunitário de Apoio, no âmbito do sector agrícola e do desenvolvimento rural, não está sujeita ao regime previsto no Decreto-Lei n.º 59/99, de 2 de Março, sempre que o seu valor estimado, sem imposto sobre o valor acrescentado (IVA), for inferior a (euro) 5278000, conforme consagrado na Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março, com as alterações introduzidas pelo Regulamento (CE) n.º 2083/2005, de 19 de Dezembro, para os contratos de empreitada de obras públicas.
