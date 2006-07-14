@@ -1,0 +1,6 @@
+Declaração de Rectificação n.º 42/2006
+Segundo comunicação do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, a Portaria n.º 455/2006, publicada no Diário da República, 1.ª série, n.º 93, de 15 de Maio de 2006, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+1 - No primeiro parágrafo, onde se lê «no n.º 4 do artigo 10.º da Portaria n.º 1071/2000, de 29 de Outubro,» deve ler-se «no n.º 4 do artigo 10.º da Portaria n.º 1071/2000, de 7 de Novembro,».
+2 - No n.º 1.º, onde se lê «O n.º 4 do artigo 10.º do Regulamento do Regime de Apoio à Modernização das Embarcações de Pesca, anexo à Portaria n.º 1071/2000, de 20 de Outubro,» deve ler-se «O n.º 4 do artigo 10.º do Regulamento do Regime de Apoio à Modernização das Embarcações de Pesca, anexo à Portaria n.º 1071/2000, de 7 de Novembro,».
+3 - No n.º 2.º, onde se lê «O disposto no n.º 4 do artigo 10.º do Regulamento do Regime de Apoio à Modernização das Embarcações de Pesca, anexo à Portaria n.º 1071/2000, de 20 de Outubro,» deve ler-se «O disposto no n.º 4 do artigo 10.º do Regulamento do Regime de Apoio à Modernização das Embarcações de Pesca, anexo à Portaria n.º 1071/2000, de 7 de Novembro,».
+Secretaria-Geral da Presidência do Conselho de Ministros, em 11 de Julho de 2006. - O Secretário-Geral, José M. Sousa Rego.
