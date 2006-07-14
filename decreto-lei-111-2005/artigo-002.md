@@ -1,7 +1,3 @@
-## Capítulo I
-
-## Regime especial de constituição imediata de sociedades
-
 # Artigo 2.º
 
 ### Âmbito
