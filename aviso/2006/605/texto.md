@@ -1,0 +1,13 @@
+Aviso n.º 605/2006
+Por ordem superior se torna público que, por notificação datada de 30 de Dezembro de 2005, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter o Canadá realizado uma declaração com informações adicionais referentes à Convenção relativa à Protecção das Crianças e à Cooperação em Matéria de Adopção Internacional, adoptada na Haia em 29 de Maio de 1993.
+A declaração é a seguinte:
+«The Government of Canada also declares, in accordance with article 22.4, the adoptions of children habitually resident in Quebec may only take place if the functions of the Central Authorities are performed by public authorities or by bodies accredited under chapter III.
+The Government of Canada also declares, in accordance with article 25, that adoptions made in accordance with an agreement concluded by application of article 39, paragraph 2, will not be bound to be recognized in Quebec under the Convention.»
+«Le gouvernement du Canada déclare également, en vertu de l'article 22.4, que les adoptions d'enfants dont la résidence habituelle est située au Québec ne peuvent avoir lieu que si les fonctions conférées aux Autorités centrales sont exercées par des autorités publiques ou par des organisations agréés conformément au chapitre III.
+Le gouvernement du Canada déclare également, en vertu de l'article 25, que les adoptions faites conformément à un accord conclu en application de l'article 39, paragraphe 2, n'auront pas à être reconnues au Québec en vertu de la Convention.»
+Tradução
+O Governo do Canadá declara igualmente, em virtude do artigo 22.º, n.º 4, que as adopções de crianças cuja residência habitual se situa no Quebec não ocorrerão sem que funções conferidas às Autoridades Centrais sejam exercidas pelas autoridades públicas ou por organismos acreditados de acordo com o capítulo III.
+O Governo do Canadá declara igualmente, em virtude do artigo 25.º, que as adopções feitas através de um acordo concluído em aplicação do artigo 39.º, parágrafo 2.º, não serão reconhecidas no Quebec em virtude da Convenção.
+A República Portuguesa é Parte na Convenção, a qual foi aprovada para ratificação pela Resolução da Assembleia da República n.º 8/2003 e ratificada pelo Decreto do Presidente da República n.º 6/2003, ambos publicados no Diário da República, 1.ª série-A, n.º 47, de 25 de Fevereiro de 2003.
+O instrumento de ratificação foi depositado em 19 de Março de 2004, estando a Convenção em vigor para a República Portuguesa desde 1 de Julho de 2004, conforme o Aviso n.º 110/2004, publicado no Diário da República, 1.ª série-A, n.º 130, de 3 de Junho de 2004.
+Departamento de Assuntos Jurídicos, 3 de Julho de 2006. - O Director, Luís Serradas Tavares.
