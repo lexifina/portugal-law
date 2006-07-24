@@ -1,0 +1,9 @@
+Despacho normativo n.º 4/2006
+O Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, estabeleceu as regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e instituiu determinados regimes de apoio aos agricultores, incluindo o regime de pagamento único que tem vindo a integrar faseadamente os diversos sectores.
+Deste modo, em 20 de Fevereiro de 2006, foi publicado o Regulamento (CE) n.º 319/2006, do Conselho, que determinou a integração do sector do açúcar no regime do pagamento único, e, em 27 de Abril de 2006, foram estabelecidas as respectivas normas de execução através do Regulamento (CE) n.º 658/2006, da Comissão, que alterou o Regulamento (CE) n.º 795/2004, de 21 de Abril, que estabelece as normas de execução do regime do pagamento único.
+Neste contexto, e nos termos do disposto no artigo 71.º do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, passou a ser possível aos Estados membros optarem pela integração do sector do açúcar no regime do pagamento único ainda durante o ano 2006.
+Assim, ao abrigo do disposto nos artigos 69.º e 71.º do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, determina-se o seguinte:
+1.º O regime de apoio no sector do açúcar considera-se integrado no regime de pagamento único desde 1 de Janeiro de 2006.
+2.º A retenção para efeitos de pagamento complementar é de 10% dos montantes estabelecidos no quadro n.º 1 do n.º 2 e no quadro n.º 2 do n.º 3 do ponto K) do anexo VII do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro.
+3.º Para além da retenção mencionada no n.º 2, são ainda retidos 90% dos montantes estabelecidos no quadro n.º 2 do n.º 3 do ponto K) do anexo VII do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro.
+29 de Junho de 2006. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
