@@ -1,0 +1,486 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11474",
+  "numero": "151",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2006-07-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2007-02-28",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2006-09-06",
+        "DataArquivo": "2007-02-28",
+        "DataBaixaComissao": "2006-07-26",
+        "DataEnvioPAR": "2007-03-28",
+        "DataReaberta": "2006-09-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2006-07-26",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c32566b5a54426a4f4455354c546778595749744e4441354e6931684e4759794c575a6c5a5449345a544e6c597a4d314f4335775a47593d&fich=ede0c859-81ab-4096-a4f2-fee28e3ec358.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2006-07-26",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3249314e3245795957566c4c546b7a4d4749744e445269595331684d6a51314c57526b4f5467304e5459334e444930596935775a47593d&fich=b57a2aee-930b-44ba-a245-dd984567424b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "243",
+        "Legislatura": "X",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2006-09-06",
+            "gp": "PS",
+            "id": "148",
+            "motivoCessacao": null,
+            "nome": "Marques Júnior"
+          }
+        ],
+        "RelatorioFinal": [
+          "22064"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2007-03-30",
+    "Documentos": [
+      {
+        "DataDocumento": "2006-07-26",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396c4e6d5a6b593255314e4330315a54466a4c54526d4e574574596a5a6d5a6930335a6d59334d7a59795a4751344f4455756347526d&fich=e6fdce54-5e1c-4f5a-b6ff-7ff7362dd885.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2007-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "164586",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-03-31",
+                "pubLeg": "X",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/067/2007-03-31/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento Cívico \"Não Apaguem a Memória\" solicita a criação de um espaço público nacional de preservação e divulgação pedagógica da memória colectiva sobre os crimes do chamado Estado Novo e a resistência à ditadura, condena a conversão do edifício da sede da PIDE/DGS em condomínio fechado, e apela a todos os cidadãos e organizações para preservarem, de modo duradouro, a memória colectiva dos combates pela democracia e pela liberdade em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "164587",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-03-31",
+                "pubLeg": "X",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/067/2007-03-31/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento Cívico \"Não Apaguem a Memória\" solicita a criação de um espaço público nacional de preservação e divulgação pedagógica da memória colectiva sobre os crimes do chamado Estado Novo e a resistência à ditadura, condena a conversão do edifício da sede da PIDE/DGS em condomínio fechado, e apela a todos os cidadãos e organizações para preservarem, de modo duradouro, a memória colectiva dos combates pela democracia e pela liberdade em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "164588",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-03-31",
+                "pubLeg": "X",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/067/2007-03-31/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento Cívico \"Não Apaguem a Memória\" solicita a criação de um espaço público nacional de preservação e divulgação pedagógica da memória colectiva sobre os crimes do chamado Estado Novo e a resistência à ditadura, condena a conversão do edifício da sede da PIDE/DGS em condomínio fechado, e apela a todos os cidadãos e organizações para preservarem, de modo duradouro, a memória colectiva dos combates pela democracia e pela liberdade em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "164589",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-03-31",
+                "pubLeg": "X",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/067/2007-03-31/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento Cívico \"Não Apaguem a Memória\" solicita a criação de um espaço público nacional de preservação e divulgação pedagógica da memória colectiva sobre os crimes do chamado Estado Novo e a resistência à ditadura, condena a conversão do edifício da sede da PIDE/DGS em condomínio fechado, e apela a todos os cidadãos e organizações para preservarem, de modo duradouro, a memória colectiva dos combates pela democracia e pela liberdade em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "164590",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-03-31",
+                "pubLeg": "X",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/067/2007-03-31/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento Cívico \"Não Apaguem a Memória\" solicita a criação de um espaço público nacional de preservação e divulgação pedagógica da memória colectiva sobre os crimes do chamado Estado Novo e a resistência à ditadura, condena a conversão do edifício da sede da PIDE/DGS em condomínio fechado, e apela a todos os cidadãos e organizações para preservarem, de modo duradouro, a memória colectiva dos combates pela democracia e pela liberdade em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "164591",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-03-31",
+                "pubLeg": "X",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/067/2007-03-31/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento Cívico \"Não Apaguem a Memória\" solicita a criação de um espaço público nacional de preservação e divulgação pedagógica da memória colectiva sobre os crimes do chamado Estado Novo e a resistência à ditadura, condena a conversão do edifício da sede da PIDE/DGS em condomínio fechado, e apela a todos os cidadãos e organizações para preservarem, de modo duradouro, a memória colectiva dos combates pela democracia e pela liberdade em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "Augusto Santos Silva"
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "164592",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-03-31",
+                "pubLeg": "X",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/067/2007-03-31/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento Cívico \"Não Apaguem a Memória\" solicita a criação de um espaço público nacional de preservação e divulgação pedagógica da memória colectiva sobre os crimes do chamado Estado Novo e a resistência à ditadura, condena a conversão do edifício da sede da PIDE/DGS em condomínio fechado, e apela a todos os cidadãos e organizações para preservarem, de modo duradouro, a memória colectiva dos combates pela democracia e pela liberdade em Portugal",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11474",
+    "PetAssunto": "Reclamam a criação de um espaço público nacional de preservação e divulgação pedagógica da memória colectiva sobre os crimes do chamado Estado Novo e a resistência à ditadura, condenam a conversão do edifício da sede da PIDE/DGS em condomínio fechado e apelam a todos os cidadãos e organizações para preservarem, de modo duradouro, a memória colectiva dos combates pela democracia e pela liberdade em Portugal.",
+    "PetDataEntrada": "2006-07-26",
+    "PeticoesAssociadas": null,
+    "PetId": "11474",
+    "PetLeg": "X",
+    "PetNr": "151",
+    "PetNrAssinaturas": "4811",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "215",
+        "obs": null,
+        "pag": [
+          "23-31"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-03-31",
+        "pubLeg": "X",
+        "pubNr": "67",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/067/2007-03-31/23?pgs=23-31&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "371491",
+        "obs": null,
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-09-14",
+        "pubLeg": "X",
+        "pubNr": "56",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/056/2006-09-14/3?pgs=3&org=PLC"
+      }
+    ]
+  }
+}
