@@ -1,0 +1,505 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11477",
+  "numero": "154",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2006-07-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2007-02-15",
+            "dataResposta": "2007-04-02",
+            "entidades": [
+              "Ministro das Obras Públicas, Transportes e Comunicações"
+            ],
+            "nrOficio": "67/9ªCOPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454d765247396a6457316c626e52766331426c64476c6a595738764d5749774d44646c4d7a6b744e7a59324d5330304d3251344c5468684f446b745a6a6b78596d59345a57466d4d474d314c6e426b5a673d3d&fich=1b007e39-7661-43d8-8a89-f91bf8eaf0c5.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2007-07-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2006-09-19",
+        "DataArquivo": "2007-07-03",
+        "DataBaixaComissao": "2006-09-19",
+        "DataEnvioPAR": "2007-07-03",
+        "DataReaberta": "2006-09-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2006-07-27",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454d765247396a6457316c626e52766331426c64476c6a595738765a5759774e5467775a546774596a4e695a4330304f4751334c54686c596a59745a6a6b7a4d4459335a4759354e5456684c6e426b5a673d3d&fich=ef0580e8-b3bd-48d7-8eb6-f93067df955a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2006-07-27",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454d765247396a6457316c626e52766331426c64476c6a595738764d5749774d44646c4d7a6b744e7a59324d5330304d3251344c5468684f446b745a6a6b78596d59345a57466d4d474d314c6e426b5a673d3d&fich=1b007e39-7661-43d8-8a89-f91bf8eaf0c5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2006-07-27",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454d765247396a6457316c626e52766331426c64476c6a595738764d6a64695954566a4e4445745a6a686b5a5330304e7a597a4c57466a5a545574596a6c6a5a6a4e6a4d7a41324e6a52684c6e426b5a673d3d&fich=27ba5c41-f8de-4763-ace5-b9cf3c30664a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "251",
+        "Legislatura": "X",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2006-09-19",
+            "gp": "PSD",
+            "id": "52",
+            "motivoCessacao": null,
+            "nome": "Fernando Santos Pereira"
+          }
+        ],
+        "RelatorioFinal": [
+          "22067"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2007-09-28",
+    "Documentos": [
+      {
+        "DataDocumento": "2006-07-27",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379383359575268596a6b784e4330354e6a49354c54526b4f5467744f47526c5a533035596d45305a6d4e6b4e474a6b4e4749756347526d&fich=7adab914-9629-4d98-8dee-9ba4fcd4bd4b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2007-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "Augusto Santos Silva"
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165975",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28",
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-09-29",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/006/2007-09-29/28?pgs=28,32&org=PLC"
+              }
+            ],
+            "Sumario": "A Comissão de utentes da Ponte Eiffel solicita que se adoptem medidas que levem ao recomeço das obras na referida ponte",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165976",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-09-29",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/006/2007-09-29/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "A Comissão de utentes da Ponte Eiffel solicita que se adoptem medidas que levem ao recomeço das obras na referida ponte",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165977",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-09-29",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/006/2007-09-29/29?pgs=29&org=PLC"
+              }
+            ],
+            "Sumario": "A Comissão de utentes da Ponte Eiffel solicita que se adoptem medidas que levem ao recomeço das obras na referida ponte",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165978",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30",
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-09-29",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/006/2007-09-29/29?pgs=29-30,32&org=PLC"
+              }
+            ],
+            "Sumario": "A Comissão de utentes da Ponte Eiffel solicita que se adoptem medidas que levem ao recomeço das obras na referida ponte",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165979",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-09-29",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/006/2007-09-29/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "A Comissão de utentes da Ponte Eiffel solicita que se adoptem medidas que levem ao recomeço das obras na referida ponte",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165980",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-09-29",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/006/2007-09-29/31?pgs=31&org=PLC"
+              }
+            ],
+            "Sumario": "A Comissão de utentes da Ponte Eiffel solicita que se adoptem medidas que levem ao recomeço das obras na referida ponte",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165981",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-09-29",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/006/2007-09-29/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "A Comissão de utentes da Ponte Eiffel solicita que se adoptem medidas que levem ao recomeço das obras na referida ponte",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11477",
+    "PetAssunto": "Sobre a interrupção das obras na Ponte Eiffel em Viana do Castelo.",
+    "PetDataEntrada": "2006-07-27",
+    "PeticoesAssociadas": null,
+    "PetId": "11477",
+    "PetLeg": "X",
+    "PetNr": "154",
+    "PetNrAssinaturas": "4800",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "228",
+        "obs": null,
+        "pag": [
+          "28-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-09-29",
+        "pubLeg": "X",
+        "pubNr": "6",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/006/2007-09-29/28?pgs=28-32&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "386356",
+        "obs": null,
+        "pag": [
+          "3-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-01-06",
+        "pubLeg": "X",
+        "pubNr": "16",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/02/016/2007-01-06/3?pgs=3-4&org=PLC"
+      }
+    ]
+  }
+}
