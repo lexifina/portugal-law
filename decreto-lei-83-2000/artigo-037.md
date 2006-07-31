@@ -2,7 +2,7 @@
 
 ### Emissão
 
-A emissão do passaporte para estrangeiros incumbe:
+A concessão e emissão de passaporte para estrangeiros incumbe:
 
 a) Em território nacional, ao SEF/MAI;
 

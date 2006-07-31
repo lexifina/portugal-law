@@ -2,12 +2,12 @@
 
 ### Cancelamento e apreensão
 
-1 - O titular do passaporte perdido, destruído, furtado ou extraviado deve comunicar imediatamente tal facto à entidade emissora, para efeitos de cancelamento e apreensão.
+1 - O titular do passaporte destruído, furtado ou extraviado deve comunicar imediatamente tal facto à autoridade mais próxima ou à autoridade responsável pela concessão, para efeitos de cancelamento e apreensão.
 
-2 - Os representantes legais de menores e incapazes podem requerer à entidade emitente o cancelamento e a apreensão de passaporte emitido a favor daqueles.
+2 - Os representantes legais de menores e incapazes podem requerer à entidade concedente o cancelamento e a apreensão de passaporte emitido a favor daqueles.
 
-3 - A entidade emitente solicitará às autoridades de fronteira que procedam à apreensão do passaporte a que se referem os n.os 1 e 2 do presente artigo.
+3 - A entidade competente para a concessão comunica às autoridades de fronteira o pedido de apreensão do passaporte a que se referem os números anteriores.
 
-4 - As autoridades consulares, quando solicitadas a custear a repatriação de nacionais portadores de passaporte, farão a retenção deste, que apenas será restituído no destino, após pagamento dos encargos ocasionados ao Estado.
+4 - As autoridades consulares, quando solicitadas a custear a repatriação de nacionais portadores de passaporte, procedem à retenção deste, que apenas é restituído no destino após o pagamento dos encargos suportados pelo Estado.
 
-5 - Na situação prevista no número anterior, o repatriado regressará a Portugal munido de título de viagem única.
+5 - Na situação prevista no número anterior, o repatriado regressa a Portugal munido de passaporte temporário.

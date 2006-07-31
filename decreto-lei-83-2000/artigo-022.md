@@ -1,11 +1,11 @@
 # Artigo 22.º
 
-### Prazos de emissão
+### Da emissão
 
-1 - O prazo para a emissão do passaporte comum é de oito dias úteis, contados da data de entrega do requerimento devidamente instruído.
+1 - A emissão do passaporte electrónico português, abrangendo as suas produção, personalização e remessa, compete à INCM.
 
-2 - As entidades emitentes devem, sempre que possível, emitir o passaporte em prazo inferior ao previsto no número anterior.
+2 - O prazo para a entrega do passaporte electrónico é de seis dias úteis contados da data de emissão do comprovativo do deferimento do pedido de concessão.
 
-3 - Em casos de urgência, as entidades emitentes podem, a solicitação do particular, estabelecer prazo mais curto do que o previsto no n.º 1, cobrando, adicionalmente, as taxas de urgência que constem da tabela a aprovar pela portaria conjunta prevista no n.º 2 do artigo 10.º do presente diploma.
+3 - A entidade emitente deve, sempre que possível, emitir o passaporte em prazo inferior ao previsto no número anterior.
 
-4 - Consideram-se indeferidos, para efeitos de impugnação, os requerimentos cuja decisão não for comunicada ao particular no prazo de 15 dias úteis, contados da data de entrega, nos termos do n.º 1 deste artigo.
+4 - Em casos de urgência, a entidade emitente pode, a solicitação do requerente, assegurar prazo mais curto do que o previsto no n.º 1, sendo cobradas, adicionalmente, taxas de urgência.

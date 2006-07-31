@@ -4,15 +4,15 @@
 
 1 - São competentes para a concessão e emissão do passaporte temporário, com a possibilidade de delegação e subdelegação:
 
-a) O presidente do conselho diretivo do IRN, I. P.;
+a) Os governadores civis;
 
 b) Os governos regionais, através do secretário regional competente, nos termos das respectivas leis orgânicas;
 
 c) As autoridades consulares portuguesas declaradas competentes para o efeito pelo Ministro dos Negócios Estrangeiros;
 
-d) (Revogada);
+d) O Centro Emissor para a Rede Consular do Ministério dos Negócios Estrangeiros;
 
-e) (Revogada.)
+e) O Serviço de Estrangeiros e Fronteiras.
 
 2 - As condições de emissão do passaporte temporário, que revestem sempre carácter excepcional, devem ser devidamente fundamentadas, designadamente nos casos em que se verifique comprovada urgência na emissão de um documento de viagem individual e se verifique:
 

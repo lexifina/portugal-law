@@ -1,17 +1,13 @@
 # Artigo 10.º
 
-### Custos de emissão
+### Custos de concessão
 
-1 - A emissão dos passaportes diplomático e especial é isenta de quaisquer encargos para os destinatários, sendo os custos dos respectivos impressos suportados pelos serviços a que aqueles pertençam.
+1 - A concessão dos passaportes diplomático e especial é isenta de quaisquer encargos para os titulares, sendo os respectivos custos suportados pelas entidades que os requeiram.
 
-2 - Em território português, as taxas a cobrar relativamente ao passaporte comum são estabelecidas por portaria conjunta dos Ministros das Finanças e da Administração Interna.
+2 - O sistema de gestão e de cobrança de taxas devidas relativamente ao passaporte comum bem como os montantes aplicáveis são estabelecidos por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna, dos negócios estrangeiros, das finanças e da Administração Pública, que fixa igualmente as regras de afectação das receitas decorrentes das taxas.
 
-3 - No estrangeiro, as taxas devidas são as previstas na Tabela de Emolumentos Consulares.
+3 - As taxas de concessão constituem receitas consignadas à despesa, revertendo o produto das mesmas para as entidades competentes para a concessão e para a entidade responsável pela gestão do sistema de informação do passaporte electrónico português (SIPEP) na proporção fixada pela portaria referida no número anterior.
 
-4 - As taxas de emissão constituem receitas consignadas à despesa, revertendo o produto das mesmas em 80% para as entidades emitentes e em 20% para a entidade responsável pela Base de Dados de Emissão dos Passaportes (BADEP).
+4 - No estrangeiro, as taxas devidas decorrem do disposto no número anterior e do previsto na tabela de emolumentos consulares.
 
-5 - Adicionalmente às taxas referidas neste artigo, são cobradas as taxas referidas em legislação própria relativa ao Fundo de Socorro Social.
-
-6 - O produto da venda dos impressos do passaporte e do título de viagem única, emitidos pelos serviços consulares, constitui receita do Estado.
-
-7 - O produto das taxas de emissão e adicionais que forem cobrados por terceiras entidades será entregue por meio de guia até ao dia 10 do mês seguinte ao da cobrança.
+5 - O produto da venda dos impressos do passaporte temporário e do título de viagem única, emitidos pelos serviços consulares e demais entidades competentes, constitui receita do Estado.

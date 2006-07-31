@@ -28,6 +28,10 @@ b) Pessoas expressamente incumbidas pelo Estado Português de missão de serviç
 
 c) Funcionários dos quadros de pessoal do Ministério dos Negócios Estrangeiros, quando, em missão de serviço público, não tenham direito à emissão do passaporte diplomático;
 
-d) Vice-cônsules e cônsules honorários, quando de nacionalidade portuguesa.
+d) Funcionários de nacionalidade portuguesa, desde que não tenham a nacionalidade do país onde exercem funções, do quadro único de vinculação dos serviços externos do Ministério dos Negócios Estrangeiros, quando não tenham direito à emissão de passaporte diplomático;
 
-3 - A concessão do passaporte especial pode ser extensível ao cônjuge e filhos menores, quando viajem na companhia do seu titular.
+e) Pessoal de nacionalidade portuguesa, desde que não tenha a nacionalidade do país onde exercem funções, que integra o quadro único de contratação dos serviços externos do Ministério dos Negócios Estrangeiros, sempre que por imposição das autoridades locais do país em que residam tal se torne efectivamente indispensável ao exercício das respectivas funções, ou à sua correspondente acreditação local;
+
+f) Cônsules honorários quando de nacionalidade portuguesa, desde que não tenham a nacionalidade do país onde exercem funções.
+
+3 - A concessão do passaporte especial pode ser extensível ao cônjuge e filhos menores, quando viajem na companhia do seu titular e possuam nacionalidade portuguesa.
