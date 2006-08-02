@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros n.º 93/2006
+Em 24 de Julho de 2001, ao abrigo do regime contratual de investimento estrangeiro, foi celebrado, entre o Estado Português e o Grupo Saint-Gobain, um contrato de investimento que teve por objecto a expansão e modernização da unidade fabril da Saint-Gobain Mondego, S. A., localizada na Figueira da Foz, para a produção de vidro de embalagens para a indústria de bebidas e alimentar.
+A esta opção de investimento estiveram subjacentes as previsões do Grupo Saint-Gobain quanto ao aumento significativo da procura daquele produto, a partir de 2004, o que permitiria absorver o excesso de capacidade instalada na Europa e tornaria viável o acréscimo de capacidade da fábrica em Portugal, que passaria, em 2005, a operar com três fornos.
+No entanto, a subsequente evolução negativa da conjuntura económica na Europa, com a estagnação da maior parte dos mercados do lado da procura, agravada ainda nos dois últimos anos, determinou uma alteração da estratégia do Grupo Saint-Gobain que presidiu à celebração do referido contrato e inviabilizou a execução do projecto de investimento em causa.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar a resolução do contrato de investimento e respectivos anexos, aprovado pela Resolução do Conselho de Ministros n.º 92/2001, de 9 de Agosto, e assinado em 24 de Julho de 2001, entre o Estado Português, a Saint-Gobain Emballage, S. A., a Saint Gobain Vicasa, S. A., e a Vidreira do Mondego, S. A., actualmente denominada Saint-Gobain Mondego, S. A.
+2 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 13 de Julho de 2006. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
