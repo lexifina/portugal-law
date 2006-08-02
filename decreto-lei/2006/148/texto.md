@@ -1,0 +1,100 @@
+Decreto-Lei n.º 148/2006
+de 1 de Agosto
+O Programa de Simplificação Administrativa e Legislativa (SIMPLEX), aprovado pelo XVII Governo Constitucional, tem como objectivo, entre outros, dispensar as empresas de formalidades que actualmente se exigem para o exercício de uma actividade, quando se conclua que as mesmas são inúteis.
+No caso das empresas exploradoras de empreendimentos turísticos, máxime de estabelecimentos hoteleiros, em que se exige, para o exercício da actividade, a figura do director de hotel, o Decreto-Lei n.º 271/82, de 13 de Julho, prevê a existência de um registo na Direcção-Geral do Turismo (DGT) onde se devem inscrever todos os profissionais com as qualificações e habilitações exigidas para o desempenho dos cargos de director, subdirector e assistente de direcção de hotel.
+Tal norma legal determina que, ainda que o profissional em causa reúna os requisitos exigidos em termos de formação e habilitações, não poderá exercer as suas funções sem que esteja registado na DGT, prevendo-se mesmo coimas para as entidades que empreguem directores, subdirectores e assistentes de direcção de hotel que não figurem em tal registo.
+Uma das medidas constantes do Programa SIMPLEX é precisamente a eliminação da obrigatoriedade de registo dos directores de hotéis na DGT, uma vez que se concluiu que tal formalidade era inútil.
+Com efeito, exigindo-se para o exercício dos mencionados cargos determinadas qualificações, basta que as empresas, ao comunicarem à DGT os nomes dos funcionários que contratem, juntem cópia dos comprovativos das respectivas habilitações.
+Do mesmo modo, afigura-se desnecessária a comunicação à DGT da cessação definitiva do exercício de funções de directores, subdirectores e assistentes de direcção de hotel, pelo que se procede também à revogação do preceito que prevê tal obrigação.
+Aproveita-se ainda a presente iniciativa legislativa para revogar o artigo 12.º do Decreto-Lei n.º 271/82, de 13 de Julho, que remete para despacho do Secretário de Estado do Turismo o esclarecimento das dúvidas resultantes da aplicação de tal diploma, porquanto o referido preceito colide com o disposto no n.º 5 do artigo 112.º da Constituição.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Alteração ao Decreto-Lei n.º 271/82, de 13 de Julho
+Os artigos 1.º e 2.º do Decreto-Lei n.º 271/82, de 13 de Julho, passam a ter a seguinte redacção:
+«Artigo 1.º
+[...]
+Nos termos do presente diploma, são considerados director, subdirector de hotel e assistente de direcção de hotel os profissionais que satisfaçam as condições previstas no artigo 4.º
+Artigo 2.º
+Licença ou autorização de utilização turística
+1 - ...
+2 - ...
+3 - A nomeação definitiva de directores, subdirectores e assistentes de direcção de hotel deverá ser comunicada à Direcção-Geral do Turismo pela respectiva empresa no prazo de 15 dias, juntando comprovativo das habilitações legalmente exigidas para o exercício de tais cargos.»
+Artigo 2.º
+Norma revogatória
+São revogados os artigos 5.º, 8.º, 9.º, 10.º, 11.º, 12.º e 14.º do Decreto-Lei n.º 271/82, de 13 de Julho.
+Artigo 3.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Artigo 4.º
+Republicação
+É republicado, em anexo, que é parte integrante do presente decreto-lei, o Decreto-Lei n.º 271/82, de 13 de Julho, com a redacção actual.
+Visto e aprovado em Conselho de Ministros de 29 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - Manuel António Gomes de Almeida de Pinho.
+Promulgado em 19 de Julho de 2006.
+Publique-se.
+O Presidente da República, ANÍBAL CAVACO SILVA.
+Referendado em 24 de Julho de 2006.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+ANEXO
+(a que se refere o artigo 4.º)
+Republicação do Decreto-Lei n.º 271/82, de 13 de Julho
+Artigo 1.º
+Âmbito
+Nos termos do presente diploma, são considerados director, subdirector de hotel e assistente de direcção de hotel os profissionais que satisfaçam as condições previstas no artigo 4.º
+Artigo 2.º
+Licença ou autorização de utilização turística
+1 - O director de hotel será designado livremente pela administração do estabelecimento de entre os profissionais que satisfaçam as condições previstas no presente diploma.
+2 - O director de hotel poderá ser coadjuvado, no exercício das suas funções, por subdirectores de hotel e assistentes de direcção de hotel, designados livremente pela administração do estabelecimento de entre os profissionais habilitados nos termos do presente diploma.
+3 - A nomeação definitiva de directores, subdirectores e assistentes de direcção de hotel deverá ser comunicada à Direcção-Geral do Turismo pela respectiva empresa no prazo de 15 dias, juntando comprovativo das habilitações legalmente exigidas para o exercício de tais cargos.
+Artigo 3.º
+Competência
+1 - Competirá designadamente ao director de hotel e nos termos em que for incumbido pela administração do estabelecimento zelar pelo seu bom funcionamento e qualidade de prestação de serviços, promovendo o cumprimento das disposições legais que lhe são aplicáveis.
+2 - Ao subdirector de hotel competirá o exercício das funções que lhe forem delegadas pelo director de hotel.
+3 - O assistente de direcção de hotel poderá, por determinação do director ou subdirector de hotel, assumir a responsabilidade da organização e funcionamento de determinado sector ou conjunto de serviços do estabelecimento.
+Artigo 4.º
+Habilitações
+1 - Os candidatos a director e subdirector de hotel deverão preencher uma das seguintes condições:
+a) Possuírem o diploma de curso de gestão hoteleira, organizado ou reconhecido pelo Instituto Nacional de Formação Turística, realizado no País ou no estrangeiro, e aprovação em curso de graduação em direcção hoteleira;
+b) Possuírem o diploma de curso superior universitário e aprovação em curso de graduação em direcção hoteleira;
+c) Terem experiência profissional na indústria hoteleira, durante pelo menos oito anos, dos quais quatro anos no desempenho de cargos de administração ou direcção técnica, e aprovação em curso de graduação em direcção hoteleira.
+2 - A admissão nos cursos de graduação a que se referem as alíneas a) e b) do número anterior será condicionada a um mínimo de quatro anos de exercício de cargos de administração ou direcção técnica.
+3 - Os candidatos a assistente de direcção deverão preencher uma das seguintes condições:
+a) Possuírem o diploma de curso de gestão hoteleira, organizado ou reconhecido pelo Instituto Nacional de Formação Turística, realizado no País ou no estrangeiro;
+b) Terem experiência profissional na indústria hoteleira durante pelo menos seis anos, dos quais três anos no desempenho de cargos de responsabilidade técnica, e aprovação em curso de aperfeiçoamento em direcção hoteleira.
+4 - A admissão nos cursos de aperfeiçoamento a que se refere a alínea a) do número anterior será condicionada a um mínimo de três anos no exercício de cargos de responsabilidade técnica.
+5 - Todos os candidatos deverão possuir o domínio da língua portuguesa e de duas línguas estrangeiras, sendo uma delas necessariamente o inglês.
+Artigo 5.º
+Registo
+(Revogado.)
+Artigo 6.º
+Deveres
+São deveres do director, subdirector e assistente de direcção de hotel:
+a) Desempenhar com eficiência as suas funções, exercendo-as com dinamismo no âmbito do artigo 2.º, e abster-se da prática de quaisquer actividades incompatíveis com o exercício das mesmas;
+b) Promover a sua valorização profissional, através de uma permanente actualização dos conhecimentos.
+Artigo 7.º
+Direitos
+Constituem direitos do director, subdirector e assistente de direcção de hotel:
+a) Usufruir de condições de trabalho compatíveis com a dignidade e prestígio dos cargos que desempenham e que lhe permitam o exercício eficaz das suas funções, sem prejuízo do disposto na legislação aplicável em matéria de indústria hoteleira;
+b) Gozar de todos os direitos e garantias reconhecidos por lei ou instrumento de regulamentação individual ou colectiva de trabalho.
+Artigo 8.º
+Cessação
+(Revogado.)
+Artigo 9.º
+Direcção-Geral do Turismo
+(Revogado.)
+Artigo 10.º
+Multas
+(Revogado.)
+Artigo 11.º
+Cobrança coerciva das multas
+(Revogado.)
+Artigo 12.º
+Dúvidas
+(Revogado.)
+Artigo 13.º
+Vacatio
+O presente diploma entra em vigor 30 dias após a sua publicação.
+Artigo 14.º
+Registo dos profissionais existentes
+(Revogado.)
