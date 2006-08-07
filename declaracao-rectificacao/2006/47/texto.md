@@ -1,0 +1,10 @@
+Declaração de Rectificação n.º 47/2006
+Para os devidos efeitos se declara que a Lei n.º 30/2006, de 11 de Julho, que procede à conversão em contra-ordenações de contravenções e transgressões em vigor no ordenamento jurídico nacional, publicada no Diário da República, 1.ª série, n.º 132, de 11 de Julho de 2006, saiu com as seguintes incorrecções, que assim se rectificam:
+1 - Na epígrafe da secção I do capítulo II, onde se lê «Concursos de apostas mútuas concedidos à Santa Casa da Misericórdia de Lisboa» deve ler-se «Lotarias e concursos de apostas mútuas concedidos à Santa Casa da Misericórdia de Lisboa».
+2 - Na alínea a) do n.º 1 do artigo 2.º, onde se lê «lotarias ou outros sorteios idênticos aos concursos concedidos em regime de exclusivo» deve ler-se «lotarias nacional e instantânea ou outros sorteios idênticos aos concedidos em regime de exclusivo».
+3 - Na alínea c) do n.º 1 do artigo 2.º, onde se lê «sobre os números dos concursos de apostas mútuas» deve ler-se «sobre os números das lotarias ou dos concursos de apostas mútuas».
+4 - Na alínea e) do n.º 1 do artigo 2.º, onde se lê «sobre os resultados dos concursos concedidos» deve ler-se «sobre os resultados das lotarias nacional e instantânea ou dos concursos concedidos».
+5 - Na alínea f) do n.º 1 do artigo 2.º, onde se lê «similares aos concursos de apostas mútuas concedidos» deve ler-se «similares às lotarias nacional e instantânea ou aos concursos de aposta mútuas concedidos».
+6 - Na alínea i) do n.º 1 do artigo 2.º, onde se lê «em concursos ou sorteios idênticos aos concursos de apostas mútuas concedidos» deve ler-se «em concursos de apostas mútuas, lotarias nacional e instantânea ou sorteios idênticos aos concedidos».
+7 - Na alínea c) do n.º 1 do artigo 4.º, onde se lê «actividade relativa aos concursos de apostas mútuas concedidos» deve ler-se «actividade relativa às lotarias e concursos de apostas mútuas concedidos».
+Assembleia da República, 28 de Julho de 2006. - Pela Secretária-Geral, a Adjunta, Teresa Xardoné.
