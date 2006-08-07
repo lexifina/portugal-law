@@ -1,0 +1,17 @@
+Despacho normativo n.º 6/2006
+O Decreto-Lei n.º 84/85, de 28 de Março, estabeleceu as normas relativas à organização e exploração dos concursos de apostas mútuas denominados "Totobola" e "Totoloto".
+Previa-se no citado diploma que uma parte do resultado líquido, 2%, fosse destinada às associações de bombeiros voluntários.
+O Decreto-Lei n.º 389/85, de 9 de Outubro, alterou o diploma acima referido, não promovendo qualquer alteração nos valores a transferir para as associações humanitárias de bombeiros voluntários.
+A publicação do Decreto-Lei n.º 387/86, de 17 de Novembro, manteve uma transferência dos resultados líquidos de cada um dos jogos, Totoloto e Totobola, para as associações humanitárias de bombeiros voluntários.
+A publicação da Portaria n.º 233/87, de 28 de Março, vem determinar a forma de distribuição dos recursos, cabendo à Liga dos Bombeiros Portugueses uma fracção de 10% do valor transferido para a constituição de um fundo especial de reserva e os restantes 90% a distribuir em partes iguais por todas as associações humanitárias de bombeiros voluntários e bombeiros municipais em regime de voluntariado.
+O nascimento do Decreto-Lei n.º 317/2002, de 27 de Dezembro, não veio promover alterações na forma de distribuição dos montantes.
+A recente publicação do Decreto-Lei n.º 56/2006, de 15 de Março, veio a incorporar, para além do Totobola e Totoloto, a Lotaria Nacional, a Lotaria Instantânea, o Totogolo, o Loto 2, o Joker e o Euromilhões.
+São atribuídos ao Ministério da Administração Interna 2,8% dos resultados líquidos destinados a finalidades de protecção civil, emergência e socorro, nomeadamente apoio a associações de bombeiros voluntários.
+O mesmo diploma determina que, por despacho normativo do ministro que tutela a respectiva área sectorial, serão distribuídos os montantes em referência.
+Acontece que, tendo em conta a mudança de critérios e para que se verifique uma distribuição esclarecida dos montantes que deverão ser entregues às diversas entidades, importará que se conheça a verdadeira dimensão dos montantes que resultarão dos valores transferidos durante o ano corrente, 2006, por parte da Santa Casa da Misericórdia de Lisboa.
+Assim, nos termos de disposto no artigo 6.º do Decreto-Lei n.º 56/2006, de 15 de Março, e no uso das competências que me foram delegadas pelo despacho n.º 10 495/2005, de 29 de Abril, do Ministro de Estado e da Administração Interna, determino:
+1 - O Serviço Nacional de Bombeiros e Protecção Civil transferirá, em 2006, para a Liga dos Bombeiros Portugueses, para as associações humanitárias de bombeiros voluntários e para os bombeiros municipais em regime de voluntariado o valor anual que resultar da média transferida para as mesmas entidades em 2004 e 2005.
+2 - O critério previsto no número anterior deve aplicar-se também aos montantes remanescentes transferidos e relativos a 2005.
+3 - Esses valores devem ser transferidos de acordo com calendarização a determinar pelo presidente do Serviço Nacional de Bombeiros e Protecção Civil.
+4 - O remanescente deve considerar-se como receita do Serviço Nacional de Bombeiros e Protecção Civil destinada prioritariamente à aquisição de sistemas e materiais de comunicação e informação, à liquidação dos compromissos que ainda resultam dos planos de reequipamento e ainda à aquisição de equipamento de protecção cumprindo os objectivos previstos na alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 56/2006, de 15 de Março.
+20 de Julho de 2006. - O Secretário de Estado da Administração Interna, Ascenso Luís Seixas Simões.
