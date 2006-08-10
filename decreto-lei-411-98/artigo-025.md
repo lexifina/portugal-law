@@ -6,7 +6,7 @@
 
 ### Contra-ordenações e coimas
 
-1 - Constitui contra-ordenação punível com uma coima mínima de 50000$00 e máxima de 750000$00:
+1 - Constitui contra-ordenação punida com coima de (euro) 500 a (euro) 7000 ou de (euro) 1000 a (euro) 15000, consoante o agente seja pessoa singular ou pessoa colectiva:
 
 a) A remoção de cadáver por entidade diferente das previstas no n.º 2 do artigo 5.º;
 
@@ -28,21 +28,21 @@ i) A abertura de caixão de zinco ou de chumbo, para efeitos de cremação de ca
 
 j) A inumação fora de cemitério público ou de algum dos locais previstos no n.º 2 do artigo 11.º;
 
-k) A utilização, no fabrico de caixão ou caixa de zinco, de folha com espessura inferior a 0,4 mm;
+l) A utilização, no fabrico de caixão ou caixa de zinco, de folha com espessura inferior a 0,4 mm;
 
-l) A inumação em sepultura comum não identificada fora das situações previstas no artigo 14.º;
+m) A inumação em sepultura comum não identificada fora das situações previstas no artigo 14.º;
 
-m) A cremação de cadáver que tiver sido objecto de autópsia médico-legal sem autorização da autoridade judiciária;
+n) A cremação de cadáver que tiver sido objecto de autópsia médico-legal sem autorização da autoridade judiciária;
 
-n) A cremação de cadáver fora dos locais previstos no artigo 18.º;
+o) A cremação de cadáver fora dos locais previstos no artigo 18.º;
 
-o) A abertura de sepultura ou local de consumpção aeróbia antes de decorridos três anos, salvo em cumprimento de mandado da autoridade judiciária;
+p) A abertura de sepultura ou local de consumpção aeróbia antes de decorridos três anos, salvo em cumprimento de mandado da autoridade judiciária;
 
-p) A infracção ao disposto no n.º 2 do artigo 21.º;
+q) A infracção ao disposto no n.º 2 do artigo 21.º;
 
-q) A trasladação de cadáver sem ser em caixão de chumbo, nos casos previstos no n.º 2 do artigo 22.º, ou de zinco com a espessura mínima de 0,4 mm.
+r) A trasladação de cadáver sem ser em caixão de chumbo, nos casos previstos no n.º 2 do artigo 22.º, ou de zinco com a espessura mínima de 0,4 mm.
 
-2 - Constitui contra-ordenação punível com uma coima mínima de 20000$00 e máxima de 250000$00:
+2 - Constitui contra-ordenação punida com coima de (euro) 200 a (euro) 2500 ou de (euro) 400 a (euro) 5000, consoante o agente seja pessoa singular ou pessoa colectiva:
 
 a) O transporte de cinzas resultantes da cremação de cadáver ou de ossadas, fora de cemitério, em recipiente não apropriado;
 
@@ -51,5 +51,7 @@ b) O transporte de cadáver, ossadas ou cinzas resultantes da cremação dos mes
 c) A infracção ao disposto no n.º 3 do artigo 8.º;
 
 d) A trasladação de ossadas sem ser em caixa de zinco com a espessura mínima de 0,4 mm ou de madeira.
+
+e) A infracção às disposições imperativas de natureza administrativa constantes de regulamento de cemitério municipal ou paroquial, se sanção mais grave não for aplicável por força de outra norma do presente artigo.
 
 3 - A negligência e a tentativa são puníveis.
