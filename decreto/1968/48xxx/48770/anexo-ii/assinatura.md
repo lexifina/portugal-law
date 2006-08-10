@@ -1,0 +1,1 @@
+Ministérios do Interior e da Saúde e Assistência, 22 de Novembro de 1968. - O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro da Saúde e Assistência, Lopo de Carvalho Cancella de Abreu.

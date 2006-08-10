@@ -1,3 +1,7 @@
+## Anexo II
+
+## MODELO DE REGULAMENTO DOS CEMITÉRIOS PAROQUIAIS
+
 ## Capítulo I
 
 ## Da organização e funcionamento dos serviços
