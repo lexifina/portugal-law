@@ -1,3 +1,3 @@
 # Artigo 65.º
 
-As infracções ao presente Regulamento, para as quais não tenham sido previstas penalidades especiais, serão punidas com a multa de ...
+As infracções ao disposto no presente Regulamento constituem contra-ordenação punível com coima nos termos legalmente previstos.
