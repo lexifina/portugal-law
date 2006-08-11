@@ -1,0 +1,12 @@
+Portaria n.º 805/2006
+de 11 de Agosto
+Pela Portaria n.º 640-C2/94, de 15 de Julho, foi concessionada à Associação de Caça e Pesca de Limãos a zona de caça associativa de Limãos (processo n.º 1676-DGRF), situada no município de Macedo de Cavaleiros, válida até 15 de Julho de 2006.
+Entretanto, a entidade concessionária veio requerer a sua renovação, tendo em simultâneo solicitado a correcção da área primitivamente concessionada de 1997 ha para 1886 ha por correcção da área social (terrenos não cinegéticos).
+Cumpridos os preceitos legais, com fundamento no disposto no artigo 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º, no n.º 1 do artigo 118.º e no n.º 2 do artigo 164.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, renovável por um único e igual período, a concessão da zona de caça associativa de Limãos (processo n.º 1676-DGRF), abrangendo vários prédios rústicos sitos nas freguesias de Salselas, Vale da Porca, Morais e Vinhas, município de Macedo de Cavaleiros, com a área de 1886 ha, conforme a planta anexa à presente portaria e que dela faz parte integrante.
+2.º A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até no máximo 10% da área total da zona de caça.
+3.º A presente portaria produz efeitos a partir de 16 de Julho de 2006.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 21 de Julho de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 27 de Junho de 2006.
+
+(ver documento original)
