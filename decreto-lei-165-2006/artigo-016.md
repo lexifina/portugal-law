@@ -2,12 +2,8 @@
 
 ### Recrutamento
 
-1 - Os coordenadores são designados por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação.
+1 - Os coordenadores do ensino português no estrangeiro são nomeados por despacho conjunto dos Ministros dos Negócios Estrangeiros e da Educação de entre indivíduos habilitados com curso superior adequado, de reconhecida competência e experiência relevante.
 
-2 - Os coordenadores são recrutados por escolha de entre indivíduos licenciados, vinculados ou não à administração pública portuguesa, que possuam competência técnica na área da educação, aptidão, experiência profissional e formação adequada ao exercício das funções.
+2 - Os adjuntos de coordenação são nomeados por despacho conjunto dos Ministros dos Negócios Estrangeiros e da Educação, sob proposta do respectivo coordenador, devendo o recrutamento ser feito de entre elementos do pessoal docente ou outro de reconhecida competência no domínio da educação no respectivo país.
 
-3 - Os adjuntos de coordenação são recrutados por escolha e designados por despacho do presidente do Camões, I. P., ouvido o respectivo coordenador, de entre elementos do pessoal docente do ensino português no estrangeiro ou outro de reconhecida competência no domínio da educação.
-
-4 - As funções de adjunto de coordenação podem ser exercidas por docentes do ensino português no estrangeiro em regime de acumulação.
-
-5 - Os docentes de apoio pedagógico são recrutados por escolha e designados por despacho do presidente do Camões, I. P., com base na proposta do respectivo coordenador, devendo o recrutamento ser feito de entre os docentes do ensino português no estrangeiro em exercício de funções no respectivo país.
+3 - Os docentes de apoio pedagógico são nomeados pelo dirigente máximo do serviço da administração central do Estado responsável pela organização do ensino português no estrangeiro, por proposta do respectivo coordenador, devendo o recrutamento ser feito de entre os docentes do ensino português no estrangeiro em exercício de funções no respectivo país.

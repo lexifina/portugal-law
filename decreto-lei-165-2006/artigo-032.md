@@ -1,17 +1,13 @@
 # Artigo 32.º
 
-### Contratação temporária
+### Recrutamento local
 
-1 - Para suprir necessidades de natureza temporária, pode ainda recorrer-se ao recrutamento local de docentes que reúnam os seguintes requisitos cumulativos:
+1 - Podem ainda ser abertos concursos especificamente para a contratação local de docentes cujos candidatos obedeçam aos seguintes requisitos cumulativos:
 
-a) Possuir habilitação académica exigida para o exercício das funções inerentes ao posto de trabalho a que se candidata;
+a) Terem realizado a formação académica em Portugal ou em estabelecimentos de ensino do país a cuja área consular concorrem e estejam devidamente habilitados para a docência de Português;
 
-b) Revelar domínio perfeito da língua portuguesa, a certificar nos termos definidos pelo presidente do Camões, I. P.;
+b) Revelem domínio perfeito da língua portuguesa, a certificar nos termos definidos pelo dirigente máximo do serviço da administração central do Estado responsável pela organização do ensino português no estrangeiro;
 
-c) Estar devidamente habilitado para a docência de português e dominar a língua da área consular a que se candidatam.
+c) Sejam residentes no país a cuja área consular concorrem e nele residissem há pelo menos um ano antes da primeira colocação como docentes do ensino português no estrangeiro.
 
-2 - O recrutamento referido no número anterior é objecto de procedimento concursal simplificado, cuja tramitação é aprovada por portaria conjunta dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da Administração Pública, junto da respectiva estrutura de coordenação local do ensino português, publicitada na página de Internet do Camões, I, P.
-
-3 - Ao procedimento de contratação local é aplicável o disposto nos n.os 1 a 3 do artigo 40.º da Portaria n.º 83-A/2009, de 22 de janeiro, alterada pela Portaria n.º 145-A/2011, de 6 de abril, que a republica e que regulamenta a tramitação do procedimento concursal dos trabalhadores que exercem funções públicas.
-
-4 - À contratação local a termo resolutivo aplica-se a LTFP, com as especificidades constantes do presente decreto-lei, com exceção do direito ao suplemento remuneratório referido no n.º 5 do artigo 34.º e ao regime das despesas previstas nos n.os 1 e 2 do artigo 34.º-A.
+2 - Os concursos referidos no número anterior são abertos junto da respectiva estrutura de coordenação local do ensino português.
