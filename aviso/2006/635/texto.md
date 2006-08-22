@@ -1,0 +1,5 @@
+Aviso n.º 635/2006
+Por ordem superior se torna público que, em 14 de Fevereiro de 2006, a República do Chipre depositou o seu instrumento de ratificação do Acordo sobre a Conservação de Cetáceos no Mar Negro, Mar Mediterrâneo e Área Atlântica Adjacente, concluído no Mónaco em 24 de Novembro de 1996.
+Portugal é Parte do mesmo Acordo, aprovado pelo Decreto n.º 19/2004, publicado no Diário da República, 1.ª série-A, n.º 180, de 2 de Agosto de 2004, tendo depositado o seu instrumento de adesão em 15 de Outubro de 2004, conforme o Aviso n.º 26/2005, publicado no Diário da República, 1.ª série-A, n.º 23, de 2 de Fevereiro de 2005, e tendo entrado em vigor em 1 de Janeiro de 2005, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 23, de 2 de Fevereiro de 2005.
+O Acordo entrou em vigor para a República do Chipre em 1 de Maio de 2006.
+Direcção de Serviços das Organizações Económicas Internacionais, da Direcção-Geral dos Assuntos Multilaterais, 3 de Agosto de 2006. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
