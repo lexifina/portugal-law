@@ -1,0 +1,5 @@
+Aviso n.º 631/2006
+Por ordem superior se torna público que, em 17 de Janeiro de 2005, o Governo da União das Comores depositou o seu instrumento de adesão à Convenção de Berna para a Protecção das Obras Literárias e Artísticas, concluída em 9 de Setembro de 1886, revista em Paris em 24 de Julho de 1971 e modificada em 28 de Setembro de 1979.
+Portugal é Parte da Convenção, aprovada, para adesão, pelo Decreto n.º 73/78, publicado no Diário da República, 1.ª série, n.º 170, de 26 de Julho de 1978, tendo aderido em 10 de Outubro de 1978, conforme aviso publicado no Diário da República, 1.ª série, n.º 1, de 2 de Janeiro de 1979, e tendo entrado em vigor em 12 de Janeiro de 1979, conforme aviso publicado no Diário da República, 1.ª série, n.º 1, de 2 de Janeiro de 1979.
+A Convenção, revista e modificada, entrou em vigor para a União das Comores em 17 de Abril de 2005.
+Direcção de Serviços das Organizações Económicas Internacionais, da Direcção-Geral dos Assuntos Multilaterais, 3 de Agosto de 2006. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
