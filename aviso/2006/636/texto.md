@@ -1,0 +1,5 @@
+Aviso n.º 636/2006
+Por ordem superior se torna público que, em 15 de Março de 2006, a República da Nicarágua depositou o seu instrumento de adesão ao Acordo de Lisboa, Relativo à Protecção das Denominações de Origem e ao Seu Registo Internacional, concluído em Lisboa em 31 de Outubro de 1958.
+Portugal é Parte do mesmo Acordo, aprovado, para ratificação, pelo Decreto-Lei n.º 46852, publicado no Diário do Governo, 1.ª série, n.º 27, de 2 de Fevereiro de 1966, tendo depositado o seu instrumento de confirmação e ratificação em 16 de Janeiro de 1991, conforme o Aviso n.º 37/91, publicado no Diário da República, 1.ª série-A, n.º 56, de 8 de Março de 1991, e tendo o Acordo entrado em vigor em 25 de Setembro de 1966, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 231, de 4 de Outubro de 1966.
+O Acordo entrou em vigor para a República da Nicarágua em 15 de Junho de 2006.
+Direcção de Serviços das Organizações Económicas Internacionais, da Direcção-Geral dos Assuntos Multilaterais, 3 de Agosto de 2006. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
