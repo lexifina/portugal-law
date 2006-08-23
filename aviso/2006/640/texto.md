@@ -1,0 +1,5 @@
+Aviso n.º 640/2006
+Por ordem superior se torna público que, em 30 de Maio de 2006, o Governo do Sultanato do Brunei depositou o seu instrumento de adesão à Convenção de Berna para a Protecção das Obras Literárias e Artísticas, concluída no dia 9 de Setembro de 1886, revista em Paris no dia 24 de Julho de 1971 e modificada no dia 28 de Setembro de 1979.
+Portugal é Parte da Convenção, aprovada, para adesão, pelo Decreto n.º 73/78, publicado no Diário da República, 1.ª série, n.º 170, de 26 de Julho de 1978, tendo aderido em 10 de Outubro de 1978, conforme aviso publicado no Diário da República, 1.ª série, n.º 1, de 2 de Janeiro de 1979, e tendo entrado em vigor em 12 de Janeiro de 1979, conforme aviso publicado no Diário da República, 1.ª série, n.º 1, de 2 de Janeiro de 1979.
+A Convenção, revista e modificada, entrou em vigor para o Sultanato do Brunei em 30 de Maio de 2006.
+Direcção de Serviços das Organizações Económicas Internacionais da Direcção-Geral dos Assuntos Multilaterais, 1 de Agosto de 2006. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
