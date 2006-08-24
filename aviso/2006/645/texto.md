@@ -1,0 +1,5 @@
+Aviso n.º 645/2006
+Por ordem superior se torna público que, em 13 de Janeiro de 2006, a Suazilândia depositou o seu instrumento de adesão ao Protocolo de Quioto à Convenção Quadro das Nações Unidas sobre Alterações Climáticas de 9 de Maio de 1992, concluído em Quioto no dia 11 de Dezembro de 1997.
+Portugal é Parte do mesmo Protocolo, aprovado pelo Decreto n.º 7/2002, publicado no Diário da República, 1.ª série-A, n.º 71, de 25 de Março de 2002, tendo depositado o instrumento de aprovação em 31 de Maio de 2002, conforme o Aviso n.º 49/2005, publicado no Diário da República, 1.ª série-A, n.º 35, de 18 de Fevereiro de 2005, tendo entrado em vigor em 16 de Fevereiro de 2005, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 35, de 18 de Fevereiro de 2005.
+O Protocolo entrou em vigor para a Suazilândia em 13 de Abril de 2006.
+Direcção de Serviços das Organizações Económicas Internacionais, da Direcção-Geral dos Assuntos Multilaterais, 3 de Agosto de 2006. - O Subdirector-Geral, Miguel Maria Simões de Almeida e Sousa.
