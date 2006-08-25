@@ -1,0 +1,70 @@
+Lei n.º 39/2006
+de 25 de Agosto
+Estabelece o regime jurídico da dispensa e da atenuação especial da coima em processos de contra-ordenação por infracção às normas nacionais de concorrência
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
+CAPÍTULO I
+Disposições gerais
+Artigo 1.º
+Objecto
+A presente lei estabelece o regime jurídico da dispensa e atenuação especial da coima, concedidas pela Autoridade da Concorrência nas condições nele previstas, em processos de contra-ordenação por infracção ao regime jurídico da concorrência e, se aplicáveis, às normas comunitárias de concorrência cujo respeito deva ser assegurado pela Autoridade da Concorrência.
+Artigo 2.º
+Âmbito objectivo
+A dispensa ou atenuação especial da coima são concedidas no âmbito de processos de contra-ordenação que tenham por objecto acordos e práticas concertadas entre empresas proibidos pelo artigo 4.º da Lei n.º 18/2003, de 11 de Junho, e, se aplicável, pelo artigo 81.º do Tratado que institui a Comunidade Europeia.
+Artigo 3.º
+Âmbito subjectivo
+Podem beneficiar de dispensa ou atenuação especial da coima:
+a) As empresas na acepção do artigo 2.º da Lei n.º 18/2003, de 11 de Junho;
+b) Os titulares do órgão de administração das pessoas colectivas e entidades equiparadas, responsáveis nos termos do disposto no n.º 3 do artigo 47.º da Lei n.º 18/2003, de 11 de Junho.
+CAPÍTULO II
+Requisitos
+Artigo 4.º
+Dispensa
+1 - A Autoridade da Concorrência pode conceder dispensa da coima que seria aplicada nos termos do disposto na alínea a) do n.º 1 do artigo 43.º e no artigo 44.º da Lei n.º 18/2003, de 11 de Junho, à empresa que cumpra, cumulativamente, as seguintes condições:
+a) Seja a primeira a fornecer à Autoridade da Concorrência informações e elementos de prova sobre um acordo ou prática concertada que permitam verificar a existência de uma infracção às normas referidas no artigo 2.º, relativamente à qual a Autoridade da Concorrência não tenha ainda procedido à abertura de um inquérito nos termos do disposto no n.º 1 do artigo 24.º da Lei n.º 18/2003, de 11 de Junho;
+b) Coopere plena e continuamente com a Autoridade da Concorrência desde o momento da apresentação do pedido de dispensa ou atenuação especial da coima, estando a empresa obrigada, designadamente, a:
+i) Fornecer todos os elementos de prova que tenha ou venha a ter na sua posse;
+ii) Responder prontamente a qualquer pedido de informação que possa contribuir para a determinação dos factos;
+iii) Abster-se da prática de actos que possam dificultar o curso da investigação;
+iv) Não informar as outras empresas participantes no acordo ou prática concertada do seu pedido de dispensa ou atenuação especial da coima;
+c) Ponha termo à sua participação na infracção o mais tardar até ao momento em que forneça à Autoridade da Concorrência as informações e os elementos de prova a que se refere a alínea a);
+d) Não tenha exercido qualquer coacção sobre as outras empresas no sentido de estas participarem na infracção.
+2 - As informações e elementos de prova referidos na alínea a) do número anterior devem conter indicações completas e precisas sobre as empresas envolvidas na infracção, o produto ou serviço em causa, a natureza da infracção, o seu âmbito geográfico, a sua duração e a forma pela qual foi executada.
+Artigo 5.º
+Atenuação especial da coima a partir de 50%
+1 - A Autoridade da Concorrência pode conceder uma atenuação especial de, pelo menos, 50% do montante da coima que seria aplicada nos termos do disposto na alínea a) do n.º 1 do artigo 43.º e no artigo 44.º da Lei n.º 18/2003, de 11 de Junho, caso já tenha procedido à abertura de inquérito nos termos do n.º 1 do artigo 24.º da Lei n.º 18/2003, de 11 de Junho, à empresa que cumpra, cumulativamente, as seguintes condições:
+a) Seja a primeira a fornecer à Autoridade da Concorrência informações e elementos de prova sobre um acordo ou prática concertada em investigação pela Autoridade da Concorrência, relativamente ao qual ainda não tenha sido efectuada a notificação a que se refere a alínea b) do n.º 1 do artigo 25.º e o n.º 1 do artigo 26.º daquele diploma;
+b) As informações e os elementos de prova fornecidos contribuam de forma determinante para a investigação e prova da infracção;
+c) Estejam verificadas as condições previstas nas alíneas b) a d) do n.º 1 do artigo anterior.
+2 - Na determinação do montante da redução, a Autoridade da Concorrência tem em consideração a importância do contributo da empresa para a investigação e prova da infracção.
+Artigo 6.º
+Atenuação especial da coima até 50%
+1 - A Autoridade da Concorrência pode conceder uma atenuação especial até 50% do montante da coima que seria aplicada nos termos do disposto na alínea a) do n.º 1 do artigo 43.º e no artigo 44.º da Lei n.º 18/2003, de 11 de Junho, à empresa que cumpra, cumulativamente, as seguintes condições:
+a) Seja a segunda a fornecer à Autoridade da Concorrência informações e elementos de prova sobre um acordo ou prática concertada em investigação pela Autoridade da Concorrência, relativamente ao qual ainda não tenha sido efectuada a notificação a que se refere a alínea b) do n.º 1 do artigo 25.º e o n.º 1 do artigo 26.º daquele diploma;
+b) As informações e os elementos de prova fornecidos contribuam de forma significativa para a investigação e prova da infracção;
+c) Estejam verificadas as condições previstas nas alíneas b) a d) do n.º 1 do artigo 4.º
+2 - Na determinação do montante da redução, a Autoridade da Concorrência tem em consideração a importância do contributo da empresa para a investigação e prova da infracção.
+Artigo 7.º
+Atenuação adicional de coima
+A Autoridade da Concorrência pode conceder uma atenuação especial ou uma atenuação adicional da coima que lhe seria aplicada no âmbito de um processo de contra-ordenação relativo a um acordo ou prática concertada, se a empresa for a primeira a fornecer informações e elementos de prova, nos termos do disposto na alínea a) do n.º 1 do artigo 4.º ou do disposto nas alíneas a) e b) do n.º 1 do artigo 5.º, referentes a um outro acordo ou prática concertada relativamente aos quais aquela empresa também apresente pedido de dispensa ou atenuação especial de coima.
+Artigo 8.º
+Titulares do órgão de administração
+1 - Os titulares do órgão de administração podem beneficiar, relativamente à coima que lhes seria aplicada nos termos do disposto no n.º 3 do artigo 47.º da Lei n.º 18/2003, de 11 de Junho, da dispensa ou atenuação especial concedida à respectiva pessoa colectiva ou entidade equiparada, se cooperarem plena e continuamente com a Autoridade da Concorrência, nos termos do disposto na alínea b) do n.º 1 do artigo 4.º
+2 - Aos titulares do órgão de administração, responsáveis nos termos do disposto no n.º 3 do artigo 47.º da Lei n.º 18/2003, de 11 de Junho, que apresentem pedido a título individual é aplicável, com as devidas adaptações, o disposto nos artigos 4.º a 7.º
+CAPÍTULO III
+Procedimento e decisão
+Artigo 9.º
+Procedimento
+O procedimento administrativo relativo à tramitação necessária para a obtenção de dispensa ou atenuação especial da coima é estabelecido por regulamento a aprovar pela Autoridade da Concorrência, nos termos do disposto na alínea a) do n.º 4 do artigo 7.º dos respectivos Estatutos, aprovados pelo Decreto-Lei n.º 10/2003, de 18 de Janeiro, e de acordo com o previsto no artigo 21.º da Lei n.º 18/2003, de 11 de Junho.
+Artigo 10.º
+Decisão sobre o pedido de dispensa ou atenuação especial da coima
+1 - A decisão sobre o pedido de dispensa ou atenuação especial da coima é tomada na decisão da Autoridade da Concorrência a que se refere a alínea c) do n.º 1 do artigo 28.º da Lei n.º 18/2003, de 11 de Junho.
+2 - A dispensa ou atenuação especial de coima incide sobre o montante da coima que seria aplicada nos termos da alínea a) do n.º 1 do artigo 43.º e do artigo 44.º da Lei n.º 18/2003, de 11 de Junho.
+3 - Na determinação da coima que seria aplicada não é tido em consideração o critério previsto na alínea e) do artigo 44.º da Lei n.º 18/2003, de 11 de Junho.
+4 - O recurso da parte da decisão da Autoridade da Concorrência relativa à dispensa ou atenuação especial da coima tem efeito meramente devolutivo.
+Aprovada em 29 de Junho de 2006.
+O Presidente da Assembleia da República, em exercício, Manuel Alegre de Melo Duarte.
+Promulgada em 8 de Agosto de 2006.
+Publique-se.
+O Presidente da República, ANÍBAL CAVACO SILVA.
+Referendada em 12 de Agosto de 2006.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
