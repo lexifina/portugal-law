@@ -1,0 +1,4 @@
+Aviso n.º 660/2006
+Por ordem superior se torna público que, em 26 de Maio de 2006, a Bolívia depositou o seu instrumento de aceitação às Emendas à Convenção da Organização Marítima Internacional (Institucionalização do Comité de Facilitação), concluídas em Londres no dia 7 de Novembro de 1991.
+Portugal aprovou as referidas Emendas, aprovadas pelo Decreto n.º 10/94, publicado no Diário da República, 1.ª série-A, n.º 58, de 10 de Março de 1994, tendo depositado o seu instrumento de aceitação em 25 de Junho de 2004, conforme o Aviso n.º 51/2005, publicado no Diário da República, 1.ª série-A, n.º 39, de 24 de Fevereiro de 2005.
+Direcção de Serviços das Organizações Económicas Internacionais, da Direcção-Geral dos Assuntos Multilaterais, 8 de Agosto de 2006. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa.
