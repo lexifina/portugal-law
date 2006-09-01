@@ -14,4 +14,4 @@
 
 2 - Nenhum partido pode apresentar mais de uma lista de candidatos no mesmo círculo eleitoral.
 
-3 - Ninguém pode ser candidato por mais de um círculo eleitoral ou figurar em mais de uma lista, sob pena de inelegibilidade.
+3 - Com excepção do disposto no n.º 3 do artigo 15.º, ninguém pode ser candidato por mais de um círculo eleitoral ou figurar em mais de uma lista, sob pena de inelegibilidade.

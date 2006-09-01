@@ -6,7 +6,7 @@
 
 2 - A apresentação faz-se até ao 41.º dia anterior à data prevista para as eleições perante o juiz:
 
-a) Da comarca de Ponta Delgada, para o círculo de S. Miguel;
+a) Da comarca de Ponta Delgada, para o círculo de São Miguel e para o círculo regional de compensação;
 
 b) Da comarca de Angra do Heroísmo, para o círculo da Terceira;
 

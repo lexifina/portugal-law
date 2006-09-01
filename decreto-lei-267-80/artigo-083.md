@@ -1,7 +1,7 @@
 # Artigo 83.º
 
-### (Segredo do voto)
+### (Direito e dever de votar)
 
-1 - Ninguém pode ser, sob qualquer pretexto, obrigado a revelar o seu voto nem, salvo caso de recolha de dados estatísticos não identificáveis, ser perguntado sobre o mesmo por qualquer autoridade.
+1 - O sufrágio constitui um direito e um dever cívico.
 
-2 - Dentro da assembleia de voto e fora dela, até à distância de 500 m, ninguém pode revelar em qual lista vai votar ou votou.
+2 - Os responsáveis pelas empresas ou serviços em actividade no dia das eleições devem facilitar aos trabalhadores dispensa do serviço pelo tempo suficiente para o exercício do direito de voto.

@@ -2,7 +2,7 @@
 
 ### (Vagas ocorridas na Assembleia)
 
-1 - As vagas ocorridas na Assembleia Legislativa Regional são preenchidas pelo cidadão imediatamente a seguir na ordem da respectiva lista ou, tratando-se de coligação, pelo cidadão imediatamente a seguir do partido pelo qual havia sido proposto o candidato que deu origem à vaga.
+1 - As vagas ocorridas na Assembleia Legislativa da Região Autónoma dos Açores são preenchidas pelo cidadão imediatamente a seguir na ordem da respectiva lista ou, tratando-se de coligação, pelo cidadão imediatamente a seguir do partido pelo qual havia sido proposto o candidato que deu origem à vaga.
 
 2 - Quando, por aplicação da regra contida na parte final do número anterior, se torne impossível o preenchimento da vaga por cidadão proposto pelo mesmo partido, o mandato será conferido ao candidato imediatamente a seguir na ordem da lista apresentada pela coligação.
 

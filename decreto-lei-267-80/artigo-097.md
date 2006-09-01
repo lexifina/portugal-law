@@ -1,15 +1,19 @@
 # Artigo 97.º
 
-### (Modo como vota cada eleitor)
+### (Boletins de voto)
 
-1 - Cada eleitor, apresentando-se perante a mesa, indica o seu número de inscrição no recenseamento e o seu nome, entregando ao presidente o bilhete de identidade, se o tiver.
+1 - Os boletins de voto são de forma rectangular, com as dimensões apropriadas para neles caber a indicação de todas as listas submetidas à votação em cada círculo, e são impressos em papel branco, reciclado, liso e não transparente.
 
-2 - Na falta do bilhete de identidade, a identificação do eleitor faz-se por meio de qualquer outro documento que contenha fotografia actualizada e que seja geralmente utilizado para identificação, ou através de dois cidadãos eleitores que atestem, sob compromisso de honra, a sua identidade, ou ainda por reconhecimento unânime dos membros da mesa.
+2 - No caso de no mesmo dia se realizarem a eleição do Presidente da República ou dos Deputados da Assembleia da República, os boletins de voto para a eleição dos Deputados da Assembleia Legislativa Regional serão impressos em papel de cor.
 
-3 - Reconhecido o eleitor, o presidente diz em voz alta o seu número de inscrição no recenseamento e o seu nome e, depois de verificada a inscrição, entrega-lhe um boletim de voto.
+3 - Em cada boletim de voto são impressos, de harmonia com o modelo anexo a esta lei, as denominações, as siglas e os símbolos dos partidos e coligações proponentes de candidaturas, dispostos horizontalmente, uns abaixo dos outros, pela ordem resultante do sorteio efectuado nos termos do artigo 31.º, os quais devem reproduzir os constantes do registo ou da anotação do Tribunal Constitucional, conforme os casos, devendo os símbolos respeitar rigorosamente a composição, a configuração e as proporções dos registados ou anotados.
 
-4 - Em seguida, o eleitor entra na câmara de voto situada na assembleia e aí, sozinho, marca uma cruz no quadrado respectivo da lista em que vota e dobra o boletim em quatro.
+4 - Na linha correspondente a cada partido ou coligação figura um quadrado em branco destinado a ser assinalado com a escolha do eleitor.
 
-5 - Voltando para junto da mesa, o eleitor entrega o boletim ao presidente, que o introduz na urna, enquanto os escrutinadores descarregam o voto, rubricando os cadernos eleitorais na coluna a isso destinada e na linha correspondente ao nome do eleitor.
+5 - A impressão dos boletins de voto é encargo da Região através do membro do Governo Regional com competência em matéria eleitoral.
 
-6 - Se, por inadvertência, o eleitor deteriorar o boletim, deve pedir outro ao presidente, devolvendo-lhe o primeiro. O presidente escreve no boletim devolvido a nota de inutilizado, rubrica-o e conserva-o para os efeitos do n.º 8 do artigo 95.º
+6 - O membro do Governo Regional com competência em matéria eleitoral remete a cada presidente de câmara municipal os boletins de voto para que este cumpra o preceituado no n.º 2 do artigo 52.º
+
+7 - Os boletins de voto, em número igual ao dos eleitores inscritos na assembleia ou secção de voto mais 10%, são remetidos em sobrescrito fechado e lacrado.
+
+8 - O presidente da câmara municipal e os presidentes das assembleias ou secções de voto prestam contas ao membro do Governo Regional com competência em matéria eleitoral dos boletins de voto que tiverem recebido, devendo os presidentes das assembleias ou secções de voto devolver-lhe no dia seguinte ao das eleições os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.

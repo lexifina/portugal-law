@@ -1,9 +1,13 @@
-## Secção II
+## Capítulo II
 
-## Infracções relativas à campanha eleitoral
+## Infracções eleitorais
+
+## Secção I
+
+## Infracções relativas à apresentação de candidaturas
 
 # Artigo 130.º
 
-### (Violação de deveres de neutralidade e imparcialidade)
+### (Candidatura de cidadão inelegível)
 
-Os cidadãos abrangidos pelo artigo 59.º que infringirem os deveres de neutralidade e imparcialidade aí prescritos serão punidos com prisão até um ano e multa de 5000$00 a 20000$00.
+Aquele que, não tendo capacidade eleitoral passiva, dolosamente aceitar a sua candidatura é punido com prisão de 6 meses a 2 anos e multa de (euro) 1000 a (euro) 10000.

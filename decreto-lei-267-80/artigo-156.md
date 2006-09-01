@@ -1,7 +1,5 @@
 # Artigo 156.º
 
-### (Obstrução à fiscalização)
+### (Não cumprimento do dever de participação no processo eleitoral)
 
-1 - Aquele que impedir a entrada ou saída de qualquer dos delegados das listas nas assembleias eleitorais ou que por qualquer modo tentar opor-se a que eles exerçam todos os poderes que lhes são conferidos pela presente lei será punido com pena de prisão.
-
-2 - Se se tratar do presidente da mesa, a pena não será, em qualquer caso, inferior a seis meses.
+Aquele que for nomeado para fazer parte da mesa da assembleia eleitoral e, sem motivo justificado, não assumir ou abandonar essas funções é punido com multa de (euro) 100 a (euro) 2000.

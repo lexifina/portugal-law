@@ -1,5 +1,7 @@
 # Artigo 141.º
 
-### (Desvio de correspondência)
+### (Dano em material de propaganda eleitoral)
 
-O empregado dos correios que desencaminhar, retiver ou não entregar ao destinatário circulares, cartazes ou papéis de propaganda eleitoral de qualquer lista será punido com prisão até um ano e multa de 500$00 a 5000$00.
+1 - Aquele que roubar, furtar, destruir, rasgar ou por qualquer forma inutilizar, no todo ou em parte, ou tornar ilegível o material de propaganda eleitoral afixado ou o desfigurar, ou colocar por cima dele qualquer material com o fim de o ocultar, é punido com prisão até 6 meses e multa de (euro) 100 a (euro) 1000.
+
+2 - Não serão punidos os factos previstos no número anterior se o material de propaganda houver sido afixado na própria casa ou estabelecimento do agente sem o seu consentimento ou contiver matéria francamente desactualizada.

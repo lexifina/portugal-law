@@ -1,5 +1,5 @@
 # Artigo 145.º
 
-### (Impedimento do sufrágio por abuso de autoridade)
+### (Admissão ou exclusão abusiva do voto)
 
-O agente de autoridade que dolosamente, no dia das eleições, sob qualquer pretexto, fizer sair do seu domicílio ou permanecer fora dele qualquer eleitor para que não possa ir votar será punido com prisão até dois anos e multa de 5000$00 a 20000$00.
+Aquele que concorrer para que seja admitido a votar quem não tem esse direito ou para a exclusão de quem o tiver e, bem assim, o médico que atestar falsamente uma impossibilidade de exercício do direito de voto são punidos com prisão até 2 anos e multa de (euro) 100 a (euro) 1000.

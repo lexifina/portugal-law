@@ -1,9 +1,11 @@
+## Secção II
+
+## Votação
+
 # Artigo 88.º
 
-### Procedimento da mesa, em relação aos votos antecipados
+### (Abertura da votação)
 
-1 - Após terem votado os elementos da mesa e no caso de existirem votos antecipados, o presidente procederá à sua abertura e lançamento na urna, de acordo com o disposto nos números seguintes.
+1 - Constituída a mesa, o presidente declara iniciadas as operações eleitorais, manda afixar o edital a que se refere o n.º 2 do artigo 48.º, procede com os restantes membros da mesa e os delegados das listas à revista da câmara de voto e dos documentos de trabalho da mesa e exibe a urna perante os eleitores, para que todos se possam certificar de que se encontra vazia.
 
-2 - O presidente entrega os sobrescritos azuis aos escrutinadores para verificarem se o eleitor se encontra devidamente inscrito e se está presente o documento comprovativo referido no n.º 2 do artigo 79.º-B.
-
-3 - Feita a descarga no caderno de recenseamento, o presidente abre o sobrescrito branco e introduz o boletim de voto na urna.
+2 - Não havendo nenhuma irregularidade, votam imediatamente o presidente, os vogais e os delegados das listas, desde que se encontrem inscritos nessa assembleia ou secção de voto.

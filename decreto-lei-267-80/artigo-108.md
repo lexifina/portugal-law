@@ -1,9 +1,5 @@
-## Secção II
-
-## Apuramento geral
-
 # Artigo 108.º
 
-### (Apuramento geral dos círculos)
+### (Envio à assembleia de apuramento geral)
 
-O apuramento dos resultados da eleição em cada círculo eleitoral e a proclamação dos candidatos eleitos competem a uma assembleia de apuramento geral, que inicia os seus trabalhos às 9 horas do 2.º dia posterior ao da eleição, no edifício sede dos serviços do membro do Governo Regional com competência em matéria eleitoral.
+Nas vinte e quatro horas seguintes à votação, os presidentes das assembleias ou secções de voto entregam ao presidente da assembleia de apuramento geral ou remetem pelo seguro do correio, ou por próprio, que cobra recibo de entrega, as actas, os cadernos e demais documentos respeitantes à eleição.

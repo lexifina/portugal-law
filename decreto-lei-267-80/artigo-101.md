@@ -1,13 +1,11 @@
-## Capítulo II
-
-## Apuramento
-
-## Secção I
-
-## Apuramento parcial
-
 # Artigo 101.º
 
-### (Operação preliminar)
+### (Dúvidas, reclamações, protestos e contraprotestos)
 
-Encerrada a votação, o presidente da assembleia ou secção de voto procede à contagem dos boletins que não foram utilizados e dos que foram inutilizados pelos eleitores e encerra-os num sobrescrito próprio, que fecha e lacra para o efeito do n.º 8 do artigo 95.º
+1 - Qualquer eleitor inscrito na assembleia de voto ou qualquer dos delegados das listas pode suscitar dúvidas e apresentar, por escrito, reclamação, protesto ou contraprotesto relativos às operações eleitorais da mesma assembleia e instruí-los com os documentos convenientes.
+
+2 - A mesa não pode negar-se a receber as reclamações, os protestos e os contraprotestos, devendo rubricá-los e apensá-los às actas.
+
+3 - As reclamações, os protestos e os contraprotestos têm de ser objecto de deliberação da mesa, que pode tomá-la no final, se entender que isso não afecta o andamento normal da votação.
+
+4 - Todas as deliberações da mesa são tomadas por maioria absoluta dos membros presentes e fundamentadas, tendo o presidente voto de desempate.

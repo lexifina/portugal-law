@@ -1,13 +1,5 @@
-## Capítulo II
-
-## Infracções eleitorais
-
-## Secção I
-
-## Infracções relativas à apresentação de candidaturas
-
 # Artigo 129.º
 
-### (Candidatura de cidadão inelegível)
+### (Constituição dos partidos políticos como assistentes)
 
-Aquele que não tendo capacidade eleitoral passiva dolosamente aceitar a sua candidatura será punido com prisão de seis meses a dois anos e multa de 10000$00 a 100000$00.
+Qualquer partido político pode constituir-se assistente nos processos por infracções criminais eleitorais cometidas na área dos círculos em que haja apresentado candidatos.

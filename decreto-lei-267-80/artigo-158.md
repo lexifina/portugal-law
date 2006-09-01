@@ -1,5 +1,5 @@
 # Artigo 158.º
 
-### (Obstrução dos candidatos ou dos delegados das listas)
+### (Reclamação e recurso de má fé)
 
-O candidato ou delegado das listas que perturbar gravemente o funcionamento regular das operações eleitorais será punido com prisão até um ano e multa de 1000$00 a 10000$00.
+Aquele que, com má fé, apresentar reclamação, recurso, protesto ou contraprotesto, ou que impugnar decisões dos órgãos eleitorais através de recurso manifestamente infundado, é punido com multa de (euro) 50 a (euro) 1000.

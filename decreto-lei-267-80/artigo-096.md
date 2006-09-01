@@ -1,19 +1,13 @@
 # Artigo 96.º
 
-### (Boletins de voto)
+### (Proibição de presença de força armada e casos em que pode comparecer)
 
-1 - Os boletins de voto são de forma rectangular, com as dimensões apropriadas para neles caber a indicação de todas as listas submetidas à votação em cada círculo e são impressos em papel branco, liso e não transparente.
+1 - Salvo o disposto nos números seguintes, nos locais onde se reunirem as assembleias de voto, e num raio de 100 m, é proibida a presença de força armada.
 
-2 - No caso de no mesmo dia se realizarem a eleição do Presidente da República ou dos Deputados da Assembleia da República, os boletins de voto para a eleição dos Deputados da Assembleia Legislativa Regional serão impressos em papel de cor.
+2 - Quando for necessário pôr termo a algum tumulto ou obstar a qualquer agressão ou violência, quer dentro do edifício da assembleia ou secção de voto, quer na sua proximidade, ou ainda em caso de desobediência às suas ordens, pode o presidente da mesa, consultada esta, requisitar a presença de força armada, sempre que possível por escrito, ou, no caso de impossibilidade, com menção na acta eleitoral das razões da requisição e do período da presença da força armada.
 
-3 - Em cada boletim de voto são impressos, de harmonia com o modelo anexo a esta lei, as denominações, as siglas e os símbolos dos partidos e coligações proponentes de candidaturas, dispostos horizontalmente, uns abaixo dos outros, pela ordem resultante do sorteio efectuado nos termos do artigo 31.º, os quais devem reproduzir os constantes do registo ou da anotação do Tribunal Constitucional, conforme os casos, devendo os símbolos respeitar rigorosamente a composição, a configuração e as proporções dos registados ou anotados.
+3 - O comandante da força armada que possua indícios seguros de que se exerce sobre os membros da mesa coacção física ou psíquica que impeça o presidente de fazer a requisição pode intervir por iniciativa própria, a fim de assegurar a genuinidade do processo eleitoral, devendo retirar-se logo que pelo presidente, ou por quem o substitua, lhe seja formulado pedido nesse sentido, ou quando verifique que a sua presença já não se justifica.
 
-4 - Na linha correspondente a cada partido ou coligação figura um quadrado em branco destinado a ser assinalado com a escolha do eleitor.
+4 - Quando o entenda necessário, o comandante da força armada, ou um seu delegado credenciado, pode visitar, desarmado e por um período máximo de dez minutos, a assembleia ou secção de voto, a fim de estabelecer contacto com o presidente da mesa ou com quem o substitua.
 
-5 - A impressão dos boletins de voto é encargo da Região através do membro do Governo Regional com competência em matéria eleitoral.
-
-6 - O membro do Governo Regional com competência em matéria eleitoral remete a cada presidente de câmara municipal os boletins de voto para que este cumpra o preceituado no n.º 2 do artigo 52.º
-
-7 - Os boletins de voto, em número igual ao dos eleitores inscritos na assembleia ou secção de voto mais 20%, são remetidos em sobrescrito fechado e lacrado.
-
-8 - O presidente da câmara municipal e os presidentes das assembleias ou secções de voto prestam contas ao membro do Governo Regional com competência em matéria eleitoral dos boletins de voto que tiverem recebido, devendo os presidentes das assembleias ou secções de voto devolver-lhe no dia seguinte ao das eleições os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.
+5 - Nos casos previstos nos n.os 2 e 3, as operações eleitorais na assembleia ou secção de voto são suspensas, sob pena de nulidade da eleição, até que o presidente da mesa considere verificadas as condições para que possam prosseguir.

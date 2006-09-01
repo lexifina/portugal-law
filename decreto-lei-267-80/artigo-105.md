@@ -1,7 +1,5 @@
 # Artigo 105.º
 
-### (Destino dos restantes boletins)
+### (Destino dos boletins de voto nulos ou objecto de reclamação ou protesto)
 
-1 - Os restantes boletins de voto são colocados em pacotes devidamente lacrados e confiados à guarda do juiz de direito da comarca.
-
-2 - Esgotado o prazo para interposição dos recursos contenciosos ou decididos definitivamente estes, o juiz promove a destruição dos boletins.
+Os boletins de voto nulos e aqueles sobre os quais haja reclamação ou protesto são, depois de rubricados, remetidos à assembleia de apuramento geral, com os documentos que lhes digam respeito.

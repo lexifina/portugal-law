@@ -1,5 +1,9 @@
+## Secção II
+
+## Infracções relativas à campanha eleitoral
+
 # Artigo 131.º
 
-### (Utilização indevida de denominação, sigla ou símbolo)
+### (Violação de deveres de neutralidade e imparcialidade)
 
-Aquele que durante a campanha eleitoral utilizar a denominação, a sigla ou o símbolo do partido ou coligação com o intuito de o prejudicar ou injuriar será punido com prisão até um ano e multa de 1000$00 a 5000$00.
+Os cidadãos abrangidos pelo artigo 59.º que infringirem os deveres de neutralidade e imparcialidade aí prescritos são punidos com prisão até 1 ano e multa de (euro) 500 a (euro) 2000.

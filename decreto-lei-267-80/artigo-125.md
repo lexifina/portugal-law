@@ -1,5 +1,11 @@
 # Artigo 125.º
 
-### (Punição da tentativa e do crime frustrado)
+### (Circunstâncias agravantes gerais)
 
-A tentativa e o crime frustrado são punidos da mesma forma que o crime consumado.
+Para além das previstas na lei penal, constituem circunstâncias agravantes gerais do ilícito eleitoral:
+
+a) O facto de a infracção influir no resultado da votação;
+
+b) O facto de a infracção ser cometida por membro da mesa de assembleia ou secção de voto ou agente da administração eleitoral;
+
+c) O facto de o agente ser candidato, delegado de partido político ou mandatário de lista.

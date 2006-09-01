@@ -1,5 +1,5 @@
 # Artigo 163.º
 
-### (Não cumprimento de outras obrigações impostas por lei)
+### Direito subsidiário
 
-Aquele que não cumprir quaisquer obrigações que lhe sejam impostas pela presente lei ou não praticar os actos administrativos necessários para a sua pronta execução ou ainda retardar injustificadamente o seu cumprimento será, na falta de incriminação prevista nos artigos anteriores, punido com multa de 1000$00 a 10000$00.
+Em tudo o que não estiver regulado no presente diploma aplica-se aos actos que impliquem intervenção de qualquer tribunal o disposto no Código de Processo Civil quanto ao processo declarativo, com excepção dos n.os 4 e 5 do artigo 145.º

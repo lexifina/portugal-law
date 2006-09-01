@@ -1,5 +1,5 @@
 # Artigo 132.º
 
-### (Utilização de publicidade comercial)
+### (Utilização indevida de denominação, sigla ou símbolo)
 
-Aquele que infringir o disposto no artigo 72.º será punido com a multa de 10000$00 a 100000$00.
+Aquele que durante a campanha eleitoral utilizar a denominação, a sigla ou o símbolo do partido ou coligação com o intuito de o prejudicar ou injuriar é punido com prisão até 1 ano e multa de (euro) 100 a (euro) 500.

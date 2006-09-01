@@ -1,5 +1,5 @@
 # Artigo 150.º
 
-### (Abuso de funções públicas ou equiparadas)
+### (Introdução do boletim na urna e desvio desta ou de boletins de voto)
 
-O cidadão investido de poder público, o funcionário ou agente do Estado ou de outra pessoa colectiva pública e o ministro de qualquer culto que, abusando das suas funções ou no exercício das mesmas, se servir delas para constranger ou induzir os eleitores a votar em determinada ou determinadas listas, ou a abster-se de votar nelas, será punido com prisão de seis meses a dois anos e multa de 10000$00 a 100000$00.
+Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois do início da votação, se apoderar da urna com os boletins de voto nela recolhidos mas ainda não apurados ou se apoderar de um ou mais boletins de voto em qualquer momento, desde a abertura da assembleia eleitoral até ao apuramento geral da eleição, é punido com prisão de 6 meses a 2 anos e multa de (euro) 2000 a (euro) 20000.

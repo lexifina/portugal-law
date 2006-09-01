@@ -10,7 +10,7 @@
 
 a) Não estão abrangidos por qualquer inelegibilidade;
 
-b) Não se candidatam por qualquer outro círculo eleitoral nem figuram em mais nenhuma lista de candidatura;
+b) Não se candidatam por qualquer outro círculo eleitoral nem figuram em mais nenhuma lista de candidatura, sem prejuízo da candidatura relativa ao círculo regional de compensação;
 
 c) Aceitam a candidatura pelo partido ou coligação eleitoral proponente da lista;
 
@@ -18,8 +18,8 @@ d) Concordam com o mandatário indicado na lista.
 
 4 - Cada lista é instruída com os seguintes documentos:
 
-a) Certidão, ou pública-forma da certidão, do Tribunal Constitucional, comprovativa do registo do partido político e da respectiva data, e ainda, no caso de lista apresentada por coligação, documentos comprovativos dos requisitos exigidos no n.º 1 do artigo 22.º
+a) Certidão, ou pública-forma de certidão, do Tribunal Constitucional comprovativa do registo do partido político e da respectiva data e ainda, no caso de lista apresentada por coligação, documentos comprovativos dos requisitos exigidos no n.º 1 do artigo 22.º;
 
-b) Certidão de inscrição no recenseamento eleitoral de cada um dos candidatos, bem como do mandatário, identificando-os em função dos elementos referidos no n.º 2;
+b) Certidão de inscrição no recenseamento eleitoral de cada um dos candidatos, bem como do mandatário, identificando-os em função dos elementos referidos no n.º 2.
 
-c) Atestado de residência de cada um dos candidatos comprovativo da residência habitual na Região há mais de dois anos.
+5 - Para além do disposto nos números anteriores, a lista relativa ao círculo regional de compensação é instruída com cópias das listas dos círculos de ilha donde também constem os candidatos ao círculo regional de compensação.

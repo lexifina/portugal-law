@@ -1,7 +1,13 @@
 # Artigo 113.º
 
-### Termo do apuramento geral
+### (Operações do apuramento geral)
 
-1 - O apuramento geral estará concluído até ao 10.º dia posterior à eleição, sem prejuízo do disposto no número seguinte.
+O apuramento geral consiste:
 
-2 - Em caso de adiamento ou declaração de nulidade da votação em qualquer assembleia ou secção de voto, a assembleia de apuramento geral reunirá no dia seguinte ao da votação ou ao do reconhecimento da sua impossibilidade, nos termos do n.º 3 do artigo 90.º, para completar as operações de apuramento do círculo.
+a) Na verificação do número total de eleitores inscritos e de votantes em cada círculo eleitoral;
+
+b) Na verificação, em cada círculo, do número total de votos obtidos por cada lista, do número de votos em branco e do número de votos nulos;
+
+c) Na distribuição de mandatos de Deputados pelas diversas listas em cada círculo;
+
+d) Na determinação, em cada círculo, dos candidatos eleitos por cada lista.

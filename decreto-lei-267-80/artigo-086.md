@@ -1,5 +1,5 @@
 # Artigo 86.º
 
-### (Extravio do cartão de eleitor)
+### (Local de exercício de sufrágio)
 
-No caso de extravio do cartão de eleitor, os eleitores têm o direito de obter informação sobre o seu número de inscrição no recenseamento na junta de freguesia, que para o efeito está aberta no dia das eleições.
+O direito de voto é exercido apenas na assembleia eleitoral correspondente ao local por onde o eleitor esteja recenseado.

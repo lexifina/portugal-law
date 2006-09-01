@@ -1,7 +1,5 @@
 # Artigo 155.º
 
-### (Fraudes da mesa de assembleia de voto e da assembleia de apuramento geral)
+### (Não comparência da força armada)
 
-1 - O membro da mesa da assembleia ou secção de voto que dolosamente apuser ou consentir que se aponha nota de descarga em eleitor que não votar ou que não a apuser em eleitor que votou, que trocar na leitura dos boletins de voto a lista votada, que diminuir ou aditar votos a uma lista no apuramento ou que por qualquer modo falsear a verdade da eleição será punido com prisão de seis meses a dois anos e multa de 20000$00 a 100000$00.
-
-2 - As mesmas penas serão aplicadas ao membro da assembleia de apuramento geral que cometer qualquer dos actos previstos no número anterior.
+Sempre que seja necessária a presença de força armada nos casos previstos no n.º 2 do artigo 96.º, o comandante da mesma é punido com pena de prisão até 1 ano se injustificadamente não comparecer.

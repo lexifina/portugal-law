@@ -1,5 +1,5 @@
 # Artigo 146.º
 
-### (Voto plúrimo)
+### (Impedimento do sufrágio por abuso de autoridade)
 
-Aquele que votar mais de uma vez será punido com prisão de seis meses a dois anos e multa de 20000$00 a 100000$00.
+O agente de autoridade que dolosamente, no dia das eleições, sob qualquer pretexto, fizer sair do seu domicílio ou permanecer fora dele qualquer eleitor para que não possa ir votar é punido com prisão até 2 anos e multa de (euro) 500 a (euro) 2000.
