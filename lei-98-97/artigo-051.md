@@ -16,7 +16,7 @@ e) Outros órgãos constitucionais;
 
 f) Os serviços do Estado e das Regiões Autónomas, incluindo os localizados no estrangeiro, personalizados ou não, qualquer que seja a sua natureza jurídica, dotados de autonomia administrativa ou de autonomia administrativa e financeira, incluindo os fundos autónomos e organismos em regime de instalação;
 
-g) O Estado-Maior-General das Forças Armadas e respectivos ramos, bem como as unidades militares;
+g) O Estado-Maior-General das Forças Armadas e respectivos ramos;
 
 h) A Santa Casa da Misericórdia e o seu Departamento de Jogos;
 

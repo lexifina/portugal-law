@@ -28,4 +28,4 @@ d) Comunicar ao Ministério Público os casos de infracções financeiras detect
 
 3 - Em sessão diária de visto os juízes de turno, estando de acordo, podem conceder ou reconhecer a isenção ou dispensa de visto, bem como solicitar elementos adicionais ou informações aos respectivos serviços ou organismos.
 
-4 -(Revogado).
+4 - Compete aos juízes da 1.ª Secção aplicar as multas referidas no n.º 1 do artigo 66.º relativamente aos processos de que sejam relatores.

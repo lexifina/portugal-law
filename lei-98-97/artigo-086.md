@@ -6,4 +6,4 @@
 
 2 - A fim de assegurar a unidade de aplicação do direito, quando a importância jurídica da questão, a sua novidade, as divergências suscitadas ou outras razões ponderosas o justifiquem, o Presidente pode alargar a discussão e votação da deliberação aos restantes juízes.
 
-3 - No caso referido no número anterior, a deliberação aprovada será publicada no Diário da República, se o Tribunal o entender.
+3 - (Revogado).

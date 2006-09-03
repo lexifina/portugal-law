@@ -14,4 +14,4 @@ d) Tendo havido verificação externa da conta, parecer sobre a homologação do
 
 2 - No requerimento podem deduzir-se pedidos cumulativos, ainda que por diferentes infracções, com as correspondentes imputações subjectivas.
 
-3 - Todas as provas serão apresentadas com o requerimento e com a indicação dos factos que visam provar, não podendo ser indicadas mais de três testemunhas a cada facto.
+3 - Com o requerimento são apresentadas as provas disponíveis indiciadoras dos factos geradores da responsabilidade, não podendo ser indicadas mais de três testemunhas a cada facto.

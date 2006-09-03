@@ -2,7 +2,7 @@
 
 ### Sentença
 
-1 - O juiz não está vinculado ao montante indicado no requerimento do Ministério Público, podendo condenar em maior ou menor quantia.
+1 - O juiz não está vinculado ao montante indicado no requerimento, podendo condenar em maior ou menor quantia.
 
 2 - No caso de condenação em reposição de quantias por efectivação de responsabilidade financeira, a sentença condenatória fixará a data a partir da qual são devidos os juros de mora respectivos.
 

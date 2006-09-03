@@ -8,7 +8,9 @@ a) Julgar os recursos das decisões proferidas em 1.ª instância, na sede e nas
 
 b) Julgar os recursos dos emolumentos fixados nos processos de verificação de contas e nos de auditoria da 2.ª Secção e das secções regionais;
 
-c) Julgar os pedidos de revisão das decisões transitadas em julgado proferidas pelo plenário ou em 1.ª instância.
+c) Julgar os recursos das decisões de aplicação de multas proferidas nas 1.ª e 2.ª Secções e nas secções regionais;
+
+d) Julgar os pedidos de revisão das decisões transitadas em julgado proferidas pelo plenário ou em 1.ª instância.
 
 2 - Aos juízes da 3.ª Secção compete a preparação e julgamento em 1.ª instância dos processos previstos no artigo 58.º
 

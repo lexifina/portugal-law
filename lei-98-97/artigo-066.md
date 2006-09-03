@@ -16,6 +16,6 @@ e) Pela inobservância dos prazos legais de remessa ao Tribunal dos processos re
 
 f) Pela introdução nos processos de elementos que possam induzir o Tribunal em erro nas suas decisões ou relatórios.
 
-2 - As multas previstas no n.º 1 deste artigo têm como limite mínimo o montante de 50000$00 e como limite máximo o montante de 500000$00.
+2 - As multas referidas no número anterior têm como limite mínimo o montante que corresponde a 5 UC e como limite máximo o correspondente a 40 UC.
 
 3 - Se as infracções previstas neste artigo forem cometidas por negligência, o limite máximo será reduzido a metade.

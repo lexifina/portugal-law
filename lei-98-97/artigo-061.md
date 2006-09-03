@@ -11,3 +11,5 @@
 4 - Essa responsabilidade pode recair ainda nos funcionários ou agentes que, nas suas informações para os membros do Governo ou para os gerentes, dirigentes ou outros administradores, não esclareçam os assuntos da sua competência de harmonia com a lei.
 
 5 - A responsabilidade prevista nos números anteriores só ocorre se a acção for praticada com culpa.
+
+6 - Aos visados compete assegurar a cooperação e a boa fé processual com o Tribunal, sendo-lhes garantido, para efeitos de demonstração da utilização de dinheiros e outros valores públicos colocados à sua disposição de forma legal, regular e conforme aos princípios de boa gestão, o acesso a toda a informação disponível necessária ao exercício do contraditório.

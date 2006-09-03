@@ -41,3 +41,5 @@ b) Ordenar e, sendo caso disso, presidir às diligências necessárias à instru
 c) Apresentar proposta fundamentada à subsecção no sentido de ser solicitada a coadjuvação dos órgãos de controlo interno ou o recurso a empresas de auditoria ou de consultadoria técnica;
 
 d) Coordenar a elaboração do projecto de relatório de verificação externa de contas e das auditorias a apresentar à aprovação da subsecção.
+
+e) Aplicar as multas referidas no n.º 1 do artigo 66.º
