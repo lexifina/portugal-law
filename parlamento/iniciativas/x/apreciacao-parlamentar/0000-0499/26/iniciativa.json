@@ -1,0 +1,114 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "tipo": "Apreciação Parlamentar",
+  "numero": "26",
+  "id": "33258",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2006-09-06",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2006-09-14",
+    "DataInicioleg": "2005-03-10",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "1239",
+        "nome": "Luís Marques Guedes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1561",
+        "nome": "Luís Montenegro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1641",
+        "nome": "Henrique Rocha de Freitas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2126",
+        "nome": "Zita Seabra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "249",
+        "nome": "Mendes Bota"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2015",
+        "nome": "António Almeida Henriques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "52",
+        "nome": "Fernando Santos Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1245",
+        "nome": "António Montalvão Machado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1998",
+        "nome": "Luís Campos Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1458",
+        "nome": "Carlos Alberto Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2158",
+        "nome": "Pedro Quartin Graça"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": [
+      {
+        "assunto": "Cessação da vigência do Decreto-Lei n.º 164/2006, de 9 de Agosto.",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "33281",
+        "legislatura": "X",
+        "numero": "155",
+        "sessao": "2",
+        "tipo": "R"
+      }
+    ],
+    "IniDescTipo": "Apreciação Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "33258",
+    "IniLeg": "X",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a426a5a6d4a6a59544a694c575a694e5755744e474a6b4d6931694d3251304c54426a4e474e684e6d45344e5455794f43356b62324d3d&fich=0cfbca2b-fb5e-4bd2-b3d4-0c4ca6a85528.doc&Inline=true",
+    "IniNr": "26",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "A",
+    "IniTitulo": "Relativo ao Decreto-Lei n.º 164/2006, de 9 de Agosto, que \"Cria a Fundação de Arte Moderna e Contemporânea - colecção Berardo e aprova os seus estatutos\"",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
