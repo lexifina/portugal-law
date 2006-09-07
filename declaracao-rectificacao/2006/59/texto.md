@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 59/2006
+Para os devidos efeitos se declara que o Decreto-Lei n.º 169/2006, publicado no Diário da República, 1.ª série, n.º 158, de 17 de Agosto de 2006, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 2 do artigo 7.º, onde se lê «A taxa de referência para o cálculo das bonificações mencionada no número anterior aplica-se às operações em curso e às operações que vierem a ser contratadas na sequência do disposto no n.º 4 do artigo 9.º do presente decreto-lei.» deve ler-se «A taxa de referência para o cálculo das bonificações mencionada no número anterior aplica-se às operações em curso e às operações que vierem a ser contratadas na sequência do disposto no n.º 4 do artigo 8.º do presente decreto-lei.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Agosto de 2006. - O Secretário-Geral, José M. Sousa Rego.
