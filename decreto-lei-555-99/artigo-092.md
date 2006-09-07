@@ -2,7 +2,7 @@
 
 ### Despejo administrativo
 
-1 - A câmara municipal pode ordenar o despejo sumário dos prédios ou parte de prédios nos quais haja de realizar-se as obras referidas nos n.os 2 e 3 do artigo 89.º, sempre que tal se mostre necessário à execução das mesmas.
+1 - A câmara municipal pode ordenar o despejo sumário dos prédios ou parte de prédios nos quais haja de realizar-se as obras referidas nos n.ºs 2 e 3 do artigo 89.º, sempre que tal se mostre necessário à execução das mesmas.
 
 2 - O despejo referido no número anterior pode ser determinado oficiosamente ou, quando o proprietário pretenda proceder às mesmas, a requerimento deste.
 
@@ -10,4 +10,4 @@
 
 4 - O despejo deve executar-se no prazo de 45 dias a contar da sua notificação aos ocupantes, salvo quando houver risco iminente de desmoronamento ou grave perigo para a saúde pública, em que poderá executar-se imediatamente.
 
-5 - Fica garantido aos inquilinos o direito à reocupação dos prédios, uma vez concluídas as obras realizadas, havendo lugar a aumento de renda nos termos gerais.
+5 - Ao despejo de ocupante titular de contrato de arrendamento aplica-se o disposto no Decreto-Lei n.º 157/2006, de 8 de Agosto.
