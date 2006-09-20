@@ -1,0 +1,13 @@
+Portaria n.º 1024/2006
+de 20 de Setembro
+Pela Portaria n.º 397/95, de 3 de Maio, alterada pela Portaria n.º 340/99, de 13 de Maio, foi concessionada à NEGRICAÇA - Sociedade de Caça, Pesca e Turismo, Lda., a zona de caça turística da Negrita (processo n.º 1552-DGRF), situada no município de Moura, válida até 29 de Junho de 2006.
+Veio agora Nuno Alexandre Graça Eugénio de Almeida requerer a renovação e simultaneamente a mudança de concessionário da zona de caça acima referida.
+Cumpridos os preceitos legais, com fundamento no disposto nos artigos 45.º e 48.º e no n.º 1 do artigo 118.º, em conjugação com o estipulado na alínea a) do artigo 40.º e no n.º 2 do artigo 164.º, do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria a zona de caça turística da Negrita (processo n.º 1552-DGRF), situada nas freguesias de Santo Aleixo da Restauração e Sobral da Adiça, município de Moura, é transferida para Nuno Alexandre Graça Eugénio de Almeida, com o número de identificação fiscal 121357260 e sede na Herdade da Negrita, 7875 Santo Aleixo da Restauração.
+2.º É renovada, por um período de 12 anos, renovável automaticamente por um único e igual período e com efeitos a partir do dia 30 de Junho de 2006, a concessão da zona de caça turística da Negrita (processo n.º 1552-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Santo Aleixo da Restauração, município de Moura, com a área de 3537 ha, conforme planta anexa à presente portaria e que dela faz parte integrante e que exprime uma redução de área concessionada de 1575,0748 ha.
+3.º São criadas duas áreas de condicionamento parcial à actividade cinegética, devidamente assinaladas na planta anexa.
+4.º A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza até um máximo de 10% da área total da zona de caça.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 31 de Agosto de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 3 de Agosto de 2006.
+
+(ver documento original)
