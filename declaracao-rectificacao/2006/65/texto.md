@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 65/2006
+Por ter sido publicado com inexactidão, no Diário da República, 1.ª série, n.º 177, de 13 de Setembro de 2006, o Decreto do Presidente da República n.º 70/2006, de 13 de Setembro, rectifica-se que onde se lê «o embaixador José Manuel de Carvalho Lameiras para o cargo de Embaixador de Portugal em Ankara» deve ler-se «o ministro plenipotenciário de 1.ª classe José Manuel de Carvalho Lameiras para o cargo de Embaixador de Portugal em Ankara».
+Secretaria-Geral da Presidência da República, 14 de Setembro de 2006. - O Secretário-Geral, Arnaldo Pereira Coutinho.
