@@ -1,0 +1,6 @@
+Aviso n.º 675/2006
+Por ordem superior se torna público que, por notificação de 28 de Junho de 2006, o Ministério dos Negócios Estrangeiros da República Italiana notificou ter a Nigéria, em 1 de Dezembro de 2005, depositado o seu instrumento de ratificação à Convenção do Unidroit sobre Bens Culturais Roubados ou ilicitamente Exportados, adoptada em Roma em 22 de Junho de 1995.
+A República Portuguesa é Parte na mesma Convenção, a qual foi aprovada pela Resolução da Assembleia da República n.º 34/2000 e ratificada pelo Decreto do Presidente da República n.º 22/2000, ambos publicados no Diário da República, 1.ª série-A, n.º 80, de 4 de Abril de 2000.
+O instrumento de ratificação foi depositado em 19 de Julho de 2002, conforme o Aviso n.º 80/2002, publicado no Diário da República, 1.ª série-A, n.º 186, de 13 de Agosto de 2002, estando a Convenção em vigor para a República Portuguesa desde 1 de Janeiro de 2003, conforme o Aviso n.º 80/2002, publicado no Diário da República, 1.ª série-A, n.º 186, de 13 de Agosto de 2002.
+A autoridade nacional competente para efeitos da Convenção é a Polícia Judiciária, de acordo com o publicado no Diário da República, 1.ª série-A, n.º 186, de 13 de Agosto de 2002.
+Departamento de Assuntos Jurídicos, 5 de Setembro de 2006. - O Director, Luís Serradas Tavares.
