@@ -1,0 +1,8 @@
+Instrução n.º 1/2006
+Aplicação à Região Autónoma da Madeira (RAM) da instrução para a inventariação das participações e das concessões do Estado e de outros entes públicos e equiparados
+No uso da competência que me é conferida pela alínea a) do artigo 104.º da Lei n.º 98/97, de 26 de Agosto, determino o seguinte:
+1 - São aplicáveis aos entes públicos e equiparados, sediadas no território da Região Autónoma da Madeira, como tal definidos no artigo 2.º do Decreto-Lei n.º 491/99, de 17 de Novembro, as instruções n.º 1/2000 - 2.ª Secção, publicada no Diário da República, 2.ª série, n.º 112, de 15 de Maio de 2000, relativas à inventariação das participações e das concessões do Estado e de outros entes públicos e equiparados.
+2 - O prazo previsto no n.º 1 da 2.ª instrução (15 de Maio) é antecipado para 30 de Abril em face da alteração da data limite para a remessa de contas ao Tribunal de Contas (cf. artigo 52.º, n.º 4, da Lei n.º 98/97, na redacção dada pelo artigo 1.º da Lei n.º 48/2006, de 29 de Agosto).
+3 - A presente instrução entra em vigor no dia imediato ao da sua publicação e inicia a sua produção de efeitos com referência à informação relativa a 31 de Dezembro de 2005, a qual, excepcionalmente, deve ser remetida à Secção Regional da Madeira do Tribunal de Contas até 31 de Outubro de 2006, acompanhada das alterações que entretanto se tenham concretizado.
+4 - A publicação da presente instrução na 2.ª série do Diário da República e do Jornal Oficial da Região Autónoma da Madeira, nos termos dos n.os 2, alínea d), e 3 do artigo 9.º da Lei n.º 98/97.
+19 de Setembro de 2006. - O Juiz Conselheiro, Manuel Mota Botelho.
