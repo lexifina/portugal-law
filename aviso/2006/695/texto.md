@@ -1,0 +1,12 @@
+Aviso n.º 695/2006
+Por ordem superior se torna público que, por notificação de 5 de Julho de 2006, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Sérvia realizado uma declaração relativamente à Convenção Relativa à Supressão da Exigência da Legalidade dos Actos Públicos Estrangeiros, adoptada na Haia em 5 de Outubro de 1961.
+A declaração é a seguinte:
+«[...] following the declaration of the state independence of Montenegro, and under the article 60 of the Constitutional Charter of the state union of Serbia and Montenegro, the Republic of Serbia is continuing international personality of the state union of Serbia and Montenegro, which was informed also by the National Assembly of the Republic of Serbia at its session held on 5 June 2006.»
+Traduction
+[...] suite à la déclaration d'indépendance du Monténégro, et conformément à l'article 60 de la Charte constitutionnelle de la communauté d'États de Serbie-et-Monténégro, la République de Serbie hérite de la personnalité internationale de la communauté d'États de Serbie-et-Monténégro, comme cette dernière en a été informée par l'Assemblée Nationale de la République de Serbie lors de sa séance du 5 juin 2006.
+Tradução
+No seguimento da declaração de independência do Estado de Montenegro, e de acordo com o artigo 60.º da Carta Constitucional da União Estadual da Sérvia e Montenegro, a República da Sérvia é continuadora da personalidade internacional da União Estadual da Sérvia e Montenegro, o que foi igualmente informado pela Assembleia Nacional da República da Sérvia na sessão que teve lugar a 5 de Junho de 2006.
+A República Portuguesa é Parte na mesma Convenção, a qual foi aprovada para ratificação pelo Decreto-Lei n.º 48450, publicado no Diário do Governo, 1.ª série, n.º 148, de 24 de Junho de 1968, e ratificada em 6 de Dezembro de 1968, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 50, de 28 de Fevereiro de 1969.
+A Convenção entrou em vigor para a República Portuguesa em 4 de Fevereiro de 1969, de acordo com o publicado no Diário do Governo, 1.ª série, n.º 50, de 28 de Fevereiro de 1969.
+As entidades competentes para emitir a apostilha prevista no artigo 3.º da Convenção são a Procuradoria-Geral da República e os procuradores da República junto das Relações, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 78, de 2 de Abril de 1969.
+Departamento de Assuntos Jurídicos, 25 de Setembro de 2006. - O Director, Luís Serradas Tavares.
