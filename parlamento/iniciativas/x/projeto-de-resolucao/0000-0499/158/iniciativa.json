@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "tipo": "Projeto de Resolução",
+  "numero": "158",
+  "id": "33294",
+  "fases": 9,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2006-10-12",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2007-09-14",
+    "DataInicioleg": "2006-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "1239",
+        "nome": "Luís Marques Guedes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2128",
+        "nome": "Miguel Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2015",
+        "nome": "António Almeida Henriques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2142",
+        "nome": "Luís Pais Antunes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1537",
+        "nome": "Hugo Velosa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1245",
+        "nome": "António Montalvão Machado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1639",
+        "nome": "José Eduardo Martins"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": [
+      {
+        "assunto": "Prorrogação do prazo de vigência da Comissão Eventual para o Acompanhamento das Questões Energéticas.",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "33954",
+        "legislatura": "X",
+        "numero": "337",
+        "sessao": "3",
+        "tipo": "R"
+      }
+    ],
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "33294",
+    "IniLeg": "X",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4e6a4f47517a4f5441784c54566b4e5751744e4749774e7931684d324d794c5455775a44526a5a4459345a47566b4e43356b62324d3d&fich=3c8d3901-5d5d-4b07-a3c2-50d4cd68ded4.doc&Inline=true",
+    "IniNr": "158",
+    "IniObs": "Despacho do PAR nº 145/X - Relativo à composição da Comissão Eventual: DAR II S C 50, de 2007-04-28; Designação dos Deputados para a Comissão Eventual: DAR II S C 54; de 2007-05-12; Regulamento da Comissão: DAR II S C 58, de 2007-05-25; Eleição da Mesa: DAR II S C 60, de 2007-06-02; Relatório final: DAR II S C 29, de 2009-07-20; Apreciação do Relatório: DAR I S 105, de 2007-07-24",
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Constituição de uma Comissão Eventual para a Política Energética.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
