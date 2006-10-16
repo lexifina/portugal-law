@@ -1,0 +1,529 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "99",
+    "id": "33300",
+    "titulo": "Orçamento do Estado para 2007."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2006-10-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "17895",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2006-10-24",
+            "id": "82165",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-24",
+            "id": "82164",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-25",
+            "id": "82168",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-25",
+            "id": "82167",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-25",
+            "id": "82166",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-26",
+            "id": "82176",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-26",
+            "id": "82171",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-26",
+            "id": "82170",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-26",
+            "id": "82169",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-27",
+            "id": "82178",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-27",
+            "id": "82177",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-30",
+            "id": "82181",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-30",
+            "id": "82180",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-30",
+            "id": "82179",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-31",
+            "id": "82183",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-10-31",
+            "id": "82182",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-11-02",
+            "id": "82184",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2006-11-03",
+            "id": "82185",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2006-10-18",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2006-10-18",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": null,
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "247",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças (pré RAR)",
+        "Numero": "247",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório, conclusões e parecer da comissão e respectivos relatórios, conclusões e pareceres de diversas comissões especializadas",
+            "pag": [
+              "2-94"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-11-09",
+            "pubLeg": "X",
+            "pubNr": "15",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/10/02/015/2006-11-09/2?pgs=2-94&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-10-25",
+            "pubLeg": "X",
+            "pubNr": "1",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/001/2006-10-25?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-10-26",
+            "pubLeg": "X",
+            "pubNr": "2",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/002/2006-10-26?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-10-27",
+            "pubLeg": "X",
+            "pubNr": "3",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/003/2006-10-27?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-10-28",
+            "pubLeg": "X",
+            "pubNr": "4",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/004/2006-10-28?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-10-31",
+            "pubLeg": "X",
+            "pubNr": "5",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/005/2006-10-31?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-11-02",
+            "pubLeg": "X",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/006/2006-11-02?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-11-03",
+            "pubLeg": "X",
+            "pubNr": "7",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/007/2006-11-03?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-11-04",
+            "pubLeg": "X",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/008/2006-11-04?org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório, conclusões e parecer da comissão e respectivos relatórios, conclusões e pareceres de diversas comissões especializadas",
+            "pag": [
+              "2-94"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-11-09",
+            "pubLeg": "X",
+            "pubNr": "15",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/10/02/015/2006-11-09/2?pgs=2-94&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-10-25",
+            "pubLeg": "X",
+            "pubNr": "1",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/001/2006-10-25?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-10-26",
+            "pubLeg": "X",
+            "pubNr": "2",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/002/2006-10-26?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-10-27",
+            "pubLeg": "X",
+            "pubNr": "3",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/003/2006-10-27?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-10-28",
+            "pubLeg": "X",
+            "pubNr": "4",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/004/2006-10-28?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-10-31",
+            "pubLeg": "X",
+            "pubNr": "5",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/005/2006-10-31?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-11-02",
+            "pubLeg": "X",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/006/2006-11-02?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-11-03",
+            "pubLeg": "X",
+            "pubNr": "7",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/007/2006-11-03?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-11-04",
+            "pubLeg": "X",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR II S C-OE",
+            "pubTp": "Q",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/10/02/008/2006-11-04?org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "2249",
+            "motivoCessacao": null,
+            "nome": "Aldemira Pinho"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2006-11-06",
+            "dataRemessa": "2006-11-07",
+            "numeroOficio": "97/5ª-COF",
+            "observacoes": "Anexados os Relatórios, Conclusões e Pareceres das 1.ª, 2.ª, 3.ª, 4.ª, 6.ª, 7.ª, 8.ª, 9.ª, 10.ª e 11.ª Comissões Permanentes",
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2006-11-07",
+            "descricao": "Conclusões aprovadas com os votos a favor do PS e votos contra do PSD, PCP, CDS-PP e BE - Parecer aprovado por Unanimidade",
+            "detalhe": null,
+            "id": "49387",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "107",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2006-10-16",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "245797",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
