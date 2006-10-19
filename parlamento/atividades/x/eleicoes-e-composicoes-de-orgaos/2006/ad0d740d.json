@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=NcsHHdaa6jvttRWoxPJ73b3%2f2%2ftQZdxqvgcwR9HhU6U72YBnemmk1zfDnkyJC2khVisd94odYdzMlZ0%2f%2fX4wPsJ79iFJjtn07b3tBvqgQzvKu%2bXIs%2bW%2fX8sXyHLXgUpmADPU0OwIHExaxkaIGSH27FrUlMES%2fqZOhmEHSO3a6tOd8bMJIApMe8Js7ZDhWUXISToTI6Gt9UghhDLfWD%2bHtBCeQ2qHGcYyClLE8utG3Stl1XFXCi888QLjScx4CE8zDeHjIbAAJuoVAsMVPsZ7keNRSzw3mFkm%2f1dLA2Gj4Wi2z4QDYrHPqtV%2f0OYUVaYz3wUZej3UCuBc0xVIyPkQ5n1u3x%2bvYwtMviSRulY3%2bLc%3d&fich=AtividadesX_json.txt&Inline=true",
+  "ficheiro_sha256": "ebfe74c166306d899b60b6dc4babfc7d5533752981b0ad8bca289da158595cb6",
+  "legislatura": "X",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2006-10-19",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição do Presidente da Comissão Nacional de Protecção de Dados",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": "2006-10-20",
+    "DataAnuncio": null,
+    "DataEntrada": "2006-10-19",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": "Presidente",
+        "nome": "Luís Novais Lingnau da Silveira"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "X",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Comissão Nacional de Proteção de Dados",
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": [
+      "14541",
+      "14874"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2006-10-19",
+        "descricao": null,
+        "detalhe": null,
+        "id": "49386",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "380108",
+            "obs": null,
+            "pag": [
+              "6-6",
+              "42-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-10-20",
+            "pubLeg": "X",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/014/2006-10-20/6?pgs=6,42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "418080",
+            "obs": "Anúncio",
+            "pag": [
+              "5-5"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2006-10-21",
+            "pubLeg": "X",
+            "pubNr": "15",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/015/2006-10-21/5?pgs=5&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "14",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
