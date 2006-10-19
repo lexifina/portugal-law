@@ -1,0 +1,112 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "1",
+    "id": "33288",
+    "titulo": "Constituição de uma Comissão Eventual de Inquérito Parlamentar ao processamento, disponibilização e divulgação de registo de chamadas telefónicas protegidos pela obrigação de confidencialidade."
+  },
+  "fase": "Constituição de uma Comissão de Inquérito",
+  "codigo_fase": "603",
+  "data_registo": "2006-10-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "603",
+    "Comissao": [
+      {
+        "AccId": "32791",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2006-11-22",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2006-10-19",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": null,
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "1463",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão Eventual de Inquérito Parlamentar ao Processamento, Disponibilização e Divulgação de Registos de Chamadas Telefónicas Protegidos pela Obrigação de Confidencialidade (pré RAR)",
+        "Numero": "1463",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "2054",
+            "motivoCessacao": null,
+            "nome": "Helena Terra"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2006-03-22",
+            "dataRemessa": "2006-03-22",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "Francisco Madeira Lopes (PEV)",
+              "Paulo Castro Rangel (PSD)",
+              "Guilherme Silva (PSD)"
+            ],
+            "data": "2007-03-22",
+            "descricao": null,
+            "detalhe": "A Favor: <I>Helena Terra (PS)</I>, <I> Jorge Seguro Sanches (PS)</I>, <I> Fernando Rosas (BE)</I>, <I> Maria Antónia De Almeida Santos (PS)</I>, <I> Marques Júnior (PS)</I>, <I> Lúcio Ferreira (PS)</I>, <I> Sónia Sanfona (PS)</I>, <I> Cláudia Couto Vieira (PS)</I>, <I> Ricardo Rodrigues (PS)</I>, <I> José Vera Jardim (PS)</I>, <I> António Galamba (PS)</I>, <I> João Serrano (PS)</I>, <I> Marcos Sá (PS)</I><BR>Contra:<I>Fernando Negrão (PSD)</I>, <I> José Pedro Aguiar Branco (PSD)</I>, <I> António Montalvão Machado (PSD)</I><BR>Abstenção:<I>António Filipe (PCP)</I>, <I> Jorge Machado (PCP)</I>, <I> João Rebelo (CDS-PP)</I>, <I> Nuno Magalhães (CDS-PP)</I><BR>Ausência: <I>Francisco Madeira Lopes (PEV)</I>, <I> Paulo Castro Rangel (PSD)</I>, <I> Guilherme Silva (PSD)</I>",
+            "id": "65739",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "18",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2006-10-19",
+    "EvtId": "94",
+    "Fase": "Constituição de uma Comissão de Inquérito",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "253337",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
