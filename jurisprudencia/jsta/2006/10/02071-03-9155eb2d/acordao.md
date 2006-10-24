@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2006-10-24, processo 02071/03
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 02071/03
+
+**Data do Acordão:** 10/24/2006
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** ROSENDO JOSÉ
+
+**Descritores:** OBRAS DE URBANIZAÇÃO.; EMBARGO.; LOTEAMENTO IRREGULAR.; VIABILIZAÇÃO EXCEPCIONAL.; ESTRUTURA URBANA CONSOLIDADA.
+
+**Nº Convencional:** JSTA00063606
+
+**Nº do Documento:** SA12006102402071
+
+**Data de Entrada:** 12/29/2003
+
+**Recorrente:** A...
+
+**Recorrido 1:** MIN DAS CIDADES, ORDENAMENTO DO TERRITÓRIO E AMBIENTE
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** DESP MINCOTA DE 2003/09/26.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR URB - OBRAS.
+
+**Legislação Nacional:** DRGU 11/99 DE 1999/03/21 ART11.
+
+## Sumário
+
+I - O embargo pela Administração Central de obras novas de conversão de infra-estruturas urbanísticas que nunca tinham sido concluídas (e tinham por isso dado lugar a declaração de caducidade do primitivo alvará do loteamento), com fundamento em que a aprovação pelo órgão municipal contraria o PDM e falta de justificação da excepcionalidade da viabilização assenta, na primeira vertente, em razões de ordem material objectivadas no Plano e a segunda vertente não assume valor autónomo como violação específica do Plano, logo, não é determinante da nulidade detectada. II - A estrutura urbana consolidada é aquela em que existe uma parcela de território transformada pela utilização humana para a habitação desde longa data com características de centralidade e dotada de valências e complementaridades sociais que induzem as características da ocupação e do edificado, de que outras áreas mais recentemente urbanizadas representam a expansão, sem atingirem a multiplicidade e riqueza de elementos que caracterizam a primeira.
+
+III – Um loteamento num pinhal, afastado de outro tipo de ocupação urbana, aprovado por volta de 1970 para construção de casas destinadas a ocupação turística e 2.ª habitação em que algumas infra-estruturas nunca foram concluídas, (apesar de as casas e parte das infra-estruturas terem sido construídas) e em que as construídas se encontram desadequadas e a necessitar de reabilitação, não pode considerar-se uma estrutura urbana consolidada.
+
+IV - As áreas comprometidas urbanisticamente para fins predominantemente turísticos ou de 2ª residência, desinseridas de zonas urbanas são indicadas para a consolidação e reestruturação da oferta turística, nomeadamente através de remodelações nas urbanizações existentes ou aprovadas, mas esta expressão que é usada em instrumentos urbanísticos, refere-se à definição do que são zonas afectas a urbanismo de fins turísticos e respectivo aproveitamento de acordo com o compromisso já existente, não à definição de um conceito de estrutura urbana consolidada. A consolidação usada neste contexto refere-se ao compromisso com o fim turístico e não à estrutura urbana.
