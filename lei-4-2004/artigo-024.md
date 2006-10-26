@@ -10,7 +10,7 @@
 
 a) A designação do novo serviço, dos serviços que lhe deram origem ou do serviço extinto, no caso, respectivamente, de criação, reestruturação ou fusão, ou extinção;
 
-b) A definição da sua natureza funcional enquanto serviços executivos ou de controlo e de fiscalização, ou de coordenação;
+b) (Revogada);
 
 c) A respectiva missão;
 

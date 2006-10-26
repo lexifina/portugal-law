@@ -6,4 +6,4 @@
 
 2 - As propostas referidas no número anterior devem conter justificação objectiva e fundamentada das situações respeitantes ao esgotamento da finalidade do serviço em causa ou das relativas à prossecução de missões complementares, paralelas ou sobrepostas às de outros serviços.
 
-3 - Os diplomas a que se refere o presente artigo devem prever as regras de sucessão de direitos e obrigações e determinar a reafectação dos correspondentes recursos financeiros e organizacionais, bem como a colocação e afectação dos recursos humanos, nos termos legais aplicáveis.
+3 - (Revogado).
