@@ -14,4 +14,4 @@
 
 6 - Pelas obrigações do instituto responde apenas o seu património, mas os credores, uma vez executada a integralidade do património do mesmo ou extinto o instituto público, poderão demandar o Estado para satisfação dos seus créditos.
 
-7 - Em caso de extinção, o património dos institutos públicos e os bens dominiais sujeitos à sua administração revertem para o Estado, salvo quando se tratar de fusão ou reestruturação, caso em que o património e os bens dominiais podem reverter para o novo instituto ou ser-lhe afectos, desde que tal possibilidade esteja expressamente prevista no diploma legal que proceder à fusão ou reestruturação.
+7 - (Revogado).
