@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal Administrativo de 2006-10-26, processo 0988/05
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0988/05
+
+**Data do Acordão:** 10/26/2006
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** ANGELINA DOMINGUES
+
+**Descritores:** FUNDO SEGURANÇA EUROPEU.; APOIO À FORMAÇÃO PROFISSIONAL.; AVALIAÇÃO.; FUNDAMENTAÇÃO DO ACTO ADMINISTRATIVO.
+
+**Nº Convencional:** JSTA00063548
+
+**Nº do Documento:** SA1200610260988
+
+**Data de Entrada:** 10/03/2005
+
+**Recorrente:** ACA-ASSOC COMERCIAL DE AVEIRO
+
+**Recorrido 1:** A...
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAC COIMBRA.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM ECON - APOIO FINANC FORMAÇÃO PROFISSIONAL.
+
+**Legislação Nacional:** DRGU 12-A/2000 DE 2000/09/15 ART18.
+
+## Sumário
+
+I - Não preenche o requisito previsto na alínea b) do Decreto -Regulamentar 12-A/2000, de 15 de Setembro, a candidatura aos apoios a conceder pelo FSE, no âmbito da formação profissional, da inserção no mercado de trabalho e dos apoios ao emprego, cujo diagnostico de necessidades não apresente dados concludentes relativamente à procura de empregos, em área em que é proposta a formação.
+
+II - Não viola o disposto na alínea a) do n.º 1 do art.º 18.º do Dec. Regulamentar 12-A/2000, segundo o qual na apreciação das candidaturas aos apoios em causa deve ser avaliada a “relevância estratégica das acções propostas, em termos nacionais, regionais ou sectoriais”, a decisão do ... do POCENTRO que considera não verificada a aludida relevância estratégica, em relação a uma candidatura que se propõe realizar cursos em áreas para as quais já se encontram satisfeitas as necessidades do mercado, por outros cursos realizados ou em realização na área.
+
+III - Para a avaliação do critério a que se refere a alínea c) do art.º 18.º em referência “Qualidade técnica das acções propostas, nomeadamente no que respeita à coerência entre o perfil dos destinatários, os conteúdos, a metodologia e a duração da intervenção, bem como no que se refere aos métodos de avaliação da execução e dos resultados da intervenção”, é necessária a indicação da área de proveniência dos formandos, nomeadamente as respectivas habilitações e experiência profissional.
+
+IV - A fundamentação do acto administrativo é um conceito relativo que varia em função do tipo legal do acto em causa.
+
+Sendo um requisito formal e não substancial do acto, o que verdadeiramente importa é a revelação, através do mesmo, do iter cognoscitivo e valorativo do autor do acto, de forma a permitir aos interessados, discordando dele, impugná-lo.
