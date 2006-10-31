@@ -1,0 +1,5 @@
+Aviso n.º 711/2006
+Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 21 de Setembro de 2006, junto do Director-Geral da UNESCO, o seu instrumento de ratificação da Convenção sobre a Protecção do Património Subaquático, aprovada em Paris na XXXI Sessão da Conferência Geral da UNESCO.
+A referida Convenção foi aprovada pela Resolução da Assembleia da República n.º 51/2006, de 18 de Julho, publicada no Diário da República, 1.ª série-A, n.º 137, de 18 de Julho de 2006.
+Nos termos do artigo 27.º, a Convenção em apreço entra em vigor, em relação a Portugal, três meses após a data do depósito do 20.º instrumento de ratificação, aceitação, aprovação ou adesão. À data do depósito do instrumento de ratificação do Governo da República Portuguesa, apenas tinham sido recebidos nove instrumentos.
+Direcção de Serviços das Organizações Económicas Internacionais, da Direcção-Geral dos Assuntos Multilaterais, 13 de Outubro de 2006. - A Directora-Geral, Maria Margarida de Araújo de Figueiredo.
