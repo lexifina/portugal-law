@@ -32,6 +32,8 @@ l) Homologar as licenças concedidas ao comandante, ao 2.º comandante e ao adju
 
 m) Presidir ou designar os júris dos concursos de promoção e classificação nas provas de acesso às diferentes categorias do quadro activo;
 
-n) Superintender na gestão do pessoal dos corpos de bombeiros e aprovar os respectivos planos anuais, nos termos da lei.
+n) Superintender na formação do pessoal dos corpos de bombeiros e aprovar os respectivos planos anuais, nos termos da lei;
+
+o) Emitir parecer obrigatório sobre os pedidos de isenção de impostos ou taxas relativos a importação de material ou equipamento para os corpos de bombeiros.
 
 3 - Ao vice-presidente do SRPCBA compete substituir o presidente nas suas faltas e impedimentos, bem como exercer as competências que lhe forem delegadas.
