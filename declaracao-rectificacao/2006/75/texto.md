@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 75/2006
+Para os devidos efeitos se declara que o Decreto-Lei n.º 181/2006, publicado no Diário da República, 1.ª série, n.º 172, de 6 de Setembro de 2006, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+1 - Na alínea f) do n.º 1.1 do n.º 1 do anexo I, onde se lê «Lasures com poder de enchimento mínimo: lasures que, de acordo com a norma EN 927-1:1996, formam uma película de espessura média inferior a 5 mm quando ensaiadas pelo método 5 A da norma ISO 2808:1997.» deve ler-se «Lasures com poder de enchimento mínimo: lasures que, de acordo com a norma EN 927-1:1996, formam uma película de espessura média inferior a 5 (mi)m quando ensaiadas pelo método 5 A da norma ISO 2808:1997.»
+2 - Na alínea b) do quadro B do anexo II, onde se lê «Enchedor e betume» deve ler-se «Betumes para carroçarias ou betume enchedor».
+Secretaria-Geral da Presidência do Conselho de Ministros, 26 de Outubro de 2006. - Pelo Secretário-Geral, a Secretária-Geral-Adjunta, Ana Almeida.
