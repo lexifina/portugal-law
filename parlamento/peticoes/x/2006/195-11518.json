@@ -1,0 +1,176 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11518",
+  "numero": "195",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2006-11-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2006-12-12",
+        "DataArquivo": "2007-10-23",
+        "DataBaixaComissao": "2006-12-12",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2006-12-12",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "251",
+        "Legislatura": "X",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2006-12-12",
+            "gp": "PSD",
+            "id": "52",
+            "motivoCessacao": null,
+            "nome": "Fernando Santos Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída para: Comissão de Obras Públicas, Transportes e Comunicações."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-07-06",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2009-07-09",
+        "DataBaixaComissao": "2007-10-23",
+        "DataEnvioPAR": "2009-07-15",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2006-11-06",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764e44646a5a4441354e3249744e6a68684d4330304d7a646b4c546b794d7a6b74596d5132597a5a6d4d6d4e6c4f4467774c6e426b5a673d3d&fich=47cd097b-68a0-437d-9239-bd6c6f2ce880.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2006-11-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a4452685957566c4e4441744d32553359533030596a41354c546734597a67744e5449325a6a51784d544a6c596a51344c6e426b5a673d3d&fich=d4aaee40-3e7a-4b09-88c8-526f4112eb48.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1911",
+        "Legislatura": "X",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-10-23",
+            "gp": "PSD",
+            "id": "52",
+            "motivoCessacao": null,
+            "nome": "Fernando Santos Pereira"
+          }
+        ],
+        "RelatorioFinal": [
+          "22628"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Obras Públicas, Transportes e Comunicações (pré RAR) para esta comissão."
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2006-11-06",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a597a49314d6a45354d79307a4e324e6b4c5452684e7a63744f5755305953316c5a6a417a595759784f54526b4e6a45756347526d&fich=cc252193-37cd-4a77-9e4a-ef03af194d61.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11518",
+    "PetAssunto": "Sistema disciplinar de \"pontos\" nas cartas de condução.",
+    "PetDataEntrada": "2006-11-06",
+    "PeticoesAssociadas": null,
+    "PetId": "11518",
+    "PetLeg": "X",
+    "PetNr": "195",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
