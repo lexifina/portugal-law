@@ -1,0 +1,195 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11543",
+  "numero": "219",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2006-11-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2007-02-07",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "28/11ªCTSS",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2007-03-16",
+                "dataResposta": null,
+                "nrOficio": "106/11ªCTSS",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2007-02-06",
+        "DataArquivo": "2007-10-23",
+        "DataBaixaComissao": "2007-02-06",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2007-02-06",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "253",
+        "Legislatura": "X",
+        "Nome": "Comissão de Trabalho e Segurança Social (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-02-06",
+            "gp": "PS",
+            "id": "2230",
+            "motivoCessacao": null,
+            "nome": "João Portugal"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída para: Comissão de Trabalho, Segurança Social e Administração Pública."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2007-12-03",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2007-12-11",
+        "DataBaixaComissao": "2007-11-21",
+        "DataEnvioPAR": "2007-12-11",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2006-11-06",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314e425548427663314a425569394562324e31625756756447397a5547563061574e68627938794f546b794d4455334e7930334d324e6d4c54526c596a59745954417a4e5331694e6a63794d324a6a4d5759794e5445756347526d&fich=29920577-73cf-4eb6-a035-b6723bc1f251.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2006-11-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314e425548427663314a425569394562324e31625756756447397a5547563061574e686279396d4d57457a4d5467354d5330315a574d314c5451315a544174596a557a4d6930794e544d785a5445314e324d33596d45756347526d&fich=f1a31891-5ec5-45e0-b532-2531e157c7ba.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1913",
+        "Legislatura": "X",
+        "Nome": "Comissão de Trabalho, Segurança Social e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-11-21",
+            "gp": "PS",
+            "id": "2095",
+            "motivoCessacao": null,
+            "nome": "Maria José Gamboa"
+          }
+        ],
+        "RelatorioFinal": [
+          "22377"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Trabalho e Segurança Social (pré RAR) para esta comissão."
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2006-11-06",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396c4f544d794e5452684f43307a4d4445314c54526b4e6a6774596a526b5a5330774f57457a4d4445344e6a566d4f5455756347526d&fich=e93254a8-3015-4d68-b4de-09a301865f95.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11543",
+    "PetAssunto": "Integração da Doença de Parkinson no Decreto-Lei n.º 173/2001, de 31 de Maio.",
+    "PetDataEntrada": "2006-11-06",
+    "PeticoesAssociadas": null,
+    "PetId": "11543",
+    "PetLeg": "X",
+    "PetNr": "219",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
