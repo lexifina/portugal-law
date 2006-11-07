@@ -1,0 +1,36 @@
+Portaria n.º 1197/2006
+de 7 de Novembro
+A Portaria n.º 157/93, de 11 de Fevereiro, conferiu aos vinhos de mesa produzidos na região de Trás-os-Montes a possibilidade de usarem a menção «Vinho regional» seguida da indicação geográfica «Trás-os-Montes», reconhecendo a qualidade e a tipicidade dos vinhos aí produzidos.
+A referida portaria consagrou a possibilidade de na área geográfica de produção do vinho regional de Trás-os-Montes ser reconhecida a sub-região Terras Durienses, cujo controlo, promoção e defesa, bem como a disciplina e fiscalização da sua produção e comercialização, são atribuições do Instituto dos Vinhos do Douro e do Porto.
+Considerando as expectativas dos viticultores desta região face a um mercado crescentemente exigente e concorrencial, é indispensável criar a designação «Vinho regional duriense», coincidindo geograficamente com a Região Demarcada do Douro, substituindo, assim, a anterior sub-região Terras Durienses, bem como modificar as condições do seu uso no âmbito da disciplina aplicável aos vinhos de mesa com indicação geográfica.
+Assim, nos termos do disposto no n.º 2 do artigo 6.º do Decreto-Lei n.º 212/2004, de 23 de Agosto:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É reconhecida como indicação geográfica (IG) a designação «Duriense», a qual pode ser usada para a identificação de vinho branco, de vinho tinto e de vinho rosé ou rosado, que se integre na categoria de vinho de mesa com indicação geográfica ou vinho regional, que satisfaça os requisitos estabelecidos na presente portaria e demais legislação aplicável.
+2.º A área geográfica de produção dos vinhos abrangidos por esta portaria, conforme representação cartográfica constante do anexo I, abrange:
+1 - Do distrito de Bragança, os concelhos de Alfândega da Fé (a freguesia de Vilarelhos), Carrazeda de Ansiães (as freguesias de Beira Grande, Carrazeda de Ansiães, Castanheiro, Lavandeira, Linhares, Parambos, Pereiros, Pinhal do Norte, Pombal, Ribalonga, Seixo de Ansiães e Vilarinho da Castanheira), Freixo de Espada à Cinta (as freguesias de Freixo de Espada à Cinta, Ligares, Mazouco e Poiares), Mirandela (as propriedades que foram de D. Maria Angélica de Sousa Pinto Barroso, na freguesia de Frechas, e as da Sociedade Clemente Meneres, nas freguesias de Avantos, Carvalhais, Frechas e Romeu), Torre de Moncorvo (as freguesias de Açoreira, Adeganha, Cabeça Boa, Horta da Vilariça, Lousa, Peredo dos Castelhanos, Torre de Moncorvo e Urros) e Vila Flor (as freguesias de Assares, Freixiel, Lodões, Roios, Sampaio, Santa Comba da Vilariça, Seixo de Manhoses, Vale Frechoso, Vila Flor, Vilarinho das Azenhas e as Quintas da Peça e das Trigueiras e as propriedades de Vimieiro situadas na freguesia de Vilas Boas).
+Do distrito da Guarda, os concelhos de Figueira de Castelo Rodrigo (a freguesia de Escalhão), Meda (as freguesias de Fontelonga, Longroiva, Meda e Poço do Canto) e Vila Nova de Foz Côa.
+Do distrito de Vila Real, os concelhos de Alijó (as freguesias de Alijó, Amieiro, Carlão, Casal de Loivos, Castedo, Cotas, Favaios, Pegarinhos, Pinhão, Sanfins do Douro, Santa Eugénia, São Mamede de Ribatua, Vale de Mendiz, Vilar de Maçada e Vilarinho de Cotas), Mesão Frio, Murça (as freguesias de Candedo, Murça e Noura), Peso da Régua, Sabrosa (as freguesias de Celeirós, Covas de Douro, Gouvães do Douro, Gouvinhas, Paços, Paradela de Guiães, Provesende, Sabrosa, São Cristóvão do Douro, São Martinho de Antas, Souto Maior e Vilarinho de São Romão), Santa Marta de Penaguião e Vila Real [as freguesias de Abaças, Ermida, Folhadela, Guiães, Mateus, Nogueira, Nossa Senhora da Conceição (parte), Parada de Cunhos, São Dinis e São Pedro].
+Do distrito de Viseu, os concelhos de Armamar (as freguesias de Aldeias, Armamar, Folgosa, Fontelo, Santo Adrião, Vacalar e Vila Seca), Lamego [as freguesias de Cambres, Ferreiros de Avões, Figueira, Lamego (Almacave), Lamego (Sé), Parada do Bispo, Penajóia, Samodães, Sande, Valdigem e as Quintas de Fontoura, do Prado e das Várzeas, na freguesia de Várzea de Abrunhais], Resende (a freguesia de Barrô), São João da Pesqueira (as freguesias de Castanheiro do Sul, Ervedosa do Douro, Espinhosa, Nagozelo do Douro, Paredes da Beira, São João da Pesqueira, Soutelo do Douro, Trevões, Vale de Figueira, Valongo dos Azeites, Várzea de Trevões e Vilarouco) e Tabuaço (as freguesias de Adorigo, Barcos, Desejosa, Granjinha, Pereiro, Santa Leocádia, Sendim, Tabuaço, Távora e Valença do Douro).
+2 - Os contornos das parcelas, freguesias, concelhos e distritos referidos no número anterior correspondem rigorosamente ao disposto na legislação em vigor à data do Decreto n.º 7934, de 10 de Dezembro de 1921.
+3.º As castas a utilizar na elaboração dos vinhos abrangidos por esta portaria são as constantes do anexo II.
+4.º - 1 - As práticas culturais utilizadas nas vinhas que se destinam à produção dos vinhos abrangidos pela presente portaria devem ser as tradicionais na região ou as recomendadas pela entidade certificadora.
+2 - A pedido dos viticultores, as vinhas referidas no número anterior devem ser inscritas na entidade certificadora que verifica se as mesmas satisfazem os necessários requisitos e procede ao respectivo cadastro.
+3 - Sempre que se verificar alteração na titularidade ou na constituição das vinhas cadastrais e aprovadas, deve este facto ser comunicado à entidade certificadora, condição indispensável para acesso ao uso da IG «Duriense».
+5.º Na elaboração dos vinhos abrangidos pela presente portaria são seguidos as práticas e os tratamentos enológicos legalmente autorizados.
+6.º - 1 - Os vinhos com direito à IG «Duriense» devem ter um título alcoométrico volúmico adquirido mínimo de 10% vol.
+2 - Do ponto de vista organoléptico, os vinhos devem satisfazer os requisitos apropriados quanto à cor, limpidez, aroma e sabor, nos termos a definir pela entidade certificadora.
+3 - Em relação aos restantes elementos, os vinhos devem apresentar as características legalmente definidas para os vinhos de mesa em geral, sem prejuízo de outras disposições adoptadas pela entidade certificadora.
+7.º A realização da análise físico-química e organoléptica é da competência da entidade certificadora e constitui regra e disciplina a observar com vista à aprovação dos vinhos com direito à IG «Duriense».
+8.º Os produtores e comerciantes dos vinhos com direito à IG «Duriense», com excepção dos retalhistas, devem efectuar a respectiva inscrição na entidade certificadora.
+9.º A rotulagem a utilizar para os vinhos com direito à IG «Duriense», para além de ter de respeitar as disposições legais em vigor, tem de ser previamente apresentada à entidade certificadora para aprovação.
+10.º Competem ao Instituto dos Vinhos do Douro e do Porto as funções de controlo da produção e do comércio, de promoção, de defesa e de certificação dos vinhos com direito à IG «Duriense», nos termos do n.º 1 do artigo 22.º do Decreto-Lei n.º 212/2004, de 23 de Agosto.
+11.º É revogada a Portaria n.º 157/93, de 11 de Fevereiro.
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 20 de Outubro de 2006.
+
+ANEXO I
+(a que se refere o n.º 2.º)
+(ver documento original)
+
+ANEXO II
+Castas aptas à produção de vinho regional «Duriense»
+(ver documento original)
