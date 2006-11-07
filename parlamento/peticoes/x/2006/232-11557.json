@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11557",
+  "numero": "232",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2006-11-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2007-03-27",
+            "dataResposta": "2007-05-10",
+            "entidades": [
+              "ANA - Aeroportos de Portugal"
+            ],
+            "nrOficio": "115/11ªCTSS",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314d765247396a6457316c626e52766331426c64476c6a595738764d325933596d59775a5455745a6a59304d7930304e6d59784c546c6c4d3251744e44566c4d3251324e6d597a4d546b354c6e426b5a673d3d&fich=3f7bf0e5-f643-46f1-9e3d-45e3d66f3199.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2007-06-27",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2007-02-06",
+        "DataArquivo": "2007-07-03",
+        "DataBaixaComissao": "2007-02-06",
+        "DataEnvioPAR": "2007-07-20",
+        "DataReaberta": "2007-02-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2006-11-07",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314d765247396a6457316c626e52766331426c64476c6a595738765a6d51345a6a566c4f546b744e5455305953303059324d304c546c684e3259744e6a557959546b7a4d6d4e6b4e5459334c6e426b5a673d3d&fich=fd8f5e99-554a-4cc4-9a7f-652a932cd567.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2006-11-07",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314d765247396a6457316c626e52766331426c64476c6a595738764d325933596d59775a5455745a6a59304d7930304e6d59784c546c6c4d3251744e44566c4d3251324e6d597a4d546b354c6e426b5a673d3d&fich=3f7bf0e5-f643-46f1-9e3d-45e3d66f3199.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2006-11-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314d765247396a6457316c626e52766331426c64476c6a595738764d446b7a596d4a6a4e6a67744e4455324f5330304d6d46694c5749794d7a67744f5463335a544a684e6a4d794f546b304c6e426b5a673d3d&fich=093bbc68-4569-42ab-b238-977e2a632994.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "253",
+        "Legislatura": "X",
+        "Nome": "Comissão de Trabalho e Segurança Social (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-02-06",
+            "gp": "PSD",
+            "id": "2071",
+            "motivoCessacao": null,
+            "nome": "Miguel Santos"
+          }
+        ],
+        "RelatorioFinal": [
+          "22144"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2006-11-07",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a4d6a49784e6d566b4d7930345a6a41314c5451314d6a4d744f4445794e43303559324e6d4e6d5132595759334d5467756347526d&fich=c2216ed3-8f05-4523-8124-9ccf6d6af718.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11557",
+    "PetAssunto": "Solicita a intervenção do Senhor Presidente da Assembleia da República para que a carreira de vigilante seja reconhecida como \"Carreira Profissional de Agente de Segurança Privada Aeroportuária\"",
+    "PetDataEntrada": "2006-11-07",
+    "PeticoesAssociadas": null,
+    "PetId": "11557",
+    "PetLeg": "X",
+    "PetNr": "232",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "Esta petição está apensa às petições 228/X/2ª à 231/X/2ª, 233/X/2ª à 254/X/2ª, 262/X/2ª, 267/X/2ª à 311/X/2ª, e 316/X/2ª à 336/X/2ª.",
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
