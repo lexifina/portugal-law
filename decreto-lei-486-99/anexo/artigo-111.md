@@ -6,7 +6,7 @@
 
 a) As ofertas públicas de distribuição de valores mobiliários não representativos de capital social emitidos por um Estado membro ou por uma das suas autoridades regionais ou locais e as ofertas públicas de distribuição de valores mobiliários que gozem de garantia incondicional e irrevogável por um daqueles Estados ou por uma destas autoridades regionais ou locais;
 
-b) As ofertas públicas de distribuição de valores mobiliários emitidos pelo Banco Central Europeu ou pelo banco central de um dos Estados membros da Comunidade Europeia;
+b) As ofertas públicas de valores mobiliários emitidos pelo Banco Central Europeu ou pelo banco central de um dos Estados membros;
 
 c) As ofertas relativas a valores mobiliários emitidos por uma instituição de investimento colectivo de tipo aberto realizadas pelo emitente ou por sua conta;
 
@@ -38,8 +38,8 @@ ii) Não confiram o direito de aquisção de outros tipos de valores mobiliário
 
 l) As ofertas públicas de subscrição de acções emitidas em substituição de acções já emitidas da mesma categoria, se a emissão dessas novas acções não implicar um aumento do capital emitido.
 
+m) As ofertas públicas de aquisição de valores mobiliários emitidos por organismos de investimento colectivo sob a forma societária.
+
 2 - Para efeitos das alíneas h) e j) do número anterior, entende-se por emissão de maneira contínua ou repetida o conjunto de emissões que envolva pelo menos duas emissões distintas de valores mobiliários de tipo e ou categoria semelhante ao longo de um período de 12 meses.
 
 3 - Nos casos das alíneas a), b), i) e j) do n.º 1, o emitente tem o direito de elaborar um prospecto, ficando este sujeito às regras do presente Código e dos diplomas que o complementem.
-
-4 - As ofertas referidas nas alíneas e), i) e l) do n.º 1 ficam sujeitas a comunicação subsequente à CMVM para efeitos estatísticos.

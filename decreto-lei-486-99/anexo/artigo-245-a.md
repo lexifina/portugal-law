@@ -1,8 +1,8 @@
 # Artigo 245.º-A
 
-### Relatório anual sobre governo das sociedades
+### Informação anual sobre governo das sociedades
 
-1 - Os emitentes de acções admitidas à negociação em mercado regulamentado situado ou a funcionar em Portugal divulgam, em capítulo do relatório anual de gestão especialmente elaborado para o efeito ou em anexo a este, um relatório detalhado sobre a estrutura e as práticas de governo societário, contendo, pelo menos, os seguintes elementos:
+1 - Os emitentes de acções admitidas à negociação em mercado regulamentado divulgam, em capítulo do relatório anual de gestão especialmente elaborado para o efeito ou em anexo a este, a seguinte informação detalhada sobre a estrutura e práticas de governo societário:
 
 a) Estrutura de capital, incluindo indicação das acções não admitidas à negociação, diferentes categorias de acções, direitos e deveres inerentes às mesmas e percentagem de capital que cada categoria representa;
 
@@ -26,26 +26,8 @@ j) Acordos significativos de que a sociedade seja parte e que entrem em vigor, s
 
 l) Acordos entre a sociedade e os titulares do órgão de administração ou trabalhadores que prevejam indemnizações em caso de pedido de demissão do trabalhador, despedimento sem justa causa ou cessação da relação de trabalho na sequência de uma oferta pública de aquisição;
 
-m) Principais elementos dos sistemas de controlo interno e de gestão de risco implementados na sociedade relativamente ao processo de divulgação de informação financeira;
+m) Sistemas de controlo interno e de risco de gestão implementados na sociedade.
 
-n) Declaração sobre o acolhimento do código de governo das sociedades ao qual o emitente se encontre sujeito por força de disposição legal ou regulamentar, especificando as eventuais partes desse código de que diverge e as razões da divergência;
+2 - Os emitentes de acções admitidas à negociação em mercado regulamentado sujeitos a lei pessoal portuguesa divulgam a informação sobre a estrutura e práticas de governo societário nos termos definidos em regulamento da CMVM, onde se integra a informação exigida no número anterior.
 
-o) Declaração sobre o acolhimento do código de governo das sociedades ao qual o emitente voluntariamente se sujeite, especificando as eventuais partes desse código de que diverge e as razões da divergência;
-
-p) Local onde se encontram disponíveis ao público os textos dos códigos de governo das sociedades aos quais o emitente se encontre sujeito nos termos das alíneas anteriores;
-
-q) Composição e descrição do modo de funcionamento dos órgãos sociais do emitente, bem como das comissões que sejam criadas no seu seio.
-
-r) Uma descrição da política de diversidade aplicada pela sociedade relativamente aos seus órgãos de administração e de fiscalização, designadamente, em termos de idade, sexo, habilitações e antecedentes profissionais, os objetivos dessa política de diversidade, a forma como foi aplicada e os resultados no período de referência.
-
-2 - Caso a política referida na alínea r) do número anterior não seja aplicada, o relatório detalhado sobre a estrutura e as práticas de governo societário deve conter uma explicação para esse facto.
-
-3 - A obrigação prevista na alínea r) do n.º 1 não se aplica aos emitentes que sejam pequenas e médias empresas, nos termos dos n.os 2 e 3 do artigo 9.º do Decreto-Lei n.º 158/2009, de 13 de julho, com a redação dada pelo Decreto-Lei n.º 98/2015, de 2 de junho.
-
-4 - Os emitentes de acções admitidas à negociação em mercado regulamentado sujeitos a lei pessoal portuguesa divulgam a informação sobre a estrutura e práticas de governo societário nos termos definidos em regulamento da CMVM, onde se integra a informação exigida no número anterior.
-
-5 - O órgão de administração de sociedades emitentes de acções admitidas à negociação em mercado regulamentado sujeitas a lei pessoal portuguesa apresenta anualmente à assembleia geral um relatório explicativo das matérias a que se refere o n.º 1.
-
-6 - As sociedades cujos valores mobiliários sejam distintos de ações admitidas à negociação em mercado regulamentado situado ou a funcionar em Portugal, devem divulgar anualmente a informação referida nas alíneas c), d), f), h), i) e m) do n.º 1, salvo se as respetivas ações forem negociadas num sistema de negociação multilateral, caso em que devem divulgar todas as informações referidas no n.º 1.
-
-7- O relatório detalhado sobre a estrutura e as práticas de governo societário não pode conter remissões, excepto para o relatório anual de gestão.
+3 - O órgão de administração de sociedades emitentes de acções admitidas à negociação em mercado regulamentado sujeitas a lei pessoal portuguesa apresenta anualmente à assembleia geral um relatório explicativo das matérias a que se refere o n.º 1.
