@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "37812",
+  "tipo": "Requerimento",
+  "numero": "349",
+  "data_registo": "2006-11-09",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Estado de abandono da Quinta da Sarrazola em Colares",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "209",
+        "nome": "António Filipe"
+      }
+    ],
+    "DataEnvio": "2006-11-10",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2006-11-10",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA   AGRICULTURA , DO DESENVOLVIMENTO RURAL E DAS PESCAS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2007-02-01",
+            "docRemetida": null,
+            "entidade": "MIN.  DA   AGRICULTURA , DO DESENVOLVIMENTO RURAL E DAS PESCAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a545443396a595745324e4451324e793078596a68694c5451354f4467744f44557a597930774e4751354d7a6c6d4d5749345a4463756347526d&fich=caa64467-1b8b-4988-853c-04d939f1b8d7.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2006-11-09",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a54544338344d4751304e5463334e693030596d45304c5451784e474d744f545a6d4e6930794f44646c4e574e6c5a6a49315a4751756347526d&fich=80d45776-4ba4-414c-96f6-287e5cef25dd.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "37812",
+    "Legislatura": "X",
+    "Nr": "349",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "383616",
+        "obs": null,
+        "pag": [
+          "37-38"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2006",
+        "pubLeg": "X",
+        "pubNr": "10",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/02/010S1/2006-11-18/37?pgs=37-38&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
