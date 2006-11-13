@@ -1,0 +1,102 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=lUl2cA2yLBCfVZg91PpvCXjzrfeL4Qutd7QXGuZ3ctXLC%2faZtfJhEJ5%2blOGvPvqyyf%2feGTKeRvwvypgYDAl2yIgZWtzMzmuKZcFdxpEGTBzFZXfgwAwTzR43O0%2fYmFv4L6o5J7sbyuTv7fEF6dTr5JVw3FW6XxLOl1EwC02SD38xRQ9L5nADrXcWtyOabCwsYypexVCrAoDs1rcLn6lb06OhW8w1suJOdK9oJUfh3YIfrKmW9lUR5UGB9CvxIeYZQNeEUB%2bGBy8CeHB00NhsxBpD1mpgmd%2bI3htNvCuZuvYrvJa1Duq3%2biNHeczbgQWt9xkKLabLH896npnXVE6%2fYxshNAB2sZmHGGoFenAzHSYtiZb4dn3dt82z66Q1ImTLNEZRpDzsDevcz%2bvNxrtG5w%3d%3d&fich=OEPropostasAlteracao2007Or_json.txt&Inline=true",
+  "ficheiro_sha256": "1b23603c7a6143665be6045ab99b5f397b84dba6dcd4182dd5d545e55d203f6a",
+  "legislatura": "X",
+  "id": "876",
+  "numero": "30P",
+  "orcamento": "2007",
+  "versao": "Or",
+  "data_registo": "2006-11-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "876",
+    "Numero": "30P",
+    "Data": "13/11/2006 15:32:00",
+    "Titulo": "Emenda ao corpo do N.º 1 do Artigo 25.º da PPL",
+    "Tema": null,
+    "Apresentada": "Plenário",
+    "Incide": "Articulado",
+    "Tipo": "Emenda",
+    "Estado": "Aprovado(a) em Plenário",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774e7a49774d4459784d4445324c3142424c324530597a4e6a4f44426d4c544533593251744e4445324d5331685a6a59794c546b354f4746684d6a49774f5467785a6935775a47593d&Fich=a4c3c80f-17cd-4161-af62-998aa220981f.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "CDS-PP, CDS-PP, CDS-PP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "DIOGO FEIO"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "DIOGO FEIO"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "DIOGO FEIO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 25.º",
+        "Titulo": "Transportes escolares",
+        "Texto": "1 - É inscrita no orçamento da Presidência do Conselho de Ministros uma verba de € 21 600 000, destinada a:\r\n\r\na) Compensar os municípios dos encargos suportados com os transportes escolares dos alunos inscritos nos 7.º, 8.º e 9.º anos de escolaridade, sendo a distribuição por município efectuada de acordo co",
+        "Estado": "Aprovado(a) em Plenário com Alterações",
+        "Numeros": {
+          "Numero": "N.º 1",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Aprovado(a) por Unanimidade em Plenário"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Corpo, N.º 1, Artigo 25.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "29/11/2006 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Plenário",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Partido Ecologista \"Os Verdes\""
+          ],
+          "Voto": [
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Abstenção"
+          ]
+        }
+      }
+    }
+  }
+}
