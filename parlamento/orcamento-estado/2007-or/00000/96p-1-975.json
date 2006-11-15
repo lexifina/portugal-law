@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=lUl2cA2yLBCfVZg91PpvCXjzrfeL4Qutd7QXGuZ3ctXLC%2faZtfJhEJ5%2blOGvPvqyyf%2feGTKeRvwvypgYDAl2yIgZWtzMzmuKZcFdxpEGTBzFZXfgwAwTzR43O0%2fYmFv4L6o5J7sbyuTv7fEF6dTr5JVw3FW6XxLOl1EwC02SD38xRQ9L5nADrXcWtyOabCwsYypexVCrAoDs1rcLn6lb06OhW8w1suJOdK9oJUfh3YIfrKmW9lUR5UGB9CvxIeYZQNeEUB%2bGBy8CeHB00NhsxBpD1mpgmd%2bI3htNvCuZuvYrvJa1Duq3%2biNHeczbgQWt9xkKLabLH896npnXVE6%2fYxshNAB2sZmHGGoFenAzHSYtiZb4dn3dt82z66Q1ImTLNEZRpDzsDevcz%2bvNxrtG5w%3d%3d&fich=OEPropostasAlteracao2007Or_json.txt&Inline=true",
+  "ficheiro_sha256": "1b23603c7a6143665be6045ab99b5f397b84dba6dcd4182dd5d545e55d203f6a",
+  "legislatura": "X",
+  "id": "975",
+  "numero": "96P-1",
+  "orcamento": "2007",
+  "versao": "Or",
+  "data_registo": "2006-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "975",
+    "Numero": "96P-1",
+    "Data": "15/11/2006 10:53:00",
+    "Titulo": "Substituição dos nºs 5 e 6 do Art.º 31.º da PPL",
+    "Tema": null,
+    "Apresentada": "Plenário",
+    "Incide": "Articulado",
+    "Tipo": "Substituição",
+    "Estado": "Rejeitado(a) em Plenário",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774e7a49774d4459784d4445324c3142424c3259304f544a6c4d6d4e6c4c545a6b4e324d744e44426a5a5331684d7a51304c574e694d5463345a6d4579596d457a5a4335775a47593d&Fich=f492e2ce-6d7c-40ce-a344-cb178fa2ba3d.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP, PCP, PCP",
+    "Proponentes": null,
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 31.º",
+        "Titulo": "Endividamento municipal em 2007",
+        "Texto": "1 - O montante da dívida de cada município referente a empréstimos de médio e longo prazo não pode exceder no final de 2007 a soma do montante das receitas proveniente de impostos municipais, das participações dos municípios previstas no artigo 22.º, da derrama e da participação nos resultados das entidades d",
+        "Estado": "Aprovado(a) em Plenário com Alterações",
+        "Numeros": [
+          {
+            "Numero": "N.º 5",
+            "Titulo": null,
+            "Texto": "Excepcionam-se do limite previsto  nos n.ºs 1 e 2 os empréstimos e as amortizações destinadas ao financiamento de programas de reabilitação urbana, os quais devem ser previamente autorizados por despacho conjunto dos Ministros responsáveis pelas áreas das autarquias locais, das finanças e do ordenamento do te",
+            "Estado": "Prejudicado(a)"
+          },
+          {
+            "Numero": "N.º 6",
+            "Titulo": null,
+            "Texto": "Podem excepcionar-se ainda do disposto no limite previsto nos n.ºs 1 e 2 os empréstimos e as amortizações destinados exclusivamente ao financiamento de projectos com comparticipação de fundos comunitários, desde que o montante máximo do crédito não exceda 75% do montante da participação pública nacional neces",
+            "Estado": "Prejudicado(a)"
+          }
+        ]
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": [
+            "N.º 5, Artigo 31.º",
+            "N.º 6, Artigo 31.º"
+          ]
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "29/11/2006 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Plenário",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Partido Ecologista \"Os Verdes\""
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
