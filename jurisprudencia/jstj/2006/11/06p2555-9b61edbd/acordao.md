@@ -1,0 +1,59 @@
+# Acórdão do Supremo Tribunal de Justiça de 2006-11-15, processo 06P2555
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 06P2555
+
+**Nº Convencional:** JSTJ000
+
+**Relator:** SANTOS CABRAL
+
+**Descritores:** MATÉRIA DE FACTO; MATÉRIA DE DIREITO; ADMISSIBILIDADE DE RECURSO; RELATÓRIO SOCIAL; RECURSO DA MATÉRIA DE FACTO; OMISSÃO DE PRONÚNCIA; MEDIDA CONCRETA DA PENA
+
+**Nº do Documento:** SJ20061115025553
+
+**Data do Acordão:** 11/15/2006
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO PENAL
+
+**Decisão:** PROVIDO PARCIALMENTE
+
+## Sumário
+
+I - A distinção entre os conceitos de matéria de facto e de matéria de direito nem sempre é fácil. Não obstante, o eixo diferenciador já foi por diversas vezes apreciado em sede doutrinária e de forma convergente.
+
+II - Assim, o Prof. Paulo Cunha estabelece o seguinte critério geral de destrinça: há matéria de direito sempre que, para se chegar a uma solução, há necessidade de recorrer a uma disposição legal - ainda que se trate de uma simples palavra da lei -, ou seja, quando a averiguação depende do entendimento a dar a normas legais, seja qual for a espécie destas;
+
+há matéria de facto quando o apuramento das realidades se faz todo à margem da aplicação directa da lei, por averiguação de factos cuja existência ou não existência não depende de nenhuma norma jurídica, sem prejuízo de, nota, toda e qualquer averiguação de factos se realizar por meio de processos regulados e prescritos na lei.
+
+III - O Prof. Alberto dos Reis definia como «questão de facto tudo o que tende a apurar quaisquer ocorrências da vida real quaisquer eventos materiais e concretos, quaisquer mudanças operadas no mundo exterior»; e como «questão de direito tudo o que respeita à interpretação e aplicação da lei». Dito por outras palavras: é questão de facto determinar o que aconteceu; é questão de direito determinar o que quer a lei, substantiva ou processual.
+
+IV - A alegação, em recurso interposto perante o STJ, de que não foi relevado o conteúdo de relatório social junto aos autos, traduz uma divergência em relação ao que deve considerarse como provado em sede de sentença, constituindo matéria de facto subtraída à apreciação deste Supremo Tribunal.
+
+V - É certo que a ausência de referência ao conteúdo daquele relatório poderia suscitar uma questão de omissão de pronúncia sobre um elemento essencial com relevância na decisão da causa, com implicação na regularidade da sentença.
+
+VI - Porém, não se verifica omissão de pronúncia quando o tribunal não aprecia todos os argumentos invocados pela parte em apoio das pretensões que vem a conhecer, mas tão-só quando o juiz, em violação do poder-dever inerente à função que exerce, deixa de se pronunciar sobre questões que lhe foram submetidas pelas partes, ou de que deve conhecer oficiosamente, entendendo-se por questões os problemas concretos a decidir e não os
+
+simples argumentos, opiniões ou doutrinas expendidos pelos intervenientes processuais ou emitidos no decurso do processo.
+
+VII - O facto de o tribunal não se pronunciar em concreto sobre o relatório do IRS tem subjacente o pressuposto que não tinha, necessariamente, que o fazer, a não ser que este contivesse elemento relevante para apreciação da responsabilidade criminal do arguido, o que, no caso, não é invocado.
+
+VIII - Todos estão hoje de acordo em que é susceptível de revista a correcção do procedimento ou das operações de determinação, o desconhecimento pelo tribunal ou a errónea aplicação dos princípios gerais de determinação, a falta de indicação de factores relevantes para aquela, ou, pelo contrário, a indicação de factores que devam considerar-se irrelevantes ou inadmissíveis. Não falta, todavia, quem sustente que a valoração judicial das questões de justiça ou de oportunidade estariam subtraídas ao controlo do tribunal de revista, enquanto outros distinguem: a questão do limite ou da moldura da culpa estaria plenamente sujeita a
+
+revista, assim como a forma de actuação dos fins das penas no quadro da prevenção, mas já não a determinação, dentro daqueles parâmetros, do quantum exacto de pena, para controlo do qual o recurso de revista seria inadequado. Só não será assim, e aquela medida será controlável mesmo em revista, se, v.g., tiverem sido violadas regras da experiência ou se a
+
+quantificação se revelar de todo desproporcionada.
+
+IX - Se, sindicada a decisão recorrida, se verifica que:
+
+- a mesma equaciona devidamente a determinação do fim das penas, no caso e na sua tríplice dimensão de justa retribuição da culpa; de contribuição para a reinserção social do arguido em sede de prevenção especial, e meio de neutralizar os efeitos negativos da prática do crime em sede de prevenção;
+
+- estão elencados os elementos fácticos relevantes para individualização penal;
+
+- está patente, de forma razoável, consciente e suficiente, a conexão intelectual entre aqueles elementos de facto e os fins das penas; é manifesto que se encontram correctamente definidos os parâmetros dentro dos quais tem lugar a fixação da medida concreta da pena, pelo que não se vislumbra qualquer razão para colocar em causa a decisão recorrida no que concerne às penas parcelares e à pena conjunta.
