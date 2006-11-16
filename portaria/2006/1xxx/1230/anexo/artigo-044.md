@@ -10,6 +10,6 @@
 
 4 - A não entrega do relatório intercalar determina a não transferência da segunda tranche.
 
-5 - Independentemente do disposto no número anterior, são de aplicar, com as necessárias adaptações, as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho.
+5 - Independentemente do disposto nos números anteriores, são de aplicar, com as necessárias adaptações, as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho.
 
 6 - Compete à comissão executiva aplicar as sanções, após proposta fundamentada dos serviços.

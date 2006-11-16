@@ -30,4 +30,4 @@ ii) Elaborar e entregar obrigatoriamente um relatório final, em formato a dispo
 
 7 - O previsto no número anterior não se aplica às aquisições de prédios rústicos e urbanos, bem como cedência de direito de superfície.
 
-8 - Não é de aplicar o disposto no número anterior nos casos em que o valor a cativar seja inferior a (euro) 100.
+8 - Não é de aplicar o disposto no n.º 6 nos casos em que o valor a cativar seja inferior a (euro) 100.
