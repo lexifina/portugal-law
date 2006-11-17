@@ -1,0 +1,100 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=lUl2cA2yLBCfVZg91PpvCXjzrfeL4Qutd7QXGuZ3ctXLC%2faZtfJhEJ5%2blOGvPvqyyf%2feGTKeRvwvypgYDAl2yIgZWtzMzmuKZcFdxpEGTBzFZXfgwAwTzR43O0%2fYmFv4L6o5J7sbyuTv7fEF6dTr5JVw3FW6XxLOl1EwC02SD38xRQ9L5nADrXcWtyOabCwsYypexVCrAoDs1rcLn6lb06OhW8w1suJOdK9oJUfh3YIfrKmW9lUR5UGB9CvxIeYZQNeEUB%2bGBy8CeHB00NhsxBpD1mpgmd%2bI3htNvCuZuvYrvJa1Duq3%2biNHeczbgQWt9xkKLabLH896npnXVE6%2fYxshNAB2sZmHGGoFenAzHSYtiZb4dn3dt82z66Q1ImTLNEZRpDzsDevcz%2bvNxrtG5w%3d%3d&fich=OEPropostasAlteracao2007Or_json.txt&Inline=true",
+  "ficheiro_sha256": "1b23603c7a6143665be6045ab99b5f397b84dba6dcd4182dd5d545e55d203f6a",
+  "legislatura": "X",
+  "id": "1459",
+  "numero": "574C",
+  "orcamento": "2007",
+  "versao": "Or",
+  "data_registo": "2006-11-17",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "1459",
+    "Numero": "574C",
+    "Data": "17/11/2006 19:33:00",
+    "Titulo": "Beja - Construção do Hospital de Retaguarda em Moura: Reforço de verbas para 2007 de 250.000€ e para 2008 e seguintes de 2.000.000€ da medida M4",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Mapa PIDDAC",
+    "Tipo": "Emenda",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774e7a49774d4459784d4445324c3142424c7a426a4e6a51794e444a6c4c544668597a45744e445a6b595331685a4455794c57457a596d55345a6d59344f5755784e6935775a47593d&Fich=0c64242e-1ac1-46da-ad52-a3be8ff89e16.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP, PCP, PCP",
+    "Proponentes": null,
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 1.º",
+        "Titulo": "Aprovação",
+        "Texto": "1 - É aprovado pela presente lei o Orçamento do Estado para o ano de 2007, constante dos mapas seguintes: \r\n\r\na) Mapas I a IX, com o orçamento da administração central, incluindo os orçamentos dos serviços e fundos autónomos; \r\n\r\nb) Mapas X a XII, com o orçamento da segurança social;\r\n\r\nc) Mapas XIII e XIV, c",
+        "Estado": "Aprovado(a) em Plenário com Alterações",
+        "Numeros": {
+          "Numero": "N.º 1",
+          "Titulo": null,
+          "Texto": "É aprovado pela presente lei o Orçamento do Estado para o ano de 2007, constante dos mapas seguintes:",
+          "Estado": "Aprovado(a) em Plenário",
+          "Alineas": {
+            "Alinea": "Alínea d)",
+            "Titulo": null,
+            "Texto": "Mapa XV, com os Programas de Investimento e Despesas de Desenvolvimento da Administração Central (PIDDAC);",
+            "Estado": "Aprovado(a) em Plenário"
+          }
+        }
+      }
+    },
+    "ProgramasMedidas": {
+      "Nome": "P13 - Saúde",
+      "Descricao": "M2 - Cuidados de Saúde Diferenciados/Especializados"
+    },
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": "12 - Saúde",
+    "Medidas_Programas": {
+      "Descricao": "P13 - Saúde",
+      "SubDescricao": "M2 - Cuidados de Saúde Diferenciados/Especializados"
+    },
+    "NUTS": {
+      "Descricao": [
+        "PT1                  (Continente)",
+        "PT18                 (Alentejo)"
+      ]
+    },
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": null,
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "21/11/2006 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
