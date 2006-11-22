@@ -1,0 +1,81 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=lUl2cA2yLBCfVZg91PpvCXjzrfeL4Qutd7QXGuZ3ctXLC%2faZtfJhEJ5%2blOGvPvqyyf%2feGTKeRvwvypgYDAl2yIgZWtzMzmuKZcFdxpEGTBzFZXfgwAwTzR43O0%2fYmFv4L6o5J7sbyuTv7fEF6dTr5JVw3FW6XxLOl1EwC02SD38xRQ9L5nADrXcWtyOabCwsYypexVCrAoDs1rcLn6lb06OhW8w1suJOdK9oJUfh3YIfrKmW9lUR5UGB9CvxIeYZQNeEUB%2bGBy8CeHB00NhsxBpD1mpgmd%2bI3htNvCuZuvYrvJa1Duq3%2biNHeczbgQWt9xkKLabLH896npnXVE6%2fYxshNAB2sZmHGGoFenAzHSYtiZb4dn3dt82z66Q1ImTLNEZRpDzsDevcz%2bvNxrtG5w%3d%3d&fich=OEPropostasAlteracao2007Or_json.txt&Inline=true",
+  "ficheiro_sha256": "1b23603c7a6143665be6045ab99b5f397b84dba6dcd4182dd5d545e55d203f6a",
+  "legislatura": "X",
+  "id": "1688",
+  "numero": "776P",
+  "orcamento": "2007",
+  "versao": "Or",
+  "data_registo": "2006-11-22",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "1688",
+    "Numero": "776P",
+    "Data": "22/11/2006 19:32:00",
+    "Titulo": "Aditamento de um n.º 2 ao Artigo 80.º da PPL",
+    "Tema": null,
+    "Apresentada": "Plenário",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Números e Alíneas)",
+    "Estado": "Rejeitado(a) em Plenário",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774e7a49774d4459784d4445324c3142424c3255335a6a45775a546b354c5441784e6a51744e474535596931684e6a5a6a4c5463354f546c6c4d5746694d6d4e6d4d4335775a47593d&Fich=e7f10e99-0164-4a9b-a66c-7999e1ab2cf0.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD",
+    "Proponentes": null,
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 80.º",
+        "Titulo": "Autorização legislativa no âmbito dos benefícios fiscais",
+        "Texto": "Fica o Governo autorizado a rever e a republicar, integrando todas as alterações que lhe tenham sido introduzidas até à data da publicação da presente lei, com as correcções que sejam exigidas, o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho.",
+        "Estado": "Aprovado(a) em Plenário"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 80.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Autorização legislativa no âmbito dos benefícios fiscais",
+        "Data": "30/11/2006 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Plenário",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Partido Ecologista \"Os Verdes\""
+          ],
+          "Voto": [
+            "Contra",
+            "Favor",
+            "Contra",
+            "Abstenção",
+            "Abstenção",
+            "Contra",
+            "Contra",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
