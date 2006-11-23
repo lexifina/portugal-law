@@ -1,0 +1,21 @@
+Portaria n.º 1310/2006
+de 23 de Novembro
+O Decreto-Lei n.º 74/2004, de 26 de Março, rectificado pela Declaração de Rectificação n.º 44/2004, de 25 de Maio, com as alterações introduzidas pelo Decreto-Lei n.º 24/2006, de 6 de Fevereiro, rectificado pela Declaração de Rectificação n.º 23/2006, de 7 de Abril, estabeleceu os princípios orientadores da organização e gestão do currículo, bem como da avaliação e certificação das aprendizagens do nível secundário de educação, definindo a diversidade da oferta formativa do referido nível de educação, na qual se incluem os cursos profissionais vocacionados para a qualificação inicial dos alunos, privilegiando a sua inserção no mundo do trabalho e permitindo o prosseguimento de estudos.
+O supramencionado decreto-lei determina, no n.º 5 do artigo 5.º, que os cursos de nível secundário e os respectivos planos de estudos são criados e aprovados por portaria do Ministro da Educação.
+Neste sentido, a Portaria n.º 550-C/2004, de 21 de Maio, com as alterações introduzidas pela Portaria n.º 797/2006, de 10 de Agosto, veio regular a criação, organização e gestão do currículo, bem como a avaliação e certificação das aprendizagens dos cursos profissionais de nível secundário.
+Assim, no âmbito da revisão curricular do ensino profissional e da racionalização da oferta formativa consagradas nos diplomas acima referidos, importa proceder à reestruturação dos cursos actualmente em vigor, criados ao abrigo da legislação anterior, e, consequentemente, aprovar os novos cursos e planos de estudos, à luz das matrizes curriculares estabelecidas pelos citados diplomas.
+Nestes termos:
+Atento o disposto no n.º 5 do artigo 5.º do Decreto-Lei n.º 74/2004, de 26 de Março, rectificado pela Declaração de Rectificação n.º 44/2004, de 25 de Maio, com as alterações introduzidas pelo Decreto-Lei n.º 24/2006, de 6 de Fevereiro, rectificado pela Declaração de Rectificação n.º 23/2006, de 7 de Abril, e ao abrigo dos n.os 1 e 2 do artigo 7.º da Portaria n.º 550-C/2004, de 21 de Maio, com as alterações introduzidas pela Portaria n.º 797/2006, de 10 de Agosto:
+Manda o Governo, pelo Secretário de Estado da Educação, o seguinte:
+1.º É alterado o plano de estudos do curso profissional de técnico de serviços jurídicos, visando a saída profissional de técnico de serviços jurídicos, aprovado pela Portaria n.º 948/99, de 27 de Outubro, com as alterações constantes da Portaria n.º 1348/2002, de 12 de Outubro, rectificada pela Declaração de Rectificação n.º 31-G/2002, de 30 de Novembro.
+2.º O novo plano de estudos do supra-referido curso é o constante do anexo à presente portaria, da qual faz parte integrante.
+3.º O plano de estudos do curso profissional de técnico de serviços jurídicos, anteriormente integrado na área de administração, serviços e comércio, passa a estar enquadrado na família profissional de administração e integra-se na área de educação e formação de direito (380), de acordo com a classificação aprovada pela Portaria n.º 256/2005, de 16 de Março.
+4.º Aos alunos que concluírem com aproveitamento o curso profissional criado pela presente portaria será atribuído um diploma de conclusão do nível secundário de educação e um certificado de qualificação profissional de nível 3, de acordo com o previsto no n.º 1 e na alínea c) do n.º 2 do artigo 15.º do Decreto-Lei n.º 74/2004, de 26 de Março, rectificado pela Declaração de Rectificação n.º 44/2004, de 25 de Maio, com as alterações introduzidas pelo Decreto-Lei n.º 24/2006, de 6 de Fevereiro, rectificado pela Declaração de Rectificação n.º 23/2006, de 7 de Abril, e no n.º 1 do artigo 33.º da Portaria n.º 550-C/2004, de 21 de Maio, com as alterações introduzidas pela Portaria n.º 797/2006, de 10 de Agosto.
+5.º O plano de estudos aprovado pela Portaria n.º 948/99, de 27 de Outubro, com as alterações introduzidas pela Portaria n.º 1384/2002, de 12 de Outubro, rectificada pela Declaração de Rectificação n.º 31-G/2002, de 30 de Novembro, mantém-se em vigor até à conclusão do curso por parte dos alunos que entretanto o tiverem iniciado.
+6.º A presente portaria produz efeitos a partir do ano lectivo de 2006-2007.
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 31 de Outubro de 2006.
+
+ANEXO
+Curso profissional de técnico de serviços jurídicos
+Plano de estudos
+(ver documento original)
