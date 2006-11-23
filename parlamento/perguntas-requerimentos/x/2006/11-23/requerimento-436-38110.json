@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "38110",
+  "tipo": "Requerimento",
+  "numero": "436",
+  "data_registo": "2006-11-23",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Encerramento do Serviço de Atendimento Permanente no Concelho da Marinha Grande",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1923",
+        "nome": "Teresa Vasconcelos Caeiro"
+      }
+    ],
+    "DataEnvio": "2006-11-28",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2006-11-28",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  SAÚDE",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2007-02-06",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  SAÚDE",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a54544338334e6a426d597a4d344f5331684e6a6b794c5451774e324574596a6b784d7931684e6d52684d6a4e69596a466b4d5467756347526d&fich=760fc389-a692-407a-b913-a6da23bb1d18.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2006-11-23",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a54544338324d6a49314d545a684f5330354e544e6d4c54517859574d744f544d32595330784e6d5a6c4f4759314e3249784f5751756347526d&fich=622516a9-953f-41ac-936a-16fe8f57b19d.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "38110",
+    "Legislatura": "X",
+    "Nr": "436",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "386400",
+        "obs": null,
+        "pag": [
+          "43-44"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2006",
+        "pubLeg": "X",
+        "pubNr": "12",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/02/012S1/2006-12-02/43?pgs=43-44&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
