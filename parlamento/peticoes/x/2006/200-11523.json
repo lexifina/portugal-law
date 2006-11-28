@@ -1,0 +1,524 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11523",
+  "numero": "200",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2006-11-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2007-03-16",
+            "dataResposta": "2007-04-24",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "82/10ªCS/2007",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2006-12-13",
+        "DataArquivo": "2007-10-23",
+        "DataBaixaComissao": "2006-12-13",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2006-12-13",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "252",
+        "Legislatura": "X",
+        "Nome": "Comissão de Saúde (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-01-13",
+            "gp": "PSD",
+            "id": "1905",
+            "motivoCessacao": null,
+            "nome": "Fernando Negrão"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída para: Comissão de Saúde."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2008-03-05",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "37/10ª/CS/2008",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d454e546347397a556b46534c305276593356745a57353062334e515a585270593246764c3259784d7a45325a6d49774c5455795a5441744e446b334d5330354e7a4a684c5745775a5449325932566d595456684e4335775a47593d&fich=f1316fb0-52e0-4971-972a-a0e26cefa5a4.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2008-05-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2008-05-14",
+        "DataBaixaComissao": "2007-10-23",
+        "DataEnvioPAR": "2008-05-14",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2006-11-28",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d454e546347397a556b46534c305276593356745a57353062334e515a585270593246764c7a517a5a6d59304f474a6d4c5441304d7a67744e474a6a4e4330344e4745774c546b774d32466c4e446b324e546b354f4335775a47593d&fich=43ff48bf-0438-4bc4-84a0-903ae4965998.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2006-11-28",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d454e546347397a556b46534c305276593356745a57353062334e515a585270593246764c3259784d7a45325a6d49774c5455795a5441744e446b334d5330354e7a4a684c5745775a5449325932566d595456684e4335775a47593d&fich=f1316fb0-52e0-4971-972a-a0e26cefa5a4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2006-11-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d454e546347397a556b46534c305276593356745a57353062334e515a585270593246764c325a685a4745314e6d59314c575133595445744e4441785a4331695a44526b4c5468694f474d324e7a49304f5745344e6935775a47593d&fich=fada56f5-d7a1-401d-bd4d-8b8c67249a86.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1912",
+        "Legislatura": "X",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-10-23",
+            "gp": "PSD",
+            "id": "1484",
+            "motivoCessacao": null,
+            "nome": "José Raúl dos Santos"
+          }
+        ],
+        "RelatorioFinal": [
+          "22630"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Saúde (pré RAR) para esta comissão."
+      }
+    ],
+    "DataDebate": "2008-06-25",
+    "Documentos": [
+      {
+        "DataDocumento": "2006-11-28",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938354f574d314e325978596930784f4749774c5451784d474d744f54686a4d6931684d54497a4d7a59774e54526d593249756347526d&fich=99c57f1b-18b0-410c-98c2-a12336054fcb.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2008-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-06-26",
+                "pubLeg": "X",
+                "pubNr": "98",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/098/2008-06-26/47?pgs=47&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelas comissões de saúde de Santo André, Cercal do Alentejo e Ermidas e pelas pré-comissões de utentes de Santiago do Cacém e de Alvalade, solicitando à Assembleia da República a colocação de mais médicos e a prestação de melhores cuidados de saúde primários e manifestando-se contra o encerramento do serviço de atendimento a doentes urgentes no concelho de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-06-26",
+                "pubLeg": "X",
+                "pubNr": "98",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/098/2008-06-26/47?pgs=47-49&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelas comissões de saúde de Santo André, Cercal do Alentejo e Ermidas e pelas pré-comissões de utentes de Santiago do Cacém e de Alvalade, solicitando à Assembleia da República a colocação de mais médicos e a prestação de melhores cuidados de saúde primários e manifestando-se contra o encerramento do serviço de atendimento a doentes urgentes no concelho de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-06-26",
+                "pubLeg": "X",
+                "pubNr": "98",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/098/2008-06-26/49?pgs=49&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelas comissões de saúde de Santo André, Cercal do Alentejo e Ermidas e pelas pré-comissões de utentes de Santiago do Cacém e de Alvalade, solicitando à Assembleia da República a colocação de mais médicos e a prestação de melhores cuidados de saúde primários e manifestando-se contra o encerramento do serviço de atendimento a doentes urgentes no concelho de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-06-26",
+                "pubLeg": "X",
+                "pubNr": "98",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/098/2008-06-26/50?pgs=50&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelas comissões de saúde de Santo André, Cercal do Alentejo e Ermidas e pelas pré-comissões de utentes de Santiago do Cacém e de Alvalade, solicitando à Assembleia da República a colocação de mais médicos e a prestação de melhores cuidados de saúde primários e manifestando-se contra o encerramento do serviço de atendimento a doentes urgentes no concelho de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-06-26",
+                "pubLeg": "X",
+                "pubNr": "98",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/098/2008-06-26/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelas comissões de saúde de Santo André, Cercal do Alentejo e Ermidas e pelas pré-comissões de utentes de Santiago do Cacém e de Alvalade, solicitando à Assembleia da República a colocação de mais médicos e a prestação de melhores cuidados de saúde primários e manifestando-se contra o encerramento do serviço de atendimento a doentes urgentes no concelho de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-06-26",
+                "pubLeg": "X",
+                "pubNr": "98",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/098/2008-06-26/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelas comissões de saúde de Santo André, Cercal do Alentejo e Ermidas e pelas pré-comissões de utentes de Santiago do Cacém e de Alvalade, solicitando à Assembleia da República a colocação de mais médicos e a prestação de melhores cuidados de saúde primários e manifestando-se contra o encerramento do serviço de atendimento a doentes urgentes no concelho de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11523",
+    "PetAssunto": "Solicitam a colocação de mais médicos e prestação de melhores cuidados de saúde primários e manifestam-se contra o encerramento do Serviço de Atendimento a Doentes Urgentes no Concelho de Santiago do Cacém.",
+    "PetDataEntrada": "2006-11-28",
+    "PeticoesAssociadas": null,
+    "PetId": "11523",
+    "PetLeg": "X",
+    "PetNr": "200",
+    "PetNrAssinaturas": "6484",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "257",
+        "obs": null,
+        "pag": [
+          "47-52"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-06-26",
+        "pubLeg": "X",
+        "pubNr": "98",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/098/2008-06-26/47?pgs=47-52&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "391233",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-02-17",
+        "pubLeg": "X",
+        "pubNr": "22",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/02/022/2007-02-17/2?pgs=2&org=PLC"
+      }
+    ]
+  }
+}
