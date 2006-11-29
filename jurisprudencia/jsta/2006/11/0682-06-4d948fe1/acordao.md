@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal Administrativo de 2006-11-29, processo 0682/06
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0682/06
+
+**Data do Acordão:** 11/29/2006
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** JOÃO BELCHIOR
+
+**Descritores:** RECURSO POR OPOSIÇÃO DE JULGADOS.; MESMA QUESTÃO DE DIREITO.; RECURSO FINDO.
+
+**Nº Convencional:** JSTA00064049
+
+**Nº do Documento:** SAP200611290682
+
+**Data de Entrada:** 06/21/2006
+
+**Recorrente:** VEREADORA DA ÁREA DE GESTÃO DE RECURSOS HUMANOS DA CM DE LISBOA
+
+**Recorrido 1:** A...
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC OPOS JULGADOS.
+
+**Objecto:** AC TCA SUL.
+
+**Decisão:** FINDO
+
+**Área Temática 1:** DIR ADM CONT - REC JURISDICIONAL.
+
+**Legislação Nacional:** ETAF96 ART24.; CPC67 ART763.
+
+**Jurisprudência Nacional:** AC STAPLENO PROC36829 DE 1996/05/27.
+
+## Sumário
+
+I - Os pressupostos da interposição do recurso por oposição de acórdãos são em tudo similares aos referidos no art.º 763.º do CPC, redacção anterior ao Dec-Lei nº 329-A/95, de 12.12): que os acórdãos em apreço tenham sido proferidos no domínio da mesma legislação e que, relativamente à mesma questão fundamental de direito, hajam tomadas soluções opostas, isto é, tenham aplicado os mesmos preceitos legais de forma divergente, face a situações de facto análogas.
+
+II - Não se verificam tais pressupostos numa situação em que,
+
+- para o acórdão recorrido, se considerou serem desrespeitadas as garantias de defesa do arguido no facto de na acusação não constarem as penas aplicáveis à conduta ilícita imputada ao arguido, nem a agravante especial, prevista no artigo 31º nº 1, alínea b), do Estatuto, circunstâncias estas que no entanto vieram a constar da fundamentação do acto punitivo; e em que
+
+- para o acórdão - fundamento, (apenas) se expendeu que são violadas as mesma garantias se a acusação não for formulada por forma a habilitar o arguido a exercer com eficácia o seu direito de defesa, a menos que, pese embora a sua formulação de forma menos clara e precisa, na sua defesa, o arguido demonstre ter compreendido o seu exacto âmbito, sentido e alcance.
