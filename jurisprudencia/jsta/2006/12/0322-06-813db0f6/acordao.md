@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal Administrativo de 2006-12-12, processo 0322/06
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0322/06
+
+**Data do Acordão:** 12/12/2006
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** JORGE DE SOUSA
+
+**Descritores:** RECLAMAÇÃO PARA A CONFERÊNCIA; CUSTAS; RECURSO JURISDICIONAL; REDUÇÃO DE TAXA DE JUSTIÇA; ACTO DE SECRETARIA; RECLAMAÇÃO; DESPACHO DE MERO EXPEDIENTE; ERRO NA FORMA DE PROCESSO; ARGUIÇÃO DE NULIDADE; LEGITIMIDADE
+
+**Nº Convencional:** JSTA000P12689
+
+**Nº do Documento:** SAP200612120322
+
+**Recorrente:** A...
+
+**Recorrido 1:** CONSELHO DE ADMINISTRAÇÃO DO HOSPITAL DO ESPÍRITO SANTO E OUTROS
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I – A redução da taxa de justiça prevista no n.º 1 do art. 14.º do CCJ, para determinadas espécies processuais, não é aplicável nos recursos jurisdicionais para o STA interpostos de decisões proferidas em processos desses tipos.
+
+II – Constitui incidente qualquer ocorrência extraordinária que perturba o movimento normal do processo, devendo como tal considerar-se uma reclamação de um acto da secretaria.
+
+III – Tendo o recorrente num recurso jurisdicional apresentado uma reclamação para a conferência de um acto da secretaria, reclamação essa em que é feita exclusivamente arguição de nulidades processuais, deve ser corrigida a forma de processo, pronunciando-se o relator sobre essa arguição e rejeitando liminarmente a reclamação para a conferência, por esta reclamação ser inadmissível e se inserir na competência primária do relator o conhecimento de nulidades processuais, nos termos das alíneas f) e g) do n.º 1 do art. 27.º do CPTA.
+
+IV – Em tal situação de apresentação de uma reclamação para a conferência de um acto da secretaria que tem como único fundamento a arguição de nulidades processuais, não se justifica, por ser inútil, a formulação de um convite para o reclamante indicar como objecto da reclamação o despacho do relator executado por aquele acto, pois com essa correcção ou sem ela, sempre o conhecimento das nulidades era de conhecimento em primeiro grau pelo próprio relator.
+
+V – A determinação da forma como são colhidos os vistos é um acto interno do tribunal, que não produz efeitos em relação aos direitos ou faculdades processuais das partes e, por isso, o despacho que decide sobre essa matéria é um despacho de mero expediente, que se destina apenas a instruir a secretaria sobre a forma como deve processar os termos do processo em matéria que diz respeito apenas ao próprio tribunal.
+
+VI – Por isso, não cabe reclamação para a conferência de despachos desse tipo (art. 27.º, n.º 2, do CPTA).
+
+VII – A rejeição liminar de reclamações só pode ter lugar em situações em que é manifesta a razão da rejeição, e, por isso, não há que ouvir previamente as partes sobre o indeferimento, por ta audição ser manifestamente desnecessária, para efeitos do art. 3.º, n.º 3, do CPC.
+
+VIII – Fora dos casos em que a lei preveja o conhecimento oficioso de nulidades processuais, só tem legitimidade para as arguir aqueles que tiverem interesse na observância da formalidade ou na repetição ou eliminação do acto (arts. 202.º, 2.ª parte, e 203.º, n.º 1, do CPC.
