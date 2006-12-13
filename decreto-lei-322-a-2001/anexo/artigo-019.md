@@ -1,7 +1,7 @@
 # Artigo 19.º
 
-### Regras de distribuição de emolumentos
+### Destino da receita emolumentar
 
-1 - Os emolumentos previstos nos n.os 3.1 e 3.2 do artigo anterior pertencem à conservatória onde foi prestada a declaração.
+1 - A receita emolumentar da Conservatória dos Registos Centrais respeitante à prática dos actos previstos no artigo anterior, ainda que requeridos ou solicitados noutros serviços de registo, reverte para a Direcção-Geral dos Registos e do Notariado.
 
-2 - O emolumento previsto no n.º 6.7 do artigo anterior pertence, em partes iguais, à conservatória instrutora e à conservatória dos registos centrais.
+2 - Em cada procedimento de aquisição da nacionalidade em que o Serviço de Estrangeiros e Fronteiras preste informações, dos emolumentos cobrados pertencem ao Serviço de Estrangeiros e Fronteiras (euro) 20, revertendo o restante para a Direcção-Geral dos Registos e do Notariado.

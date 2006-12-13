@@ -28,13 +28,21 @@
 
 3 - Nacionalidade:
 
-3.1 - Por cada declaração de nascimento ocorrido no estrangeiro, atributiva de nacionalidade portuguesa, ou por cada declaração para atribuição da nacionalidade portuguesa, desde que o interessado seja maior ... 92
+3.1 - Atribuição:
 
-3.2 - Por cada declaração de aquisição ou perda da nacionalidade ... 75
+3.1.1 - Por cada procedimento de inscrição de nascimento ocorrido no estrangeiro ou de atribuição da nacionalidade portuguesa referentes a maior, bem como pelos autos de redução a escrito das declarações verbais prestadas para esse efeito, pelos respectivos registos e documentos oficiosamente obtidos - (euro) 175.
 
-3.3 - Por cada registo de atribuição de nacionalidade, desde que o interessado seja de maioridade ... 68
+3.2 - Aquisição:
 
-3.4 - Por cada registo de aquisição ou perda de nacionalidade ... 56
+3.2.1 - Por cada procedimento de aquisição da nacionalidade por efeito da vontade, por adopção ou por naturalização referentes a maior, bem como pelo auto de redução a escrito das declarações verbais prestadas para esse efeito, pelo respectivo registo e documentos oficiosamente obtidos - (euro) 175.
+
+3.2.2 - Por cada procedimento de aquisição da nacionalidade por efeito da vontade ou por naturalização referentes a incapaz, bem como pelo auto de redução a escrito das declarações verbais prestadas para esse efeito, pelo respectivo registo e documentos oficiosamente obtidos - (euro) 120.
+
+3.3 - Perda:
+
+3.3.1 - Por cada procedimento de perda da nacionalidade, bem como pela redução a escrito da declaração verbal prestada para esse efeito, pelo respectivo registo e documentos oficiosamente obtidos - (euro) 120.
+
+3.4 - Em caso de indeferimento liminar, os emolumentos previstos nos números anteriores são devidos na sua totalidade.
 
 4 - Processo de casamento:
 

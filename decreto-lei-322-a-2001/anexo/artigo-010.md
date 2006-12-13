@@ -26,7 +26,7 @@ h) Assento de nascimento ocorrido no estrangeiro, atributivo da nacionalidade po
 
 i) Declaração para aquisição da nacionalidade, nos termos dos artigos 30.º e 31.º da Lei n.º 37/81, de 3 de Outubro;
 
-j) Registo da declaração para a aquisição da nacionalidade, nos termos dos artigos referidos na alínea anterior, e registos oficiosos lavrados nos termos do artigo 33.º da Lei n.º 37/81, de 3 de Outubro, bem como os documentos necessários para uns e outros;
+j) Registo da declaração para aquisição da nacionalidade, nos termos dos artigos referidos na alínea anterior, e registos oficiosos lavrados nos termos do artigo 33.º da Lei n.º 37/81, de 3 de Outubro, bem como os procedimentos e documentos necessários para uns e outros;
 
 l) Assento de transcrição de declaração de maternidade, de perfilhação ou de óbito lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português;
 
@@ -44,7 +44,7 @@ r) Processo de sanação da anulabilidade do casamento por falta de testemunhas;
 
 s) Processo de autorização para inscrição tardia de nascimento;
 
-t) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações previstas no Código do Registo Civil e que não devam entrar em regra de custas, incluindo a emissão do boletim original de nascimento, casamento, óbito ou morte fetal;
+t) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações previstas no Código do Registo Civil e no Regulamento da Nacionalidade Portuguesa e que não devam entrar em regra de custas, incluindo a emissão do boletim original de nascimento, casamento, óbito ou morte fetal;
 
 u) Certidões requeridas para fins de assistência ou beneficência, incluindo a obtenção de pensões do Estado ou das autarquias locais;
 
