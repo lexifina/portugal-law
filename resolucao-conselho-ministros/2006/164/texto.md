@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros n.º 164/2006
+Sob proposta da Câmara Municipal, a Assembleia Municipal de Abrantes aprovou, por deliberação de 17 de Fevereiro de 2006, a prorrogação, por um ano, do prazo de vigência das medidas preventivas estabelecidas pela Resolução do Conselho de Ministros n.º 30/2004, de 20 de Março, para a salvaguarda de espaços destinados a infra-estruturas rodoviárias, espaços verdes e de equipamentos pelo plano de urbanização (PU) de Abrantes, em fase de elaboração.
+De acordo com a fundamentação constante da deliberação da Assembleia Municipal de Abrantes de 17 de Fevereiro de 2006, mantêm-se as circunstâncias que levaram ao estabelecimento das medidas preventivas, pelo que se torna imperiosa a prorrogação do respectivo prazo de vigência, de modo a dar cumprimento aos objectivos que determinaram o seu estabelecimento inicial, bem como evitar a alteração de circunstâncias de facto existentes que possam limitar a liberdade de planeamento ou comprometer a futura execução do PU de Abrantes.
+Não obstante o termo da vigência das referidas medidas preventivas já ter ocorrido em 21 de Março de 2006, a deliberação da Assembleia Municipal que aprovou a referida prorrogação foi tomada em momento prévio.
+Considerando o disposto no n.º 9 do artigo 112.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro:
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Ratificar a prorrogação, pelo prazo de um ano, do prazo de vigência das medidas preventivas estabelecidas pela Resolução do Conselho de Ministros n.º 30/2004, de 20 de Março, para os espaços destinados a infra-estruturas rodoviárias, espaços verdes e de equipamentos pelo futuro plano de urbanização de Abrantes.
+2 - Determinar que a presente prorrogação produz efeitos a partir de 21 de Março de 2006.
+Presidência do Conselho de Ministros, 16 de Novembro de 2006. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
