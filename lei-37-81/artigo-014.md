@@ -1,7 +1,3 @@
-## Capítulo VI
-
-## Disposições gerais
-
 # Artigo 14.º
 
 ### (Efeitos do estabelecimento da filiação)

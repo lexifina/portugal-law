@@ -10,4 +10,4 @@ b) Das declarações para aquisição ou perda da nacionalidade;
 
 c) Da naturalização de estrangeiros.
 
-2 - O registo dos actos a que se refere o número anterior é feito a requerimento dos interessados.
+2 - (Revogado.)

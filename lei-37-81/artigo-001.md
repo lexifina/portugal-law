@@ -12,12 +12,16 @@
 
 1 - São portugueses de origem:
 
-a) Os filhos de pai português ou mãe portuguesa nascidos em território português ou sob administração portuguesa, ou no estrangeiro se o progenitor português aí se encontrar ao serviço do Estado Português;
+a) Os filhos de mãe portuguesa ou de pai português nascidos no território português;
 
-b) Os filhos de pai português ou mãe portuguesa nascidos no estrangeiro se declararem que querem ser portugueses ou inscreverem o nascimento no registo civil português;
+b) Os filhos de mãe portuguesa ou de pai português nascidos no estrangeiro se o progenitor português aí se encontrar ao serviço do Estado Português;
 
-c) Os indivíduos nascidos em território português, filhos de estrangeiros que aqui residam com título válido de autorização de residência há, pelo menos, 6 ou 10 anos, conforme se trate, respectivamente, de cidadãos nacionais de países de língua oficial portuguesa ou de outros países, e desde que não se encontrem ao serviço do respectivo Estado, se declararem que querem ser portugueses;
+c) Os filhos de mãe portuguesa ou de pai português nascidos no estrangeiro se tiverem o seu nascimento inscrito no registo civil português ou se declararem que querem ser portugueses;
 
-d) Os indivíduos nascidos em território português quando não possuam outra nacionalidade.
+d) Os indivíduos nascidos no território português, filhos de estrangeiros, se pelo menos um dos progenitores também aqui tiver nascido e aqui tiver residência, independentemente de título, ao tempo do nascimento;
 
-2 - Presumem-se nascidos em território português ou sob administração portuguesa, salvo prova em contrário, os recém-nascidos expostos naqueles territórios.
+e) Os indivíduos nascidos no território português, filhos de estrangeiros que não se encontrem ao serviço do respectivo Estado, se declararem que querem ser portugueses e desde que, no momento do nascimento, um dos progenitores aqui resida legalmente há pelo menos cinco anos;
+
+f) Os indivíduos nascidos no território português e que não possuam outra nacionalidade.
+
+2 - Presumem-se nascidos no território português, salvo prova em contrário, os recém-nascidos que aqui tenham sido expostos.

@@ -1,5 +1,5 @@
 # Artigo 19.º
 
-### (Averbamento ao assento de nascimento)
+### Registo da nacionalidade
 
-O registo do acto que importe atribuição, aquisição ou perda da nacionalidade é sempre averbado ao assento de nascimento do interessado.
+O registo do acto que importe atribuição, aquisição ou perda da nacionalidade é lavrado por assento ou por averbamento.

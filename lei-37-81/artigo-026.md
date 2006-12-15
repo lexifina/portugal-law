@@ -1,5 +1,5 @@
 # Artigo 26.º
 
-### (Tribunal competente)
+### Legislação aplicável
 
-A apreciação dos recursos a que se refere o artigo anterior é da competência do Tribunal da Relação de Lisboa.
+Ao contencioso da nacionalidade são aplicáveis, nos termos gerais, o Estatuto dos Tribunais Administrativos e Fiscais, o Código de Processo nos Tribunais Administrativos e demais legislação complementar.
