@@ -1,0 +1,21 @@
+# Portaria n.º 143/2006
+
+**Emissor:** SECRETARIAREGIONAL DO TURISMO E CULTURA
+
+**Publicação:** JORAM, I série, n.º 152/2006, de 2006-12-15
+
+**Sumário:** Classifica como conjunto de interesse público os imóveis localizados à Rua D. Carlos I, n.ºs 33-A, 34 e 35 e Rua dos Barreiros, município do Funchal, descritos na Conservatória do Registo Predial do Funchal sob os n.ºs 1151/19930928 e 1035/19930104.
+
+## Texto
+
+Portaria n.º 143/2006
+O conjunto de edifícios vertentes, considerando a sua raridade, constitui um documento que contraria a imagem expressa do Funchal de quinhentos e dá corpo à ideia enunciada por Gaspar Furtuoso, onde ricas casas de fidalgos e mercadores abastados se destacavam no tecido edificado, constituído no geral por pequenas construções de carácter vernacular, morada de comerciantes e artífices. Tal tecido edificado era pontuado e estruturado pelos grandes edifícios monumentais como a Sé, o Convento de Santa Clara ou a Fortaleza de São Lourenço. Na decoração dos edifícios de carácter erudito, destacar-se-iam os belos exemplares de pintura flamenga que hoje pertencem ao património da Região.
+O conjunto em causa é composto por três edifícios hoje com acessos separados, mas cujos arcos de cantaria no résdo-chão, indicam ligações anteriores. O edifício com entrada para a Rua dos Barreiros e para a Rua D. Carlos I, possui dois pisos, sendo a entrada para a Rua D. Carlos I feita por uma porta geminada à maneira dos séculos XV e XVI, que dá acesso a uma das duas lojas do rés-do-chão. O andar superior é possivelmente uma ampliação do século XVII ou XVIII e possui três quartos destinados à habitação. O segundo edifício assume a forma de torre, uma tipologia com raízes medievais e motivada pela escassez de espaço dentro das muralhas – que obrigava os edifícios a crescer em altura, possibilitando ao mesmo tempo uma melhor defesa -, facto que sugere que o local seria em quinhentos um espaço densamente povoado. Exteriormente, mais precisamente na fachada oeste, o reboco apresenta faixas estanhadas semelhantes às que marcavam e ritmavam as fachadas dos imóveis do século XV e XVI. O mesmo efeito se desenha no edifício contíguo, voltado a sul e desenvolvido em três pisos. No primeiro piso a fachada abre-se em arco de grandes dimensões, avançando dois metros em relação a uma segunda parede e criando um pequeno átrio. Os três vãos abertos nesta última parede possuem moldura em cantaria com desenho ao gosto manuelino, sendo mesmo visível numa das obreiras de uma das portas uma marca de canteiro em forma de Cruz de Cristo. Uma escada exterior permite o acesso aos dois pisos superiores destinados a habitação. No último piso encontramos uma lareira de grandes dimensões e uma porta com o mesmo desenho das anteriores, donde é legítimo concluir que o edifício mantém a sua estrutura original.
+Assim, observado que foi o procedimento para o efeito previsto nos artigos 25.º a 27.º da Lei n.º 107/2001, de 8 de Setembro, nos termos do disposto no n.º 5 do artigo 15.º, no artigo 18.º, no n.º 2 do artigo 28.º conjugado com o n.º 1 do artigo 94.º do mesmo diploma, ao abrigo da alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, alterado pelas Leis n.ºs 130/99, de 21 de Agosto e 12/2000, de 21 de Junho, manda o Governo Regional da Madeira, pelo Secretário Regional do Turismo e Cultura, o seguinte:
+
+1.º - Pelo seu elevado valor de testemunho raro de vivências e de factos históricos, é classificado como conjunto de interesse público os imóveis localizados à Rua D. Carlos I, n.ºs 33-A, 34 e 35 e Rua dos Barreiros, concelho do Funchal, descritos na Conservatória do Registo Predial do Funchal sob os n.ºs 1151/19930928 e 1035/19930104, sendo que a área do identificado conjunto que é objecto da presente classificação coincide com a que vai devidamente assinalada no mapa anexo.
+2.º - É fixada uma zona especial de protecção do imóvel classificado, cujos limites coincidem com a área assinalada no mapa anexo.
+3.º - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Funchal, 4 de Dezembro de 2006.
+O SECRETÁRIO REGIONAL DO TURISMO E CULTURA, João Carlos Nunes Abreu
+Planta anexa à Portaria n.º 143/2006, de 15 de Dezembro
