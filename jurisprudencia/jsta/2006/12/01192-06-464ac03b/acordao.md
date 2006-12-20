@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2006-12-20, processo 01192/06
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01192/06
+
+**Data do Acordão:** 12/20/2006
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** ROSENDO JOSÉ
+
+**Descritores:** RECURSO DE REVISTA EXCEPCIONAL.; INTIMAÇÃO PARA PASSAGEM DE CERTIDÃO.; INTERPRETAÇÃO.
+
+**Nº Convencional:** JSTA00063723
+
+**Nº do Documento:** SA12006122001192
+
+**Data de Entrada:** 12/11/2006
+
+**Recorrente:** A...
+
+**Recorrido 1:** GENERAL CEME
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC EXCEPC REVISTA.
+
+**Objecto:** AC TCA SUL.
+
+**Decisão:** NÃO ADMITIR RECURSO.
+
+**Área Temática 1:** DIR ADM GER.
+
+**Legislação Nacional:** CPTA02 ART142 ART150.
+
+## Sumário
+
+I - O recurso de revista para o STA em terceiro grau de apreciação, de uma causa submetida aos tribunais administrativos é restringido pelo n.º 1 do art.º 150.º aos casos excepcionais nele previstos.
+
+II – Não é de admitir, o recurso de Acórdão do TCA que mantendo decisão do TAF indeferiu o pedido de intimação para passagem de certidão dos fundamentos e antecedentes do Despacho Normativo que fixou os efectivos do Exército por postos e quadros especiais para o ano de 2006, pedido esse efectuado com referência ao artº 68º do CPA, em que a decisão do Acórdão interpretou a pretensão como sendo dirigida a uma decisão individual que no acto proferido não existia.
+
+III – A decisão do TCA assentou essencialmente na interpretação que fez do alcance do requerimento, pelo que a apreciação de eventual erro de que enferme não preenche os requisitos do artº 150º nº 1 do CPTA/02, uma vez que não seria apta para melhorar a aplicação do direito, limitada como se encontra a questão à especificidade daquela interpretação num caso atípico.
