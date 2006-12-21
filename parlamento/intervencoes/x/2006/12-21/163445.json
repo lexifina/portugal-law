@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7mX8CblfaZUC1PkJDB5lnqrCJq%2b7%2fttZ%2bq7V7723EchVdz3Nn2q812aFEYd6rr8874IzCmBVEAA%2bWOYWfsumzvqS1eq8naCM3HU8DfArtqjUIzglbaPE0CcQttqHCQQoMo%2fh%2fhKCb3g2GEQMzfq1KSc9%2fpTWFu72hTtxTyNYOeXkhbuONHMuCnIkQqg3msT7eeQmt0TfluQRzEBaM8DH7AQmw5Qhogj2EW6Pzk21Q%2bvziTvjPWoS33gxtX%2fH9JDDQX6mGASaug9iKuUhzQ7Z5ZK%2fZR5bCVlM5vvPHMxCwoMG%2bvQRYkXxSUhi0aLWAFUFURbTtAP3Ta6KrCvkgi0G8WZ9c9%2bLNnGsCv9PZZ1kJfTh41xRZVmeaxJdHrCKDxmC&fich=IntervencoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "6d409937a94b75ba2179b6cc6083cb33cce789e414851e22ef0c275c6cbcc284",
+  "legislatura": "X",
+  "id": "163445",
+  "tipo": "Intervenção",
+  "orador": "José Sócrates (PRIMEIRO-MINISTRO)",
+  "data_registo": "2006-12-21",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "81250",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "81250",
+        "tipo": "DEB",
+        "titulo": "Debate com o Primeiro-Ministro - Reforma do Ensino Superior"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2006-12-21",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "163445",
+    "IdDebate": "3376",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "X",
+    "MembrosGoverno": {
+      "cargo": "PRIMEIRO-MINISTRO",
+      "governo": "XVII GOVERNO CONSTITUCIONAL",
+      "nome": "José Sócrates"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "163445",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "17-23",
+          "25-28",
+          "30-34",
+          "36-45",
+          "47-49",
+          "5-8",
+          "51-59"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-12-22",
+        "pubLeg": "X",
+        "pubNr": "31",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/031/2006-12-22/5?pgs=5-8,17-23,25-28,30-34,36-45,47-49,51-59&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Processo de Bolonha; Responde a perguntas e réplicas dos deputados Luis Marques Mendes (PSD), Alberto Martins (PS), Jerónimo de Sousa (PCP), Pedro Mota Soares (CDS-PP), Francisco Louçã (BE), Francisco Madeira Lopes (PEV), Pedro Duarte (PSD), Luis Fagundes Duarte (PS), António Filipe (PCP), Abel Baptista (CDS-PP), Agostinho Branquinho (PSD) e Pedro Nuno Santos (PS)",
+    "Sessao": "2",
+    "Sumario": "Reforma do Ensino Superior",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
