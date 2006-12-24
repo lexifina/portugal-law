@@ -1,0 +1,84 @@
+Decreto-Lei n.º 229/2006
+de 24 de Novembro
+O Estatuto do Técnico Responsável por Instalações Eléctricas de Serviço Particular, aprovado pelo Decreto Regulamentar n.º 31/83, de 18 de Abril, estabelecia que, consoante os requisitos nele fixados, podiam ser técnicos responsáveis os engenheiros electrotécnicos, os engenheiros técnicos da especialidade de electrotecnia, bem como os electricistas, desde que, todos eles, estivessem inscritos na Direcção-Geral de Energia.
+O referido Estatuto mantém-se em vigor, tendo merecido uma única alteração, relativa à entidade da administração pública central à qual passou a competir a inscrição dos referidos técnicos. Com efeito, o Decreto-Lei n.º 5/2004, de 6 de Janeiro, que aprovou a lei orgânica das direcções regionais da economia, estabelece como atribuição destes serviços desconcentrados a inscrição dos técnicos responsáveis pelo projecto, execução e exploração de instalações eléctricas.
+Esta exigência de inscrição em serviços da Administração Pública, no que respeita aos técnicos responsáveis que sejam engenheiros electrotécnicos e engenheiros técnicos da especialidade de electrotecnia, corresponde a uma formalidade desnecessária, já que, actualmente, os mesmos devem estar obrigatoriamente inscritos na respectiva Ordem e na associação profissional, de acordo com os seus Estatutos.
+Com efeito, por força do artigo 3.º dos Estatutos da Ordem dos Engenheiros (OE), aprovados pelo Decreto-Lei n.º 119/92, de 30 de Junho, a atribuição do título, o seu uso e o exercício da profissão de engenheiro dependem da inscrição como membro efectivo daquela Ordem.
+Por sua vez, o artigo 4.º dos Estatutos da Associação Nacional dos Engenheiros Técnicos, aprovados pelo Decreto-Lei n.º 349/99, de 2 de Setembro, estabelece que a atribuição do título, o seu uso e o exercício da profissão de engenheiro técnico dependem de inscrição como membro desta Associação.
+Já no que respeita aos técnicos responsáveis por instalações eléctricas de serviço particular que sejam electricistas, como não há nenhuma obrigação de inscrição em qualquer associação profissional, justifica-se, neste caso, manter a necessidade de inscrição em serviço da Administração Pública.
+A presente medida vem, assim, pôr cobro a uma exigência legal que a realidade demonstrou ser desnecessária, dando cumprimento a um dos objectivos do Programa de Simplificação Administrativa e Legislativa - SIMPLEX 2006.
+Foi ouvida a Associação Nacional dos Engenheiros Técnicos.
+Foram promovidas as diligências necessárias à audição da Ordem dos Engenheiros.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Alteração ao Decreto Regulamentar n.º 31/83, de 18 de Abril
+Os artigos 5.º, 7.º, 14.º, 25.º e 30.º do Decreto Regulamentar n.º 31/83, de 18 de Abril, passam a ter a seguinte redacção:
+«Artigo 5.º
+[...]
+1 - ...:
+a) ...
+b) ...
+c) ...
+d) Os electricistas sem as habilitações previstas na alínea anterior que possuam, pelo menos, sete anos de experiência profissional na área de execução de instalações eléctricas de baixa tensão, desde que, através de um processo de reconhecimento e validação de competências adquiridas pela via da experiência, demonstrem possuir os conhecimentos adequados;
+e) [Anterior alínea d).]
+f) [Anterior alínea e).]
+2 - ...
+3 - Os electricistas indicados nas alíneas c) a f) do n.º 1 podem ser responsáveis por qualquer instalação, desde que não incluam subestações de transformação ou de conversão e redes de alta tensão, sendo-lhes atribuído, quanto à competência, o nível II.
+4 - Os electricistas referidos nas alíneas e) e f) do n.º 1 só podem assumir responsabilidades no âmbito das respectivas especialidades.
+5 - ...
+6 - ...
+7 - O processo de reconhecimento e validação de competências referido na alínea d) do n.º 1 é realizado ao abrigo e nos termos de protocolo de colaboração celebrado, para o efeito, entre a Direcção-Geral de Geologia e Energia, o Instituto do Emprego e Formação Profissional, I. P., e o Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário, I. P.
+Artigo 7.º
+Inscrição
+1 - O exercício das funções de técnico responsável pela execução e pela exploração de instalações eléctricas por parte de electricistas depende de inscrição na direcção regional de economia territorialmente competente, devendo o requerimento para a inscrição ser dirigido ao respectivo director regional e ser acompanhado de:
+a) ...;
+b) ...;
+c) Valor a título de taxa de inscrição, a definir por portaria do ministro responsável pela área da economia, a entregar à direcção regional de economia territorialmente competente, que constituirá receita própria do organismo;
+d) (Revogada.)
+e) (Revogada.)
+2 - (Revogado.)
+3 - (Revogado.)
+4 - (Revogado.)
+5 - O exercício das funções de técnico responsável por instalações eléctricas por parte dos engenheiros electrotécnicos e dos engenheiros técnicos de electrotecnia depende de estarem inscritos, respectivamente, na Ordem dos Engenheiros e na Associação Nacional dos Engenheiros Técnicos, nos termos previstos nos respectivos Estatutos.
+Artigo 14.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - ...
+7 - ...
+8 - A ficha de execução deve acompanhar o pedido de vistoria da instalação eléctrica, excepto quando se trate de uma inspecção da competência de uma associação inspectora de instalações eléctricas.
+9 - ...
+10 - ...
+Artigo 25.º
+Obrigatoriedade de inscrição dos electricistas
+Para o exercício da sua actividade, o electricista que seja técnico responsável deverá estar inscrito na direcção regional de economia territorialmente competente, nas condições estabelecidas no capítulo III do presente Estatuto.
+Artigo 30.º
+[...]
+1 - Os electricistas que sejam técnicos responsáveis por instalações eléctricas estão sujeitos às seguintes sanções disciplinares, em função da gravidade das faltas cometidas:
+a) Advertência por escrito;
+b) Coima de (euro) 40 a (euro) 200;
+c) Coima de (euro) 200 a (euro) 800, em caso de reincidência;
+d) ...
+e) ...
+2 - ...
+3 - ...
+4 - A instrução dos processos relativos às sanções previstas neste artigo é da competência da direcção regional da economia territorialmente competente, cabendo a sua aplicação ao director regional.»
+Artigo 2.º
+Norma revogatória
+São revogadas as alíneas d) e e) do n.º 1 e os n.os 2 a 4 do artigo 7.º e os artigos 8.º, 31.º, 32.º, 34.º e 35.º do Estatuto do Técnico Responsável por Instalações Eléctricas de Serviço Particular, aprovado pelo Decreto Regulamentar n.º 31/83, de 18 de Abril.
+Artigo 3.º
+Norma derrogatória
+É derrogada a alínea e) do n.º 3 do artigo 3.º do Decreto-Lei n.º 5/2004, de 6 de Janeiro, bem como outras normas legais e regulamentares que prevejam a exigência de inscrição dos técnicos responsáveis por instalações eléctricas na direcção regional de economia competente como condição para o exercício da actividade por engenheiros electrotécnicos e dos engenheiros técnicos de electrotecnia, considerando-se que a referida exigência só abrange os electricistas.
+Artigo 4.º
+Entrada em vigor
+O presente decreto-lei entra em vigor 30 dias após a sua publicação.
+Visto e aprovado em Conselho de Ministros de 4 de Outubro de 2006. - José Sócrates Carvalho Pinto de Sousa - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - Pedro Manuel Dias de Jesus Marques.
+Promulgado em 8 de Novembro de 2006.
+Publique-se.
+O Presidente da República, ANÍBAL CAVACO SILVA.
+Referendado em 10 de Novembro de 2006.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
