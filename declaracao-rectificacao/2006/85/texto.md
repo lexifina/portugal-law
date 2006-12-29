@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 85/2006
+Para os devidos efeitos se declara que o Decreto-Lei n.º 220/2006, publicado no Diário da República, 1.ª série, n.º 212, de 3 de Novembro de 2006, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 3 do artigo 17.º, onde se lê «no centro de emprego ou, em caso do requerimento, ser apresentado online no sítio da Internet da segurança social no momento da inscrição para emprego no centro de emprego.» deve ler-se «no centro de emprego ou, em caso do requerimento ser apresentado online no sítio da Internet da segurança social, no momento da inscrição para emprego no centro de emprego.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 19 de Dezembro de 2006. - Pelo Secretário-Geral, a Secretária-Geral-Adjunta, Ana Almeida.
