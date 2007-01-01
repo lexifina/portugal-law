@@ -1,10 +1,12 @@
 # Artigo 62.º
 
-### Relatório de inspecção
+### Conclusão do procedimento de inspecção
 
 1 - Para conclusão do procedimento é elaborado um relatório final com vista à identificação e sistematização dos factos detectados e sua qualificação jurídico-tributária.
 
-2 - O relatório deve conter, tendo em atenção a dimensão e complexidade da entidade inspeccionada, os seguintes elementos:
+2 - O relatório referido no número anterior deve ser notificado ao contribuinte por carta registada nos 10 dias posteriores ao termo do prazo referido no n.º 4 do artigo 60.º, considerando-se concluído o procedimento na data da notificação.
+
+3 - O relatório deve conter, tendo em atenção a dimensão e complexidade da entidade inspeccionada, os seguintes elementos:
 
 a) Identificação da entidade inspeccionada, designadamente denominação social, número de identificação fiscal, local da sede e serviço local a que pertence;
 
@@ -32,8 +34,8 @@ m) Identificação dos funcionários que o subscreveram, com menção do nome, c
 
 n) Outros elementos relevantes.
 
-3 - No caso de o sujeito passivo ter apresentado pedido de redução de coima ou procedido à regularização da sua situação tributária durante o procedimento de inspecção, do facto far-se-á referência no relatório.
+4 - No caso de o sujeito passivo ter apresentado pedido de redução de coima ou procedido à regularização da sua situação tributária durante o procedimento de inspecção, do facto far-se-á referência no relatório.
 
-4 - Poderão ser elaborados outros tipos de relatórios em caso de procedimentos de inspecção com objectivos específicos, os quais, no entanto, incluirão sempre a identidade das entidades inspeccionadas, os fins dos actos, as conclusões obtidas e a sua fundamentação.
+5 - Poderão ser elaborados outros tipos de relatórios em caso de procedimentos de inspecção com objectivos específicos, os quais, no entanto, incluirão sempre a identidade das entidades inspeccionadas, os fins dos actos, as conclusões obtidas e a sua fundamentação.
 
-5 - O relatório de inspecção será assinado pelo funcionário ou funcionários intervenientes no procedimento e conterá o parecer do chefe de equipa que intervenha ou coordene, bem como o sancionamento superior das suas conclusões.
+6 - O relatório de inspecção será assinado pelo funcionário ou funcionários intervenientes no procedimento e conterá o parecer do chefe de equipa que intervenha ou coordene, bem como o sancionamento superior das suas conclusões.

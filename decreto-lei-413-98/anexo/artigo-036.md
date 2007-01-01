@@ -6,13 +6,15 @@
 
 2 - O procedimento de inspecção é contínuo e deve ser concluído no prazo máximo de seis meses a contar da notificação do seu início.
 
-3 - O prazo referido no número anterior poderá, no caso de procedimento geral ou polivalente, ser ampliado por mais dois períodos de três meses, nas seguintes circunstâncias:
+3 - O prazo referido no número anterior poderá ser ampliado por mais dois períodos de três meses, nas seguintes circunstâncias:
 
 a) Situações tributárias de especial complexidade resultante, nomeadamente, do volume de operações, da dispersão geográfica ou da integração em grupos económicos nacionais ou internacionais das entidades inspeccionadas;
 
 b) Quando, na acção de inspecção, se apure ocultação dolosa de factos ou rendimentos;
 
-c) Outros motivos de natureza excepcional, mediante autorização fundamentada do director-geral dos Impostos.
+c) Nos casos em que a administração tributária tenha necessidade de recorrer aos instrumentos de assistência mútua e cooperação administrativa internacional;
+
+d) Outros motivos de natureza excepcional, mediante autorização fundamentada do director-geral dos Impostos.
 
 4 - A prorrogação da acção de inspecção é notificada à entidade inspeccionada com a indicação da data previsível do termo do procedimento.
 

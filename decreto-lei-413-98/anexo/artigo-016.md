@@ -10,10 +10,12 @@
 
 ### Competência material e territorial
 
-São competentes para a prática dos actos de inspecção tributária, nos termos da lei, os seguintes serviços da Direcção-Geral dos Impostos:
+1 - São competentes para a prática dos actos de inspecção tributária, nos termos da lei, os seguintes serviços da Direcção-Geral dos Impostos:
 
-a) A Direcção de Serviços de Prevenção e Inspecção Tributária (DSPIT), relativamente aos sujeitos passivos e demais obrigados tributários que devam ser inspeccionados pelos serviços centrais da Direcção-Geral dos Impostos, de acordo com os critérios de selecção previstos no Plano Nacional de Actividades da Inspecção Tributária ou fixados pelo director-geral dos Impostos, nos termos do presente Regulamento;
+a) As direcções de serviços de inspecção tributária que nos termos da orgânica da Direcção-Geral dos Impostos integram a área operativa da inspecção tributária, relativamente aos sujeitos passivos e demais obrigados tributários que devam ser inspeccionados pelos serviços centrais;
 
-b) Os serviços regionais, relativamente aos sujeitos passivos e demais obrigados tributários com domicílio ou sede fiscal na sua área territorial;
+b) Os serviços periféricos regionais, relativamente aos sujeitos passivos e demais obrigados tributários com domicílio ou sede fiscal na sua área territorial;
 
-c) Os serviços locais, relativamente aos sujeitos passivos e demais obrigados tributários com domicílio ou sede fiscal na sua área territorial.
+c) Os serviços periféricos locais, relativamente aos sujeitos passivos e demais obrigados tributários com domicílio ou sede fiscal na sua área territorial.
+
+2 - São inspeccionados directamente pelos serviços centrais os sujeitos passivos designados pelo director-geral dos Impostos, bem como os que constem de despacho publicado no Diário da República.

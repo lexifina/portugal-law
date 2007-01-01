@@ -10,6 +10,6 @@
 
 2 - O pedido de sancionamento poderá ser efectuado no prazo de 30 dias após a notificação das conclusões do relatório e identificará as matérias sobre as quais o requerente pretenda que recaia sancionamento.
 
-3 - O pedido considera-se tacitamente deferido se a administração tributária não se pronunciar no prazo de seis meses.
+3 - O pedido considera-se tacitamente deferido se a administração tributária não se pronunciar notificando o interessado no prazo de seis meses, a contar da data da entrada do pedido referido no n.º 1.
 
 4 - Caso o pedido seja expressa ou tacitamente deferido, a administração tributária não pode proceder relativamente à entidade inspeccionada em sentido diverso do teor das conclusões do relatório nos três anos seguintes ao da data da notificação destas, salvo se se apurar posteriormente simulação, falsificação, violação, ocultação ou destruição de quaisquer elementos fiscalmente relevantes relativos ao objecto da inspecção.

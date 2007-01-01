@@ -1,10 +1,10 @@
 # Artigo 49.º
 
-### Notificação para início do procedimento de inspecção
+### Notificação prévia para procedimento de inspecção
 
-1 - O início do procedimento externo de inspecção deve ser notificado ao sujeito passivo ou obrigado tributário com uma antecedência mínima de cinco dias.
+1 - O procedimento externo de inspecção deve ser notificado ao sujeito passivo ou obrigado tributário com uma antecedência mínima de cinco dias relativamente ao seu início.
 
-2 - A notificação para início do procedimento de inspecção efectua-se por carta-aviso elaborada de acordo com modelo aprovado pelo director-geral dos Impostos, contendo os seguintes elementos:
+2 - A notificação prevista no número anterior efectua-se por carta-aviso elaborada de acordo com o modelo aprovado pelo director-geral dos Impostos, contendo os seguintes elementos:
 
 a) Identificação do sujeito passivo ou obrigado tributário objecto da inspecção;
 

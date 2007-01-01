@@ -16,4 +16,4 @@ e) O procedimento se destine a averiguar o exercício de actividade por sujeitos
 
 f) A notificação antecipada do início do procedimento de inspecção for, por qualquer outro motivo excepcional devidamente fundamentado pela administração tributária, susceptível de comprometer o seu êxito.
 
-2 - Nos casos referidos no número anterior, a carta-aviso e o anexo do folheto são entregues no momento da prática dos actos de inspecção.
+2 - Nos casos referidos no número anterior, o anexo a que se refere o n.º 3 do artigo 49.º é entregue, conjuntamente com a cópia da ordem de serviço ou do despacho a que se refere o n.º 1 do artigo 51.º, no momento da prática dos actos de inspecção.

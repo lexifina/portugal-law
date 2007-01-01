@@ -2,4 +2,4 @@
 
 ### Extensão da competência
 
-O procedimento de inspecção tributária pode estender-se a áreas territoriais diversas das previstas no número anterior mediante decisão fundamentada do dirigente do serviço a cargo do procedimento de inspecção.
+Os actos de inspecção podem estender-se a áreas territoriais diversas das previstas no artigo anterior ou ser efectuados por outro serviço, mediante decisão fundamentada da entidade que os tiver ordenado.
