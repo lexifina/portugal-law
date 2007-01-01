@@ -6,8 +6,12 @@
 
 ### Cadernetas prediais
 
-1 - Por cada prédio inscrito na matriz de base cadastral ou na matriz urbana é preenchida e entregue ao sujeito passivo uma caderneta predial do modelo aprovado.
+1 - Por cada prédio inscrito na matriz é preenchida e entregue ao sujeito passivo uma caderneta predial do modelo aprovado.
 
 2 - As cadernetas prediais podem ser substituídas, na parte respeitante ao extracto dos elementos matriciais constantes das matrizes, por fotocópias devidamente autenticadas.
 
 3 - O preenchimento das cadernetas ou fotocópia compete ao serviço que organizar as respectivas matrizes.
+
+4 - Os notários, sempre que intervenham em actos ou contratos que exijam a apresentação da caderneta predial relativa aos prédios urbanos ou fracções autónomas objecto desses actos ou contratos, podem obtê-la por via electrónica e entregá-la, gratuitamente, ao sujeito passivo.
+
+5 - Nos casos em que a declaração modelo n.º 1 do IMI é entregue para efeitos de inscrição de prédio urbano ou fracção autónoma na matriz, os notários sempre que intervenham em actos ou contratos que exijam a sua apresentação, podem obtê-la por via electrónica.
