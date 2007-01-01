@@ -4,7 +4,7 @@
 
 1 - A impressão dos documentos de transporte referidos no presente diploma só pode ser efectuada em tipografias devidamente autorizadas pelo Ministro das Finanças.
 
-2 - Os sujeitos passivos podem optar pelo processamento dos referidos documentos através de computador, desde que utilizem software que garanta a sua numeração conforme o disposto no n.º 2 do artigo 5.º, e o comuniquem previamente à direcção de finanças do distrito da sua sede.
+2 - Os sujeitos passivos podem processar os referidos documentos através de sistemas informáticos, desde que utilizem software que garanta a sua numeração conforme o disposto no n.º 2 do artigo 5.º e obedeçam aos requisitos exigidos nos n.os 2 e seguintes do artigo 5.º do Decreto-Lei n.º 198/90, de 19 de Junho.
 
 3 - Os documentos de transporte processados nos termos do número anterior devem conter a expressão «processado por computador».
 
