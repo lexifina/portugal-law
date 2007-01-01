@@ -2,7 +2,7 @@
 
 ### Recurso de sentença
 
-1 - Da sentença proferida em processo de recurso contencioso podem sempre interpor recurso para a Relação, com efeito suspensivo, o recorrente, o funcionário recorrido, o director-geral dos Registos e do Notariado e o Ministério Público.
+1 - Da sentença proferida podem sempre interpor recurso para a relação, com efeito suspensivo, o autor, o réu, o director-geral dos Registos e do Notariado e o Ministério Público.
 
 2 - Para os efeitos previstos no número anterior, a sentença é sempre notificada ao director-geral dos Registos e do Notariado.
 

@@ -2,4 +2,10 @@
 
 ### Comunicações oficiosas
 
-Decidido definitivamente o recurso contencioso, o chefe da secretaria deve remeter à conservatória certidão da decisão proferida; se houver desistência ou deserção do recurso ou se estiver parado mais de 30 dias por inércia do recorrente, deve o facto ser também comunicado.
+1 - Após o trânsito em julgado da decisão, a secretaria remete à conservatória certidão da decisão proferida.
+
+2 - A secretaria deve igualmente comunicar à conservatória:
+
+a) A desistência ou deserção da instância;
+
+b) O facto de o processo ter estado parado mais de 30 dias por inércia do autor.

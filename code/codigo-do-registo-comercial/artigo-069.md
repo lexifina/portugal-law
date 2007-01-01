@@ -4,35 +4,35 @@
 
 1 - São registados por averbamento às inscrições a que respeitam os seguintes factos:
 
-a) A penhora, o arresto, o arrolamento e demais actos ou providências sobre créditos garantidos por penhor ou consignação de rendimentos;
+a) (Revogada.)
 
-b) A transmissão e o usufruto dos créditos referidos na alínea anterior;
+b) (Revogada.)
 
-c) A transmissão de quotas ou partes sociais por efeito de transferência global de patrimónios;
+c) (Revogada.)
 
-d) A transmissão e o usufruto do direito de algum ou alguns dos titulares de inscrição de bens integrados em herança indivisa ou património em liquidação, bem como a penhora, arresto, arrolamento, apreensão e demais actos ou providências sobre esse direito;
+d) (Revogada.)
 
-e) A cessão de posição contratual relativa à transferência de quotas ou partes sociais;
+e) (Revogada.)
 
-f) O trespasse do usufruto de quotas ou partes sociais;
+f) (Revogada.)
 
-g) A consignação judicial de rendimentos de quotas ou partes sociais objecto de inscrição de penhora;
+g) (Revogada.)
 
-h) A mudança de estabelecimento principal do comerciante individual, dentro da área de competência territorial da conservatória;
+h) (Revogada.)
 
-i) A deslocação da sede da pessoa colectiva ou do estabelecimento individual de responsabilidade limitada dentro da área de competência territorial da conservatória;
+i) (Revogada.)
 
-j) A modificação, renúncia e revogação do mandato ou o seu substabelecimento;
+j) (Revogada.)
 
 l) A recondução ou cessação de funções de gerentes, administradores, directores, representantes e liquidatários;
 
-m) A deliberação de aprovação do projecto de fusão e de cisão;
+m) (Revogada.)
 
-n) A verificação das condições de que depende a constituição de uma sociedade anónima europeia gestora de participações sociais;
+n) (Revogada.)
 
-o) O termo da situação de domínio total superveniente de grupo;
+o) (Revogada.)
 
-p) A emissão, mediante oferta particular, de cada série de obrigações;
+p) (Revogada.)
 
 q) A cessação de funções do administrador judicial e do administrador judicial provisório da insolvência;
 
@@ -44,9 +44,11 @@ t) A decisão judicial de cessação antecipada do procedimento de exoneração 
 
 u) A decisão judicial de confirmação do fim do período de fiscalização incidente sobre a execução de plano de insolvência.
 
-2 - São registados nos mesmos termos:
+v) A declaração de perda do direito ao uso de firma ou denominação.
 
-a) A conversão do arresto em penhora;
+2 - São igualmente registados nos termos do número anterior:
+
+a) (Revogada.)
 
 b) A decisão final das acções inscritas;
 
@@ -60,12 +62,10 @@ f) O cancelamento, total ou parcial, dos registos.
 
 3 - Podem ser feitos provisoriamente por dúvidas os averbamentos referidos no n.º 1.
 
-4 - O facto previsto na alínea n) do n.º 1 é averbado à inscrição do projecto de constituição de sociedade anónima europeia gestora de participações sociais, sendo o averbamento a esta inscrição, no caso de a sociedade ter sede na área de competência da conservatória que lavrou o registo daquele projecto, lavrado oficiosamente com o registo da constituição da sociedade.
+4 - A conversão em definitiva da inscrição de acção em que se julgue modificado ou extinto um facto registado, ou se declare nulo ou anulado um registo, determina o correspondente averbamento oficioso de alteração ou cancelamento.
 
-5 - A conversão em definitiva da inscrição de acção em que se julgue modificado ou extinto um facto registado, ou se declare nulo ou anulado um registo, determina o correspondente averbamento oficioso de alteração ou cancelamento.
+5 - O trânsito em julgado da sentença prevista na alínea e) do n.º 1 do artigo 64.º determina o averbamento de conversão em definitivo do correspondente registo.
 
-6 - O trânsito em julgado das sentenças previstas nas alíneas e) e g) do n.º 1 do artigo 64.º determina o averbamento de conversão em definitivo dos correspondentes registos.
+6 - As decisões judiciais previstas na alínea s) do n.º 1 são averbadas, respectivamente, à inscrição do despacho inicial de exoneração do passivo restante e à do despacho final que determine essa exoneração.
 
-7 - As decisões judiciais previstas na alínea s) do n.º 1 são averbadas, respectivamente, à inscrição do despacho inicial de exoneração do passivo restante e à do despacho final que determine essa exoneração.
-
-8 - A decisão judicial prevista na alínea t) do n.º 1 é averbada à inscrição da decisão de encerramento do processo de insolvência que publicite a sujeição da execução de plano de insolvência a fiscalização.
+7 - A decisão judicial prevista na alínea t) do n.º 1 é averbada à inscrição da decisão de encerramento do processo de insolvência que publicite a sujeição da execução de plano de insolvência a fiscalização.

@@ -2,6 +2,10 @@
 
 ## Publicidade e prova do registo
 
+## Secção I
+
+## Publicidade
+
 # Artigo 73.º
 
 ### Carácter público do registo

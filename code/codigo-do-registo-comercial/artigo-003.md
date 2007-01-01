@@ -2,9 +2,9 @@
 
 ### Sociedades comerciais e sociedades civis sob forma comercial
 
-1 - Estão sujeitos a registo os seguintes factos relativos às sociedades comerciais e civis sob a forma comercial:
+1 - Estão sujeitos a registo os seguintes factos relativos às sociedades comerciais e sociedades civis sob forma comercial:
 
-a) O contrato de sociedade;
+a) A constituição;
 
 b) A deliberação da assembleia geral, nos casos em que a lei a exige, para aquisição de bens pela sociedade;
 
@@ -18,21 +18,21 @@ f) A constituição e a transmissão de usufruto, o penhor, arresto, arrolamento
 
 g) A exoneração e exclusão de sócios de sociedades em nome colectivo e de sociedades em comandita, bem como a extinção de parte social por falecimento do sócio e a admissão de novos sócios de responsabilidade ilimitada;
 
-h) A autorização para que se mantenha na firma social o nome ou apelido do sócio que se retire ou faleça;
+h) (Revogada.)
 
 i) A amortização de quotas e a exclusão e exoneração de sócios de sociedades por quotas;
 
 j) A deliberação de amortização, conversão e remissão de acções;
 
-l) A emissão de obrigações realizada através de oferta particular;
+l) A emissão de obrigações, quando realizada através de oferta particular, excepto se tiver ocorrido, dentro do prazo para requerer o registo, a admissão das mesmas à negociação em mercado regulamentado de valores mobiliários;
 
 m) A designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos membros dos órgãos de administração e de fiscalização das sociedades, bem como do secretário da sociedade;
 
-n) A prestação de contas das sociedades anónimas, em comandita por acções, bem como das sociedades por quotas e em nome colectivo, quando houver lugar a depósito, e de contas consolidadas das sociedades obrigadas a prestá-las;
+n) A prestação de contas das sociedades anónimas, por quotas e em comandita por acções, bem como das sociedades em nome colectivo e em comandita simples quando houver lugar a depósito, e de contas consolidadas de sociedades obrigadas a prestá-las;
 
-o) A mudança da sede da sociedade;
+o) A mudança da sede da sociedade e a transferência de sede para o estrangeiro;
 
-p) O projecto de fusão e de cisão de sociedades e a deliberação que o aprovar, bem como a deliberação de redução do capital social da sociedade;
+p) O projecto de fusão e de cisão de sociedades, bem como a deliberação de redução do capital social da sociedade;
 
 q) O projecto de constituição de uma sociedade anónima europeia por meio de fusão, o projecto de constituição de uma sociedade anónima europeia por meio de transformação de sociedade anónima de direito interno e o projecto de constituição de uma sociedade anónima europeia gestora de participações sociais, bem como a verificação das condições de que depende esta última constituição;
 
@@ -46,9 +46,9 @@ u) A deliberação de manutenção do domínio total de uma sociedade por outra,
 
 v) O contrato de subordinação, suas modificações e seu termo.
 
-x) A cessação da existência do conselho fiscal e a introdução do fiscal único.
+x) (Revogada.)
 
-z) A emissão de warrants autónomos sobre valores mobiliários próprios comercializada através de oferta particular por entidade que não tenha valores mobiliários admitidos à negociação em mercado regulamentado nacional, bem como a emissão de warrants autónomos sobre valores mobiliários próprios realizada através de oferta pública fora do mercado nacional.
+z) A emissão de warrants sobre valores mobiliários próprios, quando realizada através de oferta particular por entidade que não tenha valores mobiliários admitidos à negociação em mercado regulamentado nacional, excepto se tiver ocorrido, dentro do prazo para requerer o registo, a admissão dos mesmos à negociação em mercado regulamentado de valores mobiliários.
 
 2 - Estão sujeitos a registo os seguintes factos relativos às sociedades anónimas europeias:
 
@@ -70,4 +70,4 @@ h) O encerramento da liquidação ou o regresso à actividade da sociedade;
 
 i) Os restantes factos referentes a sociedades anónimas que, por lei, estejam sujeitos a registo.
 
-3 - Nos casos em que a emissão de warrants autónomos sobre valores mobiliários próprios esteja sujeita a registo na Comissão do Mercado de Valores Mobiliários, a declaração comprovativa do referido registo é objecto de simples depósito na pasta da sociedade, a realizar oficiosamente, aquando da sua recepção pelo conservador.
+3 - [Revogado.]

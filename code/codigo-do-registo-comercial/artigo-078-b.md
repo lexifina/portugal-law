@@ -1,3 +1,7 @@
+## Secção III
+
+## Bases de dados do registo comercial
+
 # Artigo 78.º-B
 
 ### Finalidade da base de dados
