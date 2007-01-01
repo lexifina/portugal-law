@@ -1,6 +1,6 @@
 # Artigo 21.º
 
-### Fundos de poupança-reforma, poupança-educação e poupança-reforma/educação
+### Fundos de poupança-reforma e planos poupança-reforma
 
 1 - Ficam isentos de IRC os rendimentos dos fundos poupança-reforma (FPR), poupança-educação (FPE) e poupança-reforma/educação (FPR/E) que se constituam e operem nos termos da legislação nacional.
 
@@ -35,3 +35,5 @@ c) De acordo com as regras estabelecidas nas alíneas anteriores, nos casos em q
 8 - Os benefícios previstos nos n.os 2 e 3 são aplicáveis às entregas efectuadas pelas entidades empregadoras em nome e em favor dos seus trabalhadores.
 
 9 - Para efeitos do n.º 2 considera-se a idade do sujeito passivo à data de 1 de Janeiro do ano em que efectua a aplicação.
+
+10 - Não são dedutíveis à colecta de IRS, nos termos do n.º 2, os valores aplicados pelos sujeitos passivos após a data da passagem à reforma.

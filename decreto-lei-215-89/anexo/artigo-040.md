@@ -32,7 +32,7 @@ l) Sociedades de capitais exclusivamente públicos relativamente aos prédios ce
 
 m)As colectividades de cultura e recreio, as organizações não governamentais e de outro tipo de associações não lucrativas, a quem tenha sido reconhecida utilidade pública, relativamente aos prédios utilizados como sedes destas entidades e mediante decisão da assembleia municipal da autarquia onde os mesmos se situem, considerando-se aquela decisão como renúncia à compensação prevista na Lei das Finanças Locais;
 
-n) Os prédios classificados como monumentos nacionais ou imóveis de interesse público e bem assim os classificados de imóveis de valor municipal ou como património cultural, nos termos da legislação aplicável.
+n) Os prédios classificados como monumentos nacionais e os prédios individualmente classificados como de interesse público, de valor municipal ou património cultural, nos termos da legislação aplicável.
 
 2 - As isenções a que se refere o número anterior iniciam-se:
 
@@ -48,12 +48,12 @@ d) Relativamente às situações previstas na alínea n), no ano, inclusive, em 
 
 4 - As isenções a que se refere a alínea b) do n.º 2 são reconhecidas oficiosamente, desde que se verifique a inscrição na matriz em nome das entidades beneficiárias, que os prédios se destinem directamente à realização dos seus fins e que seja feita prova da respectiva natureza jurídica.
 
-5 - A isenção a que se refere a alínea n) é reconhecida pelo chefe de finanças da área da situação do prédio, a requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no prazo de 90 dias contados da verificação do facto determinante da isenção.
+5 - A isenção a que se refere a alínea n) do n.º 1 é de carácter automático no caso de prédio que tenha beneficiado da isenção prevista na alínea g) do artigo 6.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, devendo, nos restantes casos, ser reconhecida pelo chefe de finanças da área da situação do prédio, a requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no prazo de 90 dias contados da verificação do facto determinante da isenção.
 
 6 - Nos restantes casos previstos neste artigo, a isenção é reconhecida pelo director-geral dos Impostos, a requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no serviço de finanças da área da situação do prédio, no prazo de 90 dias contados da verificação do facto determinante da isenção.
 
 7 - Nas situações abrangidas pelos n.os 5 e 6, se o pedido for apresentado para além do prazo referido no número anterior, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação.
 
-8 - Os benefícios constantes das alíneas b) a n) do n.º 1 cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto na alínea g) do n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis.
+8 - Os benefícios constantes das alíneas b) a m) do n.º 1 cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto na alínea g) do n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis, e os da alínea n) cessam no ano, inclusive, em que os prédios venham a ser desclassificados.
 
 9 - As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público ou privado, são mantidas na forma da respectiva lei.
