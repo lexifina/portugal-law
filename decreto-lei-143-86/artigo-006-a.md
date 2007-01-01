@@ -4,6 +4,6 @@
 
 2 - À dedução referida no número anterior é aplicável o disposto no artigo 87.º-A do Código do IVA.
 
-3 - Decorridos mais de 90 dias sobre a restituição indevida ou em excesso sem que possa ter aplicação o determinado no n.º 1, efectuar-se-á liquidação adicional pela importância devida, através da repartição de finanças da área da sede da representação diplomática.
+3 - Decorridos mais de 90 dias sobre a restituição indevida ou em excesso sem que possa ter aplicação o determinado no n.º 1, efectua-se a liquidação adicional pela importância devida.
 
 4 - Enquanto não estiverem pagas as liquidações efectuadas nos termos do número anterior, não se procederá a qualquer restituição de imposto à mesma entidade.
