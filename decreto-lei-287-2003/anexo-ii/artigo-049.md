@@ -2,7 +2,7 @@
 
 ### Obrigações de cooperação dos notários e de outras entidades
 
-1 - Quando for devido IMT, os notários e outros funcionários ou entidades que desempenhem funções notariais não podem lavrar as escrituras, quaisquer outros instrumentos notariais ou documentos particulares que operem transmissões de bens imóveis, nem proceder ao reconhecimento de assinaturas nos contratos previstos nas alíneas a) e b) do n.º 3 do artigo 2.º, sem que lhe seja apresentada a declaração referida no artigo 19.º acompanhada do correspondente comprovativo da cobrança, que arquivarão, disso fazendo menção no documento a que respeitam, sempre que a liquidação deva preceder a transmissão.
+1 - Quando seja devido IMT, os notários e outros funcionários ou entidades que desempenhem funções notariais não podem lavrar as escrituras, quaisquer outros instrumentos notariais ou documentos particulares que operem transmissões de bens imóveis nem proceder ao reconhecimento de assinaturas nos contratos previstos nas alíneas a) e b) do n.º 3 do artigo 2.º, sem que lhes seja apresentado o extracto da declaração referida no artigo 19.º acompanhada do correspondente comprovativo da cobrança, que arquivarão, disso fazendo menção no documento a que respeitam, sempre que a liquidação deva preceder a transmissão.
 
 2 - Caso se alegue extravio, os referidos documentos podem ser substituídos, conforme os casos, por certidão ou fotocópia autenticada, passada pelos serviços emitentes dos documentos originais.
 

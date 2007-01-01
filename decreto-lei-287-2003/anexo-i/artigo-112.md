@@ -18,7 +18,7 @@ c) Prédios urbanos avaliados, nos termos do CIMI: 0,2% a 0,5%.
 
 3 - As taxas previstas nas alíneas b) e c) do n.º 1 são elevadas ao dobro nos casos de prédios urbanos que se encontrem devolutos há mais de um ano, considerando-se devolutos os prédios como tal definidos em diploma próprio.
 
-4 - Para os prédios que sejam propriedade de entidades que tenham domicílio fiscal em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças, a taxa do imposto é de 5%.
+4 - Para os prédios que sejam propriedade de entidades que tenham domicílio fiscal em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças, a taxa do imposto é de 1%, sendo elevado a 2% nas situações a que se refere o número anterior.
 
 5 - Os municípios, mediante deliberação da assembleia municipal, fixam a taxa a aplicar em cada ano, dentro dos intervalos previstos nas alíneas b) e c) do n.º 1.
 
@@ -40,6 +40,8 @@ c) Não terem sido neles praticadas as operações silvícolas mínimas necessá
 
 11 - Constitui competência dos municípios proceder ao levantamento dos prédios rústicos com áreas florestais em situação de abandono e à identificação dos respectivos proprietários, até 30 de Março de cada ano, para posterior comunicação à Direcção-Geral dos Impostos.
 
-12 - As deliberações da assembleia municipal referidas no presente artigo devem ser comunicadas à Direcção-Geral dos Impostos para vigorarem no ano seguinte, aplicando-se as taxas mínimas referidas no n.º 1, caso as comunicações não sejam recebidas até 30 de Novembro.
+12 - Os municípios, mediante deliberação da assembleia municipal, podem fixar uma redução até 50% da taxa que vigorar no ano a que respeita o imposto a aplicar aos prédios classificados como de interesse público, de valor municipal ou património cultural, nos termos da legislação em vigor, desde que estes prédios não se encontrem abrangidos pela alínea n) do n.º 1 do artigo 40.º do Estatuto dos Benefícios Fiscais.
 
-13 - No caso de as deliberações compreenderem zonas delimitadas de freguesias, as comunicações referidas no número anterior são acompanhadas de listagem contendo a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
+13 - As deliberações da assembleia municipal referidas no presente artigo devem ser comunicadas à Direcção-Geral dos Impostos, por transmissão electrónica de dados, para vigorarem no ano seguinte, aplicando-se as taxas mínimas referidas no n.º 1, caso as comunicações não sejam recebidas até 30 de Novembro.
+
+14 - No caso de as deliberações compreenderem zonas delimitadas de freguesias ou prédios individualmente considerados, das comunicações referidas no número anterior deve constar a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.

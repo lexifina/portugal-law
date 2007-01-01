@@ -24,9 +24,9 @@ e) No caso a que se refere a alínea j) do artigo 6.º, cópia dos documentos de
 
 6 - As isenções são reconhecidas:
 
-a) As previstas na alínea a) do artigo 6.º e nos artigos 7.º e 9.º são de reconhecimento automático, competindo a sua verificação e declaração à entidade que intervier na celebração do acto ou do contrato, sem prejuízo do disposto na alínea e);
+a) As previstas na alínea a) do artigo 6.º, no artigo 7.º, na alínea a) do n.º 2 do artigo 8.º, desde que o valor que serviria de base à liquidação do IMT, caso este fosse devido, apurado nos termos da regra 5.ª do artigo 12.º, não exceda o montante referido no artigo 9.º, bem como as previstas no artigo 9.º, são de reconhecimento automático, competindo a sua verificação e declaração à entidade que intervier na celebração do acto ou contrato, sem prejuízo do disposto na alínea e);
 
-b) As previstas na alínea b) do artigo 6.º e no artigo 8.º, por despacho do Ministro das Finanças sobre informação e parecer da Direcção-Geral dos Impostos;
+b) As previstas na alínea b) do artigo 6.º, na alínea a) do n.º 2 do artigo 8.º, desde que o valor que serviria de base à liquidação do IMT, caso este fosse devido, apurado nos termos da regra 5.ª do artigo 12.º, exceda o montante referido no artigo 9.º, bem como as previstas na alínea b) do artigo 8.º, por despacho do Ministro das Finanças sobre informação e parecer da Direcção-Geral dos Impostos;
 
 c) As previstas na alínea c) do artigo 6.º são reconhecidas nos termos dos respectivos diplomas legais, sendo-lhe supletivamente aplicável o disposto no presente artigo;
 

@@ -8,13 +8,13 @@ TABELA I
 
 Prédios urbanos destinados a habitação
 
-(ver tabela no documento original)
+(ver documento original)
 
 TABELA II
 
 Prédios urbanos destinados a comércio, indústria e serviços
 
-(ver tabela no documento original)
+(ver documento original)
 
 2 - Para efeitos de aplicação das tabelas referidas no número anterior:
 
@@ -42,4 +42,8 @@ l) Considera-se edifício de escritórios o prédio ou parte de prédio concebid
 
 m) Considera-se que é deficiente o estado de conservação quando os elementos construtivos do prédio não cumpram satisfatoriamente a sua função ou façam perigar a segurança de pessoas e bens.
 
-3 - As directrizes para definição da qualidade de construção, localização excepcional e estado deficiente de conservação são estabelecidas pela CNAPU com base em critérios dotados de objectividade e, sempre que possível, com base em fundamentos técnico-científicos adequados.
+n) Considera-se haver localização e operacionalidade relativas quando o prédio ou parte do prédio se situa em local que influencia positiva ou negativamente o respectivo valor de mercado ou quando o mesmo é beneficiado ou prejudicado por características de proximidade, envolvência e funcionalidade, considerando-se para esse efeito, designadamente, a existência de telheiros, terraços e a orientação da construção;
+
+o) Considera-se haver utilização de técnicas ambientalmente sustentáveis, activas ou passivas, quando o prédio utiliza energia proveniente de fontes renováveis, ou aproveita águas residuais tratadas ou águas pluviais, ou ainda quando foi construído utilizando sistemas solares passivos.
+
+3 - As directrizes para definição da qualidade de construção, localização excepcional, estado deficiente de conservação e localização e operacionalidade relativas são estabelecidas pela CNAPU com base em critérios dotados de objectividade e, sempre que possível, com base em fundamentos técnico-científicos adequados.

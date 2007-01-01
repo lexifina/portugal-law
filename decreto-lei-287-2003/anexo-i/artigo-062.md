@@ -8,9 +8,9 @@ a) Propor trienalmente, até 31 de Março, os coeficientes de localização mín
 
 b) Propor trienalmente, até 31 de Outubro, o zonamento e respectivos coeficientes de localização, as percentagens a que se refere o n.º 2 do artigo 45.º e as áreas da sua aplicação, bem como os coeficientes majorativos aplicáveis às moradias unifamiliares, com base em propostas dos peritos locais e regionais, para vigorarem nos três anos seguintes em cada município;
 
-c) Propor as directrizes relativas à apreciação da qualidade construtiva, da localização excepcional e do estado deficiente de conservação;
+c) Propor as directrizes relativas à apreciação da qualidade construtiva, da localização excepcional, do estado deficiente de conservação e da localização e operacionalidade relativas;
 
-d) Propor anualmente, até 31 de Outubro, para vigorar no ano seguinte, o custo médio de construção por metro quadrado, ouvidas as entidades oficiais e as associações privadas do sector imobiliário urbano;
+d) Propor anualmente, até 30 de Novembro, para vigorar no ano seguinte, o valor médio de construção por metro quadrado, ouvidas as entidades oficiais e as associações privadas do sector imobiliário urbano;
 
 e) Propor à Direcção-Geral dos Impostos as medidas que entender convenientes no sentido do aperfeiçoamento das operações de avaliação.
 
