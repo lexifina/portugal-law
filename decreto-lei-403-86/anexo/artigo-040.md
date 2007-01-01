@@ -2,7 +2,7 @@
 
 ### Representações sociais
 
-1 - O registo das representações permanentes de sociedades com sede principal e efectiva em Portugal é feito em face de documento comprovativo da deliberação social que a estabeleça e, tratando-se de representação situada fora da área da competência da conservatória da sua sede, também do documento comprovativo de que a sociedade está registada.
+1 - O registo das representações permanentes de sociedades com sede principal e efectiva em Portugal é feito em face de documento comprovativo da deliberação social que a estabeleça.
 
 2 - O registo das representações permanentes de sociedades com sede principal e efectiva no estrangeiro é feito em face de documento comprovativo da deliberação social que a estabeleça, do texto completo e actualizado do contrato de sociedade e de documento que prove a existência jurídica deste.
 

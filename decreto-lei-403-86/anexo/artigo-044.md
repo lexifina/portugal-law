@@ -2,7 +2,7 @@
 
 ### Cancelamento do registo provisório
 
-1 - O cancelamento dos registos provisórios por natureza, de aquisição e de penhor e o cancelamento dos registos provisórios por dúvidas são feitos com base em declaração do respectivo titular.
+1 - O cancelamento dos registos provisórios por dúvidas é feito com base em declaração do respectivo titular.
 
 2 - A assinatura do declarante deve ser reconhecida presencialmente, se não for feita na presença do funcionário da conservatória competente para o registo.
 

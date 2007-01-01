@@ -1,11 +1,9 @@
 # Artigo 104.º
 
-### Recurso contencioso
+### Impugnação judicial subsequente a recurso hierárquico
 
-1 - Tendo o recurso hierárquico sido julgado improcedente, o interessado pode interpor recurso contencioso do despacho do conservador.
+1 - Tendo o recurso hierárquico sido julgado improcedente, o interessado pode ainda impugnar judicialmente a decisão de qualificação do acto de registo.
 
-2 - O recurso é interposto para o tribunal da comarca no prazo de vinte dias a contar da data da notificação da decisão que tiver julgado improcedente o recurso hierárquico.
+2 - A impugnação judicial é proposta mediante apresentação do requerimento na conservatória competente, no prazo de 20 dias a contar da data da notificação da decisão que tiver julgado improcedente o recurso hierárquico.
 
-3 - À interposição do recurso contencioso é aplicável o disposto no n.º 3 do artigo 101.º
-
-4 - No prazo e termos estabelecidos no n.º 4 do artigo 101.º, o conservador deve remeter o processo a juízo.
+3 - O processo é remetido ao tribunal no prazo de cinco dias, instruído com o de recurso hierárquico.

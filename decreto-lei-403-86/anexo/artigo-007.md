@@ -18,7 +18,7 @@ f) As alterações do contrato de agrupamento;
 
 g) O projecto de transferência da sede;
 
-h) A deliberação de dissolução;
+h) A dissolução;
 
 i) A designação e cessação de funções, anterior ao encerramento da liquidação, dos liquidatários;
 

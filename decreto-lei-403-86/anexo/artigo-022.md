@@ -2,7 +2,7 @@
 
 ### Nulidade
 
-1 - O registo é nulo:
+1 - O registo por transcrição é nulo:
 
 a) Quando for falso ou tiver sido feito com base em títulos falsos;
 
@@ -12,7 +12,7 @@ c) Quando enfermar de omissões ou inexactidões de que resulte incerteza acerca
 
 d) Quando tiver sido assinado por pessoa sem competência funcional, salvo o disposto no n.º 2 do artigo 369.º do Código Civil;
 
-e) Quando tiver sido lavrado sem apresentação prévia ou com violação das regras do trato sucessivo.
+e) Quando tiver sido lavrado sem apresentação prévia.
 
 2 - Os registos nulos só podem ser rectificados nos casos previstos na lei, se não estiver registada a acção de declaração de nulidade.
 

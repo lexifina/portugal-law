@@ -2,13 +2,13 @@
 
 ### Cooperativas
 
-Estão sujeitos a registos os seguintes factos relativos a cooperativas:
+Estão sujeitos a registo os seguintes factos relativos a cooperativas:
 
 a) A constituição da cooperativa;
 
 b) A nomeação e cessação de funções, por qualquer causa que não seja o decurso do tempo, de directores, representantes e liquidatários;
 
-c) O penhor, arresto, arrolamento e penhora das partes de capital das cooperativas de responsabilidade limitada;
+c) (Revogada.)
 
 d) A prorrogação, transformação, fusão, cisão e qualquer outra alteração dos estatutos;
 

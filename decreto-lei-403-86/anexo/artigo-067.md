@@ -2,7 +2,7 @@
 
 ### Factos constituídos com outros sujeitos a registo
 
-1 - O registo de aquisição de uma participação social, acompanhada de outro facto sujeito a registo, determina a realização oficiosa do registo deste facto.
+1 - Revogado.
 
 2 - O registo da decisão de encerramento do processo de insolvência, quando respeitante a sociedade comercial ou sociedade civil sob forma comercial, determina a realização oficiosa:
 

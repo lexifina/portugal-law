@@ -2,7 +2,7 @@
 
 ### Nomeação de auditores e de revisores oficiais de contas
 
-1 - Sempre que a lei exija a nomeação de peritos ou de auditores, bem como de revisores oficiais de contas, e a mesma não possa ser feita pela sociedade, mas seja admitida por processo extrajudicial, deve a entidade interessada requerer à conservatória do registo comercial competente, nos termos do n.º 2 do artigo anterior, que designe os peritos respectivos.
+1 - Sempre que a lei exija a nomeação de peritos ou de auditores, bem como de revisores oficiais de contas, e a mesma não possa ser feita pela sociedade, mas seja admitida por processo extrajudicial, deve a entidade interessada requerer à conservatória competente que designe os peritos respectivos.
 
 2 - Logo que apresentado o requerimento, a conservatória oficia, no prazo de dois dias, à Câmara dos Revisores Oficiais de Contas ou, não sendo esta entidade a legalmente competente, ao organismo representativo dos peritos em causa, havendo-o, ou, ainda, em caso negativo, à câmara de comércio mencionada pelo requerente, solicitando a indicação dos nomes e das moradas dos peritos a nomear.
 
@@ -12,6 +12,6 @@
 
 5 - Não existindo incompatibilidade, o conservador procede imediatamente à nomeação, por despacho exarado no próprio requerimento, e comunica o facto, no prazo de vinte e quatro horas, à entidade interessada.
 
-6 - Tratando-se de projecto de fusão de sociedades, é competente para efectuar a nomeação uma das conservatórias onde estiver situada a sede de qualquer das sociedades envolvidas no processo.
+6 - (Revogado.)
 
 7 - O disposto nos números anteriores não é aplicável à designação de peritos independentes no âmbito dos processos de constituição ou transformação de sociedades anónimas europeias, prevista nas normas comunitárias correspondentes, a qual se rege pelo disposto na legislação nacional aprovada em execução dessas normas.

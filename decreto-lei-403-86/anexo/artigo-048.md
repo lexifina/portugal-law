@@ -2,9 +2,9 @@
 
 ### Recusa do registo
 
-1 - O registo deve ser recusado nos seguintes casos:
+1 - O registo por transcrição deve ser recusado nos seguintes casos:
 
-a) Quando a conservatória for territorialmente incompetente;
+a) (Revogada.)
 
 b) Quando for manifesto que o facto não está titulado nos documentos apresentados;
 
@@ -14,7 +14,7 @@ d) Quando for manifesta a nulidade do facto;
 
 e) Quando o registo já tiver sido lavrado como provisório por dúvidas e estas não se mostrem removidas;
 
-f) Quando o preparo exigido não tiver sido pago.
+f) (Revogada.)
 
 g) Quando, tendo a apresentação sido efectuada por telecópia, não derem entrada na conservatória, nos cinco dias úteis imediatos ao da apresentação, as fotocópias e documentos necessários ao registo.
 

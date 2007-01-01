@@ -1,6 +1,6 @@
 ## Capítulo VII
 
-## Impugnação das decisões do conservador
+## Impugnação de decisões
 
 # Artigo 98.º
 

@@ -6,4 +6,4 @@
 
 ### Modelos oficiais
 
-Os modelos oficiais de suportes documentais e demais impressos previstos neste Código serão aprovados por portaria do Ministro da Justiça.
+Os modelos de suportes documentais previstos neste Código são aprovados por despacho do director-geral dos Registos e do Notariado.

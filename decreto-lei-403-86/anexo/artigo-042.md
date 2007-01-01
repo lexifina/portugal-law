@@ -26,4 +26,4 @@ d) O parecer do órgão de fiscalização, quando exista.
 
 4 - As fotocópias dos documentos previstos nos números anteriores não carecem de autenticação.
 
-5 - O registo da prestação de contas não está sujeito a anotação no livro Diário, sendo entregue ao interessado fotocópia do impresso a que se refere o artigo 28.º, com nota do recebimento dos documentos apresentados.
+5 - Revogado.

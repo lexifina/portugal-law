@@ -2,4 +2,4 @@
 
 ### Registo provisório por dúvidas
 
-O registo deve ser feito provisoriamente por dúvidas quando exista motivo que, não sendo fundamento de recusa, obste ao registo do acto tal como é pedido.
+O registo por transcrição deve ser efectuado provisoriamente por dúvidas quando existam deficiências que, não sendo fundamento de recusa, nem tendo sido sanadas nos termos previstos no artigo 52.º, obstem ao registo do acto tal como é pedido.
