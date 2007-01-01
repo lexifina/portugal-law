@@ -9,3 +9,5 @@
 3 - Poderá não ter lugar o envio de carta precatória se for mais vantajoso para a execução e o órgão da execução fiscal a ser deprecado fizer parte da área do órgão regional em que se integre o órgão da execução fiscal deprecante.
 
 4 - Nos casos referidos no n.º 3 as diligências serão efectuadas pelo próprio órgão da execução fiscal deprecante ou pelo funcionário em quem este, com autorização do órgão periférico regional da administração tributária, tenha delegado essa competência.
+
+5 - Nos processos informatizados, a emissão da carta precatória, quando a ela haja lugar, resulta de procedimento electrónico onde fica registado o acto de emissão pelo órgão deprecante e todos os actos praticados no órgão deprecado, operando este directamente no processo.
