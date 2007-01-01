@@ -8,7 +8,7 @@
 
 2 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º deverão entregar no Serviço de Administração do IVA o imposto que se mostre devido pelas aquisições intracomunitárias de bens que não sejam meios de transporte novos, acompanhado da declaração nos termos do artigo 30.º
 
-3 - Os particulares e os sujeitos passivos referidos nas alíneas a), b) e c) do n.º 1 do artigo 2.º que não possuam o estatuto de operador registado, a que se refere o artigo 15.º do Decreto-Lei n.º 40/93, de 18 de Fevereiro, devem pagar o imposto devido pelas aquisições intracomunitárias de veículos automóveis sujeitos a imposto automóvel junto das entidades competentes para a cobrança deste imposto.
+3 - Os particulares e os sujeitos passivos referidos nas alíneas a), b) e c) do n.º 1 do artigo 2.º que não possuam o estatuto de operador registado, a que se refere o artigo 15.º do Decreto-Lei n.º 40/93, de 18 de Fevereiro, devem pagar o imposto devido pelas aquisições intracomunitárias de veículos automóveis novos sujeitos a imposto automóvel junto das entidades competentes para a cobrança deste imposto.
 
 4 - O disposto no número anterior é igualmente aplicável aos sujeitos passivos referidos nas alíneas b) e c) do n.º 1 do artigo 2.º e aos particulares que efectuem aquisições intracomunitárias de meios de transporte novos, não sujeitos a imposto automóvel.
 
