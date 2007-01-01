@@ -30,6 +30,8 @@ h) A cobrança das obrigações tributárias, na parte que não tiver natureza j
 
 2 - As garantias dos contribuintes previstas no presente capítulo aplicam-se também à autoliquidação, retenção na fonte ou repercussão legal a terceiros da dívida tributária, na parte não incompatível com a natureza destas figuras.
 
-3 - O procedimento tributário segue a forma escrita.
+3 - O procedimento tributário segue a forma escrita, sem prejuízo da tramitação electrónica dos actos do procedimento tributário nos termos definidos por portaria do Ministro das Finanças.
 
-4 - Sem prejuízo do disposto na presente lei, o exercício do direito de inspecção tributária constará do diploma regulamentar próprio.
+4 - Os documentos emitidos e os actos praticados por meios electrónicos pela administração tributária têm o mesmo valor legal dos documentos autênticos emitidos e dos actos praticados em suporte papel, desde que garantida a sua autenticidade, integridade, confidencialidade e conservação de acordo com os requisitos legais e regulamentares exigíveis pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas, nos termos a regulamentar por portaria do Ministro das Finanças.
+
+5 - Sem prejuízo do disposto na presente lei, o exercício do direito de inspecção tributária constará do diploma regulamentar próprio.

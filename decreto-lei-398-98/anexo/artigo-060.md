@@ -14,7 +14,11 @@ d) Direito de audição antes da decisão de aplicação de métodos indirectos,
 
 e) Direito de audição antes da conclusão do relatório da inspecção tributária.
 
-2 - É dispensada a audição no caso de a liquidação se efectuar com base na declaração do contribuinte ou a decisão do pedido, reclamação, recurso ou petição lhe for favorável.
+2 - É dispensada a audição:
+
+a) No caso de a liquidação se efectuar com base na declaração do contribuinte ou a decisão do pedido, reclamação, recurso ou petição lhe seja favorável;
+
+b) No caso de a liquidação se efectuar oficiosamente, com base em valores objectivos previstos na lei, desde que o contribuinte tenha sido notificado para apresentação da declaração em falta, sem que o tenha feito.
 
 3 - Tendo o contribuinte sido anteriormente ouvido em qualquer das fases do procedimento a que se referem as alíneas b) a e) do n.º 1, é dispensada a sua audição antes da liquidação, salvo em caso de invocação de factos novos sobre os quais ainda se não tenha pronunciado.
 
