@@ -18,8 +18,10 @@ f) Cassação de licenças ou concessões e suspensão de autorizações;
 
 g) Publicação da decisão condenatória a expensas do agente da infracção.
 
-2 - Os pressupostos da aplicação das sanções acessórias previstas no número anterior são os estabelecidos no regime geral do ilícito de mera ordenação social.
+2 - Sempre que a infracção prevista no n.º 6 do artigo 108.º seja cometida a título de dolo e o montante de dinheiro líquido objecto da referida infracção seja de valor superior a (euro) 150000, é decretada, a título de sanção acessória, a perda do montante total que exceda aquele quantitativo.
 
-3 - A sanção acessória de inibição de obter benefícios fiscais e franquias aduaneiras tem a duração máxima de dois anos e pode recair sobre quaisquer benefícios ou incentivos directa ou indirectamente ligados aos impostos sobre o rendimento, a despesa ou o património e às prestações tributárias a favor da segurança social.
+3 - Os pressupostos da aplicação das sanções acessórias previstas nos números anteriores são os estabelecidos no regime geral do ilícito de mera ordenação social.
 
-4 - As mercadorias de importação e exportação proibida são sempre declaradas perdidas.
+4 - A sanção acessória de inibição de obter benefícios fiscais e franquias aduaneiras tem a duração máxima de dois anos e pode recair sobre quaisquer benefícios ou incentivos directa ou indirectamente ligados aos impostos sobre o rendimento, a despesa ou o património e às prestações tributárias a favor da segurança social.
+
+5 - As mercadorias de importação e exportação proibida são sempre declaradas perdidas.

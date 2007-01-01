@@ -12,4 +12,4 @@ c) Relativamente aos crimes contra a segurança social, nos presidentes das pess
 
 2 - Os actos de inquérito para cuja prática a competência é delegada nos termos do número anterior podem ser praticados pelos titulares dos órgãos e pelos funcionários e agentes dos respectivos serviços a quem tais funções sejam especialmente cometidas.
 
-3 - Se o mesmo facto constituir crime tributário e crime comum, pode o Ministério Público determinar a constituição de equipas também integradas por elementos a designar por outros órgãos de polícia criminal para procederem aos actos de inquérito.
+3 - Se o mesmo facto constituir crime tributário e crime comum ou quando a investigação do crime tributário assuma especial complexidade, o Ministério Público pode determinar a constituição de equipas também integradas por elementos a designar por outros órgãos de polícia criminal para procederem aos actos de inquérito.

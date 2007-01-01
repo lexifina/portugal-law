@@ -8,7 +8,11 @@
 
 3 - É aplicável o disposto no número anterior ainda que a prestação deduzida tenha natureza parafiscal e desde que possa ser entregue autonomamente.
 
-4 - Os factos descritos nos números anteriores só são puníveis se tiverem decorrido mais de 90 dias sobre o termo do prazo legal de entrega da prestação.
+4 - Os factos descritos nos números anteriores só são puníveis se:
+
+a) Tiverem decorrido mais de 90 dias sobre o termo do prazo legal de entrega da prestação;
+
+b) A prestação comunicada à administração tributária através da correspondente declaração não for paga, acrescida dos juros respectivos e do valor da coima aplicável, no prazo de 30 dias após notificação para o efeito.
 
 5 - Nos casos previstos nos números anteriores, quando a entrega não efectuada for superior a (euro) 50000, a pena é a de prisão de um a cinco anos e de multa de 240 a 1200 dias para as pessoas colectivas.
 

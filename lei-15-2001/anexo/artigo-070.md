@@ -2,7 +2,7 @@
 
 ### Notificação do arguido
 
-1 - O dirigente do serviço tributário competente notificará o arguido do facto ou factos apurados no processo de contra-ordenação e da punição em que incorre, comunicando-lhe também que no prazo de 10 dias pode apresentar defesa e juntar ao processo os elementos probatórios que entender, bem como utilizar a possibilidade de pagamento antecipado da coima nos termos do artigo 75.º ou ainda requerer, até à decisão do processo, o pagamento voluntário da coima nos termos do artigo 78.º
+1 - O dirigente do serviço tributário competente notifica o arguido do facto ou factos apurados no processo de contra-ordenação e da punição em que incorre, comunicando-lhe também que no prazo de 10 dias pode apresentar defesa e juntar ao processo os elementos probatórios que entender, bem como utilizar as possibilidades de pagamento antecipado da coima nos termos do artigo 75.º ou, até à decisão do processo, de pagamento voluntário nos termos do artigo 78.º
 
 2 - Às notificações no processo de contra-ordenação aplicam-se as disposições correspondentes do Código de Procedimento e de Processo Tributário.
 

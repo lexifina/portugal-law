@@ -1,11 +1,9 @@
 # Artigo 129.º
 
-### Incidente de assistência
+### Violação da obrigação de possuir e movimentar contas bancárias
 
-1 - É admitido em processo de impugnação o incidente de assistência nos casos seguintes:
+1 - A falta de conta bancária nos casos legalmente previstos é punível com coima de (euro) 180 a (euro) 18000.
 
-a) Intervenção do substituto nas impugnações deduzidas pelo substituído e vice-versa;
+2 - A falta de realização através de conta bancária de movimentos nos casos legalmente previstos é punível com coima de (euro) 120 a (euro) 3000.
 
-b) Intervenção do responsável subsidiário nas impugnações deduzidas pelo contribuinte.
-
-2 - A sentença produzirá caso julgado face ao assistente relativamente ao objecto da impugnação.
+3 - A realização de pagamento através de meios diferentes dos legalmente previstos é punível com coima de (euro) 120 a (euro) 3000.

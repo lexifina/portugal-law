@@ -40,4 +40,8 @@ f) A permanência de veículo em território nacional para além dos prazos de a
 
 5 - A mesma coima é aplicável a infracções praticadas no âmbito dos regimes especiais de admissão ou importação, com quaisquer isenções, de bens destinados a fins sociais, culturais ou filantrópicos, quando forem afectos ou cedidos a terceiros, ao comércio ou a outros fins, em violação do respectivo regime.
 
-6 - A tentativa é punível.
+6 - A mesma coima é, ainda, aplicável a quem, à entrada ou saída do território nacional, violar o dever legal de declaração de montante de dinheiro líquido, como tal definido na legislação comunitária e nacional, igual ou superior a (euro) 10000, transportado por si e por viagem.
+
+7 - Considera-se que esse dever não foi cumprido quando a informação constante do formulário não esteja correcta ou esteja incompleta, salvo quando os elementos incorrectos ou em falta possam ser supridos ou mandados suprir ao declarante, no acto de controlo, e as inexactidões ou omissões não sejam culposas.
+
+8 - A tentativa é punível.
