@@ -1,11 +1,3 @@
-## Subsecção I
-
-## Direcção
-
-## Subsecção II
-
-## Conselho administrativo
-
 ## Capítulo VI
 
 ## Da gestão financeira

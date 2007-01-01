@@ -1,7 +1,3 @@
-## Subsecção II
-
-## Conselho administrativo
-
 # Artigo 49.º
 
 ### Constituição
