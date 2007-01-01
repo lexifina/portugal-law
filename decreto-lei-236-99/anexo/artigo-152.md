@@ -12,7 +12,7 @@ a) Atinja o limite de idade estabelecido para o respectivo posto;
 
 b) Tenha 20 ou mais anos de serviço militar, a requeira e lhe seja deferida;
 
-c) Declare, por escrito, desejar a passagem à reserva depois de completar 36 anos de tempo de serviço militar ou 55 anos de idade;
+c) Declare, por escrito, desejar passar à reserva depois de completar 36 anos de tempo de serviço militar e 55 anos de idade;
 
 d) Seja abrangido por outras condições legalmente previstas.
 
