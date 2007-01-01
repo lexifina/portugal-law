@@ -4,9 +4,13 @@
 
 1 - As remunerações fixadas no artigo anterior são atribuídas do seguinte modo:
 
-a) Aqueles que exerçam exclusivamente funções autárquicas, ou em acumulação com o desempenho não remunerado de outras funções públicas ou privadas, recebem a totalidade das remunerações previstas no artigo anterior;
+a) Aqueles que exerçam exclusivamente funções autárquicas, ou em acumulação com o desempenho não remunerado de funções privadas, recebem a totalidade das remunerações previstas no artigo anterior;
 
-b) Aqueles que exerçam uma profissão liberal, quando o respectivo estatuto profissional permitir a acumulação, ou qualquer actividade privada perceberão 50% do valor da base da remuneração, sem prejuízo da totalidade das regalias sociais a que tenham direito.
+b) Aqueles que exerçam funções remuneradas de natureza privada percebem 50% do valor de base da remuneração, sem prejuízo da totalidade das regalias sociais a que tenham direito;
+
+c) (Revogada);
+
+d) Aqueles que, nos termos da lei, exerçam outras actividades em entidades públicas ou em entidades do sector público empresarial não participadas pelo respectivo município apenas podem perceber as remunerações previstas no artigo anterior.
 
 2 - Para os efeitos do número anterior, não se considera acumulação o desempenho de actividades de que resulte a percepção de rendimentos provenientes de direitos de autor.
 
