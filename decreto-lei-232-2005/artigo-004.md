@@ -2,19 +2,15 @@
 
 ### Condições de atribuição
 
-1 - O reconhecimento do direito ao complemento solidário para idosos depende de o requerente se encontrar numa das situações previstas nas alíneas a), b) ou c) e, cumulativamente, satisfazer as condições previstas nas alíneas d) e e).
+1 - O reconhecimento do direito ao complemento solidário para idosos depende de o requerente satisfazer, cumulativamente, as seguintes condições:
 
-a) Ser pensionista de velhice ou de sobrevivência ou titular da prestação social única e ter idade igual ou superior à idade normal de pensão de velhice do regime geral de segurança social;
+a) Ter idade igual ou superior a 65 anos, sem prejuízo da aplicação do disposto no artigo 24.º;
 
-b) Ser pensionista de invalidez e não ser titular da prestação social para a inclusão;
+b) Residir em território nacional, pelo menos, nos últimos seis anos imediatamente anteriores à data da apresentação do requerimento da prestação;
 
-c) Ser titular da prestação social única e encontrar-se em situação de incapacidade permanente para o trabalho nos termos previstos no regime especial de proteção na invalidez do regime geral de segurança social, certificada pelo sistema de verificação de incapacidades;
+c) Possuir recursos de montante inferior ao valor de referência do complemento fixado no artigo 9.º
 
-d) Residir em território nacional, pelo menos, nos últimos seis anos imediatamente anteriores à data da apresentação do requerimento da prestação;
-
-e) Possuir recursos de montante inferior ao valor de referência do complemento fixado no artigo 9.º
-
-2 - A condição prevista na alínea d) do número anterior não é aplicável aos cidadãos nacionais que tenham exercido a sua última atividade profissional no estrangeiro, desde que preencham, cumulativamente, as seguintes condições.
+2 - A condição prevista na alínea b) do número anterior não é aplicável aos cidadãos nacionais que tenham exercido a sua última actividade profissional no estrangeiro, desde que preencham, cumulativamente, as seguintes condições:
 
 a) À data da entrega do requerimento da prestação residam em território nacional;
 

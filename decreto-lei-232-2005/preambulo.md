@@ -1,3 +1,7 @@
+Decreto-Lei n.º 232/2005
+
+de 29 de Dezembro
+
 Os indicadores de pobreza relativos a Portugal evidenciam a necessidade de correcção das intoleráveis assimetrias de rendimento existentes entre os Portugueses, que penalizam particularmente os mais idosos, pese embora a evolução positiva ocorrida nos últimos 10 anos.
 
 A informação disponível demonstra ainda que, entre a população portuguesa que se encontra em situação de pobreza, é precisamente no grupo dos mais idosos (65 anos ou mais) que se continuam a verificar as situações de maior severidade e em que os níveis de privação decorrentes da escassez de recursos monetários são ainda mais elevados, pelo que se impõe uma intervenção dirigida a esta faixa etária no sentido de melhorar a situação de fragilidade social em que se encontra.
