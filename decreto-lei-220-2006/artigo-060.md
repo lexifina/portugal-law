@@ -14,12 +14,4 @@ b) Pensões atribuídas pelos regimes do sistema de segurança social ou de outr
 
 c) Prestações de pré-reforma e outras atribuições pecuniárias, regulares, normalmente designadas por rendas, pagas pelo empregador aos trabalhadores por motivo da cessação do contrato de trabalho.
 
-2 - Para efeitos de acumulação, não são relevantes:
-
-a) As indemnizações e pensões por riscos profissionais ou equiparadas;
-
-b) As pensões de sobrevivência e invalidez relativa inferiores a 1 IAS.
-
-3 - As prestações de desemprego apenas são acumuláveis com rendimentos de trabalho independente ou por conta de outrem nos termos previstos no presente decreto-lei ou quando expressamente previsto em diploma legal que disponha sobre medidas ativas de emprego.
-
-4 - Durante o período de concessão das prestações de desemprego é proibida a sua acumulação com rendimentos provenientes do exercício de trabalho, ou actividade, a qualquer título, em empresa com a qual o beneficiário manteve uma relação laboral cuja cessação tenha dado origem ao reconhecimento do direito àquelas prestações, ou em empresa ou grupo empresarial que tenha uma relação de domínio ou de grupo com aquela.
+2 - Para efeitos de acumulação, não são relevantes as indemnizações e pensões por riscos profissionais ou equiparadas.

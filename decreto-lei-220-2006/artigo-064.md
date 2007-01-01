@@ -6,7 +6,7 @@
 
 ### Contra-ordenações
 
-1 - Constitui contraordenação punível com coima de 100 € a 700 € o incumprimento dos deveres para com os serviços ou instituições de segurança social previstas nas alíneas a) e c) do n.º 2 do artigo 42.º
+1 - Constitui contra-ordenação punível com coima de (euro) 100 a (euro) 700 o incumprimento dos deveres para com os serviços ou instituições de segurança social previstos no n.º 2 do artigo 42.º
 
 2 - Constitui contra-ordenação punível com coima de (euro) 250 a (euro) 1000 o exercício de actividade normalmente remunerada durante o período de concessão das prestações de desemprego, ainda que não se prove o pagamento de retribuição, sem prejuízo das situações admitidas nos termos do presente decreto-lei.
 

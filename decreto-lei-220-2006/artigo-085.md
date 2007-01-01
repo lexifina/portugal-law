@@ -2,7 +2,7 @@
 
 ### Execução do diploma
 
-1 - As modalidades e formas de execução do PPE e a realização e demonstração probatória da procura ativa de emprego, bem como outras vertentes relevantes para a concretização das obrigações, são objeto de regulamentação própria.
+1 - As modalidades e formas de execução do PPE e a realização e demonstração probatória da procura activa de emprego e da obrigação de apresentação quinzenal, bem como outras vertentes relevantes para a concretização das obrigações, são objecto de regulamentação própria.
 
 2 - Os procedimentos que venham a ser considerados necessários à execução do disposto no presente decreto-lei são aprovados por portaria do Ministro do Trabalho e da Solidariedade Social.
 

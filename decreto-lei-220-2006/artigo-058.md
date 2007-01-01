@@ -8,10 +8,6 @@
 
 3 - Para efeitos do número anterior, o número de anos de antecipação a considerar para determinação da taxa global de redução para cálculo da pensão é reduzido de um ano por cada período de três anos que exceda 32 anos de carreira contributiva aos 57 anos de idade.
 
-4 - Nos casos em que a situação de desemprego decorra de cessação do contrato de trabalho por acordo, ao montante da pensão, calculado nos termos dos números anteriores, é aplicado um fator de redução resultante da fórmula 1 - (n x 0,25%) em que n corresponde ao número de meses de antecipação entre os 62 anos e a idade normal de acesso à pensão de velhice em vigor.
+4 - Nos casos em que a situação de desemprego decorra de cessação do contrato de trabalho por acordo, ao montante da pensão, calculado nos termos dos n.os 1, 2 e 3, é aplicado um factor de redução resultante da fórmula 1 - (n x 3%) em que n corresponde ao número de anos de antecipação entre os 62 e os 65 anos de idade.
 
-5 - O fator de redução adicional previsto no número anterior é anulado a partir do momento em que o beneficiário atinja a idade normal de acesso à pensão.
-
-6 - Para efeitos do disposto nos n.os 4 e 5, a idade normal de acesso à pensão dos beneficiários referidos no n.º 6 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, é 65 anos.
-
-7 - Para efeitos do disposto no n.º 5, a idade normal de acesso à pensão dos beneficiários referidos no n.º 8 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, é a idade resultante da redução neste prevista.
+5 - O factor de redução adicional previsto no número anterior é anulado a partir do momento em que o beneficiário atingir 65 anos de idade.

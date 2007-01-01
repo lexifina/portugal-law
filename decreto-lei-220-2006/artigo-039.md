@@ -2,4 +2,4 @@
 
 ### Subsídio de desemprego parcial
 
-A duração do período de atribuição do subsídio de desemprego parcial tem como limite o período de concessão definido para o subsídio de desemprego.
+A duração do subsídio de desemprego parcial tem como limite o período de concessão que foi definido para o subsídio de desemprego que se encontrava em curso.

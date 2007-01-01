@@ -1,27 +1,13 @@
 # Artigo 17.º
 
-### Acompanhamento personalizado para o emprego
+### Dever de apresentação quinzenal
 
-1 - O acompanhamento personalizado para o emprego no âmbito do PPE é um sistema de acompanhamento integrado centrado no beneficiário das prestações de desemprego com o objetivo de garantir:
+1 - O dever de apresentação quinzenal consiste na obrigação por parte dos beneficiários das prestações de desemprego de apresentação quinzenal, de forma espontânea ou mediante convocatória, nos centros de emprego, nos serviços de segurança social da área de residência do beneficiário, em outras entidades competentes definidas pelo Instituto do Emprego e Formação Profissional, I. P., (IEFP), ou com quem o IEFP venha a celebrar protocolos para este efeito.
 
-a) Apoio, acompanhamento e orientação do beneficiário;
+2 - As apresentações a que se refere o número anterior não devem ter, entre si ou entre estas e outras intervenções realizadas, nomeadamente, no âmbito do PPE, intervalos superiores a 15 dias, podendo qualquer apresentação do beneficiário junto do respectivo centro de emprego relevar para efeitos de apresentação quinzenal.
 
-b) Ativação na procura de emprego, através da formação e aquisição de competências; e
+3 - O local de cumprimento da obrigação é definido pelo centro de emprego no momento de apresentação do requerimento de prestações de desemprego no centro de emprego ou, em caso do requerimento ser apresentado online no sítio da Internet da segurança social, no momento da inscrição para emprego no centro de emprego.
 
-c) Monitorização e fiscalização do cumprimento das obrigações previstas na lei, garantindo o rigor na utilização destas prestações.
+4 - O local de cumprimento deve ser definido em função da proximidade da residência do beneficiário e permanecer inalterado enquanto perdurar a obrigação de apresentação quinzenal, podendo, apenas em casos excepcionais e devidamente fundamentados, ser fixado um local diferente.
 
-2 - O acompanhamento personalizado para o emprego inclui, nomeadamente:
-
-a) Elaboração conjunta do PPE, que deve ser feito até ao período máximo de 15 dias após a inscrição do beneficiário no centro de emprego;
-
-b) Atualização e reavaliação regular do PPE;
-
-c) Sessões de procura de emprego acompanhada;
-
-d) Sessões coletivas de caráter informativo, nomeadamente sobre direitos e deveres dos beneficiários, mercado de emprego e oferta formativa, programas disponíveis no serviço público de emprego;
-
-e) Sessões de divulgação de ofertas e planos formativos adequados ao perfil de cada beneficiário;
-
-f) Ações de desenvolvimento de competências para a empregabilidade; e
-
-g) Outras sessões regulares de atendimento personalizado.
+5 - O cumprimento da obrigação prevista neste artigo inicia-se a partir da data de apresentação do requerimento de concessão das prestações de desemprego.

@@ -6,7 +6,7 @@
 
 ### Condições de atribuição da pensão de velhice por antecipação da idade
 
-1 - Nas situações de desemprego de longa duração devidamente comprovadas e após esgotado o período de concessão do subsídio de desemprego, os beneficiários podem aceder à pensão de velhice, por antecipação da idade, nos termos estabelecidos nos números seguintes.
+1 - Nas situações de desemprego de longa duração devidamente comprovadas e após esgotado o período de concessão dos subsídios de desemprego ou social de desemprego inicial, os beneficiários podem aceder à pensão de velhice, por antecipação da idade, nos termos estabelecidos nos números seguintes.
 
 2 - A idade de acesso à pensão de velhice é antecipada para os 62 anos aos beneficiários que preencham o prazo de garantia legalmente exigido e tenham, à data do desemprego, idade igual ou superior a 57 anos.
 
