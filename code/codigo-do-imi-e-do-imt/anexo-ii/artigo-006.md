@@ -26,6 +26,6 @@ h) As aquisições de bens situados nas regiões economicamente mais desfavoreci
 
 i) As aquisições de bens por associações de cultura física, quando destinados a instalações não utilizáveis normalmente em espectáculos com entradas pagas;
 
-j) As aquisições de prédios rústicos que se destinem à primeira instalação de jovens agricultores candidatos aos apoios previstos no Decreto-Lei n.º 81/91, de 18 de Fevereiro, ainda que operadas em épocas diferentes, até ao valor de (euro) 80000, independentemente de o valor sobre que incidiria o imposto ultrapassar aquele limite;
+j) As aquisições de prédios rústicos que se destinem à primeira instalação de jovens agricultores candidatos aos apoios previstos no Decreto-Lei n.º 81/91, de 18 de Fevereiro, ainda que operadas em épocas diferentes, até ao valor previsto no artigo 9.º, independentemente do valor sobre que incidiria o imposto ultrapassar aquele limite;
 
 l) As aquisições por museus, bibliotecas, escolas, institutos e associações de ensino ou educação, de cultura científica, literária ou artística e de caridade, assistência ou beneficência, quanto aos bens destinados, directa ou indirectamente, à realização dos seus fins estatutários.
