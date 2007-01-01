@@ -2,7 +2,7 @@
 
 ### Obrigação de prestar declarações e relacionar os bens
 
-1 - Seja ou não devido imposto, é sempre obrigatório prestar as declarações e proceder à relação dos bens e direitos, a qual, em caso de isenção, deve abranger apenas os bens e direitos referidos no artigo 10.º do Código do IRS, bem como outros bens sujeitos a registo, matrícula ou inscrição.
+1 - Seja ou não devido imposto, é sempre obrigatório prestar as declarações e proceder à relação dos bens e direitos, a qual, em caso de isenção, deve abranger os bens e direitos referidos no artigo 10.º do Código do IRS e outros bens sujeitos a registo, matrícula ou inscrição, bem como valores monetários, ainda que objecto de depósito em contas bancárias.
 
 2 - Não sendo apresentada a participação nos termos dos artigos anteriores, ou contendo a mesma omissões ou inexactidões, e tendo o chefe de finanças conhecimento, por qualquer outro meio, de que se operou uma transmissão de bens a título gratuito, compete-lhe instaurar oficiosamente o processo de liquidação do imposto.
 
