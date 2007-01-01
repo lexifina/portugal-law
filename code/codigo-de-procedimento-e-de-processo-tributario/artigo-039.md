@@ -19,3 +19,5 @@
 8 - A presunção referida no número anterior poderá ser ilidida por informação do operador sobre o conteúdo e data da emissão.
 
 9 - O acto de notificação será nulo no caso de falta de indicação do autor do acto e, no caso de este o ter praticado no uso de delegação ou subdelegação de competências, da qualidade em que decidiu, do seu sentido e da sua data.
+
+10 - O presente artigo não prejudica a aplicação do disposto no n.º 6 do artigo 45.º da Lei Geral Tributária.

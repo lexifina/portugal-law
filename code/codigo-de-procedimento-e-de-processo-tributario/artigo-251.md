@@ -1,10 +1,10 @@
 # Artigo 251.º
 
-### Local de entrega das propostas e de realização da venda - Equiparação da concessão mineira a imóvel
+### Local de entrega das propostas e de realização da venda Equiparação da concessão mineira a imóvel
 
 1 - A entrega de propostas far-se-á no local do órgão da execução fiscal onde vai ser efectuada a venda.
 
-2 - (Revogado).
+2 - A proposta pode ser igualmente enviada por transmissão electrónica de dados, nos termos definidos em portaria do Ministro das Finanças.
 
 3 - A concessão mineira é equiparada a imóvel, devendo, se abranger vários concelhos, a venda realizar-se no órgão da execução fiscal da área onde se processa a maior parte do processo de exploração.
 

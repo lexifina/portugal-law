@@ -6,6 +6,6 @@
 
 2 - O crédito exequendo não carece de ser reclamado.
 
-3 - O órgão da execução fiscal pode não proceder à convocação de credores quando a penhora incida apenas sobre abonos, vencimentos ou pensões ou quando, em caso de penhora de dinheiro ou bens móveis sujeitos a registo, dos autos não constar qualquer direito real de garantia e a dívida seja inferior a 250 unidades de conta.
+3 - O órgão da execução fiscal só procede à convocação de credores quando dos autos conste a existência de qualquer direito real de garantia.
 
 4 - O disposto no número anterior não obsta a que o credor com garantia real reclame espontaneamente o seu crédito na execução, até à transmissão dos bens penhorados.

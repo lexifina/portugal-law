@@ -12,7 +12,7 @@
 
 5 - Se os bens oferecidos em dação não forem suficientes para o pagamento da dívida exequenda, pode o excedente beneficiar do pagamento em prestações nos termos do presente título.
 
-6 - No caso do indeferimento do pedido ou vencimento das prestações pelo não pagamento de qualquer delas, será o executado notificado de que prosseguirá o processo de execução.
+6 - Caso se vençam as prestações pelo não pagamento de qualquer delas ou logo que notificado o indeferimento do pedido do pagamento em prestações ou da dação em pagamento, prossegue de imediato o processo de execução.
 
 7 - Se o executado só for citado posteriormente, o prazo referido no n.º 2 conta-se a partir da citação.
 
