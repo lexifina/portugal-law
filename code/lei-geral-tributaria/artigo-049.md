@@ -4,6 +4,8 @@
 
 1 - A citação, a reclamação, o recurso hierárquico, a impugnação e o pedido de revisão oficiosa da liquidação do tributo interrompem a prescrição.
 
-2 - A paragem do processo por período superior a um ano por facto não imputável ao sujeito passivo faz cessar o efeito previsto no número anterior, somando-se, neste caso, o tempo que decorrer após esse período ao que tiver decorrido até à data da autuação.
+2 - (Revogado.)
 
-3 - O prazo de prescrição legal suspende-se por motivo de paragem do processo de execução fiscal em virtude de pagamento de prestações legalmente autorizadas, ou de reclamação, impugnação ou recurso.
+3 - Sem prejuízo do disposto no número seguinte, a interrupção tem lugar uma única vez, com o facto que se verificar em primeiro lugar.
+
+4 - O prazo de prescrição legal suspende-se em virtude de pagamento de prestações legalmente autorizadas, ou enquanto não houver decisão definitiva ou passada em julgado, que puser termo ao processo, nos casos de reclamação, impugnação, recurso ou oposição, quando determinem a suspensão da cobrança da dívida.

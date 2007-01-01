@@ -15,3 +15,5 @@
 4 - O prazo de caducidade conta-se, nos impostos periódicos, a partir do termo do ano em que se verificou o facto tributário e, nos impostos de obrigação única, a partir da data em que o facto tributário ocorreu, excepto no imposto sobre o valor acrescentado e nos impostos sobre o rendimento quando a tributação seja efectuada por retenção na fonte a título definitivo, caso em que aquele prazo se conta a partir do início do ano civil seguinte àquele em que se verificou, respectivamente, a exigibilidade do imposto ou o facto tributário.
 
 5 - Sempre que o direito à liquidação respeite a factos relativamente aos quais foi instaurado inquérito criminal, o prazo a que se refere o n.º 1 é alargado até ao arquivamento ou trânsito em julgado da sentença, acrescido de um ano.
+
+6 - Para efeitos de contagem do prazo referido no n.º 1, as notificações sob registo consideram-se validamente efectuadas no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.

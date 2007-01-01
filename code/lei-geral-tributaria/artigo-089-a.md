@@ -2,7 +2,7 @@
 
 ### Manifestações de fortuna
 
-1 - Há lugar a avaliação indirecta da matéria colectável quando falte a declaração de rendimentos e o contribuinte evidencie as manifestações de fortuna constantes da tabela prevista no n.º 4 ou quando declare rendimentos que mostrem uma desproporção superior a 50%, para menos, em relação ao rendimento padrão resultante da referida tabela.
+1 - Há lugar a avaliação indirecta da matéria colectável quando falte a declaração de rendimentos e o contribuinte evidencie as manifestações de fortuna constantes da tabela prevista no n.º 4 ou quando o rendimento líquido declarado mostre uma desproporção superior a 50%, para menos, em relação ao rendimento padrão resultante da referida tabela.
 
 2 - Na aplicação da tabela prevista no n.º 4 tomam-se em consideração:
 
@@ -14,13 +14,13 @@ c) Os suprimentos e empréstimos efectuados pelo sócio à sociedade, no ano em 
 
 3 - Verificadas as situações previstas no n.º 1 deste artigo, bem como na alínea f) do artigo 87.º, cabe ao sujeito passivo a comprovação de que correspondem à realidade os rendimentos declarados e de que é outra a fonte das manifestações de fortuna ou o acréscimo de património ou o consumo evidenciados.
 
-4 - Quando o sujeito passivo não faça a prova referida no número anterior relativamente às situações previstas no n.º 1 deste artigo, considera-se como rendimento tributável em sede de IRS, a enquadrar na categoria G, quando não existam indícios fundados, de acordo com os critérios previstos no artigo 90.º, que permitam à administração tributária fixar rendimento superior, o rendimento padrão apurado nos termos da tabela seguinte:
+4 - Quando o sujeito passivo não faça a prova referida no número anterior relativamente às situações previstas no n.º 1 deste artigo, considera-se como rendimento tributável em sede de IRS, a enquadrar na categoria G, no ano em causa, e no caso das alíneas a) e b) do n.º 2, nos três anos seguintes, quando não existam indícios fundados, de acordo com os critérios previstos no artigo 90.º, que permitam à administração tributária fixar rendimento superior, o rendimento padrão apurado nos termos da tabela seguinte:
 
 (ver tabela no documento original)
 
 5 - No caso da alínea f) do artigo 87.º, considera-se como rendimento tributável em sede de IRS, a enquadrar na categoria G, quando não existam indícios fundados, de acordo com os critérios previstos no artigo 90.º, que permitam à administração tributária fixar rendimento superior, a diferença entre o acréscimo de património ou o consumo evidenciados e os rendimentos declarados pelo sujeito passivo no mesmo período de tributação.
 
-6 - A decisão de avaliação da matéria colectável pelo método indirecto constante deste artigo é da exclusiva competência do director-geral dos Impostos, ou seu substituto legal, sem possibilidade de delegação.
+6 - A decisão de avaliação da matéria colectável pelo método indirecto constante deste artigo é da competência do director de finanças da área do domicílio fiscal do sujeito passivo, sem faculdade de delegação.
 
 7 - Da decisão de avaliação da matéria colectável pelo método indirecto constante deste artigo cabe recurso para o tribunal tributário, com efeito suspensivo, a tramitar como processo urgente, não sendo aplicável o procedimento constante dos artigos 91.º e seguintes.
 
