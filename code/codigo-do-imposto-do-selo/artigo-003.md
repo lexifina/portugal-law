@@ -43,3 +43,5 @@ q) No aumento de capital de uma sociedade de capitais, a sociedade cujo capital 
 r) Na transferência de sede estatutária ou de direcção efectiva de uma sociedade de capitais, a sociedade cuja sede ou direcção efectiva é transferida;
 
 s) Em quaisquer outros actos, contratos e operações, o requerente, o requisitante, o primeiro signatário, o beneficiário e o destinatário dos mesmos, bem como o prestador ou fornecedor de bens e serviços.
+
+4 - Nos contratos de trabalho, o encargo do imposto é pago pelo empregador.
