@@ -1,0 +1,8 @@
+Despacho normativo n.º 1/2007
+O Despacho normativo n.º 13/2006, publicado no Diário da República, 2.ª série, n.º 200, de 17 de Outubro de 2006, veio alterar o prazo de envio ao Instituto Nacional de Intervenção e Garantia Agrícola (INGA) das candidaturas às ajudas atribuídas no quadro do Programa Apícola Nacional pelos organismos competentes, fixado no n.º 2 do artigo 9.º do Despacho Normativo n.º 30/2005, publicado no Diário da República, 1.ª série, n.º 88, de 6 de Maio de 2005, com a nova redacção que lhe foi dada pelo artigo 1.º do Despacho Normativo n.º 43/2005, publicado no Diário da República, 1.ª série, n.º 175, de 12 de Setembro de 2005.
+Importa, por isso, alterar, em conformidade, o prazo fixado ao INGA, no n.º 6 do mesmo artigo 9.º, para comunicar àqueles organismos e aos candidatos os resultados da sua apreciação.
+Assim, ao abrigo do disposto no Regulamento (CE) n.º 797/2004, do Conselho, de 26 de Abril, no Regulamento (CE) n.º 917/2004, da Comissão, de 29 de Abril, e, ainda, no Programa Apícola Nacional, aprovado pela Decisão da Comissão C (2004) 3181, de 25 de Agosto, determina-se o seguinte:
+Artigo único
+Alteração de prazos
+O prazo fixado no n.º 6 do artigo 9.º do Despacho Normativo n.º 30/2005, com a nova redacção que lhe foi dada pelo artigo 1.º do Despacho Normativo n.º 43/2005, é prorrogado até 5 de Janeiro de 2007, salvo para as candidaturas à acção n.º 3, caso em que é prorrogado até 19 de Janeiro de 2007.
+19 de Dezembro de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas.
