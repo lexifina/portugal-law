@@ -1,0 +1,6 @@
+Aviso n.º 237/2007
+Nos termos e para os efeitos do n.º 1 do artigo 74.º e do n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, torna-se público que a Câmara Municipal do Fundão, na reunião ordinária realizada em 10 de Novembro de 2006, deliberou mandar elaborar o Plano de Pormenor da Zona Industrial de Silvares.
+Durante o prazo de 30 dias, após a publicação deste aviso no Diário da República, decorrerá o processo de audição pública, durante o qual os interessados podem apresentar sugestões ou informações sobre questões que possam ser consideradas no âmbito deste processo, as quais deverão ser formuladas através de requerimento, em duplicado, dirigido ao presidente da Câmara Municipal.
+Durante aquele período os interessados poderão consultar, no Departamento de Urbanismo da Câmara Municipal do Fundão, o documento de fundamentação e os termos de referência para a elaboração do plano que acompanhou a deliberação de Câmara.
+O presente aviso vai ser afixado nos lugares públicos do costume e publicado na imprensa local, regional e nacional.
+14 de Novembro de 2006. - O Vice-Presidente da Câmara, Carlos Manuel Faia São Martinho Gomes.
