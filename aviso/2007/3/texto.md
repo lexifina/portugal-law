@@ -1,0 +1,3 @@
+Aviso n.º 3/2007
+Por ter saído com inexactidão o aviso n.º 719/2006, no Diário da República, 1.ª série, n.º 237, de 12 de Dezembro de 2006, rectifica-se que onde se lê «Por parte de Portugal o Acordo foi aprovado pelo Decreto n.º 82/2005, publicado no Diário da República, 1.ª série, de 15 de Abril de 2005.» deve ler-se «Por parte de Portugal o Acordo foi aprovado pelo Decreto n.º 17/2006, publicado no Diário da República, 1.ª série-A, n.º 122, de 27 de Junho de 2006.».
+Direcção-Geral dos Assuntos Técnicos e Económicos, 19 de Dezembro de 2006. - Pelo Director do Gabinete dos Assuntos Económicos, a Chefe de Divisão, Filipa Ponces.
