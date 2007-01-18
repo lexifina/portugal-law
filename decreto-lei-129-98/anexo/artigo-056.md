@@ -6,7 +6,7 @@
 
 a) Do início de actividade de comerciante individual que adopte firma diferente do seu nome completo ou abreviado, bem como da alteração desta firma ou da mudança de residência para outro concelho;
 
-b) De contrato de sociedade ou de constituição de sociedade anónima europeia, da alteração da respectiva firma ou objecto, da mudança de sede para outro concelho ou da transferência para Portugal da sede de sociedade estrangeira, ou da fusão, cisão ou transformação de sociedades;
+b) De contrato de sociedade da alteração da respectiva firma ou objecto, da mudança de sede para concelho diferente, sem prejuízo do disposto no n.º 3 do artigo 54.º, ou da fusão, cisão ou transformação de sociedades;
 
 c) Da constituição, da alteração da respectiva denominação ou objecto, da mudança da sede para outro concelho ou da fusão, cisão ou transformação de cooperativa;
 

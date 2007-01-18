@@ -6,7 +6,7 @@
 
 2 - O instrumento de alteração do contrato de sociedade ou estatutos que determine a modificação da firma ou denominação, a modificação do objecto, a alteração da sede para concelho diferente ou a transferência para Portugal da sede de sociedade estrangeira não pode ser lavrado sem que se exiba certificado comprovativo da admissibilidade da nova firma ou denominação ou da sua manutenção em relação ao novo objecto e sede, nos termos do número anterior.
 
-3 - O disposto no número anterior não se aplica aos casos em que a alteração da firma se limite à alteração do elemento que identifica o tipo de pessoa colectiva.
+3 - O disposto no número anterior não se aplica aos casos em que a alteração da firma se limite à alteração do elemento que identifica o tipo de pessoa colectiva, nem aos casos de alteração de sede de sociedades que utilizem firma constituída por expressão de fantasia, acrescida ou não de referência à actividade.
 
 4 - Nos instrumentos a que se referem os números anteriores, o objecto social não pode ser ampliado a actividades não contidas no objecto declarado no certificado de admissibilidade.
 
