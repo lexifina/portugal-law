@@ -1,0 +1,8 @@
+Aviso n.º 982-A/2007
+Publicitação da fase de discussão pública da proposta de plano de pormenor do Flecheiro e Mercado, nos termos do artigo 77.º do Decreto-Lei n.º 310/2003, de 10 de Dezembro.
+Nos termos do artigo 77.º do Decreto-Lei n.º 310/2003, de 10 de Dezembro, a Câmara Municipal de Tomar informa os interessados de que, na sua reunião pública de 19 de Dezembro de 2006, deliberou aprovar a proposta de plano de pormenor do Flecheiro e Mercado.
+Mais se informa que, na sua reunião de 8 de Janeiro de 2007, a Câmara Municipal de Tomar deliberou que o período de discussão pública terá uma duração de 22 dias úteis, decorrendo entre os dias 30 de Janeiro e 2 de Março de 2007.
+No âmbito da fase de discussão pública do plano de pormenor do Flecheiro e Mercado, realizar-se-á, no dia 5 de Fevereiro de 2007, às 15 horas, na Biblioteca Municipal, uma sessão pública de apresentação do plano.
+Durante todo o período em que decorrer a discussão pública, a proposta de plano de pormenor e restantes documentos estarão disponíveis nas instalações da Tomar Polis, sitas na Casa Vieira Guimarães, Avenida do Marquês de Tomar, 2300-586 Tomar, onde poderão ser consultados pelos interessados nos dias úteis de segunda-feira a sexta-feira das 14 horas e 30 minutos às 19 horas e 30 minutos e nos sábados das 9 horas e 30 minutos às 13 horas e 30 minutos.
+As reclamações, informações ou sugestões sobre o conteúdo dos documentos postos à discussão pública deverão ser formuladas, por escrito, através de formulário próprio disponível no local e entregues até às 19 horas e 30 minutos do dia 2 de Março de 2007 nas mencionadas instalações da Tomar Polis.
+8 de Janeiro de 2007. - O Presidente da Câmara, António P. Silva Paiva.
