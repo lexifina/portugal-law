@@ -2,7 +2,7 @@
 
 ### (Nulidade da fusão)
 
-1 - A nulidade da fusão só pode ser declarada por decisão judicial, com fundamento na falta de escritura pública ou na prévia declaração de nulidade ou anulação de alguma das deliberações das assembleias gerais das sociedades participantes.
+1 - A nulidade da fusão só pode ser declarada por decisão judicial, com fundamento na inobservância da forma legalmente exigida ou na prévia declaração de nulidade ou anulação de alguma das deliberações das assembleias gerais das sociedades participantes.
 
 2 - A acção declarativa da nulidade da fusão só pode ser proposta enquanto não tiverem sido sanados os vícios existentes, mas nunca depois de decorridos seis meses a contar da publicação da fusão definitivamente registada ou da publicação da sentença transitada em julgado que declare nula ou anule alguma das deliberações das referidas assembleias gerais.
 
