@@ -78,17 +78,17 @@
 
 3 - Por cada notificação de titular inscrito efectuada nos termos do artigo 99.º do Código do Notariado ... 45
 
-4 - Certidões certificados, extractos para publicação, fotocópias e respectiva conferência, públicas-formas e informações escritas:
+4 - Certidões, certificados, extractos para publicação e informações escritas:
 
-4.1 - Por cada certidão, certificado com excepção do de exactidão de tradução, pública-forma, fotocópia e respectiva conferência até quatro páginas, inclusive ... 20
+4.1 - Por cada certidão ou certificado, com excepção do de exactidão de tradução (euro) 22.
 
-4.1.1 - A partir da 5.ª página até à 12.ª página, cada página a mais ... 2,50
+4.1.1 - (Revogado.)
 
-4.1.2 - A partir da 13.ª página, por cada página a mais ... 1
+4.1.2 - (Revogado.)
 
 4.2 - Pela primeira certidão emitida após a celebração de qualquer testamento ou escritura e fornecida, dentro do prazo legal, ao testador ou, nos restantes casos, ao interessado a quem for cobrado o recibo da conta do acto nos termos do artigo 195.º do Código do Notariado, independentemente do número de páginas ... 5
 
-4.3 - Pelo certificado de exactidão da tradução de cada documento realizado por tradutor ajuramentado ... 24
+4.3 - (Revogado.)
 
 4.4 - Os emolumentos previstos nos números anteriores são acrescidos em 50% se for requerida urgência para os respectivos actos.
 
@@ -98,17 +98,7 @@
 
 4.7 - Pela informação, dada por escrito, referente a registo lavrado no livro de protestos de títulos de crédito, por cada título ... 9
 
-5 - Reconhecimentos e termos de autenticação:
-
-5.1 - Pelo reconhecimento de cada assinatura ... 11
-
-5.2 - Por cada reconhecimento de letra e assinatura ... 11
-
-5.3 - Pelo reconhecimento que contenha, a pedido dos interessados, a menção de qualquer circunstância especial ... 18
-
-5.4 - Por cada termos de autenticação com um só interveniente ... 25
-
-5.5 - Por cada interveniente a mais ... 6
+5 - (Revogado.)
 
 6 - Registo de documentos - por cada registo lavrado no livro a que se refere a alínea f) do n.º 1 do artigo 7.º do Código do Notariado ... 29
 

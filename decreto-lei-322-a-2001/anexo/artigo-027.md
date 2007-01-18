@@ -75,3 +75,9 @@
 7.1 - Pelo certificado de exactidão da tradução de cada documento realizada por tradutor ajuramentado - (euro) 17,50;
 
 7.2 - Pela tradução de documentos, por cada página - (euro) 15.
+
+8 - Fotocópias e respectiva conferência, públicas-formas e certificação da conformidade de documentos electrónicos com os documentos originais:
+
+8.1 - Por cada pública-forma, conferência de fotocópia ou fotocópia e respectiva conferência (euro) 14;
+
+8.2 - Por cada certificação da conformidade de documentos electrónicos com os documentos originais e respectiva digitalização (euro) 9,50.

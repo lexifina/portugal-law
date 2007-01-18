@@ -12,11 +12,11 @@
 
 2.1 - Constituição de pessoas colectivas - (euro) 400;
 
-2.2 - Aumento de capital social - (euro) 200;
+2.2 - (Revogado.)
 
-2.3 - Redução do capital social - (euro) 200;
+2.3 - (Revogado.)
 
-2.4 - Outras alterações do contrato social, com ou sem aumento ou redução de capital social - (euro) 200;
+2.4 - Alterações ao contrato de sociedade (euro) 200;
 
 2.5 - Fusão ou cisão:
 
@@ -32,9 +32,9 @@
 
 2.9 - Outras inscrições - (euro) 200;
 
-2.10 - Abrangendo a inscrição mais de um facto, é devido o emolumento mais elevado de entre os previstos para os diversos factos a registar, acrescido de 50% do emolumento correspondente a cada um dos restantes actos.
+2.10 - Abrangendo a inscrição mais de um facto, é devido o emolumento mais elevado de entre os previstos para os diversos factos a registar, acrescido de 50% do emolumento correspondente a cada um dos restantes factos.
 
-3 - Registo efectuado por simples depósito - (euro) 100.
+3 - Registo efectuado por simples depósito, com excepção do registo de prestação de contas (euro) 100.
 
 4 - Averbamentos às inscrições:
 
@@ -84,7 +84,15 @@ Pela decisão do procedimento, incluindo o registo - (euro) 250.
 
 13.4 - Pela confirmação do conteúdo da certidão ou fotocópia - (euro) 10;
 
-13.5 - Pela assinatura anual do serviço previsto no n.º 5 do artigo 75.º do Código de Registo Comercial - (euro) 19,50;
+13.5 - Assinatura do serviço previsto no n.º 5 do artigo 75.º do Código do Registo Comercial:
+
+13.5.1 - Assinatura por um ano (euro) 19,5;
+
+13.5.2 - Assinatura por dois anos (euro) 35;
+
+13.5.3 - Assinatura por três anos (euro) 49;
+
+13.5.4 - Assinatura por quatro anos (euro) 59;
 
 13.6 - Informação dada por escrito ... 11
 
@@ -111,3 +119,7 @@ Pela decisão do procedimento, incluindo o registo - (euro) 250.
 22 - Para fazer face ao encargo referido no número anterior, constitui receita da Direcção-Geral dos Registos e do Notariado (DGRN) o montante de (euro) 20, a deduzir, por cada acto, aos emolumentos previstos neste artigo, com excepção dos estabelecidos no n.º 13, em que apenas constitui receita da DGRN o montante de (euro) 1,50, pela emissão de cada certidão ou pela prestação de informação dada por escrito.
 
 23 - O facto de a taxa das publicações obrigatórias se encontrar incluída no valor dos emolumentos previstos neste artigo não prejudica o seu tratamento autónomo, designadamente no que respeita ao facto de constituírem receita da DGRN.
+
+24 - Para fazer face ao encargo com a gestão dos sistemas informáticos necessários à sua disponibilização, constitui receita do Instituto das Tecnologias de Informação na Justiça (ITIJ) o montante de (euro) 5, a deduzir, por cada acto de registo requerido por via electrónica, aos emolumentos previstos neste artigo.
+
+25 - O emolumento pago pela assinatura do serviço previsto no n.º 5 do artigo 75.º do Código do Registo Comercial constitui receita da DGRN.

@@ -12,6 +12,8 @@ a) Cancelamento de ónus ou encargos por efeito de decisão judicial ou administ
 
 b) Actualização dos registos, por efeito da redenominação automática dos valores monetários.
 
+c) Averbamentos de actualização das inscrições, quanto à residência ou sede dos sujeitos que nelas figuram, quando a actualização respeite a alterações toponímicas não dependentes da vontade dos interessados.
+
 2 - São ainda gratuitos os seguintes actos:
 
 a) Rectificação de actos de registo ou documentos resultante de inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado;
