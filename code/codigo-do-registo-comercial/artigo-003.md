@@ -32,7 +32,7 @@ n) A prestação de contas das sociedades anónimas, por quotas e em comandita p
 
 o) A mudança da sede da sociedade e a transferência de sede para o estrangeiro;
 
-p) O projecto de fusão e de cisão de sociedades, bem como a deliberação de redução do capital social da sociedade;
+p) O projecto de fusão e de cisão de sociedades;
 
 q) O projecto de constituição de uma sociedade anónima europeia por meio de fusão, o projecto de constituição de uma sociedade anónima europeia por meio de transformação de sociedade anónima de direito interno e o projecto de constituição de uma sociedade anónima europeia gestora de participações sociais, bem como a verificação das condições de que depende esta última constituição;
 

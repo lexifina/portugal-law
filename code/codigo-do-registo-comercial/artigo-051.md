@@ -10,4 +10,4 @@
 
 3 - Presume-se assegurado o pagamento dos direitos correspondentes a qualquer transmissão desde que tenham decorrido os prazos de caducidade da liquidação ou de prescrição previstos nas leis fiscais.
 
-4 - Presume-se assegurado o pagamento dos direitos correspondentes às transmissões operadas em inventário judicial e em escrituras de doação, bem como às que tenham ocorrido há mais de vinte anos.
+4 - A verificação do cumprimento de obrigações fiscais relativamente a factos que devam ser registados por depósito não compete às conservatórias.

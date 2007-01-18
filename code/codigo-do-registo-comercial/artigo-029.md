@@ -4,7 +4,7 @@
 
 1 - Para pedir os actos de registo respeitantes a comerciantes individuais, salvo o referido no n.º 2, e a pessoas colectivas sujeitas a registo têm legitimidade os próprios ou seus representantes e todas as demais pessoas que neles tenham interesse.
 
-2 - O registo do início, alteração e cessação de actividade do comerciante individual, bem como da mudança da sua residência e de estabelecimento principal, só pode ser pedido pelo próprio ou pelo seu representante.
+2 - O registo do início, alteração e cessação de actividade do comerciante individual, bem como da mudança do seu estabelecimento principal, só pode ser pedido pelo próprio ou pelo seu representante.
 
 3 - Para o pedido de registo provisório do contrato de sociedade anónima com apelo a subscrição pública de acções só têm legitimidade os respectivos promotores.
 

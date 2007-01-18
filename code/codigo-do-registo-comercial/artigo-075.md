@@ -16,6 +16,6 @@
 
 5 - Faz igualmente prova para todos os efeitos legais e perante qualquer autoridade pública ou entidade privada a disponibilização da informação constante da certidão em sítio da Internet, em temos a definir por portaria do Ministro da Justiça.
 
-6 - Por cada processo de registo é entregue ou enviada ao apresentante uma certidão gratuita de todos os registos em vigor respeitantes à entidade em causa, salvo se o apresentante optar pela disponibilização gratuita, pelo período de um ano, do serviço referido no número anterior.
+6 - Por cada processo de registo é entregue ou enviada ao requerente uma certidão gratuita de todos os registos em vigor respeitantes à entidade em causa, salvo se o requerente optar pela disponibilização gratuita, pelo período de um ano, do serviço referido no número anterior.
 
 7 - Sem prejuízo do disposto na parte final do número anterior, por cada processo de registo é disponibilizado, gratuitamente e pelo período de três meses, o serviço referido no n.º 5.

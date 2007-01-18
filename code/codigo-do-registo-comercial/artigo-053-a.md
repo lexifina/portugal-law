@@ -12,7 +12,11 @@
 
 3 - O registo por depósito consiste no mero arquivamento dos documentos que titulam factos sujeitos a registo.
 
-4 - São registados por depósito:
+3 - Sem prejuízo dos regimes especiais de depósito de factos respeitantes a quotas e partes sociais e respectivos titulares e de prestação de contas, o registo por depósito consiste no mero arquivamento dos documentos que titulam factos sujeitos a registo.
+
+4 - Salvo no que respeita ao registo de acções e outras providências judiciais, o registo de factos respeitantes a quotas e partes sociais e respectivos titulares consiste apenas na menção do facto na ficha, efectuada com base no pedido.
+
+5 - São registados por depósito:
 
 a) Os factos mencionados nas alíneas b) a l), n), p), q), u), v) e z) do n.º 1 do artigo 3.º, salvo o registo da verificação das condições de que depende a constituição de uma sociedade anónima europeia gestora de participações sociais;
 
