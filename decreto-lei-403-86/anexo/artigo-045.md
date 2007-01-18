@@ -16,4 +16,4 @@ b) Imediatamente antes da primeira apresentação pessoal do dia seguinte, quand
 
 5 - A ordem de anotação dos documentos apresentados por via electrónica é fixada pela portaria referida no n.º 1.
 
-6 - O pedido de registo por depósito não está sujeito a anotação de apresentação.
+6 - O pedido de registo por depósito não está sujeito a anotação de apresentação, sem prejuízo da aplicação das regras constantes nos números anteriores à ordenação dos pedidos.

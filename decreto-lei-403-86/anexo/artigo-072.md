@@ -8,7 +8,7 @@
 
 3 - Os documentos de prestação de contas das sociedades abertas que não tenham valores mobiliários admitidos à negociação em mercado regulamentado e a acta de encerramento da liquidação destas sociedades são publicados integralmente.
 
-4 - A publicação dos documentos de prestação de contas de outras sociedades que não as referidas no número anterior não inclui a certificação legal das contas, mas é nela divulgado:
+4 - A publicação da informação constante dos documentos de prestação de contas de outras sociedades que não as referidas no número anterior não inclui a certificação legal das contas, mas é nelas divulgado:
 
 a) Se o parecer de revisão traduz uma opinião sem reservas ou com reservas, se é emitida uma opinião adversa ou se o revisor oficial de contas não está em condições de exprimir uma opinião de revisão;
 

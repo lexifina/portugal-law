@@ -4,7 +4,7 @@
 
 1 - Sempre que a lei exija a nomeação de peritos ou de auditores, bem como de revisores oficiais de contas, e a mesma não possa ser feita pela sociedade, mas seja admitida por processo extrajudicial, deve a entidade interessada requerer à conservatória competente que designe os peritos respectivos.
 
-2 - Logo que apresentado o requerimento, a conservatória oficia, no prazo de dois dias, à Câmara dos Revisores Oficiais de Contas ou, não sendo esta entidade a legalmente competente, ao organismo representativo dos peritos em causa, havendo-o, ou, ainda, em caso negativo, à câmara de comércio mencionada pelo requerente, solicitando a indicação dos nomes e das moradas dos peritos a nomear.
+2 - Logo que apresentado o requerimento, a conservatória oficia, no prazo de dois dias, à Ordem dos Revisores Oficiais de Contas ou, não sendo esta entidade a legalmente competente, ao organismo representativo dos peritos em causa, havendo-o, ou, ainda, em caso negativo, à câmara de comércio mencionado pelo requente, solicitando a indicação dos nomes e das moradas dos peritos a nomear.
 
 3 - Recebida a comunicação, o conservador, no prazo de três dias, verifica, designadamente em face dos registos existentes na conservatória e dos elementos de que disponha, a existência de alguma incompatibilidade legal relativamente ao perito indicado.
 

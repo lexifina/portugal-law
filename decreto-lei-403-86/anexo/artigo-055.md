@@ -11,3 +11,5 @@
 4 - A data do registo por transcrição é a da apresentação ou, se desta não depender, a data em que tiver lugar.
 
 5 - A data do registo por depósito é a do respectivo pedido.
+
+6 - Para efeitos do disposto no número anterior, a data do pedido de registo da prestação de contas é a do respectivo pagamento por via electrónica.
