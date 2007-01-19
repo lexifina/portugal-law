@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "38407",
+  "tipo": "Requerimento",
+  "numero": "248",
+  "data_registo": "2007-01-19",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Acordo com o Ministério da Educação, relativo a actividades de enriquecimento curricular no 1º Ciclo do Ensino Básico",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2167",
+        "nome": "Abel Baptista"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1953",
+        "nome": "Diogo Feio"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1352",
+        "nome": "Paulo Portas"
+      }
+    ],
+    "DataEnvio": "2007-01-24",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2007-01-24",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Espinho",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2007-02-02",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Espinho",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a54544338354f544d794d57566c4f4330344e6d46684c54517a4d6a6b744f4451304d53316d4d6d457959546335596d55775a5449756347526d&fich=99321ee8-86aa-4329-8441-f2a2a79be0e2.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2007-01-19",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a54544338334d324d774d5464694d6930774d3249774c5451354e5455744f54426a5a5330324d3245305a4759344e7a51794e7a41756347526d&fich=73c017b2-03b0-4955-90ce-63a4df874270.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "38407",
+    "Legislatura": "X",
+    "Nr": "248",
+    "Observacoes": "Espinho",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "389041",
+        "obs": null,
+        "pag": [
+          "202-203"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2007",
+        "pubLeg": "X",
+        "pubNr": "19",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/02/019S1/2007-01-27/202?pgs=202-203&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
