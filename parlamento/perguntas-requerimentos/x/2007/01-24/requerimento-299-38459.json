@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "38459",
+  "tipo": "Requerimento",
+  "numero": "299",
+  "data_registo": "2007-01-24",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Petição à Assembleia da República sobre \"Tratamento Condigno e Pelo Fim do Extermínio dos Animais em Canis/Gatis Municipais\"",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "2078",
+        "nome": "Luís Carloto Marques"
+      }
+    ],
+    "DataEnvio": "2007-01-25",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2007-01-25",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Lourinhã",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2007-03-01",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Lourinhã",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a54544338774d474a6d4d6a5a684e7930334d6a55314c5451304d7a49745957566d4d4331684f474d304d4745774e4451324f574d756347526d&fich=00bf26a7-7255-4432-aef0-a8c40a04469c.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2007-01-24",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a545443396d595451334f5445345a6930774e57497a4c5451794e7a55744f475a6b4d53316b4e6d4d794d4449355954466a5a574d756347526d&fich=fa47918f-05b3-4275-8fd1-d6c2029a1cec.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "38459",
+    "Legislatura": "X",
+    "Nr": "299",
+    "Observacoes": "Lourinhã",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "389092",
+        "obs": null,
+        "pag": [
+          "315-317"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2007",
+        "pubLeg": "X",
+        "pubNr": "19",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/02/019S1/2007-01-27/315?pgs=315-317&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
