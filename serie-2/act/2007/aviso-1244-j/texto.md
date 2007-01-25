@@ -1,0 +1,7 @@
+Aviso n.º 1244-J/2007
+Plano de Pormenor do Ribeiro de São Martinho
+Miguel Filipe Machado de Albuquerque, presidente da Câmara Municipal do Funchal, torna público que a Câmara Municipal do Funchal deliberou, na sua reunião de 28 de Dezembro de 2006, proceder à abertura do período de discussão pública sobre a proposta do Plano de Pormenor do Ribeiro de São Martinho.
+Nos termos do disposto no n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, informa-se os interessados que decorrerá por um período de 22 dias úteis a contar do 10.º dia após a publicação deste aviso no Diário da República, um processo de audição do público, durante o qual os interessados poderão apresentar as suas reclamações, observações ou sugestões em impresso próprio que pode ser obtido no Departamento de Planeamento Estratégico da Câmara Municipal do Funchal, local onde se encontra disponível a proposta de plano, acompanhada do parecer da Direcção Regional do Ordenamento do Território.
+O impresso acima referido, depois de preenchido tem de dar entrada no Departamento Administrativo, 2.º, do edifício da Câmara Municipal do Funchal, Praça do Município, 9004-512 Funchal.
+Com o sentido de incentivar a participação neste processo, é criada uma página específica no site da Câmara Municipal do Funchal www.cm-funchal.pt.
+28 de Dezembro de 2006. - O Vereador, por delegação do Presidente da Câmara, João José Nascimento Rodrigues.
