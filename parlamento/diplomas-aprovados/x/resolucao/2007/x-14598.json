@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=3d4h3iJUzJ5%2ftQ8sS%2fv2R6TCj8bCDkLL%2bFdTRK40%2bilvyl3jbC46ru%2bbuvKRKJ3lgapPwkE42I%2fcPFXX64A753V2F4NAeMLX9Q5f9dhfRw%2fZFjlxWBwzJlA%2fEAJw8kEfEAFouQqDrN%2b9iY6U6sL2%2fE8%2bdI8xG5omU6EURK6xQ6fcjzTD%2fTWSt8eLiep1ZNqUU0km0C4VCM%2biGLus4uuMEhij5lBvmmjWv530iGZUmCkpaUeaTFUPHUi4Nzu0CYvun3VwXRQb8gjThUiCFcrGcQcuzNFSOhnaeWKbg%2bt7bLF54ELv6OteOSIaaDkb%2fWmThXvmwAOcMAaxBwFGo70ZNVhlH4xT8ogN433mxWauB%2fk%3d&fich=DiplomasX_json.txt&Inline=true",
+  "ficheiro_sha256": "724a3fff001c963e771445a5cbb0ce949f9feb66d52e11eac6e03ce068278a50",
+  "legislatura": "X",
+  "id": "14598",
+  "tipo": "Resolução",
+  "numero": "-X",
+  "data_registo": "2007-01-25",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2007",
+    "Id": "14598",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "33359",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a45344e44566b4f444a6b4c546c69593255744e44566c5a693168597a4d7a4c5759784e6a45324e5445354d5464684f53356b62324d3d&fich=1845d82d-9bce-45ef-ac33-f161651917a9.doc&Inline=true",
+        "IniNr": "172",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "X",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a573530595849764f444d354f5441315a544174596a55794e6930304f4449794c57457a5a4459745a6d526c596a67314d5463774e5459344c6d527659773d3d&fich=839905e0-b526-4822-a3d6-fdeb85170568.doc&Inline=true",
+    "Numero": null,
+    "Numero2": "X",
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "389272",
+        "obs": null,
+        "pag": [
+          "12-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-01-25",
+        "pubLeg": "X",
+        "pubNr": "38",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/10/02/038/2007-01-25/12?pgs=12-15&org=PLC"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Resolução",
+    "Titulo": "Participação da Assembleia da República no Fórum Parlamentar Ibero-Americano",
+    "Tp": "R",
+    "Versao": null
+  }
+}
