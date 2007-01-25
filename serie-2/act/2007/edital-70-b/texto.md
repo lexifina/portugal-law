@@ -1,0 +1,17 @@
+Edital n.º 70-B/2007
+Plano de Pormenor da Estrada Atlântica/Foz do Arelho
+A Câmara Municipal das Caldas da Rainha torna pública a sua deliberação n.º 2062, acta n.º 45/2006, de 30 de Outubro, que recaiu sobre a informação do Gabinete de Planeamento e Urbanismo, de 23 de Outubro de 2006, relativa à elaboração de Plano de Pormenor da Estrada Atlântica/Foz do Arelho, que determina, para efeitos de audiência e acompanhamento dos interessados, a publicitação da elaboração, do seguinte teor:
+Plano de Pormenor da Estrada Atlântica/Foz do Arelho
+A presente informação é elaborada pelo Gabinete de Planeamento e Urbanismo e datada de 23 de Outubro de 2006, acompanhada dos termos de referência do Plano de Pormenor da Estrada Atlântica/Foz do Arelho - Caldas da Rainha, tendo em vista a elaboração do mesmo, nos termos do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 53/2000, de 7 de Abril, e Decreto-Lei n.º 310/2003, de 10 de Dezembro.
+A Câmara tomou conhecimento e considerando a informação do Gabinete de Planeamento e Urbanismo, supramencionada, que aqui se dá por integralmente reproduzida e como fazendo parte integrante desta acta e se arquiva, deliberou:
+1 - Proceder à elaboração do Plano de Pormenor da Estrada Atlântica/Foz do Arelho, nos termos previstos no n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 53/2000, de 7 de Abril, e Decreto-Lei n.º 310/2003, de 10 de Dezembro (adiante designado por RJIGT - Regime Jurídico dos Instrumentos de Gestão Territorial), com o conteúdo material previsto no n.º 1 do artigo 91.º do citado regime jurídico e de acordo com a citada informação do Gabinete de Planeamento e Urbanismo, onde consta a definição da oportunidade e os termos de referência do Plano;
+2 - Proceder à publicação da presente decisão na 2.ª série do Diário da República, em dois jornais nacionais, um local e por edital, em cumprimento do disposto no n.º 2 do artigo 48.º, n.º 2 do artigo 77.º, alínea b) do n.º 3 do artigo 148.º e n.º 2 do artigo 149.º do citado RJIGT;
+3 - Solicitar à CCDR-LVT o acompanhamento do processo, nos termos do disposto no n.º 7 do artigo 75.º do RJIGT e indicar como interlocutor da Câmara Municipal a arquitecta Sónia Lopes, que assegurará a articulação com aquela entidade;
+4 - Disponibilizar o processo, para consulta dos interessados, no Gabinete de Planeamento e Urbanismo, sito no edifício dos Paços do Concelho, onde poderão ser prestados os esclarecimentos necessários, podendo ser formuladas sugestões e apresentadas informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração, conforme prevê o n.º 2 do artigo 77.º do RJIGT;
+5 - O prazo para elaboração do plano é de 5,5 meses e abrange a área e localização definidas na informação do Gabinete de Planeamento e Urbanismo, supra-referida;
+6 - A audiência dos interessados processar-se-á nos termos do disposto no artigo 7.º da Lei n.º 83/95 e do n.º 2 do artigo 77.º do RJIGT, com a duração de 30 dias;
+7 - Dar conhecimento da presente decisão à Assembleia Municipal.
+A presente deliberação foi tomada por unanimidade.
+Para constar se passou este e outros de igual teor, aos quais vai ser dada a publicitação do costume.
+E eu, (sem assinatura), chefe de Divisão Administrativa e Financeira do município de Caldas da Rainha, o subscrevi.
+13 de Dezembro de 2006. - O Presidente da Câmara, Fernando José da Costa.
