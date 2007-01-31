@@ -33,3 +33,5 @@ m) Articular com outros organismos oficiais, nos termos da lei, as vistorias con
 n) Recolher, tratar e difundir informação, no âmbito da segurança, higiene e saúde no trabalho.
 
 2 - O GHSST é dirigido por um chefe de divisão.
+
+3 - Compete ao director regional do Trabalho e Qualificação Profissional afectar o pessoal do quadro da Inspecção Regional do Trabalho, constante do anexo VII, ao Gabinete de Higiene, Segurança e Saúde no Trabalho (GHSST), o qual para todos os efeitos legais se considera na dependência funcional do respectivo chefe de divisão, que por seu turno está directamente dependente do referido director regional.
