@@ -1,0 +1,5 @@
+Aviso n.º 1515/2007
+Maria Gabriela Pereira Menino Tsukamoto, presidente da Câmara Municipal de Nisa, torna público que, nos termos do n.º 1 do artigo 117.º do Decreto-Lei n.º 442/91, de 15 de Novembro, alterado pela Lei n.º 6/96, de 31 de Janeiro, pelas deliberações de câmara n.º 326/06, de 16 de Agosto, e da Assembleia Municipal n.º 40/06, de 29 de Setembro, foi decidido pôr a discussão pública a proposta de regulamento municipal de resíduos sólidos urbanos, higiene e limpeza de espaços públicos do concelho de Nisa.
+Mais faz saber que a formulação de sugestões bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento deverão ser efectuadas por escrito no prazo máximo de 30 dias contados a partir da data da publicitação do presente aviso no Diário da República, na Loja do Munícipe da Câmara Municipal, local onde poderá igualmente ser consultado o processo todos os dias úteis das 9 às 16 horas.
+16 de Outubro de 2006. - A Presidente da Câmara, Maria Gabriela P. M. Tsukamoto.
+3000219525
