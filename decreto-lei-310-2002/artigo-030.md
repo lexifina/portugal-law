@@ -10,4 +10,4 @@
 
 a) Só pode ser consentido por ocasião de festas tradicionais, espectáculos ao ar livre ou em outros casos análogos devidamente justificados;
 
-b) São proibidas as emissões desproporcionalmente ruidosas que não cumpram os limites estabelecidos no Regulamento Geral do Ruído.
+b) Cumprimento dos limites estabelecidos no n.º 5 do artigo 15.º do Regulamento Geral do Ruído, quando a licença é concedida por período superior a um mês.
