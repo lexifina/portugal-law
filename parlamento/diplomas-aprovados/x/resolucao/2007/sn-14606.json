@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=3d4h3iJUzJ5%2ftQ8sS%2fv2R6TCj8bCDkLL%2bFdTRK40%2bilvyl3jbC46ru%2bbuvKRKJ3lgapPwkE42I%2fcPFXX64A753V2F4NAeMLX9Q5f9dhfRw%2fZFjlxWBwzJlA%2fEAJw8kEfEAFouQqDrN%2b9iY6U6sL2%2fE8%2bdI8xG5omU6EURK6xQ6fcjzTD%2fTWSt8eLiep1ZNqUU0km0C4VCM%2biGLus4uuMEhij5lBvmmjWv530iGZUmCkpaUeaTFUPHUi4Nzu0CYvun3VwXRQb8gjThUiCFcrGcQcuzNFSOhnaeWKbg%2bt7bLF54ELv6OteOSIaaDkb%2fWmThXvmwAOcMAaxBwFGo70ZNVhlH4xT8ogN433mxWauB%2fk%3d&fich=DiplomasX_json.txt&Inline=true",
+  "ficheiro_sha256": "724a3fff001c963e771445a5cbb0ce949f9feb66d52e11eac6e03ce068278a50",
+  "legislatura": "X",
+  "id": "14606",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2007-02-01",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2007",
+    "Id": "14606",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "33090",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3245334e7a4e6b4e6d51794c5752684d474d744e475130597931684d7a67794c5755345a4451354d4755774d6d45314f53356b62324d3d&fich=a773d6d2-da0c-4d4c-a382-e8d490e02a59.doc&Inline=true",
+        "IniNr": "127",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "X",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a573530595849764f5746685a545a6d4e6a63744d4463304f5330304e3251334c546b344d4755744e44466b4d54557a4f54426a596a566a4c6d527659773d3d&fich=9aae6f67-0749-47d7-980e-41d15390cb5c.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "389411",
+        "obs": null,
+        "pag": [
+          "21-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-02-01",
+        "pubLeg": "X",
+        "pubNr": "40",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/10/02/040/2007-02-01/21?pgs=21-22&org=PLC"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Resolução",
+    "Titulo": "Recomenda ao Governo a adopção de medidas de expansão do consumo de genéricos e de redução do desperdício de medicamentos prescritos e de orientações em diagnóstico e terapêutica",
+    "Tp": "R",
+    "Versao": null
+  }
+}
