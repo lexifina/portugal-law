@@ -1,0 +1,3 @@
+Declaração n.º 1/2007
+Nos termos do disposto no n.º 7 do artigo 206.º do Regimento da Assembleia da República, declara-se que se considera caduco o processo relativo à apreciação parlamentar n.º 36/X ao Decreto-Lei n.º 220/2006, de 3 de Novembro, que estabelece o regime jurídico de protecção social da eventualidade de desemprego dos trabalhadores por conta de outrem e revoga os Decretos-Leis n.os 119/99, de 14 de Abril, e 84/2003, de 24 de Abril, apresentada pelo Grupo Parlamentar do Partido Popular, uma vez que foram rejeitadas pela Comissão de Trabalho e Segurança Social todas as propostas de alteração e que o Plenário foi informado do facto.
+Assembleia da República, 11 de Janeiro de 2007. - A Deputada Secretária da Mesa da Assembleia da República, Celeste Correia.
