@@ -6,7 +6,7 @@
 
 a) Título de propriedade;
 
-b) Passaporte de embarcação;
+b) (Revogada.)
 
 c) Rol de matrícula;
 

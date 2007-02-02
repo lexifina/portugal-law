@@ -18,7 +18,7 @@ b) Os papéis de bordo.
 
 a) Título de propriedade;
 
-b) Passaporte de embarcação, quando exigido pelo direito internacional;
+b) (Revogada.)
 
 c) Rol de matrícula.
 
