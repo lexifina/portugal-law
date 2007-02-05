@@ -1,0 +1,4 @@
+Aviso n.º 1804-P/2007
+Jorge Manuel Fernandes Malheiro de Magalhães, licenciado em Direito, na qualidade de presidente da Câmara Municipal de Lousada, torna público, para cumprimento do preceituado no n.º 2 do artigo 118.º do Código do Procedimento Administrativo, e dando execução ao deliberado por esta Câmara Municipal em sua reunião realizada no dia 18 de Dezembro do ano transacto, que, a partir da publicação no Diário da República, 2.ª série, e pelo prazo de 30 dias, está em apreciação pública nesta Câmara o projecto do Regulamento Específico dos Campos de Relva Sintética/Multifunções do Complexo Desportivo Municipal para posterior sujeição ao órgão deliberativo.
+Mais faz saber que exemplares do projecto do regulamento se encontram afixados no átrio do edifício dos serviços municipais.
+2 de Janeiro de 2007. - O Presidente da Câmara, Jorge Manuel Fernandes Malheiro de Magalhães.
