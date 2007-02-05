@@ -1,0 +1,6 @@
+Aviso n.º 1804-X/2007
+Manuel Alves de Oliveira, presidente da Câmara Municipal de Ovar, faz público que, em cumprimento do disposto nos artigos 75.º do Decreto-Lei n.º 380/99, de 22 de Setembro, e 1.º da Portaria n.º 290/2003, de 5 de Abril, a Câmara Municipal de Ovar deliberou, em reunião realizada no dia 4 de Junho de 2004, que o acompanhamento da revisão do Plano Director Municipal seja assegurado por uma comissão mista de coordenação, constituída nos termos do artigo 2.º da referida portaria.
+Assim, nos termos do artigo 4.º da Portaria n.º 290/93, de 5 de Abril, as organizações económicas, sociais, culturais e ambientais da área do município que pretendam poder vir a integrar a comissão mista de coordenação deverão apresentar requerimento no prazo de 15 dias a contar da publicação do presente aviso no Diário da República, a fim da Câmara Municipal se pronunciar sobre a respectiva composição.
+O requerimento deverá ser dirigido ao presidente da Câmara Municipal de Ovar, ou remetido por fax para o n.º 256585654, ou ainda por correio electrónico para o endereço gapresidencia@cm-ovar.pt.
+Para constar e devidos efeitos se publica este aviso na 2.ª série do Diário da República e órgãos de comunicação social e outros de igual teor vão ser afixados nos locais de estilo.
+5 de Janeiro de 2007. - O Presidente da Câmara, Manuel Alves de Oliveira.
