@@ -1,0 +1,4 @@
+Aviso n.º 2285-E/2007
+António Paulino da Silva Paiva, presidente da Câmara Municipal de Tomar, para os devidos efeitos e em cumprimento do disposto no artigo 77.º do Decreto-Lei n.º 380/99, na redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, faz saber que foram alteradas as datas de início e término do período de discussão pública do Plano de Pormenor do Flecheiro e Mercado, publicado no Diário da República, 2.ª série, n.º 13, suplemento, de 18 de Janeiro de 2007, em virtude de a referida publicação só ter ocorrido no referido dia 18 de Janeiro, e não no dia 15, conforme previsto.
+Assim, dando cumprimento à deliberação da Câmara Municipal de 30 de Janeiro de 2007, o signatário faz saber que o período de discussão pública da proposta do Plano de Pormenor do Flecheiro e Mercado terá uma duração de 22 dias úteis, que decorrerão entre 2 de Fevereiro e 7 de Março.
+30 de Janeiro de 2007. - Pelo Presidente da Câmara, (Assinatura ilegível.)
