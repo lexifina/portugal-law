@@ -1,0 +1,4 @@
+Aviso n.º 2655/2007
+O Dr. Álvaro dos Santos Amaro, presidente da Câmara Municipal de Gouveia, torna público que, em cumprimento da deliberação tomada em reunião do executivo realizada em 12 de Junho de 2006 e para efeitos do prescrito no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, se encontra em apreciação pública, pelo prazo de 30 dias a contar da data da presente publicação no Diário da República, o projecto de regulamento do provedor municipal, o qual poderá ser consultado nos Serviços Administrativos, dentro das horas de expediente dos mesmos, devendo os interessados dirigir, por escrito, as suas sugestões ao presidente da Câmara Municipal de Gouveia.
+25 de Janeiro de 2007. - O Presidente da Câmara, Álvaro dos Santos Amaro.
+1000310507
