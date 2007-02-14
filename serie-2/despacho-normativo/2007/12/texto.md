@@ -1,0 +1,5 @@
+Despacho normativo n.º 12/2007
+Nos termos do disposto no n.º 2 do artigo 27.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 177/2001, de 4 de Junho, e por despacho de vereador da área de Planeamento e Gestão Urbanística de 2 de Janeiro de 2007, proferido no uso de competência subdelegada pelo presidente da Câmara, vai proceder-se à discussão pública relativa à alteração do lote 1 do loteamento a que se refere o processo n.º 9/95, em que é interessado Eduardo José Franco de Sousa, durante o período de 15 dias, com início no 1.º dia útil à sua publicação.
+O processo de loteamento referido encontra-se disponível para consulta nos dias úteis das 9 horas às 12 horas e 30 minutos e das 14 horas às 15 horas e 30 minutos, no Edifício dos Paços do Concelho de Viana do Castelo, na Divisão de Licenciamento de Obras Particulares, Secção de Atendimento e Comunicação.
+16 de Janeiro de 2007. - O Vereador da Área de Planeamento e Gestão Urbanística, Joaquim Luís Nobre Pereira.
+1000310010
