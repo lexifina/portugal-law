@@ -1,0 +1,3 @@
+Declaração n.º 2/2007
+Nos termos do disposto no n.º 7 do artigo 206.º do Regimento da Assembleia da República, declara-se que se considera caduco o processo relativo à apreciação parlamentar n.º 30/X ao Decreto-Lei n.º 156/2006, de 8 de Agosto, que aprova o regime de determinação e verificação do coeficiente de conservação, apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que foram rejeitadas pela Comissão de Assuntos Económicos, Inovação e Desenvolvimento Regional todas as propostas de alteração e que o Plenário foi informado do facto.
+Assembleia da República, 26 de Janeiro de 2007. - A Deputada Secretária da Mesa da Assembleia da República, Celeste Correia.
