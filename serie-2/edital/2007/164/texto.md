@@ -1,0 +1,4 @@
+Edital n.º 164/2007
+Luís Miguel Veiga da Silva, presidente da Junta de Freguesia da Romeira, nos termos do artigo 91.º do Decreto-Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, torna público que o Regulamento do Cemitério da Junta de Freguesia da Romeira, aprovado em reunião da Junta de Freguesia de 18 de Abril de 2006, publicado no Diário da República, 2.ª série, de 29 de Junho de 2006, como projecto de regulamento, e esgotado o prazo de consulta pública, foi definitivamente aprovado em reunião da Junta de Freguesia de 25 de Setembro de 2006 e votado em sessão da Assembleia de Freguesia de 29 de Setembro de 2006, encontrando-se o mesmo em vigor desde o dia 1 de Janeiro de 2007.
+10 de Janeiro de 2007. - O Presidente, Luís Miguel Veiga da Silva.
+3000224372
