@@ -1,0 +1,5 @@
+Aviso n.º 6/2007
+Por ordem superior se torna público que o Reino Unido da Grã-Bretanha e Irlanda do Norte depositou junto do Secretário-Geral das Nações Unidas, em 9 de Fevereiro de 2006, o seu instrumento de ratificação à Convenção contra a Criminalidade Organizada Transnacional, concluída em Nova Iorque em 15 de Novembro de 2000.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 32/2004, publicada no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, e ratificada pelo Decreto do Presidente da República n.º 19/2004, publicado no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, tendo depositado o seu instrumento de ratificação em 10 de Maio de 2004, conforme aviso publicado no Diário da República, 1.ª série, n.º 121, de 17 de Junho de 2004.
+Nos termos do n.º 2 do artigo 38.º, a Convenção entrou em vigor para o Reino Unido da Grã-Bretanha e Irlanda do Norte em 11 de Março de 2006.
+Direcção-Geral de Política Externa, 30 de Janeiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
