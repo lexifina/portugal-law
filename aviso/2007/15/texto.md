@@ -1,0 +1,5 @@
+Aviso n.º 15/2007
+Por ordem superior se torna público terem os Camarões depositado junto do Secretário-Geral das Nações Unidas, em 6 de Fevereiro de 2006, o seu instrumento de adesão à Convenção Internacional para a Eliminação do Financiamento do Terrorismo, concluída em Nova Iorque em 9 de Dezembro de 1999.
+Portugal é Parte nesta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 51/2002, publicada no Diário da República, 1.ª série-A, n.º 177, de 2 de Agosto de 2002, e ratificada pelo Decreto do Presidente da República n.º 31/2002, publicado no Diário da República, 1.ª série-A, n.º 177, de 2 de Agosto de 2002, tendo depositado o seu instrumento de ratificação em 18 de Outubro de 2002, conforme o Aviso n.º 356/2005, publicado no Diário da República, 1.ª série-A, n.º 193, de 7 de Outubro de 2005.
+Nos termos do n.º 2 do artigo 26.º, a Convenção entrou em vigor para os Camarões em 8 de Março de 2006.
+Direcção-Geral de Política Externa, 30 de Janeiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
