@@ -1,0 +1,5 @@
+Aviso n.º 19/2007
+Por ordem superior se torna público ter a República Portuguesa depositado junto do Secretário-Geral do Conselho da Europa, em 11 de Janeiro de 2007, o seu instrumento de ratificação ao Protocolo Adicional à Convenção para a Protecção das Pessoas relativamente ao Tratamento Automatizado de Dados de Carácter Pessoal Respeitante às Autoridades de Controlo e aos Fluxos Transfronteiriços de Dados, aberto para assinatura em Estrasburgo em 8 de Novembro de 2001.
+Este Protocolo foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 45/2006, publicada no Diário da República, 1.ª série-A, n.º 117, de 20 de Junho de 2006, e ratificado pelo Decreto do Presidente da República n.º 56/2006, publicado no Diário da República, 1.ª série-A, n.º 117, de 20 de Junho de 2006.
+O Protocolo entrará em vigor para a República Portuguesa em 1 de Maio de 2007.
+Direcção-Geral de Política Externa, 30 de Janeiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
