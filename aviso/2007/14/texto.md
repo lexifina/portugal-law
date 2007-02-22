@@ -1,0 +1,5 @@
+Aviso n.º 14/2007
+Por ordem superior se torna público que a Turquia depositou junto do Secretário-Geral das Nações Unidas, em 2 de Março de 2006, o seu instrumento de ratificação ao Segundo Protocolo Facultativo ao Pacto Internacional sobre Direitos Civis e Políticos Visando a Abolição da Pena de Morte, concluído em Nova Iorque em 15 de Dezembro de 1989.
+Portugal é Parte neste Protocolo Facultativo, que foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 25/90, publicada no Diário da República, 1.ª série, n.º 224, de 27 de Setembro de 1990, e ratificado pelo Decreto do Presidente da República n.º 54/90, publicado no Diário da República, 1.ª série, n.º 224, de 27 de Setembro de 1990, tendo depositado o seu instrumento de ratificação em 19 de Outubro de 1990, conforme aviso publicado no Diário da República, 1.ª série, n.º 273, de 26 de Novembro de 1990.
+O Protocolo Facultativo entrou em vigor para a Turquia em 2 de Junho de 2006.
+Direcção-Geral de Política Externa, 30 de Janeiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
