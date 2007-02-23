@@ -1,0 +1,7 @@
+Aviso n.º 3441/2007
+Abertura do procedimento de elaboração do plano de pormenor
+Torna-se público que, nos termos do disposto no artigos 6.º, 74.º e 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, a Câmara Municipal de Alfândega da Fé deliberou em sua reunião do dia 11 de Dezembro de 2006 determinar a elaboração do plano de pormenor Funzone Villages Douro - Alfândega da Fé.
+O plano de pormenor, a elaborar no prazo de seis meses, tem por objectivo transformar, estruturar e infra-estruturar a zona adjacente à barragem da Estevaínha e a Alvazinhos (norte da freguesia de Alfândega da Fé) por forma a criar um empreendimento capaz de congregar uma ampla multiplicidade de valências (turismo, recreio, lazer, saúde, apoio social e desporto) destinado ao público em geral e, simultaneamente, a pessoas com qualquer tipo de incapacidade física ou psíquica, salvaguardando como premissas os valores da segurança e da qualidade de topo, no serviço social prestado à comunidade local, regional, nacional e internacional.
+Mais se torna público que, durante o período de 30 dias a contar da publicação deste aviso no Diário da República, 2.ª série, os interessados poderão formular sugestões bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+5 de Fevereiro de 2007. - O Presidente da Câmara, João Carlos Pontes Figueiredo Sarmento.
+3000225612
