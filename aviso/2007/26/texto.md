@@ -1,0 +1,5 @@
+Aviso n.º 26/2007
+Por ordem superior, torna-se público que, em 6 de Janeiro e em 28 de Outubro de 2006, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pela Embaixada da República Democrática e Popular da Argélia em Lisboa, referindo ambas terem sido concluídas as respectivas formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República Democrática e Popular da Argélia nas Áreas da Educação, do Ensino Superior e da Investigação Científica, da Cultura, da Juventude, do Desporto e da Comunicação Social, assinado em Lisboa em 31 de Maio de 2005.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 3/2006, publicado no Diário da República, 1.ª série-A, n.º 5, de 6 de Janeiro de 2006.
+Nos termos do artigo 23.º do Acordo, este entrou em vigor em 28 de Novembro de 2006.
+Direcção-Geral de Política Externa, 1 de Fevereiro de 2007. - A Directora de Serviços do Médio Oriente e Magreb, Isabel Brilhante Pedrosa.
