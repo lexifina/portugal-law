@@ -1,0 +1,6 @@
+Aviso n.º 3622/2007
+Plano de Pormenor da Zona de Protecção das Termas da Fadagoza em Monte da Pedra - Discussão pública
+O Dr. José Correia da Luz, presidente da Câmara Municipal do Crato, em representação do município, torna público que, depois de ouvidas as entidades representativas dos interesses a ponderar, e de acordo com o parecer emitido pela Comissão de Coordenação e Desenvolvimento Regional do Alentejo, acerca do Plano de Pormenor da Zona de Protecção das Termas da Fadagoza em Monte da Pedra, e em cumprimento da deliberação da Câmara Municipal do Crato, reunida aos 7 dias do mês de Fevereiro de 2007, nos termos do n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, se procede à abertura do período de discussão pública do referido Plano de Pormenor.
+Mais se informa que o período de discussão pública é de 30 dias, com início 10 dias após a publicação do presente aviso no Diário da República, e que os interessados podem consultar a proposta do plano e pareceres emitidos na Divisão Técnica de Obras e Serviços Municipais da Câmara Muncipal do Crato nas horas normais de expediente e que devem apresentar por escrito as suas reclamações, observações ou sugestões até final do referido período.
+12 de Fevereiro de 2007. - O Presidente da Câmara, José Correia da Luz.
+1000310943
