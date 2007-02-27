@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11640",
+  "numero": "315",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2007-02-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2007-04-10",
+            "dataResposta": "2007-05-07",
+            "entidades": [
+              "Ministra da Educação"
+            ],
+            "nrOficio": "302/8ªCECC/2007",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e68627938314d324535595749314d79316b597a4e6c4c5451314f54597459544e6c4e69316b597a6b784d6d4a6b4e5463334d7a67756347526d&fich=53a9ab53-dc3e-4596-a3e6-dc912bd57738.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2007-05-08",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2007-03-07",
+        "DataArquivo": "2007-05-08",
+        "DataBaixaComissao": "2007-03-07",
+        "DataEnvioPAR": "2007-05-08",
+        "DataReaberta": "2007-03-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2007-02-27",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e68627938794e5759345a546b354f4330324f57566c4c5452685a6a51744f474e6a595330774d6d5a6c4e7a526b4d6a63324e3249756347526d&fich=25f8e998-69ee-4af4-8cca-02fe74d2767b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2007-02-27",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e68627938314d324535595749314d79316b597a4e6c4c5451314f54597459544e6c4e69316b597a6b784d6d4a6b4e5463334d7a67756347526d&fich=53a9ab53-dc3e-4596-a3e6-dc912bd57738.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2007-02-27",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e686279396b4d324a684f574d785a43303259544d784c5451344f4463744f57526a4d5330314f446c6b4d44417a4d5749774e6d55756347526d&fich=d3ba9c1d-6a31-4887-9dc1-589d0031b06e.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "250",
+        "Legislatura": "X",
+        "Nome": "Comissão de Educação, Ciência e Cultura (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-03-07",
+            "gp": "PS",
+            "id": "2256",
+            "motivoCessacao": null,
+            "nome": "Fernando Cabral"
+          }
+        ],
+        "RelatorioFinal": [
+          "22183"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2007-02-27",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637939694e6a63774e445a6b595330335954646b4c5451794f546774595463304f5330344d5455354d7a4d355a54517a4f5445756347526d&fich=b67046da-7a7d-4298-a749-8159339e4391.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11640",
+    "PetAssunto": "Solicita que seja revista a inclusão da disciplina de Educação Física no cálculo da média do 10º e seguintes anos para acesso ao Ensino Superior.",
+    "PetDataEntrada": "2007-02-27",
+    "PeticoesAssociadas": null,
+    "PetId": "11640",
+    "PetLeg": "X",
+    "PetNr": "315",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
