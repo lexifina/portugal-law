@@ -1,0 +1,19 @@
+A EFAPEL - Empresa Fabril de Produtos Eléctricos, S. A., pretende, com o presente investimento, incrementar a sua capacidade ao nível das duas unidades produtivas da empresa, recorrendo à utilização dos mais evoluídos equipamentos e sistemas de controlo e aos mais sofisticados meios tecnológicos disponíveis para o sector, de modo a assegurar elevadas eficiências, baixos custos de produção e altos níveis de qualidade dos produtos a fabricar.
+
+A empresa possui duas unidades produtivas, localizadas no município da Lousã, a fabricar material eléctrico de baixa tensão, produtos comercializados sob a marca EFAPEL e certificados em Portugal, França e Alemanha.
+
+Trata-se de um projecto que envolve um investimento da ordem dos 6,5 milhões de euros e a criação de 20 postos de trabalho directos. Com a implementação do projecto em causa, a empresa prevê alcançar, a partir de 2008 e até ao final do contrato, que ocorre em Dezembro de 2013, o valor mínimo anual do valor acrescentado bruto (VAB) de (euro) 8502036 e o valor anual mínimo de exportações de (euro) 6328838.
+
+Deste modo, considera-se que este projecto reúne as condições necessárias à admissão ao regime contratual de investimento e à concessão de incentivos financeiros e de benefícios fiscais previstos no Decreto-Lei n.º 409/99, de 15 de Outubro.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Aprovar a minuta do contrato de investimento e respectivos anexos a celebrar entre o Estado Português, representado pelo Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, I. P. (IAPMEI), e a EFAPEL - Empresa Fabril de Produtos Eléctricos, S. A., para a realização de um projecto de incremento da produção de material eléctrico de baixa tensão de elevada qualidade, assegurando o desenvolvimento do processo de fabrico e das novas séries de produtos a fabricar.
+
+2 - Conceder os benefícios fiscais que constam do contrato de investimento e do contrato de concessão de benefícios fiscais, sob proposta do Ministro de Estado e das Finanças, atento o disposto no n.º 1 do artigo 39.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 198/2001, de 3 de Julho, e pelas Leis n.os 85/2001, de 4 de Agosto, 109-B/2001, de 27 de Dezembro, 32-B/2002, de 30 de Dezembro, 55-B/2004, de 30 de Dezembro, e 60-A/2005, de 30 de Dezembro, e no Decreto-Lei n.º 409/99, de 15 de Outubro.
+
+3 - Determinar que o original do contrato referido no n.º 1 fique arquivado no Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, I. P. (IAPMEI).
+
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
