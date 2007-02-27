@@ -1,0 +1,19 @@
+A PIEDADECORK - Indústria de Cortiça, S. A., pretende, com o presente investimento, construir uma nova unidade fabril destinada à produção de granulados, rolhas de cortiça aglomerada e rolos de cortiça, utilizando uma tecnologia inovadora, da qual se destaca o processo de moldação individual, destinado aos vinhos gaseificados e frizantes, que exigem que o vedante suporte pressões internas elevadas.
+
+A nova unidade, localizada em Santa Maria da Feira, apostará essencialmente na diferenciação dos seus produtos de forma a responder eficazmente e com um nível de qualidade elevado às características exigidas pelos clientes nacionais e estrangeiros. Para tal, será apetrechada nos moldes mais modernos, de acordo com uma tecnologia desenvolvida especificamente para a empresa, bem como adaptação específica de tecnologias de outros sectores de actividade ao da cortiça, tendo em vista alcançar elevados níveis de eficiência, minimização dos custos de produção e certificação de qualidade, atingindo altos níveis de qualidade dos produtos fabricados.
+
+O projecto em causa envolve um investimento de quase 11 milhões de euros e a criação de 39 postos de trabalho directos. Com a implementação do projecto, a empresa prevê alcançar os valores mínimos relativos a volume de vendas e a resultados líquidos de cerca de 8,1 milhões de euros e 1,4 milhões de euros, respectivamente, a partir de 2008.
+
+Deste modo, considera-se que este projecto reúne as condições necessárias à admissão ao regime contratual de investimento e à concessão de incentivos financeiros e de benefícios fiscais previstos no Decreto-Lei n.º 409/99, de 15 de Outubro.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Aprovar a minuta do contrato de investimento e respectivos anexos a celebrar entre o Estado Português, representado pelo Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, I. P. (IAPMEI), e a PIEDADECORK - Indústria de Cortiça, S. A., para a realização de um projecto de criação de uma nova unidade industrial da cortiça associada à inovação e modernização localizada em Santa Maria da Feira.
+
+2 - Conceder os benefícios fiscais que constam do contrato de investimento e do contrato de concessão de benefícios fiscais, sob proposta do Ministro de Estado e das Finanças, atento o disposto no n.º 1 do artigo 39.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 198/2001, de 3 de Julho, e pelas Leis n.os 85/2001, de 4 de Agosto, 109-B/2001, de 27 de Dezembro, 32-B/2002, de 30 de Dezembro, 55-B/2004, de 30 de Dezembro, e 60-A/2005, de 30 de Dezembro, e no Decreto-Lei n.º 409/99, de 15 de Outubro.
+
+3 - Determinar que o original do contrato referido no n.º 1 fique arquivado no Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, I. P. (IAPMEI).
+
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
