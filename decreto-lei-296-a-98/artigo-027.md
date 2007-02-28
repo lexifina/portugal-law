@@ -23,3 +23,5 @@ b) Os pares estabelecimento/curso cujas especiais características justifiquem a
 3 - A realização dos concursos locais a que se refere a alínea b) do número anterior está sujeita a autorização expressa por portaria do Ministro da Educação, a requerimento do estabelecimento de ensino superior e colhido o parecer favorável da CNAES.
 
 4 - A portaria a que se refere o número anterior fixa as normas gerais a que deve obedecer o processo de avaliação de capacidade para a frequência, selecção e de seriação dos candidatos.
+
+5 - A apresentação da candidatura ao concurso nacional pode ser realizada através da Internet.

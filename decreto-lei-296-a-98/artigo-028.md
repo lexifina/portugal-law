@@ -18,6 +18,6 @@ f) As regras de colocação;
 
 g) As regras de utilização das vagas sobrantes, designadamente através da abertura de uma ou mais fases complementares de candidatura;
 
-h) As regras processuais necessárias;
+h) As regras processuais necessárias, incluindo as referentes à apresentação da candidatura através da Internet;
 
 i) As regras de matrícula e inscrição.
