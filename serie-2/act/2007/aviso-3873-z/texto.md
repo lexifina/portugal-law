@@ -1,0 +1,6 @@
+Aviso n.º 3873-Z/2007
+Plano de Pormenor do Centro Histórico de Oliveira do Hospital
+Mário Américo Franco Alves, presidente da Câmara Municipal de Oliveira do Hospital, faz saber que, a Câmara Municipal, em sua reunião pública de 22 de Dezembro de 2006, deliberou proceder à elaboração do Plano de Pormenor de Salvaguarda e Valorização do Centro Histórico de Oliveira do Hospital, pelo prazo de um ano, aprovando os termos de referência que fundamentam a sua oportunidade e fixam os respectivos objectivos.
+Nos termos do n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, decorrerá por um período de 30 dias úteis a partir da presente publicação um processo de audição pública, durante o qual os interessados poderão proceder à formulação de sugestões, bem como à apresentação de informações, em impresso de modelo próprio a fornecer pelos serviços, sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+Durante aquele período, os interessados poderão consultar os termos de referência aprovados pela Câmara Municipal de Oliveira do Hospital, no Gabinete Técnico Local, todos os dias úteis durante as horas de expediente.
+11 de Janeiro de 2007. - O Presidente da Câmara Municipal, Mário Américo Franco Alves.
