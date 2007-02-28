@@ -1,0 +1,7 @@
+Aviso n.º 3873-AQ/2007
+Revisão do Plano Director Municipal de Sesimbra
+Em conformidade com o disposto no n.º 3 do artigo 148.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro (RJIGT), se torna público que esta Câmara Municipal, em reunião efectuada no dia 10 Janeiro de 2007, deliberou por unanimidade iniciar o procedimento de revisão do Plano Director Municipal de Sesimbra, nos termos do n.º 1 do artigo 74.º, n.os 1 e 3 do artigo 93.º e n.º 3 do artigo 98.º do RJIGT, aprovando o respectivo relatório de fundamentação.
+Nos termos do n.º 2 do artigo 77.º do RJIGT, decorrerá, nos 60 dias úteis subsequentes à publicação do aviso em Diário da República, um período de audição pública durante o qual os interessados poderão apresentar por escrito sugestões e pedidos de esclarecimento, bem como informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento da revisão.
+Durante aquele período, os interessados poderão consultar a proposta que fundamenta a revisão aprovada pela Câmara Municipal, durante as horas de expediente, todos os dias úteis, devendo dirigir-se ao Departamento de Administração e Planeamento Urbanístico, no edifício dos paços do concelho, Largo do Município, em Sesimbra.
+Os interessados deverão apresentar as suas observações, exposições ou sugestões em ofício devidamente identificado, dirigido ao presidente da Câmara Municipal de Sesimbra.
+O Presidente da Câmara, Augusto Manuel Neto Carapinha Pólvora.
