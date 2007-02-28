@@ -1,0 +1,8 @@
+Aviso n.º 3873-A/2007
+Plano Director Municipal
+A Câmara Municipal de Albufeira faz saber que foi deliberado, na sua reunião pública realizada a 24 de Janeiro de 2007, dar início ao período de discussão pública da versão final da Proposta de Alteração do Plano Director Municipal, ao abrigo do n.º 1 do artigo 96.º e da excepção contida na alínea b) do n.º 2 do artigo 95.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, incidente sobre a substituição da função especificada "ECC - Estação Central de Camionagem" sita nas Ferreiras, por "OE - Outros Equipamentos". O período de discussão pública enquadra-se nos termos dos n.os 4, 5, 7, 8, 9 e 10 do artigo 77.º do Decreto-Lei supramencionado e terá início 15 dias úteis após a data da divulgação deste anúncio, decorrendo durante os 44 dias úteis subsequentes.
+Os documentos integrantes desta Proposta de Alteração do Plano Director Municipal estarão patentes nos seguintes locais e horários:
+Junta de Freguesia de Ferreiras - de segunda-feira a sexta-feira, das 9 horas às 15 horas;
+Câmara Municipal de Albufeira (Gabinete de Apoio ao Munícipe) - de segunda-feira a sexta-feira, das 9 horas às 15 horas.
+No decurso do período de discussão pública da Proposta de Alteração do Plano Director Municipal de Albufeira, os interessados poderão apresentar reclamações, observações ou sugestões sobre quaisquer questões do âmbito da referida proposta, por escrito, com o signatário devidamente identificado, em documento datado e endereçado ao presidente da Câmara Municipal de Albufeira, Paços do Concelho, Rua do Município, 8200-863 Albufeira.
+26 de Janeiro de 2007. - O Presidente da Câmara, Desidério Jorge da Silva.
