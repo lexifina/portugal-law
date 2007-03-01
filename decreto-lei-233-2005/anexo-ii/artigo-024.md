@@ -2,4 +2,4 @@
 
 ### Contabilidade
 
-O hospital, E. P. E., adota o sistema contabilístico que lhe for aplicável por lei.
+O hospital E. P. E. segue o Plano Oficial de Contabilidade do Ministério da Saúde, com as adaptações necessárias a estabelecer por despacho conjunto dos Ministros das Finanças e da Saúde.
