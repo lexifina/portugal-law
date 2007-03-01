@@ -1,0 +1,5 @@
+Aviso n.º 36/2007
+Por ordem superior se torna público ter a República da Croácia depositado junto do Secretário-Geral do Conselho da Europa, em 6 de Agosto de 2004, o seu instrumento de ratificação à Convenção Europeia para a Protecção do Património Arqueológico, aberta à assinatura em 6 de Maio de 1969 e revista em 16 de Janeiro de 1992.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 71/97, publicada no Diário da República, 1.ª série-A, n.º 289, de 16 de Dezembro de 1997, e ratificada pelo Decreto do Presidente da República n.º 74/97, publicado no Diário da República, 1.ª série-A, n.º 289, de 16 de Dezembro de 1997, tendo depositado o seu instrumento de ratificação em 5 de Agosto de 1998, conforme o Aviso n.º 279/98, publicado no Diário da República, 1.ª série-A, n.º 281, de 5 de Dezembro de 1998.
+A Convenção entrou em vigor para a República da Croácia em 7 de Fevereiro de 2005.
+Direcção-Geral de Política Externa, 9 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
