@@ -1,0 +1,52 @@
+Portaria n.º 227/2007
+de 5 de Março
+Os ciclos de estudos especiais assumem um papel de enorme relevo enquanto processo suplementar de formação dos médicos em matérias e técnicas individualizadas e específicas, conexas ou afins com a sua área profissional de especialização.
+Na sequência do novo regime do internato médico, aprovado pelo Decreto-Lei n.º 203/2004, de 18 de Agosto, impõe-se proceder à regulamentação dos ciclos de estudos especiais, aproveitando-se este novo enquadramento legal não só para actualizar o anterior regime mas também para instituir medidas inovadoras que permitam, com maior brevidade, suprir a carência de médicos com determinadas diferenciações técnicas.
+Foi ouvida a Ordem dos Médicos.
+Assim:
+Em cumprimento do disposto no n.º 3 do artigo 27.º do Decreto-Lei n.º 203/2004, de 18 de Agosto:
+Manda o Governo, pelo Ministro da Saúde, o seguinte:
+1.º É aprovado o Regulamento dos Ciclos de Estudos Especiais, anexo a esta portaria, da qual faz parte integrante.
+2.º São revogadas as Portarias n.os 1223-A/82, de 28 de Dezembro, e 780/84, de 3 de Outubro.
+Pelo Ministro da Saúde, Carmen Madalena da Costa Gomes e Cunha Pignatelli, Secretária de Estado Adjunta e da Saúde, em 9 de Fevereiro de 2007.
+
+REGULAMENTO DOS CICLOS DE ESTUDOS ESPECIAIS
+Artigo 1.º
+Os ciclos de estudos especiais consistem num processo suplementar de formação em matérias e técnicas individualizadas em áreas específicas de actividade médica não constituídas em áreas profissionais especializadas, tendo em vista o seu aperfeiçoamento ou diferenciação técnica.
+Artigo 2.º
+Os ciclos de estudos especiais destinam-se à preparação dos médicos que possuam o grau de assistente e visam criar e desenvolver o seu treino e conhecimentos em técnicas e matérias conexas ou afins com a sua área profissional de especialização.
+Artigo 3.º
+Os ciclos de estudos especiais têm duração variável, entre 6 e 24 meses, consoante as matérias e técnicas em causa.
+Artigo 4.º
+1 - Os hospitais que tenham em funcionamento sectores específicos de actividade médica conexos ou afins com a área profissional de especialização que os caracteriza podem solicitar ao Ministro da Saúde a criação de ciclos de estudos especiais no âmbito das actividades daqueles sectores.
+2 - Para além das instituições referidas no número anterior, quaisquer outras entidades públicas ou privadas, em associação com aquelas através de protocolo, podem solicitar a criação de ciclos de estudos especiais.
+3 - Os ciclos de estudos especiais são criados por despacho do Ministro da Saúde, mediante parecer da Ordem dos Médicos e da Direcção-Geral da Saúde.
+Artigo 5.º
+1 - O pedido de criação de ciclo de estudos especiais é feito pelas entidades referidas no artigo anterior e deve ser instruído com os seguintes elementos:
+a) Designação do ciclo de estudos especiais;
+b) Duração;
+c) Regime e condições de trabalho;
+d) Programa detalhado, com a indicação dos temas e técnicas a tratar e da metodologia do treino prático a adoptar;
+e) Entidades que compõem o corpo docente respectivo e suas qualificações profissionais;
+f) Indicação do local e meios técnicos disponíveis para o ensino;
+g) Condições a que devem obedecer os candidatos e número de admissões;
+h) Critérios de prioridades para a selecção dos candidatos e critérios de incompatibilidades com o curso;
+i) Constituição do júri de selecção, que deve ser composto, pelo menos, por três elementos do corpo docente, nomeados pelo órgão de gestão;
+j) Tipo de avaliação de conhecimentos.
+2 - O pedido referido no número anterior é enviado à Secretaria-Geral do Ministério da Saúde, que o remete à Ordem dos Médicos e à Direcção-Geral da Saúde para sobre ele emitirem parecer relativo ao programa de estudos, metodologia, idoneidade do serviço e do respectivo corpo docente e o seu interesse.
+Artigo 6.º
+Obtido parecer favorável por parte da Ordem dos Médicos e da Direcção-Geral da Saúde, a Secretaria-Geral do Ministério da Saúde submete-o a despacho do Ministro da Saúde, o qual será publicado no Diário da República.
+Artigo 7.º
+Podem candidatar-se ao ciclo de estudos especiais os médicos com o grau de assistente ou equivalente em áreas profissionais de especialização conexas ou afins mencionadas no despacho a que se refere o artigo anterior.
+Artigo 8.º
+A frequência de um ciclo de estudos especiais por candidatos que já possuam vínculo a estabelecimentos ou serviços de saúde é feita em comissão gratuita de serviço.
+Artigo 9.º
+1 - A avaliação de conhecimentos e o aproveitamento final obedecem aos critérios fixados no aviso de abertura.
+2 - Não é concedido o aproveitamento ao médico que dê um número de faltas superior a 10% do total de dias úteis de duração do ciclo de estudos especiais.
+Artigo 10.º
+A aprovação final no ciclo de estudos especiais é comprovada por um certificado emitido pela instituição em cujo âmbito foi constituído, homologado pelo secretário-geral do Ministério da Saúde, conforme o modelo anexo ao presente Regulamento, do qual constam a designação do ciclo, a sua duração, o despacho que o criou e a classificação final.
+Artigo 11.º
+Aos médicos, nacionais ou estrangeiros, que exercem funções em instituições com departamentos, serviços, sectores ou unidades vocacionados para a área profissional formalmente constituída em ciclo de estudos especiais, nos termos do artigo 4.º, pode ser concedida a correspondente equiparação por despacho do secretário-geral do Ministério da Saúde, após avaliação curricular efectuada por três elementos do respectivo corpo docente, mediante parecer técnico da Ordem dos Médicos.
+Modelo
+(a que se refere o artigo 10.º)
+(ver documento original)
