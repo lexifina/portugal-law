@@ -1,0 +1,12 @@
+Aviso n.º 47/2007
+Por ordem superior se torna público ter a República da Croácia depositado junto do Secretário-Geral do Conselho da Europa, em 21 de Junho de 2005, o seu instrumento de ratificação da Convenção para a Protecção das Pessoas relativamente ao Tratamento Automatizado de Dados de Carácter Pessoal, aberto para assinatura em Estrasburgo em 28 de Janeiro de 1981, com as seguintes declarações:
+«In accordance with article 3, paragraph 2, sub-paragraph a), of the Convention, the Republic of Croatia declares that the Convention will not apply to the automated personal data files kept by individuals exclusively for personal use or for household purposes.
+In accordance with article 3, paragraph 2, sub-paragraph c), of the Convention, the Republic of Croatia declares that the Convention will also apply to personal data files which are not processed automatically.
+In accordance with article 13, paragraph 2, sub-paragraph a), of the Convention, the Republic of Croatia declares that the competent authority is the Personal Data Protection Agency.»
+Tradução das declarações
+Em conformidade com a alínea a) do n.º 2 do artigo 3.º da Convenção, a República da Croácia declara que a Convenção não será aplicável aos ficheiros automatizados de dados de carácter pessoal conservados por pessoas para fins exclusivamente pessoais ou familiares.
+Em conformidade com a alínea c) do n.º 2 do artigo 3.º da Convenção, a República da Croácia declara que a Convenção será igualmente aplicável aos ficheiros de dados de carácter pessoal que não sejam objecto de processamento automatizado.
+Em conformidade com a alínea a) do n.º 2 do artigo 13.º da Convenção, a República da Croácia declara que a autoridade competente é a Agência de Protecção de Dados de Carácter Pessoal.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 23/93, publicada no Diário da República, 1.ª série-A, n.º 159, de 9 de Julho de 1993, e ratificada pelo Decreto do Presidente da República n.º 21/93, publicado no Diário da República, 1.ª série-A, n.º 159, de 9 de Julho de 1993, tendo depositado o seu instrumento de ratificação em 2 de Setembro de 1993, conforme o Aviso n.º 227/93, publicado no Diário da República, 1.ª série-A, n.º 259, de 5 de Novembro de 1993.
+A Convenção entrou em vigor para a República da Croácia em 1 de Outubro de 2005.
+Direcção-Geral de Política Externa, 9 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
