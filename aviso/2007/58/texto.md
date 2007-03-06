@@ -1,0 +1,5 @@
+Aviso n.º 58/2007
+Por ordem superior se torna público ter a Antiga República Jugoslava da Macedónia depositado junto do Secretário-Geral do Conselho da Europa, em 31 de Março de 2005, o seu instrumento de ratificação do Protocolo de Alteração à Carta Social Europeia, aberto à assinatura em Turim, em 21 de Outubro de 1991.
+Portugal é Parte deste Protocolo, aprovado para ratificação pela Resolução da Assembleia da República n.º 37/92, publicada no Diário da República, 1.ª série-A, n.º 300, de 30 de Dezembro de 1992, e ratificado pelo Decreto do Presidente da República n.º 61/92, publicado no Diário da República, 1.ª série-A, n.º 300, de 30 de Dezembro de 1992, tendo depositado o seu instrumento de ratificação em 8 de Março de 1993, conforme o Aviso n.º 100/93, publicado no Diário da República, 1.ª série-A, n.º 109, de 11 de Maio de 1993.
+O Protocolo entrou em vigor para a Antiga República Jugoslava da Macedónia em 30 de Abril de 2005.
+Direcção-Geral de Política Externa, 12 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
