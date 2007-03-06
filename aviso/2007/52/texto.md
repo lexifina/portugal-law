@@ -1,0 +1,5 @@
+Aviso n.º 52/2007
+Por ordem superior se torna público ter a República da Albânia depositado junto do Secretário-Geral do Conselho da Europa, em 14 de Fevereiro de 2005, o seu instrumento de ratificação do Protocolo Adicional à Convenção para a Protecção das Pessoas relativamente ao Tratamento Automatizado de Dados de Carácter Pessoal, respeitante às autoridades de controlo e aos fluxos transfronteiriços de dados, aberto para assinatura em Estrasburgo em 8 de Novembro de 2001.
+Portugal é Parte deste Protocolo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 45/2006, publicada no Diário da República, 1.ª série-A, n.º 117, de 20 de Junho de 2006, e ratificado pelo Decreto do Presidente da República n.º 56/2006, publicado no Diário da República, 1.ª série-A, n.º 117, de 20 de Junho de 2006.
+O Protocolo entrou em vigor para a República da Albânia em 1 de Junho de 2005.
+Direcção-Geral de Política Externa, 9 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
