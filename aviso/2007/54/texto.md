@@ -1,0 +1,8 @@
+Aviso n.º 54/2007
+Por ordem superior se torna público ter a Antiga República Jugoslava da Macedónia depositado junto do Secretário-Geral do Conselho da Europa, em 31 de Março de 2005, o seu instrumento de ratificação da Carta Social Europeia, aberta à assinatura em Turim em 18 de Outubro de 1961, tendo formulado uma declaração:
+«In accordance with article 20, paragraph 2, of the Charter, the Republic of Macedonia declares that it considers itself bound by the following articles of part II of the Charter: articles 1, 2, 5, 6, 7 (paragraphs 1, 2, 3, 4, 6, 7, 8, 9 and 10), 8, 11, 12, 13, 15 and 17.»
+Tradução da declaração
+Em conformidade com o n.º 2 do artigo 20.º da Carta, a República da Macedónia declara que se considera vinculada pelos seguintes artigos da parte II da Carta: artigos 1.º, 2.º, 5.º, 6.º, 7.º (n.os 1, 2, 3, 4, 6, 7, 8, 9 e 10), 8.º, 11.º, 12.º, 13.º, 15.º e 17.º
+Portugal é Parte desta Carta, aprovada para ratificação pela Resolução da Assembleia da República n.º 21/91, publicada no Diário da República, 1.ª série-A, n.º 179, de 6 de Agosto de 1991, e ratificada pelo Decreto do Presidente da República n.º 38/91, publicado no Diário da República, 1.ª série-A, n.º 179, de 6 de Agosto de 1991, tendo depositado o seu instrumento de ratificação em 30 de Setembro de 1991, conforme o Aviso n.º 151/91, publicado no Diário da República, 1.ª série-A, n.º 241, de 19 de Outubro de 1991.
+A Carta entrou em vigor para a Antiga República Jugoslava da Macedónia em 30 de Abril de 2005.
+Direcção-Geral de Política Externa, 12 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
