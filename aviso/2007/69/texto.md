@@ -1,0 +1,5 @@
+Aviso n.º 69/2007
+Por ordem superior se torna público que o Grão-Ducado do Luxemburgo depositou, junto do Secretário-Geral do Conselho da Europa, em 13 de Julho de 2005, o seu instrumento de ratificação à Convenção Penal sobre a Corrupção, aberta à assinatura em Estrasburgo em 27 de Janeiro de 1999.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 68/2001, publicada no Diário da República, 1.ª série-A, n.º 249, de 26 de Outubro de 2001, e ratificada pelo Decreto do Presidente da República n.º 56/2001, publicado no Diário da República, 1.ª série-A, n.º 249, de 26 de Outubro de 2001, tendo depositado o seu instrumento de ratificação em 7 de Maio de 2002, conforme o Aviso n.º 60/2002, publicado no Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 2002.
+A Convenção entrou em vigor para o Grão-Ducado do Luxemburgo em 1 de Novembro de 2005.
+Direcção-Geral de Política Externa, 12 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
