@@ -1,0 +1,7 @@
+Aviso n.º 78/2007
+Por ordem superior se torna público ter a República Portuguesa depositado junto do Secretário-Geral do Conselho da Europa, em 16 de Janeiro de 2007, o seu instrumento de ratificação ao Segundo Protocolo Adicional à Convenção de Auxílio Judiciário Mútuo em Matéria Penal, aberto para assinatura em Estrasburgo em 8 de Novembro de 2001, tendo declarado que:
+«Em conformidade com o n.º 4 do artigo 17.º do Segundo Protocolo Adicional, a República Portuguesa declara que a autoridade designada para efeitos dos parágrafos 1 e 2 deste artigo é a Procuradoria-Geral da República.
+Em conformidade com os n.os 4 dos artigos 18.º e 19.º do Segundo Protocolo Adicional, a República Portuguesa declara que a autoridade designada para efeitos dos n.os 2 dos artigos 18.º e 19.º é a Procuradoria-Geral da República.»
+Este Protocolo foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 18/2006, publicada no Diário da República, 1.ª série-A, n.º 49, de 9 de Março de 2006, e ratificado pelo Decreto do Presidente da República n.º 17/2006, publicado no Diário da República, 1.ª série-A, n.º 49, de 9 de Março de 2006, tendo depositado o seu instrumento de ratificação em 16 de Janeiro de 2007.
+O Protocolo entrará em vigor para a República Portuguesa em 1 de Maio de 2007.
+Direcção-Geral de Política Externa, 13 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
