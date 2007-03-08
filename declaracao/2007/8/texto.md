@@ -1,0 +1,3 @@
+Declaração n.º 8/2007
+Para os devidos efeitos, declara-se que se considera caduco o processo relativo à apreciação parlamentar n.º 14/X ao Decreto-Lei n.º 6/2006, de 3 de Janeiro, que prorroga até 30 de Junho de 2006 a majoração de 25% prevista no n.º 2 do artigo 6.º do Decreto-Lei n.º 270/2002, de 2 de Dezembro, apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que foi retirada a única proposta existente em sede de Comissão e que o Plenário foi informado do facto.
+Assembleia da República, 7 de Fevereiro de 2007. - A Deputada Secretária da Mesa da Assembleia da República, Celeste Correia.
