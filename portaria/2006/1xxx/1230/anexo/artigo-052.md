@@ -6,4 +6,6 @@
 
 2 - As entidades abrangidas pelo disposto no número anterior só podem beneficiar do apoio aos programas previstos neste Regulamento uma vez resolvidas definitivamente todas as questões pendentes resultantes de anteriores apoios.
 
-3 - Excepcionalmente, para o ano de 2007, as candidaturas aos programas de apoio financeiro previstos na presente portaria podem ser apresentadas até 20 de Fevereiro, sendo as transferências referentes às primeiras tranches efectuadas até 30 de Junho.
+3 - Excepcionalmente, para o ano de 2007, as candidaturas aos programas de apoio financeiro previstos na presente portaria podem ser apresentadas até 6 de Maio, sendo as transferências referentes às primeiras tranches, na modalidade de apoio anual, efectuadas no período compreendido entre 15 de Maio e 31 de Julho.
+
+4 - No ano de 2007 são elegíveis as acções com início desde 1 de Janeiro de 2007.
