@@ -1,0 +1,11 @@
+Portaria n.º 258/2007
+de 12 de Março
+A Portaria n.º 352/2004, de 1 de Abril, foi publicada no sentido de salvaguardar as áreas não atingidas pelos incêndios de 2003 de uma pressão cinegética excessiva e descontrolada. Com esta portaria interditou-se o exercício da caça em terrenos cinegéticos não ordenados, possibilitando, no entanto, o ordenamento cinegético na área por ela abrangida. Decorridos dois anos sobre a publicação da mesma assiste-se ao quase total ordenamento da área, restando ainda, contudo, alguns terrenos por ordenar. Deste modo, é fundamental, para estes terrenos, a manutenção das medidas de conservação dos recursos naturais em presença, pelo que é renovada a interdição a que diz respeito a Portaria n.º 352/2004, de 1 de Abril.
+Assim:
+Ao abrigo do disposto no n.º 2 do artigo 39.º da Lei n.º 173/99, de 21 de Setembro, e na alínea b) do artigo 119.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro:
+Manda o Governo, pelo Secretário de Estado do Ambiente, ouvido o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Dentro dos limites do Parque Natural da Serra da Estrela, previstos no artigo 1.º do Decreto-Lei n.º 167/79, de 4 de Junho, é interdito o exercício da caça em todos os terrenos cinegéticos não ordenados.
+2.º Esta interdição não impede que estes terrenos possam, durante a vigência da presente portaria, vir a ser sujeitos a ordenamento cinegético, caso venham a ser integrados em zonas de caça.
+3.º O disposto no n.º 1.º não prejudica a possibilidade de, em casos especiais devidamente fundamentados, as entidades competentes, nos termos do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, autorizarem, dirigirem ou levarem a efeito acções de correcção visando o controlo populacional de determinadas espécies de fauna cinegética.
+4.º As infracções ao disposto na presente portaria constituem infracções de caça, nos termos do capítulo VI da Lei n.º 173/99, de 21 de Setembro, e do capítulo XI do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a redacção dada pelo Decreto-Lei n.º 201/2005, de 24 de Novembro.
+O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 1 de Fevereiro de 2007.
