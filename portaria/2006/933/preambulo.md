@@ -14,7 +14,7 @@ Manda o Governo, pelo Ministro de Estado e da Administração Interna, ao abrigo
 
 Objecto
 
-É aprovado o Regulamento de Segurança das Instalações de Fabrico, Reparação, Comércio, Cedência, Detenção, Transporte, Guarda de Armas e Munições, adiante designado por Regulamento, publicado no Anexo I, à presente portaria, dela fazendo parte integrante.
+É aprovado o Regulamento de Segurança das Instalações de Fabrico, Reparação, Comércio e Guarda de Armas, adiante designado por Regulamento, e que vai publicado em anexo à presente portaria, dela fazendo parte integrante.
 
 2.º
 
@@ -26,19 +26,11 @@ a) Nas instalações onde decorrem os processos de fabrico, reparação e comér
 
 b) Na guarda de armas e munições por parte das entidades credenciadas para ministrarem cursos de formação técnica e cívica, federações de tiro desportivo e suas associações federadas, titulares de licença de coleccionador de armas de fogo ou de munições e quaisquer outras entidades legalmente autorizadas a deterem armas de fogo e munições, tendo em vista a sua protecção contra intrusão, furto ou roubo.
 
-c) No armazenamento, importação, transferência, detenção e cedência temporária de armas e acessórios de todas as classes, para efeitos cénicos e cinematográficos, com exceção dos equipamentos, meios militares e material de guerra;
-
-d) Nas instalações destinadas à venda e leilão de armas para coleção.
-
 3.º
 
 Obtenção de alvará
 
-1- A obtenção de alvará para o exercício da actividade de armeiro depende da prévia verificação das condições de segurança das instalações onde decorre, nos termos do Regulamento anexo.
-
-2 - A alteração à classe das armas mencionada no alvará depende da realização prévia de averbamento, o qual respeita, com as devidas adaptações, as regras previstas para a sua emissão.
-
-3 - O alvará de armeiro indica o número máximo de armas e munições suscetíveis de serem detidas em armazém.
+A obtenção de alvará para o exercício da actividade de armeiro depende da prévia verificação das condições de segurança das instalações onde decorre, nos termos do Regulamento anexo.
 
 4.º
 
@@ -56,7 +48,7 @@ a) Exerça a actividade de estudo e desenvolvimento de protótipos de armas de f
 
 b) Fabrique armas da classe D, até ao número de 30 por modelo/ano.
 
-2 - Compete à Direção Nacional da Polícia de Segurança Pública, a requerimento do interessado, proceder à apreciação das condições de segurança dos estabelecimentos referidos no número anterior, para cujo efeito devem ser ponderadas a classe das armas a que se destina e o número de armas em condições de disparar, suscetíveis de serem guardadas no seu interior.
+2 - Compete à Direcção Nacional da Polícia de Segurança Pública (DN/PSP), a requerimento do interessado, proceder à apreciação casuística das condições de segurança quer dos estabelecimentos referidos no número anterior quer da organização de qualquer manifestação teatral, cultural ou outra onde sejam utilizadas ou disparadas armas de fogo, bem como mostras, feiras, leilões ou outro tipo de iniciativas públicas similares onde estejam expostas armas de fogo, para cujo efeito devem ser ponderados a classe das armas em causa e o número de armas em condições de disparar susceptíveis de serem transportadas ou guardadas.
 
 6.º
 
