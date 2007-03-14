@@ -1,0 +1,5 @@
+Aviso n.º 91/2007
+Por ordem superior se torna público ter a República da Moldova depositado junto do Secretário-Geral das Nações Unidas, em 3 de Setembro de 1998, os seus instrumentos de adesão ao Acordo para a Importação de Objectos de Carácter Educativo, Científico ou Cultural, concluído em Nova Iorque em 22 de Novembro de 1950, e ao respectivo Protocolo, concluído em 26 de Novembro de 1976.
+Portugal é Parte deste Acordo e do respectivo Protocolo, aprovados, para adesão, pela Resolução da Assembleia da República n.º 7/84, publicada no Diário da República, 1.ª série, n.º 51, de 29 de Fevereiro de 1984, tendo depositado os seus instrumentos de adesão em 11 de Junho de 1984, conforme aviso publicado no suplemento ao Diário da República, 1.ª série, n.º 184, de 9 de Agosto de 1984.
+O Acordo entrou em vigor para a República da Moldova em 3 de Setembro de 1998 e o respectivo Protocolo entrou em vigor em 3 de Março de 1999.
+Direcção-Geral de Política Externa, 14 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
