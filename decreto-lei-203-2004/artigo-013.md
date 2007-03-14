@@ -6,7 +6,7 @@
 
 2 - Os contratos administrativos de provimento são celebrados com os estabelecimentos e serviços de colocação dos internos, independentemente da sua natureza jurídica, com excepção do disposto no número seguinte.
 
-3 - Os internos que sejam colocados em lugares de estabelecimentos de saúde do sector social, privados, estabelecimentos de saúde públicos com contratos de gestão, em regime de convenção, ou em hospitais sociedades anónimas de capitais exclusivamente públicos, são contratados pela ARS da área do estabelecimento de colocação, nos termos definidos no respectivo acordo ou convenção.
+3 - Os internos colocados em estabelecimentos de saúde do sector social, privados, estabelecimentos de saúde públicos com natureza empresarial, com contratos de gestão, em regime de convenção, ou em hospitais sociedades anónimas de capitais exclusivamente públicos, são contratados pela ARS da área do estabelecimento de colocação e pelos órgãos competentes das Regiões Autónomas, nos termos referidos no respectivo acordo, convenção ou contrato-programa.
 
 4 - A colocação a que se refere o número anterior rege-se pelos seguintes princípios:
 

@@ -10,6 +10,8 @@ b) As comissões regionais do internato médico, adiante designadas por comissõ
 
 c) As direcções do internato médico, adiante designadas por direcções de internato.
 
+d) As coordenações do internato médico, adiante designadas por coordenações.
+
 2 - Os órgãos do internato médico exercem funções de estudo e de consulta nos domínios da concepção, organização e planeamento do internato médico, bem como de orientação, coordenação e avaliação do seu desenvolvimento e funcionamento.
 
 3 - As comissões regionais exercem as suas funções nas zonas Norte, Centro e Sul e nas Regiões Autónomas dos Açores e da Madeira.
