@@ -1,0 +1,5 @@
+Aviso n.º 92/2007
+Por ordem superior se torna público que a República de Nauru depositou junto do Conselho Federal Suíço, em 27 de Junho de 2006, o seu instrumento de adesão às quatro Convenções de Genebra, de 12 de Agosto de 1949, bem como aos Protocolos Adicionais I e II, de 8 de Junho de 1977.
+Portugal é Parte destas Convenções e Protocolos, aprovados, para ratificação, pela Resolução da Assembleia da República n.º 10/92, publicada no Diário da República, 1.ª série-A, n.º 77, de 1 de Abril de 1992, e ratificados pelo Decreto do Presidente da República n.º 10/92, publicado no Diário da República, 1.ª série-A, n.º 77, de 1 de Abril de 1992, tendo depositado o seu instrumento de ratificação em 27 de Maio de 1992, conforme o Aviso n.º 100/92, publicado no Diário da República, 1.ª série, n.º 163, de 17 de Julho de 1992.
+As Convenções e Protocolos entraram em vigor para a República de Nauru em 27 de Dezembro de 2006.
+Direcção-Geral de Política Externa, 15 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
