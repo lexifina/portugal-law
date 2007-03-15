@@ -1,0 +1,122 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=NcsHHdaa6jvttRWoxPJ73b3%2f2%2ftQZdxqvgcwR9HhU6U72YBnemmk1zfDnkyJC2khVisd94odYdzMlZ0%2f%2fX4wPsJ79iFJjtn07b3tBvqgQzvKu%2bXIs%2bW%2fX8sXyHLXgUpmADPU0OwIHExaxkaIGSH27FrUlMES%2fqZOhmEHSO3a6tOd8bMJIApMe8Js7ZDhWUXISToTI6Gt9UghhDLfWD%2bHtBCeQ2qHGcYyClLE8utG3Stl1XFXCi888QLjScx4CE8zDeHjIbAAJuoVAsMVPsZ7keNRSzw3mFkm%2f1dLA2Gj4Wi2z4QDYrHPqtV%2f0OYUVaYz3wUZej3UCuBc0xVIyPkQ5n1u3x%2bvYwtMviSRulY3%2bLc%3d&fich=AtividadesX_json.txt&Inline=true",
+  "ficheiro_sha256": "ebfe74c166306d899b60b6dc4babfc7d5533752981b0ad8bca289da158595cb6",
+  "legislatura": "X",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2007-03-15",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição de cinco representantes da Assembleia da República no Conselho Nacional de Procriação Medicamente Assistida",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2007-03-15",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": "Efectivo",
+        "nome": "Maria Leonor de Sá Barreiros da Silva Parreira"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Salvador Massano Cardoso"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Sérgio Manuel Madeira Jorge Castedo"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Carlos Calhaz Jorge"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Eurico José Marques dos Reis"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Domingos Manuel Pinto Henrique"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Carlos Manuel de Andrade Miranda"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "X",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Conselho Nacional de Procriação Medicamente Assistida",
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": [
+      "14653",
+      "14654"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2007-03-15",
+        "descricao": null,
+        "detalhe": null,
+        "id": "49737",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "393041",
+            "obs": null,
+            "pag": [
+              "8-8",
+              "37-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2007-03-16",
+            "pubLeg": "X",
+            "pubNr": "60",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/060/2007-03-16/8?pgs=8,37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "393042",
+            "obs": "Anúncio",
+            "pag": [
+              "6-6"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2007-03-17",
+            "pubLeg": "X",
+            "pubNr": "61",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/061/2007-03-17/6?pgs=6&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "60",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
