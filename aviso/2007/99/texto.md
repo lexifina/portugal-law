@@ -1,0 +1,3 @@
+Aviso n.º 99/2007
+Por ter saído com inexactidão o Aviso n.º 1/2007, no Diário da República, 1.ª série, n.º 7, de 10 de Janeiro de 2007, rectifica-se que onde se lê «Por parte de Portugal, o Acordo foi aprovado pelo Decreto do Presidente da República n.º 29/2003, publicado no Diário da República, 1.ª série-A, n.º 104, de 6 de Maio de 2003.» deve ler-se «Por parte de Portugal, o Acordo foi aprovado pela Resolução da Assembleia da República n.º 38/2003 e ratificado pelo Decreto do Presidente da República n.º 29/2003, publicados no Diário da República, 1.ª série-A, n.º 104, de 6 de Maio de 2003.».
+Direcção-Geral dos Assuntos Técnicos e Económicos, 22 de Fevereiro de 2007. - O Subdirector-Geral, Ricardo Pracana.
