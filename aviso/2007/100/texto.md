@@ -1,0 +1,3 @@
+Aviso n.º 100/2007
+Por ter saído com inexactidão o Aviso n.º 2/2007, no Diário da República, 1.ª série, n.º 7, de 10 de Janeiro de 2007, rectifica-se que onde se lê «Por parte de Portugal, o Acordo foi aprovado pelo Decreto do Presidente da República n.º 12/2005, publicado no Diário da República, 1.ª série-A, n.º 37, de 21 de Fevereiro de 2006.» deve ler-se «Por parte de Portugal, o Acordo foi aprovado pela Resolução da Assembleia da República n.º 13/2006 e ratificado pelo Decreto do Presidente da República n.º 12/2006, publicados no Diário da República, 1.ª série-A, n.º 37, de 21 de Fevereiro de 2006.».
+Direcção-Geral dos Assuntos Técnicos e Económicos, 22 de Fevereiro de 2007. - O Subdirector-Geral, Ricardo Pracana.
