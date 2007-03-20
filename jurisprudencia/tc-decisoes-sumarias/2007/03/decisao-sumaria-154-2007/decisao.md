@@ -1,0 +1,71 @@
+# Decisão sumária do Tribunal Constitucional n.º 154/2007, de 2007-03-20
+
+**Decisão sumária:** 154/07
+
+**Processo:** 322/07
+
+**Formação:** 1ª
+
+**Data:** 20.03.07
+
+**Relator:** Cons. Pamplona Oliveira
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/decsumarias/20070154.html
+
+## Texto integral
+
+DECISÃO SUMÁRIA N.º 154/07
+
+Processo n.º 322/07
+
+1ª Secção
+
+Relator: Conselheiro Pamplona de Oliveira
+
+A. vem interpor, ao abrigo da alínea b) do n.º 1 do artigo 70º da Lei 28/82, de 15 de Novembro (LTC), recurso do acórdão da Secção de Contencioso Tributário do Tribunal Central Administrativo Norte, proferido em 4 de Janeiro de 2007, pretendendo ver apreciada a constitucionalidade da alínea h) do n.º 3 do artigo 2º, do Código do Imposto sobre o Rendimento das Pessoas Singulares (aprovado pelo Decreto-Lei 442-A/88, de 30 de Novembro).
+
+Para tanto, invoca no requerimento de interposição de recurso:
+
+“(…)
+
+1- Num dos mais recentes acórdãos do Tribunal Constitucional sobre a matéria em apreciação, este considerou que, relativamente à violação do princípio da justiça originada pelo facto dos montantes referentes às gratificações/gorjetas não serem legalmente considerados como rendimentos de trabalho para efeitos da Segurança Social, tal situação “não implicaria necessariamente a imposição da sua não tributação, podendo antes reclamar a exigência da sua relevância para efeitos indemnizatórios, previdenciais ou outros” (AC do TC n.º 548/05 de 06/10, pág. 30, e pág. 31. Porém,
+
+2- Tal “exigência da sua relevância para efeitos indemnizatórios, previdenciais ou outros” é impossível de obter, dada a recente inversão/clarificação da posição do Governo relativamente à matéria em apreciação (Doc. 1, de 29/09/2005), mantendo-se assim a injustiça da pretensão de tributação das referidas gorjetas.
+
+Quer dizer,
+
+3- A recente inversão/clarificação da posição do Governo nesta matéria, ao considerar que as gratificações/gorjetas atribuídas pelos clientes aos trabalhadores das salas de jogos dos casinos “não são passíveis de incidência contributiva para a Segurança Social” (Doc. 1, de 29/09/2005), configura a violação do princípio da unidade e coerência da Constituição, atendendo a que a tributação em sede de IRS sobre aquelas gratificações/gorjetas “visa a diminuição das desigualdades…tendo em conta as necessidades…do agregado familiar” (art. 104º/1 da CRP), designadamente ao nível da Segurança Social, cujo sistema deve proteger “os cidadãos na doença, velhice, invalidez, viuvez, e orfandade, bem como no desemprego…” (art. 63º/1 e 3 da CRP), e ainda ao nível do direito de protecção da família pela sociedade e pelo Estado (art. 67º/1 e 2 da Constituição). Isto é,
+
+4- Ao pretender-se que as referidas gratificações/gorjetas atribuídas pelos clientes dos casinos aos respectivos profissionais das salas de jogos constituem rendimentos de trabalho por conta de outrem, e como tais passíveis de tributação (art. 2º/3-h) do CIRS), então, por razões de coerência do sistema jurídico-constitucional todos os rendimentos do trabalho auferidos por aqueles profissionais das salas de jogos deverão contribuir “para o cálculo das pensões de velhice e invalidez” (art. 63º/4 da CRP), numa dúplice perspectiva de observância e respeito pelo direito à Segurança Social e pelo direito à protecção do agregado familiar (art. 63º e 67º da CRP; e artigos 27º e 28º da Lei 32/2002, de 20/12), o que não ocorre com aquelas gratificações/gorjetas consideradas rendimentos de trabalho por conta de outrem, dada a recente inversão/clarificação da posição do Governo relativamente à matéria em apreciação, como se supra se referiu. Por isso,
+
+5- Tal posição de inversão/clarificação por parte do Governo relativamente à matéria em apreciação, reafirma-se, constitui uma violação do princípio da unidade e coerência do sistema jurídico-constitucional de que importa retirar as consequentes ilações. Deste modo, é nossa convicção que
+
+6- A já referida alínea h) do nº 3 do artº 2º do CIRS deverá declarar-se inconstitucional, por infringir o princípio da unidade e coerência do sistema jurídico-constitucional vigente (art. 104º/1; art. 63º/1, 3 e 4; e art. 67º/1 e 2, todos da Constituição; art. 27º e 28º da Lei 32/2002, de 20/12; art. 3º/3; e art. 277º/1, ambos da CRP). Ademais,
+
+7- No decurso tramitacional do presente processo judicial a recorrente tem defendido que a alínea h) do n.º 3 do art. 2º do CIRS padece de inconstitucionalidade. Na verdade, e apesar da prolação do acórdão n.º 497/97 do Tribunal Constitucional (TC) sobre a matéria,
+
+8- Após a prolação de tal acórdão do TC ocorreram factos novos que reforçam o carácter inconstitucional da norma em causa, designadamente:
+
+a) a publicação do art. 29º/9 da Lei 87-B/98, de 31-12, de conteúdo objectivamente discriminatório para com os profissionais de banca dos casinos, comparativamente com os profissionais de inúmeras outras profissões – só os profissionais de banca dos casinos são destinatários exclusivos da norma tributadora em causa, apesar da sua aparente generalidade e abstracção inicial – que, igualmente, auferem gratificações da mesma natureza sem que esteja em causa a respectiva tributação;
+
+b) o despacho de SE o SEAF Carlos Santos sobre a matéria, junto aos autos de Impugnação, que quando conjugado com aquela norma legal (art. 29º/9 da Lei 87-B/98) reforça o carácter discriminatório que se visava atingir, pois que até aí a alínea h) do n.º 3 do art. 2º do CIRS era entendida por grande parte da jurisprudência como norma de carácter geral e abstracto, considerando-se então como “não estando demonstrado que, na prática, apenas estes (profissionais das salas de jogos) sejam tributados com base nesta norma” (Ac. do STA de 22/03/2000 www.dgsi.pt).
+
+c) A prolação do novo acórdão do Tribunal de Justiça das Comunidades Europeias (TJCE), no qual se voltou a considerar que “as gratificações livres, ou seja, as quantias que o cliente espontânea e livremente entrega a este ou àquele empregado…não têm de ser incluídas na matéria colectável dado que podem ser equiparadas ao óbolo distribuído por passantes a um músico que esteja a tocar realejo na via pública, …(pois trata-se) de pagamentos meramente graciosos e aleatórios” (cfr. acórdão respeitante ao processo C-404/99 de 23/11/2000 - portal do MJ; www.dgsi.pt Jurisprudência da UE, fls. 2 de 7 fls., Colectª da Jurispª 2001, pág. I-02 667).
+
+9- A norma em causa (alínea h) do n.º 3 do art. 2º do CIRS) viola ainda outros princípios constitucionais: da igualdade (art. 13º da CRP); da justiça (art. 106º (ora 104º) da CRP); e sofre de inconstitucionalidade orgânica (artigos 201º/b), 168º/l-i), e 106º/2 – ora artigos 198º/1-b), 165º/l-i), e 103º/2 da CRP), e inconstitucionalidade material (art. 106º/1 (ora 104º/1) da CRP). Finalmente, diga-se que
+
+10- A questão da inconstitucionalidade foi suscitada na p.i. da Impugnação Judicial e igualmente nas Alegações de recurso.”
+
+A questão de constitucionalidade da aludida alínea h) do n.º 3 do artigo 2º, do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei 442-A/88, de 30 de Novembro, foi já apreciada por este Tribunal em vários Acórdãos (cfr. Acórdãos n.ºs 497/97, in DR, II série, de 10 de Outubro de 1997, 237/2000, 481/2004, disponíveis em http://www.tribunalconstitucional.pt/tc/acordaos/, e 504/2005, in DR, II série, de 18 de Novembro de 2005).
+
+Com efeito, no primeiro daqueles acórdãos o Tribunal concluiu no sentido da não inconstitucionalidade (material e orgânica) da norma, juízo que foi reiterado no Acórdão n.º 237/2000. Nos acórdãos nºs 481/2004 e 504/2005 foi apreciada a mesma questão perante “novos argumentos”, mantendo-se o julgamento de não desconformidade com o texto constitucional. Esta orientação tem sido reiterada em inúmeras decisões sumárias (v.g. n.ºs 375/2005, 394/2005, 400/2005, 401/2005, 19/2006, 31/2006, 71/2006, 108/2006, 120/2006, 260/2006).
+
+Assim, sendo a jurisprudência citada inteiramente transponível para o presente caso e remetendo para os seus fundamentos, há que reiterar o juízo de não inconstitucionalidade da norma constante da alínea h) do n.º 3 do artigo 2º do Código do Imposto sobre o Rendimento das Pessoas Singulares.
+
+Ao abrigo do n.º 1 do artigo 78º-A da LTC, decide-se negar provimento ao recurso, confirmando o acórdão recorrido no que respeita à questão de inconstitucionalidade suscitada.
+
+Custas pelo recorrente, fixando-se a taxa de justiça em 6 UC.
+
+Lisboa, 20 de Março de 2007
+
+Carlos Pamplona de Oliveira
