@@ -1,0 +1,8 @@
+Aviso n.º 5433-AQ/2007
+Plano de Pormenor das Ferrarias
+Participação pública
+José Manuel Santinha Lopes, presidente da Câmara Municipal de Mourão, torna público que esta Câmara Municipal, na sua reunião ordinária de 5 de Fevereiro de 2007, deliberou o seguinte:
+1 - Elaborar um Plano de Pormenor para a Herdade das Ferrarias, situada na área com vocação turística referida na alínea b) do n.º 2 do artigo 34.º do Regulamento do Plano de Ordenamento das Albufeiras do Alqueva e Pedrógão, aprovado por Resolução do Conselho de Ministros n.º 94/2006, de 6 de Julho de 2006, publicada no Diário da República, 1.ª série, n.º 150, de 4 de Agosto de 2006, na modalidade simplificada, nos termos do n.º 1 do artigo 74.º e alínea a) do n.º 2 do artigo 91.º do Decreto-Lei n.º 380/99, de 22 de Setembro, no prazo de sete meses a contar da data da deliberação acima mencionada, não incluindo os prazos intermédios de apreciação por parte das entidades.
+2 - Submeter a deliberação a que se refere o número anterior à apreciação pública, pelo período de 30 dias úteis, contados após a data da publicação do presente aviso na 2.ª série do Diário República, nos termos do n.º 10 do artigo 34.º do Regulamento acima citado.
+A formulação de sugestões, bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração deverão ser dirigidas, por escrito, à Câmara Municipal de Mourão, a entregar no edifício dos paços do município, sito na Praça da República, 20, 7240-233 Mourão, ou a enviar, por carta registada com aviso de recepção, para aquela morada.
+7 de Fevereiro de 2007. - O Presidente da Câmara, José Manuel Santinha Lopes.
