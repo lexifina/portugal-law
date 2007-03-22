@@ -1,0 +1,9 @@
+Aviso n.º 5433-AF/2007
+Discussão pública do Plano de Pormenor da Conceição de Faro
+Dr. José Apolinário Nunes Portada, presidente da Câmara Municipal de Faro, torna público que no âmbito da elaboração do Plano de Pormenor da Conceição de Faro (PP Conceição), foi deliberado proceder à abertura de um período de discussão pública, em conformidade com o artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 310/2003 de 10 de Dezembro, e nos seguintes termos:
+Prazo da discussão pública - 22 dias úteis a partir do 11.º dia seguinte à publicação do presente aviso em Diário da República;
+Sessão pública - será realizada uma sessão pública para apresentação e discussão do PP Conceição, que será divulgada atempadamente na comunicação social;
+Locais de consulta do plano - na página web (www.cm-faro.pt) bem como na secretaria de obras deste município, e na Junta de Freguesia da Conceição de Faro, durante o horário de expediente, todos os dias úteis.
+Os interessados poderão apresentar reclamações, observações ou sugestões, durante o período da discussão pública, através do preenchimento de impresso próprio que será disponibilizado nos locais de consulta do plano, podendo este ser entregue directamente nestes locais, ou em alternativa, remetido por correio dirigido ao presidente da Câmara Municipal de Faro, Rua do Município, 8000-398 Faro.
+Para efeitos de esclarecimentos acerca do PP Conceição, poderão ainda os interessados, contactar directamente um técnico do Departamento de Urbanismo, a designar para este efeito, todas as quintas-feiras entre as 9 horas e as 16:30 horas, procedendo para tal a marcação prévia de reunião no gabinete do utente ou no Departamento de Urbanismo.
+6 de Fevereiro de 2007. - O Presidente da Câmara, José Apolinário Nunes Portada.
