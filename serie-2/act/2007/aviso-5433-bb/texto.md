@@ -1,0 +1,7 @@
+Aviso n.º 5433-BB/2007
+Plano de Urbanização de Ponte de Lima (discussão pública)
+José Daniel Rosas Campeio da Rocha, Presidente da Câmara de Ponte de Lima, torna público que, em cumprimento da deliberação de Câmara de 29 de Janeiro de 2007 e nos termos do n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, republicado pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, que procederá esta Câmara à abertura de um período de discussão pública relativa ao Plano de Urbanização de Ponte de Lima, por um período de 22 dias úteis contados após o decurso de 10 dias úteis da publicação do presente aviso na segunda série do Diário da República, o qual será também divulgado através da comunicação social.
+O referido plano acompanhado dos pareceres das entidades consultadas encontra-se em exposição na Câmara Municipal de Ponte de Lima, na Secção de Topografia da Divisão de Estudos e Planeamento, nas horas normais de expediente, devendo os interessados apresentar as suas reclamações, observações ou sugestões, dirigidas ao presidente da Câmara em envelope fechado e contendo obrigatoriamente a identificação e o endereço.
+Durante o período de discussão pública a Câmara promoverá uma sessão de esclarecimento em data e local a anunciar por edital e nos órgãos de comunicação local.
+Para constar e devidos efeitos se publica o presente aviso e outros de igual teor que vão ser afixados nos lugares públicos de estilo.
+7 de Fevereiro de 2007. - O Presidente da Câmara, Daniel Capelo.
