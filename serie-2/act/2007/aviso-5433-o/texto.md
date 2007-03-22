@@ -1,0 +1,5 @@
+Aviso n.º 5433-O/2007
+Joaquim Moreira Raposo, presidente da Câmara Municipal da Amadora, torna público que, pelas reuniões de Câmara de 29 de Novembro e 20 de Dezembro de 2006, e nos termos do artigo 96.º conjugado com o artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 310/03, de 10 de Dezembro, foi deliberado elaborar uma alteração ao Plano de Urbanização de Amadora - Zona Nascente e respectivos termos de referência.
+Para a elaboração da referida alteração foi fixado um período de seis meses, sendo que, e nos termos do n.º 2 do artigo 77.º do referido Diploma Legal, os interessados podem formular sugestões, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração, fixando-se para este efeito o prazo de 30 dias.
+O presente aviso será publicado em Diário da República, na comunicação social e afixado nos locais públicos habituais.
+2 de Fevereiro de 2007. - O Presidente da Câmara, Joaquim Moreira Raposo.
