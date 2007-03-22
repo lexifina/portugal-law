@@ -1,0 +1,6 @@
+Aviso n.º 5433-BG/2007
+Plano de Pormenor da Herdade do Barrocal (participação pública)
+Vítor Manuel Barão Martelo, presidente da Câmara Municipal de Reguengos de Monsaraz, torna público, e a todos faz saber, que esta Câmara Municipal, aquando da reunião ordinária ocorrida em 10 de Janeiro último, deliberou proceder à alteração da cláusula 1.ª do Plano de Pormenor da Herdade do Barrocal.
+Nestes termos e em sintonia com o n.º 2 do artigo 77.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção do disposto no Decreto-Lei n.º 310/2003, de 10 de Dezembro, é aberto pelo período de 15 dias, após decorridos 8 dias da publicação do presente aviso na 2.ª série do Diário da República, a audiência prévia a todos os munícipes, relativa à aludida elaboração do Plano de Pormenor.
+A formulação de sugestões, bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração deverão ser dirigidas, por escrito, à Câmara Municipal de Reguengos de Monsaraz, a entregar no edifício dos Paços do concelho, na Praça da Liberdade, 7200-370 Reguengos de Monsaraz, ou a enviar, por carta registada com aviso de recepção, para aquela morada.
+1 de Fevereiro de 2007. - O Presidente do Município, Vítor Manuel Barão Martelo.
