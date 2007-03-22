@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal de Justiça de 2007-03-22, processo 07P004
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 07P004
+
+**Nº Convencional:** JSTJ000
+
+**Relator:** RODRIGUES DA COSTA
+
+**Descritores:** COMPETÊNCIA DO SUPREMO TRIBUNAL DE JUSTIÇA; COMPETÊNCIA DA RELAÇÃO; ADMISSIBILIDADE DE RECURSO; RECURSO DA MATÉRIA DE FACTO; VÍCIOS DO ARTº 410 CPP; PRINCÍPIO DA PRECLUSÃO; IN DUBIO PRO REO; MATÉRIA DE FACTO
+
+**Nº do Documento:** SJ200703220045
+
+**Data do Acordão:** 03/22/2007
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO PENAL
+
+**Decisão:** REJEITADO O RECURSO
+
+## Sumário
+
+I - Quanto aos vícios do art. 410.º, n.º 2, do CPP, tem entendido este Supremo Tribunal, em jurisprudência praticamente uniforme, que o recurso da matéria de facto, ainda que restrito a tais vícios (a chamada revista alargada), tem actualmente (depois da reforma introduzida pela Lei 59/98, de 25-08), de ser interposto para a Relação, e da decisão desta que sobre tal matéria se pronuncie já não é admissível recurso para o STJ, pelo que haverão de se considerar precludidas todas as razões que foram ou podiam ser invocadas nesse recurso, cuja decisão esgota os poderes de cognição nessa matéria – Acs. de 01-06-2006, Proc. n.º1427/06 - 5.ª e de 2-06-2006, Proc. n.º 1923/06 - 5.ª.
+
+II - A violação do princípio in dubio pro reo, dizendo respeito à matéria de facto e sendo um princípio fundamental em matéria de apreciação e valoração da prova, só pode ser sindicado pelo STJ dentro dos seus limites de cognição, devendo por isso resultar do texto da decisão recorrida em termos análogos aos dos vícios do art. 410.º, n.º 2, do CPP, ou seja,
+
+quando seguindo o processo decisório evidenciado através da motivação da convicção se chegar à conclusão de que o tribunal, tendo ficado num estado de dúvida, decidiu contra o arguido, ou quando a conclusão retirada pelo tribunal em matéria de prova se materialize numa decisão contra o arguido que não seja suportada de forma suficiente, de modo a não
+
+deixar dúvidas irremovíveis quanto ao seu sentido, pela prova em que assenta a convicção - cf. Acs. do STJ de 12-07-2005, Proc. n.º 2315/05, e de 20-10-2005, Proc. n.º 2431/05, ambos da 5.ª Secção.
