@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "39293",
+  "tipo": "Requerimento",
+  "numero": "675",
+  "data_registo": "2007-03-23",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Ambiente e Autarquias",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "1612",
+        "nome": "Ana Manso"
+      }
+    ],
+    "DataEnvio": "2007-03-28",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2007-03-28",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Vimioso",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2007-05-10",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Vimioso",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a545443396b4f44557a4e4441794e43316b595463794c545179597a49744f5463775a69316a4d54426c4f5759775a446732597a6b756347526d&fich=d8534024-da72-42c2-970f-c10e9f0d86c9.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2007-03-23",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a54544338774d444d7a5a444e684e4331684e6d466c4c5451774e4455744f4449334e5330324d54686d5a6a6c6a5a6a55784d7a63756347526d&fich=0033d3a4-a6ae-4045-8275-618ff9cf5137.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "39293",
+    "Legislatura": "X",
+    "Nr": "675",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "393732",
+        "obs": null,
+        "pag": [
+          "162-163"
+        ],
+        "pagFinalDiarioSupl": "2º Supl.",
+        "pubdt": "2007",
+        "pubLeg": "X",
+        "pubNr": "29",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "2º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/02/029S2/2007-03-31/162?pgs=162-163&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
