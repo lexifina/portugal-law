@@ -1,0 +1,6 @@
+Aviso n.º 5866/2007
+Luís Alberto Camilo Duarte, presidente da Câmara Municipal do Bombarral, faz público, nos termos dos n.os 1 e 2 do artigo 74.º, do n.º 3 do artigo 148.º e do n.º 2 do artigo 149.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a nova redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, e do artigo 137.º do Código do Procedimento Administrativo, que a Câmara Municipal do Bombarral deliberou, em reunião pública de 5 de Março de 2007, ratificar a deliberação de Câmara de 5 de Janeiro de 2004 de elaborar o Plano de Pormenor do Vale da Várzea.
+De acordo com o n.º 2 do artigo 77.º do mesmo diploma, encontra-se a contar da data de publicação no Diário da República, por um prazo de 30 dias, um período de participação pública.
+Durante este período os interessados poderão, junto da Divisão de Obras Particulares e Planeamento Urbanístico, Sector de Planeamento Urbanístico, formular sugestões ou observações, apresentar ou obter informações ou esclarecimentos sobre questões que possam ser consideradas no âmbito da elaboração do referido Plano de Pormenor do Vale da Várzea.
+As sugestões ou observações informações ou esclarecimentos deverão ser apresentados por escrito em documento devidamente identificado.
+7 de Março de 2007. - O Presidente da Câmara, Luís Alberto Camilo Duarte.
