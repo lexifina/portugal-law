@@ -1,0 +1,9 @@
+Aviso n.º 5876/2007
+José Ernesto Ildefonso Leão d'Oliveira, presidente da Câmara Municipal de Évora, faz saber que, nos termos e para os efeitos do disposto nos artigos 77.º, n.º 4, e 148.º, n.º 3, alínea a), do Decreto-Lei n.º 380/99, de 22 de Setembro, a Câmara Municipal de Évora, na sua reunião extraordinária de 5 de Março de 2007, determinou a abertura do período de discussão pública sobre a proposta de revisão do Plano Director Municipal de Évora, a decorrer por um período de 60 dias.
+Assim se torna público que a referida discussão pública ocorrerá por um período de 60 dias contados após o decurso dos 15 subsequentes à publicação do presente aviso, período durante o qual poderão os interessados apresentar por escrito, em requerimento dirigido ao presidente da Câmara, as suas reclamações, observações ou sugestões sobre a proposta de revisão do PDM em discussão.
+Para o efeito, a proposta do Plano, acompanhada dos pareceres emitidos pela comissão técnica de acompanhamento e pelas entidades externas com interesse na área do território municipal, encontrar-se-á disponível para consulta durante as horas de expediente, em todos os dias úteis, em dois locais:
+Departamento de Ordenamento e Gestão do Território, sito na Rua da Agricultura, 14 a 26, no Parque Industrial e Tecnológico de Évora;
+Departamento de Apoio Jurídico e de Notariado, sito no edifício dos Paços do Concelho, à Praça do Sertório.
+Para efeitos de divulgação e esclarecimento quanto à proposta de revisão do Plano em discussão serão realizadas sessões públicas nas freguesias rurais do concelho, e bem assim na freguesia dos Canaviais, e na sede do concelho serão promovidos quatro grandes fóruns temáticos.
+A data, a hora e o local em que decorrerão tais acções será oportuna e amplamente divulgada e publicitada nos locais de estilo do concelho e na comunicação social local.
+8 de Março de 2007. - O Presidente da Câmara, José Ernesto d'Oliveira.
