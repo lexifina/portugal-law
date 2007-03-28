@@ -1,0 +1,4 @@
+Aviso n.º 111/2007
+Por ordem superior se torna público que, em 14 de Agosto de 2006, a República da Guiné-Bissau depositou o seu instrumento de adesão ao Acordo sobre a Conservação das Aves Aquáticas Migradoras Afro-Euroasiáticas, aberto para assinatura na Haia no dia 15 de Agosto de 1996.
+Portugal é Parte do Acordo, aprovado, para adesão, pela Resolução da Assembleia da República n.º 69/2003, publicada no Diário da República, 1.ª série-A, n.º 190, de 19 de Agosto de 2003, tendo depositado o seu instrumento de adesão em 11 de Dezembro de 2003, conforme o Aviso n.º 140/2005, publicado no Diário da República, 1.ª série-A, n.º 78, de 21 de Abril de 2005.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 13 de Março de 2007. - O Director de Serviços das Organizações Económicas Internacionais, Paulo Jorge Pereira do Nascimento.
