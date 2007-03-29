@@ -1,0 +1,78 @@
+Decreto-Lei n.º 92/2007
+de 29 de Março
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa, à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no Decreto-Lei n.º 215/2006, de 27 de Outubro, que aprova a lei orgânica do Ministério da Cultura, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+A reestruturação do sector do livro e das bibliotecas concretiza-se na criação da Direcção-Geral do Livro e das Bibliotecas, no âmbito da Administração Directa do Estado, dando-se cumprimento ao estabelecido no artigo 16.º do Decreto-Lei n.º 215/2006, de 27 de Outubro, e na transferência da Biblioteca Pública de Évora, até aqui integrada organicamente no Instituto dos Arquivos Nacionais/Torre do Tombo, para esta Direcção-Geral, visando a sua futura descentralização, integrada na Rede Nacional de Bibliotecas Públicas.
+O presente decreto-lei é enformado pelos princípios orientadores da organização e funcionamento dos serviços da administração directa do Estado preconizados pelo XVII Governo Constitucional, tendo-se optado por uma estrutura tipo hierarquizada de modo a adequar a estrutura organizacional à missão da BNP e a racionalizar os seus recursos permitindo um funcionamento mais eficaz.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Natureza
+A Direcção-Geral do Livro e das Bibliotecas, abreviadamente designada por DGLB, é um serviço central da administração directa do Estado, dotado de autonomia administrativa.
+Artigo 2.º
+Missão e atribuições
+1 - A Direcção-Geral do Livro e das Bibliotecas tem por missão assegurar a coordenação e execução da política integrada do livro não escolar, das bibliotecas e da leitura.
+2 - A DGLB prossegue as seguintes atribuições:
+a) Assegurar o desenvolvimento de uma política do livro não escolar, da leitura e das bibliotecas;
+b) Promover a leitura, em articulação com os sectores público e privado;
+c) Elaborar e desenvolver programas e projectos que contribuam para a consolidação de uma economia sustentada do sector do livro;
+d) Estimular a pesquisa e a elaboração de estudos, em particular sobre o mercado do livro e sobre os hábitos de leitura, em articulação com o GPEARI;
+e) Conceber um quadro normativo para o sector do livro;
+f) Planear e executar a difusão dos autores portugueses no estrangeiro e intensificar a exportação do livro português para os países de língua portuguesa, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;
+g) Acompanhar a evolução da sociedade de informação e do conhecimento, promovendo a utilização das tecnologias de informação e comunicação no sector do livro e das bibliotecas;
+h) Promover e assegurar a execução de uma política nacional para as bibliotecas públicas, em conformidade com as orientações dos organismos internacionais do sector, subordinada à decisão da tutela e em diálogo com as autarquias, às quais compete a tutela e gestão desses equipamentos;
+i) Promover a qualidade dos serviços das bibliotecas e, em articulação com o GPEARI, proceder à sua avaliação;
+j) Atribuir apoios, incentivos ou prémios, sob qualquer espécie, em termos a definir em diploma próprio, a aprovar pelos membros do Governo responsáveis pelas áreas das Finanças e da Cultura;
+l) Realizar acções de formação, em articulação com a Secretaria-Geral, desde que credenciada para esse efeito.
+3 - A DGLB possui capacidade editorial própria, em suportes distintos, podendo proceder à venda ou, de qualquer modo, dispor do respectivo produto, assegurando os direitos de autor e editoriais.
+Artigo 3.º
+Órgãos
+A DGLB é dirigida por um director-geral, coadjuvado por um subdirector-geral.
+Artigo 4.º
+Director-geral
+1 - O director-geral exerce as competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas.
+2 - Ao subdirector-geral compete substituir o director nas suas faltas e impedimentos e exercer as competências que por este lhe sejam delegadas ou subdelegadas.
+Artigo 5.º
+Tipo de organização interna
+A organização interna dos serviços obedece ao modelo de estrutura hierarquizada.
+Artigo 6.º
+Receitas
+1 - A DGLB dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+2 - A DGLB dispõe ainda das seguintes receitas próprias:
+a) Os subsídios e donativos atribuídos por quaisquer entidades, públicas ou privadas, nacionais ou estrangeiras;
+b) O produto da realização dos serviços prestados a entidades públicas ou privadas;
+c) O produto da venda de publicações editadas ou reproduzidas em qualquer tipo de suporte;
+d) O produto das actividades de exposição e divulgação bem como da realização de acções de formação;
+e) O produto de doações, heranças e legados que lhes seja atribuído;
+f) Quaisquer outras receitas que, por lei, contrato ou qualquer outro título, lhe sejam atribuídas.
+3 - As receitas referidas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas da DGLB durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte.
+4 - Os serviços prestados pela DGLB são remunerados segundo critérios e tabelas a aprovar por despacho do membro do Governo responsável pela área da Cultura.
+Artigo 7.º
+Despesas
+Constituem despesas da DGLB as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+Artigo 8.º
+Quadro de cargos de direcção
+Os lugares de direcção superior de 1.º e 2.º graus, bem como de direcção intermédia de 1.º grau, constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
+Artigo 9.º
+Sucessão
+A Direcção-Geral do Livro e das Bibliotecas sucede nas atribuições do Instituto Português do Livro e das Bibliotecas e nas atribuições do Instituto dos Arquivos Nacionais/Torre do Tombo relativos à Biblioteca Pública de Évora.
+Artigo 10.º
+Critérios de selecção de pessoal
+É fixado como critério geral e abstracto de selecção do pessoal necessário à prossecução das atribuições fixadas no artigo 2.º o desempenho de funções na Biblioteca Pública de Évora, do Instituto dos Arquivos Nacionais/Torre do Tombo.
+Artigo 11.º
+Norma revogatória
+São revogados:
+a) O Decreto-Lei n.º 90/97, de 19 de Abril;
+b) A alínea c) do n.º 1 do artigo 3.º e o artigo 32.º do Decreto-Lei n.º 60/97, de 20 de Março.
+Artigo 12.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Vieira de Carvalho.
+Promulgado em 22 de Março de 2007.
+Publique-se.
+O Presidente da República, ANÍBAL CAVACO SILVA.
+Referendado em 23 de Março de 2007.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+ANEXO
+(mapa a que se refere o artigo 8.º)
+(ver documento original)
