@@ -1,0 +1,63 @@
+Portaria n.º 340/2007
+de 30 de Março
+O Decreto-Lei n.º 77/2007, de 29 de Março, definiu a missão, atribuições e tipo de organização interna da Autoridade Nacional de Segurança Rodoviária. Importa agora, no desenvolvimento daquele decreto-lei, determinar a estrutura nuclear dos serviços e as competências das respectivas unidades orgânicas.
+Assim:
+Ao abrigo do n.º 4 do artigo 21.º da Lei n.º 4/2004, de 15 de Janeiro:
+Manda o Governo, pelos Ministros de Estado e da Administração Interna e de Estado e das Finanças, o seguinte:
+Artigo 1.º
+Estrutura interna da Autoridade Nacional de Segurança Rodoviária
+1 - A Autoridade Nacional de Segurança Rodoviária (ANSR) estrutura-se nas seguintes unidades orgânicas nucleares:
+a) Unidade de Prevenção Rodoviária;
+b) Unidade de Gestão de Contra-Ordenações.
+2 - A estrutura interna da ANSR compreende ainda o Núcleo de Apoio à Gestão e Operações, na dependência directa do presidente da ANSR.
+Artigo 2.º
+Unidade de Prevenção Rodoviária
+1 - À Unidade de Prevenção Rodoviária, abreviadamente designada por UPR, compete:
+a) Coadjuvar o presidente da ANSR na definição de políticas no domínio do trânsito e da segurança rodoviária;
+b) Proceder à recolha e análise dos dados estatísticos referentes à sinistralidade rodoviária, provenientes das diferentes fontes nacionais e internacionais;
+c) Realizar ou promover a realização de estudos sobre o comportamento dos utentes da via pública;
+d) Estudar e promover acções de sensibilização e de informação dos cidadãos em geral para as questões do trânsito e da segurança rodoviária;
+e) Promover a difusão de informação relativa a situações que afectem a fluidez do trânsito;
+f) Proceder à avaliação dos programas e acções desenvolvidos no domínio da segurança rodoviária;
+g) Elaborar os relatórios de segurança rodoviária e assegurar o acompanhamento regular dos acidentes e da sinistralidade;
+h) Contribuir para a elaboração dos planos nacionais de segurança rodoviária bem como dos documentos estruturantes relacionados com a prevenção rodoviária;
+i) Promover a realização de estudos de legislação rodoviária e propor a sua actualização, bem como a adopção de outras medidas que visem o ordenamento e disciplina do trânsito;
+j) Estudar, propor ou desenvolver iniciativas visando a segurança rodoviária;
+l) Promover estudos e análises de zonas e períodos de maior frequência de acidentes, propondo medidas correctivas a apresentar às entidades responsáveis pelas infra-estruturas rodoviárias e pela fiscalização;
+m) Apoiar a actuação do Observatório de Segurança Rodoviária através da execução dos estudos e análises necessários para a sua intervenção;
+n) Realizar auditorias de segurança rodoviária e sinalização;
+o) Fiscalizar o cumprimento das disposições legais sobre trânsito e segurança rodoviária;
+p) Propor ao presidente da ANSR medidas de uniformização e coordenação da acção fiscalizadora das entidades intervenientes em matéria rodoviária, nomeadamente através da elaboração de propostas de instruções técnicas;
+q) Aprovar o uso de equipamentos de controlo e de fiscalização de trânsito.
+2 - A UPR é dirigida por um director de unidade, cargo de direcção intermédia de 1.º grau.
+Artigo 3.º
+Unidade de Gestão de Contra-Ordenações
+1 - A Unidade de Gestão de Contra-Ordenações, abreviadamente designada por UGCO, assegura a gestão do processo contra-ordenacional estradal, na sua componente administrativa, e a coordenação e melhoria contínua global do mesmo.
+2 - Compete especificamente à UGCO:
+a) Assegurar o registo centralizado dos autos levantados por infracções ao Código da Estrada;
+b) Assegurar o arquivo e gestão documental dos processos por contra-ordenações estradais, bem como o acesso, preferencialmente sob forma digitalizada, das entidades envolvidas ao seu conteúdo;
+c) Assegurar a identificação e notificação dos arguidos no âmbito dos processos de contra-ordenações;
+d) Assegurar o processamento administrativo dos autos de contra-ordenações, incluindo a análise dos processos e a proposta de decisão das sanções a aplicar;
+e) Preparar a decisão, designadamente de aplicação de coimas e sanções acessórias previstas no Código da Estrada e outra legislação aplicável;
+f) Apoiar as entidades judiciais na instrução e tramitação dos processos cíveis e criminais com origem em contra-ordenações estradais;
+g) Monitorizar, analisar e reportar superiormente os indicadores de desempenho associados à gestão do processo contra-ordenacional;
+h) Elaborar e apresentar ao presidente da ANSR propostas de instruções técnicas e recomendações para as entidades fiscalizadoras e judiciais no sentido de maximizar a eficiência do processo e garantir os seus objectivos disciplinadores;
+i) Emitir instruções e esclarecimentos para os agentes das entidades fiscalizadoras que exerçam funções de atendimento e inquirição de testemunhas no âmbito de processos de contra-ordenação e coordenar o atendimento directo aos cidadãos no âmbito dos mesmos processos;
+j) Assegurar a cobrança e a distribuição das receitas provenientes das coimas impostas, de acordo com as regras fixadas.
+3 - A UGCO é dirigida por um director de unidade, cargo de direcção intermédia de 1.º grau.
+Artigo 4.º
+Núcleo de Apoio à Gestão e Operações
+1 - Ao Núcleo de Apoio à Gestão e Operações, abreviadamente designado por NAGO, compete assegurar a ligação entre a ANSR e a Secretaria-Geral e demais organismos centrais do Ministério da Administração Interna, no que se refere a funções de suporte administrativo e de suporte técnico, nas seguintes áreas:
+a) Gestão financeira e logística;
+b) Gestão de recursos humanos;
+c) Informática;
+d) Equipamentos, instalações e serviços administrativos;
+e) Planeamento e relações internacionais;
+f) Apoio jurídico;
+g) Atendimento e esclarecimento não presencial aos cidadãos.
+2 - Ao NAGO são afectos, pela Secretaria-Geral, os recursos humanos necessários ao desenvolvimento das competências identificadas no número anterior.
+Artigo 5.º
+Entrada em vigor
+A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+Em 29 de Março de 2007.
+O Ministro de Estado e da Administração Interna, António Luís Santos Costa. - Pelo Ministro de Estado e das Finanças, Emanuel Augusto dos Santos, Secretário de Estado Adjunto e do Orçamento.
