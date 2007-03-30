@@ -1,0 +1,8 @@
+Aviso n.º 6104-CH/2007
+Plano de Pormenor da Rede
+Dr. Marco António Peres Teixeira da Silva, presidente da Câmara Municipal de Mesão Frio, torna público que, nos termos e para efeitos do disposto no n.º 4, do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 53/2000, de 7 de Abril e pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, que esta Câmara Municipal, na sua reunião pública do passado dia 6 de Fevereiro, deliberou mandar proceder à abertura de um período de discussão pública do Plano de Pormenor da Rede.
+Torna ainda público que, nos termos do n.º 5 do artigo 77.º do mesmo diploma, que irá decorrer, por um período de 30 dias úteis, a contar do 10.º dia da data da publicação do presente aviso na 2.ª série do Diário da República, o processo de discussão pública, durante o qual os interessados poderão formular sugestões, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de discussão, as quais deverão ser apresentadas, por escrito, em documento devidamente identificado, dirigido ao presidente da Câmara e entregue na Câmara Municipal até ao termo daquele prazo.
+A proposta do Plano de Pormenor da Rede poderá ser consultado todos os dias úteis durante as horas normais de expediente, no Salão Nobre da Câmara Municipal.
+O presente aviso vai ser afixado nos Paços do concelho e em todas as Freguesias.
+E eu, (Assinatura ilegível), Chefe da Divisão do Ambiente, Gestão Urbana e Obras Municipais, o subscrevi.
+9 de Fevereiro de 2007. - O Presidente da Câmara, Marco António Peres Teixeira da Silva.
