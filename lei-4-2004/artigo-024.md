@@ -16,7 +16,7 @@ c) A respectiva missão;
 
 d) A identificação das respectivas atribuições;
 
-e) A identificação do modelo de funcionamento e do tipo de organização interna;
+e) A identificação do tipo de organização interna;
 
 f) A dotação de lugares de direcção superior e de direcção intermédia de grau 1;
 
