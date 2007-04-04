@@ -18,4 +18,4 @@ f) As entidades administrativas independentes.
 
 2 - Cada uma destas categorias de institutos públicos pode ser regulada por uma lei específica.
 
-3 - Goza ainda de regime especial, com derrogação do regime comum na estrita medida necessária à sua especificidade, o Instituto de Gestão do Crédito Público.
+3 - Gozam ainda de regime especial, com derrogação do regime comum na estrita medida necessária à sua especificidade, o Instituto de Gestão do Crédito Público, I. P., e o Instituto do Turismo de Portugal, I. P.

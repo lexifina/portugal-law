@@ -6,7 +6,7 @@
 
 ### Serviços
 
-1 - Os institutos públicos dispõem dos serviços indispensáveis à efectivação das suas atribuições, sendo a respectiva organização e funcionamento fixados em regulamento interno.
+1 - Os institutos públicos dispõem dos serviços indispensáveis à prossecução das suas atribuições.
 
 2 - A organização interna adoptada deve possuir uma estrutura pouco hierarquizada e flexível, privilegiando as estruturas matriciais.
 
