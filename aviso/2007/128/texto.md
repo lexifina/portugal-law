@@ -1,0 +1,5 @@
+Aviso n.º 128/2007
+Por ordem superior se torna público que, em 11 de Setembro de 2002 e em 24 de Janeiro de 2003, foram emitidas notas, respectivamente pela Embaixada da República do Paraguai, em Lisboa, e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República do Paraguai para a Luta contra o Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas e Delitos Conexos, assinado em Assunção em 3 de Setembro de 2001.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 3/2003, de 24 de Janeiro, publicado no Diário da República, 1.ª série-A, n.º 20, de 24 de Janeiro de 2003.
+Nos termos do artigo 6.º do Acordo, este entrou em vigor em 24 de Fevereiro de 2003.
+Direcção-Geral da Política Externa, 20 de Março de 2007. - A Directora de Serviços da América do Sul e Central, Helena Margarida Rezende de Almeida Coutinho.
