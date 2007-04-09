@@ -1,0 +1,5 @@
+Aviso n.º 115/2007
+Por ordem superior se torna público que o Gabão depositou junto do Secretário-Geral das Nações Unidas, em 10 de Julho de 2006, o seu instrumento de ratificação à Convenção das Nações Unidas contra o Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas, concluída em Viena em 20 de Dezembro de 1988.
+Portugal é Parte nesta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 29/91, publicada no Diário da República, 1.ª série-A, n.º 205, de 6 de Setembro de 1991, e ratificada pelo Decreto do Presidente da República n.º 45/91, publicado no Diário da República, 1.ª série-A, n.º 205, de 6 de Setembro de 1991, tendo depositado o seu instrumento de ratificação em 3 de Dezembro de 1991, conforme o Aviso n.º 23/92, publicado no Diário da República, 1.ª série-A, n.º 54, de 5 de Março de 1992.
+De acordo com o n.º 2 do artigo 29.º, a Convenção entrou em vigor para o Gabão em 8 de Outubro de 2006.
+Direcção-Geral de Política Externa, 26 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
