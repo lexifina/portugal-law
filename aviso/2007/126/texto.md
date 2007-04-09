@@ -1,0 +1,5 @@
+Aviso n.º 126/2007
+Por ordem superior se torna público que, em 7 de Julho de 2006, a República da Zâmbia depositou o seu instrumento de ratificação da Convenção sobre Poluentes Orgânicos Persistentes, concluída em Estocolmo no dia 22 de Maio de 2001.
+Portugal é Parte da mesma Convenção, aprovada pelo Decreto n.º 15/2004, publicado no Diário da República, 1.ª série-A, n.º 130, de 3 de Junho de 2004, tendo depositado o seu instrumento de aceitação em 15 de Abril de 2004, conforme o Aviso n.º 152/2004, publicado no Diário da República, 1.ª série-A, n.º 202, de 27 de Agosto de 2004, e tendo entrado em vigor em 13 de Outubro de 2004, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 202, de 27 de Agosto de 2004.
+A Convenção entrou em vigor para a Zâmbia em 5 de Outubro de 2006, conforme o n.º 2 do artigo 26.º
+Direcção-Geral dos Assuntos Técnicos e Económicos, 20 de Março de 2007. - O Director de Serviços das Organizações Económicas Internacionais, Paulo Jorge Pereira do Nascimento.
