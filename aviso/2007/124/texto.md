@@ -1,0 +1,4 @@
+Aviso n.º 124/2007
+Por ordem superior se torna público ter a Jugoslávia sucedido, junto do Secretário-Geral das Nações Unidas, em 12 de Março de 2001, ao Protocolo de Emenda à Convenção para a Supressão do Tráfico de Mulheres e Crianças e à Convenção para a Supressão do Tráfico de Mulheres Maiores, concluída em Nova Iorque em 12 de Novembro de 1947.
+Portugal é Parte deste Protocolo de Emenda, aprovado para adesão pela Resolução da Assembleia da República n.º 5/2001, publicada no Diário da República, 1.ª série-A, n.º 23, de 27 de Janeiro de 2001, e ratificado pelo Decreto do Presidente da República n.º 6/2001, publicado no Diário da República, 1.ª série-A, n.º 23, de 27 de Janeiro de 2001.
+Direcção-Geral de Política Externa, 17 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
