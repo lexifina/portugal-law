@@ -1,0 +1,5 @@
+Aviso n.º 127/2007
+Por ordem superior se torna público que, em 7 de Julho de 2006, a República da Zâmbia depositou o seu instrumento de adesão ao Protocolo de Quioto à Convenção Quadro das Nações Unidas sobre Alterações Climáticas de 9 de Maio de 1992, concluído em Quioto no dia 11 de Dezembro de 1997.
+Portugal é Parte do mesmo Protocolo, aprovado pelo Decreto n.º 7/2002, publicado no Diário da República, 1.ª série-A, n.º 71, de 25 de Março de 2002, tendo depositado o instrumento de aprovação em 31 de Maio de 2002, conforme o Aviso n.º 49/2005, publicado no Diário da República, 1.ª série-A, n.º 35, de 18 de Fevereiro de 2005, e tendo entrado em vigor em 16 de Fevereiro de 2005, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 35, de 18 de Fevereiro de 2005.
+O Protocolo entrou em vigor para a República da Zâmbia em 5 de Outubro de 2006, de acordo com o n.º 3 do artigo 25.º
+Direcção-Geral dos Assuntos Técnicos e Económicos, 20 de Março de 2007. - O Director de Serviços das Organizações Económicas Internacionais, Paulo Jorge Pereira do Nascimento.
