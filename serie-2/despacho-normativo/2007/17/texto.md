@@ -1,0 +1,5 @@
+Despacho normativo n.º 17/2007
+O Despacho Normativo n.º 16/2003, publicado no Diário da República, 1.ª série-B, de 15 de Abril de 2003, definiu o regime da transferência de funções do Estado no âmbito da divulgação e recepção de candidaturas aos apoios financeiros no quadro da política agrícola comum, por via da celebração de protocolos com as organizações representativas dos agricultores portugueses, devidamente credenciadas.
+Nos termos do seu relatório n.º 03/07 - 2ª S_PL, proferido no âmbito do processo de auditoria n.º 01/06, pronunciou-se o Tribunal de Contas no sentido da ilegalidade da celebração dos referidos protocolos por simples ajuste directo, considerando o referido procedimento violador do disposto no regime constante do Decreto-Lei n.º 197/99, de 8 de Junho.
+Face ao exposto, e em cumprimento das recomendações formuladas pelo Tribunal de Contas, revogo o Despacho Normativo n.º 16/2003, de 15 de Abril, com efeitos a partir da campanha de 2008-2009.
+13 de Março de 2007. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
