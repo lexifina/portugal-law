@@ -1,0 +1,5 @@
+Aviso n.º 130/2007
+Por ordem superior se torna público que a Tanzânia depositou junto do Secretário-Geral das Nações Unidas, em 24 de Maio de 2006, o seu instrumento de ratificação ao Protocolo Adicional contra o Tráfico Ilícito de Migrantes por Via Terrestre, Marítima e Aérea, concluído em Nova Iorque em 15 de Novembro de 2000.
+Portugal é Parte deste Protocolo Adicional, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 32/2004, publicada no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, e ratificada pelo Decreto do Presidente da República n.º 19/2004, publicado no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, tendo depositado o seu instrumento de ratificação em 10 de Maio de 2004, conforme o Aviso n.º 121/2004, publicado no Diário da República, 1.ª série-A, n.º 141, de 17 de Junho de 2004.
+O Protocolo entrou em vigor para a Tanzânia em 23 de Junho de 2006.
+Direcção-Geral de Política Externa, 15 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
