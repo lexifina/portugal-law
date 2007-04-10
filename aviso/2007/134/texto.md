@@ -1,0 +1,5 @@
+Aviso n.º 134/2007
+Por ordem superior se torna público que, em 12 de Setembro de 2002 e em 29 de Outubro de 2004, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros de Portugal e pelo Ministério das Relações Exteriores do Brasil, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República Federativa do Brasil sobre o Exercício de Actividades Remuneradas por Parte de Dependentes do Pessoal Diplomático, Consular, Administrativo, Técnico e de Apoio ou Serviço, assinado em Brasília em 5 de Setembro de 2001.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 30/2002, de 10 de Setembro, publicado no Diário da República, 1.ª série-A, n.º 209, de 10 de Setembro de 2002.
+Nos termos do artigo 11.º do Acordo, este entrou em vigor em 29 de Novembro de 2004.
+Direcção-Geral de Política Externa, 20 de Março de 2007. - A Directora de Serviços da América do Sul e Central, Helena Margarida Rezende de Almeida Coutinho.
