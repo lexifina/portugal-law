@@ -1,0 +1,30 @@
+Portaria n.º 403/2007
+de 10 de Abril
+A Portaria n.º 37/2002, de 10 de Janeiro, veio regulamentar a medida «Inovação financeira» no âmbito das medidas de consolidação e alargamento das formas de financiamento das empresas, actuando no lado da envolvente empresarial, tendo sido objecto de ajustamentos introduzidos pela Portaria n.º 901/2003, de 28 de Agosto.
+Nessa medida «Inovação financeira» integra-se a acção A, «Criação e reforço de um fundo de sindicação de capital de risco», que passará, agora, a denominar-se por Fundo de Sindicação de Capital de Risco (FSCR).
+Para além da referida alteração, alarga-se a capacidade de intervenção do Fundo, ao permitir-se que possa vir a prestar garantias e recorrer a contratos de opções para partilha de riscos inerentes a operações de capital de risco.
+Assim:
+Ao abrigo do disposto na alínea d) do artigo 7.º e no artigo 20.º do Decreto-Lei n.º 70-B/2000, de 5 de Maio, manda o Governo, pelos Ministros de Estado e das Finanças e da Economia e da Inovação, o seguinte:
+Artigo único
+A alínea a) do n.º 1 do artigo 2.º, o n.º 2 do artigo 3.º e a alínea a) do artigo 5.º do Regulamento de Execução da Medida «Inovação Financeira», anexo à Portaria n.º 37/2002, de 10 de Janeiro, com a redacção dada pela Portaria n.º 901/2003, de 28 de Agosto, passam a ter a seguinte redacção:
+«ANEXO
+REGULAMENTO DE EXECUÇÃO DA MEDIDA 'INOVAÇÃO FINANCEIRA'
+Artigo 2.º
+[...]
+1 - ...
+a) Acção A, 'Fundo de Sindicação de Capital de Risco (FSCR)';
+b) ...
+2 - ...
+Artigo 3.º
+[...]
+1 - ...
+2 - A prossecução deste objectivo faz-se através do Fundo de Sindicação de Capital de Risco (FSCR), que terá por fim a realização de operações combinadas na área do capital de risco, através do investimento em participações no capital de empresas, da concessão de financiamentos a entidades especializadas naquele domínio, da prestação de garantias e de contratos de opções, inerentes a operações de capital de risco, tendo em vista o reforço da capitalização de PME que desenvolvam actividade nos sectores abrangidos pelo Programa Operacional da Economia - POE/PRIME.
+Artigo 5.º
+[...]
+Serão apoiadas as seguintes entidades beneficiárias:
+a) Acção A, 'Fundo de Sindicação de Capital de Risco (FSCR)';
+b) ...
+c) ...
+d) ...»
+Em 16 de Fevereiro de 2007.
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Economia e da Inovação, António José de Castro Guerra, Secretário de Estado Adjunto, da Indústria e da Inovação.
