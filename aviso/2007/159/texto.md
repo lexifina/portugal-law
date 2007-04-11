@@ -1,0 +1,5 @@
+Aviso n.º 159/2007
+Por ordem superior se torna público ter o Montenegro sucedido junto do Secretário-Geral das Nações Unidas, em 23 de Outubro de 2006, à Convenção sobre os Privilégios e Imunidades das Nações Unidas, concluída em Nova Iorque em 13 de Fevereiro de 1946.
+Portugal é Parte desta Convenção, aprovada, para adesão, pela Resolução da Assembleia da República n.º 38/98, publicada no Diário da República, 1.ª série-A, n.º 175, de 31 de Julho de 1998, e ratificada pelo Decreto do Presidente da República n.º 34/98, publicado no Diário da República, 1.ª série-A, n.º 175, de 31 de Julho de 1998, tendo depositado o seu instrumento de adesão em 14 de Outubro de 1998, conforme o Aviso n.º 277/98, publicado no Diário da República, 1.ª série-A, n.º 280, de 4 de Dezembro de 1998.
+A Convenção entrou em vigor para o Montenegro em 3 de Junho de 2006, data da sucessão do Estado.
+Direcção-Geral de Política Externa, 16 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
