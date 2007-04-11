@@ -1,0 +1,5 @@
+Aviso n.º 151/2007
+Por ordem superior se torna público ter o Reino do Cambodja depositado junto do Secretário-Geral das Nações Unidas, em 31 de Julho de 2006, o seu instrumento de adesão à Convenção Internacional para a Repressão de Atentados Terroristas à Bomba, concluída em Nova Iorque em 15 de Dezembro de 1997.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 40/2001, publicada no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, e ratificada pelo Decreto do Presidente da República n.º 31/2001, publicado no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, tendo depositado o seu instrumento de ratificação em 10 de Novembro de 2001, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 81, de 6 de Abril de 2002.
+De acordo com o disposto no n.º 2 do artigo 22.º, a Convenção entrou em vigor para o Reino do Cambodja em 30 de Agosto de 2006.
+Direcção-Geral de Política Externa, 16 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
