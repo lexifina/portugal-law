@@ -1,0 +1,4 @@
+Aviso n.º 6615/2007
+Alfredo Falamino Barroso, presidente da Câmara Municipal de Redondo, torna público que, nos termos do disposto nos n.os 1 do artigo 74.º e 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, a Câmara Municipal de Redondo, na reunião ordinária realizada em 28 de Fevereiro de 2007, deliberou, por unanimidade e em minuta, aprovar a elaboração do Plano de Pormenor da Herdade da Palheta, com base nos termos de referência já aprovados, fixando o prazo de 180 dias para a sua elaboração.
+Mais se torna público que, durante o período de 30 dias a contar da publicação deste aviso no Diário da República, 2.ª série, os interessados poderão formular sugestões bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+7 de Março de 2007. - O Presidente da Câmara, Alfredo Falamino Barroso.
