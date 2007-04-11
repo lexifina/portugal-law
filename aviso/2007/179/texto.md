@@ -1,0 +1,5 @@
+Aviso n.º 179/2007
+Por ordem superior se torna público ter a República da Letónia formulado junto do Secretário-Geral do Conselho da Europa, em 27 de Julho de 2006, a comunicação das autoridades e organismos designados de acordo com o artigo 19.º, n.º 2, da Convenção Europeia sobre a Televisão Transfronteiras, aberta à assinatura em Estrasburgo em 5 de Maio de 1989:
+(ver documento original)
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 50/2001, publicada no Diário da República, 1.ª série-A, n.º 161, de 13 de Julho de 2001, e ratificada pelo Decreto do Presidente da República n.º 36/2001, publicado no Diário da República, 1.ª série-A, n.º 161, de 13 de Julho de 2001, tendo Portugal depositado o seu instrumento de ratificação em 30 de Maio de 2002, conforme o Aviso n.º 61/2002, publicado no Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 2002.
+Direcção-Geral de Política Externa, 19 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
