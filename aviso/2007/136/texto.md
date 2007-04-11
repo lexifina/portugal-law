@@ -1,0 +1,5 @@
+Aviso n.º 136/2007
+Por ordem superior se torna público ter a República Democrática de São Tomé e Príncipe depositado junto do Secretário-Geral das Nações Unidas, em 12 de Abril de 2006, o seu instrumento de adesão à Convenção Internacional para a Repressão de Atentados Terroristas à Bomba, concluída em Nova Iorque em 15 de Dezembro de 1997.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 40/2001, publicada no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, e ratificada pelo Decreto do Presidente da República n.º 31/2001, publicado no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, tendo depositado o seu instrumento de ratificação em 10 de Novembro de 2001, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 81, de 6 de Abril de 2002.
+De acordo com o disposto no artigo 22.º, a Convenção entrou em vigor para a República Democrática de São Tomé e Príncipe em 12 de Maio de 2006.
+Direcção-Geral de Política Externa, 26 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
