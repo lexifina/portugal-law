@@ -1,0 +1,5 @@
+Aviso n.º 173/2007
+Por ordem superior se torna público ter a República da Turquia depositado, junto do Secretário-Geral do Conselho da Europa, em 8 de Janeiro de 2007, o seu instrumento de ratificação à Convenção sobre o Reconhecimento das Qualificações Relativas ao Ensino Superior na Região Europa, aberta à assinatura em Lisboa em 11 de Abril de 1997.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 25/2000, publicada no Diário da República, 1.ª série-A, n.º 76, de 30 de Março de 2000, e ratificada pelo Decreto do Presidente da República n.º 12/2000, publicado no Diário da República, 1.ª série-A, n.º 76, de 30 de Março de 2000, tendo depositado o seu instrumento de ratificação em 15 de Outubro de 2001, conforme o Aviso n.º 122/2001, publicado no Diário da República, 1.ª série-A, n.º 279, de 3 de Dezembro de 2001.
+A Convenção entrou em vigor para a República da Turquia em 1 de Março de 2007.
+Direcção-Geral de Política Externa, 18 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
