@@ -1,0 +1,5 @@
+Aviso n.º 180/2007
+Por ordem superior se torna público ter o Reino da Espanha formulado junto do Secretário-Geral do Conselho da Europa, em 17 de Agosto de 2006, a comunicação das autoridades ou organismos designados de acordo com os artigos 2.1 e 2.2 do Acordo Europeu sobre a Transmissão de Pedidos de Assistência Judiciária, aberto para assinatura em Estrasburgo em 27 de Janeiro de 1977:
+Subdirección General de Cooperación Jurídica Internacional, Ministerio da Justicia, c/ San Bernardo, 62, 29071 Madrid, España.
+Portugal é Parte deste Acordo, aprovado, para ratificação, pelo Decreto do Governo n.º 57/84, publicado no Diário da República, 1.ª série, n.º 226, de 28 de Setembro de 1984, tendo depositado o seu instrumento de ratificação em 16 de Junho de 1986, conforme aviso publicado no Diário da República, 1.ª série, n.º 160, de 15 de Julho de 1986.
+Direcção-Geral de Política Externa, 19 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
