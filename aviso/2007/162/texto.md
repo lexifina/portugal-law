@@ -1,0 +1,5 @@
+Aviso n.º 162/2007
+Por ordem superior se torna público que o Montenegro sucedeu, junto do Secretário-Geral das Nações Unidas, em 23 de Outubro de 2006, ao Protocolo Opcional à Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres, aberto para assinatura em Nova Iorque em 6 de Outubro de 1999.
+Portugal é Parte neste Protocolo Opcional, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 17/2002, publicada no Diário da República, 1.ª série-A, n.º 57, de 8 de Março de 2002, e ratificado pelo Decreto do Presidente da República n.º 15/2002, publicado no Diário da República, 1.ª série-A, n.º 57, de 8 de Março de 2002, tendo depositado o seu instrumento de ratificação em 26 de Abril de 2002, conforme o Aviso n.º 63/2006, publicado no Diário da República, 1.º série, n.º 8, de 11 de Janeiro de 2006.
+O referido Protocolo Opcional entrou em vigor para o Montenegro em 3 de Junho de 2006, data da sucessão do Estado.
+Direcção-Geral de Política Externa, 17 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
