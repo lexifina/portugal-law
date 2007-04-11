@@ -1,0 +1,5 @@
+Aviso n.º 175/2007
+Por ordem superior se torna público que o Montenegro sucedeu, junto do Secretário-Geral das Nações Unidas, em 23 de Outubro de 2006, à Convenção contra a Criminalidade Organizada Transnacional, concluída em Nova Iorque em 15 de Novembro de 2000.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 32/2004, publicada no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, e ratificado pelo Decreto do Presidente da República n.º 19/2004, publicado no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, tendo depositado o seu instrumento de ratificação em 10 de Maio de 2004, conforme o Aviso n.º 121/2004, publicado no Diário da República, 1.ª série-A, n.º 141, de 17 de Junho de 2004.
+A Convenção entrou em vigor para o Montenegro em 3 de Junho de 2006, data da sucessão do Estado.
+Direcção-Geral de Política Externa, 18 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
