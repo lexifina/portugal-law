@@ -1,0 +1,5 @@
+Aviso n.º 172/2007
+Por ordem superior se torna público ter o Montenegro sucedido junto do Secretário-Geral das Nações Unidas, em 23 de Outubro de 2006, à Convenção Internacional para a Repressão de Atentados Terroristas à Bomba, concluída em Nova Iorque em 15 de Dezembro de 1997.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 40/2001, publicada no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, e ratificada pelo Decreto do Presidente da República n.º 31/2001, publicado no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, tendo depositado o seu instrumento de ratificação em 10 de Novembro de 2001, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 81, de 6 de Abril de 2002.
+A Convenção entrou em vigor para o Montenegro em 3 de Junho de 2006, data da sucessão do Estado.
+Direcção-Geral de Política Externa, 18 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
