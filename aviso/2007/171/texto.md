@@ -1,0 +1,5 @@
+Aviso n.º 171/2007
+Por ordem superior se torna público que o Montenegro sucedeu, junto do Secretário-Geral das Nações Unidas, em 23 de Outubro de 2006, à Convenção das Nações Unidas contra o Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas, concluída em Viena em 20 de Dezembro de 1988.
+Portugal é Parte nesta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 29/91, publicada no Diário da República, 1.ª série-A, n.º 205, de 6 de Setembro de 1991, e ratificada pelo Decreto do Presidente da República n.º 45/91, publicado no Diário da República, 1.ª série-A, n.º 205, de 6 de Setembro de 1991, tendo depositado o seu instrumento de ratificação em 3 de Dezembro de 1991, conforme o Aviso n.º 23/92, publicado no Diário da República, 1.ª série-A, n.º 54, de 5 de Março de 1992.
+A Convenção entrou em vigor para o Montenegro em 3 de Junho de 2006, data da sucessão do Estado.
+Direcção-Geral de Política Externa, 18 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
