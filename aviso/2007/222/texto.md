@@ -1,0 +1,5 @@
+Aviso n.º 222/2007
+Por ordem superior se torna público ter a Ucrânia depositado junto do Secretário-Geral do Conselho da Europa, em 21 de Dezembro de 2006, o seu instrumento de ratificação à Convenção Europeia para a Salvaguarda do Património Arquitectónico da Europa, aberta à assinatura em Granada em 3 de Outubro de 1985.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 5/91, publicada no Diário da República, 1.ª série-A, n.º 19, de 23 de Janeiro de 1991, e ratificada pelo Decreto do Presidente da República n.º 5/91, publicado no Diário da República, 1.ª série-A, n.º 19, de 23 de Janeiro de 1991, tendo Portugal depositado o seu instrumento de ratificação em 27 de Março de 1991, conforme o Aviso n.º 74/91, publicado no Diário da República, 1.ª série-A, n.º 123, de 29 de Maio de 1991.
+A Convenção entrará em vigor para a Ucrânia em 1 de Abril de 2007.
+Direcção-Geral de Política Externa, 18 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
