@@ -1,0 +1,5 @@
+Aviso n.º 215/2007
+Por ordem superior se torna público ter o Montenegro sucedido, junto do Secretário-Geral das Nações Unidas, em 23 de Outubro de 2006, à Convenção sobre os Direitos da Criança, concluída em Nova Iorque em 20 de Novembro de 1989.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 20/90, publicada no Diário da República, 1.ª série, n.º 211 (suplemento), de 12 de Setembro de 1990, e ratificada pelo Decreto do Presidente da República n.º 49/90, publicado no Diário da República, 1.ª série, n.º 211 (suplemento), de 12 de Setembro de 1990, tendo depositado o seu instrumento de ratificação em 21 de Setembro de 1990, conforme aviso publicado no Diário da República, 1.ª série, n.º 248, de 26 de Outubro de 1990.
+A Convenção entrou em vigor para o Montenegro em 3 de Junho de 2006, data da sucessão do Estado.
+Direcção-Geral de Política Externa, 17 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
