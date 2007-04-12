@@ -1,0 +1,4 @@
+Aviso n.º 199/2007
+Por ordem superior se torna público que a República do Equador depositou, junto do Secretário-Geral das Nações Unidas, em 26 de Setembro de 2006, o seu instrumento de aceitação à Emenda ao artigo 8.º da Convenção Internacional sobre a Eliminação de Todas as Formas de Discriminação Racial, concluída em Nova Iorque em 15 de Janeiro de 1992.
+Portugal é Parte nesta Emenda, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 4/2001, publicada no Diário da República, 1.ª série, n.º 23, de 27 de Janeiro de 2001, e ratificada pelo Decreto do Presidente da República n.º 5/2001, publicado no Diário da República, 1.ª série, n.º 23, de 27 de Janeiro de 2001.
+Direcção-Geral de Política Externa, 13 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
