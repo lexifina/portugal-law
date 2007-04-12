@@ -1,0 +1,5 @@
+Aviso n.º 230/2007
+Por ordem superior se torna público ter a Grécia depositado junto do Secretário-Geral do Conselho da Europa, em 10 de Julho de 2006, o seu instrumento de ratificação à Convenção Europeia para a Protecção do Património Arqueológico (revista), aberta à assinatura em La Valetta em 16 de Janeiro de 1992.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 71/97, publicada no Diário da República, 1.ª série-A, n.º 289, de 16 de Dezembro de 1997, e ratificada pelo Decreto do Presidente da República n.º 74/97, publicado no Diário da República, 1.ª série-A, n.º 289, de 16 de Dezembro de 1997, tendo depositado o seu instrumento de ratificação em 5 de Agosto de 1998, conforme o Aviso n.º 279/98, publicado no Diário da República, 1.ª série-A, n.º 281, de 5 de Dezembro de 1998.
+A Convenção entrou em vigor para a Grécia em 11 de Janeiro de 2007.
+Direcção-Geral de Política Externa, 19 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
