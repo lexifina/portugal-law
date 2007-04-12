@@ -1,0 +1,5 @@
+Aviso n.º 254/2007
+Por ordem superior se torna público que, em 19 de Janeiro de 2006, a República Democrática Socialista do Sri Lanka depositou o seu instrumento de adesão à Convenção de Roterdão Relativa ao Procedimento de Prévia Informação e Consentimento para Determinados Produtos Químicos e Pesticidas Perigosos no Comércio Internacional, concluída em Roterdão no dia 11 de Setembro de 1998.
+Portugal é Parte da mesma Convenção, aprovada pelo Decreto n.º 33/2004, publicado no Diário da República, 1.ª série-A, n.º 255, de 29 de Outubro de 2004, tendo depositado o seu instrumento de aprovação em 16 de Fevereiro de 2005, conforme o Aviso n.º 193/2005, publicado no Diário da República, 1.ª série-A, n.º 86, de 4 de Maio de 2005, e tendo entrado em vigor em 17 de Maio de 2005, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 86, de 4 de Maio de 2005.
+A Convenção entrou em vigor para a República Democrática Socialista do Sri Lanka em 19 de Abril de 2006.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 20 de Março de 2007. - O Director de Serviços das Organizações Económicas Internacionais, Paulo Jorge Pereira do Nascimento.
