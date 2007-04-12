@@ -1,0 +1,8 @@
+Aviso n.º 192/2007
+Por ordem superior se torna público ter a República da Estónia efectuado junto do Secretário-Geral do Conselho da Europa, em 9 de Setembro de 2004, uma retirada da reserva ao artigo 22.º e uma retirada parcial de uma reserva à Convenção de Auxílio Judiciário Mútuo em Matéria Penal, aberta à assinatura em Estrasburgo em 20 de Abril de 1959, ficando com a seguinte redacção:
+«Pursuant to article 5, paragraph 1, of the Convention, the Republic of Estonia declares that it will only execute the letters rogatory for search or seizure of property on conditions given in article 5, paragraph 1, sub-paragraph c).»
+Tradução da reserva
+Em conformidade com o n.º 1 do artigo 5.º da Convenção, a República da Estónia declara submeter o cumprimento das cartas rogatórias, para efeito de buscas ou apreensões de bens, às condições enunciadas no artigo 5.º, n.º 1, alínea c).
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 39/94, publicada no Diário da República, 1.ª série-A, n.º 161, de 14 de Julho de 1994, e ratificada pelo Decreto do Presidente da República n.º 56/94, publicado no Diário da República, 1.ª série-A, n.º 161, de 14 de Julho de 1994, tendo Portugal depositado o seu instrumento de ratificação em 27 de Setembro de 1994, conforme o Aviso n.º 280/94, publicado no Diário da República, 1.ª série-A, n.º 255, de 4 de Novembro de 1994.
+A retirada e a retirada parcial das reservas produziram efeitos para a República da Estónia em 9 de Setembro de 2004.
+Direcção-Geral de Política Externa, 26 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
