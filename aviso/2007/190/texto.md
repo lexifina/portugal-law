@@ -1,0 +1,8 @@
+Aviso n.º 190/2007
+Por ordem superior se torna público que a República da Hungria formulou, junto do Secretário-Geral do Conselho da Europa, em 16 de Agosto de 2004, uma renovação da seguinte reserva à Convenção Penal sobre a Corrupção, aberta à assinatura em Estrasburgo, em 27 de Janeiro de 1999:
+«In accordance with article 37, paragraph 1, of the Convention, Hungary reserves the right not to establish as criminal offences the conduct referred to in article 8 and committed by foreign citizens in the course of business activities abroad.»
+Tradução da reserva
+Em conformidade com o n.º 1 do artigo 37.º da Convenção, a Hungria reserva-se a faculdade de não classificar como infracções penais as práticas referidas no artigo 8.º e cometidas por nacionais estrangeiros no âmbito de actividade comercial no estrangeiro.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 68/2001, publicada no Diário da República, 1.ª série-A, n.º 249, de 26 de Outubro de 2001, e ratificada pelo Decreto do Presidente da República n.º 56/2001, publicado no Diário da República, 1.ª série-A, n.º 249, de 26 de Outubro de 2001, tendo depositado o seu instrumento de ratificação em 7 de Maio de 2002, conforme o Aviso n.º 60/2002, publicado no Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 2002.
+As reservas entraram em vigor para a República da Hungria em 1 de Julho de 2005, abrangendo um período de três anos a contar daquela data.
+Direcção-Geral de Política Externa, 26 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
