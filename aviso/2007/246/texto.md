@@ -1,0 +1,10 @@
+Aviso n.º 246/2007
+Por ordem superior se torna público ter a Bósnia-Herzegovina formulado junto do Secretário-Geral do Conselho da Europa, em 30 de Novembro de 2004, uma declaração à Convenção Relativa ao Branqueamento, Detecção, Apreensão e Perda dos Produtos do Crime, concluída em Estrasburgo em 8 de Novembro de 1990:
+«Bosnia and Herzegovina declares that the central authority responsible for matters concerning the Convention is the Ministry of Security of Bosnia and Herzegovina which, at a national level, acts as the Ministry of Internal Affairs of Bosnia and Herzegovina:
+Ministarstvo Sigurnosti Bosne i Hercegovine (Ministry of Security of Bosnia and Herzegovina), Minister Mr Barisa COLAK, Trg Bosne i Hercegovine br. 1, 71000 Sarajevo, Bosnia and Herzegovina; telephone and fax: +38733213623.»
+Tradução
+A Bósnia-Herzegovina declara que a autoridade central responsável pelas questões relacionadas com a Convenção é o Ministério da Segurança da Bósnia-Herzegovina, o qual, a nível nacional, age na qualidade de Ministério dos Assuntos Internos da Bósnia-Herzegovina:
+Ministarstvo Sigurnosti Bosne i Hercegovine (Ministério da Segurança da Bósnia-Herzegovina), Barisa COLAK, Ministro, Trg Bosne i Hercegovine br. 1, 71000 Sarajevo, Bósnia-Herzegovina; telefone e fax: 38733213623.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 70/97, publicada no Diário da República, 1.ª série-A, n.º 287, de 13 de Dezembro de 1997, e ratificada pelo Decreto do Presidente da República n.º 73/97, publicado no Diário da República, 1.ª série-A, n.º 287, de 13 de Dezembro de 1997, tendo depositado o seu instrumento de ratificação em 19 de Outubro de 1998, conforme o Aviso n.º 17/99, publicado no Diário da República, 1.ª série-A, n.º 26, de 1 de Fevereiro de 1999.
+A declaração produziu efeitos para a Bósnia-Herzegovina em 30 de Novembro de 2004.
+Direcção-Geral de Política Externa, 20 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
