@@ -1,0 +1,5 @@
+Aviso n.º 196/2007
+Por ordem superior se torna público que a Geórgia depositou junto do Secretário-Geral das Nações Unidas, em 5 de Setembro de 2006, o seu instrumento de ratificação à Convenção contra a Criminalidade Organizada Transnacional, concluída em Nova Iorque em 15 de Novembro de 2000.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 32/2004, publicada no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, e ratificada pelo Decreto do Presidente da República n.º 19/2004, publicado no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, tendo depositado o seu instrumento de ratificação em 10 de Maio de 2004, conforme o Aviso n.º 121/2004, publicado no Diário da República, 1.ª série-A, n.º 141, de 17 de Junho de 2004.
+Nos termos do n.º 2 do artigo 38.º, a Convenção entrou em vigor para a Geórgia em 5 de Outubro de 2006.
+Direcção-Geral de Política Externa, 12 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
