@@ -1,0 +1,5 @@
+Aviso n.º 187/2007
+Por ordem superior se torna público ter a República da Letónia efectuado junto do Secretário-Geral do Conselho da Europa, em 3 de Agosto de 2004, uma comunicação à Convenção Europeia em Matéria de Adopção de Crianças, aberta à assinatura em Estrasburgo em 24 de Abril de 1967, designando a seguinte autoridade competente:
+Ministry of Children and Family Affairs, Basteja blvd. 14, Riga, LV-1050, Letónia, telefone: +3717356497, fax: +3717356464, e-mail: pasts@bm.gov.lv.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 4/90, publicada no Diário da República, 1.ª série, n.º 26, de 31 de Janeiro de 1990, ratificada pelo Decreto do Presidente da República n.º 7/90, publicado no Diário da República, 1.ª série, n.º 43, de 20 de Fevereiro de 1990, tendo depositado o seu instrumento de ratificação em 23 de Abril de 1990, conforme aviso publicado no Diário da República, 1.ª série, n.º 124, de 30 de Maio de 1990.
+Direcção-Geral de Política Externa, 21 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
