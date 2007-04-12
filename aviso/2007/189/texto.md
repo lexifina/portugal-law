@@ -1,0 +1,8 @@
+Aviso n.º 189/2007
+Por ordem superior se torna público que a República do Chipre formulou, junto do Secretário-Geral do Conselho da Europa, em 25 de Agosto de 2004, uma renovação da seguinte reserva à Convenção Penal sobre a Corrupção, aberta à assinatura em Estrasburgo em 27 de Janeiro de 1999:
+«In accordance with article 37, paragraph 3, of the Convention, the Republic of Cyprus reserves its right to refuse mutual legal assistance under article 26, paragraph 1, if the request concerns an offence, which the requested Party considers a political offence.»
+Tradução da reserva
+Em conformidade com o n.º 3 do artigo 37.º da Convenção, a República do Chipre reserva-se a faculdade de recusar o auxílio judiciário mútuo, nos termos do n.º 1 do artigo 26.º, se o pedido se reportar a uma infracção considerada pela Parte requerida como infracção política.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 68/2001, publicada no Diário da República, 1.ª série-A, n.º 249, de 26 de Outubro de 2001, e ratificada pelo Decreto do Presidente da República n.º 56/2001, publicado no Diário da República, 1.ª série-A, n.º 249, de 26 de Outubro de 2001, tendo depositado o seu instrumento de ratificação em 7 de Maio de 2002, conforme o Aviso n.º 60/2002, publicado no Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 2002.
+As reservas entraram em vigor para a República do Chipre em 1 de Julho de 2005, abrangendo um período de três anos a contar daquela data.
+Direcção-Geral de Política Externa, 26 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
