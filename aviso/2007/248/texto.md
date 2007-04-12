@@ -1,0 +1,10 @@
+Aviso n.º 248/2007
+Por ordem superior se torna público ter o Reino da Bélgica formulado junto do Secretário-Geral do Conselho da Europa, em 27 de Maio de 2004, uma declaração à Convenção Europeia Relativa à Indemnização de Vítimas de Infracções Violentas, aberta para assinatura em Estrasburgo em 24 de Novembro de 1983:
+«According to article 12 of the Convention, the Government of the Kingdom of Belgium designates as central authority the Secretariat of the 'Commission pour l'aide aux victimes d'actes intentionnels de violence', Avenue de la Porte de Hal 5-8, 1060 Bruxelles, tel.: 003225427224; fax: 003225427240.
+The Secretariat of the Commission is responsible for receiving and executing the requests for assistance; it will also be responsible for ensuring compliance with the provision of article 13.»
+Tradução
+Em conformidade com o artigo 12.º da Convenção, o Governo do Reino da Bélgica designa como autoridade central o Secretariado da «Commision pour l'aide aux victimes d'actes intentionnels de violence», Avenue de la Porte de Hal 5-8, 1060 Bruxelles, tel.: 003225427224; fax: 003225427240.
+O Secretariado da Comissão fica encarregado de receber e dar seguimento aos pedidos de auxílio. Este será, igualmente, responsável pela garantia do cumprimento das disposições do artigo 13.º
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 16/2000, publicada no Diário da República, 1.ª série-A, n.º 55, de 6 de Março de 2000, e ratificada pelo Decreto do Presidente da República n.º 4/2000, publicado no Diário da República, 1.ª série-A, n.º 55, de 6 de Março de 2000, tendo depositado o seu instrumento de ratificação em 13 de Agosto de 2001, conforme o Aviso n.º 107/2001, publicado no Diário da República, 1.ª série-A, n.º 228, de 1 de Outubro de 2001.
+A declaração produziu efeitos para o Reino da Bélgica em 1 de Julho de 2004.
+Direcção-Geral de Política Externa, 20 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
