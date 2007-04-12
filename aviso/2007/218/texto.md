@@ -1,0 +1,5 @@
+Aviso n.º 218/2007
+Por ordem superior se torna público que o Montenegro sucedeu, junto do Secretário-Geral das Nações Unidas, em 23 de Outubro de 2006, à alteração ao n.º 2 do artigo 43.º da Convenção sobre os Direitos da Criança, concluída em Nova Iorque em 12 de Dezembro de 1995.
+Portugal é Parte nesta alteração, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 12/98, publicada no Diário da República, 1.ª série-A, n.º 66, de 19 de Março de 1998, e ratificada pelo Decreto do Presidente da República n.º 12/98, publicado no Diário da República, 1.ª série-A, n.º 66, de 19 de Março de 1998, tendo aceite a alteração em 20 de Novembro de 1998, conforme o Aviso n.º 267/98, publicado no Diário da República, 1.ª série-A, n.º 269, de 20 de Novembro de 1998.
+A alteração entrou em vigor para o Montenegro em 3 de Junho de 2006, data da sucessão do Estado.
+Direcção-Geral de Política Externa, 18 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
