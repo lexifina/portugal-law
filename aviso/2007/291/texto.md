@@ -1,0 +1,8 @@
+Aviso n.º 291/2007
+Por ordem superior se torna público ter a República da Hungria formulado junto do Secretário-Geral do Conselho da Europa, em 27 de Maio de 2004, uma declaração à Carta Social Europeia, aberta à assinatura em Turim em 18 de Outubro de 1961, tendo formulado uma declaração:
+«According to article 20, paragraph 3, of the Charter, the Government of Hungary informs that the National Assembly of the Republic of Hungary by its Decree No. 34/2004 (IV.26), has considered the Republic of Hungary bound by the following numbered paragraphs of part II of the Charter: paragraph 1 of article 7, article 10, paragraph 1 of article 12 and article 15.»
+Tradução da declaração
+Em conformidade com o n.º 3 do artigo 20.º da Carta, o Governo da Hungria informa que, pelo Decreto n.º 34/2004 (IV.26), a Assembleia Nacional da República da Hungria considera a República da Hungria vinculada pelas seguintes disposições da parte II da Carta: n.º 1 do artigo 7.º, artigo 10.º, n.º 1 do artigo 12.º e artigo 15.º
+Portugal é Parte desta Carta, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 21/91, publicada no Diário da República, 1.ª série, n.º 179, de 6 de Agosto de 1991, e ratificada pelo Decreto do Presidente da República n.º 38/91, publicado no Diário da República, 1.ª série-A, n.º 179, de 6 de Agosto de 1991, tendo depositado o seu instrumento de ratificação em 30 de Setembro de 1991, conforme o Aviso n.º 151/91, publicado no Diário da República, 1.ª série-A, n.º 241, de 19 de Outubro de 1991.
+A declaração produziu efeitos para a República da Hungria em 22 de Julho de 2004.
+Direcção-Geral de Política Externa, 20 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
