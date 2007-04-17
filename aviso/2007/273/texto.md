@@ -1,0 +1,5 @@
+Aviso n.º 273/2007
+Por ordem superior se torna público que a República do Ruanda depositou junto do Secretário-Geral das Nações Unidas, em 4 de Outubro de 2006, o seu instrumento de ratificação do Protocolo Adicional contra o Tráfico Ilícito de Migrantes por Via Terrestre, Marítima e Aérea, concluído em Nova Iorque em 15 de Novembro de 2000.
+Portugal é Parte deste Protocolo Adicional, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 32/2004, publicada no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, e ratificado pelo Decreto do Presidente da República n.º 19/2004, publicado no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, tendo depositado o seu instrumento de ratificação em 10 de Maio de 2004, conforme o Aviso n.º 121/2004, publicado no Diário da República, 1.ª série-A, n.º 141, de 17 de Junho de 2004.
+De acordo com o n.º 2 do artigo 22.º, o Protocolo Adicional entrou em vigor para a República do Ruanda em 3 de Novembro de 2006.
+Direcção-Geral de Política Externa, 17 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
