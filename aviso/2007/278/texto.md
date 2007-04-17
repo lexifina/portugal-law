@@ -1,0 +1,5 @@
+Aviso n.º 278/2007
+Por ordem superior se torna público ter o Montenegro sucedido junto do Secretário-Geral das Nações Unidas, em 23 de Outubro de 2006, ao Protocolo Facultativo à Convenção sobre os Direitos da Criança Relativo à Venda de Crianças, Prostituição Infantil e Pornografia Infantil, aberto para assinatura em Nova Iorque em 25 de Maio de 2000.
+Portugal é Parte deste Protocolo Facultativo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 16/2003, publicada no Diário da República, 1.ª série-A, n.º 54, de 5 de Março de 2003, e ratificado pelo Decreto do Presidente da República n.º 14/2003, publicado no Diário da República, 1.ª série-A, n.º 54, de 5 de Março de 2003, tendo depositado o seu instrumento de ratificação em 16 de Maio de 2003, conforme o Aviso n.º 94/2006, publicado no Diário da República, 1.ª série-A, n.º 9, de 12 de Janeiro de 2006.
+O referido Protocolo Facultativo entrou em vigor para o Montenegro em 3 de Junho de 2006, data da sucessão do Estado.
+Direcção-Geral de Política Externa, 18 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
