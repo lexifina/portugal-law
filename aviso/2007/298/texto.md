@@ -1,0 +1,7 @@
+Aviso n.º 298/2007
+Por ordem superior se torna público que a República Portuguesa formulou junto do Secretário-Geral do Conselho da Europa, em 22 de Maio de 2002, com o seu instrumento de aprovação, uma declaração ao Protocolo à Convenção Europeia de Segurança Social, aberto à assinatura em Estrasburgo em 11 de Maio de 1994, tendo formulado uma declaração:
+«The Republic of Portugal declares that it will apply the provisions of articles 8 and 11 of the European Convention on Social Security only to the persons covered by article 4 of the Convention without taking into account the amendment provided for under article 2 of this Protocol.»
+Tradução
+Nos termos do artigo 3.º do Protocolo, a República Portuguesa declara que aplica unicamente os artigos 8.º e 11.º da Convenção Europeia de Segurança Social às pessoas previstas no artigo 4.º desta Convenção, não considerando as alterações estabelecidas no artigo 2.º do mesmo Protocolo.
+Portugal é Parte deste Protocolo, aprovado pelo Decreto n.º 23/2000, publicado no Diário da República, 1.ª série-A, n.º 213, de 14 de Setembro de 2000, tendo depositado o seu instrumento de aprovação em 22 de Maio de 2002, conforme o Aviso n.º 62/2002, publicado no Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 2002.
+Direcção-Geral de Política Externa, 20 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
