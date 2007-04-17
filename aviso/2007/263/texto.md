@@ -1,0 +1,8 @@
+Aviso n.º 263/2007
+Por ordem superior se torna público ter a Geórgia depositado junto do Secretário-Geral do Conselho da Europa, em 13 de Maio de 2004, o seu instrumento de ratificação da Convenção Relativa ao Branqueamento, Detecção, Apreensão e Perda dos Produtos do Crime, concluída em Estrasburgo em 8 de Novembro de 1990, tendo, em conformidade com o artigo 23.º da Convenção, declarado as seguintes autoridades encarregadas da aplicação da Convenção:
+Sr. Nikoloz Gegutchadze, head of the Financial Monitoring Service of Georgia, National Bank of Georgia, 3/5 Leonidze str., Tbilisi 0105; telf.: (99532)923678/923348; fax: (99532)936941; e-mail: Nikag@fms.gov.ge;
+Sr. Kakhaber Gurasashvili, head of the Division of the Management of Civil, Financial and Industrial Law, Legal Expertise of the Ministry of Justice of Georgia; telf.: (99532)758262;
+Sr. Valeri Tsertscadze, head of the Legal Expertise Service of the Prosecutor General of Georgia; telf.: (99599)193489.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 70/97, publicada no Diário da República, 1.ª série-A, n.º 287, de 13 de Dezembro de 1997, e ratificada pelo Decreto do Presidente da República n.º 73/97, publicado no Diário da República, 1.ª série-A, n.º 287, de 13 de Dezembro de 1997, tendo depositado o seu instrumento de ratificação em 19 de Outubro de 1998, conforme o Aviso n.º 17/99, publicado no Diário da República, 1.ª série-A, n.º 26, de 1 de Fevereiro de 1999.
+A Convenção entrou em vigor para a Geórgia em 1 de Setembro de 2004.
+Direcção-Geral de Política Externa, 21 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
