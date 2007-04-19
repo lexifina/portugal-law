@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal de Justiça de 2007-04-19, processo 07P802
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 07P802
+
+**Nº Convencional:** JSTJ000
+
+**Relator:** RODRIGUES DA COSTA
+
+**Descritores:** COMPETÊNCIA DO SUPREMO TRIBUNAL DE JUSTIÇA; COMPETÊNCIA DA RELAÇÃO; ADMISSIBILIDADE DE RECURSO; RECURSO DA MATÉRIA DE FACTO; PRINCÍPIO DA PRECLUSÃO; VÍCIOS DO ARTº 410 CPP
+
+**Nº do Documento:** SJ2007041908025
+
+**Data do Acordão:** 04/19/2007
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO PENAL
+
+**Decisão:** REJEITADO O RECURSO
+
+## Sumário
+
+I - Tem entendido este Tribunal, em jurisprudência praticamente uniforme, que o recurso em matéria de facto, ainda que restrito aos vícios do art. 410.º, n.º 2, do CPP (a chamada revista alargada) tem actualmente (depois da reforma introduzida pela Lei 59/98, de 25-08) de ser interposto para a Relação e, da decisão desta que sobre tal matéria se pronuncie já
+
+não é admissível recurso para o STJ, pelo que se haverão de se considerar precludidas todas as razões que foram ou podiam ser invocadas nesse recurso, cuja decisão esgota os poderes de cognição nessa matéria – cf., entre outros, os Acs. de 01-06-06, Proc. n.º 1427/06 – 5.ª e de 22-06-06, Proc. n.º 1923/06 – 5.ª.
+
+II - Esta interpretação colhe apoio na redacção introduzida pela aludida reforma na al. d) do art.432.º do CPP, que passou a conter a locução, antes inexistente, visando exclusivamente o reexame da matéria de direito.
