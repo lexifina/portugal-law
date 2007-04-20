@@ -1,0 +1,8 @@
+Aviso n.º 319/2007
+Por ordem superior se torna público ter o Principado do Liechtenstein depositado junto do Secretário-Geral do Conselho da Europa, em 20 de Dezembro de 2004, o seu instrumento de ratificação do Protocolo n.º 7 à Convenção de Salvaguarda dos Direitos do Homem e das Liberdades Fundamentais, aberto para assinatura em Estrasburgo em 22 de Novembro de 1984, conforme alterado pelo Protocolo n.º 11, tendo formulado uma declaração:
+«The Government of the Principality of Liechtenstein declares that only those offences which, under Liechtenstein law, fall within the jurisdiction of the Liechtenstein criminal courts may be regarded as offences within the meaning of article 2 of this Protocol.»
+Tradução
+O Governo do Principado do Liechtenstein declara que apenas as infracções que, nos termos do direito do Liechtenstein, sejam da competência dos tribunais criminais do Liechtenstein poderão ser consideradas infracções no sentido do artigo 2.º do presente Protocolo.
+Portugal é Parte deste Protocolo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 22/90, publicada no Diário da República, 1.ª série, n.º 224, de 27 de Setembro de 1990, e ratificado pelo Decreto do Presidente da República n.º 51/90, publicado no Diário da República, 1.ª série, n.º 224, de 27 de Setembro de 1990, tendo depositado o seu instrumento de ratificação em 20 de Dezembro de 2004, conforme o Aviso n.º 264/2005, publicado no Diário da República, 1.ª série-A, n.º 117, de 21 de Junho de 2005.
+O Protocolo entrou em vigor para o Principado do Liechtenstein em 1 de Março de 2005.
+Direcção-Geral de Política Externa, 21 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
