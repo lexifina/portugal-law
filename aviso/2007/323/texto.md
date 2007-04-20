@@ -1,0 +1,5 @@
+Aviso n.º 323/2007
+Por ordem superior se torna público ter o Canadá depositado junto do Director-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), em 29 de Novembro de 2005, o seu instrumento de adesão ao Primeiro Protocolo à Convenção para a Protecção dos Bens Culturais em Caso de Conflito Armado, concluído na Haia em 14 de Maio de 1954.
+Portugal é Parte deste Protocolo, aprovado, para adesão, pela Resolução da Assembleia da República n.º 4/2005, publicada no Diário da República, 1.ª série-A, n.º 31, de 14 de Fevereiro de 2005, e ratificado pelo Decreto do Presidente da República n.º 9/2005, publicado no Diário da República, 1.ª série-A, n.º 31, de 14 de Fevereiro de 2005, tendo depositado o seu instrumento de adesão em 18 de Fevereiro de 2005, conforme o Aviso n.º 228/2005, publicado no Diário da República, 1.ª série-A, n.º 99, de 23 de Maio de 2005.
+De acordo com o artigo 10.º, alínea b), o Protocolo entrou em vigor para o Canadá em 28 de Fevereiro de 2006.
+Direcção-Geral de Política Externa, 22 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
