@@ -1,0 +1,5 @@
+Aviso n.º 328/2007
+Por ordem superior se torna público ter a República Islâmica do Afeganistão depositado junto do Director-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), em 8 de Setembro de 2005, o seu instrumento de aceitação à Convenção Relativa às Medidas a Adoptar para Proibir e Impedir a Importação, a Exportação e a Transferência Ilícitas de Propriedade de Bens Culturais, adoptada na 16.ª Sessão da Conferência Geral da UNESCO, concluída em Paris em 14 de Novembro de 1970.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pelo Decreto do Governo n.º 26/85, publicado no Diário da República, 1.ª série, n.º 170, de 26 de Julho de 1985, tendo depositado o seu instrumento de ratificação em 9 de Dezembro de 1985, conforme o Aviso n.º 78/2002, publicado no Diário da República, 1.ª série-A, n.º 177, de 2 de Agosto de 2002.
+De acordo com o artigo 21.º, a Convenção entrou em vigor para a República Islâmica do Afeganistão em 8 de Dezembro de 2005.
+Direcção-Geral de Política Externa, 22 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
