@@ -1,0 +1,5 @@
+Aviso n.º 327/2007
+Por ordem superior se torna público ter o Reino da Suazilândia depositado junto do Director-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), em 30 de Novembro de 2005, o seu instrumento de ratificação à Convenção para a Protecção do Património Mundial, Cultural e Natural, adoptada pela UNESCO, concluída em Paris em 16 de Novembro de 1972.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pelo Decreto n.º 49/79, publicado no Diário da República, 1.ª série, n.º 130, de 6 de Junho de 1979, tendo depositado o seu instrumento de ratificação em 2 de Outubro de 1980, conforme aviso publicado no Diário da República, 1.ª série, n.º 264, de 14 de Novembro de 1980.
+De acordo com o artigo 33.º, a Convenção entrou em vigor para o Reino da Suazilândia em 28 de Fevereiro de 2006.
+Direcção-Geral de Política Externa, 22 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
