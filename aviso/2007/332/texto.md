@@ -1,0 +1,6 @@
+Aviso n.º 332/2007
+Por ordem superior se torna público que a República do Ruanda depositou, em 1 de Dezembro de 2005, o seu instrumento de adesão à Convenção sobre Zonas Húmidas de Importância Internacional, especialmente como Habitat de Aves Aquáticas (Ramsar, 1971), tal como emendada pelo Protocolo de 1982.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 101/80, publicado no Diário da República, 1.ª série, n.º 234, de 9 de Outubro de 1980, tendo depositado o seu instrumento de ratificação em 24 de Novembro de 1980 (Diário da República, 1.ª série-A, n.º 33, de 9 de Fevereiro de 1981).
+Portugal também é Parte do Protocolo de 1982, aprovado, para ratificação, pelo Decreto do Governo n.º 33/84, publicado no Diário da República, 1.ª série-A, n.º 158, de 10 de Julho de 1984, tendo depositado o seu instrumento de ratificação em 18 de Novembro de 1984 (Diário da República, 1.ª série, n.º 29, de 4 de Fevereiro de 1985).
+Nos termos do artigo 10 (2), a Convenção tal como emendada pelo Protocolo entrou em vigor para a República do Ruanda no dia 1 de Abril de 2006.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 30 de Março de 2007. - O Director de Serviços das Organizações Económicas Internacionais, Paulo Jorge Pereira do Nascimento.
