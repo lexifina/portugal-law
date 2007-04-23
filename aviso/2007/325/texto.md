@@ -1,0 +1,14 @@
+Aviso n.º 325/2007
+Por ordem superior se torna público ter a República da Arménia depositado junto do Secretário-Geral do Conselho da Europa, em 7 de Janeiro de 2005, o seu instrumento de ratificação à Convenção sobre o Reconhecimento das Qualificações Relativas ao Ensino Superior na Região Europa, aberta à assinatura em Lisboa em 11 de Abril de 1997, tendo formulado uma reserva e uma declaração:
+«In accordance with article XI.4, paragraph 2, of the Convention, the Republic of Armenia declares that it will abstain from ratifying the European Convention on the General Equivalence of Periods of University Study (ETS No. 138), signed by Armenia on 26 May 2000.
+In accordance with article XI.7 of the Convention, the Republic of Armenia declares that it reserves the right not to apply article IV.8 of the Convention.
+In accordance with article II.2 of the Convention, the Republic of Armenia declares that the authority competent to make decisions in recognition cases in the Republic of Armenia is the Ministry of Education and Science:
+Ministry of Education and Science, 13 Movses Khorenatsi Street, 375010 Yerevan, Armenia, tel.: +374(2)526-602, +374(2)589-543, fax: +374(2)151-651, +374(2)580-403; e-mail: mines@edu.am; mher@edu.am; mhermg@freenet.am; Internet: http://www.edu.am/mes.»
+Tradução
+Em conformidade com o n.º 2 do artigo XI.4 da Convenção, a República da Arménia declara que se absterá de ratificar a Convenção Europeia sobre Equivalência Geral de Períodos de Estudos Universitários (STE n.º 138), assinada pela Arménia em 26 de Maio de 2000.
+Em conformidade com o artigo XI.7 da Convenção, a República da Arménia declara que se reserva o direito de não aplicar o artigo IV.8 à Convenção.
+Em conformidade com o artigo II.2 da Convenção, a República da Arménia declara que a autoridade competente para tomar decisões em casos de reconhecimento na República da Arménia é o Ministério para a Educação e a Ciência:
+Ministério para a Educação e a Ciência, 13 Movses Khorenatsi Street, 375010 Yerevan, Arménia; telefones: +374(2)526-602, +374(2)589-543; faxes: +374(2)151-651, +374(2)580-403; e-mail: mines@edu.am; mher@edu.am; mhermg@freenet.am; Internet: http://www.edu.am/mes.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 25/2000, publicada no Diário da República, 1.ª série-A, n.º 76, de 30 de Março de 2000, e ratificada pelo Decreto do Presidente da República n.º 12/2000, publicado no Diário da República, 1.ª série-A, n.º 76, de 30 de Março de 2000, tendo depositado o seu instrumento de ratificação em 15 de Outubro de 2001, conforme o Aviso n.º 122/2001, publicado no Diário da República, 1.ª série-A, n.º 279, de 3 de Dezembro de 2001.
+A Convenção entrou em vigor para a República da Arménia em 1 de Março de 2005.
+Direcção-Geral de Política Externa, 21 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
