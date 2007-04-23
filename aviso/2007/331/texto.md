@@ -1,0 +1,5 @@
+Aviso n.º 331/2007
+Por ordem superior se torna público ter a República da Guiné-Bissau depositado junto do Director-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), em 28 de Janeiro de 2006, o seu instrumento de ratificação à Convenção para a Protecção do Património Mundial, Cultural e Natural, adoptada pela UNESCO, concluída em Paris em 16 de Novembro de 1972.
+Portugal é Parte desta Convenção, aprovada, para ratificação, pelo Decreto n.º 49/79, publicado no Diário da República, 1.ª série, n.º 130, de 6 de Junho de 1979, tendo depositado o seu instrumento de ratificação em 2 de Outubro de 1980, conforme aviso publicado no Diário da República, 1.ª série, n.º 264, de 14 de Novembro de 1980.
+De acordo com o artigo 33.º, a Convenção entrou em vigor para a República da Guiné-Bissau em 28 de Abril de 2006.
+Direcção-Geral de Política Externa, 22 de Março de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
