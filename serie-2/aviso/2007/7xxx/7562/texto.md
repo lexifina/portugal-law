@@ -1,0 +1,5 @@
+Aviso n.º 7562/2007
+António Baptista Duarte Silva, presidente da Câmara Municipal da Figueira da Foz, torna público, nos termos do n.º 4 e seguintes do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, e de acordo com a deliberação da Câmara de 2 de Abril corrente, que o projecto do Plano de Pormenor da Lagoa da Vela se encontra em discussão pública.
+Convidam-se todos os interessados a apresentar as suas reclamações, observações, sugestões e pedidos de esclarecimento que possam ser considerados no âmbito do respectivo processo, durante 22 dias úteis, contados a partir dos 10 dias úteis, subsequentes à publicação do presente aviso na 2.ª série do Diário da República.
+As reclamações, observações, sugestões e pedidos de esclarecimento deverão ter a forma escrita, dirigidos ao presidente da Câmara Municipal e apresentados no Departamento de Urbanismo desta Câmara Municipal da Figueira da Foz, onde o processo poderá ser consultado, nos dias úteis, no período das 9 às 12 horas e das 14 horas às 16 horas e 30 minutos.
+2 de Abril de 2007. - O Presidente da Câmara, António Duarte Silva.
