@@ -1,0 +1,4 @@
+Aviso n.º 7552/2007
+José Francisco Gomes Monteiro, presidente da Câmara Municipal de Celorico da Beira, torna público que, em cumprimento da deliberação tomada em reunião do executivo realizada em 21 de Março de 2007 e para efeitos no prescrito no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, se encontra em apreciação pública, pelo prazo de 30 dias a contar da data da publicação deste aviso no Diário da República, a proposta de regulamento municipal de uso do fogo e tabela de taxas, o qual poderá ser consultado nos Serviços Administrativos, dentro das horas de expediente dos mesmos, convidando-se todos os interessados para, no decorrer do prazo acima referido apresentarem por escrito, as reclamações, observações ou sugestões que acharem por convenientes.
+28 de Março de 2007. - O Presidente da Câmara, José Francisco Gomes Monteiro.
+2611006149
