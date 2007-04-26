@@ -1,0 +1,5 @@
+Aviso n.º 344/2007
+Por ordem superior se torna público que a República Portuguesa depositou junto do Director-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), em 16 de Março de 2007, o seu instrumento de ratificação da Convenção sobre a Protecção e a Promoção da Diversidade das Expressões Culturais, adoptada em Paris, em 20 de Outubro de 2005, pela 33.ª Sessão da Conferência Geral da UNESCO.
+A Convenção foi aprovada pela Resolução da Assembleia da República n.º 10-A/2007, publicada no suplemento ao Diário da República, 1.ª série, n.º 54, de 16 de Março de 2007, e ratificada pelo Decreto do Presidente da República n.º 27-B/2007, publicado no suplemento ao Diário da República, 1.ª série, n.º 54, de 16 de Março de 2007.
+De acordo com o artigo 29.º, a Convenção entrará em vigor para a República Portuguesa em 16 de Junho de 2007.
+Direcção-Geral de Política Externa, 2 de Abril de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
