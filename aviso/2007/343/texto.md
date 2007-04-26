@@ -1,0 +1,4 @@
+Aviso n.º 343/2007
+Por ter sido publicado com inexactidão o Aviso n.º 109/2007, publicado no Diário da República, 1.ª série, n.º 62, de 28 de Março de 2007, procede-se à sua rectificação:
+Onde se lê «A República Portuguesa é Parte na Convenção, a qual foi aprovada pelo Decreto-Lei n.º 41378, publicado no Diário do Governo, 1.ª série, n.º 262, de 19 de Novembro de 1957, tendo depositado o seu instrumento de ratificação em 13 de Setembro de 1968, conforme o Aviso publicado no Diário do Governo, 1.ª série, n.º 217. A Convenção Relativa ao Estatuto da Conferência da Haia de Direito Internacional Privado está em vigor para Portugal desde 15 de Julho de 1955.» deve ler-se «A República Portuguesa é Parte na Convenção, a qual foi aprovada pelo Decreto-Lei n.º 41378, publicado no Diário do Governo, 1.ª série, n.º 262, de 19 de Novembro de 1957.».
+Departamento de Assuntos Jurídicos, 29 de Março de 2007. - O Director, Luís Serradas Tavares.
