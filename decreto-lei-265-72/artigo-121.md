@@ -20,7 +20,7 @@ g) Impresso para informação das condições em que foi feito o carregamento;
 
 h) (Revogada.)
 
-i) Certificados e outros documentos do Regulamento do Serviço Radioeléctrico das Embarcações (R. S. R. E.);
+i) (Revogada.)
 
 j) Certificados e outros documentos do R. I. M.;
 
