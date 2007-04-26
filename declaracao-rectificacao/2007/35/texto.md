@@ -1,0 +1,15 @@
+Declaração de Rectificação n.º 35/2007
+Para os devidos efeitos se declara que o Decreto-Lei n.º 47/2007, publicado no Diário da República, 1.ª série, n.º 41, de 27 de Fevereiro de 2007, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+1 - Na alínea a) do n.º 1 do artigo 8.º, onde se lê:
+«a) Cinco representantes da produção, indicados pelo conselho regional da Casa do Douro, sendo um representativo das organizações dos produtores-engarrafadores inscritos no IVDP, I. P., e outro representativo das adegas cooperativas inscritas no IVDP, I. P., nos termos do artigo 20.º do Regulamento da Denominação de Origem Vinho do Porto, aprovado pelo Decreto-Lei n.º 166/86, de 26 de Junho, em função da respectiva representatividade, aferida pelas vendas de vinho com direito à denominação de origem 'Porto' dos seus associados;»
+deve ler-se:
+«a) Cinco representantes da produção, indicados pelo conselho regional da Casa do Douro, sendo um representativo das organizações dos produtores-engarrafadores inscritos no IVDP, I. P., e outro representativo das adegas cooperativas inscritas no IVDP, I. P., nos termos do artigo 20.º do Regulamento da Denominação de Origem Vinho do Porto, aprovado pelo Decreto-Lei n.º 166/86, de 26 de Junho, em função da respectiva representatividade, aferida pela produção de vinho com direito à denominação de origem 'Porto' dos seus associados;»
+2 - Na alínea a) do n.º 1 do artigo 9.º, onde se lê:
+«a) Cinco representantes da produção, indicados pelo conselho regional da Casa do Douro, sendo um representativo das organizações dos vitivinicultores-engarrafadores inscritos no IVDP, I. P., e outro representativo das adegas cooperativas inscritas no IVDP, I. P., nos termos do artigo 13.º do Estatuto da Denominação de Origem Controlada Douro, aprovado pelo Decreto-Lei n.º 190/2001, de 25 de Junho, em função da respectiva representatividade, aferida pelas vendas de vinho com direito à denominação de origem 'Douro' dos seus associados;»
+deve ler-se:
+«b) Cinco representantes da produção, indicados pelo conselho regional da Casa do Douro, sendo um representativo das organizações dos vitivinicultores-engarrafadores inscritos no IVDP, I. P., e outro representativo das adegas cooperativas inscritas no IVDP, I. P., nos termos do artigo 13.º do Estatuto da Denominação de Origem Controlada Douro, aprovado pelo Decreto-Lei n.º 190/2001, de 25 de Junho, em função da respectiva representatividade, aferida pela produção de vinho com direito à denominação de origem 'Douro' dos seus associados;»
+3 - Na alínea b) do n.º 1 do artigo 15.º, onde se lê:
+«b) O produto das taxas cobradas sobre o vinho ou mosto produzido passível de obtenção das denominações de origem 'Porto' e 'Douro' e indicação geográfica 'Terras Durienses';»
+deve ler-se:
+«b) O produto das taxas cobradas sobre o vinho ou mosto produzido passível de obtenção das denominações de origem 'Porto' e 'Douro' e indicação geográfica 'Duriense';»
+Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Abril de 2007. - Pelo Secretário-Geral, a Secretária-Geral-Adjunta, Ana Almeida.
