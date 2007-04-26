@@ -1,0 +1,5 @@
+Aviso n.º 7707/2007
+Quarta alteração ao Plano Director Municipal da Batalha
+António José Martins de Sousa Lucas, presidente da Câmara Municipal da Batalha, torna público que a Câmara Municipal, em reunião realizada no dia 22 de Março de 2007, deliberou proceder à abertura de um período de discussão pública da alteração ao Plano Director Municipal, que se iniciará 15 dias úteis após a presente publicação, com a duração de 44 dias úteis, conforme disposto nos n.os 4 e 5 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro.
+Durante o período de discussão pública os interessados podem consultar no edifício dos Paços do Município e em www.cm-batalha.pt a proposta, acompanhada do parecer da Comissão de Coordenação e Desenvolvimento Regional do Centro, e apresentar as suas reclamações, observações ou sugestões, através do preenchimento de impresso próprio que será disponibilizado nos locais de consulta do plano, dirigidas ao presidente da Câmara Municipal da Batalha.
+23 de Março de 2007. - O Presidente da Câmara, António José Martins de Sousa Lucas.
