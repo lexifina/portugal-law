@@ -1,0 +1,5 @@
+Aviso n.º 348/2007
+Por ordem superior se torna público que, em 12 de Outubro de 2006, a República de Madagáscar depositou o seu instrumento de adesão ao Acordo para a Conservação das Aves Aquáticas Migradoras Afro-Asiáticas.
+Portugal é Parte do mesmo Acordo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 69/2003, publicada no Diário da República, 1.ª série-A, n.º 190, de 19 de Agosto de 2003, e tendo sido ratificado pelo Decreto do Presidente da República n.º 47/2003, publicado no Diário da República, 1.ª série-A, n.º 190, de 19 de Agosto de 2003, conforme o Aviso n.º 140/2005, publicado no Diário da República, 1.ª série-A, n.º 190, de 21 de Abril de 2005.
+O Acordo para a Conservação das Aves Aquáticas Migradoras Afro-Asiáticas entrou em vigor para a República de Madagáscar em 1 de Janeiro de 2007, como consta do seu artigo XIV, § 2.º
+Direcção-Geral dos Assuntos Técnicos e Económicos, 9 de Abril de 2007. - O Director de Serviços das Organizações Económicas Internacionais, Paulo Jorge Pereira do Nascimento.
