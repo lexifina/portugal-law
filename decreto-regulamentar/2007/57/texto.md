@@ -1,0 +1,90 @@
+Decreto Regulamentar n.º 57/2007
+de 27 de Abril
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos, com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no Decreto-Lei n.º 208/2006, de 27 de Outubro, que aprovou a Lei Orgânica do Ministério da Economia e da Inovação, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura. Na Resolução do Conselho de Ministros n.º 39/2006, de 21 de Abril, o Governo deliberou que o Instituto do Consumidor fosse integrado na administração directa do Estado com a designação de Direcção-Geral do Consumidor, tendo o artigo 14.º da Lei Orgânica do Ministério da Economia e da Inovação consagrado a sua existência.
+O Instituto do Consumidor, criado em 1993, sucedeu na universalidade dos direitos ao Instituto Nacional de Defesa do Consumidor, criado pela Lei n.º 29/81, de 22 de Agosto, Lei de Defesa do Consumidor.
+O Instituto do Consumidor assumiu um papel pioneiro na sociedade portuguesa, designadamente pelo trabalho desenvolvido na promoção dos direitos dos consumidores, no incremento do movimento associativo, no apoio ao acesso à justiça dos consumidores e à criação de mecanismos de resolução extrajudicial de conflitos de consumo, pela atenção dada à protecção dos interesses dos consumidores nas novas formas de comercialização, pelo reforço do papel do consumidor enquanto elemento do mercado, pela integração da política de defesa do consumidor nas outras políticas e pela abordagem dos direitos dos consumidores portugueses enquanto direitos de cidadãos comunitários, contribuindo para a realização do mercado interno europeu.
+A complexidade da política de defesa do consumidor, a sua transversalidade, tornou, em determinados aspectos, a missão do Instituto do Consumidor complementar ou paralela à missão de outros serviços, sobrepondo funções.
+Verificadas as condições a que se refere o artigo 25.º da Lei n.º 4/2004, de 15 de Janeiro, procede-se com o presente decreto regulamentar à reestruturação do Instituto do Consumidor.
+Assim:
+Ao abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Natureza
+A Direcção-Geral do Consumidor, abreviadamente designada por DGC, é um serviço central da administração directa do Estado, dotado de autonomia administrativa.
+Artigo 2.º
+Missão e atribuições
+1 - A DGC tem por missão contribuir para a elaboração, definição e execução da política de defesa do consumidor com o objectivo de assegurar um nível elevado de protecção.
+2 - A DGC prossegue as seguintes atribuições:
+a) Colaborar na definição e execução da política de defesa do consumidor, nomeadamente avaliando as necessidades de regulamentação em todas as matérias de interesse para os consumidores, apresentando propostas de medidas legislativas ou outras que visem a protecção dos consumidores e dinamizando a transposição e aplicação da legislação comunitária;
+b) Promover, por sua iniciativa ou em conjunto com outras entidades públicas ou privadas, a divulgação da informação sobre bens, produtos e serviços, nomeadamente, os susceptíveis de afectar a saúde e o bem estar dos consumidores, assim como dos direitos de que estes são titulares e divulgar os sistemas de informação sobre produtos de consumo perigosos instituídos pela União Europeia ou por outras organizações internacionais;
+c) Fomentar e apoiar o associativismo através da concessão de meios técnicos e financeiros, avaliando a sua adequada aplicação, e promover a articulação entre as diversas entidades que participam no Sistema Português de Defesa do Consumidor, o conjunto de entidades, públicas e privadas, bem como os órgãos e serviços, centrais e locais, que têm por objectivo, directo ou mediato, assegurar os direitos do consumidor;
+d) Participar regularmente nas actividades e acções comuns das entidades da União Europeia e internacionais relacionadas com o âmbito das suas atribuições e propor a celebração de acordos e convenções internacionais;
+e) Exigir, mediante pedido fundamentado, a entidades públicas e privadas, as informações, os elementos e as diligências que entender necessários à salvaguarda dos direitos e interesses do consumidor;
+f) Assegurar que as exigências em matéria de defesa dos consumidores são tomadas em conta na definição e execução das demais políticas do Governo;
+g) Participar na definição do serviço público de rádio e de televisão em matéria de informação e educação do consumidor;
+h) Assegurar o encaminhamento de denúncias e reclamações em matéria de consumo e garantir o acesso dos consumidores aos mecanismos de resolução de conflitos de consumo.
+3 - A DGC presta apoio administrativo, técnico e logístico ao Conselho Nacional de Defesa do Consumidor e à Comissão de Segurança de Serviços e Bens de Consumo, cujas composição, competências e modo de funcionamento constam de diploma próprio.
+4 - A DGC assegura, ainda, o funcionamento do Centro Europeu do Consumidor.
+5 - A DGC é o serviço de ligação único, para efeitos de aplicação em Portugal do Regulamento (CE) n.º 2006/2004, do Parlamento Europeu e do Conselho, de 27 de Outubro, relativo à cooperação entre as autoridades nacionais responsáveis pela aplicação da legislação de defesa do consumidor, regulamento relativo à cooperação no domínio da defesa do consumidor.
+6 - À DGC é reconhecida legitimidade processual e procedimental em processos principais e cautelares junto dos tribunais administrativos e judiciais bem como de entidades reguladoras quanto aos direitos e interesses que lhe cumpre defender.
+Artigo 3.º
+Órgãos
+A DGC é dirigida por um director-geral, coadjuvado por um subdirector-geral.
+Artigo 4.º
+Director-geral
+1 - Sem prejuízo das competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas compete ainda ao director-geral:
+a) Solicitar e obter, mediante pedido fundamentado, de quaisquer entidades públicas e privadas fornecedoras de bens, prestadoras de serviços e transmissoras de direitos as informações, os elementos e as diligências que entender necessários à salvaguarda dos direitos e interesses dos consumidores;
+b) Emitir avisos ao público, nomeadamente através dos órgãos de comunicação social, contendo uma descrição tão precisa quanto possível do respectivo bem, serviço ou direito, a identificação do risco que pode resultar da sua utilização e quaisquer outros elementos considerados necessários para afastar aquele risco;
+c) Formular recomendações ao produtor, importador, fornecedor de bens, prestador de serviços ou transmissor de direitos em causa no sentido de ser suprimido o respectivo risco para a saúde, a segurança ou os interesses económicos dos consumidores;
+d) Aplicar as coimas e sanções acessórias previstas na lei;
+e) Presidir à Comissão de Segurança de Serviços e Bens de Consumo;
+f) Superintender nas relações internacionais da DGC;
+g) Representar a DGC em juízo e fora dele, nomeadamente nas comissões, grupos de trabalho ou outras actividades de organismos nacionais ou internacionais;
+h) Avaliar anualmente a adequação do presente diploma à missão da DGC e remeter o relatório desta avaliação ao respectivo membro do Governo.
+2 - Ao subdirector-geral compete substituir o director-geral nas suas faltas e impedimentos e exercer as competências que por este lhe sejam delegadas ou subdelegadas.
+3 - O director-geral deve ponderar o exercício das funções relativas à aplicação do Regulamento (CE) n.º 2006/2004, do Parlamento Europeu e do Conselho, de 27 de Outubro, pelo Centro Europeu do Consumidor.
+Artigo 5.º
+Tipo de organização interna
+A organização interna dos serviços da DGC obedece a um modelo de estrutura hierarquizada.
+Artigo 6.º
+Receitas
+1 - A DGC dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+2 - A DGC dispõe ainda das seguintes receitas próprias:
+a) O produto resultante da edição ou venda de publicações;
+b) Os subsídios, subvenções, comparticipações, doações e legados concedidos por entidades públicas e privadas;
+c) O produto das taxas, multas, coimas e outros valores de natureza pecuniária que por lei lhe sejam consignados;
+d) O produto da realização de estudos, inquéritos e outros trabalhos ou serviços prestados;
+e) Os valores cobrados pela frequência de cursos, seminários ou outras acções de formação realizados pela DGC;
+f) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+Artigo 7.º
+Despesas
+Constituem despesas da DGC as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+Artigo 8.º
+Quadro de cargos de direcção
+Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante.
+Artigo 9.º
+Participação em outras entidades
+Para a prossecução das suas atribuições a DGC pode, mediante autorização do membro do Governo responsável pela área da defesa do consumidor, participar em associações e fundações, nacionais e estrangeiras.
+Artigo 10.º
+Sucessão
+1 - A DGC sucede nas atribuições do Instituto do Consumidor, que se extingue.
+2 - A DGC sucede na participação do Instituto do Consumidor nas associações e fundações das quais este era membro.
+Artigo 11.º
+Efeitos revogatórios
+Nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, consideram-se revogados na data de entrada em vigor do presente decreto regulamentar:
+a) O Decreto-Lei n.º 195/93, de 24 de Maio;
+b) O Decreto-Lei n.º 234/99, de 25 de Junho;
+c) O n.º 1 do artigo 5.º do Decreto-Lei n.º 154/97, de 20 de Junho;
+d) O n.º 2 do artigo 10.º do Decreto-Lei n.º 69/2005, de 17 de Março.
+Artigo 12.º
+Entrada em vigor
+O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Manuel António Gomes de Almeida de Pinho.
+Promulgado em 4 de Abril de 2007.
+Publique-se.
+O Presidente da República, ANÍBAL CAVACO SILVA.
+Referendado em 5 de Abril de 2007.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+ANEXO
+(mapa a que se refere o artigo 8.º)
+(ver documento original)
