@@ -1,0 +1,54 @@
+Portaria n.º 549/2007
+de 30 de Abril
+O Decreto-Lei n.º 151/2007, de 27 de Abril, definiu a missão, atribuições e tipo de organização interna da Direcção-Geral do Ensino Superior. Importa agora, no desenvolvimento daquele decreto-lei, determinar a estrutura nuclear dos serviços e as competências das respectivas unidades orgânicas.
+Assim:
+Ao abrigo do n.º 4 do artigo 21.º da Lei n.º 4/2004, de 15 de Janeiro:
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Ciência, Tecnologia e Ensino Superior, o seguinte:
+Artigo 1.º
+Estrutura nuclear da Direcção-Geral do Ensino Superior
+A Direcção-Geral do Ensino Superior, abreviadamente designada por DGES, estrutura-se nas seguintes unidades orgânicas nucleares:
+a) Direcção de Serviços de Acesso ao Ensino Superior;
+b) Direcção de Serviços de Apoio ao Estudante;
+c) Direcção de Serviços de Suporte à Rede do Ensino Superior.
+Artigo 2.º
+Direcção de Serviços de Acesso ao Ensino Superior
+À Direcção de Serviços de Acesso ao Ensino Superior, abreviadamente designada por DSAES, compete:
+a) Desenvolver as acções cometidas pela lei à DGES, no que se refere ao regime geral e aos regimes especiais de acesso e ingresso no ensino superior;
+b) Desenvolver as acções cometidas pela lei à DGES, no que se refere à avaliação da capacidade para a frequência do ensino superior dos maiores de 23 anos;
+c) Divulgar a informação acerca dos concursos do regime geral e dos regimes especiais, quer através de guias informativos, quer através da Internet;
+d) Divulgar, através da Internet, informação acerca da realização das provas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos;
+e) Desenvolver as acções destinadas a promover informação sobre a empregabilidade e a inserção profissional dos diplomados pelo ensino superior.
+Artigo 3.º
+Direcção de Serviços de Apoio ao Estudante
+À Direcção de Serviços de Apoio ao Estudante, abreviadamente designada por DSAE, compete:
+a) Preparar a proposta de orçamento anual da acção social do ensino superior e acompanhar a respectiva execução;
+b) Gerir o Fundo de Acção Social;
+c) Propor a afectação das verbas aos serviços de acção social do ensino superior público e não público e acompanhar a respectiva execução;
+d) Desenvolver as acções que, no domínio das bolsas de mérito, competem ao Ministério da Ciência, Tecnologia e Ensino Superior;
+e) Divulgar o sistema de empréstimos bancários a estudantes do ensino superior;
+f) Apreciar os recursos interpostos das decisões relativas à concessão dos apoios no âmbito da acção social do ensino superior;
+g) Avaliar a qualidade dos serviços de acção social do ensino superior, em articulação com a Inspecção-Geral;
+h) Avaliar a rede de infra-estruturas e equipamentos da acção social escolar no ensino superior e propor as medidas necessárias à sua optimização;
+i) Realizar estudos sobre o sistema de acção social no ensino superior e participar em estudos e projectos internacionais sobre a matéria, nomeadamente no âmbito da União Europeia;
+j) Promover a disponibilização da informação sobre ofertas de emprego para estudantes, propostas de actividades de voluntariado e redes de apoio à integração na vida activa, através da Internet.
+Artigo 4.º
+Direcção de Serviços de Suporte à Rede do Ensino Superior
+À Direcção de Serviços de Suporte à Rede do Ensino Superior, abreviadamente designada por DSSRES, compete:
+a) Instruir os processos de criação, transformação, fusão e de autorização de funcionamento de estabelecimentos de ensino superior público;
+b) Instruir os processos de reconhecimento de interesse público, transmissão, integração, fusão e encerramento de estabelecimentos de ensino superior particular e cooperativo;
+c) Instruir os processos de registo dos estatutos dos estabelecimentos de ensino superior e suas alterações;
+d) Instruir o processo de fixação de vagas para ingresso nos cursos superiores;
+e) Elaborar indicadores e normas para o planeamento das instalações dos estabelecimentos do ensino superior;
+f) Instruir os processos referentes aos recursos físicos dos estabelecimentos do ensino superior que devam ser objecto de decisão da tutela;
+g) Promover a realização de vistorias das infra-estruturas e instalações dos estabelecimentos do ensino superior;
+h) Instruir os processos de registo dos cursos de especialização tecnológica;
+i) Instruir os processos de registo e de autorização de funcionamento de cursos de ensino superior, bem como das suas adequações, alterações ou cancelamento;
+j) Prestar o apoio que seja solicitado pela Agência de Avaliação e Acreditação para a Garantia da Qualidade no Ensino superior, no âmbito dos processos de acreditação e de avaliação do ensino superior;
+l) Instruir os processos referentes ao pessoal dos estabelecimentos de ensino superior público que devam ser objecto de decisão superior;
+m) Elaborar um relatório anual sobre o pessoal dos estabelecimentos de ensino superior;
+n) Analisar as necessidades de pessoal dos estabelecimentos de ensino superior público e propor a adequação dos seus quadros;
+o) Colaborar com o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais na actualização permanente das bases de dados do sistema de ensino superior.
+Artigo 5.º
+Entrada em vigor
+A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 24 de Abril de 2007. - Pelo Ministro da Ciência, Tecnologia e Ensino Superior, Manuel Frederico Tojal de Valsassina Heitor, Secretário de Estado da Ciência, Tecnologia e Ensino Superior, em 26 de Abril de 2007.
