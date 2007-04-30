@@ -1,0 +1,10 @@
+Aviso n.º 7892/2007
+Plano de Pormenor do Parque de Negócios do Casal Branco - Pontével - Discussão pública
+Francisco José Silvério Casimiro, licenciado em Engenharia Química e vereador da Câmara Municipal do Cartaxo, torna público que, no âmbito da elaboração do Plano de Pormenor do Parque de Negócios do Casal Branco - Pontével, foi deliberado, em reunião camarária realizada em 26 de Março do corrente ano, proceder à abertura de um período de discussão pública, em conformidade com o artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelos Decretos-Leis n.os 53/2000, de 7 de Abril, e 310/2003, de 10 de Dezembro, e nos seguintes termos:
+Prazo da discussão pública - 22 dias úteis a partir do 11.º dia seguinte à publicação do presente aviso no Diário da República;
+Sessão pública - será realizada uma sessão para apresentação e discussão do Plano de Pormenor do Parque de Negócios do Casal Branco - Pontével, que será divulgada atempadamente na comunicação social;
+Local de consulta do Plano - na Secção da Divisão de Planeamento e Administração Urbanística deste município, durante o horário de expediente, das 9 às 16 horas, todos os dias úteis.
+Os interessados poderão apresentar reclamações, observações ou sugestões, durante o período de discussão pública, através do preenchimento de impresso próprio que será disponibilizado no local de consulta do plano, podendo este ser entregue directamente neste local ou, em alternativa, remetido por correio dirigido ao presidente da Câmara Municipal do Cartaxo, Apartado 55, 2071-909 Cartaxo.
+Para efeitos de esclarecimentos acerca do Plano de Pormenor do Parque de Negócios do Casal Branco - Pontével, poderão ainda os interessados contactar directamente um técnico da Divisão de Planeamento e Administração Urbanística, todas as quintas-feiras, entre as 9 horas e as 12 horas e 30 minutos, procedendo para tal a marcação prévia de reunião.
+Para constar se publica o presente e outros de igual teor, que vão ser afixados nos lugares públicos do estilo.
+30 de Março de 2007. - O Vereador, Francisco José Silvério Casimiro.
