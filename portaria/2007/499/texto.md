@@ -1,0 +1,50 @@
+Portaria n.º 499/2007
+de 30 de Abril
+O Decreto-Lei n.º 8/2007, de 17 de Janeiro, entre outras importantes medidas de eliminação e simplificação de actos no sector do registo comercial e dos actos notariais conexos, criou a informação empresarial simplificada (IES).
+A IES constitui a nova forma de entrega de informação de natureza fiscal, contabilística e estatística sobre as contas de empresas, agregando, num único acto, o cumprimento de quatro obrigações legais diferentes - entrega da declaração anual de informação contabilística e fiscal, registo da prestação de contas, prestação de informação de natureza estatística ao Instituto Nacional de Estatística (INE) e prestação de informação relativa a dados contabilísticos anuais para fins estatísticos ao Banco de Portugal - e dessa forma evitando que as empresas tenham de prestar informação materialmente idêntica a diferentes entidades públicas por quatro vias distintas.
+A entrega da IES por parte das entidades obrigadas a cumprir aquelas quatro obrigações legais assenta no envio da correspondente informação ao Ministério das Finanças e da Administração Pública, por transmissão electrónica de dados. Na sequência da aprovação, através da Portaria n.º 208/2007, de 16 de Fevereiro, do modelo declarativo da IES e respectivos anexos, importa agora, em concretização do quadro legal estabelecido pelo Decreto-Lei n.º 8/2007, de 17 de Janeiro, definir os termos da transmissão electrónica daqueles anexos por parte das entidades obrigadas a submetê-los.
+Em paralelo, importa igualmente regulamentar a forma através da qual será disponibilizada, pelo Ministério das Finanças e da Administração Pública, a informação que tenha de ser enviada ao Ministério da Justiça e, bem assim, a forma de envio da correspondente informação ao INE e ao Banco de Portugal.
+Foi ouvida a Câmara dos Técnicos Oficiais de Contas.
+Assim:
+Manda o Governo, pelos Ministros de Estado e das Finanças, da Presidência e da Justiça, ao abrigo do disposto no n.º 1 do artigo 4.º, no n.º 2 do artigo 6.º e nos n.os 1 e 2 do artigo 9.º do Decreto-Lei n.º 8/2007, de 17 de Janeiro, o seguinte:
+Artigo 1.º
+Envio da informação empresarial simplificada
+1 - O envio da informação empresarial simplificada (IES) por parte das entidades obrigadas ao cumprimento das obrigações legais previstas no n.º 1 do artigo 2.º do Decreto-Lei n.º 8/2007, de 17 de Janeiro, é feito por transmissão electrónica de dados.
+2 - O disposto nos artigos 2.º a 4.º é aplicável à entrega das declarações previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 8/2007, de 17 de Janeiro, com as necessárias adaptações.
+Artigo 2.º
+Registo e ficheiro
+Para efeitos do disposto no artigo anterior, as entidades obrigadas à entrega da IES devem:
+a) Registar-se por via electrónica, caso ainda não disponham de senha de acesso, através do sítio da Internet com o endereço www.e-financas.gov.pt;
+b) Utilizar, para o envio da IES, um ficheiro com as características e estrutura disponibilizada no sítio da Internet com o endereço www.ies.gov.pt ou no sítio referido na alínea anterior, sem prejuízo do preenchimento directo da declaração e do disposto no artigo 5.º quanto às entidades que elaborem as suas contas consolidadas em conformidade com as normas internacionais de contabilidade, adoptadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho.
+Artigo 3.º
+Atribuição de senhas
+As entidades obrigadas à entrega da IES e os técnicos oficiais de contas são identificados por senhas atribuídas pela Direcção-Geral dos Impostos (DGCI).
+Artigo 4.º
+Procedimento de envio da IES
+O envio da IES deve ser efectuado de acordo com os seguintes procedimentos:
+a) Seleccionar:
+i) Serviços online;
+ii) TOC ou contribuintes, consoante o caso;
+iii) Entregar;
+iv) IES/DA;
+b) Preencher a declaração directamente ou abrir e enviar o ficheiro previamente formatado com as características referidas na alínea b) do artigo 2.º;
+c) Validar a informação e corrigir os erros detectados;
+d) Submeter a declaração;
+e) Consultar, a partir do 2.º dia útil seguinte ao da submissão, a situação definitiva da IES;
+f) Efectuar o pagamento do registo da prestação de contas, no prazo de cinco dias úteis após a geração electrónica da referência para pagamento.
+Artigo 5.º
+Procedimento de envio de contas consolidadas no âmbito da IES
+1 - As entidades que, nos termos do n.º 1 do artigo 11.º do Decreto-Lei n.º 35/2005, de 17 de Fevereiro, devam elaborar as suas contas consolidadas em conformidade com as normas internacionais de contabilidade adoptadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho, devem digitalizar os documentos referidos no n.º 2 do artigo 42.º do Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de Dezembro, e submetê-los como um só ficheiro.
+2 - O disposto no número anterior é aplicável às entidades que tenham optado por elaborar as suas contas consolidadas em conformidade com as normas internacionais de contabilidade, nos termos do n.º 1 do artigo 12.º do Decreto-Lei n.º 35/2005, de 17 de Fevereiro.
+Artigo 6.º
+Disponibilização de informação ao Ministério da Justiça
+1 - A informação respeitante ao cumprimento das obrigações previstas nas alíneas c) a e) do n.º 1 do artigo 2.º do Decreto-Lei n.º 8/2007, de 17 de Janeiro, contida nos modelos declarativos da IES aprovados pela Portaria n.º 208/2007, de 16 de Fevereiro, é disponibilizada, por via electrónica, pela DGCI, através da Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA), ao Instituto dos Registos e do Notariado, I. P. (IRN), através do Instituto das Tecnologias de Informação na Justiça, I. P. (ITIJ).
+2 - A disponibilização da informação prevista no número anterior deve incluir um mecanismo de controlo das declarações transmitidas.
+Artigo 7.º
+Disponibilização de informação ao Instituto Nacional de Estatística e ao Banco de Portugal
+1 - A informação respeitante ao cumprimento da obrigação prevista na alínea d) do n.º 1 do artigo 2.º do Decreto-Lei n.º 8/2007, de 17 de Janeiro, é disponibilizada electronicamente pelo IRN ao Instituto Nacional de Estatística (INE), através do ITIJ.
+2 - Para efeitos do disposto no número anterior, a informação deve ficar disponível no ITIJ, para transferência electrónica por parte do INE, no prazo de dois dias úteis após a sua disponibilização pela DGITA.
+3 - A informação respeitante ao cumprimento da obrigação prevista na alínea e) do n.º 1 do artigo 2.º do Decreto-Lei n.º 8/2007, de 17 de Janeiro, é disponibilizada electronicamente pelo IRN ao Banco de Portugal, através do ITIJ, nos termos de protocolo a celebrar entre aquelas duas entidades.
+4 - A disponibilização da informação ao INE e ao Banco de Portugal não está dependente da sua integração na base de dados das contas anuais.
+Em 3 de Abril de 2007.
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira. - Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça.
