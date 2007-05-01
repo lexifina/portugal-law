@@ -16,7 +16,7 @@ e) Promoção das publicações legais que sejam devidas, as quais se devem efec
 
 f) Promoção das restantes diligências que venham a ser fixadas por via regulamentar ou protocolar;
 
-g) Envio de cópia do pedido e dos documentos à conservatória do registo comercial detentora da pasta da sociedade, para efeitos do disposto no n.º 1 do artigo 59.º do Código do Registo Comercial.
+g) Envio dos documentos à conservatória do registo comercial detentora da pasta da sociedade, para efeitos do disposto no n.º 1 do artigo 59.º do Código do Registo Comercial.
 
 2 - O envio dos documentos previsto na alínea g) do número anterior só ocorre quando não existam condições que garantam o acesso à informação sobre a sociedade por via electrónica.
 
