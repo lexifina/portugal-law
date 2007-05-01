@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Gestão financeira e patrimonial
-
 # Artigo 41.º
 
 ### Princípios de gestão

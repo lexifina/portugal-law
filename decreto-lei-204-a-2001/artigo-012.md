@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Serviços
-
 # Artigo 12.º
 
 ### Serviços centrais e desconcentrados

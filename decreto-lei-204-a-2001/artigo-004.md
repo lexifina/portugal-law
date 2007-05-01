@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Órgãos
-
 # Artigo 4.º
 
 ### Órgãos
