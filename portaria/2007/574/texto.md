@@ -1,0 +1,18 @@
+Portaria n.º 574/2007
+de 2 de Maio
+A Lei n.º 78/2001, de 13 de Julho, veio regular a competência, organização e funcionamento dos julgados de paz. Decorridos mais de cinco anos desde o início deste projecto, o número dos julgados de paz instalados e em funcionamento registou um significativo aumento. Começou-se com 4 julgados de paz e hoje existem 16.
+O alargamento da rede dos julgados de paz constitui um compromisso assumido no Programa de Governo do XVII Governo Constitucional, ao qual se quer dar cumprimento tendo em vista melhorar os níveis de acesso ao direito e à justiça.
+Na sequência do Decreto-Lei n.º 225/2005, de 28 de Dezembro, foram colocados em funcionamento, durante o ano de 2006, e através de uma gestão flexível dos recursos existentes, os Julgados de Paz de Coimbra, Sintra, Trofa e Santa Maria da Feira.
+Com efeito, a nomeação de juízes de paz para estes novos julgados de paz foi efectuada recorrendo aos juízes de paz que já se encontravam nomeados para a coordenação, representação e gestão dos julgados de paz já existentes.
+Actualmente, e tendo em consideração o objectivo de proceder ao alargamento da rede de julgados de paz, afigura-se necessário realizar uma nova acção de recrutamento por forma a assegurar o funcionamento de novos julgados de paz.
+Deste modo, há que proceder à selecção e recrutamento de novos juízes de paz, que, de acordo com a lei aplicável, é feito por concurso público, regulamentado por portaria do Ministro da Justiça, pelo que importa fixar o número de lugares a concurso.
+Assim:
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, em cumprimento do disposto na Resolução do Conselho de Ministros n.º 97/2002, de 2 de Maio, o seguinte:
+Artigo 1.º
+É fixado em 30 o número máximo de lugares a concurso para selecção e recrutamento de juízes de paz para os julgados de paz já criados e a criar.
+Artigo 2.º
+Dos lugares referidos no número anterior, são nomeados os juízes de paz necessários ao regular funcionamento dos julgados de paz já instalados, destinando-se os demais a satisfazer as necessidades que eventualmente venham a ocorrer no prazo de um ano contado da data da decisão final do júri do concurso.
+Artigo 3.º
+Os encargos decorrentes da remuneração dos juízes de paz são suportados por transferência de verbas do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P.
+Em 19 de Abril de 2007.
+Pelo Ministro de Estado e das Finanças, Emanuel Augusto dos Santos, Secretário de Estado Adjunto e do Orçamento. - Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça.
