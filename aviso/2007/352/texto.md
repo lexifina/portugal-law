@@ -1,0 +1,5 @@
+Aviso n.º 352/2007
+Por ordem superior se torna público que a República da Hungria depositou junto do Secretário-Geral das Nações Unidas, em 22 de Dezembro de 2006, o seu instrumento de ratificação da Convenção contra a Criminalidade Organizada Transnacional, concluída em Nova Iorque em 15 de Novembro de 2000.
+Portugal é Parte desta Convenção, aprova, para ratificação, pela Resolução da Assembleia da República n.º 32/2004, publicada no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, e ratificada pelo Decreto do Presidente da República n.º 19/2004, publicado no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, tendo depositado o seu intrumento de ratificação em 10 de Maio de 2004, conforme o Aviso n.º 121/2004, publicado no Diário da República, 1.ª série-A, n.º 141, de 17 de Junho de 2004.
+De acordo com o artigo 38.º, n.º 2, a Convenção entrou em vigor para a República da Hungria em 21 de Janeiro de 2007.
+Direcção-Geral de Política Externa, 3 de Abril de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva.
