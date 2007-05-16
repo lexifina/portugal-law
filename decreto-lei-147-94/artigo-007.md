@@ -1,0 +1,5 @@
+# Artigo 7.º
+
+### Estrutura das contas consolidadas
+
+A estrutura e o conteúdo das contas consolidadas, bem como os métodos e critérios que devem ser utilizados na sua elaboração, são objecto de instruções do Instituto de Seguros de Portugal.
