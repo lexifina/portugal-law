@@ -1,0 +1,6 @@
+Aviso n.º 9512/2007
+Alteração ao regulamento do loteamento sito no lugar de Assento (Pena), da freguesia de Arões (São Romão), do concelho de FAFE, no que se reporta à altura do muro prevista para o lote 1 do mencionado loteamento - P.N. 5/PL/1995.
+De acordo com o despacho exarado em 27 de Fevereiro de 2007 pelo presidente desta Câmara Municipal, decorrerá um período de discussão pública pelo prazo de 15 dias (a contar da data de publicação do presente aviso), durante o qual poderão os interessados apresentar por escrito quaisquer reclamações, sugestões ou informações relativamente às questões que possam ser consideradas no âmbito da respectiva alteração ao loteamento, conforme determina o artigo 22.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, na redacção do Decreto-Lei n.º 177/2001, de 4 de Junho, e de acordo com o disposto no artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro.
+Sempre que necessário, poderá ser consultado o processo de loteamento, no Departamento de Planeamento e Gestão Urbanística, às segundas-feiras das 17 horas e 30 minutos às 19 horas e 30 minutos, e às quartas-feiras, durante o período da manhã.
+13 de Março de 2007. - O Presidente da Câmara, José Ribeiro.
+2611015082
