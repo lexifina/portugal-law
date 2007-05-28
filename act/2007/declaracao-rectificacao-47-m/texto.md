@@ -1,0 +1,6 @@
+Declaração de Rectificação n.º 47-M/2007
+Para os devidos efeitos se declara que o Decreto Regulamentar n.º 35/2007, publicado no Diário da República, 1.ª série, n.º 63, de 29 de Março de 2007, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+1 - No artigo 21.º, n.º 2, alínea a), onde se lê «Prestar apoio ao membro do Governo responsável pela área da Cultura Ministro da Cultura» deve ler-se «Prestar apoio ao membro do Governo responsável pela área da cultura».
+2 - No artigo 24.º, n.º 1, alínea c), onde se lê «Um representante do Ministério da Justiça, com competências no domínio do registo de Maios de comunicação social;» deve ler-se «Um representante do Ministério da Justiça, com competências no domínio do registo de meios de comunicação social;».
+3 - No artigo 24.º, n.º 2, alínea e), onde se lê «Propor a recomendar a adopção de medidas visando o aperfeiçoamento, actualização e cumprimento da legislação sobre direito de autor e direitos conexos.» deve ler-se «Propor e recomendar a adopção de medidas visando o aperfeiçoamento, actualização e cumprimento da legislação sobre direito de autor e direitos conexos.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 25 de Maio de 2007. - Pelo Secretário-Geral, a Secretária-Geral-Adjunta, Ana Almeida.
