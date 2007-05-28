@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 47-E/2007
+Para os devidos efeitos se declara que o Decreto-Lei n.º 92/2007, publicado no Diário da República, 1.ª série, n.º 63, de 29 de Março de 2007, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+1 - No terceiro parágrafo do preâmbulo, onde se lê «de modo a adequar a estrutura organizacional à missão da BNP» deve ler-se «de modo a adequar a estrutura organizacional à missão da DGLB».
+2 - No artigo 2.º, n.º 2, alínea d), onde se lê «Estimular a pesquisa e a elaboração de estudos, em particular sobre o mercado do livro e sobre os hábitos de leitura, em articulação com o GPEARI;» deve ler-se «Estimular a pesquisa e a elaboração de estudos, em particular sobre o mercado do livro e sobre os hábitos de leitura, em articulação com o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais (GPEARI);».
+Secretaria-Geral da Presidência do Conselho de Ministros, 25 de Maio de 2007. - Pelo Secretário-Geral, a Secretária-Geral-Adjunta, Ana Almeida.
