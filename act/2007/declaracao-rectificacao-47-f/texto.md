@@ -1,0 +1,8 @@
+Declaração de Rectificação n.º 47-F/2007
+Para os devidos efeitos se declara que o Decreto-Lei n.º 94/2007, publicado no Diário da República, 1.ª série, n.º 63, de 29 de Março de 2007, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+1 - No artigo 5.º, n.º 2, onde se lê «Ao subdirector compete substituir o presidente nas suas faltas ou impedimentos e exercer as competências que por este lhe sejam delegadas ou subdelegadas.» deve ler-se «Ao subdirector compete substituir o director nas suas faltas ou impedimentos e exercer as competências que por este lhe sejam delegadas ou subdelegadas.».
+2 - No artigo 15.º, onde se lê «responsáveis pelas áreas das Finanças e da Cultura a Cinemateca, I. P., nos termos do artigo 13.º da Lei n.º 3/2004, de 15 de Janeiro.» deve ler-se «responsáveis pelas áreas das finanças e da cultura nos termos do artigo 13.º da Lei n.º 3/2004, de 15 de Janeiro.».
+3 - No artigo 16.º, n.º 1, onde se lê «Os funcionários públicos do quadro de pessoal da Cinemateca Museu do Cinema, I. P.,» deve ler-se «Os funcionários públicos do quadro de pessoal da Cinemateca Portuguesa-Museu do Cinema, I. P.,».
+E, no mesmo artigo, n.º 2, onde se lê «O direito de opção é exercido mediante declaração escrita, individual e irrevogável, dirigida ao presidente do conselho directivo, no prazo previsto no número anterior.» deve ler-se
+«O direito de opção é exercido mediante declaração escrita, individual e irrevogável, dirigida ao director, no prazo previsto no número anterior.».
+Secretaria-Geral da Presidência do Conselho Ministros, 25 de Maio de 2007. - Pelo Secretário-Geral, a Secretária-Geral-Adjunta, Ana Almeida.
