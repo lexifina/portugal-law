@@ -1,0 +1,9 @@
+Aviso n.º 9732-B/2007
+Proposta do Plano de Pormenor do Parque Industrial do Pego
+Dr. Nelson Augusto Marques de Carvalho, presidente da Câmara Municipal de Abrantes, torna público que a Câmara Municipal de Abrantes deliberou, em reunião realizada no dia 2 de Abril de 2007, mandar elaborar a Proposta do Plano de Pormenor do Parque Industrial do Pego, aprovando os respectivos termos de referência suportando a oportunidade, os prazos de elaboração (10 meses) e os respectivos objectivos.
+Assim, nos termos dos n.os 1 e 2 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, procede-se em conformidade.
+Participação
+Nos termos do n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, decorrerá por um período de 30 dias, a partir da publicação no Diário da República, um período de audição ao público, durante o qual os interessados poderão proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+Durante o período referido, os interessados poderão consultar os elementos aprovados relativos ao Plano, ficando disponíveis nas instalações da Câmara Municipal de Abrantes, na Divisão de Ordenamento e Projectos - Serviço de Planeamento/SIG, situadas na Rua de José Estêvão, 8, nos dias úteis, durante o período normal de expediente, ou consultar no site da Câmara Municipal, em (www.cm-abrantes.pt).
+Os interessados deverão apresentar as suas observações ou sugestões por carta devidamente identificada, dirigida ao presidente da Câmara Municipal de Abrantes, ou através do e-mail do Gabinete de Planeamento/SIG (gps@cm-abrantes.pt).
+18 de Abril de 2007. - O Presidente da Câmara, Nelson Augusto Marques de Carvalho.
