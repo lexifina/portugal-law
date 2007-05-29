@@ -1,0 +1,6 @@
+Aviso n.º 9732-J/2007
+Projecto de alteração ao Regulamento de Toponímia - participação pública
+João Pedro Campos Domingues, vereador do Departamento de Gestão Urbanística da Câmara Municipal de Loures, torna público que a Câmara Municipal deliberou, em reunião de 11 de Outubro de 2006, submeter à apreciação pública, pelo período de 30 dias úteis, com início a 7 de Maio de 2007 e termo a 19 de Junho de 2007, nos termos do disposto no artigo 118.º do Código do Procedimento Administrativo, o projecto de alteração ao Regulamento de Toponímia, que a seguir se publica.
+O referido projecto poderá ser consultado, no átrio do edifício dos Paços do Concelho, no balcão das Relações Públicas do edifício do Departamento de Gestão Urbanística, nas sedes de todas as juntas de freguesia do concelho e na página da internet da Câmara Municipal de Loures (www.cm-loures.pt).
+Quaisquer observações ou sugestões deverão ser apresentadas através de exposição escrita, endereçada ao DGU (Departamento de Gestão Urbanística), a entregar no rés-do-chão do edifício sito à Rua da Ilha da Madeira, 4, 2670 Loures, ou a enviar, por carta registada com aviso de recepção, para aquela morada.
+24 de Abril de 2007. - O Vereador do Pelouro, João Pedro Campos Domingues.
