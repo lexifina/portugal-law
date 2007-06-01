@@ -1,6 +1,6 @@
 # Artigo 42.º
 
-1. Os requerimentos de vistoria referentes a instalações eléctricas de serviço público, ou de serviço particular de 1.º e 2.º categorias, deverão ser acompanhados de um termo de responsabilidade pela sua exploração, dispensando a sua apresentação se o termo de responsabilidade pela elaboração do projecto abranger também a responsabilidade pela exploração.
+1 - Os requerimentos de vistoria referentes a instalações eléctricas de serviço público ou de serviço particular dos tipos A e B devem ser acompanhados do termo de responsabilidade pela sua exploração.
 
 2. A responsabilidade pela exploração das instalações deve ser assumida por um engenheiro electrotécnico ou engenheiro técnico da especialidade de electrotecnia. Para instalações de tensão até 30 kV e potência até 250 kVA o termo de responsabilidade pode ser assinado por um montador electricista com o curso das escolas industriais ou equivalente.
 

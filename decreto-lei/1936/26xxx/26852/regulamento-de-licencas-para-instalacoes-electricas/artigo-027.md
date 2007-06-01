@@ -6,7 +6,7 @@ a) Linhas de alta tensão subterrâneas, de tensão nominal inferior a 60 kV, e 
 
 b) Alterações de tensão ou de número e secção de condutores de linhas de alta tensão aéreas se as novas características já estavam previstas no projecto que serviu de base ao licenciamento;
 
-c) Linhas aéreas de alta tensão, de tensão nominal superior a 1 kV e inferior a 60 kV, com extensão não superior a 500 m, sem cruzamentos nem travessias, quando os terrenos atravessados pertencerem exclusivamente ao proprietário da linha ou da instalação a abastecer;
+c) Linhas aéreas de tensão nominal superior a 1 kV e igual ou inferior a 60 kV, desde que o distribuidor declare, por escrito, que obteve autorização dos proprietários para efectuar os trabalhos nos terrenos atravessados pelas linhas ou que se compromete a obter a referida autorização;
 
 d) Linhas aéreas de alta tensão, de tensão nominal não superior a 1 kV;
 
@@ -22,7 +22,7 @@ i) Instalações de telecomunicação, com exclusão das radioeléctricas, auxil
 
 j) As instalações indicadas nos n.os 2 e 4 do artigo 9.º, quando de serviço público.
 
-2. A dispensa de licença de estabelecimento para as instalações enumeradas nas alíneas a), d), h), e i) do n.º 1 só é consentida quando as instalações não interferirem com estradas nacionais fora de aglomerados populacionais, caminhos de ferro ou com rios, ou que ocupem terrenos do distribuidor ou dos proprietários servidos pelas instalações a estabelecer.
+2 - A dispensa de licença de estabelecimento para as instalações enumeradas nas alíneas a), c), d), h) e i) do número anterior só é permitida quando as instalações não interfiram, nomeadamente, com estradas nacionais não desclassificadas, caminhos de ferro e rios navegáveis ou, interferindo, o distribuidor obtenha o parecer favorável das respectivas entidades competentes.
 
 3. A entidade que pretender estabelecer uma instalação abrangida pelo n.º 1 deverá, antes de iniciar os trabalhos, apresentar à direcção de fiscalização eléctrica respectiva um projecto, em triplicado, elaborado de acordo com a parte aplicável do artigo 15.º, observando também o disposto no artigo 16.º acompanhado de comunicação da data prevista para o início dos trabalhos.
 

@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Estabelecimento das instalações eléctricas de serviço público
+
 # Artigo 18.º
 
 1. Após a recepção do projecto, a Direcção-Geral dos Serviços Eléctricos verificará se ele se apresenta instruído com os documentos e esclarecimentos essenciais de apreciação, exigindo, na sua falta, que lhe sejam apresentados pelo requerente, e procederá ao seu estudo.
@@ -21,3 +25,5 @@ A Direcção-Geral dos Serviços Eléctricos poderá mandar introduzir no projec
 9. No caso dos processos deficientemente instruídos ou cujo andamento dependa de terceiros, os prazos referidos nos n.os 6 e 7 contar-se-ão a partir da recepção dos elementos que impedem o seu andamento. Do facto deve ser dado conhecimento ao requerente.
 
 10. Os prazos referidos nos números anteriores não se aplicam às obras comparticipadas pelo Estado, atendendo ao planeamento a que as mesmas estão sujeitas.
+
+11. Os pedidos de licença instruídos com as autorizações dos proprietários dos terrenos atravessados, bem como de todas as outras entidades territorialmente competentes, ficam dispensados das consultas ou publicação de éditos.
