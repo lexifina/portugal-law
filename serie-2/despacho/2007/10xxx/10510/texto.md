@@ -1,0 +1,8 @@
+Despacho n.º 10 510/2007
+Pelo despacho n.º 14 061/2003 (2.ª série), publicado no Diário da República, 2.ª série, n.º 164, de 18 de Julho de 2003, foi constituída a comissão mista de coordenação (CMC) que acompanha o processo de revisão do Plano Director Municipal de Arruda dos Vinhos, nos termos e para os efeitos do n.º 2 do artigo 75.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro.
+Esta comissão não integra a SIMTEJO, S. A., entidade responsável desde 2004 pelo saneamento de parte do território municipal.
+Mais recentemente, a EPAL, entidade representada na CMC, solicitou a sua substituição pela Águas do Oeste, S. A., entidade que assumiu a exploração dos subsistemas Arruda-Sobral e Torres Vedras-Mafra, sendo assim responsável pelo abastecimento de água ao município de Arruda dos Vinhos.
+Assim, no exercício das competências que me foram delegadas pelo despacho n.º 16 162/2005 (2.ª série), de 5 de Julho, publicado no Diário da República 2.ª série, n.º 141, de 25 de Julho de 2005, nos termos e para os efeitos do n.º 2 do artigo 75.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, determino as seguintes alterações na composição da comissão mista de coordenação (CMC) que acompanha o processo de revisão do Plano Director Municipal de Arruda dos Vinhos:
+Inclusão da SIMTEJO, S. A.;
+Substituição da Empresa Portuguesa de Águas Livres pela Águas do Oeste, S. A.
+17 de Abril de 2007. - O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão.
