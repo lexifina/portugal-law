@@ -1,0 +1,7 @@
+Aviso n.º 10 873-M/2007
+Plano de Pormenor da Zona do Pombal
+João António Ferreira Ponte, na qualidade de presidente da Câmara Municipal de Lagoa, torna público, nos termos dos n.os 4 e 5 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, que, em reunião camarária de 1 de Setembro de 2005, foi deliberado proceder à abertura do período de discussão pública para recolha de observações e sugestões sobre o Plano de Pormenor da Zona do Pombal.
+O Plano de Pormenor da Zona do Pombal, incluindo o parecer final da comissão de acompanhamento, será exposto na sede do município e nas sedes das Juntas de Freguesia de Nossa Senhora do Rosário, Cabouco, Santa Cruz, Água de Pau e Ribeira Chã.
+O período de discussão pública, nos termos do n.º 5 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção introduzida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, é de 22 dias, com início no 11.º dia posterior à publicação deste aviso na 2.ª série do Diário da República, sendo o horário coincidente com o dos serviços onde se encontrará exposto.
+Mais se faz saber que os interessados deverão apresentar as suas reclamações, observações ou sugestões ao plano, por escrito, e dirigidas ao presidente da Câmara Municipal de Lagoa, sita no Largo de D. João III, freguesia de Santa Cruz, 9560-045 Lagoa.
+3 de Maio de 2007. - O Presidente da Câmara, João António Ferreira Ponte.
