@@ -22,4 +22,4 @@
 
 6 - São concedidos, em condições equitativas, direitos de acesso e trânsito na infra-estrutura ferroviária nacional às empresas de transporte ferroviário, para prestação de serviços de transporte ferroviário internacional de mercadorias.
 
-7 - Até 15 de Março de 2008, os direitos previstos no número anterior são concedidos apenas para a parte da infra-estrutura ferroviária nacional que integra a rede transeuropeia de transporte ferroviário de mercadorias.
+7 - Depois de 1 de Janeiro de 2007 os direitos previstos no n.º 2 são concedidos a todas as empresas de transporte ferroviário estabelecidas num Estado membro.

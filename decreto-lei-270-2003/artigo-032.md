@@ -2,7 +2,7 @@
 
 ### Publicação e informação
 
-1 - O gestor da infra-estrutura edita o directório da rede até quatro meses antes do termo do prazo de apresentação dos pedidos de canais horários.
+1 - O gestor da infra-estrutura edita o directório da rede até 12 meses antes da entrada em vigor do horário respectivo.
 
 2 - No mesmo prazo, o gestor da infra-estrutura faz publicar, na 2.ª série do Diário da República, anúncio de que o directório da rede está editado e de que será disponibilizado aos interessados nos termos do n.º 4.
 

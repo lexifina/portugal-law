@@ -22,4 +22,4 @@
 
 8 - No prazo a que se refere o número anterior, as empresas podem continuar a prestar serviços de transporte ferroviário salvo quando, mediante decisão fundamentada do INTF, tal consubstancie um perigo para a segurança.
 
-9 - O prazo de 12 meses referido no n.º 7 conta-se a partir da data de entrada em vigor das disposições regulamentares nele previstas.
+9 - O prazo de 12 meses referido no n.º 7 conta-se a partir da data de entrada em vigor do regulamento previsto no artigo 66.º-I.

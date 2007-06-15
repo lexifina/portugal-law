@@ -6,7 +6,7 @@
 
 ### Pedidos de canais horários
 
-1 - Os candidatos apresentarão os seus pedidos de canais horários ao gestor da infra-estrutura desde 12 meses antes da respectiva entrada em vigor.
+1 - Os candidatos apresentam os seus pedidos de canais horários ao gestor de infra-estrutura até oito meses antes da entrada em vigor do horário técnico.
 
 2 - Um candidato que, nos termos do artigo 49.º, seja parte num acordo quadro deve apresentar o seu pedido nos termos desse acordo.
 

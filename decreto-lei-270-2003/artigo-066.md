@@ -1,7 +1,7 @@
 # Artigo 66.º
 
-### Taxas
+### Procedimentos comuns de emergência
 
-1 - Pela prática de actos em matéria de certificados de segurança são devidas taxas.
+1 - Para o desenvolvimento dos sistemas de gestão da segurança, o gestor da infra-estrutura e as empresas de transporte ferroviário devem prestar mútua colaboração, nomeadamente para estabelecimento dos procedimentos comuns de emergência.
 
-2 - As taxas a que se refere o número anterior constituem receita própria do INTF e o seu montante e forma de pagamento serão definidos por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação, a publicar no prazo de 30 dias após a entrada em vigor do presente diploma.
+2 - Os procedimentos comuns de emergência estão sujeitos a aprovação do IMTT, nos termos de regulamento a emitir.

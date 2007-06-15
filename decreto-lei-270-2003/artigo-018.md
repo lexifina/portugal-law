@@ -4,7 +4,7 @@
 
 1 - Quaisquer alterações que possam afectar o cumprimento dos requisitos de idoneidade, capacidade financeira ou capacidade técnica deverão ser comunicadas pelas empresas ao INTF, nomeadamente:
 
-a) Quando uma empresa titular de licença tenha pendente contra si um processo de recuperação de empresa ou de falência;
+a) Quando uma empresa titular de licença tenha pendente contra si um processo de insolvência ou de recuperação de empresa;
 
 b) Quando ocorra alteração relevante da situação jurídica de uma empresa titular de licença, designadamente em caso de fusão, aquisição ou cessão de estabelecimento.
 
@@ -14,4 +14,4 @@ b) Quando ocorra alteração relevante da situação jurídica de uma empresa ti
 
 4 - Nos casos referidos no n.º 1, o INTF pode proceder à reapreciação da idoneidade, capacidade financeira e capacidade técnica da empresa podendo alterar, revogar ou suspender a licença.
 
-5 - Sem prejuízo da obrigação de comunicação prevista nos números anteriores, as empresas licenciadas no âmbito do presente diploma devem facultar, anualmente, informação que permita averiguar da manutenção do cumprimento dos requisitos de idoneidade, técnicos e financeiros.
+5 - A informação a que se refere o número anterior conterá ainda a discriminação de receitas e despesas por actividade, para efeitos de avaliação do impacte dos subsídios e subvenções nos preços finais praticados, nos termos a definir por instrução do IMTT.

@@ -2,7 +2,7 @@
 
 ### Elaboração
 
-1 - Até quatro meses após a data limite para a apresentação de propostas por parte dos candidatos, o gestor da infra-estrutura prepara um projecto de horário técnico.
+1 - O gestor da infra-estrutura prepara um projecto de horário técnico até cinco meses antes da entrada em vigor do horário técnico.
 
 2 - No processo de elaboração do projecto de horário técnico, o gestor da infra-estrutura aprecia os diferentes pedidos de canais horários, no âmbito definido pelo directório da rede.
 

@@ -1,11 +1,11 @@
 # Artigo 65.º
 
-### Alteração, suspensão e revogação de certificados de segurança
+### Sistemas de gestão de segurança
 
-1 - O INTF pode revogar o certificado de segurança com fundamento na falta de verificação superveniente das condições que determinaram a sua emissão ou no incumprimento de exigências nele estabelecidas.
+1 - Os gestores da infra-estrutura e as empresas de transporte ferroviário estão obrigados a criar sistemas de gestão de segurança, tendo em conta as necessárias medidas de controlo dos riscos.
 
-2 - O INTF pode suspender, total ou parcialmente, o certificado de segurança até que seja decidida a sua alteração ou revogação.
+2 - O sistema de gestão da segurança garante o controlo de todos os riscos associados à actividade do gestor da infra-estrutura ou da empresa de transporte ferroviário, tendo em conta, sempre que possível, os riscos decorrentes das actividades de outras partes, incluindo os riscos associados à prestação de serviços de manutenção, ao fornecimento de material e ao recurso a subcontratação a terceiros.
 
-3 - O acto que determina a suspensão do certificado de segurança fixa a duração da suspensão e os pressupostos de cuja verificação depende a cessação da mesma.
+3 - O sistema de gestão da segurança tem de estar em conformidade com as normas técnicas de segurança e com os requisitos de segurança enunciados nas ETI e garantir a aplicação dos MCS, para que o sistema ferroviário alcance, pelo menos, os OCS.
 
-4 - Qualquer modificação às condições que determinaram a emissão de um certificado de segurança deve ser comunicada de imediato ao INTF.
+4 - Para efeitos do número anterior, o sistema de gestão da segurança deve satisfazer os requisitos e incluir os elementos previstos no anexo III, adaptados ao carácter, dimensão e outras características da actividade desenvolvida.

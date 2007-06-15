@@ -38,7 +38,7 @@ o) O incumprimento, por parte do gestor da infra-estrutura ou de empresas que pr
 
 p) O incumprimento das obrigações decorrentes do regime de melhoria de desempenho nos termos do artigo 60.º do presente diploma;
 
-q) O incumprimento, por parte do gestor da infra-estrutura, da obrigação de remessa ao INTF dos pedidos relativos a certificados de segurança e do parecer referido no n.º 4 do artigo 64.º do presente diploma;
+q) O incumprimento por parte do gestor da infra-estrutura e das empresas de transporte ferroviário das obrigações previstas no n.º 1 do artigo 64.º, nos n.os 1, 3 e 4 do artigo 65.º, no artigo 66.º-A, no artigo 66.º-C e no n.º 1 do artigo 66.º-G;
 
 r) O incumprimento, por parte de entidades sujeitas aos poderes de fiscalização do INTF, da obrigação de apresentação ao INTF de toda a documentação exigível, sempre que solicitada, ou a oposição, directa ou indirecta, ao exercício daquela fiscalização;
 
