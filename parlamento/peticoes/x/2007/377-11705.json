@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11705",
+  "numero": "377",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2007-06-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2007-07-27",
+            "dataResposta": "2007-08-28",
+            "entidades": [
+              "Ministro da Ciência, Tecnologia e Ensino Superior"
+            ],
+            "nrOficio": "598/8ªCECC/2007",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e686279387a4d32497859324d344f5330774f5751344c5451334e6a5974595459334e6930305a4463304e6a426b5a4745354d3245756347526d&fich=33b1cc89-09d8-4766-a676-4d7460dda93a.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2007-09-12",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2007-06-27",
+        "DataArquivo": "2007-09-18",
+        "DataBaixaComissao": "2007-06-27",
+        "DataEnvioPAR": "2007-09-19",
+        "DataReaberta": "2007-06-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2007-06-20",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e68627939695a6d566c5a5467784d43316c5a5746684c5451324f544974596a5a69597930774d6a55774e6a5933596d526a4d3259756347526d&fich=bfeee810-eeaa-4692-b6bc-0250667bdc3f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2007-06-20",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e686279387a4d32497859324d344f5330774f5751344c5451334e6a5974595459334e6930305a4463304e6a426b5a4745354d3245756347526d&fich=33b1cc89-09d8-4766-a676-4d7460dda93a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2007-06-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533834513056445179394562324e31625756756447397a5547563061574e68627938795a4749345a6a63314d79316d597a526d4c54526c4f545574595455304f53316b4f446b345a6d51784f5451774d6a55756347526d&fich=2db8f753-fc4f-4e95-a549-d898fd194025.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "250",
+        "Legislatura": "X",
+        "Nome": "Comissão de Educação, Ciência e Cultura (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-06-27",
+            "gp": "PS",
+            "id": "2204",
+            "motivoCessacao": null,
+            "nome": "Maria Júlia Caré"
+          }
+        ],
+        "RelatorioFinal": [
+          "22293"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2007-06-20",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938775a445934596d526d4f5330354d5745344c5451784e4445744f445579597931684e4756695932466d4e6d4d324d7a41756347526d&fich=0d68bdf9-91a8-4141-852c-a4ebcaf6c630.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11705",
+    "PetAssunto": "Transmissão da extensão de Beja do Instituto Superior de Serviço Social de Lisboa da CESDET - Cooperativa de Ensino Superior do Desenvolvimento Social, Económico e Tecnológico - para a Fundação Minerva - Cultura, Ensino e Investigação Científica.",
+    "PetDataEntrada": "2007-06-20",
+    "PeticoesAssociadas": null,
+    "PetId": "11705",
+    "PetLeg": "X",
+    "PetNr": "377",
+    "PetNrAssinaturas": "5",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
