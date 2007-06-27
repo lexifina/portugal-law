@@ -1,0 +1,7 @@
+Edital n.º 529-A/2007
+Apreciação pública do projecto de regulamento para atribuição de apoios ao desenvolvimento social, desportivo, cultural e recreativo de Aljezur.
+José Manuel Velhinho Amarelinho, vice-presidente da Câmara Municipal de Aljezur, torna público que de acordo com a deliberação da Câmara Municipal de Aljezur, tomada em reunião de 8 de Maio de 2007 e em cumprimento do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96 de 31 de Janeiro, se encontra aberto inquérito público, pelo prazo de 30 dias, a contar da publicação do presente Edital na 2.ª série do Diário da República, do projecto de Regulamento supra indicado.
+O projecto de Regulamento encontra-se patente ao público no edifício dos Paços do Município, na Divisão Administrativa e de Recursos Humanos, onde poderá ser consultado nas horas normais de expediente e durante o período de inquérito.
+As sugestões a apresentar deverão ser entregues, por escrito, na respectiva Divisão, dentro do prazo acima referido.
+Para constar se lavrou o presente edital e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+14 de Maio de 2007. - Por delegação de competências, o Vice-Presidente da Câmara, José Manuel Velhinho Amarelinho.
