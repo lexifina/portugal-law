@@ -1,0 +1,7 @@
+Aviso n.º 11 615-I/2007
+Manuel António da Luz, Presidente da Câmara Municipal de Portimão torna público, para os devidos efeitos que a Câmara Municipal de Portimão, na sua reunião ordinária realizada no dia 31 de Janeiro de 2007, nos termos do disposto na alínea a) do n.º 7 do artigo 64.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela redacção da Lei n.º 5-A/2002, de 11 de Janeiro e a Assembleia Municipal de Portimão na 2.ª reunião da 1.ª sessão ordinária realizada no dia 5 de Março de 2007, de acordo com as alíneas a) do n.º 2 do artigo 53.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela redacção da Lei n.º 5-A/2002, de 11 de Janeiro, aprovaram a alteração do artigo 6.º do Regulamento de Taxas, Licenças, Autorizações Compensações e outros Rendimentos que a seguir se transcreve:
+Artigo 6.º
+Arredondamentos
+O valor das taxas liquidadas serão sempre expressos em unidades de 1, 2, 5 e 10 cêntimos ou múltiplos, sendo os arredondamentos efectuados por excesso ou defeito consoante o valor apurado seja maior ou igual a 0,5 cêntimos e menor que 0,5 cêntimos, respectivamente.
+E para conhecimento de todos os interessados e devidos efeitos se publica o presente Edital que vai ser afixado nos lugares públicos do costume e publicado no jornal do Algarve e jornal Correio da Manhã.
+28 de Março de 2007. - O Presidente da Câmara, Manuel António da Luz.
