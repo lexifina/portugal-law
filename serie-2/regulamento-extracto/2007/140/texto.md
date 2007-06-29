@@ -1,0 +1,7 @@
+Regulamento (extracto) n.º 140/2007
+Ramos "Não vida" - Autorização
+A Santander Totta Seguros - Companhia de Seguros de Vida, S. A., com sede na Rua da Mesquita, 6, torre A, 2.º, em Lisboa, requereu autorização para alargar o âmbito da sua exploração de seguros e operações do ramo "Vida", à modalidade de acidentes pessoais do ramo "Não vida acidentes".
+Considerando que não há razões de ordem técnica que obstem ao deferimento deste pedido e que foram cumpridas as disposições normativas aplicáveis, é emitida, ao abrigo do artigo 10.º do Decreto-Lei n.º 94-B/98, de 17 de Abril, da alínea c) do n.º 1 do artigo 12.º do Estatuto do Instituto de Seguros de Portugal, aprovado pelo Decreto-Lei n.º 289/2001, de 13 de Novembro, e da norma n.º 14/94-R, de 29 de Novembro, a seguinte norma de autorização:
+1 - Concede-se à Santander Totta Seguros - Companhia de Seguros de Vida, S. A., autorização para explorar o ramo "Não vida acidentes", na modalidade de acidentes pessoais, conforme classificação prevista na alínea b) do n.º 1 do artigo 123.º do Decreto-Lei n.º 94-B/98, de 17 de Abril.
+2 - Nos termos do artigo 121.º do Código do Procedimento Administrativo, a Santander Totta Seguros - Companhia de Seguros de Vida, S. A., deverá iniciar a exploração da modalidade, ora autorizada, no prazo de seis meses, a partir da presente data.
+24 de Maio de 2007. - O Conselho Directivo: Fernando Nogueira, presidente - Rodrigo Lucena, vogal.
