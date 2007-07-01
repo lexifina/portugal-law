@@ -38,8 +38,20 @@ p) Introduzir no consumo ou comercializar produtos com violação das regras de 
 
 q) Adquirir ou consumir gasóleo colorido e marcado sem ser titular de cartão com microcircuito.
 
-3 - A tentativa é punível.
+3 - A mesma coima é aplicável a quem:
 
-4 - O montante da coima é reduzido a metade no caso de os produtos objecto da infracção serem tributados à taxa zero.
+a) Introduzir no consumo, utilizar ou mantiver a posse de veículos tributáveis sem o cumprimento das obrigações prescritas por lei;
 
-5 - O montante máximo da coima é agravado para o dobro nos casos previstos na alínea p) do n.º 2.
+b) Utilizar veículo tributável com documentos inválidos ou fora das condições prescritas por lei ou pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo ou violar o prazo de apresentação à alfândega de veículos tributáveis que se destinem a ser introduzidos no consumo ou a permanecer temporariamente em território nacional;
+
+c) Utilizar veículo tributável em violação de condicionalismos ou ónus que acompanhem o reconhecimento de benefício fiscal, designadamente em matéria de alienação, aluguer, cedência a terceiros ou identificação exterior do veículo;
+
+d) Transformar ou utilizar veículo tributável transformado, mudar o chassis ou alterar o motor, desde que tais operações impliquem a sujeição a imposto ou a taxa de imposto mais elevada;
+
+e) Obtiver benefício ou vantagem fiscal em veículos tributáveis por meio de falsas declarações ou por qualquer outro meio fraudulento.
+
+4 - A tentativa é punível.
+
+5 - O montante da coima é reduzido a metade no caso de os produtos objecto da infracção serem tributados à taxa zero.
+
+6 - O montante máximo da coima é agravado para o dobro nos casos previstos na alínea p) do n.º 2.

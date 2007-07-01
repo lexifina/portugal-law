@@ -15,3 +15,5 @@
 6 - Quando a apreensão tiver por objecto bens móveis sujeitos a registo, serão igualmente apreendidos os respectivos documentos identificativos.
 
 7 - O interessado pode requerer ao tribunal tributário competente a revogação da decisão que determinou a apreensão de bens com fundamento em ilegalidade.
+
+8 - Autuadas as infracções previstas no presente diploma em matéria de imposto sobre os veículos e de imposto único de circulação, há lugar à apreensão ou imobilização imediata do veículo, bem como à apreensão dos documentos que titulem a respectiva circulação, até ao cumprimento das obrigações tributárias em falta.
