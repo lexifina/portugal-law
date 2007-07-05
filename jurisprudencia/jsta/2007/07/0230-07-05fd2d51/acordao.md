@@ -1,0 +1,31 @@
+# Acórdão do Supremo Tribunal Administrativo de 2007-07-05, processo 0230/07
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0230/07
+
+**Data do Acordão:** 07/05/2007
+
+**Tribunal:** PLENO DA SECÇÃO DO CT
+
+**Relator:** JORGE DE SOUSA
+
+**Descritores:** RECURSO COM FUNDAMENTO EM OPOSIÇÃO DE ACÓRDÃOS.; OPOSIÇÃO DE JULGADOS.; AUSÊNCIA DE ALTERAÇÃO DA REGULAMENTAÇÃO JURÍDICA
+
+**Nº Convencional:** JSTA0008131
+
+**Nº do Documento:** SAP200707050230
+
+**Recorrente:** A...
+
+**Recorrido 1:** FAZENDA PÚBLICA E OUTRO
+
+**Votação:** UNANIMIDADE
+
+**Área Temática 1:** *
+
+## Sumário
+
+I – Um dos requisitos dos recursos com fundamento em oposição de acórdãos, previstos nos arts. 30.º, alíneas b) e b'), do ETAF de 1984, é que eles consagrem soluções opostas quanto ao mesmo fundamento de direito, na ausência de alteração substancial da regulamentação jurídica.
+
+II – A reforma operada no processo civil pelos Decretos-Lei n.ºs 329-A/95, de 12 de Dezembro, e 180/96, de 25 de Setembro [criando o regime da oposição à penhora (arts. 863.º-A e 863.º-B) e atribuindo ao cônjuge do executado a possibilidade de deduzir essa oposição, mesmo antes da sua citação para o processo executivo] e o CPPT (ao introduzir esse regime de oposição à penhora no âmbito da reclamação prevista nos arts 276.º a 278.º e prevendo a possibilidade de tal oposição ser decidida por terceiro) introduziram alterações no regime da defesa dos direitos do cônjuge contra actos de penhora de bens comuns por dívidas da exclusiva responsabilidade do outro cônjuge que podem influenciar a solução da questão do meio processual a utilizar para tal defesa, antes e depois dessas alterações legislativas.
