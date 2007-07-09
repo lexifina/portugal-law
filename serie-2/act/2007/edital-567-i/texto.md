@@ -1,0 +1,27 @@
+Edital n.º 567-I/2007
+Dr. José Luís Serra Rodrigues, presidente da Câmara Municipal, torna público que, em reunião da Câmara Municipal de Valença de 8 de Março do ano de 2007, foi deliberado, por unanimidade, que, em vez de reiniciar-se o procedimento para conclusão do Plano de Pormenor da Área Central da Vila de Valença, se elabore um plano de urbanização para a mesma área - Plano de Urbanização da Área Central da Vila de Valença, nos termos que seguidamente se transcreve:
+"Plano de Pormenor da Área Central da Vila de Valença - alteração para Plano de Urbanização da Área Central da Vila de Valença."
+Foi presente, acerca do assunto indicado em epígrafe, a informação que seguidamente se transcreve:
+"Divisão de Urbanismo e Ambiente
+Assunto: Plano de Pormenor da Área Central da Vila de Valença - alteração para Plano de Urbanização da Área Central da Vila de Valença.
+Informação técnica
+Na sequência da reunião do dia 5 de Fevereiro de 2007 na CCDR-N, em que estiveram presentes por parte daquela Comissão a Dr.ª Angelina, o Arquitecto Francisco Morais, o Engenheiro Silva Carvalho e o Arquitecto Luís Teles e por parte da Câmara Municipal o Engenheiro Victor Araújo, a Dr.ª Fernanda Quinta, o Arquitecto Filipe Guimarães e o Jorge Pereira, com o objectivo de fazer um ponto da situação sobre a elaboração do PP e dos procedimentos a efectuar, chegou-se à conclusão que seria preferível partir para a elaboração de um plano de urbanização em vez da conclusão do Plano de Pormenor, pelas seguintes razões:
+O PP da Área Central da Vila de Valença iniciou-se com a deliberação da Câmara de 1 de Outubro de 1993, tendo sido submetido a inquérito público no período entre 24 de Agosto e 2 Outubro de 1998. Após esse inquérito público, foram introduzidas alterações, não tendo havido desenvolvimentos processuais depois de 11 de Outubro de 2001.
+O quadro legislativo à luz do qual se iniciou o PP foi alterado pelo Decreto-Lei n.º 380/99, com as alterações introduzidas pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, sendo que, a reiniciar-se o procedimento, teria de submeter-se o PP à actual legislação, que apresenta maior exigência de elementos, designadamente:
+A área de intervenção ser excessiva para ser abordada enquanto Plano de Pormenor;
+Dificuldade do rigoroso conhecimento em tempo útil quer do cadastro, quer da dimensão exacta das parcelas;
+Obrigatoriedade da previsão da perequação para toda a área do PP, que, dada a sua dimensão, levanta diversas dificuldades, tendo em conta o grande número de proprietários da zona de intervenção, o facto de existirem zonas diferenciadas em função quer das densidades construtivas, quer das pré-existências, além do relativo desconhecimento e ainda pouca tradição na aplicação deste sistema compensatório, com a legislação actual;
+Rigidez dos planos de pormenor no tocante às manchas de implantação, unidades de ocupação, quer ainda quanto à ligação com o espaço público.
+Além do referido, tenho a informar o seguinte:
+a) Embora iniciando-se o procedimento para um plano de urbanização, a sua execução/aprovação será mais célere que a conclusão/aprovação do plano de pormenor;
+b) A equipa de trabalho para elaboração do plano de urbanização será a mesma que estava prevista para a finalização do plano de pormenor, sendo assegurada pelos Serviços Técnicos com a colaboração de técnicos externos das especialidades não existentes nestes serviços e ainda do Arquitecto Jorge, já contratado para apoio da área de Arquitectura;
+c) Embora se parta para um plano de urbanização, o processo será desenvolvido a uma escala de maior pormenor do que é exigido pela legislação vigente, permitindo deste modo atingir objectivos similares ao do plano de pormenor.
+Proposta de decisão:
+Face ao exposto, proponho que em vez de reiniciar-se o procedimento para conclusão do PP da Área Central da Vila de Valença, se elabore um plano de urbanização para a mesma área - "Plano de Urbanização da Área Central da Vila de Valença", iniciando-se desde já o procedimento previsto no artigo 77.º/2 do Decreto-Lei n.º 310/2003, de 10 de Dezembro - publicidade da deliberação através da divulgação de avisos e publicação do Diário da República.
+À consideração superior.
+Valença, 14 de Fevereiro de 2007. - O Chefe de Divisão de Urbanismo e Ambiente, (a) Victor Manuel Pires de Araújo (engenheiro civil)."
+A Câmara Municipal deliberou, por unanimidade, proceder em conformidade com a proposta formulada na transcrita informação, fixando-se em 6 meses o prazo de execução. O vereador Jorge Mendes declarou que votava favoravelmente, desde que esteja garantido o enquadramento legal da proposta formulada, designadamente quanto à revogação, com a entrada em vigor do Plano de Urbanização, do Plano de Pormenor em vigor.
+Torna ainda público que, para cumprimento do disposto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, se fixa um prazo de 30 dias para formulação de sugestões, bem como a apresentação de informações sobre quaisquer questões, que possam ser consideradas no âmbito da elaboração do Plano de Urbanização da Área Central da Vila de Valença.
+Para constar se publica o presente e outros de igual teor, que vão ser afixados nos lugares públicos do estilo e publicado no Diário da República e comunicação social.
+E eu, Victor Manuel Pires de Araújo, chefe de Divisão de Urbanismo e Ambiente do Município de Valença, o subscrevi.
+21 de Maio de 2007. - O Presidente da Câmara, José Luís Serra Rodrigues.
