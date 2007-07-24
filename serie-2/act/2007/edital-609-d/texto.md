@@ -1,0 +1,8 @@
+Edital n.º 609-D/2007
+Plano de Urbanização de Lordelo
+Dr. Celso Manuel Gomes Ferreira, presidente da Câmara Municipal de Paredes, torna público que, em conformidade com a deliberação do executivo desta Câmara Municipal, tomada na sua reunião ordinária de 25 de Maio de 2007, nos termos e para efeitos do preconizado na legislação aplicável, foi determinada a elaboração do Plano de Urbanização de Lordelo, estabelecendo 141 dias úteis como prazo máximo para a elaboração, e a abertura do período de participação pública.
+1 - A elaboração do plano de urbanização visa enquadrar e estruturar o desenvolvimento e o crescimento urbano e industrial da e na cidade de Lordelo.
+2 - Qualquer interessado poderá apresentar, por escrito, sugestões ou informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo processo de elaboração, durante os 30 dias úteis que terão início no 11.º dia útil após a publicação do presente edital no Diário da República, 2.ª série.
+3 - As sugestões ou informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo processo de elaboração serão prestados junto da Divisão de Planeamento (Sala de Atendimento ao Público), desta Câmara Municipal, sito no Parque José Guilherme, 4580-229 Paredes, nas horas normais de expediente, desde as 9 horas às 12 horas e 30 minutos e das 14 horas às 16 horas e 30 minutos ou via internet conforme indicações no site www.cm-paredes.com.
+4 - As sugestões ou informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo processo de elaboração sê-lo-ão em impressos de formato A4, que estarão à disposição nos locais referidos no ponto anterior.
+18 de Junho de 2007. - O Presidente da Câmara, Celso Manuel Gomes Ferreira.
