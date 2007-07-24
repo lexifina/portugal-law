@@ -2,4 +2,6 @@
 
 ### (Cancelamento de hipoteca)
 
-O cancelamento do registo de hipoteca é feito com base em documento autêntico ou autenticado de que conste o consentimento do credor.
+1 - O cancelamento do registo de hipoteca é feito com base em documento de que conste o consentimento do credor.
+
+2 - O documento referido no número anterior deve conter a assinatura reconhecida presencialmente, salvo se esta for feita na presença de funcionário da conservatória competente para o registo.
