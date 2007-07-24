@@ -2,4 +2,4 @@
 
 ### (Forma)
 
-O contrato de compra e venda de bens imóveis só é válido se for celebrado por escritura pública.
+O contrato de compra e venda de bens imóveis só é válido se for celebrado por escritura, salvo disposição legal em contrário.
