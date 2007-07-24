@@ -1,0 +1,6 @@
+Aviso n.º 13 334-M/2007
+Dr.ª Maria Isabel Fernandes da Silva Soares, presidente da Câmara Municipal de Silves, torna público que, depois de ouvidas as entidades representativas dos interesses a ponderar e de acordo com o parecer emitido pela Coordenação e Desenvolvimento Regional do Algarve, se procede à abertura do período de discussão pública do Plano de Urbanização do Núcleo de Desenvolvimento Turístico de Vila Fria, Silves, conforme preceituado nos n.os 4 e 5 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, e alterações introduzidas pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro
+Mais se informa que o período de discussão pública do plano é de 22 dias, com início 10 dias após a publicação deste aviso no Diário da República.
+Durante o período de discussão pública, a proposta do Plano e pareceres emitidos encontram-se disponíveis para consulta dos interessados das 9 às 16 horas, todos os dias úteis na Secção de Apoio Administrativo da Divisão de Gestão Urbanística da Câmara Municipal de Silves.
+Os interessados poderão apresentar por escrito as suas reclamações, observações, sugestões ou pedidos de esclarecimento devendo estas ser remetidas para a Câmara Municipal de Silves, Praça do Município, 8300 Silves, até ao final do mencionado período.
+12 de Junho de 2007. - A Presidente da Câmara, Maria Isabel Fernandes da Silva Soares.
