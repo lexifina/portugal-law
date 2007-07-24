@@ -1,0 +1,6 @@
+Aviso n.º 13 334-C/2007
+Alteração do Plano de Pormenor para a Reestruturação Urbanística da Empresa MSF - Sociedade Gestora de Participações Sociais, S. A.
+António d'Orey Capucho, presidente da Câmara Municipal de Cascais, faz público que, no seguimento da deliberação da Câmara Municipal de Cascais de 21 de Maio de 2007, a que se refere a proposta n.º 461/07, foi deliberada a alteração do Plano de Pormenor para a Reestruturação Urbanística da Empresa MSF - Sociedade Gestora de Participações Sociais, S. A., que passará a designar-se "Plano de Pormenor do Espaço Terciário de Sassoeiros Norte".
+De acordo com a citada deliberação e nos termos do disposto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, encontra-se aberto um período de 30 dias após a data da publicação deste aviso, para formulação de sugestões ou obtenção de informações sobre aquele Plano.
+Nesse sentido, os eventuais interessados poderão consultar o projecto de plano no Departamento de Planeamento Estratégico, sito no Edifício Tardoz dos Paços do Concelho, no Largo de 5 de Outubro, em Cascais.
+23 de Maio de 2007. - O Presidente da Câmara, António d'Orey Capucho.
