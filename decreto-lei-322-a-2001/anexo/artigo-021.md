@@ -99,3 +99,5 @@
 9.9 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos nos n.os 9.2 e 9.3 são pagos pela Direcção-Geral dos Registos e do Notariado (DGRN).
 
 9.10 - Para fazer face ao encargo referido no número anterior, constitui receita da DGRN o montante de (euro) 1,50, a deduzir aos emolumentos previstos nos n.os 9.2 e 9.3, por cada certidão ou fotocópia emitida.
+
+10 - Pelo suprimento de deficiências previsto no artigo 73.º do Código do Registo Predial - (euro) 35.
