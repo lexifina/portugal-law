@@ -1,0 +1,6 @@
+Aviso n.º 13 334-A/2007
+Carlos Manuel Bonifácio, vice-presidente da Câmara Municipal de Alcobaça, faz saber que ficou deliberado em reunião ordinária realizada no dia 6 de Junho de 2007 mandar desencadear os procedimentos legais com vista à alteração do Plano de Pormenor da Quinta da Cova da Onça em Alcobaça, dá-se assim início ao respectivo procedimento de alteração.
+O plano de pormenor supracitado é enquadrado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro.
+O processo de alteração deste plano iniciar-se-á no 1.º dia útil seguinte ao termo do prazo da participação preventiva, que decorrerá pelo período de 30 dias úteis contados a partir do dia seguinte à publicação do presente anúncio, conforme o estipulado no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de Setembro.
+Para efeitos de participação preventiva, qualquer interessado poderá apresentar, por escrito, sugestões ou informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração do plano. Estas poderão ser entregues directamente na Secção de Expediente Geral da Câmara Municipal de Alcobaça, através dos correios ou para o seguinte endereço de correio electrónico: ddgpu@cm-alcobaca.pt.
+20 de Junho de 2007. - O Vice-Presidente da Câmara, Carlos Manuel Bonifácio.
