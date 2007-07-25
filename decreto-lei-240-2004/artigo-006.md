@@ -1,0 +1,31 @@
+# Artigo 6.º
+
+### Facturação e cobrança da parcela fixa e da parcela de acerto
+
+1 - A parcela fixa e a parcela de acerto são facturadas e cobradas pelas entidades responsáveis pelo transporte, distribuição ou comercialização de energia eléctrica aos consumidores para entrega a cada produtor ou aos respectivos cessionários pela entidade concessionária da RNT, devendo cada uma das entidades da cadeia de facturação do sector eléctrico até ao consumidor final repercutir o valor da parcela fixa e da parcela de acerto a entregar ao produtor ou aos respectivos cessionários.
+
+2 - As entidades que desenvolvam a actividade de transporte ou de distribuição de energia eléctrica devem comunicar à ERSE, no 3.º dia útil de cada mês, o valor da potência contratada, o número de clientes e o montante pecuniário relativo à tarifa UGS, incluindo, de forma discriminada, o montante relativo à parcela fixa e à parcela de acerto, que tenha sido facturado por aquelas entidades durante o mês imediatamente anterior.
+
+3 - Com base na informação disponibilizada nos termos do número anterior e de acordo com as regras previstas no presente diploma, a ERSE deve comunicar à entidade concessionária da RNT e a cada produtor ou aos respectivos cessionários, no 3.º dia útil seguinte à recepção daquela informação, os montantes da parcela fixa e da parcela de acerto que foram facturados aos consumidores de electricidade, com indicação discriminada respectivamente dos montantes a facturar pela entidade concessionária da RNT às entidades que desenvolvam a actividade de distribuição de energia eléctrica e do montante a facturar por cada produtor ou pelos respectivos cessionários à entidade concessionária da RNT.
+
+4 - A entidade concessionária da RNT é responsável pela facturação e cobrança dos montantes relativos à parcela fixa e à parcela de acerto para entrega ao produtor ou aos respectivos cessionários, nos seguintes termos:
+
+a) No dia útil subsequente à recepção de factura emitida pelo produtor ou pelos respectivos cessionários do montante correspondente ao valor mensal da parcela fixa e da parcela de acerto, a entidade concessionária da RNT deve proceder à emissão e entrega de factura relativa ao montante da parcela fixa e da parcela de acerto à subsequente entidade da cadeia de facturação do sistema eléctrico;
+
+b) No prazo de oito dias úteis após a entrega da factura por si emitida a que se refere a alínea anterior, a entidade concessionária da RNT deve efectuar a cobrança dos montantes relativos à parcela fixa e à parcela de acerto, a fim de proceder à sua entrega a cada produtor ou aos respectivos cessionários no dia útil seguinte à respectiva cobrança, devendo simultaneamente entregar os montantes relativos à parcela fixa e à parcela de acerto cobrados aos consumidores de energia eléctrica com os quais tenha uma relação directa.
+
+5 - As entidades que desenvolvam a actividade de distribuição ou comercialização de energia eléctrica devem entregar à entidade concessionária da RNT, no prazo de oito dias úteis após a recepção da respectiva factura, os montantes correspondentes à parcela fixa e à parcela de acerto.
+
+6 - Para assegurar o cumprimento das obrigações pecuniárias previstas no presente artigo, as entidades que desenvolvam a actividade de comercialização de energia eléctrica devem prestar, manter e, se necessário, substituir ou reforçar, a favor da entidade concessionária da RNT, garantia idónea, nas modalidades a definir por regulamento da ERSE, que assegure permanentemente o integral cumprimento daquelas obrigações por um período não inferior a 60 dias.
+
+7 - O pagamento mensal ao produtor, ou aos respectivos cessionários, do montante correspondente à parcela fixa deve ser realizado desde a data de cessação de cada CAE e durante um período diferenciado por produtor, vigente até à data de cessação prevista no CAE com o prazo mais longo de entre os contratos celebrados pelo produtor, sem prejuízo do disposto no n.º 9 do artigo 5.º, sendo o valor dessa parcela ajustado em conformidade com o disposto no n.º 4 do artigo 12.º
+
+8 - A imputação do pagamento mensal dos montantes correspondentes à parcela fixa e à parcela de acerto pelas entidades a que se refere o n.º 1 do presente artigo e pelos consumidores deve ser realizada prioritariamente em relação aos pagamentos quer dos demais encargos com o uso global do sistema que integrem a tarifa UGS, quer dos encargos integrados em quaisquer outras tarifas eléctricas.
+
+9 - A partir da data de cessação antecipada de cada CAE e durante um período diferenciado por produtor, vigente até à data de cessação prevista no CAE com o prazo mais longo de entre os contratos celebrados pelo produtor, sem prejuízo do disposto no n.º 9 do artigo 5.º, cada um deles é responsável pelo pagamento mensal à entidade concessionária da RNT das quantias mensais referentes aos CMEC negativos e aos restantes encargos previstos no n.º 6 do artigo 5.º, para sua posterior reversão na tarifa UGS.
+
+10 - Sempre que qualquer das entidades da cadeia de facturação do sector eléctrico não cumpra as obrigações relativas à facturação, cobrança ou entrega da parcela fixa ou da parcela de acerto ou se encontre em situação de insolvência, o produtor ou os respectivos cessionários têm a faculdade de, processual ou extraprocessualmente, exigir directamente à entidade faltosa o cumprimento, perante si, das obrigações em falta, sendo-lhe nomeadamente reconhecida legitimidade processual para o efeito.
+
+11 - Compete à ERSE garantir a observância do disposto no presente artigo, devendo, nomeadamente, assegurar que os montantes da parcela fixa e da parcela de acerto são sempre repercutidos na facturação da tarifa UGS por todas as entidades da cadeia de facturação do sector eléctrico.
+
+12 - No caso de insolvência de qualquer das entidades aludidas no n.º 1 do presente artigo, a DGGE, ouvida, em 10 dias, a ERSE, deve adoptar, em prazo não superior a 30 dias, as medidas necessárias para que a facturação e cobrança da parcela fixa e da parcela de acerto da tarifa UGS continuem a ser realizadas ininterruptamente, de forma a assegurar o pagamento contínuo dos montantes dos CMEC e dos demais encargos previstos nos n.os 4 e 5 do artigo 5.º
