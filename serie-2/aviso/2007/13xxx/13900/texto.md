@@ -1,0 +1,4 @@
+Aviso n.º 13 900/2007
+José Manuel Caldeira Santos, presidente da Câmara Municipal de Freixo de Espada à Cinta, faz público que a Assembleia Municipal deste concelho, em sua sessão ordinária de 25 de Junho de 2007, no uso da competência que lhe confere a alínea a) do n.º 2 do artigo 53.º da Lei n.º 169/99, de 18 de Setembro, alterada e republicada pela Lei n.º 5-A/2002, de 11 de Janeiro, deliberou aprovar a proposta de alteração ao regulamento denominado Regulamento Municipal de Urbanização e Edificação apresentada pela Câmara Municipal e aprovada em sua reunião ordinária de 18 de Dezembro de 2006, o qual foi publicado no Diário da República, 2.ª série, n.º 67, de 4 de Abril de 2007, para efeitos de apreciação pública.
+12 de Julho de 2007. - O Presidente da Câmara, José Manuel Caldeira Santos.
+2611034578
