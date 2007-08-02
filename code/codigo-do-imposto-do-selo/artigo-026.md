@@ -45,3 +45,5 @@ m) Documentos necessários para comprovar o passivo referido no artigo 20.º.
 9 - Se, no termo do prazo, houver bens da herança na posse de qualquer herdeiro ou legatário que não tenham sido relacionados pelo cabeça-de-casal, incumbirá àqueles descrevê-los nos 30 dias seguintes.
 
 10 - Os documentos referidos nas alíneas f), g) e j) do n.º 6 devem conter a assinatura de quem represente a sociedade no momento da sua emissão, a qual deve ser comprovada através do reconhecimento, podendo este ser efectuado pelo serviço de finanças competente.
+
+11 - Ficam dispensados da obrigação de participação prevista no n.º 1 os beneficiários de doações isentos não abrangidos pela obrigação do n.º 1 do artigo 28.º
