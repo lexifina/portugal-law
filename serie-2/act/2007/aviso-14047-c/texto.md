@@ -1,0 +1,6 @@
+Aviso n.º 14 047-C/2007
+Alteração do artigo 10.º do Plano Director Municipal - inquérito público
+Dr. Aníbal Sousa Reis Coelho da Costa, presidente da Câmara Municipal de Ferreira do Alentejo, para constar faz público, em cumprimento da competente deliberação da Câmara Municipal do dia 6 de Junho de 2007, e nos termos do disposto no n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção que lhe foi conferida pelo Decreto- lei n.º 310/2003, de 10 de Dezembro, que é submetido a um período de discussão pública a alteração do artigo 10.º do Regulamento do Plano Director Municipal do concelho de Ferreira do Alentejo.
+É fixado um período de 44 dias úteis, com início a partir do 15.º dia útil após a publicação deste aviso no Diário da República, para que os interessados possam, apresentar por escrito, reclamações, observações, sugestões e pedidos de esclarecimento. Para o efeito, deverão identificar-se e redigir de forma legível, o texto ou outro escrito que queiram apresentar.
+O processo estará disponível para consulta na Divisão Técnica (Edifício da Assembleia Municipal), Praça do Comendador Infante Passanha, em Ferreira do Alentejo.
+22 de Junho de 2007. - O Presidente da Câmara, Aníbal Sousa Reis Coelho da Costa.
