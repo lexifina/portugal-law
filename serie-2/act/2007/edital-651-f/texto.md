@@ -1,0 +1,7 @@
+Edital n.º 651-F/2007
+Inquérito público - Plano de Pormenor D. Maria Cabeço de Vide - freguesia de Cabeço de Vide
+Dr. Pedro Namorado Lancha, presidente da Câmara Municipal de Fronteira, torna público, nos termos e para efeitos do disposto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, que esta Câmara Municipal deliberou, na sua reunião ordinária de 27 do mês de Junho findo, iniciar a elaboração dos "Termos de referência à alteração do Plano de Pormenor D. Maria - Cabeço de Vide", freguesia de Cabeço de Vide, pelo que se encontra aberto o período de formulação de sugestões, por um período de 30 dias, contados a partir dos oito dias seguintes ao da publicação do presente edital.
+Durante o período acima referido todos os interessados poderão apresentar, nos Serviços Administrativos da Divisão de Obras e Urbanismo, Ambiente e Qualidade de Vida desta Câmara Municipal, sugestões ou esclarecimentos, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração e endereçadas ao presidente da Câmara Municipal de Fronteira, Praça do Município, 1, 7460-110 Fronteira.
+Para conhecimento público mandei passar o presente e outros de igual teor, que vão ser afixados nos lugares de estilo.
+E eu, chefe de secção da Divisão de Obras e Urbanismo, Ambiente e Qualidade de Vida, o subscrevi.
+5 de Julho de 2007. - O Presidente da Câmara, Pedro Namorado Lancha.
