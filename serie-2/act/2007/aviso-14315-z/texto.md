@@ -1,0 +1,6 @@
+Aviso n.º 14 315-Z/2007
+Alteração imperativa Plano de Pormenor da Zona Industrial de Reguengos de Monsaraz - participação pública
+Victor Manuel Barão Martelo, presidente da Câmara Municipal de Reguengos de Monsaraz, torna público, e a todos faz saber, que esta Câmara Municipal, aquando da reunião ordinária ocorrida em 12 de Junho de 2007, deliberou proceder à alteração imperativa do Plano de Pormenor da Zona Industrial de Reguengos de Monsaraz.
+Nestes termos e em sintonia com o n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção do disposto no Decreto-Lei n.º 310/2003, de 10 de Dezembro, é aberto pelo período de 15 dias, após decorridos 8 dias da publicação do presente aviso na 2.ª série do Diário da República, a audiência prévia a todos os munícipes, relativa à aludida elaboração do Plano de Pormenor.
+A formulação de sugestões, bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração deverão ser dirigidas, por escrito, à Câmara Municipal de Reguengos de Monsaraz, a entregar no edifício dos Paços da Liberdade, 7300-370 Reguengos de Monsaraz, ou a enviar, por carta registada com aviso de recepção, para aquela morada.
+27 de Junho de 2007. - O Presidente da Câmara, Victor Manuel Barão Martelo.
