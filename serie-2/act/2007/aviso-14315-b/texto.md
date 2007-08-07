@@ -1,0 +1,3 @@
+Aviso n.º 14 315-B/2007
+Carlos Manuel Bonifácio, vice-presidente da Câmara Municipal de Alcobaça, faz saber que, tendo sido presente na reunião ordinária realizada no dia 6 de Junho de 2007 uma proposta de suspensão parcial do Plano de Pormenor da Quinta da Cova da Onça em Alcobaça, a Câmara, por maioria, com a abstenção da vereadora Dulce Bagagem e o voto contra do vereador Rogério Raimundo, deliberou aprovar a proposta de suspensão parcial do Plano de Pormenor da Quinta da Cova da Onça, bem como a proposta de medidas preventivas referentes à zona do Plano abrangida pela suspensão.
+4 de Julho de 2007. - O Vice-Presidente da Câmara, Carlos Manuel Bonifácio.
