@@ -4,7 +4,7 @@
 
 1 - Compete à Conservatória dos Registos Centrais lavrar os registos:
 
-a) De nascimento, de declaração de maternidade e de perfilhação, respeitantes a portugueses, quando ocorridos no estrangeiro;
+a) De nascimento, de declaração de maternidade e de perfilhação, respeitantes a portugueses, quando ocorridos no estrangeiro, com excepção dos nascimentos ocorridos em unidades de saúde no estrangeiro, ao abrigo de protocolo celebrado com o Estado Português;
 
 b) De nascimento e de óbito ocorridos em viagem, a bordo de navio ou aeronave portugueses;
 
