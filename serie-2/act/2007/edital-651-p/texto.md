@@ -1,0 +1,4 @@
+Edital n.º 651-P/2007
+A Câmara Municipal de Vinhais, na sua reunião ordinária de 14 de Junho de 2007, deliberou submeter a discussão pública o presente projecto de Regulamento Municipal para Abastecimento de Água, Drenagem de Águas Residuais e Recolha de Resíduos Sólidos Urbanos do Concelho de Vinhais, em cumprimento do artigo 118.º do Código do Procedimento Administrativo.
+As sugestões podem ser apresentadas durante o prazo de 30 dias, contados da publicação deste aviso/edital no Diário da República, presencialmente, ou por correio, na Divisão Administrativa e Financeira, Paços do Município, Rua das Freiras, 13, 5320-326 Vinhais, todos os dias úteis, das 9 às 16 horas, através do número de fax 273771108 ou pelo endereço electrónico c.m.vinhais@mail.telepac.pt.
+3 de Julho de 2007. - O Vice-Presidente da Câmara, Roberto Carlos de Morais Afonso.
