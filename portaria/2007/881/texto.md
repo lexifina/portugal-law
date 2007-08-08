@@ -1,0 +1,45 @@
+Portaria n.º 881/2007
+de 8 de Agosto
+No âmbito do pacto de cooperação para a solidariedade social e do já longo percurso de cooperação entre o Estado e as instituições do sector social no âmbito do funcionamento da rede de equipamentos e serviços sociais, o XVII Governo Constitucional vem estabelecer o aumento das comparticipações financeiras das respostas em equipamentos sociais, através do princípio definido no n.º 3 da clausula 1.A do Protocolo de Cooperação de 2006, subscrito pelo Ministério do Trabalho e da Solidariedade Social, pela Confederação Nacional das Instituições de Solidariedade, pela União das Misericórdias e pela União das Mutualidades.
+Foi ainda estabelecido, entre todos os signatários do Protocolo de Cooperação de 2006, um Acordo Base de Compromisso para um Novo Modelo de Cooperação onde ficou definida a construção conjunta «de um novo modelo de cooperação cujo pressuposto é a garantia do apoio às famílias por parte do Estado, assegurando a diferenciação positiva no acesso dos cidadãos aos serviços e equipamentos sociais e salvaguardando a sustentabilidade das instituições através da definição de um valor de referência para cada resposta. Este novo paradigma vem combater a discriminação negativa e criar um factor de maior equidade e justiça social». Este Acordo estabelece as bases de um projecto que visa melhorar o modelo contra eventuais disfunções que possam permitir algum tipo de selecção negativa, desenvolvendo padrões de qualidade no acesso dos cidadãos em maior risco de exclusão, aos equipamentos e serviços sociais.
+Não obstante o diálogo entre as partes envolvidas, sempre que se julgue necessário, com o objectivo de encontrar soluções para problemas que possam surgir no quadro da cooperação e nos termos do disposto no n.º 3 do artigo 31.º da Lei n.º 4/2007, de 16 de Janeiro, e no n.º 4 da norma xxii do Despacho Normativo n.º 75/92, de 23 de Abril, manda o Governo, pelo Ministério do Trabalho e da Solidariedade Social, o seguinte:
+Artigo 1.º
+Objecto
+1 - A presente portaria procede à actualização, para o ano de 2007, da comparticipação financeira da segurança social, adiante designada por comparticipação financeira, no âmbito da aplicação do regime jurídico da cooperação previsto no Despacho Normativo n.º 75/92, de 23 de Abril.
+2 - O valor da comparticipação financeira, de harmonia com o n.º 3 da cláusula i dos Protocolos de Cooperação de 2006, celebrados entre o Ministério do Trabalho e da Solidariedade Social e a Confederação das Instituições de Solidariedade, a União das Misericórdias Portuguesas e a União das Mutualidades Portuguesas, que passa a designar-se por Protocolos de Cooperação de 2006, é actualizado em 3,1 %.
+Artigo 2.º
+Comparticipação financeira
+De harmonia com a actualização referida no artigo anterior, o valor da comparticipação financeira pela utilização dos serviços e equipamentos sociais, para o ano de 2007, é o constante das tabelas dos anexos i e ii à presente portaria que dela fazem parte integrante.
+Artigo 3.º
+Situações especiais de comparticipação financeira
+1 - Quando no lar de idosos se encontrem utentes em situação de dependência de 2.º grau, de harmonia com o disposto na cláusula iv, n.os 2 e 3, do Protocolo de Cooperação de 2003, o valor da comparticipação financeira previsto no anexo i é acrescido de:
+a) Uma comparticipação adicional mensal no valor de (euro) 61,35 por utente nas situações de dependência de 2.º grau; e
+b) Uma comparticipação suplementar mensal no valor de (euro) 42,97 por utente quando a frequência dos utentes em situação de dependência de 2.º grau for igual ou superior a 75 %.
+2 - A comparticipação financeira para o serviço de apoio domiciliário, prevista no anexo i, corresponde à prestação de serviços considerados indispensáveis à satisfação das necessidades básicas dos utentes, relativos a alimentação, higiene pessoal e habitacional e tratamento de roupas.
+3 - Nos casos em que o apoio domiciliário não corresponda à prestação de serviços previstos no número anterior, o valor da comparticipação financeira constante da respectiva tabela pode variar nas condições e termos seguintes:
+a) Até mais 50 % se integrar outros serviços para além dos referenciados no número anterior, ou se prestado para além dos dias úteis semanais;
+b) Até menos 50 % se não contemplar integralmente algum ou alguns dos serviços indispensáveis à satisfação das necessidades básicas das pessoas nos termos do número anterior.
+4 - Nos casos em que a creche, para corresponder à necessidade expressa dos pais, de, pelo menos, 30 % das crianças, pratique um horário de funcionamento superior a onze horas diárias, para além da comparticipação financeira utente/mês prevista nas tabelas dos anexos i e ii, há lugar a uma comparticipação complementar mensal no valor de (euro) 443,61.
+Artigo 4.º
+Actualização da comparticipação financeira dos acordos de cooperação que carecem de homologação
+1 - O disposto no artigo anterior não se aplica aos acordos de cooperação que, nos termos da cláusula xv do Despacho Normativo n.º 75/92, de 23 de Abril, carecem de homologação.
+2 - O valor da comparticipação financeira respeitante aos acordos de cooperação a que se refere o presente artigo é actualizado em 3,1 % após o decurso de um ano de vigência do acordo de cooperação, da sua renovação ou da revisão da respectiva comparticipação financeira.
+Artigo 5.º
+Apoio financeiro às instituições ao abrigo das normas xxx e xxxi do Despacho Normativo n.º 75/92, de 23 de Abril
+1 - A actualização do apoio financeiro a atribuir às instituições a que se referem as normas xxx e xxxi do Despacho Normativo n.º 75/92, de 23 de Abril, é de 3,1 % face ao montante atribuído em 2006.
+2 - Nos casos em que a comparticipação atribuída em 2006 tiver sido superior a 70 % do executado, a aplicação da percentagem prevista no número anterior recairá sobre 70 % do executado.
+Artigo 6.º
+Disposição subsidiária
+Em tudo o que se relaciona com o regime da cooperação, designadamente, no que respeita ao funcionamento das respostas sociais e obrigações da Confederação Nacional das Instituições de Solidariedade, União das Misericórdias Portuguesas e União das Mutualidades Portuguesas, aplica-se o disposto nos Protocolos de Cooperação de 2006.
+Artigo 7.º
+Produção de efeitos
+A presente portaria produz efeitos desde 1 de Janeiro de 2007.
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 19 de Julho de 2007.
+ANEXO I
+Comparticipação financeira
+
+(ver documento original)
+ANEXO II
+Comparticipação financeira respeitante a acordos celebrados ao abrigo do principio da diferenciação positiva
+
+(ver documento original)
