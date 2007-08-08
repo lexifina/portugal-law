@@ -16,4 +16,4 @@ c) A pedido do devedor, quando este deixe de se encontrar em situação de insol
 
 d) Quando o administrador da insolvência constate a insuficiência da massa insolvente para satisfazer as custas do processo e as restantes dívidas da massa insolvente.
 
-2 - A decisão de encerramento do processo é notificada aos credores e objecto da publicidade e do registo previstos no artigo 38.º, com indicação da razão determinante.
+2 - A decisão de encerramento do processo é notificada aos credores e objecto da publicidade e do registo previstos nos artigos 37.º e 38.º, com indicação da razão determinante.

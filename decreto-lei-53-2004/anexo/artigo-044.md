@@ -8,4 +8,4 @@
 
 1 - A sentença que indefira o pedido de declaração de insolvência é notificada apenas ao requerente e ao devedor.
 
-2 - No caso de ter sido designado um administrador judicial provisório, a sentença é objecto de publicação e registo, nos termos previstos no artigo 38.º, devidamente adaptados.
+2 - No caso de ter sido nomeado um administrador judicial provisório, a sentença é objecto de publicação e registo, nos termos previstos nos artigos 37.º e 38.º, com as necessárias adaptações.

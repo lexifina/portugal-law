@@ -1,6 +1,6 @@
 # Artigo 164.º
 
-### Modalidades da alienação e publicidade
+### Modalidades da alienação
 
 1 - O administrador da insolvência escolhe a modalidade da alienação dos bens, podendo optar por qualquer das que são admitidas em processo executivo ou por alguma outra que tenha por mais conveniente.
 

@@ -4,7 +4,7 @@
 
 1 - Os administradores do devedor a quem tenha sido fixada residência são notificados pessoalmente da sentença, nos termos e pelas formas prescritos na lei processual para a citação, sendo-lhes igualmente enviadas cópias da petição inicial.
 
-2 - A notificação do requerente da declaração de insolvência ocorre nos termos por que se regem as notificações em processos pendentes; o devedor, se não for o próprio requerente, é notificado nos mesmos moldes ou nos do n.º 1, consoante tenha ou não sido já pessoalmente citado para os termos do processo.
+2 - Sem prejuízo das notificações que se revelem necessárias nos termos da legislação laboral, nomeadamente ao Fundo de Garantia Salarial, a sentença é igualmente notificada ao Ministério Público, ao requerente da declaração de insolvência, ao devedor, nos termos previstos para a citação, caso não tenha já sido citado pessoalmente para os termos do processo e, se este for titular de uma empresa, à comissão de trabalhadores.
 
 3 - Os cinco maiores credores conhecidos, com exclusão do que tiver sido requerente, são citados nos termos do n.º 1 ou por carta registada, consoante tenham ou não residência habitual, sede ou domicílio em Portugal.
 
@@ -12,6 +12,8 @@
 
 5 - Havendo créditos do Estado, de institutos públicos sem a natureza de empresas públicas ou de instituições da segurança social, a citação dessas entidades é feita por carta registada.
 
-6 - Os demais credores e outros interessados são citados por edital, com as formalidades determinadas pela incerteza das pessoas, com prazo de dilação de cinco dias e com anúncios no Diário da República e num jornal diário de grande circulação nacional, designando-se nuns e noutros o número do processo, indicando-se a dilação e a possibilidade de recurso ou de dedução de embargos, reproduzindo-se as menções constantes da sentença em obediência ao disposto nas alíneas a) a e) e i) a n) do artigo anterior e advertindo-se que o prazo para o recurso, os embargos e a reclamação dos créditos só começa a correr depois de finda a dilação, e que esta se conta da publicação do último anúncio.
+6 - O disposto nos números anteriores não prejudica a possibilidade de notificação e citação por via electrónica, nos termos previstos em portaria do Ministro da Justiça.
 
-7 - A sentença é igualmente notificada ao Ministério Público e, se o devedor for titular de uma empresa, à comissão de trabalhadores; quando esta comissão não exista, a sentença é objecto de publicação mediante a afixação de editais na sede e nos estabelecimentos da empresa.
+7 - Os demais credores e outros interessados são citados por edital, com prazo de dilação de cinco dias, afixado na sede, nos estabelecimentos da empresa e no próprio tribunal e por anúncio publicado no Diário da República.
+
+8 - Os editais e anúncios referidos no número anterior devem indicar o número do processo, a dilação e a possibilidade de recurso ou dedução de embargos e conter os elementos e informações previstos nas alíneas a) a e) e i) a n) do artigo anterior, advertindo-se que o prazo para o recurso, os embargos e a reclamação dos créditos só começa a correr depois de finda a dilação e que esta se conta da publicação do anúncio referido no número anterior.

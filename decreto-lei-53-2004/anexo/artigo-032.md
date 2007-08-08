@@ -2,7 +2,7 @@
 
 ### Escolha e remuneração do administrador judicial provisório
 
-1 - A escolha do administrador judicial provisório recai em entidade inscrita na lista oficial de administradores da insolvência, tendo o juiz em conta a proposta eventualmente feita na petição inicial.
+1 - A escolha do administrador judicial provisório recai em entidade inscrita na lista oficial de administradores da insolvência, podendo o juiz ter em conta a proposta eventualmente feita na petição inicial no caso de processos em que seja previsível a existência de actos de gestão que requeiram especiais conhecimentos.
 
 2 - O administrador judicial provisório manter-se-á em funções até que seja proferida a sentença, sem prejuízo da possibilidade da sua substituição ou remoção em momento anterior, ou da sua recondução como administrador da insolvência.
 
