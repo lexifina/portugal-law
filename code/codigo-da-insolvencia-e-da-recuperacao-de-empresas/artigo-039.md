@@ -29,3 +29,5 @@ c) O administrador da insolvência limita a sua actividade à elaboração do pa
 d) Após o respectivo trânsito em julgado, qualquer legitimado pode instaurar a todo o tempo novo processo de insolvência, mas o prosseguimento dos autos depende de que seja depositado à ordem do tribunal o montante que o juiz razoavelmente entenda necessário para garantir o pagamento das custas e das dívidas previsíveis da massa insolvente, aplicando-se o disposto nos n.os 4 e 5.
 
 8 - O disposto neste artigo não é aplicável quando o devedor, sendo uma pessoa singular, tenha requerido, anteriormente à sentença de declaração de insolvência, a exoneração do passivo restante.
+
+9 - Para os efeitos previstos no n.º 1, presume-se a insuficiência da massa quando o património do devedor seja inferior a (euro) 5000.

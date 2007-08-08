@@ -2,7 +2,7 @@
 
 ### Publicidade e registo
 
-1 - É ainda dada publicidade à sentença de declaração de insolvência por meio de publicação de anúncio no Diário da República de que constem os elementos enunciados nas alíneas a), b), d) e m) do artigo 36.º, bem como por afixação de edital, com as mesmas informações, à porta da sede e das sucursais do insolvente ou do local da sua actividade, consoante os casos, e ainda no lugar próprio do tribunal; o juiz pode, oficiosamente ou a requerimento de algum interessado, determinar as formas de publicidade adicional que considere indicadas.
+1 - (Revogado).
 
 2 - A declaração de insolvência e a nomeação de um administrador da insolvência são registadas oficiosamente, com base na respectiva certidão, para o efeito remetida pela secretaria:
 
@@ -23,3 +23,5 @@ c) Comunica a declaração de insolvência ao Banco de Portugal para que este pr
 4 - Dos registos da nomeação do administrador da insolvência deve constar o seu domicílio profissional.
 
 5 - Todas as diligências destinadas à publicidade e registo da sentença devem ser realizadas no prazo de cinco dias.
+
+6 - O juiz pode, oficiosamente ou a requerimento de algum interessado, determinar as formas de publicidade adicional que considere indicadas.

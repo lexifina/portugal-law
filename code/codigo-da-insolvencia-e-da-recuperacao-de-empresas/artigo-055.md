@@ -16,4 +16,4 @@ b) Prover, no entretanto, à conservação e frutificação dos direitos do inso
 
 5 - Ao administrador da insolvência compete ainda prestar oportunamente à comissão de credores e ao tribunal todas as informações necessárias sobre a administração e a liquidação da massa insolvente.
 
-6 - A requerimento do administrador da insolvência, o juiz oficia quaisquer entidades públicas e instituições de crédito para, com base nos respectivos registos, prestarem informações consideradas necessárias ou úteis para os fins do processo, nomeadamente sobre a existência de bens integrantes da massa insolvente.
+6 - A requerimento do administrador da insolvência e sempre que este não tenha acesso directo às informações pretendidas, o juiz oficia quaisquer entidades públicas e instituições de crédito para, com base nos respectivos registos, prestarem informações consideradas necessárias ou úteis para os fins do processo, nomeadamente sobre a existência de bens integrantes da massa insolvente.

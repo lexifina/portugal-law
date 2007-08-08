@@ -4,7 +4,7 @@
 
 1 - O juiz recusa ainda a homologação se tal lhe for solicitado pelo devedor, caso este não seja o proponente e tiver manifestado nos autos a sua oposição, anteriormente à aprovação do plano de insolvência, ou por algum credor ou sócio, associado ou membro do devedor cuja oposição haja sido comunicada nos mesmos termos, contanto que o requerente demonstre em termos plausíveis, em alternativa, que:
 
-a) A sua situação ao abrigo do plano é previsivelmente menos favorável do que a que interviria na ausência de qualquer plano;
+a) A sua situação ao abrigo do plano é previsivelmente menos favorável do que a que interviria na ausência de qualquer plano, designadamente face à situação resultante de acordo já celebrado em procedimento extrajudicial de regularização de dívidas;
 
 b) O plano proporciona a algum credor um valor económico superior ao montante nominal dos seus créditos sobre a insolvência, acrescido do valor das eventuais contribuições que ele deva prestar.
 

@@ -13,3 +13,7 @@
 5 - Encerrado o processo de insolvência por insuficiência da massa, o incidente de qualificação da insolvência, se ainda não estiver findo, prossegue os seus termos como incidente limitado.
 
 6 - O disposto nos números anteriores não é aplicável na hipótese de o devedor beneficiar do diferimento do pagamento das custas, nos termos do n.º 1 do artigo 248.º, durante a vigência do benefício.
+
+Presume-se a insuficiência da massa quando o património seja inferior a (euro) 5000.
+
+7 - Presume-se a insuficiência da massa quando o património seja inferior a (euro) 5000.
