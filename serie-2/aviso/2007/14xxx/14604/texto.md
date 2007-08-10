@@ -1,0 +1,6 @@
+Aviso n.º 14 604/2007
+João Pedro de Campos Domingues, vereador da Câmara Municipal de Loures, torna público que a Câmara Municipal deliberou, em reunião de 11 de Julho de 2006, submeter à apreciação pública, pelo período de 30 dias úteis, com início a 13 de Agosto e termo a 24 de Setembro de 2007, nos termos do disposto no artigo 118.º do Código do Procedimento Administrativo e no n.º 3 do artigo 3.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 177/2001, de 4 de Junho, o projecto de alteração ao Regulamento Municipal de Edificação e Urbanização.
+O referido projecto poderá ser consultado no átrio do edifício dos Paços do Concelho, no balcão das relações públicas do edifício do Departamento de Gestão Urbanística, nas sedes de todas as juntas de freguesia do concelho e na página da Internet da Câmara Municipal de Loures (www.cm-loures.pt).
+Quaisquer observações ou sugestões deverão ser apresentadas através de exposição escrita, endereçada ao DGU (Departamento de Gestão Urbanística), a entregar no rés-do-chão do edifício sito à Rua da Ilha da Madeira, 4, 2670 Loures, ou a enviar, por carta registada, com aviso de recepção, para aquela morada.
+20 de Julho de 2007. - O Vereador do Urbanismo, João Pedro Domingues.
+2611037637
