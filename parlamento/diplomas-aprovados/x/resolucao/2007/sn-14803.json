@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=3d4h3iJUzJ5%2ftQ8sS%2fv2R6TCj8bCDkLL%2bFdTRK40%2bilvyl3jbC46ru%2bbuvKRKJ3lgapPwkE42I%2fcPFXX64A753V2F4NAeMLX9Q5f9dhfRw%2fZFjlxWBwzJlA%2fEAJw8kEfEAFouQqDrN%2b9iY6U6sL2%2fE8%2bdI8xG5omU6EURK6xQ6fcjzTD%2fTWSt8eLiep1ZNqUU0km0C4VCM%2biGLus4uuMEhij5lBvmmjWv530iGZUmCkpaUeaTFUPHUi4Nzu0CYvun3VwXRQb8gjThUiCFcrGcQcuzNFSOhnaeWKbg%2bt7bLF54ELv6OteOSIaaDkb%2fWmThXvmwAOcMAaxBwFGo70ZNVhlH4xT8ogN433mxWauB%2fk%3d&fich=DiplomasX_json.txt&Inline=true",
+  "ficheiro_sha256": "724a3fff001c963e771445a5cbb0ce949f9feb66d52e11eac6e03ce068278a50",
+  "legislatura": "X",
+  "id": "14803",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2007-08-14",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2007",
+    "Id": "14803",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "33520",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a55325957526b4d6a6b774c544d7a4e6a59744e444e6a5a433034593251794c546b7a5a6d466b593246695a6a63314e79356b62324d3d&fich=56add290-3366-43cd-8cd2-93fadcabf757.doc&Inline=true",
+        "IniNr": "55",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "S",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "X",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a57353059584976597a68684e6d49334e7a63745a6d51304d7930304d5452684c546c6d4f5451745a446c694f47566d4d44646d59324a694c6d527659773d3d&fich=c8a6b777-fd43-414a-9f94-d9b8ef07fcbb.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "407490",
+        "obs": null,
+        "pag": [
+          "113-139"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-08-14",
+        "pubLeg": "X",
+        "pubNr": "128",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/10/02/128/2007-08-14/113?pgs=113-139&org=PLC"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Resolução",
+    "Titulo": "Aprova o Convénio Constitutivo do Fundo Multilateral de Investimentos II e o Convénio de Administração do Fundo Multilateral de Investimentos II, assinados em 9 de Abril de 2005, em Okinawa",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
