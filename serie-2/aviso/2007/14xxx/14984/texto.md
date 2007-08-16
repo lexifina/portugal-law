@@ -1,0 +1,7 @@
+Aviso n.º 14 984/2007
+Rui Manuel Rosa Lopes Correia, vice-presidente da Câmara Municipal de Lagoa (Algarve), torna público que a Câmara Municipal de Lagoa, na sua reunião realizada no dia 24 de Julho de 2007, depois de ouvidas as entidades representativas dos interesses a ponderar e de acordo com o parecer emitido pela Comissão de Coordenação e Desenvolvimento Regional do Algarve, deliberou proceder à abertura do período de discussão pública do Plano de Urbanização da Cidade de Lagoa, nos termos do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, e alterações introduzidas pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro.
+Mais se informa que o período de discussão pública do Plano de Urbanização da Cidade de Lagoa é de 22 dias úteis, com início 10 dias após a publicação deste aviso no Diário da República.
+Durante o período de discussão pública, a proposta do referido plano encontra-se disponível para consulta dos interessados das 9 horas e 30 minutos às 12 horas e das 14 horas e 30 minutos às 17 horas, todos os dias úteis, nos Paços do Concelho de Lagoa e na Junta de Freguesia de Lagoa.
+Os interessados poderão apresentar por escrito as suas participações (observações, sugestões, reclamações ou pedidos de esclarecimento), devendo estas ser entregues nos locais onde se encontra o plano para consulta ou serem remetidos para a Câmara Municipal de Lagoa, Largo do Município, 8401-851 Lagoa, até ao último dia do período acima mencionado.
+2 de Agosto de 2007. - O Vice-Presidente da Câmara, Rui Manuel Rosa Lopes Correia.
+2611039281
