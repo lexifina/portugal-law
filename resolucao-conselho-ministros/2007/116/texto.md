@@ -1,0 +1,14 @@
+Resolução do Conselho de Ministros n.º 116/2007
+A Hikma Farmacêutica (Portugal), S. A., constituída em 1989, é uma empresa especializada na produção e comercialização de medicamentos sólidos e líquidos, situada em Sintra.
+A Hikma Farmacêutica (Portugal), S. A., é actualmente detida pela Hikma International, N. V., grupo internacional sediado na Holanda, que possui empresas em Portugal e nos Estados Unidos.
+A Hikma decidiu realizar um projecto de investimento destinado à modernização da sua unidade fabril em Sintra, que envolve a construção de uma nova unidade produtiva de cerca de 9000 m2, destinada à produção de medicamentos sólidos e líquidos.
+O projecto permitirá à empresa dotar a produção dos meios que permitam aumentar a produtividade, visando o aumento da quota do mercado interno hospitalar e a expansão do negócio a outros mercados.
+O investimento em causa atinge os 33,9 milhões de euros, prevendo-se a criação de 151 postos de trabalho e a manutenção de 174, bem como o alcance de um valor de vendas acumulado de 336,2 milhões de euros no final de 2010 e de 707,3 milhões de euros no final de 2014, ano do termo da vigência do contrato.
+Deste modo, considera-se que este projecto, pelo seu mérito, demonstra especial interesse para a economia nacional e reúne as condições necessárias à admissão ao regime contratual e à concessão de incentivos financeiros e fiscais previstos para grandes projectos de investimento.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar as minutas do contrato de investimento e respectivos anexos, a celebrar entre o Estado Português, representado pela Agência Portuguesa para o Investimento, E. P. E., e a Hikma Pharmaceuticals, P. L. C., a Hikma UK, Ltd., e a Hikma Farmacêutica (Portugal), S. A., que tem por objecto a modernização da unidade industrial desta última sociedade localizada em Sintra.
+2 - Conceder os benefícios fiscais em sede de IRC que constam do contrato de investimento e do contrato de concessão de benefícios fiscais, sob proposta do Ministro de Estado e das Finanças, atento o disposto no n.º 1 do artigo 39.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 198/2001, de 3 de Julho, e pelas Leis n.os 85/2001, de 4 de Agosto, 109-B/2001, de 27 de Dezembro, 32-B/2002, de 30 de Dezembro, 55-B/2004, de 30 de Dezembro, e 60-A/2005, de 30 de Dezembro, e no Decreto-Lei n.º 409/99, de 15 de Outubro.
+3 - Determinar que o original do contrato referido no n.º 1 fique arquivado na Agência Portuguesa para o Investimento, E. P. E.
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 28 de Dezembro de 2006. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
