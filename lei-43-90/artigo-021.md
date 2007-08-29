@@ -1,13 +1,9 @@
 # Artigo 21.º
 
-### Publicação
+### Audição dos peticionários
 
-1 - São publicadas na íntegra no Diário da Assembleia da República as petições:
+1 - A audição dos peticionários, durante o exame e instrução, é obrigatória, perante a comissão parlamentar, ou delegação desta, sempre que a petição seja subscrita por mais de 1000 cidadãos.
 
-a) Assinadas por um mínimo de 2000 cidadãos;
+2 - A audição pode ainda ser decidida pela comissão parlamentar, por razões de mérito, devidamente fundamentadas, tendo em conta, em especial, o âmbito dos interesses em causa, a sua importância social, económica ou cultural e a gravidade da situação objecto da petição.
 
-b) As que o Presidente da Assembleia da República, sob proposta da comissão, entender que devem ser publicadas.
-
-2 - São igualmente publicados os relatórios relativos às petições referidas no número anterior ou que o Presidente da Assembleia da República, sob proposta da comissão, entenda que devem ser publicados.
-
-3 - O Plenário será informado do sentido essencial das petições recebidas e das medidas sobre elas tomadas pelo menos duas vezes por sessão legislativa.
+3 - O disposto nos números anteriores não prejudica as diligência que o relator entenda fazer para obtenção de esclarecimento e preparação do relatório, incluindo junto dos peticionários.

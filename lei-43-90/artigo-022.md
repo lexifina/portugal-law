@@ -1,9 +1,7 @@
-## Capítulo IV
-
-## Disposições finais
-
 # Artigo 22.º
 
-### Regulamentação complementar
+### Diligência conciliadora
 
-No âmbito das respectivas competências constitucionais, os órgãos e autoridades abrangidos pela presente lei elaborarão normas e outras medidas tendentes ao seu eficaz cumprimento.
+1 - Concluídos os procedimentos previstos nos artigos 20.º e 21.º, a comissão parlamentar pode ainda realizar uma diligência conciliadora, desde que esta seja devidamente justificada.
+
+2 - Havendo diligência conciliadora, o presidente da comissão convidará a entidade em causa no sentido de poder corrigir a situação ou reparar os efeitos que deram origem à petição.
