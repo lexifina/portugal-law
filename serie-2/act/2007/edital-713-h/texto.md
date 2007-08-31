@@ -1,0 +1,6 @@
+Edital n.º 713-H/2007
+Plano de Pormenor do Areeiro em Portalegre (elaboração)
+Discussão pública
+José Fernando da Mata Cáceres, presidente da Câmara Municipal de Portalegre, torna público que, depois de ouvidas as entidades representativas dos interesses a ponderar e de acordo com o parecer emitido pela Comissão de Coordenação e Desenvolvimento Regional do Alentejo acerca do Plano de Pormenor do Areeiro em Portalegre e em cumprimento da deliberação da Câmara Municipal de Portalegre reunida em 17 de Julho de 2007, nos termos do n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, se procede à abertura do período de discussão pública do referido plano de pormenor.
+Mais se informa que o período de discussão pública é de 22 dias, com inicio 10 dias após a publicação do presente aviso no Diário da República, que os interessados podem consultar a proposta do Plano e pareceres emitidos na Divisão de Planeamento e Estruturação Urbana da Câmara Municipal de Portalegre, nas horas normais de expediente, e que devem apresentar por escrito as suas reclamações, observações ou sugestões, até ao final do referido período.
+18 de Julho de 2007. - O Presidente da Câmara, José Fernando da Mata Cáceres.
