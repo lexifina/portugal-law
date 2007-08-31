@@ -1,0 +1,6 @@
+Edital n.º 713-F/2007
+Alteração parcial ao Plano Director Municipal, ratificado pela Resolução do Conselho de Ministros n.º 7/94, publicada no Diário da República, 1.ª série-B, n.º 23, de 28 de Janeiro de 1994.
+Dr.ª Maria de Fátima da Cunha Felgueiras Almeida Sousa Oliveira, presidente da Câmara Municipal de Felgueiras, torna público que a Câmara Municipal de Felgueiras, na sua reunião de 18 de Julho de 2007, deliberou, ao abrigo da alínea a) do n.º 2 do artigo 93.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, desencadear o procedimento conducente à alteração parcial do Plano Director Municipal, nomeadamente dos artigos 6.º, 8.º e quadros anexos, 9.º, 13.º, 16.º e 29.º do Regulamento, e da Planta de Ordenamento nas partes assinaladas, estabelecendo como prazo máximo para a elaboração dessa alteração 15 dias.
+Assim, qualquer interessado poderá, no prazo de 30 dias, apresentar, por escrito, sugestões e informações que possam ser contempladas no referido procedimento de alteração.
+Essas sugestões e informações devem ser apresentadas nos GAM's (Gabinetes de Atendimento Municipal) desta Câmara Municipal.
+23 de Julho de 2007. - A Presidente da Câmara, Fátima Felgueiras.
