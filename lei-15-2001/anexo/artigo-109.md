@@ -34,7 +34,7 @@ n) Introduzir no consumo ou comercializar produtos tributáveis a preço diferen
 
 o) Recusar, obstruir ou impedir a fiscalização das condições do exercício da sua actividade, nomeadamente a não prestação de informação legalmente prevista ao serviço fiscalizador;
 
-p) Introduzir no consumo ou comercializar produtos com violação das regras de selagem, embalagem ou comercialização estabelecidas pelo Código dos Impostos Especiais sobre o Consumo e em legislação complementar;
+p) Introduzir no consumo ou comercializar produtos com violação das regras de selagem, embalagem ou comercialização, designadamente os limites quantitativos, estabelecidas pelo Código dos Impostos Especiais sobre o Consumo e em legislação complementar;
 
 q) Adquirir ou consumir gasóleo colorido e marcado sem ser titular de cartão com microcircuito.
 
