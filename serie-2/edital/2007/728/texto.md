@@ -1,0 +1,4 @@
+Edital n.º 728/2007
+Luís Miguel Carraça Franco, presidente da Câmara Municipal de Alcochete, torna público que, nos termos do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, que se encontrará patente para discussão pública, no edifício dos Paços do Concelho de Alcochete e na Junta de Freguesia de Alcochete, por um período de 30 dias úteis, com início 10 dias após a data da publicação deste edital no Diário da República, o Plano de Pormenor de Reconversão da AUGI do Bairro do Maçãs.
+As reclamações, observações ou sugestões poderão ser apresentadas por escrito nos locais indicados, por correio, dirigidas ao presidente da Câmara Municipal de Alcochete, Largo de São João, 2894-001 Alcochete, por fax: 212348690 ou por e-mail: gerallcm-alcochete.pt.
+14 de Agosto de 2007. - O Presidente da Câmara, Luís Miguel Franco.
