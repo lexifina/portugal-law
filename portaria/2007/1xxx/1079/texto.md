@@ -1,0 +1,16 @@
+Portaria n.º 1079/2007
+de 5 de Setembro
+Pela Portaria n.º 736/95, de 7 de Julho, alterada pela Portaria n.º 83/96, de 15 de Março, foi concessionada à Associação de Caçadores da Casa Branca a zona de caça associativa da Farinha Velha e Vale Mouro (processo n.º 1750-DGRF), situada no município de Arraiolos, válida até 7 de Julho de 2007.
+Considerando que a zona de caça não foi renovada no termo do prazo da concessão e que, nos termos da alínea d) do n.º 1 do artigo 50.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, tal facto acarreta a sua caducidade;
+Considerando que para os terrenos abrangidos pela mencionada zona de caça foi requerida a concessão de uma zona de caça turística a favor de SOCIMORA - Sociedade Cinegética de Mora, Lda.;
+Considerando que, nos termos do n.º 2 do citado artigo 50.º da citada legislação, a extinção da zona de caça só produz efeitos com a publicação:
+Assim:
+Com fundamento no disposto no artigo 40.º, na alínea d) do n.º 1 e no n.º 2 do artigo 50.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, ouvido o Conselho Cinegético Municipal de Arraiolos;
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É extinta a zona de caça associativa da Farinha Velha e Vale Mouro (processo n.º 1750-DGRF).
+2.º Pela presente portaria é concessionada, pelo período de 12 anos, renováveis automaticamente por um único e igual período, à SOCIMORA - Sociedade Cinegética de Mora, Lda., com o número de identificação fiscal 502682167 e sede na Rua Nova, 51, 7490-250 Mora, a zona de caça turística das Herdades da Farinha Velha e Vale de Mouro (processo n.º 4713-DGRF), englobando vários prédios rústicos sitos na freguesia do Vimieiro, município de Arraiolos, com a área de 600 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+4.º É revogada a Portaria n.º 736/95, de 7 de Julho, alterada pela Portaria n.º 83/96, de 15 de Março.
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 21 de Agosto de 2007.
+
+(ver documento original)
