@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 130/2007
+Sob proposta da Câmara Municipal, a Assembleia Municipal de Castelo Branco deliberou, em reunião de 7 de Dezembro de 2006, aprovar a prorrogação, por mais um ano, do prazo de vigência das medidas preventivas e da suspensão do Plano Geral de Urbanização (PGU) de Castelo Branco, ratificadas pela Resolução do Conselho de Ministros n.º 178/2004, de 20 de Dezembro.
+A suspensão do PGU de Castelo Branco, actualmente em revisão, e o estabelecimento de medidas preventivas para a respectiva área, visam evitar a alteração das circunstâncias e das condições de facto existentes, que possam limitar a liberdade de planeamento ou tornar mais onerosa a execução da revisão do referido PGU.
+De acordo com a fundamentação apresentada pela Câmara Municipal de Castelo Branco, embora a revisão do PGU se encontre numa fase já adiantada, torna-se necessária a prorrogação do prazo de vigência da suspensão e das medidas preventivas, sob pena de os objectivos da revisão em curso poderem ser postos em causa.
+Regista-se, pois, a efectiva necessidade da presente prorrogação, uma vez que subsistem as razões subjacentes à deliberação inicial de suspensão.
+Relativamente à pretendida prorrogação do prazo de vigência quer da suspensão quer das medidas preventivas, a Comissão de Coordenação e Desenvolvimento Regional do Centro emitiu parecer favorável em 22 de Janeiro de 2007.
+Por outro lado, e não obstante o termo do prazo de vigência das referidas medidas preventivas e suspensão já ter ocorrido em 21 de Dezembro de 2006, a deliberação da Assembleia Municipal que aprovou a mencionada prorrogação foi adoptada antes da caducidade das mesmas, pelo que, excepcionalmente, são atribuídos efeitos retroactivos à presente resolução, a contar de 21 de Dezembro de 2006, inclusive, para salvaguarda dos objectivos da revisão do PGU.
+Considerando o disposto na alínea b) do n.º 2 e no n.º 4 do artigo 100.º, nos n.os 1 e 9 do artigo 112.º e no n.º 3 do artigo 109.º, todos do Decreto-Lei n.º 380/99, de 22 de Setembro, na sua redacção actual.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Ratificar a prorrogação, por mais um ano, do prazo de vigência da suspensão do Plano Geral de Urbanização de Castelo Branco e das medidas preventivas, ratificadas pela Resolução do Conselho de Ministros n.º 178/2004, de 20 de Dezembro.
+2 - Determinar que os efeitos da presente prorrogação retroagem a 21 de Dezembro de 2006.
+Presidência do Conselho de Ministros, 2 de Agosto de 2007. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
