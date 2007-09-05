@@ -1,0 +1,6 @@
+Aviso n.º 16 392/2007
+Alteração da proposta do plano de pormenor em regime simplificado do espaço de estabelecimento terciário do Arneiro
+António d'Orey Capucho, presidente da Câmara Municipal de Cascais, faz público que, no seguimento da deliberação da Câmara Municipal de Cascais de 30 de Julho de 2007, a que se refere a proposta n.º 1262/07, foi deliberada a alteração da proposta de plano de pormenor em regime simplificado, do espaço de estabelecimento terciário do Arneiro, que passará a designar-se "Plano de Pormenor do Espaço de Estabelecimento Terciário do Arneiro".
+De acordo com a citada deliberação e nos termos do disposto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, encontra-se aberto um período de 30 dias após a data da publicação deste aviso para formulação de sugestões ou obtenção de informações sobre aquele Plano.
+Nesse sentido, os eventuais interessados poderão consultar o projecto de plano no Departamento de Planeamento Estratégico, sito no Edifício Tardoz dos Paços do Concelho, no Largo de 5 de Outubro, em Cascais.
+1 de Agosto de 2007. - O Presidente da Câmara, António d'Orey Capucho.
