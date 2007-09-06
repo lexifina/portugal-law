@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7mX8CblfaZUC1PkJDB5lnqrCJq%2b7%2fttZ%2bq7V7723EchVdz3Nn2q812aFEYd6rr8874IzCmBVEAA%2bWOYWfsumzvqS1eq8naCM3HU8DfArtqjUIzglbaPE0CcQttqHCQQoMo%2fh%2fhKCb3g2GEQMzfq1KSc9%2fpTWFu72hTtxTyNYOeXkhbuONHMuCnIkQqg3msT7eeQmt0TfluQRzEBaM8DH7AQmw5Qhogj2EW6Pzk21Q%2bvziTvjPWoS33gxtX%2fH9JDDQX6mGASaug9iKuUhzQ7Z5ZK%2fZR5bCVlM5vvPHMxCwoMG%2bvQRYkXxSUhi0aLWAFUFURbTtAP3Ta6KrCvkgi0G8WZ9c9%2bLNnGsCv9PZZ1kJfTh41xRZVmeaxJdHrCKDxmC&fich=IntervencoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "6d409937a94b75ba2179b6cc6083cb33cce789e414851e22ef0c275c6cbcc284",
+  "legislatura": "X",
+  "id": "166300",
+  "tipo": "Leitura",
+  "orador": "Jaime Gama (PS)",
+  "data_registo": "2007-09-06",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "249431",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "33486",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Aprova a Orgânica da Guarda Nacional Republicana."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2007-09-06",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "173",
+      "nome": "Jaime Gama"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "PAOD",
+    "Id": "166300",
+    "IdDebate": "5862",
+    "Iniciativas": [
+      {
+        "fase": "Veto (Leitura)",
+        "id": "33486",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "X",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "166300",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "13-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-09-07",
+        "pubLeg": "X",
+        "pubNr": "110",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/110/2007-09-07/13?pgs=13-15&org=PLC"
+      }
+    ],
+    "Qualidade": "Pres. Mesa",
+    "Resumo": null,
+    "Sessao": "2",
+    "Sumario": "Mensagem do Presidente da Republica sobre a devolução sem promulgação do Decreto da Assembleia da Republica 160/X - Aprova a Orgânica da Guarda Nacional Repúblicana.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Leitura"
+  }
+}
