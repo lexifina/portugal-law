@@ -1,0 +1,9 @@
+Aviso n.º 16 586-C/2007
+Revisão do Plano Director Municipal de Fornos de Algodres
+Dr. José Severino Soares Miranda, presidente da Câmara Municipal de Fornos de Algodres, faz saber que a Câmara Municipal de Fornos de Algodres deliberou, em 6 de Outubro de 2004, abrir o procedimento de revisão do seu Plano Director Municipal, nos termos conjugados do n.º 2 do artigo 96.º e do n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelos Decretos-Leis n.os 53/2000, de 7 de Abril, e 310/2003, de 10 de Dezembro.
+De acordo com o n.º 2 do artigo 77.º do mesmo diploma, decorrerá, por um período de 60 dias úteis, após a publicação do presente aviso no Diário da República, um processo de audição, durante o qual se convidam todos os interessados a proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito da revisão do Plano Director Municipal.
+Durante aquele período, poderá ser consultado, na Divisão de Obras Municipais, Ambiente e Serviços Urbanos, da Câmara Municipal de Fornos de Algodres, Estrada Nacional n.º 16, Fornos de Algodres, o documento de fundamentação da revisão do Plano Director Municipal que descreve os objectivos e metodologias a observar no correspondente processo.
+Junto da mesma Divisão, poderão ser marcadas reuniões de esclarecimento e informação adicional, com técnicos municipais e técnicos da equipa responsável pela revisão do Plano Director Municipal.
+As sugestões ou observações poderão ser apresentadas em carta dirigida ao presidente da Câmara Municipal de Fornos de Algodres, Estrada Nacional n.º 16, 6370-148 Fornos de Algodres, ou através do endereço electrónico: geral@cm-fornosdealgodres.pt.
+E para que conste, mandei publicar este aviso nos locais habituais e na comunicação social.
+1 de Agosto de 2007. - O Presidente da Câmara, José Severino Soares Miranda.
