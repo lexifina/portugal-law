@@ -1,0 +1,5 @@
+Aviso n.º 16 586-B/2007
+Nos termos do disposto no artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 310/2003, de 10 de Agosto, a Câmara Municipal de Espinho deliberou, em reunião de 6 de Julho de 2007, promover a elaboração do Plano de Pormenor do Estádio do Sporting Clube de Espinho.
+De acordo com o n.º 3 do artigo 77.º do Decreto-Lei n.º 390/2003, de 10 de Dezembro, decorrerá desde a publicação deste aviso em Diário da República e por um período de 15 dias úteis, um processo de participação pública, durante o qual os interessados poderão apresentar sugestões ou esclarecimentos que possam ser considerados no âmbito da elaboração do referido Plano de Pormenor.
+Os interessados deverão apresentar as suas sugestões ou observações por escrito em documento devidamente identificado e dirigido ao presidente da Câmara Municipal de Espinho, Largo do Dr. José Salvador, apartado 700, 4501-901 Espinho.
+31 de Julho de 2007. - O Vice-Presidente da Câmara, Rolando Nunes de Sousa.
