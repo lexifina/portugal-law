@@ -1,0 +1,6 @@
+Aviso n.º 16 712/2007
+Joaquim Moreira Raposo, presidente da Câmara Municipal da Amadora, torna público que, nos termos e ao abrigo do disposto nos n.os 4 e 5 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, se encontra para discussão pública o Plano de Pormenor - Terrenos da Rede Eléctrica Nacional - Alto da Mira - São Brás, a partir do 10.º dia à data de distribuição do Diário da República onde conste o presente aviso e durante o período de 22 dias.
+O Plano de Pormenor poderá ser consultado todos os dias úteis entre as 10 horas e as 12 horas e 30 minutos e entre as 14 horas e as 16 horas e 30 minutos na Secretaria do Departamento de Administração Urbanística da Câmara Municipal da Amadora e na sede da Junta de Freguesia de São Brás.
+As reclamações, observações e sugestões que os interessados entendam apresentar poderão ser feitas nos locais de consulta através de requerimento dirigido ao presidente da Câmara Municipal da Amadora.
+Mais se torna público que o aviso será publicado no Diário da República e na comunicação social e afixado nos locais públicos habituais.
+3 de Julho de 2007. - Presidente da Câmara, Joaquim Moreira Raposo.
