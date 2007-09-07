@@ -1,0 +1,18 @@
+Portaria n.º 1109/2007
+de 7 de Setembro
+Pela Portaria n.º 667-E9/93, de 14 de Julho, alterada pela Portaria n.º 897/94, de 4 de Outubro, foi concessionada à Associação de Caçadores da Freguesia da Amareleja a zona de caça associativa da Amareleja Sul (processo n.º 1056-DGRF), situada no município de Moura, com a área de 2472,8210 ha, válida até 15 de Julho de 2007.
+Considerando que a zona de caça não foi renovada no termo do prazo da concessão e que, nos termos da alínea d) do n.º 1 do artigo 50.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, tal facto acarreta a sua caducidade.
+Considerando que esta Associação requereu que parte dos terrenos abrangidos pela mencionada zona de caça fossem anexados à zona de caça associativa da Amareleja Norte (processo n.º 1057-DGRF), criada pela Portaria n.º 722-J4/92, de 15 de Julho, alterada pelas Portarias n.os 898/94 e 1069/2006, respectivamente de 4 de Outubro e de 29 de Setembro, válida até 15 de Julho de 2007 e que agora também se renova, cuja entidade concessionária é também a Associação de Caçadores da Freguesia da Amareleja.
+Considerando que, nos termos do n.º 2 do citado artigo 50.º, a extinção da zona de caça só produz efeitos com a publicação da respectiva portaria.
+Cumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º e 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º, na alínea d) do n.º 1 do artigo 50.º e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, ouvido o Conselho Cinegético Municipal:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É extinta a zona de caça associativa da Amareleja Sul (processo n.º 1056-DGRF), na parte respeitante aos prédios rústicos que vão ser anexados à zona de caça associativa da Amareleja Norte (processo n.º 1057-DGRF).
+2.º Pela presente portaria a zona de caça associativa da Amareleja Norte (processo n.º 1057-DGRF) é renovada, por um período de 12 anos, renovável automaticamente por um único e igual período, e com efeitos a partir do dia 16 de Julho de 2007, englobando vários prédios rústicos sitos na freguesia de Amareleja, município de Moura, com a área de 1736 ha e que exprime uma redução da área concessionada de 515 ha.
+3.º São anexados à presente zona de caça vários prédios rústicos sitos na freguesia de Amareleja, município de Moura, com a área de 2651 ha.
+4.º Esta zona de caça após a sua renovação e anexação dos terrenos acima referidos ficará com a área total de 4387 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+5.º A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza até um máximo de 10  % da área total da zona de caça.
+6.º Esta anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Em 22 de Agosto de 2007.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
+
+(ver documento original)
