@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "40098",
+  "tipo": "Requerimento",
+  "numero": "1919",
+  "data_registo": "2007-09-07",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Corte de apoio aos reformados da EDP e REN",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "2156",
+        "nome": "Mariana Aiveca"
+      }
+    ],
+    "DataEnvio": "2007-09-11",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2007-09-11",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DO TRABALHO E DA SOLIDARIEDADE SOCIAL",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2007-12-12",
+            "docRemetida": null,
+            "entidade": "MIN. DO TRABALHO E DA SOLIDARIEDADE SOCIAL",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a54544338794f545a695a6d4d3459793034595749354c54517a5a4745744f4464684e5330324d5449334d4749355a54566a4e6a41756347526d&fich=296bfc8c-8ab9-43da-87a5-61270b9e5c60.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2007-09-07",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a5454433968596a4d774f544a6c597930304d446c6b4c5451324e446b74595756694e53316d4d546b784f574a684d7a417a5a6d59756347526d&fich=ab3092ec-409d-4649-aeb5-f1919ba303ff.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "40098",
+    "Legislatura": "X",
+    "Nr": "1919",
+    "Observacoes": "refeição paga; cessação de regalias",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "409080",
+        "obs": null,
+        "pag": [
+          "40-41"
+        ],
+        "pagFinalDiarioSupl": "5º Supl.",
+        "pubdt": "2007",
+        "pubLeg": "X",
+        "pubNr": "51",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "5º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/02/051S5/2007-09-14/40?pgs=40-41&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
