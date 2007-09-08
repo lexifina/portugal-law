@@ -1,10 +1,10 @@
 # Artigo 43.º
 
-### (Regime da aposentação)
+### Regime da aposentação
 
 1. O regime da aposentação fixa-se com base na lei em vigor e na situação existente à data em que:
 
-a) Se profira despacho a reconhecer o direito a aposentação voluntária que não dependa de verificação de incapacidade;
+a) Seja recebido pela Caixa Geral de Aposentações o pedido de aposentação voluntária que não dependa de verificação de incapacidade;
 
 b) Seja declarada a incapacidade pela competente junta médica, ou homologado o parecer desta, quando lei especial o exija;
 

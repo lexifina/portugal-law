@@ -8,4 +8,4 @@
 
 3 - No caso do n.º 1 do presente artigo, o requerimento de aposentação não terá seguimento sem o prévio pagamento das quotas correspondentes ao tempo mínimo de 5 anos de serviço, quando este for indispensável para a aposentação.
 
-4. O requerente não pode desistir do seu pedido de aposentação depois de verificados os factos a que se refere o n.º 1 do artigo 43.º ou de publicado diploma legal que estabeleça alteração geral de vencimentos do funcionalismo, abrangendo o cargo do requerente.
+4 - O requerente não pode desistir do seu pedido de aposentação depois de proferido despacho a reconhecer o direito a aposentação voluntária que não dependa de incapacidade ou de verificados os factos a que se referem as alíneas b) a d) do n.º 1 do artigo 43.º
