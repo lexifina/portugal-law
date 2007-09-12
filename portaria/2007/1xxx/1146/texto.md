@@ -1,0 +1,13 @@
+Portaria n.º 1146/2007
+de 12 de Setembro
+Pela Portaria n.º 840/99, de 29 de Setembro, alterada pelas Portarias n.os 466/2004 e 1264-AX/2004, respectivamente de 4 de Maio e de 29 de Setembro, foi renovada até 22 de Junho de 2007 a zona de caça associativa das Herdades do Talheiro e outras (processo n.º 610-DGRF), situada no município de Mértola, concessionada à Associação de Caçadores de Terges e Cobre.
+Entretanto, a entidade concessionária veio requerer a sua renovação e ao mesmo tempo a anexação de outros prédios rústicos.
+Cumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º e 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º e no n.º 1 do artigo 118.º, do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, e ouvido o Conselho Cinegético Municipal, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é renovada, por um período de oito anos, renovável automaticamente por dois períodos iguais e com efeitos a partir do dia 23 de Junho de 2007, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos na freguesia de Alcaria Ruiva, município de Mértola, com a área de 889,95 ha, o que exprime uma redução da área concessionada de 359,05 ha.
+2.º São anexados à presente zona de caça vários prédios rústicos sitos na freguesia do Alcaria Ruiva, município de Mértola, com a área de 55 ha.
+3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 945 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+4.º A concessão de alguns terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza até um máximo de 10  % da área total da zona de caça.
+5.º Esta anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 24 de Agosto de 2007. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas, em 27 de Agosto de 2007.
+
+(ver documento original)
