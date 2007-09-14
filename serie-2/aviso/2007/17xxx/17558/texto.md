@@ -1,0 +1,5 @@
+Aviso n.º 17 558/2007
+José Maria Prazeres Pós de Mina, presidente da Câmara Municipal de Moura, torna público, em cumprimento do deliberado pelo executivo camarário em sua reunião ordinária realizada no dia 14 de Agosto de 2007, que se encontra em curso a alteração ao Plano de Pormenor da Zona Industrial de Moura (PPZIM), pelo prazo de 12 meses.
+Nos termos do n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, informa-se que decorrerá um período de 30 dias úteis, a contar da data da publicação deste aviso na 2.ª série do Diário da República, para a formulação de sugestões, bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+Nos termos do n.º 1 do artigo 74.º, conjugado com o n.º 3 do artigo 148.º, do diploma atrás referido, publica-se o presente na 2.ª série do Diário de República e na comunicação social.
+20 de Agosto de 2007. - O Presidente da Câmara, José Maria Prazeres Pós de Mina.
