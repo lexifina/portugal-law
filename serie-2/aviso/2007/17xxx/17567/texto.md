@@ -1,0 +1,8 @@
+Aviso n.º 17 567/2007
+José Inácio dos Santos Silva, vice-presidente da Câmara Municipal de Ponta do Sol, torna público que a Câmara Municipal de Ponta do Sol em sua reunião ordinária de 6 de Agosto de 2007 e a Assembleia Municipal em sessão extraordinária realizada no dia 20 de Agosto de 2007, no uso das competências atribuídas pelos artigos 64.º, n.º 6, alínea a), e 53.º, n.º 2, alínea a), da Lei n.º 169/99, de 18 de Setembro, na redacção que lhe foi dada pela Lei n.º 5-A/2002, de 11 de Janeiro, respectivamente, aprovaram a suspensão dos capítulos VII e VIII do Regulamento Municipal de Urbanização e Edificação, publicado no Diário da República, 2.ª série, n.º 204, de 23 de Outubro de 2006, produzindo efeitos a partir da data da aprovação da proposta na Assembleia Municipal de Ponta do Sol, proposta esta que passo a transcrever:
+"Considerando que com a implementação do Regulamento Municipal de Urbanização e Edificação foi possível constatar a existência de algumas deficiências na sua aplicação prática;
+Considerando que está a ser elaborado um novo regulamento da urbanização e edificação, através do qual é efectuado um reajuste das taxas, por forma a uma melhor adaptação à realidade do concelho da Ponta do Sol;
+Considerando que nas situações que determinam, em termos urbanísticos, operações de loteamento e de impacte semelhantes a um loteamento, o valor das taxas não se encontra adequado à realidade deste concelho:
+Venho propor a suspensão dos capítulos VII e VIII do Regulamento Municipal de Urbanização e Edificação.
+Mais proponho que esta proposta produza os efeitos a partir da data da aprovação na Assembleia Municipal."
+28 de Agosto de 2007. - O Vice-Presidente da Câmara, José Inácio dos Santos Silva.
