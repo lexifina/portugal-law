@@ -10,6 +10,8 @@ b) Violando grosseiramente as regras da circulação rodoviária relativas à pr
 
 e criar deste modo perigo para a vida ou para a integridade física de outrem, ou para bens patrimoniais alheios de valor elevado, é punido com pena de prisão até 3 anos ou com pena de multa.
 
-2 - Se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+2 - Quem conduzir veículo, com ou sem motor, em via pública ou equiparada e nela realizar actividades não autorizadas, de natureza desportiva ou análoga, que violem as regras previstas na alínea b) do número anterior, é punido com pena de prisão até três anos ou com pena de multa.
 
-3 - Se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+3 - Se o perigo referido no n.º 1 for criado por negligência, o agente é punido com pena de prisão até dois anos ou com pena de multa até 240 dias.
+
+4 - Se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.

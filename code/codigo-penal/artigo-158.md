@@ -16,7 +16,7 @@ d) Tiver como resultado suicídio ou ofensa à integridade física grave da vít
 
 e) For praticada contra pessoa particularmente indefesa, em razão de idade, deficiência, doença ou gravidez;
 
-f) For praticada contra uma das pessoas referidas na alínea j) do n.º 2 do artigo 132.º, no exercício das suas funções ou por causa delas;
+f) For praticada contra uma das pessoas referidas na alínea l) do n.º 2 do artigo 132.º, no exercício das suas funções ou por causa delas;
 
 g) For praticada mediante simulação de autoridade pública ou por funcionário com grave abuso de autoridade.
 

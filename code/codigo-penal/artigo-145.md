@@ -1,11 +1,11 @@
 # Artigo 145.º
 
-### Agravação pelo resultado
+### Ofensa à integridade física qualificada
 
-1 - Quem ofender o corpo ou a saúde de outra pessoa e vier a produzir-lhe a morte é punido:
+1 - Se as ofensas à integridade física forem produzidas em circunstâncias que revelem especial censurabilidade ou perversidade do agente, este é punido:
 
-a) Com pena de prisão de 1 a 5 anos no caso do artigo 143.º;
+a) Com pena de prisão até quatro anos no caso do artigo 143.º;
 
-b) Com pena de prisão de 3 a 12 anos no caso do artigo 144.º
+b) Com pena de prisão de três a doze anos no caso do artigo 144.º
 
-2 - Quem praticar as ofensas previstas no artigo 143.º e vier a produzir as ofensas previstas no artigo 144.º é punido com pena de prisão de 6 meses a 5 anos.
+2 - São susceptíveis de revelar a especial censurabilidade ou perversidade do agente, entre outras, as circunstâncias previstas no n.º 2 do artigo 132.º

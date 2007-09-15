@@ -17,3 +17,5 @@ c) 10 anos, se forem iguais ou superiores a 2 anos de prisão;
 d) 4 anos, nos casos restantes.
 
 2 - O prazo de prescrição começa a correr no dia em que transitar em julgado a decisão que tiver aplicado a pena.
+
+3 - É correspondentemente aplicável o disposto no n.º 3 do artigo 118.º

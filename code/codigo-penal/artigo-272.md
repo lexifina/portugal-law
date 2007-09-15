@@ -8,7 +8,7 @@
 
 1 - Quem:
 
-a) Provocar incêndio de relevo, nomeadamente pondo fogo a edifício ou construção, a meio de transporte, a floresta, mata, arvoredo ou seara;
+a) Provocar incêndio de relevo, nomeadamente pondo fogo a edifício, construção ou meio de transporte;
 
 b) Provocar explosão por qualquer forma, nomeadamente mediante utilização de explosivos;
 

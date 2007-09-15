@@ -1,5 +1,19 @@
 # Artigo 175.º
 
-### Actos homossexuais com adolescentes
+### Lenocínio de menores
 
-Quem, sendo maior, praticar actos homossexuais de relevo com menor entre 14 e 16 anos, ou levar a que eles sejam por este praticados com outrem, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+1 - Quem fomentar, favorecer ou facilitar o exercício da prostituição de menor é punido com pena de prisão de um a cinco anos.
+
+2 - Se o agente cometer o crime previsto no número anterior:
+
+a) Por meio de violência ou ameaça grave;
+
+b) Através de ardil ou manobra fraudulenta;
+
+c) Com abuso de autoridade resultante de uma relação familiar, de tutela ou curatela, ou de dependência hierárquica, económica ou de trabalho;
+
+d) Actuando profissionalmente ou com intenção lucrativa; ou
+
+e) Aproveitando-se de incapacidade psíquica ou de situação de especial vulnerabilidade da vítima;
+
+é punido com pena de prisão de dois a dez anos.

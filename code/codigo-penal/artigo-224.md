@@ -8,4 +8,4 @@
 
 3 - O procedimento criminal depende de queixa.
 
-4 - É correspondentemente aplicável o disposto no artigo 206.º e na alínea a) do artigo 207.º
+4 - É correspondentemente aplicável o disposto nos n.os 2 e 3 do artigo 206.º e na alínea a) do artigo 207.º

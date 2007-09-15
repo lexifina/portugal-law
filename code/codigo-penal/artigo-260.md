@@ -6,6 +6,8 @@
 
 2 - Na mesma pena incorre o veterinário que passar atestados nos termos e com os fins descritos no número anterior relativamente a animais.
 
-3 - Na mesma pena incorre quem passar atestado ou certificado referido nos números anteriores, arrogando-se falsamente as qualidades ou funções neles referidas.
+3 - Na mesma pena incorrem as pessoas referidas nos números anteriores que passarem atestado ou certificado ignorando se correspondem à verdade os factos deles constantes.
 
-4 - Quem fizer uso dos referidos certificados ou atestados falsos, com o fim de enganar autoridade pública ou prejudicar interesses de outra pessoa, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+4 - Na mesma pena incorre quem passar atestado ou certificado referido nos n.os 1 e 2 arrogando-se falsamente as qualidades ou funções neles referidas.
+
+5 - Quem fizer uso dos referidos certificados ou atestados falsos, com o fim de enganar autoridade pública ou prejudicar interesses de outra pessoa, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.

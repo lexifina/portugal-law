@@ -14,4 +14,4 @@ d) Com a notificação do despacho que designa dia para audiência na ausência 
 
 2 - Depois de cada interrupção começa a correr novo prazo de prescrição.
 
-3 - A prescrição do procedimento criminal tem sempre lugar quando, desde o seu início e ressalvado o tempo de suspensão, tiver decorrido o prazo normal de prescrição acrescido de metade. Quando, por força de disposição especial, o prazo de prescrição for inferior a 2 anos o limite máximo da prescrição corresponde ao dobro desse prazo.
+3 - Sem prejuízo do disposto no n.º 5 do artigo 118.º, a prescrição do procedimento criminal tem sempre lugar quando, desde o seu início e ressalvado o tempo de suspensão, tiver decorrido o prazo normal de prescrição acrescido de metade. Quando, por força de disposição especial, o prazo de prescrição for inferior a dois anos o limite máximo da prescrição corresponde ao dobro desse prazo.

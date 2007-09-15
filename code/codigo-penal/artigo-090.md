@@ -2,7 +2,7 @@
 
 ### Liberdade condicional e liberdade para prova
 
-1 - Até 2 meses antes de se atingir o limite mínimo da pena relativamente indeterminada, a administração penitenciária envia ao tribunal parecer fundamentado sobre a concessão da liberdade condicional, aplicando-se correspondentemente o disposto nos n.os 1 e 3 do artigo 61.º, no artigo 63.º e nos n.os 1 e 2 do artigo 64.º
+1 - Até dois meses antes de se atingir o limite mínimo da pena relativamente indeterminada, a administração penitenciária envia ao tribunal parecer fundamentado sobre a concessão da liberdade condicional, aplicando-se correspondentemente o disposto nos n.os 1 e 3 do artigo 61.º e no artigo 64.º
 
 2 - A liberdade condicional tem uma duração igual ao tempo que faltar para atingir o limite máximo da pena, mas não será nunca superior a 5 anos.
 

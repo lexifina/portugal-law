@@ -10,7 +10,7 @@
 
 4 - A punição pelos crimes previstos nos n.os 2 e 3 tem lugar ainda que os factos que integram a infracção subjacente tenham sido praticados fora do território nacional, ou ainda que se ignore o local da prática do facto ou a identidade dos seus autores.
 
-5 - O facto não é punível quando o procedimento criminal relativo aos factos ilícitos típicos de onde provêm as vantagens depender de queixa e a queixa não tenha sido tempestivamente apresentada, salvo se as vantagens forem provenientes dos factos ilícitos típicos previstos nos artigos 172.º e 173.º
+5 - O facto não é punível quando o procedimento criminal relativo aos factos ilícitos típicos de onde provêm as vantagens depender de queixa e a queixa não tenha sido tempestivamente apresentada.
 
 6 - A pena prevista nos n.os 2 e 3 é agravada de um terço se o agente praticar as condutas de forma habitual.
 
