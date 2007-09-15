@@ -1,4 +1,4 @@
-## Capítulo VII
+## Capítulo VIII
 
 ## Internamento de imputáveis portadores de anomalia psíquica
 
