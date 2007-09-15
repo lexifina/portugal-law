@@ -12,7 +12,9 @@
 
 3 - As revistas e as buscas são autorizadas ou ordenadas por despacho pela autoridade judiciária competente, devendo esta, sempre que possível, presidir à diligência.
 
-4 - Ressalvam-se das exigências contidas no número anterior as revistas e as buscas efectuadas por órgão de polícia criminal nos casos:
+4 - O despacho previsto no número anterior tem um prazo de validade máxima de 30 dias, sob pena de nulidade.
+
+5 - Ressalvam-se das exigências contidas no n.º 3 as revistas e as buscas efectuadas por órgão de polícia criminal nos casos:
 
 a) De terrorismo, criminalidade violenta ou altamente organizada, quando haja fundados indícios da prática iminente de crime que ponha em grave risco a vida ou a integridade de qualquer pessoa;
 
@@ -20,4 +22,4 @@ b) Em que os visados consintam, desde que o consentimento prestado fique, por qu
 
 c) Aquando de detenção em flagrante por crime a que corresponda pena de prisão.
 
-5 - Nos casos referidos na alínea a) do número anterior, a realização da diligência é, sob pena de nulidade, imediatamente comunicada ao juiz de instrução e por este apreciada em ordem à sua validação.
+6 - Nos casos referidos na alínea a) do número anterior, a realização da diligência é, sob pena de nulidade, imediatamente comunicada ao juiz de instrução e por este apreciada em ordem à sua validação.

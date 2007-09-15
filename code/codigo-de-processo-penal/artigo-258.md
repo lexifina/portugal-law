@@ -4,7 +4,7 @@
 
 1 - Os mandados de detenção são passados em triplicado e contêm, sob pena de nulidade:
 
-a) A assinatura da autoridade judiciária ou de polícia criminal competentes;
+a) A data da emissão e a assinatura da autoridade judiciária ou de polícia criminal competentes;
 
 b) A identificação da pessoa a deter; e
 

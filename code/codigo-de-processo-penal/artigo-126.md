@@ -16,6 +16,6 @@ d) Ameaça com medida legalmente inadmissível e, bem assim, com denegação ou 
 
 e) Promessa de vantagem legalmente inadmissível.
 
-3 - Ressalvados os casos previstos na lei, são igualmente nulas as provas obtidas mediante intromissão na vida privada, no domicílio, na correspondência ou nas telecomunicações sem o consentimento do respectivo titular.
+3 - Ressalvados os casos previstos na lei, são igualmente nulas, não podendo ser utilizadas, as provas obtidas mediante intromissão na vida privada, no domicílio, na correspondência ou nas telecomunicações sem o consentimento do respectivo titular.
 
 4 - Se o uso dos métodos de obtenção de provas previstos neste artigo constituir crime, podem aquelas ser utilizadas com o fim exclusivo de proceder contra os agentes do mesmo.

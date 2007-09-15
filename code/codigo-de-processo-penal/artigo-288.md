@@ -1,6 +1,6 @@
 # Artigo 288.º
 
-### (Direcção e natureza da instrução)
+### Direcção da instrução
 
 1 - A direcção da instrução compete a um juiz de instrução, assistido pelos órgãos de polícia criminal.
 

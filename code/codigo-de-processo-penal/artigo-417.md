@@ -6,26 +6,30 @@
 
 2 - Se, na vista a que se refere o artigo anterior, o Ministério Público não se limitar a apor o seu visto, o arguido e os demais sujeitos processuais afectados pela interposição do recurso são notificados para, querendo, responder no prazo de 10 dias.
 
-3 - No exame preliminar o relator verifica:
+3 - Se a motivação do recurso não contiver conclusões ou destas não for possível deduzir total ou parcialmente as indicações previstas nos n.os 2 a 5 do artigo 412.º, o relator convida o recorrente a apresentar, completar ou esclarecer as conclusões formuladas, no prazo de 10 dias, sob pena de o recurso ser rejeitado ou não ser conhecido na parte afectada.
 
-a) Se alguma circunstância obsta ao conhecimento do recurso;
+4 - O aperfeiçoamento previsto no número anterior não permite modificar o âmbito do recurso que tiver sido fixado na motivação.
 
-b) Se deve manter-se o efeito que foi atribuído ao recurso;
+5 - No caso previsto no n.º 3, os sujeitos processuais afectados pela interposição do recurso são notificados da apresentação de aditamento ou esclarecimento pelo recorrente, podendo responder-lhe no prazo de 10 dias.
 
-c) Se o recurso deve ser rejeitado;
+6 - Após exame preliminar, o relator profere decisão sumária sempre que:
 
-d) Se existe causa extintiva do procedimento ou da responsabilidade criminal que ponha termo ao processo ou seja o único motivo do recurso;
+a) Alguma circunstância obstar ao conhecimento do recurso;
 
-e) Se há provas a renovar e pessoas que devam ser convocadas.
+b) O recurso dever ser rejeitado;
 
-4 - Depois de haver procedido a exame preliminar, o relator elabora, em 15 dias, projecto de acórdão sempre que:
+c) Existir causa extintiva do procedimento ou da responsabilidade criminal que ponha termo ao processo ou seja o único motivo do recurso; ou
 
-a) Aquele exame tiver suscitado questão que deva e possa ser decidida em conferência; ou
+d) A questão a decidir já tiver sido judicialmente apreciada de modo uniforme e reiterado.
 
-b) O recurso dever ser julgado em conferência, nos termos do disposto nas alíneas a), b) e c) do n.º 4 do artigo 419.º
+7 - Quando o recurso não puder ser julgado por decisão sumária, o relator decide no exame preliminar:
 
-5 - Não sendo aplicável o disposto no número anterior ou devendo o processo prosseguir, se algum dos recorrentes tiver requerido alegações escritas e não houver oposição do recorrido, o relator fixa o prazo para alegações, que não pode exceder 15 dias.
+a) Se deve manter-se o efeito que foi atribuído ao recurso;
 
-6 - No despacho a que se refere o número anterior, o relator enuncia as questões que merecem exame especial.
+b) Se há provas a renovar e pessoas que devam ser convocadas.
 
-7 - Quando o recurso deva ser julgado em conferência nos termos da alínea d) do n.º 4 do artigo 419.º, decorrido o prazo para alegações escritas, o relator elabora projecto de acórdão no prazo a que se refere o n.º 4.
+8 - Cabe reclamação para a conferência dos despachos proferidos pelo relator nos termos dos n.os 6 e 7.
+
+9 - Quando o recurso deva ser julgado em conferência, o relator elabora um projecto de acórdão no prazo de 15 dias a contar da data em que o processo lhe for concluso nos termos dos n.os 1, 2 ou 5.
+
+10 - A reclamação prevista no n.º 8 é apreciada conjuntamente com o recurso, quando este deva ser julgado em conferência.

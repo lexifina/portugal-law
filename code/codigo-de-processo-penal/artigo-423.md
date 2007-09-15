@@ -6,7 +6,7 @@
 
 2 - À exposição do relator segue-se a renovação da prova, quando a ela houver lugar.
 
-3 - Seguidamente, o presidente dá a palavra, para alegações, ao Ministério Público e aos representantes dos recorrentes e dos recorridos, a cada um por período não superior a 30 minutos, prorrogável em caso de especial complexidade.
+3 - Seguidamente, o presidente dá a palavra, para alegações, aos representantes do recorrente e dos recorridos, a cada um por período não superior a trinta minutos, prorrogável em caso de especial complexidade.
 
 4 - Não há lugar a réplica, sem prejuízo da concessão da palavra ao defensor, antes do encerramento da audiência, por mais quinze minutos, se ele não tiver sido o último a intervir.
 

@@ -2,7 +2,7 @@
 
 ### (Relatório pericial)
 
-1 - Finda a perícia, os peritos procedem à elaboração de um relatório, no qual mencionam e descrevem as suas respostas e conclusões devidamente fundamentadas e que não podem ser contraditadas. Aos peritos podem, porém, ser pedidos esclarecimentos pela autoridade judiciária, pelo arguido, pelo assistente, pelas partes civis e pelos consultores técnicos.
+1 - Finda a perícia, os peritos procedem à elaboração de um relatório, no qual mencionam e descrevem as suas respostas e conclusões devidamente fundamentadas. Aos peritos podem ser pedidos esclarecimentos pela autoridade judiciária, pelo arguido, pelo assistente, pelas partes civis e pelos consultores técnicos.
 
 2 - O relatório, elaborado logo em seguida à realização da perícia, pode ser ditado para o auto.
 

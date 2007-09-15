@@ -15,3 +15,5 @@
 6 - Havendo impossibilidade de comparecimento, mas não de prestação de declarações ou de depoimento, esta realizar-se-á no dia, hora e local que a autoridade judiciária designar, ouvido o médico assistente, se necessário.
 
 7 - A falsidade da justificação é punida, consoante os casos, nos termos dos artigos 260.º e 360.º do Código Penal.
+
+8 - O disposto nos números anteriores no que se refere aos elementos exigíveis de prova não se aplica aos advogados, podendo a autoridade judiciária comunicar as faltas injustificadas ao organismo disciplinar da respectiva Ordem.

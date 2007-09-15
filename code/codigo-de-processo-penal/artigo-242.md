@@ -10,4 +10,4 @@ b) Para os funcionários, na acepção do artigo 386.º do Código Penal, quanto
 
 2 - Quando várias pessoas forem obrigadas à denúncia do mesmo crime, a sua apresentação por uma delas dispensa as restantes.
 
-3 - O disposto nos números anteriores não prejudica o regime dos crimes cujo procedimento depende de queixa ou de acusação particular.
+3 - Quando se referir a crime cujo procedimento dependa de queixa ou de acusação particular, a denúncia só dá lugar a instauração de inquérito se a queixa for apresentada no prazo legalmente previsto.

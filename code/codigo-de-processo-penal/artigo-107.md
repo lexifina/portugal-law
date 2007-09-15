@@ -12,4 +12,4 @@
 
 5 - Independentemente do justo impedimento, pode o acto ser praticado, no prazo, nos termos e com as mesmas consequências que em processo civil, com as necessárias adaptações.
 
-6 - Quando o procedimento se revelar de excepcional complexidade, nos termos do artigo 215.º, n.º 3, parte final, o juiz, a requerimento do assistente, do arguido ou das partes civis, pode prorrogar os prazos previstos nos artigos 78.º, 287.º e 315.º, até ao limite máximo de 20 dias.
+6 - Quando o procedimento se revelar de excepcional complexidade, nos termos da parte final do n.º 3 do artigo 215.º, o juiz, a requerimento do Ministério Público, do assistente, do arguido ou das partes civis, pode prorrogar os prazos previstos nos artigos 78.º, 287.º e 315.º e nos n.os 1 e 3 do artigo 411.º, até ao limite máximo de 30 dias.

@@ -16,7 +16,7 @@
 
 a) De rejeitar a acusação, se a considerar manifestamente infundada;
 
-b) De não aceitar a acusação do assistente ou do Ministério Público na parte em que ela representa uma alteração substancial dos factos, nos termos dos artigos 284.º, n.º 1, e 285.º, n.º 3, respectivamente.
+b) De não aceitar a acusação do assistente ou do Ministério Público na parte em que ela representa uma alteração substancial dos factos, nos termos do n.º 1 do artigo 284.º e do n.º 4 do artigo 285.º, respectivamente.
 
 3 - Para efeitos do disposto no número anterior, a acusação considera-se manifestamente infundada:
 

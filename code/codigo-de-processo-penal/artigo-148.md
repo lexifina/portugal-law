@@ -6,4 +6,4 @@
 
 2 - Se o reconhecimento deixar dúvidas, junta-se o objecto a reconhecer com pelo menos dois outros semelhantes e pergunta-se à pessoa se reconhece algum de entre eles e, em caso afirmativo, qual.
 
-3 - É correspondentemente aplicável o disposto no n.º 4 do artigo anterior.
+3 - É correspondentemente aplicável o disposto no n.º 7 do artigo anterior.

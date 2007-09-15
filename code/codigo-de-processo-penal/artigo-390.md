@@ -1,11 +1,11 @@
 # Artigo 390.º
 
-### (Reenvio do processo para a forma comum)
+### Reenvio para outra forma de processo
 
-Sempre que se verificar:
+O tribunal só remete os autos ao Ministério Público para tramitação sob outra forma processual quando:
 
-a) A inadmissibilidade, no caso, do processo sumário; ou
+a) Se verificar a inadmissibilidade, no caso, do processo sumário;
 
-b) A necessidade, para a descoberta da verdade, de diligências de prova que não possam previsivelmente realizar-se no prazo máximo de 30 dias após a detenção;
+b) Não tenham podido, por razões devidamente justificadas, realizar-se, no prazo máximo previsto no artigo 387.º, as diligências de prova necessárias à descoberta da verdade; ou
 
-o tribunal, por despacho irrecorrível, remete os autos ao Ministério Público para tramitação sob outra forma processual.
+c) O procedimento se revelar de excepcional complexidade, devido, nomeadamente, ao número de arguidos ou de ofendidos ou ao carácter altamente organizado do crime.

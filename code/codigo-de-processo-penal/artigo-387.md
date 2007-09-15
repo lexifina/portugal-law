@@ -1,15 +1,15 @@
 # Artigo 387.º
 
-### (Impossibilidade de audiência imediata)
+### Audiência
 
-1 - Se a audiência não tiver lugar em acto seguido à detenção e apresentação ao Ministério Público, mas o processo puder ainda manter a forma sumária:
+1 - O início da audiência de julgamento em processo sumário tem lugar no prazo máximo de quarenta e oito horas após a detenção.
 
-a) O arguido pode ser libertado, sendo correspondentemente aplicável o disposto no artigo 382.º, n.º 4, e sê-lo-á obrigatoriamente se a audiência não puder ter lugar nas 48 horas posteriores à detenção; e
+2 - O início da audiência pode ser adiado:
 
-b) O arguido, quando deva ser libertado, as testemunhas e o ofendido são notificados para se apresentarem à audiência no dia e na hora que lhes forem designados.
+a) Até ao limite do 5.º dia posterior à detenção, quando houver interposição de um ou mais dias não úteis no prazo previsto no número anterior;
 
-2 - Se a detenção ocorrer fora do horário de funcionamento normal da secretaria judicial, a entidade policial que tiver procedido à detenção sujeita o arguido a termo de identidade e residência, liberta-o e notifica-o para comparecer perante o Ministério Público no 1.º dia útil seguinte, à hora que lhe for designada, sob pena de, faltando, incorrer no crime de desobediência. As testemunhas são igualmente notificadas para comparecer.
+b) Até ao limite de 30 dias, se o arguido solicitar esse prazo para preparação da sua defesa ou se o tribunal, oficiosamente ou a requerimento do Ministério Público, considerar necessário que se proceda a quaisquer diligências de prova essenciais à descoberta da verdade.
 
-3 - No caso previsto no número anterior, o Ministério Público, se não proceder nos termos do artigo 382.º, n.º 3, requer ao juiz a detenção do arguido que não compareça, quando a audiência ainda puder ter lugar nas quarenta e oito horas posteriores à detenção.
+3 - Se a audiência for adiada, o juiz adverte o arguido de que esta se realizará na data designada, mesmo que não compareça, sendo representado por defensor.
 
-4 - Se o arguido não comparecer, é lavrado auto de notícia, o qual será entregue ao Ministério Público e servirá de acusação pelo crime de desobediência, que será julgado conjuntamente com os outros crimes, se o processo mantiver a forma sumária.
+4 - Se faltarem testemunhas de que o Ministério Público, o assistente ou o arguido não prescindam, a audiência não é adiada, sendo inquiridas as testemunhas presentes pela ordem indicada nas alíneas b) e c) do artigo 341.º, sem prejuízo da possibilidade de alterar o rol apresentado.

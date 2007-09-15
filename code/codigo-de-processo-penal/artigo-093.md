@@ -11,3 +11,5 @@ b) Ao mudo, se souber escrever, formulam-se as perguntas oralmente, respondendo 
 2 - A falta de intérprete implica o adiamento da diligência.
 
 3 - O disposto nos números anteriores é aplicável em todas as fases do processo e independentemente da posição do interessado na causa.
+
+4 - É correspondentemente aplicável o disposto nos n.os 3 a 5 do artigo anterior.

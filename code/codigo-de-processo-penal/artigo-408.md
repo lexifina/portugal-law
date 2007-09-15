@@ -17,3 +17,5 @@ b) O recurso do despacho que julgar quebrada a caução;
 c) O recurso de despacho que ordene a execução da prisão, em caso de não cumprimento de pena não privativa da liberdade;
 
 d) O recurso de despacho que considere sem efeito, por falta de pagamento de taxa de justiça, o recurso da decisão final condenatória.
+
+3 - Os recursos previstos no n.º 1 do artigo anterior têm efeito suspensivo do processo quando deles depender a validade ou a eficácia dos actos subsequentes, suspendendo a decisão recorrida nos restantes casos.

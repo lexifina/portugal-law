@@ -6,6 +6,6 @@
 
 2 - O consultor técnico pode propor a efectivação de determinadas diligências e formular observações e objecções, que ficam a constar do auto.
 
-3 - Se o consultor técnico for designado após a realização da perícia, pode, salvo no caso previsto na alínea a) do n.º 3 do artigo anterior, tomar conhecimento do relatório.
+3 - Se o consultor técnico for designado após a realização da perícia, pode, salvo no caso previsto na alínea a) do n.º 4 do artigo anterior, tomar conhecimento do relatório.
 
 4 - A designação de consultor técnico e o desempenho da sua função não podem atrasar a realização da perícia e o andamento normal do processo.

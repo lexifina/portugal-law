@@ -8,4 +8,4 @@
 
 3 - Sempre que o arguido se encontrar em prisão preventiva ou com obrigação de permanência na habitação, a data da audiência é fixada com precedência sobre qualquer outro julgamento.
 
-4 - Se no processo existir advogado constituído, o tribunal deve diligenciar pela concertação da data para audiência, de modo a evitar o conflito com a marcação de audiência, por acordo feito ao abrigo do artigo 155.º do Código de Processo Civil.
+4 - O tribunal deve marcar a data da audiência de modo a evitar a sobreposição com outros actos judiciais a que os advogados ou defensores tenham a obrigação de comparecer, aplicando-se o disposto no artigo 155.º do Código de Processo Civil.

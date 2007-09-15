@@ -1,8 +1,8 @@
 # Artigo 494.º
 
-### Plano individual de readaptação social
+### Plano de reinserção social
 
-1 - A decisão que suspender a execução da prisão com regime de prova deve conter o plano individual de readaptação social sempre que o tribunal se encontre habilitado, nesse momento, a organizá-lo.
+1 - A decisão que suspender a execução da prisão com regime de prova deve conter o plano de reinserção social que o tribunal solicita aos serviços de reinserção social.
 
 2 - A decisão, uma vez transitada em julgado, é comunicada aos serviços de reinserção social.
 

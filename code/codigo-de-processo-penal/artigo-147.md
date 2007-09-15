@@ -12,4 +12,10 @@
 
 3 - Se houver razão para crer que a pessoa chamada a fazer a identificação pode ser intimidada ou perturbada pela efectivação do reconhecimento e este não tiver lugar em audiência, deve o mesmo efectuar-se, se possível, sem que aquela pessoa seja vista pelo identificando.
 
-4 - O reconhecimento que não obedecer ao disposto neste artigo não tem valor como meio de prova.
+4 - As pessoas que intervierem no processo de reconhecimento previsto no n.º 2 são, se nisso consentirem, fotografadas, sendo as fotografias juntas ao auto.
+
+5 - O reconhecimento por fotografia, filme ou gravação realizado no âmbito da investigação criminal só pode valer como meio de prova quando for seguido de reconhecimento efectuado nos termos do n.º 2.
+
+6 - As fotografias, filmes ou gravações que se refiram apenas a pessoas que não tiverem sido reconhecidas podem ser juntas ao auto, mediante o respectivo consentimento.
+
+7 - O reconhecimento que não obedecer ao disposto neste artigo não tem valor como meio de prova, seja qual for a fase do processo em que ocorrer.

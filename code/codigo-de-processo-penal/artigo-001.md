@@ -22,8 +22,10 @@ g) Relatório social: informação sobre a inserção familiar e sócio-profissi
 
 h) Informação dos serviços de reinserção social: resposta a solicitações concretas sobre a situação pessoal, familiar, escolar, laboral ou social do arguido e, eventualmente, da vítima, elaborada por serviços de reinserção social, com o objectivo referido na alínea anterior, para os efeitos e nos casos previstos neste diploma.
 
-2 - Para efeitos do disposto no presente Código, apenas podem considerar-se como casos de terrorismo, criminalidade violenta ou altamente organizada as condutas que:
+i) 'Terrorismo' as condutas que integrarem os crimes de organização terrorista, terrorismo e terrorismo internacional;
 
-a) a) Integrarem os crimes previstos no artigo 299.º do Código Penal e nos artigos 2.º e 3.º da Lei n.º 52/2003, de 22 de agosto, ou
+j) 'Criminalidade violenta' as condutas que dolosamente se dirigirem contra a vida, a integridade física ou a liberdade das pessoas e forem puníveis com pena de prisão de máximo igual ou superior a 5 anos;
 
-b) Dolosamente se dirigirem contra a vida, a integridade física ou a liberdade das pessoas e forem puníveis com pena de prisão de máximo igual ou superior a cinco anos.
+l) 'Criminalidade especialmente violenta' as condutas previstas na alínea anterior puníveis com pena de prisão de máximo igual ou superior a 8 anos;
+
+m) 'Criminalidade altamente organizada' as condutas que integrarem crimes de associação criminosa, tráfico de pessoas, tráfico de armas, tráfico de estupefacientes ou de substâncias psicotrópicas, corrupção, tráfico de influência ou branqueamento.

@@ -18,4 +18,8 @@ c) Para 12 meses, nos casos referidos no artigo 215.º, n.º 3.
 
 3 - Para efeito do disposto nos números anteriores, o prazo conta-se a partir do momento em que o inquérito tiver passado a correr contra pessoa determinada ou em que se tiver verificado a constituição de arguido.
 
-4 - Sempre que tiver conhecimento de que os prazos referidos no número anterior foram excedidos, o procurador-geral da República pode mandar avocar o inquérito e procede de acordo com o disposto no artigo 109.º
+4 - O magistrado titular do processo comunica ao superior hierárquico imediato a violação de qualquer prazo previsto nos n.os 1 e 2 ou no n.º 6 do artigo 89.º, indicando as razões que explicam o atraso e o período necessário para concluir o inquérito.
+
+5 - Nos casos referidos no número anterior, o superior hierárquico pode avocar o processo e dá sempre conhecimento ao Procurador-Geral da República, ao arguido e ao assistente da violação do prazo e do período necessário para concluir o inquérito.
+
+6 - Recebida a comunicação prevista no número anterior, o Procurador-Geral da República pode determinar, oficiosamente ou a requerimento do arguido ou do assistente, a aceleração processual nos termos do artigo 109.º

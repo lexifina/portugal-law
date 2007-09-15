@@ -12,6 +12,6 @@ c) Tudo o que puderem averiguar acerca da identificação dos agentes e dos ofen
 
 2 - O auto de notícia é assinado pela entidade que o levantou e pela que o mandou levantar.
 
-3 - O auto de notícia é obrigatoriamente remetido ao Ministério Público no mais curto prazo e vale como denúncia.
+3 - O auto de notícia é obrigatoriamente remetido ao Ministério Público no mais curto prazo, que não pode exceder 10 dias, e vale como denúncia.
 
 4 - Nos casos de conexão, nos termos dos artigos 24.º e seguintes, pode levantar-se um único auto de notícia.

@@ -2,8 +2,4 @@
 
 ### (Condições gerais de efectivação)
 
-É correspondentemente aplicável à detenção o disposto:
-
-a) No artigo 192.º, n.º 2;
-
-b) No artigo 194.º, n.º 3, segunda parte, e n.º 4.
+É correspondentemente aplicável à detenção o disposto no n.º 2 do artigo 192.º e no n.º 8 do artigo 194.º

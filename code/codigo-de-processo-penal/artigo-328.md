@@ -8,7 +8,7 @@
 
 3 - O adiamento da audiência só é admissível, sem prejuízo dos demais casos previstos neste Código, quando, não sendo a simples interrupção bastante para remover o obstáculo:
 
-a) Faltar ou ficar impossibilitada de participar pessoa que não possa ser de imediato substituída e cuja presença seja indispensável por força da lei ou de despacho do tribunal, excepto se estiverem presentes outras pessoas, caso em que se procederá à sua inquirição ou audição, mesmo que tal implique a alteração da ordem de produção de prova referida no artigo 341.º, sendo as suas declarações documentadas;
+a) Faltar ou ficar impossibilitada de participar pessoa que não possa ser de imediato substituída e cuja presença seja indispensável por força da lei ou de despacho do tribunal, excepto se estiverem presentes outras pessoas, caso em que se procederá à sua inquirição ou audição, mesmo que tal implique a alteração da ordem de produção de prova referida no artigo 341.º;
 
 b) For absolutamente necessário proceder à produção de qualquer meio de prova superveniente e indisponível no momento em que a audiência estiver a decorrer; ou
 
@@ -16,9 +16,9 @@ c) Surgir qualquer questão prejudicial, prévia ou incidental, cuja resolução
 
 d) For necessário proceder à elaboração de relatório social ou de informação dos serviços de reinserção social, nos termos do artigo 370.º, n.º 1.
 
-4 - Em caso de interrupção da audiência ou do seu adiamento por período não superior a oito dias, a audiência retoma-se a partir do último acto processual praticado na audiência interrompida ou adiada.
+4 - Em caso de interrupção da audiência ou do seu adiamento, a audiência retoma-se a partir do último acto processual praticado na audiência interrompida ou adiada.
 
-5 - Salvo o caso previsto no n.º 3, alínea a), o adiamento por tempo superior ao referido no número anterior é sempre precedido de despacho do presidente. Retomada a audiência, o tribunal, oficiosamente ou a requerimento, decide de imediato se alguns dos actos já realizados devem ser repetidos.
+5 - A interrupção e o adiamento dependem sempre de despacho fundamentado do presidente, que é notificado a todos os sujeitos processuais.
 
 6 - O adiamento não pode exceder 30 dias. Se não for possível retomar a audiência neste prazo, perde eficácia a produção de prova já realizada.
 

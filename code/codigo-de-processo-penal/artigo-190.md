@@ -1,5 +1,5 @@
 # Artigo 190.º
 
-### (Extensão)
+### Nulidade
 
-O disposto nos artigos 187.º, 188.º e 189.º é correspondentemente aplicável às conversações ou comunicações transmitidas por qualquer meio técnico diferente do telefone, designadamente correio electrónico ou outras formas de transmissão de dados por via telemática, bem como à intercepção das comunicações entre presentes.
+Os requisitos e condições referidos nos artigos 187.º, 188.º e 189.º são estabelecidos sob pena de nulidade.

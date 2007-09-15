@@ -2,7 +2,7 @@
 
 ### (Detenção fora de flagrante delito)
 
-1 - Fora de flagrante delito, a detenção só pode ser efectuada por mandado do juiz ou, nos casos em que for admissível prisão preventiva, do Ministério Público.
+1 - Fora de flagrante delito, a detenção só pode ser efectuada, por mandado do juiz ou, nos casos em que for admissível prisão preventiva, do Ministério Público, quando houver fundadas razões para considerar que o visado se não apresentaria espontaneamente perante autoridade judiciária no prazo que lhe fosse fixado.
 
 2 - As autoridades de polícia criminal podem também ordenar a detenção fora de flagrante delito, por iniciativa própria, quando:
 

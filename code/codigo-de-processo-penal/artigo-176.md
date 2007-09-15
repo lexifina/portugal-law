@@ -2,7 +2,7 @@
 
 ### (Formalidades da busca)
 
-1 - Antes de se proceder a busca é entregue, salvo nos casos do artigo 174.º, n.º 4, a quem tiver a disponibilidade do lugar em que a diligência se realiza cópia do despacho que a determinou, na qual se faz menção de que pode assistir à diligência e fazer-se acompanhar ou substituir por pessoa da sua confiança e que se apresente sem delonga.
+1 - Antes de se proceder a busca, é entregue, salvo nos casos do n.º 5 do artigo 174.º, a quem tiver a disponibilidade do lugar em que a diligência se realiza, cópia do despacho que a determinou, na qual se faz menção de que pode assistir à diligência e fazer-se acompanhar ou substituir por pessoa da sua confiança e que se apresente sem delonga.
 
 2 - Faltando as pessoas referidas no número anterior, a cópia é, sempre que possível, entregue a um parente, a um vizinho, ao porteiro ou a alguém que o substitua.
 

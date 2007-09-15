@@ -6,6 +6,12 @@
 
 ### (Modalidades)
 
-1 - Quem tiver sofrido detenção ou prisão preventiva manifestamente ilegal pode requerer, perante o tribunal competente, indemnização dos danos sofridos com a privação da liberdade.
+1 - Quem tiver sofrido detenção, prisão preventiva ou obrigação de permanência na habitação pode requerer, perante o tribunal competente, indemnização dos danos sofridos quando:
 
-2 - O disposto no número anterior aplica-se a quem tiver sofrido prisão preventiva que, não sendo ilegal, venha a revelar-se injustificada por erro grosseiro na apreciação dos pressupostos de facto de que dependia. Ressalva-se o caso de o preso ter concorrido, por dolo ou negligência, para aquele erro.
+a) A privação da liberdade for ilegal, nos termos do n.º 1 do artigo 220.º, ou do n.º 2 do artigo 222.º;
+
+b) A privação da liberdade se tiver devido a erro grosseiro na apreciação dos pressupostos de facto de que dependia; ou
+
+c) Se comprovar que o arguido não foi agente do crime ou actuou justificadamente.
+
+2 - Nos casos das alíneas b) e c) do número anterior o dever de indemnizar cessa se o arguido tiver concorrido, por dolo ou negligência, para a privação da sua liberdade.

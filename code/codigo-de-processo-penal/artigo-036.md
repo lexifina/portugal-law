@@ -2,14 +2,10 @@
 
 ### (Resolução do conflito)
 
-1 - O conflito é dirimido pelo tribunal de menor hierarquia com jurisdição sobre os tribunais em conflito.
+1 - O órgão competente para dirimir o conflito envia os autos com vista ao Ministério Público e notifica os sujeitos processuais que não tiverem suscitado o conflito para, em todos os casos, alegarem no prazo de cinco dias, após o que, e depois de recolhidas as informações e as provas que reputar necessárias, resolve o conflito.
 
-2 - O relator comunica imediatamente aos tribunais em conflito a denúncia recebida e fixa-lhes prazo para resposta, não superior a oito dias.
+2 - A decisão sobre o conflito é irrecorrível.
 
-3 - Juntamente com a comunicação são transmitidas as cópias e elementos a que se refere o n.º 1 do artigo anterior.
+3 - A decisão é imediatamente comunicada aos tribunais em conflito e ao Ministério Público junto deles e notificada ao arguido e ao assistente.
 
-4 - Terminado o prazo para recepção das respostas, são notificados o arguido e o assistente para, em cinco dias, alegarem; pelo mesmo tempo e para igual efeito vão os autos com vista ao Ministério Público. Seguidamente, e depois de recolhidas as informações e as provas que reputar necessárias, o tribunal competente resolve o conflito.
-
-5 - A decisão é imediatamente comunicada aos tribunais em conflito e ao Ministério Público junto deles e notificada ao arguido e ao assistente.
-
-6 - É correspondentemente aplicável o disposto no artigo 33.º, n.º 3.
+4 - É correspondentemente aplicável o disposto no artigo 33.º, n.º 3.

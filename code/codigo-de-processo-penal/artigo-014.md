@@ -2,7 +2,7 @@
 
 ### (Competência do tribunal colectivo)
 
-1 - Compete ao tribunal colectivo, em matéria penal, julgar os processos que, não devendo ser julgados pelo tribunal do júri, respeitarem a crimes previstos no título III e no capítulo I do título V, do livro II do Código Penal.
+1 - Compete ao tribunal colectivo, em matéria penal, julgar os processos que, não devendo ser julgados pelo tribunal do júri, respeitarem a crimes previstos no título iii e no capítulo i do título v do livro ii do Código Penal e na Lei Penal Relativa às Violações do Direito Internacional Humanitário.
 
 2 - Compete, ainda, ao tribunal colectivo julgar os processos que, não devendo ser julgados pelo tribunal singular, respeitarem a crimes:
 

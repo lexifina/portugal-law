@@ -12,4 +12,4 @@
 
 5 - O despacho que declarar a contumácia é anunciado nos termos do artigo 113.º, n.º 9, parte final, e notificado, com indicação dos efeitos previstos no n.º 1, ao defensor e a parente ou a pessoa da confiança do arguido.
 
-6 - O despacho que declarar a contumácia, com especificação dos respectivos efeitos, e aquele que declarar a sua cessação são publicados no Diário da República.
+6 - O despacho que declarar a contumácia, com especificação dos respectivos efeitos, e aquele que declarar a sua cessação são registados no registo de contumácia.

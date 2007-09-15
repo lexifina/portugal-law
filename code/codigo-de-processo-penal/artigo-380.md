@@ -10,4 +10,4 @@ b) A sentença contiver erro, lapso, obscuridade ou ambiguidade cuja eliminaçã
 
 2 - Se já tiver subido recurso da sentença, a correcção é feita, quando possível, pelo tribunal competente para conhecer do recurso.
 
-3 - O disposto nos números anteriores é correspondentemente aplicável a despachos judiciais.
+3 - O disposto nos números anteriores é correspondentemente aplicável aos restantes actos decisórios previstos no artigo 97.º

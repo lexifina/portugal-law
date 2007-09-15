@@ -6,6 +6,6 @@
 
 a) A sua própria solicitação e, neste caso, seja qual for a entidade perante a qual tiverem sido prestadas; ou
 
-b) Quando, tendo sido feitas perante o juiz, houver contradições ou discrepâncias sensíveis entre elas e as feitas em audiência que não possam ser esclarecidas de outro modo.
+b) Quando, tendo sido feitas perante o juiz, houver contradições ou discrepâncias entre elas e as feitas em audiência.
 
-2 - É correspondentemente aplicável o disposto nos n.os 7 e 8 do artigo anterior.
+2 - É correspondentemente aplicável o disposto nos n.os 7 a 9 do artigo anterior.

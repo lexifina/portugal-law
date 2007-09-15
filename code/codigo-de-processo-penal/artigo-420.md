@@ -2,10 +2,14 @@
 
 ### (Rejeição do recurso)
 
-1 - O recurso é rejeitado sempre que for manifesta a sua improcedência ou que se verifique causa que devia ter determinado a sua não admissão nos termos do artigo 414.º, n.º 2.
+1 - O recurso é rejeitado sempre que:
 
-2 - A deliberação de rejeição exige a unanimidade de votos.
+a) For manifesta a sua improcedência;
 
-3 - Em caso de rejeição do recurso, o acórdão limita-se a identificar o tribunal recorrido, o processo e os seus sujeitos e a especificar sumariamente os fundamentos da decisão.
+b) Se verifique causa que devia ter determinado a sua não admissão nos termos do n.º 2 do artigo 414.º; ou
 
-4 - Se o recurso for rejeitado, o tribunal condena o recorrente, se não for o Ministério Público, ao pagamento de uma importância entre três e dez UCs.
+c) O recorrente não apresente, complete ou esclareça as conclusões formuladas e esse vício afectar a totalidade do recurso, nos termos do n.º 3 do artigo 417.º
+
+2 - Em caso de rejeição do recurso, a decisão limita-se a identificar o tribunal recorrido, o processo e os seus sujeitos e a especificar sumariamente os fundamentos da decisão.
+
+3 - Se o recurso for rejeitado, o tribunal condena o recorrente, se não for o Ministério Público, ao pagamento de uma importância entre três e dez UCs.

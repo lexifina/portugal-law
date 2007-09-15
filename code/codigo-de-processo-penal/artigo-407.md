@@ -2,7 +2,9 @@
 
 ### (Momento da subida)
 
-1 - Sobem imediatamente os recursos interpostos:
+1 - Sobem imediatamente os recursos cuja retenção os tornaria absolutamente inúteis.
+
+2 - Também sobem imediatamente os recursos interpostos:
 
 a) De decisões que ponham termo à causa;
 
@@ -23,7 +25,5 @@ h) De despacho que indeferir o requerimento para a abertura de instrução;
 i) Da decisão instrutória, sem prejuízo do disposto no artigo 310.º;
 
 j) De despacho que indeferir requerimento de submissão de arguido suspeito de anomalia mental à perícia respectiva.
-
-2 - Sobem ainda imediatamente os recursos cuja retenção os tornaria absolutamente inúteis.
 
 3 - Quando não deverem subir imediatamente, os recursos sobem e são instruídos e julgados conjuntamente com o recurso interposto da decisão que tiver posto termo à causa.

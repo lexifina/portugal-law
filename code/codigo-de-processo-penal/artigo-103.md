@@ -14,6 +14,20 @@ a) Os actos processuais relativos a arguidos detidos ou presos, ou indispensáve
 
 b) Os actos de inquérito e de instrução, bem como os debates instrutórios e audiências relativamente aos quais for reconhecida, por despacho de quem a elas presidir, vantagem em que o seu início, prosseguimento ou conclusão ocorra sem aquelas limitações.
 
-c) Os actos de mero expediente, bem como as decisões das autoridades judiciárias, sempre que necessário.
+c) Os actos relativos a processos sumários e abreviados;
 
-3 - O interrogatório do arguido não pode, sob pena de nulidade, ser efectuado entre as 0 e as 6 horas, salvo em acto seguido à detenção.
+d) Os actos processuais relativos aos conflitos de competência, requerimentos de recusa e pedidos de escusa;
+
+e) Os actos relativos à concessão da liberdade condicional, quando se encontrar cumprida a parte da pena necessária à sua aplicação;
+
+f) Os actos de mero expediente, bem como as decisões das autoridades judiciárias, sempre que necessário.
+
+3 - O interrogatório do arguido não pode ser efectuado entre as 0 e as 7 horas, salvo em acto seguido à detenção:
+
+a) Nos casos da alínea a) do n.º 5 do artigo 174.º; ou
+
+b) Quando o próprio arguido o solicite.
+
+4 - O interrogatório do arguido tem a duração máxima de quatro horas, podendo ser retomado, em cada dia, por uma só vez e idêntico prazo máximo, após um intervalo mínimo de sessenta minutos.
+
+5 - São nulas, não podendo ser utilizadas como prova, as declarações prestadas para além dos limites previstos nos n.os 3 e 4.

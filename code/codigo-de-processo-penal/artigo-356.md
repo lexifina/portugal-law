@@ -14,13 +14,13 @@ a) Se as declarações tiverem sido tomadas nos termos dos artigos 271.º e 294.
 
 b) Se o Ministério Público, o arguido e o assistente estiverem de acordo no sua leitura;
 
-c) Tratando-se de declarações obtidas mediante precatórias legalmente permitidas.
+c) Tratando-se de declarações obtidas mediante rogatórias ou precatórias legalmente permitidas.
 
 3 - É também permitida a leitura de declarações anteriormente prestadas perante o juiz:
 
 a) Na parte necessária ao avivamento da memória de quem declarar na audiência que já não recorda certos factos; ou
 
-b) Quando houver, entre elas e as feitas em audiência, contradições ou discrepâncias sensíveis que não possam ser esclarecidas de outro modo.
+b) Quando houver, entre elas e as feitas em audiência, contradições ou discrepâncias.
 
 4 - É ainda permitida a leitura de declarações prestadas perante o juiz ou o Ministério Público, se os declarantes não tiverem podido comparecer por falecimento, anomalia psíquica superveniente ou impossibilidade duradoira.
 
@@ -30,4 +30,6 @@ b) Quando houver, entre elas e as feitas em audiência, contradições ou discre
 
 7 - Os órgãos de polícia criminal que tiverem recebido declarações cuja leitura não for permitida, bem como quaisquer pessoas que, a qualquer título, tiverem participado da sua recolha, não podem ser inquiridas como testemunhas sobre o conteúdo daquelas.
 
-8 - A permissão de uma leitura e a sua justificação legal ficam a constar da acta, sob pena de nulidade.
+8 - A visualização ou a audição de gravações de actos processuais só é permitida quando o for a leitura do respectivo auto nos termos dos números anteriores.
+
+9 - A permissão de uma leitura, visualização ou audição e a sua justificação legal ficam a constar da acta, sob pena de nulidade.

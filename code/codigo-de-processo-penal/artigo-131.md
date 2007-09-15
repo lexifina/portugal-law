@@ -6,6 +6,6 @@
 
 2 - A autoridade judiciária verifica a aptidão física ou mental de qualquer pessoa para prestar testemunho, quando isso for necessário para avaliar da sua credibilidade e puder ser feito sem retardamento da marcha normal do processo.
 
-3 - Tratando-se de depoimento de menor de 16 anos em crime sexual, pode ter lugar perícia sobre a personalidade.
+3 - Tratando-se de depoimento de menor de 18 anos em crimes contra a liberdade e autodeterminação sexual de menores, pode ter lugar perícia sobre a personalidade.
 
 4 - As indagações, referidas nos números anteriores, ordenadas anteriormente ao depoimento não impedem que este se produza.

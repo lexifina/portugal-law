@@ -14,4 +14,4 @@
 
 2 - A instrução tem carácter facultativo.
 
-3 - Não há lugar a instrução nas formas de processo especiais, sem prejuízo do disposto no artigo 391.º-C.
+3 - Não há lugar a instrução nas formas de processo especiais.

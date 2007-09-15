@@ -11,3 +11,5 @@ a) Por um dos arguidos, em caso de comparticipação, aproveita aos restantes;
 b) Pelo arguido, aproveita ao responsável civil;
 
 c) Pelo responsável civil, aproveita ao arguido, mesmo para efeitos penais.
+
+3 - O recurso interposto apenas contra um dos arguidos, em casos de comparticipação, não prejudica os restantes.
