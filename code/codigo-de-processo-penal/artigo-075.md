@@ -2,6 +2,6 @@
 
 ### (Dever de informação)
 
-1 - Logo que, no decurso do inquérito, se tomar conhecimento da existência de eventuais lesados, devem estes ser informados, pela autoridade judiciária ou pelos órgãos de polícia criminal, da possibilidade de deduzirem pedido de indemnização civil em processo penal e das formalidades a observar.
+1 - Logo que, no decurso do inquérito, tomarem conhecimento da existência de eventuais lesados, as autoridades judiciárias e os órgãos de polícia criminal devem informá-los da possibilidade de deduzirem pedido de indemnização civil em processo penal e das formalidades a observar.
 
-2 - Quem tiver legitimidade para deduzir pedido de indemnização civil deve manifestar no processo, até ao encerramento do inquérito, o propósito de o fazer.
+2 - Quem tiver sido informado de que pode deduzir pedido de indemnização civil nos termos do número anterior, ou, não o tendo sido, se considere lesado, pode manifestar no processo, até ao encerramento do inquérito, o propósito de o fazer.

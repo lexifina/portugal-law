@@ -6,7 +6,7 @@
 
 2 - Os peritos e os intérpretes prestam, em qualquer fase do processo, o seguinte compromisso: «Comprometo-me, por minha honra, a desempenhar fielmente as funções que me são confiadas.»
 
-3 - O juramento e o compromisso referidos nos números anteriores são prestados perante a autoridade judiciária competente, a qual adverte previamente quem os dever prestar das sanções em que incorre se os recusar ou a eles faltar.
+3 - O juramento referido no n.º 1 é prestado perante a autoridade judiciária competente e o compromisso referido no número anterior é prestado perante a autoridade judiciária ou a autoridade de polícia criminal competente, as quais advertem previamente quem os dever prestar das sanções em que incorre se os recusar ou a eles faltar.
 
 4 - A recusa a prestar o juramento ou o compromisso equivale à recusa a depor ou a exercer as funções.
 
