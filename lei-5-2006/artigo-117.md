@@ -10,7 +10,7 @@ b) Condições técnicas de funcionamento e de segurança das carreiras e campos
 
 2 - São aprovadas por portaria do Ministro que tutela a Administração Interna as normas referentes às seguintes matérias:
 
-a) Condições de segurança para o exercício da atividade de armeiro;
+a) Condições de segurança para o exercício da actividade de armeiro;
 
 b) Regime da formação técnica e cívica para uso e porte de armas de fogo, incluindo os conteúdos programáticos e duração dos cursos;
 
@@ -18,6 +18,4 @@ c) Regime do exame de aptidão para obtenção do certificado de aprovação par
 
 d) Modelo das licenças, alvarás, certificados e outros necessários à execução da presente lei;
 
-e) As taxas a cobrar pela prestação dos serviços e demais atos previstos na presente lei.
-
-3 - São aprovadas por norma técnica do diretor nacional da PSP as medidas de desativação de armas de fogo que garantam que as modificações efetuadas tornam todos os seus componentes essenciais definitivamente inoperáveis e insuscetíveis de remoção, substituição ou modificação que permita à arma de fogo ser de algum modo reativada.
+e) As taxas a cobrar pela prestação dos serviços e demais actos previstos na presente lei.

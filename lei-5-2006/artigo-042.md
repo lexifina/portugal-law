@@ -10,7 +10,7 @@ b) Como último meio de defesa, para fazer cessar ou repelir uma agressão actua
 
 2 - Considera-se uso não excepcional de arma de fogo:
 
-a) O exercício da prática desportiva ou de actos venatórios, actos de gestão cinegética e outras actividades de carácter venatório, nomeadamente o treino de tiro em zonas caça nas áreas específicas para o efeito, em provas desportivas e em práticas recreativas em propriedades rústicas privadas com condições de segurança para o efeito;
+a) O exercício da prática desportiva ou de actos venatórios;
 
 b) Como meio de alarme ou pedido de socorro, numa situação de emergência, quando outros meios não possam ser utilizados com a mesma finalidade;
 

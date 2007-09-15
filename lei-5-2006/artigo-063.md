@@ -2,15 +2,13 @@
 
 ### Peritagem
 
-1 - Os artigos declarados para importação, e se for caso disso para exportação, são sujeitos a peritagem, a realizar num prazo máximo de quatro dias após a sua solicitação.
+1 - A peritagem efectua-se num prazo máximo de cinco dias após a sua solicitação e destina-se a verificar se os artigos declarados para importação, e se for caso disso para exportação, estão em conformidade com o previsto na presente lei.
 
-2 - A peritagem só pode ser efetuada após o importador ou exportador fornecer os dados que não tenha apresentado no momento do pedido de autorização prévia, relativos às armas de aquisição condicionada, aos componentes essenciais de armas de fogo, às munições, aos fulminantes, aos cartuchos ou invólucros com fulminantes.
+2 - A abertura dos volumes com armas, partes essenciais, munições, invólucros com fulminantes ou só fulminantes só pode ser efectuada nas estâncias alfandegárias na presença de perito da PSP, mediante a apresentação da declaração aduaneira acompanhada de todos os documentos exigidos, prontos para a verificação.
 
-3 - A abertura dos volumes com armas, componentes essenciais, munições, invólucros com fulminantes ou só fulminantes apenas pode ser efetuada nas estâncias aduaneiras na presença de perito da PSP, mediante a apresentação da declaração aduaneira acompanhada de todos os documentos exigidos, prontos para a verificação.
+3 - A peritagem a que se refere o número anterior é feita conjuntamente com a Direcção-Geral de Armamento e Equipamentos de Defesa sempre que se trate de armas, munições ou acessórios cuja característica dual, civil e militar as torne enquadráveis nas seguintes normas do artigo 3.º:
 
-4 - A peritagem a que se refere o número anterior é feita conjuntamente com a Direção-Geral de Recursos da Defesa Nacional sempre que se trate de armas, munições ou acessórios cuja caraterística dual, civil e militar, as torne enquadráveis nas seguintes normas do artigo 3.º:
-
-a) Alíneas a) a c) e q) e r) do n.º 2;
+a) Alíneas a) a c), q) e r) do n.º 2;
 
 b) N.º 3;
 
@@ -18,6 +16,4 @@ c) Alíneas a) a c) do n.º 5, apenas no que respeita a armas semiautomáticas e
 
 d) Alínea a) do n.º 6, apenas quanto a armas semiautomáticas.
 
-5 - Quando, na sequência da peritagem referida no número anterior, as armas, munições e acessórios sejam classificados como arma passível de constituir bem militar, o requerente é notificado do local em que os mesmos são depositados, a definir pela PSP ou pelo responsável da estância aduaneira, e que serão apreendidos e perdidos a favor do Estado se não forem devolvidos à origem, a seu encargo, até ao termo do prazo previsto da autorização, emitida nos termos dos artigos 60.º a 62.º
-
-6 - As peritagens referidas nos números anteriores podem ser acompanhadas e elaboradas por peritos externos, titulares de formação académica nas áreas científicas da criminologia ou ciências forenses, quando solicitado pela PSP.
+4 - Quando, na sequência da peritagem referida no número anterior, as armas, munições e acessórios sejam classificados como tendo utilização militar, as autorizações para importação, exportação, transferência, trânsito e transbordo e o respectivo processo de notificação internacional seguem o disposto na legislação própria aplicável, no âmbito do Ministério da Defesa Nacional.

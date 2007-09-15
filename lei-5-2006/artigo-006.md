@@ -2,16 +2,10 @@
 
 ### Armas da classe B1
 
-1 - As armas da classe B1 são adquiridas mediante declaração de compra e venda, doação ou herança, carecendo de prévia autorização concedida pelo diretor nacional da PSP.
+1 - As armas da classe B1 são adquiridas mediante declaração de compra e venda ou doação, carecendo de prévia autorização concedida pelo director nacional da PSP.
 
 2 - A aquisição, a detenção, o uso e o porte de armas da classe B1 podem ser autorizados:
 
 a) Aos titulares de licença de uso e porte de arma da classe B1;
 
-b) Aos titulares de licença especial atribuída ao abrigo do n.º 1 do artigo 19.º;
-
-c) A quem, nos termos da respetiva lei orgânica ou estatuto profissional, possa ser atribuída ou dispensada a licença de uso e porte de arma da classe B1, após verificação da situação individual.
-
-3 - Mediante autorização especial do diretor nacional da PSP, podem ser autorizadas a venda, a aquisição, a cedência, a detenção, a utilização, a importação, a exportação e a transferência de armas e acessórios da classe B1 a entidades para efeitos de investigação científica ou industrial e utilizações em realizações teatrais, cinematográficas ou outros espetáculos de natureza artística, de reconhecido interesse cultural e histórico e museus públicos ou privados.
-
-4 - As autorizações referidas no número anterior devem ser emitidas no prazo máximo de 30 dias, salvo decisão fundamentada prorrogando o respetivo prazo.
+b) Aos titulares de licença especial atribuída ao abrigo do n.º 1 do artigo 19.º
