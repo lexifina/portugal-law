@@ -1,9 +1,23 @@
 # Artigo 176.º
 
-### Lenocínio e tráfico de menores
+### Pornografia de menores
 
-1 - Quem fomentar, favorecer ou facilitar o exercício da prostituição de menor entre 14 e 16 anos, ou a prática por este de actos sexuais de relevo, é punido com pena de prisão de 6 meses a 5 anos.
+1 - Quem:
 
-2 - Quem aliciar, transportar, proceder ao alojamento ou acolhimento de menor de 16 anos, ou propiciar as condições para a prática por este, em país estrangeiro, de prostituição ou de actos sexuais de relevo, é punido com pena de prisão de 1 a 8 anos.
+a) Utilizar menor em espectáculo pornográfico ou o aliciar para esse fim;
 
-3 - Se o agente usar de violência, ameaça grave, ardil, manobra fraudulenta, abuso de autoridade resultante de uma relação de dependência hierárquica, económica ou de trabalho, actuar profissionalmente ou com intenção lucrativa, ou se aproveitar de incapacidade psíquica da vítima, ou de qualquer outra situação de especial vulnerabilidade, ou se esta for menor de 14 anos, é punido com pena de prisão de 2 a 10 anos.
+b) Utilizar menor em fotografia, filme ou gravação pornográficos, independentemente do seu suporte, ou o aliciar para esse fim;
+
+c) Produzir, distribuir, importar, exportar, divulgar, exibir ou ceder, a qualquer título ou por qualquer meio, os materiais previstos na alínea anterior;
+
+d) Adquirir ou detiver materiais previstos na alínea b) com o propósito de os distribuir, importar, exportar, divulgar, exibir ou ceder;
+
+é punido com pena de prisão de um a cinco anos.
+
+2 - Quem praticar os actos descritos no número anterior profissionalmente ou com intenção lucrativa é punido com pena de prisão de um a oito anos.
+
+3 - Quem praticar os actos descritos nas alíneas c) e d) do n.º 1 utilizando material pornográfico com representação realista de menor é punido com pena de prisão até dois anos.
+
+4 - Quem adquirir ou detiver os materiais previstos na alínea b) do n.º 1 é punido com pena de prisão até um ano ou com pena de multa.
+
+5 - A tentativa é punível.

@@ -1,10 +1,6 @@
 ## Título III
 
-## Dos crimes contra a paz e a humanidade
-
-## Capítulo I
-
-## Dos crimes contra a paz
+## Dos crimes contra a identidade cultural e integridade pessoal
 
 # Artigo 236.º
 

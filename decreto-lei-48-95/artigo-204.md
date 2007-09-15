@@ -6,7 +6,7 @@
 
 a) De valor elevado;
 
-b) Transportada em veículo ou colocada em lugar destinado ao depósito de objectos ou transportada por passageiros utentes de transporte colectivo, mesmo que a subtracção tenha lugar na estação, gare ou cais;
+b) Colocada ou transportada em veículo ou colocada em lugar destinado ao depósito de objectos ou transportada por passageiros utentes de transporte colectivo, mesmo que a subtracção tenha lugar na estação, gare ou cais;
 
 c) Afecta ao culto religioso ou à veneração da memória dos mortos e que se encontre em lugar destinado ao culto ou em cemitério;
 

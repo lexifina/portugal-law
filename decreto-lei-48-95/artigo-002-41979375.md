@@ -8,4 +8,4 @@
 
 3 - Quando a lei valer para um determinado período de tempo, continua a ser punível o facto praticado durante esse período.
 
-4 - Quando as disposições penais vigentes no momento da prática do facto punível forem diferentes das estabelecidas em leis posteriores, é sempre aplicado o regime que concretamente se mostrar mais favorável ao agente, salvo se este já tiver sido condenado por sentença transitada em julgado.
+4 - Quando as disposições penais vigentes no momento da prática do facto punível forem diferentes das estabelecidas em leis posteriores, é sempre aplicado o regime que concretamente se mostrar mais favorável ao agente; se tiver havido condenação, ainda que transitada em julgado, cessam a execução e os seus efeitos penais logo que a parte da pena que se encontrar cumprida atinja o limite máximo da pena prevista na lei posterior.

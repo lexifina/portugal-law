@@ -1,9 +1,23 @@
 # Artigo 161.º
 
-### Tomada de reféns
+### Rapto
 
-1 - Quem, com intenção de realizar finalidades políticas, ideológicas, filosóficas ou confessionais, sequestrar ou raptar outra pessoa, ameaçando matá-la, infligir-lhe ofensas à integridade física graves ou mantê-la detida, visando desta forma constranger um Estado, uma organização internacional, uma pessoa colectiva, um agrupamento de pessoas ou uma pessoa singular a uma acção ou omissão, ou a suportar uma actividade, é punido com pena de prisão de 2 a 10 anos.
+1 - Quem, por meio de violência, ameaça ou astúcia, raptar outra pessoa com a intenção de:
 
-2 - É correspondentemente aplicável o disposto no n.º 2 do artigo 160.º
+a) Submeter a vítima a extorsão;
 
-3 - Quem se aproveitar da tomada de reféns cometida por outrem, com a intenção e para as finalidades de constrangimento referidas no n.º 1, é punido com as penas previstas nos números anteriores.
+b) Cometer crime contra a liberdade e autodeterminação sexual da vítima;
+
+c) Obter resgate ou recompensa; ou
+
+d) Constranger a autoridade pública ou um terceiro a uma acção ou omissão, ou a suportar uma actividade;
+
+é punido com pena de prisão de 2 a 8 anos.
+
+2 - Se no caso se verificarem as situações previstas:
+
+a) No n.º 2 do artigo 158.º, o agente é punido com pena de prisão de 3 a 15 anos;
+
+b) No n.º 3 do artigo 158.º, o agente é punido com pena de prisão de 8 a 16 anos.
+
+3 - Se o agente renunciar voluntariamente à sua pretensão e libertar a vítima, ou se esforçar seriamente por o conseguir, a pena pode ser especialmente atenuada.

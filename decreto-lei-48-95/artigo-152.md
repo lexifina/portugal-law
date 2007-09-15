@@ -1,27 +1,29 @@
 # Artigo 152.º
 
-### Maus tratos e infracção de regras de segurança
+### Violência doméstica
 
-1 - Quem, tendo ao seu cuidado, à sua guarda, sob a responsabilidade da sua direcção ou educação, ou a trabalhar ao seu serviço, pessoa menor ou particularmente indefesa, em razão de idade, deficiência, doença ou gravidez, e:
+1 - Quem, de modo reiterado ou não, infligir maus tratos físicos ou psíquicos, incluindo castigos corporais, privações da liberdade e ofensas sexuais:
 
-a) Lhe infligir maus tratos físicos ou psíquicos ou a tratar cruelmente;
+a) Ao cônjuge ou ex-cônjuge;
 
-b) A empregar em actividades perigosas, desumanas ou proibidas; ou
+b) A pessoa de outro ou do mesmo sexo com quem o agente mantenha ou tenha mantido uma relação análoga à dos cônjuges, ainda que sem coabitação;
 
-c) A sobrecarregar com trabalhos excessivos;
+c) A progenitor de descendente comum em 1.º grau; ou
 
-é punido com pena de prisão de 1 a 5 anos, se o facto não for punível pelo artigo 144.º
+d) A pessoa particularmente indefesa, em razão de idade, deficiência, doença, gravidez ou dependência económica, que com ele coabite;
 
-2 - A mesma pena é aplicável a quem infligir ao cônjuge, ou a quem com ele conviver em condições análogas às dos cônjuges, maus tratos físicos ou psíquicos.
+é punido com pena de prisão de um a cinco anos, se pena mais grave lhe não couber por força de outra disposição legal.
 
-3 - A mesma pena é também aplicável a quem infligir a progenitor de descendente comum em 1.º grau maus tratos físicos ou psíquicos.
+2 - No caso previsto no número anterior, se o agente praticar o facto contra menor, na presença de menor, no domicílio comum ou no domicílio da vítima é punido com pena de prisão de dois a cinco anos.
 
-4 - A mesma pena é aplicável a quem, não observando disposições legais ou regulamentares, sujeitar trabalhador a perigo para a vida ou perigo de grave ofensa para o corpo ou a saúde.
+3 - Se dos factos previstos no n.º 1 resultar:
 
-5 - Se dos factos previstos nos números anteriores resultar:
+a) Ofensa à integridade física grave, o agente é punido com pena de prisão de dois a oito anos;
 
-a) Ofensa à integridade física grave, o agente é punido com pena de prisão de 2 a 8 anos;
+b) A morte, o agente é punido com pena de prisão de três a dez anos.
 
-b) A morte, o agente é punido com pena de prisão de 3 a 10 anos.
+4 - Nos casos previstos nos números anteriores, podem ser aplicadas ao arguido as penas acessórias de proibição de contacto com a vítima e de proibição de uso e porte de armas, pelo período de seis meses a cinco anos, e de obrigação de frequência de programas específicos de prevenção da violência doméstica.
 
-6 - Nos casos de maus tratos previstos nos n.os 2 e 3 do presente artigo, ao arguido pode ser aplicada a pena acessória de proibição de contacto com a vítima, incluindo a de afastamento da residência desta, pelo período máximo de dois anos.
+5 - A pena acessória de proibição de contacto com a vítima pode incluir o afastamento da residência ou do local de trabalho desta e o seu cumprimento pode ser fiscalizado por meios técnicos de controlo à distância.
+
+6 - Quem for condenado por crime previsto neste artigo pode, atenta a concreta gravidade do facto e a sua conexão com a função exercida pelo agente, ser inibido do exercício do poder paternal, da tutela ou da curatela por um período de 1 a 10 anos.

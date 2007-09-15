@@ -4,7 +4,7 @@
 
 1 - Quem:
 
-a) No âmbito da sua actividade profissional infringir regras legais, regulamentares ou técnicas que devam ser observadas no planeamento, direcção ou execução de construção, demolição ou instalação, ou na sua modificação;
+a) No âmbito da sua actividade profissional infringir regras legais, regulamentares ou técnicas que devam ser observadas no planeamento, direcção ou execução de construção, demolição ou instalação, ou na sua modificação ou conservação;
 
 b) Destruir, danificar ou tornar não utilizável, total ou parcialmente, aparelhagem ou outros meios existentes em local de trabalho e destinados a prevenir acidentes, ou, infringindo regras legais, regulamentares ou técnicas, omitir a instalação de tais meios ou aparelhagem;
 

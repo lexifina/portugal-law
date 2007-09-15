@@ -1,11 +1,3 @@
-## Título III
-
-## Dos crimes contra a paz e a humanidade
-
-## Capítulo I
-
-## Dos crimes contra a paz
-
 # Artigo 237.º
 
 ### Aliciamento de forças armadas

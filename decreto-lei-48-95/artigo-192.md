@@ -4,7 +4,7 @@
 
 1 - Quem, sem consentimento e com intenção de devassar a vida privada das pessoas, designadamente a intimidade da vida familiar ou sexual:
 
-a) Interceptar, gravar, registar, utilizar, transmitir ou divulgar conversa ou comunicação telefónica;
+a) Interceptar, gravar, registar, utilizar, transmitir ou divulgar conversa, comunicação telefónica, mensagens de correio electrónico ou facturação detalhada;
 
 b) Captar, fotografar, filmar, registar ou divulgar imagem das pessoas ou de objectos ou espaços íntimos;
 

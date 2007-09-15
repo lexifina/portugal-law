@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Dos crimes contra a humanidade
-
 # Artigo 239.º
 
 ### Genocídio

@@ -12,4 +12,4 @@ c) Estabelecimento de educação ou correcção;
 
 praticar acto sexual de relevo com pessoa que aí se encontre internada e que de qualquer modo lhe esteja confiada ou se encontre ao seu cuidado é punido com pena de prisão de 6 meses a 5 anos.
 
-2 - Quem, nos termos previstos no número anterior, praticar com outra pessoa cópula, coito anal ou coito oral é punido com pena de prisão de 1 a 8 anos.
+2 - Se o acto sexual de relevo consistir em cópula, coito anal, coito oral ou introdução vaginal ou anal de partes do corpo ou objectos, o agente é punido com pena de prisão de um a oito anos.

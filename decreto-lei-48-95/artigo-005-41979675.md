@@ -6,18 +6,22 @@
 
 a) Quando constituírem os crimes previstos nos artigos 221.º, 262.º a 271.º, 308.º a 321.º e 325.º a 345.º;
 
-b) Quando constituírem os crimes previstos nos artigos 159.º, 160.º, 169.º, 172.º, 173.º, 176.º e 237.º, desde que o agente seja encontrado em Portugal e não possa ser extraditado;
+b) Contra portugueses, por portugueses que viverem habitualmente em Portugal ao tempo da sua prática e aqui forem encontrados.
 
-c) Por portugueses, ou por estrangeiros contra portugueses, sempre que:
+c) Quando constituírem os crimes previstos nos artigos 159.º a 161.º, 171.º, 172.º, 175.º, 176.º e 278.º a 280.º, desde que o agente seja encontrado em Portugal e não possa ser extraditado ou entregue em resultado de execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o Estado Português;
 
-I) Os agentes forem encontrados em Portugal;
+d) Quando constituírem os crimes previstos nos artigos 144.º, 163.º e 164.º, sendo a vítima menor, desde que o agente seja encontrado em Portugal e não possa ser extraditado ou entregue em resultado de execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o Estado Português;
 
-II) Forem também puníveis pela legislação do lugar em que tiverem sido praticados, salvo quando nesse lugar não se exercer poder punitivo; e
+e) Por Portugueses, ou por estrangeiros contra Portugueses, sempre que:
 
-III) Constituírem crime que admita extradição e esta não possa ser concedida; ou
+i) Os agentes forem encontrados em Portugal;
 
-d) Contra portugueses, por portugueses que viverem habitualmente em Portugal ao tempo da sua prática e aqui forem encontrados.
+ii) Forem também puníveis pela legislação do lugar em que tiverem sido praticados, salvo quando nesse lugar não se exercer poder punitivo; e
 
-e) Por estrangeiros que forem encontrados em Portugal e cuja extradição haja sido requerida, quando constituírem crimes que admitam a extradição e esta não possa ser concedida.
+iii) Constituírem crime que admita extradição e esta não possa ser concedida ou seja decidida a não entrega do agente em execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o Estado Português;
+
+f) Por estrangeiros que forem encontrados em Portugal e cuja extradição haja sido requerida, quando constituírem crimes que admitam a extradição e esta não possa ser concedida ou seja decidida a não entrega do agente em execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o Estado Português;
+
+g) Por pessoa colectiva ou contra pessoa colectiva que tenha sede em território português.
 
 2 - A lei penal portuguesa é ainda aplicável a factos cometidos fora do território nacional que o Estado Português se tenha obrigado a julgar por tratado ou convenção internacional.

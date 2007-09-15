@@ -1,21 +1,27 @@
 # Artigo 160.º
 
-### Rapto
+### Tráfico de pessoas
 
-1 - Quem, por meio de violência, ameaça ou astúcia, raptar outra pessoa com a intenção de:
+1 - Quem oferecer, entregar, aliciar, aceitar, transportar, alojar ou acolher pessoa para fins de exploração sexual, exploração do trabalho ou extracção de órgãos:
 
-a) Submeter a vítima a extorsão;
+a) Por meio de violência, rapto ou ameaça grave;
 
-b) Cometer crime contra a liberdade e autodeterminação sexual da vítima;
+b) Através de ardil ou manobra fraudulenta;
 
-c) Obter resgate ou recompensa; ou
+c) Com abuso de autoridade resultante de uma relação de dependência hierárquica, económica, de trabalho ou familiar;
 
-d) Constranger a autoridade pública ou um terceiro a uma acção ou omissão, ou a suportar uma actividade;
+d) Aproveitando-se de incapacidade psíquica ou de situação de especial vulnerabilidade da vítima; ou
 
-é punido com pena de prisão de 2 a 8 anos.
+e) Mediante a obtenção do consentimento da pessoa que tem o controlo sobre a vítima;
 
-2 - Se no caso se verificarem as situações previstas:
+é punido com pena de prisão de três a dez anos.
 
-a) No n.º 2 do artigo 158.º, o agente é punido com pena de prisão de 3 a 15 anos;
+2 - A mesma pena é aplicada a quem, por qualquer meio, aliciar, transportar, proceder ao alojamento ou acolhimento de menor, ou o entregar, oferecer ou aceitar, para fins de exploração sexual, exploração do trabalho ou extracção de órgãos.
 
-b) No n.º 3 do artigo 158.º, o agente é punido com pena de prisão de 8 a 16 anos.
+3 - No caso previsto no número anterior, se o agente utilizar qualquer dos meios previstos nas alíneas do n.º 1 ou actuar profissionalmente ou com intenção lucrativa, é punido com pena de prisão de três a doze anos.
+
+4 - Quem, mediante pagamento ou outra contrapartida, oferecer, entregar, solicitar ou aceitar menor, ou obtiver ou prestar consentimento na sua adopção, é punido com pena de prisão de um a cinco anos.
+
+5 - Quem, tendo conhecimento da prática de crime previsto nos n.os 1 e 2, utilizar os serviços ou órgãos da vítima é punido com pena de prisão de um a cinco anos, se pena mais grave lhe não couber por força de outra disposição legal.
+
+6 - Quem retiver, ocultar, danificar ou destruir documentos de identificação ou de viagem de pessoa vítima de crime previsto nos n.os 1 e 2 é punido com pena de prisão até três anos, se pena mais grave lhe não couber por força de outra disposição legal.

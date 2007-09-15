@@ -22,4 +22,8 @@ d) 2 anos, nos casos restantes.
 
 2 - Para efeito do disposto no número anterior, na determinação do máximo da pena aplicável a cada crime são tomados em conta os elementos que pertençam ao tipo de crime, mas não as circunstâncias agravantes ou atenuantes.
 
-3 - Quando a lei estabelecer para qualquer crime, em alternativa, pena de prisão ou de multa, só a primeira é considerada para efeito do disposto neste artigo.
+3 - Se o procedimento criminal respeitar a pessoa colectiva ou entidade equiparada, os prazos previstos no n.º 1 são determinados tendo em conta a pena de prisão, antes de se proceder à conversão prevista nos n.os 1 e 2 do artigo 90.º-B.
+
+4 - Quando a lei estabelecer para qualquer crime, em alternativa, pena de prisão ou de multa, só a primeira é considerada para efeito do disposto neste artigo.
+
+5 - Nos crimes contra a liberdade e autodeterminação sexual de menores, o procedimento criminal não se extingue, por efeito de prescrição, antes de o ofendido perfazer 23 anos.

@@ -8,7 +8,7 @@
 
 3 - Sempre que a pena aplicável às pessoas singulares estiver determinada exclusiva ou alternativamente em multa, são aplicáveis às pessoas colectivas ou entidades equiparadas os mesmos dias de multa.
 
-4 - A pena de multa é fixada em dias, de acordo com os critérios estabelecidos no n.º 1 do artigo 71.º, podendo ser considerada a circunstância de a pessoa coletiva ter adotado e executado, depois da comissão da infração e até à data da audiência de julgamento, um programa de cumprimento normativo com medidas de controlo e vigilância idóneas para prevenir crimes da mesma natureza ou para diminuir significativamente o risco da sua ocorrência.
+4 - A pena de multa é fixada em dias, de acordo com os critérios estabelecidos no n.º 1 do artigo 71.º
 
 5 - Cada dia de multa corresponde a uma quantia entre (euro) 100 e (euro) 10 000, que o tribunal fixa em função da situação económica e financeira do condenado e dos seus encargos com os trabalhadores, sendo aplicável o disposto nos n.os 3 a 5 do artigo 47.º
 
