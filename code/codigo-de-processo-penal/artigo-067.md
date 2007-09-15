@@ -2,7 +2,7 @@
 
 ### (Substituição de defensor)
 
-1 - Se o defensor, relativamente a um acto em que a assistência for necessária não comparecer, se ausentar antes de terminado ou recusar ou abandonar a defesa, o tribunal nomeia imediatamente outro defensor; mas pode também, quando a nomeação imediata se revelar impossível ou inconveniente, decidir-se por uma interrupção da realização do acto.
+1 - Se o defensor, relativamente a um acto em que a assistência for necessária, não comparecer, se ausentar antes de terminado ou recusar ou abandonar a defesa, é imediatamente nomeado outro defensor; mas pode também, quando a nomeação imediata se revelar impossível ou inconveniente, ser decidido interromper a realização do acto.
 
 2 - Se o defensor for substituído durante o debate instrutório ou a audiência, pode o tribunal, oficiosamente ou a requerimento do novo defensor, conceder uma interrupção, para que aquele possa conferenciar com o arguido e examinar os autos.
 
