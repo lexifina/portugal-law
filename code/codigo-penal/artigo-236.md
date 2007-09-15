@@ -2,10 +2,6 @@
 
 ## Dos crimes contra a identidade cultural e integridade pessoal
 
-## Capítulo I
-
-## Dos crimes contra a paz
-
 # Artigo 236.º
 
 ### Incitamento à guerra

@@ -1,7 +1,3 @@
-## Secção III
-
-## Disposições comuns
-
 # Artigo 177.º
 
 ### Agravação

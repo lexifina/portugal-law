@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Disposição comum
-
 # Artigo 246.º
 
 ### Incapacidades
