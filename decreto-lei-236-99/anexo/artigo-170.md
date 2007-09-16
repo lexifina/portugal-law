@@ -20,7 +20,7 @@ g) Por decisão definitiva, lhe tenha sido aplicada pena criminal ou disciplinar
 
 2 - O tempo mínimo de serviço efectivo a que se referem as alíneas c) e d) do n.º 1 é de:
 
-a) Oito anos, para as categorias de oficiais e sargentos;
+a) Oito anos para as categorias de oficiais e sargentos, com excepção do quadro especial de pilotos aviadores, em que é de 12 anos;
 
 b) Quatro anos, para a categoria de praças.
 
