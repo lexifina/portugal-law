@@ -1,0 +1,49 @@
+# Informação-Parecer do Conselho Consultivo da Procuradoria-Geral da República n.º 15/2006, de 2007-09-21
+
+**Fonte:** https://www.ministeriopublico.pt/pareceres-pgr/1482
+
+**Número do Parecer:** 15/2006, de 21.09.2007
+
+**Data de Assinatura:** 21-09-2007
+
+**Tipo de Parecer:** Informação-Parecer
+
+**Iniciativa:** Governo
+
+**Entidade:** Ministério dos Negócios Estrangeiros
+
+**Relator:** ESTEVES REMÉDIO
+
+## Descritores
+
+CONVENÇÃO INTERNACIONAL
+ONU
+DIREITOS DA CRIANÇA
+CONFLITO ARMADO
+PROSTITUIÇÃO INFANTIL
+PORNOGRAFIA INFANTIL
+FINANCIAMENTO
+TERRORISMO
+TRÁFICO DE SERES HUMANOS
+TRÁFICO DE MULHERES
+TRÁFICO DE CRIANÇAS
+DISCRIMINAÇÃO EM RAZÃO DO SEXO
+PROTOCOLO
+CONVENÇÃO CONTRA A TORTURA E OUTRAS PENAS OU TRATAMENTOS CRUÉIS, DESUMANOS OU DEGRADANTES
+PACTO INTERNACIONAL SOBRE OS DIREITOS ECONÓMICOS, SOCIAIS E CULTURAIS
+ATENTADO TERRORISTA À BOMBA
+RECTIFICAÇÃO
+DECLARAÇÃO
+RESERVA A TRATADO
+OBJECÇÃO À RESERVA
+ADESÃO A TRATADO
+RATIFICAÇÃO DE TRATADO
+NOTIFICAÇÃO
+COMUNICAÇÃO
+TRADUÇÃO
+
+**Referências Complementares:** DIR INT PUBL / TRATADOS
+
+## Conclusões
+
+Tradução de declarações/reservas de Convenções da ONU.
