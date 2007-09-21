@@ -1,0 +1,5 @@
+Aviso n.º 18 067/2007
+Plano de Urbanização da Faixa Litoral Pampelido-Memória-Cabo do Mundo - Perafita
+Guilherme Manuel Lopes Pinto, presidente da Câmara Municipal de Matosinhos, torna público que, nos termos do disposto nos artigos 74.º e 77.º do Decreto-Lei n.º 310/2003, de 10 de Dezembro, a Câmara Municipal, na sua reunião ordinária de 10 de Abril de 2007, deliberou mandar elaborar o Plano de Urbanização da Faixa Litoral Pampelido-Memória-Cabo do Mundo - Perafita.
+Nos termos do n.º 2 do artigo 77.º do referido diploma legal, decorrerá por um período de 30 dias úteis, a contar da data desta publicação no Diário da República, um processo de audição ao público, durante o qual os interessados poderão formular sugestões, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração do Plano de Urbanização da Faixa Litoral Pampelido-Memória-Cabo do Mundo - Perafita.
+31 de Agosto de 2007. - O Presidente da Câmara, Guilherme Manuel Lopes Pinto.
