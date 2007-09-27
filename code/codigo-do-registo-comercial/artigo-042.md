@@ -27,3 +27,7 @@ d) Parecer do órgão de fiscalização, quando exista.
 4 - (Revogado.)
 
 5 - (Revogado.)
+
+6 - Relativamente às representações permanentes em Portugal de sociedades com sede no estrangeiro, a acta de aprovação é substituída por declaração da entidade representada, de onde conste que os documentos referidos no n.º 1 lhe foram apresentados.
+
+7 - O acesso por meios electrónicos, nos termos legalmente previstos, à informação constante dos documentos referidos nos n.os 1 e 2, substitui, para todos os efeitos legais, os correspondentes documentos em suporte de papel.
