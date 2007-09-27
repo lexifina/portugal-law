@@ -1,17 +1,9 @@
 # Artigo 11.º
 
-### Prazos do procedimento
+### Prazo de apreciação do pedido
 
-1 - (Revogado.)
+1 - Emitido o comprovativo electrónico referido no n.º 1 do artigo anterior, o serviço competente aprecia o pedido de constituição de sociedade.
 
-2 - O serviço competente convida o requerente a enviar, através do sítio na Internet e no prazo de cinco dias, os documentos em falta, quando não seja possível suprir oficiosamente as informações que deles devam constar.
+2 - Se os interessados tiverem optado por pacto ou acto constitutivo de modelo aprovado pelo director-geral dos Registos e do Notariado e não tiver ocorrido a entrega dos documentos referidos nas alíneas b) e c) do n.º 4 do artigo 6.º, o serviço competente, após confirmação do pagamento efectuado pelos interessados, procede imediatamente às diligências subsequentes previstas no artigo 12.º
 
-3 - Se os interessados tiverem optado por pacto ou ato constitutivo de modelo aprovado pelo presidente do conselho diretivo do IRN, I. P., e não se mostre necessária a entrega de autorizações especiais para a constituição da sociedade, o serviço competente procede ao registo e às diligências subsequentes no prazo de cinco dias a contar da confirmação do pagamento efetuado pelos interessados e desde que tenham sido entregues os documentos previstos na portaria a que se refere o n.º 1 do artigo 5.º
-
-4 - Nas restantes situações, o serviço competente procede ao registo e às diligências subsequentes no prazo de 10 dias a contar da confirmação do pagamento efetuado pelos interessados e desde que tenham sido entregues todos os documentos necessários.
-
-5 - Caso não seja possível efetuar o registo nos prazos a que se referem os números anteriores, o serviço competente notifica o requerente por via eletrónica dos motivos do atraso.
-
-6 - (Revogado.)
-
-7 - A não conclusão do procedimento de constituição de sociedade por facto imputável ao requerente determina a caducidade do direito ao uso da firma previamente criada e reservada a favor do Estado afeta à sociedade a constituir.
+3 - Nas restantes situações, o serviço competente procede a todas as diligências subsequentes previstas no artigo 12.º no prazo de dois dias úteis a contar da confirmação do pagamento efectuado pelos interessados.
