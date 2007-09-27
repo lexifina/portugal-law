@@ -1,0 +1,12 @@
+Portaria n.º 1262/2007
+de 27 de Setembro
+Pela Portaria n.º 890/95, de 14 de Julho, foi concessionada à Associação de Caça e Pesca de Póvoa-Ifanes a zona de caça associativa de Paradela (processo n.º 1844-DGRF), situada no município de Miranda do Douro, válida até 14 de Julho de 2007.
+Veio agora a Peinha Las Torres - Associação de Caça e Pesca requerer a mudança de concessionário e a renovação da zona de caça acima referida, tendo em simultâneo solicitado a correcção da área primitivamente concessionada de 1562 ha para 1488 ha, por exclusão das áreas sociais (terrenos não cinegéticos).
+Cumpridos os preceitos legais, com fundamento no disposto nos artigos 45.º e 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º, e no n.º 1 do artigo 118.º, do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria, a zona de caça associativa de Paradela (processo n.º 1844-DGRF), situada no município de Miranda do Douro, é transferida para Peinha Las Torres - Associação de Caça e Pesca, com o número de identificação fiscal 507099257 e sede em Paradela, 5210-263 Paradela.
+2.º É renovada, por um período de 12 anos, renovável automaticamente por dois períodos de igual duração, a concessão desta zona de caça, abrangendo vários prédios rústicos, cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Paradela e Ifanes, município Miranda do Douro, com a área de 1488 ha.
+3.º A concessão de alguns dos terrenos incluídos em áreas classificadas poderá terminar sem direito a indemnização sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até um máximo de 10 % da área total da zona de caça.
+4.º A presente portaria produz efeitos a partir do dia 15 de Julho de 2007.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 19 de Setembro de 2007. - O Ministro da  Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 20 de Setembro de 2007.
+
+(ver documento original)
