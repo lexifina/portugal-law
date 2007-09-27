@@ -1,4 +1,4 @@
-# Artigo 5.º
+# Artigo 5
 
 ### Início oficioso do procedimento
 
@@ -12,10 +12,12 @@ c) A administração tributária tenha comunicado ao serviço de registo compete
 
 d) As sociedades não tenham procedido ao aumento do capital e à liberação deste, nos termos dos n.os 1 a 3 e 6 do artigo 533.º do Código das Sociedades Comerciais;
 
-e) Ocorra a omissão de entrega da declaração fiscal de rendimentos da cooperativa durante dois anos consecutivos comunicada pela administração tributária ao serviço de registo competente;
+e) A sociedade não tenha sido objecto de actos de registo comercial obrigatórios durante mais de 20 anos;
 
-f) Ocorra a comunicação da ausência de actividade efectiva da cooperativa verificada nos termos da legislação tributária, efectuada pela administração tributária junto do serviço de registo competente;
+f) Ocorra a omissão de entrega da declaração fiscal de rendimentos da cooperativa durante dois anos consecutivos comunicada pela administração tributária ao serviço de registo competente;
 
-g) Ocorra a comunicação da declaração oficiosa de cessação de actividade da cooperativa nos termos previstos na legislação tributária, efectuada pela administração tributária junto do serviço de registo competente;
+g) Ocorra a comunicação da ausência de actividade efectiva da cooperativa verificada nos termos da legislação tributária, efectuada pela administração tributária junto do serviço de registo competente;
 
-h) As cooperativas não tenham procedido ao registo do capital social actualizado nos termos previstos nos n.os 3 e 4 do artigo 91.º do Código Cooperativo.
+h) Ocorra a comunicação da declaração oficiosa de cessação de actividade da cooperativa nos termos previstos na legislação tributária, efectuada pela administração tributária junto do serviço de registo competente;
+
+i) As cooperativas não tenham procedido ao registo do capital social actualizado nos termos previstos nos n.os 3 e 4 do artigo 91.º do Código Cooperativo.

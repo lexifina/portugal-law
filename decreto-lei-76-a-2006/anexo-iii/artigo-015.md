@@ -2,7 +2,7 @@
 
 ## Procedimento administrativo de liquidação
 
-# Artigo 15.º
+# Artigo 15
 
 ### Início do procedimento e competência
 
@@ -28,7 +28,11 @@ e) A administração tributária tenha comunicado ao serviço de registo compete
 
 f) Se verifique que o titular do estabelecimento individual de responsabilidade limitada não procedeu ao aumento de capital do estabelecimento, nos termos do artigo 35.º-A do Decreto-Lei n.º 248/86, de 25 de Agosto;
 
-g) O tribunal que decidiu o encerramento de um processo de insolvência por insuficiência da massa insolvente tenha comunicado esse encerramento ao serviço de registo competente, nos termos do n.º 4 do artigo 234.º do Código da Insolvência e da Recuperação de Empresas.
+g) O estabelecimento individual de responsabilidade limitada não tenha sido objecto de actos de registo comercial obrigatórios durante mais de 20 anos;
+
+h) Tenha ocorrido o óbito do titular do estabelecimento individual de responsabilidade limitada, comprovado por consulta a base de dados de serviço da Administração Pública;
+
+i) O tribunal que decidiu o encerramento de um processo de insolvência por insuficiência da massa insolvente tenha comunicado esse encerramento ao serviço de registo competente, nos termos do n.º 4 do artigo 234.º do Código da Insolvência e da Recuperação de Empresas.
 
 6 - Os n.os 5 e 6 do artigo 4.º são aplicáveis ao procedimento administrativo de liquidação.
 
