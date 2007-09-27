@@ -8,9 +8,9 @@ a) Aos emolumentos previstos no Regulamento Emolumentar dos Registos e do Notari
 
 b) Ao imposto do selo, nos termos da Tabela respectiva;
 
-c) Aos custos das publicações.
+c) (Revogada).
 
-d) Às taxas previstas na Tabela de Taxas de Propriedade Industrial para a aquisição do registo de marca, nos casos em que este facto ocorra simultaneamente com a constituição da sociedade.
+d) Às taxas previstas em portaria do membro do Governo responsável pela área da justiça, caso tenha havido aquisição de marca registada.
 
 2 - O Estado goza de isenção do pagamento das taxas devidas pela prática de actos junto do INPI, ao abrigo do presente diploma.
 
