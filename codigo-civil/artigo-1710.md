@@ -2,4 +2,4 @@
 
 ### (Forma das convenções antenupciais)
 
-As convenções antenupciais só são válidas se forem celebradas por escritura pública ou por auto lavrado perante o conservador do registo civil.
+As convenções antenupciais são válidas se forem celebradas por declaração prestada perante funcionário do registo civil ou por escritura pública.

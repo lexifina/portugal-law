@@ -6,6 +6,6 @@
 
 a) Dos contraentes, ou de um deles e do procurador do outro;
 
-b) Do funcionário do registo civil;
+b) Do funcionário do registo civil ou, nos casos de casamento civil sob forma religiosa, do ministro do culto, devidamente credenciado;
 
-c) De duas testemunhas, sempre que exigida na lei do registo civil.
+c) De duas testemunhas, nos casos em que é exigida por lei especial.

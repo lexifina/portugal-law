@@ -1,7 +1,3 @@
-## Secção II
-
-## Registo por transcrição
-
 ## Subsecção I
 
 ## Disposição geral

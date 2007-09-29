@@ -2,4 +2,4 @@
 
 ### (Prazo para a celebração do casamento)
 
-Autorizada a realização do casamento, este deve celebrar-se dentro dos noventa dias seguintes.
+Autorizada a realização do casamento, este deve celebrar-se dentro dos seis meses seguintes.
