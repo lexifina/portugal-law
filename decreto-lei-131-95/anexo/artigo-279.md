@@ -1,5 +1,5 @@
 # Artigo 279.º
 
-### Instrução e remessa
+### Instrução
 
-Organizado e instruído o processo na conservatória onde o requerimento foi apresentado, deve o conservador dar parecer sobre o pedido, remetendo em seguida o processo à Conservatória dos Registos Centrais.
+Após o exame do processo, o conservador dos Registos Centrais pode ordenar as diligências que considere necessárias.

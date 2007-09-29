@@ -24,6 +24,4 @@ c) Procedimento de partilha e registos.
 
 4 - O registo das participações sociais sujeitas a registo é promovido nos termos previstos no artigo 29.º-A do Código do Registo Comercial.
 
-5 - Os procedimentos simplificados de sucessão hereditária podem incluir a celebração de um contrato de mútuo e de outros contratos de crédito e de financiamento celebrados por instituições de crédito, e respectivas garantias, bem como outros negócios jurídicos, nos termos definidos por portaria do membro do Governo responsável pela área da justiça.
-
-6 - A realização dos procedimentos é da competência do conservador, sem prejuízo da possibilidade de delegação em oficial de registos.
+5 - A realização dos procedimentos é da competência do conservador, sem prejuízo da possibilidade de delegação em oficial de registos.

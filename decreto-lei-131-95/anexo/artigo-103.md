@@ -18,6 +18,6 @@ e) Os apelidos são escolhidos entre os que pertençam a ambos ou só a um dos p
 
 f) Se a filiação não ficar estabelecida, pode o declarante escolher os apelidos a atribuir ao registando e, se não o fizer, observa-se o disposto no artigo 108.º
 
-3 - Para efeitos do disposto nas alíneas b) e c) do número anterior, deve ser produzida prova, sempre que possível documental.
+3 - (Revogado).
 
 4 - As dúvidas sobre a composição do nome são esclarecidas por despacho do director-geral dos Registos e do Notariado, por intermédio da Conservatória dos Registos Centrais.

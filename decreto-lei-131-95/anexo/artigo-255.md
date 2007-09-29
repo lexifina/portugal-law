@@ -6,4 +6,4 @@
 
 ### Petição
 
-O suprimento de autorização para casamento de menor deve ser requerido na conservatória escolhida para a organização do respectivo processo de publicações.
+O suprimento de autorização para casamento de menor é requerido em qualquer conservatória do registo civil.

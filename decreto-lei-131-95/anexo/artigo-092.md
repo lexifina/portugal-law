@@ -12,4 +12,6 @@
 
 3 - Se esta responsabilidade não existir, devem os interessados requerer a rectificação e, se o não fizerem, poderá a mesma ser promovida pelo conservador.
 
-4 - A rectificação é feita por averbamento, salvo se, tratando-se de registo lavrado por inscrição, se mostrar necessária logo após a assinatura deste, devendo fazer-se, neste caso, em acto contínuo, por meio de declaração lavrada pelo conservador no seguimento do registo, e assinada por ele e pelos demais intervenientes no acto.
+4 - A rectificação é feita por averbamento.
+
+5 - Tratando-se de registo lavrado por inscrição, se a rectificação se mostrar necessária logo após a aposição do nome do funcionário, deve fazer-se imediatamente por meio de declaração lavrada pelo conservador ou oficial no seguimento do registo, com aposição do respectivo nome.

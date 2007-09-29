@@ -1,5 +1,7 @@
 # Artigo 259.º
 
-### Remessa
+### Instrução e decisão
 
-Organizado e instruído o processo, o conservador, depois de nele emitir parecer sobre a atendibilidade do pedido, remete-o à Direcção-Geral dos Registos e do Notariado.
+1 - Examinado o processo, o conservador do registo civil pode ordenar as diligências necessárias à completa instrução do mesmo.
+
+2 - A decisão do processo é da exclusiva competência do conservador.

@@ -14,9 +14,11 @@ d) As indicações referentes à existência de consentimento prévio dos pais o
 
 e) O nome completo do procurador de algum dos nubentes, se o houver;
 
-f) O prazo dentro do qual o casamento deve ser celebrado;
+f) No caso de ter sido escolhida a forma de casamento civil sob forma religiosa, a menção da verificação pelo conservador de que os nubentes têm conhecimento do disposto nos artigos 1577.º, 1600.º, 1671.º e 1672.º do Código Civil, bem como a menção do nome e da credenciação do ministro do culto;
 
-g) O número, ano e conservatória detentora do assento de nascimento dos nubentes e o número, data e entidade emissora do respectivo bilhete de identidade.
+g) O prazo dentro do qual o casamento deve ser celebrado;
+
+h) O número, ano e conservatória detentora dos assentos de nascimento dos nubentes e os elementos de referenciação dos respectivos documentos de identificação.
 
 2 - Se os nubentes tiverem declarado haver convenção antenupcial, mas não apresentarem o documento comprovativo até à passagem do certificado, deve mencionar-se que pode ser apresentado até ao acto da celebração do casamento.
 

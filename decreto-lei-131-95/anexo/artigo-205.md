@@ -2,4 +2,4 @@
 
 ### Viagem por terra
 
-Se o falecimento ocorrer em viagem por terra, o assento de óbito é lavrado na conservatória correspondente ao lugar onde o cadáver for encontrado ou vier a ser desembarcado.
+Se o falecimento ocorrer em viagem por terra, o assento de óbito pode ser lavrado em qualquer conservatória do registo civil.

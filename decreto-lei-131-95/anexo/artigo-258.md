@@ -4,10 +4,8 @@
 
 # Artigo 258.º
 
-### Petição
+### Instrução e decisão
 
-1 - A sanação da anulabilidade do casamento celebrado sem intervenção de testemunhas, quando obrigatória, deve ser requerida pelos interessados, em petição dirigida ao Ministro da Justiça, por intermédio da conservatória detentora do respectivo assento.
+1 - Examinado o processo, o conservador do registo civil pode ordenar as diligências necessárias à completa instrução do mesmo.
 
-2 - Os requerentes devem justificar a sua pretensão e indicar as provas oferecidas.
-
-3 - A petição deve ser instruída com certidão de cópia integral do assento de casamento.
+2 - A decisão do processo é da exclusiva competência do conservador.

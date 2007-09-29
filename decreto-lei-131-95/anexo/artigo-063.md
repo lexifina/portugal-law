@@ -2,13 +2,9 @@
 
 ### Cotas de referência
 
-1 - Na sequência do texto dos assentos, além das cotas especiais previstas neste Código, deve constar:
+1 - Na sequência do texto dos assentos, além das cotas especiais previstas neste Código, deve constar o número atribuído ao processo que contém os documentos que serviram de base ao assento.
 
-a) Número atribuído aos documentos que lhe serviram de base e número do maço em que são arquivados;
-
-b) Número de anotação no Diário.
-
-2 - Nos assentos respeitantes a factos que devam ser averbados a outros registos, são lançadas cotas dos averbamentos efectuados ou dos boletins remetidos.
+2 - (Revogado).
 
 3 - As cotas de referência a outros assentos, previstas em disposição especial, consistem na indicação do número, ano e conservatória detentora do assento referenciado.
 

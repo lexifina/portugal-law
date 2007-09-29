@@ -6,11 +6,11 @@
 
 2 - No mesmo acto podem intervir entre duas a quatro testemunhas.
 
-3 - A presença de duas testemunhas é, porém, obrigatória sempre que a identidade de qualquer dos nubentes ou do procurador não seja verificada por uma das seguintes formas:
+3 - A presença de duas testemunhas é obrigatória sempre que a identidade de qualquer dos nubentes ou do procurador não seja verificada por uma das seguintes formas:
 
 a) Pelo conhecimento pessoal do conservador;
 
-b) Pela exibição dos respectivos bilhetes de identidade;
+b) Pela exibição dos respectivos documentos de identificação;
 
 c) Pela exibição do título ou autorização de residência, do passaporte ou documento equivalente, se os nubentes forem estrangeiros.
 
