@@ -6,6 +6,6 @@
 
 2 - Aos encargos previstos no número anterior acresce o reembolso das despesas comprovadamente efectuadas pelos funcionários, imprescindíveis à prática dos actos, com excepção das despesas de correio e de outras a definir por despacho do director-geral dos Registos e do Notariado.
 
-3 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste diploma são pagos pela Direcção-Geral dos Registos e do Notariado.
+3 - Os encargos referidos nos números anteriores que sejam eventualmente devidos pela prática de actos previstos neste decreto-lei são pagos pelo Instituto dos Registos e do Notariado (IRN, I. P.)
 
-4 - Sem prejuízo do disposto no n.º 9.10 do artigo 21.º e no n.º 22 do artigo 22.º, para fazer face ao encargo referido no número anterior, constituem receita da Direcção-Geral dos Registos e do Notariado todas as quantias cobradas a título de emolumentos pessoais.
+4 - Sem prejuízo do disposto no n.º 12 do artigo 18.º, no n.º 9.10 do artigo 21.º e no n.º 22 do artigo 22.º, para fazer face ao encargo referido no número anterior, constituem receita da IRN, I. P., todas as quantias cobradas a título de emolumentos pessoais e de despesas imprescindíveis à prática dos actos.

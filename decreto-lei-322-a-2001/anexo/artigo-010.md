@@ -8,7 +8,7 @@
 
 1 - São gratuitos os seguintes actos e processos:
 
-a) Assento de nascimento ocorrido em território português;
+a) Assento de nascimento ocorrido em território português ou em unidade de saúde no estrangeiro, ao abrigo de protocolo celebrado com o Estado Português;
 
 b) Assento de declaração de maternidade ou de perfilhação;
 
@@ -16,7 +16,7 @@ c) Assento de casamento civil ou católico urgente;
 
 d) Assento de óbito ou depósito do certificado médico de morte fetal;
 
-e) Assento de transcrição efectuada nos termos do artigo 82.º do Código do Registo Civil;
+e) (Revogada.)
 
 f) Assento de transcrição de nascimento lavrado no estrangeiro, perante autoridade estrangeira, respeitante a indivíduo a quem seja atribuída a nacionalidade portuguesa ou que a adquira;
 
@@ -36,19 +36,19 @@ n) Registo previsto no n.º 1 do artigo 1.º de Decreto-Lei n.º 249/77, de 14 d
 
 o) Assentos de factos obrigatoriamente sujeitos a registo requeridos pelas autoridades judiciais, quando os respectivos encargos não puderem ser cobrados em regra de custas;
 
-p) Assento reformado nos termos dos artigos 25.º e seguintes do Código do Registo Civil;
+p) Reconstituição de acto ou processo;
 
 q) Processo de impedimento do casamento;
 
 r) Processo de sanação da anulabilidade do casamento por falta de testemunhas;
 
-s) Processo de autorização para inscrição tardia de nascimento;
+s) Certidões a que se referem o n.º 3 do artigo 189.º, a alínea g) do n.º 1 do artigo 210.º-F, os n.os 5 a 7 do artigo 215.º e a alínea e) do n.º 1 do artigo 272.º-B do Código do Registo Civil;
 
-t) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações previstas no Código do Registo Civil e no Regulamento da Nacionalidade Portuguesa e que não devam entrar em regra de custas, incluindo a emissão do boletim original de nascimento, casamento, óbito ou morte fetal;
+t) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações previstas no Código do Registo Civil, no Regulamento da Nacionalidade Portuguesa e em legislação avulsa aplicável ao registo civil e da nacionalidade e que não devam entrar em regra de custas;
 
 u) Certidões requeridas para fins de assistência ou beneficência, incluindo a obtenção de pensões do Estado ou das autarquias locais;
 
-v) Exames de registos e de documentos a que se referem os n.os 4 e 5 do artigo 34.º do Código do Registo Civil;
+v) (Revogada.)
 
 x) Certidões requeridas para instrução de processo de adopção;
 
@@ -66,4 +66,4 @@ a) Documento emitido pela competente autoridade administrativa;
 
 b) Declaração passada por instituição pública de assistência social onde o indivíduo se encontre internado.
 
-4 - Para efeitos do disposto no número anterior, nos processos de casamento e correspondentes assentos e, bem assim, nos processos de divórcio e de separação de pessoas e bens, quando as situações económicas dos intervenientes sejam diferentes, é devido o pagamento de emolumentos se um deles não beneficiar de gratuitidade.
+4 - Para efeitos do disposto no número anterior, nos actos, processos e procedimentos requeridos por mais de uma pessoa em que apenas um dos requerentes beneficie de gratuitidade, é devido pelo requerente não beneficiário o pagamento de metade do emolumento previsto para o acto ou processo.
