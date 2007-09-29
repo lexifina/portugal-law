@@ -14,7 +14,7 @@ b) A separação e divórcio por mútuo consentimento, excepto nos casos resulta
 
 c) A declaração de dispensa de prazo internupcial.
 
-2 - É competente para os processos previstos nas alíneas a) e b) do número anterior a conservatória de registo civil da residência de qualquer dos cônjuges ou outra por ambos escolhida e expressamente designada.
+2 - Os processos previstos nas alíneas a) e b) do número anterior podem ser instaurados em qualquer conservatória do registo civil.
 
 3 - A declaração de dispensa de prazo internupcial é efectuada pela conservatória de registo civil competente para a organização do processo preliminar de publicações para o casamento da requerente.
 

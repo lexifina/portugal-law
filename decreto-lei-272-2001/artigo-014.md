@@ -4,7 +4,7 @@
 
 1 - O processo de separação de pessoas e bens ou de divórcio por mútuo consentimento é instaurado mediante requerimento assinado pelos cônjuges ou seus procuradores na conservatória do registo civil.
 
-2 - O pedido é instruído com o conjunto de documentos referido no artigo 272.º do Código de Registo Civil, a que é acrescentado acordo sobre o exercício do poder paternal quando existam filhos menores e não tenha previamente havido regulação judicial.
+2 - O pedido é instruído com os documentos referidos no n.º 1 do artigo 272.º do Código do Registo Civil, a que é acrescentado acordo sobre o exercício do poder paternal quando existam filhos menores e não tenha previamente havido regulação judicial.
 
 3 - Recebido o requerimento, o conservador convoca os cônjuges para uma conferência em que tenta conciliá-los; mantendo os cônjuges o propósito de se divorciar, e observado o disposto no n.º 5 do artigo 12.º, é o divórcio decretado, procedendo-se ao correspondente registo.
 
