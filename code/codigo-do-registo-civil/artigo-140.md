@@ -1,13 +1,13 @@
 # Artigo 140.º
 
-### Afixação de editais
+### Publicidade do processo
 
-1 - À pretensão dos nubentes é dada publicidade por meio de edital, no qual são convidadas as pessoas que conheçam impedimentos à celebração do casamento a virem declará-los na conservatória.
+1 - O processo preliminar de casamento é público na parte que respeita à declaração dos elementos previstos nas alíneas a), b), c) e f) do n.º 2 do artigo 136.º, sem prejuízo do disposto no n.º 3 do artigo 143.º
 
-2 - O edital, escrito em impresso de modelo aprovado, é afixado à porta da conservatória, por forma bem visível, durante oito dias consecutivos.
+2 - A publicidade do processo é garantida através do direito à obtenção de cópia, certificada ou com mero valor de informação, da parte da declaração para casamento que contém os elementos previstos no número anterior.
 
-3 - Se algum dos nubentes residir, ou tiver residido nos últimos 12 meses, fora da área da conservatória organizadora do processo, o conservador remete cópia do edital à conservatória dessa residência, para aí ser afixada nas condições do número anterior, salvo se o nubente for estrangeiro.
+3 - (Revogado).
 
-4 - A cópia do edital, quando tenha de ser afixada no estrangeiro, é remetida ao competente agente diplomático ou consular português.
+4 - (Revogado).
 
-5 - No rosto do edital e das cópias são anotadas e rubricadas pelo funcionário as datas do início e termo da afixação, juntando-se, em seguida, o edital ao processo ou remetendo-se as cópias à conservatória competente com os documentos oferecidos para prova dos impedimentos declarados.
+5 - (Revogado).

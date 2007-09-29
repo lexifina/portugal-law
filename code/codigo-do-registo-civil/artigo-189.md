@@ -4,6 +4,8 @@
 
 # Artigo 189.º
 
-### Convenção antenupcial lavrada por auto
+### Convenção antenupcial
 
-A convenção antenupcial em que apenas seja estipulado um dos regimes tipo de bens do casamento previstos na lei pode ser lavrada pelo conservador do registo civil, por meio de auto, no respectivo processo de publicações para casamento.
+1 - A convenção antenupcial pode ser celebrada nas conservatórias do registo civil, por meio de declaração prestada perante conservador, o qual pode delegar essa competência em oficial de registo.
+
+2 - A conservatória deve imediatamente entregar certidão gratuita do acto aos interessados.

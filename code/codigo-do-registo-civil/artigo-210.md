@@ -6,12 +6,18 @@
 
 ### Comunicações a efectuar pelo conservador
 
-1 - Compete ao conservador do registo civil enviar, até ao dia 8 de cada mês:
+1 - O conservador do registo civil deve enviar ou disponibilizar o acesso, em base de dados ao Ministério Público junto do tribunal competente para a providência tutelar ou para a eventual instauração de inventário, das seguintes informações:
 
-a) Ao Ministério Público junto do tribunal competente para a providência tutelar ou para a eventual instauração de inventário, certidão de narrativa dos assentos lavrados no mês anterior referentes a indivíduos com descendentes sujeitos àquela providência ou com herdeiros menores, incapazes, ausentes em parte incerta ou pessoas colectivas, um mapa mensal com os nomes completos dos indivíduos falecidos nessas condições e, no segundo caso, a indicação da pessoa a quem compete o cargo de cabeça-de-casal;
+a) Assentos de óbito lavrados no mês anterior referentes a indivíduos com descendentes sujeitos àquela providência; e
 
-b) À repartição de finanças da residência do falecido, relação das pessoas cujo assento de óbito tenha sido lavrado no mês anterior, feita em impressos fornecidos gratuitamente por aquelas repartições e com as indicações neles exigidas.
+b) Assentos de óbito lavrados no mês anterior referentes a indivíduos com herdeiros menores, incapazes, ausentes em parte incerta ou pessoas colectivas, acompanhados da indicação da pessoa à qual compete o cargo de cabeça-de-casal.
 
-2 - Para os fins do número anterior, o conservador deve ouvir, em auto, de modelo aprovado por portaria do Ministro da Justiça, o declarante do óbito, em acto imediato à prestação da respectiva declaração.
+2 - Para os efeitos do disposto no número anterior, o conservador deve ouvir o declarante do óbito, através de auto lavrado imediatamente após a prestação da respectiva declaração.
 
-3 - Até ao dia 8 de cada mês, deve o conservador remeter ao Instituto das Tecnologias de Informação na Justiça fotocópia dos autos relativos aos óbitos lavrados no mês anterior, devendo comunicar ainda os números de bilhetes de identidade ulteriormente conhecidos, bem como qualquer completamento ou rectificação de assento de óbito que respeite ao nome do falecido, idade, naturalidade ou filiação.
+3 - O conservador deve comunicar, por via electrónica, ao Instituto das Tecnologias de Informação na Justiça, I. P.:
+
+a) O teor dos autos relativos aos óbitos lavrados no mês anterior;
+
+b) Os números de documentos de identificação ulteriormente conhecidos;
+
+c) Qualquer completamento ou rectificação de assento de óbito que respeite ao nome do falecido, idade, naturalidade ou filiação.

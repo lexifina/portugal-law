@@ -4,7 +4,7 @@
 
 1 - O consentimento, prestado pessoalmente ou por procurador, pode revestir uma das formas seguintes:
 
-a) Auto lavrado por conservador ou ajudante;
+a) Auto lavrado por conservador ou oficial de registos;
 
 b) Auto lavrado por pároco, na presença de duas testemunhas;
 

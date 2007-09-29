@@ -8,4 +8,4 @@
 
 3 - As testemunhas consideram-se sempre abonatórias da identidade das partes, bem como da veracidade das respectivas declarações, e respondem, no caso de falsidade, tanto civil como criminalmente.
 
-4 - A identificação das testemunhas é aplicável o disposto no n.º 1 do artigo 40.º
+4 - À identificação das testemunhas é aplicável o disposto no artigo 40.º

@@ -10,7 +10,7 @@
 
 ### Assento paroquial
 
-1 - O assento paroquial do casamento católico é lavrado em duplicado, logo após a celebração do matrimónio, e deve conter as seguintes indicações:
+1 - O assento paroquial do casamento católico é lavrado em duplicado no livro de registo ou em arquivo electrónico da paróquia, logo após a celebração do matrimónio, e deve conter as seguintes indicações:
 
 a) Hora, data, lugar e paróquia da celebração, bem como a freguesia, se não coincidir com aquela, e o concelho;
 
@@ -38,4 +38,4 @@ j) Nome completo e residência habitual de duas testemunhas.
 
 4 - Sendo apresentado pelos nubentes, no acto da celebração do casamento, documento que contrarie a menção do certificado relativa às convenções antenupciais, deve esta menção ser alterada no assento, referenciando-se aquele documento.
 
-5 - Tratando-se de casamento celebrado com dispensa do processo de publicações mediante autorização do ordinário próprio, deve mencionar-se no assento esta circunstância e a data da autorização.
+5 - Tratando-se de casamento celebrado com dispensa do processo preliminar respectivo, mediante autorização do ordinário próprio, deve mencionar-se no assento esta circunstância e a data da autorização.

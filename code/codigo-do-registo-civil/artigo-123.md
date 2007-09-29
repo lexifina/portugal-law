@@ -10,4 +10,4 @@
 
 4 - Os novos registos referidos nos números anteriores devem ser lavrados nos termos e com os elementos exigidos neste Código, sem menção do declarante e com a indicação do requerente.
 
-5 - O pedido de realização de novo assento, quando feito em conservatória intermediária, é reduzido a auto de declarações, do qual devem constar os elementos necessários à feitura do assento, e instruído com certidão de cópia integral do assento primitivo, passada há menos de 60 dias.
+5 - (Revogado).

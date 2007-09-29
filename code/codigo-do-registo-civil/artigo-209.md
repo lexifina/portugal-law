@@ -6,9 +6,9 @@
 
 ### Depósito do certificado médico de morte fetal
 
-1 - Sempre que ocorrer morte fetal com tempo de gestação de 22 semanas ou superior deve ser apresentado e depositado na conservatória do registo civil competente o respectivo certificado médico para fins de arquivo e registo no ficheiro geral.
+1 - Sempre que ocorrer morte fetal com tempo de gestação de 22 semanas ou superior deve ser apresentado e depositado em qualquer conservatória do registo civil o respectivo certificado médico.
 
-2 - Por cada depósito do certificado referido no n.º 1 deve ser preenchido verbete onomástico se conhecido o nome da parturiente, o qual será ordenado por ordem alfabética e sem dependência do ano a que o depósito respeita.
+2 - (Revogado).
 
 3 - O requerente do depósito deve ser ouvido em auto, nele devendo constar os seguintes elementos:
 
@@ -24,4 +24,4 @@ e) Cemitério onde vai ser ou foi sepultado.
 
 4 - São aplicáveis ao depósito do certificado médico de morte fetal os preceitos relativos ao assento de óbito, com as necessárias adaptações.
 
-5 - O certificado médico de morte fetal e o auto respectivo são arquivados em maço próprio.
+5 - (Revogado).

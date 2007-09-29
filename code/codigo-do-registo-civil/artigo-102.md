@@ -24,6 +24,6 @@ g) As menções exigidas por lei em casos especiais.
 
 5 - Sempre que o nascimento ocorra em território português em unidade de saúde onde não seja possível declarar o nascimento, deve ser exibido documento emitido pela unidade de saúde que comprove a ocorrência do parto e indique o nome da parturiente.
 
-6 - Se o nascimento ocorrer em território português fora das unidades de saúde mas com acompanhamento posterior em unidade de saúde, deve ser exibido documento emitido nos mesmos termos do número anterior.
+6 - Se o nascimento ocorrer em território português fora das unidades de saúde deve ser exibido documento emitido nos mesmos termos do número anterior.
 
 7 - A realização das averiguações necessárias não deve impedir que o assento seja lavrado em acto seguido à declaração.
