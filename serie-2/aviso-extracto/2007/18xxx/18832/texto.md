@@ -1,0 +1,3 @@
+Aviso (extracto) n.º 18 832/2007
+O engenheiro António Paulo Jacinto Eusébio, presidente da Câmara Municipal de São Brás de Alportel, torna público que, em reunião ordinária realizada no dia 18 de Setembro de 2007, foi aprovada a actualização do coeficiente previsto nos artigos 32.º e 33.º do Regulamento Municipal de Urbanização, Edificação e Taxas do Município de São Brás de Alportel, designado por PI, referente à relação entre as taxas cobradas e o investimento realizado em infra-estruturas gerais, em função do Plano Plurianual de Investimentos do ano de 2006, que se cifra em 0,51, a aplicar durante o ano de 2008.
+20 de Setembro de 2007. - O Presidente da Câmara, António Paulo Jacinto Eusébio.
