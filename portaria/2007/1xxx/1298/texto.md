@@ -1,0 +1,26 @@
+Portaria n.º 1298/2007
+de 2 de Outubro
+Com o objectivo de reduzir os custos de contexto para as empresas, incentivar o investimento e valorizar os serviços públicos, dirigindo a sua actividade para serviços de valor acrescentado, o Governo tem vindo a promover a prática de actos de registo através da Internet com a criação de novos serviços online no sector da Justiça.
+São exemplos desta política a criação do serviço Empresa Online, que permite a constituição de sociedades através da Internet, a promoção de actos de registo comercial pela mesma via e a obtenção de uma certidão electrónica e desmaterializada de registo comercial - a certidão permanente -, cujo código de acesso substitui integralmente a certidão em papel (www.empresaonline.pt). Da mesma forma, viabilizou-se a publicação dos actos da vida das empresas através da Internet, com a eliminação dessas publicações na 3.ª série do Diário da República (www.mj.gov.pt/publicacoes), a realização de pedidos de registo de marcas nacionais e a prática de outros actos em matéria da propriedade industrial através da Internet (www.inpi.pt). Têm ainda sido criados outros serviços que reformulam obrigações legais existentes, tornando a sua prática desmaterializada, como a Informação Empresarial Simplificada, em que quatro obrigações de envio de contas anuais pelas empresas ao Estado foram substituídas por uma única, remetida por via electrónica, com registo comercial automático e electrónico da prestação de contas pelas sociedades.
+A utilização destes serviços tem sido significativa, para o que tem contribuído uma política de redução de preços para actos praticados online, que assim incentiva os utilizadores a recorrer a estas vias electrónicas.
+No campo dos registos relacionados com a propriedade industrial também tem sido seguida esta política. Com a publicação da Portaria n.º 1430-A/2006, de 22 de Dezembro, consagrou-se uma relevante redução das taxas relativas aos actos e serviços de propriedade industrial constantes da Portaria n.º 699/2003, de 31 de Julho, sempre que os mesmos fossem praticados por via electrónica. Em consequência, entre Dezembro de 2006 e o final de Julho de 2007, cerca de 75 % dos pedidos de marca nacional foram apresentados por via electrónica.
+Agora, com a criação de um novo serviço online que permite a promoção dos pedidos de registo de patentes e modelos de utilidade através da Internet (www.inpi.pt), prevê-se um incentivo específico para estes actos, atendendo à sua importância enquanto factor de incentivo ao investimento e à investigação e desenvolvimento, reduzindo as respectivas taxas em 50 %.
+Finalmente, aproveita-se para regular a situação prevista no Regulamento (CEE) n.º 1768/92, do Conselho, de 18 de Junho, com a redacção introduzida pelo Regulamento (CE) n.º 1901/2006, do Parlamento Europeu e do Conselho, de 12 de Dezembro, prevendo a taxa que permite que um requerente ou titular de um certificado complementar de protecção relativo a medicamentos para uso pediátrico possa apresentar, junto do Instituto Nacional da Propriedade Industrial, um pedido de prorrogação da validade do certificado por seis meses adicionais.
+Assim:
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, ao abrigo do disposto no artigo 346.º do Decreto-Lei n.º 36/2003, de 5 de Março, o seguinte:
+Artigo 1.º
+Alteração à Portaria n.º 699/2003, de 31 de Julho
+O n.º 2 da Portaria n.º 699/2003, de 31 de Julho, com a redacção dada pela Portaria n.º 1430-A/2006, de 22 de Dezembro, passa a ter a seguinte redacção:
+«2.º Quando respeitem a actos promovidos por via electrónica, as taxas previstas nas tabelas são reduzidas nas seguintes percentagens:
+a) Pedidos de patentes e de modelos de utilidade - 50 %;
+b) Outros pedidos de protecção - 30 %;
+c) Restantes casos - 10 %.»
+Artigo 2.º
+Alteração à tabela ii anexa à Portaria n.º 699/2003, de 31 de Julho
+É aditado à tabela ii, anexa à Portaria n.º 699/2003, de 31 de Julho, na parte relativa aos certificados complementares de protecção, e após os itens respeitantes à «Manutenção de direitos», um novo item com a seguinte redacção:
+«Prorrogação por seis meses da validade de um certificado complementar de protecção relativo a medicamentos para uso pediátrico - (euro) 500»
+Artigo 3.º
+Entrada em vigor e produção de efeitos
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde 24 de Setembro de 2007.
+Em 19 de Setembro de 2007.
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Justiça, Alberto Bernardes Costa.
