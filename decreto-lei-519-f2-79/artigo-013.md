@@ -1,7 +1,3 @@
-## Secção IV
-
-## Postos de registo civil
-
 ## Secção V
 
 ## Cartórios notariais

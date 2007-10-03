@@ -1,9 +1,7 @@
 # Artigo 8.º
 
-1 - O primeiro registo referente aos veículos automóveis pode ser feito em qualquer conservatória do registo de automóveis.
+1 - Os actos relativos a veículos a motor e respectivos reboques podem ser efectuados e os respectivos meios de prova obtidos em qualquer conservatória do registo de veículos, independentemente da sua localização geográfica.
 
-2 - O registo a que se refere o número anterior determina a competência da conservatória para quaisquer actos posteriores referentes ao veículo.
+2 - A competência para a prática dos actos previstos no número anterior pode ser atribuída a qualquer conservatória de registos, através de despacho do presidente do Instituto dos Registos e do Notariado, I. P.
 
-3 - Para a prática de actos de registo referentes a veículos já registados continua a ser competente a conservatória onde foi efectuado o primeiro registo.
-
-4- Às conservatórias do registo de automóveis é aplicável o disposto no artigo anterior.
+3 - Às conservatórias do registo de veículos é aplicável o disposto no n.º 1 do artigo 7.º
