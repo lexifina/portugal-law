@@ -1,0 +1,53 @@
+# Acórdão do Supremo Tribunal de Justiça de 2007-10-04, processo 07P2435
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 07P2435
+
+**Nº Convencional:** JSTJ000
+
+**Relator:** COSTA MORTÁGUA
+
+**Descritores:** CRIME PRETERINTENCIONAL; FUNDAMENTO; DOLO; NEGLIGÊNCIA; OFENSA À INTEGRIDADE FÍSICA AGRAVADA PELO RESULTADO; OFENSA À INTEGRIDADE FÍSICA QUALIFICADA; PRINCÍPIO DA CULPA; VÍCIOS DA SENTENÇA; VÍCIOS DO ARTº 410 CPP; CONTRADIÇÃO INSANÁVEL; HOMICÍDIO; ERRO DE JULGAMENTO; QUALIFICAÇÃO JURÍDICA; COMPETÊNCIA DO SUPREMO TRIBUNAL DE JUSTIÇA; REENVIO DO PROCESSO
+
+**Nº do Documento:** SJ200710040024355
+
+**Data do Acordão:** 10/04/2007
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO PENAL
+
+**Decisão:** REJEITADO PARCIALMENTE O RECURSO
+
+## Sumário
+
+I - A imputação do crime agravado pelo resultado parte da base de que o agente agiu com negligência na produção desse mesmo resultado.
+
+II - Essa exigência, que a doutrina e a jurisprudência faziam à sombra do art. 361.º, e seu § único, do Código de 1886, está claramente expressa no art. 18.º do actual CP, onde se afirma que a agravação é sempre condicionada pela possibilidade de imputação desse resultado ao agente pelo menos a título de negligência.
+
+III -No que respeita ao ilícito criminal do art. 145.º do CP, «a preterintenção constitui um misto de dolo e culpa. Dolo em relação à conduta e ao evento pretendido (lesão corporal); culpa, em relação ao resultado mais grave ocorrido» (Helena Fragoso, Lições de Direito Penal, Parte Especial, pág. 100).
+
+IV -«No tocante aos crimes contra a integridade física, o princípio da culpa (…) surge claramente afirmado na exigência, nos crimes preterintencionais, da imputação do resultado ao agente a título de negligência (arts. 145.° e 18.º – torna-se necessária, assim, a previsibilidade, para o agente, da consequência mais grave)» – MP – Coimbra, cf. Leal-Henriques/Simas Santos, Código Penal Anotado, II, pág. 267.
+
+V -Dando-se como:
+
+- provado que [o arguido] configurou como possível que ao atingir o filho no pescoço da forma descrita iria provocar-lhe perigo para a vida, como provocou, conformando-se com essa concreta possibilidade;
+
+- e como não provado que:
+
+- o arguido agiu com intenção de matar o filho, que tenha configurado esse resultado como consequência necessária da sua conduta ou que tenha considerado esse resultado como possível, conformando-se com essa concreta possibilidade;
+
+- o arguido agiu com intenção de provocar perigo para a vida do filho e que tenha configurado esse resultado (perigo para a vida) como consequência necessária da sua conduta; urge entender existir contradição entre a matéria de facto provada e não provada.
+
+VI -Dado como provado que o arguido configurou como possível que ao atingir o filho no pescoço lhe iria provocar perigo para a vida, como provocou, conformando-se com essa concreta possibilidade, sempre teria que prever que de tal actuação poderia resultar a morte, pois tal é uma consequência lógica e conforme às regras de experiência comum, o que está em insanável contradição com o dar como não provado que o arguido tenha agido da forma referida com intenção de matar o seu filho, que tenha configurado esse resultado como consequência necessária da sua conduta, ou que tenha considerado esse resultado como possível, conformando-se com essa concreta possibilidade.
+
+VII - Isto é, tendo ficado provado que o arguido configurou como possível que ao atingir o filho no pescoço lhe iria provocar perigo para a vida, como provocou, conformando-se com essa concreta possibilidade (e, logicamente, com a possibilidade da morte da vítima), o crime cometido seria o de homicídio consumado com dolo eventual e não o preterintencional de ofensa à integridade física qualificada, pelo que teria havido erro de julgamento quanto à qualificação jurídica na decisão recorrida.
+
+VIII - Todavia, tal decisão, contraditoriamente, não deu como provado que o arguido tenha considerado o resultado morte da vítima como possível e se tenha conformado com essa concreta possibilidade, fazendo-o com a aparente intenção de afastar a qualificação jurídica dos factos como homicídio consumado com dolo eventual.
+
+IX -Deste modo, os factos provados apontam para uma solução jurídica, mas os não provados impedem tal solução, pelo que se torna inviável para este Supremo Tribunal decidir da causa, dados os seus limites de cognição, o que conduz inevitavelmente à existência do vício ínsito na al. b) do n.º 2 do art. 410.° do CPP: contradição insanável da fundamentação, termos em que, ao abrigo do disposto art. 426.°, n.º 1, do CPP, impõe-se ordenar o reenvio do processo para o tribunal a que alude o art. 426.º-A do mesmo diploma legal.
