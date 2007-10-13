@@ -10,4 +10,4 @@ b) Quando o requerente não aceite o projecto de decisão e as condições a que
 
 c) Quando o pedido não se mostre adequado à satisfação dos objectivos propostos pelo requerente;
 
-d) Quando o pedido não assegure a revelação e aproveitamento sustentáveis do recurso.
+d) Quando o pedido não assegure a revelação e aproveitamento sustentáveis do recurso, bem como quando não garanta a regularização topográfica no final da pesquisa.

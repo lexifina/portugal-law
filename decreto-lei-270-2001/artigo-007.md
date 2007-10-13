@@ -10,6 +10,8 @@ a) Se recusarem a explorá-la por sua conta ou não mostrem poder fazê-lo em co
 
 b) Neguem a concessão do consentimento para a sua exploração por outrem ou exijam condições inaceitáveis, de acordo com os critérios fixados no artigo 8.º
 
-3 - No caso de expropriação dos terrenos a favor de terceiros, deve o Ministro de Economia determinar a abertura de concurso para outorga do respectivo direito, salvo o disposto no número seguinte.
+3 - No caso de expropriação dos terrenos a favor de terceiros, deve o ministro que tutela a área da economia determinar a abertura de concurso para outorga do respectivo direito, salvo o disposto no número seguinte.
+
+4 - Cessa o previsto no número anterior sempre que se trate de um explorador licenciado já existente em área adjacente, devendo neste caso a expropriação ser operada a seu favor.
 
 4 - Cessa o previsto no número anterior sempre que se trate de um explorador licenciado já existente, devendo neste caso a expropriação ser operada a seu favor.

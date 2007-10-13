@@ -6,42 +6,58 @@
 
 2 - A caução será prestada por qualquer meio idóneo aceite em direito, nomeadamente através de garantia bancária, depósito ou seguro-caução, desde que garantam o pagamento imediato e incondicional de quaisquer quantias, até ao limite do valor da caução, que a entidade beneficiária, independentemente de decisão judicial, possa exigir quando considere haver incumprimento do PARP nos termos do número anterior.
 
-3 - O montante da caução será fixado pela DRAOT ou pelo ICN, em função das circunstâncias do caso concreto, atendendo, primordialmente, à estimativa actualizada do custo global do PARP, podendo ser exigida na totalidade ou, por opção do beneficiário, parcialmente, tendo em conta, nomeadamente, o tipo e ritmo de avanço da exploração, a simultaneidade dos trabalhos de fecho e recuperação e, bem assim, a existência e solidez de outras formas de segurar a realização destes trabalhos.
+3 - Sem prejuízo do previsto no número seguinte e após a aprovação do PARP, o montante da caução será calculado mediante a aplicação de uma das fórmulas de cálculo prevista no n.º 5 e entregue à entidade competente que o aprovou.
 
-4 - Consoante o tipo de massa mineral em exploração e as particularidades do PARP, o valor da caução pode ser fixado tendo como referencial um dos seguintes métodos:
+4 - Caso a empresa não disponibilize a informação necessária para o seu cálculo, a caução é exigida pela entidade licenciadora na sua totalidade, tendo por base o método previsto na alínea c) do número seguinte.
 
-a) x = (C x A)/D - F, em que:
+5 - Consoante o tipo de massa mineral em exploração, as particularidades do PARP e a tipologia da pedreira, o valor da caução será encontrado tendo como base um dos métodos abaixo indicados, sendo que para as pedreiras de classe 4 o método a adoptar será sempre o previsto na alínea c):
 
-x = valor da caução;
+a):
 
-C = custo actualizado total estimado para a implementação do PARP;
+X = Ctrec - (Ctrec: Atl) x (Avg + Arec)
 
-A = área total explorada (no ano anterior ou no período definido);
+em que:
 
-D = área total licenciada;
+X = valor da caução;
 
-F = valor despendido com a recuperação;
+Ctrec = custo total do projecto aprovado para a execução do PARP;
 
-ou x = (C x V)/D - F, em que:
+Avg = área licenciada, em metros quadrados, não mexida à data do cumprimento do respectivo programa trienal;
 
-x = valor da caução;
+Atl = área total, em metros quadrados, licenciada;
 
-C = custo actualizado total estimado para execução do PARP;
+Arec = área explorada, em metros quadrados, já recuperada;
 
-V = volume total extraído (no ano anterior ou no período definido);
+b):
 
-D = volume total da extracção;
+X = Ctrec - (Ctrec: Vtex) x (Vtex - Vex)
 
-F = valor despendido com a recuperação;
+em que:
 
-b) x = c x t,em que:
+X = valor da caução;
 
-x = valor da caução;
+Ctrec = custo total do projecto aprovado para a execução do PARP;
 
-c = estimativa do custo unitário actualizado de recuperação de uma unidade de área;
+Vtex = volume total previsto no plano de lavra para exploração;
 
-t = área a recuperar em período de tempo determinado (sujeito a posterior reajustamento em função da performance verificada no período antecedente e perspectivas de desenvolvimento futuro).
+Vex = volume já explorado;
 
-5 - A caução pode ser parcialmente liberada, a pedido do titular da licença fundado no grau de cumprimento do PARP, ou o valor da mesma reforçado, por imposição da entidade beneficiária, na medida em que se verifiquem alterações ao PARP ou na proporção do incumprimento deste.
+c):
 
-6 - Sempre que por conta da caução constituída for efectuado algum pagamento devido, o explorador deve repor o seu valor inicial, no prazo de 60 dias, após notificação da entidade licenciadora ou da beneficiária da caução.
+X = C x (Atl - Arec)
+
+em que:
+
+X = valor da caução;
+
+C = estimativa do custo unitário actualizado de recuperação de uma unidade de área;
+
+Atl = área total, em metros quadrados, licenciada;
+
+Arec = área explorada, em metros quadrados, já recuperada.
+
+6 - Trienalmente, a caução pode ser parcialmente liberada, a pedido do titular da licença com fundamento no grau de cumprimento do PARP, ou reforçado o seu valor, por imposição da entidade beneficiária, na medida em que se verifiquem alterações ao PARP ou na proporção do incumprimento deste, o que será verificado na respectiva vistoria.
+
+7 - Sempre que por conta da caução constituída for efectuado algum pagamento devido, o explorador deve repor o seu valor inicial, no prazo de 90 dias, após notificação da entidade licenciadora ou da beneficiária da caução.
+
+8 - Quando da aplicação imediata dos métodos referidos no n.º 5 o valor apurado exceda (euro) 250 000, é concedido ao explorador um prazo de três anos para a prestação do valor remanescente e integral da caução.

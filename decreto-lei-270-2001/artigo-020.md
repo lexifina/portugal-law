@@ -6,7 +6,7 @@
 
 ### Do pedido de licença de pesquisa
 
-1 - O requerente de uma licença de pesquisa deve apresentar, em quadriplicado, à entidade licenciadora os seguintes documentos:
+1 - O requerente de uma licença de pesquisa deve apresentar à entidade licenciadora, em duplicado e igualmente em suporte digital, os seguintes documentos:
 
 a) Certidão de parecer favorável de localização referida no artigo 9.º deste diploma;
 
@@ -14,7 +14,7 @@ b) Título comprovativo da propriedade do prédio ou certidão do contrato de pe
 
 c) Requerimento que contenha a identificação completa do requerente e seu endereço, indicação das substâncias que pretende ver abrangidas pela licença, localização da área pretendida e seus limites em coordenadas rectangulares planas, do sistema Hayford-Gauss, referidas ao ponto central;
 
-d) Programa de trabalhos de pesquisa indicando os estudos e trabalhos a desenvolver, sua fundamentação, técnicas a utilizar, plantas e cortes detalhados dos trabalhos de campo projectados e da situação pós-operacional, identificando a solução de recuperação final das zonas alvo de trabalhos;
+d) Programa de trabalhos de pesquisa indicando os estudos e trabalhos a desenvolver, sua fundamentação, técnicas a utilizar, plantas e cortes detalhados dos trabalhos de campo projectados e da situação pós-operacional, identificando a solução de recuperação topográfica das zonas alvo de trabalhos;
 
 e) Planta de localização à escala de 1:25000 com a implantação dos limites da área de pesquisa;
 

@@ -6,8 +6,8 @@
 
 2 - Para emissão do parecer da DRE deve o explorador juntar ao processo requerimento dirigido ao director regional de economia.
 
-3 - Nos casos em que haja lugar à utilização de explosivos, a fiscalização poderá impor ao explorador, sempre que julgue necessário, o preenchimento dos modelos de registo de rebentamentos, a fim de se poder proceder à avaliação dos efeitos provocados.
+3 - Nos casos em que haja lugar à utilização de explosivos, na fiscalização pode ser imposto ao explorador, sempre que se julgue necessário, o preenchimento dos modelos de registo de aplicação de explosivos, a fim de se poder proceder à avaliação dos efeitos provocados.
 
-4 - Independentemente do parecer favorável para utilização de explosivos, a DRE, por motivos fundamentados de ordem técnica ou de segurança, poderá condicionar o uso dos explosivos e, em casos devidamente justificados, impor procedimentos alternativos.
+4 - Independentemente do parecer favorável para utilização de explosivos, a DRE, por motivos fundamentados de ordem técnica ou de segurança, pode condicionar ou suspender temporariamente o uso dos explosivos e, em casos devidamente justificados, impor a adopção de procedimentos alternativos.
 
 5 - No emprego de pólvora e explosivos deve observar-se o disposto na legislação e normas técnicas em vigor.

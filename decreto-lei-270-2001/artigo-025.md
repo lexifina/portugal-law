@@ -10,4 +10,4 @@ b) Por renúncia, se o respectivo titular comunicar à entidade licenciadora a s
 
 c) Por revogação da entidade licenciadora, se o titular não observar a presente lei ou os termos e condições da licença.
 
-2 - A cessação da licença deve ser comunicada, de imediato, ao IGM, para efeitos de cadastro.
+2 - A cessação da licença deve ser comunicada, de imediato, à DGEG, para efeitos de cadastro.

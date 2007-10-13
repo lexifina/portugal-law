@@ -2,6 +2,6 @@
 
 ### Taxas
 
-1 - Pela prática de actos previstos no presente diploma é devido o pagamento de taxas, de montante a fixar por portaria conjunta dos Ministérios da Economia e do Ambiente e do Ordenamento do Território.
+1 - Pela prática dos actos previstos no presente decreto-lei é devido o pagamento de taxas, de montante a fixar por portaria dos membros do Governo responsáveis pelas áreas do ambiente e da economia ou por regulamento municipal, consoante o caso.
 
-2 - Do pagamento das taxas referidas no número anterior serão emitidas guias pela entidade licenciadora, devendo as respectivas importâncias ser depositadas nos cofres do Tesouro e imputadas à entidade emitente do respectivo acto.
+2 - O pagamento das taxas referidas no número anterior é efectuado através de transferência para conta bancária aberta para o efeito junto do Tesouro e imputadas à entidade ou entidades envolvidas nos actos previstos no presente diploma.
