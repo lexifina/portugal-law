@@ -1,0 +1,3 @@
+Aviso n.º 19 839/2007
+Carlos dos Ramos Andrade, presidente da Junta de Freguesia de Serra de Água, concelho de Ribeira Brava, Região Autónoma da Madeira, torna público, nos termos do artigo 91.º da Lei n.º 169/99, de 18 de Setembro, alterada pela Lei n.º 5-A/2002, de 11 de Janeiro, e para cumprimento do estipulado no n.º 1 do artigo 118.º do Código do Procedimento Administrativo, que se encontra afixado, para apreciação pública, durante 30 dias, na sede da Junta de Freguesia de Serra de Água, à Rua do Dr. Jordão Faria Paulino, 12, o projecto de regulamento de liquidação e cobrança de taxas e licenças desta freguesia.
+31 de Julho de 2007. - O Presidente, Carlos dos Ramos Andrade.
