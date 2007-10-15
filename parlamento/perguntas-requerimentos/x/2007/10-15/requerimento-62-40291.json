@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "40291",
+  "tipo": "Requerimento",
+  "numero": "62",
+  "data_registo": "2007-10-15",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Transporte de Doentes no Distrito de Leiria",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1923",
+        "nome": "Teresa Vasconcelos Caeiro"
+      }
+    ],
+    "DataEnvio": "2007-10-16",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2007-10-16",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  SAÚDE",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2008-03-11",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  SAÚDE",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544338324f47466b5a546331595330774d4467354c545268595749744f57466d4e7930345a544a6a4f5463774f5451774e7a45756347526d&fich=68ade75a-0089-4aab-9af7-8e2c97094071.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2007-10-15",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544339694d6d5178595749785a4331694e325a6d4c5451795a444574596a413259793032597a59354e6a63354e44457a4e6a6b756347526d&fich=b2d1ab1d-b7ff-42d1-b06c-6c6967941369.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "40291",
+    "Legislatura": "X",
+    "Nr": "62",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "413657",
+        "obs": null,
+        "pag": [
+          "31-33"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007",
+        "pubLeg": "X",
+        "pubNr": "12",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/012/2007-10-23/31?pgs=31-33&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
