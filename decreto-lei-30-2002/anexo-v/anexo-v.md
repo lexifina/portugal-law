@@ -10,11 +10,9 @@ A) Sistema de numeração do certificado de homologação
 
 1 - O número de homologação compõe-se de:
 
-Quatro secções para as homologações de veículos; e
+Quatro secções para as homologações de veículos, e cinco secções para as homologações de sistemas, componentes e unidades técnicas, de acordo com as disposições a seguir. Em todos os casos, as secções devem ser separadas por um asterisco '*':
 
-Cinco secções para as homologações de sistemas, componentes e unidades técnicas, de acordo com as disposições a seguir. Em todos os casos, as secções devem ser separadas por um asterisco '*'
-
-Secção 1: a letra minúscula 'e' seguida do código (número) do Estado membro que emite a homologação: 1 para a Alemanha; 2 para a França; 3 para a Itália; 4 para os Países Baixos; 5 para a Suécia; 6 para a Bélgica; 9 para a Espanha; 11 para o Reino Unido; 12 para a Áustria; 13 para o Luxemburgo; 17 para a Finlândia; 18 para a Dinamarca; 21 para Portugal; 23 para a Grécia; 24 para a Irlanda;
+Secção 1: a letra minúscula 'e' seguida do código (número) do Estado membro que emite a homologação: 1 para a Alemanha; 2 para a França; 3 para a Itália; 4 para os Países Baixos; 5 para a Suécia; 6 para a Bélgica; 9 para a Espanha; 11 para o Reino Unido; 12 para a Áustria; 13 para o Luxemburgo; 17 para a Finlândia; 18 para a Dinamarca; 21 para Portugal; 23 para a Grécia; 24 para a Irlanda; 49 para Chipre e 50 para Malta.2 para a França; 3 para a Itália; 4 para os Países Baixos; 5 para a Suécia; 6 para a Bélgica; 9 para a Espanha; 11 para o Reino Unido; 12 para a Áustria; 13 para o Luxemburgo; 17 para a Finlândia; 18 para a Dinamarca; 21 para Portugal; 23 para a Grécia; 24 para a Irlanda;
 
 Secção 2: o número da directiva de base;
 
@@ -100,7 +98,9 @@ B) Marca de homologação
 
 24 para a Irlanda;
 
-1.2 - O número de quatro algarismos da secção 4 do número de homologação, que consta do certificado de homologação emitido para a unidade técnica ou para o componente em questão. O número é colocado por baixo e na proximidade do rectângulo referido no n.º 1.1. Os algarismos que compõem o número são colocados do mesmo lado da letra 'e' e no mesmo sentido. Para evitar confusões com outros símbolos, não se podem utilizar algarismos romanos no número de homologação.
+49 para Chipre;
+
+50 para Malta.
 
 2 - A marca de homologação deve ser aposta na unidade técnica ou no componente de modo indelével e bem legível, mesmo que a unidade técnica ou componente esteja instalado no veículo.
 
