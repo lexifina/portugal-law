@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2007-10-18, processo 0715/07
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0715/07
+
+**Data do Acordão:** 10/18/2007
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** RUI BOTELHO
+
+**Descritores:** RECURSO PARA UNIFORMIZAÇÃO DE JURISPRUDÊNCIA; PLURALIDADE DE FUNDAMENTOS; OPOSIÇÃO
+
+**Nº Convencional:** JSTA0008366
+
+**Nº do Documento:** SAP200710180715
+
+**Recorrente:** MUNICÍPIO DE SANTA CRUZ
+
+**Recorrido 1:** A...
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I – De acordo com o preceituado no art.º 152 do CPTA, os requisitos de admissibilidade do recurso para uniformização de jurisprudência são os seguintes: a) que exista contradição entre acórdão do TCA e outro acórdão anterior, do mesmo TCA ou do STA ou entre acórdãos do STA; b) que essa contradição recaia sobre a mesma questão fundamental de direito; c) que se tenha verificado o trânsito em julgado do acórdão impugnado e do acórdão fundamento; d) que haja desconformidade da orientação perfilhada no acórdão impugnado com a jurisprudência mais recentemente consolidada no STA. Por outro lado, mantêm-se os princípios que vinham da jurisprudência anterior (da LPTA) segundo os quais (i) para cada questão relativamente à qual se pretenda ocorrer oposição deve o recorrente eleger um e só um acórdão fundamento; (ii) só é figurável a oposição em relação a decisões expressas e não a julgamentos implícitos; (iii) é pressuposto da oposição de julgados que as soluções jurídicas perfilhadas em ambos os acórdãos - recorrido e fundamento - respeitem à mesma questão fundamental de direito, devendo igualmente pressupor a mesma situação fáctica; (iv) só releva a oposição entre decisões e não entre a decisão de um e os fundamentos ou argumentos de outro.
+
+II – A oposição de julgados tem, pois, como pressuposto básico a identidade da questão fundamental de direito resolvida, em sentido oposto, nos dois acórdãos em confronto.
+
+III – A pluralidade de fundamentos autónomos de uma decisão equivale a uma pluralidade de proposições decisórias convergentes para o mesmo resultado.
+
+IV – Em princípio, qualquer recurso - mesmo o de uniformização de jurisprudência - só poderá ter êxito se acometer todos os fundamentos jurídicos que imediata e autonomamente sustentem a decisão criticada, constituindo um seu antecedente lógico necessário.
+
+V – Assim, se a solução jurídica dada pelo acórdão recorrido radicar numa pluralidade de razões autonomamente causais da decisão, o(s) acórdão(s) fundamento não se lhe oporá(ão) eficazmente se, ao dirimir a(s) questão(ões) de que se ocupara(m), não se tiver(em), também, pronunciado sobre todas essas razões.
+
+VI – Constatando-se que o acórdão recorrido manteve na ordem jurídica uma decisão judicial com base em quatro fundamentos, não se lhe opõe validamente a alegação do recorrente, que, atacando convenientemente (em termos formais) apenas um deles deixou inatacados os outros, permitindo que a decisão nele contida se consolidasse na ordem jurídica (art.ºs 143, n.º 1, do CPTA e 671, n.º 1, do CPC).
+
+VII – Como se lhe não opunha o acórdão fundamento que apenas se pronunciasse sobre um desses fundamentos.
