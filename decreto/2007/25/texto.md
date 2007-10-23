@@ -1,0 +1,51 @@
+Decreto n.º 25/2007
+de 22 de Outubro
+A rede ferroviária de alta velocidade constitui um empreendimento público de excepcional interesse nacional e dimensão ibérica e europeia, tendo por objectivo a reformulação do sector ferroviário, enquanto meio privilegiado de reforço do aumento da produtividade e competitividade do tecido empresarial instalado em Portugal e satisfação das necessidades de mobilidade das populações.
+Trata-se, portanto, de um projecto de investimento estruturante, que contribui para o crescimento do produto interno bruto e induz a criação de emprego sustentado, factor decisivo da coesão social do País.
+Tal foi expressamente reconhecido pela Lei n.º 52/2005, de 31 de Agosto, que aprovou as Grandes Opções do Plano para 2005-2009, e definiu, entre os eixos de intervenção centrais ao prosseguimento de uma estratégia de desenvolvimento sustentável, o de uma política de transportes, comunicações e obras públicas que assegure condições de mobilidade e de comunicação adequadas, no contexto nacional, ibérico e europeu.
+Concretizando-o, a Resolução do Conselho de Ministros n.º 183/2005, de 28 de Novembro, que aprovou o Programa Nacional de Acção para o Crescimento e o Emprego 2005-2008, assumiu como medida n.º 7, a «Implementação de uma rede ferroviária de alta velocidade».
+Torna-se, portanto, absolutamente necessário, face ao risco real da ocorrência de alterações do uso do território bem como da emissão de licenças ou autorizações que contendam com os estudos já realizados e que possam comprometer a concretização da ligação Lisboa-Madrid da rede ferroviária de alta velocidade, ou torná-la mais difícil e onerosa, estabelecer medidas preventivas que acautelem a necessidade de programação e a possibilidade de execução do empreendimento público acima referido.
+Com efeito, tratando-se de uma infra-estrutura de reconhecido interesse público nacional, os prejuízos resultantes da prática dos actos acima referidos são social e economicamente mais relevantes que os danos que das medidas preventivas ora estabelecidas poderão eventualmente resultar para os particulares.
+Assim:
+Ao abrigo do disposto no n.º 1 do artigo 7.º do Decreto-Lei n.º 794/76, de 5 de Novembro, e nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Medidas preventivas
+1 - A área delimitada nas plantas anexas ao presente decreto, que dele fazem parte integrante, fica sujeita a medidas preventivas destinadas a evitar a alteração das circunstâncias e condições existentes nas zonas identificadas, com vista a garantir a manutenção da margem de programação necessária à definição e execução da ligação ferroviária de alta velocidade no eixo Lisboa-Madrid.
+2 - As medidas preventivas referidas no número anterior consistem na sujeição a parecer prévio vinculativo da Rede Ferroviária Nacional, REFER, E. P. (REFER, E. P.) dos seguintes actos e actividades:
+a) Criação de novos núcleos populacionais, incluindo operações de loteamento;
+b) Construção, ampliação, reconstrução de edifícios ou outras instalações;
+c) Instalação de explorações ou ampliação das já existentes;
+d) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;
+e) Derrube de árvores em maciço, com qualquer área;
+f) Destruição do solo vivo e do coberto vegetal.
+3 - O pedido de parecer é apresentado à REFER, E. P., directamente pelo interessado ou por intermédio da entidade a quem se encontram atribuídos os poderes para licenciar ou autorizar o acto ou actividade em causa.
+4 - O prazo para a emissão do parecer é de 20 dias úteis a contar da data do pedido ou da solicitação de elementos complementares, caso ocorra.
+5 - São nulos os actos administrativos que decidam pedidos de emissão de licença ou autorização relativamente a actos ou actividades abrangidos pelas presentes medidas preventivas, quando não solicitados ou não respeitados os pareceres da REFER, E. P.
+6 - O prazo de vigência das medidas preventivas é de dois anos, prorrogável, se necessário, por mais um, nos termos da lei.
+Artigo 2.º
+Traçados preliminares da ligação Lisboa-Madrid
+1 - Para efeitos do presente decreto, os traçados preliminares da ligação Lisboa-Madrid da rede ferroviária de alta velocidade são os que constam das plantas a que se refere o n.º 1 do artigo anterior.
+2 - Ficam depositados na REFER, E. P., nas Comissões de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo e do Alentejo, bem como nos municípios abrangidos, os elementos cartográficos que permitem a identificação das áreas delimitadas nos termos do número anterior, incluindo o respectivo levantamento aerofotogramétrico do território.
+Artigo 3.º
+Elaboração, alteração ou revisão de instrumentos
+de gestão territorial
+O empreendimento público programado que as presentes medidas preventivas visam salvaguardar deve desde já ser tido em consideração na elaboração, alteração ou revisão de todos os instrumentos de gestão territorial com incidência na área delimitada nas plantas anexas ao presente decreto, que dele fazem parte integrante.
+Artigo 4.º
+Fiscalização
+1 - As obras e os trabalhos efectuados com omissão de pedido ou com inobservância dos pareceres referidos no n.º 2 do artigo 1.º podem ser embargados e demolidos, bem como reposta a situação anterior, incluindo a configuração do terreno, sem direito a qualquer indemnização, imputando-se os respectivos encargos ao responsável.
+2 - A competência para a fiscalização do disposto neste diploma cabe à REFER, E. P., à comissão de coordenação e desenvolvimento regional territorialmente competente, bem como à entidade a quem se encontram atribuídos os poderes para conceder a licença ou a autorização relativas aos actos ou actividades em causa.
+3 - Sem prejuízo dos poderes de tutela da legalidade urbanística legalmente atribuídos ao presidente da câmara, a competência para ordenar o embargo, a demolição ou reposição da configuração do terreno cabe à REFER, E. P., e à comissão de coordenação e desenvolvimento regional competente, podendo cada uma das referidas entidades exercê-la isoladamente.
+Artigo 5.º
+Publicidade
+Aos municípios abrangidos pela área definida nas plantas mencionadas no artigo 1.º compete dar publicidade à adopção das medidas previstas no presente diploma, por editais a afixar nas sedes dos municípios e das juntas de freguesia a que respeitem as áreas abrangidas e por meio de anúncio publicado em jornal da imprensa regional ou local escolhido de entre os de maior circulação da zona onde se situam as áreas abrangidas.
+Artigo 6.º
+Entrada em vigor
+O presente decreto entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 28 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
+Assinado em 3 de Outubro de 2007.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendado em 4 de Outubro de 2007.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+(ver documento original)
