@@ -1,0 +1,9 @@
+Aviso n.º 378/2007
+Por ordem superior se torna público que, pela nota n.º 13 743, de 1 de Outubro de 2007, o Secretariado-Geral do Conselho da União Europeia notificou ter a República de Malta concluído em 13 de Julho de 2007 as formalidades previstas nas respectivas normas constitucionais para a adopção da Convenção fundamentada no artigo K.3 do Tratado da União Europeia, sobre a Utilização da Informática no Domínio Aduaneiro, assinada em Bruxelas em 26 de Julho de 1995.
+Na data da respectiva notificação, a República de Malta formulou a seguinte declaração:
+«Conformément à l'article 17 de la Convention établie sur la base de l'article K.3 du traité sur l'Union européenne, sur l'emploi de l'informatique dans le domaine des douanes (convention SID), Malte désigne le commissaire à la protection des données en tant qu'autorité de contrôle nationale chargée de la protection des données à caractère personnel, afin qu'elle contrôle indépendamment les données de ce type introduites dans le SID.»
+Tradução
+Nos termos do artigo 17.º da Convenção fundamentada no artigo K.3 do Tratado da União Europeia sobre a Utilização da Informática no Domínio Aduaneiro (convenção SIA), Malta designa como autoridade nacional de controlo, responsável pela protecção de dados de carácter pessoal, o comissário para a protecção de dados, a fim de com isenção controlar os dados deste tipo introduzidos no SIA.
+Portugal é Parte nesta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 32/99 e ratificada pelo Decreto do Presidente da República n.º 129/99, ambos publicados no Diário da República, 1.ª série-A, n.º 93, de 21 de Abril de 1999. A Convenção está em vigor em Portugal desde 25 de Dezembro de 2005.
+Nos termos do artigo 25.º, a Convenção está em vigor na República de Malta em 11 de Outubro de 2007.
+Direcção-Geral dos Assuntos Europeus, 16 de Outubro de 2007. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
