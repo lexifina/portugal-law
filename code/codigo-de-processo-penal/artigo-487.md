@@ -1,6 +1,6 @@
 ## Capítulo III
 
-## Da execução da prisão por dias livres e em regime de semidetenção
+## Da execução da prisão por dias livres e em regime de semidetenção ou de permanência na habitação
 
 # Artigo 487.º
 
