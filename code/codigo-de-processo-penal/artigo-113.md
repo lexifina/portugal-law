@@ -32,7 +32,7 @@ d) Não for possível, pela ausência de pessoa ou por outro qualquer motivo, pr
 
 7 - Valem como notificação, salvo nos casos em que a lei exigir forma diferente, as convocações e comunicações feitas:
 
-a) Por autoridade judiciária ou de polícia criminal aos interessados presentes em acto processual por ela presidida, desde que documentados no auto;
+a) Por autoridade judiciária ou de polícia criminal aos interessados presentes em acto processual por ela presidido, desde que documentados no auto;
 
 b) Por via telefónica em caso de urgência, se respeitarem os requisitos constantes do n.º 2 do artigo anterior e se, além disso, no telefonema se avisar o notificando de que a convocação ou comunicação vale como notificação e ao telefonema se seguir confirmação telegráfica, por telex ou por telecópia.
 

@@ -2,7 +2,7 @@
 
 ### (Registo e transcrição)
 
-1 - O funcionário referido no n.º 1 do artigo anterior pode redigir o auto utilizando meios estenográficos, estenotípicos ou outros diferentes da escrita comum, bem como socorrer-se de gravação magnetofónica ou áudio-visual.
+1 - O funcionário referido no n.º 1 do artigo anterior pode redigir o auto utilizando meios estenográficos, estenotípicos ou outros diferentes da escrita comum, bem como socorrer-se de gravação magnetofónica ou audiovisual.
 
 2 - Quando forem utilizados meios estenográficos, estenotípicos ou outros diferentes da escrita comum, o funcionário que deles se tiver socorrido faz a transcrição no prazo mais curto possível, devendo a entidade que presidiu ao acto certificar-se da conformidade da transcrição, antes da assinatura.
 

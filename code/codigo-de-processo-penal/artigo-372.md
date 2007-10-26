@@ -2,7 +2,7 @@
 
 ### (Elaboração e assinatura da sentença)
 
-1 - Concluída a deliberação e votação, o presidente, ou, se este ficar vencido, o juiz mais antigo dos que fizerem vencimento, elaboram a sentença de acordo com as posições que tiverem feito vencimento.
+1 - Concluída a deliberação e votação, o presidente ou, se este ficar vencido, o juiz mais antigo dos que fizerem vencimento, elaboram a sentença de acordo com as posições que tiverem feito vencimento.
 
 2 - Em seguida, a sentença é assinada por todos os juízes e pelos jurados e, se algum dos juízes assinar vencido, declara com precisão os motivos do seu voto.
 

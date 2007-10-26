@@ -14,4 +14,4 @@ d) Houver declaração de contumácia, ou o julgamento decorrer na ausência de 
 
 2 - A requerimento de algum ou alguns dos arguidos, o tribunal pode ainda tomar a providência referida no número anterior quando outro ou outros dos arguidos tiverem requerido a intervenção do júri.
 
-3 - O requerimento referido no princípio do número anterior tem lugar nos oito dias posteriores à notificação do despacho que tiver admitido a intervenção do júri.
+3 - O requerimento referido na primeira parte do número anterior tem lugar nos oito dias posteriores à notificação do despacho que tiver admitido a intervenção do júri.

@@ -1,8 +1,8 @@
 # Artigo 93.º
 
-### Participação de surdo, deficiente auditivo ou de mudo
+### Participação de surdo, de deficiente auditivo ou de mudo
 
-1 - Quando um surdo, deficiente auditivo ou um mudo devam prestar declarações, observam-se as seguintes regras:
+1 - Quando um surdo, um deficiente auditivo ou um mudo devam prestar declarações, observam-se as seguintes regras:
 
 a) Ao surdo ou deficiente auditivo é nomeado intérprete idóneo de língua gestual, leitura labial ou expressão escrita, conforme mais adequado à situação do interessado;
 

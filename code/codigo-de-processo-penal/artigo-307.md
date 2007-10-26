@@ -10,4 +10,4 @@
 
 4 - A circunstância de ter sido requerida apenas por um dos arguidos não prejudica o dever de o juiz retirar da instrução as consequências legalmente impostas a todos os arguidos.
 
-5 - À notificação do lesado que tiver manifestado o propósito de deduzir pedido de indemnização civil, quando não for assistente, bem como, no caso previsto no n.º 4, à notificação de pessoas não presentes é correspondentemente aplicável o disposto no artigo 283.º, n.º 5.
+5 - À notificação do lesado que tiver manifestado o propósito de deduzir pedido de indemnização civil, quando não for assistente, bem como, no caso previsto no n.º 4, à notificação de pessoas não presentes é correspondentemente aplicável o disposto no n.º 5 do artigo 283.º.

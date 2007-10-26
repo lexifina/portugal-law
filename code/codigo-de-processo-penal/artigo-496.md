@@ -1,6 +1,6 @@
 ## Capítulo III
 
-## Da execução da prisão por dias livres e em regime de semidetenção ou de permanência na habitação
+## Da execução da prestação de trabalho a favor da comunidade e da admoestação
 
 # Artigo 496.º
 

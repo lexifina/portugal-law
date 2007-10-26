@@ -10,7 +10,7 @@
 
 a) Relatório dos serviços técnicos prisionais sobre a execução da pena e o comportamento prisional do recluso;
 
-b) Parecer fundamentado sobre a concessão de liberdade condicional, elaborado pelo director de estabelecimento.
+b) Parecer fundamentado sobre a concessão de liberdade condicional, elaborado pelo director do estabelecimento.
 
 2 - Até quatro meses antes da data admissível para a libertação condicional do condenado ou para efeitos da concessão do período de adaptação à liberdade condicional em regime de permanência na habitação, com fiscalização por meios técnicos de controlo à distância, o Tribunal de Execução das Penas solicita aos serviços de reinserção social:
 

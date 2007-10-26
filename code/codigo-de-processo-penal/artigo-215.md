@@ -14,7 +14,7 @@ d) Um ano e seis meses sem que tenha havido condenação com trânsito em julgad
 
 2 - Os prazos referidos no número anterior são elevados, respectivamente, para 6 meses, 10 meses, 1 ano e 6 meses e 2 anos, em casos de terrorismo, criminalidade violenta ou altamente organizada, ou quando se proceder por crime punível com pena de prisão de máximo superior a 8 anos, ou por crime:
 
-a) Previsto nos artigos 299.º, 312.º, n.º 1, 315.º, n.º 2, 318.º, n.º 1, 319.º, 326.º, 331.º ou 333.º, n.º 1, do Código Penal;
+a) Previsto no artigo 299.º, no n.º 1 do artigo 318.º, nos artigos 319.º, 326.º, 331.º ou no n.º 1 do artigo 333.º do Código Penal e nos artigos 30.º, 79.º e 80.º do Código de Justiça Militar, aprovado pela Lei n.º 100/2003, de 15 de Novembro
 
 b) De furto de veículos ou de falsificação de documentos a eles respeitantes ou de elementos identificadores de veículos;
 

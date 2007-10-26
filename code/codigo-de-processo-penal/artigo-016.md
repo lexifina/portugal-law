@@ -6,7 +6,7 @@
 
 2 - Compete também ao tribunal singular, em matéria penal, julgar os processos que respeitarem a crimes:
 
-a) Previstos no capítulo II do título V do livro II do Código Penal;
+a) Previstos no capítulo II do título V do livro II do Código Penal; ou
 
 b) Cuja pena máxima, abstractamente aplicável, seja igual ou inferior a cinco anos de prisão.
 

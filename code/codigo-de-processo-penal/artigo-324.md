@@ -8,7 +8,7 @@
 
 a) Acatar as determinações relativas à disciplina da audiência;
 
-b) Comportar-se com compostura, mantendo-se em silêncio, de cabeça descoberta e sentados;
+b) Comportar-se com compostura, mantendo-se em silêncio, de cabeça descoberta e sentadas;
 
 c) Não transportar objectos perturbadores ou perigosos, nomeadamente armas, salvo, quanto a estas, tratando-se de entidades encarregadas da segurança do tribunal;
 

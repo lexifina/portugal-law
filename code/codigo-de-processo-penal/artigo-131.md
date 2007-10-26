@@ -8,4 +8,4 @@
 
 3 - Tratando-se de depoimento de menor de 18 anos em crimes contra a liberdade e autodeterminação sexual de menores, pode ter lugar perícia sobre a personalidade.
 
-4 - As indagações, referidas nos números anteriores, ordenadas anteriormente ao depoimento não impedem que este se produza.
+4 - As indagações referidas nos números anteriores, ordenadas anteriormente ao depoimento, não impedem que este se produza.

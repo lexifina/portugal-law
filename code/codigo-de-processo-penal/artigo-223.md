@@ -20,4 +20,4 @@ d) Declarar ilegal a prisão e, se for caso disso, ordenar a libertação imedia
 
 5 - Tendo sido ordenadas averiguações, nos termos da alínea b) do número anterior, é o relatório apresentado à secção criminal, a fim de ser tomada a decisão que ao caso couber dentro do prazo de oito dias.
 
-6 - Se o Supremo Tribunal de Justiça julgar a petição de habeas corpus manifestamente infundada, condena o peticionante ao pagamento de uma soma entre seis e 30 UCs.
+6 - Se o Supremo Tribunal de Justiça julgar a petição de habeas corpus manifestamente infundada, condena o peticionante ao pagamento de uma soma entre 6 UC e 30 UC.

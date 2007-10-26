@@ -8,4 +8,4 @@ a) Os peritos sejam convocados para prestarem esclarecimentos complementares, de
 
 b) Seja realizada nova perícia ou renovada a perícia anterior a cargo de outro ou outros peritos.
 
-2 - Os peritos dos estabelecimentos, laboratórios ou serviços oficiais são ouvidos por teleconferência a partir do seu local de trabalho, sempre que tal seja tecnicamente possível, sendo tão-só necessária a notificação do dia e da hora a que se procederá a sua audição.
+2 - Os peritos dos estabelecimentos, laboratórios ou serviços oficiais são ouvidos por teleconferência a partir do seu local de trabalho, sempre que tal seja tecnicamente possível, sendo tão-só necessária a notificação do dia e da hora a que se procederá à sua audição.
