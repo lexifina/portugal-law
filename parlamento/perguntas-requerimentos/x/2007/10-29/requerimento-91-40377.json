@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "40377",
+  "tipo": "Requerimento",
+  "numero": "91",
+  "data_registo": "2007-10-29",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Investimentos em rodovias, no distrito de Bragança, no ano 2008",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "3",
+        "nome": "Adão Silva"
+      }
+    ],
+    "DataEnvio": "2007-10-30",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2007-10-30",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2007-12-18",
+            "docRemetida": null,
+            "entidade": "MIN.  DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e5454433878597a55775a6d59314d433077596a457a4c545133596a49744f4451354e4330794f44686c5a5467775a546b774e6a6b756347526d&fich=1c50ff50-0b13-47b2-8494-288ee80e9069.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2007-10-29",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544339694e6a646c4d4441314f5331695a5468694c5452684f545174596a59355a5330774d4442684e4755334f546b334e7a45756347526d&fich=b67e0059-be8b-4a94-b69e-000a4e799771.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "40377",
+    "Legislatura": "X",
+    "Nr": "91",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "415169",
+        "obs": null,
+        "pag": [
+          "24-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007",
+        "pubLeg": "X",
+        "pubNr": "19",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/019/2007-11-06/24?pgs=24&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
