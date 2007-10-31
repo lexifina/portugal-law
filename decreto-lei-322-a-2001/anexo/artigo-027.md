@@ -24,7 +24,9 @@
 
 1.1.3 - Por cada folha a mais, nos casos previstos nos n.os 1.1.2.1 a 1.1.2.3 acrescem respectivamente (euro) 0,50, (euro) 2,50 e (euro) 7,50.
 
-1.2 - O pedido a que se refere o n.º 1.1.2 pode substituir o modelo legal da requisição de certidão a que haja lugar, desde que dele constem os elementos nesta contidos. 1.3 - Se o pedido não for satisfeito por culpa dos serviços, o utente é reembolsado das quantias entregues.
+1.2 - O pedido a que se refere o n.º 1.1.2 pode substituir o modelo legal da requisição de certidão a que haja lugar, desde que dele constem os elementos nesta contidos.
+
+1.3 - Se o pedido não for satisfeito por culpa dos serviços, o utente é reembolsado das quantias entregues.
 
 2 - Processo de constituição de sociedades promovido e dinamizado pelo notário:
 
@@ -32,19 +34,21 @@
 
 2.2 - Do emolumento referido no n.º 2.1 pertencem dois terços ao cartório notarial e um terço à conservatória do registo comercial.
 
-3 - Regimes especiais de constituição imediata e de constituição on-line de sociedades:
+3 - Regimes especiais de constituição imediata de sociedades e associações e de constituição online de sociedades:
 
 3.1 - Pela prática dos actos compreendidos no regime especial de constituição imediata de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade - (euro) 360.
 
-3.2 - O emolumento previsto no número anterior tem um valor único e inclui o custo da publicação obrigatória do registo.
+3.2 - Pela prática dos actos compreendidos no regime especial de constituição imediata de associações - (euro) 170.
 
-3.3 - Do emolumento previsto no n.º 3.1, deduzido da taxa devida pela publicação a que se refere o n.º 3.2, pertencem dois terços à conservatória do registo comercial e um terço ao Registo Nacional de Pessoas Colectivas (RNPC).
+3.3 - Os emolumentos previstos nos números anteriores têm um valor único e o previsto no n.º 3.1 inclui o custo da publicação obrigatória.
 
-3.4 - Pela prática dos actos compreendidos no regime especial de constituição on-line de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou acto constitutivo de modelo aprovado - (euro) 360.
+3.4 - Do emolumento previsto no n.º 3.1, deduzido da taxa devida pela publicação a que se refere o n.º 3.3, pertencem dois terços à conservatória do registo comercial e um terço ao Registo Nacional de Pessoas Colectivas (RNPC).
 
-3.5 - No caso de constituição on-line de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou acto constitutivo elaborado pelos interessados - (euro) 380.
+3.5 - Pela prática dos actos compreendidos no regime especial de constituição on-line de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou acto constitutivo de modelo aprovado - (euro) 360.
 
-3.6 - Os emolumentos previstos nos n.os 3.4 e 3.5 têm um valor único e incluem o custo da publicação obrigatória do registo.
+3.6 - No caso de constituição on-line de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou acto constitutivo elaborado pelos interessados - (euro) 380.
+
+3.7 - Os emolumentos previstos nos n.os 3.5 e 3.6 têm um valor único e incluem o custo da publicação obrigatória do registo.
 
 4 - Impugnação das decisões:
 
@@ -58,9 +62,7 @@
 
 6 - Reconhecimentos e termos de autenticação:
 
-6.1 - Pelo reconhecimento de cada assinatura e de letra e assinatura - (euro) 8;
-
-6.2 - Pelo reconhecimento que contenha, a pedido dos interessados, menção de qualquer circunstância especial - (euro) 12,50;
+6.1 - Pelo reconhecimento de cada assinatura e de letra e assinatura - (euro) 8; 6.2 - Pelo reconhecimento que contenha, a pedido dos interessados, menção de qualquer circunstância especial - (euro) 12,50;
 
 6.3 - Por cada termo de autenticação com um só interveniente - (euro) 17,50;
 

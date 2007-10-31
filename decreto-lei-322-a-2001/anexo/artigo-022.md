@@ -12,9 +12,9 @@
 
 2.1 - Constituição de pessoas colectivas - (euro) 400;
 
-2.2 - (Revogado.)
+2.2 - (Revogado pelo Decreto-Lei n.º 8/2007, de 17 de Janeiro.)
 
-2.3 - (Revogado.)
+2.3 - (Revogado pelo Decreto-Lei n.º 8/2007, de 17 de Janeiro.)
 
 2.4 - Alterações ao contrato de sociedade (euro) 200;
 
@@ -80,25 +80,27 @@ Pela decisão do procedimento, incluindo o registo - (euro) 250.
 
 13.2 - Requisição e emissão de certidão ou fotocópia de actos de registo - (euro) 19,50;
 
-13.3 - Requisição e emissão de certidão ou fotocópia de documentos - (euro) 19,50;
+13.3 - Pela confirmação do conteúdo da certidão ou fotocópia - (euro) 10;
 
-13.4 - Pela confirmação do conteúdo da certidão ou fotocópia - (euro) 10;
+13.4 - Assinatura do serviço previsto no n.º 5 do artigo 75.º do Código do Registo Comercial:
 
-13.5 - Assinatura do serviço previsto no n.º 5 do artigo 75.º do Código do Registo Comercial:
+13.4.1 - Assinatura por um ano (euro) 19,5;
 
-13.5.1 - Assinatura por um ano (euro) 19,5;
+13.4.2 - Assinatura por dois anos (euro) 35;
 
-13.5.2 - Assinatura por dois anos (euro) 35;
+13.4.3 - Assinatura por três anos (euro) 49;
 
-13.5.3 - Assinatura por três anos (euro) 49;
+13.4.4 - Assinatura por quatro anos (euro) 59;
 
-13.5.4 - Assinatura por quatro anos (euro) 59;
+13.5 - Requisição e emissão de certidão ou fotocópia de documentos - (euro) 19,50;
 
-13.6 - Informação dada por escrito ... 11
+13.6. - Requisição e emissão de certidão ou fotocópia do acto constitutivo e dos estatutos de associação constituída ao abrigo do regime de constituição imediata de associações - (euro) 10.
 
-13.7 - Fotocópia não certificada, por cada página ... 0,50
+13.7 - Informação dada por escrito ... 11
 
-13.8 - O emolumento devido pelas certidões e fotocópias, quando cobrado no acto do pedido, é restituído no caso da recusa da sua emissão.
+13.8 - Fotocópia não certificada, por cada página ... 0,50
+
+13.9 - O emolumento devido pelas certidões e fotocópias, quando cobrado no acto do pedido, é restituído no caso da recusa da sua emissão.
 
 14 - Nomeação de auditores e de revisores oficiais de contas, por cada nomeação ... 120
 

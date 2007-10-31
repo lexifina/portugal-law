@@ -12,9 +12,15 @@
 
 2 - Certificados de admissibilidade de firma ou denominação e certificados negativos:
 
-2.1 - Emissão, renovação e segunda via do certificado ... 56
+2.1 - ...
 
-2.2 - Pela urgência na emissão, renovação e segunda via do certificado são acrescidos em 50% os respectivos emolumentos.
+2.2 - ...
+
+2.3 - Invalidação da emissão, renovação e segunda via do certificado - (euro) 8.
+
+2.4 - Desistência do pedido de emissão, renovação e segunda via do certificado - (euro) 6.
+
+2.5 - Recusa de emissão, renovação e segunda via do certificado - (euro) 8.
 
 3 - Inscrição no ficheiro central de pessoas colectivas ... 20
 
