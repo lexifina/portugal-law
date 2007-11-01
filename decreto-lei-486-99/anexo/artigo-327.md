@@ -2,6 +2,8 @@
 
 ### Forma
 
-1 - As ordens podem ser dadas oralmente ou por escrito, devendo no primeiro caso ser reduzidas a escrito pelo receptor ou fixadas por este em suporte fonográfico.
+1 - As ordens podem ser dadas oralmente ou por escrito.
 
-2 - Devem ser dadas por escrito as ordens de aceitação e de revogação em oferta pública.
+2 - As ordens dadas oralmente devem ser reduzidas a escrito pelo receptor e, se presenciais, subscritas pelo ordenador.
+
+3 - O intermediário financeiro pode substituir a redução a escrito das ordens pelo mapa de inserção das ofertas no sistema de negociação, desde que fique garantido o registo dos elementos mencionados no artigo 7.º do Regulamento (CE) n.º 1287/2006, da Comissão, de 10 de Agosto.

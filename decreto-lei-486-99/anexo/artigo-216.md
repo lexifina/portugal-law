@@ -1,11 +1,21 @@
 # Artigo 216.º
 
-### Admissão dos membros de mercado regulamentado
+### Regulamentação
 
-1 - A admissão como membro dos mercados regulamentados e a manutenção dessa qualidade dependem, além dos requisitos definidos no artigo 203.º, da observância das condições fixadas pela entidade gestora do mercado regulamentado, quanto à sua organização, aos meios materiais exigíveis e à idoneidade e aptidão profissional das pessoas que actuem em seu nome.
+1 - A CMVM elabora os regulamentos necessários à concretização do disposto no presente título, nomeadamente sobre as seguintes matérias:
 
-2 - A entidade gestora de um mercado regulamentado não pode limitar o número máximo dos seus membros.
+a) Processo de registo dos mercados regulamentados e sistemas de negociação multilateral e das regras aos mesmos subjacentes;
 
-3 - A qualidade de membro do mercado regulamentado não depende da titularidade de qualquer parcela do capital social da sociedade gestora.
+b) Processo de comunicação de regras que não imponham a verificação da sua legalidade, suficiência e adequação;
 
-4 - Os membros de um mercado regulamentado de outro Estado membro da Comunidade Europeia podem tornar-se membros dos mercados regulamentados situados ou a funcionar em Portugal ou a eles ter acesso, directa ou indirectamente, bem como ter acesso aos sistemas de liquidação acessíveis aos seus membros.
+c) Informações a prestar à CMVM pelas entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral;
+
+d) Informações a prestar ao público pelas entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral e pelos emitentes de valores mobiliários admitidos à negociação, designadamente quanto ao conteúdo da informação, aos meios e aos prazos em que deve ser prestada ou publicada;
+
+e) Divulgações obrigatórias no boletim do mercado regulamentado e do sistema de negociação multilateral.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - (Revogado).

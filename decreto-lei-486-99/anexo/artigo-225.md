@@ -1,7 +1,13 @@
 # Artigo 225.º
 
-### Cotação
+### Acesso remoto a mercados autorizados no estrangeiro
 
-1 - Sempre que na lei ou em contrato se refira a cotação numa certa data, considera-se como tal o preço de referência do mercado regulamentado a contado.
+1 - A disponibilização, em território nacional, de mecanismos adequados a facilitar o acesso e a negociação a mercado regulamentado autorizado noutro Estado membro da União Europeia, por membros remotos estabelecidos em Portugal, depende de comunicação à CMVM, pela autoridade competente do Estado em que o mercado regulamentado foi autorizado:
 
-2 - Se os valores mobiliários estiverem admitidos à negociação em mais de um mercado regulamentado, é tido em conta, para os efeitos do número anterior, o preço efectuado no mercado regulamentado situado ou a funcionar em Portugal que em regulamento da CMVM seja considerado mais representativo.
+a) Da intenção da entidade gestora disponibilizar esses mecanismos em Portugal; e
+
+b) Da identidade dos membros desse mercado que se encontrem estabelecidos em Portugal, a pedido da CMVM.
+
+2 - A CMVM pode autorizar a disponibilização, em território nacional, de mecanismos adequados a facilitar o acesso e a negociação a mercado autorizado em Estado que não seja membro da União Europeia desde que aqueles se encontrem sujeitos a requisitos legais e de supervisão equivalentes.
+
+3 - Nas circunstâncias previstas no artigo 16.º do Regulamento (CE) n.º 1287/2006, de 10 de Agosto, a CMVM estabelece com a autoridade competente do Estado membro em que o mercado regulamentado foi autorizado acordo de cooperação visando a adequada supervisão do mesmo.

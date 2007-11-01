@@ -1,35 +1,35 @@
-## Secção IV
+## Subsecção III
 
-## Admissão à negociação em mercado regulamentado a contado
-
-## Subsecção I
-
-## Requisitos e efeitos da admissão
+## Admissão à negociação
 
 # Artigo 227.º
 
-### Requisitos gerais
+### Admissão à negociação em mercado regulamentado
 
 1 - Só podem ser admitidos à negociação valores mobiliários cujo conteúdo e forma de representação sejam conformes ao direito que lhes é aplicável e que tenham sido, em tudo o mais, emitidos de harmonia com a lei pessoal do emitente.
 
-2 - O emitente deve satisfazer os seguintes requisitos:
+2 - São definidas nos artigos 35.º a 37.º do Regulamento (CE) n.º 1287/2006, da Comissão, de 10 de Agosto, as características dos diferentes tipos de instrumentos financeiros que devem ser tidas em consideração pela entidade gestora do mercado regulamentado ao avaliar se o mesmo foi emitido em termos que permitam a sua admissão à negociação.
+
+3 - O emitente deve satisfazer os seguintes requisitos:
 
 a) Ter sido constituído e estar a funcionar em conformidade com a respectiva lei pessoal;
 
-b) Desenvolver a sua actividade há pelo menos três anos;
+b) Comprovar que possui situação económica e financeira compatível com a natureza dos valores mobiliários a admitir e com o mercado onde é solicitada a admissão.
 
-c) Ter publicado, nos termos da lei, os seus relatórios de gestão e contas anuais relativos aos três anos anteriores àquele em que a admissão é solicitada;
-
-d) Comprovar que possui situação económica e financeira compatível com a natureza dos valores mobiliários a admitir e com o mercado onde é solicitada a admissão.
-
-3 - No requerimento de admissão devem ser indicados:
+4 - No requerimento de admissão devem ser indicados:
 
 a) Os meios a utilizar pelo emitente para a prestação da informação ao público;
 
 b) A identificação do participante em sistema de liquidação aceite pela entidade gestora através do qual se assegure o pagamento dos direitos patrimoniais inerentes aos valores mobiliários a admitir e de outras prestações devidas.
 
-4 - Se a sociedade emitente tiver resultado de fusão ou cisão, os requisitos das alíneas b) e c) do n.º 2 consideram-se satisfeitos se se verificarem numa das sociedades fundidas ou na sociedade cindida.
+5 - O emitente tem o dever de, no prazo de 90 dias após a sua emissão, solicitar a admissão das acções que pertençam à categoria das já admitidas.
 
-5 - A CMVM pode dispensar os requisitos das alíneas b) e c) do n.º 2 quando os interesses do emitente e dos investidores o aconselhem e o requisito da alínea d), por si só, permita aos investidores formar um juízo esclarecido sobre o emitente e os valores mobiliários.
+6 - As acções podem ser admitidas à negociação após inscrição definitiva do acto constitutivo da sociedade ou do aumento de capital no registo comercial, ainda que não esteja efectuada a respectiva publicação.
 
-6 - [Revogado].
+7 - A entidade gestora do mercado regulamentado estabelece e mantém mecanismos eficazes para:
+
+a) Verificar se os emitentes de valores mobiliários admitidos à negociação no mercado regulamentado cumprem as obrigações de informação aplicáveis;
+
+b) Facilitar aos membros do mercado regulamentado o acesso às informações que tenham sido divulgadas ao público por parte dos emitentes;
+
+c) Verificar regularmente se os valores mobiliários que estão admitidos à negociação no mercado regulamentado continuam a cumprir os requisitos de admissão.

@@ -4,7 +4,7 @@
 
 1 - No âmbito das suas atribuições de supervisão, a CMVM pode adoptar, além de outros previstos na lei, os seguintes procedimentos:
 
-a) Acompanhar a actividade das entidades sujeitas à sua supervisão e o funcionamento dos mercados de valores mobiliários, dos sistemas de liquidação de valores mobiliários e dos sistemas centralizados de valores mobiliários;
+a) Acompanhar a actividade das entidades sujeitas à sua supervisão e o funcionamento dos mercados de instrumentos financeiros, dos sistemas de liquidação de instrumentos financeiros, de câmara de compensação, de contraparte central e dos sistemas centralizados de valores mobiliários;
 
 b) Fiscalizar o cumprimento da lei e dos regulamentos;
 

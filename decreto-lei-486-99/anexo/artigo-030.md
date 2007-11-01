@@ -38,4 +38,18 @@ ii) Activo total superior a 43 milhões de euros;
 
 iii) Volume de negócios líquido superior a 50 milhões de euros.
 
-3 - A CMVM pode, por regulamento, qualificar como investidores qualificados outras entidades dotadas de uma especial competência e experiência relativas a valores mobiliários, nomeadamente emitentes, definindo os indicadores económico-financeiros que permitem essa qualificação.
+3 - Para efeitos do título vi, são também considerados investidores qualificados:
+
+a) As pessoas referidas na alínea f) do n.º 3 do artigo 289.º;
+
+b) As pessoas colectivas, cuja dimensão, de acordo com as suas últimas contas individuais, satisfaça dois dos seguintes critérios:
+
+i) Situação líquida de (euro) 2 milhões;
+
+ii) Activo total de (euro) 20 milhões;
+
+iii) Volume de negócios líquido de (euro) 40 milhões.
+
+c) As pessoas que tenham solicitado o tratamento como tal, nos termos previstos na secção iv do capítulo i daquele título.
+
+4 - A CMVM pode, por regulamento, qualificar como investidores qualificados outras entidades dotadas de uma especial competência e experiência relativas a instrumentos financeiros, nomeadamente emitentes de valores mobiliários, definindo os indicadores económico-financeiros que permitem essa qualificação.

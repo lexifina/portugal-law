@@ -1,15 +1,21 @@
 ## Título IV
 
-## Mercados
+## Negociação
 
 ## Capítulo I
 
-## Disposições gerais
+## Âmbito
 
 # Artigo 198.º
 
-### Noção
+### Formas organizadas de negociação
 
-1 - Considera-se mercado de valores mobiliários qualquer espaço ou organização em que se admite a negociação de valores mobiliários por um conjunto indeterminado de pessoas actuando por conta própria ou através de mandatário.
+1 - É permitido o funcionamento em Portugal, sem prejuízo de outras que a CMVM determine por regulamento, das seguintes formas organizadas de negociação de instrumentos financeiros:
 
-2 - A simples prestação de serviços financeiros aos seus clientes por intermediário financeiro actuando no âmbito da respectiva autorização e a realização de ofertas públicas em conformidade com o disposto no título III deste Código não determinam, por si só, a criação de um mercado de valores mobiliários.
+a) Mercados regulamentados;
+
+b) Sistemas de negociação multilateral;
+
+c) Internalização sistemática.
+
+2 - (Revogado).

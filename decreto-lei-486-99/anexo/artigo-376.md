@@ -2,11 +2,11 @@
 
 ### Cooperação com instituições congéneres estrangeiras
 
-1 - A CMVM coopera com as instituições congéneres ou equiparadas de outros Estados, quando tal seja exigido pelo desenvolvimento de actividades transnacionais que tenham conexão relevante com o território nacional.
+1 - No exercício das suas atribuições, a CMVM coopera com as instituições congéneres ou equiparadas de outros Estados.
 
 2 - A CMVM pode celebrar com as referidas instituições acordos bilaterais ou multilaterais de cooperação, tendo nomeadamente em vista:
 
-a) Recolha de elementos relativos a infracções contra o mercado de valores mobiliários e de outras cuja investigação caiba no âmbito das atribuições da CMVM;
+a) Recolha de elementos relativos a infracções contra o mercado de instrumentos financeiros e de outras cuja investigação caiba no âmbito das atribuições da CMVM;
 
 b) Troca das informações necessárias ao exercício das respectivas funções de supervisão ou de regulação;
 

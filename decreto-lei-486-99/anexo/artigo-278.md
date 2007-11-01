@@ -1,11 +1,11 @@
-## Secção II
+## Subsecção II
 
-## Liquidação de operações de mercado regulamentado
+## Liquidação de operações
 
 # Artigo 278.º
 
 ### Princípios
 
-1 - A liquidação das operações de mercado regulamentado deve ser organizada de acordo com princípios de eficiência, de redução do risco sistémico e de simultaneidade dos créditos em valores mobiliários e em dinheiro.
+1 - A liquidação das operações de mercado regulamentado ou de sistema de negociação multilateral deve ser organizada de acordo com princípios de eficiência, de redução do risco sistémico e de simultaneidade dos créditos em instrumentos financeiros e em dinheiro.
 
-2 - As operações de mercado regulamentado a contado são liquidadas diariamente, no mais curto prazo possível após a sua realização.
+2 - (Revogado).

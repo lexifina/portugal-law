@@ -1,11 +1,11 @@
 # Artigo 254.º
 
-### Opções
+### Classes de acções
 
-Pelo contrato de opção uma das partes adquire o direito de, até ao termo do contrato ou exclusivamente nessa data:
+1 - Nos casos em que o mercado português seja considerado, para uma determinada acção, o mercado mais relevante em termos de liquidez, a CMVM, anualmente, deve determinar e divulgar a classe de acções a que a mesma pertence, tal como definida no n.º 3 do artigo anterior.
 
-a) Receber ou entregar o activo subjacente; ou
+2 - A determinação prevista no número anterior deve ter por base:
 
-b) Transmitir ou assumir uma posição contratual a prazo; ou
+a) O conceito de mercado mais relevante em termos de liquidez definido no artigo 9.º do Regulamento (CE) n.º 1287/2006, da Comissão, de 10 de Agosto;
 
-c) Receber ou entregar a diferença entre o preço de exercício e um preço de referência futuro.
+b) Os indicadores de liquidez previstos no artigo 9.º do Regulamento (CE) n.º 1287/2006, da Comissão, de 10 de Agosto.

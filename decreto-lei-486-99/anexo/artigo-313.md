@@ -1,29 +1,27 @@
+## Subsecção IX
+
+## Benefícios ilegítimos
+
 # Artigo 313.º
 
-### Informação às entidades gestoras dos mercados e à CMVM
+### Proibição geral e dever de divulgação
 
-1 - Os intermediários financeiros com sede em território nacional declaram às entidades gestoras dos mercados regulamentados as operações por si intermediadas que tenham como objecto os seguintes instrumentos financeiros, quando admitidos à negociação num mercado regulamentado situado ou a funcionar em Estado membro da Comunidade Europeia:
+1 - O intermediário financeiro não pode, relativamente à prestação de uma actividade de intermediação financeira ao cliente, oferecer a terceiros ou deles receber qualquer remuneração, comissão ou benefício não pecuniário, excepto se:
 
-a) Acções e valores mobiliários que conferem direito à sua subscrição ou aquisição;
+a) A existência, a natureza e o montante da remuneração, comissão ou benefício não pecuniário, ou, se o montante não puder ser determinado, o seu método de cálculo, forem divulgados ao cliente de modo completo, verdadeiro e claro, antes da prestação da actividade de intermediação financeira em causa; e
 
-b) Obrigações;
+b) O pagamento da remuneração ou comissão ou a concessão do benefício não pecuniário reforçarem a qualidade da actividade prestada ao cliente e não prejudicarem o respeito do dever de actuar no sentido da protecção dos legítimos interesses do cliente;
 
-c) Contratos a prazo padronizados relativos a acções;
+c) O pagamento de remunerações adequadas, tais como custos de custódia, comissões de compensação e troca, taxas obrigatórias ou despesas de contencioso, possibilite ou seja necessário para a prestação da actividade de intermediação financeira.
 
-d) Opções padronizadas relativas a acções.
+2 - O intermediário financeiro pode, para efeitos da alínea a) do número anterior, divulgar a informação sobre remunerações, comissões ou benefícios não pecuniários em termos resumidos, devendo contudo divulgar a informação adicional que for solicitada pelo cliente.
 
-2 - Da declaração a que se refere o número anterior deve constar, além da identificação do intermediário financeiro que efectuou a operação, o tipo, a quantidade e o preço dos instrumentos financeiros negociados, bem como a data e hora da operação.
+3 - (Revogado).
 
-3 - A declaração é feita imediatamente após a realização da operação, por escrito, e, conforme a natureza da operação, deve ser feita à entidade gestora do mercado regulamentado a contado ou a prazo.
+4 - (Revogado).
 
-4 - Quando o próprio sistema de negociação realize o registo das operações, a declaração considera-se feita no momento e através desse registo.
+5 - (Revogado).
 
-5 - As entidades gestoras dos mercados regulamentados asseguram as condições para que a CMVM disponha imediatamente das informações comunicadas.
+6 - (Revogado).
 
-6 - A declaração a que se refere o presente artigo é dispensada se as operações a comunicar se realizarem num mercado regulamentado situado ou a funcionar noutro Estado membro da Comunidade Europeia que imponha o mesmo dever de comunicação, salvo se respeitarem a valores mobiliários negociados em mercado regulamentado situado ou a funcionar em Portugal.
-
-7 - As sociedades autorizadas a exercer actividades de intermediação financeira em Portugal e os titulares de participações qualificadas nessas sociedades estão sujeitos aos deveres de informação de participações qualificadas nos termos dos artigos 102.º, 104.º, 105.º, 107.º, 108.º e 110.º do Regime Geral das Instituições de Crédito e das Sociedades Financeiras, com as seguintes adaptações:
-
-a) Devem ser feitas também à CMVM as comunicações dirigidas ao Banco de Portugal;
-
-b) A CMVM divulga, pelo menos anualmente, uma lista com a identidade dos titulares daquelas participações qualificadas.
+7 - (Revogado).

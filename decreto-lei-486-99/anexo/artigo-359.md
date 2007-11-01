@@ -2,11 +2,11 @@
 
 ### Entidades sujeitas à supervisão da CMVM
 
-1 - No âmbito das actividades relativas a valores mobiliários, estão sujeitas à supervisão da CMVM, sem prejuízo da competência atribuída a outras autoridades, as seguintes entidades:
+1 - No âmbito das actividades relativas a instrumentos financeiros, estão sujeitas à supervisão da CMVM, sem prejuízo das competências atribuídas a outras autoridades, as seguintes entidades:
 
-a) Entidades gestoras de mercados, de sistemas de liquidação, de sistemas centralizados de valores mobiliários e as entidades a que se refere a alínea c) do n.º 2 do artigo 268.º;
+a) Entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação ou contraparte central e de sistemas centralizados de valores mobiliários;
 
-b) Intermediários financeiros e consultores autónomos;
+b) Intermediários financeiros e consultores para investimento;
 
 c) Emitentes de valores mobiliários;
 
@@ -16,8 +16,14 @@ e) Fundos de garantia e sistemas de indemnização dos investidores e respectiva
 
 f) Auditores e sociedades de notação de risco, registados na CMVM;
 
-g) Outras pessoas que exerçam, a título principal ou acessório, actividades relacionadas com a emissão, a distribuição, a negociação, o registo ou o depósito de valores mobiliários ou, em geral, com a organização e o funcionamento dos mercados de valores mobiliários.
+g) Sociedades de titularização de créditos;
 
-2 - As pessoas ou entidades que exerçam actividades de carácter transnacional ficam sujeitas à supervisão da CMVM sempre que essas actividades tenham alguma conexão relevante com mercados, operações ou valores mobiliários sujeitos à lei portuguesa.
+h) Sociedades de capital de risco;
+
+i) Entidades que se proponham a celebrar ou mediar contratos de seguro ligados a fundos de investimento ou a comercializar contratos de adesão individual a fundos de pensões abertos, no âmbito destas actividades;
+
+j) Outras pessoas que exerçam, a título principal ou acessório, actividades relacionadas com a emissão, a distribuição, a negociação, o registo ou o depósito de instrumentos financeiros ou, em geral, com a organização e o funcionamento dos mercados de instrumentos financeiros.
+
+2 - As pessoas ou entidades que exerçam actividades de carácter transnacional ficam sujeitas à supervisão da CMVM sempre que essas actividades tenham alguma conexão relevante com mercados regulamentados, sistemas de negociação multilateral, operações ou instrumentos financeiros sujeitos à lei portuguesa.
 
 3 - As entidades sujeitas à supervisão da CMVM devem prestar-lhe toda a colaboração solicitada.

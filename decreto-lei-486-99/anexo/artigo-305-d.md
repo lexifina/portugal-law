@@ -2,24 +2,6 @@
 
 ### Responsabilidades dos titulares do órgão de administração
 
-1 - Sem prejuízo das funções do órgão de fiscalização, os titulares do órgão de administração do intermediário financeiro são responsáveis por:
+1 - Sem prejuízo das funções do órgão de fiscalização, os titulares do órgão de administração do intermediário financeiro são responsáveis por garantir o cumprimento dos deveres previstos no presente Código.
 
-a) Garantir o cumprimento dos deveres previstos no presente Código, respetiva regulamentação e legislação complementares e na legislação da União Europeia;
-
-b) Definir, aprovar e controlar:
-
-i) A organização do intermediário financeiro para o exercício de atividades de intermediação financeira, incluindo as qualificações, os conhecimentos e a capacidade técnica de que os colaboradores devem dispor, os recursos, os procedimentos e as modalidades para a prestação de serviços e atividades, tendo em conta a natureza, a escala e a complexidade das suas atividades e os deveres previstos no presente Código e legislação complementar;
-
-ii) A política do intermediário financeiro em matéria de serviços, atividades, produtos e operações oferecidos ou prestados, incluindo a realização de testes de esforço aos produtos, em conformidade com o nível de tolerância ao risco da empresa e as características e as necessidades dos clientes da empresa;
-
-iii) A política de remuneração dos colaboradores envolvidos na prestação de serviços a clientes, tendo como objetivo promover uma conduta empresarial responsável, o tratamento equitativo dos clientes e evitar conflitos de interesses nas relações com os clientes.
-
-2 - Os titulares do órgão de administração devem acompanhar e avaliar periodicamente:
-
-a) A adequação e a execução dos objetivos estratégicos do intermediário financeiro na prestação de atividades de intermediação financeira, a eficácia dos mecanismos de governo e a adequação das políticas relacionadas com a prestação de serviços aos clientes, tomando as medidas apropriadas para corrigir eventuais deficiências;
-
-b) A eficácia das políticas, procedimentos e normas internas adotados para cumprimento dos deveres referidos nos artigos 305.º-A a 305.º-C e tomar as medidas adequadas para corrigir eventuais deficiências detetadas e prevenir a sua ocorrência futura.
-
-3 - (Revogado.)
-
-4 - (Revogado.)
+2 - Os titulares do órgão de administração devem avaliar periodicamente a eficácia das políticas, procedimentos e normas internas adoptados para cumprimento dos deveres referidos nos artigos 305.º-A a 305.º-C e tomar as medidas adequadas para corrigir eventuais deficiências detectadas e prevenir a sua ocorrência futura.

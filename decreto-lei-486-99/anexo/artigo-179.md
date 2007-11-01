@@ -2,7 +2,7 @@
 
 ### Registo da oferta pública de aquisição
 
-Além dos referidos nos artigos 115.º e 116.º, o pedido de registo de oferta pública de aquisição apresentado na CMVM é instruído com os documentos comprovativos dos seguintes factos:
+Além dos referidos nos artigos 115.º, o pedido de registo de oferta pública de aquisição apresentado na CMVM é instruído com os documentos comprovativos dos seguintes factos:
 
 a) Entrega do anúncio preliminar, do projecto de anúncio de lançamento e de projecto de prospecto à sociedade visada e às entidades gestoras de mercados regulamentados em que os valores mobiliários estão admitidos à negociação;
 

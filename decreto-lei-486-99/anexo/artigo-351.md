@@ -2,17 +2,9 @@
 
 ### Regulamentação
 
-1 - A CMVM, através de regulamento, define as regras a que devem obedecer as operações realizadas pelos intermediários financeiros por conta própria, bem como os termos e prazos da comunicação dessas operações à CMVM, tendo especialmente em vista detectar conflitos de interesses e actuações susceptíveis de pôr em risco a regularidade de funcionamento, a transparência e a credibilidade do mercado.
+1 - Relativamente a operações de fomento de mercado, a CMVM define, através de regulamento, a informação que lhe deva ser prestada, bem como aquela que deve ser divulgada ao mercado pelas entidades referidas no n.º 2 do artigo 348.º
 
-2 - Relativamente às operações de fomento de mercado e de estabilização de preços a CMVM, através de regulamento, define nomeadamente a informação a prestar, à CMVM e ao mercado, pelas entidades referidas no n.º 2 do artigo 348.º e na alínea a) do artigo 349.º
-
-3 - Relativamente às actividades de estabilização de preços, a CMVM, através de regulamento, define, nomeadamente:
-
-a) Os critérios para a determinação dos preços que devem ser tomados como referência;
-
-b) A informação a prestar pelo intermediário financeiro à CMVM e ao mercado.
-
-4 - Relativamente aos empréstimos de valores mobiliários, a CMVM, através de regulamento, com parecer prévio do Banco de Portugal, define, nomeadamente:
+2 - Relativamente aos empréstimos de valores mobiliários, a CMVM, através de regulamento, com parecer prévio do Banco de Portugal, define, nomeadamente:
 
 a) Os limites de prazo e de quantidade dos valores mobiliários emprestados;
 
@@ -21,3 +13,7 @@ b) A exigibilidade de caução em operações realizadas fora de mercado regulam
 c) As regras de registo dos valores mobiliários emprestados e de contabilidade das operações;
 
 d) A informação a prestar pelos intermediários financeiros à CMVM e ao mercado.
+
+3 - (Revogado).
+
+4 - (Revogado).

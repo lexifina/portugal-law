@@ -1,15 +1,17 @@
+## Capítulo II
+
+## Mercados regulamentados e sistemas de negociação multilateral
+
+## Secção I
+
+## Disposições comuns
+
 # Artigo 202.º
 
-### Informação ao público
+### Registo na CMVM
 
-1 - A entidade gestora de um mercado presta ao público informação sobre:
+1 - Os mercados regulamentados e os sistemas de negociação multilateral estão sujeitos a registo na CMVM, bem assim como as regras aos mesmos subjacentes.
 
-a) Os valores mobiliários admitidos à negociação;
+2 - (Revogado).
 
-b) As operações realizadas e respectivos preços;
-
-c) As tabelas das comissões por si cobradas.
-
-2 - O conteúdo, os meios e a periodicidade da informação a prestar ao público devem ser os adequados às características de cada mercado, ao nível de conhecimentos dos investidores e à composição dos vários interesses envolvidos.
-
-3 - A CMVM pode exigir a alteração das regras relativas à informação quando verifique que não são suficientes para a protecção dos investidores.
+3 - (Revogado).

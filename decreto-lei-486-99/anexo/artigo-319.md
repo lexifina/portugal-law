@@ -6,12 +6,4 @@ A CMVM elabora os regulamentos necessários à concretização do disposto no pr
 
 a) Abertura, movimentação, utilização e controlo das contas de depósito do dinheiro entregue a empresas de investimento pelos seus clientes ou por terceiros de conta deles;
 
-b) Divulgação das comissões praticadas na prestação dos diferentes serviços;
-
-c) Limites e requisitos da subcontratação de actividades de intermediação financeira;
-
-d) Limites e requisitos da prospecção de investidores;
-
-e) Informações a prestar sobre os serviços que envolvam riscos não aparentes para investidores não qualificados;
-
-f) Termos em que as entidades gestoras dos mercados regulamentados devem pôr à disposição da CMVM as informações a que se refere o artigo 313.º
+b) O exercício da actividade de agente vinculado, designadamente em relação à informação exigida ao intermediário financeiro, aos critérios de avaliação da idoneidade e da adequação da formação e da experiência profissional, ao conteúdo do contrato para o exercício da actividade e aos procedimentos relativos à recepção ou entrega de dinheiro de clientes.

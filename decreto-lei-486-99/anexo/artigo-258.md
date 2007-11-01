@@ -1,7 +1,17 @@
+## Título V
+
+## Contraparte central, compensação e liquidação
+
+## Capítulo I
+
+## Contraparte central
+
 # Artigo 258.º
 
-### Objecto
+### Âmbito
 
-1 - O objecto dos futuros e das opções é construído nos termos das respectivas cláusulas contratuais gerais e pode ter como activo subjacente valores mobiliários, de natureza real ou nocional, posições contratuais a prazo, instrumentos do mercado monetário, taxas de juro, divisas ou índices sobre valores mobiliários, sobre taxas de juro ou sobre divisas.
+1 - O disposto no presente capítulo é aplicável a todas as operações em que uma entidade tenha assumido a posição de contraparte central.
 
-2 - A realização de operações a prazo sobre mercadorias e serviços pode ser autorizada nos termos a fixar em portaria conjunta do Ministro das Finanças e do ministro do respectivo sector, precedendo parecer da CMVM e do Banco de Portugal.
+2 - Quando uma entidade assuma a posição de contraparte central nas operações, estas só são eficazes perante aquela após o seu registo.
+
+3 - A realização de operações em mercado regulamentado ou em sistema de negociação multilateral sobre os instrumentos financeiros referidos nas alíneas e) e f) do n.º 1 do artigo 2.º exige a interposição de contraparte central.

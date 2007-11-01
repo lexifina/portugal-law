@@ -10,7 +10,7 @@ A supervisão desenvolvida pela CMVM obedece aos seguintes princípios:
 
 a) Protecção dos investidores;
 
-b) Eficiência e regularidade de funcionamento dos mercados de valores mobiliários;
+b) Eficiência e regularidade de funcionamento dos mercados de instrumentos financeiros;
 
 c) Controlo da informação;
 

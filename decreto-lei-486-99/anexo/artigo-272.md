@@ -22,4 +22,4 @@ c) Elementos de identificação da entidade gestora, quando exista, incluindo os
 
 d) As regras aprovadas pela entidade gestora.
 
-3 - Ao processo de registo, incluindo a sua recusa e o seu cancelamento, aplica-se, com as devidas adaptações, o disposto para o registo das entidades gestoras de mercados.
+3 - Ao processo de registo, incluindo a sua recusa e o seu cancelamento, aplica-se, com as devidas adaptações, o disposto para o registo de entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral.

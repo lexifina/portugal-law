@@ -4,7 +4,7 @@
 
 1 - Dos títulos devem constar, além das menções referidas nas alíneas a) e b) do n.º 1 do artigo 44.º, os seguintes elementos:
 
-a) Número de ordem;
+a) Número de ordem, excepto os títulos ao portador;
 
 b) Quantidade de direitos representados no título e, se for o caso, valor nominal global;
 

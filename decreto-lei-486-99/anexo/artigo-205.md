@@ -1,21 +1,15 @@
 # Artigo 205.º
 
-### Admissão à negociação
+### Admissão e selecção para negociação
 
-1 - A admissão de valores mobiliários à negociação num mercado regulamentado depende de decisão da entidade gestora desse mercado, a requerimento do emitente.
+1 - A admissão à negociação em mercado regulamentado e a selecção para negociação em sistema de negociação multilateral depende de decisão da respectiva entidade gestora.
 
-2 - A admissão de valores mobiliários à negociação em mercado não regulamentado pode ser efectuada por decisão da entidade gestora:
+2 - Os valores mobiliários admitidos à negociação em mercado regulamentado podem ser subsequentemente negociados noutros mercados regulamentados e em sistemas de negociação multilateral sem o consentimento do emitente.
 
-a) A requerimento do emitente;
+3 - Ocorrendo a negociação subsequente referida no número anterior, o emitente não é obrigado a prestar qualquer informação adicional por virtude da negociação nesses outros mercados ou sistemas de negociação multilateral.
 
-b) A requerimento de titulares pelo menos, no total, de 10% dos valores mobiliários pertencentes à mesma categoria;
+4 - (Revogado).
 
-c) Desde que o emitente a tal não se oponha, no caso de valores admitidos a um mercado regulamentado.
+5 - (Revogado).
 
-3 - Nos casos previstos na alínea b) do número anterior, o emitente fica apenas obrigado a enviar à entidade gestora do mercado não regulamentado os elementos necessários para informação ao público, nos termos do artigo 202.º
-
-4 - Nos casos da alínea c) do n.º 2, o emitente não é obrigado a prestar qualquer informação adicional por virtude da sua admissão ao mercado não regulamentado.
-
-5 - A negociação de valores mobiliários no mercado não regulamentado cuja admissão tenha ocorrido ao abrigo da alínea c) do n.º 2 não é necessariamente afectada pela exclusão superveniente desses valores do mercado regulamentado, desde que continue a ser prestada a informação exigida pelas regras desse mercado.
-
-6 - O emitente de valores mobiliários admitidos à negociação em mercado regulamentado deve, no momento em que solicita a admissão, nomear um representante com poderes bastantes para as relações com o mercado e a CMVM.
+6 - (Revogado).

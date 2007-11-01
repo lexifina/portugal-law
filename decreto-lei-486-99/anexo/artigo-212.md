@@ -1,35 +1,23 @@
 # Artigo 212.º
 
-### Regulamentos da CMVM
+### Informação ao público
 
-1 - A CMVM elabora os regulamentos necessários à concretização do disposto no presente título, nomeadamente sobre as seguintes matérias:
+1 - Para cada mercado regulamentado ou sistema de negociação multilateral, a entidade gestora deve prestar ao público informação sobre:
 
-a) Processo de registo das entidades gestoras, dos respectivos mercados e da sua denominação;
+a) Os instrumentos financeiros admitidos à negociação ou seleccionados para negociação;
 
-b) Regras prudenciais a que estão sujeitas as entidades gestoras dos mercados;
+b) As operações realizadas e respectivos preços.
 
-c) Informações a prestar à CMVM pelas entidades gestoras dos mercados;
+2 - No caso de sistema de negociação multilateral, considera-se cumprido o dever estabelecido na alínea a) do número anterior se a entidade gestora se certificar de que existe acesso à informação em causa.
 
-d) Informações a prestar ao público pelas entidades gestoras dos mercados e pelos emitentes de valores mobiliários admitidos à negociação, designadamente quanto ao conteúdo da informação, aos meios e aos prazos em que deve ser prestada ou publicada;
+3 - O conteúdo, os meios e a periodicidade da informação a prestar ao público devem ser os adequados às características de cada sistema, ao nível de conhecimentos e à natureza dos investidores e à composição dos vários interesses envolvidos.
 
-e) Suspensão e exclusão de valores mobiliários da negociação;
+4 - A CMVM pode exigir a alteração das regras relativas à informação quando verifique que não são suficientes para a protecção dos investidores.
 
-f) Publicação das comissões praticadas pelas entidades gestoras dos mercados e respectivos limites máximos;
+5 - A entidade gestora deve divulgar por escrito:
 
-g) Comunicação a que se refere o n.º 2 do artigo 210.º;
+a) Um boletim nos dias em que tenham lugar sessões normais;
 
-h) Limites à assunção de responsabilidades pelas entidades gestoras de mercados onde se realizem operações a prazo e limites às posições que cada investidor, por si só ou em associação com outros, pode assumir em operações a prazo.
+b) Informação estatística relativa aos mercados ou sistemas por si geridos, sem prejuízo do disposto em matéria de segredo;
 
-2 - Em relação aos mercados regulamentados, compete à CMVM, sob proposta ou com audiência prévia da entidade gestora do mercado em causa, estabelecer através de regulamento:
-
-a) [Revogada].
-
-b) As regras de cada tipo de operação de mercado regulamentado;
-
-c) Regras sobre as ofertas;
-
-d) Termos da constituição, controlo e execução extrajudicial das cauções a prestar em operações a prazo;
-
-e) Publicações obrigatórias no boletim do mercado regulamentado.
-
-3 - Os regulamentos da CMVM não prejudicam o poder conferido pelo artigo 201.º à entidade gestora para a elaboração de regras do mercado, dentro dos limites da lei e dos regulamentos aplicáveis.
+c) O texto actualizado das regras por que se regem a entidade gestora, os mercados ou sistemas por si geridos e as operações nestes realizadas.

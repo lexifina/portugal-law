@@ -1,31 +1,17 @@
-## Capítulo II
-
-## Mercados regulamentados
-
-## Secção I
-
-## Mercados regulamentados em geral
-
 # Artigo 214.º
 
-### Estrutura
+### Poderes da CMVM
 
-1 - Em cada mercado regulamentado podem ser criados os segmentos que se revelem necessários, tendo em conta nomeadamente as características das operações, dos valores mobiliários negociados, das entidades que os emitem, do sistema de negociação, e as quantidades a transaccionar.
+1 - A CMVM pode:
 
-2 - Nos mercados regulamentados acessíveis ao público onde se realizem operações a contado é obrigatório o cumprimento das disposições relativas à admissão, ao prospecto e à informação da secção IV do presente capítulo, mercados esses que formam cotação oficial.
+a) Ordenar à entidade gestora de mercado regulamentado ou de sistema de negociação multilateral que proceda à suspensão de instrumentos financeiros da negociação, quando a situação do emitente implique que a negociação seja prejudicial para os interesses dos investidores ou, no caso de entidade gestora de mercado regulamentado, esta não o tenha feito em tempo oportuno;
 
-3 - A CMVM, através de regulamento, estabelece, quanto às matérias referidas no número anterior, os requisitos mínimos dos mercados regulamentados que não formam cotação oficial, podendo:
+b) Ordenar à entidade gestora de mercado regulamentado ou de sistema de negociação multilateral que proceda à exclusão de instrumentos financeiros da negociação quando comprovar a violação das leis ou regulamentos aplicáveis;
 
-a) Reduzir o grau de exigência quanto aos requisitos referidos nas alíneas b) e c) do n.º 2 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 229.º;
+c) Estender a suspensão ou a exclusão a todos os mercados regulamentados e sistemas de negociação multilateral onde instrumentos financeiros da mesma categoria são negociados.
 
-b) Dispensar a prestação da informação semestral pelo emitente;
+2 - Imediatamente após ordem de suspensão ou exclusão da negociação em mercado regulamentado, ao abrigo do número anterior, a CMVM torna pública a respectiva decisão e informa as autoridades competentes dos outros Estados membros da União Europeia.
 
-c) Dispensar a prestação de outras informações que, de acordo com os valores mobiliários negociados ou os destinatários do mercado, não se justifiquem em função da defesa dos investidores e da transparência do mercado.
+3 - (Revogado).
 
-4 - Os mercados regulamentados que não formam cotação oficial podem ser criados nomeadamente para negociação de:
-
-a) Valores mobiliários emitidos por pequenas e médias empresas ou que envolvam o desenvolvimento de projectos especiais;
-
-b) Obrigações com risco acrescido para os investidores;
-
-c) Valores mobiliários destinados apenas a investidores qualificados.
+4 - (Revogado).

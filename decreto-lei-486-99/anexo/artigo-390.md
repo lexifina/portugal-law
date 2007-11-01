@@ -2,11 +2,11 @@
 
 ### Sociedades abertas
 
-1 - Constitui contra-ordenação muito grave a omissão de comunicação ou de publicação de participações qualificadas em sociedade aberta que atinjam ou ultrapassem um terço, metade ou 90% dos direitos de voto correspondentes ao capital social.
+1 - Constitui contra-ordenação muito grave a omissão de comunicação ou divulgação de participação qualificada em sociedade aberta.
 
 2 - Constitui contra-ordenação grave a omissão de:
 
-a) Comunicação ou publicação de participações qualificadas em sociedade aberta não referidas no número anterior;
+a) (Revogada).
 
 b) Comunicação à CMVM de acordos parassociais relativos ao exercício de direitos sociais em sociedade aberta;
 
@@ -20,10 +20,14 @@ b) Comunicação à CMVM de indícios de incumprimento do dever de informação 
 
 c) Prestação de informação ao detentor de participação qualificada em sociedade aberta pelos titulares de valores mobiliários a que são inerentes direitos de voto imputáveis àquele;
 
-d) Menção dos elementos exigidos no pedido de procuração para participação em assembleia geral de sociedade aberta;
+d) Não disponibilização aos titulares de direito de voto de formulário de procuração para o exercício desse direito;
 
-e) Envio à CMVM de documento tipo utilizado na solicitação de procuração para participação em assembleia geral de sociedade aberta;
+e) Menção, em convocatória de assembleia geral, da disponibilidade de formulário de procuração ou da indicação de como o solicitar;
 
-f) Prestação de informação aos titulares de direito de voto pelo solicitante de procuração para participação em assembleia geral de sociedade aberta;
+f) Menção dos elementos exigidos no pedido de procuração para participação em assembleia geral de sociedade aberta;
 
-g) Cumprimento dos deveres decorrentes da perda da qualidade de sociedade aberta.
+g) Envio à CMVM de documento tipo utilizado na solicitação de procuração para participação em assembleia geral de sociedade aberta;
+
+h) Prestação de informação aos titulares de direito de voto pelo solicitante de procuração para participação em assembleia geral de sociedade aberta;
+
+i) Cumprimento dos deveres decorrentes da perda da qualidade de sociedade aberta.

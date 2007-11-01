@@ -1,7 +1,15 @@
+## Secção II
+
+## Mercados regulamentados
+
+## Subsecção I
+
+## Disposições gerais
+
 # Artigo 217.º
 
-### Funções dos membros do mercado regulamentado
+### Autorização
 
-1 - Os membros dos mercados regulamentados que apenas exerçam funções de negociação só podem ser admitidos após terem celebrado contrato com um ou mais membros que assegurem a liquidação das operações por eles negociadas.
+1 - A constituição e extinção dos mercados regulamentados depende de autorização requerida pela respectiva entidade gestora e concedida pelo Ministro das Finanças, mediante portaria e ouvida a CMVM.
 
-2 - Só podem ser membros liquidadores os participantes em sistema de liquidação utilizado pelo mercado regulamentado que estejam autorizados a realizar operações por conta própria.
+2 - A CMVM comunica à Comissão Europeia e aos Estados membros a lista dos mercados regulamentados registados nos termos do disposto no artigo 202.º

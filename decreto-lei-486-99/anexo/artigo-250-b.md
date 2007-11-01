@@ -27,5 +27,3 @@ i) No n.º 3 do artigo 249.º, se a lei aplicável obrigar o emitente a divulgar
 3 - Para efeitos da alínea c) do n.º 1, o emitente deve apresentar à CMVM, a pedido, informação suplementar auditada sobre as contas individuais pertinente para enquadrar a informação aí requerida, podendo elaborar essa informação de acordo com as normas contabilísticas de um país terceiro.
 
 4 - Para efeitos da alínea d) do n.º 1, as contas individuais devem ser objecto de auditoria e se não forem elaboradas de acordo com as normas aí referidas, são apresentadas sob a forma de informação financeira reformulada.
-
-5 - A CMVM comunica à Autoridade Europeia dos Valores Mobiliários e dos Mercados a dispensa do cumprimento dos deveres de prestação de informação ao abrigo do presente artigo.

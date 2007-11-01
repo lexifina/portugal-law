@@ -12,8 +12,8 @@ a) Entre o intermediário financeiro e o investidor tenha sido celebrado contrat
 
 b) O intermediário financeiro seja destinatário frequente de ordens dadas pelo investidor; ou
 
-c) O intermediário financeiro tenha a seu cargo o registo ou o depósito de valores mobiliários pertencentes ao investidor.
+c) O intermediário financeiro tenha a seu cargo o registo ou o depósito de instrumentos financeiros pertencentes ao investidor.
 
 4 - Presume-se que o contacto efectuado pelo intermediário financeiro não foi solicitado quando não exista anterior relação de clientela entre o intermediário financeiro e o investidor.
 
-5 - O consultor autónomo não pode efectuar quaisquer contactos com investidores não qualificados que por estes não tenham sido solicitados.
+5 - O consultor para investimento não pode efectuar contactos com investidores não qualificados que por estes não tenham sido solicitados.

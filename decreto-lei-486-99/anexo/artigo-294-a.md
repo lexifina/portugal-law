@@ -22,7 +22,7 @@ b) Delegar noutras pessoas os poderes que lhe foram conferidos pelo intermediár
 
 c) Sem prejuízo do disposto na alínea b) do n.º 1, celebrar quaisquer contratos em nome do intermediário financeiro;
 
-d) Receber ou entregar dinheiro ou instrumentos financeiros, salvo se o intermediário financeiro o autorizar;
+d) Receber ou entregar dinheiro, salvo se o intermediário financeiro o autorizar;
 
 e) Actuar ou tomar decisões de investimento em nome ou por conta dos investidores;
 

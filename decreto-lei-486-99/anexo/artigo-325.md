@@ -6,7 +6,7 @@
 
 ### Recepção
 
-Logo que recebam uma ordem para a realização de operações sobre valores mobiliários, os intermediários financeiros devem:
+Logo que recebam uma ordem para a realização de operações sobre instrumentos financeiros, os intermediários financeiros devem:
 
 a) Verificar a legitimidade do ordenador;
 

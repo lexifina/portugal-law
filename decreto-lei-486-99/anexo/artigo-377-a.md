@@ -2,8 +2,10 @@
 
 ### Medidas cautelares na cooperação internacional
 
-1 - Quando a CMVM verificar que, no âmbito de ofertas públicas ou admissões internacionais no espaço da União Europeia, as disposições legais ou regulamentares relativas a ofertas públicas e à admissão de valores mobiliários à negociação em mercado regulamentado foram infringidas pelo emitente ou pelo intermediário financeiro responsável, deve dar conhecimento dos referidos factos à autoridade do Estado que, nos termos do artigo 145.º, for competente e solicitar-lhe-á que, com a maior brevidade possível, tome as providências adequadas.
+1 - Quando a CMVM verificar que os deveres relativos à comunicação e à divulgação de participações qualificadas, à elaboração de um prospecto de oferta pública ou de admissão, à divulgação de informação periódica e à actuação de um mercado regulamentado ou de um sistema de negociação multilateral foram violados dá conhecimento dos referidos factos à autoridade do Estado membro de origem do emitente ou, no caso de infracção cometida por mercado regulamentado ou sistema de negociação multilateral, à autoridade do Estado que lhe tenha concedido autorização.
 
-2 - Se a autoridade competente não tomar as providências solicitadas ou estas forem inadequadas e o emitente ou o intermediário financeiro responsável pela oferta pública persistir na infracção das normas aplicáveis, a CMVM deve, após informar desse facto a autoridade competente, tomar as providências que entenda convenientes no intuito de proteger os investidores.
+2 - Se a autoridade competente não tomar as providências solicitadas ou estas forem inadequadas e o titular de participação qualificada, o emitente, o intermediário financeiro responsável pela oferta pública, o mercado regulamentado ou o sistema de negociação multilateral persistir na infracção das normas aplicáveis, a CMVM, após informar desse facto a autoridade competente, toma as providências que entenda convenientes no intuito de proteger os investidores e o bom funcionamento dos mercados.
 
-3 - As providências tomadas pela CMVM ao abrigo do número anterior são comunicadas à Comissão Europeia com a brevidade possível.
+3 - Para efeitos do disposto no número anterior, a CMVM pode impedir que o mercado regulamentado ou o sistema de negociação em causa continuem a disponibilizar, no território português, mecanismos de acesso e negociação por membros estabelecidos em Portugal.
+
+4 - As providências tomadas pela CMVM ao abrigo do n.º 2 são comunicadas à Comissão Europeia com a brevidade possível.

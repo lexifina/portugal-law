@@ -1,4 +1,4 @@
-## Subsecção III
+## Subsecção V
 
 ## Prospecto
 
@@ -14,7 +14,7 @@ b) Pela autoridade competente, por aplicação dos critérios mencionados nos n.
 
 2 - O prospecto não é exigido para a admissão de:
 
-a) Valores mobiliários referidos nas alíneas a), b), c), d), f), g), h), i), j) e l) do n.º 1 do artigo 111.º e na alínea a) do n.º 2 do artigo 134.º, nas condições ali previstas;
+a) Valores mobiliários referidos nas alíneas a), b), c), d), f), g), h), i), j), l) e n) do n.º 1 do artigo 111.º e na alínea a) do n.º 2 do artigo 134.º, nas condições ali previstas;
 
 b) Acções oferecidas, atribuídas ou a atribuir gratuitamente a accionistas existentes e dividendos pagos sob a forma de acções da mesma categoria das acções em relação às quais são pagos os dividendos, desde que as referidas acções sejam da mesma categoria que as acções já admitidas à negociação no mesmo mercado regulamentado e esteja disponível um documento com informações sobre o número e a natureza das acções, bem como sobre as razões e características da oferta;
 

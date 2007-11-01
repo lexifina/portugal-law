@@ -2,7 +2,7 @@
 
 ### Reconhecimento
 
-1 - Os sistemas de liquidação de valores mobiliários, com excepção dos que forem geridos pelo Banco de Portugal, são reconhecidos através de registo na CMVM.
+1 - Os sistemas de liquidação de instrumentos financeiros, com excepção dos que forem geridos pelo Banco de Portugal, são reconhecidos através de registo na CMVM.
 
 2 - A CMVM é a autoridade competente para notificar a Comissão Europeia dos sistemas por ela reconhecidos, dos quais dará conhecimento ao Banco de Portugal.
 

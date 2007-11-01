@@ -1,19 +1,19 @@
 # Artigo 261.º
 
-### Gestão de operações
+### Margens e outras garantias
 
-1 - A contraparte central assegura a boa gestão das operações, em particular:
+1 - A exposição ao risco da contraparte central e dos seus membros deve ser coberta por cauções, designadas margens, e outras garantias, salvo quando, em função da natureza da operação, sejam dispensadas nos casos e nos termos a estabelecer em regulamento da CMVM.
 
-a) O registo das posições;
+2 - A contraparte central deve definir as margens e outras garantias a prestar pelos seus membros com base em parâmetros de risco que devem ser sujeitos a revisão regular.
 
-b) A gestão de garantias prestadas, incluindo a constituição, o reforço, a redução e a liberação;
+3 - Os membros compensadores são responsáveis pela constituição, pelo reforço ou pela substituição da caução.
 
-c) Os ajustes de ganhos e perdas emergentes de operações registadas.
+4 - A caução deve ser prestada através de:
 
-2 - Quando a defesa do mercado o exija, a contraparte central pode:
+a) Contrato de garantia financeira previsto no Decreto-Lei n.º 105/2004, de 8 de Maio, sobre instrumentos financeiros de baixo risco e elevada liquidez, livres de quaisquer ónus, ou sobre depósito de dinheiro em instituição autorizada;
 
-a) Encerrar posições;
+b) Garantia bancária.
 
-b) Promover a transferência de posições para outros membros do mercado.
+5 - Sobre os valores dados em caução não podem ser constituídas outras garantias.
 
-3 - Os membros liquidadores são responsáveis perante a entidade gestora pelo cumprimento das obrigações resultantes de operações por eles realizadas, por sua conta ou por conta de outrem, assim como pelas operações realizadas pelos membros negociadores perante quem tenham assumido a função de liquidação das operações.
+6 - Os membros compensadores devem adoptar procedimentos e medidas para cobrir de forma adequada a exposição ao risco, devendo exigir aos seus clientes ou aos membros negociadores perante os quais tenham assumido funções de compensação a entrega de margens e outras garantias, nos termos definidos por contrato com eles celebrado.
