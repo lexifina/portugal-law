@@ -1,11 +1,3 @@
-## Secção IV
-
-## Admissão à negociação em mercado regulamentado a contado
-
-## Subsecção I
-
-## Requisitos e efeitos da admissão
-
 ## Subsecção III
 
 ## Admissão à negociação

@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Insolvência dos participantes
-
 ## Secção III
 
 ## Insolvência dos participantes

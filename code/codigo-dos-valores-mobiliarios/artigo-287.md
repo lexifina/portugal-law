@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Gestão
-
 ## Secção IV
 
 ## Gestão

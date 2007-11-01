@@ -1,7 +1,3 @@
-## Secção VI
-
-## Operações a prazo
-
 ## Capítulo III
 
 ## Internalização sistemática

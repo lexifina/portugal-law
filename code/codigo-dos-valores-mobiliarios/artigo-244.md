@@ -1,7 +1,3 @@
-## Secção V
-
-## Informação relativa a valores mobiliários admitidos à negociação
-
 ## Subsecção VI
 
 ## Informação relativa a valores mobiliários admitidos à negociação

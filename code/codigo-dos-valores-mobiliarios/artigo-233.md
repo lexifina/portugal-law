@@ -1,7 +1,3 @@
-## Subsecção II
-
-## Processo de admissão
-
 ## Subsecção IV
 
 ## Processo de admissão

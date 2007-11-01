@@ -1,7 +1,3 @@
-## Secção III
-
-## Operações a contado
-
 ## Subsecção II
 
 ## Membros
