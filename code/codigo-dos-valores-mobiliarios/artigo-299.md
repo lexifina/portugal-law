@@ -1,8 +1,8 @@
 # Artigo 299.º
 
-### Deferimento tácito
+### Indeferimento tácito
 
-O registo considera-se efectuado se a CMVM não o recusar no prazo de 60 dias a contar:
+O registo considera-se recusado se a CMVM não o efectuar no prazo de 30 dias a contar:
 
 a) Da comunicação da autorização; e
 

@@ -4,4 +4,6 @@
 
 1 - A admissão de valores mobiliários que tenham sido objecto de uma oferta pública só produz efeitos após o encerramento da oferta.
 
-2 - A admissão à negociação abrange todos os valores mobiliários da mesma categoria.
+2 - A entidade gestora pode autorizar a celebração de negócios sobre valores mobiliários, emitidos ou a emitir, objecto de oferta pública de distribuição sobre que incida pedido de admissão, em período temporal curto anterior à admissão em mercado desde que sujeitos à condição de a admissão se tornar eficaz.
+
+3 - A admissão à negociação abrange todos os valores mobiliários da mesma categoria.

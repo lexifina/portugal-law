@@ -1,11 +1,9 @@
 # Artigo 208.º
 
-### Poderes da CMVM
+### Sistemas de negociação
 
-1 - A CMVM pode:
+1 - As operações de mercado regulamentado e de sistemas de negociação multilateral realizam-se através de sistemas de negociação adequados à correcta formação dos preços dos instrumentos financeiros neles negociados e à liquidez do mercado, assegurando designadamente a transparência das operações.
 
-a) Ordenar à entidade gestora que proceda à suspensão ou à exclusão de valores mobiliários da negociação, quando aquela entidade não o tenha feito em tempo oportuno;
+2 - Para boa execução das ordens por si aceites, os membros de mercado regulamentado ou de sistema de negociação multilateral introduzem ofertas no sistema de negociação, segundo a modalidade mais adequada e no tempo mais oportuno.
 
-b) Estender a suspensão ou a exclusão a todos os mercados onde valores mobiliários da mesma categoria são negociados.
-
-2 - Nos casos de suspensão ou exclusão dos valores mobiliários ordenada simultaneamente em Portugal e noutros Estados membros, a CMVM coopera estreitamente com as autoridades competentes desses Estados membros, a fim de assegurar uma igualdade de condições entre os diferentes locais de negociação e a protecção dos investidores.
+3 - Os negócios sobre instrumentos financeiros celebrados directamente entre os interessados que sejam registados no sistema através de um dos seus membros podem ser equiparados a operações de mercado regulamentado, nos termos das regras aprovadas pela entidade gestora.

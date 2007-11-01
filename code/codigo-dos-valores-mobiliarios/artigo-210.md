@@ -1,9 +1,9 @@
 # Artigo 210.º
 
-### Operações realizadas fora de mercado
+### Direitos inerentes
 
-1 - Com ressalva do n.º 2 e do artigo seguinte, o disposto no presente título não é aplicável às operações sobre valores mobiliários realizadas fora dos mercados registados na CMVM.
+1 - Os direitos patrimoniais inerentes aos valores mobiliários vendidos pertencem ao comprador desde a data da operação.
 
-2 - As operações sobre valores mobiliários admitidos à negociação em mercado regulamentado, que sejam realizadas fora de mercado regulamentado, são comunicadas à entidade gestora do mercado onde os valores mobiliários estejam admitidos à negociação.
+2 - O comprador paga ao vendedor, além do preço formado, os juros e outras remunerações certas correspondentes ao tempo decorrido após o último vencimento até à data da liquidação da operação.
 
-3 - Sempre que a protecção dos investidores o justifique, a CMVM estabelece, através de regulamento, os deveres de informação dos intermediários financeiros que, de forma usual, procedam à execução de ordens de clientes fora de mercado regulamentado, nomeadamente no que respeita às condições de preço em que se propõe efectuar essas operações.
+3 - O disposto nos números anteriores não exclui diferente regime de atribuição de direitos inerentes aos valores mobiliários transaccionados, desde que tal regime seja prévia e claramente publicado nos termos previstos nas regras do mercado regulamentado ou do sistema de negociação multilateral.

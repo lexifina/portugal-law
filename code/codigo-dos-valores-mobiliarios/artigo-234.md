@@ -7,3 +7,5 @@
 2 - A decisão de admissão à negociação não envolve qualquer garantia quanto ao conteúdo da informação, à situação económica e financeira do emitente, à viabilidade deste e à qualidade dos valores mobiliários admitidos.
 
 3 - A entidade gestora do mercado regulamentado divulga a sua decisão de admissão e comunica-a à CMVM, identificando os valores mobiliários admitidos, descrevendo as suas características e o modo de acesso ao prospecto.
+
+4 - Quando a entidade gestora do mercado regulamentado admita valores mobiliários à negociação sem consentimento do respectivo emitente, nos termos previstos no n.º 2 do artigo 205.º, deve informar este desse facto.

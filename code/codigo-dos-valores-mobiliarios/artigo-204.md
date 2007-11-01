@@ -1,13 +1,13 @@
 # Artigo 204.º
 
-### Operações
+### Objecto de negociação
 
-1 - O elenco das operações a realizar em cada mercado é definido pela entidade gestora desse mercado.
+1 - Podem ser objecto de negociação organizada:
 
-2 - Podem ser objecto das operações realizadas em mercado:
+a) Valores mobiliários fungíveis, livremente transmissíveis, integralmente liberados e que não estejam sujeitos a penhor ou a qualquer outra situação jurídica que os onere, salvo se respeitados os requisitos previstos nos artigos 35.º e 36.º do Regulamento (CE) n.º 1287/2006, da Comissão, de 10 de Agosto;
 
-a) Valores mobiliários fungíveis admitidos à negociação nesse mercado, livremente transmissíveis, integralmente liberados e que não estejam sujeitos a penhor ou a qualquer outra situação jurídica que os onere;
+b) Outros instrumentos financeiros, nomeadamente instrumentos financeiros derivados, cuja configuração permita a formação ordenada de preços.
 
-b) Instrumentos financeiros derivados construídos para negociação nesse mercado.
+2 - São fungíveis, para efeitos de negociação organizada, os valores mobiliários que pertençam à mesma categoria, obedeçam à mesma forma de representação, estejam objectivamente sujeitos ao mesmo regime fiscal e dos quais não tenham sido destacados direitos diferenciados.
 
-3 - São fungíveis, para efeitos de negociação em mercado, os valores mobiliários que pertençam à mesma categoria, obedeçam à mesma forma de representação, estejam objectivamente sujeitos ao mesmo regime fiscal e dos quais não tenham sido destacados direitos diferentes.
+3 - (Revogado).

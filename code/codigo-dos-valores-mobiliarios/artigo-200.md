@@ -1,13 +1,9 @@
 # Artigo 200.º
 
-### Mercados regulamentados
+### Sistemas de negociação multilateral
 
-1 - São mercados regulamentados aqueles que:
+1 - São sistemas de negociação multilateral os sistemas que têm essa qualidade e possibilitam o encontro de interesses relativos a instrumentos financeiros com vista à celebração de contratos sobre tais instrumentos.
 
-a) Funcionem regularmente;
+2 - Os sistemas de negociação multilateral obedecem aos requisitos fixados na secção i do capítulo ii do presente título e nos n.os 1 a 9 do artigo 221.º
 
-b) Obedeçam aos requisitos fixados no capítulo II do presente título;
-
-c) Sejam como tal autorizados, a pedido da entidade gestora, por portaria do Ministro das Finanças, ouvida a CMVM.
-
-2 - A CMVM comunica à Comissão Europeia e aos Estados membros da Comunidade Europeia a lista dos mercados regulamentados, acompanhada pelas respectivas regras de organização e de funcionamento.
+3 - O disposto nos n.os 1 a 4 do artigo 224.º e 1 e 2 do artigo 225.º é aplicável aos sistemas de negociação multilateral.

@@ -1,3 +1,7 @@
+## Subsecção IX
+
+## Benefícios ilegítimos
+
 # Artigo 313.º
 
 ### Informação às entidades gestoras dos mercados e à CMVM

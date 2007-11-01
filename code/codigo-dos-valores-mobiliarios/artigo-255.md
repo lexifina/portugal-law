@@ -1,11 +1,5 @@
 # Artigo 255.º
 
-### Reporte
+### Actualização e retirada das ofertas
 
-Nos reportes realizados em mercado regulamentado é permitido:
-
-a) Que a primeira venda seja a contado ou a prazo;
-
-b) Que o contrato produza efeitos independentemente da entrega dos valores mobiliários;
-
-c) Que os valores mobiliários a entregar em consequência da recompra não sejam da mesma espécie, mas sejam fungíveis com os valores mobiliários vendidos, nos termos do n.º 3 do artigo 204.º ou de cláusula contratual expressa.
+Os internalizadores sistemáticos podem, a qualquer momento, actualizar as suas ofertas de preço, só as podendo retirar em condições de mercado excepcionais.

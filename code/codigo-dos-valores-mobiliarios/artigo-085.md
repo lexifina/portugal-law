@@ -20,6 +20,6 @@ c) Pelos emitentes, em relação a elementos constantes das contas de valores mo
 
 4 - A entidade registadora deve tomar a iniciativa de enviar a cada um dos titulares de valores mobiliários registados:
 
-a) Em cada período de três meses, ou outro menor que seja contratualmente acordado, extractos das contas abertas em seu nome, com indicação dos movimentos efectuados e do saldo apurado no final do período;
+a) O extracto previsto no artigo 323.º-C;
 
 b) Os elementos necessários para o atempado cumprimento das obrigações fiscais.

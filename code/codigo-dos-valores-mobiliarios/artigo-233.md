@@ -2,6 +2,10 @@
 
 ## Processo de admissão
 
+## Subsecção IV
+
+## Processo de admissão
+
 # Artigo 233.º
 
 ### Pedido de admissão
@@ -17,3 +21,5 @@ c) Pelo Instituto de Gestão do Crédito Público, se se tratar de obrigações 
 2 - A entidade gestora do mercado regulamentado envia à CMVM cópia do pedido de admissão com os documentos necessários para a aprovação do prospecto.
 
 3 - O pedido de admissão à negociação pode ser apresentado antes de se encontrarem reunidos todos os requisitos exigidos, desde que o emitente indique como, e em que prazos, vão ser preenchidos.
+
+4 - O emitente de valores mobiliários admitidos à negociação em mercado regulamentado deve, no momento em que solicita a admissão, nomear um representante com poderes bastantes para as relações com o mercado e com a CMVM.

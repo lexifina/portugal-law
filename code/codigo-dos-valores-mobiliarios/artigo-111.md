@@ -10,7 +10,7 @@ b) As ofertas públicas de valores mobiliários emitidos pelo Banco Central Euro
 
 c) As ofertas relativas a valores mobiliários emitidos por uma instituição de investimento colectivo de tipo aberto realizadas pelo emitente ou por sua conta;
 
-d) As ofertas em mercado registado na CMVM que sejam apresentadas exclusivamente através dos meios de comunicação próprios desse mercado e que não sejam precedidas ou acompanhadas de prospecção ou de recolha de intenções de investimento junto de destinatários indeterminados ou de promoção publicitária.
+d) As ofertas em mercado regulamentado ou sistema de negociação multilateral registado na CMVM que sejam apresentadas exclusivamente através dos meios de comunicação próprios desse mercado ou sistema e que não sejam precedidas ou acompanhadas de prospecção ou de recolha de intenções de investimento junto de destinatários indeterminados ou de promoção publicitária;
 
 e) As ofertas públicas de distribuição de valores mobiliários cujo valor nominal unitário seja igual ou superior a (euro) 50000 ou cujo preço de subscrição ou de venda por destinatário seja igual ou superior àquele montante;
 
@@ -39,6 +39,8 @@ ii) Não confiram o direito de aquisção de outros tipos de valores mobiliário
 l) As ofertas públicas de subscrição de acções emitidas em substituição de acções já emitidas da mesma categoria, se a emissão dessas novas acções não implicar um aumento do capital emitido.
 
 m) As ofertas públicas de aquisição de valores mobiliários emitidos por organismos de investimento colectivo sob a forma societária.
+
+n) As ofertas públicas de valores mobiliários representativos de dívida emitidos por prazo inferior a um ano.
 
 2 - Para efeitos das alíneas h) e j) do número anterior, entende-se por emissão de maneira contínua ou repetida o conjunto de emissões que envolva pelo menos duas emissões distintas de valores mobiliários de tipo e ou categoria semelhante ao longo de um período de 12 meses.
 

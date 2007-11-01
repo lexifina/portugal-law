@@ -2,14 +2,16 @@
 
 ### Conexão com outros sistemas e instituições
 
-1 - Os sistemas utilizados na liquidação de operações de mercado regulamentado devem estabelecer as ligações necessárias à boa liquidação das operações, constituindo uma rede de conexões, nomeadamente com:
+1 - Os sistemas utilizados na liquidação de operações de mercado regulamentado ou de sistema de negociação multilateral devem estabelecer as ligações necessárias à boa liquidação das operações, constituindo uma rede de conexões, nomeadamente com:
 
-a) Entidades gestoras dos mercados regulamentados onde se realizem as operações a liquidar;
+a) Entidades gestoras dos mercados regulamentados ou dos sistemas de negociação multilateral onde se realizem as operações a liquidar;
 
-b) Sistemas centralizados de valores mobiliários;
+b) Entidades que assumam as funções de câmara de compensação e contraparte central;
 
-c) O Banco de Portugal ou instituições de crédito, se a entidade gestora do sistema não estiver autorizada a receber depósitos em dinheiro;
+c) Entidades gestoras de sistemas centralizados de valores mobiliários;
 
-d) Outros sistemas de liquidação.
+d) O Banco de Portugal ou instituições de crédito, se a entidade gestora do sistema não estiver autorizada a receber depósitos em dinheiro;
 
-2 - Os acordos de conexão são registados na CMVM.
+e) Outros sistemas de liquidação.
+
+2 - Os acordos de conexão devem ser previamente comunicados à CMVM.

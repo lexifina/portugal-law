@@ -1,25 +1,23 @@
 # Artigo 229.º
 
-### Admissão de obrigações à negociação
+### Admissão de acções à negociação em mercado de cotações oficiais
 
-1 - Só podem ser admitidas à negociação obrigações representativas de empréstimo obrigacionista ou de alguma das suas séries cujo montante seja igual ou superior a (euro) 200000.
+1 - Só podem ser admitidas à negociação em mercado que forme cotação oficial acções em relação às quais:
 
-2 - A admissão de obrigações convertíveis em acções ou com direito de subscrição de acções depende de prévia ou simultânea admissão das acções a que conferem direito ou de acções pertencentes à mesma categoria.
+a) Se verifique, até ao momento da admissão, um grau adequado de dispersão pelo público;
 
-3 - A exigência do número anterior pode ser dispensada pela entidade competente para a admissão se tal for permitido pela lei pessoal do emitente e este demonstrar que os titulares das obrigações dispõem da informação necessária para formarem um juízo fundado quanto ao valor das acções em que as obrigações são convertíveis.
+b) Se preveja capitalização bolsista de, pelo menos, um milhão de euros, ou, se a capitalização bolsista não puder ser determinada, os capitais próprios da sociedade, incluindo os resultados do último exercício, sejam de pelo menos 1 milhão de euros.
 
-4 - A admissão de obrigações convertíveis em acções ou com direito de subscrição de acções já admitidas à negociação em mercado regulamentado situado ou a funcionar num Estado membro da Comunidade Europeia onde o emitente tenha a sua sede depende de consulta prévia às autoridades desse Estado membro.
+2 - Presume-se que existe um grau adequado de dispersão quando as acções que são objecto do pedido de admissão à negociação se encontram dispersas pelo público numa proporção de, pelo menos, 25 % do capital social subscrito representado por essa categoria de acções, ou, quando, devido ao elevado número de acções da mesma categoria e devido à amplitude da sua dispersão entre o público, esteja assegurado um funcionamento regular do mercado com uma percentagem mais baixa.
 
-5 - Não se aplica o disposto nas alíneas b), c) e d) do n.º 2 do artigo 227.º à admissão de obrigações:
+3 - No caso de pedido de admissão de acções da mesma categoria de acções já admitidas, a adequação da dispersão pelo público deve ser analisada em relação à totalidade das acções admitidas.
 
-a) Representativas de dívida pública nacional ou estrangeira;
+4 - Não se aplica o disposto na alínea b) do n.º 1 em casos de admissão à negociação de acções da mesma categoria das já admitidas.
 
-b) Emitidas pelas Regiões Autónomas e pelas autarquias locais portuguesas;
+5 - A entidade gestora do mercado regulamentado pode exigir uma capitalização bolsista superior à prevista na alínea b) do n.º 1 se existir um outro mercado regulamentado nacional para o qual as exigências nessa matéria sejam iguais às referidas na mesma alínea.
 
-c) Emitidas por institutos públicos e fundos públicos portugueses;
+6 - (Revogado).
 
-d) Garantidas, solidária e incondicionalmente, pelo Estado Português ou por Estado estrangeiro;
+7 - (Revogado).
 
-e) Emitidas por pessoas colectivas internacionais de carácter público e por instituições financeiras internacionais.
-
-6 - Não se aplica o disposto na alínea a) do n.º 2 do artigo 227.º às entidades referidas nas alíneas a), b) e c) do número anterior.
+8 - (Revogado).

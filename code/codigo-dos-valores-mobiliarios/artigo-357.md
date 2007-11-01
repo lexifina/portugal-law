@@ -10,4 +10,4 @@ b) As recomendações e os pareceres genéricos;
 
 c) As decisões de autorização;
 
-d) As decisões de registo e de averbamento ao registo, se o registo for público.
+d) As decisões de registo, se o registo for público.

@@ -2,13 +2,13 @@
 
 ### Acção popular
 
-1 - Gozam do direito de acção popular para a protecção de interesses individuais homogéneos ou colectivos dos investidores não qualificados em valores mobiliários:
+1 - Gozam do direito de acção popular para a protecção de interesses individuais homogéneos ou colectivos dos investidores não qualificados em instrumentos financeiros:
 
 a) Os investidores não qualificados;
 
 b) As associações de defesa dos investidores que reúnam os requisitos previstos no artigo seguinte;
 
-c) As fundações que tenham por fim a protecção dos investidores em valores mobiliários.
+c) As fundações que tenham por fim a protecção dos investidores em instrumentos financeiros.
 
 2 - A sentença condenatória deve indicar a entidade encarregada da recepção e gestão das indemnizações devidas a titulares não individualmente identificados, recaindo a designação, conforme as circunstâncias, em fundo de garantia, associação de defesa dos investidores ou um ou vários titulares de indemnização identificados na acção.
 

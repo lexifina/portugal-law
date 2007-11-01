@@ -1,13 +1,19 @@
 # Artigo 206.º
 
-### Suspensão da negociação
+### Membros
 
-1 - A entidade gestora do mercado deve suspender a negociação de valores mobiliários em relação aos quais:
+1 - A negociação dos instrumentos financeiros efectua-se em mercado regulamentado e em sistema de negociação multilateral através dos respectivos membros.
 
-a) Deixem de se verificar os requisitos de admissão à negociação, desde que a falta seja sanável;
+2 - Podem ser admitidos como membros intermediários financeiros e outras pessoas que:
 
-b) Ocorram circunstâncias susceptíveis de, com razoável grau de probabilidade, perturbar o regular desenvolvimento da negociação.
+a) Sejam idóneas e profissionalmente aptas;
 
-c) Quando a situação do emitente implique que a negociação seja prejudicial para os interesses dos investidores.
+b) Tenham um nível suficiente de capacidade e competência de negociação;
 
-2 - Cada período de suspensão de valores mobiliários da negociação não pode ser superior a 10 dias úteis.
+c) Tenham, quando aplicável, mecanismos organizativos adequados; e
+
+d) Tenham recursos suficientes para as funções a exercer.
+
+3 - A admissão de membros compete à respectiva entidade gestora, de acordo com princípios de legalidade, igualdade e de respeito pelas regras de sã e leal concorrência.
+
+4 - A intervenção dos membros pode consistir no mero registo de operações.

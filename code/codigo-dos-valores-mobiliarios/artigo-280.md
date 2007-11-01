@@ -14,8 +14,12 @@ b) Recompra dos valores mobiliários que não tenham sido entregues;
 
 c) Revenda dos valores mobiliários que não tenham sido pagos.
 
-4 - Não é obrigatória a existência dos mecanismos de substituição referidos nas alíneas a) a c) do número anterior nos casos em que exista contraparte central.
+4 - Nos casos em que exista contraparte central:
 
-5 - Os procedimentos de substituição não são accionados quando o credor declarar, em tempo útil, que perdeu o interesse na liquidação, salvo disposição em contrário constante de regra aprovada pela entidade gestora do sistema.
+a) É a contraparte central que acciona os procedimentos de substituição necessários;
 
-6 - As regras referidas no número anterior asseguram que os procedimentos de substituição adoptados possibilitam a entrega dos valores mobiliários ao credor num prazo razoável relativamente ao previsto nas regras aplicáveis ao sistema para a liquidação.
+b) Os procedimentos de substituição são descritos nas regras da contraparte central, não sendo obrigatória a existência dos referidos nas alíneas a) a c) do número anterior.
+
+5 - Os procedimentos de substituição não são accionados quando o credor declarar, em tempo útil, que perdeu o interesse na liquidação, salvo disposição em contrário constante de regra aprovada pela entidade gestora do sistema ou, se aplicável, pela contraparte central.
+
+6 - As regras referidas no número anterior asseguram que os mecanismos de substituição adoptados possibilitam a entrega dos instrumentos financeiros ao credor num prazo razoável.

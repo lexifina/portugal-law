@@ -2,7 +2,7 @@
 
 ### Cooperação e assistência no quadro da União Europeia
 
-1 - Sem prejuízo da aplicação do disposto no artigo anterior, a CMVM coopera ainda com as instituições congéneres dos Estados membros da União Europeia no quadro das actividades de investigação do abuso de informação, da manipulação de mercado e da violação do dever de defesa do mercado.
+1 - Sem prejuízo da aplicação do disposto no artigo anterior, a CMVM coopera ainda com as instituições congéneres dos Estados membros da União Europeia e presta-lhes assistência para o efeito do exercício das respectivas funções de supervisão e investigação.
 
 2 - A pedido da instituição congénere, a CMVM comunica imediatamente qualquer informação solicitada para efeito do disposto no número anterior e, caso tal não seja possível, comunica os motivos desse facto, adoptando, se necessário, as medidas adequadas para recolher as informações solicitadas.
 
@@ -10,7 +10,7 @@
 
 4 - No caso da recusa prevista no número anterior, a CMVM notifica a instituição requerente, fornecendo-lhe informações tão pormenorizadas quanto possível sobre os referidos processos ou sentenças.
 
-5 - A solicitação de instituição congénere prevista no n.º 1, a CMVM promove no território nacional e sob sua direcção as averiguações e diligências necessárias para apurar factos que constituam os ilícitos aí referidos, podendo fazer-se acompanhar por representantes da instituição requerente no decurso da diligência.
+5 - A solicitação da instituição congénere prevista no n.º 1 e no âmbito das funções aí previstas, a CMVM promove no território nacional e sob a sua direcção as averiguações e diligências necessárias para apurar factos que constituam um ilícito nesse Estado membro, podendo autorizar representantes da instituição requerente, auditores ou outros peritos a acompanhar ou a efectuar as diligências.
 
 6 - A CMVM pode recusar dar seguimento a um pedido de realização de uma diligência ou do seu acompanhamento por representantes da instituição requerente nos casos previstos no n.º 3.
 

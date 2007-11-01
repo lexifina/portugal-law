@@ -20,6 +20,6 @@ b) Em intermediário financeiro ou em sistema centralizado, quando toda a emiss�
 
 3 - A entidade depositária deve manter contas de registo separadas por titular.
 
-4 - Os títulos depositados em intermediário financeiro mantêm o número de ordem.
+4 - Os títulos nominativos depositados em intermediário financeiro mantêm o seu número de ordem.
 
 5 - Aos valores mobiliários a que se refere a alínea b) do n.º 2, quando não estejam integrados em sistema centralizado, aplica-se o regime dos valores mobiliários escriturais registados num único intermediário financeiro.

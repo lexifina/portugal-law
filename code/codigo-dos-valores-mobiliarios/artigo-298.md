@@ -2,13 +2,9 @@
 
 ### Processo de registo
 
-1 - O requerimento de registo deve:
+1 - O pedido de registo deve ser acompanhado dos documentos necessários para demonstrar que o intermediário financeiro possui os meios humanos, materiais e técnicos indispensáveis para o exercício da actividade em causa.
 
-a) Mencionar os elementos e ser instruído com os documentos necessários para o registo;
-
-b) Ser acompanhado dos documentos necessários para demonstrar que o intermediário financeiro possui os meios humanos, materiais e técnicos indispensáveis ao exercício da actividade.
-
-2 - A CMVM, através de inspecção, pode verificar a existência dos meios a que se refere a alínea b) do número anterior.
+2 - A CMVM, através de inspecção, pode verificar a existência dos meios a que se refere o número anterior.
 
 3 - O registo só pode ser efectuado após comunicação pela autoridade competente, certificando que o intermediário financeiro está autorizado a exercer as actividades requeridas.
 

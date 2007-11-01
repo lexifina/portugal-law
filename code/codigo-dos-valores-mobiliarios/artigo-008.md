@@ -12,4 +12,4 @@ c) Respeitem a instituições de investimento colectivo.
 
 2 - Se os documentos referidos no número anterior incluírem previsões sobre a evolução dos negócios ou da situação económica e financeira da entidade a que respeitam, o relatório do auditor deve pronunciar-se expressamente sobre os respectivos pressupostos, critérios e coerência.
 
-3 - No caso de as informações financeiras trimestrais ou semestrais terem sido sujeitas a auditoria ou a revisão limitada, deve ser incluído o relatório de auditoria ou de revisão, caso não o tenham sido, deve ser declarado tal facto.
+3 - No caso de a informação intercalar ou as informações financeiras trimestrais ou semestrais terem sido sujeitas a auditoria ou a revisão limitada, é incluído o relatório de auditoria ou de revisão; caso não o tenham sido, é declarado tal facto.

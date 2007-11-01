@@ -1,11 +1,11 @@
 # Artigo 265.º
 
-### Gestão de operações fora de mercado regulamentado
+### Regras da contraparte central
 
-1 - A entidade gestora de mercado regulamentado pode prestar serviços de gestão e de liquidação de operações a prazo, padronizadas ou não, que se realizem fora de mercado regulamentado.
+1 - A contraparte central deve aprovar regras transparentes e não discriminatórias, baseadas em critérios objectivos, que assegurem o adequado desempenho das suas funções, relativas, designadamente, às matérias referidas nos artigos 259.º, 260.º, 261.º, 263.º e 264.º
 
-2 - Às operações referidas no número anterior aplica-se o disposto nos artigos 255.º e 256.º
+2 - As regras referidas no número anterior são objecto de registo na CMVM, o qual visa a verificação da sua suficiência, adequação e legalidade.
 
-3 - Se a entidade gestora assumir a posição de contraparte nas operações a que se refere o n.º 1, aplica-se, com as devidas adaptações, o disposto nos artigos 259.º, 260.º e 264.º
+3 - Após o registo na CMVM, a contraparte central deve divulgar as regras adoptadas, as quais entram em vigor na data de divulgação ou noutra nelas prevista.
 
-4 - A aplicação do disposto nos números anteriores depende de regulamento aprovado pela CMVM, ouvido previamente o Banco de Portugal quando estejam em causa instrumentos do mercado monetário e cambial.
+4 - (Revogado).

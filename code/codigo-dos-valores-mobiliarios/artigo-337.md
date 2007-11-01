@@ -12,7 +12,7 @@
 
 a) Elaboração do prospecto e do anúncio de lançamento;
 
-b) Preparação e apresentação do pedido de registo na CMVM;
+b) Preparação e apresentação do pedido de aprovação de prospecto ou de registo prévio na CMVM;
 
 c) Apuramento das declarações de aceitação, salvo nos casos a que se refere a alínea b) do n.º 1 do artigo 127.º
 

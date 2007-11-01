@@ -1,5 +1,7 @@
 # Artigo 262.º
 
-### Encerramento de posições
+### Execução extrajudicial das garantias
 
-As posições em futuros e opções podem ser encerradas, antes do prazo, através da abertura de posições de sentido inverso.
+1 - Os instrumentos financeiros recebidos em caução podem ser vendidos extrajudicialmente para satisfação das obrigações emergentes das operações caucionadas ou como consequência do encerramento de posições dos membros que tenham prestado a caução.
+
+2 - A execução extrajudicial das cauções deve ser efectuada pela contraparte central, através de intermediário financeiro, sempre que aquela não revista esta natureza.

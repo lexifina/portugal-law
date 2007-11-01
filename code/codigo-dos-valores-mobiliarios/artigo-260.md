@@ -1,21 +1,23 @@
 # Artigo 260.º
 
-### Garantia
+### Minimização dos riscos
 
-1 - A realização de operações a prazo exige a prestação prévia de caução a favor da contraparte, salvo quando, em função da natureza da operação, seja dispensada nos casos e nos termos a estabelecer em regulamento da CMVM.
+1 - Cabe à contraparte central a tomada de medidas adequadas à minimização dos riscos e à protecção do sistema de compensação e dos mercados, devendo avaliar com uma periodicidade, no mínimo anual, o seu nível de exposição.
 
-2 - Os membros do mercado são responsáveis pela constituição, pelo reforço ou pela substituição da caução.
+2 - Para os efeitos do número anterior, a contraparte central:
 
-3 - A caução é prestada através de:
+a) Deve adoptar sistemas seguros de gestão e monitorização do risco;
 
-a) Penhor ou reporte sobre valores mobiliários de baixo risco e elevada liquidez, livres de quaisquer ónus, ou sobre depósito de dinheiro em instituição autorizada;
+b) Deve estabelecer procedimentos adequados a fazer face a falhas e incumprimentos dos seus membros;
 
-b) Garantia bancária.
+c) Pode criar fundos destinados, em última instância, à distribuição das perdas entre todos os membros compensadores.
 
-4 - Sobre os valores dados em caução não podem ser constituídas outras garantias.
+3 - A contraparte central deve identificar as respectivas fontes de risco operacional e minimizá-las através do estabelecimento de sistemas, controlos e procedimentos adequados, nomeadamente desenvolvendo planos de contingência.
 
-5 - Os valores recebidos em caução podem ser vendidos extrajudicialmente, nos termos a definir em regulamento da CMVM, para satisfação das obrigações emergentes das operações caucionadas ou como consequência do encerramento das posições dos membros que tenham prestado a caução.
+4 - (Revogado).
 
-6 - Em caso de abertura de um processo de falência, de recuperação de empresa ou de saneamento de um membro do mercado, as cauções a que se referem os números anteriores continuam a garantir as obrigações vencidas e não vencidas decorrentes de operações efectuadas até ao momento da abertura daquele processo, revertendo apenas para a massa falida ou para a empresa em recuperação ou saneamento o saldo que eventualmente se apure após o encerramento de todas as posições.
+5 - (Revogado).
 
-7 - É aplicável o disposto no n.º 3 do artigo 283.º
+6 - (Revogado).
+
+7 - (Revogado).

@@ -32,4 +32,4 @@ a) O registo de valores mobiliários escriturais ou o depósito de valores mobil
 
 b) A recusa de informação por entidade registadora ou depositária ou por entidade gestora de sistema centralizado às pessoas com legitimidade para a solicitar ou a omissão de envio de informações dentro dos prazos exigidos por lei ou acordados com o interessado.
 
-5 - Constituem contra-ordenação menos grave os factos referidos nos números anteriores quando relativos a valores mobiliários emitidos por sociedades fechadas ou não admitidos à negociação em mercado registado.
+5 - Constituem contra-ordenação menos grave os factos referidos nos número anteriores quando relativos a valores mobiliários emitidos por sociedades fechadas ou não admitidos à negociação em mercado regulamentado.

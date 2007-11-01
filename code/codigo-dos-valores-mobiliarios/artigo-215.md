@@ -1,13 +1,13 @@
 # Artigo 215.º
 
-### Acordos entre entidades gestoras de mercados regulamentados
+### Efeitos da suspensão e da exclusão
 
-1 - As entidades gestoras de mercados regulamentados situados ou a funcionar em Portugal devem acordar, entre si, sistemas de conexão informativa ou operativa exigidos pelo bom funcionamento dos mercados por elas geridos e pelos interesses dos investidores.
+1 - A decisão de suspensão ou de exclusão produz efeitos imediatos.
 
-2 - As entidades gestoras de mercados regulamentados situados ou a funcionar em Portugal podem celebrar acordos com entidades congéneres de outros Estados, prevendo nomeadamente:
+2 - A suspensão mantém-se pelo tempo estritamente necessário à regularização da situação que lhe deu origem, não podendo cada período de suspensão ser superior a 10 dias úteis.
 
-a) Que em cada um deles sejam negociados valores mobiliários admitidos à negociação no outro;
+3 - A suspensão da negociação não exonera o emitente do cumprimento das obrigações de informação a que esteja sujeito.
 
-b) Que os membros de cada um dos mercados regulamentados possam intervir no outro.
+4 - Se a tal não obstar a urgência da decisão, a entidade gestora de mercado regulamentado notifica o emitente para se pronunciar sobre a suspensão ou a exclusão no prazo que para o efeito lhe fixar.
 
-3 - Os acordos a que se referem os números anteriores são registados na CMVM, devendo o registo ser recusado, no caso do n.º 2, se o mercado regulamentado situado ou a funcionar em Estado estrangeiro não impuser níveis de exigência similares aos do mercado regulamentado situado ou a funcionar em Portugal quanto à admissão dos valores mobiliários à negociação, à informação a prestar ao público e a outros requisitos de protecção dos investidores.
+5 - Quando seja informada pela autoridade competente de outro Estado membro da União Europeia da respectiva decisão de suspensão ou exclusão de um instrumento financeiro da negociação em mercado regulamentado desse Estado membro, a CMVM ordena a suspensão ou exclusão da negociação desse instrumento financeiro em mercado regulamentado ou em sistema de negociação multilateral registado em Portugal, excepto quando tal puder causar prejuízos significativos aos interesses dos investidores ou ao bom funcionamento dos mercados.

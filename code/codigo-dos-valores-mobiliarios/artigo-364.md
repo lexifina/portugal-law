@@ -6,7 +6,7 @@
 
 a) Efectua as inspecções que entenda necessárias às entidades sujeitas à sua supervisão;
 
-b) Realiza inquéritos para averiguação de infracções de qualquer natureza cometidas no âmbito dos mercados de valores mobiliários ou que afectem o seu normal funcionamento;
+b) Realiza inquéritos para averiguação de infracções de qualquer natureza cometidas no âmbito do mercado de instrumentos financeiros ou que afectem o seu normal funcionamento;
 
 c) Executa as diligências necessárias ao cumprimento dos princípios referidos no artigo 358.º, nomeadamente perante as operações descritas no artigo 311.º
 

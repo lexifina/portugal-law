@@ -20,9 +20,9 @@ c) Entre (Euro) 2500 e (Euro) 250000, quando sejam qualificadas como menos grave
 
 2 - As contra-ordenações previstas nos artigos seguintes respeitam tanto à violação de deveres consagrados neste Código e sua regulamentação como à violação de deveres consagrados em outras leis, quer nacionais, quer comunitárias, e sua regulamentação, que digam respeito às seguintes matérias:
 
-a) Valores mobiliários ou outros instrumentos financeiros, ofertas públicas relativas a valores mobiliários, mercados de valores mobiliários ou de outros instrumentos financeiros, sistemas de liquidação ou intermediação financeira, sociedades de capital de risco, fundos de capital de risco ou entidades legalmente habilitadas a administrar fundos de capital de risco e regime da informação relativa a qualquer destas matérias;
+a) Instrumentos financeiros, ofertas públicas relativas a valores mobiliários, formas organizadas de negociação de instrumentos financeiros, sistemas de liquidação e compensação, contraparte central, intermediação financeira, sociedades de titularização de créditos, sociedades de capital de risco, fundos de capital de risco ou entidades legalmente habilitadas a administrar fundos de capital de risco, contratos de seguro ligados a fundos de investimento, contratos de adesão individual a fundos de pensões abertos e regime da informação e de publicidade relativa a qualquer destas matérias;
 
-b) Entidades gestoras de mercados de valores mobiliários ou outros instrumentos financeiros, de sistemas de liquidação, de sistemas centralizados de valores mobiliários ou sociedades gestoras de participações sociais nestas entidades.
+b) Entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de contraparte central, de sistemas centralizados de valores mobiliários ou sociedades gestoras de participações sociais nestas entidades.
 
 3 - Se a lei ou o regulamento exigirem que dever seja cumprido num determinado prazo considera-se que existe incumprimento logo que o prazo fixado tenha sido ultrapassado.
 

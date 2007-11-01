@@ -2,7 +2,7 @@
 
 ### Disposições especiais sobre a admissão de valores mobiliários sujeitos a direito estrangeiro
 
-1 - Salvo nos casos em que os valores mobiliários estejam admitidos à negociação em mercado regulamentado situado ou a funcionar em Estado membro da União Europeia, a CMVM pode exigir ao emitente a apresentação de parecer jurídico que ateste os requisitos do n.º 1 e da alínea a) do n.º 2 do artigo 227.º
+1 - Salvo nos casos em que os valores mobiliários estejam admitidos à negociação em mercado regulamentado situado ou a funcionar em Estado membro da União Europeia, a CMVM pode exigir ao emitente a apresentação de parecer jurídico que ateste os requisitos do n.os 1 e 2 e da alínea a) do n.º 3 do artigo 227.º
 
 2 - A admissão de valores mobiliários sujeitos ao direito de um Estado membro da Comunidade Europeia não pode ser subordinada à admissão prévia em mercado regulamentado situado ou a funcionar nesse Estado.
 
