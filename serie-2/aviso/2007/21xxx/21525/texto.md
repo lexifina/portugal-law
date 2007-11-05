@@ -1,0 +1,5 @@
+Aviso n.º 21 525/2007
+No âmbito da elaboração do Plano de Pormenor do Núcleo de Desenvolvimento Turístico da Área de Aptidão Turística de Cabeços da Bordeira, e em cumprimento do disposto nos n.os 4 e 5 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, torna-se público que se encontra aberto um período de discussão pública, com a duração de 22 dias úteis a contar do 11.º dia seguinte ao da publicação do presente aviso no Diário da República, 2.ª série.
+Nestes termos, a proposta de plano acompanhada dos pareceres emitidos encontra-se patente para consulta na Divisão de Urbanismo e Habitação desta Câmara Municipal, entre as 9 horas e as 15 horas e 30 minutos, convidando-se todos os interessados para, no decorrer do prazo acima referido, apresentarem, por escrito, as reclamações, observações ou sugestões que acharem por conveniente.
+O presente aviso vai ser afixado nos Paços do Concelho e em todos os lugares públicos de costume.
+18 de Outubro de 2007. - O Vice-Presidente da Câmara, José Manuel Velhinho Amarelinho.
