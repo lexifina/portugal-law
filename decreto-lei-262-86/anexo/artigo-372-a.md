@@ -4,4 +4,4 @@
 
 1 - As sociedades anónimas podem emitir obrigações com warrant.
 
-2 - As obrigações com warrant só podem estar admitidas à negociação em mercado regulamentado se também estiverem as acções que lhe servem de activo subjacente.
+2 - (Revogado).
