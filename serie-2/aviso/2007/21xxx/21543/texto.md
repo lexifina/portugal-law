@@ -1,0 +1,4 @@
+Aviso n.º 21 543/2007
+Na sequência do aviso n.º 17/2007, de 9 de Junho, publicado com o n.º 897-A/2007 no Diário da República, 2.ª série, n.º 151, de 7 de Agosto deste mesmo ano, torna-se público que, em reunião da Câmara Municipal e em sessão da Assembleia Municipal realizadas, respectivamente, em 21 e 27 de Setembro do corrente ano, e após ter decorrido o prazo de apreciação pública nos termos do artigo 118.º do Código do Procedimento Administrativo, foi aprovado, sem qualquer alteração, o Regulamento de Funcionamento dos Serviços de Apoio à Família nos Estabelecimentos de Educação Pré-Escolar e do 1.º Ciclo do Ensino Básico da Rede Pública do Município de Mafra, o qual entrará em vigor no dia seguinte ao da publicação do presente aviso no Diário da República.
+4 de Outubro de 2007. - O Presidente da Câmara, José Maria Ministro dos Santos.
+2611059868
