@@ -1,0 +1,11 @@
+# Artigo 65.º
+
+### Pedido de renovação do título de autorização de residência permanente
+
+1 - O pedido de renovação do título de autorização de residência permanente é acompanhado de requerimento para consulta do registo criminal português pelo SEF.
+
+2 - Em circunstâncias excepcionais, associadas a dúvidas relativamente à identidade do requerente ou à ausência de território nacional por longos períodos, o SEF pode exigir a apresentação de passaporte válido ou cópia autenticada do mesmo.
+
+3 - No caso de o pedido de renovação do título ser apresentado após o decurso do seu prazo de validade, o pedido deve ser sempre acompanhado de prova de permanência em território nacional ou comprovativo dos motivos de ausência.
+
+4 - À renovação do título de residência permanente por alteração dos elementos de identificação aplica-se o disposto nos n.os 8 e 9 do artigo 63.º
