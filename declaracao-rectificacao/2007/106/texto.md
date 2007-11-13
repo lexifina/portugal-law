@@ -1,0 +1,7 @@
+Declaração de Rectificação n.º 106/2007
+Ao abrigo da alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que a Resolução do Conselho de Ministros n.º 162/2007, publicada no Diário da República, 1.ª série, n.º 197, de 12 de Outubro de 2007, cujo original se encontra arquivado neste Centro Jurídico, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 15 do texto da resolução, onde se lê:
+«15 - Estabelecer que, até à aprovação da configuração definitiva prevista no número anterior, as despesas decorrentes do disposto nos n.os 8, 9 e 11 e de funcionamento estritamente indispensáveis para cada estrutura de missão são suportadas em 15 % pelo orçamento da autoridade de certificação do fundo comunitário que apoia o PO respectivo e em 85 % por operações específicas do Tesouro, nos termos do artigo 111.º da Lei n.º 53-A/2006, de 29 de Dezembro.»
+deve ler-se:
+«15 - Estabelecer que, até à aprovação da configuração definitiva prevista no número anterior, as despesas decorrentes do disposto nos n.os 8, 9 e 11 e de funcionamento estritamente indispensáveis para cada estrutura de missão são suportadas em 15 % pelo orçamento da autoridade de certificação do fundo comunitário que apoia o PO respectivo e em 85 % por operações específicas do Tesouro ou através do orçamento da segurança social, conforme o fundo em causa, nos termos do artigo 111.º da Lei n.º 53-A/2006, de 29 de Dezembro.»
+Centro Jurídico, 9 de Novembro de 2007. - A Directora, Susana Brito.
