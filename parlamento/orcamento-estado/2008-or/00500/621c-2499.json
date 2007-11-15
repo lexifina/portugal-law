@@ -1,0 +1,102 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kpYveTpfr2hJx0h1nnr0%2f6CozlU6ObpQgF3zXFLmcyWWmJYPja6EqBU70XxQ4lyRPwARI8w4kxQAbd0KFfGAGlGE85DI3nWkuY0OpJZB8JI1Zy1nWzTIdHVtjJ%2f7tbvX0Asl4JKVkfN8NR2f3ebEgb%2fPKqwDTmLqp8WxeP3Tf2ssHPWM0OttRymiVAuhRGGcTcow%2f2RsToVrjSjRC6SNgB8ae9WmpakqTMor1Q6eOZdmr2nSa0vnI7%2fJX20fQz6ZgPE6TY1AcxtAJeL4zsZ96SYiVN9wHWN8YVqAai%2fIRwUwhlsw5yYGvV01JnZclA4czFMreJwcLZXc3XqIMdsLOF1%2fpvfLCUFVJWyTGf0gBRrJgueYtDMJwTljS%2bs0YPqUQWRZbB4c%2bA%2ffIvGwPk4fGA%3d%3d&fich=OEPropostasAlteracao2008Or_json.txt&Inline=true",
+  "ficheiro_sha256": "0e865d58d76c0611222fb5f8ab9179c6c42bfc3ca7019a372c9105cb6620fe6f",
+  "legislatura": "X",
+  "id": "2499",
+  "numero": "621C",
+  "orcamento": "2008",
+  "versao": "Or",
+  "data_registo": "2007-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "2499",
+    "Numero": "621C",
+    "Data": "15/11/2007 23:25:00",
+    "Titulo": "Artigo 23.º, Código das Expropriações",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Substituição",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774f4449774d4463784d4445794c3142424c7a49314e6a4e6a596d45304c574577596d49744e4451774d433168597a597a4c5463355a5463325a54686c595451324d4335775a47593d&Fich=2563cba4-a0bb-4400-ac63-79e76e8ea460.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PS",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "PS",
+        "Deputado": "AFONSO CANDAL"
+      }
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 131.º",
+        "Titulo": "Alteração ao Código das Expropriações",
+        "Texto": "Os artigos 20.º e 23.º do Código das Expropriações, aprovado pela Lei n.º 168/99, de 18 de Setembro, passam a ter a seguinte redacção:\r\n\r\n«Artigo 20.º\r\n\r\n[…]\r\n\r\n1 - […].\r\n\r\n2 - […].\r\n\r\n3 - […].\r\n\r\n4 - […].\r\n\r\n5 - O depósito a que se refere a alínea b) do n.º 1 pode ser substituído por caução prestada por qual",
+        "Estado": "Aprovado(a) em Comissão com Alterações"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": {
+      "DiplomaMedida": {
+        "Titulo": "Código das Expropriações",
+        "NumerosMedidas": {
+          "NumeroMedida": [
+            {
+              "Designacao": "Lei n.º 168/99, de 18 de Setembro"
+            },
+            {
+              "Designacao": "Artigo 23.º - Justa indemnização"
+            }
+          ]
+        },
+        "Texto": "1 - A justa indemnização não visa compensar o benefício alcançado pela entidade expropriante, mas ressarcir o prejuízo que para o expropriado advém da expropriação, correspondente ao valor real e corrente do bem de acordo com o seu destino efectivo ou possível numa utilização económica normal, à data da publi"
+      }
+    },
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": null,
+        "DiplomasTerceirosouPropostasDeLeiMapas": {
+          "Diploma": [
+            "S1VP3095",
+            "Artigo 23.º do Lei n.º 168/99, de 18 de Setembro (Código das Expropriações)"
+          ]
+        },
+        "SubDescricao": "Justa indemnização",
+        "Data": "20/11/2007 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Favor",
+            "Abstenção",
+            "Abstenção",
+            "Abstenção",
+            "Abstenção",
+            "Abstenção",
+            "Abstenção"
+          ]
+        }
+      }
+    }
+  }
+}
