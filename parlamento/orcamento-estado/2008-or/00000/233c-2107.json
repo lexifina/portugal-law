@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kpYveTpfr2hJx0h1nnr0%2f6CozlU6ObpQgF3zXFLmcyWWmJYPja6EqBU70XxQ4lyRPwARI8w4kxQAbd0KFfGAGlGE85DI3nWkuY0OpJZB8JI1Zy1nWzTIdHVtjJ%2f7tbvX0Asl4JKVkfN8NR2f3ebEgb%2fPKqwDTmLqp8WxeP3Tf2ssHPWM0OttRymiVAuhRGGcTcow%2f2RsToVrjSjRC6SNgB8ae9WmpakqTMor1Q6eOZdmr2nSa0vnI7%2fJX20fQz6ZgPE6TY1AcxtAJeL4zsZ96SYiVN9wHWN8YVqAai%2fIRwUwhlsw5yYGvV01JnZclA4czFMreJwcLZXc3XqIMdsLOF1%2fpvfLCUFVJWyTGf0gBRrJgueYtDMJwTljS%2bs0YPqUQWRZbB4c%2bA%2ffIvGwPk4fGA%3d%3d&fich=OEPropostasAlteracao2008Or_json.txt&Inline=true",
+  "ficheiro_sha256": "0e865d58d76c0611222fb5f8ab9179c6c42bfc3ca7019a372c9105cb6620fe6f",
+  "legislatura": "X",
+  "id": "2107",
+  "numero": "233C",
+  "orcamento": "2008",
+  "versao": "Or",
+  "data_registo": "2007-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "2107",
+    "Numero": "233C",
+    "Data": "15/11/2007 10:17:00",
+    "Titulo": "N.º 5, Artigo 3º.",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Emenda",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774f4449774d4463784d4445794c3142424c3246684d54646b5a6d51344c54426b4e5441744e444a6a5a433035595445304c5467304e4755774e7a55344e6a5133595335775a47593d&Fich=aa17dfd8-0d50-42cd-9a14-844e0758647a.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "FRANCISCO MADEIRA LOPES"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "HELOÍSA APOLÓNIA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 3.º",
+        "Titulo": "Alienação e oneração de imóveis",
+        "Texto": "1 - A alienação e oneração de imóveis pertencentes ao Estado ou aos organismos públicos com personalidade jurídica, dotados ou não de autonomia financeira, que não tenham a natureza, forma e designação de empresa, fundação ou associação pública, depende de autorização do ministro responsável pela área das fin",
+        "Estado": "Aprovado(a) em Comissão",
+        "Numeros": {
+          "Numero": "N.º 5",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Aprovado(a) em Comissão"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 5, Artigo 3.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "20/11/2007 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Favor",
+            "Abstenção",
+            "Abstenção",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
