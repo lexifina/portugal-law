@@ -1,0 +1,90 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kpYveTpfr2hJx0h1nnr0%2f6CozlU6ObpQgF3zXFLmcyWWmJYPja6EqBU70XxQ4lyRPwARI8w4kxQAbd0KFfGAGlGE85DI3nWkuY0OpJZB8JI1Zy1nWzTIdHVtjJ%2f7tbvX0Asl4JKVkfN8NR2f3ebEgb%2fPKqwDTmLqp8WxeP3Tf2ssHPWM0OttRymiVAuhRGGcTcow%2f2RsToVrjSjRC6SNgB8ae9WmpakqTMor1Q6eOZdmr2nSa0vnI7%2fJX20fQz6ZgPE6TY1AcxtAJeL4zsZ96SYiVN9wHWN8YVqAai%2fIRwUwhlsw5yYGvV01JnZclA4czFMreJwcLZXc3XqIMdsLOF1%2fpvfLCUFVJWyTGf0gBRrJgueYtDMJwTljS%2bs0YPqUQWRZbB4c%2bA%2ffIvGwPk4fGA%3d%3d&fich=OEPropostasAlteracao2008Or_json.txt&Inline=true",
+  "ficheiro_sha256": "0e865d58d76c0611222fb5f8ab9179c6c42bfc3ca7019a372c9105cb6620fe6f",
+  "legislatura": "X",
+  "id": "2148",
+  "numero": "274C",
+  "orcamento": "2008",
+  "versao": "Or",
+  "data_registo": "2007-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "2148",
+    "Numero": "274C",
+    "Data": "15/11/2007 14:34:00",
+    "Titulo": "Novo Artigo 12.º-A: Crédito bonificado para habitação",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 12.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774f4449774d4463784d4445794c3142424c3245314d6a426b4f47466a4c575933597a49744e4749334d5331684d446b7a4c575133595455304e5441785a6a4935596935775a47593d&Fich=a520d8ac-f7c2-4b71-a093-d7a54501f29b.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "FRANCISCO MADEIRA LOPES"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "HELOÍSA APOLÓNIA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 12.º",
+        "Titulo": "Autoridades de supervisão financeira",
+        "Texto": "Os institutos públicos dotados de um estatuto de independência decorrente da sua integração nas áreas da supervisão do sistema financeiro, bem como os fundos que junto deles funcionam, não estão sujeitos às normas relativas à transição e utilização de saldos de gerência, às cativações de verbas e ao regime du",
+        "Estado": "Aprovado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 12.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Autoridades de supervisão financeira",
+        "Data": "20/11/2007 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
