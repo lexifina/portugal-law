@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal de Justiça de 2007-11-15, processo 07P3236
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 07P3236
+
+**Nº Convencional:** JSTJ000
+
+**Relator:** SANTOS CARVALHO
+
+**Descritores:** NULIDADE PROCESSUAL; PROVA PROIBIDA; LEITURA PERMITIDA DE AUTOS E DECLARAÇÕES; SENTENÇA; FUNDAMENTAÇÃO; FACTO ILÍCITO; DIREITO DE DEFESA
+
+**Nº do Documento:** SJ200711150032365
+
+**Data do Acordão:** 11/15/2007
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO PENAL
+
+**Decisão:** PROVIDO PARCIALMENTE
+
+## Sumário
+
+I - Há que distinguir as nulidades processuais de que tratam os art.ºs 118.º e segs. dos «meios proibidos de prova», de que trata o art.º 126.º.
+
+II - A «nulidade» cominada pelo art. 126.º, n.º 3, do Código de Processo Penal não pode ser vista como uma «nulidade dos actos processuais» nem lhe cabe o regime processual dos art.ºs 118.º e ss., pois o próprio art.º 118.º sublinha expressamente, no seu n.º 3, que «as disposições do presente título não prejudicam as normas deste Código relativas a proibições de prova».
+
+III – A «nulidade» dos métodos proibidos importa sempre, quanto à sua «admissibilidade», a «proibição da sua utilização» e, quanto ao seu «valor», a «irrelevância» dos métodos proibidos porventura utilizados».
+
+IV - De acordo com o art.º 355.º do CPP, não valem em julgamento, nomeadamente para o efeito de formação da convicção do tribunal, quaisquer provas que não tiverem sido produzidas ou examinadas em audiência, com ressalva das provas contidas em actos processuais cuja leitura, visualização ou audição em audiência sejam permitidas. E, em princípio e salvo excepções que não vêm aqui ao caso, só podem ser lidos na audiência os autos de inquirição prestados perante o juiz (art.º 356.º).
+
+V - Assim, o tribunal recorrido não devia ter mencionado, ainda que para fundamentar a sua convicção, as inquirições prestadas por certas testemunhas em sede de inquérito, como sendo contraditórias com as prestadas na audiência.
+
+VI – Não se podem considerar como “factos” as imputações genéricas, em que não se indica o lugar, nem o tempo, nem a motivação, nem o grau de participação, nem as circunstâncias relevantes, mas um conjunto fáctico não concretizado, pois a aceitação dessas afirmações para efeitos penais inviabiliza o direito de defesa e, assim, constitui uma grave ofensa aos direitos constitucionais previstos no art.º 32.º da Constituição. Por isso, essas imputações genéricas não são “factos” susceptíveis de sustentar uma condenação penal.
