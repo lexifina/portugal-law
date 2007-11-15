@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kpYveTpfr2hJx0h1nnr0%2f6CozlU6ObpQgF3zXFLmcyWWmJYPja6EqBU70XxQ4lyRPwARI8w4kxQAbd0KFfGAGlGE85DI3nWkuY0OpJZB8JI1Zy1nWzTIdHVtjJ%2f7tbvX0Asl4JKVkfN8NR2f3ebEgb%2fPKqwDTmLqp8WxeP3Tf2ssHPWM0OttRymiVAuhRGGcTcow%2f2RsToVrjSjRC6SNgB8ae9WmpakqTMor1Q6eOZdmr2nSa0vnI7%2fJX20fQz6ZgPE6TY1AcxtAJeL4zsZ96SYiVN9wHWN8YVqAai%2fIRwUwhlsw5yYGvV01JnZclA4czFMreJwcLZXc3XqIMdsLOF1%2fpvfLCUFVJWyTGf0gBRrJgueYtDMJwTljS%2bs0YPqUQWRZbB4c%2bA%2ffIvGwPk4fGA%3d%3d&fich=OEPropostasAlteracao2008Or_json.txt&Inline=true",
+  "ficheiro_sha256": "0e865d58d76c0611222fb5f8ab9179c6c42bfc3ca7019a372c9105cb6620fe6f",
+  "legislatura": "X",
+  "id": "2561",
+  "numero": "683C",
+  "orcamento": "2008",
+  "versao": "Or",
+  "data_registo": "2007-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "2561",
+    "Numero": "683C",
+    "Data": "15/11/2007 23:51:00",
+    "Titulo": "Artigo 126.º",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Substituição",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774f4449774d4463784d4445794c3142424c7a41354e4749304e324d794c544d7a4f446b744e4451354d7931685a544a6d4c5441354d7a56694e32457a4e445a6a4f5335775a47593d&Fich=094b47c2-3389-4493-ae2f-0935b7a346c9.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PS",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "PS",
+        "Deputado": "AFONSO CANDAL"
+      }
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 126.º",
+        "Titulo": "Fundo Remanescente da Reconstrução do Chiado",
+        "Texto": "Os saldos financeiros do Fundo Remanescente de Reconstrução do Chiado colocados à ordem da Direcção-Geral do Tesouro e Finanças nos termos do n.º 2 do artigo 24.º do Decreto-Lei n.º 321/2002, de 31 de Dezembro, e da alínea b) do n.º 1 do mesmo artigo, na redacção dada pela Lei n.º 53-A/2006, de 29 de Dezembro",
+        "Estado": "Prejudicado(a)"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 126.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Fundo Remanescente da Reconstrução do Chiado",
+        "Data": "20/11/2007 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Favor",
+            "Favor",
+            "Ausente",
+            "Ausente",
+            "Ausente",
+            "Ausente",
+            "Ausente"
+          ]
+        }
+      }
+    }
+  }
+}
