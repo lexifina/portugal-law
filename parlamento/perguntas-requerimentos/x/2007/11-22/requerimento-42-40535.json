@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "40535",
+  "tipo": "Requerimento",
+  "numero": "42",
+  "data_registo": "2007-11-22",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Acordo com o Ministério da Educação, relativo a actividades de enriquecimento curricular no 1º Ciclo do Ensino Básico",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2060",
+        "nome": "José Paulo Areia de Carvalho"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2167",
+        "nome": "Abel Baptista"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1923",
+        "nome": "Teresa Vasconcelos Caeiro"
+      }
+    ],
+    "DataEnvio": "2007-11-23",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2007-11-23",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Fundão",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2007-12-27",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Fundão",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e5454433969596a686d4f5751784e53316d5a6d59314c54526c5a6a6b744f44466c5a533077596a5134596d466b4d7a68694f5451756347526d&fich=bb8f9d15-fff5-4ef9-81ee-0b48bad38b94.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2007-11-22",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e545443396d5a4745354e6d4d355a43316c5a54646c4c54526b4d4467744f4463794d4330304f445a6d4e6a526c4d4745354e7a6b756347526d&fich=fda96c9d-ee7e-4d08-8720-486f64e0a979.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "40535",
+    "Legislatura": "X",
+    "Nr": "42",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "418252",
+        "obs": null,
+        "pag": [
+          "84-85"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007",
+        "pubLeg": "X",
+        "pubNr": "30",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/030/2007-12-04/84?pgs=84-85&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
