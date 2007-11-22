@@ -1,0 +1,6 @@
+Aviso n.º 22 945/2007
+Plano de Pormenor das Corgas
+O Dr. Manuel Castro Almeida, presidente da Câmara Municipal de São João da Madeira, torna público que, no âmbito da elaboração do Plano de Pormenor das Corgas, e em cumprimento do disposto nos n.os 3 e 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 316/2007, de 16 de Setembro, e na sequência da deliberação tomada na reunião da Câmara Municipal de São João da Madeira do dia 30 de Outubro de 2007, se encontra aberto um período de discussão pública, com a duração de 22 dias úteis a contar do 5.º dia seguinte ao da publicação do presente aviso no Diário da República, 2.ª série.
+Nestes termos, a proposta de plano encontra-se patente para consulta no gabinete de atendimento ao munícipe, entre as 9 e as 16 horas, convidando-se todos os interessados para, no decorrer do prazo acima referido, apresentarem, por escrito, as reclamações, observações ou sugestões que acharem por conveniente.
+Os interessados deverão apresentar as sugestões, informações ou observações mediante exposição dirigida ao presidente da Câmara Municipal de São João da Madeira, devendo neste constar a identificação e o endereço dos seus autores e a qualidade em que as apresentam.
+6 de Novembro de 2007. - O Presidente da Câmara, Manuel Castro de Almeida.
