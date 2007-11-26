@@ -1,0 +1,40 @@
+Portaria n.º 1509/2007
+de 26 de Novembro
+O Decreto-Lei n.º 202/2004, de 18 de Agosto, com a redacção conferida pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, limita o exercício da caça aos portadores de um conjunto de documentos em que se incluem as licenças de caça e define ainda que a atribuição da referida licença de caça está sujeita ao pagamento de taxa.
+Com a presente portaria, para além de se definirem os tipos e validade das licenças de caça, introduz-se um novo mecanismo de requerimento e obtenção das licenças que ao utilizar, cumulativamente com os balcões da Direcção-Geral dos Recursos Florestais (DGRF), a extensa e bem distribuída rede do Multibanco, permite aos utentes um mais fácil e cómodo acesso ao licenciamento, garantindo ainda uma maior celeridade na prestação deste serviço, simplificando e actualizando desta forma um procedimento que dava já sinais de desajuste face ao actual contexto social.
+Definem-se finalmente os montantes a pagar pela emissão de cada um dos tipos de licença de caça.
+Assim:
+Com fundamento no disposto nos artigos 73.º e 159.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a redacção conferida pelo Decreto-Lei n.º 201/2005, de 24 de Novembro:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º
+Tipo e validade das licenças
+1 - As licenças de caça são dos tipos seguintes:
+a) Licença de caça nacional;
+b) Licença de caça regional;
+c) Licença de caça para não residentes em território nacional.
+2 - As licenças referidas no número anterior são válidas por época venatória e autorizam o exercício da caça a todas as espécies cinegéticas:
+a) Licença de caça nacional - em todo o território nacional;
+b) Licença de caça regional - na região cinegética a que se refere;
+c) Licença de caça para não residentes em território nacional - em todo o território nacional.
+3 - As licenças de caça são válidas por uma época venatória.
+2.º
+Requerimento das licenças e prova da titularidade
+1 - As licenças de caça referidas no número anterior podem ser requeridas e obtidas através da rede do Multibanco ou junto dos serviços da Direcção-Geral dos Recursos Florestais (DGRF).
+2 - Exceptuam-se do disposto no número anterior as licenças de caça para não residentes em território nacional, que apenas podem ser requeridas nos serviços da DGRF.
+3 - As licenças de caça emitidas constam de um registo na DGRF e, complementarmente, do talão do Multibanco ou do recibo da DGRF, que devem acompanhar o caçador no exercício da caça.
+4 - Nos documentos referidos no número anterior deve constar, designadamente:
+a) A data de emissão;
+b) O número da carta de caçador, quando não esteja legalmente dispensado da mesma;
+c) O tipo de licença;
+d) O montante cobrado.
+5 - No caso de extravio de qualquer dos documentos a que se refere o n.º 3, pode ser pedido à DGRF a emissão de comprovativo da titularidade de licença, sendo o seu custo estipulado anualmente na tabela de bens e serviços da DGRF.
+3.º
+Taxas
+Os montantes das taxas devidas em cada época venatória pela emissão das licenças referidas no n.º 1 são os seguintes:
+a) Licença de caça nacional - (euro) 60;
+b) Licença de caça regional - (euro) 30;
+c) Licença de caça para não residentes em território nacional - (euro) 70.
+4.º
+Norma revogatória
+É revogado o n.º 1.º da Portaria n.º 469/2001, de 9 de Maio.
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 16 de Novembro de 2007.
