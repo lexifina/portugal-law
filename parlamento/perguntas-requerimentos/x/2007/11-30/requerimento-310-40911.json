@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "40911",
+  "tipo": "Requerimento",
+  "numero": "310",
+  "data_registo": "2007-11-30",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Constituição das Comissões Arbitrais",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1102",
+        "nome": "Pedro Mota Soares"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1953",
+        "nome": "Diogo Feio"
+      }
+    ],
+    "DataEnvio": "2007-12-06",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2007-12-06",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Paços de Ferreira",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2007-12-19",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Paços de Ferreira",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e545443396b4f544a69596a41784d53316d4d4449344c5451324f5451744f44557a5a4330355a6a45354e6a67325a6a4a6d4d7a59756347526d&fich=d92bb011-f028-4694-853d-9f19686f2f36.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2007-11-30",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e5454433968597a42685a446b774e693168596d526d4c5451774e7a6b745954566a5a6930314e54497a5a475a684e5756685a5455756347526d&fich=ac0ad906-abdf-4079-a5cf-5523dfa5eae5.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "40911",
+    "Legislatura": "X",
+    "Nr": "310",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "420325",
+        "obs": null,
+        "pag": [
+          "414-415"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007",
+        "pubLeg": "X",
+        "pubNr": "34",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/034/2007-12-12/414?pgs=414-415&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
