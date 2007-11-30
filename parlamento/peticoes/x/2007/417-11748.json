@@ -1,0 +1,457 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11748",
+  "numero": "417",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2007-11-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2008-01-04",
+            "dataResposta": "2008-03-06",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "5/10ª/CS/2008",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d454e546347397a556b46534c305276593356745a57353062334e515a585270593246764c7a646d5a6d49344d6a4a6b4c5451774e5451744e4459784d6930355a5752694c5467345954597859544e684d6a4d305a6935775a47593d&fich=7ffb822d-4054-4612-9edb-88a61a3a234f.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2008-07-15",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2007-12-12",
+        "DataArquivo": "2008-07-16",
+        "DataBaixaComissao": "2007-12-12",
+        "DataEnvioPAR": "2008-07-16",
+        "DataReaberta": "2007-12-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2007-11-30",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d454e546347397a556b46534c305276593356745a57353062334e515a585270593246764c7a59775a6d52694d544e6b4c574d344e3249744e4759315a5330344d7a4e694c544931597a4d3559574e6d597a51344d6935775a47593d&fich=60fdb13d-c87b-4f5e-833b-25c39acfc482.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2007-11-30",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d454e546347397a556b46534c305276593356745a57353062334e515a585270593246764c7a646d5a6d49344d6a4a6b4c5451774e5451744e4459784d6930355a5752694c5467345954597859544e684d6a4d305a6935775a47593d&fich=7ffb822d-4054-4612-9edb-88a61a3a234f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2007-11-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d454e546347397a556b46534c305276593356745a57353062334e515a585270593246764c32466d4f44457a4e6a646b4c5463315a6d51744e4467334e4330354e6a59794c546b32593259345a6a45794d7a4977596935775a47593d&fich=af81367d-75fd-4874-9662-96cf8f12320b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1912",
+        "Legislatura": "X",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-12-12",
+            "gp": "PS",
+            "id": "2150",
+            "motivoCessacao": null,
+            "nome": "Marisa Costa"
+          }
+        ],
+        "RelatorioFinal": [
+          "22375"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2008-09-26",
+    "Documentos": [
+      {
+        "DataDocumento": "2007-11-30",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a4e5745784d4759324d53316a5a544d354c5452694e6a59744f54686d4d43316c4e444a6c4e54526d4e7a5a6a4d3249756347526d&fich=c5a10f61-ce39-4b66-98f0-e42e54f76c3b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2008-09-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "169709",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-09-27",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/006/2008-09-27/22?pgs=22&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelas Comissões de Utentes da Saúde do concelho do Seixal, solicitando àAssembleia da República a reabertura dos Serviços de Atendimento Permanente de Corroios e do Seixal \n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-09-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "169710",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-09-27",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/006/2008-09-27/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelas Comissões de Utentes da Saúde do concelho do Seixal, solicitando àAssembleia da República a reabertura dos Serviços de Atendimento Permanente de Corroios e do Seixal \n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-09-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "169711",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-09-27",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/006/2008-09-27/23?pgs=23-25&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelas Comissões de Utentes da Saúde do concelho do Seixal, solicitando àAssembleia da República a reabertura dos Serviços de Atendimento Permanente de Corroios e do Seixal \n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-09-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "169712",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-09-27",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/006/2008-09-27/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelas Comissões de Utentes da Saúde do concelho do Seixal, solicitando àAssembleia da República a reabertura dos Serviços de Atendimento Permanente de Corroios e do Seixal \n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-09-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "169713",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-09-27",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/006/2008-09-27/26?pgs=26&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelas Comissões de Utentes da Saúde do concelho do Seixal, solicitando àAssembleia da República a reabertura dos Serviços de Atendimento Permanente de Corroios e do Seixal \n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-09-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "169714",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-09-27",
+                "pubLeg": "X",
+                "pubNr": "6",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/006/2008-09-27/27?pgs=27&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelas Comissões de Utentes da Saúde do concelho do Seixal, solicitando àAssembleia da República a reabertura dos Serviços de Atendimento Permanente de Corroios e do Seixal \n",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11748",
+    "PetAssunto": "Reivindicam a reabertura dos Serviços de Atendimento Permanente de Corroios e do Seixal no Concelho do Seixal.",
+    "PetDataEntrada": "2007-11-30",
+    "PeticoesAssociadas": null,
+    "PetId": "11748",
+    "PetLeg": "X",
+    "PetNr": "417",
+    "PetNrAssinaturas": "40000",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "267",
+        "obs": null,
+        "pag": [
+          "22-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-09-27",
+        "pubLeg": "X",
+        "pubNr": "6",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/006/2008-09-27/22?pgs=22-27&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "421530",
+        "obs": null,
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-12-22",
+        "pubLeg": "X",
+        "pubNr": "38",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/038/2007-12-22/3?pgs=3&org=PLC"
+      }
+    ]
+  }
+}
