@@ -1,0 +1,118 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "40815",
+  "tipo": "Requerimento",
+  "numero": "150",
+  "data_registo": "2007-12-04",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Sobre as taxas a aplicar aos apicultores na Reserva Natural da Serra da Malcata",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "2078",
+        "nome": "Luís Carloto Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2147",
+        "nome": "Carlos Poço"
+      }
+    ],
+    "DataEnvio": "2007-12-06",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2007-12-06",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DO  AMBIENTE E DO ORDENAMENTO DO TERRITÓRIO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2008-02-01",
+            "docRemetida": null,
+            "entidade": "MIN.  DA   AGRICULTURA , DO DESENVOLVIMENTO RURAL E DAS PESCAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544339685a574e694f5467304e533031595751794c545178596a597459545a6b4d69316c4e47466c4e6a4e6b5a44466d4e7a45756347526d&fich=aecb9845-5ad2-41b6-a6d2-e4ae63dd1f71.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2007-12-04",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e545443387a4e6d526d596d4935595330354d5751774c5451334d7a51744f54566d4d43316b4e47457a5a575a6a4e6a4533596a6b756347526d&fich=36dfbb9a-91d0-4734-95f0-d4a3efc617b9.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "40815",
+    "Legislatura": "X",
+    "Nr": "150",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "420120",
+        "obs": null,
+        "pag": [
+          "40-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007",
+        "pubLeg": "X",
+        "pubNr": "33",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/033/2007-12-11/40?pgs=40-41&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": [
+      {
+        "dataResposta": "2008-02-01",
+        "docRemetida": null,
+        "entidade": null,
+        "ficheiro": "",
+        "ficheiroComTipo": null,
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "424960",
+            "obs": null,
+            "pag": [
+              "66-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2008",
+            "pubLeg": "X",
+            "pubNr": "60",
+            "pubSL": "3",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/060/2008-02-12/66?pgs=66&org=PLC"
+          }
+        ]
+      }
+    ],
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
