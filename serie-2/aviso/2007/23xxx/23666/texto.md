@@ -1,0 +1,9 @@
+Aviso n.º 23666/2007
+Revisão do Plano Director Municipal de Vila do Porto
+Nos termos do artigo 74.º, n.º 1, do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, faz-se saber que a Câmara Municipal de Vila do Porto deliberou, na reunião de 30 de Outubro de 2007, iniciar o processo de revisão do Plano Director Municipal (PDM) abrangendo a área territorial do concelho de Vila do Porto.
+A revisão do PDM tem em vista a prossecução dos objectivos determinados no documento de enquadramento à decisão da revisão do PDM, aprovado na reunião de 30 de Outubro de 2007.
+Nos termos do artigo 77.º, n.º 2, do citado diploma legal, torna-se também público que, considerando o direito à participação dos interessados, podem ser formuladas sugestões, bem como apresentadas informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração, dentro do prazo de 30 dias, contados a partir da data da publicação do presente aviso no Diário da República.
+Os interessados deverão apresentar as suas observações ou sugestões em impresso próprio, que pode ser obtido nos serviços administrativos da Câmara Municipal de Vila do Porto, ou através do site www.cm-viladoporto.pt, as quais deverão ser dirigidas à Presidente da Câmara Municipal de Vila do Porto, Largo Nossa Senhora da Conceição, 9580-539 Vila do Porto.
+O prazo de elaboração da revisão deste plano municipal será, previsivelmente, de 12 meses após a formalização da contratação relativa à aquisição de bens e serviços, excluindo os períodos de apreciação e aprovação.
+Para constar se passou o presente aviso, a que vai ser dada publicidade prevista na lei.
+8 de Novembro de 2007. - A Presidente da Câmara, Nélia Maria Coutinho Figueiredo.
