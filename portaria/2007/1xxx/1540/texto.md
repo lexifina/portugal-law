@@ -1,0 +1,80 @@
+Portaria n.º 1540/2007
+de 6 de Dezembro
+O controlo metrológico dos métodos e instrumentos de medição em Portugal, em geral, obedece ao regime constante do Decreto-Lei n.º 291/90, de 20 de Setembro, às disposições regulamentares gerais constantes do Regulamento Geral do Controlo Metrológico aprovado pela Portaria n.º 962/90, publicada no Diário da República, 1.ª série, de 9 de Outubro de 1990, e ainda às disposições constantes das portarias específicas de cada instrumento de medição.
+Recentemente, o Decreto-Lei n.º 192/2006, de 26 de Setembro, transpondo para o direito interno a Directiva n.º 2004/22/CE, do Parlamento Europeu e do Conselho, de 31 de Março, veio regular o controlo metrológico dos 11 instrumentos de medição elencados no seu artigo 2.º
+Para os instrumentos de medição abrangidos pelo Decreto-Lei n.º 291/90, de 20 de Setembro, e que não mereceram qualquer adaptação através do Decreto-Lei n.º 192/2006, de 26 de Setembro, verifica-se a necessidade de actualizar as regras a que o respectivo controlo metrológico deve obedecer com vista a acompanhar, tecnicamente, o que vem sendo indicado nas Recomendações da Organização Internacional de Metrologia Legal. A actualização mostra-se ainda necessária para simplificar e clarificar procedimentos, dando, assim, cumprimento à medida prevista no Programa SIMPLEX para 2007.
+Pelos motivos acima indicados, a presente portaria procede à aprovação do novo regulamento a que deve obedecer o controlo metrológico dos sistemas de medição de força das máquinas de ensaio.
+Assim:
+Ao abrigo do disposto no n.º 1 do artigo 1.º e no artigo 15.º do Decreto-Lei n.º 291/90, de 20 de Setembro, conjugado com o disposto no n.º 1.2 do Regulamento Geral do Controlo Metrológico anexo à Portaria n.º 962/90, de 9 de Outubro:
+Manda o Governo, pelo Secretário de Estado Adjunto, da Indústria e da Inovação, o seguinte:
+1.º É aprovado o Regulamento dos Sistemas de Medição de Força das Máquinas de Ensaio anexo à presente portaria e que dela faz parte integrante.
+2.º É revogada a Portaria n.º 871/89, de 9 de Outubro.
+3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+O Secretário de Estado Adjunto, da Indústria e da Inovação, António José de Castro Guerra, em 28 de Novembro de 2007.
+REGULAMENTO DOS SISTEMAS DE MEDIÇÃO DE FORÇA DAS MÁQUINAS DE ENSAIO
+Artigo 1.º
+Âmbito de aplicação
+O presente Regulamento aplica-se à verificação metrológica dos sistemas de medição de força das máquinas de ensaio estático de tracção, compressão e flexão, adiante designadas máquinas de ensaio, utilizadas em certificação da qualidade de produtos.
+Artigo 2.º
+Requisitos das máquinas de ensaio
+1 - As máquinas de ensaio devem cumprir os requisitos metrológicos e técnicos, definidos nas normas de ensaio ou de produto.
+2 - As máquinas de ensaio serão objecto de classificação de acordo com as normas:
+a) Máquinas de tracção e de compressão - EN ISO 7500-1;
+b) Máquinas de flexão - NP 4015-1.
+Artigo 3.º
+Controlo metrológico
+1 - A verificação metrológica das máquinas de ensaio é da competência do Instituto Português da Qualidade, I. P. - IPQ e compreende as seguintes operações:
+a) Primeira verificação;
+b) Verificação periódica;
+c) Verificação extraordinária.
+2 - As operações de verificação devem ser requeridas à entidade verificadora competente em impresso próprio.
+3 - O utilizador da máquina apresentada ao controlo metrológico colocará a mesma e um operador qualificado à disposição da entidade verificadora.
+4 - O controlo metrológico poderá ser delegado nos termos da alínea c) do n.º 1 do artigo 8.º do Decreto-Lei n.º 291/90.
+Artigo 4.º
+Primeira verificação
+1 - A primeira verificação é efectuada após instalação da máquina:
+a) Antes da sua colocação em serviço;
+b) Após reparação ou alteração dos dispositivos de medição ou de indicação;
+c) Após transferência de local de instalação que exija a sua desmontagem;
+d) Sempre que ocorra violação do sistema de selagem.
+2 - Com o requerimento da primeira verificação serão entregues formulário de registo próprio, memória descritiva, desenhos e fotografias que esclareçam a constituição, construção, montagem e funcionamento da máquina de ensaio, em especial no que se refere aos dispositivos de regulação e afinação.
+3 - A realização da primeira verificação dispensa a verificação periódica no ano em que aquela for efectuada.
+Artigo 5.º
+Verificação periódica
+A verificação periódica é anual.
+Artigo 6.º
+Verificação extraordinária
+A verificação extraordinária compreende os ensaios da verificação periódica e tem a mesma validade.
+Artigo 7.º
+Erros máximos admissíveis
+1 - Os erros máximos admissíveis - EMA do sistema de medição da força e os limites da resolução relativa do aparelho indicador da força, são definidos no anexo à presente portaria e dela fazendo parte integrante.
+2 - A classe de exactidão de cada escala de força é atribuída em função dos EMA e da resolução relativa.
+3 - Para que uma determinada classe de exactidão possa ser atribuída a uma escala de força, é necessário que os respectivos limites sejam respeitados pelo menos ao longo da gama compreendida entre 20 % e 100 % do alcance máximo nominal da escala.
+Artigo 8.º
+Certificado
+1 - A entidade verificadora emitirá certificado próprio correspondente à operação efectuada, contendo, além do seu nome e título:
+a) Identificação do requerente;
+b) Identificação da máquina;
+c) Data e local da verificação;
+d) Tipo de verificação efectuada;
+e) Classe de exactidão atribuída a cada escala de força;
+f) Identificação do padrão utilizado;
+g) Resultados dos ensaios.
+2 - O certificado referido no número anterior deve ser conservado pelo utilizador da máquina de ensaio no respectivo processo individual e estar disponível no local de instalação, para todos os interessados.
+Artigo 9.º
+Inscrições e marcações
+As máquinas de ensaio devem conter, em placa ou etiqueta inamovível, em local visível, em caracteres facilmente legíveis e em português, as indicações seguintes:
+a) Marca
+b) Modelo;
+c) Número de série e ano de fabrico;
+d) Nome do fabricante ou importador;
+e) Alcance máximo;
+f) Tipo de aplicação da carga (tracção, compressão ou flexão);
+g) Exigências de alimentação eléctrica.
+Artigo 10.º
+Disposições finais
+O disposto nos números anteriores não impede a comercialização, instalação e colocação em serviço de máquinas de ensaio acompanhadas de certificados referentes aos diferentes controlos metrológicos emitidos, seja por entidades oficiais de qualquer Estado membro da União Europeia, da Turquia ou de um Estado subscritor do Acordo sobre o Espaço Económico Europeu, seja por organismos europeus reconhecidos segundo critérios equivalentes às normas europeias aplicáveis, com base em especificações e procedimentos que assegurem uma qualidade metrológica equivalente à visada pelo presente diploma.
+ANEXO
+Os erros máximos admissíveis - EMA são definidos pelos seguintes valores:
+
+(ver documento original)
