@@ -1,0 +1,499 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "52",
+    "id": "33574",
+    "titulo": "Decreto-Lei n.º 308/2007, de 3 de Setembro, que \"Cria o programa Porta 65 - Arrendamento por Jovens, instrumento de apoio financeiro ao arrendamento por jovens, e revoga o Decreto-Lei n.º 162/92, de 5 de Agosto\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2007-12-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "6013",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2007-12-07",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2007-12-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "14:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166667",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-12-10",
+                "pubLeg": "X",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/023/2007-12-10/51?pgs=51-53&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 308/2007, de 3 de Setembro, que \"Cria o programa Porta 65 - Arrendamento por Jovens, instrumento de apoio financeiro ao arrendamento por jovens, e revoga o Decreto-Lei n.º 162/92, de 5 de Agosto\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "14:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166668",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-12-10",
+                "pubLeg": "X",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/023/2007-12-10/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 308/2007, de 3 de Setembro, que \"Cria o programa Porta 65 - Arrendamento por Jovens, instrumento de apoio financeiro ao arrendamento por jovens, e revoga o Decreto-Lei n.º 162/92, de 5 de Agosto\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2060",
+                "nome": "José Paulo Areia de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "14:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166669",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-12-10",
+                "pubLeg": "X",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/023/2007-12-10/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 308/2007, de 3 de Setembro, que \"Cria o programa Porta 65 - Arrendamento por Jovens, instrumento de apoio financeiro ao arrendamento por jovens, e revoga o Decreto-Lei n.º 162/92, de 5 de Agosto\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2051",
+                "nome": "Pedro Nuno Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "14:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166670",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-12-10",
+                "pubLeg": "X",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/023/2007-12-10/55?pgs=55-57&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 308/2007, de 3 de Setembro, que \"Cria o programa Porta 65 - Arrendamento por Jovens, instrumento de apoio financeiro ao arrendamento por jovens, e revoga o Decreto-Lei n.º 162/92, de 5 de Agosto\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "1785",
+                "nome": "Francisco Madeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "14:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166671",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-12-10",
+                "pubLeg": "X",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/023/2007-12-10/58?pgs=58&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 308/2007, de 3 de Setembro, que \"Cria o programa Porta 65 - Arrendamento por Jovens, instrumento de apoio financeiro ao arrendamento por jovens, e revoga o Decreto-Lei n.º 162/92, de 5 de Agosto\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2072",
+                "nome": "Ana Zita Gomes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "14:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166672",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-12-10",
+                "pubLeg": "X",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/023/2007-12-10/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 308/2007, de 3 de Setembro, que \"Cria o programa Porta 65 - Arrendamento por Jovens, instrumento de apoio financeiro ao arrendamento por jovens, e revoga o Decreto-Lei n.º 162/92, de 5 de Agosto\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "14:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DO  ORDENAMENTO DO TERRITÓRIO E DAS CIDADES",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "João Ferrão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166673",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-12-10",
+                "pubLeg": "X",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/023/2007-12-10/60?pgs=60-64&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 308/2007, de 3 de Setembro, que \"Cria o programa Porta 65 - Arrendamento por Jovens, instrumento de apoio financeiro ao arrendamento por jovens, e revoga o Decreto-Lei n.º 162/92, de 5 de Agosto\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2108",
+                "nome": "André Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "14:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166674",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-12-10",
+                "pubLeg": "X",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/023/2007-12-10/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 308/2007, de 3 de Setembro, que \"Cria o programa Porta 65 - Arrendamento por Jovens, instrumento de apoio financeiro ao arrendamento por jovens, e revoga o Decreto-Lei n.º 162/92, de 5 de Agosto\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "14:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "166675",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-12-10",
+                "pubLeg": "X",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/023/2007-12-10/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 308/2007, de 3 de Setembro, que \"Cria o programa Porta 65 - Arrendamento por Jovens, instrumento de apoio financeiro ao arrendamento por jovens, e revoga o Decreto-Lei n.º 162/92, de 5 de Agosto\".",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "250822",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "6013",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-12-10",
+        "pubLeg": "X",
+        "pubNr": "23",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/023/2007-12-10?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
