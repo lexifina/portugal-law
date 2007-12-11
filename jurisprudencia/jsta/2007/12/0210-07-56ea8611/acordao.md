@@ -1,0 +1,29 @@
+# Acórdão do Supremo Tribunal Administrativo de 2007-12-11, processo 0210/07
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0210/07
+
+**Data do Acordão:** 12/11/2007
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** EDMUNDO MOSCOSO
+
+**Descritores:** PROCEDIMENTO CAUTELAR; FORMAÇÃO DOS CONTRATOS; PONDERAÇÃO DE INTERESSES; ILEGALIDADE
+
+**Nº Convencional:** JSTA0008602
+
+**Nº do Documento:** SAP200712110210
+
+**Recorrente:** A...
+
+**Recorrido 1:** CM E OUTRO
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I – Impondo a alínea a) do número 1 do art. 120º do CPTA, que sejam adoptadas as providências cautelares “quando seja evidente a procedência da pretensão formulada ou a formular no processo principal, designadamente por estar em causa a impugnação de um acto manifestamente ilegal” o deferimento da providência, ao abrigo do requisito previsto nesse preceito e cuja verificação implica, só por si, o deferimento imediato do meio cautelar, exige que as ilegalidades imputadas ao acto sejam notórias e visíveis sem necessidade de qualquer elaborada indagação.
+
+II – Não há lugar à adopção de uma determinada providência cautelar, ao abrigo do disposto no artº 132º nº 6 do CPTA quando, em termos de probabilidade e ponderados os interesses em presença se conclua que os danos que resultariam com a adopção da providência e consequente paralisação total do procedimento concursal, seriam superiores aos prejuízos que decorreriam caso a providência não seja decretada.
