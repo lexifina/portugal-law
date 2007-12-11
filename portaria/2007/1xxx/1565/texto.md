@@ -1,0 +1,13 @@
+Portaria n.º 1565/2007
+de 11 de Dezembro
+Pela Portaria n.º 84/2002, de 24 de Janeiro, foi criada a zona de caça municipal de Antas (processo n.º 2748-DGRF), situada no município de Esposende, válida até 1 de Março de 2008, e transferida a sua gestão para o Clube de Caçadores de Antas - Esposende.
+Entretanto, a entidade titular veio requerer a sua renovação e ao mesmo tempo a anexação de outros prédios rústicos, tendo em simultâneo solicitado a correcção da área primitivamente concessionada de 2190 ha para 1578 ha por correcção dos limites das áreas sociais (terrenos não cinegéticos).
+Cumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º, 21.º e 26.º, em conjugação com o estipulado na alínea a) do artigo 18.º, e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, ouvido o Conselho Cinegético Municipal:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria esta zona de caça é renovada, por um período de seis anos, englobando os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Antas, Belinho e Forjães, município de Esposende, com a área de 1578 ha.
+2.º São anexados à presente zona de caça vários prédios rústicos sitos nas freguesias de Antas e Belinho, município de Esposende, com a área de 126 ha.
+3.º Esta zona de caça após a sua renovação e anexação dos terrenos acima referidos ficará com a área total de 1704 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+4.º A presente portaria produz efeitos a partir do dia 2 de Março de 2008.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 27 de Novembro de 2007. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 28 de Novembro de 2007.
+
+(ver documento original)
