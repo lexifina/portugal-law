@@ -16,11 +16,11 @@ e) Outras informações respeitantes a processos de recrutamento ou de mobilidad
 
 2 - A BEP - Açores contém também o registo e divulgação de:
 
-a) Despachos conjuntos de afectação de funcionários integrados nos quadros regionais de ilha;
+a) Despachos conjuntos de afectação de funcionários e trabalhadores em regime de contrato de trabalho por tempo indeterminado, integrados nos quadros regionais de ilha;
 
 b) Despachos de afectação do respectivo membro do Governo Regional quando a afectação se efectivar dentro do mesmo departamento do Governo e no mesmo quadro regional de ilha;
 
-c) Lista de afectação de funcionários integrados em quadros regionais de ilha.
+c) Lista de afectação de funcionários e trabalhadores em regime de contrato de trabalho por tempo indeterminado, integrados nos quadros regionais de ilha.
 
 3 - O registo da informação na BEP - Açores compete:
 
