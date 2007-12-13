@@ -1,0 +1,9 @@
+# Artigo 6.º
+
+### Imigração ilegal e tráfico de seres humanos
+
+1 - Os órgãos e serviços da Marinha/AMN e a GNR realizam, nos termos da lei, sob coordenação do SEF, todas as acções de vigilância e fiscalização nos espaços marítimos sob soberania e jurisdição nacional em matéria de imigração ilegal e tráfico de seres humanos, podendo exercer as respectivas medidas cautelares necessárias e adequadas.
+
+2 - Para efeitos do estabelecido no número anterior, devem ser mutuamente disponibilizadas, em tempo útil, todas as informações necessárias a uma condução eficaz das acções e operações a realizar.
+
+3 - Compete ao SEF a condução de todos os processos respeitantes a ilícitos no âmbito da imigração ilegal por via marítima.
