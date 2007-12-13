@@ -1,0 +1,4 @@
+Aviso n.º 24539/2007
+Torna-se público, nos termos e para os efeitos previstos no n.º 1, do artigo 74.º do Decreto-Lei n.º 380/99 de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º316/2007 de 19 de Setembro, que a Câmara Municipal em sua reunião de 06/11/2007 deliberou determinar a elaboração do Plano de Urbanização do Eixo Urbano de Escariz/Fermedo, abrangendo parte do território das freguesias de Fermedo e de Escariz deste Concelho, com prazo de elaboração de 8 meses.
+É fixado um prazo de 30 dias a contar da publicação do presente aviso no Diário da República, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+14 de Novembro de 2007. - O Presidente da Câmara, José Artur Tavares Neves.
