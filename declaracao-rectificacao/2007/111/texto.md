@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 111/2007
+Ao abrigo da alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que o Decreto-Lei n.º 382/2007, publicado no Diário da República, 1.ª série, n.º 220, de 15 de Novembro de 2007, cujo original se encontra arquivado neste Centro Jurídico, saiu com as seguintes inexactidões que assim se rectificam:
+1 - No segundo parágrafo do preâmbulo, onde se lê «uma emissão pela PARPÚBLICA - Participações do Estado, SGPS, S. A. (adiante designada por PARPÚBLICA)» deve ler-se «uma emissão pela PARPÚBLICA - Participações Públicas (SGPS), S. A. (adiante designada por PARPÚBLICA)».
+2 - No n.º 1 do artigo 2.º, onde se lê «mediante a emissão, pela PARPÚBLICA - Participações do Estado, SGPS, S. A. (adiante designada apenas por PARPÚBLICA)» deve ler-se «mediante a emissão, pela PARPÚBLICA - Participações Públicas (SGPS), S. A. (adiante designada apenas por PARPÚBLICA)».
+Centro Jurídico, 26 de Novembro de 2007. - A Directora, Susana Brito.
