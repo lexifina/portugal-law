@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 182/2007
+Considerando a necessidade de continuar a adquirir à Força Aérea dos Estados Unidos da América (USAF), através do respectivo Governo, a sustentação logística do sistema de armas das aeronaves F-16, que inclui, nomeadamente, actualização de publicações operacionais e técnicas, aquisição de peças sobressalentes, reparações, apoio técnico, gestão e actualização de guerra electrónica, calibração de equipamentos e sustentação de software;
+Considerando que a aquisição pretendida apenas poderá ser efectuada à Força Aérea dos Estados Unidos da América, por ser esta a única entidade apta a prestar os serviços em causa, o que obriga à assinatura de uma Letter of Offer and Acceptance (LOA), uma vez que essa é a forma exigida e a única aceite pelo Governo dos Estados Unidos;
+Atendendo a que as despesas relativas a este procedimento se repartem pelos anos de 2007 a 2010, tendo, para o efeito, sido aprovada pelos Ministros de Estado e das Finanças e da Defesa Nacional a portaria n.º 425/2007, publicada no Diário da República, 2.ª série, de 18 de Maio de 2007, que prevê o valor global máximo de (euro) 13 700 000;
+Considerando ainda que a despesa prevista pode atingir o montante de 16 230 230 USD, que corresponde a cerca de (euro) 11 270 993, ao câmbio actual, cuja autorização, nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de Junho, pertence ao Conselho de Ministros:
+Assim:
+Ao abrigo do disposto no n.º 1 do artigo 17.º e no n.º 1 do artigo 79.º do Decreto-Lei n.º 197/99, de 8 de Junho, e nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a realização da despesa com a aquisição de bens e serviços relativos à sustentação logística do sistema de armas das aeronaves F-16, nos termos e com os limites previstos na Portaria n.º 425/2007, publicada no Diário da República, 2.ª série, de 18 de Maio de 2007.
+2 - Autorizar a adjudicação, por ajuste directo, presente o disposto na alínea d) do n.º 1 do artigo 86.º do Decreto-Lei n.º 197/99, de 8 de Junho.
+3 - Aprovar a minuta da Letter of Offer and Acceptance Foreign Military Sales - LOA FMS Case PT-D-QAM e delegar no Ministro da Defesa Nacional, com faculdade de subdelegação, a assinatura da mesma e a representação do Estado na sua outorga.
+4 - Estabelecer que a presente resolução produz efeitos na data da sua aprovação.
+Presidência do Conselho de Ministros, 29 de Novembro de 2007. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
