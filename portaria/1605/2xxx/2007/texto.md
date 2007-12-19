@@ -1,0 +1,7 @@
+Portaria n.º 1605/2007
+de 19 de Dezembro
+Pela Portaria n.º 400/2000, de 14 de Julho, foi concessionada a António Manuel Cardoso Marques a zona de caça turística de Vale Palhais (processo n.º 2275-DGRF), situada no município de Moura, válida até 14 de Julho de 2008.
+Veio agora a D. A. C. C. - Caçadores, Lda., requerer a mudança de concessionário da zona de caça atrás citada.
+Cumpridos os preceitos legais, com fundamento no disposto no artigo 45.º e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro;
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, que, pela presente portaria, a zona de caça turística de Vale Palhais (processo n.º 2275-DGRF), situada no município de Moura, seja transferida para a D. A. C. C. - Caçadores, Lda., com o número de identificação fiscal 507807561 e sede no Largo da Bica, 6, 7830-646 Vila Verde de Ficalho.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 21 de Novembro de 2007. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas, em 22 de Novembro de 2007.
