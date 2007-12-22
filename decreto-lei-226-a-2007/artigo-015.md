@@ -22,13 +22,13 @@ h) A emissão de títulos que tenha impacte económico na exploração de infra-
 
 i) A emissão dos títulos de utilização para aproveitamentos para produção de energia eléctrica superior a 100 MW carece de parecer favorável da Direcção-Geral de Energia e Geologia, abreviadamente designada DGEG.
 
-2 - A autoridade competente promove as consultas referidas no número anterior, bem como as demais que sejam legal e regulamentarmente exigíveis, no prazo de cinco dias a contar da receção do pedido ou da receção dos elementos adicionais referidos nos n.os 4 a 6 do artigo anterior.
+2 - A autoridade competente promove as consultas referidas no número anterior, bem como as demais que sejam legal e regulamentarmente exigíveis, no prazo de 15 dias a contar da recepção do pedido ou da recepção dos elementos adicionais referidos nos n.os 4 a 6 do artigo anterior.
 
 3 - No termo do prazo fixado no número anterior, o requerente pode solicitar a passagem de certidão da promoção das consultas devidas.
 
 4 - Se a certidão referida no número anterior for negativa ou não for emitida no respectivo prazo, o interessado pode promover directamente as respectivas consultas ou pedir ao tribunal que as promova ou que condene a autoridade competente a promovê-las.
 
-5 - A não emissão de parecer no prazo de 10 dias contados a partir da data de promoção das consultas previstas nos números anteriores equivale à emissão de parecer favorável, exceto nos casos da alínea c) do n.º 1 em que esteja em causa a segurança de pessoas e bens.
+5 - A não emissão de parecer no prazo de 45 dias contados a partir da data de promoção das consultas previstas nos números anteriores equivale à emissão de parecer favorável, excepto nos casos da alínea c) do n.º 1 em que esteja em causa a segurança de pessoas e bens.
 
 6 - Quando os meios disponíveis o permitam e a autoridade competente o determine, os pareceres previstos no presente artigo podem ser emitidos em conferência de serviços, a qual pode decorrer por via electrónica.
 

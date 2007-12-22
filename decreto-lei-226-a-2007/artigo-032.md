@@ -14,8 +14,6 @@ d) O não envio dos dados relativos ao autocontrolo de acordo com a periodicidad
 
 e) O não pagamento da taxa de recursos hídricos legalmente devida, sempre que a mora se prolongue por mais do que um semestre.
 
-f) O incumprimento dos pressupostos estabelecidos no artigo 21.º durante dois anos consecutivos, apurado em processo de auditoria.
-
 2 - A revogação dos títulos é determinada pela autoridade competente se o titular, apesar de advertido do incumprimento, não suprir a falta no prazo que lhe for fixado.
 
 3 - Nas situações referidas na alínea a) do n.º 1, o detentor do título, sempre que haja realizado, ao abrigo do título, investimentos em instalações fixas, no pressuposto expresso de uma duração mínima de utilização, deve ser ressarcido do valor do investimento realizado em acções que permitiriam a fruição do direito do titular, na parte ainda não amortizada, com base no método das quotas constantes, em função da duração prevista e não concretizada.
