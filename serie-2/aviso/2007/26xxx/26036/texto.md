@@ -1,0 +1,7 @@
+Aviso n.º 26036/2007
+Alteração do Plano Director Municipal - Perímetros urbanos
+A Câmara Municipal de Santarém deliberou, na sua reunião de 10 de Dezembro de 2007, dar início ao procedimento de elaboração de alteração do Plano Director Municipal para a Delimitação de Aglomerados Rurais, caracterizados por uma ocupação entre 80 e 150 unidades habitacionais, e delimitação de Perímetros Urbanos nos aglomerados, com mais de 150 unidades habitacionais, sempre de acordo com os valores expressos nos censos de 2001 e procedendo em conformidade com a legislação.
+Para dar cumprimento ao estabelecido no n.º 2 do artigo 77.º, do Decreto-Lei n.º 380/99 de 22 de Setembro, com a redacção do Decreto-Lei 316/2007 de 16 de Setembro, torna-se público que, a partir do dia 7 de Janeiro e durante 15 dias úteis, se aceitam sugestões, bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+Os interessados deverão apresentar as suas observações, exposições ou sugestões em ofício devidamente identificado, por via postal, ou por correio electrónico (sigt@cm-santarem.pt), dirigido ao Presidente da Câmara de Santarém, entregue na Divisão de Ordenamento do Território, no âmbito do respectivo procedimento de elaboração de alteração do Plano Director Municipal.
+O presente aviso será afixado nas Juntas de Freguesias e nos locais habituais.
+20 de Dezembro de 2007. - O Presidente da Câmara Municipal, Francisco Moita Flores.
