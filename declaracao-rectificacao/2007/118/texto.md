@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 118/2007
+Ao abrigo do disposto na alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que a Portaria n.º 1430/2007, publicada no Diário da República, 1.ª série, n.º 211, de 2 de Novembro de 2007, cujo original se encontra arquivado neste Centro Jurídico, saiu com a seguinte inexactidão que assim se rectifica:
+No n.º 1 do artigo 38.º, onde se lê «É permitida a transferência de farmácias instaladas nos municípios que tenham uma capitação superior à prevista na alínea a) do n.º 1 do artigo 2.º para os municípios limítrofes em que a capitação seja inferior» deve ler-se «É permitida a transferência de farmácias instaladas nos municípios que tenham uma capitação inferior à prevista na alínea a) do n.º 1 do artigo 2.º para os municípios limítrofes em que a capitação seja superior».
+Centro Jurídico da Presidência do Conselho de Ministros, 20 de Dezembro de 2007. - A Directora, Susana Brito.
