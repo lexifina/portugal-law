@@ -4,14 +4,12 @@
 
 # Artigo 17.º
 
-### Obrigações declarativas
+### Tipos de declaração
 
-1 - A introdução no consumo e a liquidação do imposto são tituladas pela declaração aduaneira de veículos (DAV).
+1 - A introdução no consumo e liquidação do imposto incidente sobre os veículos que não possuam matrícula nacional é titulada pela declaração aduaneira de veículos (DAV).
 
-2 - [Revogado].
+2 - A liquidação do imposto incidente sobre os veículos que possuam matrícula nacional é titulada pela declaração complementar de veículos (DCV).
 
-3 - Para efeitos de matrícula, os veículos automóveis ligeiros e pesados, os motociclos, os ciclomotores, os triciclos e os quadriciclos, ainda que excluídos do imposto, ficam sujeitos ao processamento da DAV.
+3 - Para efeitos de matrícula, os veículos automóveis ligeiros, ainda que excluídos do imposto, os pesados e as máquinas industriais ficam sujeitos ao processamento da DAV.
 
-4 - A DAV é exclusivamente processada por transmissão eletrónica de dados, com exceção da declaração que respeite à transformação de veículos, alteração do número de chassis ou da cilindrada, bem como a outros factos geradores de imposto que ocorram em momento posterior à atribuição da matrícula nacional, e sem prejuízo do regime de tributação previsto no n.º 3 do artigo 11.º
-
-5 - Para efeitos do presente Código e em derrogação do número de declarações previsto no n.º 5 do artigo 430.º-A da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46 311, de 27 de Abril de 1965, é fixado em três o limite máximo de declarações aduaneiras de veículo a apresentar, por ano civil, perante a alfândega.
+4 - A DAV pode ser processada por transmissão electrónica de dados, nos termos a definir por portaria do membro do Governo responsável pela área das Finanças.

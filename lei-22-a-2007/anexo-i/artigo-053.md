@@ -2,17 +2,17 @@
 
 ### Táxis e veículos afectos à actividade de aluguer
 
-1 - Os automóveis ligeiros de passageiros e de utilização mista que se destinem ao serviço de aluguer com condutor - táxis, letra 'A' e letra 'T', introduzidos no consumo e que apresentem até quatro anos de uso, contados desde a atribuição da primeira matrícula e respetivos documentos, e não tenham níveis de emissão de CO(índice 2) NEDC superiores a 160 g/km ou níveis de emissão de CO(índice 2) WLTP superiores a 184 g/km, confirmados pelo respetivo certificado de conformidade, beneficiam de uma isenção correspondente a 70 % do montante do imposto.
+1 - Os automóveis ligeiros de passageiros e de utilização mista que se destinem ao serviço de aluguer com condutor - táxis, letra 'A' e letra 'T', introduzidos no consumo e que apresentem até quatro anos de uso, contados desde a atribuição da primeira matrícula e respectivos documentos, beneficiam de uma isenção correspondente a 70 % do montante do imposto.
 
-2 - Os veículos referidos no número anterior que se encontrem equipados com motores preparados para o consumo exclusivo, no seu sistema de propulsão, de gás natural ou de energia elétrica, ou com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de energia elétrica ou solar quer de gasolina ou gasóleo, ficam integralmente isentos de imposto.
+2 - Os veículos referidos no número anterior que se apresentem equipados com motores preparados para o consumo exclusivo, no seu sistema de propulsão, de gás de petróleo liquefeito, de gás natural ou de energia eléctrica, ou com motores híbridos que permitam o seu consumo juntamente com gasolina ou gasóleo, ficam integralmente isentos de imposto.
 
-3 - A isenção prevista no número anterior é aplicável também aos veículos adaptados ao acesso e transporte de pessoas com deficiência, independentemente dos níveis de emissão de CO(índice 2), devendo os mesmos apresentar as características que se encontram definidas regulamentarmente pela entidade competente em matéria de circulação e segurança rodoviária, para os veículos destinados ao transporte em táxi de pessoas com mobilidade reduzida.
+3 - A isenção prevista no número anterior é aplicável também aos veículos adaptados ao acesso e transporte de deficientes nos termos definidos regulamentarmente, por portaria conjunta dos membros do Governo responsáveis pelas áreas das Finanças e da Reabilitação, independentemente do respectivo sistema de combustão.
 
 4 - O reconhecimento das isenções previstas no presente artigo depende de pedido dirigido à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, anterior ou concomitante à apresentação da DAV, instruído com cópia do alvará para o exercício da actividade, licença de táxi e prova da qualidade da forma societária do sujeito passivo.
 
-5 - Os automóveis ligeiros de passageiros e de utilização mista não previstos no artigo 8.º e nos n.os 1 e 2 do artigo 9.º, bem como os veículos previstos no n.º 3 do artigo 9.º, novos, que se destinem ao exercício de atividades de aluguer sem condutor, beneficiam, na introdução no consumo, de uma isenção correspondente a 40 % do montante do imposto, nas condições seguintes:
+5 - Os automóveis ligeiros de passageiros e de utilização mista não previstos nos artigos 8.º e 9.º, novos, que se destinem ao exercício de actividades de aluguer sem condutor, beneficiam, na introdução no consumo, de uma redução correspondente a 50 % do montante do imposto, nas condições seguintes:
 
-a) Os veículos devem possuir um nível de emissão de CO(índice 2) NEDC até 120 g/km ou nível de emissão de CO(índice 2) WLTP até 138 g/km ou, no caso dos veículos previstos no n.º 3 do artigo 9.º, um nível de emissão de CO(índice 2) NEDC até 165 g/km ou nível de emissão de CO(índice 2) WLTP até 190 g/km, desde que, em qualquer caso, os níveis de emissões sejam confirmados pelo respetivo certificado de conformidade;
+a) Os veículos devem possuir um nível de emissão de CO2 até 160 g/km, confirmadas pelo respectivo certificado de conformidade;
 
 b) As empresas beneficiárias locadoras devem estar licenciadas para o exercício exclusivo da actividade de aluguer de automóveis;
 
@@ -20,10 +20,4 @@ c) Os veículos objecto de redução do imposto não podem ser alugados ou cedid
 
 d) Os alugueres devem ser titulados por contrato, devendo os veículos circular acompanhados de documento emitido pela locadora, que identifique o locatário, a residência e o período de tempo de aluguer do veículo.
 
-6 - Os automóveis ligeiros de passageiros, que se destinem ao exercício de atividades de aluguer sem condutor, quando adaptados ao acesso e transporte de pessoas com deficiência beneficiam, na introdução no consumo, da isenção prevista no artigo 54.º, desde que:
-
-a) Cumpram o disposto nas alíneas b), c) e d) do número anterior;
-
-b) Os veículos com estas características não representem mais de 10 % da frota da entidade beneficiária.
-
-7 - O estatuto de entidade beneficiária exige a inscrição prévia na Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, instruído com cópia do alvará para o exercício da actividade e prova da qualidade da forma societária do sujeito passivo, sendo as reduções do imposto para os veículos requeridas através de formulário próprio, anterior ou concomitante à apresentação da declaração aduaneira de veículos (DAV).
+6 - O estatuto de entidade beneficiária exige a inscrição prévia na Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, instruído com cópia do alvará para o exercício da actividade e prova da qualidade da forma societária do sujeito passivo, sendo as reduções do imposto para os veículos requeridas através de formulário próprio, anterior ou concomitante à apresentação da declaração aduaneira de veículos (DAV).

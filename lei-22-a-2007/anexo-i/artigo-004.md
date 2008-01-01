@@ -4,11 +4,9 @@
 
 1 - O imposto sobre veículos possui natureza específica, sendo a sua base tributável constituída pelos seguintes elementos, tal como constantes do respectivo certificado de conformidade:
 
-a) Quanto aos automóveis de passageiros, de mercadorias e de utilização mista, tributados pela tabela A, a cilindrada, o nível de emissão de partículas, quando aplicável, e o nível de emissão de dióxido de carbono (CO(índice 2)) relativo ao ciclo combinado de ensaios resultante dos testes realizados ao abrigo do 'Novo Ciclo de Condução Europeu Normalizado' (New European Driving Cycle - NEDC) ou ao abrigo do 'Procedimento Global de Testes Harmonizados de Veículos Ligeiros' (Worldwide Harmonized Light Vehicle Test Procedure - WLTP), consoante o sistema de testes a que o veículo foi sujeito para efeitos da sua homologação técnica;
+a) Quanto aos automóveis de passageiros, de mercadorias e de utilização mista, a cilindrada, o nível de emissão de dióxido de carbono (CO2) relativo ao ciclo combinado de ensaios e o nível de emissões de partículas, quando aplicável;
 
-b) Quanto aos automóveis ligeiros de mercadorias e de utilização mista, tributados pela tabela B, a cilindrada e o nível de emissões de partículas, quando aplicável;
-
-c) Quanto aos veículos fabricados antes de 1970, aos motociclos, triciclos, quadriciclos e autocaravanas, a cilindrada.
+b) Quanto aos motociclos, triciclos, quadriciclos e autocaravanas, a cilindrada.
 
 2 - Quando os veículos sujeitos a tributação em função do nível de emissão de dióxido de carbono não integrem este elemento no certificado de conformidade, as emissões a considerar como base tributável são as que resultem de medição efectiva a realizar por centro técnico legalmente autorizado.
 

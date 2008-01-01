@@ -6,7 +6,7 @@
 
 a) No momento da apresentação do pedido de introdução no consumo pelos operadores registados e reconhecidos;
 
-b) No momento da apresentação da declaração aduaneira de veículos pelos particulares.
+b) No momento da apresentação da declaração adua-neira de veículos ou declaração complementar de veículos pelos particulares.
 
 2 - Nos casos mencionados no n.º 2 do artigo anterior considera-se verificada a introdução no consumo no momento da ocorrência do facto gerador do imposto ou, sendo este indeterminável, no momento da respectiva constatação.
 

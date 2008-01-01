@@ -6,7 +6,7 @@
 
 2 - Constitui ainda facto gerador do imposto:
 
-a) A atribuição de matrícula definitiva após o cancelamento voluntário da matrícula nacional feito com reembolso de imposto ou qualquer outra vantagem fiscal;
+a) A atribuição de matrícula definitiva nova após o cancelamento voluntário da matrícula nacional feito com reembolso de imposto ou qualquer outra vantagem fiscal;
 
 b) A transformação de veículo que implique a sua reclassificação fiscal numa categoria a que corresponda uma taxa de imposto mais elevada ou a sua inclusão na incidência do imposto, a mudança de chassis ou a alteração do motor de que resulte um aumento de cilindrada ou das emissões de dióxido de carbono ou partículas;
 

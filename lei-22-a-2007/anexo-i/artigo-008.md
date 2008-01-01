@@ -2,18 +2,18 @@
 
 ### Taxas intermédias - automóveis
 
-1 - É aplicável uma taxa intermédia, correspondente às percentagens a seguir indicadas do imposto resultante da aplicação da tabela A constante do n.º 1 do artigo anterior, aos seguintes veículos:
+1 - É aplicável uma taxa intermédia, correspondente a 50% do imposto resultante da aplicação da tabela A a que se refere o n.º 1 do artigo anterior, aos seguintes veículos:
 
-a) 60 %, aos automóveis ligeiros de passageiros que se apresentem equipados com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de energia elétrica ou solar quer de gasolina ou de gasóleo, desde que apresentem uma autonomia em modo elétrico superior a 50 km e emissões oficiais inferiores a 50 gCO(índice 2)/km;
+a) Automóveis ligeiros de utilização mista, com peso bruto superior a 2500 kg, lotação mínima de sete lugares, incluindo o do condutor e que não apresentem tracção às quatro rodas, permanente ou adaptável;
 
-b) 40 %, aos automóveis ligeiros de utilização mista, com peso bruto superior a 2500 kg, lotação mínima de sete lugares, incluindo o do condutor, e que não apresentem tração às quatro rodas, permanente ou adaptável;
+b) Automóveis ligeiros de passageiros que utilizem exclusivamente como combustível gases de petróleo liquefeito (GPL) ou gás natural;
 
-c) 40 %, aos automóveis ligeiros de passageiros que utilizem exclusivamente como combustível gás natural;
+c) Automóveis ligeiros de passageiros que se apresentem equipados com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de gás de petróleo liquefeito (GPL), gás natural, energia eléctrica ou solar, quer de gasolina ou gasóleo.
 
-d) 25 %, aos automóveis ligeiros de passageiros equipados com motores híbridos plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 50 km e emissões oficiais inferiores a 50 gCO (índice 2)/km ou, quando homologados de acordo com a norma de emissões ‘Euro 6e-bis’, nos termos do Regulamento (UE) 2023/443 da Comissão, de 8 de fevereiro de 2023, que altera o Regulamento (UE) 2017/1151 no que diz respeito aos procedimentos de homologação das emissões dos veículos ligeiros de passageiros e comerciais, a 80 gCO (índice 2)/km.
+2 - É aplicável uma taxa intermédia, correspondente a 55 % do imposto resultante da aplicação da tabela B a que se refere o n.º 2 do artigo anterior, aos seguintes veículos:
 
-e) 25 %, aos automóveis ligeiros de passageiros matriculados noutro Estado-Membro da União Europeia entre 1 de janeiro de 2015 e 31 de dezembro de 2020, equipados com motores híbridos plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 25 km.
+a) Automóveis ligeiros de mercadorias, de caixa fechada, com lotação máxima de três lugares, incluindo o do condutor, e altura interior da caixa de carga, inferior a 120 cm;
 
-2 - [Revogado]
+b) Automóveis ligeiros de mercadorias, de caixa fechada, com lotação máxima de três lugares, incluindo o do condutor, e tracção às quatro rodas, permanente ou adaptável.
 
-3 - É aplicável uma taxa intermédia, correspondente a 50 % do imposto resultante da aplicação da tabela B a que se refere o n.º 2 do artigo anterior, aos automóveis ligeiros de mercadorias, de caixa aberta, ou sem caixa, com lotação superior a três lugares, incluindo o do condutor, que apresentem tracção às quatro rodas, permanente ou adaptável.
+3 - É aplicável uma taxa intermédia, correspondente a 30% do imposto resultante da aplicação da tabela B a que se refere o n.º 2 do artigo anterior, aos automóveis ligeiros de mercadorias, de caixa aberta, ou sem caixa, com lotação superior a três lugares, incluindo o do condutor, que apresentem tracção às quatro rodas, permanente ou adaptável.

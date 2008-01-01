@@ -4,7 +4,7 @@
 
 1 - Os beneficiários das isenções de imposto não podem alienar, a título oneroso ou gratuito, alugar ou emprestar o automóvel objecto de isenção antes de decorrido o prazo de 12 meses, contado a partir da data da atribuição da matrícula nacional, havendo de outro modo lugar à liquidação integral do imposto e a responsabilidade penal ou contra-ordenacional.
 
-2 - (Revogado.)
+2 - No caso previsto no artigo 58.º, o sujeito passivo deve manter a sua residência permanente em território nacional por um período mínimo de 12 meses.
 
 3 - No caso da alienação do veículo se efectuar entre o beneficiário de isenção e o sujeito que reúna todas as condições para beneficiar da mesma, com excepção dos casos de transferência de residência, o registo do veículo depende da comprovação prévia perante a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo por parte do adquirente.
 
