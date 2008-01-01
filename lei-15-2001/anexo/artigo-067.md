@@ -14,7 +14,7 @@
 
 a) Por contra-ordenação fiscal, no serviço de finanças;
 
-b) Por contra-ordenação aduaneira, na Direcção Regional de Contencioso e Controlo Aduaneiro, na alfândega ou delegação aduaneira.
+b) Por contra-ordenação aduaneira, na alfândega ou delegação aduaneira.
 
 2 - Serão instruídos pela Brigada Fiscal da Guarda Nacional Republicana os processos de contra-ordenação que resultem de autos de notícia levantados pelos seus agentes.
 

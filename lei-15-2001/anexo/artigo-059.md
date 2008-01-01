@@ -12,7 +12,7 @@ c) Directores de finanças;
 
 d) Directores de finanças-adjuntos;
 
-e) Directores das Direcções Regionais de Contencioso e Controlo Aduaneiro;
+e) (Revogada);
 
 f) Directores de Alfândega;
 

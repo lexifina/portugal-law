@@ -12,6 +12,6 @@ c) Não observar os itinerários fixados, com o fim de se furtar à fiscalizaç�
 
 d) Não apresentar as mercadorias nas estâncias aduaneiras de destino;
 
-é punido com pena de prisão até três anos ou com pena de multa até 360 dias, se o valor da prestação tributária em falta for superior a (euro) 7500 ou, não havendo lugar a prestação tributária, a mercadoria objecto da infracção for de valor aduaneiro superior a (euro) 25000.
+é punido com pena de prisão até 3 anos ou com pena de multa até 360 dias, se o valor da prestação tributária em falta for superior a (euro) 15 000 ou, não havendo lugar a prestação tributária, a mercadoria objecto da infracção for de valor aduaneiro superior a (euro) 50 000.
 
 2 - A tentativa é punível.
