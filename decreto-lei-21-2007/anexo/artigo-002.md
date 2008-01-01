@@ -18,10 +18,10 @@ e) No caso de locação, o valor da renda anual seja igual ou superior a 25 avos
 
 a) Esteja em causa a primeira transmissão ou locação do imóvel ocorrida após a construção, quando tenha sido deduzido ou ainda seja possível deduzir, no todo ou em parte, o IVA nela suportado;
 
-b) Esteja em causa a primeira transmissão ou locação do imóvel após ter sido objeto de grandes obras de transformação ou renovação, de que tenha resultado uma alteração superior a 30 % do valor patrimonial tributável para efeito do imposto municipal sobre imóveis, quando ainda seja possível proceder à dedução, no todo ou em parte, do IVA suportado nessas obras;
+b) Esteja em causa a primeira transmissão ou locação do imóvel após ter sido objecto de grandes obras de transformação ou renovação, de que tenha resultado uma alteração superior a 50% do valor patrimonial tributável para efeito do imposto municipal sobre imóveis, quando ainda seja possível proceder à dedução, no todo ou em parte, do IVA suportado nessas obras;
 
 c) Na transmissão ou locação do imóvel subsequente a uma operação efectuada com renúncia à isenção, quando esteja a decorrer o prazo de regularização previsto no n.º 2 do artigo 24.º do Código do IVA relativamente ao imposto suportado nas despesas de construção ou aquisição do imóvel.
 
 3 - No caso de contratos realizados em simultâneo, em que haja lugar à renúncia à isenção, a condição prevista na alínea b) do n.º 1, relativamente à inscrição em nome do proprietário, deve verificar-se em relação ao sujeito passivo que realiza a transmissão do imóvel no primeiro dos contratos.
 
-4 - Não é permitida a renúncia na sublocação de bens imóveis, excepto quando estes sejam destinados a fins industriais.
+4 - Não é permitida a renúncia à isenção na sublocação de bens imóveis.

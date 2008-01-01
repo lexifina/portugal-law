@@ -2,7 +2,7 @@
 
 ### Valor tributável
 
-1 - Não obstante o disposto no n.º 1 do artigo 16.º do Código do IVA, na transmissão ou locação de bens imóveis efectuadas com renúncia à isenção do IVA por sujeitos passivos que tenham entre si relações especiais, na acepção do n.º 4 do artigo 63.º do Código do IRC, o valor tributável é o valor normal determinado nos termos do n.º 4 do artigo 16.º do Código do IVA, quando se verifique qualquer das seguintes situações:
+1 - Não obstante o disposto no n.º 1 do artigo 16.º do Código do IVA, na transmissão ou locação de bens imóveis efectuadas com renúncia à isenção do IVA por sujeitos passivos que tenham entre si relações especiais, na acepção do n.º 4 do artigo 58.º do Código do IRC, o valor tributável é o valor normal determinado nos termos do n.º 4 do artigo 16.º do Código do IVA, quando se verifique qualquer das seguintes situações:
 
 a) A contraprestação seja inferior ao valor normal e o destinatário da operação não tenha direito a deduzir integralmente o imposto;
 
