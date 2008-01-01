@@ -26,4 +26,4 @@ d) De informações de viabilidade, licenças ou autorizações administrativas 
 
 6 - O Estado garante o pagamento da justa indemnização, nos termos previstos no presente Código.
 
-7 - O Estado, quando satisfaça a indemnização, tem direito de regresso sobre a entidade expropriante, podendo, para o efeito, proceder à cativação de transferências orçamentais, independentemente de quaisquer formalidades.
+7 - O Estado, quando satisfaça a indemnização, tem direito de regresso sobre a entidade expropriante, podendo, independentemente de quaisquer formalidades, proceder à cativação de transferências orçamentais até ao valor total da dívida, incluindo os juros de mora que se mostrem devidos desde a data do pagamento da indemnização.
