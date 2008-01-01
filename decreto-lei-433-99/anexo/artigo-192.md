@@ -2,7 +2,7 @@
 
 ### Citações pessoal e edital
 
-1 - As citações pessoais serão efectuadas nos termos do Código de Processo Civil.
+1 - As citações pessoais são efectuadas nos termos do Código de Processo Civil, sem prejuízo, no que respeita à citação por transmissão electrónica de dados, do disposto nos n.os 4 e 5 do artigo anterior.
 
 2 - Sendo desconhecida a residência, prestada a informação de que o interessado reside em parte incerta ou devolvida a carta ou postal com a nota de não encontrado, será solicitada, caso o órgão da execução fiscal assim o entender, confirmação das autoridades policiais ou municipais e efectuada a citação ou notificação por meio de éditos, nos termos do disposto neste artigo.
 

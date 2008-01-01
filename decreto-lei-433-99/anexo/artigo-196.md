@@ -28,7 +28,7 @@ b) Prestem garantia através de um dos meios previstos no n.º 1 do artigo 199.�
 
 9 - A assunção da dívida nos termos do número anterior não exonera o antigo devedor, respondendo este solidariamente com o novo devedor, e, em caso de incumprimento, o processo de execução fiscal prosseguirá os seus termos contra o novo devedor.
 
-10 - O despacho de aceitação de assunção de dívida e das garantias previstas na alínea b) do n.º 7 poderá determinar a extinção das garantias constituídas e ou apresentadas pelo antigo devedor.
+10 - O despacho de aceitação de assunção de dívida e das garantias previstas na alínea b) do n.º 8 pode determinar a extinção das garantias constituídas e ou apresentadas pelo antigo devedor.
 
 11 - O novo devedor ficará sub-rogado nos direitos referidos no n.º 1 do artigo 92.º após a regularização da dívida, nos termos e condições previstos no presente artigo.
 
