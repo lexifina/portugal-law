@@ -22,7 +22,7 @@ Componente cilindrada
 
 (ver documento original)
 
-3 - Os veículos ligeiros de passageiros e de utilização mista referidos no n.º 1, equipados com sistema de propulsão a gasóleo, que apresentem níveis de emissões de partículas inferiores a 0,005 g/km, constantes dos respectivos certificados de conformidade, beneficiam de uma redução de (euro) 500 no total do montante de imposto a pagar, depois de aplicadas as reduções a que houver lugar.
+3 - Os veículos ligeiros equipados com sistema de propulsão a gasóleo, que apresentem níveis de emissões de partículas inferiores a 0,005 g/km, constantes dos respectivos certificados de conformidade, ou na sua inexistência, nas respectivas homologações técnicas, beneficiam de uma redução de (euro) 500 no total do montante de imposto a pagar, depois de aplicadas as reduções a que houver lugar.
 
 4 - Quando da aplicação das tabelas de taxas a que se referem os n.os 1 e 2 resultar o apuramento de imposto inferior a (euro) 100, há lugar ao pagamento desta importância.
 

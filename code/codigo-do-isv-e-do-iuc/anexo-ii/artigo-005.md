@@ -24,7 +24,7 @@ b) Pessoas colectivas de utilidade pública e instituições particulares de sol
 
 4 - A isenção a que se refere a alínea c) do n.º 1 deve ser objecto de comprovação em qualquer serviço de finanças, relativamente a cada ano a que respeite, mediante pedido apresentado no prazo para pagamento do imposto e acompanhado do título de propriedade e documento de identificação ou certificado de registo ou matrícula do veículo.
 
-5 - A isenção prevista na alínea a) do n.º 2 só pode ser usufruída por cada beneficiário em relação a um veículo e é reconhecida, anualmente, em qualquer serviço de finanças.
+5 - A isenção prevista na alínea a) do n.º 2 só pode ser usufruída por cada beneficiário em relação a um veículo e é reconhecida, anualmente, em qualquer serviço de finanças, salvo se a informação relativa à incapacidade for já do conhecimento da administração tributária, através do cumprimento de outras obrigações declarativas ou comprovativas realizado há menos de dois anos.
 
 6 - A isenção prevista na alínea b) do n.º 2 é reconhecida mediante despacho do Director-Geral dos Impostos sobre requerimento das entidades interessadas devidamente documentado.
 

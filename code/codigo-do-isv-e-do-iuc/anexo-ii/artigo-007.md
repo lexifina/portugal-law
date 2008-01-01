@@ -10,7 +10,7 @@ b) Quanto aos veículos da categoria B, a cilindrada e o nível de emissão de d
 
 c) Quanto aos veículos das categorias C e D, o peso bruto, o número de eixos, o tipo de suspensão dos eixos motores e antiguidade da primeira matrícula do veículo motor;
 
-d) Quanto aos veículos da categoria E, a cilindrada;
+d) Quanto aos veículos da categoria E, a cilindrada e a antiguidade da matrícula;
 
 e) Quanto aos veículos da categoria F, a potência motriz, tal como constante do respectivo livrete;
 

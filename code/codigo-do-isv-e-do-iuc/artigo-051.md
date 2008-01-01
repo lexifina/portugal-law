@@ -16,7 +16,7 @@ a) Os veículos adquiridos para funções operacionais pela Autoridade Nacional 
 
 b) Os veículos adquiridos em estado novo, destinados às forças militares, militarizadas e de segurança, incluindo as polícias municipais, quando afectos exclusivamente ao exercício de funções de autoridade, considerando-se como tais as funções de vigilância, patrulhamento, policiamento, apoio ao serviço de inspecção e investigação e fiscalização de pessoas e bens;
 
-c) Os veículos declarados perdidos ou abandonados a favor do Estado e adquiridos pela Direcção-Geral do Tesouro e Finanças;
+c) Os veículos declarados perdidos ou abandonados a favor do Estado ou adquiridos pela Agência Nacional de Compras Públicas, E. P. E.;
 
 d) Os veículos automóveis, com lotação igual ou superior a sete lugares, incluindo o do condutor, adquiridos pelos municípios e freguesias, mesmo que em sistema de leasing, para transporte de crianças em idade escolar do ensino básico.
 
@@ -26,7 +26,7 @@ a) Declaração emitida pela Autoridade Nacional de Protecção Civil da qual co
 
 b) Declaração emitida pelos serviços respectivos que ateste o destino a que o veículo será afecto, no caso referido na alínea b) do número anterior;
 
-c) Cópia da sentença ou decisão que determinou a perda ou abandono da viatura, bem como declaração da sua atribuição ou aquisição pela Direcção-Geral do Tesouro e Finanças, no caso referido na alínea c) do número anterior;
+c) Cópia da sentença ou decisão que determinou a perda ou abandono da viatura, bem como a declaração da sua atribuição ou aquisição pela Agência Nacional de Compras Públicas, E. P. E., no caso referido na alínea c) do número anterior;
 
 d) Declaração emitida pelo serviço competente do município ou freguesia acompanhada de factura pró-forma identificativa da marca, modelo e versão do veículo a adquirir, no caso referido na alínea d) do número anterior.
 

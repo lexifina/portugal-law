@@ -10,7 +10,7 @@ b) Automóveis ligeiros de passageiros que utilizem exclusivamente como combust�
 
 c) Automóveis ligeiros de passageiros que se apresentem equipados com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de gás de petróleo liquefeito (GPL), gás natural, energia eléctrica ou solar, quer de gasolina ou gasóleo.
 
-2 - É aplicável uma taxa intermédia, correspondente a 50% do imposto resultante da aplicação da tabela B a que se refere o n.º 2 do artigo anterior, aos seguintes veículos:
+2 - É aplicável uma taxa intermédia, correspondente a 55 % do imposto resultante da aplicação da tabela B a que se refere o n.º 2 do artigo anterior, aos seguintes veículos:
 
 a) Automóveis ligeiros de mercadorias, de caixa fechada, com lotação máxima de três lugares, incluindo o do condutor, e altura interior da caixa de carga, inferior a 120 cm;
 
