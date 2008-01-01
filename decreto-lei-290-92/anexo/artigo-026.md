@@ -4,7 +4,7 @@
 
 1 - As pessoas singulares ou colectivas que efectuem transmissões de bens nas condições previstas nos n.os 1 e 2 do artigo 11.º deverão entregar a declaração a que se refere o artigo 30.º do Código do IVA.
 
-2 - A declaração a que se refere o número anterior deverá ser apresentada na repartição de finanças competente até ao fim do mês seguinte àquele em que tenha sido excedido o montante previsto na alínea c) do n.º 1 do artigo 11.º, produzindo efeitos a partir da data da sua apresentação.
+2 - A declaração a que se refere o número anterior deve ser apresentada em qualquer serviço de finanças até ao fim do mês seguinte àquele em que tenha sido excedido o montante previsto na alínea c) do n.º 1 do artigo 11.º, a qual produz efeitos desde a data, inclusive, da transmissão de bens em que aquele montante tenha sido excedido.
 
 3 - As pessoas singulares ou colectivas que tenham exercido a opção a que se refere a alínea b) do n.º 2 do artigo 11.º ou que transmitam bens sujeitos, no território nacional, a impostos especiais de consumo, nos termos da alínea a) do mesmo número, deverão entregar a declaração referida no artigo 30.º do Código do IVA.
 
