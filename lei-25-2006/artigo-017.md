@@ -2,20 +2,24 @@
 
 ### Distribuição do produto das coimas
 
-1 - O produto da coima cobrado na sequência de processo de contra-ordenação reverte:
+1 - Caso a coima seja paga directamente à empresa exploradora do serviço em questão, o produto da coima é distribuído da seguinte forma:
 
-a) 40 % para o Estado;
+a) 60% para o Estado;
 
-b) 35 % para a Direcção-Geral dos Impostos (DGCI);
+b) 20% para a EP - Estradas de Portugal, E. P. E.;
 
-c) 10 % para o InIR - Instituto de Infra-Estruturas Rodoviárias, I. P.;
+c) 20% para a empresa exploradora do serviço em questão.
 
-d) 15 % para as entidades a que se refere o artigo 11.º
+2 - As concessionárias devem proceder à entrega trimestral nos cofres do Tesouro dos quantitativos que, das coimas cobradas, constituem receita do Estado.
 
-2 - (Revogado.)
+3 - Caso a coima seja paga após a instauração do processo contra-ordenacional pela Direcção-Geral de Viação, o produto da coima é distribuído da seguinte forma:
 
-3 - (Revogado.)
+a) 20% para a empresa exploradora do serviço em questão;
 
-4 - A Autoridade Tributária e Aduaneira entrega mensalmente os quantitativos das taxas de portagem, das coimas e das custas administrativas às entidades a que pertencem, de acordo com o n.º 1.
+b) 20 % para o Instituto de Infra-Estruturas Rodoviárias, I. P.;
 
-5 - Se por efeito de arguição de alguma nulidade processual, por preterição ou erro na execução de alguma das formalidades essenciais previstas na presente lei, se vier a decretar a anulação do processado, tanto no âmbito dos processos de contraordenação, como nos processos de execução, a entidade que tiver dado azo à referida nulidade suportará os encargos efetuados com a tramitação dos respetivos processos, procedendo para o efeito a Autoridade Tributária e Aduaneira ao correspondente acerto nas entregas mensais dos quantitativos cobrados.
+c) 20% para a EP - Estradas de Portugal, E. P. E.;
+
+d) 40% para o Estado.
+
+4 - A Direcção-Geral de Viação deve proceder à entrega trimestral às concessionárias das importâncias relativas às taxas de portagem cobradas, bem como dos quantitativos que, das coimas cobradas no âmbito dos processos de contra-ordenação, nos termos da presente lei, àquelas pertencem.
