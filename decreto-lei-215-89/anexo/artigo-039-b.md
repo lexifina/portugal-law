@@ -4,13 +4,15 @@
 
 1 - Às empresas que exerçam, directamente e a título principal, uma actividade económica de natureza agrícola, comercial, industrial ou de prestação de serviços nas áreas do interior, adiante designadas «áreas beneficiárias», são concedidos os benefícios fiscais seguintes:
 
-a) É reduzida a 20% a taxa do imposto sobre o rendimento das pessoas colectivas (IRC), prevista no n.º 1 do artigo 80.º do respectivo Código, para as entidades cuja actividade principal se situe nas áreas beneficiárias;
+a) É reduzida a 15 % a taxa do imposto sobre o rendimento das pessoas colectivas (IRC), prevista no n.º 1 do artigo 80.º do respectivo Código, para as entidades cuja actividade principal se situe nas áreas beneficiárias;
 
-b) No caso de instalação de novas entidades, cuja actividade principal se situe nas áreas beneficiárias, a taxa referida no número anterior é reduzida a 15% durante os primeiros cinco exercícios de actividade;
+b) No caso de instalação de novas entidades, cuja actividade principal se situe nas áreas beneficiárias, a taxa referida no número anterior é reduzida a 10 % durante os primeiros cinco exercícios de actividade;
 
 c) As reintegrações e amortizações relativas a despesas de investimentos até (euro) 500000, com exclusão das respeitantes à aquisição de terrenos e de veículos ligeiros de passageiros, dos sujeitos passivos de IRC que exerçam a sua actividade principal nas áreas beneficiárias podem ser deduzidas, para efeitos da determinação do lucro tributável, com a majoração de 30%;
 
 d) Os encargos sociais obrigatórios suportados pela entidade empregadora relativos à criação líquida de postos de trabalho por tempo indeterminado nas áreas beneficiárias são deduzidos, para efeitos da determinação do lucro tributável, com uma majoração de 50%, uma única vez por trabalhador admitido nessa entidade ou outra entidade com a qual existam relações especiais nos termos do artigo 58.º do Código do IRC.
+
+e) Os prejuízos fiscais apurados em determinado exercício nos termos do Código do IRC são deduzidos aos lucros tributáveis, havendo-os, de um ou mais dos sete exercícios posteriores.
 
 2 - São condições para usufruir dos benefícios previstos no número anterior:
 

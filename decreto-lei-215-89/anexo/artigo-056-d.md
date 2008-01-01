@@ -64,11 +64,19 @@ e) Associações promotoras do desporto e associações dotadas do estatuto de u
 
 f) Centros de cultura e desporto organizados nos termos dos Estatutos do INATEL, com excepção dos donativos abrangidos pela alínea c) do n.º 3;
 
-g) Estabelecimentos de ensino, escolas profissionais, escolas artísticas e jardins-de-infância legalmente reconhecidos pelo Ministério da Educação;
+g) Estabelecimentos de ensino, escolas profissionais, escolas artísticas, creches, lactários e jardins-de-infância legalmente reconhecidos pelo ministério competente;
 
 h) Instituições responsáveis pela organização de feiras universais ou mundiais, nos termos a definir por resolução do Conselho de Ministros.
 
-7 - Os donativos previstos no número anterior são levados a custos em valor correspondente a 120% do respectivo total ou a 130% quando atribuídos ao abrigo de contratos plurianuais celebrados para fins específicos que fixem os objectivos a prosseguir pelas entidades beneficiárias e os montantes a atribuir pelos sujeitos passivos.
+i) Organismos públicos de produção artística responsáveis pela promoção de projectos relevantes de serviço público nas áreas do teatro, música, ópera e bailado.
+
+7 - Os donativos previstos no número anterior são levados a custos, em valor correspondente a:
+
+a) 120 % do respectivo total;
+
+b) 130 %, quando atribuídos ao abrigo de contratos plurianuais celebrados para fins específicos que fixem os objectivos a prosseguir pelas entidades beneficiárias e os montantes a atribuir pelos sujeitos passivos;
+
+c) 140 %, quando atribuídos às creches, lactários e jardins-de-infância previstos na alínea g) e para as entidades referidas na alínea i) do número anterior.
 
 8 - São considerados custos ou perdas do exercício, até ao limite de 1/1000 do volume de vendas ou dos serviços prestados no exercício da actividade comercial, industrial ou agrícola, as importâncias atribuídas pelos associados aos respectivos organismos associativos a que pertençam, com vista à satisfação dos seus fins estatutários.
 

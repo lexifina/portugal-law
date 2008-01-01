@@ -1,8 +1,8 @@
 # Artigo 39.º-A
 
-### Eliminação da dupla tributação económica dos lucros distribuídos por sociedades residentes nos países africanos de língua oficial portuguesa
+### Eliminação da dupla tributação económica dos lucros distribuídos por sociedades residentes nos países africanos de língua oficial portuguesa e na República Democrática de Timor-Leste.
 
-1 - A dedução prevista no n.º 1 do artigo 46.º do Código do IRC é aplicável aos lucros distribuídos a entidades residentes por sociedades afiliadas residentes em países africanos de língua oficial portuguesa, desde que verificadas as seguintes condições:
+1 - A dedução prevista no n.º 1 do artigo 46.º do Código do IRC é aplicável aos lucros distribuídos a entidades residentes por sociedades afiliadas residentes em países africanos de língua oficial portuguesa e em Timor-Leste, desde que verificadas as seguintes condições:
 
 a) A entidade beneficiária dos lucros esteja sujeita e não isenta de IRC e a sociedade afiliada esteja sujeita e não isenta a um imposto sobre o rendimento análogo ao IRC;
 
