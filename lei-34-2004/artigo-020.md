@@ -8,4 +8,4 @@
 
 3 - A competência referida nos números anteriores é susceptível de delegação e de subdelegação.
 
-4 - A decisão quanto ao pedido referido no n.º 7 do artigo 8.º-A compete igualmente ao dirigente máximo dos serviços de segurança social competente para a decisão sobre a concessão de proteção jurídica, sendo suscetível de delegação e de subdelegação.
+4 - A decisão quanto ao pedido referido nos n.os 6 e 7 do artigo 8.º-A compete igualmente ao dirigente máximo dos serviços de segurança social competente para a decisão sobre a concessão de protecção jurídica, sendo susceptível de delegação e de subdelegação.

@@ -1,4 +1,4 @@
-# Artigo 8-B
+# Artigo 8.º-B
 
 ### Prova da insuficiência económica
 
