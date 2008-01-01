@@ -66,6 +66,8 @@ b) No caso de aquisições sucessivas, o imposto respeitante à nova transmissã
 
 c) Se a sociedade vier a dissolver-se e todos ou alguns dos seus imóveis ficarem a pertencer ao sócio ou sócios que já tiverem sido tributados, o imposto respeitante à nova transmissão incidirá sobre a diferença entre o valor dos bens agora adquiridos e o valor por que anteriormente o imposto foi liquidado.
 
+20.ª O valor dos bens imóveis adquiridos ao abrigo de regimes legais de apoio financeiro à habitação, quando se trate da primeira transmissão, é o valor ou o preço fixado pelo Instituto da Habitação e da Reabilitação Urbana, I. P., nos termos estabelecidos nesses regimes.
+
 5 - Para efeitos dos números anteriores, considera-se, designadamente, valor constante do acto ou do contrato, isolada ou cumulativamente:
 
 a) A importância em dinheiro paga a título de preço pelo adquirente;

@@ -14,6 +14,6 @@
 
 6 - Deixarão de beneficiar de isenção as aquisições a que se refere o artigo 8.º, se os prédios não forem alienados no prazo de cinco anos a contar da data da aquisição.
 
-7 - Deixarão de beneficiar igualmente de isenção e de redução de taxas previstas no artigo 9.º e na alínea a) do n.º 1 do artigo 17.º, quando aos bens for dado destino diferente daquele em que assentou o benefício, no prazo de seis anos a contar da data da aquisição, salvo no caso de venda.
+7 - Deixam de beneficiar igualmente de isenção e de redução de taxas previstas no artigo 9.º e nas alíneas a) e b) do n.º 1 do artigo 17.º, quando aos bens for dado destino diferente daquele em que assentou o benefício, no prazo de seis anos a contar da data da aquisição, salvo no caso de venda.
 
 8 - Os organismos públicos que emitirem qualquer parecer ou documento para reconhecimento de isenções deverão informar a Direcção-Geral dos Impostos, no prazo de 30 dias, de quaisquer factos susceptíveis de fazer caducar a isenção concedida.
