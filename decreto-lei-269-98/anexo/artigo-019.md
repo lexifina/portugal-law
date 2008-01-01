@@ -14,6 +14,12 @@ d) 2 UC, quando o procedimento tenha valor igual ou superior a (euro) 15000.
 
 2 - Quando o procedimento tenha valor superior a (euro) 30000, ao valor referido na alínea d) do número anterior acresce, por cada (euro) 15000 ou fracção, e até ao limite máximo de (euro) 250000, 1/2 UC.
 
-3 - Se o procedimento seguir como acção, são devidas custas, calculadas e liquidadas nos termos do Código das Custas Judiciais, devendo as partes efectuar o pagamento da taxa de justiça inicial no prazo de 10 dias a contar da data da distribuição, e atendendo-se na conta ao valor da importância paga nos termos dos números anteriores.
+3 - Os valores referidos nos números anteriores são reduzidos a metade se o requerimento de injunção for apresentado por via electrónica.
 
-4 - Sem prejuízo do disposto no Código de Processo Civil relativamente à contestação, na falta de junção, pelo autor, do documento comprovativo do pagamento da taxa de justiça inicial no prazo referido no número anterior, é desentranhada a respectiva peça processual.
+4 - A entrega do requerimento de injunção por advogado ou solicitador deve ser efectuada apenas por via electrónica.
+
+5 - O requerente que, sendo representado por advogado ou solicitador, não cumprir o disposto no número anterior fica sujeito ao pagamento imediato de uma multa no valor de metade de unidade de conta, salvo alegação e prova de justo impedimento, nos termos previstos no artigo 146.º do Código de Processo Civil.
+
+6 - Se o procedimento seguir como acção, são devidas custas, calculadas e liquidadas nos termos do Código das Custas Judiciais, devendo as partes efectuar o pagamento da taxa de justiça inicial no prazo de 10 dias a contar da data da distribuição, e atendendo-se na conta ao valor da importância paga nos termos dos números anteriores.
+
+7 - Sem prejuízo do disposto no Código de Processo Civil relativamente à contestação, na falta de junção, pelo autor, do documento comprovativo do pagamento da taxa de justiça inicial no prazo referido no número anterior, é desentranhada a respectiva peça processual.
