@@ -6,7 +6,7 @@
 
 ### Suspensão da execução. Garantias
 
-1 - A execução ficará suspensa até à decisão do pleito em caso de reclamação graciosa, a impugnação judicial ou recurso judicial que tenham por objecto a legalidade da dívida exequenda desde que tenha sido constituída garantia nos termos do artigo 195.º ou prestada nos termos do artigo 199.º ou a penhora garanta a totalidade da quantia exequenda e do acrescido, o que será informado no processo pelo funcionário competente.
+1 - A execução fica suspensa até à decisão do pleito em caso de reclamação graciosa, a impugnação judicial ou recurso judicial que tenham por objecto a legalidade da dívida exequenda, bem como durante os procedimentos de resolução de diferendos no quadro da Convenção de Arbitragem n.º 90/436/CEE, de 23 de Julho, relativa à eliminação da dupla tributação em caso de correcção de lucros entre empresas associadas de diferentes Estados membros, desde que tenha sido constituída garantia nos termos do artigo 195.º ou prestada nos termos do artigo 199.º ou a penhora garanta a totalidade da quantia exequenda e do acrescido, o que será informado no processo pelo funcionário competente.
 
 2 - Se não houver garantia constituída ou prestada, nem penhora, ou os bens penhorados não garantirem a dívida exequenda e acrescido, será ordenada a notificação do executado para prestar a garantia referida no número anterior dentro do prazo de 15 dias.
 

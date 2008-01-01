@@ -14,4 +14,4 @@ c) Os móveis, pelo valor que lhes tenha sido atribuído no auto de penhora, sal
 
 3 - A avaliação efectuada nos termos do número anterior produz efeitos imediatos em sede do IMI.
 
-4 - O valor base a anunciar para a venda é igual a 70% do determinado nos termos do número anterior.
+4 - O valor base a anunciar para venda é igual a 70 % do determinado nos termos do n.º 1.

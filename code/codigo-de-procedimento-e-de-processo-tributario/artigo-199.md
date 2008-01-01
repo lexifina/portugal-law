@@ -8,7 +8,7 @@
 
 3 - Se o executado considerar existirem os pressupostos da isenção da prestação de garantia, deverá invocá-los e prová-los na petição.
 
-4 - Valerá como garantia para os efeitos do número anterior a penhora já feita sobre os bens necessários para assegurar o pagamento da dívida exequenda e acrescido ou a efectuar em bens nomeados para o efeito pelo executado no prazo referido no n.º 6.
+4 - Vale como garantia para os efeitos do n.º 1 a penhora já feita sobre os bens necessários para assegurar o pagamento da dívida exequenda e acrescido ou a efectuar em bens nomeados para o efeito pelo executado no prazo referido no n.º 6.
 
 5 - A garantia será prestada pelo valor da dívida exequenda, juros de mora até ao termo do prazo de pagamento limite de 5 anos e custas a contar até à data do pedido, acrescida de 25% da soma daqueles valores.
 
