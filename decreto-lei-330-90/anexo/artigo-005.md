@@ -11,3 +11,5 @@ b) Profissional ou agência de publicidade: pessoa singular que exerce a activid
 c) Suporte publicitário: o veículo utilizado para a transmissão da mensagem publicitária;
 
 d) Destinatário: a pessoa singular ou colectiva a quem a mensagem publicitária se dirige ou que por ela, de qualquer forma, seja atingida.
+
+2 - Não podem constituir suporte publicitário as publicações periódicas informativas editadas pelos órgãos das autarquias locais, salvo se o anunciante for uma empresa municipal de capitais exclusiva ou maioritariamente públicos.
