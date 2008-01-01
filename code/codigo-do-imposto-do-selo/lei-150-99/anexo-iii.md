@@ -210,7 +210,7 @@
 
 26.2 - Transformação em sociedade de capitais de uma sociedade, associação ou pessoa colectiva que não seja sociedade de capitais - sobre o valor real dos bens de qualquer natureza pertencentes à sociedade à data da transformação, após dedução das obrigações e dos encargos que a onerem nesse momento ... 0,4%
 
-26.3 - Aumento do capital social de uma sociedade de capitais mediante a entrada de bens de qualquer espécie - sobre o valor real dos bens de qualquer natureza entregues ou a entregar pelos sócios, após dedução das obrigações assumidas e dos encargos suportados pela sociedade em consequência de cada entrada ... 0,4%
+26.3 - Aumento do capital social de uma sociedade de capitais mediante a entrada de bens de qualquer espécie, excepto numerário, sobre o valor real dos bens de qualquer natureza, entregues ou a entregar pelos sócios, após dedução das obrigações assumidas e dos encargos suportados pela sociedade em consequência de cada entrada - 0,4 %.
 
 26.4 - Aumento do activo de uma sociedade de capitais mediante a entrada de bens de qualquer espécie remunerada não por partes representativas do capital social ou do activo mas por direitos da mesma natureza que os dos sócios, tais como direito de voto e participação nos lucros ou no saldo de liquidação - sobre o valor real dos bens de qualquer natureza entregues ou a entregar pelos sócios, após dedução das obrigações assumidas e dos encargos suportados pela sociedade em consequência de cada entrada ... 0,4%
 
