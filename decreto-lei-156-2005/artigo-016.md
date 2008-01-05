@@ -1,4 +1,4 @@
-## Capítulo VIII
+## Capítulo VI
 
 ## Entrada em vigor
 

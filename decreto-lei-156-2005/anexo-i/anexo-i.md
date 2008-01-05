@@ -1,149 +1,63 @@
 # Anexo I
 
-### (a que se referem os n.ºs 1, 2 e 4 do artigo 2.º, os n.ºs 1 e 6 do artigo 5.º e os n.ºs 1 e 3 do artigo 11.º)
+### Entidades que, nos termos do n.º 2 do artigo 1.º, passam a estar sujeitas à obrigatoriedade de existência e disponibilização do livro de reclamações
 
-1 - Estabelecimentos de venda ao público e de prestação de serviços de:
+a) Estabelecimentos de venda ao público e de prestação de serviços:
 
-a) Comércio a retalho e conjuntos comerciais, bem como estabelecimentos de comércio por grosso com revenda ao consumidor final;
+i) Estabelecimento de comércio a retalho e conjuntos comerciais a que se refere a Lei n.º 12/2004, de 30 de Março;
 
-b) Comércio, manutenção e reparação de velocípedes, ciclomotores, motociclos e veículos automóveis novos e usados;
+ii) Postos de abastecimento de combustíveis;
 
-c) Restauração ou bebidas;
+iii) Lavandarias e estabelecimentos de limpeza a seco e de engomadoria;
 
-d) Lavandaria, limpeza a seco e engomadoria;
+iv) Salões de cabeleireiro, institutos de beleza ou outros de natureza similar, independentemente da denominação adoptada;
 
-e) Cabeleireiro, beleza ou outros de natureza similar;
+v) Estabelecimentos de tatuagens e colocação de piercings;
 
-f) Tatuagens e colocação de piercings;
+vi) Estabelecimentos de venda e de reparação de automóveis novos e usados;
 
-g) Manutenção física, independentemente da designação adotada;
+vii) Estabelecimentos de manutenção física, independentemente da designação adoptada;
 
-h) Reparação de bens pessoais e domésticos;
+viii) Os recintos de espectáculos de natureza artística;
 
-i) Estudos e de explicações;
+ix) Parques de estacionamento subterrâneo ou de superfície;
 
-j) Funerários;
+x) Farmácias;
 
-k) Prestamistas;
+b) Estabelecimentos dos prestadores de serviços seguintes:
 
-l) Aluguer de velocípedes, de motociclos e de veículos automóveis;
+i) Prestadores de serviços públicos essenciais a que se refere a Lei n.º 23/96, de 26 de Julho;
 
-m) Aluguer de videogramas;
+ii) Prestadores de serviços de transporte rodoviários, ferroviários, marítimos, fluviais, aéreos, de comunicações electrónicas e postais;
 
-n) Notários privados.
+c) Estabelecimentos das instituições particulares de segurança social em relação aos quais existam acordos de cooperação celebrados com os centros distritais de segurança social:
 
-2 - Estabelecimento de empresas na área da construção e do imobiliário:
+i) Creches;
 
-a) Construção civil;
+ii) Pré-escolar;
 
-b) Promoção imobiliária;
+iii) Centros de actividade de tempos livres;
 
-c) Administração de condomínios;
+iv) Lares para crianças e jovens;
 
-d) Avaliação imobiliária;
+v) Lares para idosos;
 
-e) Arrendamento, compra e venda de bens imobiliários;
+vi) Centros de dia;
 
-f) Administração de imóveis por conta de outrem;
+vii) Apoio domiciliário;
 
-g) Mediação imobiliária;
+viii) Lares para pessoas com deficiência;
 
-h) Consultadoria e mediação de obras;
+ix) Centros de actividades ocupacionais para deficientes;
 
-i) Gestão, planeamento e fiscalização de obras.
+x) Centros comunitários;
 
-3 - Estabelecimentos de prestação de serviços na área do turismo:
+xi) Cantinas sociais;
 
-a) Empreendimentos turísticos;
+xii) Casas-abrigos;
 
-b) Alojamento local;
+d) Sucursais das empresas de seguros, bem como os estabelecimentos de mediadores e corretores de seguros onde seja efectuado atendimento ao público;
 
-c) Agências de viagens e turismo;
+e) Instituições de crédito;
 
-d) Empresas de animação turística;
-
-e) Recintos com diversões aquáticas;
-
-f) Campos de férias;
-
-g) Estabelecimentos termais;
-
-h) Marinas.
-
-4 - Recintos de espetáculos de natureza artística.
-
-5 - Parques de estacionamento subterrâneo ou de superfície.
-
-6 - Centros de inspeção automóvel, escolas de condução e centros de exames de condução.
-
-7 - Postos de abastecimento de combustíveis.
-
-8 - Casinos, salas de máquinas, salas de jogo do bingo.
-
-9 - Centros de Atendimento Médico-Veterinários.
-
-10 - Estabelecimento de prestadores de serviços públicos essenciais:
-
-a) Fornecimento de água;
-
-b) Fornecimento de energia elétrica;
-
-c) Fornecimento de gás natural e gases de petróleo liquefeitos canalizados;
-
-d) Comunicações eletrónicas;
-
-e) Postais;
-
-f) Recolha e tratamento de águas residuais;
-
-g) Gestão de resíduos sólidos urbanos.
-
-11 - Estabelecimento de prestadores de serviços de transporte:
-
-a) Rodoviário;
-
-b) Ferroviário;
-
-c) Marítimo;
-
-d) Fluvial;
-
-e) Aéreo, designadamente, entidades gestoras dos aeroportos e aeródromos nacionais, entidades coordenadoras do processo de atribuição e de facilitação de faixas horárias nos aeroportos nacionais, prestadores de serviços de navegação aérea com exceção dos prestadores de serviços de meteorologia aeronáutica, operadores de transporte aéreo e operadores de trabalho aéreo, entidades prestadoras de serviços de apoio ao transporte aéreo e prestadores de serviços de assistência em escala.
-
-12 - Estabelecimentos das Instituições Particulares de Segurança Social ou equiparadas, bem como estabelecimentos das Instituições em relação às quais existam acordos de cooperação ou protocolos celebrados com os Centros Distritais de Segurança Social, I. P.:
-
-a) No âmbito do apoio às crianças e jovens: creches, creche familiar, estabelecimento de educação pré-escolar, centros de atividades de tempos livres, centros de apoio familiar e aconselhamento parental, lares de infância e juventude e apartamentos de autonomização, casas de acolhimento temporário;
-
-b) No âmbito do apoio a pessoas idosas: centros de convívio, centros de dia, centros de noite, estruturas residenciais para pessoas idosas e acolhimento familiar para pessoas idosas;
-
-c) No âmbito do apoio a pessoas com deficiência: centros de atividades ocupacionais, lares residenciais, residências autónomas, centros de atendimento, acompanhamento e animação de pessoas com deficiência;
-
-d) No âmbito do apoio a pessoas com doenças do foro mental ou psiquiátrico: fóruns socio-ocupacionais, unidades de vida protegida, autónoma e apoiada;
-
-e) No âmbito do apoio a outros grupos: apartamentos de reinserção social, residências para pessoas com VIH/sida, centros de alojamento temporário e comunidades de inserção;
-
-f) No âmbito do apoio à família e comunidade: serviço de atendimento e acompanhamento social, centros comunitários, cantinas sociais, casas de abrigo, centro de apoio à vida e serviços de apoio domiciliário;
-
-g) No âmbito do apoio social: estabelecimentos em que sejam desenvolvidas atividades similares às referidas nas alíneas anteriores ainda que sob designação diferente.
-
-13 - Instituições de crédito, sociedades financeiras, instituições de pagamento, instituições de moeda eletrónica, prestadores de serviços postais no que se refere à prestação de serviços de pagamento, intermediários de crédito, gestores de créditos, emitentes de criptofichas referenciadas a ativos e emitentes de criptofichas de moeda eletrónica.
-
-14 - Estabelecimentos das empresas de seguros, bem como os estabelecimentos de mediadores de seguros e de sociedades gestoras de fundos de pensões.
-
-15 - Empresas de Investimento e prestadores de serviços de criptoativos.
-
-16 - Estabelecimentos particulares e cooperativos de educação pré-escolar e dos ensinos básico e secundário.
-
-17 - Estabelecimentos do ensino superior particular e cooperativo.
-
-18 - Estabelecimentos dos prestadores de cuidados na área da saúde:
-
-a) Unidades privadas de saúde com internamento ou sala de recobro;
-
-b) Unidades privadas de saúde com atividade específica, designadamente laboratórios; unidades com fins de diagnóstico, terapêutica e de prevenção de radiações ionizantes, ultrassons ou campos magnéticos; unidades privadas de diálise; clínicas e consultórios dentários e unidades de medicina física e de reabilitação;
-
-c) Outros operadores sujeitos à atividade reguladora da Entidade Reguladora da Saúde;
-
-d) Unidades privadas de prestação de cuidados de saúde na área da toxicodependência.
-
-19 - Farmácias.
+f) Estabelecimentos dos ensinos básico, secundário e superior particular e cooperativo.
