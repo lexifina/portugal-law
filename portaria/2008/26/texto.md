@@ -1,0 +1,22 @@
+Portaria n.º 26/2008
+de 10 de Janeiro
+As alterações do contrato colectivo de trabalho entre a Associação dos Industriais de Prótese Dentária e o Sindicato dos Técnicos de Prótese Dentária, publicadas no Boletim do Trabalho e Emprego, 1.ª série, n.º 21, de 8 de Junho de 2007, abrangem as relações de trabalho entre empregadores que prossigam a actividade de prótese dentária e trabalhadores ao seu serviço, uns e outros representados pelas associações que as outorgaram.
+As associações subscritoras requereram a extensão do contrato colectivo de trabalho aos empregadores e trabalhadores não representados pelas associações outorgantes e que, no território nacional, se dediquem à mesma actividade.
+A convenção actualiza as tabelas salariais. O estudo de avaliação do impacte da extensão das tabelas salariais teve por base as retribuições efectivas praticadas no sector abrangido pela convenção, apuradas pelos quadros de pessoal de 2005 e actualizadas com base no aumento percentual médio ponderado registado pelas tabelas salariais das convenções publicadas em 2006.
+Os trabalhadores a tempo completo do sector, com exclusão de aprendizes, praticantes e do residual (que inclui o ignorado), são cerca de 956, dos quais 604 (63,2  %) auferem retribuições inferiores às convencionais, sendo que 436 (45,6  %) auferem retribuições inferiores às da convenção em mais de 6,5  %. É nas empresas do escalão de dimensão até 10 trabalhadores que se encontra o maior número de profissionais com retribuições praticadas inferiores às da convenção.
+A convenção actualiza, ainda, o subsídio de refeição, em 3,1  %. Não se dispõe de dados estatísticos que permitam avaliar o impacte desta prestação. Considerando a finalidade da extensão e que a mesma prestação foi objecto de extensões anteriores, justifica-se incluí-la na extensão.
+Com vista a aproximar os estatutos laborais dos trabalhadores e as condições de concorrência entre as empresas do sector de actividade abrangido pela convenção, a extensão assegura uma retroactividade idêntica à da convenção para as tabelas salariais e, para o valor do subsídio de refeição, a partir do dia 1 do mês seguinte ao da entrada em vigor da convenção.
+A extensão da convenção tem, no plano social, o efeito de uniformizar as condições mínimas de trabalho dos trabalhadores e, no plano económico, o de aproximar as condições de concorrência entre empresas do mesmo sector.
+Embora a convenção tenha área nacional, a extensão das convenções colectivas nas Regiões Autónomas compete aos respectivos Governos Regionais, pelo que a presente extensão apenas é aplicável no território do continente.
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, n.º 43, de 22 de Novembro de 2007, ao qual não foi deduzida oposição por parte dos interessados.
+Assim:
+Manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, ao abrigo dos n.os 1 e 3 do artigo 575.º do Código do Trabalho, o seguinte:
+Artigo 1.º
+As condições de trabalho constantes das alterações do contrato colectivo de trabalho entre a Associação dos Industriais de Prótese Dentária e o Sindicato dos Técnicos de Prótese Dentária, publicadas no Boletim do Trabalho e Emprego, 1.ª série, n.º 21, de 8 de Junho de 2007, são estendidas, no território do continente:
+a) Às relações de trabalho entre empregadores não filiados na associação de empregadores outorgante que prossigam a actividade de prótese dentária e trabalhadores ao seu serviço das profissões e categorias profissionais nelas previstas;
+b) Às relações de trabalho entre empregadores que exerçam a actividade económica referida na alínea anterior filiados na associação de empregadores outorgante e trabalhadores ao seu serviço das categorias profissionais previstas na convenção não filiados na associação sindical outorgante.
+Artigo 2.º
+1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+2 - As tabelas salariais e o subsídio de refeição produzem efeitos a partir de 1 de Janeiro e de 1 de Julho de 2007, respectivamente.
+3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais, de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de cinco.
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 26 de Dezembro de 2007.
