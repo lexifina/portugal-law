@@ -1,0 +1,29 @@
+Regulamento n.º 25/2008
+Após discussão pública, em cumprimento do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, e no seguimento da proposta da Câmara Municipal nos termos da alínea a), do n.º 6, do artigo 64.º, da Lei n.º 169/99, de 18 de Setembro, foi aprovado em sessão ordinária da Assembleia Municipal datada de 20 de Dezembro de 2007, a alteração ao Regulamento de Venda Ambulante, o qual entra em vigor 15 dias, após a sua publicação.
+Para constar se publica este edital e outros de igual teor, que vão ser afixados nos lugares de estilo.
+28 de Dezembro de 2007. - O Presidente da Câmara, Américo Jaime Afonso Pereira.
+Atendendo que somos permanentemente confrontados com dificuldades de aplicabilidade do Regulamento Municipal de Venda Ambulante, proponho que, os artigos a seguir indicados passam a ter a seguinte redacção:
+Artigo 12.º
+[...]
+1 -  ...
+a) ...
+b) ...
+c) ...
+d) ...
+e) ...
+f) Anterior alínea g).
+2 - ...
+3 - ...
+4 - ...
+5 - o pedido de renovação do cartão de vendedor ambulante, deve-se fazer acompanhar dos seguintes elementos:
+a) respectivo cartão;
+b) bilhete de identidade;
+c) documento comprovativo da entrega do I.R.S. do ano anterior.
+Artigo 15.º
+Concessão e renovação
+1 - Pela concessão do cartão de vendedor ambulante, é devida uma taxa de vinte euros (20,00 (euro)), actualizável de acordo com a regra definida no Regulamento e Tabela Municipal de Taxas e Licenças.
+2 - Pela renovação do cartão de vendedor ambulante é devida uma taxa de dez euros (10,00 (euro)).
+3 - A renovação anual do cartão de vendedor ambulante, se o interessado desejar continuar a exercer essa actividade, deverá ser requerida até trinta (30) dias antes de caducar a respectiva validade sob pena da respectiva taxa ser agravada em cinquenta por cento (50 %).
+Artigo 48.º
+[...]
+O presente Regulamento entra em vigor 15 dias após a publicação no Diário da República do aviso de aprovação pela Assembleia Municipal.
