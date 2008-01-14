@@ -1,7 +1,3 @@
-## Capítulo VIII
-
-## Disposições transitórias, revogatórias e finais
-
 # Artigo 35.º
 
 ### Aplicação às Regiões Autónomas

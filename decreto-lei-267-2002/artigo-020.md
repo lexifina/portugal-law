@@ -2,7 +2,7 @@
 
 ### Medidas cautelares
 
-1 - Sem prejuízo do disposto na lei sobre responsabilidade por danos ambientais, sempre que seja detetada uma situação de perigo grave para a saúde, a segurança de pessoas e bens, a higiene e a segurança dos locais de trabalho e o ambiente, a entidade licenciadora e as demais entidades fiscalizadoras, por si ou em colaboração, devem tomar imediatamente as providências que em cada caso se justifiquem para prevenir ou eliminar a situação de perigo, podendo vir a ser determinado:
+1 - Sempre que seja detectada uma situação de perigo grave para a saúde, a segurança de pessoas e bens, a higiene e a segurança dos locais de trabalho e o ambiente, a entidade licenciadora e as demais entidades fiscalizadoras, de per si ou em colaboração, devem tomar imediatamente as providências que em cada caso se justifiquem para prevenir ou eliminar a situação de perigo, podendo vir a ser determinado:
 
 a) O encerramento preventivo da instalação, no todo ou em parte, por selagem, por um prazo máximo de seis meses;
 
