@@ -1,0 +1,9 @@
+Aviso n.º 4/2008
+Por ordem superior se torna público ter a Guatemala efectuado, junto do Secretário-Geral da Organização das Nações Unidas, em 25 de Setembro de 2003, uma declaração ao abrigo do artigo 22.º da Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes, adoptada pela Assembleia Geral das Nações Unidas em 17 de Dezembro de 1984.
+(Tradução)
+(original: espanhol)
+«In accordance with article 22 of the Convention [...], the Republic of Guatemala recognizes the competence of the Committee to receive and consider communications from or on behalf of individuals subject to its jurisdiction who claim to be victims of a violation of the provisions of the Convention in respect of acts, omissions, situations or events occurring after the date of the present declaration.»
+Tradução
+Em conformidade com o artigo 22.º da Convenção [...], a República da Guatemala reconhece a competência do Comité para receber e examinar as comunicações apresentadas por ou em nome de particulares sujeitos à sua jurisdição que alegam ser vítimas de violação das disposições da Convenção, no que respeita a actos, omissões, situações ou factos ocorridos após a data da presente declaração.
+Portugal é Parte nesta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 11/88, publicada no Diário da República, 1.ª série, n.º 118, de 21 de Maio de 1988, e ratificada pelo Decreto do Presidente da República n.º 57/88, publicado no Diário da República, 1.ª série, n.º 166, de 20 de Julho de 1988, tendo depositado o seu instrumento de ratificação em 9 de Fevereiro de 1989, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 128, de 5 de Junho de 1989.
+Direcção-Geral de Política Externa, 4 de Janeiro de 2008. - O Subdirector-Geral para os Assuntos Multilaterais, António Ricoca Freire.
