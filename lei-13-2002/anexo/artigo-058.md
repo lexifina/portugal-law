@@ -8,6 +8,6 @@
 
 3 - Os juízes dos tribunais administrativos de círculo e dos tribunais tributários têm as honras, precedências, categorias, direitos, vencimentos e abonos que competem aos juízes de direito.
 
-4 - A progressão na carreira dos juízes da jurisdição administrativa e fiscal não depende do tribunal em que exercem funções, mas de critérios a estabelecer em diploma próprio.
+4 - A progressão na carreira dos juízes da jurisdição administrativa e fiscal não depende do tribunal em que exercem funções.
 
-5 - Para os efeitos do disposto no número anterior, os juízes dos tribunais administrativos e dos tribunais tributários só podem ascender à categoria de juiz de círculo após cinco anos de serviço nesses tribunais com a classificação de Bom com distinção, sem prejuízo de outros requisitos legais.
+5 - Os juízes dos tribunais administrativos e dos tribunais tributários ascendem à categoria de juiz de círculo após cinco anos de serviço nesses tribunais com a classificação de Bom com distinção.
