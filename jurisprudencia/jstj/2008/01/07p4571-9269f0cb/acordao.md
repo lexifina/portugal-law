@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal de Justiça de 2008-01-16, processo 07P4571
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 07P4571
+
+**Nº Convencional:** JSTJ000
+
+**Relator:** PIRES DA GRAÇA
+
+**Descritores:** FINS DAS PENAS; PREVENÇÃO GERAL; PREVENÇÃO ESPECIAL; CULPA; PRINCÍPIO DA CULPA
+
+**Nº do Documento:** SJ200801160045713
+
+**Data do Acordão:** 01/16/2008
+
+**Votação:** MAIORIA COM * DEC VOT E * VOT VENC
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO PENAL
+
+**Decisão:** PROVIDO PARCIALMENTE
+
+## Sumário
+
+I - O ponto de partida das finalidades das penas com referência à tutela necessária dos bens jurídicos, reclamada pelo caso concreto e com significado prospectivo, encontra-se nas exigências da prevenção geral positiva ou de integração, em que a finalidade primária da pena é o restabelecimento da paz jurídica comunitária posta em causa pelo comportamento criminal.
+
+II - O ponto de chegada está nas exigências de prevenção especial, nomeadamente da prevenção especial positiva ou de socialização, ou, porventura, da prevenção negativa, função que se assume por excelência no âmbito das medidas de segurança.
+
+III - Tal desiderato sobre as penas integra o programa político-criminal legitimado pelo art. 18.º, n.º 2, da CRP, que o legislador penal acolheu no art. 40.º do CP, determinando, porém, o seu n.º 2 que «em caso algum a pena pode ultrapassar a medida da culpa», o que significa que não pode haver pena sem culpa nem pena acima da culpa.
+
+IV - Com efeito, o princípio da culpa «não vai buscar o seu fundamento axiológico a uma qualquer concepção retributiva da pena, antes sim ao princípio da inviolabilidade da dignidade pessoal. A culpa é condição necessária, mas não suficiente, da aplicação da pena; e é precisamente esta circunstância que permite uma correcta incidência da ideia de prevenção especial positiva ou de socialização» – cf. Figueiredo Dias, Direito Penal – As Consequências Jurídicas do Crime, Aequitas, Editorial Notícias, 1993, § 56.
+
+V - Do ponto de vista da culpa, e, em síntese: «A verdadeira função da culpa no sistema punitivo reside efectivamente numa incondicional proibição de excesso; a culpa não é fundamento de pena, mas constitui o seu limite inultrapassável: o limite inultrapassável de todas e quaisquer considerações ou exigências preventivas – sejam de prevenção geral positiva de integração ou antes negativa de intimidação, sejam de prevenção especial positiva de socialização ou antes negativa de segurança ou de neutralização. A função da culpa, deste modo inscrita na vertente liberal do Estado de Direito, é por outras palavras, a de estabelecer o máximo de pena ainda compatível com as exigências de preservação da dignidade da pessoa e de garantia do livre desenvolvimento da sua personalidade nos quadros de um Estado de Direito democrático. E a de, por esta via, constituir uma barreira intransponível ao intervencionismo punitivo estatal e um veto incondicional aos apetites abusivos que ele possa suscitar» – cf. Figueiredo Dias, Temas Básicos da Doutrina Penal, Coimbra Editora, 2001, pág. 109 e ss..
