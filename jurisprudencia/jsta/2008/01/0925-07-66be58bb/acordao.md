@@ -1,0 +1,57 @@
+# Acórdão do Supremo Tribunal Administrativo de 2008-01-17, processo 0925/07
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0925/07
+
+**Data do Acordão:** 01/17/2008
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** RUI BOTELHO
+
+**Descritores:** GREVE; MAQUINISTA; CP; REQUISIÇÃO CIVIL; FALTA DISCIPLINAR; ACTO CONSEQUENTE; APROVEITAMENTO DO ACTO ADMINISTRATIVO; FALTA DE ATRIBUIÇÕES; PRINCÍPIO DA PROPORCIONALIDADE; EFEITOS PUTATIVOS
+
+**Nº Convencional:** JSTA00064793
+
+**Nº do Documento:** SA1200801170925
+
+**Data de Entrada:** 10/31/2007
+
+**Recorrente:** SEA E DOS TRANSPORTES
+
+**Recorrido 1:** A...
+
+**Recorrido 2:** OUTRO
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC TCA SUL.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR ADM GER - REQUISIÇÃO CIVIL.
+
+**Legislação Nacional:** CPA91 ART133 ART134.; L 65/77 DE 1977/08/26 ART8.
+
+**Jurisprudência Nacional:** AC TC PROC394/03 DE 2003/06/16.; AC STAPLENO PROC46732 DE 2006/09/28.
+
+**Referência a Doutrina:** FREITAS DO AMARAL A EXECUÇÃO DAS SENTENÇAS DOS TRIBUNAIS ADMINISTRATIVOS PAG112-116.; ESTEVES DE OLIVEIRA E OUTROS CÓDIGO DE PROCEDIMENTO ADMINISTRATIVO ANOTADO PAG655.; GOMES CANOTILHO E OUTRO CONSTITUIÇÃO DA REPUBLICA ANOTADA PAG266.
+
+## Sumário
+
+I - Actos administrativos consequentes são os que estão intrinsecamente dependentes de um outro, anterior, de tal modo que se o acto primário não puder manter-se na ordem jurídica o subsequente também não pode subsistir.
+
+II - Um acto que sanciona um trabalhador por ter cometido uma falta disciplinar debaixo de um acto de requisição civil não é seu consequente se a infracção nada tem a ver com a requisição de tal modo que possa dizer-se que sempre teria lugar sem ela.
+
+III - Ainda que o acto que implementou a requisição civil venha a ser contenciosamente anulado, o acto administrativo punitivo entretanto praticado pela autoridade administrativa, apenas, por força da requisição, deve aproveitar-se se a anulação contenciosa nada teve a ver com a requisição, a deficiente avaliação dos seus pressupostos, e se tal acto correspondeu, tão somente, à intervenção final de um procedimento que sempre teria existido com ou sem requisição.
+
+IV - O aproveitamento desse tipo de actos apresenta-se como natural e como a melhor forma de salvaguardar o interesse público, o respeito pela ordem jurídica estabelecida, designadamente, a inerente à estabilidade das relações jurídicas constituídas à luz do quadro normativo existente na altura.
+
+V - Trata-se, afinal, se observar, nesta área das decisões jurisdicionais, o princípio da justa medida, adoptando, dentre as medidas necessárias e adequadas para atingir o equilíbrio entre os interesses em jogo, aquelas que impliquem menos gravames, sacrifícios ou perturbações, sem violarem direitos de terceiros.
+
+VI - Em situações que podem considerar-se como equivalentes, o Tribunal Constitucional, invocando o disposto no art.º 282, n.º 4, da CRP, tem salvaguardado, repetidamente, "por motivos de equidade e segurança jurídica" os efeitos produzidos por preceitos inconstitucionais (ou ilegais), decidindo que os efeitos da inconstitucionalidade (ilegalidade) detectada somente se projectam para o futuro.
+
+VII - O regime jurídico da nulidade contempla, igualmente, a possibilidade de os actos nulos poderem produzir certos efeitos (efeitos putativos, por possuírem aparência de legalidade) "por força do simples decurso do tempo, de harmonia com os princípios gerais de direito" (art.º 134, n.º 3, do CPA).
