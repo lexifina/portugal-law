@@ -1,0 +1,459 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11763",
+  "numero": "432",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-01-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2008-06-26",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "167/11ªCTSSAP",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2008-11-17",
+                "dataResposta": "2008-12-19",
+                "nrOficio": "427/11ªCTSSAP",
+                "oficioResposta": "3258"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-04-20",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-06-11",
+        "DataArquivo": "2009-04-21",
+        "DataBaixaComissao": "2008-06-11",
+        "DataEnvioPAR": "2009-04-24",
+        "DataReaberta": "2008-06-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-01-17",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314e425548427663314a425569394562324e31625756756447397a5547563061574e68627938314e7a59355a6a6c6a5a5331684d32497a4c5451784d5745744f4441324f4330354d545931596a457a4d6a417a4e5751756347526d&fich=5769f9ce-a3b3-411a-8068-9165b132035d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-01-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314e425548427663314a425569394562324e31625756756447397a5547563061574e686279396c5a6d4e684e6a56684e4330775a474d7a4c545131596d5574596a55354e69316a4d446b794e6d59334d3259324e6d49756347526d&fich=efca65a4-0dc3-45be-b596-c0926f73f66b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1913",
+        "Legislatura": "X",
+        "Nome": "Comissão de Trabalho, Segurança Social e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-06-11",
+            "gp": "PS",
+            "id": "2734",
+            "motivoCessacao": null,
+            "nome": "Esmeralda Salero Ramires"
+          }
+        ],
+        "RelatorioFinal": [
+          "22447"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2009-06-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2008-01-17",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a4e4455784e6d4d324d43316b4f574d304c5451354f4755745957517a4f5330344e6a49354f4467774e7a4a6a4d5459756347526d&fich=34516c60-d9c4-498e-ad39-862988072c16.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2009-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172955",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-06-04",
+                "pubLeg": "X",
+                "pubNr": "88",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/088/2009-06-04/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Sindicato dos Trabalhadores dos Impostos, solicitando à Assembleia da República a alteração do teor do n.º 1 do artigo 10º do Decreto da Assembleia n.º 173/X, aditando ao mesmo uma alínea g), com a seguinte redacção: g) Grupo da Administração Tributária",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172958",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-06-04",
+                "pubLeg": "X",
+                "pubNr": "88",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/088/2009-06-04/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Sindicato dos Trabalhadores dos Impostos, solicitando à Assembleia da República a alteração do teor do n.º 1 do artigo 10º do Decreto da Assembleia n.º 173/X, aditando ao mesmo uma alínea g), com a seguinte redacção: g) Grupo da Administração Tributária",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172959",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-06-04",
+                "pubLeg": "X",
+                "pubNr": "88",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/088/2009-06-04/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Sindicato dos Trabalhadores dos Impostos, solicitando à Assembleia da República a alteração do teor do n.º 1 do artigo 10º do Decreto da Assembleia n.º 173/X, aditando ao mesmo uma alínea g), com a seguinte redacção: g) Grupo da Administração Tributária",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172960",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-06-04",
+                "pubLeg": "X",
+                "pubNr": "88",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/088/2009-06-04/57?pgs=57&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Sindicato dos Trabalhadores dos Impostos, solicitando à Assembleia da República a alteração do teor do n.º 1 do artigo 10º do Decreto da Assembleia n.º 173/X, aditando ao mesmo uma alínea g), com a seguinte redacção: g) Grupo da Administração Tributária",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172961",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-06-04",
+                "pubLeg": "X",
+                "pubNr": "88",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/088/2009-06-04/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Sindicato dos Trabalhadores dos Impostos, solicitando à Assembleia da República a alteração do teor do n.º 1 do artigo 10º do Decreto da Assembleia n.º 173/X, aditando ao mesmo uma alínea g), com a seguinte redacção: g) Grupo da Administração Tributária",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172962",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-06-04",
+                "pubLeg": "X",
+                "pubNr": "88",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/088/2009-06-04/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Sindicato dos Trabalhadores dos Impostos, solicitando à Assembleia da República a alteração do teor do n.º 1 do artigo 10º do Decreto da Assembleia n.º 173/X, aditando ao mesmo uma alínea g), com a seguinte redacção: g) Grupo da Administração Tributária",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11763",
+    "PetAssunto": "Solicita a alteração do teor do n.º 1 do artigo 10º do Decreto da Assembleia n.º 173/X, aditando ao mesmo uma alínea g), com a seguinte redacção: g) Grupo da Administração Tributária.",
+    "PetDataEntrada": "2008-01-17",
+    "PeticoesAssociadas": null,
+    "PetId": "11763",
+    "PetLeg": "X",
+    "PetNr": "432",
+    "PetNrAssinaturas": "7500",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "290",
+        "obs": null,
+        "pag": [
+          "54-59"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-06-04",
+        "pubLeg": "X",
+        "pubNr": "88",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/088/2009-06-04/54?pgs=54-59&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "435483",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-06-21",
+        "pubLeg": "X",
+        "pubNr": "117",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/117/2008-06-21/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
