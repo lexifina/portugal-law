@@ -1,0 +1,3 @@
+Declaração n.º 1/2008
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se que se considera caduco o processo relativo à apreciação parlamentar n.º 50/X ao Decreto-Lei n.º 295/2007, de 22 de Agosto, que define o estatuto dos dirigentes associativos das associações de militares das Forças Armadas, apresentada pelo Grupo Parlamentar do Partido Popular, uma vez que foram rejeitadas pela Comissão de Trabalho e Segurança Social todas as propostas de alteração e que o Plenário foi informado do facto.
+Assembleia da República, 19 de Dezembro de 2007. - A Deputada Secretária da Mesa da Assembleia da República, Celeste Correia.
