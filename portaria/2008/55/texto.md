@@ -1,0 +1,13 @@
+Portaria n.º 55/2008
+de 18 de Janeiro
+A Portaria n.º 1332/2005, de 29 de Dezembro, na redacção dada pela Portaria n.º 1414/2006, de 18 de Dezembro, estabelece medidas adicionais temporárias de protecção fitossanitária relativamente à importação de batata de consumo originária de zonas isentas da bactéria Pseudomonas solanacearum (Smith) Smith, no Egipto.
+Estas medidas implementam a nível nacional o disposto na Decisão n.º 2004/4/CE, da Comissão, de 22 de Dezembro de 2003, com a última redacção que lhe foi dada pela Decisão n.º 2006/749/CE, da Comissão, de 31 de Outubro, que autoriza os Estados membros a adoptar provisoriamente, em relação àquele país, medidas adicionais de protecção fitossanitária.
+Contudo, durante a campanha de importação de 2006-2007, foi registada na Comunidade uma intercepção da referida bactéria, tendo o Egipto assumido o compromisso de retirar a zona de produção em causa da lista das zonas reconhecidas como isentas.
+Face às garantias de segurança apresentadas por aquele país terceiro, a Comissão considerou que não havia risco de dispersão de Pseudomonas solanacearum (Smith) Smith com a entrada na Comunidade de tubérculos de Solanum tuberosum L. provenientes de zonas isentas do Egipto, desde que estivessem satisfeitas determinadas condições.
+Para o efeito foi aprovada a Decisão n.º 2007/842/CE, da Comissão, de 6 de Dezembro, publicada no Jornal Oficial da União Europeia, n.º L 332, de 18 de Dezembro de 2007, que altera a mencionada Decisão n.º 2004/4/CE, da Comissão, de 22 de Dezembro de 2003, estendendo os prazos aplicáveis à campanha de importação 2007-2008.
+Deste modo, importa adaptar a Portaria n.º 1332/2005, de 29 de Dezembro, às novas exigências agora estabelecidas.
+Assim:
+Com fundamento no disposto no artigo 32.º do Decreto-Lei n.º 154/2005, de 6 de Setembro, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º O n.º 2.º da Portaria n.º 1332/2005, de 29 de Dezembro, na redacção dada pela Portaria n.º 1414/2006, de 18 de Dezembro, passa a ter a seguinte redacção:
+«2.º Os tubérculos de Solanum tuberosum L., com excepção dos destinados à plantação, originários do Egipto só podem ser introduzidos no território nacional desde que se observem as condições estabelecidas na Decisão n.º 2004/4/CE, da Comissão, de 22 de Dezembro de 2003, com a última redacção que lhe foi dada pela Decisão n.º 2007/842/CE, da Comissão, de 6 de Dezembro.»
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 4 de Janeiro de 2008.
