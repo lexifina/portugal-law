@@ -1,0 +1,5 @@
+Aviso n.º 6/2008
+Por ordem superior se torna público que, em 19 de Dezembro de 2002 e em 4 de Junho de 2007, foram emitidas notas, respectivamente pela Embaixada do Paquistão em Lisboa e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e a República Islâmica do Paquistão para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e respectivo Protocolo, assinados em Lisboa, em 23 de Junho de 2000.
+Por parte de Portugal a Convenção e respectivo Protocolo foram ratificados pelo Decreto do Presidente da República n.º 45/2003 e aprovados pela Resolução da Assembleia da República n.º 66/2003, publicados no Diário da República, 1.ª série-A, n.º 177, de 2 de Agosto de 2003.
+Nos termos do artigo 28.º da Convenção, esta entrou em vigor no dia 4 de Junho de 2007.
+Direcção-Geral de Política Externa, 3 de Janeiro de 2008. - O Director-Geral, Vasco Bramão Ramos.
