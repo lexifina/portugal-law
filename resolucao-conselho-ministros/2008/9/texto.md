@@ -1,0 +1,14 @@
+Resolução do Conselho de Ministros n.º 9/2008
+Portugal foi um dos países fundadores do Fundo Multilateral de Investimentos, adiante designado por FUMIN I, tendo aderido, em 2 de Agosto de 1994, com uma contribuição de USD 4 milhões, mediante a aprovação do competente normativo legal - a Resolução da Assembleia da República n.º 46/94, de 17 de Março, publicada no Diário da República, 1.ª série-A, n.º 177, de 2 de Agosto de 1994.
+O FUMIN I, tal como o Fundo Multilateral de Investimentos II, adiante designado por FUMIN II, que lhe irá suceder, são instrumentos financeiros concessionais, geridos pelo Banco Interamericano de Desenvolvimento, adiante designado por BID, e destinados ao apoio das suas políticas e iniciativas de promoção do investimento e, em particular, do estímulo às actividades das microempresas dos países regionais que são membros do BID e do Banco de Desenvolvimento das Caraíbas.
+A contribuição a assumir por Portugal sofreu uma redução, relativamente ao FUMIN I, fixando-se actualmente em USD 3 milhões; este montante permite assegurar a posição relativa do nosso país face aos outros países membros do FUMIN II e, em particular, aos parceiros da União Europeia.
+Através da Resolução da Assembleia da República n.º 50/2007, de 19 de Julho, publicada no Diário da República, 1.ª série, n.º 198, de 15 de Outubro, foram aprovados o Convénio Constitutivo do FUMIN II e o Convénio de Administração do FUMIN II, assinados em 9 de Abril de 2005, instrumentos legais indispensáveis reguladores do cumprimento dos requisitos inerentes à adesão de Portugal.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a participação de Portugal no Fundo Multilateral de Investimento II, mediante uma contribuição equivalente a USD 3 milhões.
+2 - Determinar que a contribuição referida no número anterior deverá ser efectuada em euros, através de prestações pecuniárias anuais, a pagar durante um período de seis anos, contado 60 dias a partir da data da entrada em vigor da Convenção Constitutiva do FUMIN II.
+3 - Estabelecer que cabe ao Ministério das Finanças representar o Governo perante o Fundo Multilateral de Investimento II, nomeadamente no que se refere ao depósito dos instrumentos de contribuição.
+4 - Determinar que o governador do Banco Interamericano de Desenvolvimento por Portugal nomeará o represente português designado para participar na Comissão de Doadores do FUMIN II.
+5 - Autorizar o Ministro das Finanças a praticar todos os actos necessários à realização do previsto no n.º 1 e assegurar a ligação com o FUMIN II.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 3 de Janeiro de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
