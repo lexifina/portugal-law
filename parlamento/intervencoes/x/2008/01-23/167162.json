@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7mX8CblfaZUC1PkJDB5lnqrCJq%2b7%2fttZ%2bq7V7723EchVdz3Nn2q812aFEYd6rr8874IzCmBVEAA%2bWOYWfsumzvqS1eq8naCM3HU8DfArtqjUIzglbaPE0CcQttqHCQQoMo%2fh%2fhKCb3g2GEQMzfq1KSc9%2fpTWFu72hTtxTyNYOeXkhbuONHMuCnIkQqg3msT7eeQmt0TfluQRzEBaM8DH7AQmw5Qhogj2EW6Pzk21Q%2bvziTvjPWoS33gxtX%2fH9JDDQX6mGASaug9iKuUhzQ7Z5ZK%2fZR5bCVlM5vvPHMxCwoMG%2bvQRYkXxSUhi0aLWAFUFURbTtAP3Ta6KrCvkgi0G8WZ9c9%2bLNnGsCv9PZZ1kJfTh41xRZVmeaxJdHrCKDxmC&fich=IntervencoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "6d409937a94b75ba2179b6cc6083cb33cce789e414851e22ef0c275c6cbcc284",
+  "legislatura": "X",
+  "id": "167162",
+  "tipo": "Intervenção",
+  "orador": "Jorge Almeida (PS)",
+  "data_registo": "2008-01-23",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "251286",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "33664",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Estabelece mecanismos de redução do desperdício em medicamentos, através da generalização da prescrição por DCI e da dispensa, no ambulatório, de medicamentos em dose unitária."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2008-01-23",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "2171",
+      "nome": "Jorge Almeida"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "167162",
+    "IdDebate": "6060",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação",
+        "id": "33664",
+        "tipo": "Projeto de Resolução"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "X",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "167162",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "16-20",
+          "22-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-01-24",
+        "pubLeg": "X",
+        "pubNr": "38",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/038/2008-01-24/16?pgs=16-20,22-23&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Responde aos deputados João Semedo (BE), André Almeida (PSD) e Teresa Caeiro (CDS-PP)",
+    "Sessao": "3",
+    "Sumario": "Estabelece mecanismos de redução do desperdício em medicamentos, através da generalização da prescrição por DCI e da dispensa, no ambulatório, de medicamentos em dose unitária.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
