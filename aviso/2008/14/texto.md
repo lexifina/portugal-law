@@ -1,0 +1,10 @@
+Aviso n.º 14/2008
+Por ordem superior se torna público ter o Paraguai efectuado, junto do Secretário-Geral da Organização das Nações Unidas, em 29 de Maio de 2002, uma declaração ao abrigo dos artigos 21.º e 22.º da Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes, adoptada pela Assembleia Geral das Nações Unidas em 17 de Dezembro de 1984.
+Tradução (Original: Espanhol)
+«[...] the Government of the Republic of Paraguay recognizes the competence of the Committee against Torture, pursuant to articles 21 and 22 of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, approved by the General Assembly of the United Nations on 10 December 1984.
+[...] the Honourable National Congress of the Republic of Paraguay has granted its approval for the recognition of the competence of the Committee to receive communications from States parties and individuals.»
+Tradução
+«[...] o Governo da República do Paraguai reconhece a competência do Comité contra a Tortura, em conformidade com os artigos 21.º e 22.º da Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes, aprovada pela Assembleia Geral das Nações Unidas em 10 de Dezembro de 1984.
+[...] o Congresso Nacional da República do Paraguai aceitou reconhecer a competência do Comité para receber as comunicações apresentadas por Estados partes e particulares.»
+Portugal é Parte nesta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 11/88, publicada no Diário da República, 1.ª série, n.º 118, de 21 de Maio de 1988, e ratificada pelo Decreto do Presidente da República n.º 57/88, publicado no Diário da República, 1.ª série, n.º 166, de 20 de Julho de 1988, tendo depositado o seu instrumento de ratificação em 9 de Fevereiro de 1989, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 128, de 5 de Junho de 1989.
+Direcção-Geral de Política Externa, 16 de Janeiro de 2008. - O Subdirector-Geral para os Assuntos Multilaterais, António Ricoca Freire.
