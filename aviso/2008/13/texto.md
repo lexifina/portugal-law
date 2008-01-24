@@ -1,0 +1,5 @@
+Aviso n.º 13/2008
+Por ordem superior se torna público que, em 16 de Agosto e em 17 de Setembro de 2007, foram emitidas notas, respectivamente pelo Governo da Região Administrativa Especial de Macau e pelo Governo da República Portuguesa, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação da Convenção entre a Região Administrativa Especial de Macau e a República Portuguesa sobre os Privilégios Fiscais aplicáveis às suas Delegações e Membros do seu Pessoal, assinada em Lisboa, em 23 de Junho de 2006.
+Por parte de Portugal a Convenção foi ratificada pelo Decreto do Presidente da República n.º 57/2007 e aprovada pela Resolução da Assembleia da República n.º 29/2007, publicados no Diário da República, 1.ª série, n.º 127, de 4 de Julho de 2007.
+Nos termos do n.º 1 do artigo 10.º da Convenção, esta entrou em vigor no dia 17 de Setembro de 2007.
+Direcção-Geral de Política Externa, 3 de Janeiro de 2008. - O Director-Geral, Vasco Bramão Ramos.
