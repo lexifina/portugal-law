@@ -1,0 +1,5 @@
+Aviso n.º 17/2008
+Por ordem superior se torna público que, em 18 de Outubro e em 26 de Novembro de 2007, foram recebidas notas pela Embaixada de Portugal em Madrid e pela Embaixada de Espanha em Lisboa, respectivamente, pelas quais ambos os Estados Contratantes comunicam que concluíram os seus requisitos constitucionais necessários para a manifestação do seu consentimento em estarem vinculados ao Estatuto do Laboratório Ibérico Internacional de Nanotecnologia, assinado em Badajoz, em 25 de Novembro de 2006.
+Por parte da República Portuguesa, o Estatuto foi aprovado pela Resolução da Assembleia da República n.º 59/2007, ratificado pelo Decreto do Presidente da República n.º 124/2007, e publicado no Diário da República, 1.ª série, n.º 225, de 22 de Novembro de 2007.
+Nos termos do seu artigo 30.º, o Estatuto do Laboratório Ibérico Internacional de Nanotecnologia entrará em vigor em 26 de Dezembro de 2007.
+Departamento de Assuntos Jurídicos, 19 de Dezembro de 2007. - O Director, Luís Serradas Tavares.
