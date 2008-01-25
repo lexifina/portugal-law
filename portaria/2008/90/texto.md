@@ -1,0 +1,12 @@
+Portaria n.º 90/2008
+de 25 de Janeiro
+O Decreto-Lei n.º 186/2006, de 12 de Setembro, estabelece o novo regime de atribuição de apoios financeiros pelo Estado, através dos serviços e organismos centrais do Ministério da Saúde, a pessoas colectivas privadas sem fim lucrativos.
+No quadro do novo regime instituído pelo referido diploma legal a Portaria n.º 720/2007, de 11 de Junho, aprovou, em anexo, o Regulamento da Atribuição de Apoios Financeiros pelo Instituto Português do Sangue, I. P., que estabelece os princípios, regras e procedimentos a que obedece o financiamento de projectos e acções no âmbito da promoção da dádiva de sangue.
+Pela primeira vez, em muitos anos de actividade, as entidades que intervêm nas áreas de informação, sensibilização, educação e formação, essencialmente as associações de dadores de sangue, ficaram obrigadas ao cumprimento de um rigoroso e claro conjunto de regras para a atribuição dos apoios financeiros anuais, que foi, desde logo, obrigatório para as candidaturas de 2007 e 2008, de acordo com prazos de natureza transitória em relação às candidaturas para os anos futuros.
+Ao atingir o prazo limite para as candidaturas de 2008, verifica-se que um considerável número de associações de dadores apresenta dificuldades de natureza burocrática, que o Instituto Português do Sangue, I. P., pretende ultrapassar, mediante o desenvolvimento de uma cooperação técnica e pedagógica, no reconhecimento do trabalho dessas associações em prol do País.
+Com o objectivo de uma distribuição dos apoios financeiros justa e equitativa torna-se, assim, necessário alargar o prazo das candidaturas para 2008, fixado no n.º 2 da Portaria n.º 720/2007, por forma a torná-lo compatível com a superação das dificuldades sentidas pelas associações de dadores.
+Assim:
+Manda o Governo, pelo Ministro da Saúde, nos termos do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 186/2006, de 12 de Setembro, o seguinte:
+Número único. - O n.º 2 da Portaria n.º 720/2007, de 11 de Junho, passa a ter a seguinte redacção:
+«2 - As candidaturas relativas a projectos e acções a executar nos anos de 2007 e 2008 devem ser apresentadas, respectivamente, no prazo de 60 dias seguidos, a contar da data de entrada em vigor da presente portaria e até 10 de Fevereiro de 2008.»
+A Secretária de Estado Adjunta e da Saúde, Carmen Madalena da Costa Gomes e Cunha Pignatelli, em 10 de Janeiro de 2008.
