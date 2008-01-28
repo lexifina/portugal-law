@@ -1,0 +1,6 @@
+Edital n.º 97/2008
+Miguel Domingos Condeça Ramalho, Vereador do Pelouro da Urbanização e Urbanismo, com competência delegada por despacho de 25 de Outubro de 2005, torna público que, nos termos e para efeitos do disposto no artigo 91.º da Lei n.º 169/99, de 18/09, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11/01, por deliberação da Assembleia Municipal de Beja de 17 de Dezembro de 2007 e ao abrigo do disposto na alínea a) do n.º 2 do artigo 53.º do mesmo diploma, foi aprovada a alteração ao Regulamento de Trânsito para a Cidade de Beja, conforme o projecto apresentado pela Câmara Municipal na reunião extraordinária de 01 de Agosto de 2007, o qual entrará em vigor 15 após esta publicação na 2.ª série do Diário da República.
+Mais se torna público que o projecto de alteração ao regulamento foi objecto de apreciação pública pelo período de 30 dias, por publicação no Diário da República, 2.ª série, n.º 186, de 26 de Setembro de 2007.
+Para constar e devidos efeitos se lavrou o presente edital que vai ser afixado nos lugares de estilo e publicado na 2.ª série do Diário da República, bem como no sítio da Internet www.cm-beja.pt.
+14 de Janeiro de 2008. - O Vereador do Pelouro da Urbanização e Urbanismo, Miguel Domingos Condeça Ramalho.
+2611081678
