@@ -1,0 +1,3 @@
+Declaração n.º 2/2008
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se que se considera caduco o processo relativo à apreciação parlamentar n.º 54/X ao Decreto-Lei n.º 307/2007, de 31 de Agosto, que estabelece o regime jurídico das farmácias de oficina, apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que foram rejeitadas pela Comissão de Saúde todas as propostas de alteração e que o Plenário foi informado do facto.
+Assembleia da República, 10 de Janeiro de 2008. - A Deputada Secretária da Mesa da Assembleia da República, Celeste Correia.
