@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7mX8CblfaZUC1PkJDB5lnqrCJq%2b7%2fttZ%2bq7V7723EchVdz3Nn2q812aFEYd6rr8874IzCmBVEAA%2bWOYWfsumzvqS1eq8naCM3HU8DfArtqjUIzglbaPE0CcQttqHCQQoMo%2fh%2fhKCb3g2GEQMzfq1KSc9%2fpTWFu72hTtxTyNYOeXkhbuONHMuCnIkQqg3msT7eeQmt0TfluQRzEBaM8DH7AQmw5Qhogj2EW6Pzk21Q%2bvziTvjPWoS33gxtX%2fH9JDDQX6mGASaug9iKuUhzQ7Z5ZK%2fZR5bCVlM5vvPHMxCwoMG%2bvQRYkXxSUhi0aLWAFUFURbTtAP3Ta6KrCvkgi0G8WZ9c9%2bLNnGsCv9PZZ1kJfTh41xRZVmeaxJdHrCKDxmC&fich=IntervencoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "6d409937a94b75ba2179b6cc6083cb33cce789e414851e22ef0c275c6cbcc284",
+  "legislatura": "X",
+  "id": "167770",
+  "tipo": "Intervenção",
+  "orador": "João Mira Gomes (S.E. DA DEFESA NACIONAL E DOS ASSUNTOS DO MAR)",
+  "data_registo": "2008-01-31",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "251436",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "33620",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Primeira Alteração à Lei do Serviço Militar aprovada pela Lei n.º 174/99, de 21 de Setembro."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2008-01-31",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "167770",
+    "IdDebate": "6068",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "33620",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "X",
+    "MembrosGoverno": {
+      "cargo": "S.E. DA DEFESA NACIONAL E DOS ASSUNTOS DO MAR",
+      "governo": "XVII GOVERNO CONSTITUCIONAL",
+      "nome": "João Mira Gomes"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "167770",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "44-46",
+          "51-52"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-02-01",
+        "pubLeg": "X",
+        "pubNr": "42",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/042/2008-02-01/44?pgs=44-46,51-52&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Responde aos deputados João Rebelo (CDS-PP) e António Filipe (PCP)",
+    "Sessao": "3",
+    "Sumario": "Primeira alteração à Lei do Serviço Militar aprovada pela Lei n.º 174/99, de 21 de Setembro",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
