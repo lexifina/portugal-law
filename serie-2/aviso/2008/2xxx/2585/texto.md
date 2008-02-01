@@ -1,0 +1,4 @@
+Aviso n.º 2585/2008
+José Augusto Borges Neves, Vice-Presidente da Câmara Municipal de Loures, torna público que a Assembleia Municipal deliberou na 2.ª reunião da 5.ª sessão ordinária, realizada em 20 de Dezembro de 2007, sob proposta da Câmara Municipal aprovada na sua 23.ª reunião, realizada em 28 de Novembro de 2007, a actualização dos valores constantes do Regulamento de Taxas e Licenças Municipais, para 2008, de acordo com a taxa de inflação de 2,6%. A actualização de valores entra em vigor a 1 de Janeiro de 2008.
+O Regulamento de Taxas e Licenças do Município de Loures com os valores actualizados encontra-se disponível na Internet (www.cm-çoures.pt) e no Boletim Municipal de deliberações e despachos, edição especial n.º8 de 21 de Dezembro.
+17 de Janeiro de 2008. - O Vice-Presidente da Câmara, José Augusto Borges Neves.
