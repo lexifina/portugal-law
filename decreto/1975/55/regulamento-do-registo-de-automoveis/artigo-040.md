@@ -1,6 +1,6 @@
 # Artigo 40.º
 
-### Remessa pelo correio e por via electrónica
+### Apresentação de pedidos de registo por via não presencial
 
 1 - Aos interessados é permitida a utilização dos serviços de correios para remeterem à conservatória escolhida para o registo os requerimentos e documentos necessários àquele, bem como a importância equivalente aos emolumentos e demais encargos devidos.
 

@@ -1,7 +1,9 @@
 # Artigo 47.º
 
-### (Reposição ou renovação de matrícula cancelada)
+### Registos sobre matrículas canceladas
 
-1. A reposição ou renovação de matrícula anteriormente cancelada, no caso de haver mudança de proprietário do veículo, dá lugar a novo registo de propriedade.
+1 - O cancelamento da matrícula, desde que comunicado pela entidade competente para tal acto, determina o cancelamento oficioso do registo de propriedade em vigor sobre o veículo, se sobre este não se encontrarem em vigor registos de ónus ou encargos.
 
-2. O registo de propriedade do veículo nas condições a que se refere o número anterior é equiparado ao registo inicial.
+2 - A reposição ou renovação de matrícula anteriormente cancelada, no caso de haver mudança de proprietário do veículo, dá lugar a novo registo de propriedade.
+
+3 - O registo de propriedade do veículo nas condições a que se refere o número anterior é equiparado ao registo inicial.

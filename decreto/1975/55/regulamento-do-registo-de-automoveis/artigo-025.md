@@ -2,7 +2,15 @@
 
 ### (Documentos para outros registos de propriedade)
 
-1 - O registo posterior de propriedade adquirida por contrato verbal de compra e venda será efectuado em face de requerimento formulado pelo comprador e confirmado pelo vendedor em impresso de modelo próprio.
+1 - O registo posterior de propriedade adquirida por contrato verbal de compra e venda pode ser efectuado em face de:
+
+a) Requerimento subscrito pelo comprador e confirmado pelo vendedor, através de declaração de venda apresentada com o pedido de registo;
+
+b) Requerimento subscrito conjuntamente pelo vendedor e pelo comprador;
+
+c) Requerimento subscrito pelo vendedor, nos casos em que este seja entidade comercial que tenha por actividade principal a compra de veículos para revenda e proceda ao pedido de registo da propriedade adquirida em virtude de alienação de veículo no exercício dessa actividade, nos termos e com as limitações fixadas por portaria do membro do Governo responsável pela área da justiça;
+
+d) Requerimento subscrito pelo vendedor, nos casos em que este seja entidade que, em virtude da sua actividade, proceda com carácter de regularidade à transmissão da propriedade de veículos, nos termos e com as limitações fixadas na portaria referida na alínea anterior.
 
 2 - O registo de propriedade fundado em facto diverso do previsto no número anterior tem por base um dos seguintes documentos:
 
