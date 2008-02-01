@@ -6,10 +6,12 @@
 
 2 - A realização de qualquer acto relativo a veículo que implique alteração dos elementos constantes do certificado de matrícula determina a emissão de novo certificado, sendo obrigatória a entrega do anterior.
 
-3 - Os certificados de matrícula em mau estado de conservação são substituídos oficiosamente ou mediante requerimento dos interessados.
+3 - Nos casos de pedidos online de actos de registo de veículos não é obrigatória a entrega do certificado de matrícula anterior.
 
-4 - Os certificados de matrícula em mau estado de conservação devem ser apreendidos pelas autoridades a quem compete a fiscalização das leis de trânsito e remetidos a um serviço emissor, para efeitos de substituição.
+4 - Os certificados de matrícula em mau estado de conservação são substituídos oficiosamente ou mediante requerimento dos interessados.
 
-5 - O certificado de matrícula é igualmente emitido sempre que o interessado o requeira, sendo obrigatória a entrega do anterior.
+5 - Os certificados de matrícula em mau estado de conservação devem ser apreendidos pelas autoridades a quem compete a fiscalização das leis de trânsito e remetidos a um serviço emissor, para efeitos de substituição.
 
-6 - A substituição do certificado, nos termos dos n.os 3 e 5, pode ser requerida oralmente, quando for efectuada presencialmente nos serviços competentes.
+6 - O certificado de matrícula é igualmente emitido sempre que o interessado o requeira, sendo obrigatória a entrega do anterior.
+
+7 - A substituição do certificado, nos termos dos n.os 4 e 6, pode ser requerida por forma verbal, quando for efectuada presencialmente nos serviços competentes.
