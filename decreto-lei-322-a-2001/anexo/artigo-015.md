@@ -37,3 +37,5 @@ d) As certidões a entregar aos interessados na sequência da conclusão do proc
 e) As certidões emitidas nos termos do n.º 6 do artigo 75.º do Código do Registo Comercial;
 
 f) A certidão a entregar aos interessados na sequência da conclusão do procedimento especial de extinção imediata de entidades comerciais.
+
+Suprimento de deficiências nos actos de registo requeridos por via electrónica.

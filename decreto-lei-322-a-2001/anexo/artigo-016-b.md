@@ -10,9 +10,11 @@
 
 a) Cancelamento de ónus ou encargos por efeito de decisão judicial ou administrativa;
 
-b) Actualização dos registos, por efeito da redenominação automática dos valores monetários.
+b) Cancelamento oficioso do registo de propriedade, em virtude de cancelamento da matrícula;
 
-c) Averbamentos de actualização das inscrições, quanto à residência ou sede dos sujeitos que nelas figuram, quando a actualização respeite a alterações toponímicas não dependentes da vontade dos interessados.
+c) Actualização dos registos, por efeito da redenominação automática dos valores monetários.
+
+d) Averbamentos de actualização das inscrições, quanto à residência ou sede dos sujeitos que nelas figuram, quando a actualização respeite a alterações toponímicas não dependentes da vontade dos interessados.
 
 2 - São ainda gratuitos os seguintes actos:
 
