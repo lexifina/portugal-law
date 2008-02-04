@@ -1,0 +1,6 @@
+Aviso n.º 2759/2008
+Plano de Pormenor de Casais do Douro
+Período de discussão pública
+António José Lima Costa, Presidente da Câmara Municipal de S. João da Pesqueira, faz público que o executivo municipal, em reunião realizada no dia 10 de Janeiro de 2008, deliberou, sob proposta do Gabinete Técnico Local (GTL) e de acordo com o disposto no n.º 3 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, submeter a discussão pública, pelo prazo de 22 dias úteis, com início a partir do 6.º dia útil após a publicação deste aviso no Diário da República, a proposta de Plano de Pormenor de Casais do Douro, período durante o qual poderão os interessados apresentar, por escrito, as suas reclamações, observações, sugestões ou requerer qualquer pedido de esclarecimento que entenderem pertinentes.
+A proposta de Plano e os demais pareceres estarão disponíveis para consulta dos interessados de segunda a sexta-feira, das 9 horas às 12 horas e 30 minutos e das 14 horas às 17 horas e 30 minutos no Gabinete Técnico Local, sito na Praça de Santa Maria, 5130-333 S. João da Pesqueira.
+11 de Janeiro de 2008. - O Presidente da Câmara, António José Lima Costa.
