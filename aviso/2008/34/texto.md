@@ -1,0 +1,11 @@
+Aviso n.º 34/2008
+Por ordem superior se torna público ter Israel efectuado, junto do Secretário-Geral das Nações Unidas, em 30 de Setembro de 2003, uma objecção à reserva formulada pela República Árabe da Síria no momento da adesão ao Protocolo Facultativo à Convenção sobre os Direitos da Criança Relativo à Venda de Crianças, Prostituição Infantil e Pornografia Infantil, adoptado em Nova Iorque em 25 de Maio de 2000.
+«The Government of the State of Israel has noted that the instrument of ratification of the Syrian Arab Republic to the above mentioned Protocol contains a reservation with respect to the State of Israel.
+The Government of the State of Israel is of the view that this reservation which is political in nature, is incompatible with the purposes and objectives of this Protocol.
+The Government of the State of Israel therefore objects to the aforesaid reservation made by the Syrian Arab Republic to the Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution and Child Pornography.»
+Tradução
+O Governo do Estado de Israel notou que o instrumento de ratificação da República Árabe da Síria, relativo ao Protocolo acima mencionado, contém uma reserva respeitante ao Estado de Israel.
+O Governo do Estado de Israel é de opinião que esta reserva, de natureza política, é incompatível com o fim e o objecto do presente Protocolo.
+O Governo do Estado de Israel, por conseguinte, objecta à citada reserva formulada pela República Árabe da Síria ao Protocolo Facultativo à Convenção sobre os Direitos da Criança Relativo à Venda de Crianças, Prostituição Infantil e Pornografia Infantil.
+Portugal é Parte neste Protocolo Facultativo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 16/2003, publicada no Diário da República, 1.ª série-A, n.º 54, de 5 de Março de 2003, e ratificado pelo Decreto do Presidente da República n.º 14/2003, publicado no Diário da República, 1.ª série-A, n.º 54, de 5 de Março de 2003, tendo depositado o seu instrumento de ratificação em 16 de Maio de 2003, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 9, de 12 de Janeiro de 2006.
+Direcção-Geral de Política Externa, 21 de Janeiro de 2008. - O Subdirector-Geral para os Assuntos Multilaterais, António Manuel Ricoca Freire.
