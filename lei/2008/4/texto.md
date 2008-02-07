@@ -1,0 +1,128 @@
+Lei n.º 4/2008
+de 7 de Fevereiro
+Aprova o regime dos contratos de trabalho dos profissionais de espectáculos
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
+Artigo 1.º
+Contrato de trabalho do artista de espectáculos
+1 - A presente lei regula o contrato de trabalho especial entre uma pessoa que desenvolve uma actividade artística destinada a espectáculos públicos e a entidade produtora ou organizadora desses espectáculos.
+2 - Para efeitos da presente lei, são consideradas artísticas, nomeadamente, as actividades de actor, artista circense ou de variedades, bailarino, cantor, coreógrafo, encenador, realizador, cenógrafo, figurante, maestro, músico, toureiro, desde que exercidas com carácter regular.
+3 - Para efeitos da presente lei, são considerados espectáculos públicos os que se realizam perante o público e ainda os que se destinam a gravação de qualquer tipo para posterior difusão pública, nomeadamente em teatro, cinema, radiodifusão, televisão ou outro suporte áudio-visual, Internet, praças de touros, circos ou noutro local destinado a actuações ou exibições artísticas.
+4 - A presente lei não se aplica às actuações artísticas não destinadas ao público ou ocasionais.
+5 - O contrato de trabalho do pessoal técnico e auxiliar que colabora na produção do espectáculo público sujeita-se à presente lei apenas nas matérias previstas nos artigos 12.º a 17.º
+Artigo 2.º
+Regime aplicável
+1 - Em tudo o que não estiver previsto na presente lei aplica-se o disposto no Código do Trabalho e na respectiva regulamentação.
+2 - Em especial, são aplicáveis ao contrato de trabalho regulado na presente lei as normas sobre a participação de menores em espectáculos e outras actividades, estabelecidas na Lei n.º 35/2004, de 29 de Julho.
+Artigo 3.º
+Inscrição facultativa dos artistas de espectáculos
+1 - Os artistas de espectáculos abrangidos pela presente lei podem inscrever-se em registo próprio organizado pelos serviços competentes do ministério responsável pela área da cultura, com vista a contribuir para a sua valorização profissional e técnica, nos termos a definir por portaria do Ministro da Cultura.
+2 - Presume-se que exercem com carácter regular a actividade de artista de espectáculos os trabalhadores inscritos nos termos do número anterior.
+3 - A inscrição confere um título profissional emitido pelos serviços competentes do ministério responsável pela área da cultura.
+4 - A inscrição é válida pelo período de cinco anos, podendo ser renovada, mediante solicitação do interessado.
+5 - A inscrição pode ser anulada pelos serviços competentes do ministério responsável pela área da cultura nos termos a definir na portaria referida no n.º 1.
+Artigo 4.º
+Trabalho de estrangeiros
+Para efeitos da lei que define as condições e procedimentos de entrada, permanência, saída e afastamento de cidadãos estrangeiros do território português, presume-se que os artistas de espectáculos realizam actividades altamente qualificadas.
+Artigo 5.º
+Modalidades de contrato de trabalho dos artistas de espectáculos
+O contrato de trabalho dos artistas de espectáculos reveste as modalidades de contrato por tempo indeterminado ou de contrato a termo resolutivo, certo ou incerto.
+Artigo 6.º
+Presunção
+Presume-se que existe um contrato de trabalho sempre que o artista de espectáculos esteja na dependência económica da entidade produtora ou organizadora dos espectáculos e realize a sua prestação sob a direcção e fiscalização desta, mediante retribuição.
+Artigo 7.º
+Contrato a termo para o desempenho de actividade artística
+1 - É admitida a celebração de contrato de trabalho a termo resolutivo, certo ou incerto, para o desempenho das actividades enunciadas no n.º 2 do artigo 1.º
+2 - O contrato de trabalho a termo resolutivo certo tem a duração que as partes estipularem e apenas pode ser sujeito a renovação se as partes assim o estipularem expressamente.
+3 - O contrato de trabalho a termo certo para o desempenho de actividade artística tem a duração máxima de oito anos, não lhe sendo aplicável o regime previsto no Código do Trabalho em matéria de contratos sucessivos, limite de renovações e agravamento da taxa contributiva global.
+4 - Independentemente da duração dos contratos previstos neste artigo, o gozo das férias tem lugar antes da cessação daqueles, salvo acordo das partes.
+Artigo 8.º
+Exercício intermitente da prestação de trabalho
+1 - Quando os espectáculos públicos não apresentem carácter de continuidade, pode ser acordado o exercício intermitente da prestação de trabalho, nos termos dos números seguintes.
+2 - Aquando da celebração ou durante a vigência de um contrato de trabalho por tempo indeterminado, as partes podem acordar na sua sujeição, temporária ou definitiva, ao exercício intermitente da prestação de trabalho.
+3 - Para efeitos do disposto no número anterior, os tempos de trabalho efectivo correspondem à duração, promoção e preparação dos espectáculos públicos, aos tempos de deslocação quando se trate de espectáculos itinerantes e os tempos de não trabalho correspondem aos períodos de inactividade.
+4 - Durante os períodos de inactividade, o trabalhador mantém a disponibilidade para iniciar a sua prestação de trabalho desde que seja convocado pelo empregador com uma antecedência mínima de 30 dias ou nos termos previstos no contrato de trabalho ou no acordo referido no n.º 2.
+5 - Nos períodos de inactividade, mantêm-se os direitos, deveres e garantias das partes que não pressuponham a prestação efectiva de trabalho.
+6 - Durante os períodos de inactividade, o trabalhador tem direito:
+a) A uma compensação retributiva de valor não inferior a 30 % ou 50 % da retribuição normal correspondente ao último período de trabalho efectivo consoante lhe seja ou não permitido exercer outras actividades;
+b) Aos complementos retributivos, designadamente subsídios de férias e de Natal, calculados com base no valor previsto para a retribuição correspondente ao último período de trabalho efectivo.
+7 - Durante os períodos de inactividade o empregador fica obrigado a:
+a) Pagar pontualmente a compensação retributiva;
+b) Não admitir novos trabalhadores ou renovar contratos para actividades artísticas susceptíveis de poderem ser desempenhadas pelo trabalhador em situação de inactividade.
+Artigo 9.º
+Pluralidade de trabalhadores
+1 - O empregador pode celebrar um contrato de trabalho com pluralidade de trabalhadores para a prestação de uma actividade artística em grupo.
+2 - O contrato a que se refere o número anterior pode ser outorgado directamente pelos trabalhadores ou através de representante comum, designado por chefe do grupo, com a indicação individualizada de todos os trabalhadores.
+3 - A outorga de poderes de representação ao chefe do grupo, para os efeitos previstos no número anterior, carece de forma escrita.
+4 - O contrato de trabalho com pluralidade de trabalhadores pode ser celebrado por tempo indeterminado, a termo certo ou incerto ou em regime de intermitência.
+5 - Da celebração do contrato de trabalho em grupo decorrem tantos vínculos laborais quantos os trabalhadores que integram o grupo.
+6 - Quando o contrato de trabalho para a prestação de actividade artística em grupo é celebrado a termo, a verificação deste implica a extinção dos vínculos laborais de todos os membros do grupo.
+7 - A impossibilidade de prestação da actividade artística por um dos elementos contratados não implica a extinção do contrato de trabalho com os demais, salvo quando tal situação impossibilite a continuação da actividade.
+8 - Nas situações em que o contrato de trabalho seja outorgado através de representante comum, fica o empregador obrigado a entregar a cada um dos trabalhadores cópia do contrato.
+Artigo 10.º
+Forma do contrato de trabalho
+1 - O contrato de trabalho do artista de espectáculos está sujeito a forma escrita.
+2 - Os requisitos de forma previstos no Código do Trabalho para o contrato de trabalho a termo são aplicáveis, com as necessárias adaptações, aos contratos a que se refere o artigo 7.º
+3 - O acordo para o exercício intermitente da prestação de trabalho, nos termos do n.º 2 do artigo 8.º, deve ser assinado por ambas as partes e conter menção expressa do regime de intermitência, da data da celebração do acordo e a do início da produção dos respectivos efeitos, do período temporal a que respeita, dos períodos mínimos de trabalho efectivo e respectiva retribuição, bem como a retribuição para os períodos de inactividade, ficando cada uma com um exemplar.
+4 - Os efeitos do acordo referido no número anterior podem cessar por decisão do trabalhador até ao 7.º dia seguinte à data da respectiva celebração, mediante comunicação escrita.
+5 - O contrato de trabalho com pluralidade de trabalhadores deve conter menção expressa da remuneração e regime de cada um dos trabalhadores.
+Artigo 11.º
+Direitos e deveres especiais do trabalhador artista de espectáculos
+1 - O trabalhador está sujeito a um dever especial de diligência no que respeita à realização e organização do espectáculo público.
+2 - Quando a actividade artística é desenvolvida em grupo, o trabalhador tem um especial dever de colaboração com os restantes membros do grupo, tendo em vista a execução da actividade em comum.
+3 - O trabalhador tem direito à ocupação efectiva quanto à realização de ensaios e demais actividades preparatórias do espectáculo público, não podendo ser excluído destas actividades sem justificação.
+4 - O empregador deve respeitar a autonomia da direcção, supervisão e realização artísticas do espectáculo, abstendo-se de nelas interferir.
+5 - As partes podem estabelecer, por escrito, que o trabalhador realiza a sua actividade artística em exclusivo para o empregador, mediante a fixação de uma compensação adequada para a prestação do trabalho em regime de exclusividade.
+Artigo 12.º
+Tempo de trabalho
+1 - Considera-se tempo de trabalho o período de prestação efectiva da actividade artística perante o público ou equivalente, nos termos do n.º 3 do artigo 1.º, bem como todo o tempo em que o artista de espectáculos está adstrito à realização da sua prestação, em especial para efeitos de ensaios, pesquisa, estudo, actividades promocionais e de divulgação, ou outros trabalhos preparatórios do espectáculo.
+2 - Ainda integram o tempo de trabalho as interrupções e os intervalos previstos como tal no Código do Trabalho ou em instrumento de regulamentação colectiva.
+Artigo 13.º
+Período normal de trabalho e descanso semanal
+1 - O contrato de trabalho do artista de espectáculos sujeita-se ao regime previsto no Código do Trabalho para o período normal de trabalho, a adaptabilidade do tempo de trabalho e o direito ao descanso diário e semanal, com a especificidade constante do número seguinte.
+2 - Os dias de descanso semanal obrigatório e complementar podem não coincidir com o domingo ou o sábado, respectivamente.
+3 - Por conveniência da organização do espectáculo, a compensação por trabalho prestado nos dias de descanso complementar do trabalhador deve efectuar-se no prazo máximo de seis meses.
+Artigo 14.º
+Horário de trabalho e intervalos de descanso
+1 - O contrato de trabalho do artista de espectáculos sujeita-se ao regime previsto no Código do Trabalho no que respeita ao horário de trabalho e aos intervalos de descanso semanal, com a especificidade constante do número seguinte.
+2 - Salvo convenção em contrário, na determinação do horário de trabalho o empregador pode estabelecer um ou mais intervalos de descanso ou um regime de trabalho descontínuo adequado à especificidade da actividade ou do espectáculo ou ainda um horário de trabalho de início variável, denominado horário à tabela.
+Artigo 15.º
+Trabalho nocturno
+O trabalho nocturno dos trabalhadores de espectáculos é o prestado no intervalo entre as 0 e as 5 horas, sem prejuízo do estabelecimento de regime mais favorável por instrumento de regulamentação colectiva de trabalho.
+Artigo 16.º
+Trabalho em dia feriado
+1 - As actividades de espectáculos públicos, bem como as actividades inerentes à sua preparação ou realização, podem ser prestadas em dia feriado.
+2 - Salvo convenção em contrário, o trabalhador que realiza a prestação em dia feriado tem direito a um descanso compensatório de igual duração, a ser gozado nos termos do previsto no n.º 3 do artigo 13.º, ou ao acréscimo de 100 % da retribuição pelo trabalho prestado nesse dia, cabendo a escolha ao empregador.
+Artigo 17.º
+Local de trabalho
+1 - O trabalhador está adstrito à prestação da sua actividade no local onde se realizam os ensaios ou os espectáculos públicos ou equivalentes.
+2 - Sempre que o trabalhador tenha um acréscimo de despesas por deslocações inerentes à actividade laboral, o empregador fornece os meios para a sua realização ou procede ao respectivo pagamento ou reembolso.
+Artigo 18.º
+Direitos de propriedade intelectual
+Os direitos de propriedade intelectual decorrentes da actividade artística dos trabalhadores de espectáculos públicos regem-se pelo Código do Direito de Autor e dos Direitos Conexos, sem prejuízo de poderem ser exercidos individualmente se for essa a vontade expressa dos respectivos titulares, comunicada a entidade de gestão colectiva de direitos dos artistas.
+Artigo 19.º
+Reclassificação do trabalhador
+1 - Se o trabalhador perder, superveniente e definitivamente, a aptidão para a realização da actividade artística para que foi contratado, por motivo decorrente das características da própria actividade, o empregador, mediante parecer fundamentado de uma comissão, deve atribuir-lhe, sem perda de retribuição, outras funções compatíveis com as suas qualificações profissionais, mesmo que não incluídas no objecto do contrato de trabalho, devendo-lhe assegurar a formação profissional adequada.
+2 - A comissão referida no número anterior é constituída por um representante do empregador, um representante do trabalhador e um representante indicado por acordo das partes.
+3 - No caso de o trabalhador não aceitar a reclassificação proposta pelo empregador ou de não existirem outras funções compatíveis com as suas qualificações profissionais, o contrato de trabalho caduca.
+4 - A caducidade a que se refere o número anterior confere o direito à compensação prevista no artigo 401.º do Código do Trabalho, salvo se o trabalhador recusar injustificadamente a reclassificação.
+5 - Quando existam regimes especiais de segurança social, a caducidade do contrato de trabalho nos termos dos números anteriores não prejudica a aplicação desses regimes, tendo os trabalhadores direito à reforma por velhice logo que estejam preenchidos os respectivos requisitos.
+Artigo 20.º
+Contra-ordenações
+Constitui contra-ordenação grave a violação do disposto no n.º 7 do artigo 8.º e nos artigos 15.º e 16.º da presente lei.
+Artigo 21.º
+Segurança social
+O regime de segurança social aplicável aos trabalhadores artistas de espectáculos públicos é estabelecido por diploma próprio.
+Artigo 22.º
+Norma revogatória
+1 - São revogados os Decretos-Leis n.os 43 181 e 43 190, ambos de 23 de Setembro de 1960, e 38/87, de 26 de Janeiro.
+2 - São revogados os artigos 19.º a 21.º da Lei n.º 30/2006, de 11 de Julho.
+Artigo 23.º
+Revisão
+O regime dos contratos de trabalho dos artistas de espectáculos aprovado pela presente lei deve ser revisto no prazo de quatro anos a contar da data da sua entrada em vigor.
+Aprovada em 30 de Novembro de 2007.
+O Presidente da Assembleia da República, Jaime Gama.
+Promulgada em 22 de Janeiro de 2008.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendada em 24 de Janeiro de 2008.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
