@@ -1,0 +1,3 @@
+Regulamento n.º 72/2008
+Nos termos do n.º 1 do artigo 95º do Decreto-lei n.º 100/99, de 31 de Março, avisam-se todos os interessados de que se encontra afixada no expositor do 1º Piso da Escola E.B. 2,3/S de Rio Caldo, pertencente à Direcção Regional de Educação do Norte, Coordenação Educativa de Braga, a lista de Antiguidade do pessoal não docente deste Agrupamento de Escolas com referência a 31 de Dezembro de 2007. Os funcionários dispõem de 30 dias a contar da publicação deste aviso no Diário da República para reclamação junto do dirigente máximo do serviço.
+18 de Janeiro de 2008. - A Presidente do Conselho Executivo, Virgínia Maria Pinheiro Gomes.
