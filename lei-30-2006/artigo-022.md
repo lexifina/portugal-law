@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Regime jurídico das condições gerais do exercício da actividade dos profissionais de espectáculos
+
 ## Secção VII
 
 ## Regulamento da Profissão de Fogueiro para a Condução de Geradores de Vapor
