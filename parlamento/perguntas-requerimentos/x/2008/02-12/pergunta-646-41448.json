@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "41448",
+  "tipo": "Pergunta",
+  "numero": "646",
+  "data_registo": "2008-02-12",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Centro de Saúde de Ferreira do Alentejo",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1923",
+        "nome": "Teresa Vasconcelos Caeiro"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2084",
+        "nome": "Nuno Magalhães"
+      }
+    ],
+    "DataEnvio": "2008-02-13",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2008-02-13",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  SAÚDE",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2008-03-19",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  SAÚDE",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e545443387a5a574e6a4d6a63774e5330794e444e6d4c5451345a6a4174596a6b3359793030595441344d6a45304f4459344d6d51756347526d&fich=3ecc2705-243f-48f0-b97c-4a082148682d.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          },
+          {
+            "dataResposta": "2008-03-19",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  SAÚDE",
+            "ficheiro": "",
+            "ficheiroComTipo": null,
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2008-02-12",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544339684f5467314e7a637a4e69316c4f444e6c4c54526a59546774595463324f5330355a6a63334f474d794e4467344e4755756347526d&fich=a9857736-e83e-4ca8-a769-9f778c24884e.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "41448",
+    "Legislatura": "X",
+    "Nr": "646",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "424824",
+        "obs": null,
+        "pag": [
+          "101-102"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008",
+        "pubLeg": "X",
+        "pubNr": "62",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/062/2008-02-18/101?pgs=101-102&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Pergunta"
+  }
+}
