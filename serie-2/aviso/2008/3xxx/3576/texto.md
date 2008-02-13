@@ -1,0 +1,5 @@
+Aviso n.º 3576/2008
+Alteração parcial do PDM de Felgueiras
+Discussão pública
+Torna-se público, para efeitos do n.º 3 do artigo 77.º do Decreto-Lei n.º 316/2007 de 19 de Setembro, que altera o Decreto-Lei n.º 380/99, de 22 de Setembro, que se encontra aberto a partir do 5.º dia a seguir à publicação deste aviso no Diário da República II Série, e durante um período de 30 dias, o período de discussão pública da proposta de Alteração Parcial do PDM de Felgueiras, cuja documentação estará disponível no GAM - Gabinete de Atendimento ao Munícipe, sito no edifício sede da Câmara Municipal de Felgueiras, onde poderá ser consultada nas horas normais de expediente, devendo qualquer reclamação, observação, sugestão ou pedido de esclarecimento ser apresentada por escrito em documento endereçado à Presidente da Câmara Municipal de Felgueiras, com referência expressa à "Discussão Pública da Alteração Parcial do PDM de Felgueiras", e com identificação da morada/contacto do signatário para efeitos de resposta, caso esta se justifique nos termos do n.º 5 do artigo 77.º do referido diploma.
+16 de Janeiro de 2008. - A Presidente da Câmara, Fátima Felgueiras.
