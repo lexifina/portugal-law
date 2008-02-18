@@ -1,0 +1,432 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11761",
+  "numero": "430",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-02-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2008-04-23",
+            "entidades": null,
+            "id": "84365",
+            "tipo": null,
+            "titulo": "Audição em 2008-04-23 com Pedro Silva Pereira (MIN.  DA  PRESIDÊNCIA), Jorge Lacão (S.E.  DA  PRESIDÊNCIA DO CONSELHO DE MINISTROS)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2008-03-05",
+            "dataResposta": "2008-04-23",
+            "entidades": [
+              "Ministério da Educação"
+            ],
+            "nrOficio": "124/CESC/2008",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2008-03-05",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério do Trabalho e da Solidariedade Social"
+            ],
+            "nrOficio": "124/CESC/2008",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2008-06-26",
+                "dataResposta": null,
+                "nrOficio": "242/CESC/2008",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-06-24",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-03-05",
+        "DataArquivo": "2009-06-24",
+        "DataBaixaComissao": "2008-03-05",
+        "DataEnvioPAR": "2009-06-24",
+        "DataReaberta": "2008-03-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-02-18",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d6b4e4655304e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764e7a4a695a446335595755744e7a4a6d4e5330304f5452694c54686d4e6a49744d445578597a63314e44517a4e5441314c6e426b5a673d3d&fich=72bd79ae-72f5-494b-8f62-051c75443505.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-02-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d6b4e4655304e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764d47457a595451324e4455745a54566d4e43303059546c6a4c546c684e4449744e5468684d324d354e545930595459784c6e426b5a673d3d&fich=0a3a4645-e5f4-4a9c-9a42-58a3c9564a61.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1914",
+        "Legislatura": "X",
+        "Nome": "Comissão de Ética, Sociedade e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-03-05",
+            "gp": "PS",
+            "id": "1023",
+            "motivoCessacao": null,
+            "nome": "Maria do Rosário Carneiro"
+          }
+        ],
+        "RelatorioFinal": [
+          "22417"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2009-07-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2008-02-18",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c63793835595441304f544d774d5330314d574d784c54526b4d444d74596a5a685a69316a4f544e6a596a4d31596a41355a6a55756347526d&fich=9a049301-51c1-4d03-b6af-c93cb35b09f5.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2009-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173686",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-04",
+                "pubLeg": "X",
+                "pubNr": "100",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação Nacional das Instituições de Solidariedade (CNIS),solicitando a intervenção da Assembleia da República  no sentido da consagração do direito de escolha dos pais entre a frequência na escola pública e a frequência nos CATL das IPSS, no âmbito do prolongamento do horário escolar com actividades de enriquecimento curricular (AEC) e que o Governo torne gratuitos os serviços de apoio à família na área da infância",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173687",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-04",
+                "pubLeg": "X",
+                "pubNr": "100",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação Nacional das Instituições de Solidariedade (CNIS),solicitando a intervenção da Assembleia da República  no sentido da consagração do direito de escolha dos pais entre a frequência na escola pública e a frequência nos CATL das IPSS, no âmbito do prolongamento do horário escolar com actividades de enriquecimento curricular (AEC) e que o Governo torne gratuitos os serviços de apoio à família na área da infância",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173688",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-04",
+                "pubLeg": "X",
+                "pubNr": "100",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação Nacional das Instituições de Solidariedade (CNIS),solicitando a intervenção da Assembleia da República  no sentido da consagração do direito de escolha dos pais entre a frequência na escola pública e a frequência nos CATL das IPSS, no âmbito do prolongamento do horário escolar com actividades de enriquecimento curricular (AEC) e que o Governo torne gratuitos os serviços de apoio à família na área da infância",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173689",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-04",
+                "pubLeg": "X",
+                "pubNr": "100",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação Nacional das Instituições de Solidariedade (CNIS),solicitando a intervenção da Assembleia da República  no sentido da consagração do direito de escolha dos pais entre a frequência na escola pública e a frequência nos CATL das IPSS, no âmbito do prolongamento do horário escolar com actividades de enriquecimento curricular (AEC) e que o Governo torne gratuitos os serviços de apoio à família na área da infância",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173690",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-04",
+                "pubLeg": "X",
+                "pubNr": "100",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Confederação Nacional das Instituições de Solidariedade (CNIS),solicitando a intervenção da Assembleia da República  no sentido da consagração do direito de escolha dos pais entre a frequência na escola pública e a frequência nos CATL das IPSS, no âmbito do prolongamento do horário escolar com actividades de enriquecimento curricular (AEC) e que o Governo torne gratuitos os serviços de apoio à família na área da infância",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11761",
+    "PetAssunto": "Solicitam a consagração do direito de escolha dos pais entre a frequência na escola pública e a frequência nos CATL das IPSS, no âmbito do prolongamento do horário escolar com Actividades de Enriquecimento Curricular (AEC) e que o Governo torne gratuitos os serviços de apoio à família na área da infância.",
+    "PetDataEntrada": "2008-02-18",
+    "PeticoesAssociadas": null,
+    "PetId": "11761",
+    "PetLeg": "X",
+    "PetNr": "430",
+    "PetNrAssinaturas": "161278",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "294",
+        "obs": null,
+        "pag": [
+          "55-59"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-07-04",
+        "pubLeg": "X",
+        "pubNr": "100",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/55?pgs=55-59&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "427630",
+        "obs": null,
+        "pag": [
+          "26-29"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-03-08",
+        "pubLeg": "X",
+        "pubNr": "70",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/070/2008-03-08/26?pgs=26-29&org=PLC"
+      }
+    ]
+  }
+}
