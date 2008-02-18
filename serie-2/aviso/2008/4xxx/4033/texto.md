@@ -1,0 +1,8 @@
+Aviso n.º 4033/2008
+João Manuel Rocha da Silva, Presidente da Câmara Municipal de Serpa.
+Torna público torna público, nos termos e para os efeitos previstos nos artigos 74.º e 77.º ex vi do n.º 7 do artigo 96.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção introduzida pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, que, em reunião do órgão executivo realizada em 21 de Novembro de 2007, foi deliberado, por unanimidade, iniciar o processo de Revisão do Plano Director Municipal de Serpa.
+O prazo previsto para a revisão do Plano Director Municipal é de 24 meses.
+Nos termos do n.º 2 do artigo 77.º ex vi do n.º 7 do artigo 96.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção introduzida pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, foi deliberado ainda estabelecer o prazo de 90 dias a contar da data da publicação do presente aviso no Diário da República, para que todos os interessados possam proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de revisão, as quais devem ser formuladas por escrito e dirigidas ao Presidente da Câmara Municipal.
+Mais se anuncia que o processo de revisão do Plano Director Municipal de Serpa se encontra disponível para consulta nas instalações da Câmara Municipal (Sector de Atendimento ao Público), sita na Praça da República, todos os dias úteis, durante o horário normal de expediente (9 horas às 16 horas e 30 minutos).
+Para conhecimento geral se mandou publicitar este aviso no Diário da República, na imprensa nacional e regional, bem como nos locais públicos do costume.
+24 de Janeiro de 2008. - O Presidente da Câmara, João Manuel Rocha da Silva.
