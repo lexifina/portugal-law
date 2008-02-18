@@ -1,0 +1,525 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11762",
+  "numero": "431",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-02-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2008-03-26",
+            "entidades": null,
+            "id": "84185",
+            "tipo": null,
+            "titulo": "Audição em 2008-03-26 com Augusto Santos Silva (MIN.  DOS  ASSUNTOS PARLAMENTARES)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2008-03-05",
+            "dataResposta": "2008-04-30",
+            "entidades": [
+              "Ministério da Educação"
+            ],
+            "nrOficio": "125/CESC/2008",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2008-03-05",
+            "dataResposta": "2008-07-14",
+            "entidades": [
+              "Ministério da Cultura"
+            ],
+            "nrOficio": "125/CESC/2008",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2008-07-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-03-05",
+        "DataArquivo": "2008-07-16",
+        "DataBaixaComissao": "2008-03-05",
+        "DataEnvioPAR": "2008-07-17",
+        "DataReaberta": "2008-03-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-02-18",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d6b4e4655304e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764e47466b4d4446684d4463744d6a677a4f5330305a5467314c5749334f574d744e546b77596d51324f5749774f544d7a4c6e426b5a673d3d&fich=4ad01a07-2839-4e85-b79c-590bd69b0933.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-02-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d6b4e4655304e7762334e53515649765247396a6457316c626e52766331426c64476c6a59573876596a5a6c4f444d334d6d49744f4759324e7930304f4455344c546c6b4e5759744d474d304e6a5a694d5464684e6a59314c6e426b5a673d3d&fich=b6e8372b-8f67-4858-9d5f-0c466b17a665.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1914",
+        "Legislatura": "X",
+        "Nome": "Comissão de Ética, Sociedade e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-03-05",
+            "gp": "PS",
+            "id": "2228",
+            "motivoCessacao": null,
+            "nome": "Matilde Sousa Franco"
+          }
+        ],
+        "RelatorioFinal": [
+          "22418"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2008-10-15",
+    "Documentos": [
+      {
+        "DataDocumento": "2008-02-18",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637939694e7a52684e4459784d79316b4d7a42694c545132595467744f54557a5a5330334e5749344e7a67354d7a63355a6d59756347526d&fich=b74a4613-d30b-46a8-953e-75b8789379ff.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "34124",
+      "34128",
+      "34124",
+      "34128"
+    ],
+    "Iniciativasoriginadas": [
+      "34124",
+      "34128"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2008-10-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-10-16",
+                "pubLeg": "X",
+                "pubNr": "13",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/013/2008-10-16/59?pgs=59&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a recuperação do Salão Nobre e do Conservatório Nacional com carácter de Urgência, bem como a classificação do edifício; Recomenda ao Governo que tome medidas urgentes para a recuperação e requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa e assegure as condições necessárias para o ensino musical; Recomenda a adopção de medidas urgentes para a execução de obras de recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Solicitam a recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Recomenda ao Governo que adopte as medidas necessárias para a requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-10-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170225",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-10-16",
+                "pubLeg": "X",
+                "pubNr": "13",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/013/2008-10-16/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a recuperação do Salão Nobre e do Conservatório Nacional com carácter de Urgência, bem como a classificação do edifício; Recomenda ao Governo que tome medidas urgentes para a recuperação e requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa e assegure as condições necessárias para o ensino musical; Recomenda a adopção de medidas urgentes para a execução de obras de recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Solicitam a recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Recomenda ao Governo que adopte as medidas necessárias para a requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-10-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170226",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-10-16",
+                "pubLeg": "X",
+                "pubNr": "13",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/013/2008-10-16/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a recuperação do Salão Nobre e do Conservatório Nacional com carácter de Urgência, bem como a classificação do edifício; Recomenda ao Governo que tome medidas urgentes para a recuperação e requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa e assegure as condições necessárias para o ensino musical; Recomenda a adopção de medidas urgentes para a execução de obras de recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Solicitam a recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Recomenda ao Governo que adopte as medidas necessárias para a requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-10-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-10-16",
+                "pubLeg": "X",
+                "pubNr": "13",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/013/2008-10-16/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a recuperação do Salão Nobre e do Conservatório Nacional com carácter de Urgência, bem como a classificação do edifício; Recomenda ao Governo que tome medidas urgentes para a recuperação e requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa e assegure as condições necessárias para o ensino musical; Recomenda a adopção de medidas urgentes para a execução de obras de recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Solicitam a recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Recomenda ao Governo que adopte as medidas necessárias para a requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-10-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170228",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-10-16",
+                "pubLeg": "X",
+                "pubNr": "13",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/013/2008-10-16/62?pgs=62&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a recuperação do Salão Nobre e do Conservatório Nacional com carácter de Urgência, bem como a classificação do edifício; Recomenda ao Governo que tome medidas urgentes para a recuperação e requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa e assegure as condições necessárias para o ensino musical; Recomenda a adopção de medidas urgentes para a execução de obras de recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Solicitam a recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Recomenda ao Governo que adopte as medidas necessárias para a requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-10-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-10-16",
+                "pubLeg": "X",
+                "pubNr": "13",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/013/2008-10-16/63?pgs=63&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a recuperação do Salão Nobre e do Conservatório Nacional com carácter de Urgência, bem como a classificação do edifício; Recomenda ao Governo que tome medidas urgentes para a recuperação e requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa e assegure as condições necessárias para o ensino musical; Recomenda a adopção de medidas urgentes para a execução de obras de recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Solicitam a recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Recomenda ao Governo que adopte as medidas necessárias para a requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-10-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-10-16",
+                "pubLeg": "X",
+                "pubNr": "13",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/013/2008-10-16/64?pgs=64&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a recuperação do Salão Nobre e do Conservatório Nacional com carácter de Urgência, bem como a classificação do edifício; Recomenda ao Governo que tome medidas urgentes para a recuperação e requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa e assegure as condições necessárias para o ensino musical; Recomenda a adopção de medidas urgentes para a execução de obras de recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Solicitam a recuperação do Salão Nobre do Conservatório Nacional de Lisboa; Recomenda ao Governo que adopte as medidas necessárias para a requalificação do Salão Nobre da Escola de Música do Conservatório Nacional de Lisboa.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11762",
+    "PetAssunto": "Solicitam a recuperação do Salão Nobre do Conservatório Nacional de Lisboa.",
+    "PetDataEntrada": "2008-02-18",
+    "PeticoesAssociadas": null,
+    "PetId": "11762",
+    "PetLeg": "X",
+    "PetNr": "431",
+    "PetNrAssinaturas": "5043",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1282",
+        "obs": null,
+        "pag": [
+          "59-64"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-10-16",
+        "pubLeg": "X",
+        "pubNr": "13",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/013/2008-10-16/59?pgs=59-64&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "427631",
+        "obs": null,
+        "pag": [
+          "29-29"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-03-08",
+        "pubLeg": "X",
+        "pubNr": "70",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/070/2008-03-08/29?pgs=29&org=PLC"
+      }
+    ]
+  }
+}
