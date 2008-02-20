@@ -1,0 +1,7 @@
+Aviso n.º 4439/2008
+Projecto de regulamento sobre abandono, remoção e depósitos de veículos
+Discussão pública
+José Fernando da Mata Cáceres, Presidente da Câmara Municipal do Concelho de Portalegre:
+Faz público no uso das competências que lhe são atribuídas pela alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de Setembro, na sua actual redacção, que em execução do que dispõe o artigo 118.º do Código do procedimento Administrativo, aprovado pelo Decreto - Lei n.º 6/96, de 31 Janeiro e para efeitos do disposto no Decreto-Lei n.º 44/2005 de 23 de Fevereiro e na Portaria n.º 1424 de 13 de Dezembro, e demais legislação que se mostre como aplicável é aberta a discussão pública relativa ao Projecto de Regulamento sobre Abandono, Remoção e Depósito de Veículos, pelo período de 30 dias, contados a partir da publicação do presente aviso no Diário da República, o qual será também divulgado através da comunicação social.
+O referido Projecto do Regulamento encontra-se em exposição na Câmara Municipal de Portalegre - Serviço de Licenciamento da Divisão de Planeamento e Estruturação Urbana, em edifício situado na Rua Guilherme Gomes Fernandes, n.º 28, nas horas normais de expediente, devendo os interessados apresentar as suas observações ou sugestões por escrito, dirigidas ao presidente da Câmara Municipal, em envelope fechado e contendo obrigatoriamente a identificação.
+17 de Janeiro de 2008. - O Presidente da Câmara, José Fernando da Mata Cáceres.
