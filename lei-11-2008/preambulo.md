@@ -1,0 +1,3 @@
+# Procede à primeira alteração à Lei n.º 53/2006, de 7 de Dezembro, torna extensivo o regime de mobilidade especial aos trabalhadores com contrato individual de trabalho, procede à vigésima sexta alteração ao Decreto-Lei n.º 498/72, de 9 de Dezembro, que consagra o Estatuto da Aposentação, procede à segunda alteração à Lei n.º 60/2005, de 29 de Dezembro, procede à primeira alteração à Lei n.º 52/2007, de 31 de Agosto, e cria a protecção no desemprego de trabalhadores da Administração Pública.
+
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
