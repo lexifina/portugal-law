@@ -1,0 +1,6 @@
+Aviso n.º 4460/2008
+Publicitação da fase de discussão pública da alteração ao Plano de Pormenor da Estrada da Serra, nos termos  do D. L. n.º 316/2007, de 19 de Setembro
+Nos termos do DL n.º 316/2007, de 19 de Setembro, a Câmara Municipal de Tomar informa todos os interessados que na sequência da reunião pública de 29/01/2008, foi deliberado abrir um período de Discussão Pública relativo à alteração ao Plano de Pormenor da Estrada da Serra, que terá uma duração de 27 dias úteis, a decorrer entre os dias 22/02/2008 e 01/04/2008.
+Durante todo o período em que decorrer a Discussão Pública os documentos estarão disponíveis nas instalações da Divisão de Planeamento Físico, desta Câmara Municipal, onde poderão ser consultados pelos interessados nos dias úteis de 2ª Feira a 6ª Feira das 14H30 às 17H30.
+As reclamações, informações ou sugestões sobre o conteúdo dos documentos postos à discussão pública, deverão ser formuladas, por escrito, através de formulário próprio disponível no local e entregues até às 17H30 do último dia do prazo de discussão pública nas instalações da Divisão de Planeamento Físico, desta Câmara Municipal.
+1 de Fevereiro de 2008. - O Presidente da Câmara, Fernando R. Linhares Corvelo de Sousa.
