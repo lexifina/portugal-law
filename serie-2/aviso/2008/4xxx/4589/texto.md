@@ -1,0 +1,4 @@
+Aviso n.º 4589/2008
+Manuel Maria Libério Coelho, Presidente da Câmara Municipal de Avis, torna público que, nos termos do disposto no n.º 2 do artigo 77.º e dando cumprimento ao disposto 74.º do Regime Jurídico dos Instrumentos de Gestão Territorial na redacção dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, a Câmara Municipal de Avis deliberou em reunião de 26 de Setembro de 2007 proceder à alteração ao Plano de Pormenor da Área de Expansão Industrial de Avis, freguesia de Avis, com o objectivo de permitir a implantação de outros usos compatíveis com a área em causa.
+Mais se anuncia que pelo prazo de 15 dias, a contar da presente data, podem todos os interessados formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração do plano de pormenor em causa.
+22 de Outubro de 2007. - O Presidente da Câmara, Manuel Maria Libério Coelho.
