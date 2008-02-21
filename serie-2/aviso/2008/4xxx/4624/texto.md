@@ -1,0 +1,5 @@
+Aviso n.º 4624/2008
+Plano de Pormenor do Centro Histórico do Redondo
+Alfredo Falamino Barroso, Presidente da Câmara Municipal de Redondo, torna público que, nos termos do disposto no n.º 3 do artigo 77º do Decreto-lei n.º 316/2007, de 19 de Setembro, a Câmara Municipal de Redondo, na reunião pública realizada a 23 de Janeiro de 2008, deliberou por unanimidade e em minuta, proceder à abertura do período de discussão pública, referente ao Plano de Pormenor do Centro Histórico do Redondo, estipulando o prazo de 22 dias.
+Mais se torna público que, durante o período de 22 dias a contar da publicação deste aviso no Diário da República, 2.ª série, os interessados poderão consultar a proposta nos Serviços de Administração Urbanística desta Câmara Municipal, das 9h às 12h30m ou das 14h às 17h30m. Assim como apresentar reclamações, observações ou sugestões, estas devem ser apresentadas em mão nos Serviços de Administração Urbanística ou por correio, para Câmara Municipal de Redondo, Praça da República, 7170-011 Redondo.
+25 de Janeiro de 2008. - O Presidente da Câmara, Alfredo Falamino Barroso.
