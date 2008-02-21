@@ -1,11 +1,11 @@
 # Artigo 91.º
 
-### (Juntas ordinárias)
+### Junta médica
 
-1 - As juntas médicas ordinárias reunirão periodicamente na sede e filiais da Caixa Geral de Depósitos, nas datas a fixar, conforme as necessidades do serviço.
+1 - A junta médica é composta por três médicos designados pela Caixa, sendo o presidente escolhido entre eles por cooptação.
 
-2 - Os seus pareceres serão sempre fundamentados.
+2 - Compete à junta médica apreciar o processo clínico do subscritor com base nos dados coligidos pelo médico relator e nos demais elementos de diagnóstico constantes do respectivo processo.
 
-3 - Os resultados das juntas médicas realizadas nas filiais deverão ser confirmados pelo médico-chefe da Caixa, que poderá fazer baixar o processo à junta que emitiu os pareceres para melhor fundamentação, quando entender que esta é incompleta, deficiente ou obscura.
+3 - Os pareceres da junta médica são sempre fundamentados.
 
-4 - No caso de persistir diferendo entre as juntas e o médico-chefe, deverá este determinar a aplicação dos meios previstos no artigo 96.º e propor parecer à homologação da administração.
+4 - As orientações técnicas necessárias à actividade do médico relator e ao funcionamento das juntas médicas são asseguradas por um conselho médico, cujas composição e competências são estabelecidas por decreto regulamentar.
