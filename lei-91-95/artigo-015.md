@@ -16,9 +16,9 @@ e) Submeter os documentos a que se referem as alíneas do n.º 1 do artigo 16.º
 
 f) Constituir e movimentar contas bancárias;
 
-g) Pleitear em juízo, dispondo para tal de legitimidade activa e passiva nas acções emergentes das relações jurídicas em que seja parte;
+g) Representar a administração conjunta em juízo;
 
-h) Emitir declarações, atestando o pagamento das comparticipações devidas pelos proprietários ou comproprietários, para efeito de emissão da licença de construção ou outros actos para os quais as mesmas se mostrem necessárias;
+h) Emitir declarações atestando o pagamento das comparticipações devidas pelos proprietários ou comproprietários para efeito da emissão da licença de construção, ou outros actos para as quais as mesmas se mostrem necessárias, nomeadamente para efeito do disposto no artigo 30.º-A;
 
 i) Representar os titulares dos prédios integrados na AUGI perante os serviços de finanças e conservatórias do registo predial, para promover, designadamente, as necessárias rectificações e alterações ao teor da matriz e da descrição e o registo do alvará de loteamento, podendo fazer declarações complementares;
 

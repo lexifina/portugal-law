@@ -20,4 +20,4 @@ b) Prova da entrega no serviço de finanças de cópia do alvará de loteamento.
 
 7 - É dispensada a menção dos sujeitos passivos na inscrição da aquisição do lote por divisão de coisa comum.
 
-8 - Nos prédios constituídos em compropriedade, o prazo de apresentação da declaração modelo n.º 129 para efeitos de inscrição do lote na matriz a que se refere o artigo 14.º do Código da Contribuição Autárquica conta-se a partir da data da inscrição da aquisição do lote por divisão de coisa comum.
+8 - (Revogado.)

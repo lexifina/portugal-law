@@ -2,7 +2,7 @@
 
 ### Processo de legalização de construções
 
-1 - A legalização das construções existentes fica sujeita ao regime do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 177/2001, de 4 de Junho, sem prejuízo do disposto na presente lei.
+1 - A legalização das construções existentes fica sujeita ao regime do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção que lhe foi dada pela Lei n.º 60/2007, de 4 de Setembro, sem prejuízo do disposto na presente lei.
 
 2 - A câmara municipal pode dispensar a apresentação de projectos das especialidades, mediante declaração de responsabilidade de conformidade do construído com as exigências legais e regulamentares para o efeito, assinada por técnico habilitado para subscrever os projectos dispensados.
 

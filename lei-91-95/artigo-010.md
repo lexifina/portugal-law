@@ -14,7 +14,7 @@ c) Eleger e destituir os representantes dos proprietários e comproprietários q
 
 d) Aprovar o projecto de reconversão a apresentar à câmara municipal, na modalidade de pedido de loteamento;
 
-e) Avaliar a solução urbanística preconizada no plano de pormenor em sede de inquérito público;
+e) Avaliar a solução urbanística preconizada, na modalidade de reconversão por iniciativa municipal;
 
 f) Aprovar os mapas e os respectivos métodos e fórmulas de cálculo e as datas para a entrega das comparticipações referidos na alínea c) do n.º 1 do artigo 15.º; g) Aprovar, após parecer da comissão de fiscalização, os orçamentos apresentados pela comissão de administração para a execução das obras de urbanização;
 

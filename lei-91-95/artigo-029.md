@@ -2,7 +2,7 @@
 
 ### Alvará de loteamento
 
-Decididas as reclamações ou decorrido o prazo para a sua apresentação e prestada a garantia, se a ela houver lugar e se a mesma for prestada nos termos gerais, a câmara municipal emite o alvará de loteamento, que contém as especificações previstas no Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 177/2001, de 4 de Junho, e ainda:
+Decididas as reclamações ou decorrido o prazo para a sua apresentação e prestada a garantia, se a ela houver lugar e se a mesma for prestada nos termos gerais, a câmara municipal emite o alvará de loteamento, que contém as especificações previstas no Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção que lhe foi dada pela Lei n.º 60/2007, de 4 de Setembro, e ainda:
 
 a) Lista dos factos sujeitos a registo predial, nomeadamente a hipoteca legal, o benefício da manutenção temporária previsto na alínea a) do n.º 3 do artigo 24.º e o ónus de não indemnização por demolição previsto no n.º 5 do artigo 7.º
 

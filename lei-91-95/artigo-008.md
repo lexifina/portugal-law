@@ -22,4 +22,6 @@ c) A comissão de fiscalização.
 
 5 - Nas AUGI em que, nos termos do artigo seguinte, tenha assento na assembleia um número de interessados igual ou inferior a 15, as competências da comissão de administração podem ser atribuídas a um administrador único, por deliberação da assembleia constitutiva.
 
-6 - A administração conjunta não goza de personalidade jurídica, mas fica obrigatoriamente sujeita a inscrição no Registo Nacional de Pessoas Colectivas, para efeitos de identificação.
+6 - A administração conjunta fica sujeita à inscrição no Registo Nacional de Pessoas Colectivas, para efeitos de identificação.
+
+7 - A administração conjunta detém capacidade judiciária, dispondo de legitimidade activa e passiva nas questões emergentes das relações jurídicas em que seja parte.
