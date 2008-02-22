@@ -1,0 +1,7 @@
+Portaria n.º 203/2008
+de 22 de Fevereiro
+Pela Portaria n.º 288/2001, de 29 de Março, alterada pela Portaria n.º 123/2004, de 6 de Fevereiro, foi concessionada à Sociedade Agrícola Silva Maia - Agricultura e Turismo Cinegética, Lda., a zona de caça turística da Herdade do Vale de Currais (processo n.º 2485), situada no município de Castelo Branco, com a área de 497,70 ha.
+Considerando que um proprietário de um prédio incluído na zona de caça em causa moveu uma acção judicial por incumprimento de cláusulas contratuais do acordo de cedência de exploração cinegética, tendo sido emitida sentença do Tribunal no sentido de decretar a resolução do contrato;
+Considerando que após a desanexação do prédio em causa a zona de caça não apresenta condições que sustentem uma exploração cinegética viável em termos turísticos no seu global:
+Com fundamento no disposto na alínea c) do n.º 1 do artigo 50.º, em conjugação com a alínea b) do n.º 1 do artigo 51.º, do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a redacção alterada pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja revogada concessão atribuída pela Portaria n.º 288/2001, de 29 de Março, alterada pela Portaria n.º 123/2004, de 6 de Fevereiro, à Sociedade Agrícola Silva Maia - Agricultura e Turismo Cinegético, Lda., processo n.º 2485-DGRF.
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 6 de Fevereiro de 2008.
