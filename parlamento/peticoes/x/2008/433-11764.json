@@ -1,0 +1,476 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11764",
+  "numero": "433",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-02-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2008-07-15",
+            "entidades": null,
+            "id": "84813",
+            "tipo": null,
+            "titulo": "Audição em 2008-07-15 com Associação Portuguesa de Celíacos"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2008-04-10",
+            "dataResposta": "2008-05-21",
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "44/5ªCOF/2008",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039476347397a556b46534c305276593356745a57353062334e515a585270593246764c32466d4e32526b4e32566d4c5751334f4441744e446c685a6931684d4463784c5752694e6a417a4e5463785a444e6d5a6935775a47593d&fich=af7dd7ef-d780-49af-a071-db603571d3ff.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2008-04-10",
+            "dataResposta": "2008-06-02",
+            "entidades": [
+              "Ministra da Saúde"
+            ],
+            "nrOficio": "44/5ªCOF/2008",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039476347397a556b46534c305276593356745a57353062334e515a585270593246764c32466d4e32526b4e32566d4c5751334f4441744e446c685a6931684d4463784c5752694e6a417a4e5463785a444e6d5a6935775a47593d&fich=af7dd7ef-d780-49af-a071-db603571d3ff.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-05-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-04-02",
+        "DataArquivo": "2009-06-04",
+        "DataBaixaComissao": "2008-04-02",
+        "DataEnvioPAR": "2009-06-04",
+        "DataReaberta": "2008-04-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-02-25",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039476347397a556b46534c305276593356745a57353062334e515a585270593246764c7a4e6b5a6d49794e544d7a4c54457a595745744e44426c597930344e7a67314c54686a596a426d4f44566b596a566c4e6935775a47593d&fich=3dfb2533-13aa-40ec-8785-8cb0f85db5e6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2008-02-25",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039476347397a556b46534c305276593356745a57353062334e515a585270593246764c32466d4e32526b4e32566d4c5751334f4441744e446c685a6931684d4463784c5752694e6a417a4e5463785a444e6d5a6935775a47593d&fich=af7dd7ef-d780-49af-a071-db603571d3ff.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-02-25",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039476347397a556b46534c305276593356745a57353062334e515a585270593246764c7a417a4e6a59304e4745314c5467334f4441744e4459335a4330345a6a4d324c544a6a4e6a68684e6a5a684d7a68684d4335775a47593d&fich=036644a5-8780-467d-8f36-2c68a66a38a0.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1907",
+        "Legislatura": "X",
+        "Nome": "Comissão de Orçamento e Finanças",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-04-02",
+            "gp": "PS",
+            "id": "2253",
+            "motivoCessacao": null,
+            "nome": "Hugo Nunes"
+          }
+        ],
+        "RelatorioFinal": [
+          "22425"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2009-07-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2008-02-25",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396b4e7a6b335a4441785a6930784d5755354c5451795a6a45744f4446694d5330785a6a67795a6a4e6d597a597a4e3255756347526d&fich=d797d01f-11e9-42f1-81b1-1f82f3fc637e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2009-07-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173519",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-10",
+                "pubLeg": "X",
+                "pubNr": "102",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/102/2009-07-10/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Associação Portuguesa de Celíacos (ACP), solicitando à Assembleia da República que os produtos sem glúten possam ser deduzidos como despesas de saúde em sede de IRS e, consequentemente, sejam taxados com IVA a 5%",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173520",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-10",
+                "pubLeg": "X",
+                "pubNr": "102",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/102/2009-07-10/68?pgs=68&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Associação Portuguesa de Celíacos (ACP), solicitando à Assembleia da República que os produtos sem glúten possam ser deduzidos como despesas de saúde em sede de IRS e, consequentemente, sejam taxados com IVA a 5%",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173521",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-10",
+                "pubLeg": "X",
+                "pubNr": "102",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/102/2009-07-10/68?pgs=68&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Associação Portuguesa de Celíacos (ACP), solicitando à Assembleia da República que os produtos sem glúten possam ser deduzidos como despesas de saúde em sede de IRS e, consequentemente, sejam taxados com IVA a 5%",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173522",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-10",
+                "pubLeg": "X",
+                "pubNr": "102",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/102/2009-07-10/69?pgs=69&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Associação Portuguesa de Celíacos (ACP), solicitando à Assembleia da República que os produtos sem glúten possam ser deduzidos como despesas de saúde em sede de IRS e, consequentemente, sejam taxados com IVA a 5%",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173523",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-10",
+                "pubLeg": "X",
+                "pubNr": "102",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/102/2009-07-10/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Associação Portuguesa de Celíacos (ACP), solicitando à Assembleia da República que os produtos sem glúten possam ser deduzidos como despesas de saúde em sede de IRS e, consequentemente, sejam taxados com IVA a 5%",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173524",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-10",
+                "pubLeg": "X",
+                "pubNr": "102",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/102/2009-07-10/70?pgs=70&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Associação Portuguesa de Celíacos (ACP), solicitando à Assembleia da República que os produtos sem glúten possam ser deduzidos como despesas de saúde em sede de IRS e, consequentemente, sejam taxados com IVA a 5%",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11764",
+    "PetAssunto": "Pretendem que os Produtos sem Glúten possam ser deduzidos como despesas de saúde em sede de IRS e, consequentemente, sejam taxados com IVA a 5%.",
+    "PetDataEntrada": "2008-02-25",
+    "PeticoesAssociadas": null,
+    "PetId": "11764",
+    "PetLeg": "X",
+    "PetNr": "433",
+    "PetNrAssinaturas": "5539",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "292",
+        "obs": null,
+        "pag": [
+          "67-70"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-07-10",
+        "pubLeg": "X",
+        "pubNr": "102",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/102/2009-07-10/67?pgs=67-70&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "429423",
+        "obs": null,
+        "pag": [
+          "3-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-04-05",
+        "pubLeg": "X",
+        "pubNr": "82",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/082/2008-04-05/3?pgs=3-4&org=PLC"
+      }
+    ]
+  }
+}
