@@ -1,0 +1,5 @@
+Aviso n.º 5065/2008
+Discussão pública
+Torna-se público, para efeitos do disposto n.º 3 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, conjugado com o artigo 79.º do mesmo diploma legal, que se encontra aberto, a partir do 5.º dia útil a seguir à publicação deste aviso na 2.ª série do Diário da República e durante 30 dias úteis, o período de discussão pública da proposta da 8.ª Alteração ao PDM de Mourão, cuja documentação estará disponível no Serviço de Apoio Administrativo da Divisão de Obras e Urbanismo, sito no Edifício dos Paços do Município de Mourão, onde poderá ser consultada, nas horas normais de expediente.
+Os interessados poderão apresentar, por escrito, qualquer reclamação, observação, sugestão ou pedido de esclarecimento, através de carta dirigida ao Presidente da Câmara Municipal de Mourão, com referência expressa à "Discussão Pública da 8.ª Alteração ao PDM de Mourão", e com identificação da morada/contacto do signatário para efeitos de resposta.
+7 de Fevereiro de 2008. - O Presidente da Câmara, José Manuel Santinha Lopes.
