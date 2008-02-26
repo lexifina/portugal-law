@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=3d4h3iJUzJ5%2ftQ8sS%2fv2R6TCj8bCDkLL%2bFdTRK40%2bilvyl3jbC46ru%2bbuvKRKJ3lgapPwkE42I%2fcPFXX64A753V2F4NAeMLX9Q5f9dhfRw%2fZFjlxWBwzJlA%2fEAJw8kEfEAFouQqDrN%2b9iY6U6sL2%2fE8%2bdI8xG5omU6EURK6xQ6fcjzTD%2fTWSt8eLiep1ZNqUU0km0C4VCM%2biGLus4uuMEhij5lBvmmjWv530iGZUmCkpaUeaTFUPHUi4Nzu0CYvun3VwXRQb8gjThUiCFcrGcQcuzNFSOhnaeWKbg%2bt7bLF54ELv6OteOSIaaDkb%2fWmThXvmwAOcMAaxBwFGo70ZNVhlH4xT8ogN433mxWauB%2fk%3d&fich=DiplomasX_json.txt&Inline=true",
+  "ficheiro_sha256": "724a3fff001c963e771445a5cbb0ce949f9feb66d52e11eac6e03ce068278a50",
+  "legislatura": "X",
+  "id": "14961",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2008-02-26",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2008",
+    "Id": "14961",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "33561",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c325135597a4e685932466d4c5756684e546b744e474d304d5331685a4755304c546c6b4d574d354d4745325a6d49795979356b62324d3d&fich=d9c3acaf-ea59-4c41-ade4-9d1c90a6fb2c.doc&Inline=true",
+        "IniNr": "61",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "S",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "X",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a573530595849764d445a6c4f574d7a5a4449744e445a6b4d5330305a4455774c57466d4e7a49744d7a5a6a4d5441774d7a6c6c4d44517a4c6d527659773d3d&fich=06e9c3d2-46d1-4d50-af72-36c10039e043.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "426949",
+        "obs": null,
+        "pag": [
+          "2-65"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-02-26",
+        "pubLeg": "X",
+        "pubNr": "61",
+        "pubSL": "3",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/10/03/061/2008-02-26/2?pgs=2-65&org=PLC"
+      }
+    ],
+    "Sessao": "3",
+    "Tipo": "Resolução",
+    "Titulo": "Aprova o Acordo de Parceria e Cooperação que estabelece uma Parceria entre as Comunidades Europeias e os seus Estados-membros, por um lado, e a República do Tajiquistão, por outro, assinado no Luxemburgo, em 11 de Outubro de 2004",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
