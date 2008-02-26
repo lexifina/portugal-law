@@ -44,7 +44,7 @@ b) A primeira avaliação do desempenho que lhe for atribuída após a retoma do
 
 9 - Podem ainda beneficiar da opção prevista nas alíneas a) e b) do n.º 8 os docentes que permaneçam em situação de ausência ao serviço, equiparada a prestação efectiva de trabalho, que inviabilize a verificação do requisito de tempo mínimo para avaliação do desempenho.
 
-10 - Em caso de opção pela avaliação a que se refere a alínea b) do n.º 8, a progressão opera para o escalão correspondente ao tempo de serviço prestado, de acordo com os critérios fixados no artigo 37.º
+10 - Em caso de opção pela avaliação a que se refere a alínea b) do n.º 8, a progressão opera para o escalão correspondente ao tempo de serviço prestado, de acordo com os critérios fixados no artigo 40.º.
 
 11 - Os docentes que não possam beneficiar das opções mencionadas no n.º 8 e que exerçam funções na administração regional autónoma e local deverão solicitar o suprimento da avaliação respectivamente nos termos dos artigos 18.º e 19.º do Decreto Legislativo Regional n.º 11/2005/M, de 29 de Junho, e do Decreto Regulamentar n.º 6/2006, de 20 de Junho. No caso do exercício de outras funções, o órgão de gestão da escola ou o júri do procedimento, se se tratar da transição ao 6.º escalão, irá proceder à ponderação curricular dos docentes.
 
