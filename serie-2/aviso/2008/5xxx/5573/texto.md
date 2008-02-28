@@ -1,0 +1,9 @@
+Aviso n.º 5573/2008
+Alteração ao Plano Director Municipal de Golegã
+Zona Industrial I e II - Golegã
+José Tavares Veiga Silva Maltez, Presidente da Câmara Municipal de Golegã, torna público, em conformidade com o disposto no n.º1 do artigo 96.º, conjugado com o n.º 1 do artigo 74.º, com a alínea b) do n.º3 do artigo 148.º e com o n.º 2 do artigo 149.º, todos do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 316/07, de 19 de Setembro, que em reunião camarária de 12 de Dezembro de 2007, foi deliberado proceder à alteração ao PDM de Golegã, publicado pela Resolução de Conselho de Ministros n.º 106/ 2000, no Diário da República, 1.ª Série-B, n.º 190, de 18 de Agosto.
+1 - A alteração ao PDM abrange uma área delimitada pela Zona Industrial I e II em Golegã. Esta alteração fundamenta-se pelas mudanças ocorridas nas condições económicas, sociais e ambientais que estiveram na base das opções definidas no plano.
+2 - Estabelecer o prazo de seis meses para a elaboração da alteração ao PDM.
+3 - Nos termos do n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 316/07, de 19 de Setembro, podem todos os interessados proceder, no prazo de 15 dias úteis após a data da publicação do presente aviso no Diário da República, II.ª Série, à formulação de sugestões, bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito exclusivo desta alteração ao PDM de Golegã.
+4 - O atendimento será feito na Divisão de Obras Urbanismo e Ambiente da Câmara Municipal de Golegã todos os dias úteis, das 10:00 às 12:00 horas e das 14:00 às 16:00 horas, podendo os interessados apresentar por escrito nesse local as suas observações e sugestões.
+16 de Janeiro de 2008. - O Presidente da Câmara, José Veiga Maltez.
