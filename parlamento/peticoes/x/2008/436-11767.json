@@ -1,0 +1,373 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11767",
+  "numero": "436",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-02-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2008-06-11",
+            "entidades": null,
+            "id": "84548",
+            "tipo": null,
+            "titulo": "Audição em 2008-06-11 com ACP - Automóvel Clube de Portugal"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2008-04-09",
+            "dataResposta": "2008-06-24",
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "45/5ªCOF/2008",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039476347397a556b46534c305276593356745a57353062334e515a585270593246764c7a4e685a54526a595463344c544132595459744e444e685a6930344d44426a4c5746695a6d4d7759574e6a5a545669596935775a47593d&fich=3ae4ca78-06a6-43af-800c-abfc0acce5bb.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-07-15",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-03-18",
+        "DataArquivo": "2009-07-15",
+        "DataBaixaComissao": "2008-03-18",
+        "DataEnvioPAR": "2009-07-16",
+        "DataReaberta": "2008-03-18",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-02-28",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039476347397a556b46534c305276593356745a57353062334e515a585270593246764c7a5179596a46694d4451784c5751304d7a67744e44526c595330354f5749784c54497a4f4749354f5451345a5751315a4335775a47593d&fich=42b1b041-d438-44ea-99b1-238b9948ed5d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2008-02-28",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039476347397a556b46534c305276593356745a57353062334e515a585270593246764c7a4e685a54526a595463344c544132595459744e444e685a6930344d44426a4c5746695a6d4d7759574e6a5a545669596935775a47593d&fich=3ae4ca78-06a6-43af-800c-abfc0acce5bb.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-02-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e5054533831513039476347397a556b46534c305276593356745a57353062334e515a585270593246764c7a41784e545a6b5a6d59304c54497a596a41744e4463314d6930354e57497a4c54517a4d5746684d6a5a6b4e4445774d4335775a47593d&fich=0156dff4-23b0-4752-95b3-431aa26d4100.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1907",
+        "Legislatura": "X",
+        "Nome": "Comissão de Orçamento e Finanças",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-03-18",
+            "gp": "PS",
+            "id": "2253",
+            "motivoCessacao": null,
+            "nome": "Hugo Nunes"
+          }
+        ],
+        "RelatorioFinal": [
+          "22655"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2009-07-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2008-02-28",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938795a5749794f5467314e79316859546b304c54526b4e444174595755774e4331685a54686b4f444a6a5a544935595749756347526d&fich=2eb29857-aa94-4d40-ae04-ae8d82ce29ab.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "174080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/80?pgs=80&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Automóvel Clube de Portugal(ACP), solicitando à Assembleia da República que os veículos vendidos até 31 de Janeiro de 2008 e não apenas até 31 de Outubro de 2005, como prevê a lei actual, possam ser registados pelos vendedores, ficando estes desobrigados do pagamento do Imposto Único de Circulação (IUC) a partir dessa data e, ainda que, no futuro, seja possível permitir ao particular registar a venda de um carro, ficando desobrigado do pagamento do IUC a partir dessa data",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "174081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Automóvel Clube de Portugal(ACP), solicitando à Assembleia da República que os veículos vendidos até 31 de Janeiro de 2008 e não apenas até 31 de Outubro de 2005, como prevê a lei actual, possam ser registados pelos vendedores, ficando estes desobrigados do pagamento do Imposto Único de Circulação (IUC) a partir dessa data e, ainda que, no futuro, seja possível permitir ao particular registar a venda de um carro, ficando desobrigado do pagamento do IUC a partir dessa data",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "174082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/81?pgs=81&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Automóvel Clube de Portugal(ACP), solicitando à Assembleia da República que os veículos vendidos até 31 de Janeiro de 2008 e não apenas até 31 de Outubro de 2005, como prevê a lei actual, possam ser registados pelos vendedores, ficando estes desobrigados do pagamento do Imposto Único de Circulação (IUC) a partir dessa data e, ainda que, no futuro, seja possível permitir ao particular registar a venda de um carro, ficando desobrigado do pagamento do IUC a partir dessa data",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "174083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/81?pgs=81-82&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Automóvel Clube de Portugal(ACP), solicitando à Assembleia da República que os veículos vendidos até 31 de Janeiro de 2008 e não apenas até 31 de Outubro de 2005, como prevê a lei actual, possam ser registados pelos vendedores, ficando estes desobrigados do pagamento do Imposto Único de Circulação (IUC) a partir dessa data e, ainda que, no futuro, seja possível permitir ao particular registar a venda de um carro, ficando desobrigado do pagamento do IUC a partir dessa data",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11767",
+    "PetAssunto": "Solicitam que os veículos vendidos até 31 de Janeiro de 2008 e não apenas até 31 de Outubro de 2005 como prevê a lei actual, possam ser registados pelos vendedores, ficando estes desobrigados do pagamento do Imposto Único de Circulação (IUC) a partir dessa data e, ainda que, no futuro, seja possível permitir ao particular registar a venda de um carro, ficando desobrigado do pagamento do IUC a partir dessa data.",
+    "PetDataEntrada": "2008-02-28",
+    "PeticoesAssociadas": null,
+    "PetId": "11767",
+    "PetLeg": "X",
+    "PetNr": "436",
+    "PetNrAssinaturas": "9615",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "299",
+        "obs": null,
+        "pag": [
+          "80-82"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-07-23",
+        "pubLeg": "X",
+        "pubNr": "104",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/80?pgs=80-82&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "487137",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-03-20",
+        "pubLeg": "X",
+        "pubNr": "76",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/076/2008-03-20/4?pgs=4&org=PLC"
+      }
+    ]
+  }
+}
