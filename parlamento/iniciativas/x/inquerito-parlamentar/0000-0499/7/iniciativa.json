@@ -1,0 +1,283 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "tipo": "Inquérito Parlamentar",
+  "numero": "7",
+  "id": "33759",
+  "fases": 8,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2008-02-29",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2008-09-14",
+    "DataInicioleg": "2007-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "315",
+        "nome": "Pedro Santana Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1607",
+        "nome": "Patinha Antão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1561",
+        "nome": "Luís Montenegro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1960",
+        "nome": "Rosário Águas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1537",
+        "nome": "Hugo Velosa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1458",
+        "nome": "Carlos Alberto Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2106",
+        "nome": "Regina Ramos Bastos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2078",
+        "nome": "Luís Carloto Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2128",
+        "nome": "Miguel Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1484",
+        "nome": "José Raúl dos Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "246",
+        "nome": "Hermínio Loureiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2108",
+        "nome": "André Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2104",
+        "nome": "Carlos Páscoa Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "249",
+        "nome": "Mendes Bota"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "52",
+        "nome": "Fernando Santos Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "26",
+        "nome": "Arménio Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2147",
+        "nome": "Carlos Poço"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1857",
+        "nome": "Jorge Tadeu Morgado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1639",
+        "nome": "José Eduardo Martins"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1998",
+        "nome": "Luís Campos Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "133",
+        "nome": "Rui Gomes da Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1619",
+        "nome": "Feliciano Barreiras Duarte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2067",
+        "nome": "Miguel Queiroz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1621",
+        "nome": "Maria Ofélia Moleiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2071",
+        "nome": "Miguel Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1887",
+        "nome": "Ribeiro Cristóvão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3",
+        "nome": "Adão Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1410",
+        "nome": "Vasco Cunha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2126",
+        "nome": "Zita Seabra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2160",
+        "nome": "Nuno da Câmara Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "51",
+        "nome": "Fernando Antunes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2114",
+        "nome": "Emídio Guerreiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1238",
+        "nome": "Sérgio Vieira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1686",
+        "nome": "Pedro Duarte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "20",
+        "nome": "Paulo Pereira Coelho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2158",
+        "nome": "Pedro Quartin Graça"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2122",
+        "nome": "Olímpia Candeias"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1641",
+        "nome": "Henrique Rocha de Freitas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "629",
+        "nome": "Pedro Pinto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2072",
+        "nome": "Ana Zita Gomes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1825",
+        "nome": "Luís Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1612",
+        "nome": "Ana Manso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1927",
+        "nome": "José Pereira da Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2064",
+        "nome": "Jorge Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2016",
+        "nome": "Carlos Andrade Miranda"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1826",
+        "nome": "Joaquim Ponte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "122",
+        "nome": "Melchior Moreira"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Inquérito Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "33759",
+    "IniLeg": "X",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3249794d5441345a4751794c57566b4e6d55744e4755775a6931684d474d344c545178597a4a694f5449315a4759344e43356b62324d3d&fich=b2108dd2-ed6e-4e0f-a0c8-41c2b925df84.doc&Inline=true",
+    "IniNr": "7",
+    "IniObs": "Despacho do PAR n.º 183/X - De constituição da Comissão Eventual de Inquérito: DAR II S E n.º 18, de 2008-03-12; Despacho do PAR n.º 186/X - Composição da comissão: DAR II S E n.º 19, de 2008-03-20; Regulamento da Comissão: DAR II S C 26, de 2008-04-19; Pedido de prorrogação do período de funcionamento: DAR II S B 136, de 2008-07-06; Relatório final da Comissão e anexos: DAR II S C n.º 52, de 2008-09-12; DAR I série 1, de 2008-09-18\n",
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "I",
+    "IniTitulo": "Comissão Eventual de Inquérito Parlamentar ao exercício da supervisão dos sistemas bancário, segurador e de mercado de capitais.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
