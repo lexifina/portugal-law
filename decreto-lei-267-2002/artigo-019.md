@@ -10,10 +10,16 @@
 
 4 - Os certificados são válidos por cinco anos, devendo ser renovados obrigatoriamente até 30 dias antes do seu termo.
 
-5 - Para efeitos deste artigo, são consideradas certificadas, para a realização de inspecções, as entidades acreditadas no âmbito do Sistema Português da Qualidade, nos termos de portaria conjunta dos membros do Governo que tutelam as matérias em presença.
+5 - Para efeitos do presente artigo, consideram-se habilitadas para a realização das inspecções periódicas as entidades inspectoras de instalações de combustíveis derivados do petróleo (EIC) reconhecidas pela DGEG e acreditadas no âmbito do Sistema Português da Qualidade, nos termos do presente decreto-lei e do respectivo estatuto aprovado por portaria conjunta dos membros do Governo competentes em razão da matéria.
 
-6 - A não apresentação do certificado de inspecção referido nos números anteriores constitui motivo para o encerramento temporário da instalação, até à apresentação do mesmo.
+6 - As EIC podem colaborar com as entidades licenciadoras, nas modalidades que forem entre elas acordadas, em actividades relacionadas com a apreciação de projectos, vistorias e inspecções das instalações.
 
-7 - Enquanto o Sistema Português da Qualidade não der satisfação ao disposto no n.º 5 acima, as entidades licenciadoras assumem as inspecções quinquenais previstas neste artigo.
+7 - As EIC estão sujeitas a incompatibilidades, segredo profissional, prestação de informação às entidades competentes, manutenção de arquivo de documentação da actividade e de seguro de responsabilidade civil, devendo estas obrigações constar do respectivo estatuto.
 
-8 - O disposto neste artigo não prejudica a realização de outros procedimentos previstos em legislação específica.
+8 - No caso das instalações abrangidas pelos anexos i e ii, a realização das inspecções periódicas é exercida pelas respectivas entidades licenciadoras.
+
+9 - Nas restantes instalações, as inspecções periódicas também podem ser realizadas pelas respectivas entidades licenciadoras, no caso de não ser possível a sua realização pelas entidades referidas no n.º 5.
+
+10 - A não apresentação do certificado de inspecção referido nos números anteriores constitui motivo para o encerramento temporário da instalação, até à apresentação do mesmo.
+
+11 - O disposto neste artigo não prejudica a realização de outros procedimentos previstos em legislação específica.

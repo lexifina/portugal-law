@@ -10,6 +10,10 @@ b) O impedimento ou obstrução, pelo titular da licença ou por quem actue sob 
 
 c) O não cumprimento da obrigação de informação prevista no n.º 1 do artigo 30.º
 
+d) A realização de inspecções por entidades que não se encontram nas condições previstas no n.º 5 do artigo 19.º;
+
+e) O não cumprimento das obrigações previstas no n.º 7 do artigo 19.º
+
 2 - A negligência e a tentativa são puníveis.
 
 3 - Em função da gravidade da infracção e da culpa do infractor, podem ser aplicadas as sanções acessórias previstas no n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 244/95, de 14 de Setembro.
