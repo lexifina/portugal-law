@@ -1,0 +1,5 @@
+# Artigo 4.º
+
+### Entrada em vigor
+
+A presente portaria entra em vigor no dia 1 de Março de 2008.
