@@ -1,0 +1,20 @@
+Portaria n.º 105/2008
+de 5 de Fevereiro
+O Decreto-Lei n.º 106/87, de 6 de Março, veio estabelecer o princípio de que o direito à utilização gratuita dos transportes públicos pelo pessoal que, pelo respectivo estatuto ou diploma legal, a ele tenha direito, não pode traduzir-se numa imposição, sem contrapartida pecuniária, para as empresas transportadoras públicas ou privadas.
+Nesse sentido, aquele diploma determinou que a obrigatoriedade de prestação de transporte gratuito ao pessoal pertencente a determinadas entidades, decorrente de quaisquer diplomas legais, depende da apresentação pelos beneficiários de documento apropriado que possibilite a contabilização, por parte das empresas transportadoras, dos encargos daí decorrentes.
+Na sequência do Decreto-Lei n.º 106/87, de 6 de Março, a Portaria n.º 719/88, de 28 de Outubro, regulamentou as características e condições de emissão do documento que permite a utilização de transporte gratuito.
+A Portaria n.º 807-A/88, de 16 de Dezembro, no entanto, veio suspender, quanto às magistraturas judicial e do Ministério Público, aos oficiais de justiça e aos funcionários da Polícia Judiciária, da Direcção-Geral dos Serviços Prisionais e do Instituto de Reinserção Social, a aplicação do regime consagrado na Portaria n.º 719/88, de 28 de Outubro, pelo facto de as especialidades das funções em causa não se coadunarem com o regime aí consagrado.
+A Portaria n.º 588/93, de 12 de Junho, todavia, ao aditar dispositivos regulamentares à Portaria n.º 719/88, de 28 de Outubro, veio permitir a celebração de protocolos entre os serviços e as empresas transportadoras com o objectivo de garantir o livre acesso ao transporte dos beneficiários que se identifiquem como tal, nos termos constantes do acordo.
+Com a possibilidade de celebração de acordos entre os serviços e as empresas para transporte de beneficiários devidamente identificados e o aparecimento de novas formas de bilhética, designadamente nas áreas metropolitanas, deixaram de existir as razões que estiveram na origem da suspensão da aplicação da Portaria n.º 719/88, de 28 de Outubro, ao Ministério da Justiça.
+Aliás, há já um serviço do Ministério da Justiça a aplicar parcialmente a Portaria n.º 719/88, de 28 de Outubro, na redacção dada pela Portaria n.º 588/93, de 12 de Junho. Com efeito, a Portaria n.º 201/97, de 24 de Março, tornou extensível a aplicação do disposto nos artigos 13.º a 17.º da Portaria n.º 719/88, de 28 de Outubro, na redacção dada pela Portaria n.º 588/93, de 12 de Junho, ao pessoal da Direcção-Geral dos Serviços Prisionais que, pelo seu estatuto, beneficie de transporte gratuito.
+Pelo presente diploma pretende-se que o regime constante da Portaria n.º 719/88, de 28 de Outubro, na redacção dada pela Portaria n.º 588/93, de 12 de Junho, seja aplicável de forma generalizada às magistraturas judicial e do Ministério Público e a todo o pessoal dos serviços do Ministério da Justiça que, pelo respectivo estatuto ou Lei Orgânica, beneficiem de transporte gratuito.
+Para esta aplicação plena e uniforme de tal regime, torna-se necessário, por um lado, pôr termo ao regime suspensivo estabelecido pela Portaria n.º 807-A/88, de 16 de Dezembro, revogando esta expressamente. Por outro lado, proceder à revogação da Portaria n.º 201/97, de 24 de Março, que o apenas fazia aplicar, e parcialmente, à Direcção-Geral dos Serviços Prisionais.
+Assim:
+Manda o Governo, pelos Ministros da Justiça e das Obras Públicas, Transportes e Comunicações, ao abrigo do disposto no artigo 1.º do Decreto-Lei n.º 106/87, de 6 de Março, o seguinte:
+Artigo 1.º
+Revogação
+São revogadas as Portarias n.os 807-A/88, de 16 de Dezembro, e 201/97, de 24 de Março.
+Artigo 2.º
+Entrada em vigor
+A presente portaria entra em vigor a 1 de Março de 2008.
+Pelo Ministro da Justiça, José Manuel Vieira Conde Rodrigues, Secretário de Estado Adjunto e da Justiça, em 24 de Janeiro de 2008. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Ana Paula Mendes Vitorino, Secretária de Estado dos Transportes, em 30 de Janeiro de 2008.
