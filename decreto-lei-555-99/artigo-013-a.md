@@ -1,35 +1,23 @@
 # Artigo 13.º-A
 
-### Parecer, aprovação ou autorização em razão da localização
+### Parecer, aprovação ou autorização de localização
 
-1 - A consulta de entidades da administração central, direta ou indireta, do setor empresarial do Estado, bem como de entidades concessionárias que exerçam poderes de autoridade, que se devam pronunciar sobre a operação urbanística em razão da localização, deve ser promovida pelo gestor do procedimento, que deve comunicar o pedido à CCDR territorialmente competente, com a identificação das entidades a consultar, logo que se conclua pela correta instrução do pedido na fase de saneamento e apreciação liminar e, em qualquer caso, até ao termo do prazo de 20 dias mencionado no n.º 2 do artigo 11.º
+1 - A consulta de entidades da administração central, directa ou indirecta, que se devam pronunciar sobre a operação urbanística em razão da localização é efectuada através de uma única entidade coordenadora, a CCDR territorialmente competente, a qual emite uma decisão global e vinculativa de toda a administração central.
 
 2 - A CCDR identifica, no prazo de cinco dias a contar da recepção dos elementos através do sistema previsto no artigo 8.º-A, as entidades que nos termos da lei devam emitir parecer, aprovação ou autorização de localização, promovendo dentro daquele prazo a respectiva consulta, a efectivar em simultâneo e com recurso ao referido sistema informático.
 
-3 - [Revogado.]
+3 - As entidades consultadas devem pronunciar-se no prazo de 20 dias ou de 40 dias tratando-se de obra relativa a imóvel de interesse nacional ou de interesse público, sem possibilidade de suspensão do procedimento.
 
-4 - (Revogado.)
+4 - Caso não existam posições divergentes entre as entidades consultadas, a CCDR toma a decisão final no prazo de cinco dias a contar do fim do prazo previsto no número anterior.
 
-5 - (Revogado.)
+5 - Caso existam posições divergentes entre as entidades consultadas, a CCDR promove uma conferência decisória e toma decisão final favorável, favorável condicionada ou desfavorável no prazo de 20 dias.
 
-6 - Caso não existam posições divergentes entre as entidades consultadas, a CCDR toma uma decisão final global e vinculativa de toda a administração no prazo de cinco dias a contar do fim do prazo previsto no n.º 5 do artigo anterior.
+6 - Na conferência decisória referida no número anterior as entidades consultadas são representadas por pessoas com poderes para as vincular.
 
-7 - Caso existam posições divergentes das entidades consultadas, a CCDR promove uma reunião com todas as entidades e com o requerente, preferencialmente por videoconferência, a realizar no prazo de 10 dias a contar do último parecer recebido dentro do prazo previsto no n.º 5 do artigo anterior, tendo em vista obter uma solução concertada que permita ultrapassar as objeções formuladas, e toma a decisão final vinculativa mencionada no número anterior no prazo de 5 dias a contar da data da realização da referida reunião.
+7 - Não sendo possível obter a posição de todas as entidades, por motivo de falta de comparência de algum representante ou por ter sido submetida a apreciação alguma questão nova, os trabalhos da conferência podem ser suspensos por um período máximo de cinco dias.
 
-8 - Para efeitos da realização da conferência decisória referida no número anterior, a designação dos representantes das entidades participantes incorpora a delegação ou subdelegação dos poderes necessários à vinculação das mesmas.
+8 - Quando a CCDR não adopte posição favorável a uma operação urbanística por esta ser desconforme com instrumento de gestão territorial, pode a CCDR, quando a operação se revista de especial relevância regional ou local, por sua iniciativa ou a solicitação do município, respectivamente, propor ao Governo a aprovação em resolução do Conselho de Ministros da alteração, suspensão ou ratificação, total ou parcial, de plano da sua competência relativamente ao qual a desconformidade se verifica.
 
-9 - Não sendo possível obter a posição de todas as entidades, por motivo de falta de comparência de algum representante ou por ter sido submetida a apreciação alguma questão nova, os trabalhos da conferência podem ser suspensos por um período máximo de cinco dias.
+9 - Quando a decisão seja proferida em conferência decisória, os pareceres emitidos têm natureza não vinculativa, independentemente da sua classificação em legislação especial.
 
-10 - [Revogado.]
-
-11 - Quando a decisão seja proferida em conferência decisória, os pareceres emitidos têm natureza não vinculativa, independentemente da sua classificação em legislação especial.
-
-12 - O procedimento de decisão da administração central previsto nos números anteriores é objecto de portaria dos membros do Governo responsáveis pelo ordenamento do território e pela administração local.
-
-13 - A CCDR comunica ao município a decisão da conferência decisória no prazo de cinco dias após a sua realização.
-
-14 - Caso a CCDR não cumpra o prazo previsto no número anterior, considera-se que as consultas tiveram um sentido favorável.
-
-15 - Nos casos de comunicação prévia, os pareceres, autorizações ou aprovações que devam ser emitidos, em razão da localização, devem ser apresentados com a mesma, salvo se a entidade consultada não se pronunciar no prazo previsto para o efeito, caso em que a comunicação prévia deve ser instruída com prova da solicitação das consultas e declaração do comunicante de que os mesmos não foram emitidos dentro daquele prazo.
-
-16 - Sem prejuízo do disposto no n.º 1, nos casos de procedimentos de licenciamento e de informação prévia, pode ainda o interessado entregar junto do requerimento inicial, facultativamente, os pareceres, autorizações ou aprovações que devam ser emitidos em função da localização da operação urbanística, mediante solicitação prévia e direta junto das entidades competentes, caso em que não há lugar a nova consulta, desde que na data de entrega não haja decorrido mais de dois anos desde a sua emissão ou desde que, caso tenha sido esgotado esse prazo, não se tenham verificado alterações dos pressupostos de facto ou de direito em que os mesmos se basearam.
+10 - O procedimento de decisão da administração central previsto nos números anteriores é objecto de portaria dos membros do Governo responsáveis pelo ordenamento do território e pela administração local.

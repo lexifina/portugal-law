@@ -1,6 +1,6 @@
 ## Secção III
 
-## Condições especiais de licenciamento ou autorização
+## Condições especiais de licenciamento ou comunicação prévia
 
 ## Subsecção I
 

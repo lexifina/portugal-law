@@ -2,4 +2,4 @@
 
 ### Regime das notificações e comunicações
 
-Todas as notificações e comunicações referidas neste diploma e dirigidas aos requerentes devem ser feitas por carta registada, caso não seja viável a notificação pessoal.
+As notificações e comunicações referidas neste diploma e dirigidas aos requerentes devem ser efectuadas através de correio electrónico ou de outro meio de transmissão electrónica de dados, salvo quando esta não for possível ou se mostrar inadequada.

@@ -2,7 +2,7 @@
 
 ### Vistoria prévia
 
-1 - As deliberações referidas nos n.os 2 e 3 do artigo anterior são precedidas de vistoria a realizar por três técnicos a nomear pela câmara municipal.
+1 - As deliberações referidas nos n.ºs 2 e 3 do artigo 89.º são precedidas de vistoria a realizar por três técnicos a nomear pela câmara municipal, dois dos quais com habilitação legal para ser autor de projecto, correspondentes à obra objecto de vistoria, segundo o regime da qualificação profissional dos técnicos responsáveis pela elaboração e subscrição de projectos.
 
 2 - Do acto que determinar a realização da vistoria e respectivos fundamentos é notificado o proprietário do imóvel, mediante carta registada expedida com, pelo menos, sete dias de antecedência.
 

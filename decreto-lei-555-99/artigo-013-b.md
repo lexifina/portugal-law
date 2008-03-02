@@ -1,13 +1,13 @@
 # Artigo 13.º-B
 
-### Parecer, aprovação ou autorização que não respeite a aspetos relacionados com a localização
+### Consultas prévias
 
-1 - Os pareceres, autorizações ou aprovações a emitir por entidades externas ao município que não respeitem a aspetos relacionados com a localização devem ser solicitados previamente pelo interessado.
+1 - O interessado na consulta a entidades externas pode solicitar previamente os pareceres, autorizações ou aprovações legalmente exigidos junto das entidades competentes, entregando-os com o requerimento inicial ou com a comunicação prévia, caso em que não há lugar a nova consulta desde que, até à data da apresentação de tal pedido ou comunicação na câmara municipal, não haja decorrido mais de um ano desde a emissão dos pareceres, autorizações ou aprovações emitidos ou desde que, caso tenha sido esgotado este prazo, não se tenham verificado alterações dos pressupostos de facto ou de direito em que os mesmos se basearam.
 
-2 - Para efeitos do disposto no número anterior, os pareceres nele mencionados devem ser obrigatoriamente entregues com o requerimento inicial ou com a comunicação prévia, consoante o caso.
+2 - Para os efeitos do número anterior, caso qualquer das entidades consultadas não se haja pronunciado dentro do prazo, o requerimento inicial ou a comunicação prévia podem ser instruídos com prova da solicitação das consultas e declaração do requerente ou comunicante de que os mesmos não foram emitidos dentro daquele prazo.
 
-3 - Na falta de pronúncia da entidade consultada nos termos previstos no n.º 1, o requerente ou comunicante devem apresentar prova da solicitação das consultas e declaração de que os pareceres não foram emitidos dentro do prazo legalmente previsto.
+3 - Não tendo o interessado promovido todas as consultas necessárias, o gestor do procedimento promove as consultas a que haja lugar ou, quando aplicável, comunica o pedido à CCDR, no prazo de cinco dias a contar da data do requerimento ou da data da entrega dos elementos solicitados nos termos do n.º 3 do artigo 11.º
 
-4 - Os pareceres, autorizações ou aprovações que sejam juntos ao processo pelo interessado devem ser acompanhados de uma cópia dos elementos entregues à entidade consultada.
+4 - No termo do prazo fixado para a promoção das consultas, o interessado pode solicitar a passagem de certidão dessa promoção, a qual será emitida pela câmara municipal ou pela CCDR no prazo de oito dias.
 
-5 - A utilização da plataforma eletrónica referida no n.º 1 do artigo 8.º-A pelo interessado para os efeitos previstos no n.º 1 faz-se em termos a regulamentar na portaria a que se refere o mesmo número.
+5 - Se a certidão for negativa, o interessado pode promover directamente as consultas que não hajam sido realizadas ou pedir ao tribunal administrativo que intime a câmara municipal ou a CCDR a fazê-lo, nos termos do artigo 112.º do presente diploma.

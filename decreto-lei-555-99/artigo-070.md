@@ -2,7 +2,7 @@
 
 ### Responsabilidade civil da Administração
 
-1 - O município responde civilmente pelos prejuízos causados em caso de revogação, anulação ou declaração de nulidade de licenças ou autorizações sempre que a causa da revogação, anulação ou declaração de nulidade resulte de uma conduta ilícita dos titulares dos seus órgãos ou dos seus funcionários e agentes.
+1 - O município responde civilmente pelos prejuízos causados em caso de revogação, anulação ou declaração de licenças, comunicações prévias ou autorização de utilização ou autorizações de utilização sempre que a causa da revogação, anulação ou declaração de nulidade resulte de uma conduta ilícita dos titulares dos seus órgãos ou dos seus funcionários e agentes.
 
 2 - Os titulares dos órgãos do município e os seus funcionários e agentes respondem solidariamente com aquele quando tenham dolosamente dado causa à ilegalidade que fundamenta a revogação, anulação ou declaração de nulidade.
 

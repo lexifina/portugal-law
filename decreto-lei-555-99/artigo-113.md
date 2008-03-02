@@ -2,7 +2,7 @@
 
 ### Deferimento tácito
 
-1 - Nas situações referidas na alínea b) do artigo 111.º e no n.º 9 do artigo anterior, o interessado pode iniciar e prosseguir a execução dos trabalhos de acordo com o requerimento apresentado nos termos do n.º 4 do artigo 9.º, ou dar de imediato utilização à obra.
+1 - Nas situações referidas no n.º 9 do artigo anterior, o interessado pode iniciar e prosseguir a execução dos trabalhos de acordo com o requerimento apresentado nos termos do n.º 4 do artigo 9.º ou dar de imediato utilização à obra.
 
 2 - O início dos trabalhos ou da utilização depende do prévio pagamento das taxas que se mostrem devidas nos termos do presente diploma.
 
@@ -16,4 +16,4 @@
 
 7 - A certidão da sentença transitada em julgado que haja intimado à emissão do alvará de licença ou autorização de utilização substitui, para todos os efeitos legais, o alvará não emitido.
 
-8 - Nas situações referidas no presente artigo, a obra não pode ser embargada por qualquer autoridade administrativa com fundamento na falta de licença ou autorização.
+8 - Nas situações referidas no presente artigo, a obra não pode ser embargada por qualquer autoridade administrativa com fundamento na falta de licença.

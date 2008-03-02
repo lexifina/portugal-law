@@ -2,9 +2,9 @@
 
 ### Nulidades
 
-São nulas as licenças ou autorizações previstas no presente diploma que:
+São nulas as licenças, a admissão de comunicações prévias ou as autorizações de utilização previstas no presente diploma que:
 
-a) Violem o disposto em plano municipal de ordenamento do território, plano especial de ordenamento do território, medidas preventivas ou licença ou autorização de loteamento em vigor;
+a) Violem o disposto em plano municipal de ordenamento do território, plano especial de ordenamento do território, medidas preventivas ou licença de loteamento em vigor;
 
 b) Violem o disposto no n.º 2 do artigo 37.º
 

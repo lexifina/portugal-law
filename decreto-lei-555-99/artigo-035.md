@@ -2,6 +2,8 @@
 
 ### Comunicação à câmara municipal
 
-1 - As obras referidas no artigo anterior podem realizar-se decorrido o prazo de 30 dias sobre a apresentação de comunicação prévia dirigida ao presidente da câmara municipal.
+1 - A comunicação prévia é dirigida ao presidente da câmara municipal, acompanhada pelos elementos instrutórios fixados pela portaria a que se refere o n.º 4 do artigo 9.º, de termo de responsabilidade nos termos do artigo 10.º e das especificações a que se refere o n.º 1 do artigo 77.º, com os efeitos previstos no seu n.º 3.
 
-2 - A comunicação prévia deve conter a identificação do interessado e é acompanhada das peças escritas e desenhadas indispensáveis à identificação das obras ou trabalhos a realizar e da respectiva localização, assinadas por técnico legalmente habilitado e acompanhadas do termo de responsabilidade a que se refere o artigo 10.º
+2 - As operações urbanísticas realizadas ao abrigo de comunicação prévia devem observar as normas legais e regulamentares que lhes forem aplicáveis, designadamente as constantes de instrumento de gestão territorial e as normas técnicas de construção.
+
+3 - A comunicação prévia é acompanhada pelos elementos instrutórios fixados pela portaria a que se refere o n.º 4 do artigo 9.º, de termo de responsabilidade nos termos do artigo 10.º e das especificações a que se refere o artigo 77.º

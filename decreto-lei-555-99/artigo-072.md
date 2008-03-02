@@ -2,8 +2,8 @@
 
 ### Renovação
 
-1 - O titular da licença ou autorização que haja caducado pode requerer nova licença ou autorização.
+1 - O titular de licença ou comunicação prévia que haja caducado pode requerer nova licença ou apresentar nova comunicação prévia.
 
-2 - No caso referido no número anterior, poderão ser utilizados no novo processo os pareceres, autorizações e aprovações que instruíram o processo anterior, desde que o novo requerimento seja apresentado no prazo de 18 meses a contar da data da caducidade da licença ou autorização anterior e os mesmos sejam confirmados pelas entidades que os emitiram.
+2 - No caso referido no número anterior, serão utilizados no novo processo os elementos que instruíram o processo anterior desde que o novo requerimento seja apresentado no prazo de 18 meses a contar da data da caducidade ou, se este prazo estiver esgotado, não existirem alterações de facto e de direito que justifiquem nova apresentação.
 
-3 - Os pedidos das confirmações previstas no número anterior devem ser decididos no prazo de 15 dias a contar da data em que sejam solicitados, considerando-se confirmados tais pareceres, autorizações ou aprovações se a entidade competente não se pronunciar dentro deste prazo.
+3 - (Revogado.)

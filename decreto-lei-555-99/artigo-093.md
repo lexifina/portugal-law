@@ -10,6 +10,6 @@
 
 ### Âmbito
 
-1 - A realização de quaisquer operações urbanísticas está sujeita a fiscalização administrativa, independentemente da sua sujeição a prévio licenciamento ou autorização.
+1 - A realização de quaisquer operações urbanísticas está sujeita a fiscalização administrativa, independentemente da sua sujeição a prévio licenciamento, admissão de comunicação prévia, autorização de utilização ou isenção de controlo prévio.
 
 2 - A fiscalização administrativa destina-se a assegurar a conformidade daquelas operações com as disposições legais e regulamentares aplicáveis e a prevenir os perigos que da sua realização possam resultar para a saúde e segurança das pessoas.

@@ -6,6 +6,6 @@ Decorridos os prazos fixados para a prática de qualquer acto especialmente regu
 
 a) Tratando-se de acto que devesse ser praticado por qualquer órgão municipal no âmbito do procedimento de licenciamento, o interessado pode recorrer ao processo regulado no artigo 112.º;
 
-b) Tratando-se de acto que devesse ser praticado no âmbito do procedimento de autorização, considera-se tacitamente deferida a pretensão formulada, com as consequências referidas no artigo 113.º;
+b) (Revogada.)
 
 c) Tratando-se de qualquer outro acto, considera-se tacitamente deferida a pretensão, com as consequências gerais.

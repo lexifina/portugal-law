@@ -2,7 +2,7 @@
 
 ### Demolição, escavação e contenção periférica
 
-1 - Quando o procedimento de licenciamento ou autorização haja sido precedido de informação prévia favorável que vincule a câmara municipal, emitida nos termos do disposto no n.º 2 do artigo 14.º, pode o presidente da câmara municipal, a pedido do interessado, permitir a execução de trabalhos de demolição ou de escavação e contenção periférica até à profundidade do piso de menor cota, logo após o saneamento referido no artigo 11.º, desde que seja prestada caução para reposição do terreno nas condições em que se encontrava antes do início dos trabalhos.
+1 - Quando o procedimento de licenciamento haja sido precedido de informação prévia favorável que vincule a câmara municipal, pode o presidente da câmara municipal, a pedido do interessado, permitir a execução de trabalhos de demolição ou de escavação e contenção periférica até à profundidade do piso de menor cota, logo após o saneamento referido no artigo 11.º, desde que seja prestada caução para reposição do terreno nas condições em que se encontrava antes do início dos trabalhos.
 
 2 - Nas obras sujeitas a licença nos termos do presente diploma, a decisão referida no número anterior pode ser proferida em qualquer momento após a aprovação do projecto de arquitectura.
 
