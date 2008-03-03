@@ -4,20 +4,14 @@
 
 # Artigo 20.º
 
-### Turismo de natureza
+### Pedido de reconhecimento
 
-1 - O reconhecimento de atividades de animação turística como turismo de natureza nos casos de micro, pequenas ou médias empresas, sem prejuízo do disposto no n.º 6, e de prestadores não estabelecidos em território nacional, a operar nos termos previstos no artigo 29.º, depende de mera comunicação prévia, nos termos previstos no artigo 11.º, instruída com a declaração de adesão formal ao código de conduta das empresas que exercem atividades de animação turística reconhecidas como turismo de natureza.
+1 - As empresas de animação turística, os operadores marítimo-turísticos e as agências de viagens autorizadas a exercer actividades de animação turística nos termos previstos no artigo 53.º-A do Decreto-Lei n.º 209/97, de 13 de Agosto, alterado pelo Decreto-Lei n.º 263/2007, de 20 de Julho, que pretendam obter o reconhecimento das suas actividades como turismo de natureza devem apresentar o respectivo processo instruído com os seguintes elementos:
 
-2 - O reconhecimento de atividades de animação turística como turismo de natureza nos casos não abrangidos pelo disposto no número anterior, sem prejuízo do disposto no n.º 6, depende de comunicação prévia com prazo, nos termos previstos no artigo 13.º, instruída com os seguintes elementos:
+a) Lista das actividades disponibilizadas pela empresa;
 
-a) Declaração de adesão formal ao código de conduta referido no n.º 1;
+b) Declaração de adesão formal a um código de conduta das empresas de turismo de natureza, a aprovar por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e do turismo;
 
-b) Projeto de conservação da natureza.
+c) Projecto de conservação da natureza, quando aplicável.
 
-3 - Consideram-se micro, pequenas e médias empresas as empresas certificadas como tal de acordo com o Decreto-Lei n.º 372/2007, de 6 de novembro, alterado pelo Decreto-Lei n.º 143/2009, de 16 de junho.
-
-4 - O reconhecimento de atividades como turismo de natureza compete ao ICNF, I. P., nos termos definidos por portaria dos membros do Governo responsáveis pelas áreas da conservação da natureza e do turismo.
-
-5 - A portaria referida no número anterior aprova o código de conduta previsto no n.º 1 e na alínea a) do n.º 2, determina os critérios a que deve obedecer o projeto de conservação referido na alínea b) do n.º 2, estabelece as condições de validade do reconhecimento como turismo de natureza e aprova o respetivo logótipo.
-
-6 - As empresas proprietárias ou exploradoras de empreendimentos turísticos reconhecidos como turismo de natureza que exerçam atividades próprias de animação turística, nos termos previstos no n.º 3 do artigo 5.º, usufruem do reconhecimento destas atividades como turismo de natureza por mera comunicação prévia da qual conste a sua identificação como proprietária ou exploradora de empreendimento de turismo de natureza devidamente reconhecido.
+2 - O projecto de conservação de natureza a que se refere a alínea c) do número anterior é opcional para empresas de animação turística ou operadores marítimo-turísticos que sejam certificados como microempresas, de acordo com o previsto no Decreto-Lei n.º 372/2007, de 6 de Novembro.
