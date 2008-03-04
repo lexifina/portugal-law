@@ -1,0 +1,6 @@
+Aviso n.º 6159/2008
+Aditamento aos termos de referência do Plano de Pormenor para a Reestruturação Urbanística do Terreno do Hotel Miramar
+António d'Orey Capucho, Presidente da Câmara Municipal de Cascais, faz público que, no seguimento da deliberação da Câmara Municipal de Cascais de 11.02.2008, a que se refere a proposta n.º 170/08, foi aprovado o aditamento aos Termos de Referência do Plano de Pormenor para a Reestruturação Urbanística do Terreno do Hotel Miramar.
+Dando cumprimento ao estipulado nos n.os 1 e 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 310/03, de 10 de Dezembro, Lei n.º 56/2007, de 31 de Agosto e Decreto-Lei n.º 316/2007, 19 de Setembro, encontra-se aberto um período de 15 dias após a data da publicação deste Aviso no Diário da República, para formulação de sugestões ou obtenção de informações.
+Nesse sentido, os eventuais interessados poderão consultar a proposta de Plano no Departamento de Planeamento Estratégico, sito no Edifício Tardoz dos Paços do Concelho, no Largo 5 de Outubro, em Cascais, todos os dias úteis, das 9:00h às 13:00h e das 14:00h às 16:00h.
+14 de Fevereiro de 2008. - O Presidente da Câmara, António d'Orey Capucho.
