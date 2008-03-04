@@ -1,0 +1,29 @@
+Regulamento (extracto) n.º 106/2008
+Por reunião do conselho científico de 7 de Dezembro 2007, foram aprovadas as alterações ao Regulamento Pedagógico da Escola Superior de Tecnológica, n.º 254-D/2007, publicado no Diário da República em 27 de Setembro de 2007.
+Cap. 4 - Regimes especiais de estudos
+[...]
+4.7 - Regime Especial para bombeiros
+Introdução
+O Decreto-Lei n.º 241/2007 de 21 de Junho define as regras de exercício da função de bombeiro, estabelecendo um conjunto de deveres e direitos, alguns dos quais aplicáveis no âmbito do ensino superior.
+Neste regulamento pretende-se incorporar as normas para o exercício das regalias previstas no artigo 6º daquele Decreto-Lei.
+Aplicação do estatuto do bombeiro
+4.7 - 1 - Para efeitos da aplicação do presente estatuto, consideram-se bombeiros os alunos que sejam abrangidos pelo disposto na alínea a) do artigo 2º do Decreto-Lei n.º 241/2007 de 21 de Junho.
+4.7 - 2 O exercício dos direitos consagrados ao bombeiro depende da prévia comprovação dessa qualidade, junto dos Serviços Académicos da ESTV, anualmente, através de documento emitido pela "Entidade detentora do Corpo de Bombeiros", tal como é definida na alínea c) do artigo 2º daquele Decreto-Lei.
+4.7 - 3 O não cumprimento do preceituado no número anterior tem como consequência, a não aplicação do estatuto de bombeiro.
+4.7 - 4 Sempre que relativamente à aplicação do estatuto de bombeiro, se verifiquem alterações que impliquem a perda dessa condição, compete ao aluno comunicar esse facto aos Serviços Académicos da ESTV no prazo máximo de 15 dias úteis após a sua verificação.
+4.7 - 5 No caso de não cumprimento do disposto no número anterior, serão anulados todos os efeitos dos direitos eventualmente exercidos, ao abrigo do estatuto de bombeiro, após a data da ocorrência das alterações referidas.
+Frequência de aulas e provas de avaliação
+4.7 - 6 - O exercício dos direitos a que se refere o número 1 do artigo 6º do Decreto-Lei n.º 241/2007 de 21 de Junho, obedece às regras seguintes:
+a) Apresentação, ao Conselho Directivo da ESTV, do requerimento do comandante do corpo de bombeiros, no prazo máximo de 5 dias após a ocorrência da actividade que justifica o exercício daquele direito;
+b) O Conselho Directivo da ESTV decidirá acerca da validade dos fundamentos invocados no documento a que se refere a alínea anterior, no prazo máximo de 5 dias, contados a partir da entrega da referida declaração;
+c) O Conselho Directivo da ESTV dará conhecimento da decisão ao aluno e à direcção do departamento responsável pela unidade curricular em causa, a fim de relevar eventuais faltas, adiar apresentação de trabalhos ou realizar testes escritos em data a combinar com o docente.
+4.7 - 7 - O exercício do direito a que se refere o número 2 do artigo 6º do Decreto-Lei n.º 241/2007 de 21 de Junho, obedece às regras seguintes:
+a) Para além das épocas de avaliação que este regulamento permite, o aluno, na qualidade de bombeiro, pode requerer, em cada ano lectivo, até ao máximo de cinco provas de exame final, com o limite de dois exames por cada unidade curricular, e uma prova de exame final às unidades curriculares a cuja avaliação, nos termos em que é definido no calendário escolar, não tenha podido comparecer, comprovadamente por motivo de cumprimento da actividade operacional, e na observância do preceituado em 2.1.6;
+b) O exame ao abrigo do estatuto de bombeiro é requerido, por escrito, nos Serviços Académicos da ESTV, até ao dia 5 do mês em que o aluno pretende realizá-lo, salvo o disposto na alínea g) deste número, havendo lugar ao pagamento de emolumentos;
+c) Os Serviços Académicos, nos três dias úteis imediatos ao final do período de requerimentos, referido na alínea anterior, averiguarão se o aluno preenche os requisitos necessários e informarão, no caso de esse preenchimento se verificar, o director do curso a que a unidade curricular em causa respeita e o docente responsável da unidade curricular [em ambos os casos através de cópia do requerimento referido em a)];
+d) Até ao dia 18 do mês em causa, o departamento, ouvido o docente da unidade curricular, fixará a data para a realização do exame e comunicará essa informação aos Serviços Académicos da ESTV, que a publicitarão no prazo máximo de dois dias úteis após a respectiva recepção;
+e) O exame deverá realizar-se no período correspondente aos cinco últimos dias úteis do mês em causa. No entanto e quando tal não for possível, por razões entendidas como válidas pelo departamento, este fixará a realização do exame em questão para uma data o mais próxima possível do período referido;
+f) Os exames ao abrigo do estatuto do bombeiro podem ser requeridos para qualquer mês, com excepção do mês de Agosto e dos meses em que estejam previstas provas de avaliação para as unidades curriculares em causa, ao abrigo de outras épocas de avaliação, a que o aluno requerente tenha acesso. Sempre que possível, a marcação das datas para a realização de exames ao abrigo do estatuto do bombeiro deverá ser feita de forma a aproveitar os exames calendarizados ao abrigo de outros regimes;
+g) Para os meses abrangidos pelas épocas de recurso, época especial e época especial para alunos finalistas (em condições de conclusão do curso), o exame ao abrigo do estatuto de bombeiro é requerido, por escrito, nos Serviços Académicos da ESTV, no mesmo período em que decorre a inscrição para as provas para os alunos abrangidos por esses regimes;
+h) Se, porventura, algum dos períodos de avaliação referidos na alínea anterior (épocas de recurso, época especial e época especial para alunos finalistas) ocupar espaços de meses diferentes, considera-se que o exame ao abrigo do estatuto do bombeiro, é requerido para o mês em que se inicia o referido período de avaliação, independentemente do dia em que a prova em causa venha, efectivamente, a ser calendarizada.
+15 de Fevereiro de 2008. - A Vice-Presidente, Idalina de Jesus Domingos.
