@@ -1,0 +1,68 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "tipo": "Proposta de Resolução",
+  "numero": "70",
+  "id": "33763",
+  "fases": 11,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2008-03-04",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2008-09-14",
+    "DataInicioleg": "2007-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a426b5a5745304d446c694c5467775a546b744e44686d596930354f5759784c5441304f474578596a4d774e5749345a53356b62324d3d&fich=0dea409b-80e9-48fb-99f1-048a1b305b8e.doc&Inline=true",
+        "anexoNome": "Tratado Entre o Reino de Espanha, a República Francesa, a República Italiana, o Reino dos Países Baixos e a República Portuguesa, visando a criação da Força de Gendarmerie Europeia (EUROGENDFOR)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a49784d5449304d4467774c5452685a6d45744e4759794f433169596a517a4c5441334d3245775a6a417a5a5745315a53356b62324d3d&fich=21124080-4afa-4f28-bb43-073a0f03ea5e.doc&Inline=true",
+        "anexoNome": "Tratado entre el Reino de España, la República Francesa, la República Italiana, el Reino de los Países Bajos y la República Portuguesa por el que se crea la Fuerza de Gendarmería Europea (EUROGENDFOR)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a45355a6a67354f5755334c5745344d4759744e44426a595331684d5463784c54466c5a5451345a474d354f4445354d69356b62324d3d&fich=19f899e7-a80f-40ca-a171-1ee48dc98192.doc&Inline=true",
+        "anexoNome": "Traité entre le Royaume d¿Espagne, la République française, la République italienne, le Royaume des Pays-Bas et la République portugaise, portant création de la Force de Gendarmerie Européenne (EUROGENDFOR)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a566d4f575578595441774c5745314e5467744e4455304e4330345954646d4c5463344e4451344f5759325a4459775979356b62324d3d&fich=5f9e1a00-a558-4544-8a7f-784489f6d60c.doc&Inline=true",
+        "anexoNome": "Trattato Tra il Regno di Spagna, la Repubblica Francese, la Repubblica Italiana, il Regno dei Paesi Bassi e la Repubblica Portoghese, per l¿istituzione della Forza di Gendarmeria Europea (EUROGENDFOR)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324a6b4e5751795a54426d4c545a69593249744e44497a4e6930344e444a6d4c5756684f5449354d574a6c4d4449324e79356b62324d3d&fich=bd5d2e0f-6bcb-4236-842f-ea9291be0267.doc&Inline=true",
+        "anexoNome": "Verdrag tussen het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden en de Portugese Republiek tot oprichting van het Europees Gendarmeriekorps (EUROGENDFOR)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3251315a6a49325a4445314c545a6d4e6a55744e444268595330344d546b354c544d305932466c4e6a557959545a6b4e69356b62324d3d&fich=d5f26d15-6f65-40aa-8199-34cae652a6d6.doc&Inline=true",
+        "anexoNome": "Treaty Between the Kingdom of Spain, the French Republic, the Italian Republic, the Kingdom of The Netherlands and the Portuguese Republic, establishing the European Gendarmerie Force (EUROGENDFOR)"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "33763",
+    "IniLeg": "X",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a466b5a54566a4f5745314c5441774d4749744e4459344e693168597a59784c54646d4e47466d4f54426b596d4e6d5969356b62324d3d&fich=1de5c9a5-000b-4686-ac61-7f4af90dbcfb.doc&Inline=true",
+    "IniNr": "70",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova o Tratado entre o reino de Espanha, a República Francesa, a República Italiana, o Reino dos Países Baixos e a República Portuguesa visando a criação da Força de Gendarmerie Europeia (EUROGENDFOR), assinado em Velsen, na Holanda, a 18 de Outubro de 2007.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
