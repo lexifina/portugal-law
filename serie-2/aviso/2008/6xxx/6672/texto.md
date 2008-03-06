@@ -1,0 +1,7 @@
+Aviso n.º 6672/2008
+Plano de Urbanização da Herdade da Batalha
+Pedro Manuel Igrejas da Cunha Paredes, Presidente da Câmara Municipal de Alcácer do Sal:
+Torna público, nos termos e para os efeitos do n.º 2 do artigo 77.º do Decreto-Lei 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei 316/2007, de 19 de Setembro, que a Câmara Municipal, em reunião de 20/12/2007, determinou a elaboração do Plano de Urbanização necessário à concretização do empreendimento pretendido levar a efeito por António Xavier de Lima, na área designada por Herdade da Batalha, com recurso ao mecanismo de contratualização, previsto no n.º 5 do artigo 6-A, do referido diploma.
+A proposta de contrato e a deliberação que determinou a elaboração do Plano estarão disponíveis para consulta no edifício dos Serviços Técnicos da Câmara Municipal, na Secretaria da Divisão de Urbanismo, Equipamento e Habitação, no horário normal de expediente, ou seja, das 9 às 17 horas.
+Assim, no prazo de 10 dias úteis a contar da publicação do presente aviso, encontra-se o processo sujeito a audição pública, durante a qual os interessados poderão apresentar, por escrito, no prazo estipulado para o efeito, reclamações, observações, sugestões, em impresso próprio, a fornecer pelos Serviços da Divisão de Urbanismo, Equipamento e Habitação.
+21 de Fevereiro de 2008. - O Presidente da Câmara, Pedro Manuel Igrejas da Cunha Paredes.
