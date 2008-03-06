@@ -1,0 +1,16 @@
+Portaria n.º 225/2008
+de 6 de Março
+Pela Portaria n.º 1382/2001, de 7 de Dezembro, alterada pela Portaria n.º 334/2005, de 31 de Março, foi criada a zona de caça municipal de Gatões (processo n.º 2711-DGRF), situada no município de Miranda do Douro, com a área de 781 ha, e transferida a sua gestão para a Associação de Caçadores de Gatões.
+Considerando que a transferência de gestão não será renovada em virtude de não ter dado entrada o respectivo pedido de renovação de acordo com o estipulado no artigo 21.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, e que, nos termos da alínea c) do n.º 1 do artigo 22.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, tal facto acarreta a sua caducidade;
+Considerando que para terrenos abrangidos pela mencionada zona de caça foi requerida a concessão de uma zona de caça associativa a favor da mesma Associação;
+Considerando que, nos termos do n.º 7 do artigo 29.º da citada legislação, a extinção da zona de caça só produz efeitos com a publicação da respectiva portaria:
+Com fundamento no disposto na alínea a) do artigo 40.º, no n.º 7 do artigo 29.º e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, ouvido o Conselho Cinegético Municipal:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É extinta a zona de caça municipal de Gatões (processo n.º 2711-DGRF).
+2.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente, à Associação de Caçadores de Gatões, com o número de identificação fiscal 504503588 e sede no Prado, Gatão, 5225-031 Palaçoulo, a zona de caça associativa de Gatões (processo n.º 4816-DGRF), englobando vários prédios rústicos sitos na freguesia de Palaçoulo, município de Miranda do Douro, com a área de 956 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até ao máximo de 10  % da área total da zona de caça.
+4.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+5.º É revogada a Portaria n.º 1382/2001, de 7 de Dezembro, alterada pela Portaria n.º 334/2005, de 31 de Março.
+6.º A presente portaria produz efeitos a partir de 2 de Março de 2008.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 13 de Fevereiro de 2008. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 21 de Fevereiro de 2008.
+(ver documento original)
