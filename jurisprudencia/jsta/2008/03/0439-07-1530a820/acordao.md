@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal Administrativo de 2008-03-06, processo 0439/07
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0439/07
+
+**Data do Acordão:** 03/06/2008
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** JOÃO BELCHIOR
+
+**Descritores:** ANTENAS DE TELECOMUNICAÇÕES; FUNDAMENTO DO ACTO ADMINISTRATIVO; AUDIÊNCIA PRÉVIA; INTERESSE EM AGIR
+
+**Nº Convencional:** JSTA0008861
+
+**Nº do Documento:** SA1200803060439
+
+**Recorrente:** A...
+
+**Recorrido 1:** PRES DA CM DE OEIRAS
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Antes da entrada em vigor do DL n° 11/2003, de 18 de Janeiro, estava sujeita a autorização municipal, por comportar uma obra de construção civil, a colocação de uma antena de telecomunicações sobre uma plataforma, em betão armado, criada de raiz, assente no solo, cuja estrutura envolvia ainda painéis solares e uma vedação em rede, postes metálicos de suporte fixados ao solo, sendo que o contentor, ocupava uma área aproximada de 12 m2, poisado no solo nivelado.
+
+II - Assim, não é anulável, de acordo com o princípio tempus regit actum, a decisão de um órgão autárquico que, na situação descrita, considerou a obra sujeita ao regime do DL n° 555/99, de 16 de Dezembro (embora a Administração tivesse invocado o regime do DL 445/91 de 20 de Novembro), e ordenou, em 16 de Fevereiro de 2001, a sua demolição, por não estar licenciada.
+
+III - Desde que os motivos contextualmente externados permitam a um destinatário médio, colocado na situação concreta, perceber as razões de facto e de direito que determinaram o autor do acto a decidir como decidiu, ainda que, porventura, as razões aduzidas não sejam exactas, indiscutíveis ou convincentes, mostra-se cumprido o dever legal de fundamentação dos actos administrativos.
+
+IV - Assistindo ao interessado o direito a ser previamente ouvido antes de ser proferida a decisão (previsto com carácter geral no artº 100º do CPA, e, no caso, no nº 3 do art 106º do regime aprovado pelo DL 555/99) a preterição de tal formalidade tem como consequência normal a ilegalidade do próprio acto final e sua consequente anulabilidade.
+
+V - Tendo nomeadamente em conta a susceptibilidade de legalização da obra em causa (cf., v.g., o nº 2 do artº 106º do DL 555/99) não pode afirmar-se que a decisão vertida no acto referido em II. (pese embora o enunciado em I., II. e III.) era a única concreta e legalmente possível e, bem assim, concluir-se que a audiência prévia não tinha qualquer possibilidade de influenciar a vontade da Administração, e assim evitar a consequência anulatória por preterição da formalidade em causa.
+
+VI - A não fixação de qualquer prazo para o interessado proceder à demolição da referida obra faz incorrer a Câmara na violação do nº 1 do citado artº 106º do DL 555/99.
