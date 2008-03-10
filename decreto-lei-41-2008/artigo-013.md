@@ -1,0 +1,7 @@
+# Artigo 13.º
+
+### Retenção na fonte do imposto sobre o rendimento das pessoas singulares e dos descontos para a Assistência na Doença aos Servidores do Estado (ADSE)
+
+1 - As importâncias a levantar dos cofres do Estado relativas às dotações destinadas às transferências do Orçamento do Estado para os serviços e fundos autónomos são líquidas de imposto sobre o rendimento das pessoas singulares (IRS) e de descontos para a ADSE, retidos na fonte.
+
+2 - Cabe aos serviços processadores dos pedidos de libertação de créditos dar cumprimento ao disposto no número anterior.
