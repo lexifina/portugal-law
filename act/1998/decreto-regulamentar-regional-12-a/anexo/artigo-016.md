@@ -4,6 +4,6 @@
 
 Compete ao director do SDCF:
 
-a) Dirigir, coordenar e superintender nas acções desenvolvidas pelo chefe de divisão e pelo chefe da RSA;
+a) Dirigir, coordenar e superintender nas acções desenvolvidas pelo chefe de divisão e pela SSA;
 
 b) Executar o que as leis e regulamentos lhe cometerem e possa decorrer do normal desempenho das suas funções.

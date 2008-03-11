@@ -16,7 +16,7 @@ d) O director regional do Ambiente;
 
 e) O director regional do Comércio, Indústria e Energia;
 
-f) O representante da Região Autónoma dos Açores no Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário (IMOPPI);
+f) O representante da Região Autónoma dos Açores no Instituto da Construção e do Imobiliário, I. P. (ICI, I. P.);
 
 g) Dois elementos em representação das Mesas de Construção Civil da Câmara de Comércio e Indústria dos Açores;
 

@@ -8,7 +8,7 @@ a) Coordenar o estudo previsional das necessidades do parque habitacional da Reg
 
 b) Superintender à elaboração dos programas de novas urbanizações a desenvolver pela SRHE, à preparação dos projectos de implantação e das infra-estruturas, em colaboração com outros serviços, inclusive de outros departamentos do Governo Regional, e à promoção da sua apreciação e aprovação pelas câmaras municipais;
 
-c) Coordenar e acompanhar, em estreita cooperação com os serviços externos de habitação da SRHE, os estudos das necessidades do parque habitacional de cada ilha, de modo a preparar o programa global do sector e, bem assim, a elaboração dos projectos das urbanizações e sua execução;
+c) Coordenar e acompanhar, em estreita cooperação com os serviços periféricos da SRHE, os estudos das necessidades do parque habitacional de cada ilha, de modo a preparar o programa global do sector e, bem assim, a elaboração dos projectos das urbanizações e sua execução;
 
 d) Dirigir a preparação dos projectos e coordenar a realização das obras, quer estas sejam realizadas por empreitada ou por administração directa.
 
@@ -16,6 +16,6 @@ e) Executar as acções e cumprir as orientações que superiormente lhe sejam c
 
 2 - A DSPI compreende:
 
-A Divisão de Obras e Infra-Estruturas (DOI);
+a) A Divisão de Obras e Infra-Estruturas (DOI);
 
-A Divisão de Estudos e Projectos (DEP).
+b) A Divisão de Estudos e Projectos (DEP).

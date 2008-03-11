@@ -1,45 +1,29 @@
 # Artigo 61.º
 
-### Competências
+### Divisão de Informação Cadastral
 
-Compete à DTDC, designadamente:
+Compete à DIC, designadamente:
 
-a) Desenvolver os trabalhos necessários para a concepção e elaboração de projectos nas áreas da competência da DROPTT;
+a) Proceder à execução, renovação e conservação do cadastro predial;
 
-b) Criar e desenvolver um banco de dados de cartografia digital da Região Autónoma dos Açores, para apoio das realizações a cargo da SRHE;
+b) Promover a referenciação e identificação dos prédios;
 
-c) Desenvolver os cálculos necessários à determinação dos índices ponderados de custos de mão-de-obra para a Região;
+c) Proceder à emissão dos cartões de identificação predial;
 
-d) Executar trabalhos topográficos e elaborar as respectivas cartas;
+d) Prestar apoio ao processo de avaliação da propriedade imobiliária;
 
-e) Executar levantamentos necessários a estudos, implantações, fiscalizações e acompanhamentos de vias, infra-estruturas portuárias de pesca e hidráulicas e equipamentos colectivos de carácter social, escolar, desportivo e de saúde;
+e) Promover a difusão da informação cadastral;
 
-f) Executar levantamentos batimétricos;
+f) Realizar todos os trabalhos de topografia, de desenho e de âmbito administrativo, necessários à execução, conservação e renovação do cadastro, à reposição de estremas e à correcta identificação dos prédios;
 
-g) Executar os desenhos de trabalhos topográficos;
+g) Proceder ao reconhecimento e demarcação da delimitação administrativa;
 
-h) Executar levantamentos e desenhos de estruturas que não necessitam de levantamento com aparelho;
+h) Colaborar na execução, manutenção e aperfeiçoamento do referencial geodésico regional;
 
-i) Executar desenhos a partir de esboços para elaboração de projectos de arquitectura e de engenharia;
+i) Proceder à identificação alfanumérica de parcelas e prédios;
 
-j) Elaborar listagens de preços simples e preços compostos;
+j) Elaborar ficheiros de índice de proprietário e de prédio;
 
-l) Executar todos os trabalhos de medição e de orçamentação de projectos de arquitectura e de engenharia;
+l) Elaborar mapas parcelares;
 
-m) Executar todos os cálculos dos valores dos índices ponderados de mão-de-obra para a Região com base em elementos colhidos junto do Serviço Regional de Estatística dos Açores, com base na metodologia utilizada pela Comissão de Índices e Fórmulas de Empreitadas (CIFE) do Conselho de Mercados de Obras Públicas e Particulares (CMOPP);
-
-n) Proceder a vistorias e avaliações;
-
-o) Executar a rede de nivelamento de precisão na Região e a conservação da rede geodésica no âmbito de normas de colaboração mútua entre a delegação do Instituto Português de Cartografia e Cadastro (IPCC) nos Açores e a SRHE a definir, tendo em conta os fins a prosseguir pela DROPTT;
-
-p) Promover a elaboração e a actualização da cartografia às escalas de 1/10000, 1/5000, 1/2000 e 1/1000, para apoio às obras da Região Autónoma dos Açores executadas pela SRHE, em articulação com outros organismos regionais;
-
-q) Organizar e manter, em colaboração com outras entidade arquivos e bases de dados de informação georreferenciada;
-
-r) Executar a fotogrametria arquitectural com vista à salvaguarda do património histórico e artístico da Região, nomeadamente face à necessidade de ocorrência de alguma intervenção;
-
-s) Participar em estudos de deformação em obras, sempre que solicitados pelos serviços regionais;
-
-t) Cooperar com outras instituições nacionais e internacionais em áreas de interesse comum;
-
-u) Elaborar processos finais de projectos.
+m) Executar as demais acções que superiormente lhe sejam cometidas, nomeadamente estudos e trabalhos necessários à concepção, elaboração, execução e fiscalização de projectos de obras públicas promovidos pela DROPTT nas suas áreas de competência.

@@ -38,7 +38,7 @@ m) Executar as demais tarefas que lhe forem superiormente cometidas.
 
 3 - Compete ao CG:
 
-a) Assegurar a coordenação e controlo financeiro da DROPTT, assistindo e apoiando o director regional, os directores de serviços e os chefes de divisão, a quem fornecerá elementos, informações e análises necessárias às suas decisões;
+a) Assegurar a coordenação e controlo financeiro da DROPTT, assistindo e apoiando o director regional, o coordenador do SCTT, os directores de serviços e os chefes de divisão, a quem fornecerá elementos, informações e análises necessárias às suas decisões;
 
 b) Preparar, em colaboração com os demais órgãos, o orçamento anual da DROPTT;
 
@@ -84,4 +84,4 @@ g) Escriturar todos os livros de contabilidade, dando informações do cabimento
 
 h) Executar as demais tarefas que lhe forem superiormente cometidas.
 
-5 - Para que o SEC execute correctamente as suas tarefas, poderão ser criados gabinetes de apoio ao director regional, à DAF, à DSE, à DSIE, à DSVTT, à DMPI e à DTDC, que funcionarão em estreita colaboração com os serviços apoiados.
+5 - Para que o SEC execute correctamente as suas tarefas, poderão ser criados gabinetes de apoio ao director regional, à DAF, à DSE, à DSIE, ao SCTT, à DMPI e à DSCIG, que funcionarão em estreita colaboração com os serviços apoiados.

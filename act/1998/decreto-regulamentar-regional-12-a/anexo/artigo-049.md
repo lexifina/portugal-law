@@ -4,20 +4,14 @@
 
 Compete à DSIE, designadamente:
 
-a) Colaborar nos estudos necessários com vista à elaboração e execução dos projectos das construções portuárias de pesca e, hidráulicas, sociais, escolares, desportivas e de saúde;
+a) Colaborar no planeamento, nos estudos e na coordenação das acções necessários à elaboração e execução de projectos de infra-estruturas e de equipamentos colectivos;
 
-b) Colaborar nas operações de planeamento das infra-estruturas portuárias de pesca e hidráulicas e equipamentos colectivos de carácter social, escolar, desportivo e de saúde;
+b) Executar as obras definidas no plano aprovado, nomeadamente de construção, recuperação e conservação do património da Região, quer as atribuídas em regime de empreitada, quer as de administração directa, em cooperação com os departamentos governamentais respectivos;
 
-c) Colaborar na coordenação de todas as operações relativas à política de execução das acções de planeamento de infra-estruturas portuárias, de pesca e hidráulicas e equipamentos colectivos de carácter social, escolar, desportivo e de saúde e definir, em cooperação com as direcções regionais que superintendem aquelas áreas, as orientações necessárias à satisfação das carências detectadas;
+c) Tomar as medidas necessárias com vista ao apetrechamento dos equipamentos colectivos, depois de auscultado o respectivo departamento governamental, e proceder à sua entrega à entidade gestora;
 
-d) Executar as obras definidas no plano aprovado, nomeadamente de construção, recuperação e conservação do património da Região, quer as atribuídas em regime de empreitada, quer as de administração directa, em cooperação com as direcções regionais que superintendem aquelas áreas;
+d) Elaborar, ou colaborar na elaboração, do plano anual de construção e manutenção de infra-estruturas e equipamentos colectivos, procedendo à execução das obras que se revistam com carácter de investimento e de manutenção, em colaboração com os departamentos governamentais respectivos;
 
-e) Tomar todas as medidas com vista ao apetrechamento dos equipamentos colectivos, depois de auscultado o respectivo departamento governamental, e proceder à sua entrega à entidade gestora;
+e) Fiscalizar ou ordenar a fiscalização das obras a seu cargo promovidas pela SRHE, quer em regime de empreitada, quer as de administração directa;
 
-f) Cooperar na elaboração dos programas anuais de conservação das infra-estruturas portuárias, de pesca e hidráulicas e equipamentos colectivos de carácter social, escolar, desportivo e de saúde, procedendo à execução das obras que se revistam com carácter de investimento e de manutenção, em colaboração com os departamentos governamentais respectivos;
-
-g) Executar os programas anuais de conservação dos referidos edifícios, em colaboração com o respectivo departamento governamental;
-
-h) Fiscalizar ou ordenar a fiscalização das obras a seu cargo promovidas pela SRHE, quer em regime de empreitada, quer as de administração directa;
-
-i) Executar as demais acções que lhe sejam cometidas.
+f) Executar as demais acções que lhe sejam cometidas.

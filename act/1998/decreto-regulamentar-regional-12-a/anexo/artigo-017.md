@@ -32,4 +32,4 @@ n) Manter permanente acompanhamento da execução material e financeira dos prog
 
 o) Estabelecer os planos de produção de indicadores estatísticos sectoriais de interesse para a análise e avaliação dos referidos projectos;
 
-p) Coordenar as acções relacionadas com a Comunidade Económica Europeia e assegurar as adequadas ligações de qualquer serviço nas áreas de competência da SRHE.
+p) Coordenar as acções relacionadas com os programas comunitários e assegurar as adequadas ligações de qualquer serviço nas áreas de competência da SRHE.

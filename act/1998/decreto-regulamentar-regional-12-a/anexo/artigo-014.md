@@ -2,4 +2,4 @@
 
 ### Estrutura
 
-O SDCF compreende a Divisão de Controlo Financeiro (DCF) e a Repartição dos Serviços Administrativos (RSA).
+O SDCF compreende a Divisão de Controlo Financeiro (DCF) e a Secção dos Serviços Administrativos (SSA).

@@ -8,32 +8,28 @@
 
 1 - Para a prossecução dos seus objectivos, a SRHE compreende os seguintes órgãos e serviços:
 
-a) De carácter consultivo, o Conselho Regional de Obras Públicas (CROP);
+a) Órgão consultivo - Conselho Regional de Obras Públicas (CROP);
 
-b) De apoio técnico:
+b) Serviços executivos:
 
-i) Serviço de Apoio Jurídico e Notariado Privativo (SAJNP);
+Serviço de Apoio Jurídico e Notariado Privativo (SAJNP);
 
-ii) Centro de Informática (CI);
+Centro de Informática (CI);
 
-c) De apoio instrumental:
+Serviço de Documentação e Controlo Financeiro (SDCF);
 
-i) Serviço de Documentação e Controlo Financeiro (SDCF);
+Gabinete de Recursos Humanos (GRH);
 
-ii) Gabinete de Recursos Humanos (GRH);
+Gabinete de Relações Públicas (GRP);
 
-iii) Gabinete de Relações Públicas (GRP);
+Laboratório Regional de Engenharia Civil (LREC);
 
-d) De carácter operativo:
+Direcção Regional de Habitação (DRH);
 
-i) Laboratório Regional de Engenharia Civil (LREC);
+Direcção Regional de Obras Públicas e Transportes Terrestres (DROPTT);
 
-ii) Direcção Regional de Habitação (DRH);
+c) Serviços executivos periféricos - serviços da SRHE nas ilhas de Santa Maria, Terceira, Graciosa, São Jorge, Pico, Faial e Flores, doravante designados por delegações de ilha.
 
-iii) Direcção Regional de Obras Públicas e Transportes Terrestres (DROPTT).
+2 - Na directa dependência do Secretário Regional funcionam o SAJNP, o CI, o SDCF, o GRH, o GRP e as delegações de ilha.
 
-2 - Na dependência do Secretário Regional funciona também o Fundo Regional de Transportes, exclusivamente na parte da respectiva actividade respeitante aos transportes terrestres, e em coordenação com a Secretaria Regional da Economia, no que toca ao funcionamento geral do organismo, o Serviço Regional de Protecção Civil dos Açores e a Inspecção Regional de Bombeiros dos Açores.
-
-3 - São serviços externos as delegações de ilha.
-
-4 - Os órgãos de apoio técnico, os órgãos de apoio instrumental e os serviços externos funcionam na directa dependência do Secretário Regional.
+3 - Na dependência do Secretário Regional funcionam ainda o Fundo Regional de Transportes e o Serviço Regional de Protecção Civil e Bombeiros dos Açores.

@@ -2,22 +2,18 @@
 
 ### Recrutamento para chefe de sector
 
-1 - Os chefes de sector serão recrutados de entre funcionários dos grupos de pessoal técnico, técnico-profissional ou administrativo, sendo nomeados por despacho do Secretário Regional da Habitação e Equipamentos, aplicando-se-lhes as regras previstas nos n.os 1, 2, 3 e 5 do artigo 5.º, no n.º 1 e nas alíneas b) e c) do n.º 2 do artigo 7.º, nos artigos 10.º e no n.º 1 do artigo 18.º, todos do Decreto-Lei n.º 323/89, de 26 de Setembro, e alterações subsequentes, adaptado à Região pelo Decreto Legislativo Regional n.º 1/90/A, de 15 de Janeiro.
+1 - O chefe de sector é um cargo de direcção específica de 2.º grau, sendo-lhe aplicável o disposto no Decreto Legislativo Regional n.º 2/2005/A, de 9 de Maio, alterado pelo Decreto Legislativo Regional n.º 2/2006/A, de 6 de Janeiro.
 
-2 - A comissão de serviço pode ainda, a todo o tempo, ser dada por finda durante a sua vigência, por despacho fundamentado do Secretário Regional, sempre que esteja em causa a não realização dos objectivos previstos ou a necessidade de implementar nova dinâmica ao desempenho em questão.
+2 - Serão extintos à medida que forem terminando as respectivas comissões de serviço todos os lugares de chefe de sector, com excepção dos referidos no número seguinte.
 
-3 - Os chefes de sector auferirão uma remuneração equivalente ao índice 400 da tabela salarial do regime geral da função pública.
+3 - Não serão extintos:
 
-4 - Serão extintos à medida que forem terminando as respectivas comissões de serviço todos os lugares de chefe de sector, com excepção dos referidos no número seguinte.
+a) Os lugares previstos no quadro regional da ilha de São Miguel afectos à DRH e à DROPTT;
 
-5 - Não serão extintos:
+b) Os lugares previstos no quadro regional da ilha da Terceira afectos à delegação da ilha Terceira;
 
-a) Os lugares de chefe de sector previstos nos quadros de pessoal das direcções regionais;
+c) Os lugares previstos no quadro regional da ilha do Faial afectos à delegação da ilha do Faial;
 
-b) Dois dos lugares previstos no quadro de pessoal da Delegação da Ilha Terceira;
+d) O lugar previsto no quadro regional da ilha do Corvo afecto à extensão do Corvo da delegação da ilha das Flores;
 
-c) Três dos lugares previstos no quadro de pessoal da Delegação da Ilha do Faial;
-
-d) O lugar de chefe do Sector de Manutenção da extensão da ilha do Corvo da Delegação da Ilha das Flores.
-
-6 - As competências dos Sectores de Registo Predial das Delegações da Ilha Terceira e da Ilha do Faial, após a respectiva extinção, transitarão para as secções administrativas das respectivas delegações.
+4 - As competências dos Sectores de Registo Predial das Delegações da Ilha Terceira e da Ilha do Faial, após a respectiva extinção, transitarão para as secções administrativas das respectivas delegações.

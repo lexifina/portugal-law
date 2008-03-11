@@ -14,4 +14,4 @@ d) Serviço Coordenador de Transportes Terrestres (SCTT);
 
 e) Divisão de Máquinas e Produção de Inertes (DMPI);
 
-f) Divisão de Topografia, Desenho e Cartografia (DTDC).
+f) Direcção de Serviços de Cartografia e Informação Geográfica (DSCIG).

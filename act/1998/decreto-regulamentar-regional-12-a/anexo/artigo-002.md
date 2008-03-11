@@ -2,22 +2,18 @@
 
 ### Atribuições
 
-Constituem atribuições da SRHE:
+Constituem atribuições da SRHE, designadamente:
 
-a) Definir a política nos domínios da habitação, das obras públicas, dos transportes terrestres, da protecção civil e da inspecção de bombeiros, promovendo e coordenando as acções necessárias à sua execução;
+a) Propor e executar a política nos domínios da habitação, obras públicas, transportes terrestres, viação, comunicações, informação geográfica, cartográfica e cadastral, protecção civil e inspecção de bombeiros, promovendo e coordenando a sua execução;
 
-b) Elaborar o plano de desenvolvimento habitacional, de obras públicas, de transportes terrestres e de protecção civil, a integrar no plano geral de desenvolvimento da Região, de acordo com as grandes linhas de orientação definidas pelo Governo Regional;
+b) Elaborar, no quadro dos planos de desenvolvimento regional e de acordo com as grandes linhas de orientação definidas pelo Governo Regional, os planos sectoriais relativos aos seus domínios de actuação;
 
-c) Participar na elaboração dos programas base da política dos sectores que lhe estão afectos;
+c) Realizar ou promover a realização das acções que, por lei ou regulamento, forem cometidas à Região, no âmbito dos domínios anteriormente referidos;
 
-d) Elaborar projectos de obras públicas e suas modificações ou alterações;
+e) Elaborar e executar, tendencialmente, todos os projectos de obras públicas promovidos pela administração regional;
 
-e) Lançar procedimentos aquisitivos, elaborando ou coordenando a elaboração das respectivas peças de suporte, escritas ou desenhadas, e analisar as propostas para eles recebidas;
+f) Tutelar a rede de marcos geodésicos e gerir a respectiva servidão administrativa;
 
-f) Executar, tendencialmente, todas as obras públicas levadas a efeito na Região;
+g) Superintender e realizar a gestão dos meios humanos e materiais para a efectivação das atribuições que lhe estão confiadas;
 
-g) Realizar ou promover a realização das acções que, por lei ou regulamentação geral, forem cometidas à Região, no âmbito da circulação automóvel e dos transportes terrestres;
-
-h) Definir, em cooperação com as autarquias locais e dentro dos limites da respectiva competência, os fluxos de tráfego e seu escoamento, bem como zonas de estacionamento e parques de camionagem;
-
-i) Promover formas de cooperação e coordenação de acções com instituições e entidades locais, regionais, nacionais e estrangeiras, no âmbito das suas áreas de actuação.
+h) Promover formas de cooperação com instituições e entidades locais, regionais, nacionais e internacionais, no âmbito das suas áreas de actuação.
