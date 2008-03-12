@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "41756",
+  "tipo": "Pergunta",
+  "numero": "892",
+  "data_registo": "2008-03-12",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Condições Infra-estruturais e de Ensino na Faculdade de Medicina Dentária da Universidade de Lisboa",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "2108",
+        "nome": "André Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2114",
+        "nome": "Emídio Guerreiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2072",
+        "nome": "Ana Zita Gomes"
+      }
+    ],
+    "DataEnvio": "2008-03-14",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2008-03-14",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DAS  CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2008-05-20",
+            "docRemetida": null,
+            "entidade": "MIN.  DAS  CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e545443387a4d6a466c4f446b785a6930335954637a4c5451784e574d744f5463334f5330344e7a646d4d6a49305a6d4d784e6a45756347526d&fich=321e891f-7a73-415c-9779-877f224fc161.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2008-03-12",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544338334e54637a4d7a67314d43307a5a5745334c54526b4d6a417459544d774d43316c5954457a4d54526a597a686d4f4445756347526d&fich=75733850-3ea7-4d20-a300-ea1314cc8f81.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "41756",
+    "Legislatura": "X",
+    "Nr": "892",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "428031",
+        "obs": null,
+        "pag": [
+          "10-11"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008",
+        "pubLeg": "X",
+        "pubNr": "77",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/077/2008-03-22/10?pgs=10-11&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Pergunta"
+  }
+}
