@@ -1,0 +1,37 @@
+## Secção III
+
+## Intervenção Territorial Integrada Montesinho-Nogueira
+
+## Subsecção I
+
+## Componente agro-ambiental - Unidades de produção
+
+# Artigo 26.º
+
+### Critérios de elegibilidade
+
+1 - Podem beneficiar dos apoios previstos nesta subsecção os candidatos que reúnam as seguintes condições:
+
+a) Explorem uma superfície agrícola ou agro-florestal, que não exclusivamente espaço agro-florestal não arborizado com aproveitamento forrageiro, situada na área geográfica de aplicação, definida no artigo anterior;
+
+b) Tenham, na unidade de produção, um encabeçamento de animais em pastoreio inferior ou igual ou 2,000 CN/ha de superfície forrageira;
+
+c) Candidatem, caso exista, a área de rotação de sequeiro que inclua um cereal praganoso em parcelas com IQFP menor ou igual a dois e com uma densidade máxima de 60 árvores/ha;
+
+d) Candidatem, caso exista, a área de pastagem permanente com alto valor natural, quando superior ou igual a 0,10 ha.
+
+e) Candidatem, caso exista, a área de castanheiros com um mínimo de cinco árvores de Castanea sativa ou com pelo menos 0,50 ha em pomar, com um mínimo de 25 castanheiros/ha, desde que os castanheiros tenham pelo menos 60 anos de idade.
+
+2 - A verificação cumulativa das condições previstas no número anterior permite o acesso ao apoio designado «Ajuda à conservação da estrutura ecológica de base» desde que, no âmbito das respectivas alíneas c), d) e e), o beneficiário candidate todas as áreas elegíveis.
+
+3 - A verificação das condições previstas nas alíneas a) e c) do n.º 1 permite o acesso ao apoio designado «Manutenção da rotação de sequeiro cereal - pousio».
+
+4 - A verificação das condições previstas nas alíneas a) e d) do n.º 1 permite o acesso ao apoio designado «Manutenção de pastagens permanentes com alto valor natural».
+
+5 - A verificação das condições previstas nas alíneas a) e e) do n.º 1 permite o acesso ao apoio designado «Conservação dos soutos notáveis da Terra Fria».
+
+6 - Para efeitos da alínea a) do n.º 1, as parcelas identificadas no âmbito do SIP interceptadas pelo limite da área geográfica de aplicação são integralmente elegíveis se tiverem uma área inferior ou igual a 3 ha.
+
+7 - Sem prejuízo do disposto no n.º 1, os candidatos devem declarar toda a superfície agrícola e agro-florestal da unidade de produção e candidatar a área elegível relativamente à qual assegurem a titularidade durante o período do compromisso.
+
+8 - Para efeitos do apoio previsto no n.º 2, considera-se área elegível a superfície agrícola e agro-florestal da unidade de produção, com excepção do espaço agro-florestal não arborizado com aproveitamento forrageiro.
