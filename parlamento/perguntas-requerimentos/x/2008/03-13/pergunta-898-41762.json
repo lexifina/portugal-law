@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "41762",
+  "tipo": "Pergunta",
+  "numero": "898",
+  "data_registo": "2008-03-13",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Deslocação da Polícia de Segurança Pública à Escola Secundária de Ourém e à Escola Básica 2,3 D. Afonso IV",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "1410",
+        "nome": "Vasco Cunha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "124",
+        "nome": "Miguel Relvas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "121",
+        "nome": "Mário Albuquerque"
+      }
+    ],
+    "DataEnvio": "2008-03-18",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2008-03-18",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN   DA   ADMINISTRAÇÃO INTERNA",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2008-06-12",
+            "docRemetida": null,
+            "entidade": "MIN   DA   ADMINISTRAÇÃO INTERNA",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544338314e4755325a6a4d315979307a4e6a42694c5451335a5759744f474e69595330335a6a517759545a6b4d5746694d3245756347526d&fich=54e6f35c-360b-47ef-8cba-7f40a6d1ab3a.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2008-03-13",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544338334e6d45335a4751774d6930794d4452694c5451794f4459744f5445315953316c4e32526a4d6d56695a6a45344d4463756347526d&fich=76a7dd02-204b-4286-915a-e7dc2ebf1807.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "41762",
+    "Legislatura": "X",
+    "Nr": "898",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "428037",
+        "obs": null,
+        "pag": [
+          "23-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008",
+        "pubLeg": "X",
+        "pubNr": "77",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/077/2008-03-22/23?pgs=23-26&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Pergunta"
+  }
+}
