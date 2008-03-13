@@ -1,0 +1,20 @@
+Deliberação n.º 746/2008
+Alteração por adaptação ao Regulamento do Plano Director Municipal de Arganil, publicado no Diário da República 1.ª série n.º 269 de 21 de Novembro de 1995 - Resolução do Conselho de Ministros n.º 143/95:
+Nos termos da alínea d) do n.º 4 do artigo 148º do Decreto-Lei n.º 380/99 de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 316/2007 de 19 de Setembro, publica-se a deliberação da Assembleia Municipal de Arganil tomada na sua sessão ordinária datada de 23 de Fevereiro de 2008, que aprovou a alteração ao Regulamento do Plano Director Municipal de Arganil, conforme proposta da Câmara Municipal datada de 19 de Fevereiro de 2008, bem como a redacção do texto regulamentar alterado:
+Proposta de alteração ao artigo 8º do Regulamento do PDM
+Considerando que os municípios dispõem de atribuições no domínio do ordenamento do território e urbanismo - alínea o) do n.º 1 do artigo 13º da Lei 159/99 de 14 de Setembro;
+Considerando que compete aos órgãos municipais, naqueles domínios, elaborar e aprovar os planos municipais de ordenamento do território - alínea a) do artigo 29º do Decreto-Lei n.º 159/99 de 14 de Setembro;
+Tendo em conta que o Regulamento do Plano Director Municipal de Arganil, aprovado pela Resolução de Conselho de Ministros n.º 143/95 publicada no Diário da República 1.ª série-B de 21 de Novembro, consagra no n.º 1 do artigo 8º que, "nas áreas delimitadas como REN são proibidas as acções previstas nos Decreto-Lei n.º 93/90 e Decreto-Lei n.º 213/92";
+Considerando que o Decreto-Lei n.º 93/90 que define o regime jurídico da Reserva Ecológica Nacional foi alterado pelo Decreto-Lei n.º 180/2006 de 6 de Setembro;
+Considerando que a nova redacção dada ao Decreto-Lei n.º 93/90 de 19 de Março, pelo diploma supra referido, consagra no seu n.º 2 do artigo 4º que, as acções insusceptíveis de prejudicar o equilíbrio ecológico nas áreas integradas na REN identificadas no anexo IV do referido diploma e que se dão aqui por integralmente reproduzidas, ficam sujeitas a autorização da CCDR competente ou a comunicação prévia a essa mesma entidade;
+Considerando que nos termos da alínea a) do n.º 1 do artigo 97º do Decreto-Lei n.º 380/99 de 22 de Setembro na redacção dada pelo Decreto-Lei n.º 316/2007 de 19 de Setembro, a alteração por adaptação dos instrumentos de gestão territorial decorre, da entrada em vigor de leis ou regulamentos.
+Considerando que, o disposto no artigo 8º do Regulamento do PDM, consagra um regime restritivo em relação à utilização dos solos afectos à REN, torna-se premente a compatibilização deste artigo do Regulamento como o novo regime jurídico em vigor.
+Considerando que, os Planos Municipais de Ordenamento do Território são aprovados pela Assembleia Municipal, mediante proposta apresentada pela Câmara Municipal, nos termos do n.º 1 do artigo 79º do Decreto-Lei n.º 380/99 de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 316/2007 de 19 de Setembro aplicável ao procedimento de alteração por adaptação, por remissão do n.º 3 do artigo 97º do citado normativo legal;
+Assim, o artigo 8º do Regulamento do PDM de Arganil passa a ter a seguinte redacção:
+Nas áreas delimitadas como REN aplica-se o regime jurídico em vigor.
+Analisada que foi a proposta da Câmara Municipal, deliberou-se por unanimidade aprová-la nos termos do n.º 1 do artigo 79º do Decreto-Lei n.º 380/99 de 22 de Setembro na redacção dada pelo Decreto-Lei n.º 316/2007 de 19 de Setembro, aplicável ao procedimento de alteração por adaptação, por remissão do n.º 3 do artigo 97º do citado normativo legal.
+Mais se deliberou, por unanimidade, aprovar a presente deliberação por minuta, no final da sessão, nos termos do n.º 3 do artigo 92º da Lei n.º 169/99 de 18 de Setembro, com as alterações que lhe foram introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, afim de se tornar definitiva e executória imediatamente.
+O artigo 8º do Regulamento do Plano Director Municipal de Arganil, passa a ter a seguinte redacção:
+Artigo 8º
+Nas áreas delimitadas como REN aplica-se o regime jurídico em vigor.
+27 de Fevereiro de 2008. - O Presidente da Câmara, Ricardo Pereira Alves.
