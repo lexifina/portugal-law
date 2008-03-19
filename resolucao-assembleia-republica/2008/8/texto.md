@@ -1,0 +1,13 @@
+Resolução da Assembleia da República n.º 8/2008
+Recomenda ao Governo a criação de um sistema de dinamização de parcerias e de apoio à gestão das PME no âmbito do QREN
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo o seguinte:
+1 - Criação de um sistema de dinamização de parcerias e de apoio à gestão das PME (pequenas e médias empresas) no âmbito do QREN (Quadro de Referência Estratégico Nacional).
+1.1 - Este sistema de apoio à dinamização do tecido empresarial para efeitos de acesso aos fundos comunitários disponibilizados através do QREN deve corresponder às necessidades de: simplificação; acessibilidade; proximidade; contacto único, e de assistência técnica, sentidas pelas PME sobretudo, pelas pequenas e microempresas.
+1.2 - O objectivo é criar um interface interactivo, dinâmico, que não seja apenas um ponto de prestação de informação aos empresários das PME e aos potenciais empreendedores. É fundamental que assuma uma atitude flexível e proactiva, suportada num modelo de intervenção dinâmico, que permita um equilíbrio contínuo ao nível dos serviços prestados, ou seja, entre a procura por parte das empresas e a oferta dos produtos QREN e a concretização dos objectivos das políticas públicas para o desenvolvimento económico.
+1.3 - Procura-se que seja um sistema/serviço com duas dimensões:
+1) Assegure um serviço de assistência técnica nas fases de pré e pós-candidatura;
+2) Vá ao encontro do empresário através de um plano de contacto, executado preferencialmente por concelho, de modo a criar um ambiente propício ao surgimento de uma cultura de parcerias e de ideias competitivas e projectos inovadores e sustentáveis para que as PME beneficiem do financiamento e da oportunidade de afirmação proporcionados pelo QREN.
+1.4 - Um sistema de apoio desta natureza deve privilegiar a capacidade instalada, numa lógica de articulação local em que se envolvam administração central, autarquias locais e associações empresariais, bem como outras organizações da sociedade civil, ao nível da gestão de candidaturas e incentivos às empresas, aproveitando a estrutura da administração pública central e local já existentes.
+1.5 - A heterogeneidade das soluções que vierem a ser encontradas deve contribuir para aproximar o QREN dos cidadãos, das empresas e das organizações, em geral. A existência de um sistema de dinamização de parcerias e de apoio no processo de candidaturas, à gestão, próximo, acessível e dinâmico, preferencialmente em cada concelho do País que, de forma eficaz e eficiente dê uma resposta às PME, promovendo o crescimento da economia portuguesa.
+Aprovada em 7 de Março de 2008.
+O Presidente da Assembleia da República, Jaime Gama.
