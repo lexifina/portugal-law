@@ -1,0 +1,4 @@
+Aviso n.º 8818/2008
+João Castanho, Presidente da Assembleia de Freguesia de Agualva, torna público, de harmonia com o disposto no artigo 118.o do Código do Procedimento Administrativo, que se encontra em apreciação pública, pelo prazo de 30 dias contados da data da publicação deste aviso no Diário da República, 2.ª série, o projecto de Regulamento de Taxas de Freguesia de Agualva, aprovado pela Junta de Freguesia em reunião de 24/07/2007, e remetido para apreciação pública por deliberação da Assembleia de Freguesia de Agualva de 15 de Fevereiro de 2008,o que pode ser consultado na sede da Junta na R. António Nunes Sequeira, nº 16,durante as horas de expediente(9h00-13h00/14h00-17h00) no site www.jf-agualva.pt, bem como nos locais de afixação de costume.
+4 de Março de 2008. - O Presidente, João Castanho.
+2611098977
