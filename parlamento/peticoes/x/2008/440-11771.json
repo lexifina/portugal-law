@@ -1,0 +1,599 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11771",
+  "numero": "440",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-03-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2010-01-14",
+            "entidades": null,
+            "id": "87508",
+            "tipo": null,
+            "titulo": "Audição em 2010-01-14 com José Fernando Simões e outros"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-01-20",
+            "dataResposta": "2010-02-09",
+            "entidades": [
+              "Presidente do Conselho de Administração da REN"
+            ],
+            "nrOficio": "28/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-01-20",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério da Economia, Inovação e Desenvolvimento"
+            ],
+            "nrOficio": "25/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-01-20",
+            "dataResposta": "2010-02-05",
+            "entidades": [
+              "Ministério do Ambiente e do Ordenamento do Territorio"
+            ],
+            "nrOficio": "25/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-03-10",
+            "dataResposta": "2010-03-26",
+            "entidades": [
+              "Câmara Municipal de Almada"
+            ],
+            "nrOficio": "79/CAOPTL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-03-23",
+            "dataResposta": "2010-04-21",
+            "entidades": [
+              "Junta de Freguesia da Charneca da Caparica"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-03-23",
+            "dataResposta": "2010-04-21",
+            "entidades": [
+              "Junta de Freguesia da Trafaria"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2010-04-27",
+        "DataBaixaComissao": "2009-12-09",
+        "DataEnvioPAR": "2010-04-30",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-07-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764d5467334f475a6d593255745a6a55354d4330304d7a6b324c546c6d4f544974597a41335a444d3359324d304f4468694c6e426b5a673d3d&fich=1878ffce-f590-4396-9f92-c07d37cc488b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a59573876597a6b304f544a694f4445745a5749354e5330305a54686c4c5745324d5467744f444d7859544e694d5463345a5449354c6e426b5a673d3d&fich=c9492b81-eb95-4e8e-a618-831a3b178e29.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764d7a55305a4749344e7a55744e444a694e6930304e6a466b4c5745344d7a63744d5451784d4455325a4745784d47566c4c6e426b5a673d3d&fich=354db875-42b6-461d-a837-141056da10ee.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738765a54566b4e325934595745745957566a4d7930304e546c6d4c546b355a4451744e6a6c6d596d453359324d795a4467344c6e426b5a673d3d&fich=e5d7f8aa-aec3-459f-99d4-69fba7cc2d88.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738765a47466d4e32497959324d745a445268597930304e6d566d4c5467355a5759744e544d304d445132596a457a5a4459314c6e426b5a673d3d&fich=daf7b2cc-d4ac-46ef-89ef-534046b13d65.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2875",
+        "Legislatura": "XI",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2009-12-09",
+            "gp": "PS",
+            "id": "4186",
+            "motivoCessacao": null,
+            "nome": "Eurídice Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da X Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-04-08",
+        "DataArquivo": "2009-11-17",
+        "DataBaixaComissao": "2008-04-08",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2008-04-08",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-03-26",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c7a6b79597a4669596a49784c54646c5a4463744e44597a4f5331684d6d566c4c546b354e6d49344f474e695a6d5a6c596935775a47593d&fich=92c1bb21-7ed7-4639-a2ee-996b88cbffeb.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-03-26",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c7a45775a444a6c4e4441304c54526d5a446b744e444e6b5a4330354e325a6b4c5445314e6a67334e4755324e5455785a6935775a47593d&fich=10d2e404-4fd9-43dd-97fd-156874e6551f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1909",
+        "Legislatura": "X",
+        "Nome": "Comissão de Poder Local, Ambiente e Ordenamento do Território",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-04-08",
+            "gp": "PS",
+            "id": "1679",
+            "motivoCessacao": null,
+            "nome": "Renato Sampaio"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão do Ambiente, Ordenamento do Território e Poder Local da XI Legislatura."
+      }
+    ],
+    "DataDebate": "2010-06-18",
+    "Documentos": [
+      {
+        "DataDocumento": "2008-03-26",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938304d5456695a446c684e533169595751324c5451315a6a41744f575a684e6930314d574d7a5a445269596d55335a5463756347526d&fich=415bd9a5-bad6-45f0-9fa6-51c3d4bbe7e7.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "35300"
+    ],
+    "Iniciativasoriginadas": [
+      "35300"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2010-06-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176797",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-19",
+                "pubLeg": "XI",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/070/2010-06-19/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Sérgio Santos e outros, solicitando à Assembleia da República que tome as medidas necessárias no sentido da alteração do traçado das linhas de muito alta tensão Portimão/Tunes, entre Santo Estevão e Gavião de Baixo, concelho de Silves; Apresentada por José Fernando Simões e outros, solicitando à Assembleia da República que proceda alteração do traçado das linhas de muito alta tensão da REN no concelho de Almada; Recomenda ao Governo que intervenha junto da Rede Eléctrica Nacional no sentido de implementar o traçado apresentado no estudo do impacto ambiental de Fevereiro de 2009, com as rectificações propostas e consensualmente aceites ou considere outras soluções alternativas existentes e que não colidem com os interesses dos residentes nem comprometem projectos de interesse para o desenvolvimento local",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-06-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176984",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-19",
+                "pubLeg": "XI",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/070/2010-06-19/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Sérgio Santos e outros, solicitando à Assembleia da República que tome as medidas necessárias no sentido da alteração do traçado das linhas de muito alta tensão Portimão/Tunes, entre Santo Estevão e Gavião de Baixo, concelho de Silves; Apresentada por José Fernando Simões e outros, solicitando à Assembleia da República que proceda alteração do traçado das linhas de muito alta tensão da REN no concelho de Almada; Recomenda ao Governo que intervenha junto da Rede Eléctrica Nacional no sentido de implementar o traçado apresentado no estudo do impacto ambiental de Fevereiro de 2009, com as rectificações propostas e consensualmente aceites ou considere outras soluções alternativas existentes e que não colidem com os interesses dos residentes nem comprometem projectos de interesse para o desenvolvimento local",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-06-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176985",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-19",
+                "pubLeg": "XI",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/070/2010-06-19/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Sérgio Santos e outros, solicitando à Assembleia da República que tome as medidas necessárias no sentido da alteração do traçado das linhas de muito alta tensão Portimão/Tunes, entre Santo Estevão e Gavião de Baixo, concelho de Silves; Apresentada por José Fernando Simões e outros, solicitando à Assembleia da República que proceda alteração do traçado das linhas de muito alta tensão da REN no concelho de Almada; Recomenda ao Governo que intervenha junto da Rede Eléctrica Nacional no sentido de implementar o traçado apresentado no estudo do impacto ambiental de Fevereiro de 2009, com as rectificações propostas e consensualmente aceites ou considere outras soluções alternativas existentes e que não colidem com os interesses dos residentes nem comprometem projectos de interesse para o desenvolvimento local",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-06-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176986",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-19",
+                "pubLeg": "XI",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/070/2010-06-19/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Sérgio Santos e outros, solicitando à Assembleia da República que tome as medidas necessárias no sentido da alteração do traçado das linhas de muito alta tensão Portimão/Tunes, entre Santo Estevão e Gavião de Baixo, concelho de Silves; Apresentada por José Fernando Simões e outros, solicitando à Assembleia da República que proceda alteração do traçado das linhas de muito alta tensão da REN no concelho de Almada; Recomenda ao Governo que intervenha junto da Rede Eléctrica Nacional no sentido de implementar o traçado apresentado no estudo do impacto ambiental de Fevereiro de 2009, com as rectificações propostas e consensualmente aceites ou considere outras soluções alternativas existentes e que não colidem com os interesses dos residentes nem comprometem projectos de interesse para o desenvolvimento local",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-06-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176987",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-19",
+                "pubLeg": "XI",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/070/2010-06-19/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Sérgio Santos e outros, solicitando à Assembleia da República que tome as medidas necessárias no sentido da alteração do traçado das linhas de muito alta tensão Portimão/Tunes, entre Santo Estevão e Gavião de Baixo, concelho de Silves; Apresentada por José Fernando Simões e outros, solicitando à Assembleia da República que proceda alteração do traçado das linhas de muito alta tensão da REN no concelho de Almada; Recomenda ao Governo que intervenha junto da Rede Eléctrica Nacional no sentido de implementar o traçado apresentado no estudo do impacto ambiental de Fevereiro de 2009, com as rectificações propostas e consensualmente aceites ou considere outras soluções alternativas existentes e que não colidem com os interesses dos residentes nem comprometem projectos de interesse para o desenvolvimento local",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-06-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176988",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-19",
+                "pubLeg": "XI",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/070/2010-06-19/69?pgs=69&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Sérgio Santos e outros, solicitando à Assembleia da República que tome as medidas necessárias no sentido da alteração do traçado das linhas de muito alta tensão Portimão/Tunes, entre Santo Estevão e Gavião de Baixo, concelho de Silves; Apresentada por José Fernando Simões e outros, solicitando à Assembleia da República que proceda alteração do traçado das linhas de muito alta tensão da REN no concelho de Almada; Recomenda ao Governo que intervenha junto da Rede Eléctrica Nacional no sentido de implementar o traçado apresentado no estudo do impacto ambiental de Fevereiro de 2009, com as rectificações propostas e consensualmente aceites ou considere outras soluções alternativas existentes e que não colidem com os interesses dos residentes nem comprometem projectos de interesse para o desenvolvimento local",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11771",
+    "PetAssunto": "Pedido para alteração do traçado da linha de muito alta tensão da REN no concelho de Almada.",
+    "PetDataEntrada": "2008-03-26",
+    "PeticoesAssociadas": null,
+    "PetId": "11771",
+    "PetLeg": "X",
+    "PetNr": "440",
+    "PetNrAssinaturas": "4631",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1423",
+        "obs": null,
+        "pag": [
+          "64-69"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-06-19",
+        "pubLeg": "XI",
+        "pubNr": "70",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/070/2010-06-19/64?pgs=64-69&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "430054",
+        "obs": null,
+        "pag": [
+          "21-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-04-12",
+        "pubLeg": "X",
+        "pubNr": "87",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/087/2008-04-12/21?pgs=21&org=PLC"
+      }
+    ]
+  }
+}
