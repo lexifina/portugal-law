@@ -1,0 +1,9 @@
+Aviso n.º 9185/2008
+Rui Manuel Maia da Silva, Presidente da Câmara Municipal de Monforte, torna público, nos termos da alínea d), nº.4, do artigo 148º. do Dec. lei nº.316/2007, de 19 de Setembro, publica-se a deliberação da Assembleia Municipal que aprovou a Alteração ao Plano Director Municipal de Monforte / Campo de Tiro entre Monforte e Arronches.
+Cópia de parte da acta n.º 2/2007
+Sessão extraordinária da Assembleia Municipal de Monforte realizada em 23 de Novembro do ano de 2007
+Ponto 1
+"Alteração ao Plano Director Municipal de Monforte - Campo de tiro entre Monforte e Arronches/aprovação final"
+Considerando que a Assembleia Municipal, em Sessão de 26 de Setembro de 2003, já havia aprovado a alteração ao Plano Director Municipal; Considerando que o processo de elaboração foi mandado repetir pela Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano, a partir da fase de discussão pública; Considerando que foram cumpridos todos os procedimentos previstos no Dec. lei nº.380/99, de 22 de Setembro, na redacção conferida pelo Dec. lei nº.310/2003, de 10 de Dezembro, a Assembleia Municipal deliberou, por unanimidade, aprovar a proposta de Alteração ao Plano Director Municipal, que permitirá a construção de um equipamento Desportivo e de Lazer designadamente um Campo de Tiro, fundamentado no facto de se ir aproveitar um espaço onde já se encontram investimentos e que já não vai servir para o fim a que foi destinado (depósitos de resíduos sólidos). Encerrado o ponto nº.1 da ordem de trabalhos, passou-se de imediato ao seguinte.
+Nos termos do número três do artigo noventa e dois da L.A.L. depois de lida, foi deliberado, por unanimidade, aprovar a presente deliberação em minuta, a fim de produzir efeitos imediatos.
+12 de Março de 2008. - O Presidente da Câmara, Rui Manuel Maia da Silva.
