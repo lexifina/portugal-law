@@ -1,0 +1,72 @@
+Portaria n.º 247/2008
+de 27 de Março
+Transporte, guarda, tratamento e distribuição de valores
+A actividade de transporte, guarda, tratamento, recolha e distribuição de valores deve ser, pela sua especificidade, objecto de um regime especial, que defina um conjunto integrado de medidas de segurança que, de forma adequada e proporcionada, previnam a ocorrência de crimes e protejam quem exerce a profissão.
+Justifica-se, em especial, a introdução de mecanismos de modernização baseados em tecnologias de informação, aproveitando também as sinergias e as medidas já adoptadas por este sector de actividade.
+As alterações introduzidas pela presente portaria visam, portanto, o reforço da segurança no transporte de valores, consagrando medidas inovadoras que visam melhorar o exercício da profissão. Em particular é adoptado um conjunto de regras no que respeita à segurança do próprio veículo de transporte, bem como às condições em que este pode circular e reforçada a protecção dos trabalhadores.
+Assim:
+Manda o Governo, pelo Ministro da Administração Interna, ao abrigo do disposto no n.º 2 do artigo 2.º do Decreto-Lei n.º 35/2004, de 21 de Fevereiro, o seguinte:
+1.º
+1 - A presente portaria visa regular as condições aplicáveis ao transporte, guarda, tratamento e distribuição de valores, por parte de entidades de segurança privada, detentoras de alvará ou licença, previstas na alínea d) do n.º 1 do artigo 2.º do Decreto-Lei n.º 35/2004, de 21 de Fevereiro.
+2 - No conceito de «distribuição de valores» engloba-se a recolha e entrega de valores.
+2.º
+O transporte de valores igual ou superior a (euro) 10 000 deve ser efectuado com utilização de veículos equipados com os seguintes níveis mínimos de segurança:
+1) Peso bruto mínimo de 2500 kg;
+2) A caixa do veículo deve ser do tipo furgão ou do tipo clássico, com cabina e caixa de carga, com três zonas estanques, destinadas, respectivamente, ao condutor, aos vigilantes transportadores e à carga;
+3) Na carroçaria deve ser observadas as seguintes áreas:
+a) A área destinada ao condutor e aos vigilantes transportadores disporá de uma blindagem mínima BR5/US ou A30 em todas as partes externas que delimitam esta área, ou seja, frontal, laterais, tecto e chão;
+b) No compartimento destinado à carga, deverá ter uma protecção com um nível mínimo de BRA4/US ou A20 em todas as zonas exteriores, nomeadamente, traseiras, laterais, tecto e chão;
+c) As divisões internas, quer a que divide a área do condutor da dos vigilantes transportadores, quer a que divide a área dos vigilantes transportadores da área de carga, devem ter um mínimo de protecção BR4/US ou A20;
+d) No tejadilho são colocados sinais visíveis da identificação da viatura, mesmo durante a noite;
+4) A cabina deve dispor de uma saída de emergência, ou estar dotada, em ambas as laterais, de portas que permitam evacuar o habitáculo em caso de acidente, assegurando que a sua abertura exterior implique sempre o accionamento de meios sonoros e luminosos;
+5) Nos acessos à viatura, são aplicáveis as regras seguintes:
+a) As aberturas laterais devem ser inter bloqueadas ou possuir sistemas giratórios que não permitam o acesso imediato do exterior à zona de carga;
+b) Devem existir fechos de bloqueio deslizantes em todas as portas laterais;
+c) As fechaduras das portas exteriores devem possuir um sistema redundante para a sua abertura, que obrigue à intervenção quer do condutor, quer de um dos vigilantes transportadores;
+6) Os vidros da viatura devem ser fixos e à prova de bala, com um nível de protecção adequado a munições até 9 mm;
+7) Os veículos devem dispor de sistemas de segurança ligados a centro de controlo de operações de transporte de valores, guarda, tratamento e distribuição de valores, que possibilitem, designadamente através de GPS:
+a) O registo e acompanhamento de itinerários das rotas;
+b) A identificação imediata da localização da viatura;
+c) O bloqueio automático do veículo em caso de paragem forçada ou outra situação de emergência, a ser activado pela tripulação, ou pelo centro de controlo;
+d) Sistema de comunicações com o centro de controlo;
+e) Possibilidade de abertura da zona de carga somente em locais a determinar;
+8) A entrada de ar do exterior deve ser canalizada por orifícios de dimensões tais que não permitam a entrada de objectos estranhos que perturbem a ordem e o bem-estar dos ocupantes e a entrada de projécteis lançados do exterior;
+9) Os veículos devem estar dotados de ar condicionado/aquecimento nas zonas do condutor e do vigilante transportador;
+10) No tocante aos órgãos vitais do veículo deve ser assegurada a protecção:
+a) Do depósito de combustível, que pode ser feita pelo prolongamento da carroçaria, tão junto do solo quanto possível, desde que não ponha em perigo a circulação do veículo, mediante a colocação de uma caixa blindada, com espessura e material com características técnicas capazes de resistirem à perfuração de balas disparadas por armas convencionais;
+b) Da bateria ou baterias do veículo, que devem estar devidamente colocadas e, se possível, no interior das viaturas;
+11) Os pneumáticos que equipam o veículo:
+a) Devem possuir propriedades que permitam continuar a rolar, mesmo depois de acidentados;
+b) Na eventualidade de não possuírem as propriedades que lhes permitam rolar mesmo depois de acidentados, os veículos devem possuir uma protecção eficaz, que não pode por em perigo a segurança rodoviária.
+12) Os veículos devem ser equipados com um sistema de alarme, accionado a partir da cabina ou do compartimento de carga, que faça ouvir na via pública um sinal sonoro de adequada intensidade, e, simultaneamente, accione faróis ou indicadores de mudança de direcção;
+13) No interior da cabina e do compartimento de valores devem existir extintores, com uma capacidade total mínima de 5 kg;
+14) No período de cinco anos, as viaturas já existentes devem ser adaptadas por forma a cumprir as regras definidas na presente disposição.
+3.º
+Os novos veículos das empresas de segurança devem obedecer às regras constantes da disposição anterior.
+4.º
+O transporte de valores até (euro) 10 000 pode ser efectuado em veículos automóveis ligeiros, com habitáculo de carga fechada e separada por meio físico da zona de condução e com acesso condicionado, do interior à zona de carga, devendo estar equipados com sistema de comunicação ligado a centro de controlo.
+5.º
+1 - No transporte de valores superiores a (euro) 10 000, a tripulação mínima deve integrar três elementos, com categoria profissional de vigilante de transporte de valores, um dos quais, indistintamente, será o condutor.
+2 - Por «vigilante de transporte de valores» entende-se o trabalhador que manuseia e transporta notas, moedas, títulos e outros valores e conduz os meios de transporte apropriados, conforme definido no contrato colectivo de trabalho do sector.
+3 - Aos vigilantes de transporte de valores é atribuída nominativamente uma credencial correspondente a um cartão de identificação específico, a emitir segundo especificações constantes de despacho do Ministro da Administração Interna.
+4 - O disposto no n.º 1 desta disposição é cumprido no prazo máximo de um ano a partir da publicação da presente portaria.
+6.º
+1 - Os veículos destinados ao transporte de valores devem possuir o distintivo especial de sinalização exterior, de modelo aprovado por despacho do Ministro da Administração Interna.
+2 - Os distintivos devem ser colocados à frente, à retaguarda e nos painéis laterais, de modo a serem visíveis pelas entidades competentes de fiscalização rodoviária.
+7.º
+1 - Para o exercício das suas funções, os veículos de transporte de valores devem estacionar no local mais próximo do ponto de entrada e saída do vigilante, designadamente junto dos bancos e respectivas dependências, centros comerciais, grandes áreas ou supermercados, tesourarias da Fazenda Pública e outras entidades que movimentem diariamente grandes valores.
+2 - Nos clientes onde estejam instaladas ATM com localização crítica em termos de risco mas não exista área individualizada ou reservada à execução das missões dos vigilantes porta-valores, devem ser adoptadas na área destinada a comércio as medidas de segurança apropriadas durante o período em que decorram operações de transporte de valores.
+8.º
+1 - Sempre que exista necessidade de manuseamento de valores ou de dispositivos que contenham valores, essa operação deve ocorrer em área reservada, sem que haja acesso de terceiros.
+2 - O manuseamento de equipamentos de dispensação de valores, só pode ser efectuado desde que esses equipamentos possuam dispositivos de alarme de protecção aos vigilantes, devidamente ligado a uma central de monitorização de alarmes.
+3 - A delimitação de áreas reservadas para manuseamento de valores, nos termos do n.º 1 desta disposição, deve ser feita no prazo máximo de um ano a partir da publicação da presente portaria.
+9.º
+A Polícia de Segurança Pública:
+a) Emite parecer prévio sobre o licenciamento de veículos destinados ao transporte de valores;
+b) Assegura a inspecção dos veículos destinados ao transporte de valores quando tiverem sofrido acidente que obrigue a interrupção de circulação por prazo superior a 90 dias;
+c) Recebe e regista a identificação dos veículos afectos ao transporte, guarda, tratamento e distribuição de valores, cuja comunicação pelas empresas é obrigatória.
+10.º
+As entidades de segurança privada, detentoras de alvará ou licença, previstas na alínea d) do n.º 1 do artigo 2.º do Decreto-Lei n.º 35/2004, de 21 de Fevereiro, asseguram o cumprimento das condições fixadas pela presente portaria no prazo máximo de um ano após a sua publicação.
+11.º
+É revogada a Portaria n.º 25/99, de 16 de Janeiro.
+O Ministro da Administração Interna, Rui Carlos Pereira, em 14 de Março de 2008.
