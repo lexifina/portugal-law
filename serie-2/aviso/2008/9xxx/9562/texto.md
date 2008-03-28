@@ -1,0 +1,6 @@
+Aviso n.º 9562/2008
+Dr. Carlos Alberto Nazaré Almeida, presidente da Câmara Municipal de Rio Maior, torna público que, por deliberação tomada por esta Câmara Municipal na sua reunião ordinária de 15 de Fevereiro de 2008, em conformidade com o disposto no artigo 3.º do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro, alterado e republicado pela Lei n.º 60/2007, de 4 de Setembro, se submete a apreciação pública, pelo período de 30 dias a contar da publicação do presente aviso na 2.ª série do Diário da República, o projecto de alteração do n.º 5 do Regulamento de Ocupação dos Lotes da Zona Industrial de Rio Maior, no que respeita ao índice de implantação dos lotes L3, que passa a ser de 0,50.
+O processo com o projecto de alteração poderá ser consultado no Departamento de Urbanismo e Ordenamento do Território da Câmara Municipal de Rio Maior, no horário normal de expediente.
+Poderão ser apresentados, por escrito e dirigido ao presidente da Câmara Municipal, quaisquer observações ou sugestões, ou através de endereço electrónico: cmriomaior@mail.telepac.pt.
+5 de Março de 2008. - O Presidente da Câmara, Carlos Alberto Nazaré Almeida.
+2611101483
