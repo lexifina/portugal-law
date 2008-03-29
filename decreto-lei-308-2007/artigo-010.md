@@ -1,9 +1,9 @@
 # Artigo 10.º
 
-### Aprovação das candidaturas
+### Hierarquização das candidaturas
 
-1 - As candidaturas formalizadas estão sujeitas a aprovação pelo IHRU, I. P., de acordo com os critérios definidos no artigo 7.º da Portaria n.º 277-A/2010, de 21 de maio, na sua redação atual, até ao limite da dotação orçamental anual.
+1 - As candidaturas formalizadas estão sujeitas a aprovação pelo IHRU, de acordo com uma determinada ordem de precedência, até ao limite das verbas fixado para cada período de abertura de candidaturas.
 
-2 - (Revogado.)
+2 - Na hierarquização das candidaturas relevam positivamente, entre outros elementos regulados na portaria prevista no n.º 3 do artigo 6.º, os rendimentos do jovem ou do agregado jovem, a existência de menores e de pessoas com deficiência no agregado e os rendimentos dos ascendentes quando inferiores a três remunerações mínimas mensais garantidas (RMMG) na acepção prevista no n.º 1 do artigo 266.º do Código do Trabalho.
 
 3 - As condições e os procedimentos relativos à instrução das candidaturas são regulados na portaria prevista no n.º 3 do artigo 6.º

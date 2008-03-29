@@ -1,13 +1,13 @@
 ## Capítulo IV
 
-## Candidaturas subsequentes
+## Renovações
 
 # Artigo 14.º
 
-### Condições das candidaturas subsequentes
+### Condições de renovação
 
-1 - As candidaturas subsequentes ao apoio financeiro concedido ao abrigo do Porta 65 - Jovem dependem do cumprimento pelos beneficiários dos requisitos de acesso ao apoio.
+1 - A renovação do apoio financeiro concedido ao abrigo do Porta 65 - Jovem depende do cumprimento pelos beneficiários, em geral, das obrigações inerentes ao acesso ao apoio nos termos do presente decreto-lei e, em especial, dos requisitos fixados nas alíneas d) e e) do n.º 1 do artigo 7.º, sem prejuízo do disposto no n.º 3 do mesmo artigo.
 
-2 - Exceptua-se do disposto no número anterior a aplicação da alínea b) do n.º 1 do artigo 7.º, no que respeita ao arrendamento, para as situações de beneficiários deste programa que, em candidaturas subsequentes, pretendam alterar a fracção arrendada.
+2 - (Revogado).
 
-3 - O cumprimento dos requisitos referidos no n.º 1 é avaliado à data da apresentação da candidatura subsequente.
+3 - O cumprimento dos requisitos referidos no n.º 1 é avaliado à data de apresentação do pedido de renovação.
