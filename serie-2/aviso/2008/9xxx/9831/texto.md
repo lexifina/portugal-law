@@ -1,0 +1,4 @@
+Aviso n.º 9831/2008
+No uso das competências que se encontram previstas na alínea a) do n.º 6 do artigo 64º, e, alínea a) do n.º 2 do artigo 53º, ambos da Lei n.º 169/99 de 18.09, com a redacção introduzida pela Lei n.º 5-A/2002 de 11.01, torna-se público, que o Projecto de Regulamento da Piscina Municipal de Odemira, publicado no Diário da República n.º 237, 2.ª série, de 10 de Dezembro de 2007, após o decurso do prazo para apreciação pública nos termos do Código do Procedimento Administrativo, não se tendo registado quaisquer sugestões ou reclamações, foi aprovado, de forma definitiva, em Regulamento, em reunião ordinária da Câmara Municipal realizada em 07.02.2008, e em sessão ordinária da Assembleia Municipal realizada em 28.02.2008.
+18 de Março de 2008. - O Presidente da Câmara, António Manuel Camilo Coelho.
+2611101882
