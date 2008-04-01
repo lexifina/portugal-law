@@ -12,7 +12,7 @@ b) Compare bens ou serviços que respondam às mesmas necessidades ou que tenham
 
 c) Compare objectivamente uma ou mais características essenciais, pertinentes, comprováveis e representativas desses bens ou serviços, entre as quais se pode incluir o preço;
 
-d) Não gere confusão no mercado entre o anunciante e um concorrente ou entre marcas, designações comerciais, outros sinais distintivos, bens ou serviços do anunciante ou de um concorrente;
+d) Não gere confusão no mercado entre os profissionais, entre o anunciante e um concorrente ou entre marcas, designações comerciais, outros sinais distintivos, bens ou serviços do anunciante e os de um concorrente;
 
 e) Não desacredite ou deprecie marcas, designações comerciais, outros sinais distintivos, bens, serviços, actividades ou situação de um concorrente;
 
