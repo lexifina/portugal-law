@@ -1,0 +1,63 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "tipo": "Proposta de Resolução",
+  "numero": "76",
+  "id": "33820",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2008-04-02",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2008-09-14",
+    "DataInicioleg": "2007-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a413159545577596a526b4c5467314e6a49744e446469595331684e6a597a4c545a6b4e6d5a694d7a6b314f5449355979356b62324d3d&fich=05a50b4d-8562-47ba-a663-6d6fb395929c.doc&Inline=true",
+        "anexoNome": "Convénio entre a República Portuguesa e o Principado de Andorra  relativo à entrada, circulação, estadia e estabelecimento dos seus nacionais (versão Portuguesa)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324d344d5749314e47526a4c5451354f5745744e444d784f5331684e6a5a6b4c574a6b4d6d526c4f445a6d4f4759345979356b62324d3d&fich=c81b54dc-499a-4319-a66d-bd2de86f8f8c.doc&Inline=true",
+        "anexoNome": "Convénio entre a República Portuguesa e o Principado de Andorra  relativo à entrada, circulação, estadia e estabelecimento dos seus nacionais (versão Catalã)"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "33820",
+    "IniLeg": "X",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a497a4e575a6d5a57526b4c544d325a6a4d744e474d344d5331694e444e6c4c5449774d7a4d774e3251334f54426b4e79356b62324d3d&fich=235ffedd-36f3-4c81-b43e-203307d790d7.doc&Inline=true",
+    "IniNr": "76",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova o Convénio entre a República Portuguesa e o Principado de Andorra relativo à Entrada, Circulação, Estadia e Estabelecimento dos seus Nacionais, assinado em Lisboa, a 23 de Julho de 2007.",
+    "Links": null,
+    "Peticoes": [
+      {
+        "assunto": "Solicita a intervenção do Senhor Presidente da Assembleia da República, no sentido de ser ratificado, com a brevidade possível, o Convénio entre a República Portuguesa e o Principado de Andorra, assinatura em 23 de Julho de 2007.",
+        "dcl": null,
+        "descTipo": null,
+        "id": "11745",
+        "legislatura": "X",
+        "numero": "414",
+        "sessao": "3",
+        "tipo": null
+      }
+    ],
+    "PropostasAlteracao": null
+  }
+}
