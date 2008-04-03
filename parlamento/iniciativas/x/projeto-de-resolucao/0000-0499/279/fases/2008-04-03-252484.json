@@ -1,0 +1,531 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "279",
+    "id": "33743",
+    "titulo": "Sobre riscos de inundações."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2008-04-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "6168",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2008-04-03",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "33799",
+        "leg": "X",
+        "nr": "296",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1248",
+            "obs": null,
+            "pag": [
+              "35-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2008-04-04",
+            "pubLeg": "X",
+            "pubNr": "67",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/35?pgs=35-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1248",
+            "obs": null,
+            "pag": [
+              "35-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2008-04-04",
+            "pubLeg": "X",
+            "pubNr": "67",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/35?pgs=35-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1248",
+            "obs": null,
+            "pag": [
+              "35-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2008-04-04",
+            "pubLeg": "X",
+            "pubNr": "67",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/35?pgs=35-40&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Prevenção de Riscos e Medidas de Intervenção em Caso de Inundações."
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "33803",
+        "leg": "X",
+        "nr": "298",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1248",
+            "obs": null,
+            "pag": [
+              "35-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2008-04-04",
+            "pubLeg": "X",
+            "pubNr": "67",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/35?pgs=35-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1248",
+            "obs": null,
+            "pag": [
+              "35-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2008-04-04",
+            "pubLeg": "X",
+            "pubNr": "67",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/35?pgs=35-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1248",
+            "obs": null,
+            "pag": [
+              "35-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2008-04-04",
+            "pubLeg": "X",
+            "pubNr": "67",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/35?pgs=35-40&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a criação do Fundo de Emergência Municipal."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "21124",
+        "leg": "X",
+        "nr": "91",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1248",
+            "obs": null,
+            "pag": [
+              "35-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2008-04-04",
+            "pubLeg": "X",
+            "pubNr": "67",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/35?pgs=35-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1248",
+            "obs": null,
+            "pag": [
+              "35-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2008-04-04",
+            "pubLeg": "X",
+            "pubNr": "67",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/35?pgs=35-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1248",
+            "obs": null,
+            "pag": [
+              "35-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2008-04-04",
+            "pubLeg": "X",
+            "pubNr": "67",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/35?pgs=35-40&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que tome medidas para a minimização de danos materiais e humanos consequente de episódios sísmicos."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2008-04-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2266",
+                "nome": "João Serrano"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167932",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-04-04",
+                "pubLeg": "X",
+                "pubNr": "67",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "Sobre riscos de inundações; Recomenda ao Governo que tome medidas para a minimização de danos materiais e humanos consequente de episódios sísmicos; Recomenda ao Governo a criação do Fundo de Emergência Municipal; Recomenda ao Governo a suspensão do encerramento de serviços de saúde e uma orientação para o processo de requalificação das urgências hospitalares e da rede de socorro pré-hospitalar.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167933",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-04-04",
+                "pubLeg": "X",
+                "pubNr": "67",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Sobre riscos de inundações; Recomenda ao Governo que tome medidas para a minimização de danos materiais e humanos consequente de episódios sísmicos; Recomenda ao Governo a criação do Fundo de Emergência Municipal; Recomenda ao Governo a suspensão do encerramento de serviços de saúde e uma orientação para o processo de requalificação das urgências hospitalares e da rede de socorro pré-hospitalar.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1656",
+                "nome": "António Carlos Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167934",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-04-04",
+                "pubLeg": "X",
+                "pubNr": "67",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Sobre riscos de inundações; Recomenda ao Governo que tome medidas para a minimização de danos materiais e humanos consequente de episódios sísmicos; Recomenda ao Governo a criação do Fundo de Emergência Municipal; Recomenda ao Governo a suspensão do encerramento de serviços de saúde e uma orientação para o processo de requalificação das urgências hospitalares e da rede de socorro pré-hospitalar.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167936",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-04-04",
+                "pubLeg": "X",
+                "pubNr": "67",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Sobre riscos de inundações; Recomenda ao Governo que tome medidas para a minimização de danos materiais e humanos consequente de episódios sísmicos; Recomenda ao Governo a criação do Fundo de Emergência Municipal; Recomenda ao Governo a suspensão do encerramento de serviços de saúde e uma orientação para o processo de requalificação das urgências hospitalares e da rede de socorro pré-hospitalar.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "167939",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-04-04",
+                "pubLeg": "X",
+                "pubNr": "67",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Sobre riscos de inundações; Recomenda ao Governo que tome medidas para a minimização de danos materiais e humanos consequente de episódios sísmicos; Recomenda ao Governo a criação do Fundo de Emergência Municipal; Recomenda ao Governo a suspensão do encerramento de serviços de saúde e uma orientação para o processo de requalificação das urgências hospitalares e da rede de socorro pré-hospitalar.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "252484",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "429509",
+        "obs": null,
+        "pag": [
+          "34-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-04-04",
+        "pubLeg": "X",
+        "pubNr": "67",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/067/2008-04-04/34?pgs=34-40&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
