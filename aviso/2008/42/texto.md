@@ -1,0 +1,5 @@
+Aviso n.º 42/2008
+Por ordem superior se torna público que, em 10 de Fevereiro de 2004 e em 11 de Maio de 2007, foram emitidas notas, respectivamente pelo Governo da República da Indonésia e pelo Governo da República Portuguesa, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação da Convenção entre a República da Indonésia e a República Portuguesa para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 9 de Julho de 2003.
+Por parte de Portugal, a Convenção foi ratificada pelo Decreto do Presidente da República n.º 118/2006 e aprovada pela Resolução da Assembleia da República n.º 64/2006, publicados no Diário da República, 1.ª série, n.º 234, de 6 de Dezembro de 2006.
+Nos termos do n.º 1 do artigo 28.º da Convenção, esta entrou em vigor no dia 11 de Maio de 2007.
+Direcção-Geral de Política Externa, 28 de Março de 2008. - O Director-Geral, Vasco Luís Pereira Bramão Ramos.
