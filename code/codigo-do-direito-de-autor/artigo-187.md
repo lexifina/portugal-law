@@ -15,3 +15,5 @@ d) A colocação das suas emissões à disposição do público, por fio ou sem 
 e) A comunicação ao público das suas emissões, quando essa comunicação é feita em lugar público e com entradas pagas.
 
 2 - Ao distribuidor por cabo que se limita a efectuar a retransmissão de emissões de organismos de radiodifusão não se aplicam os direitos previstos neste artigo.
+
+3 - Presume-se titular de direitos conexos sobre uma emissão de radiodifusão aquele cujo nome ou denominação tiver sido indicado como tal na respectiva emissão, conforme o uso consagrado.
