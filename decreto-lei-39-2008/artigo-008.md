@@ -2,7 +2,7 @@
 
 ### Capacidade
 
-1 - Para o único efeito da exploração turística, e com excepção do disposto no n.º 4, a capacidade dos empreendimentos turísticos é determinada pelo correspondente número de camas fixas instaladas nas unidades de alojamento.
+1 - Para o único efeito da exploração turística, e com excepção do disposto no n.º 4, a capacidade dos empreendimentos turísticos é determinada pelo correspondente número e tipo de camas (individual ou duplo) fixas instaladas nas unidades de alojamento.
 
 2 - Nas unidades de alojamento podem ser instaladas camas convertíveis desde que não excedam o número das camas fixas.
 

@@ -4,6 +4,6 @@
 
 1 - Os estabelecimentos hoteleiros devem dispor, no mínimo, de 10 unidades de alojamento.
 
-2 - Os estabelecimentos hoteleiros podem ocupar a totalidade ou uma parte independente, constituída por pisos completos, de um ou mais edifícios, desde que os edifícios em causa constituam, entre eles, um conjunto de espaços contíguos, ou desde que, entre eles, exista uma área de utilização comum.
+2 - Os estabelecimentos hoteleiros podem ocupar uma parte independente de um edifício, constituída por pisos completos e contíguos, ou a totalidade de um ou mais edifícios que constituam um conjunto harmónico e articulado entre si, inserido num conjunto de espaços contíguos, apresentando expressão arquitectónica e características funcionais coerentes.
 
 3 - Num mesmo edifício podem ser instalados estabelecimentos hoteleiros de diferentes grupos ou categorias.

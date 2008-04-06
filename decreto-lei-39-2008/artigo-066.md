@@ -1,7 +1,3 @@
-## Capítulo IX
-
-## Declaração de interesse para o turismo
-
 ## Capítulo X
 
 ## Fiscalização e sanções

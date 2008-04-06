@@ -1,21 +1,13 @@
 ## Secção X
 
-## Turismo de natureza
+## Empreendimentos de turismo de natureza
 
 # Artigo 20.º
 
-### Turismo de natureza
+### Noção de empreendimentos de turismo de natureza
 
-1 - [Revogado].
+1 - São empreendimentos de turismo de natureza os estabelecimentos que se destinem a prestar serviços de alojamento a turistas, em áreas classificadas ou noutras áreas com valores naturais, dispondo para o seu funcionamento de um adequado conjunto de instalações, estruturas, equipamentos e serviços complementares relacionados com a animação ambiental, a visitação de áreas naturais, o desporto de natureza e a interpretação ambiental.
 
-2 - (Revogado).
+2 - Os empreendimentos de turismo de natureza são reconhecidos como tal, pelo Instituto de Conservação da Natureza e da Biodiversidade, I. P., de acordo com os critérios definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e do turismo.
 
-3 - [Revogado].
-
-4 - O reconhecimento de empreendimentos turísticos como turismo de natureza compete ao Instituto de Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), nos termos definidos por portaria dos membros do Governo responsáveis pelas áreas da conservação da natureza e do turismo.
-
-5 - (Revogado).
-
-6 - (Revogado).
-
-7 - O reconhecimento de empreendimentos turísticos como turismo de natureza está isento de qualquer taxa.
+3 - Os empreendimentos de turismo de natureza adoptam qualquer das tipologias previstas nas alíneas a) a g) do n.º 1 do artigo 4.º, devendo obedecer aos requisitos de instalação, classificação e funcionamento previstos para a tipologia adoptada.

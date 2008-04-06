@@ -4,7 +4,7 @@
 
 1 - É livre o acesso aos empreendimentos turísticos, salvo o disposto nos números seguintes.
 
-2 - A entidade exploradora ou o responsável pelo empreendimento turístico podem recusar o acesso ao mesmo, a quem perturbe o seu funcionamento normal.
+2 - Pode ser recusado o acesso ou a permanência nos empreendimentos turísticos a quem perturbe o seu funcionamento normal.
 
 3 - O disposto no n.º 1 não prejudica, desde que devidamente publicitadas:
 

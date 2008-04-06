@@ -6,14 +6,12 @@ Os conjuntos turísticos (resorts) devem possuir, no mínimo, e para além dos r
 
 a) Vias de circulação internas que permitam o trânsito de veículos de emergência;
 
-b) Vias de circulação interna com uma largura mínima de 3 m ou 5 m, conforme sejam de sentido único ou duplo, quando seja permitido o trânsito de veículos automóveis, salvo quando admitidos limites mínimos inferiores em plano municipal de ordenamento do território aplicável;
+b) Áreas de estacionamento de uso comum;
 
-c) Áreas de estacionamento de uso comum;
+c) Espaços e áreas verdes exteriores envolventes para uso comum;
 
-d) Espaços e áreas verdes exteriores envolventes para uso comum;
+d) Portaria;
 
-e) Portaria;
+e) Piscina de utilização comum;
 
-f) Piscina de utilização comum;
-
-g) Equipamentos de desporto e lazer.
+f) Equipamentos de desporto e lazer.

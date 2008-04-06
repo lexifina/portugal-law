@@ -6,16 +6,30 @@
 
 ### Noção de conjunto turístico (resort)
 
-1 - São conjuntos turísticos (resorts) os empreendimentos turísticos constituídos por núcleos de instalações funcionalmente interdependentes, situados em espaços com continuidade territorial, ainda que atravessados por estradas municipais e caminhos municipais já existentes, linhas de água e faixas de terreno afetas a funções de proteção e conservação de recursos naturais, destinados a proporcionar alojamento e serviços complementares de apoio a turistas, sujeitos a uma administração comum de serviços partilhados e de equipamentos de utilização comum, que integrem pelo menos dois empreendimentos turísticos de um dos tipos previstos no n.º 1 do artigo 4.º, sendo obrigatoriamente um deles um estabelecimento hoteleiro.
+1 - São conjuntos turísticos (resorts) os empreendimentos turísticos constituídos por núcleos de instalações funcionalmente interdependentes, situados em espaços com continuidade territorial, ainda que atravessados por estradas e caminhos municipais, linhas ferroviárias secundárias, linhas de água e faixas de terreno afectas a funções de protecção e conservação de recursos naturais, destinados a proporcionar alojamento e serviços complementares de apoio a turistas, sujeitos a uma administração comum de serviços partilhados e de equipamentos de utilização comum, que integrem pelo menos dois empreendimentos turísticos, sendo obrigatoriamente um deles um estabelecimento hoteleiro de cinco ou quatro estrelas, um equipamento de animação autónomo e um estabelecimento de restauração.
 
-2 - [Revogado].
+2 - Para efeitos do disposto no presente artigo, consideram-se equipamentos de animação autónomos, nomeadamente:
 
-3 - [Revogado].
+a) Campos de golfe;
 
-4 - Sem prejuízo do disposto no artigo 10.º, nos conjuntos turísticos (resorts) só podem instalar-se empreendimentos turísticos, ainda que de diferentes categorias.
+b) Marinas, portos e docas de recreio;
 
-5 - [Revogado].
+c) Instalações de spa, balneoterapia, talassoterapia e outras semelhantes;
 
-6 - Quando instalados em conjuntos turísticos (resorts), os aldeamentos turísticos consideram-se sempre situados em espaços com continuidade territorial.
+d) Centros de convenções e de congressos;
 
-7 - [Revogado].
+e) Hipódromos e centros equestres;
+
+f) Casinos;
+
+g) Autódromos e kartódromos;
+
+h) Parques temáticos;
+
+i) Centros e escolas de mergulho.
+
+3 - O estabelecimento de restauração pode ser parte integrante de um dos empreendimentos turísticos que integram o conjunto turístico (resort).
+
+4 - Sem prejuízo do disposto no artigo 10.º, nos conjuntos turísticos (resorts) só podem instalar-se empreendimentos turísticos.
+
+5 - Podem ser instalados num conjunto turístico (resort) empreendimentos turísticos de diferentes categorias.
