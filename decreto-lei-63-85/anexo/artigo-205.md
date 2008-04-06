@@ -1,6 +1,6 @@
 # Artigo 205.º
 
-### (Das contra-ordenações)
+### Das contra-ordenações
 
 1 - Constitui contra-ordenação punível com coima de 50000$00 a 500000$00:
 
@@ -11,3 +11,5 @@ b) A falta de comunicação pelos fabricantes e duplicadores de fonogramas e vid
 2 - Constitui contra-ordenação punível com coima de 20000$00 a 200000$00 a inobservância do disposto nos artigos 97.º, 115.º, n.º 4, 126.º, n.º 2, 134.º, 142.º, 154.º, 160.º, n.º 3, 171.º e 185.º e, não se dispensando indicação do nome ou pseudónimo do artista, também no artigo 180.º, n.º 1.
 
 3 - A negligência é punível.
+
+4 - Pode ser determinada a publicidade da decisão condenatória, sendo aplicável, com as necessárias adaptações o disposto no artigo 211.º-A.
