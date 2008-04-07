@@ -1,0 +1,5 @@
+Aviso n.º 44/2008
+Por ordem superior se torna público que, em 27 de Setembro de 1999 e em 21 de Fevereiro de 2000, foram emitidas notas, respectivamente pela Embaixada da República Democrática Socialista do Sri Lanka em Bruxelas e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, em que se comunica terem sido cumpridas as respectivas formalidades internas de aprovação do Acordo Cultural entre a República Portuguesa e a República Democrática Socialista do Sri Lanka, assinado em Lisboa em 19 de Fevereiro de 1999.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 1/2000, de 11 de Janeiro, publicado no Diário da República, 1.ª série, n.º 8, da mesma data.
+Nos termos do artigo 16.º do Acordo, este entrou em vigor na data da última notificação pela qual as Partes se informaram, por via diplomática, de que foram cumpridos os respectivos requisitos constitucionais exigidos para o efeito, ou seja, dia 21 de Fevereiro de 2000.
+Direcção-Geral de Política Externa, 28 de Março de 2008. - O Director-Geral, Vasco Bramão Ramos.
