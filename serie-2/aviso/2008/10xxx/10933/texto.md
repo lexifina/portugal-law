@@ -1,0 +1,7 @@
+Aviso n.º 10933/2008
+Nuno Miguel Fernandes Mocinha, Vice-presidente da Câmara Municipal de Elvas:
+Torna público que, de harmonia com o artigo 77º do Decreto-Lei n.º 380/99 de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 316/07 de 19 de Setembro e de acordo com a deliberação camarária de 26 de Março de 2008, irá proceder ao período de discussão pública da Alteração do Plano Director Municipal de Elvas (artigos 12º, 14º, 16º, 17º, 19º, 21º e 24º).
+O período de discussão pública terá a duração de 30 dias a contar de 5 dias após a data da publicação do aviso no Diário da República.
+A Alteração do Plano Director Municipal que consta de regulamento, estudos de caracterização para o ordenamento, pareceres das entidades e acta da conferencia de serviços e a informação técnica dos Serviços Municipais encontram-se disponíveis durante o horário normal de funcionamento na Divisão de Administração Urbanística da Câmara Municipal de Elvas, onde poderão ser consultadas para eventuais observações, sugestões e pedidos de esclarecimento, encontrando-se disponível na pagina da Internet em www.cm-elvas.pt.
+As observações e sugestões dos interessados deverão ser devidamente fundamentadas e apresentadas por escrito, mediante identificação completa dos seus autores e entregues durante o período de discussão pública na Divisão de Administração Urbanística da Câmara Municipal de Elvas.
+28 de Março de 2008. - O Vice-Presidente da Câmara, Nuno Miguel Fernandes Mocinha.
