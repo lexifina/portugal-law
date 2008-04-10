@@ -1,0 +1,7 @@
+Edital n.º 358/2008
+Alteração ao capítulo VIII (urbanização, edificações e fiscalização) da tabela anexa ao regulamento de taxas, licenças, tarifas, prestação de serviços e posturas municipais
+António Manuel dos Santos Mendes, Presidente da Câmara Municipal de Constância:
+Torna público, no uso da competência que lhe confere o n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de Setembro, republicada pela Lei n.º 5-A/2002, de 11 de Janeiro, que esta Câmara Municipal, em sua reunião ordinária realizada no dia 19 de Março de 2008, deliberou aprovar uma alteração ao Capítulo VIII (Urbanização, Edificações e Fiscalização) da Tabela anexa ao Regulamento de Taxas, Licenças, Tarifas, Prestação de Serviços e Posturas Municipais, e que, para efeitos do que determina o artigo 118.º do Código do Procedimento Administrativo, o mesmo é submetido a apreciação pública. Assim, pelo prazo de 30 (30 dias) a contar da data desta publicação no Diário da República, devem os interessados consultar o Edital em causa, que estará afixado no átrio do Edifício dos Paços do Município de Constância e sobre o qual poderão dirigir, por escrito, as suas sugestões, à Câmara Municipal.
+Para conhecimento geral se publica este edital e outros de igual teor que se afixam nos lugares públicos do Município.
+E eu, Francisco José Caipirra Covas, Chefe da Divisão Administrativa, o subscrevi.
+1 de Abril de 2008. - O Presidente da Câmara, António Manuel dos Santos Mendes.
