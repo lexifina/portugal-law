@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal Administrativo de 2008-04-10, processo 058/07
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 058/07
+
+**Data do Acordão:** 04/10/2008
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** JOÃO BELCHIOR
+
+**Descritores:** ESTATUTO DOS MILITARES DAS FORÇAS ARMADAS; RECURSO POR OPOSIÇÃO DE JULGADOS; ACÓRDÃO FUNDAMENTO; PRINCÍPIOS CONSTITUCIONAIS DA IGUALDADE E DA TUTELA JURISDICIONAL EFECTIVA; PENSÃO DE REFORMA; CÁLCULO DA PENSÃO; TEMPO DE SERVIÇO; APLICAÇÃO DA LEI NO TEMPO; LEI INOVADORA
+
+**Nº Convencional:** JSTA0008980
+
+**Nº do Documento:** SAP20080410058
+
+**Recorrente:** PRES DO CONSELHO DE ADMINISTRAÇÃO DA CAIXA GERAL DE APOSENTAÇÕES
+
+**Recorrido 1:** A...
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Decorre do disposto no nº 2 do artº 766º do CPC, anterior redacção, a contrario sensu, que, pese embora o acórdão indicado como fundamento ainda não haja transitado em julgado aquando da interposição do recurso por oposição de acórdãos, não deixará de conhecer-se do recurso se na data em que vai decidir-se sobre a oposição o trânsito já se houver verificado.
+
+II - Uma tal interpretação da citada norma não viola os princípios constitucionais da tutela jurisdicional efectiva e da igualdade.
+
+III - Para se afirmar a oposição de julgados é necessário que as decisões em confronto hajam sido proferidas no domínio do mesmo quadro normativo e que relativamente à mesma questão fundamental de direito, tenham perfilhado, de forma expressa, soluções opostas, ou seja, que hajam aplicado os mesmos preceitos legais, de forma divergente, a idênticas situações de facto;
+
+IV - Ocorre oposição de julgados entre dois arestos que, perante idêntica matéria factual, decidiram: num caso (o do acórdão recorrido), que o disposto no artigo 44.º, n.º 3, do EMFAR/99 é aplicável aos militares reformados antes da entrada em vigor daquele Estatuto; no outro (o do acórdão fundamento), que aquele preceito não era aplicável aos militares reformados antes da entrada em vigor daquele Estatuto.
+
+V - A norma do art. 44º, nº 3 do EMFA/99, aprovado pelo DL nº 236/99, de 25 de Junho, na redacção dada pela Lei nº 25/2000, de 23 de Agosto, segundo a qual passou a relevar, para efeito do cálculo da pensão de reforma, o tempo de permanência do militar na reserva fora da efectividade de serviço, tem carácter inovatório, sendo inaplicável retroactivamente às relações jurídicas estabelecidas anteriormente à sua vigência.
+
+VI - Desse modo, a referida norma não se aplica aos militares que se reformaram ao abrigo do regime do EMFA/90, aprovado pelo DL nº 34-A/90, de 24 de Janeiro, à luz do qual o tempo de permanência do militar na reserva fora da efectividade de serviço não relevava para efeito do cálculo da pensão de reforma.
