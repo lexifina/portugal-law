@@ -1,0 +1,4 @@
+Aviso n.º 11186/2008
+Francisco Maria Moita Flores, Presidente da Câmara Municipal de Santarém, torna público que o Regulamento Municipal de Toponímia e Numeração de Polícia, depois de decorrido o prazo para apreciação pública nos termos do artigo 118.º do Código do Procedimento Administrativo, não se tendo registado quaisquer sugestões ou reclamações, foi aprovado definitivamente por deliberação do Executivo Municipal, em reunião ordinária realizada em 17 de Dezembro de 2007, e em sessão ordinária da Assembleia Municipal realizada em 18 de Janeiro de 2008, mantendo-se na íntegra o texto do projecto de regulamento publicado no Diário da República na 2.ª série n.º 194, de 9 de Outubro de 2007 (Aviso n.º 19 302-B/2007).
+1 de Abril de 2008. - O Presidente da Câmara, Francisco Maria Moita Flores.
+2611105273
