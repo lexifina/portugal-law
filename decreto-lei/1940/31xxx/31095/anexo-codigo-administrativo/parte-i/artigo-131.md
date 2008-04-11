@@ -1,3 +1,47 @@
+## Secção III
+
+## Administrações dos bairros
+
+## Capítulo VI
+
+## Dos órgãos municipais consultivos
+
+## Secção I
+
+## Disposições gerais
+
+## Secção II
+
+## Comissão municipal de higiene
+
+## Secção III
+
+## Comissão municipal de arte e arqueologia
+
+## Secção IV
+
+## Comissão venatória concelhia
+
+## Secção V
+
+## Grémios e sindicatos nacionais
+
+## Capítulo VII
+
+## Das zonas do turismo
+
+## Secção I
+
+## Disposições gerais
+
+## Secção II
+
+## Zonas de turismo administradas pelas câmaras municipais
+
+## Secção III
+
+## Zonas de turismo administradas pelas juntas de turismo
+
 # Artigo 131.º
 
 Ao administrador delegado da junta de turismo compete:
