@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 19/2008
+Por ter sido publicado com inexactidão o Acórdão do Supremo Tribunal de Justiça n.º 4/2008 no Diário da República, 1.ª série, n.º 67, de 4 de Abril de 2008, rectifica-se que onde se lê «Uma instituição de crédito sacada que recusa o pagamento de cheque, apresentado dentro do prazo estabelecido no artigo 29.º da LULL» deve ler-se «Uma instituição de crédito sacada que recusa o pagamento de cheque, apresentado dentro do prazo estabelecido no artigo 29.º da LUCH».
+Supremo Tribunal de Justiça, 8 de Abril de 2008. - A Chefe de Divisão de Documentação e Informação Jurídica, Sofia Barreto.
