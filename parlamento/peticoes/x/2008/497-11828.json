@@ -1,0 +1,168 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11828",
+  "numero": "497",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-04-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2008-11-10",
+            "entidades": null,
+            "id": "85194",
+            "tipo": null,
+            "titulo": "Audição em 2008-11-10 com Dr. Carlos Silvino, Dra. Fernanda Coelho, Secretário-Geral da Associação de Creches"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2008-10-15",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Autoridade Nacional para a Segurança Rodoviária"
+            ],
+            "nrOficio": "216/COPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764d7a6c6c4e6a42684d324974596a5a685a5330304e6a466d4c5745334e546b745a54526a4e4463334d7a4d31596a45344c6e426b5a673d3d&fich=39e60a3b-b6ae-461f-a759-e4c477335b18.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2008-10-15",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro das Obras Públicas, Transportes e Comunicações"
+            ],
+            "nrOficio": "217/COPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764d7a6c6c4e6a42684d324974596a5a685a5330304e6a466d4c5745334e546b745a54526a4e4463334d7a4d31596a45344c6e426b5a673d3d&fich=39e60a3b-b6ae-461f-a759-e4c477335b18.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2008-10-15",
+            "dataResposta": "2008-11-10",
+            "entidades": [
+              "Ministro da Administração Interna"
+            ],
+            "nrOficio": "218/COPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764d7a6c6c4e6a42684d324974596a5a685a5330304e6a466d4c5745334e546b745a54526a4e4463334d7a4d31596a45344c6e426b5a673d3d&fich=39e60a3b-b6ae-461f-a759-e4c477335b18.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-06-25",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-05-20",
+        "DataArquivo": "2009-06-30",
+        "DataBaixaComissao": "2008-05-20",
+        "DataEnvioPAR": "2009-06-30",
+        "DataReaberta": "2008-05-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-04-16",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764d4745345a47597a4d7a4d744d6d45344d7930304e6a686b4c5467324d444d744d6a426c4d546c6b4d4459324e4456694c6e426b5a673d3d&fich=0a8df333-2a83-468d-8603-20e19d06645b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2008-04-16",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764d7a6c6c4e6a42684d324974596a5a685a5330304e6a466d4c5745334e546b745a54526a4e4463334d7a4d31596a45344c6e426b5a673d3d&fich=39e60a3b-b6ae-461f-a759-e4c477335b18.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-04-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764f444534596d55334d5755744d446b775a433030597a4d354c546734596d51744d546c694e6a51774f575a6b5a6a55304c6e426b5a673d3d&fich=818be71e-090d-4c39-88bd-19b6409fdf54.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1911",
+        "Legislatura": "X",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-05-20",
+            "gp": "PS",
+            "id": "1571",
+            "motivoCessacao": null,
+            "nome": "Isabel Jorge"
+          }
+        ],
+        "RelatorioFinal": [
+          "22501"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2008-04-16",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637939684e4441304e54566d4e6930344e4755794c54526a4d444174596d59795969307759575534595459795957466c596a51756347526d&fich=a40455f6-84e2-4c00-bf2b-0ae8a62aaeb4.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11828",
+    "PetAssunto": "Proposta de alteração da Lei 13/2006, de 17 de Abril (transporte Colectivo de crianças).",
+    "PetDataEntrada": "2008-04-16",
+    "PeticoesAssociadas": null,
+    "PetId": "11828",
+    "PetLeg": "X",
+    "PetNr": "497",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
