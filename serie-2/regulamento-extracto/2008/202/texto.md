@@ -1,0 +1,16 @@
+Regulamento (extracto) n.º 202/2008
+Em conformidade com o artigo 14º, do Decreto-Lei n.º 64/2006, de 21 de Março, o conselho científico da Escola Superior de Dança, aprovou, em reunião de 27.07.2007, uma alteração ao Regulamento das provas especialmente adequadas a avaliar a capacidade para a frequência do curso de Dança da Escola Superior de Dança de maiores de 23 anos, publicado no D.R. 2.ª série, n.º 135, de 14 de Julho de 2006, nos termos da qual o artigo 9º passa a ter a seguinte redacção:
+«Artigo 9º
+1 - ...
+a) ...
+b) ...
+c) ...
+2  - ...
+3 - O resultado final das provas práticas prestadas traduz-se numa classificação, na escala de 0 a 20 valores, calculada de acordo com a seguinte fórmula:
+(8 x Ptd + 3 x Prc + 9 x Pcc)/20
+em que:
+Ptd - é a classificação da prova técnica de dança;
+Prc - é a classificação da prova de resposta criativa;
+Pcc - é a classificação da prova de Composição Coreográfica;
+4 - Os candidatos que não obtenham a classificação mínima de 9,50 valores em cada uma das provas práticas do concurso são excluídos.»
+7 de Abril de 2008. - A Presidente do Conselho Científico, Maria José Fazenda.
