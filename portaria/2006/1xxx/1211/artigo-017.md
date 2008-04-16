@@ -1,3 +1,7 @@
+## VI
+
+## Financiamento dos estágios
+
 # Artigo 17.º
 
 ### Financiamento

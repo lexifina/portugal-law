@@ -1,3 +1,7 @@
+## III
+
+## Frequência do estágio
+
 # Artigo 4.º
 
 ### Contrato de formação em posto de trabalho

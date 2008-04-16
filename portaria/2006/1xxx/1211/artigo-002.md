@@ -1,3 +1,7 @@
+## II
+
+## Recrutamento dos estagiários
+
 # Artigo 2.º
 
 ### Lançamento e publicitação dos estágios

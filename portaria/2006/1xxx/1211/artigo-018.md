@@ -1,3 +1,7 @@
+## VII
+
+## Disposições finais e transitórias
+
 # Artigo 18.º
 
 ### Estágios na administração local promovidos ao abrigo da Portaria n.º 268/97, de 18 de Abril
