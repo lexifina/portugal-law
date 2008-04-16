@@ -1,0 +1,10 @@
+Aviso n.º 11816/2008
+Publicitação da deliberação de Elaboração do Plano de Pormenor da Cidade Desportiva
+Nos termos Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, torna-se público que a Câmara Municipal de Sines, em Reunião de Câmara Pública de 3 de Abril de 2008, deliberou iniciar o processo de elaboração e o período de audiência prévia do Plano de Pormenor da Cidade Desportiva (PPCD).
+A implementação deste Plano visa criar novos espaços públicos de fruição, recreio e lazer interligados entre si, de modo a melhorar substancialmente a qualidade de vida dos cidadãos e a imagem da cidade, definir uma concepção urbana, a partir da qualificação do solo, definindo a rede viária estruturante (acessibilidades), a localização de equipamentos de uso e interesse colectivo, de espaços comerciais e de hotelaria, a estrutura ecológica, o sistema urbano de estacionamento e os espaços públicos de qualidade.
+O PPCD abrange uma área de intervenção com a cerca de 39,47 ha, localizados na zona norte da Cidade de Sines, correspondendo à UOPG 1. Os limites propostos para o Plano de Pormenor são: a Norte as esteiras de pipelines, a Poente e a Sul o IP 8 e a Nascente Áreas Rurais.
+O prazo estabelecido para a elaboração do Plano é de 50 dias úteis.
+Os interessados poderão, no prazo máximo de 15 dias após a publicação do presente aviso no Diário da República, proceder junto da Câmara Municipal de Sines, à formulação de sugestões, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração do Plano.
+Os elementos que determinam a elaboração do Plano e a Planta com a área de intervenção do Plano poderão ser consultados no Serviço Administrativo do Departamento de Ambiente Planeamento e Urbanismo, da Câmara Municipal de Sines, todos os dias úteis, entre as 9 horas e as 15 horas e 30 minutos ou ainda em www.mun-sines.pt.
+Para constar se passou o presente aviso, a que vai ser dada a publicidade prevista na lei.
+7 de Abril de 2008. - A Vereadora com Competência Delegada, Marisa Rodrigues dos Santos.
