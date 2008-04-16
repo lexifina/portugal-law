@@ -2,7 +2,7 @@
 
 ### Avaliação final dos estagiários
 
-1 - No final do estágio, os estagiários são avaliados de acordo com as componentes da avaliação previstas na ficha de avaliação de modelo constante do anexo II ao presente diploma.
+1 - No final do estágio, os estagiários são avaliados de acordo com as componentes da avaliação previstas em ficha de avaliação de modelo a disponibilizar pela Direcção-Geral das Autarquias Locais.
 
 2 - As componentes da avaliação integram os objectivos e as competências individuais.
 
