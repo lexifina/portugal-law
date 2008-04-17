@@ -1,0 +1,4 @@
+Aviso n.º 11917/2008
+Fernando João Couto e Cepa, presidente da Câmara Municipal de Esposende, torna público, nos termos e para os efeitos previstos no artigo 91.º da Lei n.º 169/99, de 18 de Setembro, alterado pela Lei n.º 5-A/2002, de 11 de Janeiro, que a Assembleia Municipal de Esposende deliberou, por maioria dos presentes, na sua sessão ordinária, realizada em 24 de Fevereiro de 2007, precedendo proposta da Câmara Municipal, realizada em 18 de Janeiro do mesmo ano, proceder à revogação total do Plano de Urbanização de Apúlia, do concelho de Esposende, publicado na 2.ª série do Diário da República, n.º 210, de 11 de Setembro de 1997, conforme edital afixado na autarquia, em 26 de Fevereiro de 2007.
+Para constar e devidos efeitos se publica o presente aviso e outros de igual teor, que vai ser afixado nos lugares públicos do costume.
+4 de Abril de 2008. - O Presidente da Câmara, Fernando João Couto e Cepa.
