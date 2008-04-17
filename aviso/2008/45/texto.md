@@ -1,0 +1,5 @@
+Aviso n.º 45/2008
+Por ordem superior se torna público que, em 22 de Dezembro de 2005 e em 18 de Dezembro de 2006, foram emitidas notas, respectivamente pela Embaixada da Irlanda em Lisboa e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Protocolo entre a República Portuguesa e a República da Irlanda Que Revê a Convenção para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e Respectivo Protocolo, assinado em Lisboa, em 11 de Novembro de 2005.
+Por parte de Portugal o Acordo foi ratificado pelo Decreto do Presidente da República n.º 121/2006 e aprovado pela Resolução da Assembleia da República n.º 62/2006, publicados no Diário da República, 1.ª série, n.º 234, de 6 de Dezembro de 2006.
+Nos termos do n.º 4 do Protocolo, este entrou em vigor no dia 18 de Dezembro de 2006.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 8 de Abril de 2008. - O Subdirector-Geral, Ricardo Eduardo Vaz Pereira Pracana.
