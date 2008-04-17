@@ -30,9 +30,11 @@
 
 2.8 - Registo de acções - (euro) 130;
 
-2.9 - Outras inscrições - (euro) 200;
+2.9 - Criação de representação permanente, incluindo a simultânea nomeação dos respectivos representantes - (euro) 200;
 
-2.10 - Abrangendo a inscrição mais de um facto, é devido o emolumento mais elevado de entre os previstos para os diversos factos a registar, acrescido de 50% do emolumento correspondente a cada um dos restantes factos.
+2.10 - Outras inscrições - (euro) 200;
+
+2.11 - Abrangendo a inscrição mais de um facto, é devido o emolumento mais elevado de entre os previstos para os diversos factos a registar, acrescido de 50% do emolumento correspondente a cada um dos restantes factos.
 
 3 - Registo efectuado por simples depósito, com excepção do registo de prestação de contas (euro) 100.
 
