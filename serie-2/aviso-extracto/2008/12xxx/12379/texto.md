@@ -1,0 +1,5 @@
+Aviso (extracto) n.º 12379/2008
+Pedro Luís Conde Caldeira Santos, Vereador da Câmara Municipal de Cascais, torna público, nos termos do estatuído no artigo 91.º da Lei n.º 169/99, de 18 de Setembro, alterada pela Lei n.º 5-A/2002, de 11 de Janeiro, que após votação e aprovação em reunião da Câmara Municipal de Cascais, datada de 24 de Março de 2008, a Assembleia Municipal de Cascais, reunida em 31 de Março de 2008, deliberou aprovar por unanimidade, nos termos do disposto da alínea a) do n.º 2 do artigo 53.º, conjugado com a alínea o) do mesmo artigo, da Lei n.º 169/99, de 18 de Setembro, alterada pela Lei n.º 5-A/2002, de 11 de Janeiro, conjugadas com a alínea d) do n.º 1 do artigo 13.º, da Lei n.º 159/99, de 14 de Setembro, o Regulamento de Estágios Profissionais na Câmara Municipal de Cascais.
+Assim e para os efeitos legais, torna-se público que o Regulamento referido se encontra disponível para consulta, através de Edital afixado nos lugares de estilo, na Divisão de Formação e na página da Câmara Municipal de Cascais na Internet.
+9 de Abril de 2008. - O Vereador dos Recursos Humanos, com competência delegada, Pedro Luís Conde Caldeira Santos.
+2611108280
