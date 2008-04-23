@@ -1,0 +1,11 @@
+Portaria n.º 312/2008
+de 23 de Abril
+Pela Portaria n.º 555/92, de 24 de Junho, alterada pela Portaria n.º 1331/2005, de 29 de Dezembro, foi concessionada à Lazer e Floresta, Empresa para o Desenvolvimento Agro-Florestal, Imobiliária e Turismo, S. A., a zona de caça turística de Vale de Reis (processo n.º 944-DGRF), situada no município de Alcácer do Sal, com a área de 3225,2550 ha, válida até 24 de Junho de 2007.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no artigo 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º, e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística de Vale de Reis (processo n.º 944-DGRF), abrangendo um prédio rústico cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sito na freguesia de Santa Maria do Castelo, município de Alcácer do Sal, com a área de 3165 ha, o que exprime uma redução de área de 60,2550 ha.
+2.º A concessão de alguns dos terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza até um máximo de 10  % da área total da zona de caça.
+3.º É criada uma área de condicionamento total à actividade cinegética devidamente demarcada na planta anexa.
+4.º A presente portaria produz efeitos a partir do dia 25 de Junho de 2007.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 19 de Março de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 14 de Abril de 2008.
+(ver documento original)
