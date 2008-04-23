@@ -1,0 +1,6 @@
+Edital n.º 415/2008
+Rolando Nunes de Sousa, Vice-Presidente no Exercício de Competências Delegadas da Câmara Municipal de Espinho:
+Faz público que a Câmara Municipal de Espinho deliberou, por unanimidade, em sua reunião ordinária de 28 de Março de 2008, no cumprimento do n.º 9 do artigo 77.º do Decreto-Lei n.º 316/2007, de 19 de Setembro: - Promover a Alteração ao Plano de Pormenor da Lagarta - Áreas Nascente e Poente - Freguesia de Anta - Espinho, de acordo como Decreto-Lei n.º 316/2007, de 19 de Setembro, conforme o teor da acta da reunião e a planta topográfica, anexas a esta deliberação.
+Nos termos do disposto no n.º 2 do Artigo 77.º do Decreto-Lei n.º 316/2007, de 19 de Setembro, por um prazo de 15 dias a contar da data de publicação no Diário da República irá decorrer um período de participação pública para a formulação de sugestões ou observações por escrito em documento devidamente identificado e dirigido ao Presidente da Câmara Municipal de Espinho - Largo Dr. José Salvador - Apartado 700 - 4501-901 Espinho.
+E para constar se passou este e outros de igual teor que vão ser afixados nos locais de estilo e avisos publicados nos jornais Maré Viva, Defesa de Espinho e Jornal Notícias.
+8 de Abril de 2008. - O Vice-Presidente no Exercício de Competências Delegadas, Rolando Nunes de Sousa.
