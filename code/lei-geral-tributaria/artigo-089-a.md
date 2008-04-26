@@ -27,3 +27,5 @@ c) Os suprimentos e empréstimos efectuados pelo sócio à sociedade, no ano em 
 8 - Ao recurso referido no número anterior aplica-se, com as necessárias adaptações, a tramitação prevista no artigo 146.º-B do Código de Procedimento e de Processo Tributário.
 
 9 - Para a aplicação dos n.os 3 a 4 da tabela, atende-se ao valor médio de mercado, considerando, sempre que exista, o indicado pelas associações dos sectores em causa.
+
+10 - A decisão de avaliação da matéria colectável com recurso ao método indirecto constante deste artigo, após tornar-se definitiva, deve ser comunicada pelo director de finanças ao Ministério Público e, tratando-se de funcionário ou titular de cargo sob tutela de entidade pública, também à tutela destes para efeitos de averiguações no âmbito da respectiva competência.
