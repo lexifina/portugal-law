@@ -1,0 +1,8 @@
+Aviso n.º 13379/2008
+Plano de Pormenor da Baía Sul
+Nos termos do Decreto-Lei 380/1999, de 22 de Setembro, com a redacção conferida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro e pelo Decreto-Lei n.º 316/2007, de 19 de Setembro e restante legislação aplicável, a Câmara Municipal do Seixal deliberou em 05/03/2008, mandar elaborar um Plano de Pormenor da Baía Sul, freguesia de Seixal, que irá alterar o Plano Director Municipal.
+De acordo com o n.º 2 do artigo 77.º do referido Diploma Legal, está a decorrer por 30 dias úteis, com início na data da publicação do presente aviso no Diário da República, um processo de audição ao público, durante o qual os interessados poderão proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração do Plano de Pormenor.
+Durante aquele período, os interessados poderão consultar no atendimento público da Divisão Administrativa de Urbanismo, o documento de fundamentação da elaboração do PP, que acompanhou a deliberação de Câmara e que descreve os objectivos, metodologia e prazos a observar no processo.
+Junto ao Departamento de Planeamento e Urbanismo, poderão ser ainda marcadas reuniões de esclarecimento e informação adicional, com técnicos da equipa responsável pela elaboração do PP.
+Os interessados na execução das disposições do Plano deverão apresentar as suas sugestões ou observações mediante requerimento dirigido ao Sr. Presidente da Câmara Municipal, a entregar no Atendimento Público da Divisão Administrativa de Urbanismo.
+11 de Abril de 2008. - O Presidente da Câmara, Alfredo José Monteiro da Costa.
