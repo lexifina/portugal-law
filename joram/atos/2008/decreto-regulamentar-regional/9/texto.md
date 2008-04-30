@@ -1,0 +1,108 @@
+# Decreto Regulamentar Regional n.º 9/2008/M
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 48/2008, suplemento, de 2008-04-30
+
+**Sumário:** Aprova a Orgânica da Direcção Regional de Educação .
+
+## Texto
+
+Decreto Regulamentar Regional n.º 9/2008/M
+de 30 de Abril
+Aprova a Orgânica da Direcção Regional de Educação
+O Decreto Regulamentar Regional n.º 5/2007/M, de 23 de Julho, procedeu à reestruturação do Governo da Região Autónoma da Madeira.
+O Decreto Regulamentar Regional n.º 1/2008/M, de 17 de Janeiro, que criou a nova estrutura da Secretaria Regional de Educação e Cultura estatui no seu articulado que a natureza, a missão, as atribuições e a organização interna do organismo referido na alínea b) do n.º 1 do artigo 5.º constariam de decreto regulamentar regional.
+Neste contexto, o presente decreto regulamentar regional aprova a estrutura orgânica da Direcção Regional de Educação, que é objecto de reestruturação, adoptando, em termos de estrutura interna, o modelo estrutural hierarquizado, num quadro de simplificação, desburocratização e modernização administrativa, com vista a responder aos novos desafios que se põem à Administração Pública da Região.
+Tendo como referência estruturante o sucesso escolar dos alunos, núcleo e cerne da política educativa, esta direcção regional tem por missão superintender na organização e funcionamento da educação pré-escolar, dos ensinos básico e secundário, nas áreas profissionalizantes, contribuindo para a qualidade do sistema educativo na Região Autónoma da Madeira (RAM), numa perspectiva de aprendizagem ao longo da vida.
+O desenvolvimento das atribuições da DRE implica a sua articulação com os diversos serviços e organismos da Secretaria Regional de Educação e Cultura (SREC) que exercem funções de coordenação nas áreas de gestão de recursos, quer humanos, quer materiais, quer financeiros.
+Nestes termos: O Governo Regional da Região Autónoma da Madeira decreta, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, na redacção dada pela Lei n.º 130/99, de 21 de Agosto, com a alteração introduzida pela Lei n.º 12/2000, de 21 de Junho, conjugados com o Decreto Regulamentar Regional n.º 5/2007/M, de 23 de Julho, da alínea b) do n.º 1 e do n.º 2 do artigo 5.º da orgânica aprovada pelo Decreto Regulamentar Regional n.º 1/2008/M, de 17 de Janeiro e com o Decreto Legislativo Regional n.º 17/2007/M, de 12 de Novembro, o seguinte:
+Artigo 1.º
+É aprovada a estrutura orgânica da Direcção Regional de Educação, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 2.º
+O presente decreto regulamentar regional entra em vigor no dia seguinte ao da sua publicação.
+Aprovado em Conselho do Governo Regional em 3 de Abril de 2008.
+O PRESIDENTEDO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
+Assinado em 14 de Abril de 2008.
+
+Publique-se.
+O REPRESENTANTE DA REPÚBLICA PARA A REGIÃO AUTÓNOMA DA MADEIRA, Antero Alves Monteiro Diniz.
+ANEXO I Orgânica da Direcção Regional de Educação
+Artigo 1.º Natureza
+A Direcção Regional de Educação, designada no presente diploma, abreviadamente, por DRE, é o departamento a que se refere a alínea b) do n.º 1 do artigo 5.º da orgânica aprovada pelo Decreto Regulamentar Regional n.º 1/2008/M, de 17 de Janeiro.
+Artigo 2.º Missão
+A DRE tem por missão superintender na organização e funcionamento da educação pré-escolar, dos ensinos básico e secundário, nas modalidades especiais de educação escolar, no ensino à distância e na educação extra-escolar, contribuindo para a qualidade do sistema educativo na Região Autónoma da Madeira (RAM), numa perspectiva de aprendizagem ao longo da vida.
+Artigo 3.º Atribuições e competências
+1 - A DRE, dirigida por um director regional, é um serviço executivo das políticas públicas definidas pelo Governo Regional da responsabilidade da Secretaria Regional de Educação e Cultura (SREC), tendo como atribuições, designadamente:
+a) Estudar medidas de acção educativa, promover a sua programação e execução, fomentar as consequentes actividades e assegurar o seu desenvolvimento integrado;
+b) Coordenar o processo de desenvolvimento curricular e a adequação do sistema educativo à especificidade da Região;
+c) Propor a integração de conteúdos programáticos de índole regional aos planos curriculares nacionais;
+d) Promover a qualidade dos materiais didácticos, procedendo, quando necessário, à avaliação da sua adequação;
+e) Promover projectos de índole cultural numa perspectiva de educação ao longo da vida;
+f) Coordenar e promover a formação do pessoal docente e não docente, em articulação com os serviços da SREC, estabelecimentos de educação/ensino e outras entidades vocacionadas para o efeito;
+g) Superintender os júris de exame que, em virtude da lei, se tornem necessários criar, sem prejuízo das competências próprias do júri nacional de exames do Ministério da Educação;
+h) Colaborar com outros serviços e organismos na definição das necessidades de pessoal docente, instalações escolares e equipamento, nomeadamente com a Direcção Regional de Administração Educativa (DRAE) os critérios de requisições, permutas, comissões de serviço, licenças sabáticas e equiparação a bolseiro do pessoal docente;
+i) Coordenar os serviços de psicologia e orientação escolar; j) Propor modalidades e acções de orientação escolar e profissional, em colaboração com a Direcção Regional de Qualificação Profissional (DRQP); l) Desenvolver e coordenar projectos na área das tecnologias de informação e comunicação, bem como supervisionar o trabalho desenvolvido pelos coordenadores de tecnologias de informação e comunicação (coordenador TIC) das escolas da RAM; m) Supervisionar e orientar o trabalho desenvolvido na área da expressão físico-motora no 1.º ciclo do ensino básico e do desporto escolar;
+
+n) Supervisionar e orientar o trabalho desenvolvido nas áreas das expressões artísticas;
+o) Supervisionar e orientar o trabalho desenvolvido pelos técnicos superiores da área de animação sociocultural de bibliotecas escolares;
+p) Coordenar a implementação de uma estrutura de ensino à distância na Região com carácter global, visando, nomeadamente, a literacia digital acessível a todos;
+q) Colaborar com a Direcção Regional de Educação Especial e Reabilitação (DREER) na integração socioeducativa dos alunos com necessidades educativas especiais;
+r) Colaborar com a DRAE na determinação do número de vagas de lugares do quadro a considerar nos concursos de pessoal docente dos estabelecimentos de educação e ensino não superior;
+s) Coordenar as iniciativas que envolvam a RAM no processo de construção europeia, designadamente as que se enquadram nas áreas de competência da SREC;
+t) Promover e coordenar os processos respeitantes ao acesso ao ensino superior;
+u) Exercer as competências previstas no Decreto Legislativo Regional n.º 14/2006/M, de 24 de Abril, que estabelece o regime jurídico do núcleo infantil na Região Autónoma da Madeira, regulamentado pela Portaria n.º 86/2006, de 24 de Junho;
+v) Apoiar a educação e o ensino particular, desempenhando as funções determinadas por lei, ou pelas orientações de política educativa e de formação vocacional, junto daqueles estabelecimentos, acompanhando as suas condições de funcionamento e organização pedagógica;
+x) Assegurar a coordenação das práticas curriculares, complementos e planos de estudo dos estabelecimentos de educação e ensino particular, cooperativo e solidário;
+z) Assegurar o cumprimento, pelos estabelecimentos de ensino particular e de educação, das normas constantes da Lei de Bases do Sistema Educativo, dos respectivos diplomas de desenvolvimento e da legislação regional, nomeadamente em matéria de inscrições, matrículas, avaliação, assiduidade e regime disciplinar de alunos;
+aa) Apoiar as direcções pedagógicas dos estabelecimentos de educação e ensino;
+ab) Conceder a atribuição de paralelismo pedagógico e de autonomia pedagógica, em articulação com a Inspecção Regional de Educação (IRE), e decidir sobre a alteração ou extinção dessa concessão;
+ac) Coordenar, em articulação com os diversos serviços da SREC envolvidos, os processos de concessão de autorização provisória ou definitiva de funcionamento de estabelecimentos de educação e de ensino particular, e decidir sobre a alteração ou extinção dessa concessão;
+ad) Coordenar os processos de registo de instituições de solidariedade social na área da educação, em colaboração com os diversos serviços da SREC.
+2 - Ao director regional de Educação compete, nomeadamente:
+a) Representar a DRE no domínio das suas atribuições; b) Assegurar a orientação geral da DRE e definir a estratégia da sua actuação; c) Orientar e coordenar a elaboração dos planos e relatórios de actividades da DRE; d) Assegurar o pleno funcionamento dos seus órgãos e serviços; e) Gerir os meios humanos e de equipamento da DRE, superintender na utilização racional das instalações afectas ao respectivo serviço, bem como velar pela existência de condições de higiene e segurança no trabalho; f) Autorizar dispensas de frequência e ou de avaliação nos ensinos básico e secundário, nos casos legalmente admitidos; g) Emitir certificados de habilitações e de equivalência de estudos, nos casos legalmente previstos; h) Autorizar a dispensa da escolaridade obrigatória, nos casos legalmente previstos;
+
+i) Decidir sobre actos resultantes de erros administrativos em que sejam implicados alunos, independentemente de eventuais procedimentos disciplinares;
+j) Autorizar a quarta matrícula dos alunos, no mesmo ano e curso, mediante parecer do órgão responsável pela gestão da escola;
+l) Orientar as actividades de enriquecimento curricular e de educação extra-escolar.
+3 - O director regional é coadjuvado por um subdirector regional, a quem compete, designadamente:
+a) Colaborar na execução das atribuições da DRE; b) Proceder à supervisão técnico-científica das competências desenvolvidas pelos serviços da DRE na área do apoio psicológico e orientação escolar e profissional; c) Exercer as competências que lhe sejam delegadas ou subdelegadas.
+4 - O director regional é substituído, nas suas ausências e impedimentos, pelo subdirector regional.
+5 - O director regional pode, nos termos da lei, delegar, com a faculdade de subdelegação, as competências que julgar convenientes, em cargos de direcção e chefia.
+Artigo 4.º Tipo de organização interna
+A organização interna dos serviços obedece ao modelo de estrutura hierarquizada.
+Artigo 5.º Cargos de direcção
+Os lugares de quadro de direcção superior e de direcção intermédia de 1.º grau constam do mapa anexo ii ao presente decreto regulamentar regional, do qual faz parte integrante.
+Artigo 6.º Regime
+1 - As condições de ingresso, acesso e carreira profissional, provimento e suas formas, do pessoal da DRE abrangido pelo presente diploma, são as estabelecidas na legislação nacional e regional aplicáveis.
+2 - Os chefes de departamento são remunerados de acordo com o estabelecido no Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto.
+3 - Acarreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.
+4 - O recrutamento para as categorias de coordenador especialista e de coordenador far-se-á, respectivamente, de entre coordenadores com três anos na respectiva categoria e de entre chefes de secção com comprovada experiência na área administrativa.
+5 - Acarreira de coordenador é remunerada de acordo com o estabelecido no Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto.
+Artigo 7.º Transferência de competências, direitos e obrigações
+1 - As competências, os direitos e as obrigações de que eram titulares os órgãos ou serviços da DRE são automaticamente transferidos para os correspondentes novos órgãos ou serviços que os substituem, ou que os passam a integrar em razão da respectiva matéria, sem dependência de quaisquer formalidades, mantendo-se no entanto as referidas competências, direitos e
+
+obrigações nos anteriores departamentos, órgãos ou serviços, até à data da entrada em vigor do presente diploma.
+2 - A assunção de competências e de pessoal pelos serviços em resultado da atribuição ou transferência de competências, é acompanhada de eventuais alterações orçamentais, a serem efectuadas nos termos da legislação em vigor.
+3 - De acordo com o disposto no n.º 1, é alterada a designação da Direcção de Serviços de Formação e Inovação Pedagógica (DSFIP), que passa a designar-se Direcção de Serviços de Formação e Inovação (DSFI).
+4 - De acordo com o disposto no n.º 1, é alterada a designação da Divisão de Formação Contínua (DFC), que passa a designar-se Divisão de Formação de Pessoal Docente (DFPD).
+5 - ADivisão de Assuntos Europeus (DAE) é reestruturada, transferindo-se da dependência do subdirector regional para a dependência da Direcção de Serviços de Formação e Inovação (DSFI), com a designação de Divisão de Formação e Assuntos Europeus (DFAE).
+6 - De acordo com o disposto no n.º 1, a Divisão de Projectos Extracurriculares (DPE) passa a designar-se Divisão de Projectos de Complemento Curricular (DPCC) e transfere-se da dependência do subdirector regional para a Direcção de Serviços de Tecnologias Educativas.
+7 - ADivisão de Apoio Psicológico e de Orientação Escolar e Profissional (DAPOEP) transfere-se da dependência do subdirector regional para a Direcção de Serviços do Ensino Secundário.
+8 - Até à aprovação dos diplomas que criarão a estrutura nuclear e a estrutura flexível da Direcção Regional de Educação, previstos no artigo 21.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de Novembro, o funcionamento dos serviços da DRE rege-se pelo Decreto Regulamentar Regional n.º 22/2005/M, de 22 de Abril.
+Artigo 8.º Transição de pessoal
+1 - O pessoal da DRE constante no anexo ao Decreto Regulamentar Regional n.º 22/2005/M, de 27 de Abril, transita para idêntico lugar de quadro da Direcção Regional de Educação, mediante lista nominativa a aprovar por despacho do Secretário Regional de Educação e Cultura, com efeitos à data da entrada em vigor do presente diploma, com dispensa de qualquer outra formalidade.
+2 - Os dirigentes nomeados da DRE mantêm as respectivas comissões de serviço, nos termos da alínea c) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de Janeiro, com a redacção dada pela Lei n.º 51/2005, de 30 de Agosto, adaptada à RAM pelo Decreto Legislativo Regional n.º 27/2006/M, de 14 de Julho.
+3 - Mantém-se em funções o director de serviços de Formação e Inovação Pedagógica (DSFIP) como director de serviços de Formação e Inovação (DSFI), nos termos da alínea c) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de Janeiro, com a redacção dada pela Lei n.º 51/2005, de 30 de Agosto, adaptada à RAM pelo Decreto Legislativo Regional n.º 27/2006/M, de 14 de Julho.
+4 - Mantém-se em funções o chefe de divisão de Formação Contínua como chefe de divisão de Formação de Pessoal Docente (DFPD) nos termos da alínea c) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de Janeiro, com a redacção dada pela Lei n.º 51/2005, de 30 de Agosto, adaptada à RAM pelo Decreto Legislativo Regional n.º 27/2006/M, de 14 de Julho.
+
+5 - Mantém-se em funções o chefe de divisão de Assuntos Europeus como chefe de divisão de Formação e Assuntos Europeus (DFAE), nos termos da alínea c) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de Janeiro, com a redacção dada pela Lei n.º 51/2005, de 30 de Agosto, adaptada à RAM pelo Decreto Legislativo Regional n.º 27/2006/M, de 14 de Julho.
+Artigo 9.º Primeiro provimento
+O primeiro provimento em lugares dos quadros de pessoal da DRE far-se-á através de lista nominativa, aprovada pelo Secretário Regional, com dispensa de quaisquer outras formalidades legais sempre que se tratar de pessoal com vínculo à Administração Pública e o provimento se processar em categoria igual ou equivalente à que detinha no respectivo quadro de origem.
+Artigo 10.º Concursos e estágios pendentes
+1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os correspondentes ao mapa em anexo à portaria que vier a aprovar a estrutura nuclear dos serviços.
+2 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos e se neles obtiverem aproveitamento, para as categorias objecto dos respectivos concursos.
+Artigo 11.º Norma revogatória
+É revogado o Decreto Regulamentar Regional n.º 22/2005/M, de 22 de Abril.
+ANEXO II
+(Mapa a que se refere o artigo 5.º do anexo I)
