@@ -1,0 +1,5 @@
+Aviso n.º 46/2008
+Por ordem superior se torna público que em 18 de Outubro de 2006 e em 2 de Novembro de 2007 foram recebidas notas pela Embaixada de Portugal em Madrid e pela Embaixada de Espanha em Lisboa, respectivamente, pelas quais ambos os Estados Contratantes comunicam que concluíram os seus requisitos constitucionais necessários para a manifestação do seu consentimento em estarem vinculados ao Acordo entre a República Portuguesa e o Reino de Espanha em Matéria de Reconhecimento Específico de Autorizações Especiais de Trânsito, assinado em Évora em 19 de Novembro de 2005.
+Por parte da República Portuguesa, o Acordo foi aprovado pelo Governo pelo Decreto n.º 12/2007, publicado no Diário da República, 1.ª série, n.º 131, de 10 de Julho de 2007.
+Nos termos do seu artigo 10.º, o Acordo entre a República Portuguesa e o Reino de Espanha em Matéria de Reconhecimento Específico de Autorizações Especiais de Trânsito entrou em vigor em 2 de Dezembro de 2007.
+Direcção-Geral dos Assuntos Europeus, 18 de Abril de 2008. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
