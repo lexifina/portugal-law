@@ -2,7 +2,7 @@
 
 ### Direito transitório
 
-1 - O disposto no presente rxegulamento aplica-se, com as necessárias adaptações, aos pedidos de apoio apresentados no ano de 2007, nomeadamente os seguintes:
+1 - O disposto no presente Regulamento aplica-se, com as necessárias adaptações, aos pedidos de apoio apresentados no ano de 2007, nomeadamente os seguintes:
 
 a) O contrato com o OC, referido na alínea c) do n.º 1 do artigo 8.º, pode ter sido celebrado até 30 de Novembro de 2007;
 
