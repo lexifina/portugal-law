@@ -1,0 +1,6 @@
+Edital n.º 478/2008
+Dr. Manuel Joaquim Barata Frexes, Presidente da Câmara Municipal do Fundão:
+Torna público que a Câmara Municipal do Fundão, em sua reunião ordinária de 9 de Abril de 2008 e a Assembleia Municipal, em sessão realizada no dia 19 do mesmo mês, no uso das competências atribuídas pelos artigos 64.º, n.º 7, alínea a), e 53.º, n.º 2, alínea a), da Lei n.º 169/99, de 18 de Setembro, alterada pelas Leis n.º s 5-A/2002, de 11 de Janeiro e 67/2007, de 31 de Dezembro, respectivamente, aprovaram a alteração do artigo 80.º do Livro I do Regulamento Municipal dos Serviços de Abastecimento de Água e Saneamento Básico e Recolha de Resíduos Sólidos /Higiene e Limpeza, que passa a ter a seguinte redacção: "Artigo 80.º Tarifa de disponibilidade do serviço. A tarifa de disponibilidade do serviço inclui a garantia de disponibilização, e manutenção das infra-estruturas da rede pública de abastecimento de água", bem como todo o conteúdo do regulamento do termo "Quota de Serviço" pelo termo de "Disponibilidade do Serviço."
+Para constar e devidos efeitos, se lavrou o presente aviso e outros de igual teor, que vão ser afixados nos lugares de estilo deste Município.
+7 de Maio de 2008. - O Presidente da Câmara, Manuel Joaquim Barata Frexes.
+300295312
