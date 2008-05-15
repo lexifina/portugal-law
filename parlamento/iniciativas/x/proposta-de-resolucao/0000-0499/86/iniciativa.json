@@ -1,0 +1,56 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "tipo": "Proposta de Resolução",
+  "numero": "86",
+  "id": "33920",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2008-05-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2008-09-14",
+    "DataInicioleg": "2007-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a42695a6a55794f54526b4c54457a4f574d744e4749324d5330344d324d324c5756684e4459324d54526c4e7a4a685969356b62324d3d&fich=0bf5294d-139c-4b61-83c6-ea46614e72ab.doc&Inline=true",
+        "anexoNome": "Aprova o Acordo de Extradição entre a República Portuguesa e a República da Índia, assinado em Nova Deli, a 11 de Janeiro de 2007 (versão em português)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4e685a5467304d5441334c5451785a5751744e47553559533169596d45334c574d794f445a6a59325a6a5a6a67304e43356b62324d3d&fich=3ae84107-41ed-4e9a-bba7-c286ccfcf844.doc&Inline=true",
+        "anexoNome": "Aprova o Acordo de Extradição entre a República Portuguesa e a República da Índia, assinado em Nova Deli, a 11 de Janeiro de 2007 (versão em inglês)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32566c4d6d45794e7a6b794c575a6b4f4445744e4449795a5331694d444a6d4c5451334f5755774e475a6c5a6a67304e5335775a47593d&fich=ee2a2792-fd81-422e-b02f-479e04fef845.pdf&Inline=true",
+        "anexoNome": "Aprova o Acordo de Extradição entre a República Portuguesa e a República da Índia, assinado em Nova Deli, a 11 de Janeiro de 2007 (versão em indi)"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "33920",
+    "IniLeg": "X",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3245314d7a45794e7a45774c5442684d7a55744e44646b595331684e445a684c54426c596a45325a444a6b5a444e6c4d79356b62324d3d&fich=a5312710-0a35-47da-a46a-0eb16d2dd3e3.doc&Inline=true",
+    "IniNr": "86",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova o Acordo de Extradição entre a República Portuguesa e a República da Índia, assinado em Nova Deli, a 11 de Janeiro de 2007.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
