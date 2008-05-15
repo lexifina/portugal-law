@@ -1,5 +1,5 @@
 # Artigo 37.º
 
-### Filiação internacional
+### Regime financeiro
 
-Os partidos políticos podem livremente associar-se com partidos estrangeiros ou integrar federações internacionais de partidos.
+O financiamento dos partidos políticos e das campanhas eleitorais é regulado em lei própria.

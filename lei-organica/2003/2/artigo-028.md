@@ -1,5 +1,5 @@
 # Artigo 28.º
 
-### Órgão de jurisdição
+### Participação política
 
-Os membros do órgão de jurisdição democraticamente eleito gozam de garantia de independência e dever de imparcialidade, não podendo, durante o período do seu mandato, ser titulares de órgãos de direcção política ou mesa de assembleia.
+Os estatutos devem assegurar uma participação directa, activa e equilibrada de mulheres e homens na actividade política e garantir a não discriminação em função do sexo no acesso aos órgãos partidários e nas candidaturas apresentadas pelos partidos políticos.

@@ -1,19 +1,13 @@
-## Capítulo IV
-
-## Organização interna
-
-## Secção I
-
-## Órgãos dos partidos
-
 # Artigo 25.º
 
-### Órgãos nacionais
+### Assembleia representativa
 
-Nos partidos políticos devem existir, com âmbito nacional e com as competências e a composição definidas nos estatutos:
+1 - A assembleia representativa é integrada por membros democraticamente eleitos pelos filiados.
 
-a) Uma assembleia representativa dos filiados;
+2 - Os estatutos podem ainda dispor sobre a integração na assembleia de membros por inerência.
 
-b) Um órgão de direcção política;
+3 - À assembleia compete, sem prejuízo de delegação, designadamente:
 
-c) Um órgão de jurisdição.
+a) Aprovar os estatutos e a declaração de princípios ou programa político;
+
+b) Deliberar sobre a eventual dissolução ou a eventual fusão com outro ou outros partidos políticos.

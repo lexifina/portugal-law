@@ -1,7 +1,9 @@
+## Capítulo VI
+
+## Disposições finais
+
 # Artigo 39.º
 
-### Relações de trabalho
+### Aplicação aos partidos políticos existentes
 
-1 - As relações laborais entre os partidos políticos e os seus funcionários estão sujeitas às leis gerais de trabalho.
-
-2 - Considera-se justa causa de despedimento o facto de um funcionário se desfiliar ou fazer propaganda contra o partido que o emprega ou a favor de uma candidatura sua concorrente.
+A presente lei aplica-se aos partidos políticos existentes à data da sua entrada em vigor, devendo os respectivos estatutos beneficiar das necessárias adaptações no prazo máximo de dois anos.

@@ -1,7 +1,11 @@
 # Artigo 31.º
 
-### Deliberações de órgãos partidários
+### Destituição
 
-1 - As deliberações de qualquer órgão partidário são impugnáveis com fundamento em infracção de normas estatutárias ou de normas legais, perante o órgão de jurisdição competente.
+1 - A destituição de titulares de órgãos partidários pode ser decretada em sentença judicial, a título de sanção acessória, nos seguintes casos:
 
-2 - Da decisão do órgão de jurisdição pode o filiado lesado e qualquer outro órgão do partido recorrer judicialmente, nos termos da lei de organização, funcionamento e processo do Tribunal Constitucional.
+a) Condenação judicial por crime de responsabilidade no exercício de funções em órgãos do Estado, das Regiões Autónomas ou do poder local;
+
+b) Condenação judicial por participação em associações armadas ou de tipo militar, militarizadas ou paramilitares, em organizações racistas ou em organizações que perfilhem a ideologia fascista.
+
+2 - Fora dos casos enunciados no número anterior, a destituição só pode ocorrer nas condições e nas formas previstas nos estatutos.

@@ -1,15 +1,13 @@
+## Capítulo V
+
+## Actividades e meios de organização
+
 # Artigo 35.º
 
-### Procedimentos eleitorais
+### Formas de colaboração
 
-1 - As eleições partidárias devem observar as seguintes regras:
+1 - Os partidos políticos podem estabelecer formas de colaboração com entidades públicas e privadas no respeito pela autonomia e pela independência mútuas.
 
-a) Elaboração e garantia de acesso aos cadernos eleitorais em prazo razoável;
+2 - A colaboração entre partidos políticos e entidades públicas só pode ter lugar para efeitos específicos e temporários.
 
-b) Igualdade de oportunidades e imparcialidade no tratamento de candidaturas;
-
-c) Apreciação jurisdicionalizada da regularidade e da validade dos actos de procedimento eleitoral.
-
-2 - Os actos de procedimento eleitoral são impugnáveis perante o órgão de jurisdição próprio por qualquer filiado que seja eleitor ou candidato.
-
-3 - Das decisões definitivas proferidas ao abrigo do disposto no número anterior cabe recurso para o Tribunal Constitucional.
+3 - As entidades públicas estão obrigadas a um tratamento não discriminatório perante todos os partidos políticos.

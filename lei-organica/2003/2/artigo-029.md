@@ -1,5 +1,9 @@
 # Artigo 29.º
 
-### Participação política
+### Princípio da renovação
 
-Os estatutos devem assegurar uma participação directa, activa e equilibrada de mulheres e homens na actividade política e garantir a não discriminação em função do sexo no acesso aos órgãos partidários e nas candidaturas apresentadas pelos partidos políticos.
+1 - Os cargos partidários não podem ser vitalícios.
+
+2 - Exceptuam-se do disposto no número anterior os cargos honorários.
+
+3 - Os mandatos dos titulares de órgãos partidários têm a duração prevista nos estatutos, podendo estes fixar limites à sua renovação sucessiva.

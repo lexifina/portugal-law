@@ -1,5 +1,19 @@
+## Capítulo IV
+
+## Organização interna
+
+## Secção I
+
+## Órgãos dos partidos
+
 # Artigo 24.º
 
-### Eleitos dos partidos
+### Órgãos nacionais
 
-Os cidadãos eleitos em listas de partidos políticos exercem livremente o seu mandato, nas condições definidas no estatuto dos titulares e no regime de funcionamento e de exercício de competências do respectivo órgão electivo.
+Nos partidos políticos devem existir, com âmbito nacional e com as competências e a composição definidas nos estatutos:
+
+a) Uma assembleia representativa dos filiados;
+
+b) Um órgão de direcção política;
+
+c) Um órgão de jurisdição.

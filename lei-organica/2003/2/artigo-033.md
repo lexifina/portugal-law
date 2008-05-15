@@ -1,7 +1,9 @@
+## Secção II
+
+## Eleições
+
 # Artigo 33.º
 
-### Referendo interno
+### Sufrágio
 
-1 - Os estatutos podem prever a realização de referendos internos sobre questões políticas relevantes para o partido.
-
-2 - Os referendos sobre questões de competência estatutariamente reservada à assembleia representativa só podem ser realizados por deliberação desta.
+As eleições e os referendos partidários realizam-se por sufrágio pessoal e secreto.

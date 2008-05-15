@@ -1,11 +1,7 @@
 # Artigo 32.º
 
-### Destituição
+### Referendo interno
 
-1 - A destituição de titulares de órgãos partidários pode ser decretada em sentença judicial, a título de sanção acessória, nos seguintes casos:
+1 - Os estatutos podem prever a realização de referendos internos sobre questões políticas relevantes para o partido.
 
-a) Condenação judicial por crime de responsabilidade no exercício de funções em órgãos do Estado, das Regiões Autónomas ou do poder local;
-
-b) Condenação judicial por participação em associações armadas ou de tipo militar, militarizadas ou paramilitares, em organizações racistas ou em organizações que perfilhem a ideologia fascista.
-
-2 - Fora dos casos enunciados no número anterior, a destituição só pode ocorrer nas condições e nas formas previstas nos estatutos.
+2 - Os referendos sobre questões de competência estatutariamente reservada à assembleia representativa só podem ser realizados por deliberação desta.

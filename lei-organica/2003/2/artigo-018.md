@@ -6,14 +6,12 @@
 
 a) Qualificação como partido armado ou de tipo militar, militarizado ou paramilitar, ou como organização racista ou que perfilha a ideologia fascista;
 
-b) Redução do número de filiados a menos de 5000;
+b) Não apresentação de candidaturas durante um período de seis anos consecutivos a quaisquer eleições para a Assembleia da República, Parlamento Europeu e autarquias locais;
 
-c) Não apresentação de candidaturas em quaisquer eleições gerais e durante um período de seis anos consecutivos, em pelo menos um terço dos círculos eleitorais, ou um quinto das assembleias municipais, no caso de eleições para as autarquias locais;
+c) Não comunicação de lista actualizada dos titulares dos órgãos nacionais por um período superior a seis anos;
 
-d) Não comunicação de lista actualizada dos titulares dos órgãos nacionais por um período superior a seis anos;
+d) Não apresentação de contas em três anos consecutivos;
 
-e) Não apresentação de contas em três anos consecutivos;
-
-f) Impossibilidade de citar ou notificar, de forma reiterada, na pessoa de qualquer dos titulares dos seus órgãos nacionais, conforme a anotação constante do registo existente no Tribunal.
+e) Impossibilidade de citar ou notificar, de forma reiterada, na pessoa de qualquer dos titulares dos seus órgãos nacionais, conforme a anotação constante do registo existente no Tribunal.
 
 2 - A decisão de extinção fixa, a requerimento do Ministério Público ou de qualquer membro, o destino dos bens que serão atribuídos ao Estado.

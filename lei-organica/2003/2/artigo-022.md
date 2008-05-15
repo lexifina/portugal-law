@@ -1,25 +1,7 @@
 # Artigo 22.º
 
-### Restrições
+### Disciplina interna
 
-1 - Não podem requerer a inscrição nem estar filiados em partidos políticos:
+1 - A disciplina interna dos partidos políticos não pode afectar o exercício de direitos e o cumprimento de deveres prescritos na Constituição e na lei.
 
-a) Os militares ou agentes militarizados dos quadros permanentes em serviço efectivo;
-
-b) Os agentes dos serviços ou das forças de segurança em serviço efectivo.
-
-2 - É vedada a prática de actividades político-partidárias de carácter público aos:
-
-a) Magistrados judiciais na efectividade;
-
-b) Magistrados do Ministério Público na efectividade;
-
-c) Diplomatas de carreira na efectividade.
-
-3 - Não podem exercer actividade dirigente em órgão de direcção política de natureza executiva dos partidos:
-
-a) Os directores-gerais da Administração Pública;
-
-b) Os presidentes dos órgãos executivos dos institutos públicos;
-
-c) Os membros das entidades administrativas independentes.
+2 - Compete aos órgãos próprios de cada partido a aplicação das sanções disciplinares, sempre com garantias de audiência e defesa e possibilidade de reclamação ou recurso.
