@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "42283",
+  "tipo": "Pergunta",
+  "numero": "1288",
+  "data_registo": "2008-05-16",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Traçado da A4 (Amarante/Quintanilha) no concelho de Vila Real (II)",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "208",
+        "nome": "Agostinho Lopes"
+      }
+    ],
+    "DataEnvio": "2008-05-19",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2008-05-19",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2008-11-07",
+            "docRemetida": null,
+            "entidade": "MIN.  DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544338324f5449784d6d4e6c4f4331684d4445774c5451335a6a45744f4441304e69316a597a63334d6a517a4d6a63315a6d51756347526d&fich=69212ce8-a010-47f1-8046-cc77243275fd.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2008-05-16",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544338355a6d5a6c59545a6c4e43307a4e57497a4c5451324d6a51744f5449315a6930314f54686b5a574d344d6d49355a6a51756347526d&fich=9ffea6e4-35b3-4624-925f-598dec82b9f4.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "42283",
+    "Legislatura": "X",
+    "Nr": "1288",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "432700",
+        "obs": null,
+        "pag": [
+          "34-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008",
+        "pubLeg": "X",
+        "pubNr": "106",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/106/2008-05-26/34?pgs=34-37&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Pergunta"
+  }
+}
