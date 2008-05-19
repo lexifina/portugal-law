@@ -1,0 +1,7 @@
+Aviso n.º 15558/2008
+Plano de Pormenor do Centro de Alto Rendimento Desportivo e Zona Envolvente
+Dr. Manuel Castro Almeida, Presidente da Câmara Municipal de S. João da Madeira, torna público, nos termos e para os efeitos do disposto nos n.º 1 e 5 do artigo 74.º e n.º 2 do artigo 77.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro e, em cumprimento do disposto na alínea b) do n.º 4 do artigo 148.º do citado diploma, que esta Câmara Municipal, em sua reunião ordinária de 6 de Maio de 2008, deliberou mandar elaborar o Plano de Pormenor do Centro de Alto Rendimento Desportivo e Zona Envolvente, sujeitando-o a procedimento de avaliação ambiental estratégica nos termos do disposto no Decreto-Lei n.º 232/2007, de 15 de Junho, para o que estabeleceu:
+Um prazo de doze meses para a sua elaboração;
+Dar início ao período de participação previsto no n.º 2 do artigo 77.º do mesmo Decreto-Lei, pelo prazo de 15 dias a contar da data de publicação na 2.ª série do Diário da República, para recolha de sugestões, bem como para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+Os interessados deverão apresentar as sugestões, informações ou observações mediante exposição dirigida ao Presidente da Câmara Municipal de S. João da Madeira, devendo neste constar a identificação e o endereço dos seus autores e a qualidade em que as apresentam.
+12 de Maio de 2008. - O Presidente da Câmara, Manuel Castro de Almeida.
