@@ -1,0 +1,17 @@
+Edital n.º 497/2008
+Relatório fundamentado de avaliação da execução do Plano Director Municipal - Discussão pública
+Maria Amélia Macedo Antunes, presidente da Câmara Municipal de Montijo.
+Considerando que:
+1. O Plano Director Municipal do Montijo publicado no Diário da República, 1.ª série-B, n.º 2, de 01 de Fevereiro de 1997, encontra-se em revisão, conforme deliberação da Câmara Municipal do Montijo tomada na sua reunião ordinária de 01 de Setembro de 2004, titulada pela proposta n.º 1270/04 e aviso publicado no Diário da República, 2.ª série, n.º 236, de 07 de Outubro de 2004 (apêndice n.º 122):
+2 - A revisão do Plano Director iniciou-se na vigência do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, encontrando-se os respectivos procedimentos fixados na Portaria n.º 290/2003, de 05 de Abril;
+3 - No entretanto, foi publicado o Decreto-Lei n.º 316/2007, de 19 de Setembro, que conferiu nova redacção ao mencionado Decreto-Lei n.º 380/99, de 22 de Setembro, que regula o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT);
+4 - Sendo que, foi revogada a Portaria n.º 290/2003, de 05 de Abril pela Portaria n.º 1474/2007, de 16 de Novembro;
+5 - Acresce que o citado Decreto-Lei n.º 316/2007, de 19 de Setembro, prevê no seu artigo 4.º, uma norma transitória que determina a sua aplicação aos procedimentos de revisão iniciados antes da sua entrada em vigor, o que vem a ser o caso do procedimento de revisão do PDM do Montijo;
+6 - O artigo 3.º da Portaria n.º 1474/2007, de 16 de Novembro, prevê agora que a deliberação camarária que determina a revisão do PDM, seja acompanhada de um relatório fundamentado de avaliação da execução do plano director municipal e de identificação dos principais factores de evolução do Município, o qual deve incidir sobre os seguintes aspectos:
+- Níveis de execução do plano, nomeadamente em termos de ocupação do solo, compromissos urbanísticos, reservas disponíveis de solo urbano, níveis de infra-estruturação, equipamentos, acessibilidades, condicionantes e outros critérios de avaliação relevantes para o Município: - Identificação dos factores de mudança da estrutura do território; - Definição de novos objectivos de desenvolvimento para o Município e identificação dos critérios de sustentabilidade a adoptar.
+Assim,
+Torna público que de acordo com o estipulado no artigo. 146.º do RJIGT durante o período de 45 dias a contar da data da publicação do presente Edital no Diário da República, é submetido a discussão pública "O Relatório Fundamentado de Avaliação da Execução do Plano Director Municipal de Montijo e de Identificação dos Principais Factores de Evolução do Município do Montijo" que foi presente e aprovado na reunião do Executivo Municipal realizada em 30 de Abril do corrente ano.
+Os interessados poderão dirigir por escrito as suas sugestões à Câmara Municipal do Montijo no período acima mencionado, encontrando-se o referido Relatório patente para consulta todos os dias úteis, durante o horário normal de expediente, na Divisão de Gestão Urbanística, no edifício sito na Avenida dos Pescadores, nesta cidade de Montijo.
+Para constar se publica o presente e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+E eu, Maria José Correia dos Santos, Chefe de Secção de Taxas e Licenças do Departamento Administrativo e Financeiro, o subscrevi.
+6 de Maio de 2008. - A Presidente da Câmara, Maria Amélia Macedo Antunes.
