@@ -1,0 +1,16 @@
+Resolução do Conselho de Ministros n.º 80/2008
+A Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro, que aprovou a Estratégia Nacional para a Energia, prevê na sua linha de orientação para a eficiência energética a aprovação de um plano de acção para a eficiência energética.
+A Directiva n.º 2006/32/CE , do Parlamento Europeu e do Conselho, de 5 de Abril, relativa à eficiência na utilização final de energia e aos serviços energéticos, estabeleceu entretanto a obrigação de os Estados membros publicarem um plano de acção para a eficiência energética, estabelecendo metas de, pelo menos, 1 % de poupança de energia por ano até 2016.
+A presente de Resolução de Conselho de Ministros aprova o Plano Nacional de Acção para a Eficiência Energética - Portugal Eficiência 2015, documento que engloba um conjunto alargado de programas e medidas consideradas fundamentais para que Portugal possa alcançar e suplantar os objectivos fixados no âmbito da referida directiva europeia.
+O Programa Nacional para as Alterações Climáticas, aprovado pela Resolução de Conselho de Ministros n.º 104/2006, de 23 de Agosto, e a Estratégia Nacional para a Energia, aprovada pela Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro, previam já um conjunto alargado de medidas de eficiência energética. O presente Plano vem trazer uma maior ambição e coerência às políticas de eficiência energética, abrangendo todos os sectores e agregando as várias medidas entretanto aprovadas e um conjunto alargado de novas medidas em 12 programas específicos.
+A preparação do Plano envolveu vários sectores da Administração Pública e representantes de vários sectores empresariais e associativos e foi sujeito a um processo de consulta pública.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar o Plano Nacional de Acção para a Eficiência Energética (PNAEE) (2008-2015), igualmente, designado «Portugal Eficiência 2015», que integra as políticas e medidas de eficiência energética a desenvolver, em anexo à presente resolução e de que faz parte integrante.
+2 - Estabelecer como meta a alcançar até 2015 a implementação de medidas de melhoria de eficiência da energética equivalentes a 10 % do consumo final de energia, nos termos previstos na Directiva n.º 2006/32/CE , do Parlamento Europeu e do Conselho, de 5 de Abril, relativa à eficiência na utilização final de energia e aos serviços energéticos.
+3 - Atribuir ao Ministério da Economia e da Inovação a responsabilidade pela monitorização do presente Plano e dos seus resultados mediante relatório anual a preparar pela Direcção-Geral de Energia e Geologia, com o apoio da Agência para a Energia - ADENE.
+4 - Promover a articulação do PNAEE com o Programa Nacional para as Alterações Climáticas, de forma a assegurar a compatibilização das medidas previstas em cada um destes instrumentos.
+5 - Determinar que constituem receitas do Fundo de Eficiência Energética a criar, para além das que já se encontram legalmente atribuídas, as resultantes da aplicação do incentivo Eficiência ou Tarifário, previsto no presente Plano.
+Presidência do Conselho de Ministros, 17 de Abril de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+(ver documento original)
