@@ -1,0 +1,5 @@
+Edital n.º 527/2008
+Celso Manuel Gomes Ferreira, presidente da Câmara Municipal do Concelho de Paredes, faz público que, nos termos do artigo 118.º do Código do Procedimento Administrativo, na redacção dada pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, e na sequência da deliberação tomada pela Câmara Municipal em reunião ordinária realizada em 4 de Abril de 2008, encontra-se em apreciação pública, pelo prazo de 30 dias a contar da data da publicação do presente edital, a proposta de alteração ao regulamento municipal respeitante às actividades ligadas ao uso do fogo, designadamente fogueiras, queimas e queimadas, e lançamento de fogo-de-artifício, que foi publicado no Diário da República, 2.ª série, n.º 95, de 16 de Maio de 2008.
+O processo encontra-se disponível para consulta na Secção de Expediente e Serviços Gerais, pelo que deverão os interessados aí apresentar as suas sugestões, por escrito, e dirigidas ao presidente da Câmara, dentro do prazo supra-indicado e nas horas de normal expediente.
+16 de Maio de 2008. - O Presidente da Câmara, Celso Manuel Gomes Ferreira.
+300336922
