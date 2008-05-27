@@ -1,0 +1,7 @@
+Aviso n.º 16525/2008
+Revisão do Plano de Pormenor do Centro da Vila da Murtosa
+António Maria dos Santos Sousa, presidente da Câmara Municipal da Murtosa, torna público que a Câmara Municipal deliberou, por maioria, na sua reunião ordinária de 13 de Maio de 2008, proceder à abertura de um período de discussão pública relativo à revisão do Plano de Pormenor do Centro da Vila da Murtosa, de acordo com o disposto no n.º 3 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a nova redacção dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro.
+Estabelece-se, assim, um período de discussão pública por 22 dias úteis, a iniciar cinco dias após a publicação do presente aviso no Diário da República.
+O Plano, acompanhado dos pareceres das entidades que sobre ele se pronunciaram, incluindo a ponderação municipal e justificação pela não execução de avaliação ambiental, bem como a acta da reunião de conferência de serviços, estará exposto durante o período de discussão pública, referido, e poderá ser consultado, todos os dias úteis, durante as horas normais de expediente, na Câmara Municipal da Murtosa.
+As observações, sugestões ou reclamações, quando as houver, deverão ser efectuadas por escrito, contendo os assuntos bem especificados e entregues nos serviços da Câmara Municipal, ou remetidas para a Câmara Municipal da Murtosa, por correio registado.
+19 de Maio de 2008. - O Presidente da Câmara, Santos Sousa.
