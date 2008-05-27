@@ -1,0 +1,12 @@
+Aviso n.º 90/2008
+Por ordem superior se torna público ter o Governo do Equador efectuado, junto do Secretário-Geral das Nações Unidas, em 18 de Agosto de 2005, uma notificação nos termos do n.º 3 do artigo 4.º do Pacto Internacional sobre os Direitos Civis e Políticos.
+Notificação
+«The Secretary-General of the United Nations, acting in his capacity as a depositary, communicates the following:
+On 18 August 2005, the Secretary-General received from the Government of Ecuador a notification made under article 4 (3) of the above Covenant, notifying of the declaration of a state of emergency in Sucumbios and Orellana Provinces, decreed by the President of the Republic on 17 August 2005, in accordance with the provisions of articles 180 and 181 of the Ecuadorian Constitution in force.
+The Government of Ecuador specified that this measure was motivated by the serious internal unrest caused by crime waves in the aforementioned provinces. The declaration of emergency was made by means of Executive Decree no. 426 of 17 August 2005. Moreover, the articles of the Covenant which were derogated from were not indicated.»
+Tradução
+O Secretário-Geral das Nações Unidas, agindo na sua qualidade de depositário, comunica o seguinte:
+O Secretário-Geral, em 18 de Agosto de 2005, recebeu do Governo do Equador uma notificação formulada nos termos do n.º 3 do artigo 4.º do Pacto acima mencionado, notificando a declaração do estado de emergência nas Províncias de Sucumbios e Orellana, decretada pelo Presidente da República em 17 de Agosto de 2005, em conformidade com o disposto nos artigos 180.º e 181.º da Constituição equatoriana em vigor.
+O Governo do Equador especificou que esta medida foi motivada pelo grave tumulto interno causado por uma onda de crimes nas províncias acima mencionadas. O estado de emergência foi proclamado pelo Decreto Executivo n.º 426, de 17 de Agosto de 2005. Para além disso, os artigos do Pacto que foram derrogados não foram indicados.
+Portugal é Parte neste Pacto, aprovado, para ratificação, pela Lei n.º 29/78, publicada no Diário da República, 1.ª série, n.º 133 (suplemento), de 12 de Junho de 1978, tendo depositado o seu instrumento de ratificação em 15 de Junho de 1978, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 187, de 16 de Agosto de 1978.
+Direcção-Geral de Política Externa, 30 de Abril de 2008. - O Subdirector-Geral para os Assuntos Multilaterais, António Manuel Ricoca Freire.
