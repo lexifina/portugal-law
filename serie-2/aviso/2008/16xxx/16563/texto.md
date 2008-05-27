@@ -1,0 +1,6 @@
+Aviso n.º 16563/2008
+Plano de Pormenor do Passeio de Santo António
+Luís Filipe Soromenho Gomes, Presidente da Câmara Municipal de Vila Real de Santo António: Faz saber que a Câmara Municipal, em sua reunião de seis de Maio de 2008, deliberou proceder à elaboração do Plano de Pormenor do Passeio de Santo António, aprovando os termos de referência que fundamentam a sua oportunidade e fixam os respectivos objectivos.
+Nos termos do n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, e pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, decorrerá por um período de 15 dias úteis, a iniciar 5 dias após a presente publicação, um processo de audição pública, durante o qual os interessados poderão proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+Durante aquele período, os interessados poderão consultar os termos de referência, aprovados pela Câmara Municipal de Vila Real de Santo António, na Divisão de Gestão Urbanística, durante as horas de expediente, todos os dias úteis.
+16 de Maio de 2008. - O Presidente da Câmara, Luís Filipe Soromenho Gomes.
