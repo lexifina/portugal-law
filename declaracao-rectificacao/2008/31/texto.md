@@ -1,0 +1,20 @@
+Declaração de Rectificação n.º 31/2008
+Ao abrigo da alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que o Decreto-Lei n.º 61/2008, de 28 de Março, publicado no Diário da República, 1.ª série, n.º 62, 28 de Março de 2008, saiu com as seguintes inexactidões que, mediante declaração da entidade emitente, assim se rectificam:
+1 - No sumário, onde se lê:
+«Procede à 22.ª alteração ao Decreto-Lei n.º 94/98, de 15 de Abril, relativo à colocação de produtos fitofarmacêuticos no mercado, transpondo para a ordem jurídica interna as Directivas n.os 2006/85/CE, de 23 de Outubro, 2007/5/CE, de 7 de Fevereiro, 2007/25/CE, de 23 de Abril, 2007/31/CE, de 31 de Maio, 2007/50/CE, de 2 de Agosto, e 2007/52/CE, de 16 de Agosto, da Comissão»
+deve ler-se:
+«Procede à 23.ª alteração ao Decreto-Lei n.º 94/98, de 15 de Abril, relativo à colocação de produtos fitofarmacêuticos no mercado, transpondo para a ordem jurídica interna as Directivas n.os 2006/85/CE, de 23 de Outubro, 2007/5/CE, de 7 de Fevereiro, 2007/25/CE, de 23 de Abril, 2007/31/CE, de 31 de Maio, 2007/50/CE, de 2 de Agosto, e 2007/52/CE, de 16 de Agosto, da Comissão»
+2 - No 3.º parágrafo do preâmbulo, onde se lê «primifos-metilo» deve ler-se «pirimifos-metilo».
+3 - No n.º 1 do artigo 1.º, onde se lê «primifos-metilo» deve ler-se «pirimifos-metilo».
+4 - No artigo 2.º, onde se lê:
+«No anexo i do Decreto-Lei n.º 94/98, de 15 de Abril, na redacção dada pelos Decretos-Leis n.os 377/99, de 21 de Setembro, 283/2001, de 30 de Agosto, 28/2002, de 14 de Fevereiro, 101/2002, de 12 de Abril, 198/2002, de 25 de Setembro, 72-H/2003, de 14 de Abril, 215/2003, de 18 de Setembro, 39/2004, de 27 de Fevereiro, 22/2005, de 26 de Janeiro, 128/2005, de 9 de Agosto, 19/2006, de 31 de Janeiro, 87/2006, de 23 de Maio, 234/2006, de 29 de Novembro, 206/2007, de 28 de Maio, e 334/2007, de 10 de Outubro, é alterado o n.º 69 e são aditados os n.os 143, 144 e 151 a 165, nos termos do anexo ao presente decreto-lei, do qual faz parte integrante.»
+deve ler-se:
+«No anexo i do Decreto-Lei n.º 94/98, de 15 de Abril, na redacção dada pelos Decretos-Leis n.os 341/98, de 4 de Novembro, 377/99, de 21 de Setembro, 78/2000, de 9 de Maio, 22/2001, de 30 de Janeiro, 238/2001, de 30 de Agosto, 28/2002, de 14 de Fevereiro, 101/2002, de 12 de Abril, 160/2002, de 9 de Julho, 198/2002, de 25 de Setembro, 72-H/2003, de 14 de Abril, 215/2003, de 18 de Setembro, 22/2004, de 22 de Janeiro, 39/2004, de 27 de Fevereiro, 22/2005, de 26 de Janeiro, 128/2005, de 9 de Agosto, 173/2005, de 21 de Outubro, 19/2006, de 31 de Janeiro, 87/2006, de 23 de Maio, 234/2006, de 29 de Novembro, 111/2007, de 16 de Abril, 206/2007, de 28 de Maio, e 334/2007, de 10 de Outubro, é alterado o n.º 69 e são aditados os n.os 143, 144 e 151 a 165, nos termos do anexo ao presente decreto-lei, do qual faz parte integrante.»
+5 - Na epígrafe e nos n.os 1 e 3 do artigo 5.º, onde se lê «primifos-metilo» deve ler-se «pirimifos-metilo».
+6 - Na alínea b) do artigo 7.º, onde se lê «primifos-metilo» deve ler-se «pirimifos-metilo».
+7 - No anexo, no n.º 156, col. «Designação IUPAC», onde se lê «(E,Z) 4-[3-(4-clorofenil)-3-(3,4-dimetoxifenil)-acriloil]morfolina» deve ler-se «(E,Z)-4-[3-(4-clorofenil)-3-(3,4-dimetoxifenil)acriloil]morfolina».
+8 - No anexo, no n.º 157, col. «Nome comum; números de identificação», onde se lê «número CIPAC: 437.00» deve ler-se «número CIPAC: 437.007».
+9 - No anexo, no n.º 162, onde se lê «Primifos-metilo» deve ler-se «Pirimifos-metilo».
+10 - No anexo, no n.º 163, col. «Designação IUPAC», onde se lê «((mais ou menos))-5-amino-1-(2,6-dicloro-(alfa),(alfa),(alfa)-trifluoro-p-tolil)-4-trifl uorometilsulfinil-pirazol3-carbonitrilo» deve ler-se «((mais ou menos))-5-amino-1-(2,6-dicloro-(alfa),(alfa),(alfa)-trifluoro-p-tolil)-4-trifl uorometilsulfinil-pirazol-3-carbonitrilo».
+11 - No anexo, no n.º 164, col. «Designação IUPAC», onde se lê «(RS)-N-benzil-2-(4-fluoro-3-» deve ler-se «(RS)-N-benzil-2-(4-fluoro-3-trifluorometilfenoxi)butanamida».
+Centro Jurídico, 23 de Maio de 2008. - A Directora, Susana Brito.
