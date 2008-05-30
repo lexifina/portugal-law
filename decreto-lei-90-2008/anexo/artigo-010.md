@@ -1,0 +1,13 @@
+# Artigo 10.º
+
+### Composição da CNAES
+
+1 - A CNAES é constituída por:
+
+a) Dois representantes dos estabelecimentos de ensino superior universitário público nomeados pelo Conselho de Reitores das Universidades Portuguesas;
+
+b) Dois representantes dos estabelecimentos de ensino superior politécnico público nomeados pelo Conselho Coordenador dos Institutos Superiores Politécnicos;
+
+c) Três representantes dos estabelecimentos de ensino superior particular e cooperativo nomeados por despacho do ministro da tutela do ensino superior, ouvidas as organizações representativas dos mesmos.
+
+2 - A CNAES escolhe de entre os seus membros um presidente e um vice-presidente.
