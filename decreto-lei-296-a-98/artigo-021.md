@@ -8,13 +8,13 @@ a) A fixação do elenco e subelencos de provas e dos cursos integrados em cada 
 
 b) A concessão da autorização a que se refere o n.º 5 do artigo 20.º;
 
-d) As condições de utilização dos exames a que se refere a alínea b) do artigo 19.º;
+c) As condições de utilização dos exames a que se refere a alínea b) do artigo 19.º;
 
-c) A homologação dos elencos de provas escolhidos por cada estabelecimento para cada curso;
+d) As condições de utilização dos exames a que se refere a alínea b) do artigo 19.º e o n.º 1 do artigo 20.º-A;
 
 e) O exercício das competências previstas nos n.os 6 e 7 do artigo 20.º-A;
 
-f) A fixação do calendário de todo o processo, em articulação com a Direcção-Geral do Ensino Superior e com os serviços competentes do Ministério da Educação;
+f) O exercício das competências previstas no n.º 6 do artigo 20.º-A;
 
 g) A divulgação de toda a informação relevante.
 

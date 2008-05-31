@@ -19,3 +19,5 @@ c) A classificação dos pré-requisitos de seriação, quando exigidos, com um 
 5 - A classificação dos exames nacionais do ensino secundário é atribuída na escala de 0 a 200.
 
 6 - A classificação dos pré-requisitos de seriação é atribuída na escala de 0 a 200.
+
+7 - O valor da classificação final do ensino secundário, para os fins do presente artigo, para os candidatos cujo diploma de ensino secundário, nos termos da lei, não inclua essa classificação, é fixado de acordo com critérios a aprovar por deliberação da CNAES, os quais terão em consideração os resultados obtidos nas provas de ingresso realizadas por aqueles.

@@ -2,4 +2,4 @@
 
 ### Âmbito e aplicação
 
-Este regime aplica-se ao acesso e ingresso nos estabelecimentos de ensino superior público e particular e cooperativo para a frequência de cursos de bacharelato e de licenciatura.
+Este regime aplica-se ao acesso e ingresso nos estabelecimentos de ensino superior público e particular e cooperativo para a frequência de ciclos de estudos de licenciatura e integrados de mestrado, adiante designados por cursos.

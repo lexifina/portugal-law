@@ -6,7 +6,7 @@
 
 a) Terem âmbito nacional;
 
-b) Terem sido realizados no ano lectivo que antecede imediatamente o ano a que se refere a candidatura;
+b) (Revogado.)
 
 c) Referirem-se a disciplinas homólogas das provas de ingresso.
 
@@ -22,12 +22,14 @@ c) Referirem-se a disciplinas homólogas das provas de ingresso.
 
 a) Regulamentar a aplicação do disposto no presente artigo;
 
-b) Homologar as decisões a que se refere o n.º 3.
+b) Decidir acerca da homologação a que se refere o n.º 2, designadamente aprovando tabelas de correspondência;
 
-7 - Compete ainda à CNAES, considerando o parecer do serviço competente do Ministério da Educação:
+c) Homologar as decisões a que se refere o n.º 3.
 
-a) Decidir acerca da homologia a que se refere o n.º 2, designadamente aprovando tabelas de correspondência;
+d) Fixar as regras para a conversão de classificações a que se refere o n.º 4.
 
-b) Fixar as regras para a conversão de classificações a que se refere o n.º 4.
+7 - (Revogado.)
 
-8 - As decisões a que se referem os n.os 3, 6 e 7 são proferidas e divulgadas até 31 de Maio do ano que antecede o ano de realização da candidatura.
+8 - As decisões a que se referem os n.os 3 e 6 são proferidas e divulgadas até 31 de Maio do ano que antecede o ano de realização da candidatura.
+
+9 - Os exames a que se refere o n.º 1 podem ser utilizados como provas de ingresso por um prazo idêntico ao fixado pela CNAES para a utilização dos exames nacionais do ensino secundário.

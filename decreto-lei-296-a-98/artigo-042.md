@@ -10,4 +10,4 @@ a) Em anos lectivos anteriores;
 
 b) Na primeira fase dos exames nacionais do ensino secundário desse ano lectivo;
 
-c) Na 2.ª fase dos exames nacionais do ensino secundário desse ano lectivo, quando o estudante não tenha realizado o mesmo exame na 1.ª fase ou quando tal seja permitido, por despacho fundamentado do membro do Governo com a tutela sobre o ensino secundário, em razão de circunstâncias excepcionais verificadas no processo de avaliação e susceptíveis de prejudicar gravemente os candidatos ou de pôr em causa o princípio da igualdade entre candidaturas.
+c) Na 2.ª fase dos exames nacionais do ensino secundário desse ano lectivo, quando o estudante não tenha realizado o mesmo exame na 1.ª fase, estando legalmente habilitado para o fazer.
