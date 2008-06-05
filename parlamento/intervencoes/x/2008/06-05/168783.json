@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7mX8CblfaZUC1PkJDB5lnqrCJq%2b7%2fttZ%2bq7V7723EchVdz3Nn2q812aFEYd6rr8874IzCmBVEAA%2bWOYWfsumzvqS1eq8naCM3HU8DfArtqjUIzglbaPE0CcQttqHCQQoMo%2fh%2fhKCb3g2GEQMzfq1KSc9%2fpTWFu72hTtxTyNYOeXkhbuONHMuCnIkQqg3msT7eeQmt0TfluQRzEBaM8DH7AQmw5Qhogj2EW6Pzk21Q%2bvziTvjPWoS33gxtX%2fH9JDDQX6mGASaug9iKuUhzQ7Z5ZK%2fZR5bCVlM5vvPHMxCwoMG%2bvQRYkXxSUhi0aLWAFUFURbTtAP3Ta6KrCvkgi0G8WZ9c9%2bLNnGsCv9PZZ1kJfTh41xRZVmeaxJdHrCKDxmC&fich=IntervencoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "6d409937a94b75ba2179b6cc6083cb33cce789e414851e22ef0c275c6cbcc284",
+  "legislatura": "X",
+  "id": "168783",
+  "tipo": "Intervenção",
+  "orador": "José Sócrates (PRIMEIRO-MINISTRO)",
+  "data_registo": "2008-06-05",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "84494",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "84494",
+        "tipo": "MOC",
+        "titulo": "Moção de censura ao governo - Moção de Censura n.º 3/X ao XVII Governo Constitucional."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2008-06-05",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "168783",
+    "IdDebate": "25171",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "X",
+    "MembrosGoverno": {
+      "cargo": "PRIMEIRO-MINISTRO",
+      "governo": "XVII GOVERNO CONSTITUCIONAL",
+      "nome": "José Sócrates"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "168783",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "17-18",
+          "20-21",
+          "24-25",
+          "27-29",
+          "31-33",
+          "36-38",
+          "42-47",
+          "9-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-06-06",
+        "pubLeg": "X",
+        "pubNr": "92",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/092/2008-06-06/9?pgs=9-15,17-18,20-21,24-25,27-29,31-33,36-38,42-47&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Responde aos deputados Paulo Portas (CDS-PP), Ana Drago (BE), Hugo Velosa (PSD), Alberto Martins (PS), Agostinho Lopes (PCP), Heloísa Apolónia (PEV), Diogo Feio (CDS-PP), Helena Pinto (BE), Almeida Henriques (PSD), Honório Novo (PCP), Nuno Teixeira de Melo (CDS-PP), Pedro Mota Soares (CDS-PP), Nuno Magalhães (CDS-PP), Teresa Caeiro (CDS-PP), Helder Amaral (CDS-PP), Abel Baptista (CDS-PP), António Carlos Monteiro (CDS-PP) e João Rebelo (CDS-PP)",
+    "Sessao": "3",
+    "Sumario": "Moção de censura nº 3/X",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
