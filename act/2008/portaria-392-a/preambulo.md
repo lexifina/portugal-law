@@ -1,0 +1,15 @@
+As orientações comunitárias para o desenvolvimento rural, no período de 2007-2013, prevêem, além de um vasto conjunto de medidas que têm como objectivo geral o apoio à competitividade e ao desenvolvimento sustentável, igualmente medidas com vista à necessidade de acompanhar as mudanças nas zonas rurais, apoiando, nomeadamente, a diversificação das actividades agrícolas para outras não agrícolas, ou a melhoria dos serviços básicos, contribuindo, desta forma, para incrementar a atractividade destas regiões e a manutenção ou criação de emprego.
+
+Este conjunto de apoios encontra-se organizado no Programa de Desenvolvimento Rural do Continente, a seguir designado por PRODER, no subprograma n.º 3 relativo à dinamização das zonas rurais.
+
+Diversificar a economia local e intervir ao nível do património rural ou nos serviços prestados à população são objectivos que deverão ser alcançados tendo em conta as características específicas de cada território e as suas necessidades e potencialidades de desenvolvimento. Esta tipologia de medidas implica, pois, a capacidade de mobilização e organização das respectivas populações que, de forma participada e activa, deverão poder intervir na organização da definição das suas necessidades e nos apoios que mais lhe sejam adequados. Desta forma, e considerando que a experiência obtida com os programas LEADER, enquanto formas de governança de proximidade com as populações locais, poderiam, com vantagem, promover e levar ao desenvolvimento de estratégias locais de desenvolvimento, coerentes com as orientações comunitárias e nacionais, e com as restantes medidas do PRODER, pretende-se criar mecanismos para que os agentes locais possam gerir as medidas n.os 3.1 e 3.2 colocadas à sua disposição e promover a aplicação articulada e coerente de outras medidas do PRODER e restantes instrumentos de política incidente no seu território.
+
+A capacidade dos agentes locais para, em parceria, delinearem a estratégia de actuação para o seu território, sustentada em diagnóstico fundamentado, e se proporem à sua implementação, será determinante na satisfação dos objectivos que se pretendem atingir.
+
+Estas orientações implicam que se proceda à selecção das parcerias representativas dos vários sectores sócio-económicos locais, denominadas grupos de acção local, os GAL, responsáveis pela delimitação dos territórios de intervenção de nível sub-regional, e pela definição de estratégias locais de desenvolvimento para esses territórios.
+
+O processo de selecção dos GAL e das suas estratégias locais de desenvolvimento, bem como a necessidade de definição de princípios e regras de funcionamento para estes órgãos intermédios de gestão do PRODER, de forma coerente e em consonância com as restantes orientações nacionais e comunitárias estabelecidas para o período de 2007-2013, justificam, assim, a presente regulamentação.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:
