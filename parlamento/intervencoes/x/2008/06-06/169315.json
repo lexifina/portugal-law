@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7mX8CblfaZUC1PkJDB5lnqrCJq%2b7%2fttZ%2bq7V7723EchVdz3Nn2q812aFEYd6rr8874IzCmBVEAA%2bWOYWfsumzvqS1eq8naCM3HU8DfArtqjUIzglbaPE0CcQttqHCQQoMo%2fh%2fhKCb3g2GEQMzfq1KSc9%2fpTWFu72hTtxTyNYOeXkhbuONHMuCnIkQqg3msT7eeQmt0TfluQRzEBaM8DH7AQmw5Qhogj2EW6Pzk21Q%2bvziTvjPWoS33gxtX%2fH9JDDQX6mGASaug9iKuUhzQ7Z5ZK%2fZR5bCVlM5vvPHMxCwoMG%2bvQRYkXxSUhi0aLWAFUFURbTtAP3Ta6KrCvkgi0G8WZ9c9%2bLNnGsCv9PZZ1kJfTh41xRZVmeaxJdHrCKDxmC&fich=IntervencoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "6d409937a94b75ba2179b6cc6083cb33cce789e414851e22ef0c275c6cbcc284",
+  "legislatura": "X",
+  "id": "169315",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "João Semedo (BE)",
+  "data_registo": "2008-06-06",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "253625",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "33912",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Estabelece o regime jurídico da qualidade e segurança relativa à dádiva, colheita, análise, processamento, preservação, armazenamento, distribuição e aplicação de tecidos e células de origem humana, transpondo para a ordem jurídica interna as Directivas n.ºs 2004/23/CE, do Parlamento Europeu e do Conselho, de 31 de Março, 2006/17/CE, da Comissão, de 8 de Fevereiro, e 2006/86/CE, da Comissão, de 24 de Outubro."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2008-06-06",
+    "Debate": null,
+    "Deputados": {
+      "GP": "BE",
+      "idCadastro": "803",
+      "nome": "João Semedo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "169315",
+    "IdDebate": "6263",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "33912",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "X",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "169315",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "20-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-06-07",
+        "pubLeg": "X",
+        "pubNr": "93",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/093/2008-06-07/20?pgs=20-21&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "A Ministra da Saúde (Ana Jorge)",
+    "Sessao": "3",
+    "Sumario": "Estabelece o regime jurídico da qualidade e segurança relativa à dádiva, colheita, análise, processamento, preservação, armazenamento, distribuição e aplicação de tecidos e células de origem humana, transpondo para a ordem jurídica interna as Directivas n.ºs 2004/23/CE, do Parlamento Europeu e do Conselho, de 31 de Março, 2006/17/CE, da Comissão, de 8 de Fevereiro, e 2006/86/CE, da Comissão, de 24 de Outubro.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
