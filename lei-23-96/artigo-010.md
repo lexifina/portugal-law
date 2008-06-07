@@ -8,6 +8,6 @@
 
 3 - A exigência de pagamento por serviços prestados é comunicada ao utente, por escrito, com uma antecedência mínima de 10 dias úteis relativamente à data limite fixada para efectuar o pagamento.
 
-4 - O prazo para a propositura da acção pelo prestador de serviços é de seis meses, contados após a prestação do serviço ou do pagamento inicial, consoante os casos.
+4 - O prazo para a propositura da acção ou da injunção pelo prestador de serviços é de seis meses, contados após a prestação do serviço ou do pagamento inicial, consoante os casos.
 
 5 - O disposto no presente artigo não se aplica ao fornecimento de energia eléctrica em alta tensão.
