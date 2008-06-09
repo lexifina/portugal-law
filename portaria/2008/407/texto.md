@@ -1,0 +1,8 @@
+Portaria n.º 407/2008
+de 9 de Junho
+Pela Portaria n.º 727/2000, de 6 de Setembro, alterada pela Portaria n.º 1033-CH/2004, de 10 de Agosto, foi concessionada à Associação de Caçadores do Alto Minho a zona de caça associativa da Travanca (processo n.º 2306-DGRF), situada no município de Paredes de Coura.
+Verificou-se entretanto que a área mencionada na portaria acima referida não está correcta, nem a localização dos prédios rústicos que integram a presente zona de caça corresponde à delimitação constante da planta anexa à mesma portaria, pelo que se torna necessário proceder à sua correcção.
+Assim:
+Com fundamento na alínea c) do artigo 41.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, que a zona de caça associativa da Travanca (processo n.º 2306-DGRF) passe a englobar os prédios rústicos constantes da planta anexa à presente portaria e que dela faz parte integrante sitos nas freguesias de Parada, Vascões, Bico, Cristelo, Castanheira, Cunha e Resende, município de Paredes de Coura, com a área de 2833 ha.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 14 de Abril de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 27 de Maio de 2008.
+(ver documento original)
