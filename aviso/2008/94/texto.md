@@ -1,0 +1,5 @@
+Aviso n.º 94/2008
+Por ordem superior se torna público que, em 8 de Março de 2007 e em 18 de Janeiro de 2008, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros de Israel em Jerusalém e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e o Governo do Estado de Israel para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinado em Lisboa em 26 de Setembro de 2006.
+Por parte de Portugal o Acordo foi ratificado pelo Decreto do Presidente da República n.º 12/2008 e aprovado pela Resolução da Assembleia da República n.º 2/2008, publicados no Diário da República, 1.ª série, n.º 10, de 10 de Janeiro de 2008.
+Nos termos do n.º 28 da Convenção, este entrou em vigor no dia 18 de Fevereiro de 2008.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 12 de Maio de 2008. - O Subdirector-Geral, Ricardo Eduardo Vaz Pereira Pracana.
