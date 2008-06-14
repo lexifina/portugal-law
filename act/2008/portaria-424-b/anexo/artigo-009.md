@@ -1,0 +1,29 @@
+# Artigo 9.º
+
+### Taxas de apoio
+
+1 - As taxas de apoio público para os projectos apresentados pelos promotores previstos na alínea b) do artigo 2.º são os seguintes:
+
+a) 20 % no caso dos projectos localizados na região de Lisboa;
+
+b) 30 % no caso dos projectos localizados nas regiões Norte, Centro, Alentejo e Algarve.
+
+2 - A taxa de apoio público para os projectos apresentados pelos promotores previstos na alínea a) do artigo 2.º é de 35 %, à qual acrescem as seguintes majorações:
+
+a) 10 % nos projectos localizados nas regiões Norte, Centro, Alentejo e Algarve;
+
+b) 5 % nos projectos que visem a produção de novas espécies piscícolas, em pelo menos 50 % da produção prevista no projecto;
+
+c) 5 % nos projectos que visem a produção em mar aberto;
+
+d) 5 % nos projectos que visem a pré-engorda de juvenis para abastecimento dos estabelecimentos aquícolas;
+
+e) 5 % nos projectos que visem a instalação ou ampliação de estabelecimentos de produção de bivalves, gastrópodes, equinodermos, cefalópodes e crustáceos.
+
+3 - As taxas de apoio público obtidas nos termos do número anterior não podem ultrapassar os seguintes limites:
+
+a) 40 % para os projectos localizados na região de Lisboa;
+
+b) 60 % para os projectos localizados nas regiões Norte, Centro, Alentejo e Algarve.
+
+4 - Para efeitos do presente Regulamento consideram-se novas espécies aquelas cuja produção anual é inferior a 500 t, com base nos dados estatísticos nacionais relativos a 2006, e para as quais existam boas perspectivas de mercado.
