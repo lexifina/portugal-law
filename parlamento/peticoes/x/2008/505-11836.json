@@ -1,0 +1,491 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11836",
+  "numero": "505",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-06-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2008-11-10",
+            "entidades": null,
+            "id": "85192",
+            "tipo": null,
+            "titulo": "Audição em 2008-11-10 com Arqº José Pedro Santos, Prof. António Cândido Oliveira, Sra. Zulmira Silva"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2008-10-15",
+            "dataResposta": "2009-02-09",
+            "entidades": [
+              "Ministro das Obras Públicas, Transportes e Comunicações"
+            ],
+            "nrOficio": "222/COPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a59573876596d4d315a6d526a4e544d745954526c4e793030596a566c4c546c6b4e7a6774596d4d354e5463354e7a59354e6a426c4c6e426b5a673d3d&fich=bc5fdc53-a4e7-4b5e-9d78-bc957976960e.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2008-10-15",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente do Conselho de Administração da EP - Estradas de Portugal"
+            ],
+            "nrOficio": "221/COPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a59573876596d4d315a6d526a4e544d745954526c4e793030596a566c4c546c6b4e7a6774596d4d354e5463354e7a59354e6a426c4c6e426b5a673d3d&fich=bc5fdc53-a4e7-4b5e-9d78-bc957976960e.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2008-10-15",
+            "dataResposta": "2008-10-30",
+            "entidades": [
+              "Presidente do Conselho de Administração da REFER"
+            ],
+            "nrOficio": "219/COPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a59573876596d4d315a6d526a4e544d745954526c4e793030596a566c4c546c6b4e7a6774596d4d354e5463354e7a59354e6a426c4c6e426b5a673d3d&fich=bc5fdc53-a4e7-4b5e-9d78-bc957976960e.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2008-10-15",
+            "dataResposta": "2008-11-07",
+            "entidades": [
+              "Presidente da CP - Caminhos de Ferro Portugueses"
+            ],
+            "nrOficio": "220/COPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a59573876596d4d315a6d526a4e544d745954526c4e793030596a566c4c546c6b4e7a6774596d4d354e5463354e7a59354e6a426c4c6e426b5a673d3d&fich=bc5fdc53-a4e7-4b5e-9d78-bc957976960e.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-03-17",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-07-09",
+        "DataArquivo": "2009-03-17",
+        "DataBaixaComissao": "2008-07-09",
+        "DataEnvioPAR": "2009-03-17",
+        "DataReaberta": "2008-07-09",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-06-19",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764d6d5932597a49324d7a63744d4745324d5330305a4441354c546730597a55745a446377593252694d5442684e6a59314c6e426b5a673d3d&fich=2f6c2637-0a61-4d09-84c5-d70cdb10a665.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2008-06-19",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a59573876596d4d315a6d526a4e544d745954526c4e793030596a566c4c546c6b4e7a6774596d4d354e5463354e7a59354e6a426c4c6e426b5a673d3d&fich=bc5fdc53-a4e7-4b5e-9d78-bc957976960e.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1911",
+        "Legislatura": "X",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-07-09",
+            "gp": "PS",
+            "id": "1571",
+            "motivoCessacao": null,
+            "nome": "Isabel Jorge"
+          }
+        ],
+        "RelatorioFinal": [
+          "22505"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2009-05-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2008-06-19",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637939685a5752694f54646b5a5331684e3251354c5451344d7a5174596a4935597930305a6a426b4d3249795a445578597a49756347526d&fich=aedb97de-a7d9-4834-b29c-4f0d3b2d51c2.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2009-05-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172368",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-05-07",
+                "pubLeg": "X",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/076/2009-05-07/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Comissão de Utentes da Linha Braga-Porto, solicitando à Assembleia da República o seu reconhecimento como seus representantes, bem como a criação de viagens de 40 minutos e seu reforço à semana e ao fim-de-semana",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-05-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172369",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-05-07",
+                "pubLeg": "X",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/076/2009-05-07/43?pgs=43&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Comissão de Utentes da Linha Braga-Porto, solicitando à Assembleia da República o seu reconhecimento como seus representantes, bem como a criação de viagens de 40 minutos e seu reforço à semana e ao fim-de-semana",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-05-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172370",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-05-07",
+                "pubLeg": "X",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/076/2009-05-07/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Comissão de Utentes da Linha Braga-Porto, solicitando à Assembleia da República o seu reconhecimento como seus representantes, bem como a criação de viagens de 40 minutos e seu reforço à semana e ao fim-de-semana",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-05-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172371",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-05-07",
+                "pubLeg": "X",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/076/2009-05-07/44?pgs=44&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Comissão de Utentes da Linha Braga-Porto, solicitando à Assembleia da República o seu reconhecimento como seus representantes, bem como a criação de viagens de 40 minutos e seu reforço à semana e ao fim-de-semana",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-05-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172372",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-05-07",
+                "pubLeg": "X",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/076/2009-05-07/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Comissão de Utentes da Linha Braga-Porto, solicitando à Assembleia da República o seu reconhecimento como seus representantes, bem como a criação de viagens de 40 minutos e seu reforço à semana e ao fim-de-semana",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-05-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172373",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-05-07",
+                "pubLeg": "X",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/076/2009-05-07/45?pgs=45&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Comissão de Utentes da Linha Braga-Porto, solicitando à Assembleia da República o seu reconhecimento como seus representantes, bem como a criação de viagens de 40 minutos e seu reforço à semana e ao fim-de-semana",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11836",
+    "PetAssunto": "Solicitam o reconhecimento da Comissão de Utentes da Linha Ferroviária Braga-Porto como seus representantes, bem como a criação de viagens de 40 minutos e seu reforço à semana e ao fim-de-semana.",
+    "PetDataEntrada": "2008-06-19",
+    "PeticoesAssociadas": null,
+    "PetId": "11836",
+    "PetLeg": "X",
+    "PetNr": "505",
+    "PetNrAssinaturas": "7015",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "286",
+        "obs": null,
+        "pag": [
+          "42-45"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-05-07",
+        "pubLeg": "X",
+        "pubNr": "76",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/076/2009-05-07/42?pgs=42-45&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "447874",
+        "obs": null,
+        "pag": [
+          "6-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-10-18",
+        "pubLeg": "X",
+        "pubNr": "17",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/017/2008-10-18/6?pgs=6&org=PLC"
+      }
+    ]
+  }
+}
