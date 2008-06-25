@@ -1,5 +1,7 @@
 # Artigo 2.º
 
+### Incidência subjectiva
+
 1 - São considerados sujeitos passivos do imposto pela aquisição intracomunitária de bens:
 
 a) As pessoas singulares ou colectivas mencionadas na alínea a) do n.º 1 do artigo 2.º do Código do IVA que realizem transmissões de bens ou prestações de serviços que conferem direito à dedução total ou parcial do imposto;

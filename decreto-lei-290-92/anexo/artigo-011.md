@@ -1,6 +1,6 @@
 # Artigo 11.º
 
-### Transmissão de bens de outro Estado membro para Portugal em regime de vendas à distância
+### Vendas à distância localizadas no território nacional
 
 1 - São tributáveis as transmissões de bens expedidos ou transportados pelo fornecedor, sujeito passivo noutro Estado membro, ou por sua conta, a partir desse Estado membro, quando o lugar de chegada dos bens com destino ao adquirente se situe no território nacional e desde que se verifiquem, simultaneamente, as seguintes condições:
 
@@ -18,4 +18,4 @@ b) As transmissões de bens cujo valor global não tenha excedido o limite de (e
 
 3 - Se os bens a que se referem as transmissões previstas nos números anteriores forem expedidos ou transportados a partir de um país terceiro, considera-se que foram expedidos ou transportados a partir do Estado membro em que o fornecedor procedeu à respectiva importação.
 
-4 - Para efeitos do disposto na alínea c) do n.º 1, o valor global das transmissões será determinado com exclusão do valor das transmissões de meios de transporte novos e de bens sujeitos a impostos especiais de consumo.
+4 - Para efeitos do disposto na alínea c) do n.º 1, o valor global das transmissões é determinado com exclusão do valor das transmissões de meios de transporte novos e de bens sujeitos a impostos especiais de consumo.

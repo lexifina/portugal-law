@@ -1,5 +1,7 @@
 # Artigo 15.º
 
+### Isenções nas aquisições intracomunitárias de bens
+
 1 - Estão isentas do imposto:
 
 a) As aquisições intracomunitárias de bens cuja transmissão no território nacional seja isenta do imposto;
