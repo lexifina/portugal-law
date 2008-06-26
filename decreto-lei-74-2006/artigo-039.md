@@ -1,10 +1,6 @@
 ## Capítulo V
 
-## Diploma de técnico superior profissional
-
-## Secção I
-
-## Princípios gerais
+## Diplomas de ensino superior
 
 # Artigo 39.º
 
@@ -16,7 +12,7 @@ a) Pela realização de parte de um curso de licenciatura não inferior a 120 cr
 
 b) Pela conclusão de um curso de mestrado não inferior a 60 créditos;
 
-c) Pela conclusão de um curso de doutoramento não inferior a 30 créditos;
+c) Pela conclusão de um curso de doutoramento;
 
 d) Pela realização de outros cursos não conferentes de grau académico.
 

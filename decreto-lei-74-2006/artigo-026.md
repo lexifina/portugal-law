@@ -8,23 +8,21 @@ a) Regras sobre a admissão no ciclo de estudos, em especial as condições de n
 
 b) Condições de funcionamento;
 
-c) Estrutura curricular, plano de estudos e créditos, nos termos das normas técnicas a que se refere o artigo 12.º do Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho;
+c) Estrutura curricular, plano de estudos e créditos, nos termos das normas técnicas a que se refere o artigo 12.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro;
 
-d) Processo de creditação;
+d) Concretização da componente a que se refere a alínea b) do n.º 1 do artigo 20.º;
 
-e) Concretização da componente a que se refere a alínea b) do n.º 1 do artigo 20.º;
+e) Regimes de precedências e de avaliação de conhecimentos no curso de mestrado;
 
-f Regimes de precedências e de avaliação de conhecimentos no curso de mestrado;
+f) Regime de prescrição do direito à inscrição, tendo em consideração, no ensino público e quando aplicável, o disposto sobre esta matéria na Lei n.º 37/2003, de 22 de Agosto;
 
-g) Regime de prescrição do direito à inscrição, tendo em consideração, no ensino público e quando aplicável, o disposto sobre esta matéria na Lei n.º 37/2003, de 22 de agosto, na sua redação atual;
+g) Processo de nomeação do orientador ou dos orientadores, condições em que é admitida a co-orientação e regras a observar na orientação;
 
-h) Processo de nomeação do orientador ou dos orientadores, condições em que é admitida a co-orientação e regras a observar na orientação;
+h) Regras sobre a apresentação e entrega da dissertação, do trabalho de projecto ou do relatório de estágio, e sua apreciação;
 
-i) Regras sobre a apresentação e entrega da dissertação, do trabalho de projeto ou do relatório de estágio, e sua apreciação, sem prejuízo do disposto no artigo 46.º-D;
+i) Prazos máximos para a realização do acto público de defesa da dissertação, do trabalho de projecto ou do relatório de estágio;
 
-j) Prazos máximos para a realização do acto público de defesa da dissertação, do trabalho de projecto ou do relatório de estágio;
-
-k) Regras sobre a composição, nomeação e funcionamento do júri;
+j) Regras sobre a composição, nomeação e funcionamento do júri;
 
 l) Regras sobre as provas de defesa da dissertação, do trabalho de projecto ou do relatório de estágio;
 

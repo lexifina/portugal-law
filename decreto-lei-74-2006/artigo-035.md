@@ -2,4 +2,4 @@
 
 ### Concessão do grau de doutor
 
-O grau de doutor é conferido aos que tenham obtido aprovação no acto público de defesa da tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º
+O grau de doutor é conferido aos que tenham obtido aprovação no acto público de defesa da tese.

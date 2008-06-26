@@ -2,17 +2,11 @@
 
 ### Ciclo de estudos integrado conducente ao grau de mestre
 
-1 - No ensino universitário, o grau de mestre pode igualmente ser conferido após um ciclo de estudos integrado, com 300 a 360 créditos e uma duração normal compreendida entre 10 e 12 semestres curriculares de trabalho, nas seguintes áreas de formação:
+1 - No ensino universitário, o grau de mestre pode igualmente ser conferido após um ciclo de estudos integrado, com 300 a 360 créditos e uma duração normal compreendida entre 10 e 12 semestres curriculares de trabalho, nos casos em que, para o acesso ao exercício de uma determinada actividade profissional, essa duração:
 
-a) Arquitetura e Urbanismo;
+a) Seja fixada por normas legais da União Europeia;
 
-b) Ciências Farmacêuticas;
-
-c) Medicina;
-
-d) Medicina Dentária;
-
-e) Medicina Veterinária.
+b) Resulte de uma prática estável e consolidada na União Europeia.
 
 2 - O acesso e ingresso no ciclo de estudos referido no número anterior rege-se pelas normas aplicáveis ao acesso e ingresso no ciclo de estudos conducente ao grau de licenciado.
 
