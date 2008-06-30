@@ -1,0 +1,39 @@
+Aviso n.º 19050/2008
+Publicitação da elaboração de um plano de pormenor na modalidade de plano de intervenção em espaço rural para um centro equestre em Tavira
+José Macário Correia, Presidente da Câmara Municipal de Tavira, torna público, nos termos e para efeitos do disposto no artigo 74.º em conjugação com o artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção que lhe é conferida pelo Decreto-Lei n.º 310/03, de 10 de Dezembro e Decreto-Lei n.º 316/07, de 19 de Setembro, a deliberação tomada, em reunião camarária de 18 do corrente, para elaboração de um Plano de Pormenor na modalidade de Plano de Intervenção em Espaço Rural para um Centro Equestre em Tavira.
+Pelo Sr. Presidente foi posto à consideração da Câmara Municipal, para discussão e votação, o documento relativo à elaboração de um Plano de Pormenor na modalidade de Plano de Intervenção em Espaço Rural para um Centro Equestre em Tavira, consubstanciado na Proposta n.º 73/2008/CM, cujo conteúdo se apresenta:
+Considerando que:
+Na sequência da Proposta n.º 41/2008/CM, em 8 de Abril de 2008, esta Câmara Municipal deliberou, por unanimidade, aprovar a proposta de contrato a celebrar com a EMPET - Empresa Municipal de Parques Empresariais de Tavira com vista à elaboração de um Plano de Pormenor, na modalidade de Plano de Intervenção em Espaço Rural (previsto no artigo 91.º-A do RJIGT) para um Centro Equestre em Tavira;
+Foi efectuado o período de publicitação da deliberação e da proposta de contrato nos termos legais, o qual decorreu entre 15 de Maio de 2008 e 5 de Junho de 2008, não tendo ocorrido qualquer contributo;
+em 12 de Junho de 2008 foi celebrado o contrato entre o Município de Tavira e a EMPET - Empresa Municipal de Parques Empresariais de Tavira;
+Analisado todo o conteúdo do documento de proposta de elaboração de um Plano de Pormenor na modalidade de Plano de Intervenção em Espaço Rural para um Centro Equestre em Tavira, que aqui se dá por reproduzida na íntegra, a Câmara Municipal deliberou, por unanimidade:
+1. Desencadear o processo de elaboração do Plano de Pormenor, na modalidade de Plano de Intervenção em Espaço Rural para um Centro Equestre em Tavira, nos termos da legislação em vigor.
+2. Aprovar os Termos de Referência do Plano.
+3. Definir o prazo de 12 meses para a elaboração do Plano, pugnando sempre que possível pelo seu encurtamento.
+4. Proceder à publicitação desta deliberação nos termos legais.
+5. Dar conhecimento da deliberação à CCDR Algarve, à DGOTDU e à EMPET - Empresa Municipal de Parques Empresariais de Tavira.
+Assim, nos termos e para os efeitos do disposto no n.º 2 do artigo 77.º e no n.º 2 do artigo 149.º, ambos do Decreto-Lei n.º 380/99 de 22 de Setembro, com as alterações que lhe foram produzidas pelo Decreto-Lei n.º 310/03, de 10 de Dezembro e pelo Decreto-Lei n.º 316/07, de 19 de Setembro, encontra-se aberto, a partir do 10.º dia útil a seguir à publicação deste aviso no Diário da República 2.ª série e durante 15 dias úteis, o período de publicitação da elaboração de um Plano de Pormenor na modalidade de Plano de Intervenção em Espaço Rural para um Centro Equestre em Tavira, para apresentação de contributos sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+Os documentos poderão ser consultados todos os dias úteis das 9,00 às 12,30 horas e das 14,00 às 17,30 horas, na Divisão de Planeamento Urbanístico, sita no edifício sede da Câmara Municipal de Tavira.
+Os interessados podem apresentar observações, formular sugestões, bem como apresentar informações sobre quaisquer questões, relativamente à elaboração do Plano em causa, por escrito em impressos próprios existentes para o efeito na Câmara Municipal e nas Juntas de Freguesia, e por carta dirigida à Câmara Municipal de Tavira, com identificação expressa publicitação da elaboração de um Plano de Pormenor na modalidade de Plano de Intervenção em Espaço Rural para um Centro Equestre em Tavira, com identificação e morada/contacto do signatário, durante o período referido.
+Nos termos do n.º 6 do artigo 6.º-A do Decreto-Lei n.º 316/07, de 19 de Setembro, publica-se em anexo a este Aviso, o contrato celebrado entre o Município de Tavira e a EMPET - Empresa Municipal de Parques Empresariais de Tavira.
+23 de Junho de 2008. - O Presidente da Câmara, José Macário Correia.
+ANEXO
+Contrato para elaboração do plano de pormenor, na modalidade de plano de intervenção em espaço rural, para um centro equestre em Tavira
+Primeiro outorgante: EMPET - Parques Empresariais de Tavira, E.M., empresa municipal com sede nos Paços do Município, Praça da República, 8800-951 TAVIRA, com o capital social de EUR 498.797,90. Pessoa colectiva n.º 505 873 567, matriculada na Conservatória do Registo Comercial de Tavira sob o n.º 00001/030409, aqui representada pelo Eng.º Mateus Cruz Teixeira de Azevedo, casado, natural da freguesia da Sé, concelho de Faro, portador do Bilhete de Identidade n.º 362903, emitido pelos Serviços de Identificação Civil de Lisboa, em 20/10/2000, residente na Quinta da Baleeira, Cabanas de Tavira, e Sr. Victor Manuel Ferreira Guerreiro, casado, natural da freguesia de São Bartolomeu de Messines, concelho de Silves, portador do Bilhete de Identidade n.º 1287121, emitido pelos Serviços de Identificação Civil de Lisboa, em 02/10/2003, residente em Santa Margarida, Santiago, Tavira, que outorgam respectivamente nas qualidades de Presidente do Conselho de Administração e Administrador, adiante designado como Primeiro outorgante
+e
+Segundo outorgante: município de Tavira, pessoa colectiva de direito público, com sede nos Paços do Município, Praça do República, 8800-951 Tavira, com o n.º de identificação 501 067 191, aqui representado pelo Eng.º José Macário Custódio Correia, casado, natural da freguesia de Santo Estêvão, concelho de Tavira, residente no Barranco da Nora, Tavira, na qualidade de Presidente da Câmara Municipal de Tavira, adiante designado como Segundo outorgante
+É celebrado o presente contrato, nos termos do previsto no artigo 6.º-A do D.L. 316/2007 de 19 de Setembro, o qual se rege pelas cláusulas seguintes:
+Cláusula 1.ª
+Objecto do contrato
+O presente contrato tem por objecto regulamentar as relações entre as partes outorgantes em matéria de elaboração do Plano de Pormenor, na modalidade de Plano de Intervenção em Espaço Rural, para um Centro Equestre em Tavira.
+Cláusula 2.ª
+Período de vigência do contrato
+O período de vigência deste contrato decorre desde a data da sua assinatura até à publicação do Plano de Pormenor, na modalidade de Plano de Intervenção em Espaço Rural, para um Centro Equestre em Tavira no Diário da República, nos termos da alínea d) do n.º 4 do artigo 148.º do Decreto Lei n.º 316/2007, de 19 de Setembro.
+Cláusula 3.ª
+Obrigações do primeiro outorgante
+1 - Compete à EMPET - Empresa Municipal de Parques Empresariais de Tavira a elaboração do Plano de Pormenor, na modalidade de Plano de Intervenção em Espaço Rural, para um Centro Equestre em Tavira, sendo por isso responsável por todos os encargos financeiros inerentes ao respectivo processo.
+2 - O Plano de Pormenor, na modalidade de Plano de Intervenção em Espaço Rural, para um Centro Equestre em Tavira deverá ser elaborado em conformidade com os Termos de Referência do Plano, com as orientações do Município de Tavira e a legislação vigente aplicável.
+Cláusula 4.ª
+Obrigações do segundo outorgante
+1 - Compete ao Município de Tavira a gestão da tramitação e procedimentos inerentes o Plano de Pormenor, na modalidade de Plano de Intervenção em Espaço Rural, para um Centro Equestre em Tavira, em conformidade com a legislação vigente aplicável.
+12 de Junho de 2008. - Pelo Primeiro Outorgante: Mateus Cruz Teixeira de Azevedo - Victor Manuel Ferreira Guerreiro. - Pelo Segundo Outorgante, José Macário Custódio Correia.
