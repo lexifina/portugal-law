@@ -4,20 +4,20 @@
 
 ## CAPÍTULO I
 
-## Competência
+## Competência e forma dos actos
 
 # Artigo 169.º
 
-### Competência para o processamento e aplicação das coimas
+### Competência para o processamento e aplicação das sanções
 
-1 - O processamento das contra-ordenações rodoviárias compete à Direcção-Geral de Viação.
+1 - O processamento das contra-ordenações rodoviárias compete à Autoridade Nacional de Segurança Rodoviária.
 
-2 - Tem competência para aplicação das coimas correspondentes às contra-ordenações leves e às coimas e sanções acessórias correspondentes às contra-ordenações graves o director-geral de Viação, que poderá delegá-la nos directores regionais de viação.
+2 - A competência para a aplicação das coimas e sanções acessórias pertence ao presidente da Autoridade Nacional de Segurança Rodoviária.
 
-3 - Têm competência para aplicação das coimas e sanções acessórias correspondentes às contra-ordenações muito graves as entidades designadas pelo Ministro da Administração Interna.
+3 - O presidente da Autoridade Nacional de Segurança Rodoviária pode delegar a competência a que se refere o número anterior nos dirigentes e pessoal da carreira técnica superior da Autoridade Nacional de Segurança Rodoviária.
 
-4 - O director-geral de Viação tem competência exclusiva, sem poder de delegação, para determinar da cassação do título de condução, nos termos previstos no presente diploma.
+4 - O presidente da Autoridade Nacional de Segurança Rodoviária tem competência exclusiva, sem poder de delegação, para decidir sobre a verificação dos respectivos pressupostos e ordenar a cassação do título de condução.
 
-5 - Os directores regionais de viação a quem tenha sido delegada a competência prevista no n.º 2 podem subdelegá-la, nos termos gerais, nos dirigentes de grau hierarquicamente inferior e, ainda, nos coordenadores das contra-ordenações.
+5 - No exercício das suas funções, a Autoridade Nacional de Segurança Rodoviária é coadjuvada pelas autoridades policiais e outras autoridades ou serviços públicos cuja colaboração solicite.
 
-6 - Compete aos serviços regionais da Direcção-Geral de Viação ou, nos distritos em que existam, às respectivas delegações distritais a instrução dos processos de contra-ordenação, devendo solicitar, quando necessário, a colaboração das autoridades policiais, bem como de outras autoridades ou serviços públicos.
+6 - O pessoal da Autoridade Nacional de Segurança Rodoviária afecto a funções de fiscalização das disposições legais sobre o trânsito e a segurança rodoviária é equiparado a autoridade pública, para efeitos de instrução e decisão de processos de contra-ordenação rodoviária.
