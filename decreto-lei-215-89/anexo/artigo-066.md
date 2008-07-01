@@ -1,19 +1,23 @@
 # Artigo 66.º
 
-### Dedução à colecta do IRS de IVA suportado
+### Obrigações acessórias das entidades beneficiárias
 
-1 - À colecta do IRS devido pelos sujeitos passivos deste imposto é dedutível uma percentagem de 25%, com o limite de (euro) 50, do IVA suportado nas seguintes despesas, realizadas por qualquer membro do agregado familiar enquanto consumidor final:
+1 - As entidades beneficiárias dos donativos são obrigadas a:
 
-a) Serviços de alimentação e bebidas;
+a) Emitir documento comprovativo dos montantes dos donativos recebidos dos seus mecenas, com a indicação do seu enquadramento no âmbito do presente capítulo e, bem assim, com a menção de que o donativo é concedido sem contrapartidas, de acordo com o previsto no artigo 60.º;
 
-b) Prestações de serviços de beneficiação, remodelação, renovação, restauro, reparação ou conservação de equipamentos domésticos e de imóveis destinados à habitação dos sujeitos passivos e do seu agregado ou arrendamento para habitação;
+b) Possuir registo actualizado das entidades mecenas, do qual constem, nomeadamente, o nome, o número de identificação fiscal, bem como a data e o valor de cada donativo que lhes tenha sido atribuído, nos termos do presente capítulo;
 
-c) Prestações de serviços de reparação de veículos, com excepção de embarcações e aeronaves, desde que efectuadas por prestadores de serviços abrangidos pelo regime simplificado de tributação do IRS ou IRC.
+c) Entregar à Direcção-Geral dos Impostos, até ao final do mês de Fevereiro de cada ano, uma declaração de modelo oficial referente aos donativos recebidos no ano anterior.
 
-2 - O direito à dedução previsto no número anterior não é aplicável às despesas que sejam dedutíveis no âmbito das categorias B e F do Código do IRS.
+2 - Para efeitos da alínea a) do número anterior, o documento comprovativo deve conter:
 
-3 - O disposto no n.º 1 não é aplicável às prestações de serviços adquiridas através da mobilização de saldos das contas poupança-habitação ou com recurso ao crédito, desde que, em qualquer dos casos, o sujeito passivo beneficie da dedução à colecta prevista no artigo 18.º do Estatuto dos Benefícios Fiscais ou no artigo 85.º do Código do IRS, respectivamente.
+a) A qualidade jurídica da entidade beneficiária;
 
-4 - As despesas a que se referem as alíneas a), b) e c) do n.º 1 deverão ser comprovadas através de factura ou documento equivalente processado em forma legal.
+b) O normativo legal onde se enquadra, bem como, se for caso disso, a identificação do despacho necessário ao reconhecimento;
 
-5 - Para efeitos da dedução prevista na alínea c) do n.º 1, os sujeitos passivos abrangidos pelo regime simplificado do IRS ou do IRC que prestem serviços de reparação de veículos, com excepção de embarcações e aeronaves, devem fazer constar da factura ou documento equivalente a referência à aplicação do regime.
+c) O montante do donativo em dinheiro, quando este seja de natureza monetária;
+
+d) A identificação dos bens, no caso de donativos em espécie.
+
+3 - Os donativos em dinheiro de valor superior a (euro) 200 devem ser efectuados através de meio de pagamento que permita a identificação do mecenas, designadamente transferência bancária, cheque nominativo ou débito directo.

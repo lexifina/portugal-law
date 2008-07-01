@@ -1,5 +1,19 @@
 # Artigo 27.º
 
-### Empréstimos externos e rendas de locação de equipamentos importados
+### Mais-valias realizadas por não residentes
 
-O Ministro das Finanças pode, a requerimento e com base em parecer fundamentado da Direcção-Geral dos Impostos, conceder isenção total ou parcial de IRS ou de IRC relativamente a juros de capitais provenientes do estrangeiro, representativos de empréstimos e rendas de locação de equipamentos importados, de que sejam devedores o Estado, as regiões autónomas, as autarquias locais e as suas federações ou uniões, ou qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os institutos públicos, e as empresas que prestem serviços públicos, desde que os credores tenham o domicílio no estrangeiro, e não disponham em território português de estabelecimento estável ao qual o empréstimo seja imputado.
+1 - Ficam isentas de IRS e de IRC as mais-valias realizadas com a transmissão onerosa de partes sociais, outros valores mobiliários, warrants autónomos emitidos por entidades residentes em território português e negociados em mercados regulamentados de bolsa e instrumentos financeiros derivados celebrados em mercados regulamentados de bolsa, por entidades ou pessoas singulares que não tenham domicílio em território português e aí não possuam estabelecimento estável ao qual as mesmas sejam imputáveis.
+
+2 - O disposto no número anterior não é aplicável:
+
+a) A entidades não residentes e sem estabelecimento estável em território português que sejam detidas, directa ou indirectamente, em mais de 25 %, por entidades residentes;
+
+b) A entidades não residentes e sem estabelecimento estável em território português que sejam domiciliadas em país, território ou região sujeitas a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças;
+
+c) Às mais-valias realizadas por entidades não residentes com a transmissão onerosa de partes sociais em sociedades residentes em território português cujo activo seja constituído, em mais de 50 %, por bens imóveis aí situados ou que, sendo sociedades gestoras ou detentoras de participações sociais, se encontrem em relação de domínio, tal como esta é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, a título de dominantes, com sociedades dominadas, igualmente residentes em território português, cujo activo seja constituído, em mais de 50 %, por bens imóveis aí situados.
+
+3 - O disposto no n.º 1 não é ainda aplicável:
+
+a) A pessoas singulares não residentes e sem estabelecimento estável em território português que sejam domiciliadas em país, território ou região sujeitas a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças;
+
+b) Às mais-valias realizadas por pessoas singulares com a transmissão onerosa de partes sociais em sociedades residentes em território português cujo activo seja constituído, em mais de 50 %, por bens imóveis aí situados ou que, sendo sociedades gestoras ou detentoras de participações sociais, se encontrem em relação de domínio, tal como esta é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, a título de dominantes, com sociedades dominadas, igualmente residentes em território português, cujo activo seja constituído, em mais de 50 %, por bens imóveis aí situados.

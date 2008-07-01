@@ -1,5 +1,5 @@
 # Artigo 7.º
 
-### Medidas impeditivas, suspensivas ou extintivas de benefícios fiscais
+### Fiscalização
 
-As sanções impeditivas, suspensivas ou extintivas de benefícios fiscais poderão ser aplicadas sempre que seja cometida uma infracção fiscal relacionada com os impostos sobre o rendimento, a despesa ou o património, ou às normas do sistema de segurança social, independentemente da sua relação com o benefício concedido.
+Todas as pessoas, singulares ou colectivas, de direito público ou de direito privado, a quem sejam concedidos benefícios fiscais, automáticos ou dependentes de reconhecimento, ficam sujeitas a fiscalização da Direcção-Geral dos Impostos e das demais entidades competentes, para controlo da verificação dos pressupostos dos benefícios fiscais respectivos e do cumprimento das obrigações impostas aos titulares do direito aos benefícios.

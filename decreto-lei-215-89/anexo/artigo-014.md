@@ -1,29 +1,23 @@
-## Parte II
-
-## Benefícios fiscais com carácter estrutural
-
-## Capítulo I
-
-## Benefícios de natureza social
-
 # Artigo 14.º
 
-### Fundos de pensões e equiparáveis
+### Extinção dos benefícios fiscais
 
-1 - São isentos de IRC os rendimentos dos fundos de pensões e equiparáveis que se constituam e operem de acordo com a legislação nacional.
+1 - A extinção dos benefícios fiscais tem por consequência a reposição automática da tributação-regra.
 
-2 - São isentos do imposto municipal sobre as transmissões onerosas de imóveis os fundos de pensões e equiparáveis constituídos de acordo com a legislação nacional.
+2 - Os benefícios fiscais, quando temporários, caducam pelo decurso do prazo por que foram concedidos e, quando condicionados, pela verificação dos pressupostos da respectiva condição resolutiva ou pela inobservância das obrigações impostas, imputável ao beneficiário.
 
-3 - (Revogado.)
+3 - Quando o benefício fiscal respeite a aquisição de bens destinados à directa realização dos fins dos adquirentes, fica sem efeito se aqueles forem alienados ou lhes for dado outro destino sem autorização do Ministro das Finanças, sem prejuízo das restantes sanções ou de regimes diferentes estabelecidos por lei.
 
-4 - Às contribuições individuais dos participantes e aos reembolsos pagos por fundos de pensões e outros regimes complementares de segurança social que garantam exclusivamente o benefício de reforma, complemento de reforma, invalidez ou sobrevivência são aplicáveis as regras previstas no artigo 21.º, com as necessárias adaptações.
+4 - O acto administrativo que conceda um benefício fiscal não é revogável, nem pode rescindir-se o respectivo acordo de concessão, ou ainda diminuir-se, por acto unilateral da administração tributária, os direitos adquiridos, salvo se houver inobservância imputável ao beneficiário das obrigações impostas, ou se o benefício tiver sido indevidamente concedido, caso em que aquele acto pode ser revogado.
 
-5 - Em caso de inobservância dos requisitos estabelecidos no n.º 1, a fruição do benefício aí previsto fica, no respectivo exercício, sem efeito, sendo as sociedades gestoras dos fundos de pensões e equiparáveis responsáveis originariamente pelas dívidas de imposto dos fundos cuja gestão lhes caiba, devendo efectuar o pagamento do imposto em dívida no prazo previsto no n.º 1 do artigo 112.º do Código do IRC.
+5 - No caso de benefícios fiscais permanentes ou temporários dependentes de reconhecimento da administração tributária, o acto administrativo que os concedeu cessa os seus efeitos nas seguintes situações:
 
-6 - Os benefícios fiscais previstos no n.º 4 deste artigo e no n.º 2 do artigo 21.º são cumuláveis, não podendo, no seu conjunto, exceder os limites fixados no n.º 2 do artigo 21.º
+a) O sujeito passivo tenha deixado de efectuar o pagamento de qualquer imposto sobre o rendimento, a despesa ou o património e das contribuições relativas ao sistema da segurança social, e se mantiver a situação de incumprimento;
 
-7 - As contribuições para fundos de pensões e outros regimes complementares de segurança social referidas no n.º 4 são dedutíveis à colecta do IRS, nos termos aí estabelecidos, desde que:
+b) A dívida tributária não tenha sido objecto de reclamação, impugnação ou oposição, com a prestação de garantia idónea, quando exigível.
 
-a) Quando pagas e suportadas por terceiros, tenham sido, comprovadamente, tributadas como rendimentos do sujeito passivo;
+6 - Verificando-se as situações previstas nas alíneas a) e b) do número anterior, os benefícios automáticos não produzem os seus efeitos no ano ou período de tributação em que ocorram os seus pressupostos.
 
-b) Quando pagas e suportadas pelo sujeito passivo, não constituam encargos inerentes à obtenção de rendimentos da categoria B.
+7 - O disposto nos números anteriores aplica-se sempre que as situações previstas nas alíneas a) e b) do n.º 5 ocorram, relativamente aos impostos periódicos, no final do ano ou período de tributação em que se verificou o facto tributário e, nos impostos de obrigação única, na data em que o facto tributário ocorreu.
+
+8 - É proibida a renúncia aos benefícios fiscais automáticos e dependentes de reconhecimento oficioso, sendo, porém, permitida aos benefícios fiscais dependentes de requerimento do interessado, bem como aos constantes de acordo, desde que aceite pela administração tributária.

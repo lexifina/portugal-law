@@ -1,9 +1,9 @@
 # Artigo 4.º
 
-### Benefícios fiscais automáticos e dependentes de reconhecimento
+### Desagravamentos fiscais que não são benefícios fiscais
 
-1 - Os benefícios fiscais são automáticos ou dependentes de reconhecimento; os primeiros resultam directa e imediatamente da lei, os segundos pressupõem um ou mais actos posteriores de reconhecimento.
+1 - Não são benefícios fiscais as situações de não sujeição tributária.
 
-2 - O reconhecimento dos benefícios fiscais pode ter lugar por acto administrativo ou por acordo entre a Administração e os interessados, tendo, em ambos os casos, efeito meramente declarativo, salvo quando a lei dispuser o contrário.
+2 - Para efeitos do disposto no número anterior, consideram-se, genericamente, não sujeições tributárias as medidas fiscais estruturais de carácter normativo que estabeleçam delimitações negativas expressas da incidência.
 
-3 - O procedimento de reconhecimento dos benefícios fiscais regula-se pelo disposto na lei geral tributária e no Código de Procedimento e de Processo Tributário.
+3 - Sempre que o julgar necessário, pode a administração fiscal exigir dos interessados os elementos necessários para o cálculo da receita que deixa de cobrar-se por efeito das situações de não sujeição tributária.

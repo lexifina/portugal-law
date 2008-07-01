@@ -1,5 +1,9 @@
 # Artigo 25.º
 
-### Mais-valias no âmbito do processo de privatização
+### Aplicações a prazo
 
-Para efeito de apuramento do lucro tributável em IRC das empresas de capitais exclusivamente públicos, bem como das sociedades que com elas se encontram em relação de domínio, são excluídas da base tributável as mais-valias provenientes de operações de privatização ou de processos de reestruturação efectuados de acordo com orientações estratégicas no quadro de exercício da função accionista do Estado, e como tal reconhecidos por despacho do Ministro das Finanças.
+Os rendimentos de certificados de depósito e de depósitos bancários a prazo, emitidos ou constituídos por prazos superiores a cinco anos, que não sejam negociáveis, contam para efeitos de IRS pelos seguintes valores:
+
+a) 80 % do seu valor, se a data de vencimento dos rendimentos ocorrer após cinco anos e antes de oito anos a contar da data da emissão ou da constituição;
+
+b) 40 % do seu valor, se a data de vencimento dos rendimentos ocorrer após oito anos a contar da emissão ou da constituição.

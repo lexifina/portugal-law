@@ -1,29 +1,13 @@
 # Artigo 42.º
 
-### Prédios urbanos construídos, ampliados, melhorados ou adquiridos a título oneroso destinados a habitação
+### Eliminação da dupla tributação económica dos lucros distribuídos por sociedades residentes nos países africanos de língua oficial portuguesa e na República Democrática de Timor-Leste.
 
-1 - Ficam isentos de imposto municipal sobre imóveis, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios urbanos habitacionais construídos, ampliados, melhorados ou adquiridos a título oneroso destinados à habitação própria e permanente do sujeito passivo ou do seu agregado familiar e sejam efectivamente afectos a tal fim no prazo de seis meses após a aquisição ou a conclusão da construção, da ampliação ou dos melhoramentos, salvo por motivo não imputável ao beneficiário, devendo o pedido de isenção ser apresentado pelos sujeitos passivos até ao termo dos 60 dias subsequentes àquele prazo.
+1 - A dedução prevista no n.º 1 do artigo 46.º do Código do IRC é aplicável aos lucros distribuídos a entidades residentes por sociedades afiliadas residentes em países africanos de língua oficial portuguesa e em Timor-Leste, desde que verificadas as seguintes condições:
 
-2 - A isenção a que se refere o número anterior abrange os arrumos, despensas e garagens, ainda que fisicamente separados, mas integrando o mesmo edifício ou conjunto habitacional, desde que utilizados exclusivamente pelo proprietário, inquilino ou seu agregado familiar como complemento da habitação isenta.
+a) A entidade beneficiária dos lucros esteja sujeita e não isenta de IRC e a sociedade afiliada esteja sujeita e não isenta de um imposto sobre o rendimento análogo ao IRC;
 
-3 - Ficam igualmente isentos, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios construídos de novo, ampliados, melhorados ou adquiridos a título oneroso, quando se trate da primeira transmissão, na parte destinada a arrendamento para habitação, desde que reunidas as condições referidas na parte final do n.º 1, iniciando-se o período de isenção a partir da data da celebração do primeiro contrato de arrendamento.
+b) A entidade beneficiária detenha, de forma directa, uma participação que represente, pelo menos, 25 % do capital da sociedade afiliada durante um período não inferior a dois anos;
 
-4 - Tratando-se de prédios ampliados ou melhorados nos casos previstos nos n.os 1 e 3, a isenção aproveita apenas ao valor patrimonial tributário correspondente ao acréscimo resultante das ampliações ou melhoramentos efectuados, tendo em conta, para a determinação dos respectivos limite e período de isenção, a totalidade do valor patrimonial tributário do prédio após o aumento derivado de tais ampliações ou melhoramentos.
+c) Os lucros distribuídos provenham de lucros da sociedade afiliada que tenham sido tributados a uma taxa não inferior a 10 % e não resultem de actividades geradoras de rendimentos passivos, designadamente royalties, mais-valias e outros rendimentos relativos a valores mobiliários, rendimentos de imóveis situados fora do país de residência da sociedade, rendimentos da actividade seguradora oriundos predominantemente de seguros relativos a bens situados fora do território de residência da sociedade ou de seguros respeitantes a pessoas que não residam nesse território e rendimentos de operações próprias da actividade bancária não dirigidas principalmente ao mercado desse território.
 
-5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder é determinado em conformidade com a seguinte tabela:
-
-(ver documento original)
-
-6 - Se o pedido for apresentado para além do prazo ou se a afectação a residência permanente do sujeito passivo ou do seu agregado familiar ocorrer após o decurso do prazo, a isenção inicia-se a partir do ano imediato, inclusive, ao da verificação de tais pressupostos, cessando, todavia, no ano em que findaria, se a afectação se tivesse verificado nos seis meses imediatos ao da conclusão da construção, ampliação, melhoramentos ou aquisição a título oneroso.
-
-7 - Os benefícios fiscais a que se refere este artigo cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto no n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis.
-
-8 - Para efeitos do disposto no presente artigo, considera-se ter havido afectação dos prédios ou partes de prédios à habitação própria e permanente do sujeito passivo ou do seu agregado familiar, se aí se fixar o respectivo domicílio fiscal.
-
-9 - O disposto nos n.os 1 e 3 não é aplicável quando os prédios ou parte de prédios tiverem sido construídos de novo, ampliados, melhorados ou adquiridos a título oneroso por entidades que tenham o domicílio em país, território ou região sujeito a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças, excepto se o valor anual da renda contratada for igual ou superior ao montante correspondente a 1/15 do valor patrimonial do prédio arrendado.
-
-10 - A isenção prevista nos n.os 1 e 2 só pode ser reconhecida duas vezes ao mesmo sujeito passivo ou agregado familiar.
-
-11 - A isenção referida no n.º 3 pode ser reconhecida ao mesmo sujeito passivo por cada prédio ou fracção autónoma destinada ao fim nele prevista.
-
-12 - Podem beneficiar da isenção prevista neste artigo os emigrantes, na definição que lhes é dada pelo artigo 3.º do Decreto-Lei n.º 323/95, de 29 de Novembro, desde que verificados os condicionalismos previstos, salvo quanto ao prazo para a respectiva afectação do imóvel a sua habitação própria e permanente ou do respectivo agregado familiar.
+2 - Para efeitos do disposto no número anterior, o sujeito passivo de IRC titular da participação deve dispor de prova da verificação das condições de que depende a dedução.

@@ -1,7 +1,13 @@
 # Artigo 55.º
 
-### Sociedades ou associações científicas internacionais
+### Associações e confederações
 
-1 - O Ministro das Finanças pode, a requerimento das interessadas e com base em informação fundamentada da Direcção-Geral dos Impostos, conceder isenção total ou parcial de IRC às sociedades ou associações científicas internacionais sem fim lucrativo que estabeleçam as suas sedes permanentes em Portugal.
+1 - Ficam isentos de IRC, excepto no que respeita a rendimentos de capitais e a rendimentos comerciais, industriais ou agrícolas, tal como são definidos para efeitos de IRS, e sem prejuízo do disposto no número seguinte:
 
-2 - A Direcção-Geral dos Impostos pode solicitar parecer aos serviços competentes do ministério da tutela com vista à elaboração da informação mencionada no número anterior.
+a) As pessoas colectivas públicas, de tipo associativo, criadas por lei para assegurar a disciplina e representação do exercício de profissões liberais;
+
+b) As confederações e associações patronais e sindicais.
+
+2 - Ficam isentos de IRC os rendimentos das associações sindicais e das pessoas colectivas públicas, de tipo associativo, criadas por lei para assegurar a disciplina e representação do exercício de profissões liberais, derivados de acções de formação prestadas aos respectivos associados no âmbito dos seus fins estatutários.
+
+3 - Ficam isentos de IRC os rendimentos obtidos por associações de pais derivados da exploração de cantinas escolares.

@@ -1,5 +1,7 @@
 # Artigo 54.º
 
-### Estabelecimentos de ensino particular
+### Colectividades desportivas, de cultura e recreio
 
-Os rendimentos dos estabelecimentos de ensino particular integrados no sistema educativo ficam sujeitos a tributação em IRC à taxa de 20%, salvo se beneficiarem de taxa inferior.
+1 - Ficam isentos de IRC os rendimentos das colectividades desportivas, de cultura e recreio, abrangidas pelo artigo 11.º do Código do IRC, desde que a totalidade dos seus rendimentos brutos sujeitos a tributação, e não isentos nos termos do mesmo Código, não exceda o montante de (euro) 7481,97.
+
+2 - As importâncias investidas pelos clubes desportivos em novas infra-estruturas, ou por eles despendidas em actividades desportivas de recreação e no desporto de rendimento, não provenientes de subsídios, podem ser deduzidas ao rendimento global até ao limite de 90 % da soma algébrica dos rendimentos líquidos previstos no n.º 3 do artigo 11.º do Código do IRC, sendo o eventual excesso deduzido até ao final do segundo exercício seguinte ao do investimento.

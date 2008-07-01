@@ -1,23 +1,15 @@
-## Capítulo II
-
-## Benefícios à poupança
-
 # Artigo 18.º
 
-### Conta poupança-habitação
+### Contribuições das entidades patronais para regimes de segurança social
 
-1 - Para efeitos de IRS, são dedutíveis à colecta, nos termos e condições previstos no artigo 78.º do respectivo Código, 25% das entregas feitas em cada ano para depósito em contas poupança-habitação, com o limite de (euro) 575,57, desde que o saldo seja mobilizado para os fins previstos no n.º 1 do artigo 5.º do Decreto-Lei n.º 27/2001, de 3 de Fevereiro, e se mostrem decorridos os prazos ali estabelecidos.
+1 - São isentos de IRS, no ano em que as correspondentes importâncias são despendidas, os rendimentos a que se refere a primeira parte do n.º 3) da alínea b) do n.º 3 do artigo 2.º do Código do IRS, quando respeitem a contratos que garantam exclusivamente o benefício de reforma, complemento de reforma, invalidez ou sobrevivência, desde que sejam observadas, cumulativamente, as condições previstas nas alíneas a), b), d), e) e f) do n.º 4 do artigo 40.º do Código do IRC, na parte em que não excedam os limites previstos nos n.os 2 e 3 do mesmo artigo, e sem prejuízo do disposto nos seus n.os 5 e 6.
 
-2 - A utilização para outros fins que não os referidos no número anterior, ou antes de decorrido o prazo estabelecido, do saldo da conta poupança-habitação determina o seguinte:
+2 - A inobservância de qualquer das condições previstas no número anterior determina:
 
-a) A soma dos montantes anuais deduzidos, na proporção do saldo utilizado, agravados de uma importância correspondente à aplicação a cada um deles do produto de 10% por cada ano ou fracção decorrido desde aquele em que foi exercido o direito à dedução, é acrescida, consoante os casos, ao rendimento ou à colecta do ano em que ocorrer a imobilização;
+a) Para o trabalhador ou trabalhadores beneficiados pelo incumprimento, a perda da isenção e o englobamento como rendimento da categoria A de IRS, no ano em que ocorrer o facto extintivo, da totalidade das importâncias que beneficiaram da isenção, acrescidas de 10 %, por cada ano ou fracção, decorrido desde a data em que as respectivas contribuições tiverem sido efectuadas;
 
-b) Exceptuam-se da alínea anterior os montantes anuais deduzidos correspondentes ao saldo da conta poupança-habitação anteriormente utilizado para os fins previstos no n.º 1 do artigo 5.º do Decreto-Lei n.º 27/2001, de 3 de Fevereiro, e desde que decorrido o prazo ali estabelecido.
+b) Para a empresa, a tributação autónoma, à taxa de 40 %, no exercício do incumprimento das contribuições que nesse exercício, bem como nos dois exercícios anteriores, beneficiaram do regime de isenção previsto no n.º 1.
 
-3 - Ficam isentas de imposto sobre as sucessões e doações as transmissões por morte a favor do cônjuge sobrevivo e dos filhos ou dos adoptados, no caso de adopção plena, do saldo das contas poupança-habitação, desde que o mesmo venha a ser mobilizado para os fins referidos no artigo 5.º do Decreto-Lei n.º 27/2001.
+3 - Verificando-se o disposto na parte final do n.º 3) da alínea b) do n.º 3 do artigo 2.º do Código do IRS, beneficia de isenção o montante correspondente a um terço das importâncias pagas ou colocadas à disposição, com o limite de (euro) 11 704,70.
 
-4 - Nos casos em que o saldo da conta a que se refere o número anterior seja utilizado para outros fins que não os ali referidos, fica sem efeito a isenção, observando-se o que se prescreve no Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações para a liquidação e cobrança do respectivo imposto, acrescido dos juros compensatórios que se mostrem devidos.
-
-5 - Os sujeitos passivos devem conservar na sua posse os documentos comprovativos das entregas, da utilização do saldo da conta poupança-habitação e os originais dos documentos mencionados no n.º 2 do artigo 5.º do Decreto-Lei n.º 27/2001 até ao termo do respectivo prazo de caducidade do direito à liquidação do imposto.
-
-6 - As instituições depositárias são obrigadas a comunicar anualmente, até ao último dia útil do mês de Junho, relativamente ao ano anterior, à Direcção-Geral dos Impostos, em modelo oficial, relação de todas as contas poupança-habitação constituídas e entregas subsequentes, bem como de todas as mobilizações de saldos previstas nos artigos 5.º e 6.º do Decreto-Lei n.º 27/2001.
+4 - A isenção a que se refere o número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS, bem como a determinação da taxa aplicável ao restante rendimento colectável.

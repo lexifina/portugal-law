@@ -1,9 +1,9 @@
 # Artigo 3.º
 
-### Desagravamentos fiscais que não são benefícios fiscais
+### Caducidade dos benefícios fiscais
 
-1 - Não são benefícios fiscais as situações de não sujeição tributária.
+1 - As normas que consagram os benefícios fiscais constantes das partes ii e iii do presente Estatuto vigoram durante um período de cinco anos, salvo quando disponham em contrário.
 
-2 - Para efeitos do disposto no número anterior, consideram-se, genericamente, não sujeições tributárias as medidas fiscais estruturais de carácter normativo que estabeleçam delimitações negativas expressas da incidência.
+2 - São mantidos os benefícios fiscais cujo direito tenha sido adquirido durante a vigência das normas que os consagram, sem prejuízo de disposição legal em contrário.
 
-3 - Sempre que o julgar necessário, pode a administração fiscal exigir dos interessados os elementos necessários para o cálculo da receita que deixa de cobrar-se por efeito das situações de não sujeição tributária.
+3 - O disposto no n.º 1 não se aplica aos benefícios fiscais constantes dos artigos 16.º, 17.º, 18.º, 21.º, 22.º, 23.º, 24.º e 44.º, bem como ao capítulo v da parte ii do presente Estatuto.

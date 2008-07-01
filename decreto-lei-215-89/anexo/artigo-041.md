@@ -1,17 +1,35 @@
+## Capítulo VI
+
+## Benefícios fiscais ao investimento produtivo
+
 # Artigo 41.º
 
-### Casas de renda condicionada
+### Benefícios fiscais ao investimento de natureza contratual
 
-1 - Os prédios ou parte de prédios arrendados em regime de renda condicionada estão isentos de imposto municipal sobre imóveis por um período de 10 anos contados a partir da celebração do primeiro contrato de arrendamento no referido regime.
+1 - Os projectos de investimento em unidades produtivas realizados até 31 de Dezembro de 2010, de montante igual ou superior a (euro) 4 987 978,97, que sejam relevantes para o desenvolvimento dos sectores considerados de interesse estratégico para a economia nacional e para a redução das assimetrias regionais, induzam à criação de postos de trabalho e contribuam para impulsionar a inovação tecnológica e a investigação científica nacional, podem beneficiar de incentivos fiscais, em regime contratual, com período de vigência até 10 anos, a conceder nos termos, condições e procedimentos definidos no Decreto-Lei n.º 409/99, de 15 de Outubro, de acordo com os princípios estabelecidos nos n.os 2 e 3.
 
-2 - A isenção a que se refere o número anterior abrange os arrumos, despensas e garagens, ainda que fisicamente separados, mas integrando o mesmo edifício ou conjunto habitacional, desde que utilizados exclusivamente pelo inquilino ou seu agregado familiar como complemento da habitação isenta.
+2 - Aos projectos de investimento previstos no n.º 1 podem ser concedidos, cumulativamente, os incentivos fiscais seguintes:
 
-3 - O disposto no n.º 1 não se aplica aos prédios ou parte de prédios obrigatoriamente sujeitos ao citado regime por força do artigo 7.º da Lei n.º 46/85, de 20 de Setembro, salvo quanto aos abrangidos pela alínea d) do n.º 2 do mesmo artigo, os quais beneficiam de isenção nos 10 anos subsequentes à celebração do primeiro contrato de arrendamento.
+a) Crédito de imposto, determinado com base na aplicação de uma percentagem, compreendida entre 5 % e 20 %, das aplicações relevantes do projecto efectivamente realizadas, a deduzir ao montante apurado, nos termos da alínea a) do n.º 1 do artigo 83.º do Código do IRC, na parte respeitante à actividade desenvolvida pela entidade no âmbito do identificado projecto;
 
-4 - Nos casos previstos neste artigo, a isenção é reconhecida pelo chefe de finanças da área da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no prazo de 90 dias contados da verificação do facto determinante da isenção.
+b) Isenção ou redução de imposto municipal sobre imóveis, relativamente aos prédios utilizados pela entidade na actividade desenvolvida no quadro do projecto de investimento;
 
-5 - Nas situações abrangidas pelo número anterior, se o pedido for apresentado para além do prazo referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação, cessando, todavia, no ano em que findaria caso o pedido tivesse sido apresentado em tempo.
+c) Isenção ou redução de imposto municipal sobre as transmissões onerosas de imóveis, relativamente aos imóveis adquiridos pela entidade, destinados ao exercício da sua actividade desenvolvida no âmbito do projecto de investimento;
 
-6 - Os benefícios fiscais a que se refere este artigo cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto no n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis.
+d) Isenção ou redução de imposto do selo, que for devido em todos os actos ou contratos necessários à realização do projecto de investimento.
 
-7 - As isenções previstas nos números anteriores não são aplicáveis quando o sujeito passivo do imposto tenha o domicílio em país, território ou região, sujeito a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças.
+3 - Os incentivos fiscais a conceder não são cumuláveis com outros benefícios da mesma natureza susceptíveis de serem atribuídos ao mesmo projecto de investimento.
+
+4 - Os projectos de investimento directo efectuados por empresas portuguesas no estrangeiro, de montante igual ou superior a (euro) 249 398,95 de aplicações relevantes, que contribuam positivamente para os resultados da empresa e que demonstrem interesse estratégico para a internacionalização da economia portuguesa, podem beneficiar de incentivos fiscais, em regime contratual, com período de vigência até cinco anos, a conceder nos termos, condições e procedimentos definidos no Decreto-Lei n.º 401/99, de 14 de Outubro, de acordo com os princípios estabelecidos nos n.os 5 a 7.
+
+5 - Aos promotores dos projectos de investimento referidos no número anterior podem ser concedidos os seguintes benefícios fiscais:
+
+a) Crédito fiscal utilizável em IRC, compreendido entre 10 % e 20 % das aplicações relevantes, a deduzir ao montante apurado na alínea a) do n.º 1 do artigo 83.º do Código do IRC, não podendo ultrapassar, em cada exercício, 25 % daquele montante, com o limite de (euro) 997 595,79;
+
+b) Eliminação da dupla tributação económica, nos termos e condições estabelecidos no artigo 46.º do Código do IRC, durante o período contratual, quando o investimento seja efectuado sob a forma de constituição ou aquisição de sociedades estrangeiras.
+
+6 - Excluem-se da aplicação do disposto nos números anteriores os investimentos efectuados em zonas francas ou nos países, territórios e regiões sujeitos a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças.
+
+7 - No caso de os projectos de investimento se realizarem noutro Estado membro da União Europeia, o disposto no presente artigo aplica-se exclusivamente a pequenas e médias empresas, definidas nos termos comunitários.
+
+8 - Os contratos relativos a projectos de investimento realizados em território português devem prever normas que salvaguardem as contrapartidas dos incentivos fiscais em caso de cessação de actividade da entidade beneficiária, designadamente por transferência da sede e direcção efectiva para fora do território português.

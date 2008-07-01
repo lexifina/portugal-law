@@ -1,11 +1,3 @@
-## Capítulo XII
-
-## Benefícios pela existência de fatura
-
-## Capítulo XIII
-
-## Benefício ao reinvestimento de lucros e reservas
-
 ## Parte III
 
 ## Benefícios fiscais com carácter temporário

@@ -1,9 +1,15 @@
 # Artigo 47.º
 
-### Parques de estacionamento subterrâneos
+### Prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística
 
-1 - Ficam isentos de contribuição autárquica, por um período de 25 anos, os prédios urbanos afectos exclusivamente a parques de estacionamento subterrâneos públicos declarados de utilidade municipal por deliberação da respectiva câmara, considerando-se esta como renúncia à compensação prevista no n.º 7 do artigo 7.º da Lei n.º 1/87, de 6 de Janeiro.
+1 - Ficam isentos de imposto municipal sobre imóveis, por um período de sete anos, os prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística.
 
-2 - A isenção prevista no número anterior é reconhecida pelo chefe de finanças da área da situação dos prédios, mediante requerimento devidamente fundamentado e documentado com a declaração de utilidade municipal, que deve ser apresentado pelos sujeitos passivos no prazo de 90 dias contados da data da conclusão das obras.
+2 - Os prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística a título prévio beneficiam da isenção prevista no número anterior, a partir da data da atribuição da utilidade turística, desde que tenha sido observado o prazo fixado para a abertura ou reabertura ao público do empreendimento ou para o termo das obras.
 
-3 - Se o pedido de isenção for apresentado para além do prazo referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação, cessando no ano em que findaria caso o pedido tivesse sido apresentado em tempo.
+3 - Os prédios urbanos afectos ao turismo de habitação beneficiam de isenção de imposto municipal sobre imóveis, por um período de sete anos contado a partir do termo das respectivas obras.
+
+4 - Nos casos previstos neste artigo, a isenção é reconhecida pelo chefe de finanças da área da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no prazo de 90 dias contados da data da publicação do despacho de atribuição da utilidade turística.
+
+5 - Se o pedido for apresentado para além do prazo referido no número anterior, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação, cessando, porém, no ano em que findaria, caso o pedido tivesse sido apresentado em tempo.
+
+6 - Em todos os aspectos que não estejam regulados no presente artigo ou no Código do Imposto Municipal sobre Imóveis aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 423/83, de 5 de Dezembro.

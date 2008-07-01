@@ -1,13 +1,9 @@
+## Capítulo X
+
+## Benefícios fiscais relativos ao mecenato
+
 # Artigo 61.º
 
-### Sociedades de gestão e investimento imobiliário (SGII)
+### Noção de donativo
 
-1 - As sociedades de gestão e investimento imobiliário beneficiam dos seguintes incentivos fiscais:
-
-a) Tributação das SGII em IRC à taxa de 25%;
-
-b) Isenção de sisa para as aquisições de bens imóveis pelas SGII;
-
-c) Isenção de contribuição autárquica para os prédios ou parte de prédios urbanos das SGII, destinados ao arrendamento para a habitação.
-
-2 - O regime fiscal estabelecido no número anterior cessa os seus efeitos em 31 de Dezembro de 2005.
+Para efeitos fiscais, os donativos constituem entregas em dinheiro ou em espécie, concedidos, sem contrapartidas que configurem obrigações de carácter pecuniário ou comercial, às entidades públicas ou privadas, previstas nos artigos seguintes, cuja actividade consista predominantemente na realização de iniciativas nas áreas social, cultural, ambiental, desportiva ou educacional.

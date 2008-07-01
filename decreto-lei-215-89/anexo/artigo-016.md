@@ -1,23 +1,27 @@
+## Parte II
+
+## Benefícios fiscais com carácter estrutural
+
+## Capítulo I
+
+## Benefícios fiscais de natureza social
+
 # Artigo 16.º
 
-### Deficientes
+### Fundos de pensões e equiparáveis
 
-1 - Ficam isentos de tributação em IRS os rendimentos das categorias A, B e H auferidos por titulares deficientes, nos termos seguintes:
+1 - São isentos de IRC os rendimentos dos fundos de pensões e equiparáveis, que se constituam e operem de acordo com a legislação nacional.
 
-a) Em 50%, com o limite de (euro) 13774,86, as categorias A e B;
+2 - São isentos de imposto municipal sobre as transmissões onerosas de imóveis os fundos de pensões e equiparáveis, constituídos de acordo com a legislação nacional.
 
-b) Em 30%, os rendimentos da categoria H, com os seguintes limites:
+3 - Às contribuições individuais dos participantes e aos reembolsos pagos por fundos de pensões e outros regimes complementares de segurança social que garantam exclusivamente o benefício de reforma, complemento de reforma, invalidez ou sobrevivência são aplicáveis as regras previstas no artigo 21.º, com as necessárias adaptações.
 
-1) De (euro) 7778,74 para os deficientes em geral;
+4 - Em caso de inobservância dos requisitos estabelecidos no n.º 1, a fruição do benefício aí previsto fica, no respectivo exercício, sem efeito, sendo as sociedades gestoras dos fundos de pensões e equiparáveis responsáveis originariamente pelas dívidas de imposto dos fundos cuja gestão lhes caiba, devendo efectuar o pagamento do imposto em dívida no prazo previsto no n.º 1 do artigo 112.º do Código do IRC.
 
-2) De (euro) 10340,29 para os deficientes das Forças Armadas abrangidos pelos Decretos-Leis n.os 43/76, de 20 de Janeiro, e 314/90, de 13 de Outubro.
+5 - Os benefícios fiscais previstos no n.º 3 deste artigo e no n.º 2 do artigo 21.º são cumuláveis, não podendo, no seu conjunto, exceder os limites fixados no n.º 2 do artigo 21.º
 
-2 - São dedutíveis à colecta do IRS 30% da totalidade das despesas efectuadas com a educação e reabilitação do sujeito passivo ou dependentes deficientes, bem como 25% da totalidade dos prémios de seguros de vida que garantam exclusivamente os riscos de morte, invalidez ou reforma por velhice, neste último caso desde que o benefício seja garantido após os 55 anos de idade e cinco anos de duração do contrato, e em que aqueles figurem como primeiros beneficiários, nos termos e condições estabelecidos na alínea a) do n.º 1 do artigo 86 do Código do IRS.
+6 - As contribuições para fundos de pensões e outros regimes complementares de segurança social referidas no n.º 3 são dedutíveis à colecta do IRS, nos termos aí estabelecidos, desde que:
 
-3 - Os deficientes podem possuir uma conta de depósito bancário à qual se aplica o regime jurídico e fiscal da «Conta poupança-reformados».
+a) Quando pagas e suportadas por terceiros, tenham sido, comprovadamente, tributadas como rendimentos do sujeito passivo;
 
-4 - Para efeitos do disposto neste artigo, considera-se deficiente aquele que apresente um grau de invalidez permanente, devidamente comprovado pela entidade competente, igual ou superior a 60%.
-
-5 - Os limites previstos nas alíneas do n.º 1 são majorados em 15% quando se trate de sujeitos passivos cujo grau de invalidez permanente, devidamente comprovado por entidade competente, seja igual ou superior a 80%.
-
-6 - Por portaria conjunta dos Ministros das Finanças e do Trabalho e da Solidariedade são estabelecidos os procedimentos tendentes a garantir a eficaz verificação dos pressupostos de que dependem os benefícios aplicáveis a titulares deficientes.
+b) Quando pagas e suportadas pelo sujeito passivo, não constituam encargos inerentes à obtenção de rendimentos da categoria B.

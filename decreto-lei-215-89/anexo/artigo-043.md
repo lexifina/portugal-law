@@ -1,15 +1,41 @@
 # Artigo 43.º
 
-### Prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística
+### Benefícios fiscais relativos à interioridade
 
-1 - Ficam isentos de contribuição autárquica por um período de sete anos os prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística.
+1 - Às empresas que exerçam, directamente e a título principal, uma actividade económica de natureza agrícola, comercial, industrial ou de prestação de serviços nas áreas do interior, adiante designadas «áreas beneficiárias», são concedidos os benefícios fiscais seguintes:
 
-2 - Os prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística a título prévio beneficiam da isenção prevista no número anterior a partir da data da atribuição da utilidade turística, desde que tenha sido observado o prazo fixado para a abertura ou reabertura ao público do empreendimento ou para o termo das obras.
+a) É reduzida a 15 % a taxa de IRC, prevista no n.º 1 do artigo 80.º do respectivo Código, para as entidades cuja actividade principal se situe nas áreas beneficiárias;
 
-3 - Os prédios urbanos afectos ao turismo de habitação beneficiam de isenção de contribuição autárquica por um período de sete anos contado a partir do termo das respectivas obras.
+b) No caso de instalação de novas entidades, cuja actividade principal se situe nas áreas beneficiárias, a taxa referida no número anterior é reduzida a 10 % durante os primeiros cinco exercícios de actividade;
 
-4 - Nos casos previstos neste artigo, a isenção é reconhecida pelo chefe de finanças da área da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no prazo de 90 dias contados da data da publicação do despacho de atribuição da utilidade turística.
+c) As reintegrações e amortizações relativas a despesas de investimentos até (euro) 500 000, com exclusão das respeitantes à aquisição de terrenos e de veículos ligeiros de passageiros, dos sujeitos passivos de IRC que exerçam a sua actividade principal nas áreas beneficiárias podem ser deduzidas, para efeitos da determinação do lucro tributável, com a majoração de 30 %;
 
-5 - Se o pedido for apresentado para além do prazo referido no número anterior, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação, cessando, porém, no ano em que findaria, caso o pedido tivesse sido apresentado em tempo.
+d) Os encargos sociais obrigatórios suportados pela entidade empregadora relativos à criação líquida de postos de trabalho, por tempo indeterminado, nas áreas beneficiárias são deduzidos, para efeitos da determinação do lucro tributável, com uma majoração de 50 %, uma única vez por trabalhador admitido nessa entidade ou noutra entidade com a qual existam relações especiais, nos termos do artigo 58.º do Código do IRC;
 
-6 - Em todos os aspectos que não estejam regulados neste artigo ou no Código da Contribuição Autárquica aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 423/83, de 5 de Dezembro.
+e) Os prejuízos fiscais apurados em determinado exercício nos termos do Código do IRC são deduzidos aos lucros tributáveis, havendo-os, de um ou mais dos sete exercícios posteriores.
+
+2 - São condições para usufruir dos benefícios fiscais previstos no número anterior:
+
+a) A determinação do lucro tributável ser efectuada com recurso a métodos directos de avaliação;
+
+b) Terem situação tributária regularizada;
+
+c) Não terem salários em atraso;
+
+d) Não resultarem de cisão efectuada nos últimos dois anos anteriores à usufruição dos benefícios.
+
+3 - Ficam isentas do pagamento de imposto municipal sobre as transmissões onerosas de imóveis as aquisições seguintes:
+
+a) Por jovens, com idade compreendida entre os 18 e os 35 anos, de prédio ou fracção autónoma de prédio urbano situado nas áreas beneficiárias, destinado exclusivamente a primeira habitação própria e permanente, desde que o valor sobre o qual incidiria o imposto não ultrapasse os valores máximos de habitação a custos controlados, acrescidos de 50 %;
+
+b) De prédios ou fracções autónomas de prédios urbanos, desde que situados nas áreas beneficiárias e afectos duradouramente à actividade das empresas.
+
+4 - As isenções previstas no número anterior só se verificam se as aquisições forem devidamente participadas ao serviço de finanças da área onde estiverem situados os imóveis a adquirir, mediante declaração de que conste não ter o declarante aproveitado anteriormente de idêntico benefício.
+
+5 - As isenções previstas no n.º 3 ficam dependentes de autorização do órgão deliberativo do respectivo município.
+
+6 - Para efeitos do presente artigo, as áreas beneficiárias são delimitadas de acordo com critérios que atendam, especialmente, à baixa densidade populacional, ao índice de compensação ou carência fiscal e à desigualdade de oportunidades sociais, económicas e culturais.
+
+7 - A definição dos critérios e a delimitação das áreas territoriais beneficiárias, nos termos do número anterior, bem como todas as normas regulamentares necessárias à boa execução do presente artigo, são estabelecidas por portaria do Ministro das Finanças.
+
+8 - Os benefícios fiscais previstos no presente artigo não são cumulativos com outros benefícios de idêntica natureza, não prejudicando a opção por outro mais favorável.
