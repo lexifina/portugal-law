@@ -2,4 +2,4 @@
 
 ### Agregado monoparental
 
-Considera-se agregado familiar monoparental, para efeitos do presente decreto-lei, o que é composto por titulares do abono de família para crianças e jovens e por mais uma única pessoa, parente ou afim em linha recta ascendente até ao 3.º grau, ou em linha colateral, maior até ao 3.º grau, adoptante, tutor ou pessoa a quem o requerente esteja confiado por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito.
+É considerado agregado monoparental o constituído nos termos do artigo anterior por um único parente ou afim em linha recta ascendente e em linha colateral, até ao 2.º grau, ou equiparado, a viver com os titulares do direito ao abono de família para crianças e jovens.
