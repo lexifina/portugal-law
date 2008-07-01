@@ -1,8 +1,8 @@
 # Artigo 55.º
 
-### Opção pelo regime de tributação
+### Renúncia
 
-1 - Os sujeitos passivos suscetíveis de beneficiar da isenção do imposto nos termos do n.º 1 do artigo 53.º podem a ela renunciar e optar pela aplicação do imposto às suas operações tributáveis ou, no caso de serem retalhistas, pelo regime especial previsto no artigo 60.º
+1 - Os sujeitos passivos susceptíveis de beneficiar da isenção do imposto nos termos do artigo 53.º podem a ela renunciar e optar pela aplicação normal do imposto às suas operações tributáveis ou, no caso de serem retalhistas, pelo regime especial previsto no artigo 60.º
 
 2 - O direito de opção é exercido mediante a entrega da declaração de início ou de alterações, consoante os casos, produzindo efeitos a partir da data da sua apresentação.
 

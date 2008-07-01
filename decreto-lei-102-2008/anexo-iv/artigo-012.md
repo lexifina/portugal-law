@@ -6,9 +6,9 @@
 
 a) Os sujeitos passivos que efectuem as prestações de serviços referidas nos n.os 10) e 36) do artigo 9.º;
 
-b) Os sujeitos passivos referidos no n.º 2) do artigo 9.º, que não sejam pessoas coletivas de direito público, relativamente às prestações de serviços médicos e sanitários e operações com elas estreitamente conexas, que não decorram de acordos com o Estado, no âmbito do sistema de saúde, nos termos da respetiva lei de bases;
+b) Os estabelecimentos hospitalares, clínicas, dispensários e similares, não pertencentes a pessoas colectivas de direito público ou a instituições privadas integradas no sistema nacional de saúde, que efectuem prestações de serviços médicos e sanitários e operações com elas estreitamente conexas;
 
-c) Os sujeitos passivos que efetuem prestações de serviços referidas na alínea 34) do artigo 9.º
+c) Os sujeitos passivos que exerçam as actividades referidas nos n.os 33) e 34) do artigo 9.º
 
 2 - O direito de opção é exercido mediante a entrega, em qualquer serviço de finanças ou noutro local legalmente autorizado, da declaração de início ou de alterações, consoante os casos, produzindo efeitos a partir da data da sua apresentação.
 

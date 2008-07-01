@@ -12,11 +12,11 @@
 
 Estão isentas do imposto:
 
-1) As prestações de serviços efetuadas no exercício das profissões de médico, odontologista, psicólogo, parteiro, enfermeiro e outras profissões paramédicas;
+1) As prestações de serviços efectuadas no exercício das profissões de médico, odontologista, parteiro, enfermeiro e outras profissões paramédicas;
 
 2) As prestações de serviços médicos e sanitários e as operações com elas estreitamente conexas efectuadas por estabelecimentos hospitalares, clínicas, dispensários e similares;
 
-3) As prestações de serviços efetuadas no exercício da sua atividade por protésicos dentários bem como as transmissões de próteses dentárias efetuadas por dentistas e protésicos dentários;
+3) As prestações de serviços efectuadas no exercício da sua actividade por protésicos dentários;
 
 4) As transmissões de órgãos, sangue e leite humanos;
 
@@ -24,7 +24,7 @@ Estão isentas do imposto:
 
 6) As transmissões de bens e as prestações de serviços ligadas à segurança e assistência sociais e as transmissões de bens com elas conexas, efectuadas pelo sistema de segurança social, incluindo as instituições particulares de solidariedade social. Da mesma isenção beneficiam as pessoas físicas ou jurídicas que efectuem prestações de segurança ou assistência social por conta do respectivo sistema nacional, desde que não recebam em troca das mesmas qualquer contraprestação dos adquirentes dos bens ou destinatários dos serviços;
 
-7) As prestações de serviços e as transmissões de bens estreitamente conexas, efetuadas no exercício da sua atividade habitual por creches, jardins-de-infância, centros de atividade de tempos livres, estabelecimentos para crianças e jovens desprovidos de meio familiar normal, lares residenciais, casas de trabalho, estabelecimentos para crianças e jovens deficientes, centros de reabilitação de inválidos, lares de idosos, centros de dia e centros de convívio para idosos, colónias de férias, albergues de juventude ou outros equipamentos sociais pertencentes a pessoas coletivas de direito público ou instituições particulares de solidariedade social ou cuja utilidade social seja, em qualquer caso, reconhecida pelas autoridades competentes, ainda que os serviços sejam prestados fora das suas instalações;
+7) As prestações de serviços e as transmissões de bens estreitamente conexas, efectuadas no exercício da sua actividade habitual por creches, jardins-de-infância, centros de actividade de tempos livres, estabelecimentos para crianças e jovens desprovidos de meio familiar normal, lares residenciais, casas de trabalho, estabelecimentos para crianças e jovens deficientes, centros de reabilitação de inválidos, lares de idosos, centros de dia e centros de convívio para idosos, colónias de férias, albergues de juventude ou outros equipamentos sociais pertencentes a pessoas colectivas de direito público ou instituições particulares de solidariedade social ou cuja utilidade social seja, em qualquer caso, reconhecida pelas autoridades competentes;
 
 8) As prestações de serviços efectuadas por organismos sem finalidade lucrativa que explorem estabelecimentos ou instalações destinados à prática de actividades artísticas, desportivas, recreativas e de educação física a pessoas que pratiquem essas actividades;
 
@@ -32,11 +32,11 @@ Estão isentas do imposto:
 
 10) As prestações de serviços que tenham por objecto a formação profissional, bem como as transmissões de bens e prestações de serviços conexas, como sejam o fornecimento de alojamento, alimentação e material didáctico, efectuadas por organismos de direito público ou por entidades reconhecidas como tendo competência nos domínios da formação e reabilitação profissionais pelos ministérios competentes;
 
-11) As prestações de serviços que consistam em lições ministradas sobre matérias do ensino escolar ou superior;
+11) As prestações de serviços que consistam em lições ministradas a título pessoal sobre matérias do ensino escolar ou superior;
 
 12) As locações de livros e outras publicações, partituras musicais, discos, bandas magnéticas e outros suportes de cultura e, em geral, as prestações de serviços e transmissões de bens com aquelas estreitamente conexas, desde que efectuadas por organismos sem finalidade lucrativa;
 
-13) As prestações de serviços que consistam em proporcionar a visita, guiada ou não, a bibliotecas, arquivos, museus, galerias de arte, castelos, palácios, monumentos, parques, perímetros florestais, jardins botânicos, zoológicos e semelhantes, pertencentes ao Estado, outras pessoas coletivas de direito público ou organismos sem finalidade lucrativa, desde que efetuadas única e exclusivamente por intermédio dos seus próprios agentes. A presente isenção abrange também as transmissões de bens estreitamente conexas com as prestações de serviços referidas;
+13) As prestações de serviços que consistam em proporcionar a visita, guiada ou não, a museus, galerias de arte, castelos, palácios, monumentos, parques, perímetros florestais, jardins botânicos, zoológicos e semelhantes, pertencentes ao Estado, outras pessoas colectivas de direito público ou organismos sem finalidade lucrativa, desde que efectuadas única e exclusivamente por intermédio dos seus próprios agentes. A presente isenção abrange também as transmissões de bens estreitamente conexas com as prestações de serviços referidas;
 
 14) As prestações de serviços e as transmissões de bens com elas conexas, efectuadas por pessoas colectivas de direito público e organismos sem finalidade lucrativa, relativas a congressos, colóquios, conferências, seminários, cursos e manifestações análogas de natureza científica, cultural, educativa ou técnica;
 
@@ -46,7 +46,7 @@ a) Por actores, chefes de orquestra, músicos e outros artistas, actuando quer i
 
 b) Por desportistas e artistas tauromáquicos, actuando quer individualmente quer integrados em grupos, em competições desportivas e espectáculos tauromáquicos;
 
-16) A transmissão do direito de autor ou de direitos conexos e a autorização para a utilização da obra intelectual ou prestação, definidas no Código dos Direitos de Autor e dos Direitos Conexos, quando efetuadas pelos próprios titulares, seus herdeiros ou legatários, ou ainda por terceiros, por conta deles, ainda que o titular do direito seja pessoa coletiva, incluindo a consignação ou afetação, imposta por lei, dos montantes recebidos pelas respetivas entidades de gestão coletiva, a fins sociais, culturais e de investigação e divulgação dos direitos de autor e direitos conexos;
+16) A transmissão do direito de autor e a autorização para a utilização da obra intelectual, definidas no Código de Direito de Autor, quando efectuadas pelos próprios autores, seus herdeiros ou legatários;
 
 17) A transmissão de exemplares de qualquer obra literária, científica, técnica ou artística editada sob forma bibliográfica pelo autor, quando efectuada por este, seus herdeiros ou legatários, ou ainda por terceiros, por conta deles, salvo quando o autor for pessoa colectiva;
 
@@ -64,7 +64,7 @@ b) Por desportistas e artistas tauromáquicos, actuando quer individualmente que
 
 24) As transmissões, pelo seu valor facial, de selos do correio em circulação ou de valores selados, e bem assim as respectivas comissões de venda;
 
-25) (Revogada.)
+25) O serviço público de remoção de lixos;
 
 26) As prestações de serviços efectuadas por empresas funerárias e de cremação, bem como as transmissões de bens acessórias aos mesmos serviços;
 
@@ -84,9 +84,9 @@ f) Os serviços e operações relativos à colocação, tomada e compra firmes d
 
 g) A administração ou gestão de fundos de investimento;
 
-28) As operações de seguro e resseguro, bem como as prestações de serviços conexas efectuadas pelos corretores e intermediários de seguro;
+h) As operações de seguro e resseguro, bem como as prestações de serviços conexas efectuadas pelos corretores e intermediários de seguro;
 
-29) A locação de bens imóveis. Esta isenção não abrange:
+28) A locação de bens imóveis. Esta isenção não abrange:
 
 a) As prestações de serviços de alojamento, efectuadas no âmbito da actividade hoteleira ou de outras com funções análogas, incluindo parques de campismo;
 
@@ -98,17 +98,17 @@ d) A locação de cofres-fortes;
 
 e) A locação de espaços para exposições ou publicidade;
 
-30) As operações sujeitas a imposto municipal sobre as transmissões onerosas de imóveis;
+29) As operações sujeitas a imposto municipal sobre as transmissões onerosas de imóveis;
 
-31) A lotaria da Santa Casa da Misericórdia, as apostas mútuas, o bingo, os sorteios e as lotarias instantâneas devidamente autorizados, bem como as respectivas comissões e todas as actividades sujeitas a impostos especiais sobre o jogo;
+30) A lotaria da Santa Casa da Misericórdia, as apostas mútuas, o bingo, os sorteios e as lotarias instantâneas devidamente autorizados, bem como as respectivas comissões e todas as actividades sujeitas a impostos especiais sobre o jogo;
 
-32) As transmissões de bens afectos exclusivamente a uma actividade isenta, quando não tenham sido objecto do direito à dedução e bem assim as transmissões de bens cuja aquisição ou afectação tenha sido feita com exclusão do direito à dedução nos termos do n.º 1 do artigo 21.º;
+31) As transmissões de bens afectos exclusivamente a uma actividade isenta, quando não tenham sido objecto do direito à dedução e bem assim as transmissões de bens cuja aquisição ou afectação tenha sido feita com exclusão do direito à dedução nos termos do n.º 1 do artigo 21.º;
 
-33) (Revogada.)
+32) As transmissões de bens efectuadas no âmbito das explorações enunciadas no anexo A ao presente Código, bem como as prestações de serviços agrícolas definidas no anexo B, quando efectuadas com carácter acessório por um produtor agrícola que utiliza os seus próprios recursos de mão-de-obra e equipamento normal da respectiva exploração agrícola e silvícola;
 
-34) As prestações de serviços efectuadas por cooperativas que, não sendo de produção agrícola, desenvolvam uma actividade de prestação de serviços aos seus associados agricultores;
+33) As prestações de serviços efectuadas por cooperativas que, não sendo de produção agrícola, desenvolvam uma actividade de prestação de serviços aos seus associados agricultores;
 
-35) As prestações de serviços a seguir indicadas quando levadas a cabo por organismos sem finalidade lucrativa que sejam associações de cultura e recreio:
+34) As prestações de serviços a seguir indicadas quando levadas a cabo por organismos sem finalidade lucrativa que sejam associações de cultura e recreio:
 
 a) Cedência de bandas de música;
 
@@ -116,10 +116,6 @@ b) Sessões de teatro;
 
 c) Ensino de ballet e de música;
 
-36) Os serviços de alimentação e bebidas fornecidos pelas entidades patronais aos seus empregados;
+35) Os serviços de alimentação e bebidas fornecidos pelas entidades patronais aos seus empregados;
 
-37) As actividades das empresas públicas de rádio e televisão que não tenham carácter comercial;
-
-38) As prestações de serviços efetuadas por intérprete de língua gestual portuguesa.
-
-39) As prestações de serviços previstas no n.º 13, bem como as previstas na verba 2.32 da lista i anexa ao Código do IVA, quando efetuadas a título gratuito, a pessoas que acompanhem outras com grau de incapacidade permanente, devidamente comprovado mediante atestado médico de incapacidade multiúso emitido nos termos da legislação aplicável, igual ou superior a 60 %, e das quais dependam para a respetiva visita.
+36) As actividades das empresas públicas de rádio e televisão que não tenham carácter comercial.

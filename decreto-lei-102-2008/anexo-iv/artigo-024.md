@@ -22,7 +22,7 @@ c) A diferença positiva ou negativa divide-se por 5 ou por 20, conforme o caso,
 
 a) O sujeito passivo, devido a alteração da actividade exercida ou por imposição legal, passe a realizar exclusivamente operações isentas sem direito à dedução;
 
-b) O sujeito passivo passe a realizar exclusivamente operações isentas sem direito à dedução, em virtude do disposto no n.º 3 do artigo 12.º ou nos n.os 3 e 5 do artigo 55.º;
+b) O sujeito passivo passe a realizar exclusivamente operações isentas sem direito à dedução, em virtude do disposto no n.º 3 do artigo 12.º ou nos n.os 3 e 4 do artigo 55.º;
 
 c) O imóvel passe a ser objecto de uma locação isenta nos termos do n.º 29) do artigo 9.º
 

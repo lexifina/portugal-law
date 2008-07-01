@@ -1,37 +1,29 @@
 # Artigo 40.º
 
-### Faturas simplificadas
+### Dispensa da obrigação de facturação e obrigatoriedade de emissão de talões de vendas
 
-1 - A obrigatoriedade de emissão de fatura prevista na alínea b) do n.º 1 do artigo 29.º pode ser cumprida através da emissão de uma fatura simplificada em transmissões de bens e prestações de serviços cujo imposto seja devido em território nacional, nas seguintes situações:
+1 - É dispensada a obrigação de facturação nas operações a seguir mencionadas sempre que o cliente seja um particular que não destine os bens ou serviços adquiridos ao exercício de uma actividade comercial, industrial ou profissional e a transacção seja efectuada a dinheiro:
 
-a) Transmissões de bens efetuadas por retalhistas ou vendedores ambulantes a não sujeitos passivos, quando o valor da fatura não for superior a (euro) 1000;
+a) Transmissões de bens efectuadas por retalhistas ou vendedores ambulantes;
 
-b) Outras transmissões de bens e prestações de serviços em que o montante da fatura não seja superior a (euro) 100.
+b) Transmissões de bens feitas através de aparelhos de distribuição automática;
 
-c) Transmissões de bens e prestações de serviços efetuadas por sujeitos passivos abrangidos pelo regime de isenção previsto no artigo 53.º
+c) Prestações de serviços em que seja habitual a emissão de talão, bilhete de ingresso ou de transporte, senha ou outro documento impresso e ao portador comprovativo do pagamento;
 
-2 - As faturas referidas no número anterior devem ser datadas, numeradas sequencialmente e conter os seguintes elementos:
+d) Outras prestações de serviços cujo valor seja inferior a (euro) 10.
 
-a) Nome ou denominação social e número de identificação fiscal do fornecedor dos bens ou prestador dos serviços;
+2 - Não obstante o disposto no número anterior, os retalhistas e os prestadores de serviços são obrigados a emitir talão de venda previamente numerado, nos termos do artigo 5.º do Decreto-Lei n.º 198/90, de 19 de Junho, ou através de máquinas registadoras, terminais electrónicos ou balanças electrónicas com registo obrigatório das operações no rolo interno da fita da máquina, por cada transmissão de bens ou prestação de serviços.
 
-b) Quantidade e denominação usual dos bens transmitidos ou dos serviços prestados;
+3 - Os talões de venda devem ser datados, numerados sequencialmente e conter os seguintes elementos:
 
-c) O preço líquido de imposto, as taxas aplicáveis e o montante de imposto devido, ou o preço com a inclusão do imposto e a taxa ou taxas aplicáveis;
+a) Denominação social e número de identificação fiscal do fornecedor de bens ou prestador de serviços;
 
-d) Número de identificação fiscal do adquirente ou destinatário, quando for sujeito passivo.
+b) Denominação usual dos bens transmitidos ou dos serviços prestados;
 
-e) O motivo justificativo da não aplicação do imposto, se for caso disso.
+c) O preço líquido de imposto, as taxas aplicáveis e o montante de imposto devido, ou o preço com a inclusão do imposto e a taxa ou taxas aplicáveis.
 
-3 - As faturas referidas nos números anteriores devem ainda conter o número de identificação fiscal do adquirente ou destinatário que não seja sujeito passivo quando este o solicite.
+4 - Os retalhistas e prestadores de serviços abrangidos pela dispensa de facturação prevista no n.º 1 estão sempre obrigados a emitir factura quando transmitam bens ou serviços a sujeitos passivos do imposto, bem como a adquirentes não sujeitos passivos que exijam a respectiva emissão.
 
-4 - (Revogado.)
+5 - A dispensa de facturação de que trata o n.º 1 pode ainda ser declarada aplicável pelo Ministro das Finanças a outras categorias de sujeitos passivos que forneçam ao público serviços caracterizados pela sua uniformidade, frequência e valor limitado, sempre que a exigência da obrigação da facturação e obrigações conexas se revele particularmente onerosa. O Ministro das Finanças pode ainda, nos casos em que julgue conveniente, e para os fins previstos nesta lei, equiparar certos documentos de uso comercial habitual a facturas.
 
-5 - Sem prejuízo da obrigação de registo das transmissões de bens e das prestações de serviços efetuadas, a obrigação referida na alínea b) do n.º 1 do artigo 29.º pode ser cumprida mediante a emissão de documentos ou do registo das operações, respetivamente, nas seguintes operações:
-
-a) Prestações de serviços de transporte, de estacionamento, portagens, entradas em espetáculos, bibliotecas, arquivos, museus, galerias de arte, castelos, palácios, monumentos, parques, perímetros florestais, jardins botânicos, zoológicos e serviços prestados por sujeitos passivos que exerçam a atividade económica de diversão itinerante enquadrados nas subclasses 93211 e 93295 da Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev 3), aprovada em anexo ao Decreto-Lei n.º 381/2007, de 14 de novembro, na sua redação atual, quando seja emitido um bilhete de transporte, ingresso ou documento comprovativo do pagamento;
-
-b) Transmissões de bens efetuadas através de aparelhos de distribuição automática que não permitam a emissão de fatura.
-
-6 - A faculdade referida no número anterior pode ser declarada aplicável pelo Ministro das Finanças a outras categorias de sujeitos passivos que forneçam a consumidores finais serviços caracterizados pela sua uniformidade, frequência e valor limitado.
-
-7 - O Ministro das Finanças pode, nos casos em que julgue conveniente, e para os fins previstos neste Código, equiparar certos documentos de uso comercial a faturas.
+6 - O Ministro das Finanças pode, nos casos em que o disposto no n.º 1 favoreça a evasão fiscal, restringir a dispensa de facturação aí prevista ou exigir a emissão de documento adequado à comprovação da operação efectuada.

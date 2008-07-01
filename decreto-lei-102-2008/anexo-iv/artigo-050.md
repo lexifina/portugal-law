@@ -1,23 +1,23 @@
 # Artigo 50.º
 
-### Registo das operações efetuadas por sujeitos passivos que não disponham de contabilidade organizada
+### Livros de registo
 
-1 - Os sujeitos passivos que não possuam contabilidade organizada nos termos do Código do IRS ou do IRC procedem, para cumprimento das exigências constantes nos n.os 1 dos artigos 45.º e 48.º, à classificação das faturas que titulam as respetivas operações, diretamente no Portal das Finanças, no prazo previsto no artigo 45.º, diferenciando:
+1 - Os sujeitos passivos não enquadrados nos regimes especiais previstos na secção iv do presente capítulo ou que não possuam contabilidade organizada nos termos do Código do IRS ou do IRC utilizam, para cumprimento das exigências constantes dos n.os 1 dos artigos 45.º e 48.º, os seguintes livros de registo:
 
-a) Nas operações ativas, as transmissões de bens e prestações de serviços, nos termos do n.º 3 do artigo 44.º;
+a) Livro de registo de compras de mercadorias e ou livro de registo de matérias-primas e de consumo;
 
-b) Nas operações passivas, as despesas efetuadas no âmbito da atividade, nos termos do n.º 4 do artigo 44.º, diferenciando os inventários e as despesas gerais;
+b) Livro de registo de vendas de mercadorias e ou livro de registo de produtos fabricados;
 
-c) As operações ligadas a bens de investimento, nos termos do artigo 51.º
+c) Livro de registo de serviços prestados;
 
-d) (Revogada.)
+d) Livro de registo de despesas e de operações ligadas a bens de investimento;
 
-e) (Revogada.)
+e) Livro de registo de mercadorias, matérias-primas e de consumo, de produtos fabricados e outras existências à data de 31 de Dezembro de cada ano.
 
-2 - Os sujeitos passivos que, não sendo obrigados a possuir contabilidade organizada para efeitos do IRS ou IRC, possuam, no entanto, um sistema de contabilidade que satisfaça os requisitos adequados ao correto apuramento e fiscalização do imposto, podem não efetuar a classificação referida no n.º 1, aplicando-se aos referidos sujeitos passivos todas as normas constantes do presente Código relativas àqueles que possuam contabilidade organizada para efeitos dos impostos sobre o rendimento, sem prejuízo de poderem beneficiar do regime especial de isenção, desde que preenchidas as demais condições previstas no artigo 53.º
+2 - Os sujeitos passivos que, não sendo obrigados a possuir contabilidade organizada para efeitos do IRS ou IRC, possuam, no entanto, um sistema de contabilidade que satisfaça os requisitos adequados ao correcto apuramento e fiscalização do imposto podem não utilizar os livros referidos no n.º 1, aplicando-se aos referidos sujeitos passivos todas as normas constantes do presente Código relativas àqueles que possuam contabilidade organizada para efeitos dos impostos sobre o rendimento, sem prejuízo de poderem beneficiar do regime especial de isenção, desde que preenchidas as demais condições previstas no artigo 53.º
 
-3 - (Revogado.)
+3 - Os sujeitos passivos ou as suas associações representativas podem adoptar livros de registo de modelo diferente do aprovado, adaptados à especificidade das suas actividades, desde que adequados ao correcto apuramento e fiscalização do imposto.
 
-4 - (Revogado.)
+4 - A Direcção-Geral dos Impostos pode em qualquer altura obrigar os sujeitos passivos referidos nos n.os 2 e 3 a adoptar os livros mencionados no n.º 1.
 
-5 - (Revogado.)
+5 - Os livros a que se referem os n.os 2 e 3 do artigo 116.º do Código do IRS substituem os livros referidos no presente artigo.

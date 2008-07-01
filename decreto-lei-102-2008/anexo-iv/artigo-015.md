@@ -50,14 +50,8 @@ c) Por um sujeito passivo, nos termos previstos nas alíneas l), m) e n) do n.º
 
 7 - O disposto nos números anteriores é igualmente aplicável às aquisições intracomunitárias de bens, efectuadas nos termos do Regime do IVA nas Transacções Intracomunitárias, quando os bens se destinem a ser colocados num dos regimes ou das situações referidos na alínea b) do n.º 1.
 
-8 - São também isentas de imposto as transmissões de triciclos, cadeiras de rodas, com ou sem motor, automóveis ligeiros de passageiros ou mistos para uso próprio de pessoas com deficiência ou pessoas coletivas de utilidade pública, associações e federações desportivas sem fins lucrativos e instituições particulares de solidariedade social, cooperativas e associações de e para pessoas com deficiência, de acordo com os condicionalismos previstos no Código do Imposto sobre Veículos, devendo o benefício ser requerido nos termos estabelecidos naquele Código.
+8 - São também isentas de imposto as transmissões de triciclos, cadeiras de rodas, com ou sem motor, automóveis ligeiros de passageiros ou mistos para uso próprio de pessoas com deficiência, de acordo com os condicionalismos previstos no Código do Imposto sobre Veículos, devendo o benefício ser requerido nos termos estabelecidos naquele Código.
 
 9 - Se os proprietários dos veículos adquiridos com a isenção conferida pelo número anterior ou importados com isenção ao abrigo da alínea j) do n.º 1 do artigo 13.º pretenderem proceder à sua alienação antes de decorridos cinco anos sobre a data de aquisição ou de importação, devem pagar, junto das entidades competentes para a cobrança do imposto sobre veículos, o imposto sobre o valor acrescentado correspondente ao preço de venda, que não pode ser inferior ao que resulta da aplicação ao preço do veículo novo à data de venda, com exclusão do IVA, das percentagens referidas no n.º 2 do artigo 3.º-A do Decreto-Lei n.º 143/86, de 16 de Junho.
 
-10 - Estão isentas de imposto:
-
-a) As transmissões de bens a título gratuito, para posterior distribuição a pessoas carenciadas ou animais abandonados ou em risco, efetuadas ao Estado, a instituições particulares de solidariedade social e a organizações não-governamentais sem fins lucrativos;
-
-b) As transmissões de livros a título gratuito efetuadas aos departamentos governamentais nas áreas da cultura e da educação, a instituições de caráter cultural e educativo, a centros educativos de reinserção social e a estabelecimentos prisionais;
-
-c) As transmissões de bens a título gratuito efetuadas a entidades integradas na Rede Portuguesa de Museus e destinadas a integrar as respetivas coleções.
+10 - Estão isentas do imposto as transmissões, a título gratuito, de bens alimentares, para posterior distribuição a pessoas carenciadas, efectuadas a instituições particulares de solidariedade social e a organizações não governamentais sem fins lucrativos.

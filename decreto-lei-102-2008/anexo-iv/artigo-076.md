@@ -14,4 +14,4 @@ a) No estabelecimento escolhido para a centralização devem manter-se os regist
 
 b) Devem existir registos dos movimentos de cada estabelecimento, incluindo os efectuados entre si.
 
-3 - (Revogado.)
+3 - O estabelecimento escolhido para a centralização deve ser o indicado para efeitos do IRS ou IRC.

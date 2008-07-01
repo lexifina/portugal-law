@@ -1,7 +1,5 @@
 # Artigo 57.º
 
-### Obrigações declarativas e de faturação
+### Facturação
 
-1 - Sem prejuízo do disposto no artigo seguinte, os sujeitos passivos isentos nos termos do n.º 1 do artigo 53.º devem cumprir o disposto nas alíneas a) e b) do n.º 1 do artigo 29.º
-
-2 - As faturas emitidas pelos sujeitos passivos referidos no número anterior no exercício da sua atividade devem sempre conter a menção ‘IVA - regime de isenção’.
+Os sujeitos passivos isentos nos termos do artigo 53.º, quando emitam facturas por bens transmitidos ou serviços prestados no exercício da sua actividade comercial, industrial ou profissional, devem sempre apor-lhe a menção «IVA - regime de isenção».

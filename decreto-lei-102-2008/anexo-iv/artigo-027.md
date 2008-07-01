@@ -6,34 +6,14 @@
 
 ### Pagamento do imposto apurado pelo sujeito passivo
 
-1 - Sem prejuízo do disposto no regime especial referido nos artigos 60.º e seguintes, os sujeitos passivos são obrigados a entregar o montante do imposto exigível, apurado nos termos dos artigos 19.º a 26.º e 78.º, nos locais de cobrança legalmente autorizados, nos seguintes prazos:
+1 - Sem prejuízo do disposto no regime especial referido nos artigos 60.º e seguintes, os sujeitos passivos são obrigados a entregar o montante do imposto exigível, apurado nos termos dos artigos 19.º a 26.º e 78.º, no prazo previsto no artigo 41.º, nos locais de cobrança legalmente autorizados.
 
-a) Até ao dia 25 do 2.º mês seguinte àquele a que respeitam as operações, no caso de sujeitos passivos abrangidos pela alínea a) do n.º 1 do artigo 41.º;
+2 - As pessoas referidas na alínea c) do n.º 1 do artigo 2.º e no artigo 43.º devem entregar em qualquer serviço de finanças o correspondente imposto nos prazos de, respectivamente, 15 dias a contar da emissão da factura ou documento equivalente e até ao final do mês seguinte ao da conclusão da operação.
 
-b) Até ao dia 25 do 2.º mês seguinte ao trimestre do ano civil a que respeitam as operações, no caso de sujeitos passivos abrangidos pela alínea b) do n.º 1 do artigo 41.º
+3 - Os sujeitos passivos adquirentes dos serviços indicados nos n.os 8 e 10, alínea a), do artigo 6.º e dos bens referidos no n.º 22 do mesmo artigo, bem como os abrangidos pela alínea g) do n.º 1 do artigo 2.º, que não estejam obrigados à apresentação da declaração referida no artigo 41.º, devem entregar em qualquer serviço de finanças o correspondente imposto até ao final do mês seguinte àquele em que o imposto se torna exigível.
 
-2 - As pessoas referidas na alínea c) do n.º 1 do artigo 2.º, bem como as que pratiquem uma só operação tributável nas condições referidas na alínea a) da mesma disposição, devem entregar nos locais de cobrança legalmente autorizados o correspondente imposto nos prazos de, respetivamente, 20 dias a contar da emissão da fatura e até ao final do mês seguinte ao da conclusão da operação.
+4 - Os sujeitos passivos adquirentes dos serviços indicados nos n.os 8, 10, alínea a), 11, 13, 16, 17, alínea b), e 19 do artigo 6.º e dos bens referidos no n.º 22 do mesmo artigo, bem como os abrangidos pela alínea g) do n.º 1 do artigo 2.º, que não estejam obrigados à apresentação da declaração referida no artigo 41.º, mas já tenham apresentado a declaração do n.º 1 do artigo 25.º do Regime do IVA nas Transacções Intracomunitárias, devem efectuar o pagamento do correspondente imposto até ao final do mês seguinte àquele em que se torna exigível, nos termos do n.º 2 do artigo 22.º do mesmo Regime.
 
-3 - Os sujeitos passivos abrangidos pelas alíneas e), g), h) e j) do n.º 1 do artigo 2.º, que não estejam obrigados à apresentação da declaração periódica nos termos do artigo 41.º, devem enviar, por transmissão eletrónica de dados, a declaração correspondente às operações tributáveis realizadas e efetuar o pagamento do respetivo imposto, nos locais de cobrança legalmente autorizados, até ao final do mês seguinte àquele em que se torna exigível.
+5 - Quando o valor do imposto apurado pelo sujeito passivo na declaração periódica apresentada nos termos do n.º 1 do artigo 41.º for superior ao montante do respectivo meio de pagamento, é extraída, pela Direcção-Geral dos Impostos, certidão de dívida, pela diferença entre o valor apurado e o valor do respectivo meio de pagamento, ou pela totalidade do valor declarado no caso da falta do meio de pagamento, nos termos e para os efeitos do disposto no artigo 88.º do Código de Procedimento e de Processo Tributário.
 
-4 - (Revogado.)
-
-5 - A obrigação a que se refere o n.º 3 só se verifica relativamente aos períodos em que haja operações tributáveis.
-
-6 - Quando o valor do imposto apurado pelo sujeito passivo na declaração periódica apresentada nos termos do n.º 1 do artigo 41.º for superior ao montante do respetivo meio de pagamento, é extraída, pela Autoridade Tributária e Aduaneira, certidão de dívida, pela diferença entre o valor apurado e o valor do respetivo meio de pagamento, ou pela totalidade do valor declarado no caso da falta do meio de pagamento, nos termos e para os efeitos do disposto no artigo 88.º do Código de Procedimento e de Processo Tributário.
-
-7 - Quando a saída dos bens do regime de entreposto não aduaneiro, a que se refere o n.º 6 do artigo 15.º, for efectuada por uma pessoa que não esteja obrigada à apresentação da declaração prevista no artigo 41.º, o imposto deve ser entregue em qualquer serviço de finanças, no prazo previsto no n.º 3.
-
-8 - Os sujeitos passivos podem optar pelo pagamento do imposto devido pelas importações de bens nos termos do n.º 1, desde que:
-
-a) Se encontrem abrangidos pelo regime de periodicidade mensal previsto na alínea a) do n.º 1 do artigo 41.º;
-
-b) Tenham a situação fiscal regularizada;
-
-c) Pratiquem exclusivamente operações sujeitas e não isentas ou isentas com direito à dedução, sem prejuízo da realização de operações imobiliárias ou financeiras que tenham caráter meramente acessório;
-
-d) Não beneficiem, à data em que a opção produza efeitos, de diferimento do pagamento do IVA relativo a anteriores importações.
-
-9 - A forma e prazo de exercício da opção prevista no número anterior são reguladas por portaria do membro do Governo responsável pela área das finanças.
-
-10 - O prazo de entrega do montante de imposto exigível, nos termos da alínea a) do n.º 1, relativo ao mês de junho, e nos termos da alínea b) do n.º 1, relativo ao segundo trimestre, é prolongado até 25 de setembro.
+6 - Quando a saída dos bens do regime de entreposto não aduaneiro, a que se refere o n.º 6 do artigo 15.º, for efectuada por uma pessoa que não esteja obrigada à apresentação da declaração prevista no artigo 41.º, o imposto deve ser entregue em qualquer serviço de finanças, no prazo previsto no n.º 3.

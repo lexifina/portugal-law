@@ -30,7 +30,7 @@ j) As prestações de serviços não mencionadas nas alíneas f) e g) do present
 
 l) As transmissões de bens e as prestações de serviços efectuadas no âmbito de relações diplomáticas e consulares, cuja isenção resulte de acordos e convénios internacionais celebrados por Portugal;
 
-m) As transmissões de bens e as prestações de serviços destinadas a organizações internacionais reconhecidas por Portugal ou por qualquer outro Estado membro da Comunidade Europeia, ou a membros dessas organizações, nos limites e nas condições fixados nas convenções internacionais que instituíram as referidas organizações ou nos acordos de sede, incluindo os organismos aos quais seja aplicável o Protocolo de 8 de Abril de 1965, relativo aos Privilégios e Imunidades das Comunidades Europeias, nos limites e nas condições desse Protocolo, dos acordos relativos à sua aplicação ou dos acordos de sede, desde que daí não resultem distorções de concorrência;
+m) As transmissões de bens e as prestações de serviços destinadas a organismos internacionais reconhecidos por Portugal ou por qualquer outro Estado membro da Comunidade Europeia, ou a membros dos mesmos organismos, nos limites fixados nos acordos e convénios internacionais que instituíram esses organismos ou nos respectivos acordos de sede;
 
 n) As transmissões de bens e as prestações de serviços efectuadas no âmbito do Tratado do Atlântico Norte às forças armadas dos outros Estados que são Partes no referido Tratado, para uso dessas forças armadas ou do elemento civil que as acompanha ou para o aprovisionamento das suas messes ou cantinas, quando as referidas forças se encontrem afectas ao esforço comum de defesa;
 
@@ -50,14 +50,6 @@ u) As transmissões para o Banco de Portugal de ouro em barra ou em outras forma
 
 v) As transmissões de bens e as prestações de serviços destinadas às forças armadas de qualquer outro Estado que seja parte no Tratado do Atlântico Norte, que não seja o Estado membro da Comunidade Europeia para o qual os bens são expedidos ou os serviços prestados, para uso dessas forças armadas ou do elemento civil que as acompanham, ou para o aprovisionamento das respectivas messes ou cantinas, quando as referidas forças se encontrem afectas ao esforço comum de defesa.
 
-x) As transmissões de bens efetuadas ao sujeito passivo que facilitar a sua transmissão dentro da União Europeia nas situações abrangidas pelo n.º 10 do artigo 3.º
-
-z) As transmissões de bens e as prestações de serviços efetuadas à Comissão Europeia ou a agências ou organismos estabelecidos ao abrigo do direito da União Europeia, para o exercício das funções que lhes foram legalmente atribuídas para dar resposta à pandemia da doença COVID-19;
-
-aa) As transmissões de bens e as prestações de serviços efetuadas no âmbito da política comum de segurança e defesa da União Europeia às forças armadas de outros Estados-Membros, para uso dessas forças armadas ou do elemento civil que as acompanha ou para o aprovisionamento das suas messes ou cantinas, quando as referidas forças se encontrem afetas a um esforço de defesa realizado para a execução de uma atividade da União Europeia;
-
-bb) As transmissões de bens e as prestações de serviços efetuadas no âmbito da política comum de segurança e defesa da União Europeia destinadas às forças armadas de qualquer outro Estado-Membro, que não seja o Estado-Membro para o qual os bens são expedidos ou os serviços prestados, para uso dessas forças armadas ou do elemento civil que as acompanha ou para o aprovisionamento das suas messes ou cantinas, quando as referidas forças se encontrem afetas a um esforço de defesa realizado para a execução de uma atividade da União Europeia.
-
 2 - As isenções referidas nas alíneas d), e) e h) do número anterior, no que se refere às transmissões de bebidas, efectivam-se através do exercício do direito à dedução ou da restituição do imposto, não se considerando, para o efeito, o disposto na alínea d) do n.º 1 do artigo 21.º
 
 3 - Para efeitos do estabelecido neste Código, entende-se por bens de abastecimento:
@@ -71,7 +63,3 @@ c) Os produtos acessórios destinados à preparação, tratamento e conservaçã
 4 - Para efeitos do presente artigo, é assimilado ao transporte de pessoas provenientes ou com destino ao estrangeiro o de pessoas com proveniência ou com destino às Regiões Autónomas e ainda o transporte de pessoas entre as ilhas das mesmas Regiões.
 
 5 - As isenções das alíneas d) e f) do n.º 1 não se aplicam às operações aí referidas quando se destinem ou respeitem a barcos desportivos ou de recreio.
-
-6 - A isenção referida na alínea z) do n.º 1 não é aplicável quando os bens ou serviços adquiridos sejam utilizados, imediatamente ou numa data posterior, para a realização de operações tributáveis, efetuadas a título oneroso, por parte da Comissão Europeia ou das agências ou organismos aí referidos.
-
-7 - A Comissão Europeia ou a agência ou organismo em causa informam a Autoridade Tributária e Aduaneira do facto a que se reporta o número anterior, ficando a transmissão desses bens ou a prestação desses serviços sujeita a IVA nas condições aplicáveis à data em que se verificou aquela utilização.

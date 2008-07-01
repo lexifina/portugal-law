@@ -18,4 +18,4 @@
 
 8 - As pessoas singulares ou colectivas que pretendam exercer a opção a que se refere o n.º 3 do artigo 10.º devem apresentar a declaração prevista no artigo 32.º do Código do IVA, devendo igualmente apresentar a referida declaração caso pretendam renunciar ao regime por que optaram.
 
-9 - As declarações referidas no presente artigo são apresentadas nos termos do artigo 34.º do Código do IVA.
+9 - As declarações referidas no presente artigo são apresentadas nos termos do artigo 35.º do Código do IVA.

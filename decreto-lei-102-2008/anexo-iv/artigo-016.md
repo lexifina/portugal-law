@@ -10,7 +10,7 @@
 
 ### Valor tributável nas operações internas
 
-1 - Sem prejuízo do disposto nos n.os 2 e 10, o valor tributável das transmissões de bens e das prestações de serviços sujeitas a imposto é o valor da contraprestação obtida ou a obter do adquirente, do destinatário ou de um terceiro.
+1 - Sem prejuízo do disposto no n.º 2, o valor tributável das transmissões de bens e das prestações de serviços sujeitas a imposto é o valor da contraprestação obtida ou a obter do adquirente, do destinatário ou de um terceiro.
 
 2 - Nos casos das transmissões de bens e das prestações de serviços a seguir enumeradas, o valor tributável é:
 
@@ -56,28 +56,10 @@ b) Os descontos, abatimentos e bónus concedidos;
 
 c) As quantias pagas em nome e por conta do adquirente dos bens ou do destinatário dos serviços, registadas pelo sujeito passivo em contas de terceiros apropriadas;
 
-d) As quantias respeitantes a embalagens, desde que as mesmas não tenham sido efetivamente transacionadas e da fatura constem os elementos referidos na parte final da alínea b) do n.º 5 do artigo 36.º
+d) As quantias respeitantes a embalagens, desde que as mesmas não tenham sido efectivamente transaccionadas e da factura ou documento equivalente constem os elementos referidos na parte final da alínea b) do n.º 5 do artigo 36.º
 
 7 - Em legislação especial é regulamentado o apuramento do imposto quando o valor tributável for determinado de harmonia com o disposto na alínea f) do n.º 2.
 
-8 - Quando os elementos necessários à determinação do valor tributável sejam expressos em moeda diferente da moeda nacional, a taxa de câmbio a utilizar é a última divulgada pelo Banco Central Europeu ou a de venda praticada por qualquer banco estabelecido no território nacional.
+8 - Sempre que os elementos necessários à determinação do valor tributável sejam expressos em moeda diferente da moeda nacional, as taxas de câmbio a utilizar são as constantes das tabelas indicativas divulgadas pelo Sistema Europeu dos Bancos Centrais (SEBC) ou as de venda praticadas por qualquer banco estabelecido no território nacional.
 
 9 - Para os efeitos previstos no número anterior, os sujeitos passivos podem ainda optar entre considerar a taxa do dia em que se verificou a exigibilidade do imposto ou a do 1.º dia útil do respectivo mês.
-
-10 - O disposto no n.º 1 não tem aplicação nas transmissões de bens ou prestações de serviços efectuadas por sujeitos passivos que tenham relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC, com os respectivos adquirentes ou destinatários, independentemente de estes serem ou não sujeitos passivos, caso em que o valor tributável é o valor normal determinado nos termos do n.º 4, quando se verifique qualquer uma das seguintes situações:
-
-a) A contraprestação seja inferior ao valor normal e o adquirente ou destinatário não tenha direito a deduzir integralmente o imposto;
-
-b) A contraprestação seja inferior ao valor normal e o transmitente dos bens ou o prestador dos serviços não tenha direito a deduzir integralmente o imposto e a operação esteja isenta ao abrigo do artigo 9.º;
-
-c) A contraprestação seja superior ao valor normal e o transmitente dos bens ou o prestador dos serviços não tenha direito a deduzir integralmente o IVA.
-
-11 - A derrogação prevista no número anterior não será aplicada sempre que seja feita prova de que a diferença entre a contraprestação e o valor normal não se deve à existência de uma relação especial entre o sujeito passivo e o adquirente dos bens ou serviços.
-
-12 - Para efeitos do n.º 10, consideram-se ainda relações especiais as relações estabelecidas entre um empregador e um empregado, a família deste ou qualquer pessoa com ele estreitamente relacionada.
-
-13 - Em relação a vales de finalidade múltipla, sem prejuízo do disposto no n.º 1, o valor tributável da transmissão de bens ou prestação de serviços a que o vale diz respeito é constituído pela contraprestação paga, quando da cessão do vale, pelo adquirente, pelo destinatário ou por um terceiro em seu lugar, deduzido do montante do imposto devido por essa transmissão de bens ou prestação de serviços.
-
-14 - Quando o transmitente dos bens ou prestador dos serviços não tenha sido o próprio cedente do vale de finalidade múltipla e não lhe seja possível aceder a informação segura acerca da contraprestação referida no número anterior, sem prejuízo do disposto no n.º 1, o valor tributável da transmissão de bens ou prestação de serviços a que o vale diz respeito é constituído pelo valor monetário indicado no próprio vale ou resultante de informação contratual relacionada, deduzido do montante do imposto devido por essa transmissão de bens ou prestação de serviços.
-
-15 - No caso previsto no número anterior, não havendo indicação no próprio vale do respetivo valor monetário, nem resultando este de informação contratual relacionada, o valor tributável da transmissão de bens ou prestação de serviços a que o vale diz respeito é determinado nos termos do n.º 4.

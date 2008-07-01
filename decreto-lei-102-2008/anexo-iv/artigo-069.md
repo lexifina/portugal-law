@@ -1,4 +1,4 @@
-## Subsecção IV
+## Subsecção III
 
 ## Regime de tributação dos combustíveis líquidos aplicável aos revendedores
 
