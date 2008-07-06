@@ -2,6 +2,10 @@
 
 ## Licenciamento do exercício da actividade de guarda-nocturno
 
+## Secção i
+
+## Disposições gerais
+
 # Artigo 4.º
 
 ### Criação e extinção
