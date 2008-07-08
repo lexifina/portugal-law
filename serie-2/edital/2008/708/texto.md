@@ -1,0 +1,6 @@
+Edital n.º 708/2008
+Dr. Aníbal Sousa Reis Coelho da Costa, Presidente da Câmara Municipal de Ferreira do Alentejo, torna público que:
+A Camara Municipal de Ferreira do Alentejo, na sua reunião ordinária do dia 20 de Junho de 2008, aprovou submeter o Projecto de: Regulamento Municipal de Urbanização e Edificação, nos termos do disposto no artigo 3.º do Decreto-Lei n.º555/99 de 16 de Dezembro, com a nova redacção da Lei n.º60/2007, de 4 de Setembro, a apreciação pública pelo prazo de 30 dias, a contar da data da sua publicação na 2.ª Série do Diário da República.
+Assim, em execução desta deliberação da Câmara Municipal, os interessados poderão consultar o Projecto de Regulamento, na Divisão Técnica, Edificio da Assembleia Municipal, Praça Comendador Infante Passanha em Ferreira do Alentejo, no horário de expediente (das 9,00 às 12,30 horas e das 14,00 as 17,30 horas) nos dias úteis, e as sugestões e observações deverão ser dirigidas por escrito, ao Presidente da Camara Municipal para a seguinte morada: Praça Comendador Infante Passanha n.º5, 7900-571 Ferreira do Alentejo ou por mail: geral@cm-ferreira-alentejo.pt.
+E para constar se passou o presente edital e outros de igual teor que vão ser afixados nos lugares de estilo.
+23 de Junho de 2008. - O Presidente da Câmara, Aníbal Sousa Reis Coelho da Costa.
