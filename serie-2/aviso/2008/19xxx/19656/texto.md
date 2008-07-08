@@ -1,0 +1,9 @@
+Aviso n.º 19656/2008
+Proposta de Plano de Urbanização da Cidade da Horta
+Discussão pública
+João Fernando Brum de Azevedo e Castro, Presidente da Câmara Municipal da Horta, torna público que o executivo municipal, em reunião realizada a 12 de Junho de 2008, deliberou, sob proposta do Gabinete de Planeamento e Desenvolvimento e nos termos do disposto no n.º 3 e seguintes do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, submeter a discussão pública, pelo prazo de 22 dias úteis, com início a partir do 6.º dia útil após a publicação deste Aviso no Diário da República, a proposta de Plano de Urbanização da Cidade da Horta.
+A proposta do Plano de Urbanização da Cidade da Horta, o parecer final escrito e a acta da última reunião da Comissão de Acompanhamento, bem como os pareceres recolhidos no âmbito da concertação, estarão disponíveis para consulta no site da Câmara Municipal da Horta (www.cmhorta.pt),no Gabinete de Planeamento e Desenvolvimento da Câmara Municipal da Horta, todos os dias úteis das 09H00 às 12H30 e das 13H30 às 17H00, bem como nas sede das Juntas de Freguesia das Angústias, Matriz e Conceição, das 09H00 às 12H30 e das 14H00 às 17H00.
+Durante o período da discussão pública todos os interessados poderão apresentar, por escrito, as suas reclamações, sugestões ou observações.
+Mais se informa que durante este período os serviços técnicos do Município estarão no Gabinete de Planeamento e Desenvolvimento da Câmara Municipal da Horta, em horário pós-laboral, todas as 2.ª, 4.ª e 6.ª Feiras, das 17H00 às 19H00, para prestarem esclarecimentos aos interessados.
+Durante o período de discussão pública far-se-á duas sessões pública de esclarecimento, em local, dia e hora a designar e a divulgar oportunamente nos órgãos de comunicação social local.
+12 de Junho de 2008. - O Presidente da Câmara, João Fernando Brum de Azevedo e Castro.
