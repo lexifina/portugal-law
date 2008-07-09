@@ -1,0 +1,11 @@
+As alterações introduzidas na política agrícola comum e as transformações a que o sector agrícola e agro-alimentar, a nível mundial, está a assistir, tornam mais premente a necessidade de uma actuação concertada, integrada e eficaz das políticas públicas. Neste contexto, o novo regulamento comunitário relativo ao desenvolvimento rural reuniu, num único instrumento, um conjunto de medidas, repartidas por eixos que, se utilizadas de forma coerente, contribuem para a obtenção de um desenvolvimento equilibrado e sustentado do sector.
+
+O crescente aumento da competição global obriga, por sua vez, a apostar naqueles produtos e sectores onde as vantagens existentes possam potenciar um desenvolvimento mais sustentado a nível mundial. Neste contexto, torna-se indispensável promover a formação dos recursos humanos, melhorando a gestão empresarial e permitindo o desenvolvimento de sistemas de qualidade, a que acresce a necessária compatibilidade com as normas ambientais, garantindo o uso eficiente dos recursos naturais.
+
+O sistema de incentivos agora apresentado insere-se no eixo da competitividade e integra medidas destinadas a aumentar os conhecimentos e a melhorar o potencial humano através de formação profissional e acções de informação, incluindo a divulgação de conhecimentos científicos e práticas inovadoras, para pessoas em actividade nos sectores agrícola, silvícola, alimentar e florestal. Pretende-se assim, através do acesso simultâneo pelos promotores, nomeadamente através da promoção do conhecimento e desenvolvimento de competências, promover a formação de jovens agricultores e activos dos sectores da agricultura, silvicultura e indústria alimentar conferindo-lhes competências específicas para o desenvolvimento das suas actividades e aumentar a articulação entre o processo de formação e os objectivos associados aos investimentos.
+
+Por último, tendo em conta que a tipologia das operações atrás referidas tem natureza idêntica às abrangidas pelo âmbito de aplicação do artigo 3.º do Regulamento (CE) n.º 1081/2006, do Parlamento Europeu e do Conselho, de 5 de Julho, foi ouvido o Instituo de Gestão do Fundo Social Europeu, que emitiu parecer favorável.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:
