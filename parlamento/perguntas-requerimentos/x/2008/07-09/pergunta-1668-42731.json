@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "42731",
+  "tipo": "Pergunta",
+  "numero": "1668",
+  "data_registo": "2008-07-09",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Recusa de emissão de cartão de utente a estudantes dos PALOP's",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1058",
+        "nome": "Bernardino Soares"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2184",
+        "nome": "Miguel Tiago"
+      }
+    ],
+    "DataEnvio": "2008-07-10",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2008-07-10",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  SAÚDE",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2008-10-14",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  SAÚDE",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544338305a575a6d4f474e6d4e7931685a6d49304c54526c4d4751744f474a6b4e5330795a6a637a4e5759774e3251794e7a67756347526d&fich=4eff8cf7-afb4-4e0d-8bd5-2f735f07d278.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2008-07-09",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544338305a6d56684e6d45334f43316d597a457a4c5451345a6a67745954426a4f5330344e7a4130596d45324e7a5a68597a55756347526d&fich=4fea6a78-fc13-48f8-a0c9-8704ba676ac5.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "42731",
+    "Legislatura": "X",
+    "Nr": "1668",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "439402",
+        "obs": null,
+        "pag": [
+          "21-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008",
+        "pubLeg": "X",
+        "pubNr": "131",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/131/2008-07-21/21?pgs=21-22&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Pergunta"
+  }
+}
