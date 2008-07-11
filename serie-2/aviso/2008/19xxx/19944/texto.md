@@ -1,0 +1,4 @@
+Aviso n.º 19944/2008
+Augusto Fernando Andrade, presidente da Câmara Municipal de Aguiar Da Beira, torna público no uso da competência referida na alínea u) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de Setembro, republicada na alínea v) do n.º 1 do artigo 68.º da Lei n.º 5-A/2002, de 11 de Janeiro, que o Regulamento sobre o Pagamento em Prestações da receita pelo Fornecimento de Água, foi aprovado em sessão da Assembleia Municipal realizada em 27 de Julho de 2008, cujo projecto inicial foi submetido à apreciação e discussão pública, através de publicação no Diário da República, 2.ª série, n.º 27, de 7 de Fevereiro de 2008, e por edital afixado nos lugares de estilo, não se tendo verificado a apresentação de quaisquer sugestões naquela fase.
+27 de Junho de 2008. - O Presidente da Câmara, Augusto Fernando Andrade.
+300507727
