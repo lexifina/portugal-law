@@ -1,0 +1,222 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "181",
+    "id": "33734",
+    "titulo": "Procede à segunda alteração ao Código do Imposto sobre Veículos, aprovado pela Lei n.º 22-A/2007, de 29 de Junho, introduzindo ajustamentos em matéria de condições de condução por outrem de veículos de pessoas com deficiência e de admissão temporária de veículos por trabalhadores transfronteiriços."
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2008-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "6325",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2008-07-11",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2008-07-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "169183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-07-12",
+                "pubLeg": "X",
+                "pubNr": "106",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/106/2008-07-12/46?pgs=46&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Imposto sobre Veículos, aprovado pela Lei n.º 22-A/2007, de 29 de Junho, introduzindo ajustamentos em matéria de condições de condução por outrem de veículos de pessoas com deficiência e de admissão temporária de veículos por trabalhadores transfronteiriços",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "254280",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "6325",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-07-12",
+        "pubLeg": "X",
+        "pubNr": "106",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/106/2008-07-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2008-07-11",
+        "descricao": "Votação da alínea b) do n.º 1  do artigo 57.º do Código do Imposto sobre Veículos constante do artigo 1.º do Texto Final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "51737",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "106",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-07-11",
+        "descricao": "Votação do corpo e epígrafe do artigo 1.º do Texto Final",
+        "detalhe": "A Favor: <I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "51738",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "106",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-07-11",
+        "descricao": "Votação do corpo e epígrafe do artigo 2.º do Texto Final",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PCP</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> BE</I>",
+        "id": "51739",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "106",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-07-11",
+        "descricao": "Votação do n.º 2 do artigo 34.º do Código do Imposto sobre Veículos constante do artigo 1.º do Texto Final",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "51731",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "106",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-07-11",
+        "descricao": "Votação do n.º 3 do artigo 34.º do Código do Imposto sobre Veículos constante do artigo 1.º do Texto Final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS-PP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "51732",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "106",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-07-11",
+        "descricao": "Votação das alíneas a), b), c) e corpo do n.º 4 e dos n.ºs 5, 6, 7 e 8 do artigo 34.º do Código do Imposto sobre Veículos constante do artigo 1.º do Texto Final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS-PP</I>, <I> BE</I>",
+        "id": "51733",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "106",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-07-11",
+        "descricao": "Votação do n.º 7 e epígrafe do artigo 35.º do Código do Imposto sobre Veículos constante do artigo 1.º do Texto Final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I><BR>Abstenção:<I>CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "51734",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "106",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-07-11",
+        "descricao": "Votação do n.º 8 do artigo 36.º do Código do Imposto sobre Veículos constante do artigo 1.º do Texto Final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I><BR>Abstenção:<I>CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "51735",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "106",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-07-11",
+        "descricao": "Votação do n.º 9 e epígrafe do artigo 36.º do Código do Imposto sobre Veículos constante do artigo 1.º do Texto Final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "51736",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "106",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
