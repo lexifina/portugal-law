@@ -10,7 +10,7 @@ b) Participar nas comissões da Assembleia Legislativa em função do número do
 
 c) Ser ouvido na fixação da ordem do dia e interpor recurso para o Plenário da ordem do dia fixada;
 
-d) Provocar, com a presença do Governo, o debate de questões de interesse público actual e urgente;
+d) Requerer, com a presença do Governo, o debate de questões de interesse público, actual e urgente nos termos previstos no artigo 208.º do Regimento;
 
 e) Determinar a ordem do dia de um certo número de reuniões, nos termos do artigo 66.º do Regimento;
 

@@ -15,3 +15,13 @@
 6 - A votação dos requerimentos é feita pela ordem da sua apresentação.
 
 7 - Não são admitidas declarações de voto orais.
+
+8 - Os requerimentos que, pela sua natureza, não se enquadrem no n.º 1 seguem o seguinte regime:
+
+a) O requerente e grupos parlamentares dispõem do tempo global de seis minutos;
+
+b) Os deputados únicos representantes de partido ou os deputados eleitos por um partido que não se constituem em grupo parlamentar dispõem do tempo global de três minutos;
+
+c) Não há lugar a declarações de voto orais.
+
+9 - Apenas o uso da palavra para efeitos do disposto nos artigos 89.º, 91.º e 92.º do Regimento não é considerado nos tempos globais referidos nos números anteriores.

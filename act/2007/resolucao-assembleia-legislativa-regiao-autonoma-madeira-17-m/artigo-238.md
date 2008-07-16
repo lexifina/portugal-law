@@ -2,16 +2,26 @@
 
 ### Regra supletiva
 
-Se a Assembleia Legislativa nada determinar, o processo de urgência terá a tramitação seguinte:
+1 - Se a Assembleia Legislativa nada determinar, o processo de urgência terá a tramitação seguinte:
 
 a) O prazo para exame em comissão será de cinco dias;
 
-b) Na discussão na generalidade, apenas o representante de cada grupo parlamentar e o do Governo Regional poderão usar da palavra, por uma única vez, por período não superior a cinco minutos cada um e o representante de cada partido não constituído em grupo por período não superior a dois minutos;
+2 - Na discussão na generalidade, salvo quanto a Conferência dos Representantes dos Grupos Parlamentares dispuser diversamente, os grupos parlamentares, os deputados únicos representantes de partido e representante de partido não constituído em grupo e o Governo Regional não poderão exceder o tempo global de:
 
-c) As propostas de alteração devem ser apresentadas até ao início da discussão na especialidade;
+a) Cinco minutos, para o grupo parlamentar com maior representatividade;
 
-d) Não haverá discussão na especialidade sobre os artigos quanto aos quais não tenha havido propostas de alteração;
+b) Três minutos, para cada um dos restantes grupos parlamentares;
 
-e) Na discussão na especialidade cada deputado só poderá usar da palavra uma vez, excepto o autor ou um dos autores da proposta de alteração, e o tempo de duração da palavra será reduzido a metade do previsto na alínea b);
+c) Dois minutos, para o representante de cada partido não constituído em grupo;
 
-f) O prazo para redacção final será de dois dias.
+d) O Governo dispõe de tempo igual ao do Grupo Parlamentar com maior representatividade.
+
+3 - As propostas de alteração devem ser apresentadas até ao início da discussão na especialidade.
+
+4 - Não haverá discussão na especialidade sobre os artigos quanto aos quais não tenha havido propostas de alteração.
+
+5 - Na discussão na especialidade de propostas de alteração o tempo global para cada grupo parlamentar, deputado único ou Governo é metade do previsto no n.º 2.
+
+6 - O prazo para a redacção final será de dois dias.
+
+7 - Apenas o uso da palavra para efeitos do disposto nos artigos 89.º, 91.º e 92.º do Regimento não é considerado nos tempos globais referidos nos números anteriores.

@@ -6,4 +6,4 @@
 
 ### Reunião da Assembleia Legislativa
 
-No caso de exercício do direito previsto na alínea d) do n.º 1 do artigo 12.º, o debate sobre política geral iniciar-se-á até ao 10.º dia posterior à publicação da interpelação no Diário ou à sua distribuição em folhas avulsas.
+No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do artigo 12.º, o debate será agendado e organizado pela Conferência dos Representantes dos Grupos Parlamentares.
