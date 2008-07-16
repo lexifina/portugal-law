@@ -1,0 +1,14 @@
+Aviso n.º 111/2008
+Por ordem superior se torna público ter o Governo da República Federal da Alemanha efectuado, junto do Secretário-Geral das Nações Unidas, em 15 de Novembro de 2005, uma objecção à declaração formulada pelo Governo da Mauritânia no momento da adesão ao Pacto Internacional sobre os Direitos Civis e Políticos, adoptado em Nova Iorque, em 16 de Dezembro de 1966, adiante denominado o Pacto.
+Notificação
+The Government of the Federal Republic of Germany has carefully examined the declaration made by the Government of Mauritania on 17 November 2004 in respect of Articles 18 and 23 (4) of the International Covenant on Civil and Political Rights.
+The Government of the Federal Republic of Germany is of the opinion that the limitations set out therein leave it unclear to which extent Mauritania considers itself bound by the obligations resulting from the Covenant.
+The Government of the Federal Republic of Germany therefore regards the above-mentioned declaration as a reservation and as incompatible with the object and purpose of the Covenant.
+The Government of the Federal Republic of Germany therefore objects to the above-mentioned reservation made by the Government of Mauritania to the International Covenant on Civil and Political Rights. This objection shall not preclude the entry into force of the Covenant between the Federal Republic of Germany and Mauritania.
+Tradução
+O Governo da República Federal da Alemanha examinou cuidadosamente a declaração relativa ao artigo 18.º e ao n.º 4 do artigo 23.º do Pacto Internacional sobre os Direitos Civis e Políticos, formulada, em 17 de Novembro de 2004, pelo Governo da Mauritânia.
+O Governo da República Federal da Alemanha é de opinião que as limitações expressas na referida declaração suscitam dúvidas quanto à vontade da Mauritânia em se vincular às obrigações decorrentes do Pacto.
+O Governo da República Federal da Alemanha considera, portanto, a declaração acima mencionada uma reserva, sendo a mesma incompatível com o objecto e o fim do Pacto.
+O Governo da República Federal da Alemanha apresenta, portanto, a sua objecção à reserva acima mencionada, formulada pelo Governo da Mauritânia ao Pacto Internacional sobre os Direitos Civis e Políticos. A presente objecção não prejudica a entrada em vigor do Pacto entre a República Federal da Alemanha e a Mauritânia.
+Portugal é Parte neste Pacto, aprovado para ratificação pela Lei n.º 29/78, publicada no Diário da República, 1.ª série, n.º 133, suplemento, de 12 de Junho de 1978, tendo depositado o seu instrumento de ratificação em 15 de Junho de 1978, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 187, de 16 de Agosto de 1978.
+Direcção-Geral de Política Externa, 30 de Abril de 2008. - O Subdirector-Geral para os Assuntos Multilaterais, António Manuel Ricoca Freire.
