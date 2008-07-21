@@ -16,6 +16,6 @@ a) Nos actos de transmissão ou de constituição de encargos outorgados por que
 
 b) Nos casos de urgência, devidamente comprovada, motivada por perigo de vida dos outorgantes ou por extravio ou inutilização do registo causados por incêndio, inundação ou outra calamidade como tal reconhecida por despacho do Ministro da Justiça.
 
-4 - A prova dos números das descrições e das referências relativas às inscrições na conservatória é feita pela exibição de certidão de teor, passada com antecedência não superior a seis meses, ou, quanto a prédios situados em concelho onde tenha vigorado o registo obrigatório, pela exibição da respectiva caderneta predial, desde que este documento se encontre actualizado.
+4 - A prova dos números das descrições e das referências relativas às inscrições no serviço de registo é feita pela exibição de certidão de teor, passada com antecedência não superior a um ano, ou quanto a prédios situados em concelho onde tenha vigorado o registo obrigatório, pela exibição da respectiva caderneta predial, desde que este documento se encontre actualizado.
 
 5 - A não descrição dos prédios prova-se mediante a exibição de certidão válida por três meses.

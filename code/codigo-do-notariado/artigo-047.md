@@ -10,9 +10,9 @@ a) A menção do nome completo do cônjuge e do respectivo regime matrimonial de
 
 b) A advertência de que o registo deve ser requerido no prazo de três meses, se respeitar a actos sujeitos a registo comercial obrigatório que não tenham sido promovidos e dinamizados pelo notário no uso de competência atribuída por lei;
 
-c) A advertência ao representante legal que intervém no acto, se algum dos beneficiários for incapaz ou equiparado, de que deve requerer o respectivo registo no prazo de três meses;
+c) (Revogada).
 
-d) A advertência ao doador da obrigatoriedade de requerer o registo a favor do donatário, no prazo de três meses, na escritura de doação que produza efeitos independentemente da aceitação.
+d) (Revogada).
 
 2 - O disposto na alínea a) do número anterior é aplicável às escrituras de habilitação, relativamente ao autor da herança e aos habilitandos, e aos instrumentos de procuração com poderes para a outorga de actos sujeitos a registo.
 
