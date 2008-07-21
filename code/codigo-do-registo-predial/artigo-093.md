@@ -4,20 +4,20 @@
 
 1 - Do extracto da inscrição deve constar:
 
-a) A letra G, C ou F, consoante se trate de inscrições de aquisição ou reconhecimento de propriedade, de hipoteca ou diversas, seguida do número de ordem correspondente;
+a) (Revogada);
 
-b) O número e a data da apresentação;
+b) O número, a data e a hora da apresentação;
 
-c) Sendo a inscrição provisória, a menção de que o é por natureza ou por dúvidas, com indicação, no primeiro caso, do número e alínea aplicáveis do artigo anterior;
+c) Caso a inscrição seja provisória, a menção de que o é por natureza ou por dúvidas, com indicação, no primeiro caso, do número e alínea aplicáveis do artigo anterior e, sendo provisória nos termos das alíneas g) ou i) do n.º 1 do artigo 92.º, a data em que o registo foi confirmado;
 
 d) O facto que se inscreve;
 
-e) A identificação dos sujeitos do facto inscrito, pela menção do nome completo, estado e residência das pessoas singulares, ou da denominação ou firma e sede das pessoas colectivas, bem como a menção do nome do cônjuge e do regime matrimonial de bens, se os sujeitos forem casados, ou, sendo solteiros, a indicação de serem maiores ou menores;
+e) A identificação dos sujeitos activos do facto inscrito, pela menção do nome completo, número de identificação fiscal, estado e residência das pessoas singulares, ou da denominação ou firma, número de pessoa colectiva e sede das pessoas colectivas, bem como a menção do nome do cônjuge e do regime de bens do casamento, se os sujeitos forem casados, ou, sendo solteiros, a indicação de serem maiores ou menores;
 
-f) Respeitando o facto a diversos prédios, a menção dessa circunstância e, sendo a inscrição de garantia, o número de prédios situados na área de outra conservatória;
+f) Respeitando o facto a diversos prédios, a menção dessa circunstância;
 
 g) Tratando-se de inscrição de ampliação, o número da inscrição ampliada.
 
-2 - Os sujeitos activos são indicados somente pelo nome ou pela denominação ou firma, se a sua identificação completa e actualizada constar já de outra inscrição lançada na ficha, e os sujeitos passivos são mencionados, em cada ficha, apenas na primeira inscrição de propriedade e com identificação completa, salvo se a menção do nome for indispensável para a sua determinação.
+2 - Os sujeitos passivos são indicados, em cada inscrição, somente pelo nome e número de identificação fiscal, no caso das pessoas singulares, ou pela denominação ou firma e número de pessoa colectiva, no caso das pessoas colectivas.
 
 3 - Quando os sujeitos da inscrição não puderem ser identificados pela forma prevista neste artigo, mencionar-se-ão as circunstâncias que permitam determinar a sua identidade.
