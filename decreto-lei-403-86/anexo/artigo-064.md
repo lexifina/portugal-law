@@ -20,7 +20,7 @@ g) (Revogada.)
 
 h) (Revogada.)
 
-i) De negócio jurídico anulável, ou ineficaz por falta de consentimento, antes de sanado o vício ou caducado o direito de o arguir;
+i) (Revogada.)
 
 j) De negócio jurídico celebrado por gestor ou por procurador sem poderes suficientes, antes da ratificação;
 

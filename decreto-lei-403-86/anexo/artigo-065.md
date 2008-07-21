@@ -4,7 +4,7 @@
 
 1 - É de um ano o prazo de vigência das inscrições provisórias referidas nas alíneas a) a c) do n.º 1 do artigo anterior.
 
-2 - As inscrições referidas nas alíneas e) e i) do n.º 1 e c) do n.º 2 do artigo anterior, se não forem também provisórias com outro fundamento, mantêm-se em vigor pelo prazo de três anos, renovável por períodos de igual duração, mediante prova de subsistência da razão da provisoriedade.
+2 - As inscrições referidas nas alíneas e) do n.º 1 e c) do n.º 2 do artigo anterior, se não forem também provisórias com outro fundamento, mantêm-se em vigor pelo prazo de cinco anos, renovável por períodos de igual duração, mediante prova de subsistência da razão da provisoriedade.
 
 3 - As inscrições referidas na alínea n) do n.º 1 do artigo anterior não estão sujeitas a qualquer prazo de caducidade.
 
