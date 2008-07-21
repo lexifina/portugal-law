@@ -8,6 +8,6 @@
 
 O registo é juridicamente inexistente:
 
-a) Quando tiver sido lavrado em conservatória territorialmente incompetente;
+a) (Revogada);
 
 b) Quando for insuprível a falta de assinatura do registo.

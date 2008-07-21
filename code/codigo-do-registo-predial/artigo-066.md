@@ -4,12 +4,18 @@
 
 1 - A apresentação deve ser rejeitada apenas nos seguintes casos:
 
-a) Quando efectuada fora do período legal;
+a) (Revogada);
 
 b) Quando os documentos não respeitarem a actos de registo predial;
 
-c) Quando a apresentação pelo correio não obedecer ao preceituado no artigo anterior.
+c) Quando não tiverem sido indicados no pedido de registo o nome e residência do apresentante e tais elementos não puderem ser recolhidos dos documentos apresentados ou por qualquer outro meio idóneo, designadamente por comunicação com o apresentante;
 
-d) Quando o pedido não for feito em impresso de modelo aprovado, salvo nos casos de rectificação de registo e de anotação não oficiosa prevista na lei.
+d) Salvo nos casos de rectificação de registo e de anotação não oficiosa prevista na lei, quando o pedido escrito não for feito no modelo aprovado, se dele não constarem os elementos necessários e a sua omissão não for suprível por qualquer meio idóneo, designadamente por comunicação com o apresentante;
 
-2 - No caso de ser rejeitada, a requisição é devolvida com despacho justificativo do conservador.
+e) Quando não forem pagas as quantias devidas;
+
+f) Quando for possível verificar no momento da apresentação que o facto constante do documento já está registado.
+
+2 - Verificada a existência de causa de rejeição, é feita a apresentação do pedido no diário com os elementos disponíveis.
+
+3 - A rejeição deve ser fundamentada em despacho a notificar ao interessado, para efeitos de impugnação, nos termos do disposto nos artigos 140.º e seguintes, aplicando-se-lhe, com as devidas adaptações, as disposições relativas à recusa.

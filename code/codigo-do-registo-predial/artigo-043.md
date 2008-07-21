@@ -14,6 +14,10 @@
 
 2 - Os documentos arquivados são utilizados para a realização de novo registo sempre que referenciados e novamente anotados no Diário.
 
-3 - Os documentos escritos em língua estrangeira só podem ser aceites quando traduzidos nos termos da lei notarial.
+3 - Os documentos escritos em língua estrangeira só podem ser aceites quando traduzidos nos termos da lei, salvo se estiverem redigidos em língua inglesa, francesa ou espanhola e o funcionário competente dominar essa língua.
 
-4 - Em serviços anexados, os documentos existentes nos diversos arquivos podem ser utilizados para a realização de registos, desde que referenciados na requisição.
+4 - (Revogado).
+
+5 - Os documentos arquivados nos serviços da Administração Pública podem ser utilizados para a realização de registos, devendo tais documentos ser referenciados no pedido.
+
+6 - Para efeitos do disposto no número anterior, o serviço de registo é reembolsado pelo apresentante das despesas resultantes dos pagamentos devidos às entidades referidas naquele mesmo número.

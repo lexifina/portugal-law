@@ -10,7 +10,7 @@ b) As entidades que, nos termos da lei processual, recebam delegação para a pr
 
 c) As entidades com competência legal para garantir a segurança interna e prevenir a sabotagem, o terrorismo, a espionagem e a prática de actos que, pela sua natureza, podem alterar ou destruir o Estado de direito constitucionalmente estabelecido, no âmbito da prossecução dos seus fins.
 
-2 - As condições de acesso directo pelas entidades referidas no número anterior são definidas por despacho do director-geral dos Registos e do Notariado.
+2 - As condições de acesso directo pelas entidades referidas no número anterior são definidas por despacho do presidente do Instituto dos Registos e do Notariado, I. P.
 
 3 - As entidades autorizadas a aceder directamente aos dados obrigam-se a adoptar todas as medidas necessárias à estrita observância das regras de segurança estabelecidas na Lei n.º 67/98, de 26 de Outubro.
 

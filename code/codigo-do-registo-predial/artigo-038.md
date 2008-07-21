@@ -2,7 +2,7 @@
 
 ### (Averbamentos às descrições)
 
-1 - Os averbamentos às descrições só podem ser pedidos:
+1 - Salvo quando se trate de factos que constem de documento oficial, os averbamentos às descrições só podem ser pedidos:
 
 a) Pelo proprietário ou possuidor definitivamente inscrito ou com a sua intervenção;
 
@@ -12,6 +12,6 @@ c) Por qualquer interessado inscrito que tenha requerido a notificação judicia
 
 2 - A intervenção referida nas alíneas a) e b) do número anterior tem-se por verificada desde que os interessados tenham intervindo nos respectivos títulos ou processos.
 
-3 - Sendo vários os interessados inscritos, qual quer deles pode pedir o averbamento de factos que constem de documento oficial.
+3 - (Revogado).
 
 4 - A oposição referida na alínea c) do n.º 1 é anotada à descrição mediante apresentação de requerimento do proprietário ou possuidor inscrito.

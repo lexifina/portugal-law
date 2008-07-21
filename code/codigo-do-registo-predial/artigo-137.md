@@ -2,7 +2,7 @@
 
 ### (Processo de reforma)
 
-1 - O processo de reforma inicia-se com a remessa ao Ministério Público do auto lavrado pelo conservador, do qual deverão constar as circunstâncias do extravio ou inutilização, a especificação dos livros ou fichas abrangidos e a referência ao período a que correspondem os registos.
+1 - O processo de reforma inicia-se com a remessa, preferencialmente por via electrónica, ao Ministério Público do auto elaborado pelo conservador, do qual devem constar as circunstâncias do extravio ou inutilização, a especificação dos suportes documentais abrangidos e a referência ao período a que correspondem os registos.
 
 2 - Ministério Público requererá ao juiz a citação-edital dos interessados para, no prazo de 2 meses, apresentarem na conservatória títulos, certidões e outros documentos de que disponham, indicando-se também nos editais o período a que os registos respeitem.
 

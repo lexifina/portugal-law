@@ -2,7 +2,7 @@
 
 ### (Prioridade do registo)
 
-1 - O direito inscrito em primeiro lugar prevalece sobre os que se lhe seguirem relativamente aos mesmos bens, por ordem da data dos registos e, dentro da mesma data, pelo número de ordem das apresentações correspondentes.
+1 - O direito inscrito em primeiro lugar prevalece sobre os que se lhe seguirem relativamente aos mesmos bens, por ordem da data dos registos e, dentro da mesma data, pela ordem temporal das apresentações correspondentes.
 
 2 - Exceptuam-se da parte final do número anterior as inscrições hipotecárias da mesma data, que concorrem entre si na proporção dos respectivos créditos.
 

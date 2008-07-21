@@ -10,7 +10,7 @@ b) Os factos jurídicos que determinem a constituição ou a modificação da pr
 
 c) Os factos jurídicos confirmativos de convenções anuláveis ou resolúveis que tenham por objecto os direitos mencionados na alínea a);
 
-d) A autorização de loteamento, seus aditamentos e alterações;
+d) As operações de transformação fundiária resultantes de loteamento, de estruturação de compropriedade e de reparcelamento, bem como as respectivas alterações;
 
 e) A mera posse;
 
@@ -28,7 +28,7 @@ l) A locação financeira e as suas transmissões;
 
 m) O arrendamento por mais de 6 anos e as suas transmissões ou sublocações, exceptuado o arrendamento rural;
 
-n) A penhora, o arresto, a apreensão em processo de falência e o arrolamento, bem como quaisquer outros actos ou providências que afectem a livre disposição de bens;
+n) A penhora e a declaração de insolvência;
 
 o) O penhor, a penhora, o arresto e o arrolamento de créditos garantidos por hipoteca ou consignação de rendimentos e quaisquer outros actos ou providências que incidam sobre os mesmos créditos;
 
@@ -42,10 +42,12 @@ s) O ónus de pagamento das anuidades previstas nos casos de obras de fomento ag
 
 t) A renúncia à indemnização, em caso de eventual expropriação, pelo aumento do valor resultante de obras realizadas em imóveis situados nas zonas marginais das estradas nacionais ou abrangidos por planos de melhoramentos municipais;
 
-u) Quaisquer outras restrições ao direito de propriedade e quaisquer outros encargos sujeitos, por lei, a registo;
+u) Quaisquer outras restrições ao direito de propriedade, quaisquer outros encargos e quaisquer outros factos sujeitos por lei a registo;
 
 v) A concessão em bens do domínio público e as suas transmissões, quando sobre o direito concedido se pretenda registar hipoteca;
 
 x) Os factos jurídicos que importem a extinção de direitos, ónus ou encargos registados.
+
+z) O título constitutivo do empreendimento turístico e suas alterações.
 
 2 - O disposto na alínea a) do número anterior não abrange a comunicabilidade de bens resultante do regime matrimonial.

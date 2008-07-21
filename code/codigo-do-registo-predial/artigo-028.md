@@ -4,7 +4,7 @@
 
 ## Secção I
 
-## Conjugação de registo e das matrizes prediais
+## Conjugação do registo, das matrizes prediais e dos títulos
 
 # Artigo 28.º
 

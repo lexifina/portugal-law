@@ -2,4 +2,4 @@
 
 ### Direito subsidiário
 
-À impugnação das decisões do conservador, a que se referem os artigos anteriores, é aplicável, subsidiariamente e com as necessárias adaptações, o disposto no Código de Processo Civil.
+Ao recurso hierárquico é aplicável, subsidiariamente, o disposto no Código do Procedimento Administrativo.

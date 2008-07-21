@@ -1,13 +1,15 @@
 # Artigo 111.º
 
-### (Requisição)
+### (Pedido de certidão)
 
-1 - As certidões e as fotocópias serão requisitadas em impresso, de modelo oficial, entregue na conservatória ou remetido pelo correio, nele se anotando a data da entrada e o número de ordem anual.
+1 - As certidões podem ser pedidas verbalmente ou por escrito.
 
-2 - As requisições não têm apresentação e devem conter, além da identificação do requisitante, o número da descrição e a freguesia dos prédios ou fracções autónomas a que respeitem.
+2 - Os modelos dos pedidos de certidões requisitadas por escrito são aprovados por despacho do presidente do Instituto dos Registos e do Notariado, I. P.
 
-3 - Tratando-se de prédio não descrito deve indicar-se a natureza do prédio, a sua situação, as confrontações, o artigo da matriz e o nome, estado e residência do proprietário ou possuidor actual, bem como dos dois imediatamente anteriores, salvo, quanto a estes, se o requisitante alegar na requisição as razões justificativas do seu desconhecimento.
+3 - O pedido de certidão pode ser efectuado por qualquer uma das modalidades previstas no artigo 41.º-B.
 
-4 - Se a requisição respeitar a quota-parte de prédio indiviso, deve conter o nome, estado e residência de todos os comproprietários.
+4 - Os pedidos de certidão devem conter, além da identificação do requerente, o número da descrição, a freguesia e o concelho dos prédios ou fracções autónomas a que respeitem.
 
-5 - Podem ser pedidas verbalmente fotocópias com valor de certidão dos registos e despachos e de quaisquer documentos.
+5 - Tratando-se de prédio não descrito deve indicar-se a natureza do prédio, a sua situação, as confrontações, o artigo da matriz e o nome, estado e residência do proprietário ou possuidor actual, bem como dos dois imediatamente anteriores, salvo, quanto a estes, se o requerente alegar no pedido as razões justificativas do seu desconhecimento.
+
+6 - Se o pedido respeitar a quota-parte de prédio não descrito e indiviso, deve conter o nome, estado e, sendo casado, o nome do cônjuge de todos os comproprietários.
