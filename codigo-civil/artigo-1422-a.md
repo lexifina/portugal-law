@@ -8,6 +8,6 @@
 
 3 - Não é permitida a divisão de fracções em novas fracções autónomas, salvo autorização do título constitutivo ou da assembleia de condóminos, aprovada sem qualquer oposição.
 
-4 - Nos casos previstos nos números anteriores, cabe aos condóminos que juntaram ou cindiram as fracções o poder de, por acto unilateral constante de escritura pública, introduzir a correspondente alteração no título constitutivo.
+4 - Sem prejuízo do disposto em lei especial, nos casos previstos nos números anteriores, cabe aos condóminos que juntaram ou cindiram as fracções o poder de, por acto unilateral constante de escritura pública ou de documento particular autenticado, introduzir a correspondente alteração no título constitutivo.
 
-5 - A escritura pública a que se refere o número anterior deve ser comunicada ao administrador no prazo de 30 dias.
+5 - A escritura pública ou o documento particular a que se refere o número anterior devem ser comunicados ao administrador no prazo de 10 dias.

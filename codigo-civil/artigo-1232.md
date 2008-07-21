@@ -2,4 +2,4 @@
 
 ### (Forma)
 
-A renda perpétua só é válida se for constituída por escritura pública.
+Sem prejuízo do disposto em lei especial, a renda perpétua só é válida se for constituída por escritura pública ou por documento particular autenticado.

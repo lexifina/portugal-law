@@ -2,4 +2,4 @@
 
 ### (Forma)
 
-O acto de constituição ou modificação da hipoteca voluntária, quando recaia sobre bens imóveis, deve constar de escritura pública ou de testamento, salvo disposição legal em contrário.
+Sem prejuízo do disposto em lei especial, o acto de constituição ou modificação da hipoteca voluntária, quando recaia sobre bens imóveis, deve constar de escritura pública, de testamento ou de documento particular autenticado.

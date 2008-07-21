@@ -2,4 +2,4 @@
 
 ### (Forma)
 
-A transacção preventiva ou extrajudicial constará de escritura pública quando dela possa derivar algum efeito para o qual a escritura seja exigida, e constará de documento escrito nos casos restantes.
+Sem prejuízo do disposto em lei especial, a transacção preventiva ou extrajudicial deve constar de escritura pública ou de documento particular autenticado, quando dela possa derivar algum efeito para o qual uma daquelas formas seja exigida, e de documento escrito, nos casos restantes.
