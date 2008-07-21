@@ -2,9 +2,9 @@
 
 ### Procedimento especial de transmissão, oneração e registo de imóveis
 
-1 - Pelo procedimento especial de transmissão, oneração e registo de imóveis, com ou sem marcação prévia, incluindo todos os registos, com excepção daqueles de que dependa a verificação dos pressupostos do procedimento - (euro) 650.
+1 - Pelo procedimento especial de transmissão, oneração e registo de imóveis, com ou sem marcação prévia, incluindo todos os registos e os averbamentos de cancelamento de hipotecas anteriormente registadas, com excepção dos actos de que dependa a verificação dos pressupostos do procedimento - (euro) 600.
 
-2 - Pelo procedimento especial de transmissão, oneração e registo de imóveis, com ou sem marcação prévia, se apenas for registado um facto, com excepção daqueles de que dependa a verificação dos pressupostos - (euro) 350.
+2 - Pelo procedimento especial de transmissão, oneração e registo de imóveis, com ou sem marcação prévia, se apenas for registado um facto, incluindo os averbamentos de cancelamento de hipotecas anteriormente registadas, com excepção daqueles de que dependa a verificação dos pressupostos - (euro) 300.
 
 3 - Pela desistência ou indeferimento do procedimento - (euro) 50.
 

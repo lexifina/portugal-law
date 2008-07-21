@@ -26,7 +26,7 @@
 
 2.6 - Dissolução - (euro) 200;
 
-2.7 - Nomeação dos órgãos sociais - (euro) 150;
+2.7 - Nomeação de órgãos sociais, de liquidatários, de administradores de insolvência, revisor oficial de contas, nos termos do n.º 2 do artigo 262.º do Código das Sociedades Comerciais, e de gestores judiciais - (euro) 150;
 
 2.8 - Registo de acções - (euro) 130;
 
@@ -106,7 +106,7 @@ Pela decisão do procedimento, incluindo o registo - (euro) 250.
 
 14 - Nomeação de auditores e de revisores oficiais de contas, por cada nomeação ... 120
 
-15 - Pelo suprimento de deficiências previsto no artigo 52.º do Código do Registo Comercial - (euro) 35.
+15 - (Revogado.)
 
 16 - Procedimentos de destituição e de nomeação de liquidatários, requeridos ao abrigo dos n.os 3 e 4 do artigo 151.º do Código das Sociedades Comerciais - (euro) 150.
 

@@ -6,7 +6,7 @@
 
 ### Isenções ou reduções emolumentares
 
-1 - Os emolumentos devidos por actos notariais e de registo decorrentes da compra e venda, doação e partilha mortis causa de imóveis rústicos são reduzidos em função do valor do acto, nos seguintes termos:
+1 - Os emolumentos devidos pela celebração da escritura pública de compra e venda, de doação e de partilha mortis causa de imóveis rústicos são reduzidos em função do valor do acto, nos seguintes termos:
 
 1.1 - Até (euro) 5000 - em três quartos;
 
@@ -56,7 +56,7 @@
 
 16 - Estão isentos de tributação emolumentar os actos de registo requeridos pelos adquirentes de bens imóveis ao Estado ou a instituto público necessários à regularização da situação jurídica dos mesmos nos termos previstos na legislação referida no número anterior, com excepção do registo da aquisição ao Estado ou ao instituto público.
 
-17 - As isenções emolumentares previstas nos n.os 13 a 15 vigoram até ao final de 2008, sendo as previstas no n.º 13 aplicáveis, no que respeita aos actos notariais, apenas aos actos praticados pelos notários públicos durante o período transitório previsto no artigo 106.º do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro.
+17 - As isenções emolumentares previstas nos n.os 14 a 16 vigoram até ao dia 2 de Dezembro de 2011, sendo as previstas no n.º 14 aplicáveis, no que respeita aos actos notariais, apenas aos actos praticados pelos notários públicos, durante o período transitório previsto no artigo 106.º do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro.
 
 18 - Estão isentos de tributação emolumentar os actos notariais e de registo exigidos para execução de providências integradoras ou decorrentes de plano de insolvência judicialmente homologado que visem o saneamento da empresa, através da recuperação do seu titular ou da sua transmissão, total ou parcial, a outra ou outras entidades.
 

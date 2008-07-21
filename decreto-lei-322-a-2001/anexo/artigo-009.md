@@ -8,4 +8,4 @@
 
 3 - Os encargos referidos nos números anteriores que sejam eventualmente devidos pela prática de actos previstos neste decreto-lei são pagos pelo Instituto dos Registos e do Notariado (IRN, I. P.)
 
-4 - Sem prejuízo do disposto no n.º 12 do artigo 18.º, no n.º 9.10 do artigo 21.º e no n.º 22 do artigo 22.º, para fazer face ao encargo referido no número anterior, constituem receita da IRN, I. P., todas as quantias cobradas a título de emolumentos pessoais e de despesas imprescindíveis à prática dos actos.
+4 - Sem prejuízo do disposto no n.º 12 do artigo 18.º, no n.º 12 do artigo 21.º e no n.º 22 do artigo 22.º, para fazer face ao encargo referido no número anterior, constituem receita do Instituto dos Registos e do Notariado, I. P., todas as quantias cobradas a título de emolumentos pessoais e de despesas imprescindíveis à prática dos actos.
