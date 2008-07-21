@@ -8,7 +8,7 @@ a) Aqueles que tenham poderes de representação para intervir no respectivo tí
 
 b) Mandatário com procuração bastante;
 
-c) Advogados e solicitadores;
+c) Advogados, notários e solicitadores;
 
 d) Revisores e técnicos oficiais de contas, para o pedido de depósito dos documentos de prestação de contas.
 

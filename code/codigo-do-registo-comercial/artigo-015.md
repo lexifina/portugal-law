@@ -10,6 +10,10 @@
 
 4 - O pedido de registo de prestação de contas de sociedades e de estabelecimentos individuais de responsabilidade limitada deve ser efectuado no prazo de seis meses a contar do termo do exercício económico.
 
-5 - As acções de declaração de nulidade ou de anulação dos contratos de sociedade, de agrupamento complementar de empresas e de agrupamento europeu de interesse económico, dos actos constitutivos de cooperativas e de estabelecimentos individuais de responsabilidade limitada, bem como de deliberações sociais, não terão seguimento após os articulados enquanto não for feita a prova de ter sido pedido o seu registo; nos procedimentos cautelares de suspensão de deliberações sociais, a decisão não será proferida enquanto aquela prova não for feita.
+5 - Estão igualmente sujeitas a registo obrigatório as acções, decisões, procedimentos e providências cautelares previstas no artigo 9.º
 
-6 - O registo das decisões finais proferidas nas acções e procedimentos referidos no número anterior deve ser pedido no prazo de dois meses a contar do trânsito em julgado.
+6 - O registo do procedimento cautelar não é obrigatório se já se encontrar pedido o registo da providência cautelar requerida e o registo desta não é obrigatório se já se encontrar pedido o registo da acção principal.
+
+7 - O registo das acções e dos procedimentos cautelares de suspensão de deliberações sociais devem ser pedidos no prazo de dois meses a contar da data da sua propositura.
+
+8 - O registo das decisões finais proferidas nas acções e procedimentos referidos no número anterior deve ser pedido no prazo de dois meses a contar do trânsito em julgado.

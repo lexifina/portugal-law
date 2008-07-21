@@ -8,4 +8,4 @@
 
 3 - Com a propositura da acção ou a interposição de recurso hierárquico fica suspenso o prazo de caducidade do registo provisório até lhe serem anotados os factos referidos no número anterior.
 
-4 - Proferida decisão final que julgue insubsistente a recusa da prática do acto nos termos requeridos, o funcionário recorrido deve lavrar o registo recusado com base na apresentação correspondente ou converter oficiosamente o registo provisório.
+4 - Proferida decisão final que julgue insubsistente a recusa da prática do acto nos termos requeridos, deve ser efectuado o registo recusado, com base na apresentação correspondente, ou convertido oficiosamente o registo provisório.

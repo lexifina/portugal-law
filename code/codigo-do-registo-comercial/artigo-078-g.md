@@ -10,4 +10,4 @@
 
 4 - A Direcção-Geral dos Registos e do Notariado remete obrigatoriamente à Comissão Nacional de Protecção de Dados cópia dos protocolos celebrados, devendo fazê-lo por via electrónica.
 
-5 - Sem prejuízo do disposto na lei relativamente ao acesso gratuito de determinadas entidades, a comunicação de dados está sujeita ao pagamento dos encargos que foram devidos nos termos do Regulamento Emolumentar dos Registos e do Notariado, os quais constituem receita da Direcção-Geral dos Registos e do Notariado.
+5 - (Revogado.)

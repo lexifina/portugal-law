@@ -10,7 +10,7 @@ b) Quando tiver sido feito com base em títulos insuficientes para a prova legal
 
 c) Quando enfermar de omissões ou inexactidões de que resulte incerteza acerca dos sujeitos ou do objecto da relação jurídica a que o facto registado se refere;
 
-d) Quando tiver sido assinado por pessoa sem competência funcional, salvo o disposto no n.º 2 do artigo 369.º do Código Civil;
+d) Quando tiver sido assinado por pessoa sem competência funcional, salvo o disposto no n.º 2 do artigo 369.º do Código Civil, e não possa ser confirmado;
 
 e) Quando tiver sido lavrado sem apresentação prévia.
 

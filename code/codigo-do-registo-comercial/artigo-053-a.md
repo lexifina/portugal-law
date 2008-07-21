@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Actos de registo
-
 # Artigo 53.º-A
 
 ### Formas de registo

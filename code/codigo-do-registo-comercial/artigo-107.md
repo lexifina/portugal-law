@@ -2,7 +2,7 @@
 
 ### Comunicações oficiosas
 
-1 - Após o trânsito em julgado da decisão, a secretaria remete à conservatória certidão da decisão proferida.
+1 - Após o trânsito em julgado da decisão, a secretaria comunica a decisão proferida ao serviço de registo.
 
 2 - A secretaria deve igualmente comunicar à conservatória:
 
