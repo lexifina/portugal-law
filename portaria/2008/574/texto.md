@@ -1,0 +1,52 @@
+Portaria n.º 574/2008
+de 4 de Julho
+Através da Recomendação n.º 1/2007, a Autoridade da Concorrência apresentou ao Governo um conjunto de «Medidas de Reforma do Quadro Legal do Notariado», propondo a sua adopção de forma gradual e faseada.
+Uma dessas medidas é a liberalização dos preços dos serviços prestados por notários privados. Segundo a Autoridade da Concorrência, a aprovação desta medida «[...] é nos mercados competitivos um factor essencial para o seu funcionamento eficiente. Com efeito, a concorrência pelos preços induz à melhoria da eficiência produtiva e beneficia os consumidores que, por via daquela, poderão beneficiar de preços menos elevados» (Recomendação n.º 1/2007).
+Ainda segundo esta Autoridade, a adopção da liberalização dos preços dos actos notariais passaria por dois aspectos. Por um lado, pela generalização do regime de preços livres aos actos praticados por notários privados relativamente aos quais se registe uma substancial diversificação da oferta e, nessa medida, a concorrência de outros profissionais. Por outro, pela substituição do regime de preços fixos por um regime de preços máximos, relativamente aos actos cuja prática permaneça no âmbito da competência exclusiva dos notários.
+Tendo em vista a concretização da medida proposta pela Autoridade da Concorrência, a presente alteração à Portaria n.º 385/2004, de 16 de Abril, que aprova a tabela de honorários e encargos da actividade notarial exercida ao abrigo do Estatuto do Notariado, passa a estabelecer que os honorários devidos ao notário são de dois tipos: nuns casos preços máximos, noutros preços livres.
+O regime dos preços máximos passa a aplicar-se aos actos previstos expressamente na tabela, que são aqueles cuja prática permanece no âmbito da competência exclusiva dos notários. Assim, nestes casos, o preço dos actos notariais deixa de ser fixo. Não poderá exceder um valor máximo, mas os notários serão livres de praticar preços inferiores a esse valor.
+O regime dos preços livres passa a valer como regra para todos os actos que não se encontram previstos na tabela e que sejam praticados por notários privados. Para o efeito, procedeu-se à eliminação da tabela de honorários e encargos notariais, aprovada pela Portaria n.º 385/2004, de 16 de Abril, dos actos relativamente aos quais passou a existir concorrência de outros profissionais, que assim passam a estar sujeitos ao regime dos preços livres. Assim, também nestes casos o preço do acto notarial deixará de ser fixo, cabendo ao notário a definição do preço dos actos notariais sujeitos a este regime de preços livres. A título de exemplo, passam a estar sujeitos ao regime dos preços livres os actos relativos à compra e venda de imóveis e à constituição de sociedades de capital social mínimo, para além dos reconhecimentos, termos de autenticação e tradução, cujos preços já tinham sido liberalizados com a alteração introduzida pela Portaria n.º 1416-A/2008, de 19 de Dezembro.
+Foi ouvida a Ordem dos Notários.
+Assim:
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 1 do artigo 17.º do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro, o seguinte:
+Artigo 1.º
+Alteração à Portaria n.º 385/2004
+Os artigos 5.º, 10.º, 12.º e 13.º da Portaria n.º 385/2004, de 16 de Abril, que aprova a tabela de honorários e encargos da actividade notarial exercida ao abrigo do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro, alterada pela Portaria n.º 1416-A/2006, de 19 de Dezembro, passam a ter a seguinte redacção:
+«Artigo 5.º
+[...]
+Os honorários devidos ao notário pelos actos outorgados são máximos e livres:
+a) Máximos para os actos descritos na tabela, sem prejuízo do disposto no n.º 3 do artigo 12.º;
+b) Livres para os restantes.
+Artigo 10.º
+Honorários máximos
+Os actos que se enumeram têm os seguintes valores máximos:
+1 - (Revogado.)
+2 - (Revogado.)
+3 - Procurações conferidas também no interesse de procurador ou de terceiro:
+a) ...
+b) ...
+4 - ...
+5 - ...
+6 - ...
+7 - ...
+8 - (Revogado.)
+Artigo 12.º
+[...]
+1 - Por qualquer averbamento aposto em acto descrito na tabela, podem ser cobrados honorários até ao montante máximo de (euro) 20,25.
+2 - Por cada registo lavrado no livro a que se refere a alínea f) do n.º 1 do artigo 7.º do Código do Notariado podem ser cobrados honorários até ao montante máximo de (euro) 24, 37.
+3 - Podem ser cobrados honorários até ao montante correspondente a 80  % do valor máximo do respectivo acto descrito na tabela:
+a) Pela revogação ou rectificação de actos por motivos imputáveis às partes;
+b) ...
+4 - Aos honorários referidos no número anterior podem acrescer até (euro) 10 por cada um dos bens descritos.
+Artigo 13.º
+[...]
+1 - Pelo estudo e preparação dos actos descritos na tabela podem ser cobrados honorários até ao montante máximo de (euro) 10,25.
+2 - (Revogado.)
+3 - ...»
+Artigo 2.º
+Norma revogatória
+São revogados o artigo 6.º, o n.º 3 do artigo 9.º, o artigo 11.º, o n.º 2 do artigo 13.º e os artigos 15.º e 16.º da Portaria n.º 385/2004, de 16 de Abril, que aprova a tabela de honorários e encargos aplicáveis à actividade notarial exercida ao abrigo do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro, alterada pela Portaria n.º 1416-A/2006, de 19 de Dezembro.
+Artigo 3.º
+Início de vigência
+A presente portaria entra em vigor no dia 21 de Julho de 2008.
+Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 30 de Junho de 2008.
