@@ -2,6 +2,6 @@
 
 ### (Impugnação dos factos registados)
 
-1 - Os factos comprovados pelo registo não podem ser impugnados em juízo sem que simultaneamente seja pedido o cancelamento do registo.
+1 - A impugnação judicial de factos registados faz presumir o pedido de cancelamento do respectivo registo.
 
-2 - Não terão seguimento, após os articulados, as acções em que não seja formulado o pedido de cancelamento previsto no número anterior.
+2 - (Revogado).

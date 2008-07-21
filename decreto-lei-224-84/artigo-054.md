@@ -1,5 +1,5 @@
 # Artigo 54.º
 
-### (Autorização para loteamento)
+### (Operações de transformação fundiária )
 
-O registo de autorização de loteamento para construção é feito com base no alvará respectivo, com individualização dos lotes.
+Os registos das operações de transformação fundiária e das respectivas alterações são efectuadas com base no alvará respectivo, no recibo de admissão de comunicação prévia ou em outro documento que legalmente comprove aqueles factos, com individualização dos lotes ou parcelas.

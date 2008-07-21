@@ -2,6 +2,6 @@
 
 ### (Modo de recolha)
 
-1 - Os dados pessoais constantes das bases de dados têm por suporte a identificação dos sujeitos activos e passivos dos factos sujeitos a registo e são recolhidos dos documentos apresentados pelos interessados.
+1 - Os dados pessoais constantes das bases de dados são recolhidos do pedido de registo e dos documentos apresentados.
 
-2 - Dos impressos destinados ao pedido de registo devem constar as informações previstas no n.º 1 do artigo 10.º da Lei n.º 67/98, de 26 de Outubro.
+2 - Dos modelos destinados ao pedido de registo devem constar as informações previstas na Lei de Protecção de Dados Pessoais.

@@ -6,6 +6,6 @@
 
 ### (Admissibilidade do recurso)
 
-1 - A decisão do conservador que recuse a prática do acto nos termos requeridos pode ser impugnada por recurso hierárquico para o director-geral dos Registos e do Notariado ou por recurso contencioso para o tribunal da comarca a que pertence a sede da conservatória.
+1 - A decisão de recusa da prática do acto de registo nos termos requeridos pode ser impugnada mediante a interposição de recurso hierárquico para o presidente do Instituto dos Registos e do Notariado, I. P., ou mediante impugnação judicial para o tribunal da área da circunscrição a que pertence o serviço de registo.
 
 2 - A recusa de rectificação de registos só pode ser apreciada no processo próprio regulado neste Código.

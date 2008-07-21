@@ -10,9 +10,9 @@ a) Penhora de prédios;
 
 b) Aquisição e hipoteca de prédios descritos antes de titulado o negócio;
 
-c) Aquisição por compra e venda acompanhada da constituição de hipoteca, com intervenção de instituição de crédito ou sociedade financeira;
+c) Aquisição por compra e venda acompanhada da constituição de hipoteca, com intervenção das entidades referidas nas alíneas c) e e) do artigo 8.º-B;
 
-d) Hipoteca voluntária com intervenção de instituição de crédito ou sociedade financeira;
+d) Hipoteca voluntária, com intervenção das entidades referidas nas alíneas c) e e) do artigo 8.º-B;
 
 e) Locação financeira e transmissão do direito do locatário;
 

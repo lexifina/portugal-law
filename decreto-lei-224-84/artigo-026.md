@@ -2,10 +2,10 @@
 
 ### (Arquivo de documentos)
 
-1 - Os documentos que sirvam de base à realização dos registos são restituídos aos interessados.
+1 - Ficam arquivados pela ordem das apresentações os documentos que serviram de base à realização dos registos, bem como o comprovativo do pedido.
 
-2 - Os documentos referidos no número anterior podem ser gratuitamente remetidos aos interessados, por meio de carta registada, juntamente com fotocópia dos registos efectuados e o excesso de preparo, se o houver.
+2 - Se as condições técnicas permitirem o seu arquivo em suporte electrónico, os documentos que basearam actos de registo, bem como as certidões que contenham elementos que não possam ser recolhidos por acesso às respectivas bases de dados, são restituídos aos interessados.
 
-3 - Ficam, porém, arquivados por ordem das apresentações os documentos cujo original ou cópia autêntica não deva normalmente permanecer em arquivo público nacional, bem como as certidões narrativas que se não destinem a comprovar o pagamento de contribuições.
+3 - Por despacho do presidente do Instituto dos Registos e do Notariado, I. P., pode ser determinado o arquivo dos documentos em suporte electrónico.
 
-4 - A requisição de registo fica sempre arquivada.
+4 - Os documentos arquivados em suporte electrónico referidos no número anterior têm a força probatória dos originais.

@@ -1,13 +1,13 @@
 # Artigo 113.º
 
-### (Emissão ou recusa)
+### (Emissão ou recusa de certidões)
 
-1 - As certidões são passados no prazo máximo de cinco dias, sempre que possível por fotocópia.
+1 - As certidões são emitidas imediatamente após a recepção do pedido, quando deste não conste um termo inicial diferente.
 
-2 - As certidões negativas devem ser passadas em impresso oficialmente aprovado.
+2 - As certidões negativas de registos são emitidas no prazo máximo de um dia útil.
 
-3 - Além de outros casos de impossibilidade de passagem da certidão, esta é recusada nos casos seguintes:
+3 - Sem prejuízo de outros fundamentos de recusa de emissão de certidão previstos na lei, a emissão da certidão deve ser recusada nos casos seguintes:
 
-a) Se a requisição não obedecer ao modelo legal ou não contiver os elementos previstos no artigo 111.º;
+a) Se o pedido não contiver os elementos previstos nos n.os 4 a 6 do artigo 111.º;
 
-b) Se o prédio não estiver sujeito a registo ou não se situar na área da conservatória.
+b) Se o prédio não estiver sujeito a registo.

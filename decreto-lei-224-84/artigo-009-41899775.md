@@ -6,9 +6,9 @@
 
 2 - Exceptuam-se do disposto no número anterior:
 
-a) A expropriação, a venda executiva, a penhora, o arresto, a apreensão em processo de falência e outras providências que afectem a livre disposição dos imóveis;
+a) A partilha, a expropriação, a venda executiva, a penhora, o arresto, a declaração de insolvência e outras providências que afectem a livre disposição dos imóveis;
 
-b) Os actos de transmissão ou oneração outorgados por quem tenha adquirido, em instrumento lavrado no mesmo dia, os bens transmitidos ou onerados:
+b) Os actos de transmissão ou oneração praticados por quem tenha adquirido no mesmo dia os bens transmitidos ou onerados;
 
 c) Os casos de urgência devidamente justificada por perigo de vida dos outorgantes.
 

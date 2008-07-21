@@ -1,13 +1,13 @@
 # Artigo 142.º
 
-### (Interposição do recurso)
+### (Interposição de recurso hierárquico e de impugnação judicial)
 
-1 - O recurso hierárquico ou contencioso interpõe-se por meio de requerimento em que são expostos os fundamentos do recurso.
+1 - O recurso hierárquico ou a impugnação judicial interpõem-se por meio de requerimento em que são expostos os seus fundamentos.
 
-2 - A interposição do recurso hierárquico ou contencioso considera-se feita com a apresentação da petição na conservatória competente.
+2 - A interposição de recurso hierárquico ou de impugnação judicial consideram-se feitas com a apresentação das respectivas petições no serviço de registo a que pertencia o funcionário que proferiu a decisão recorrida.
 
-3 - Interposto o recurso, o conservador deve proferir, no prazo de 10 dias, despacho a sustentar ou a reparar a decisão, dele notificando o recorrente.
+3 - (Revogado).
 
-4 - Sendo sustentada a decisão, o processo de recurso deve ser remetido à entidade competente, no prazo de cinco dias, instruído com fotocópia autenticada do despacho de recusa e dos documentos necessários à sua apreciação.
+4 - (Revogado).
 
-5 - A notificação referida no n.º 3 deve ser acompanhada do envio ou entrega ao notificando de fotocópia dos documentos juntos ao processo pelo conservador.
+5 - (Revogado).

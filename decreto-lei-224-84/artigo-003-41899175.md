@@ -1,15 +1,19 @@
 # Artigo 3.º
 
-### (Acções e decisões sujeitas a registo)
+### (Acções, decisões, procedimentos e providências sujeitos a registo)
 
-1 - Estão igualmente sujeitas a registo:
+1 - Estão igualmente sujeitos a registo:
 
-a) As acções que tenham por fim, principal ou acessório, o reconhecimento, a constituição, a modificação ou a extinção de algum dos direitos referidos no artigo anterior;
+a) As acções que tenham por fim, principal ou acessório, o reconhecimento, a constituição, a modificação ou a extinção de algum dos direitos referidos no artigo anterior, bem como as acções de impugnação pauliana;
 
 b) As acções que tenham por fim, principal ou acessório, a reforma, a declaração de nulidade ou a anulação de um registo ou do seu cancelamento;
 
 c) As decisões finais das acções referidas nas alíneas anteriores, logo que transitem em julgado.
 
-2 - As acções sujeitas a registo não terão seguimento após os articulados sem se comprovar a sua inscrição, salvo se o registo depender da respectiva procedência.
+d) Os procedimentos que tenham por fim o decretamento do arresto e do arrolamento, bem como de quaisquer outras providências que afectem a livre disposição de bens;
 
-3 - Sem prejuízo da impugnação do despacho do conservador, se o registo for recusado com fundamento em que a acção a ele não está sujeita, a recusa faz cessar a suspensão da instância a que se refere o número anterior.
+e) As providências decretadas nos procedimentos referidos na alínea anterior.
+
+2 - (Revogado).
+
+3 - (Revogado).

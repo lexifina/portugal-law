@@ -2,28 +2,30 @@
 
 ### Sujeitos da obrigação de registar
 
-1 - Salvo o disposto no n.º 3, devem promover o registo dos factos obrigatoriamente a ele sujeitos as entidades que celebrem a escritura pública, autentiquem os documentos particulares ou reconheçam as assinaturas neles apostas ou, quando tais entidades não intervenham, os sujeitos ativos do facto sujeito a registo.
+1 - Devem promover o registo de factos obrigatoriamente a ele sujeitos as seguintes entidades:
 
-2 - [Revogado].
+a) As entidades públicas que intervenham como sujeitos activos ou que pratiquem actos que impliquem alterações aos elementos da descrição para os efeitos previstos no n.º 1 do artigo 90.º;
+
+b) As entidades que celebrem a escritura pública, autentiquem os documentos particulares ou reconheçam as assinaturas neles apostas;
+
+c) As instituições de crédito e as sociedades financeiras quando intervenham como sujeitos activos;
+
+d) As entidades públicas que intervenham como sujeitos passivos;
+
+e) As instituições de crédito e as sociedades financeiras quando intervenham como sujeitos passivos;
+
+f) As demais entidades que sejam sujeitos activos do facto sujeito a registo.
+
+2 - No caso de, em resultado da aplicação das alíneas do número anterior, deverem estar obrigadas a promover o registo do mesmo facto mais de uma entidade, a obrigação de registar compete apenas àquela que figurar em primeiro lugar na ordem ali estabelecida.
 
 3 - Estão ainda obrigados a promover o registo:
 
-a) Os tribunais no que respeita às ações, às decisões e a outros procedimentos e providências ou atos judiciais;
+a) Os tribunais no que respeita às acções, decisões e outros procedimentos e providências judiciais;
 
-b) O Ministério Público, no que respeita às apreensões em processo penal que tenha autorizado, ordenado ou validado, e quando, em processo de inventário, for adjudicado a incapaz ou ausente em parte incerta qualquer direito sobre imóveis;
+b) O Ministério Público quando, em processo de inventário, for adjudicado a incapaz ou ausente em parte incerta qualquer direito sobre imóveis;
 
-c) Os agentes de execução, ou o oficial de justiça que realize diligências próprias do agente de execução, quanto ao registo das penhoras, e os administradores judiciais, quanto ao registo da declaração de insolvência.
+c) Os agentes de execução quanto ao registo das penhoras e os administradores da insolvência quanto ao registo da respectiva declaração.
 
-d) O conselho diretivo do universo de compartes, no que respeita aos terrenos baldios;
-
-e) A ESTAMO, Participações Imobiliárias, S. A., e os órgãos competentes das Regiões Autónomas e das autarquias locais, no que respeita aos respetivos bens imóveis do domínio público;
-
-f) O proprietário definitivamente inscrito, quanto ao registo de alteração de área, do artigo da matriz e da freguesia ou concelho de prédios com número de identificação de prédio.
-
-4 - [Revogado].
+4 - No caso das entidades referidas nas alíneas c) e e) do n.º 1, a obrigatoriedade de promover o registo estende-se a todos os factos constantes do mesmo título.
 
 5 - A obrigação de pedir o registo cessa no caso de este se mostrar promovido por qualquer outra entidade que tenha legitimidade.
-
-6 - [Revogado].
-
-7 - [Revogado].

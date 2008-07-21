@@ -6,4 +6,4 @@
 
 2 - Não tendo sido feita a nomeação nos termos legais, esta circunstância é registada com base em declaração do contraente originário; se houver estipulação que obste à produção dos efeitos do contrato relativamente ao contraente originário, é cancelada a inscrição.
 
-3 - As assinaturas das declarações referidas nos números anteriores devem ser reconhecidas presencialmente.
+3 - As assinaturas das declarações referidas nos números anteriores devem ser reconhecidas presencialmente, salvo se feitas na presença de funcionário de serviço de registo no momento do pedido.

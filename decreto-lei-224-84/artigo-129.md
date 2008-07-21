@@ -1,13 +1,17 @@
 # Artigo 129.º
 
-### (Citação)
+### (Notificação dos interessados não requerentes)
 
-1 - No caso de haver interessados não requerentes, o conservador ordena a sua citação para, no prazo de 10 dias, deduzirem oposição à rectificação pretendida e efectuarem o oferecimento de prova.
+1 - Os interessados não requerentes são notificados para, no prazo de 10 dias, deduzirem oposição à rectificação, devendo juntar os elementos de prova e pagar os emolumentos devidos.
 
-2 - Se os interessados forem incertos, o conservador ordena a citação do Ministério Público nos termos previstos no número anterior.
+2 - Se os interessados forem incertos, deve ser notificado o Ministério Público nos termos previstos no número anterior.
 
-3 - Se a citação pessoal não for possível devido ao facto do interessado estar ausente em parte incerta ou ter falecido, são o ausente ou os herdeiros, independentemente de habilitação, citados mediante a simples afixação de editais, pelo prazo de 30 dias, na conservatória em que corre o processo de rectificação e na sede da junta de freguesia da última residência conhecida do ausente ou falecido, devendo deles constar a pretensão dos requerentes da rectificação, a inexactidão verificada ou cometida e os nomes dos interessados, bem como a conservatória onde corre o processo.
+3 - As notificações são feitas nos termos gerais da lei processual civil, aplicada com as necessárias adaptações.
 
-4 - A defesa dos ausentes ou incapazes que, por si ou seus representantes, não tenham deduzido oposição, incumbe ao Ministério Público, que para tanto deve também ser citado na pessoa do seu agente junto do tribunal de 1.ª instância competente na área da circunscrição a que pertença a conservatória, correndo novamente o prazo para a oposição.
+4 - (Revogado).
 
-5 - Se a citação pessoal não for possível em virtude de notória anomalia psíquica ou de outra incapacidade de facto do interessado, é o Ministério Público citado de imediato, aplicando-se o disposto no número anterior com as necessárias adaptações.
+5 - (Revogado).
+
+6 - As notificações editais são feitas pela simples afixação de editais, pelo prazo de 30 dias, no serviço de registo da situação do prédio, na sede da junta de freguesia da situação do prédio e, quando se justifique, na sede da junta de freguesia da última residência conhecida do ausente ou do falecido.
+
+7 - As notificações editais, referidas no número anterior, são igualmente publicadas em sítio na Internet, em termos a definir por portaria do membro do Governo responsável pela área da justiça.
