@@ -1,0 +1,12 @@
+Aviso n.º 126/2008
+Por ordem superior se torna público ter o Governo da República Francesa efectuado, junto do Secretário-Geral das Nações Unidas, em 15 de Outubro de 2001, uma objecção às declarações e reservas formuladas pelo Governo do Botswana no momento da adesão ao Pacto Internacional sobre os Direitos Civis e Políticos, adoptado em Nova Iorque em 16 de Dezembro de 1966, adiante denominado o Pacto.
+Notificação
+«Le Gouvernement de la République française a examiné les réserves du Botswana au Pacte des Nations Unies relatif aux droits civils et politiques. Les deux réserves visent à limiter l'engagement du Botswana au regard des articles 7 et 12 paragraphe 3 du Pacte dans la mesure où ces dispositions sont compatibles avec les articles 7 et 14 de la Constitution du Botswana.
+Le Gouvernement de la République française considère que la première réserve introduit des doutes sur l'engagement du Botswana et pourrait priver d'effet l'article 7 du Pacte qui prohibe en termes généraux la torture ainsi que les peines ou traitements cruels, inhumains ou dégradants.
+En conséquence, le Gouvernement de la République française oppose une objection à la réserve de l'article 7 du Pacte formulée par le Gouvernement du Botswana.»
+Tradução
+O Governo da República Francesa examinou as reservas formuladas pelo Botswana ao Pacto Internacional sobre os Direitos Civis e Políticos. As duas reservas visam limitar o compromisso do Botswana a respeito dos artigos 7.º e 12.º, n.º 3, do Pacto, na medida em que tais disposições são compatíveis com os artigos 7.º e 14.º da Constituição do Botswana.
+O Governo da República Francesa considera que a primeira reserva suscita dúvidas quanto ao compromisso do Botswana e que poderia privar de efeitos o artigo 7.º do Pacto que proíbe em termos gerais a tortura, assim como as penas ou tratamentos cruéis, inumanos ou degradantes.
+O Governo da República Francesa apresenta, portanto, a sua objecção à reserva formulada pelo Governo do Botswana ao artigo 7.º do Pacto.
+Portugal é Parte neste Pacto, aprovado, para ratificação, pela Lei n.º 29/78, publicada no Diário da República, 1.ª série, n.º 133, suplemento, de 12 de Junho de 1978, tendo depositado o seu instrumento de ratificação em 15 de Junho de 1978, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 187, de 16 de Agosto de 1978.
+Direcção-Geral de Política Externa, 11 de Julho de 2008. - O Subdirector-Geral para os Assuntos Multilaterais, António Manuel Ricoca Freire.
