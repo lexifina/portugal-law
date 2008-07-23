@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros n.º 116/2008
+As Resoluções do Conselho de Ministros n.os 38-A/2007, de 28 de Fevereiro, e 111/2007, de 21 de Agosto, aprovaram o calendário de subscrição faseada de dotações de capital estatutário para o triénio de 2007-2009, relativamente ao Hospital do Espírito Santo de Évora, E. P. E., ao Centro Hospitalar de Lisboa Central, E. P. E., ao Centro Hospitalar de Coimbra, E. P. E., ao Centro Hospitalar de Trás-os-Montes e Alto Douro, E. P. E., ao Centro Hospitalar do Médio Ave, E. P. E., ao Centro Hospitalar do Alto Ave, E. P. E., ao Centro Hospitalar de Vila Nova de Gaia/Espinho, E. P. E., e à Unidade Local de Saúde do Norte Alentejo, E. P. E., e relativamente ao Centro Hospitalar do Porto, E. P. E., e ao Centro Hospitalar do Tâmega e Sousa, E. P. E., respectivamente.
+Face ao ritmo de concretização dos investimentos previstos nos planos estratégicos daqueles hospitais, é possível alterar os critérios inicialmente adoptados para o cronograma de subscrição e realização de capital estatutário a efectuar nos anos de 2008 e 2009.
+Para os hospitais referidos na Resolução do Conselho de Ministros n.º 38-A/2007, de 28 de Fevereiro, é subscrito e realizado, em 2008, o capital estatutário equivalente apenas à restante metade dos investimentos financiados por capitais próprios a realizar em 2008, transferindo-se todos os restantes valores referentes a investimentos para subscrição e realização nos anos seguintes.
+Quanto aos hospitais referidos na Resolução do Conselho de Ministros n.º 111/2007, de 21 de Agosto, é subscrito e realizado, em 2008, o capital estatutário equivalente ao valor dos investimentos financiados por capitais próprios a realizar neste ano, passando o montante equivalente às necessidades financeiras de curto prazo para subscrição e realização nos anos seguintes, juntamente com os restantes valores de investimentos inicialmente propostos.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar, tendo como base de partida os planos de negócios e de investimentos apresentados, o calendário de subscrição faseada de dotações de capital estatutário para o período de 2007-2012, em anexo à presente resolução e que dela faz parte integrante.
+2 - Determinar que o calendário referido no número anterior possa ser objecto dos ajustamentos que se mostrem necessários, em função da execução dos referidos planos de negócios e de investimentos, sem colocar em causa a sustentabilidade económico-financeira das unidades hospitalares abrangidas.
+3 - Incumbir o Ministério das Finanças e da Administração Pública, em articulação com o Ministério da Saúde, de proceder à revisão anual do calendário em anexo à presente resolução para efeitos do disposto no número anterior.
+4 - Revogar as Resoluções do Conselho de Ministros n.os 38-A/2007, de 28 de Fevereiro, e 111/2007, de 21 de Agosto.
+Presidência do Conselho de Ministros, 12 de Junho de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+ANEXO
+Calendário de subscrição faseada de dotações de capital estatutário para o período 2007-2012
+(ver documento original)
