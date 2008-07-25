@@ -2,7 +2,7 @@
 
 ### Esgotamento dos mecanismos de mobilidade
 
-1 - Os serviços ou organismos só poderão proceder à abertura de concursos externos após a observância das seguintes condições:
+1 - Os serviços ou organismos da administração regional autónoma só poderão recorrer ao procedimento concursal após a observância das seguinte condições:
 
 a) Consultar os pedidos de mobilidade na BEP - Açores, contactando directamente os funcionários ou agentes que reúnam o perfil pretendido;
 
