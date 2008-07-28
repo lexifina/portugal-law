@@ -1,0 +1,493 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11845",
+  "numero": "514",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-07-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2008-11-12",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional"
+            ],
+            "nrOficio": "246/COPTC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2009-04-28",
+                "dataResposta": null,
+                "nrOficio": "95/COPTC",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a6d566a4e5445314e6d49744e4755784d693030595445304c5749774d5445744d6a4e6d5a544d334e54686c5a6a5a684c6e426b5a673d3d&fich=fec5156b-4e12-4a14-b011-23fe3758ef6a.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2008-11-12",
+            "dataResposta": "2009-02-12",
+            "entidades": [
+              "Ministro das Obras Públicas, Transportes e Comunicações"
+            ],
+            "nrOficio": "247/COPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a6d566a4e5445314e6d49744e4755784d693030595445304c5749774d5445744d6a4e6d5a544d334e54686c5a6a5a684c6e426b5a673d3d&fich=fec5156b-4e12-4a14-b011-23fe3758ef6a.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2008-11-12",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Cultura"
+            ],
+            "nrOficio": "245/COPTC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2009-04-28",
+                "dataResposta": "2009-06-01",
+                "nrOficio": "95/COPTC",
+                "oficioResposta": "1777"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a6d566a4e5445314e6d49744e4755784d693030595445304c5749774d5445744d6a4e6d5a544d334e54686c5a6a5a684c6e426b5a673d3d&fich=fec5156b-4e12-4a14-b011-23fe3758ef6a.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-06-16",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-09-23",
+        "DataArquivo": "2009-06-23",
+        "DataBaixaComissao": "2008-09-23",
+        "DataEnvioPAR": "2009-06-22",
+        "DataReaberta": "2008-09-23",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-07-28",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a5957387659324a6a4e5445344d6a4d744f4455324d7930304e544d324c5467794f4749744e6a55794d324d324e324d304d4451304c6e426b5a673d3d&fich=cbc51823-8563-4536-828b-6523c67c4044.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2008-07-28",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a6d566a4e5445314e6d49744e4755784d693030595445304c5749774d5445744d6a4e6d5a544d334e54686c5a6a5a684c6e426b5a673d3d&fich=fec5156b-4e12-4a14-b011-23fe3758ef6a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-07-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a6a41304d6a686d4d6a49745a57597a5a6930304e3251794c57466c596d45745a4751344d6a55325a54526c4e3249794c6e426b5a673d3d&fich=f0428f22-ef3f-47d2-aeba-dd8256e4e7b2.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1911",
+        "Legislatura": "X",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-09-23",
+            "gp": "PCP",
+            "id": "1715",
+            "motivoCessacao": null,
+            "nome": "Bruno Dias"
+          }
+        ],
+        "RelatorioFinal": [
+          "22525"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2009-07-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2008-07-28",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a5a6d49345932526b4d4330334e4749334c54526859575174596a49325a53316b596d55774e474a6a5a574a684d6a55756347526d&fich=cfb8cdd0-74b7-4aad-b26e-dbe04bceba25.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2009-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173691",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-04",
+                "pubLeg": "X",
+                "pubNr": "100",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Jorge Nunes Alves e outros, manifestando à Assembleia da República o seu desacordo com o actual projecto adjudicado para o fecho da CRIL / IC17, sublanço Buraca/Pontinha, e solicitando a adopção de algumas medidas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173692",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-04",
+                "pubLeg": "X",
+                "pubNr": "100",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/60?pgs=60&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Jorge Nunes Alves e outros, manifestando à Assembleia da República o seu desacordo com o actual projecto adjudicado para o fecho da CRIL / IC17, sublanço Buraca/Pontinha, e solicitando a adopção de algumas medidas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173693",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-04",
+                "pubLeg": "X",
+                "pubNr": "100",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Jorge Nunes Alves e outros, manifestando à Assembleia da República o seu desacordo com o actual projecto adjudicado para o fecho da CRIL / IC17, sublanço Buraca/Pontinha, e solicitando a adopção de algumas medidas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173694",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-04",
+                "pubLeg": "X",
+                "pubNr": "100",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Jorge Nunes Alves e outros, manifestando à Assembleia da República o seu desacordo com o actual projecto adjudicado para o fecho da CRIL / IC17, sublanço Buraca/Pontinha, e solicitando a adopção de algumas medidas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173695",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-04",
+                "pubLeg": "X",
+                "pubNr": "100",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Jorge Nunes Alves e outros, manifestando à Assembleia da República o seu desacordo com o actual projecto adjudicado para o fecho da CRIL / IC17, sublanço Buraca/Pontinha, e solicitando a adopção de algumas medidas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173696",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-04",
+                "pubLeg": "X",
+                "pubNr": "100",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Jorge Nunes Alves e outros, manifestando à Assembleia da República o seu desacordo com o actual projecto adjudicado para o fecho da CRIL / IC17, sublanço Buraca/Pontinha, e solicitando a adopção de algumas medidas",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11845",
+    "PetAssunto": "Manifestam desacordo com o actual projecto adjudicado para o fecho da CRIL - IC17, sub-lanço Buraca - Pontinha, e solicitam algumas tomadas de medidas.",
+    "PetDataEntrada": "2008-07-28",
+    "PeticoesAssociadas": null,
+    "PetId": "11845",
+    "PetLeg": "X",
+    "PetNr": "514",
+    "PetNrAssinaturas": "4675",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "295",
+        "obs": null,
+        "pag": [
+          "59-64"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-07-04",
+        "pubLeg": "X",
+        "pubNr": "100",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/100/2009-07-04/59?pgs=59-64&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "447876",
+        "obs": null,
+        "pag": [
+          "9-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-10-18",
+        "pubLeg": "X",
+        "pubNr": "17",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/017/2008-10-18/9?pgs=9-12&org=PLC"
+      }
+    ]
+  }
+}
