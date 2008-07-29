@@ -10,6 +10,6 @@ a) A execução das acções necessárias para a manutenção e recuperação da
 
 b) O estabelecimento de um regime de visitação que garanta objectivos culturais, educativos e recreativos;
 
-c) A regulamentação das atividades permitidas, condicionadas ou proibidas, considerando as necessidades das populações locais num quadro de uso sustentável dos recursos naturais;
+c) A regulamentação das actividades de exploração e de edificação, considerando as necessidades das populações locais num quadro de uso sustentável dos recursos naturais;
 
 d) A promoção de actividades que constituam vias alternativas de desenvolvimento local sustentável e que não constituam uma ameaça para os valores naturais e funções do ecossistema a conservar.

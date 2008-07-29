@@ -2,7 +2,7 @@
 
 ### Autoridades para a conservação da natureza e da biodiversidade
 
-Sem prejuízo das competências próprias de outras entidades públicas que concorrem para a conservação da natureza e da biodiversidade, cabe:
+Sem prejuízo das competências próprias de outras entidades públicas que concorrem para a conservação da natureza e da biodiversidade, designadamente da autoridade florestal nacional, cabe:
 
 a) Ao Instituto da Conservação da Natureza e da Biodiversidade, I. P., exercer as funções de autoridade nacional para a conservação da natureza e da biodiversidade, abreviadamente designada por autoridade nacional, competindo-lhe promover a nível nacional a conservação da natureza e da biodiversidade e garantir, nos moldes previstos nos capítulos seguintes e na respectiva lei orgânica, a consecução dos objectivos do presente decreto-lei;
 

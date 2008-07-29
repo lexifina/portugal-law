@@ -8,11 +8,9 @@ a) Zonas de protecção integral, denominadas reservas integrais, com o objectiv
 
 b) Zonas de protecção dirigida, denominadas microreservas, quando esteja em causa a conservação de uma pequena área isolada de ocupação de uma espécie, ou grupo de espécies, ou de um habitat, ou grupo de habitats, muito raros ou ameaçados, com o objectivo de desenvolver as acções de conservação adequadas à manutenção ou recuperação do seu estado de conservação favorável, designadamente programas de gestão próprios.
 
-2 - A delimitação das zonas previstas no número anterior e as normas que regulamentam os respetivos regimes de salvaguarda que condicionem a ocupação, o uso e a transformação do solo são integradas nos planos territoriais de âmbito intermunicipal e municipal abrangidos.
+2 - Uma vez demarcadas as reservas integrais previstas na alínea a) do número anterior, ficam as áreas em causa sujeitas a expropriação nos termos da lei.
 
-3 - Uma vez demarcadas as reservas integrais previstas na alínea a) do n.º 1, ficam as áreas em causa sujeitas a expropriação nos termos da lei.
-
-4 - Nas áreas protegidas que abranjam meio marinho até ao limite do mar territorial podem ainda ser delimitadas, nos programas especiais e nos instrumentos de ordenamento do espaço marítimo nacional, áreas denominadas reservas marinhas ou parques marinhos, com os seguintes objetivos:
+3 - Nas áreas protegidas que abranjam meio marinho podem ainda ser demarcadas, nos respectivos actos de classificação ou nos planos de ordenamento, áreas denominadas reservas marinhas ou parques marinhos, com os seguintes objectivos:
 
 a) Nas reservas marinhas, a adopção de medidas dirigidas para a protecção das comunidades e dos habitats marinhos sensíveis, de forma a assegurar a biodiversidade marinha;
 

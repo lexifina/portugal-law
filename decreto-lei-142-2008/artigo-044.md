@@ -10,6 +10,6 @@ b) Grave, quando a espécie em causa esteja inscrita no Cadastro com a categoria
 
 c) Leve, quando a espécie em causa esteja inscrita no Cadastro com a categoria de ameaça «vulnerável».
 
-2 - [Revogado].
+2 - Constitui ainda contra-ordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, o uso não autorizado das marcas associadas ao SNAC.
 
-3 - A prática das ações referidas no n.º 1 não constitui contraordenação desde que autorizada pela autoridade nacional.
+3 - A prática das acções referidas no n.º 1 não constitui contra-ordenação desde que autorizada pela autoridade nacional, designadamente para fins científicos.

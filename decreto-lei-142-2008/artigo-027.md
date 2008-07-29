@@ -18,4 +18,4 @@ e) Da Convenção para a Protecção do Meio Marinho do Atlântico Nordeste (Con
 
 f) Da Decisão do Conselho Executivo da UNESCO (161 EX/Decisions, 3.3.1), adoptada em Paris em 2001, relativa aos geossítios e geoparques.
 
-3 - Quando as áreas previstas no presente artigo coincidam com áreas protegidas de âmbito nacional, regional ou local, é-lhes aplicável o regime constante dos respetivos atos de classificação ou programas especiais de áreas protegidas, quando existentes.
+3 - Quando as áreas previstas no presente artigo coincidam com áreas protegidas de âmbito nacional, regional ou local, é-lhes aplicável o regime constante dos respectivos actos de classificação ou planos de ordenamento, quando existentes.

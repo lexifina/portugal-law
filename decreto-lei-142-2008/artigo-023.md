@@ -1,19 +1,17 @@
 # Artigo 23.º
 
-### Programas especiais das áreas protegidas
+### Planos de ordenamento de áreas protegidas
 
-1 - Os parques nacionais, os parques naturais de âmbito nacional e as reservas naturais e paisagens protegidas de âmbito nacional dispõem obrigatoriamente de um programa especial.
+1 - Os parques nacionais e os parques naturais de âmbito nacional dispõem obrigatoriamente de um plano de ordenamento.
 
-2 - Aos programas especiais das áreas protegidas é aplicável o disposto no regime jurídico dos instrumentos de gestão territorial, em articulação com o regime jurídico que desenvolve as bases da política de ordenamento do espaço marítimo nacional, competindo a respetiva elaboração, execução e avaliação à autoridade nacional.
+2 - As reservas naturais e as paisagens protegidas de âmbito nacional dispõem de plano de ordenamento quando o respectivo decreto regulamentar de classificação defina tal necessidade.
 
-3 - Os programas especiais das áreas protegidas estabelecem, em função da salvaguarda dos recursos e valores naturais, as ações permitidas, as ações condicionadas ao cumprimento de determinados parâmetros e condições neles estabelecidas e as ações proibidas.
+3 - As áreas protegidas de âmbito regional ou local e os monumentos naturais de âmbito nacional não dispõem de plano de ordenamento, sendo-lhes aplicável o regime constante dos respectivos actos de criação e dos planos municipais de ordenamento do território.
 
-4 - As normas dos programas especiais de áreas protegidas que, em função da sua incidência territorial urbanística, condicionem a ocupação, o uso e a transformação do solo são obrigatoriamente integradas nos planos territoriais de âmbito intermunicipal e municipais abrangidos.
+4 - Os planos de ordenamento das áreas protegidas de âmbito nacional são elaborados pela autoridade nacional.
 
-5 - As normas dos programas especiais relativas aos regimes de salvaguarda de recursos e valores naturais das áreas marinhas protegidas e dos volumes relevantes para a conservação da natureza e da biodiversidade são integradas nas normas de execução dos instrumentos de ordenamento do espaço marítimo nacional.
+5 - Aos procedimentos de elaboração, aprovação, execução e avaliação dos planos de ordenamento de áreas protegidas é aplicável o disposto no regime jurídico dos instrumentos de gestão territorial.
 
-6 - A integração das normas dos programas especiais prevista no número anterior deve atender ao disposto no n.º 3 do artigo 25.º do Decreto-Lei n.º 80/2015, de 14 de maio.
+6 - Com a publicação dos planos de ordenamento de áreas protegidas são revogadas as disposições relativas a actos e actividades proibidos, interditos ou condicionados previstas nos respectivos diplomas de criação, classificação ou reclassificação.
 
-7 - As normas dos programas especiais que constituam normas de gestão das áreas protegidas podem ser desenvolvidas em regulamento administrativo, designado por regulamento de gestão das áreas protegidas, nos termos definidos no programa especial.
-
-8 - O regulamento de gestão da área protegida contém normas jurídicas gerais e abstratas que, no exercício de poderes jurídico-administrativos, visam produzir efeitos jurídicos externos, aplicando-se-lhe, nomeadamente, o regime previsto no Código do Procedimento Administrativo.
+7 - O prazo para a emissão de autorizações e pareceres pela autoridade nacional, no âmbito da aplicação dos planos de ordenamento de áreas protegidas, é de 45 dias.
