@@ -18,4 +18,4 @@
 
 8 - Tratando-se de execução coerciva de uma ordem de demolição ou de trabalhos de correcção ou alteração de obras, estas devem ser executadas no mesmo prazo que havia sido concedido para o efeito ao seu destinatário, contando-se aquele prazo a partir da data de início da posse administrativa.
 
-9 - A execução a que se refere o número anterior pode ser feita por administração directa ou em regime de empreitada por ajuste directo, mediante consulta a três empresas titulares de alvará de empreiteiro de obras públicas de classe e categoria adequadas à natureza e valor das obras.
+9 - (Revogado.)
