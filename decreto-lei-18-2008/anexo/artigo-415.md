@@ -4,7 +4,7 @@
 
 Constituem direitos do concessionário:
 
-a) Explorar a obra pública ou o serviço concedidos;
+a) Explorar, em regime de exclusivo, a obra pública ou o serviço público concedidos;
 
 b) Receber a retribuição prevista no contrato;
 

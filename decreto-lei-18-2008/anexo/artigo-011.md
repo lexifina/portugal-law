@@ -2,23 +2,23 @@
 
 ### Âmbito da contratação nos sectores da água, da energia, dos transportes e dos serviços postais
 
-1 - A parte ii do presente Código é aplicável à formação dos contratos a celebrar pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º quando:
+1 - A parte ii do presente Código só é aplicável à formação dos contratos a celebrar pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º desde que:
 
-a) Esses contratos sejam celebrados no âmbito do exercício de uma ou de várias das atividades por elas exercidas nos setores da água, da energia, dos transportes e dos serviços postais; e
+a) Esses contratos digam directa e principalmente respeito a uma ou a várias das actividades por elas exercidas nos sectores da água, da energia, dos transportes e dos serviços postais; e
 
 b) O objecto desses contratos abranja prestações típicas dos seguintes contratos:
 
-i) Empreitada de obras públicas cujo valor seja igual ou superior ao limiar referido na alínea a) do n.º 4 do artigo 474.º;
+i) Empreitada de obras públicas cujo valor seja igual ou superior ao referido na alínea b) do artigo 16.º da Directiva n.º 2004/17/CE, do Parlamento Europeu e do Conselho, de 31 de Março;
 
 ii) Concessão de obras públicas;
 
-iii) Concessão de serviços;
+iii) Concessão de serviços públicos;
 
-iv) Locação ou aquisição de bens móveis e aquisição de serviços cujo valor seja igual ou superior ao limiar referido na alínea b) do n.º 4 do artigo 474.º;
+iv) Locação ou aquisição de bens móveis cujo valor seja igual ou superior ao referido na alínea a) do artigo 16.º da Directiva n.º 2004/17/CE, do Parlamento Europeu e do Conselho, de 31 de Março;
 
-v) Aquisição de serviços sociais ou outros específicos enumerados no anexo ix ao presente Código, cujo valor seja igual ou superior ao limiar referido na alínea c) do n.º 4 do artigo 474.º
+v) Aquisição de serviços cujo valor seja igual ou superior ao referido na alínea a) do artigo 16.º da Directiva n.º 2004/17/CE, do Parlamento Europeu e do Conselho, de 31 de Março.
 
-2 - A parte ii do presente Código é aplicável à formação de contratos, a celebrar por quaisquer entidades adjudicantes, quando estes sejam celebrados no âmbito do exercício de uma ou de várias das atividades por elas exercidas nos setores da água, da energia, dos transportes e dos serviços postais, nos seguintes casos:
+2 - A parte ii do presente Código é sempre aplicável à formação de contratos, a celebrar por quaisquer entidades adjudicantes, quando estes digam directa e principalmente respeito a uma ou a várias das actividades por elas exercidas nos sectores da água, da energia, dos transportes e dos serviços postais, nos seguintes casos:
 
 a) Contratos de aquisição de serviços de carácter financeiro prestados pelo Banco de Portugal;
 
@@ -28,4 +28,4 @@ b) Contratos relativos à aquisição, ao desenvolvimento, à produção ou à c
 
 a) Contratos relacionados com projectos de engenharia hidráulica, de irrigação ou de drenagem, desde que o volume de água destinada ao abastecimento de água potável represente mais de 20 % do volume total de água fornecida de acordo com aqueles projectos ou por instalações de irrigação ou de drenagem;
 
-b) [Revogada.]
+b) Contratos relacionados com a rejeição ou o tratamento de águas residuais.

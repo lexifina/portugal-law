@@ -10,7 +10,7 @@
 
 4 - Quando o caderno de encargos admita condições contratuais alternativas nos termos do disposto no n.º 1, proposta base é aquela que não as apresenta.
 
-5 - Os aspetos de execução do contrato constantes do caderno de encargos relativamente aos quais sejam admitidas alternativas para efeitos da apresentação de propostas variantes devem corresponder a fatores ou subfatores de densificação do critério de adjudicação.
+5 - Os aspectos do caderno de encargos relativamente aos quais sejam admitidas alternativas para efeitos da apresentação de propostas variantes devem corresponder a factores ou subfactores de densificação do critério de adjudicação da proposta economicamente mais vantajosa.
 
 6 - A exclusão da proposta base implica necessariamente a exclusão das propostas variantes apresentadas pelo mesmo concorrente.
 

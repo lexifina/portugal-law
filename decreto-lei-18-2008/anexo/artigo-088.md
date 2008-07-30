@@ -8,13 +8,7 @@
 
 1 - No caso de contratos que impliquem o pagamento de um preço pela entidade adjudicante, deve ser exigida ao adjudicatário a prestação de uma caução destinada a garantir a sua celebração, bem como o exacto e pontual cumprimento de todas as obrigações legais e contratuais que assume com essa celebração.
 
-2 - Pode não ser exigida prestação de caução:
-
-a) Quando o preço contratual for inferior a 1 000 000 €;
-
-b) Quando se trate de contratos em que o adjudicatário seja uma entidade prevista nos artigos 2.º ou 7.º; ou
-
-c) Quando se trate dos contratos previstos na alínea c) do n.º 1 do artigo 95.º, ainda que exista contrato escrito.
+2 - Não é exigível a prestação de caução quando o preço contratual for inferior a (euro) 200 000.
 
 3 - Quando, no caso previsto no número anterior, não tenha sido exigida a prestação de caução, pode a entidade adjudicante, se o considerar conveniente, proceder à retenção de até 10 % do valor dos pagamentos a efectuar, desde que tal faculdade seja prevista no caderno de encargos.
 

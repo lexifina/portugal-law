@@ -6,6 +6,6 @@
 
 ### Contratos entre contraentes públicos
 
-1 - A parte iii é aplicável aos contratos celebrados entre contraentes públicos, sem prejuízo das necessárias adaptações quando os mesmos sejam celebrados num plano de igualdade jurídica, designadamente no que respeita ao exercício dos poderes de conformação da relação contratual.
+1 - As disposições da parte iii do presente Código não são directamente aplicáveis aos contraentes públicos que contratam entre si num plano de igualdade jurídica, segundo uma óptica de harmonização do desempenho das respectivas atribuições.
 
-2 - O disposto na parte final do artigo anterior não afasta a possibilidade de qualquer um dos contraentes públicos exercer o poder de resolução unilateral do contrato por razões de interesse público.
+2 - O disposto no número anterior não impede a aplicação, com as adaptações necessárias, do regime substantivo dos contratos administrativos aos contratos celebrados entre contraentes públicos pelos quais um deles se submeta ao exercício de poderes de autoridade pelo outro.

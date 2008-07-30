@@ -8,8 +8,6 @@ a) Proceder à apreciação das candidaturas;
 
 b) Proceder à apreciação das propostas;
 
-c) Proceder à apreciação de soluções e projetos;
+c) Elaborar os relatórios de análise das candidaturas e das propostas.
 
-d) Elaborar os relatórios de análise das candidaturas, das propostas e das soluções e projetos.
-
-2 - Cabe ainda ao júri exercer a competência que lhe seja delegada pelo órgão competente para a decisão de contratar, não lhe podendo este, porém, delegar a competência para a decisão de qualificação dos candidatos ou a decisão de adjudicação.
+2 - Cabe ainda ao júri exercer a competência que lhe seja delegada pelo órgão competente para a decisão de contratar, não lhe podendo este, porém, delegar a competência para a decisão de qualificação dos candidatos ou para a decisão de adjudicação.

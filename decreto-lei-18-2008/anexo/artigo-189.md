@@ -18,7 +18,7 @@ c) Os documentos referidos na alínea c) do n.º 1 do artigo 57.º, se for o cas
 
 d) Os documentos que constituem a proposta que podem ser redigidos em língua estrangeira, nos termos do disposto no n.º 2 do artigo 58.º;
 
-e) Se é admissível ou não a apresentação de propostas variantes, e o número máximo de propostas variantes admitidas;
+e) Se é admissível a apresentação de propostas variantes e o número máximo de propostas variantes admitidas;
 
 f) O prazo para a apresentação das propostas;
 
@@ -26,16 +26,14 @@ g) O prazo da obrigação de manutenção das propostas, quando superior ao prev
 
 h) O modo de prestação da caução, ou os termos em que não seja exigida essa prestação de acordo com o disposto no n.º 4 do artigo 88.º;
 
-i) O valor da caução, quando esta for exigida;
+i) O valor da caução, quando esta for exigida nos termos do disposto no n.º 3 do artigo 89.º;
 
-j) [Revogada.]
+j) O endereço do sítio da Internet onde é disponibilizado o caderno de encargos aos candidatos que ainda o não tenham adquirido.
 
-k) [Revogada.]
+3 - O convite pode indicar, ainda que por referência ao preço base fixado no caderno de encargos, um valor a partir do qual o preço total resultante de uma proposta é considerado anormalmente baixo.
 
-3 - [Revogado.]
+4 - O convite pode ainda conter quaisquer regras específicas sobre a fase da apresentação e análise das propostas e adjudicação consideradas convenientes pela entidade adjudicante, desde que não tenham por efeito impedir, restringir ou falsear a concorrência.
 
-4 - O convite pode ainda conter quaisquer regras destinadas a proteger o caráter confidencial das informações contidas nas peças do procedimento, bem como quaisquer específicas sobre o procedimento de concurso público consideradas convenientes pela entidade adjudicante, desde que não tenham por efeito impedir, restringir ou falsear a concorrência.
-
-5 - [Revogado.]
+5 - Para a formação de contratos que digam directa e principalmente respeito a uma ou a várias das actividades exercidas nos sectores da água, da energia, dos transportes e dos serviços postais pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º, o programa do concurso pode conter regras destinadas a proteger o carácter confidencial das informações contidas nas peças do procedimento.
 
 6 - As normas do convite prevalecem sobre quaisquer indicações constantes dos anúncios com elas desconformes, mas as normas contidas no programa do concurso prevalecem sobre aquelas.

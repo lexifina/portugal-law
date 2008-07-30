@@ -6,20 +6,40 @@
 
 ### Relatório preliminar
 
-1 - Após a análise das propostas, a utilização de um leilão eletrónico e a aplicação do critério de adjudicação, o júri elabora fundamentadamente um relatório preliminar, no qual deve constar:
+1 - Após a análise das propostas, a utilização de um leilão electrónico e a aplicação do critério de adjudicação constante do programa do concurso, o júri elabora fundamentadamente um relatório preliminar, no qual deve propor a ordenação das mesmas.
 
-a) Referência aos esclarecimentos prestados pelos concorrentes nos termos do disposto no artigo 72.º;
+2 - No relatório preliminar a que se refere o número anterior, o júri deve também propor, fundamentadamente, a exclusão das propostas:
 
-b) A indicação das propostas excluídas, com a indicação dos respetivos motivos;
+a) Que tenham sido apresentadas depois do termo fixado para a sua apresentação;
 
-c) A ordenação das propostas objeto de avaliação, com indicação das pontuações atribuídas em cada fator.
+b) Que sejam apresentadas por concorrentes em violação do disposto no n.º 2 do artigo 54.º;
 
-2 - [Revogado.]
+c) Que sejam apresentadas por concorrentes relativamente aos quais ou, no caso de agrupamentos concorrentes, relativamente a qualquer dos seus membros, a entidade adjudicante tenha conhecimento que se verifica alguma das situações previstas no artigo 55.º;
 
-3 - [Revogado.]
+d) Que não sejam constituídas por todos os documentos exigidos nos termos do disposto no n.º 1 do artigo 57.º;
 
-4 - [Revogado.]
+e) Que não cumpram o disposto nos n.os 4 e 5 do artigo 57.º ou nos n.os 1 e 2 do artigo 58.º;
 
-5 - O júri só pode propor a exclusão de propostas que contenham irregularidades supríveis nos termos do n.º 3 do artigo 72.º quando, depois de solicitados a fazê-lo, os concorrentes não tiverem efetuado o suprimento.
+f) Que sejam apresentadas como variantes quando estas não sejam admitidas pelo programa do concurso, ou em número superior ao número máximo por ele admitido;
 
-6 - Quando, nos termos do disposto na secção seguinte, seja adoptada uma fase de negociação aberta a todos os concorrentes cujas propostas não sejam excluídas, o júri não deve aplicar o critério de adjudicação nem propor a ordenação das propostas no relatório preliminar para efeitos do disposto no n.º 1.
+g) Que sejam apresentadas como variantes quando, apesar de estas serem admitidas pelo programa do concurso, não seja apresentada a proposta base;
+
+h) Que sejam apresentadas como variantes quando seja proposta a exclusão da respectiva proposta base;
+
+i) Que violem o disposto no n.º 7 do artigo 59.º;
+
+j) Que, identificando erros ou omissões das peças do procedimento, não cumpram o disposto no n.º 7 do artigo 61.º;
+
+l) Que não observem as formalidades do modo de apresentação das propostas fixadas nos termos do disposto no artigo 62.º;
+
+m) Que sejam constituídas por documentos falsos ou nas quais os concorrentes prestem culposamente falsas declarações;
+
+n) Que sejam apresentadas por concorrentes em violação do disposto nas regras referidas no n.º 4 do artigo 132.º, desde que o programa do concurso assim o preveja expressamente;
+
+o) Cuja análise revele alguma das situações previstas no n.º 2 do artigo 70.º
+
+3 - Quando o mesmo concorrente apresente mais de uma proposta, em violação do disposto no n.º 7 do artigo 59.º, ou um número de propostas variantes superior ao número máximo admitido pelo programa de concurso, de acordo com o disposto na alínea j) do n.º 1 do artigo 132.º, o júri deve também propor a exclusão de todas as propostas por ele apresentadas.
+
+4 - Do relatório preliminar deve ainda constar referência aos esclarecimentos prestados pelos concorrentes nos termos do disposto no artigo 72.º
+
+5 - Quando, nos termos do disposto na secção seguinte, seja adoptada uma fase de negociação aberta a todos os concorrentes cujas propostas não sejam excluídas, o júri não deve aplicar o critério de adjudicação nem propor a ordenação das propostas no relatório preliminar para efeitos do disposto no n.º 1.

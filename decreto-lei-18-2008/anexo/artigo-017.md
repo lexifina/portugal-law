@@ -1,25 +1,15 @@
 ## Capítulo II
 
-## Escolha do procedimento e valor estimado do contrato
+## Escolha do procedimento e valor do contrato
 
 # Artigo 17.º
 
-### Valor estimado do contrato
+### Noção
 
-1 - O valor estimado do contrato corresponde ao preço estimado a pagar pela entidade adjudicante e por terceiros, bem como ao valor de quaisquer contraprestações a efetuar em favor do adjudicatário e ainda ao valor das vantagens que decorram diretamente para este da execução do contrato e que possam ser configuradas como contrapartidas das prestações que lhe incumbem.
+1 - Para efeitos do presente Código, o valor do contrato a celebrar é o valor máximo do benefício económico que, em função do procedimento adoptado, pode ser obtido pelo adjudicatário com a execução de todas as prestações que constituem o seu objecto.
 
-2 - O valor estimado do contrato, que deve ser indicado no convite ou no programa do procedimento, condiciona a escolha do procedimento, quando esta deva ser feita tendo por base aquele valor, e determina o órgão competente para autorizar a despesa decorrente da celebração do contrato.
+2 - O benefício económico referido no número anterior inclui, além do preço a pagar pela entidade adjudicante ou por terceiros, o valor de quaisquer contraprestações a efectuar em favor do adjudicatário e ainda o valor das vantagens que decorram directamente para este da execução do contrato e que possam ser configuradas como contrapartidas das prestações que lhe incumbem.
 
-3 - [Revogado.]
+3 - No caso de se tratar de um contrato de empreitada de obras públicas, o benefício referido no n.º 1 inclui ainda o valor dos bens móveis necessários à sua execução e que a entidade adjudicante ponha à disposição do adjudicatário.
 
-4 - [Revogado.]
-
-5 - [Revogado.]
-
-6 - [Revogado.]
-
-7 - O cálculo do valor estimado do contrato deve basear-se em critérios económicos objetivos, tais como os preços habituais no mercado, os preços obtidos através da consulta preliminar, ou os custos médios unitários, resultantes de anteriores procedimentos, para prestações do mesmo tipo.
-
-8 - [Revogado.]
-
-9 - [Revogado.]
+4 - Caso não se verifique qualquer das situações referidas nos números anteriores considera-se o contrato sem valor.

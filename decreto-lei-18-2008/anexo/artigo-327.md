@@ -2,12 +2,10 @@
 
 ### Excepção de não cumprimento invocável pelo co-contratante
 
-1 - Nos contratos bilaterais, quando o incumprimento seja imputável ao contraente público, o cocontratante, independentemente do direito de resolução do contrato que lhe assista, nos termos do disposto no artigo 332.º, pode invocar a exceção de não cumprimento, nos termos dos números seguintes.
+1 - Nos contratos bilaterais, quando o incumprimento seja imputável ao contraente público, o co-contratante, independentemente do direito de resolução do contrato que lhe assista, nos termos do disposto no artigo 332.º, pode invocar a excepção de não cumprimento desde que a sua recusa em cumprir não implique grave prejuízo para a realização do interesse público subjacente à relação jurídica contratual.
 
-2 - [Revogado.]
+2 - Se a recusa de cumprir pelo co-contratante implicar grave prejuízo para a realização do interesse público nos termos do disposto na parte final do número anterior, aquele apenas pode invocar a excepção de não cumprimento quando a realização das prestações contratuais coloque manifestamente em causa a viabilidade económico-financeira do co-contratante ou se revele excessivamente onerosa, devendo, nesse último caso, ser devidamente ponderados os interesses públicos e privados em presença.
 
-3 - A invocação da exceção de não cumprimento é exercida pelo cocontratante através de notificação ao contraente público da intenção de exercício do direito e dos respetivos fundamentos, com a antecedência mínima de 15 dias, se outra não for estipulada no contrato.
+3 - O exercício pelo co-contratante do direito de recusar o cumprimento da prestação depende de prévia notificação ao contraente público da intenção de exercício do direito e dos respectivos fundamentos, com a antecedência mínima de 15 dias, se outra não for estipulada no contrato.
 
-4 - O contraente público pode opor-se, no prazo de 15 dias contado da notificação a que se refere o número anterior, mediante resolução fundamentada, em que declare que a recusa em cumprir seria gravemente prejudicial para o interesse público.
-
-5 - Se a realização das prestações contratuais puser manifestamente em causa a sua viabilidade económico-financeira ou se revelar excessivamente onerosa, o cocontratante pode pedir ao tribunal competente a anulação da resolução fundamentada, bem como a suspensão dos respetivos efeitos.
+4 - Considera-se que a invocação da excepção de não cumprimento não implica grave prejuízo para a realização do interesse público quando o contraente público, no prazo de 15 dias contado da notificação a que se refere o número anterior não reconhecer, mediante resolução fundamentada, que a recusa em cumprir seria gravemente prejudicial para o interesse público.

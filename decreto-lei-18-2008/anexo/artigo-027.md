@@ -4,37 +4,37 @@
 
 1 - Sem prejuízo do disposto no artigo 24.º, no caso de contratos de aquisição de serviços, pode adoptar-se o ajuste directo quando:
 
-a) Se trate de novos serviços que consistam na repetição de serviços similares que tenham sido objeto de contrato anteriormente celebrado pela mesma entidade adjudicante com o mesmo adjudicatário, desde que, de forma cumulativa:
+a) Se trate de novos serviços que consistam na repetição de serviços similares objecto de contrato anteriormente celebrado pela mesma entidade adjudicante, desde que:
 
 i) Esses serviços estejam em conformidade com um projecto base comum;
 
-ii) Aquele contrato tenha sido celebrado, há menos de três anos, na sequência de concurso público, de concurso limitado por prévia qualificação, de procedimento de negociação, de diálogo concorrencial ou de parceria para a inovação;
+ii) Aquele contrato tenha sido celebrado, há menos de três anos, na sequência de concurso público ou de concurso limitado por prévia qualificação;
 
-iii) O anúncio do procedimento tenha sido publicado no Jornal Oficial da União Europeia, no caso de o somatório do valor estimado do contrato e do preço contratual relativo ao contrato inicial ser igual ou superior ao valor referido, consoante os casos, nas alíneas b) ou c) do n.º 3 do artigo 474.º; e
+iii) O anúncio do concurso tenha sido publicado no Jornal Oficial da União Europeia, no caso de o somatório do preço base relativo ao ajuste directo e do preço contratual relativo ao contrato inicial ser igual ou superior ao valor referido na alínea b) do n.º 1 do artigo 20.º; e
 
-iv) A possibilidade de adoção do ajuste direto e o valor estimado das eventuais aquisições de novos serviços tenham sido indicadas no anúncio ou no programa do concurso;
+iv) A possibilidade de adopção do ajuste directo tenha sido indicada no anúncio ou no programa do concurso;
 
-b) A natureza das respetivas prestações, nomeadamente as inerentes a serviços de natureza intelectual, não permita a elaboração de especificações contratuais suficientemente precisas para que sejam definidos os atributos qualitativos das propostas necessários à fixação de um critério de adjudicação, nos termos do disposto no artigo 74.º, e desde que a definição quantitativa dos atributos das propostas, no âmbito de outros tipos de procedimento, seja desadequada a essa fixação, tendo em conta os objetivos da aquisição pretendida;
+b) A natureza das respectivas prestações, nomeadamente as inerentes a serviços de natureza intelectual ou a serviços financeiros indicados na categoria 6 do anexo ii-A da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março, não permita a elaboração de especificações contratuais suficientemente precisas para que sejam qualitativamente definidos atributos das propostas necessários à fixação de um critério de adjudicação nos termos do disposto na alínea a) do n.º 1 do artigo 74.º, e desde que a definição quantitativa, no âmbito de um procedimento de concurso, de outros atributos das propostas seja desadequada a essa fixação tendo em conta os objectivos da aquisição pretendida;
 
 c) Se trate de serviços relativos à aquisição ou à locação, independentemente da respectiva modalidade financeira, de quaisquer bens imóveis, ou a direitos sobre esses bens, salvo os contratos de prestação de serviços financeiros celebrados simultânea, prévia ou posteriormente ao contrato de aquisição ou de locação, seja qual for a sua forma;
 
-d) Se trate de serviços de arbitragem, conciliação ou mediação;
+d) Se trate de serviços de arbitragem e de conciliação;
 
-e) Se trate de serviços de investigação e desenvolvimento não excluídos pela alínea j) do n.º 4 do artigo 5.º, desde que o valor estimado do contrato seja inferior aos limites estabelecidos nas alíneas b) e c) do n.º 3 do artigo 474.º;
+e) Se trate de serviços de investigação e de desenvolvimento, com excepção daqueles cujos resultados se destinem exclusivamente à entidade adjudicante para utilização no exercício da sua própria actividade, desde que a prestação do serviço seja inteiramente remunerada pela referida entidade adjudicante;
 
-f) [Revogada.]
+f) Se trate de serviços informáticos de desenvolvimento de software e de manutenção ou assistência técnica de equipamentos;
 
-g) Se trate de contrato que, na sequência de um concurso de conceção, deva ser celebrado com o concorrente selecionado ou com um dos concorrentes selecionados nesse concurso, desde que tal intenção tenha sido manifestada nos respetivos termos de referência e de acordo com as regras neles estabelecidas;
+g) O contrato, na sequência de um concurso de concepção, deva ser celebrado com o concorrente seleccionado ou com um dos concorrentes seleccionados nesse concurso, desde que tal intenção tenha sido manifestada nos respectivos termos de referência e de acordo com as regras neles estabelecidas;
 
-h) Se trate de adquirir serviços ao abrigo de um acordo-quadro nos termos do disposto na alínea a) do n.º 1 do artigo 252.º;
+h) Se trate de adquirir serviços ao abrigo de um acordo quadro, nos termos do disposto no n.º 1 do artigo 258.º
 
-i) Se trate de adquirir serviços, em condições especialmente mais vantajosas do que as normalmente existentes no mercado, a entidades que cessem definitivamente a sua atividade comercial, a curadores, liquidatários, administradores de insolvência ou ainda no âmbito de acordo judicial ou procedimento da mesma natureza previsto na legislação aplicável;
+2 - Sempre que a entidade adjudicante for o Estado, só pode ser adoptado o ajuste directo ao abrigo do disposto na alínea a) do n.º 1 no caso de o somatório referido na subalínea iii) ser igual ou superior ao valor referido no n.º 2 do artigo 20.º ou, quando se tratar de um dos contratos mencionados na alínea b) do mesmo n.º 2, ao valor referido na alínea b) do n.º 1 do mesmo artigo.
 
-j) Se trate de adquirir serviços de licenciamento informático prontos para uso, sem necessidade de desenvolvimento ou personalização, disponibilizados através da Internet via subscrição, fornecidos diretamente pelo titular dos direitos de propriedade intelectual ou por entidade por este autorizada, com condições contratuais predefinidas.
+3 - No caso de contratos de aquisição de quaisquer serviços indicados no anexo ii-A da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março, só pode ser adoptado o ajuste directo ao abrigo do disposto na alínea b) do n.º 1 quando o respectivo preço base seja inferior ao valor:
 
-2 - [Revogado.]
+a) Referido na alínea b) do n.º 1 do artigo 20.º; ou
 
-3 - Só pode ser adotado o ajuste direto ao abrigo do disposto nas alíneas b) e j) do n.º 1 quando o valor estimado do contrato seja inferior aos valores resultantes da aplicação da alínea b) do n.º 1 do artigo 20.º
+b) Referido no n.º 2 do artigo 20.º, quando a entidade adjudicante seja o Estado, excepto se se tratar de um dos contratos mencionados na alínea b) do n.º 2 do artigo 20.º, caso em que é aplicável o disposto na alínea anterior.
 
 4 - Não pode ser adoptado o ajuste directo ao abrigo do disposto na alínea b) do n.º 1 quando o serviço a adquirir consista na elaboração de um plano, de um projecto ou de uma qualquer criação conceptual nos domínios artístico, do ordenamento do território, do planeamento urbanístico, da arquitectura, da engenharia ou do processamento de dados.
 
@@ -42,4 +42,4 @@ j) Se trate de adquirir serviços de licenciamento informático prontos para uso
 
 6 - A entidade adjudicante deve indemnizar os concorrentes pelos encargos em que comprovadamente incorreram com a elaboração das respectivas propostas apresentadas no concurso de concepção quando a decisão de escolha do ajuste directo, ao abrigo do disposto na alínea g) do n.º 1, tenha caducado ou não tenha sido tomada no prazo previsto no número anterior.
 
-7 - [Revogado.]
+7 - A escolha do ajuste directo ao abrigo do disposto na alínea f) do n.º 1 só permite a celebração de contratos de valor inferior ao referido na alínea b) do n.º 1 do artigo 20.º ou ao referido no n.º 2 do artigo 20.º, consoante o caso.

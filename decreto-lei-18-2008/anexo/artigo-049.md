@@ -2,38 +2,46 @@
 
 ### Especificações técnicas
 
-1 - As especificações técnicas, tal como definidas no anexo vii ao presente Código, do qual faz parte integrante, devem constar no caderno de encargos e devem definir as características exigidas para as obras, bens móveis e serviços.
+1 - As especificações técnicas, como tal definidas no anexo vi da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março, e no anexo xxi da Directiva n.º 2004/17/CE, do Parlamento Europeu e do Conselho, de 31 de Março, devem constar do caderno de encargos e são fixadas por forma a permitir a participação dos concorrentes em condições de igualdade e a promoção da concorrência.
 
-2 - As características exigidas para as obras, bens móveis e serviços podem também incluir uma referência ao processo ou método específico de produção ou execução das obras, bens móveis ou serviços solicitados ou a um processo específico para outra fase do seu ciclo de vida, mesmo que tais fatores não façam parte da sua substância material, desde que estejam ligados ao objeto do contrato e sejam proporcionais ao seu valor e aos seus objetivos.
+2 - Sem prejuízo das regras técnicas nacionais obrigatórias, desde que sejam compatíveis com o direito comunitário, as especificações técnicas devem ser fixadas no caderno de encargos:
 
-3 - As especificações técnicas podem concretizar se é exigida a transmissão de direitos de propriedade intelectual.
+a) Por referência, por ordem de preferência, a normas nacionais que transponham normas europeias, a homologações técnicas europeias, a especificações técnicas comuns, a normas internacionais ou a qualquer outro referencial técnico elaborado pelos organismos europeus de normalização, acompanhadas da menção «ou equivalente»;
 
-4 - As especificações técnicas devem permitir a igualdade de acesso dos operadores económicos ao procedimento de contratação e não devem criar obstáculos injustificados à abertura dos contratos públicos à concorrência.
+b) Na falta de qualquer dos referenciais técnicos referidos na alínea anterior, por referência a normas nacionais, a homologações técnicas nacionais ou a especificações técnicas nacionais em matéria de concepção, de cálculo e de realização de obras e de utilização de materiais, acompanhadas da menção «ou equivalente»;
 
-5 - Em relação a todos os contratos cujo objeto se destine a ser utilizado por pessoas singulares, quer seja o público em geral quer o pessoal da entidade adjudicante, as especificações técnicas devem, salvo em casos devidamente justificados, ser elaboradas de modo a ter em conta os critérios de acessibilidade para as pessoas com deficiência ou de conceção para todos os utilizadores.
+c) Em termos de desempenho ou de exigências funcionais, incluindo práticas e critérios ambientais, desde que sejam suficientemente precisas para permitir a determinação do objecto do contrato pelos interessados e a escolha da proposta pela entidade adjudicante;
 
-6 - Sempre que existam normas de acessibilidade obrigatórias adotadas por ato legislativo da União Europeia, as especificações técnicas devem ser definidas por referência a essas normas, no que respeita aos critérios de acessibilidade para as pessoas com deficiência ou de conceção para todos os utilizadores.
+d) Nos termos referidos na alínea anterior, baseando a presunção da conformidade com aquele desempenho ou com aquelas exigências funcionais na remissão para as especificações a que se referem as alíneas a) e b).
 
-7 - Sem prejuízo das regras técnicas nacionais vinculativas, na medida em que sejam compatíveis com o direito da União Europeia, as especificações técnicas devem ser formuladas segundo uma das seguintes modalidades:
+3 - As especificações técnicas podem ainda ser fixadas, simultaneamente, por referência aos elementos referidos nas alíneas a) e b) do número anterior para certas características e em termos de desempenho ou de exigências funcionais para outras características.
 
-a) Em termos de desempenho ou de requisitos funcionais, que podem incluir aspetos ambientais e de eficiência energética, desde que sejam suficientemente precisos para delimitar o objeto do contrato e, se for o caso, que a entidade adjudicante os submeta à concorrência;
+4 - Não podem ser excluídas propostas com fundamento em desconformidade dos respectivos bens ou serviços com as especificações técnicas de referência, fixadas de acordo com o disposto nas alíneas a) ou b) do n.º 2, desde que o concorrente demonstre, de forma adequada e suficiente, que as soluções apresentadas na sua proposta satisfazem, de modo equivalente, as exigências definidas por aquelas especificações.
 
-b) Por referência a especificações técnicas definidas e, por ordem de preferência, a normas nacionais que transponham normas europeias, a homologações técnicas europeias, a especificações técnicas comuns, a normas internacionais e a outros sistemas técnicos de referência estabelecidos pelos organismos europeus de normalização ou, quando estes não existam, a normas nacionais, a homologações técnicas nacionais ou a especificações técnicas nacionais em matéria de conceção, cálculo e execução das obras e de utilização dos fornecimentos, devendo cada referência ser acompanhada da menção «ou equivalente»;
+5 - Quando as especificações técnicas de referência tenham sido fixadas nos termos do disposto na alínea c) do n.º 2, não podem ser excluídas propostas relativas a obras, a bens ou a serviços, desde que estejam em conformidade com normas nacionais que transponham normas europeias, com homologações técnicas europeias, com especificações técnicas comuns, com normas internacionais ou com qualquer outro referencial técnico elaborado pelos organismos europeus de normalização, se estas especificações corresponderem ao desempenho ou cumprirem as exigências funcionais fixadas no caderno de encargos.
 
-c) Em termos do desempenho ou dos requisitos funcionais a que se refere a alínea a), com referência às especificações técnicas a que se refere a alínea b) como meio de presunção de conformidade com esse desempenho ou com esses requisitos funcionais;
+6 - No caso referido no número anterior, cabe ao concorrente demonstrar, de forma adequada e suficiente, que a obra, o bem ou o serviço conforme com a norma corresponde ao desempenho ou cumpre as exigências funcionais fixadas pela entidade adjudicante.
 
-d) Por referência às especificações técnicas a que se refere a alínea b), para determinadas características, e por referência ao desempenho ou aos requisitos funcionais a que se refere a alínea a), para outras.
+7 - Quando as especificações técnicas sejam fixadas em termos de desempenho ou de exigências funcionais que digam respeito a práticas e critérios ambientais, o caderno de encargos pode prever especificações pormenorizadas ou, em caso de necessidade, parte destas, tal como definidas pelo rótulo ecológico europeu ou por qualquer outro rótulo ecológico, desde que:
 
-8 - A menos que o objeto do contrato o justifique, as especificações técnicas não podem fazer referência a determinado fabrico ou proveniência, a um procedimento específico que caracterize os produtos ou serviços prestados por determinado fornecedor, ou a marcas comerciais, patentes, tipos, origens ou modos de produção determinados que tenham por efeito favorecer ou eliminar determinadas empresas ou produtos.
+a) Essas especificações sejam adequadas à definição das características dos bens ou serviços objecto do contrato a celebrar;
 
-9 - As referências mencionadas no número anterior só são autorizadas, a título excecional, no caso de não ser possível uma descrição suficientemente precisa e inteligível do objeto do contrato nos termos do n.º 7, devendo, no entanto, ser acompanhada da menção «ou equivalente».
+b) Os requisitos do rótulo sejam elaborados com base numa informação científica;
 
-10 - Sempre que a entidade adjudicante recorra à possibilidade de remeter para as especificações técnicas a que se refere na alínea b) do n.º 7, não pode excluir uma proposta com o fundamento de que as obras, bens móveis ou serviços dela constantes não estão em conformidade com as suas especificações técnicas de referência, se o concorrente demonstrar na sua proposta por qualquer meio adequado, nomeadamente os meios de prova referidos no artigo seguinte, que as soluções propostas satisfazem de modo equivalente os requisitos definidos nas especificações técnicas.
+c) Os rótulos ecológicos sejam desenvolvidos por um procedimento em que possam participar todas as partes interessadas, tais como os organismos governamentais, os consumidores, os fabricantes, os distribuidores e as organizações ambientais; e
 
-11 - Sempre que a entidade adjudicante recorra à possibilidade, prevista na alínea a) do n.º 7, de formular especificações técnicas em termos de exigências de desempenho ou de requisitos funcionais, não deve excluir uma proposta que esteja em conformidade com uma norma nacional que transponha uma norma europeia, uma homologação técnica europeia, uma especificação técnica comum, uma norma internacional ou um sistema técnico de referência estabelecido por um organismo de normalização europeu, quando essas especificações corresponderem aos critérios de desempenho ou cumprirem os requisitos funcionais impostos.
+d) Sejam acessíveis a todas as partes interessadas.
 
-12 - O concorrente pode demonstrar na sua proposta, por qualquer meio adequado, incluindo os meios referidos no artigo 49.º-A, que a obra, bem móvel ou serviço em conformidade com a norma em questão corresponde ao desempenho exigido ou cumpre os requisitos funcionais da entidade adjudicante.
+8 - Para os efeitos do disposto no número anterior, o caderno de encargos pode indicar que se presume que os bens ou serviços munidos de rótulo ecológico satisfazem as especificações técnicas nele definidas, sem prejuízo de a entidade adjudicante dever aceitar qualquer meio adequado de prova para o efeito apresentado pelo concorrente.
 
-13 - [Revogado.]
+9 - Para efeito do disposto nos n.os 4, 6 e 8, o concorrente pode apresentar um dossier técnico do fabricante ou um relatório de ensaio de um organismo reconhecido.
 
-14 - [Revogado.]
+10 - Entende-se por organismo reconhecido os laboratórios de ensaio ou de calibração e os organismos de inspecção e de certificação que cumprem as normas europeias aplicáveis.
+
+11 - As entidades adjudicantes devem aceitar certificados de organismos reconhecidos estabelecidos noutros Estados membros.
+
+12 - É proibida a fixação de especificações técnicas que façam referência a um fabricante ou uma proveniência determinados, a um processo específico de fabrico, a marcas, patentes ou modelos e a uma dada origem ou produção, que tenha por efeito favorecer ou eliminar determinadas entidades ou determinados bens.
+
+13 - É permitida, a título excepcional, a fixação de especificações técnicas por referência, acompanhada da menção «ou equivalente», aos elementos referidos no número anterior quando haja impossibilidade de descrever, de forma suficientemente precisa e inteligível, nos termos do disposto nos n.os 2 a 4, as prestações objecto do contrato a celebrar.
+
+14 - Sempre que possível, as especificações técnicas devem ser fixadas por forma a contemplar características dos bens a adquirir ou das obras a executar que permitam a sua utilização por pessoas com deficiências ou por qualquer utilizador.

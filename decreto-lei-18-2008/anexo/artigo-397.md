@@ -10,7 +10,7 @@ a) 10 anos, no caso de defeitos relativos a elementos construtivos estruturais;
 
 b) 5 anos, no caso de defeitos relativos a elementos construtivos não estruturais ou a instalações técnicas;
 
-c) 3 anos, no caso de defeitos relativos a equipamentos afetos à obra, mas dela autonomizáveis.
+c) 2 anos, no caso de defeitos relativos a equipamentos afectos à obra, mas dela autonomizáveis.
 
 3 - O contrato pode estipular prazos de garantia diferentes dos previstos no número anterior, mas tais prazos apenas podem ser superiores àqueles quando, tratando-se de aspecto da execução do contrato submetido à concorrência pelo caderno de encargos, o empreiteiro o tenha proposto.
 

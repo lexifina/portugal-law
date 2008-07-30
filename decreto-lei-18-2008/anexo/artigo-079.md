@@ -2,23 +2,19 @@
 
 ### Causas de não adjudicação
 
-1 - Não há lugar a adjudicação, extinguindo-se o procedimento, quando:
+1 - Não há lugar a adjudicação quando:
 
-a) [Revogada.]
+a) Nenhum candidato se haja apresentado ou nenhum concorrente haja apresentado proposta;
 
-b) [Revogada.]
+b) Todas as candidaturas ou todas as propostas tenham sido excluídas;
 
-c) Por circunstâncias imprevistas, seja necessário alterar aspetos fundamentais das peças do procedimento;
+c) Por circunstâncias imprevistas, seja necessário alterar aspectos fundamentais das peças do procedimento após o termo do prazo fixado para a apresentação das propostas;
 
-d) Circunstâncias supervenientes relativas aos pressupostos da decisão de contratar o justifiquem;
+d) Circunstâncias supervenientes ao termo do prazo fixado para a apresentação das propostas, relativas aos pressupostos da decisão de contratar, o justifiquem;
 
-e) Não tendo fixado um preço base, a entidade adjudicante considere, fundamentadamente, que todos os preços apresentados são inaceitáveis, nomeadamente por se apurar uma acentuada discrepância entre os preços apresentados e os preços normalmente praticados no mercado;
+e) No procedimento de ajuste directo em que só tenha sido convidada uma entidade e não tenha sido fixado preço base no caderno de encargos, o preço contratual seria manifestamente desproporcionado;
 
-f) No procedimento de diálogo concorrencial e de parceria para a inovação, nenhuma das soluções apresentadas satisfaça as necessidades e as exigências da entidade adjudicante;
-
-g) No procedimento para a celebração de acordo-quadro com várias entidades o número de candidaturas ou propostas apresentadas ou admitidas seja inferior ao número mínimo previsto no programa de concurso;
-
-h) Todas as propostas sejam consideradas insatisfatórias para a entidade adjudicante por nenhuma delas ter alcançado a pontuação global mínima definida no programa do procedimento ou no convite.
+f) No procedimento de diálogo concorrencial, nenhuma das soluções apresentadas satisfaça as necessidades e as exigências da entidade adjudicante.
 
 2 - A decisão de não adjudicação, bem como os respectivos fundamentos, deve ser notificada a todos os concorrentes.
 

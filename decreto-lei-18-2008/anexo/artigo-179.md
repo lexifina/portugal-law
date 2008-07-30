@@ -6,7 +6,7 @@
 
 2 - Quando, para efeitos do preenchimento dos requisitos mínimos de capacidade técnica, o candidato recorra a terceiras entidades, a capacidade destas apenas aproveita àquele na estrita medida das prestações objecto do contrato a celebrar que essas entidades se comprometam a realizar.
 
-3 - Exclusivamente para os efeitos do disposto no n.º 1, considera-se que equivale ao preenchimento do requisito mínimo de capacidade financeira:
+3 - Exclusivamente para os efeitos do disposto no n.º 1, considera-se que equivale ao preenchimento do requisito mínimo de capacidade financeira referido no n.º 2 do artigo 165.º:
 
 a) A apresentação de declaração bancária conforme modelo constante do anexo vi do presente Código e do qual faz parte integrante; ou
 

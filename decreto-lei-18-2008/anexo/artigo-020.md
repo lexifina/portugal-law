@@ -2,18 +2,24 @@
 
 ### Escolha do procedimento de formação de contratos de locação ou de aquisição de bens móveis e de aquisição de serviços
 
-1 - Para a celebração de contratos de locação ou de aquisição de bens móveis e de aquisição de serviços, pode adotar-se um dos seguintes procedimentos:
+1 - No caso de contratos de locação ou de aquisição de bens móveis e de contratos de aquisição de serviços:
 
-a) Concurso público ou concurso limitado por prévia qualificação, com publicação de anúncio no Jornal Oficial da União Europeia, qualquer que seja o valor estimado do contrato;
+a) A escolha do ajuste directo só permite a celebração de contratos de valor inferior a (euro) 75 000, sem prejuízo do disposto no n.º 4, ou, caso a entidade adjudicante seja o Banco de Portugal ou uma das referidas no n.º 2 do artigo 2.º, de valor inferior ao referido na alínea b) do artigo 7.º da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março;
 
-b) Concurso público ou concurso limitado por prévia qualificação, sem publicação de anúncio no Jornal Oficial da União Europeia, quando o valor estimado do contrato seja inferior aos limiares referidos nas alíneas b) ou c) do n.º 3 do artigo 474.º, consoante o caso;
+b) A escolha do concurso público ou do concurso limitado por prévia qualificação permite a celebração de contratos de qualquer valor, excepto quando os respectivos anúncios não sejam publicados no Jornal Oficial da União Europeia, caso em que só permite a celebração de contratos de valor inferior ao referido na alínea b) do artigo 7.º da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março.
 
-c) Consulta prévia, quando o valor estimado do contrato seja inferior a 130 000 €;
+2 - Quando a entidade adjudicante seja o Estado, a escolha dos procedimentos referidos na alínea b) do número anterior, cujos anúncios não sejam publicados no Jornal Oficial da União Europeia, só permite a celebração de contratos de locação ou de aquisição de bens móveis e de contratos de aquisição de serviços de valor inferior ao referido na alínea a) do artigo 7.º da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março, excepto se se tratar de:
 
-d) Ajuste direto, quando o valor estimado do contrato for inferior a 75 000 €.
+a) Contratos de locação ou de aquisição de bens móveis excepcionados pelo anexo v da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março, a celebrar no domínio da defesa;
 
-2 - [Revogado.]
+b) Contratos de aquisição de serviços que tenham por objecto:
 
-3 - [Revogado.]
+i) Serviços de investigação e desenvolvimento;
 
-4 - [Revogado.]
+ii) Serviços de transmissão de programas televisivos e de emissões de rádio, serviços de interconexão e serviços integrados de telecomunicações; ou
+
+iii) Serviços mencionados no anexo ii-B da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março.
+
+3 - À formação dos contratos referidos nas alíneas do número anterior é aplicável o disposto na alínea b) do n.º 1.
+
+4 - No caso de se tratar de contratos de aquisição de planos, de projectos ou de criações conceptuais nos domínios da arquitectura ou da engenharia, a escolha do ajuste directo só permite a celebração, pelas entidades adjudicantes referidas no n.º 1 do artigo 2.º, de contratos de valor inferior a (euro) 25 000.

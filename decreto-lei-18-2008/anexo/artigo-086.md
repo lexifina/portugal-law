@@ -2,20 +2,16 @@
 
 ### Não apresentação dos documentos de habilitação
 
-1 - Sempre que possível, o órgão competente para a decisão de contratar deve solicitar ao adjudicatário que proceda ao suprimento de irregularidades formais relativas à sua habilitação, sendo aplicável o disposto no n.º 3 do artigo 72.º, com as devidas adaptações.
+1 - A adjudicação caduca se, por facto que lhe seja imputável, o adjudicatário não apresentar os documentos de habilitação:
 
-2 - Sem prejuízo do disposto no número anterior, a adjudicação caduca se, por facto que lhe seja imputável, o adjudicatário:
+a) No prazo fixado no programa do procedimento;
 
-a) Não apresentar os documentos de habilitação no prazo fixado no programa do procedimento ou nos termos do n.º 2 do artigo anterior;
+b) No prazo fixado pelo órgão competente para a decisão de contratar, no caso previsto no n.º 8 do artigo 81.º;
 
-b) Não apresentar os documentos solicitados pelo órgão competente para a decisão de contratar nos termos do n.º 8 do artigo 81.º no prazo fixado para o efeito;
+c) Redigidos em língua portuguesa ou, no caso previsto no n.º 2 artigo 82.º, acompanhados de tradução devidamente legalizada.
 
-c) Não proceder ao suprimento de irregularidades nos termos do disposto no n.º 1, incluindo não apresentar os documentos de habilitação redigidos em língua portuguesa, ou acompanhados de tradução devidamente legalizada no caso de estarem, pela sua natureza ou origem, redigidos numa outra língua, salvo se o programa do procedimento dispuser diferentemente e estabelecer a suficiência da redação dos documentos em língua estrangeira sem necessidade de tradução.
+2 - Quando as situações previstas no número anterior se verifiquem por facto que não seja imputável ao adjudicatário, o órgão competente para a decisão de contratar deve conceder-lhe, em função das razões invocadas, um prazo adicional para a apresentação dos documentos em falta, sob pena de caducidade da adjudicação.
 
-3 - Sempre que se verifique um facto que determine a caducidade da adjudicação nos termos do n.º 2, o órgão competente para a decisão de contratar deve notificar o adjudicatário relativamente ao qual o facto ocorreu, fixando-lhe um prazo, não superior a cinco dias, para que se pronuncie, por escrito, ao abrigo do direito de audiência prévia.
+3 - Nos casos previstos nos números anteriores, o órgão competente para a decisão de contratar deve adjudicar a proposta ordenada em lugar subsequente.
 
-4 - Quando as situações previstas no n.º 2 se verifiquem por facto que não seja imputável ao adjudicatário, o órgão competente para a decisão de contratar deve conceder-lhe, em função das razões invocadas, um prazo adicional para a apresentação dos documentos em falta, sob pena de caducidade da adjudicação.
-
-5 - [Revogado.]
-
-6 - Nos casos previstos nos números anteriores, o órgão competente para a decisão de contratar deve adjudicar a proposta ordenada em lugar subsequente.
+4 - No caso de se tratar de um procedimento de formação de um contrato de empreitada ou concessão de obras públicas, a entidade adjudicante deve comunicar imediatamente ao Instituto da Construção e do Imobiliário, I. P., a caducidade da adjudicação.

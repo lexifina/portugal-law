@@ -6,7 +6,7 @@
 
 ### Modelo de avaliação das propostas
 
-1 - Nos casos previstos na alínea a) do n.º 1 do artigo 74.º, deve ser elaborado um modelo de avaliação das propostas que explicite claramente os fatores e os eventuais subfatores relativos aos aspetos da execução do contrato a celebrar submetidos à concorrência pelo caderno de encargos.
+1 - No caso de o critério de adjudicação adoptado ser o da proposta economicamente mais vantajosa, o modelo de avaliação das propostas deve ser elaborado de acordo com o disposto nos n.os 2 a 4.
 
 2 - A pontuação global de cada proposta, expressa numericamente, corresponde ao resultado da soma das pontuações parciais obtidas em cada factor ou subfactor elementar, multiplicadas pelos valores dos respectivos coeficientes de ponderação.
 

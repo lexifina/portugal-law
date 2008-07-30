@@ -8,48 +8,40 @@
 
 3 - As cláusulas do caderno de encargos relativas aos aspectos da execução do contrato submetidos à concorrência podem fixar os respectivos parâmetros base a que as propostas estão vinculadas.
 
-4 - Os parâmetros base referidos no número anterior podem dizer respeito a quaisquer aspetos da execução do contrato, tais como o preço a pagar ou a receber pela entidade adjudicante, a sua revisão, o prazo de execução das prestações objeto do contrato ou as suas características técnicas ou funcionais, bem como às condições da modificação do contrato, devendo ser definidos através de limites mínimos ou máximos, consoante os casos, sem prejuízo dos limites resultantes das vinculações legais ou regulamentares aplicáveis.
+4 - Os parâmetros base referidos no número anterior podem dizer respeito a quaisquer aspectos da execução do contrato, tais como o preço a pagar ou a receber pela entidade adjudicante, a sua revisão, o prazo de execução das prestações objecto do contrato ou as suas características técnicas ou funcionais, e devem ser definidos através de limites mínimos ou máximos, consoante os casos, sem prejuízo dos limites resultantes das vinculações legais ou regulamentares aplicáveis.
 
 5 - O caderno de encargos pode também descrever aspectos da execução do contrato não submetidos à concorrência, nomeadamente mediante a fixação de limites mínimos ou máximos a que as propostas estão vinculadas.
 
-6 - Os aspetos da execução do contrato, constantes das cláusulas do caderno de encargos, podem dizer respeito, desde que ligados ao seu objeto, à prossecução de objetivos de natureza social e ambiental, ou que se destinem a favorecer:
+6 - Os aspectos da execução do contrato constantes das cláusulas do caderno de encargos podem dizer respeito a condições de natureza social ou ambiental relacionadas com tal execução.
 
-a) A aplicação de medidas de promoção da igualdade de género e da igualdade salarial no trabalho;
+7 - O caderno de encargos do procedimento de formação de contratos de valor igual ou superior a (euro) 25 000 000 deve prever a obrigação de o adjudicatário elaborar um ou vários projectos de investigação e desenvolvimento directamente relacionados com as prestações que constituem o objecto desse contrato, a concretizar em território nacional, pelo adjudicatário ou por terceiras entidades, de valor correspondente a, pelo menos, 1 % do preço contratual.
 
-b) O aumento da participação das mulheres no mercado de trabalho;
+8 - Em casos devidamente fundamentados, nomeadamente quando o objecto do contrato a celebrar seja de baixa intensidade tecnológica, o valor previsto no número anterior pode ser reduzido até 0,5 %.
 
-c) A conciliação da vida profissional com a vida familiar e pessoal de todos os trabalhadores afetos à execução do contrato;
+9 - Os projectos de investigação e desenvolvimento a que se refere o n.º 7 devem conter todos os aspectos necessários e adequados à concretização inequívoca das actividades a desenvolver, nomeadamente a sua descrição, planeamento, objectivos, resultados expectáveis e quantificação financeira.
 
-d) A inclusão de pessoas com deficiência no mercado de trabalho;
+10 - O caderno de encargos do procedimento de formação de contratos cujas prestações que constituem o seu objecto se destinem, a título principal, a permitir à entidade adjudicante a abertura ou a exploração de redes públicas de telecomunicações ou a prestação ao público de um ou mais serviços de telecomunicações, deve prever os seguintes aspectos da execução dos mesmos:
 
-e) [Revogada.]
+a) A largura de banda;
 
-f) A promoção da economia circular e dos circuitos curtos de distribuição;
+b) A transversalidade funcional, actual ou potencial da solução;
 
-g) A promoção da sustentabilidade ambiental;
+c) A adequação tecnológica e as capacidades de evolução da solução;
 
-h) A valorização de processos, produtos ou materiais inovadores;
+d) Os níveis de qualidade de serviço, relativamente ao desempenho, à disponibilidade da solução e aos tempos de resposta às solicitações da entidade adjudicante;
 
-i) A contribuição para a promoção da inovação ou de emprego científico ou qualificado;
+e) Os mecanismos de monitorização dos níveis de qualidade de serviço;
 
-j) A promoção de atividades culturais e a dinamização de património cultural;
+f) As sanções aplicáveis ao adjudicatário por incumprimento ao nível da instalação e da exploração do serviço;
 
-k) A valorização da contratação coletiva;
+g) As condições da resolução contratual pela entidade adjudicante;
 
-l) O combate ao trabalho precário;
+h) A organização e os procedimentos para a gestão da relação contratual por parte do adjudicatário;
 
-m) A eficiência energética.
+i) A minimização do custo total de propriedade, incluindo a aquisição, a exploração, a manutenção e a desactivação ou alienação;
 
-7 - [Revogado.]
+j) Os prazos de implementação da solução;
 
-8 - [Revogado.]
+l) A indicação se o adjudicatário se encontra sujeito a especial dever de sigilo relativamente às informações obtidas no âmbito da execução do contrato;
 
-9 - [Revogado.]
-
-10 - [Revogado.]
-
-11 - Para efeito do disposto nos n.ºs 3 e 5, consideram-se aspetos da execução do contrato submetidos à concorrência aqueles que correspondam a fatores ou subfatores que densificam o critério de adjudicação, e aspetos não submetidos à concorrência todos os demais.
-
-12 - A inclusão no caderno de encargos das condições elencadas no n.º 6 pode contemplar, nomeadamente, a fixação de quantidades mínimas de fornecimento de bens ou de prestação de serviços destinadas à promoção desses objetivos.
-
-13 - Os cadernos de encargos dos procedimentos de formação de contratos de concessão de obras públicas, de concessão de serviços e de aquisição de serviços devem incluir uma cláusula determinando a obrigatoriedade de cumprimento do disposto no artigo 419.º-A.
+m) A redução automática dos preços em função das alterações registadas no mercado durante o prazo de vigência do contrato.

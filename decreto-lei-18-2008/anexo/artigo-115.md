@@ -2,35 +2,27 @@
 
 ### Convite
 
-1 - O convite à apresentação de proposta deve indicar:
+1 - O programa do procedimento de ajuste directo é substituído pelo convite à apresentação de proposta, o qual deve indicar:
 
-a) A identificação do procedimento e da entidade adjudicante;
+a) A entidade adjudicante;
 
 b) O órgão que tomou a decisão de contratar e, no caso de esta ter sido tomada no uso de delegação ou subdelegação de competência, a qualidade em que aquele decidiu, com menção das decisões de delegação ou subdelegação e do local da respectiva publicação;
 
-c) O fundamento da escolha do procedimento de consulta prévia ou de ajuste direto;
+c) O fundamento da escolha do ajuste directo, quando seja feita ao abrigo do disposto nos artigos 24.º a 27.º e 31.º a 33.º;
 
-d) O valor estimado do contrato ou, se for o caso, o preço base;
+d) Os documentos referidos na alínea c) do n.º 1 do artigo 57.º, se for o caso;
 
-e) Os documentos referidos nos nºs 1 e 2 do artigo 57.º e, se for o caso, no artigo 57.º-A;
+e) Os documentos que constituem a proposta que podem ser redigidos em língua estrangeira, nos termos do disposto no n.º 2 do artigo 58.º;
 
-f) Os documentos que constituem a proposta que podem ser redigidos em língua estrangeira, nos termos do disposto no n.º 2 do artigo 58.º;
+f) O prazo para a apresentação da proposta;
 
-g) O prazo para a apresentação da proposta;
+g) O modo de apresentação da proposta, através de meio de transmissão escrita e electrónica de dados, se diferente do previsto no n.º 1 do artigo 62.º;
 
-h) O modo de apresentação da proposta, através de meio de transmissão eletrónica de dados ou de plataforma eletrónica;
+h) O modo de prestação da caução ou os termos em que não seja exigida essa prestação de acordo com o disposto no n.º 4 do artigo 88.º;
 
-i) O modo de prestação da caução ou os termos em que não seja exigida essa prestação de acordo com o disposto no n.º 4 do artigo 88.º;
+i) O valor da caução, quando esta for exigida nos termos do disposto no n.º 3 do artigo 89.º
 
-j) O valor da caução, quando esta for exigida;
-
-k) O prazo para a apresentação, pelo adjudicatário, dos documentos de habilitação, que pode ser até cinco dias, bem como o prazo a conceder pela entidade adjudicante para a supressão de irregularidades detetadas nos documentos apresentados que possam levar à caducidade da adjudicação;
-
-l) A pontuação global mínima das propostas, para os efeitos do disposto na alínea h) do n.º 1 do artigo 79.º, se for o caso;
-
-m) Uma lista, meramente indicativa e tendo por referência o momento do início do procedimento, das categorias, retribuições e quaisquer regalias dos trabalhadores cujos contratos poderão ser transmitidos ao adjudicatário, quando a execução do contrato envolva a transmissão do estabelecimento.
-
-2 - Tratando-se de procedimento de consulta prévia, o convite deve também indicar:
+2 - Quando for convidada a apresentar proposta mais de uma entidade, o convite deve também indicar:
 
 a) Se as propostas apresentadas serão objecto de negociação e, em caso afirmativo:
 
@@ -38,11 +30,11 @@ i) Quais os aspectos da execução do contrato a celebrar que a entidade adjudic
 
 ii) Se a negociação decorrerá, parcial ou totalmente, por via electrónica e os respectivos termos;
 
-b) A modalidade do critério de adjudicação e os eventuais fatores e subfatores que o densificam, não sendo, porém, necessário um modelo ou uma grelha de avaliação das propostas.
+b) O critério de adjudicação e os eventuais factores e subfactores que o densificam, não sendo, porém, necessário um modelo de avaliação das propostas.
 
-3 - [Revogado.]
+3 - O convite pode indicar, ainda que por referência ao preço base fixado no caderno de encargos, um valor a partir do qual o preço total resultante de uma proposta é considerado anormalmente baixo.
 
-4 - O convite e a proposta devem ser enviados através de meios eletrónicos ou através de plataforma eletrónica.
+4 - O convite deve ser formulado por escrito e acompanhado do caderno de encargos, podendo ser entregue directamente ou enviado por correio ou ainda por qualquer meio de transmissão escrita e electrónica de dados, devendo a entrega ou o envio ocorrer simultaneamente quando for convidada a apresentar proposta mais de uma entidade.
 
 5 - Quando o ajuste directo seja adoptado ao abrigo do disposto na alínea g) do n.º 1 do artigo 27.º:
 

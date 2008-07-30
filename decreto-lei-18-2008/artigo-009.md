@@ -6,7 +6,7 @@
 
 ### Modo de apresentação das propostas e das candidaturas em suporte papel
 
-1 - Até 31 de Outubro de 2009, a entidade adjudicante pode fixar, no programa do procedimento, que os documentos que constituem a proposta ou a candidatura possam ser apresentados em suporte papel.
+1 - Durante o período de um ano a contar da data da entrada em vigor do presente decreto-lei, a entidade adjudicante pode fixar, no programa do procedimento, que os documentos que constituem a proposta ou a candidatura podem ser apresentados em suporte papel.
 
 2 - No caso previsto no número anterior, os documentos que constituem a proposta ou a candidatura devem ser encerrados em invólucro opaco e fechado, no rosto do qual deve ser escrita a palavra «Proposta» ou «Candidatura», indicando-se o nome ou a denominação social do concorrente ou do candidato ou, se for o caso, dos membros do agrupamento concorrente ou candidato, e a designação do contrato a celebrar.
 

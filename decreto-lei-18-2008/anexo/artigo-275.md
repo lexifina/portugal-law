@@ -6,18 +6,16 @@
 
 ### Contratos subsidiados
 
-1 - A parte ii aplica-se igualmente à formação de contratos celebrados por entidades não previstas no artigo 2.º e no artigo 7.º, nos seguintes termos:
+1 - As regras previstas no presente Código relativas à formação de contratos de empreitada de obras públicas são também aplicáveis no caso da formação de contratos de empreitada celebrados por entidades não referidas no artigo 2.º ou no n.º 1 do artigo 7.º, desde que:
 
-a) Contratos de empreitada de obras subsidiados diretamente em mais de 50 % do respetivo preço contratual por entidades adjudicantes, sendo o referido preço contratual igual ou superior ao limiar previsto na alínea a) do n.º 3 do artigo 474.º, caso envolvam uma das seguintes atividades:
+a) Sejam financiados directamente em mais de 50 % por qualquer das entidades adjudicantes referidas no artigo 2.º; e
 
-i) Atividades de construção civil enumeradas no anexo xi ao presente Código, do qual faz parte integrante;
+b) O respectivo preço contratual seja igual ou superior ao valor referido na alínea b) do artigo 19.º.
 
-ii) Obras de construção de hospitais, instalações desportivas, recreativas e de ocupação de tempos livres, estabelecimentos escolares e universitários e edifícios para uso administrativo;
+2 - As regras previstas no presente Código relativas à formação de contratos de aquisição de serviços são também aplicáveis no caso da formação de contratos de aquisição de serviços celebrados por entidades não referidas no artigo 2.º ou no n.º 1 do artigo 7.º, desde que:
 
-b) Contratos de serviços subsidiados diretamente em mais de 50 % do respetivo preço contratual por entidades adjudicantes, sendo o referido preço igual ou superior ao limiar previsto na alínea c) do n.º 3 do artigo 474.º, quando estejam associados a um contrato de empreitada de obras na aceção da alínea anterior.
+a) Sejam financiados directamente em mais de 50 % por qualquer das entidades adjudicantes referidas no artigo 2.º;
 
-2 - As entidades adjudicantes que concedem os subsídios referidos no número anterior são responsáveis por assegurar o cumprimento das normas do presente Código, quando não forem elas próprias a celebrar os contratos subsidiados ou quando celebrarem esses contratos em nome e por conta de outras entidades.
+b) O respectivo preço contratual seja igual ou superior ao valor referido na alínea b) do n.º 1 do artigo 20.º; e
 
-3 - A formação de contratos celebrados por entidades não previstas no artigo 2.º e no artigo 7.º, que sejam financiados com recurso a subsídios sujeitos a reembolso de pelo menos 85 % do seu valor, fica excecionada do disposto no n.º 1.
-
-4 - [Revogado.]
+c) Sejam complementares, dependentes ou se encontrem, por qualquer forma, relacionados com o objecto de um contrato de empreitada a cuja formação é aplicável o presente Código nos termos do disposto no número anterior.

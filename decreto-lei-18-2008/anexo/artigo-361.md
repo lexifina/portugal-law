@@ -6,7 +6,7 @@
 
 ### Plano de trabalhos
 
-1 - O plano de trabalhos destina-se, com respeito pelo prazo de execução da obra, à fixação da sequência e dos prazos parciais de execução de cada uma das espécies de trabalhos previstas e à especificação dos meios com que o empreiteiro se propõe executá-los.
+1 - O plano de trabalhos destina-se, com respeito pelo prazo de execução da obra, à fixação da sequência e dos prazos parciais de execução de cada uma das espécies de trabalhos previstas e à especificação dos meios com que o empreiteiro se propõe executá-los, bem como à definição do correspondente plano de pagamentos.
 
 2 - No caso em que o empreiteiro tenha a obrigação contratual de elaborar o programa ou o projecto de execução, o plano de trabalhos compreende as prestações de concepção sob responsabilidade do empreiteiro.
 

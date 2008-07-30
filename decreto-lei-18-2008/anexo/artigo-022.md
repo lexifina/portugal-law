@@ -1,0 +1,13 @@
+# Artigo 22.º
+
+### Divisão em lotes
+
+1 - Quando prestações do mesmo tipo, susceptíveis de constituírem objecto de um único contrato, sejam divididas em vários lotes, correspondendo cada um deles a um contrato separado, a escolha, nos termos do disposto nos artigos anteriores, do ajuste directo, do concurso público ou do concurso limitado por prévia qualificação cujo anúncio não seja publicado no Jornal Oficial da União Europeia, só permite a celebração do contrato relativo a cada lote desde que:
+
+a) O somatório dos preços base dos procedimentos de formação de todos os contratos a celebrar, quando essa formação ocorra em simultâneo, seja inferior aos valores mencionados, respectivamente e consoante os casos, nos artigos 19.º, 20.º e 21.º; ou
+
+b) O somatório dos preços contratuais relativos a todos os contratos já celebrados e dos preços base de todos os procedimentos ainda em curso, quando a formação desses contratos ocorra ao longo do período de um ano a contar do início do primeiro procedimento, seja inferior aos valores mencionados, respectivamente e consoante os casos, nos artigos 19.º, 20.º e 21.º
+
+2 - Quando seja possível prever o somatório dos preços contratuais dos lotes correspondentes aos vários contratos, já celebrados e a celebrar ao longo do período de tempo referido na alínea b) do número anterior, a escolha, nos termos do disposto nos artigos anteriores, do ajuste directo, bem como do concurso público ou do concurso limitado por prévia qualificação cujo anúncio não seja publicado no Jornal Oficial da União Europeia, só permite a celebração de contratos relativos a lotes subsequentes desde que esse somatório seja inferior aos valores mencionados, respectivamente e consoante os casos, nos artigos 19.º, 20.º e 21.º
+
+3 - No caso de contratos de empreitadas de obras públicas, de contratos de locação ou de aquisição de bens móveis ou de contratos de aquisição de serviços, a escolha, nos termos do disposto nos artigos anteriores, do ajuste directo, bem como do concurso público ou do concurso limitado por prévia qualificação cujo anúncio não seja publicado no Jornal Oficial da União Europeia, permite a celebração dos contratos relativos a lotes em que o preço base fixado no caderno de encargos seja inferior a (euro) 1 000 000, no caso de empreitadas de obras públicas, ou a (euro) 80 000, no caso de bens móveis ou serviços, ainda que os somatórios referidos nos números anteriores sejam iguais ou superiores aos valores mencionados, respectivamente e consoante os casos, nos artigos 19.º e 20.º, desde que o valor cumulado dos preços base dos procedimentos de formação dos contratos relativos a lotes cuja celebração é permitida neste número não exceda 20 % daqueles somatórios.

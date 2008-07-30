@@ -4,7 +4,7 @@
 
 Constituem obrigações do concessionário:
 
-a) Informar o concedente, ou quem este designar, de qualquer circunstância que possa condicionar o normal desenvolvimento das atividades concedidas;
+a) Informar o concedente de qualquer circunstância que possa condicionar o normal desenvolvimento das actividades concedidas;
 
 b) Fornecer ao concedente, ou a quem este designar para o efeito, qualquer informação ou elaborar relatórios específicos sobre aspectos relacionados com a execução do contrato, desde que solicitados por escrito;
 

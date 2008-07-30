@@ -4,7 +4,7 @@
 
 1 - Salvo previsão expressa no programa do procedimento, não é exigível a redução do contrato a escrito:
 
-a) Quando se trate de contrato de locação ou de aquisição de bens móveis ou de aquisição de serviços cujo preço contratual não exceda 30 000 €;
+a) Quando se trate de contrato de locação ou de aquisição de bens móveis ou de aquisição de serviços cujo preço contratual não exceda (euro) 10 000;
 
 b) Quando se trate de locar ou de adquirir bens móveis ou de adquirir serviços ao abrigo de um contrato público de aprovisionamento;
 
@@ -16,7 +16,7 @@ ii) A relação contratual se extinga com o fornecimento dos bens ou com a prest
 
 iii) O contrato não esteja sujeito a fiscalização prévia do Tribunal de Contas; ou
 
-d) Quando se trate de contrato de empreitada de obras públicas de complexidade técnica muito reduzida e cujo preço contratual não exceda 75 000 €.
+d) Quando se trate de contrato de empreitada de obras públicas de complexidade técnica muito reduzida e cujo preço contratual não exceda (euro) 15 000.
 
 2 - A redução do contrato a escrito pode ser dispensada pelo órgão competente para a decisão de contratar, mediante decisão fundamentada, quando:
 
@@ -30,10 +30,8 @@ c) Por motivos de urgência imperiosa resultante de acontecimentos imprevisívei
 
 4 - O prazo de 10 dias previsto no número anterior não é aplicável quando:
 
-a) Não tenha sido publicado anúncio do procedimento no Jornal Oficial da União Europeia;
+a) Tenha sido adoptado o ajuste directo nos termos do disposto na alínea a) do artigo 19.º, na alínea a) do n.º 1 do artigo 20.º ou na alínea a) do n.º 1 do artigo 21.º, ou ainda ao abrigo do disposto na alínea c) do n.º 1 do artigo 24.º;
 
-b) [Revogada.]
+b) Tenha sido adoptado o procedimento de concurso público urgente;
 
-c) Se trate da celebração de contrato ao abrigo de acordo quadro cujos termos abranjam todos os seus aspectos ou que tenha sido celebrado apenas com uma entidade;
-
-d) Só tenha sido apresentada uma proposta.
+c) Se trate da celebração de contrato ao abrigo de acordo quadro cujos termos abranjam todos os seus aspectos ou que tenha sido celebrado apenas com uma entidade.

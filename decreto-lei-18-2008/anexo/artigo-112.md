@@ -4,16 +4,14 @@
 
 ## Capítulo I
 
-## Consulta prévia e ajuste direto
+## Ajuste directo
 
 ## Secção I
 
-## Regime geral
+## Disposições comuns
 
 # Artigo 112.º
 
-### Noção de consulta prévia e de ajuste direto
+### Noção de ajuste directo
 
-1 - A consulta prévia é o procedimento em que a entidade adjudicante convida diretamente pelo menos três entidades à sua escolha a apresentar proposta, podendo com elas negociar os aspetos da execução do contrato a celebrar.
-
-2 - O ajuste direto é o procedimento em que a entidade adjudicante convida diretamente uma entidade à sua escolha a apresentar proposta.
+O ajuste directo é o procedimento em que a entidade adjudicante convida directamente uma ou várias entidades à sua escolha a apresentar proposta, podendo com elas negociar aspectos da execução do contrato a celebrar.

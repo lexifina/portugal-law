@@ -18,7 +18,7 @@ b) Atestar a correcta execução do plano de prevenção e gestão de resíduos 
 
 4 - No caso a que se refere o número anterior, o auto é imediatamente notificado ao empreiteiro para os efeitos previstos nos artigos seguintes.
 
-5 - Quando a vistoria for solicitada pelo empreiteiro, o dono da obra deve realizá-la no prazo de 30 dias contados da data da recepção da referida solicitação, convocando o empreiteiro nos termos do n.º 3.
+5 - Quando a vistoria for solicitada pelo empreiteiro, o dono da obra deve realizá-la no prazo de 30 dias contados da data em que for notificado da referida solicitação, convocando o empreiteiro nos termos do n.º 3.
 
 6 - O não agendamento ou realização atempada e sem motivo justificado da vistoria por facto imputável ao dono da obra tem os efeitos previstos no direito civil para a mora do credor.
 
