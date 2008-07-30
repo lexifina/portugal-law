@@ -1,0 +1,8 @@
+Portaria n.º 705/2008
+de 30 de Julho
+Pela Portaria n.º 1245/2006, de 16 de Novembro, foi criada a zona de caça municipal Os Mirones da Natureza II (processo n.º 4499-DGRF), situada no município da Chamusca, e transferida a sua gestão para a Associação de Caçadores Os Mirones da Natureza.
+Veio entretanto o proprietário de terrenos incluídos na zona de caça acima referida requerer a sua exclusão.
+Assim:
+Com fundamento no disposto no n.º 1 do artigo 28.º, em conjugação com o estipulado no n.º 1 do artigo 167.º, do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja excluído da presente zona de caça o prédio rústico denominado Herdade do Vale da Vaca, sito na freguesia de Pinheiro Grande, município da Chamusca, com a área de 702 ha, ficando a mesma com a área de 2084 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 17 de Julho de 2008.
+(ver documento original)
