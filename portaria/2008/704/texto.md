@@ -1,0 +1,9 @@
+Portaria n.º 704/2008
+de 30 de Julho
+Pela Portaria n.º 1433/2002, de 4 de Novembro, alterada pela Portaria n.º 1264-BR/2004, de 29 de Setembro, foi concessionada à Associação de Caçadores do Vascão a zona de caça associativa da Herdade da Pipa e outras (processo n.º 399-DGRF), situada nos municípios de Almodôvar, Mértola e Alcoutim, válida até 1 de Junho de 2008.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto na alínea a) do artigo 40.º e no artigo 48.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é renovada, por um período de seis anos, renovável automaticamente, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos na freguesia de Santa Cruz, município de Almodôvar, com a área de 1580 ha, freguesia de São Pedro Sólis, município de Mértola, com a área de 1155 ha, e freguesia de Martinlongo, município de Alcoutim, com a área de 161 ha, o que perfaz um total de 2896 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º A presente portaria produz efeitos a partir do dia 2 de Junho de 2008.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 2 de Junho de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 4 de Junho de 2008.
+(ver documento original)
