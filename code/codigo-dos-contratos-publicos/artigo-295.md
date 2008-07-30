@@ -1,0 +1,27 @@
+# Artigo 295.º
+
+### Liberação da caução
+
+1 - O regime de liberação das cauções prestadas pelo co-contratante deve ser estabelecido no contrato, não podendo as partes acordar em regime diverso durante a fase de execução contratual, salvo havendo fundamento de modificação do contrato que justifique uma alteração do regime de liberação das cauções e desde que sejam respeitados os limites previstos no presente Código.
+
+2 - A caução para garantia de adiantamentos de preço é progressivamente liberada à medida que forem prestados ou entregues os bens ou serviços correspondentes ao pagamento adiantado que tenha sido efectuado pelo contraente público.
+
+3 - Nos contratos em que não haja obrigações de correcção de defeitos pelo co-contratante, designadamente obrigações de garantia, o contraente público deve promover a liberação integral da caução destinada a garantir o exacto e pontual cumprimento das obrigações contratuais no prazo de 30 dias após o cumprimento de todas as obrigações do co-contratante.
+
+4 - Nos contratos em que haja obrigações de correcção de defeitos pelo co-contratante, designadamente obrigações de garantia, sujeitas a um prazo igual ou inferior a dois anos, o contraente público deve promover a liberação integral da caução destinada a garantir o exacto e pontual cumprimento das obrigações contratuais no prazo de 30 dias após o termo do respectivo prazo.
+
+5 - Nos contratos referidos no número anterior em que o prazo aí referido das obrigações de correcção de defeitos seja superior a dois anos, o contraente público promove a liberação da caução destinada a garantir o exacto e pontual cumprimento das obrigações contratuais, nos seguintes termos:
+
+a) 25 % do valor da caução, no prazo de 30 dias após o termo do 2.º ano do prazo a que estão sujeitas as obrigações de correcção de defeitos, designadamente as de garantia;
+
+b) Os restantes 75 %, no prazo de 30 dias após o termo de cada ano adicional do prazo a que estão sujeitas as obrigações de correcção de defeitos, designadamente as de garantia, na proporção do tempo decorrido, sem prejuízo da liberação integral, também no prazo de 30 dias, no caso de o prazo referido terminar antes de decorrido novo ano.
+
+6 - Não obstante o disposto no número anterior, quando o prazo a que estão sujeitas as obrigações de correcção de defeitos, designadamente as obrigações de garantia, for superior a cinco anos, a caução destinada a garantir o exacto e pontual cumprimento das obrigações contratuais deve encontrar-se liberada em pelo menos 75 %, no prazo de 30 dias após o decurso desses cinco anos.
+
+7 - Nos contratos em que haja lugar a recepção provisória, a recepção definitiva ou a acto equivalente e no caso de estas ocorrerem apenas parcialmente, a liberação parcial prevista no número anterior é promovida na proporção do valor respeitante à recepção parcial ou a acto equivalente.
+
+8 - A liberação da caução prevista nos n.os 4 a 7 depende da inexistência de defeitos da prestação do co-contratante ou da correcção daqueles que hajam sido detectados até ao momento da liberação, sem prejuízo de o contraente público poder decidir diferentemente, designadamente por considerar que os defeitos identificados e não corrigidos são de pequena importância e não justificam a não liberação.
+
+9 - Decorrido o prazo previsto nos números anteriores para a liberação da caução sem que esta tenha ocorrido, o co-contratante pode notificar o contraente público para que este cumpra a obrigação de liberação da caução, ficando autorizado a promovê-la, a título parcial ou integral, se, 15 dias após a notificação, o contraente público não tiver dado cumprimento à referida obrigação.
+
+10 - A mora na liberação, total ou parcial, da caução confere ao co-contratante o direito de indemnização, designadamente pelos custos adicionais por este incorridos com a manutenção da caução prestada por período superior ao que seria devido.
