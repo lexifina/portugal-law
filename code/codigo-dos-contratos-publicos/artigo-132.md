@@ -14,11 +14,11 @@ d) O fundamento da escolha do concurso público, quando seja feita ao abrigo do 
 
 e) O órgão competente para prestar esclarecimentos;
 
-f) Os documentos de habilitação, directamente relacionados com o objecto do contrato a celebrar, a apresentar nos termos do disposto no n.º 6 do artigo 81.º;
+f) Os documentos de habilitação, directamente relacionados com o objecto do contrato a celebrar, a apresentar nos termos do artigo 81.º;
 
-g) O prazo para a apresentação dos documentos de habilitação pelo adjudicatário;
+g) O prazo para a apresentação dos documentos de habilitação pelo adjudicatário, bem como o prazo a conceder pela entidade adjudicante para a supressão de irregularidades detectadas nos documentos apresentados que possam levar à caducidade da adjudicação nos termos do disposto no artigo 86.º;
 
-h) Os documentos referidos na alínea c) do n.º 1 do artigo 57.º, se for o caso;
+h) Os documentos referidos nos n.os 1 e 2 do artigo 57.º e no n.º 4 do artigo 60.º;
 
 i) Os documentos que constituem a proposta que podem ser redigidos em língua estrangeira, nos termos do disposto no n.º 2 do artigo 58.º;
 
