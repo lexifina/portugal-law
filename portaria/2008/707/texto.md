@@ -1,0 +1,12 @@
+Portaria n.º 707/2008
+de 30 de Julho
+Pela Portaria n.º 826/2001, de 25 de Julho, corrigida pela Declaração de Rectificação n.º 15-E/2001, de 31 de Agosto, foi criada a zona de caça municipal de Elvas (2) (processo n.º 2631-DGRF), situada no município de Elvas, com a área de 6624,56 ha, e transferida a sua gestão para o Clube Amadores de Caça e Pesca de Elvas.
+Considerando que a transferência de gestão não foi renovada no termo do seu prazo e que, nos termos da alínea c) do n.º 1 e do n.º2 do artigo 22.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, tal facto acarreta a sua extinção, por caducidade;
+Considerando que, para parte dos terrenos abrangidos pela mencionada zona de caça, foi requerida a concessão de uma zona de caça associativa a favor da Diana - Associação de Caça e Pesca;
+Assim:
+Com fundamento no disposto artigo 22.º e na alínea a) do artigo 40.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, ouvido o Conselho Cinegético Municipal de Elvas:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por um único e igual período, à Diana - Associação de Caça e Pesca, com o número de identificação fiscal 506923347, com sede na Rua do Poço, 36-C, Terrugem, 7350-491 Elvas, a zona de caça associativa da Herdade da Ramalha e outras (processo n.º 4935-DGRF), englobando vários prédios rústicos sitos nas freguesias de Terrugem e Vila Boim, município de Elvas, com a área de 1886 ha, conforme planta anexa à presente portaria e que dela faz parte integrante, provenientes da zona de caça municipal (processo n.º 2631-DGRF) cuja extinção ocorreu por caducidade, por falta de renovação, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 22.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro.
+2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 17 de Julho de 2008.
+(ver documento original)
