@@ -1,7 +1,3 @@
-## Secção II
-
-## Princípios
-
 # Artigo 7.º
 
 ### Princípios da legalidade e da prossecução do interesse público

@@ -1,7 +1,3 @@
-## Capítulo X
-
-## Ajuste directo
-
 # Artigo 161.º
 
 ### Declaração

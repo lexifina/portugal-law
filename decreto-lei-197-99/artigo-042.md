@@ -1,7 +1,3 @@
-## Secção VI
-
-## Caderno de encargos e especificações técnicas
-
 # Artigo 42.º
 
 ### Caderno de encargos

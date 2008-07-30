@@ -1,7 +1,3 @@
-## Capítulo XIV
-
-## Disposições finais e transitórias
-
 # Artigo 200.º
 
 ### Relatórios estatísticos

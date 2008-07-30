@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Contratos excepcionados
-
 # Artigo 76.º
 
 ### Contratos disciplinados por regras processuais específicas

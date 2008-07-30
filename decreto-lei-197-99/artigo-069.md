@@ -1,7 +1,3 @@
-## Secção X
-
-## Caução
-
 # Artigo 69.º
 
 ### Valor e finalidade

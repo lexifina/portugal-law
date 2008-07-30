@@ -1,7 +1,3 @@
-## Capítulo VII
-
-## Procedimento por negociação com publicação prévia de anúncio
-
 ## Secção I
 
 ## Disposições gerais

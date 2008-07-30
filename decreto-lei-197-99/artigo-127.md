@@ -1,7 +1,3 @@
-## Capítulo VI
-
-## Concurso limitado sem apresentação de candidaturas
-
 # Artigo 127.º
 
 ### Regime aplicável
