@@ -1,0 +1,11 @@
+Declaração de Rectificação n.º 41/2008
+Para os devidos efeitos se declara que a Lei n.º 25/2008, de 5 de Junho, que «estabelece medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e ao financiamento do terrorismo, transpondo para a ordem jurídica interna as Directivas n.os 2005/60/CE, do Parlamento Europeu e do Conselho, de 26 de Outubro, e 2006/70/CE, da Comissão, de 1 de Agosto, relativas à prevenção da utilização do sistema financeiro e das actividades e profissões especialmente designadas para efeitos de branqueamento de capitais e de financiamento do terrorismo, procede à segunda alteração à Lei n.º 52/2003, de 22 de Agosto, e revoga a Lei n.º 11/2004, de 27 de Março», publicada no Diário da República, 1.ª série, n.º 108, de 5 de Junho de 2008, saiu com as seguintes inexactidões que assim se rectificam:
+Assim, no artigo 2.º, alínea 7), onde se lê «e que não se encontra integrada» deve ler-se «e que não se encontre integrada».
+Na alínea 8), onde se lê «como tendo regimes equivalentes ao nacional» deve ler-se «como tendo regime equivalente ao nacional».
+No artigo 3.º, n.º 1, alínea d), onde se lê «que comercialize as suas unidades» deve ler-se «que comercializem as suas unidades».
+Na alínea j), onde se lê «que comercializem bens ou serviços afectos ao investimento em bens corpóreos» deve ler-se «que prossigam actividades que tenham por objecto contratos relativos ao investimento em bens corpóreos».
+No artigo 18.º, onde se lê «ou pelas autoridades competentes para a fiscalização do cumprimento» deve ler-se «ou pelas autoridades competentes para a supervisão ou a fiscalização do cumprimento».
+No artigo 19.º, n.º 3, alíneas a) e b), onde se lê «prevenção do branqueamento e de financiamento do terrorismo» deve ler-se «prevenção do branqueamento e do financiamento do terrorismo».
+No n.º 4, onde se lê «prevenção do branqueamento e de financiamento do terrorismo» deve ler-se «prevenção do branqueamento e do financiamento do terrorismo».
+No artigo 25.º, n.º 1, alínea a), onde se lê «não puder ser recarregado, ou, caso possa sê-lo,» deve ler-se «não puder ser recarregado, desde que o montante máximo armazenado no dispositivo não exceda (euro) 150, ou, caso possa sê-lo».
+Assembleia da República, 29 de Julho de 2008. - Pela Secretária-Geral, a Adjunta, Teresa Xardoné.
