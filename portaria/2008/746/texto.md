@@ -1,0 +1,15 @@
+Portaria n.º 746/2008
+de 5 de Agosto
+Pela Portaria n.º 1262/2002, de 12 de Setembro, alterada pelas Portarias n.os 813/2003 e 1264-CM/2004, respectivamente de 13 de Agosto e 29 de Setembro, foi criada a zona de caça municipal do Talefe (processo n.º 3118-DGRF), situada nos municípios de Moura e Serpa, com a área de 1881 ha, e transferida a sua gestão para a Associação de Caça e Pesca do Talefe de Vila Verde de Ficalho.
+Veio agora aquela Associação solicitar a extinção desta zona de caça, requerendo ao mesmo tempo a concessão de uma zona de caça associativa que englobasse parte daqueles terrenos.
+Assim:
+Com fundamento no disposto no artigo 37.º, na alínea a) do artigo 22.º, na alínea a) do artigo 40.º e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, ouvidos os Conselhos Cinegéticos Municipais de Moura e Serpa:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É extinta a zona de caça municipal do Talefe (processo n.º 3118-DGRF).
+2.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente, à Associação de Caça e Pesca do Talefe de Vila Verde de Ficalho, com o número de identificação fiscal 505276550 e sede na Rua do Poço, 42, 7830-655 Vila Verde de Ficalho, a zona de caça associativa do Talefe (processo n.º 4890-DGRF), englobando vários prédios rústicos sitos na freguesia de Sobral da Adiça, município de Moura, com a área de 99 ha, e na freguesia de Vila Verde de Ficalho, município de Serpa, com a área de 1525 ha, perfazendo a área total de 1624 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até ao máximo de 10 % da área total da zona de caça.
+4.º É criada uma área de condicionamento parcial à actividade cinegética, devidamente demarcada na planta anexa.
+5.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+6.º É revogada a Portaria n.º 1262/2002, de 12 de Setembro, alterada pelas Portarias n.os 813/2003 e 1264-CM/2004, respectivamente de 13 de Agosto e 29 de Setembro.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 22 de Julho de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 25 de Julho de 2008.
+(ver documento original)
