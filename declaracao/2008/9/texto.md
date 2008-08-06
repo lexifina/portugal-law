@@ -1,0 +1,3 @@
+Declaração n.º 9/2008
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se que se considera caduco o processo relativo à Apreciação Parlamentar n.º 70/X ao Decreto-Lei n.º 39/2008, de 7 de Março, que aprova o regime jurídico da instalação, exploração e funcionamento dos empreendimentos turísticos, apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que foram rejeitadas pela Comissão de Assuntos Económicos, Inovação e Desenvolvimento Regional todas as propostas de alteração e que o Plenário foi informado do facto.
+Assembleia da República, 17 de Julho de 2008. - A Deputada Secretária da Mesa da Assembleia da República, Celeste Correia.
