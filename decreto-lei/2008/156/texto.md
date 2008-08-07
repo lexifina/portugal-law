@@ -1,0 +1,68 @@
+Decreto-Lei n.º 156/2008
+de 7 de Agosto
+O Decreto-Lei n.º 560/99, de 18 de Dezembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 183/2002, de 20 de Agosto, rectificado pela Declaração de Rectificação n.º 31/2003, de 7 de Outubro, e ainda pelos Decretos-Leis n.os 50/2003, de 25 de Março, 126/2005, de 5 de Agosto, 148/2005, de 29 de Agosto, 195/2005, de 7 de Novembro, 37/2006, de 20 de Fevereiro, e 365/2007, de 2 de Novembro, estabeleceu as regras a que deve obedecer a rotulagem dos géneros alimentícios destinados a serem fornecidos directamente ao consumidor final, bem como aspectos relacionados com a sua apresentação e respectiva publicidade.
+Considerando que determinados ingredientes utilizados na produção de géneros alimentícios e que continuam presentes no produto final podem ser fonte de alergias ou intolerâncias nos consumidores, o Decreto-Lei n.º 126/2005, de 5 de Agosto, aditou ao Decreto-Lei n.º 560/99, de 18 de Dezembro, o anexo iii, que contém a lista das substâncias consideradas potencialmente alergéneas, determinando a obrigatoriedade da sua indicação no rótulo dos géneros alimentícios.
+Porém, a Autoridade Europeia para a Segurança dos Alimentos (AESA), com base em informações disponíveis, considerou provisoriamente que determinados produtos derivados dos ingredientes indicados na lista constante do anexo iii não são susceptíveis ou não são muito susceptíveis de provocar reacções indesejáveis em indivíduos sensíveis.
+Assim, o Decreto-Lei n.º 195/2005, de 7 de Novembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 37/2006, de 20 de Fevereiro, excluiu provisoriamente da referida lista produtos derivados dos ingredientes indicados na lista constante no anexo iii, enquanto se realizavam estudos científicos para determinar se esses produtos cumpriam as condições necessárias para uma exclusão definitiva da referida lista, por não serem susceptíveis de provocar reacções indesejáveis em consumidores sensíveis.
+Posteriormente, com base em novos pareceres da Autoridade Europeia para a Segurança dos Alimentos (AESA) e noutras informações disponíveis concluiu-se que, em condições específicas, determinados produtos derivados dos referidos ingredientes não são susceptíveis de provocar reacções indesejáveis em consumidores sensíveis, o que levou a Comissão Europeia a excluí-los definitivamente da referida lista de ingredientes e de substâncias consideradas potencialmente alergéneas.
+Neste sentido, foi publicada a Directiva n.º 2007/68/CE, da Comissão, de 27 de Novembro, que altera o anexo iii-A da Directiva n.º 2000/13/CE, do Parlamento Europeu e do Conselho, no que respeita a determinados ingredientes alimentares.
+O presente diploma transpõe, para a ordem jurídica interna, a Directiva n.º 2007/68/CE, da Comissão, de 27 de Novembro, alterando-se, deste modo, o anexo iii do Decreto-Lei n.º 560/99, de 18 de Dezembro, na redacção que lhe foi dada pelos Decretos-Leis n.os 126/2005, de 5 de Agosto, 195/2005, de 7 de Novembro, e 365/2007, de 2 de Novembro.
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objecto
+O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º 2007/68/CE, da Comissão, de 27 de Novembro, que altera o anexo iii-A da Directiva n.º 2000/13/CE, do Parlamento Europeu e do Conselho, de 20 de Março, no que respeita a determinados ingredientes alimentares, alterando o anexo iii ao Decreto-Lei n.º 560/99, de 18 de Dezembro, na redacção dada pelos Decretos-Leis n.os 126/2005, de 5 de Agosto, 195/2005, de 7 de Novembro, e 365/2007, de 2 de Novembro.
+Artigo 2.º
+Alteração ao Decreto-Lei n.º 560/99, de 18 de Dezembro
+O anexo iii ao Decreto-Lei n.º 560/99, de 18 de Dezembro, na redacção dada pelos Decretos-Leis n.os 126/2005, de 5 de Agosto, 195/2005, de 7 de Novembro, e 365/2007, de 2 de Novembro, é substituído pelo anexo ao presente decreto-lei, do qual faz parte integrante.
+Artigo 3.º
+Norma transitória
+1 - A comercialização dos géneros alimentícios que contenham tremoço e produtos à base de tremoço e moluscos e produtos à base de moluscos é permitida até 23 de Dezembro de 2008, salvo o disposto no número seguinte.
+2 - Os géneros alimentícios referidos no número anterior que tenham sido rotulados antes de 23 de Dezembro de 2008 podem ser comercializados até ao esgotamento das existências.
+3 - A comercialização dos géneros alimentícios conformes com o Decreto-Lei n.º 195/2005, de 7 de Novembro, na redacção dada pelo Decreto-Lei n.º 37/2006, de 20 de Fevereiro, colocados no mercado ou rotulados antes de 31 de Maio de 2009, é permitida até ao esgotamento das existências.
+Artigo 4.º
+Norma revogatória
+Sem prejuízo do disposto no artigo anterior, é revogado o Decreto-Lei n.º 195/2005, de 7 de Novembro, na redacção dada pelos Decretos-Leis n.os 37/2006, de 20 de Fevereiro, e 365/2007, de 2 de Novembro.
+Artigo 5.º
+Produção de efeitos
+O disposto no presente decreto-lei produz efeitos desde 31 de Maio de 2008, sendo o artigo 28.º do Decreto-Lei n.º 560/99, de 18 de Dezembro, apenas aplicável no dia seguinte ao da publicação do presente decreto-lei.
+Visto e aprovado em Conselho de Ministros de 26 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Emanuel Augusto dos Santos - João Manuel Machado Ferrão - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Ana Maria Teodoro Jorge.
+Promulgado em 22 de Julho de 2008.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendado em 24 de Julho de 2008.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+ANEXO
+(a que se refere o artigo 2.º)
+O anexo iii do Decreto-Lei n.º 560/99, de 18 de Dezembro, passa a ter a seguinte redacção:
+«ANEXO III
+(ingredientes a que se referem os artigos 14.º-A e 15.º-A)
+1 - Cereais que contêm glúten (nomeadamente trigo, centeio, cevada, aveia, espelta, kamut ou as suas estirpes hibridizadas) e produtos à base destes cereais, exceptuando:
+a) Xaropes de glucose à base de trigo (1), incluindo a dextrose;
+b) Maltodextrinas à base de trigo (1);
+c) Xaropes de glucose à base de cevada;
+d) Cereais utilizados na produção de destilados ou de álcool etílico de origem agrícola para bebidas espirituosas e outras bebidas alcoólicas.
+2 - Crustáceos e produtos à base de crustáceos.
+3 - Ovos e produtos à base de ovos.
+4 - Peixes e produtos à base de peixe, exceptuando:
+a) Gelatina de peixe usada como agente de transporte para preparações de vitaminas ou de carotenóides;
+b) Gelatina de peixe ou ictiocola usada como agente de clarificação da cerveja e do vinho.
+5 - Amendoins e produtos à base de amendoins.
+6 - Soja e produtos à base de soja, exceptuando:
+a) Óleo e gordura de soja totalmente refinados (1);
+b) Tocoferóis mistos naturais (E 306), D-alfa-tocoferol natural, acetato de D-alfa-tocoferol natural, succinato de D-alfa-tocoferol natural derivados de soja;
+c) Fitoesteróis e ésteres de fitoesterol derivados de óleos vegetais de soja;
+d) Éster de estanol vegetal produzido a partir de esteróis de óleos vegetais de soja.
+7 - Leite e produtos à base de leite (incluindo a lactose), exceptuando:
+a) Soro de leite usado na produção de destilados ou de álcool etílico de origem agrícola para bebidas espirituosas e outras bebidas alcoólicas;
+b) Lactitol.
+8 - Frutos de casca rija, ou seja, amêndoas (Amygdalus communis L.), avelãs (Corylus avellana), nozes (Juglans regia), castanhas de caju (Anacardium occidentale), nozes de pécan [Carya illinoiesis (Wangenh.) K. Koch], castanhas do Brasil (Bertholletia excelsa), pistácios (Pistacia vera), nozes de macadâmia e do Queensland (Macadamia ternifolia) e produtos à base destes frutos, exceptuando:
+a) Frutos de casca rija usados na produção de destilados ou de álcool etílico de origem agrícola para bebidas espirituosas e outras bebidas alcoólicas.
+9 - Aipos e produtos à base de aipos.
+10 - Mostarda e produtos à base de mostarda.
+11 - Sementes de sésamo e produtos à base de sementes de sésamo.
+12 - Dióxido de enxofre e sulfitos em concentrações superiores a 10 mg/kg ou 10 mg/l expressos em SO(índice 2).
+13 - Tremoço e produtos à base de tremoço.
+14 - Moluscos e produtos à base de moluscos.
+(1) E respectivos produtos, desde que o processo a que tenham sido submetidos não seja susceptível de aumentar o nível de alergenicidade avaliado pela AESA relativamente ao produto a partir do qual foram produzidos.»
