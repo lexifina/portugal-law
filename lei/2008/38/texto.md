@@ -1,0 +1,113 @@
+Lei n.º 38/2008
+de 8 de Agosto
+Procede à segunda alteração ao Decreto-Lei n.º 35/2004, de 21 de Fevereiro, que altera o regime jurídico do exercício da actividade de segurança privada
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
+Artigo 1.º
+Objecto
+A presente lei altera o Decreto-Lei n.º 35/2004, de 21 de Fevereiro, com a redacção dada pelo Decreto-Lei n.º 198/2005, de 10 de Novembro.
+Artigo 2.º
+Alteração ao Decreto-Lei n.º 35/2004, de 21 de Fevereiro
+Os artigos 6.º, 12.º, 14.º, 16.º, 20.º, 21.º, 28.º, 31.º e 33.º do Decreto-Lei n.º 35/2004, de 21 de Fevereiro, passam a ter a seguinte redacção:
+«Artigo 6.º
+[...]
+1 - ...
+2 - ...
+3 - As diversas categorias de vigilantes de segurança privada, designadamente coordenador de segurança, segurança, porteiro, entre outros, o seu modelo de cartão identificativo, funções, meios, formação e outros requisitos necessários, bem como as taxas respectivas, são definidas por portaria do membro do Governo responsável pela área da administração interna.
+4 - (Anterior n.º 3.)
+5 - (Anterior n.º 4.)
+6 - Os assistentes de recinto desportivo, no controlo de acesso aos recintos desportivos, podem efectuar revistas pessoais de prevenção e segurança com o estrito objectivo de impedir a entrada de objectos e substâncias proibidas ou susceptíveis de gerar ou possibilitar actos de violência, podendo, para o efeito, recorrer ao uso de raquetes de detecção de metais e de explosivos.
+7 - Mediante autorização expressa do membro do Governo responsável pela área da administração interna e por um período delimitado no tempo, o pessoal de vigilância devidamente qualificado para o exercício de funções de controlo de acesso a instalações aeroportuárias e portuárias, bem como a outros locais de acesso vedado ou condicionado ao público que justifiquem protecção reforçada, podem efectuar revistas pessoais e buscas de prevenção e segurança, utilizando meios técnicos adequados, designadamente raquetes de detecção de metais e de explosivos, bem como equipamentos de inspecção não intrusiva de bagagem, com o estrito objectivo de detectar e impedir a entrada de pessoas ou objectos proibidos e substâncias proibidas ou susceptíveis de gerar ou possibilitar actos que ponham em causa a segurança de pessoas e bens.
+Artigo 12.º
+[...]
+As entidades titulares de alvará devem assegurar a presença permanente nas suas instalações de pessoal que garanta o contacto, a todo o tempo, através de rádio ou outro meio de comunicação idóneo, com o pessoal de vigilância, os utilizadores dos serviços e as forças de segurança.
+Artigo 14.º
+[...]
+1 - O pessoal de vigilância está sujeito ao regime geral de uso e porte de arma, podendo recorrer, designadamente, a aerossóis e armas eléctricas, meios de defesa não letais da classe E, nos termos da Lei n.º 5/2006, de 23 de Fevereiro.
+2 - ...
+3 -...
+4 - A autorização prevista no n.º 2 é comunicada no mais curto prazo, que não pode exceder vinte e quatro horas, à entidade competente para a fiscalização da actividade de segurança privada.
+Artigo 16.º
+[...]
+1 - As entidades titulares de alvará ou de licença devem assegurar a distribuição e uso pelo seu pessoal de vigilância de coletes de protecção balística, sempre que o risco das actividades a desenvolver o justifique.
+2 - Pode ser autorizada a utilização de meios técnicos de segurança não previstos no presente diploma, por despacho do membro do Governo responsável pela área da administração interna, ouvido o Conselho de Segurança Privada.
+Artigo 20.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+a) Um representante do Conselho para a Ética e Segurança no Desporto;
+b) ...
+c) ...
+4 - ...
+5 - ...
+6 - ...
+Artigo 21.º
+[...]
+...
+a) ...
+b) ...
+c) Pronunciar-se sobre a concessão e cancelamento de alvarás e licenças, sempre que solicitado pelo membro do Governo responsável pela área da administração interna;
+d) ...
+e) ...
+f) ...
+g) ...
+Artigo 28.º
+[...]
+1 - ...
+2 - ...
+3 - A Direcção Nacional da Polícia de Segurança Pública emite o alvará, a licença e respectivos averbamentos e comunica os seus termos ao Comando-Geral da Guarda Nacional Republicana, à Direcção Nacional da Polícia Judiciária, à Inspecção-Geral da Administração Interna e ao Governo Civil.
+4 - ...
+Artigo 31.º
+[...]
+A fiscalização da actividade de segurança privada e respectiva formação é assegurada pela Direcção Nacional da Polícia de Segurança Pública, com a colaboração da Guarda Nacional Republicana, sem prejuízo das competências das forças e serviços de segurança e da Inspecção-Geral da Administração Interna.
+Artigo 33.º
+[...]
+1 - De acordo com o disposto no presente decreto-lei, constituem contra-ordenações muito graves:
+a) ...
+b) [Anterior alínea d).]
+c) [Anterior alínea e).]
+d) [Anterior alínea f).]
+e) [Anterior alínea g).]
+f) [Anterior alínea h).]
+g) [Anterior alínea i).]
+h) [Anterior alínea j).]
+i) O incumprimento dos requisitos exigidos aos veículos afectos ao transporte de valores;
+j) O incumprimento dos requisitos exigidos para o transporte de valores igual ou superior a (euro) 10 000.
+2 - ...
+a)...
+b)...
+c)...
+d)...
+e) O incumprimento dos requisitos exigidos para o transporte de valores inferior a (euro) 10 000.
+3 - ...
+4 - ...
+5 - ...
+6 - ...
+7 - ...
+8 - ...
+9 - ...»
+Artigo 3.º
+Aditamento ao Decreto-Lei n.º 35/2004, de 21 de Fevereiro
+1 - O capítulo vi do Decreto-Lei n.º 35/2004, de 21 de Fevereiro, passa a integrar uma secção i e uma secção ii, intituladas «Crimes» e «Contra-ordenações», respectivamente.
+2 - A secção i do capítulo vi do Decreto-Lei n.º 35/2004, de 21 de Fevereiro, integra as seguintes disposições:
+«Artigo 32.º-A
+Exercício ilícito da actividade de segurança privada
+1 - Quem prestar serviços de segurança sem o necessário alvará ou licença ou exercer funções de vigilância não sendo titular do cartão profissional é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias, se pena mais grave lhe não couber por força de outra disposição legal.
+2 - Na mesma pena incorre quem utilizar os serviços da pessoa referida no número anterior, sabendo que a prestação de serviços de segurança se realiza sem o necessário alvará ou licença ou que as funções de vigilância não são exercidas por titular de cartão profissional.
+Artigo 32.º-B
+Responsabilidade criminal das pessoas colectivas e equiparadas
+As pessoas colectivas e entidades equiparadas são responsáveis, nos termos gerais, pelo crime previsto no n.º 1 do artigo anterior.»
+3 - A secção ii do capítulo vi do Decreto-Lei n.º 35/2004, de 21 de Fevereiro, passa a integrar os artigos 33.º a 36.º
+Artigo 4.º
+Competência reservada da Polícia Judiciária
+É da competência reservada da Polícia Judiciária a investigação dos crimes previstos nos artigos 32.º-A e 32.º-B, nos termos da lei de organização da investigação criminal.
+Artigo 5.º
+Regime transitório
+As contra-ordenações de prestação de serviços de segurança sem o necessário alvará ou licença e de exercício de funções de vigilância por não titulares do cartão profissional, praticadas antes da entrada em vigor da presente lei, continuam a ser sancionadas nos termos do regime previsto nos artigos 33.º e seguintes do Decreto-Lei n.º 35/2004, de 21 de Fevereiro.
+Aprovada em 27 de Junho de 2008.
+O Presidente da Assembleia da República, Jaime Gama.
+Promulgada em 23 de Julho de 2008.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendada em 24 de Julho de 2008.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
