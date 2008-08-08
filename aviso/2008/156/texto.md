@@ -1,0 +1,18 @@
+Aviso n.º 156/2008
+Por ordem superior se torna público ter o Governo do México efectuado, junto do Secretário-Geral das Nações Unidas, em 15 de Março de 2002, uma declaração ao abrigo do artigo 14.º da Convenção Internacional sobre a Eliminação de Todas as Formas de Discriminação Racial.
+Notificação
+«The Secretary-General of the United Nations, acting in his capacity as depositary, communicates the following:
+The above action was effected on 15 March 2002.
+The United Mexican States recognizes as duly binding the competence of the Committee on the Elimination of Racial Discrimination, established by article 8 of the International Convention on the Elimination of All Forms of Racial Discrimination, adopted by the United Nations General Assembly in its resolution 2106 (XX) of 21 December 1965 and opened for signature on 7 March 1966.
+The United Mexican States declares, pursuant to article 14 of the Convention, that it recognizes the competence of the Committee to receive and consider communications from individuals or groups of individuals within its jurisdiction claiming to be victims of a violation by that State of any of the rights stipulated in the Convention.
+Accordingly, in exercise of the power vested in me under article 89, subparagraph x, of the Political Constitution of the United Mexican States and in accordance with article 5 of the Conclusion of Treaties Act, I hereby issue this instrument of acceptance, the Declaration on Recognition of the Competence of the Committee on the Elimination of Racial Discrimination, as set out in the Declaration adopted by the Senate of the Distinguished Congress of the Union, and promise, on behalf of the Mexican Nation, to implement it, uphold it and ensure that it is implemented and upheld.
+24 April 2002.»
+Tradução
+O Secretário-Geral da Organização das Nações Unidas, agindo na sua qualidade de depositário, comunica o seguinte:
+A acção acima referida foi efectuada em 15 de Março de 2002.
+Os Estados Unidos Mexicanos reconhecem como obrigatória e de pleno direito a competência do Comité para a Eliminação da Discriminação Racial, instituído pelo artigo 8.º da Convenção Internacional sobre a Eliminação de Todas as Formas de Discriminação Racial, adoptada pela Assembleia Geral das Nações Unidas na sua Resolução 2106 (XX) de 21 de Dezembro de 1965 e aberta à assinatura em 7 de Março de 1966.
+Os Estados Unidos Mexicanos declaram, em conformidade com o artigo 14.º da Convenção, reconhecer a competência do Comité para receber e examinar as comunicações apresentadas por pessoas ou grupos de pessoas sujeitas à sua jurisdição que se queixem de ter sido vítimas de violação, por parte deste Estado, de qualquer um dos direitos previstos na Convenção.
+No exercício dos poderes que me são conferidos pelo artigo 89.º, alínea x, da Constituição dos Estados Unidos Mexicanos e em conformidade com o artigo 5.º da lei sobre a celebração de tratados, apresento este instrumento de aceitação da competência do Comité para a Eliminação da Discriminação Racial nos termos da Declaração aprovada pela Câmara dos Senadores do Congresso da União e comprometo-me, em nome da Nação Mexicana, a aplicar e respeitar a citada Declaração e a velar pelo cumprimento e respeito da mesma.
+24 de Abril de 2002.
+Portugal é Parte nesta Convenção, aprovada para adesão pela Lei n.º 7/82, publicada no Diário da República, 1.ª série, n.º 99 (suplemento), de 29 de Abril de 1982, tendo depositado o seu instrumento de adesão em 24 de Agosto de 1982, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 233, de 8 de Outubro de 1982.
+Direcção-Geral de Política Externa, 28 de Julho de 2008. - O Subdirector-Geral para os Assuntos Multilaterais, António Manuel Ricoca Freire.
