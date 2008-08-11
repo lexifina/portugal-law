@@ -14,6 +14,4 @@ d) A entrega às entidades fixadas para o efeito por despacho do Ministro da Adm
 
 e) Os valores despendidos por força dos contratos de resseguro celebrados nos termos do n.º 5 do artigo 47.º;
 
-f) Os valores despendidos por força de acordos internacionais ou decorrente da pertença a organizações internacionais no domínio da cooperação em matéria de sinistros;
-
-g) Outros encargos relacionados com a gestão do Fundo, nomeadamente avisos e publicidade.
+f) Outros encargos relacionados com a gestão do Fundo, nomeadamente avisos e publicidade.
