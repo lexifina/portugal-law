@@ -2,7 +2,7 @@
 
 ### Modelo de declaração
 
-[a que se refere a alínea a) do n.º 1 do artigo 81.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 33/2008/M]
+[a que se refere a alínea a) do n.º 1 do artigo 81.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M]
 
 1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1)... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), adjudicatário(a) no procedimento de... (designação ou referência ao procedimento em causa), declara, sob compromisso de honra, que a sua representada (2):
 
@@ -18,7 +18,7 @@ e) Não foi objecto de aplicação, há menos de dois anos, de sanção administ
 
 f) Não prestou, a qualquer título, directa ou indirectamente, assessoria ou apoio técnico na preparação e elaboração das peças do procedimento.
 
-2 - O declarante junta em anexo [ou indica... como endereço do sítio da Internet onde podem ser consultados (9)] os documentos comprovativos de que a sua representada (10) não se encontra nas situações previstas nas alíneas b), d), e) e i) do artigo 55.º do Código dos Contratos Públicos e (quando aplicável) os documentos comprovativos de que cumpriu as obrigações fiscais declarativas cujo conteúdo assume interesse específico para a Região Autónoma da Madeira referidos no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 33/2008/M.
+2 - O declarante junta em anexo [ou indica ... como endereço do sítio da Internet onde podem ser consultados (9)] os documentos comprovativos de que a sua representada (10) não se encontra nas situações previstas nas alíneas b), d), e) e i) do artigo 55.º do Código dos Contratos Públicos e (quando aplicável) os documentos comprovativos de que cumpriu as obrigações fiscais declarativas cujo conteúdo assume interesse específico para a Região Autónoma da Madeira referidos no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M.
 
 3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a caducidade da adjudicação e constitui contra-ordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adoptado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.
 

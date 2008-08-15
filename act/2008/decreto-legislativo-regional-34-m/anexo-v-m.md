@@ -2,7 +2,7 @@
 
 ### Modelo de declaração
 
-[a que se refere o n.º 1 do artigo 168.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 33/2008/M]
+[a que se refere o n.º 1 do artigo 168.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M]
 
 1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1)... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado conhecimento das peças do procedimento de... (designação ou referência ao procedimento em causa), vem por este meio apresentar a respectiva candidatura, juntando em anexo, para o efeito, os seguintes documentos destinados à qualificação (2):
 
@@ -40,7 +40,7 @@ iv) Branqueamento de capitais, na acepção do artigo 1.º da Directiva n.º 91/
 
 j) Não prestou, a qualquer título, directa ou indirectamente, assessoria ou apoio técnico na preparação e elaboração das peças do procedimento.
 
-l) Cumpriu as obrigações fiscais declarativas referidas no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 33/2008/M (ou, sendo o caso, não preenche os pressupostos de incidência previstos nos artigos 16.º, 17.º e 21.º da Lei das Finanças Regionais, aprovada pela Lei Orgânica n.º 1/2007, de 17 de Fevereiro).
+l) Cumpriu as obrigações fiscais declarativas referidas no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M (ou, sendo o caso, não preenche os pressupostos de incidência previstos nos artigos 16.º, 17.º e 21.º da Lei das Finanças Regionais, aprovada pela Lei Orgânica n.º 1/2007, de 17 de Fevereiro).
 
 3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a exclusão da candidatura apresentada e constitui contra-ordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adoptado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.
 
