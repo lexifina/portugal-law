@@ -4,7 +4,7 @@
 
 1 - Os sujeitos passivos são obrigados a arquivar e conservar em boa ordem durante os 10 anos civis subsequentes todos os livros, registos e respectivos documentos de suporte, incluindo, quando a contabilidade é estabelecida por meios informáticos, os relativos à análise, programação e execução dos tratamentos.
 
-2 - Para os registos previstos na alínea d) do n.º 1 do artigo 50.º e no artigo 51.º e documentos anexos, o prazo de 10 anos referido no número anterior deve ser contado a partir da data em que for efectuada a última das regularizações previstas nos artigos 24.º e 26.º
+2 - Para os registos previstos na alínea d) do n.º 1 do artigo 50.º e no artigo 51.º e documentos anexos, o prazo de 10 anos referido no número anterior deve ser contado a partir da data em que for efectuada a última das regularizações previstas nos artigos 24.º e 25.º
 
 3 - Os sujeitos passivos com sede, estabelecimento estável ou domicílio em território nacional são obrigados a manter os livros, registos e demais documentos referidos no n.º 1 em estabelecimento ou instalação situado em território nacional, salvo se o arquivamento for efectuado por meios electrónicos.
 

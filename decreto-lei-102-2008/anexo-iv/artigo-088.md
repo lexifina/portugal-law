@@ -6,7 +6,7 @@
 
 2 - O imposto liquidado nos termos do número anterior deve ser pago nos locais de cobrança legalmente autorizados, no prazo mencionado na notificação, efectuada nos termos do Código de Procedimento e de Processo Tributário, o qual não pode ser inferior a 90 dias contados desde o seu envio.
 
-3 - Na falta de pagamento no prazo referido no número anterior, é extraída pela Direcção-Geral dos Impostos certidão de dívida, nos termos e para efeitos do disposto no artigo 94.º do Código de Procedimento e de Processo Tributário.
+3 - Na falta de pagamento no prazo referido no número anterior, é extraída pela Direcção-Geral dos Impostos certidão de dívida, nos termos e para efeitos do disposto no artigo 88.º do Código de Procedimento e de Processo Tributário.
 
 4 - A liquidação referida no n.º 1 fica sem efeito nos seguintes casos:
 

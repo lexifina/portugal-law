@@ -84,9 +84,9 @@ f) Os serviços e operações relativos à colocação, tomada e compra firmes d
 
 g) A administração ou gestão de fundos de investimento;
 
-h) As operações de seguro e resseguro, bem como as prestações de serviços conexas efectuadas pelos corretores e intermediários de seguro;
+28) As operações de seguro e resseguro, bem como as prestações de serviços conexas efectuadas pelos corretores e intermediários de seguro;
 
-28) A locação de bens imóveis. Esta isenção não abrange:
+29) A locação de bens imóveis. Esta isenção não abrange:
 
 a) As prestações de serviços de alojamento, efectuadas no âmbito da actividade hoteleira ou de outras com funções análogas, incluindo parques de campismo;
 
@@ -98,17 +98,17 @@ d) A locação de cofres-fortes;
 
 e) A locação de espaços para exposições ou publicidade;
 
-29) As operações sujeitas a imposto municipal sobre as transmissões onerosas de imóveis;
+30) As operações sujeitas a imposto municipal sobre as transmissões onerosas de imóveis;
 
-30) A lotaria da Santa Casa da Misericórdia, as apostas mútuas, o bingo, os sorteios e as lotarias instantâneas devidamente autorizados, bem como as respectivas comissões e todas as actividades sujeitas a impostos especiais sobre o jogo;
+31) A lotaria da Santa Casa da Misericórdia, as apostas mútuas, o bingo, os sorteios e as lotarias instantâneas devidamente autorizados, bem como as respectivas comissões e todas as actividades sujeitas a impostos especiais sobre o jogo;
 
-31) As transmissões de bens afectos exclusivamente a uma actividade isenta, quando não tenham sido objecto do direito à dedução e bem assim as transmissões de bens cuja aquisição ou afectação tenha sido feita com exclusão do direito à dedução nos termos do n.º 1 do artigo 21.º;
+32) As transmissões de bens afectos exclusivamente a uma actividade isenta, quando não tenham sido objecto do direito à dedução e bem assim as transmissões de bens cuja aquisição ou afectação tenha sido feita com exclusão do direito à dedução nos termos do n.º 1 do artigo 21.º;
 
-32) As transmissões de bens efectuadas no âmbito das explorações enunciadas no anexo A ao presente Código, bem como as prestações de serviços agrícolas definidas no anexo B, quando efectuadas com carácter acessório por um produtor agrícola que utiliza os seus próprios recursos de mão-de-obra e equipamento normal da respectiva exploração agrícola e silvícola;
+33) As transmissões de bens efectuadas no âmbito das explorações enunciadas no anexo A ao presente Código, bem como as prestações de serviços agrícolas definidas no anexo B, quando efectuadas com carácter acessório por um produtor agrícola que utiliza os seus próprios recursos de mão-de-obra e equipamento normal da respectiva exploração agrícola e silvícola;
 
-33) As prestações de serviços efectuadas por cooperativas que, não sendo de produção agrícola, desenvolvam uma actividade de prestação de serviços aos seus associados agricultores;
+34) As prestações de serviços efectuadas por cooperativas que, não sendo de produção agrícola, desenvolvam uma actividade de prestação de serviços aos seus associados agricultores;
 
-34) As prestações de serviços a seguir indicadas quando levadas a cabo por organismos sem finalidade lucrativa que sejam associações de cultura e recreio:
+35) As prestações de serviços a seguir indicadas quando levadas a cabo por organismos sem finalidade lucrativa que sejam associações de cultura e recreio:
 
 a) Cedência de bandas de música;
 
@@ -116,6 +116,6 @@ b) Sessões de teatro;
 
 c) Ensino de ballet e de música;
 
-35) Os serviços de alimentação e bebidas fornecidos pelas entidades patronais aos seus empregados;
+36) Os serviços de alimentação e bebidas fornecidos pelas entidades patronais aos seus empregados;
 
-36) As actividades das empresas públicas de rádio e televisão que não tenham carácter comercial.
+37) As actividades das empresas públicas de rádio e televisão que não tenham carácter comercial.
