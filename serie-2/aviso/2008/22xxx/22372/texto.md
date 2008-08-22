@@ -1,0 +1,5 @@
+Aviso n.º 22372/2008
+António Jacinto Branco Moreira Guerreiro, Chefe de Divisão de Obras de Construção Civil do Departamento de Obras Municipais da Câmara Municipal de Tomar, no uso de competência subdelegada, torna público que a Assembleia Municipal de Tomar, sob proposta da Câmara Municipal de Tomar na sua reunião realizada em 22 de Abril de 2008, e cumpridas as formalidades legais do artigo 118.º do Código do Procedimento Administrativo, deliberou, na 3.ª sessão ordinária realizada em 30 de Junho de 2008, aprovar a alteração ao Regulamento do Parque de Estacionamento Subterrâneo do Pavilhão Municipal de Tomar, a que se refere o projecto de regulamento publicado na 2.ª série do Diário da República n.º 32 de 14 de Fevereiro de 2008.
+Para constar, o regulamento definitivo encontra-se publicitado no endereço internet (URL) www.cm-tomar.pt e no local do próprio parque de estacionamento.
+14 de Agosto de 2008. - O Chefe de Divisão, no uso de competência delegada, António Branco Guerreiro.
+300655885
