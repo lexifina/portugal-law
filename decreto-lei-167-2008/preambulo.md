@@ -1,0 +1,27 @@
+# Decreto-Lei n.º 167/2008 de 26 de Agosto
+
+Nos termos da Constituição, incumbe ao Estado a promoção do bem-estar social e económico e da qualidade de vida da população, em especial da mais desfavorecida, no quadro de uma estratégia de desenvolvimento sustentável, e a promoção da coesão económica e social, orientando o desenvolvimento no sentido de um crescimento equilibrado de todos os sectores e regiões e eliminando progressivamente as diferenças económicas e sociais existentes.
+
+Este quadro tem vindo a justificar a concessão de apoios financeiros por parte do Estado e de outras entidades públicas, com base em verbas do orçamento do Estado, designadamente no domínio do financiamento de entidades que prestam serviços de interesse geral e no âmbito das políticas de promoção e fomento de actividades económicas, culturais e sociais.
+
+O objectivo de assegurar a realização de missões de interesse geral, com vista à satisfação das necessidades fundamentais dos cidadãos, determina, por vezes, a necessidade de imposição pelo Estado de obrigações específicas de serviço público a certas entidades públicas ou privadas.
+
+Para que essas entidades possam cumprir eficazmente a missão confiada pelo Estado mostra-se, normalmente, necessário que este lhe atribua uma compensação financeira destinada a assegurar a cobertura dos custos específicos resultantes do cumprimento das obrigações de serviço público não cobertos pelas receitas normais dessas actividades. As condicionantes orçamentais impõem, porém, a implementação pelo Estado de medidas rigorosas ao nível de contenção da despesa pública, exigindo que a atribuição de compensações financeiras às entidades que asseguram a prestação de serviços de interesse geral obedeça a critérios de economia, eficiência e eficácia.
+
+Na ausência de enquadramento legal específico que discipline a atribuição de indemnizações compensatórias e a sua publicitação, pretende o presente decreto-lei fixar critérios gerais que assegurem a sua conformidade com as exigências e imperativos acima enunciados, mas também com o interesse público, factos que impõem a aprovação de um regime de concessão e controlo das indemnizações compensatórias em respeito por princípios de transparência e pelas regras nacionais e comunitárias em matéria de concorrência.
+
+A nível comunitário, têm vindo a ser emitidas algumas directrizes sobre este assunto, destacando-se o «Enquadramento comunitário dos auxílios estatais sob a forma de compensação de serviço público», publicado no Jornal Oficial da União Europeia, de 29 de Novembro de 2005, ou, no âmbito específico da comunicação social, a «Comunicação da Comissão relativa à aplicação das regras em matéria de auxílios estatais ao serviço público de radiodifusão», publicada no Jornal Oficial das Comunidades Europeias, de 15 de Novembro de 2001, bem assim como regulamentação comunitária, designadamente no sector dos transportes ferroviários e rodoviários de passageiros. O presente decreto-lei pretende constituir um quadro estável adequado a garantir, designadamente, a efectiva prossecução do interesse público, a eficiência da actuação prestacional da Administração, a estabilidade jurídica e a protecção da confiança dos cidadãos em matéria de subvenções públicas, a transparência, o rigor financeiro e o controlo eficaz da atribuição e aplicação das subvenções, sem prejudicar as especificidades decorrentes dos regimes comunitários em vigor.
+
+Considerando que a atribuição pelo Estado destas compensações deve estar delimitada por linhas enquadradoras específicas, que garantam a clareza e transparência do processo e promovam a garantia da sua eficácia, o próprio Tribunal de Contas já se pronunciou sobre a necessidade de ser definido o quadro legislativo aplicável nesta matéria.
+
+De igual modo, o regime jurídico do sector empresarial do Estado e das empresas públicas definido pelo Decreto-Lei n.º 558/99, de 17 de Dezembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, determina no n.º 4 do artigo 21.º que o regime das indemnizações compensatórias consta de decreto-lei especial.
+
+As indemnizações compensatórias não esgotam, porém, o universo das subvenções públicas. A intenção de promover e fomentar actividades de cariz, designadamente, económico, cultural ou social, consideradas relevantes ao nível da promoção do desenvolvimento sustentável e da coesão económica e social, está na origem da concessão de outras subvenções públicas que, pela sua natureza, não são susceptíveis de afectar as regras da livre concorrência, mostrando-se compatíveis com as normas comunitárias.
+
+Em obediência à transparência e ao rigor que devem nortear a concessão de subvenções públicas, bem como da racionalidade, economia, eficácia e eficiência que devem estar subjacentes ao processo de atribuição das referidas subvenções, importa, igualmente, que as entidades públicas que as concedem informem o Ministério das Finanças e da Administração Pública em conformidade.
+
+Em particular, o regime das subvenções públicas que não revistam a forma de indemnizações compensatórias está gizado em torno da sua transparência e controlo. Aproveitando os procedimentos já instituídos para efeitos do cumprimento da Lei n.º 26/94, de 19 de Agosto, introduz-se um dever específico de comunicação à Inspecção-Geral de Finanças e de publicidade através dos actuais meios electrónicos de difusão de massa.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
