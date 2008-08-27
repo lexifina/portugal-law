@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 130/2008
+Em 24 de Julho de 2001, foi assinado entre o Estado Português, representado pelo IAPMEI, e a TMG - Tecidos Plastificados e Outros Revestimentos para a Indústria Automóvel, S. A., um contrato de investimento que tem por objecto a concessão de incentivos financeiros e fiscais ao projecto de ampliação e modernização da unidade industrial desta sociedade, localizada em Guimarães.
+Por força do Decreto-Lei n.º 225/2002, de 30 de Outubro, foram subsequentemente transferidas para a Agência Portuguesa para o Investimento, actualmente denominada Agência para o Investimento e Comércio Externo de Portugal, as atribuições do IAPMEI em matéria de grandes projectos de investimento nos quais o projecto da TMG se enquadra.
+Os novos desafios resultantes da conjuntura internacional e a necessidade de a TMG repensar a sua estratégia no sentido de produzir novos produtos de maior valor acrescentado conduziram, entretanto, ao desenvolvimento de novos equipamentos de grande complexidade tecnológica e provocaram um atraso significativo na execução do projecto de investimento em causa.
+Justificou-se, assim, a necessidade de prorrogar o prazo de conclusão do referido projecto e, consequentemente, de alterar o ano de cruzeiro inicialmente previsto.
+A aprovação dessas alterações carece, pois, de ser formalizada através de aditamento ao contrato de investimento e ao contrato de concessão de benefícios fiscais que faz parte integrante daquele.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar as minutas dos aditamentos ao contrato de investimento e ao seu anexo contrato de concessão de benefícios fiscais que passam a integrar os contratos de investimento e de concessão de benefícios fiscais outorgados em 24 de Julho de 2001 e que serão celebrados entre o Estado Português, representado, respectivamente, pela Agência para o Investimento e Comércio Externo de Portugal, E. P. E., e pelo Ministro de Estado e das Finanças, e a TMG - Tecidos Plastificados e Outros Revestimentos para a Indústria Automóvel, S. A.
+2 - Determinar que os originais dos aditamentos aos contratos referidos no número anterior fiquem arquivados na Agência para o Investimento e Comércio Externo de Portugal, E. P. E.
+3 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 24 de Julho de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
