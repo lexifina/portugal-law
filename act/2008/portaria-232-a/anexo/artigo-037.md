@@ -6,7 +6,7 @@
 
 a) Manter os critérios de elegibilidade;
 
-b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio e pastagens permanentes;
+b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio ou pastagens permanentes;
 
 c) Manter as árvores, muros de pedra posta e outros elementos patrimoniais importantes para a paisagem e ainda as sebes arbustivas ou arbóreas de espécies autóctones entre as parcelas ou nas suas extremas, não as tratando com herbicidas;
 

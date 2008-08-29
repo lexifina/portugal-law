@@ -8,7 +8,7 @@
 
 1 - Podem beneficiar de cada um dos apoios previstos nesta subsecção os candidatos que reúnam cumulativamente as seguintes condições:
 
-a) Possuam uma superfície florestal, na área geográfica de aplicação, definida no artigo 68.º deste Regulamento, em zonas previamente delimitadas pela ELA, para cada tipo de apoio;
+a) Possuam uma superfície florestal, na área geográfica de aplicação, definida no artigo 69.º do presente Regulamento, em zonas previamente delimitadas pela ELA, para cada tipo de apoio;
 
 b) Apresentem, no acto do pedido de apoio, um plano de intervenção plurianual para a superfície candidata, aprovado pela ELA.
 

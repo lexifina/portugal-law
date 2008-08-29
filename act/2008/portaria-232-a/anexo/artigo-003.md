@@ -10,7 +10,7 @@ b) «Bosquete» o pequeno bosque ou povoamento florestal, ou seja, formação ve
 
 c) «Culturas de regadio» as culturas servidas por instalações permanentes, fixas ou móveis, ligadas a um sistema de adução de água criado para fins de irrigação, designadamente furo, poço, barragem, charca, represa ou levada, que assegurem as disponibilidades mínimas de água;
 
-d) «Corredor ecológico» as faixas que promovem a conexão entre áreas florestais dispersas, favorecendo o intercâmbio genético, fundamental para a manutenção da biodiversidade (flora e fauna);
+d) 'Corredor ecológico' as faixas que promovem a conexão entre áreas florestais dispersas, favorecendo o intercâmbio genético, fundamental para a manutenção da biodiversidade ao nível da flora e da fauna;
 
 e) «Ecossistema» a unidade integrada de organismos vivos e do meio ambiente numa determinada área;
 
@@ -20,7 +20,7 @@ g) «Espécie exótica ou alóctone» a espécie da flora que se admite ter orig
 
 h) «Espécie invasora» a espécie exótica da flora de uma determinada região e que possui uma grande capacidade de reprodução, regeneração e ocupação quer de biótopos naturais quer artificializados, podendo concorrer fortemente com as espécies espontâneas dessa região;
 
-i) «Exemplares e formações notáveis» os exemplares ou núcleos de espécies lenhosas arbóreas que se destacam do coberto envolvente pelas dimensões notáveis que apresentam e que podem ter interesse para a conservação de valores ecológicos e biológicos relevantes, tais como a nidificação e refúgio da avifauna;
+i) 'Exemplares e formações notáveis' os exemplares ou núcleos de espécies lenhosas arbóreas que se destacam do coberto envolvente pelas dimensões notáveis que apresentam e que podem ter interesse para a conservação de valores ecológicos e biológicos relevantes, nomeadamente ao nível da nidificação e refúgio da avifauna;
 
 j) «Exploração agrícola» o conjunto de unidades de produção submetidas a uma gestão única;
 
@@ -28,13 +28,13 @@ l) «Formações reliquiais» as comunidades vegetais de espécies que se encont
 
 m) «Galeria ripícola» o mesmo que galeria ribeirinha. Formação de espécies lenhosas arbóreas ou arbustivas autóctones, de forma comprida e estreita, ao longo das margens de um curso de água, e constituindo uma galeria de copas mais ou menos fechada sobre esse curso de água;
 
-n) «Habitat» o espaço geográfico com factores bióticos que condicionam um ecossistema, determinando a distribuição e o estabelecimento de populações (uma ou mais espécies);
+n) 'Habitat' o espaço geográfico com factores bióticos que condicionam um ecossistema, determinando a distribuição e o estabelecimento de populações de uma ou mais espécies;
 
 o) «Índice de qualificação fisiográfica da parcela (IQFP)» o indicador que traduz a relação entre a morfologia da parcela e o seu risco de erosão e consta do modelo P1 do Sistema de Identificação Parcelar (SIP);
 
 p) «Infestante arbustiva» as espécies arbustivas espontâneas de altura superior a 50 cm;
 
-q) «Maciço» o termo genérico para designar um aglomerado. Nas florestas, é geralmente usado para indicar genEricamente qualquer tipo de formação florestal, arbórea ou arbustiva, sem referência às dimensões da área que ocupa e que sejam dominadas pelas espécies alvo;
+q) 'Maciço' o termo genérico para designar um aglomerado, sendo nas florestas usado para indicar genericamente qualquer tipo de formação florestal, arbórea ou arbustiva, sem referência às dimensões da área que ocupa e que sejam dominadas pelas espécies alvo;
 
 r) «Mortórios» as superfícies ocupadas por matos mediterrânicos em socalco suportado por muro de pedra posta;
 

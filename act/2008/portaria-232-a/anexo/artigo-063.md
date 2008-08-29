@@ -62,6 +62,6 @@ c) Que as limpezas complementares necessárias à preservação dos valores flor
 
 8 - Sem prejuízo do disposto no n.º 1, os candidatos devem declarar toda a superfície agrícola e agro-florestal da unidade de produção e candidatar a área elegível, relativamente à qual assegurem a titularidade durante o período do compromisso.
 
-9 - Para efeitos do apoio previsto no n.º 2, considera-se área elegível a superfície agrícola e agro-florestal da unidade de produção, com excepção do espaço agro-florestal não arborizado com aproveitamento forrageiro.
+9 - Para efeitos do apoio previsto no n.º 5, considera-se área elegível a superfície agrícola e agro-florestal da unidade de produção, com excepção do espaço agro-florestal não arborizado com aproveitamento forrageiro.
 
 10 - O plano de gestão específico referido no n.º 4 pode ser revisto, devendo a sua alteração ser aprovada pela ELA e apresentada aquando da apresentação do pedido de pagamento anual subsequente.

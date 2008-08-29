@@ -2,11 +2,11 @@
 
 ### Compromissos dos beneficiários
 
-1 - Para além do disposto no artigo 5.º, os beneficiários dos apoios previstos na presente subsecção comprometem-se, durante todo o período do compromisso e para toda a superfície agrícola e agro-florestal da unidade de produção, a:
+1 - Para além do disposto no artigo 5.º, os beneficiários dos apoios previstos na presente subsecção comprometem-se, durante todo o período do compromisso e para toda a superfície agrícola, agro-florestal e florestal da unidade de produção, a:
 
 a) Manter os critérios de elegibilidade;
 
-b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio e pastagens permanentes;
+b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio ou pastagens permanentes;
 
 c) Manter as árvores, muros de pedra posta e outros elementos patrimoniais importantes para a paisagem e ainda as sebes arbustivas ou arbóreas de espécies autóctones entre as parcelas ou nas suas extremas, não as tratando com herbicidas;
 
@@ -20,7 +20,7 @@ g) Não efectuar queimadas.
 
 2 - Para além do disposto no número anterior, os beneficiários comprometem-se ainda a:
 
-a) Cumprir o plano de intervenção plurianual, previsto na alínea b) do n.º 1 do artigo anterior;
+a) Cumprir o plano de intervenção plurianual, previsto na alínea b) do n.º 1 do artigo anterior, e registar as operações realizadas no anexo específico que o integra;
 
 b) Cumprir as disposições do Decreto-Lei n.º 124/2006, de 28 de Junho, respeitantes às obrigações dos produtores na defesa da floresta contra incêndios.
 

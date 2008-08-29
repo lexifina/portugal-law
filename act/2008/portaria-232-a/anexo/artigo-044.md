@@ -6,7 +6,7 @@
 
 a) Manter os critérios de elegibilidade;
 
-b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio e pastagens permanentes;
+b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio ou pastagens permanentes;
 
 c) Manter as árvores, muros de pedra posta e outros elementos patrimoniais importantes para a paisagem e ainda as sebes arbustivas ou arbóreas de espécies autóctones entre as parcelas ou nas suas extremas, não as tratando com herbicidas;
 
@@ -28,7 +28,7 @@ a) Não pastorear qualquer animal, nas áreas de baldio consideradas prioritári
 
 b) Nas culturas permanentes instaladas, não efectuar mobilizações do solo com reviramento de leiva em parcelas com IQFP maior que dois, excepto em parcelas armadas em socalcos ou terraços ou em várzeas.
 
-3 - Para além do disposto no n.º 1, os beneficiários, para toda a área objecto do apoio designado «Manutenção da rotação de sequeiro cereal - Pousio», os beneficiários devem ainda comprometer-se a:
+3 - Para além do disposto no n.º 1, os beneficiários, para toda a área objecto do apoio designado 'Manutenção da rotação de sequeiro cereal - pousio', devem ainda comprometer-se a:
 
 a) Utilizar exclusivamente as rotações tradicionais, ou suas variantes, desde que aprovadas pela ELA;
 
@@ -74,6 +74,6 @@ a) Utilização conjugada do subsolador, chisel ou escarificador, no 1.º ano de
 
 b) Outra técnica de mobilização, quando não exista alternativa viável e sempre após parecer favorável da ELA.
 
-7 - As situações identificadas no número anterior não conferem direito à concessão do apoio referido no n.º 6, no ano em que se verifiquem.
+7 - As situações identificadas no número anterior não conferem direito à concessão do apoio referido no n.º 5, no ano em que se verifiquem.
 
 8 - O disposto nos números anteriores do presente artigo produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.

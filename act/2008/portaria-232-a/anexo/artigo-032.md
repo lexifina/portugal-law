@@ -12,7 +12,7 @@ a) Possuam uma superfície florestal, na área geográfica de aplicação, defin
 
 b) Declarem toda a superfície florestal do baldio;
 
-c) Apresentem, no acto do pedido de apoio, um plano de gestão plurianual para a superfície candidata, conforme o modelo e aprovado pela assembleia de compartes e validado pela ELA.
+c) Apresentem, no acto do pedido de apoio, um plano de gestão plurianual para a superfície candidata aprovado pela assembleia de compartes e validado pela ELA, de acordo com o modelo disponibilizado pela autoridade de gestão.
 
 2 - As superfícies referidas na alínea a) do número anterior devem, conforme o apoio, ter uma das seguintes ocupações:
 

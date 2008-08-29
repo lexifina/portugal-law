@@ -6,7 +6,7 @@
 
 a) Manter os critérios de elegibilidade;
 
-b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio e pastagens permanentes;
+b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio ou pastagens permanentes;
 
 c) Manter as árvores, muros de pedra posta e outros elementos patrimoniais importantes para a paisagem e ainda as sebes arbustivas ou arbóreas de espécies autóctones entre as parcelas ou nas suas extremas, não tratando com herbicidas;
 
@@ -92,6 +92,6 @@ b) Outra técnica de mobilização, quando não exista alternativa viável e sem
 
 8 - As situações identificadas no número anterior não conferem direito à concessão do apoio referido no n.º 6, no ano em que se verifiquem.
 
-9 - Os compromissos relativos à conservação de soutos notáveis da terra fria dispostos no n.º 5 são extensíveis à totalidade das árvores se as notáveis se encontrarem em soutos com castanheiros não enquadráveis no disposto na alínea e) do n.º 2 do artigo anterior.
+9 - Os compromissos relativos à conservação de soutos notáveis da terra fria dispostos no n.º 5 são extensíveis à totalidade das árvores se as notáveis se encontrarem em soutos com castanheiros não enquadráveis no disposto na alínea e) do n.º 1 do artigo anterior.
 
 10 - O disposto nos números anteriores do presente artigo produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.

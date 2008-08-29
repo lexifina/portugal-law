@@ -36,7 +36,7 @@ i) (euro) 200 - até 2,50 ha;
 
 ii) (euro) 100 - superior a 2,50 ha e até 5 ha;
 
-iii) (euro) 50 - superior a 50 ha.
+iii) (euro) 50 - superior a 5 ha.
 
 2 - No caso de os beneficiários subscreverem o compromisso referido no n.º 5 do artigo anterior e nas áreas em que o mesmo se verificar, os montantes do apoio referido na alíneas b) do número anterior são cumuláveis com os seguintes:
 

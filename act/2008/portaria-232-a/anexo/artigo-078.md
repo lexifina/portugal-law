@@ -6,7 +6,7 @@
 
 a) Manter os critérios de elegibilidade;
 
-b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio e pastagens permanentes;
+b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio ou pastagens permanentes;
 
 c) Manter as árvores, muros de pedra posta e outros elementos patrimoniais importantes para a paisagem e ainda as sebes arbustivas ou arbóreas de espécies autóctones entre as parcelas ou nas suas extremas, não as tratando com herbicidas;
 
@@ -22,7 +22,7 @@ h) Caso exista amendoal ou olival, realizar podas regulares;
 
 i) Caso exista amendoal ou olival, não efectuar mobilizações do solo com charrua, grade de discos ou alfaia rotativa.
 
-2 - Para além do disposto no número anterior e para toda a área objecto de designada «Manutenção da rotação de sequeiro cereal - Pousio», os beneficiários devem ainda comprometer-se a:
+2 - Para além do disposto no número anterior e para toda a área objecto do apoio designado 'Manutenção da rotação de sequeiro cereal - pousio', os beneficiários devem ainda comprometer-se a:
 
 a) Utilizar exclusivamente as rotações tradicionais, ou suas variantes, que tenham uma duração mínima do pousio de dois anos e máxima de quatro anos, devendo ser aprovadas pela ELA;
 
@@ -36,7 +36,7 @@ e) No caso de monda química, deixar faixas não mondadas com o máximo de 8 m d
 
 f) Semear e acompanhar até ao fim do seu ciclo, as culturas para consumo da fauna bravia, por cada 100 ha, 1 ha das culturas, em folhas não contíguas de dimensão inferior a 0,50 ha e de acordo com as orientações da ELA, nas unidades de produção com mais de 100 ha.
 
-3 - Para do disposto no n.º 1, e para toda a área objecto de designada «Manutenção de pastagens permanentes de sequeiro natural ou melhoradas», os beneficiários devem ainda comprometer-se a:
+3 - Para além do disposto no n.º 1, e para toda a área objecto do apoio designado 'Manutenção de pastagens permanentes de sequeiro natural ou melhoradas', os beneficiários devem ainda comprometer-se a:
 
 a) Só mobilizar para efeitos de sementeira de pratenses ou no caso de operações para melhoramento da pastagem;
 

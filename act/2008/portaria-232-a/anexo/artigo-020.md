@@ -16,7 +16,7 @@ e) Elaborar um relatório anual de actividades, de acordo com minuta estabelecid
 
 f) Proceder, anualmente, até 31 de Dezembro, à identificação do efectivo pecuário que utiliza o baldio ou equiparado;
 
-g) Fazer uma gestão sustentável das pastagens, garantido a manutenção do encabeçamento total compreendido entre 0,100 CN/ha e 0,700 CN/ha de superfície forrageira;
+g) Fazer uma gestão sustentável das pastagens, garantindo a manutenção do encabeçamento total compreendido entre 0,100 CN/ha e 0,700 CN/ha de superfície forrageira;
 
 h) Assegurar que o efectivo de equídeos, expresso em CN, seja inferior ou igual a 20 % do efectivo pecuário total que utiliza o baldio.
 

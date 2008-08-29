@@ -18,6 +18,6 @@ ii) (euro) 50 - superior a 10 ha e até 50 ha;
 
 iii) (euro) 25 - superior a 50 ha.
 
-2 - Os apoios são concedidos à totalidade da área elegível sujeita aos limites máximos previstos no números anteriores.
+2 - Os apoios são concedidos à totalidade da área elegível sujeita aos limites máximos previstos no número anterior.
 
 3 - Nos casos em que existe modulação, o cálculo do valor total de cada apoio faz-se pela aplicação sucessiva dos respectivos escalões previstos nos n.os 1 e 2 à área elegível.

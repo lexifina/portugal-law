@@ -12,7 +12,7 @@ a) Possuam uma superfície forrageira, em parcelas agrícolas ou agro-florestais
 
 b) Declarem toda a superfície forrageira, em parcelas agrícolas ou agro-florestais, do baldio;
 
-c) Apresentem, no acto do pedido de apoio, um plano de gestão plurianual para a superfície candidata, conforme o modelo aprovado pela assembleia de compartes e validado pela ELA.
+c) Apresentem, no acto do pedido de apoio, um plano de gestão plurianual para a superfície candidata aprovado pela assembleia de compartes e validado pela ELA, de acordo com o modelo disponibilizado pela autoridade de gestão.
 
 2 - Para efeitos do número anterior, é elegível a totalidade da superfície forrageira desde que pelo menos 80 % se encontrem dentro da área geográfica de aplicação.
 

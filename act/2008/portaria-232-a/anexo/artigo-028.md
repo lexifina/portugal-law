@@ -48,7 +48,7 @@ iii) (euro) 250 - superior a 5 ha.
 
 2 - Para efeitos do cálculo do apoio designado «Conservação dos soutos notáveis da Terra Fria», na situação de árvores isoladas, uma árvore da Castanea sativa corresponde a 400 m2.
 
-3 - No caso de os beneficiários subscreverem o compromisso referido no n.º 6 do artigo anterior e nas áreas em que o mesmo se verificar, os montantes do apoio referido na alínea b) do número anterior são cumuláveis com os seguintes:
+3 - No caso de os beneficiários subscreverem o compromisso referido no n.º 6 do artigo anterior e nas áreas em que o mesmo se verificar, os montantes do apoio referido na alínea b) do n.º 1 são cumuláveis com os seguintes:
 
 a) (euro) 75 - até 50 ha;
 
@@ -58,6 +58,6 @@ c) (euro) 37,50 - superior a 100 ha e até 250 ha.
 
 4 - As excepções previstas no n.º 7 do artigo anterior implicam a perda do direito ao apoio previsto no número anterior, no ano em que se verifiquem.
 
-5 - Os apoios são concedidos à totalidade da área elegível sujeita aos limites máximos previstos nos n.os 1 e 2.
+5 - Os apoios são concedidos à totalidade da área elegível sujeita aos limites máximos previstos nos n.os 1 e 3.
 
-6 - Nos casos em que existe modulação, o cálculo do valor total de cada apoio faz-se pela aplicação sucessiva dos respectivos escalões previstos nos n.os 1 e 2 à área elegível.
+6 - Nos casos em que existe modulação, o cálculo do valor total de cada apoio faz-se pela aplicação sucessiva dos respectivos escalões previstos nos n.os 1 e 3 à área elegível.

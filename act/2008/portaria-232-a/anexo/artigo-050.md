@@ -16,14 +16,14 @@ e) Elaborar um relatório anual de actividades, de acordo com minuta estabelecid
 
 f) Proceder, anualmente até 31 de Dezembro, à identificação do efectivo pecuário que utiliza o baldio ou equiparado;
 
-g) Fazer uma gestão sustentável das pastagens, garantido a manutenção do encabeçamento total compreendido entre 0,150 CN/ha e 1,000 CN/ha de superfície forrageira.
+g) Fazer uma gestão sustentável das pastagens, garantindo a manutenção do encabeçamento total compreendido entre 0,150 CN/ha e 1,000 CN/ha de superfície forrageira.
 
 2 - Para além do disposto no número anterior, os beneficiários que assumem compromissos relativos ao pastoreio de percurso devem ainda cumprir o seguinte:
 
 a) Cumprir o plano de percurso constante do plano de gestão de baldio;
 
-b) Acompanhar os rebanhos, com pastor, com um máximo de 100,000 CN de bovinos ou 75,000 CN de pequenos ruminantes;
+b) Acompanhar os rebanhos, com pastor, com um máximo de 100,000 CN de bovinos ou 75,000 CN de pequenos ruminantes e um mínimo de 50,000 CN de bovinos ou 22,500 CN de pequenos ruminantes.
 
-c) Respeitar os percursos de pastoreio consoante a espécie pecuária e acompanhar cada rebanho com pastores, em consonância com o estabelecido no Regulamento de Uso e Gestão do Baldio.
+c) (Revogado.)
 
 3 - O disposto nos números anteriores do presente artigo produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.
