@@ -1,7 +1,3 @@
-## Secção V
-
-## Intervenção Territorial Integrada Serra da Estrela
-
 ## Subsecção I
 
 ## Componente agro-ambiental - Unidades de produção

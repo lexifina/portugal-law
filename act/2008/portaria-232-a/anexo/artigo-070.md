@@ -1,7 +1,3 @@
-## Secção VIII
-
-## Intervenção Territorial Integrada Castro Verde
-
 ## Subsecção I
 
 ## Componente agro-ambiental - Unidades de produção

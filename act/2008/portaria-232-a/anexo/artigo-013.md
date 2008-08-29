@@ -1,7 +1,3 @@
-## Secção II
-
-## Intervenção Territorial Integrada Peneda-Gerês
-
 ## Subsecção I
 
 ## Componente agro-ambiental - Unidades de produção

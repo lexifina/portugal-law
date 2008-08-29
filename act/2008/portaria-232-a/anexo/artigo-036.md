@@ -1,7 +1,3 @@
-## Secção IV
-
-## Intervenção Territorial Integrada Douro Internacional
-
 ## Subsecção I
 
 ## Componente agro-ambiental - Unidades de produção

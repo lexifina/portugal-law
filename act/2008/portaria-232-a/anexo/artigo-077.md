@@ -1,7 +1,3 @@
-## Secção IX
-
-## Intervenção Territorial Integrada Costa Sudoeste
-
 ## Subsecção I
 
 ## Componente agro-ambiental - Unidades de produção

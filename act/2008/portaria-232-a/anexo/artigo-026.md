@@ -1,7 +1,3 @@
-## Secção III
-
-## Intervenção Territorial Integrada Montesinho-Nogueira
-
 ## Subsecção I
 
 ## Componente agro-ambiental - Unidades de produção

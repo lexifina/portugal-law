@@ -1,7 +1,3 @@
-## Secção VI
-
-## Intervenção Territorial Integrada Tejo Internacional
-
 ## Subsecção I
 
 ## Componente agro-ambiental - Unidades de produção

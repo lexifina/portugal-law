@@ -1,7 +1,3 @@
-## Secção VII
-
-## Intervenção Territorial Integrada Serras de Aire e Candeeiros
-
 ## Subsecção I
 
 ## Componente agro-ambiental - Unidades de produção
