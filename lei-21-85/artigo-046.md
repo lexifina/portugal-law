@@ -6,4 +6,6 @@
 
 ### (Modo de provimento)
 
-O provimento de vagas de juiz da relação faz-se por promoção, mediante concurso curricular, com prevalência do critério do mérito entre juízes da 1.ª instância.
+1 - O provimento de vagas de juiz da relação faz-se por promoção, mediante concurso curricular, com prevalência do critério do mérito entre juízes da 1.ª instância.
+
+2 - O concurso curricular referido no número anterior é aberto por deliberação do Conselho Superior da Magistratura quando se verifique a existência e necessidade de provimento de vagas de juiz da Relação.

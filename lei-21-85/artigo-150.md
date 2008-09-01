@@ -18,10 +18,10 @@ d) Dois juízes de direito;
 
 e) Um dos vogais designados nos termos da alínea a) do n.º 1 do artigo 137.º;
 
-f) Dois vogais de entre os designados pela Assembleia da República.
+f) Quatro vogais de entre os designados pela Assembleia da República;
 
 g) O vogal a que se refere o n.º 2 do artigo 159.º
 
-4 - A designação dos vogais referidos nas alíneas c), d), e) e f) do número anterior faz-se rotativamente, por períodos de 18 meses.
+4 - A designação dos vogais referidos nas alíneas c) e d) do número anterior faz-se rotativamente, por períodos de 18 meses, e a designação dos vogais referidos na alínea f) faz-se por período igual ao da duração do respectivo mandato.
 
 5 - O vogal mencionado na alínea g) do n.º 3 apenas participa na discussão e votação do processo de que foi relator.

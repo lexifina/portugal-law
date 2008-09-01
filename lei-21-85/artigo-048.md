@@ -2,7 +2,7 @@
 
 ### (Distribuição de vagas)
 
-1 - As vagas são preenchidas, na proporção de 2 para 1, por concorrentes classificados respectivamente com Muito bom ou Bom com distinção.
+1 - As vagas para a primeira fase são preenchidas, na proporção de duas para uma, por concorrentes classificados respectivamente com Muito bom ou Bom com distinção.
 
 2 - No provimento das vagas procede-se, sucessivamente, pela seguinte forma:
 
