@@ -14,7 +14,7 @@
 
 6 - Os funcionários e agentes das Comunidades Europeias, que residam em Portugal à data do início de funções, gozam da faculdade de uso de certificado de matrícula para o veículo de que são proprietários e podem aceder ao regime previsto no número anterior, quatro anos após esse início.
 
-7 - Este regime é igualmente aplicável ao pessoal das agências europeias especializadas e das organizações internacionais inter-governamentais estabelecidas em território nacional.
+7 - Este regime é igualmente aplicável ao pessoal das organizações intergovernamentais estabelecidas em território nacional.
 
 8 - Quando os funcionários e agentes das Comunidades Europeias e parlamentares europeus pretendam introduzir no consumo os veículos antes de decorrido o prazo de quatro anos, é exigida uma percentagem do imposto de acordo com a seguinte tabela, salvo se o regime pela introdução no consumo for mais favorável, caso em que é este o aplicável:
 
