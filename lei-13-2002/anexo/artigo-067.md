@@ -13,3 +13,7 @@ c) Um magistrado, dos referidos na alínea c) do n.º 1 do artigo 66.º;
 d) Um jurista, de entre os referidos na alínea d) do n.º 1 do artigo 66.º
 
 2 - Na impossibilidade de observar a ordem indicada, são nomeados candidatos de outra alínea, sem prejuízo do restabelecimento, logo que possível, mas limitado ao período de quatro anos, da ordem estabelecida.
+
+3 - O disposto no número anterior não é aplicável às vagas não preenchidas nos termos da alínea d) do n.º 1, que não podem ser preenchidas por outros candidatos.
+
+4 - O disposto nos n.os 3 a 5 do artigo 67.º do Estatuto dos Magistrados Judiciais é aplicável ao exercício de funções no Supremo Tribunal Administrativo.
