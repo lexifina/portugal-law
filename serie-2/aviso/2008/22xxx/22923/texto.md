@@ -1,0 +1,4 @@
+Aviso n.º 22923/2008
+Em reunião realizada em 18 de Outubro de 2002, a Câmara Municipal de Barcelos, nos termos do disposto no n.º 2 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, deliberou mandar elaborar o Plano de Pormenor para a área do antigo Complexo Industrial Vouga.
+De acordo com o estabelecido no n.º 2 do artigo 77.º do citado diploma, na redacção que lhe foi dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, irá decorrer, por um período de 15 dias a contar da data da publicação do presente aviso no Diário da República, um processo de participação pública durante o qual os interessados poderão proceder à formulação de eventuais sugestões e informações sobre quaisquer questões que possam ser consideradas no âmbito da elaboração do Plano.
+27 de Agosto de 2008. - O Presidente da Câmara, Fernando Reis.
