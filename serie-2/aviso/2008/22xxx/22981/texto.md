@@ -1,0 +1,7 @@
+Aviso n.º 22981/2008
+Nos termos e para os efeitos do disposto no artigo 118.º do CPA (Decreto-Lei n.º 442/91, de 15 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 6/96, de 31 de Janeiro), a Câmara Municipal da Guarda, deliberou aprovar o Projecto de Regulamento da Rede Municipal de Centros de Actividades de Tempos Livres na sua Reunião de 27.08.2008, e submetê-lo a apreciação pública, durante o período de 30 dias, a contar da data da publicação do aviso no Diário da República, para recolha de sugestões e através de editais afixados nos lugares do costume.
+Durante aquele período, os interessados poderão consultar o projecto atrás mencionado, que se encontra disponível nos serviços de Educação do Município e, sobre ele formularem, por escrito, as sugestões ou observações tidas por convenientes.
+A estrutura geral e o articulado são apresentados sob a forma de projecto de regulamento, constituindo uma base de trabalho sólida para o regulamento definitivo.
+O Regulamento será elaborado ao abrigo do disposto no artigo 241.º e 112.º, n.º 8 da Constituição da República Portuguesa e no exercício da competência conferida pela alínea a) do n.º 2 do artigo 53.º e alínea a) do n.º 6 do artigo 64.º da Lei n.º 169/99, de 18 de Setembro, alterada pela Lei n.º 5-A/2002, de 11 de Janeiro.
+27 de Agosto de 2008. - O Vice-Presidente da Câmara, Virgílio Edgar Garcia Bento.
+300688593
