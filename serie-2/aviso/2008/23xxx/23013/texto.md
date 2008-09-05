@@ -1,0 +1,7 @@
+Aviso n.º 23013/2008
+Plano de Pormenor na Modalidade de Plano de Intervenção em Espaço Rural na Herdade do Pinhal
+Pedro Manuel Igrejas da Cunha Paredes, presidente da Câmara Municipal de Alcácer do Sal:
+Torna público, nos termos e para os efeitos do n.º 2 do art. 77.º do Decreto-Lei 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei 316/2007, de 19 de Setembro, que a Câmara Municipal, em reunião de 14/08/2008, determinou o recurso ao mecanismo de contratualização previsto no n.º 5 do artigo 6.º-A, do referido diploma com vista à elaboração do Plano de Pormenor na Modalidade de Plano de Intervenção em Espaço Rural, com Salk Properties Portugal, Lda., com sede na Rua da Fábrica Material de Guerra, 10, em Lisboa, proprietária dos prédios rústicos denominados por "Herdade do Pinhal", sito na Freguesia de Santiago, onde pretende investir num empreendimento turístico com golf.
+A proposta de contrato está disponível para consulta no edifício dos Serviços Técnicos da Câmara Municipal, na Secretaria da Divisão de Urbanismo, Equipamento e Habitação, no horário normal de expediente, ou seja, das 9 às 16 horas.
+Assim, no prazo de 10 dias úteis a contar da publicação do presente aviso, encontra-se o processo sujeito a audição pública, durante a qual os interessados poderão apresentar, por escrito, no prazo estipulado para o efeito, reclamações, observações, sugestões.
+29 de Agosto de 2008. - O Presidente da Câmara, Pedro Manuel Igrejas da Cunha Paredes.
