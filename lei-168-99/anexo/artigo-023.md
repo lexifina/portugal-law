@@ -20,7 +20,7 @@ d) De informações de viabilidade, licenças ou autorizações administrativas 
 
 3 - Na fixação da justa indemnização não são considerados quaisquer factores, circunstâncias ou situações criadas com o propósito de aumentar o valor da indemnização.
 
-4 - Ao valor dos bens calculado por aplicação dos critérios referenciais fixados nos artigos 26.º e seguintes, será deduzido o valor correspondente à diferença entre as quantias efectivamente pagas a título de contribuição autárquica e aquelas que o expropriado teria pago com base na avaliação efectuada para efeitos de expropriação, nos últimos cinco anos.
+4 - (Revogado).
 
 5 - Sem prejuízo do disposto nos n.os 2 e 3 do presente artigo, o valor dos bens calculado de acordo com os critérios referenciais constantes dos artigos 26.º e seguintes deve corresponder ao valor real e corrente dos mesmos, numa situação normal de mercado, podendo a entidade expropriante e o expropriado, quando tal se não verifique requerer, ou o tribunal decidir oficiosamente, que na avaliação sejam atendidos outros critérios para alcançar aquele valor.
 
