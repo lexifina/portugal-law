@@ -2,7 +2,7 @@
 
 ### Pedido de adjudicação
 
-1 - Autorizada a reversão, o interessado deduz, no prazo de 90 dias a contar da data da notificação da autorização, perante o tribunal administrativo de círculo da situação do prédio ou da sua maior extensão, o pedido de adjudicação, instruindo a sua pretensão com os seguintes documentos:
+1 - Não pretendendo recorrer ao acordo previsto no artigo anterior, ou na falta deste, o interessado deduz, no prazo de 120 dias a contar da data da notificação da autorização, perante o tribunal administrativo de círculo da situação do prédio ou da sua maior extensão, o pedido de adjudicação, instruindo a sua pretensão com os seguintes documentos:
 
 a) Notificação da autorização da reversão;
 
