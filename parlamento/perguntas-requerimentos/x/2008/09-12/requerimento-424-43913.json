@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "43913",
+  "tipo": "Requerimento",
+  "numero": "424",
+  "data_registo": "2008-09-12",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Relatório sobre a queda de helicóptero da EMA em Melgaço, em Novembro de 2007",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "208",
+        "nome": "Agostinho Lopes"
+      }
+    ],
+    "DataEnvio": "2008-09-16",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2008-09-16",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN   DA   ADMINISTRAÇÃO INTERNA",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2008-10-08",
+            "docRemetida": null,
+            "entidade": "MIN   DA   ADMINISTRAÇÃO INTERNA",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544338324e7a41354e6d45354d43316b4e6d46694c54526d4d4451744f5752694e533078597a4d325a445134597a45784e474d756347526d&fich=67096a90-d6ab-4f04-9db5-1c36d48c114c.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          },
+          {
+            "dataResposta": "2008-10-09",
+            "docRemetida": null,
+            "entidade": "MIN.  DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544338784e444e684d7a4d344e6930304e7a67784c5451345a4749744f5463785a6931684d7a46695a574a6c4e6a67304e7a6b756347526d&fich=143a3386-4781-48db-971f-a31bebe68479.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2008-09-12",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544338794e6a517a4d5751794d4330794d5745774c545178597a637459574d314f43307a5a444d304d44566a4d7a4d314e7a41756347526d&fich=26431d20-21a0-41c7-ac58-3d3405c33570.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "43913",
+    "Legislatura": "X",
+    "Nr": "424",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "442447",
+        "obs": null,
+        "pag": [
+          "8-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008",
+        "pubLeg": "X",
+        "pubNr": "154",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/03/154/2008-09-13/8?pgs=8&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
