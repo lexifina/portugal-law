@@ -1,0 +1,68 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "tipo": "Proposta de Resolução",
+  "numero": "105",
+  "id": "34083",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2008-09-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2009-10-14",
+    "DataInicioleg": "2008-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a51794e57557a4d6a49774c5451344d4441744e44426a5a4330344f44646c4c5441785a6a6c6a5a6a466b5a44526d5953356b62324d3d&fich=425e3220-4800-40cd-887e-01f9cf1dd4fa.doc&Inline=true",
+        "anexoNome": "ACORDO (VersãoPT)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324d794e4759304e6a526b4c544533595759744e4456684f4330355a6d566a4c5759774e5745344d6a566b4e6d5577596935775a47593d&fich=c24f464d-17af-45a8-9fec-f05a825d6e0b.pdf&Inline=true",
+        "anexoNome": "ACORDO (Versão final PT)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4d31597a637a4d6a59784c54677a5a5445744e474e6a4d6931684d6a6c6c4c57557859324a694d7a6b794f444e684d53356b62324d3d&fich=35c73261-83e1-4cc2-a29e-e1cbb39283a1.doc&Inline=true",
+        "anexoNome": "AnexosPT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3251784e546c6b4d6a466d4c544d344e7a63744e4463334e4330345a6a51324c575179596a4d354e6a59775a4449355969356b62324d3d&fich=d159d21f-3877-4774-8f46-d2b39660d29b.doc&Inline=true",
+        "anexoNome": "Assinaturas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a6b304f446b325a6d56694c5449334d7a51744e4467324d7931694f44466d4c574e6a4e6a6377597a51325a47466d5969356b62324d3d&fich=94896feb-2734-4863-b81f-cc670c46dafb.doc&Inline=true",
+        "anexoNome": "Pág. 52"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a677a596a41305a574a694c5463774e5749744e4441305a6930344e57526a4c5749794f4449354e7a4a694f5449335a69356b62324d3d&fich=83b04ebb-705b-404f-85dc-b282972b927f.doc&Inline=true",
+        "anexoNome": "Data"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "34083",
+    "IniLeg": "X",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a5a694e3255354e5759324c544d314d5451744e4459314f4331684e4751774c546469597a51785a6d5932595459774e43356b62324d3d&fich=6b7e95f6-3514-4658-a4d0-7bc41ff6a604.doc&Inline=true",
+    "IniNr": "105",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova o Acordo Sobre a Participação da República da Bulgária e da Roménia no Espaço Económico Europeu, bem como os Anexos A e B e a Acta Final, assinado em Bruxelas, a 25 de Julho de 2007.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
