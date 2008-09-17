@@ -1,0 +1,5 @@
+Aviso n.º 23534/2008
+Comunica-se aos eventuais interessados que a Câmara Municipal de Espinho deliberou, por unanimidade, em sua reunião ordinária de 29 de Agosto de 2008, no cumprimento do n.º 9 do artigo 77.º do Decreto-Lei n.º 316/2007, de 19 de Setembro: - Promover a redelimitação da área de intervenção do Plano de Pormenor do Espaço Central Secundário de Guetim - Anta.
+O processo pode ser consultado nas sedes das Juntas de Freguesia de Guetim e de Anta e na Divisão de Estudos e Planeamento desta Câmara Municipal a partir do prazo de publicação deste anúncio.
+Nos termos do disposto no n.º 2 do artigo 77.º do Decreto-Lei n.º 316/2007, de 19 de Setembro, por um prazo de 15 dias úteis a contar da data de publicação no Diário da República irá decorrer um período de participação pública para a formulação de sugestões ou observações por escrito em documento devidamente identificado e dirigido ao Presidente da Câmara Municipal de Espinho - Largo Dr. José Salvador - Apartado 700 - 4501-901 Espinho.
+10 de Setembro de 2008. - O Vice-Presidente da Câmara, Rolando Nunes de Sousa.
