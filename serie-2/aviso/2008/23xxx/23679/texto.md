@@ -1,0 +1,8 @@
+Aviso n.º 23679/2008
+António José Correia, presidente da Câmara Municipal de Peniche, torna público, nos termos e para os efeitos do disposto no n.º 5 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, e para efeitos do disposto no Decreto-Lei n.º 232/2007, de 15 de Junho, que esta Câmara Municipal, em reunião ordinária de 28 de Julho de 2008, deliberou aprovar os termos de referência e sujeitar a procedimento de avaliação ambiental estratégica, nos termos do disposto no Decreto-Lei n.º 232/2007, de 15 de Junho, o Plano de Pormenor da Zona Central da Cidade de Peniche.
+Deliberado, também, dar inicio ao período de participação previsto no n.º 2 do artigo 77.º do mesmo decreto-lei, pelo prazo de 20 dias a contar da data de publicação na 2.ª série do Diário da República, para recolha de sugestões, bem como para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração. Durante este período, os interessados poderão consultar os termos de referência nos locais a seguir identificados ou no site da Câmara Municipal de Peniche (www.cm-peniche.pt):
+Departamento de Planeamento e Gestão Urbanística sito no edifício da Câmara Municipal, na Rua de Vasco da Gama, 45;
+Junta de Freguesia de Ajuda, sito na Rua do Arquitecto Paulino Montez, 55.
+Os interessados deverão apresentar as sugestões, informações ou observações mediante exposição dirigida ao presidente da Câmara Municipal, devendo neste constar a identificação e o endereço dos seus autores e a qualidade em que as apresentam.
+10 de Setembro de 2008. - O Presidente da Câmara, António José Correia.
+300730225
