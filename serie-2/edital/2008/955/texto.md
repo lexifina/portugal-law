@@ -1,0 +1,5 @@
+Edital n.º 955/2008
+Jaime Carlos Marta Soares, presidente da Câmara Municipal de Vila Nova de Poiares, torna público, nos termos e para os efeitos do disposto no artigo n.º 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, que durante o período de 30 dias a contar da data de publicação do presente edital no Diário da República, é submetido a apreciação pública o projecto de Regulamento Municipal Florestal do Concelho de Vila Nova de Poiares, aprovado na reunião do órgão executivo do dia 15 de Setembro de 2008.
+Durante esse período poderão os interessados consultar o mencionado projecto de Regulamento na Divisão Administrativa e Financeira da Câmara Municipal de Vila Nova de Poiares, durante as horas normais de expediente (9 horas às 12 horas e 30 minutos e das 14 horas às 17 horas e 30 minutos), 3351-909 Vila Nova de Poiares, nas Juntas de Freguesia, página electrónica do município e no Boletim Municipal.
+15 de Setembro de 2008. - O Presidente da Câmara, Jaime Carlos Marta Soares.
+300738667
