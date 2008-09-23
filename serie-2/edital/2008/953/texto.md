@@ -1,0 +1,5 @@
+Edital n.º 953/2008
+Jaime Carlos Marta Soares, Presidente da Câmara Municipal de Vila Nova de Poiares, torna público, nos termos e para os efeitos do disposto no artigo n.º 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91 de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, que durante o período de 30 dias a contar da data de publicação do presente Edital no Diário da República, é submetido a apreciação pública o Projecto de Regulamento de Utilização das Viaturas de Transporte Colectivo do Município de Vila Nova de Poiares, aprovado na reunião do Órgão Executivo do dia 15 de Setembro de 2008.
+Durante esse período poderão os interessados consultar o mencionado Projecto de Regulamento na Divisão Administrativa e Financeira da Câmara Municipal de Vila Nova de Poiares, durante as horas normais de expediente (9 Horas às 12 Horas e 30 Minutos e das 14 Horas às 17 Horas e 30 Minutos), 3351-909 Vila Nova de Poiares, nas Juntas de Freguesia, Página Electrónica do Município e no Boletim Municipal.
+15 de Setembro de 2008. - O Presidente da Câmara, Jaime Carlos Marta Soares.
+300738829
