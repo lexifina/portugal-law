@@ -1,0 +1,7 @@
+Aviso n.º 23903/2008
+Plano de Pormenor do Arnóia - Discussão pública
+Dr. Telmo Henrique Correia Daniel Faria, Presidente da Câmara Municipal de Óbidos, torna público que de acordo com a deliberação do executivo desta Câmara tomada na sua reunião de 15 de Setembro de 2008 se vai dar inicio ao período de discussão publica do Plano de Pormenor do Arnóia, a decorrer pelo prazo de 22 dias contados a partir do 5.º dia da publicação deste aviso na 2.ª série do Diário da República, nos termos do n.º s 3 e 4 do artigo 77.º do RJIGT (D.L. 316/2007 de 19 de Setembro), pelo que se convidam todos os interessados a formular as reclamações, observações e sugestões que entendam por conveniente.
+A proposta do Plano de Pormenor, acompanhada dos respectivos pareceres, das actas das conferências de serviços e do Relatório Ambiental estará disponível na Secção Administrativa das Obras Particulares desta Câmara, onde poderá ser consultada todos os dias úteis durante as horas normais de expediente. As reclamações, observações ou sugestões a apresentar dentro do prazo, devem ser formuladas por escrito, endereçadas ao Presidente da Câmara Municipal e entregues directamente na Secção de Obras desta Câmara.
+Para constar se publica o presente Aviso e outros de igual teor que vão ser afixados nos lugares do costume, a divulgar através da comunicação social e publicado no Diário da República, 2.ª Série.
+16 de Setembro de 2008. - O Presidente da Câmara, Telmo Henrique Correia Daniel Faria.
+300745032
