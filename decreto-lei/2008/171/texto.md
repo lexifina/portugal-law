@@ -1,0 +1,43 @@
+Decreto-Lei n.º 171/2008
+de 26 de Agosto
+Tendo em vista erigir um enquadramento jurídico em matéria de crédito hipotecário à habitação em que, sem prejudicar a eficiência e competitividade deste sector, seja assegurado um nível elevado de protecção do consumidor, vem o presente decreto-lei eliminar obstáculos comerciais à renegociação das condições dos empréstimos, nomeadamente do spread ou do prazo da duração do contrato de mútuo, e reforçar as condições de mobilidade destes empréstimos.
+No contexto recente de agravamento das taxas de juro, urge a adopção de medidas legislativas que possam resultar numa efectiva diminuição do peso deste encargo no orçamento familiar, nomeadamente através da eliminação de barreiras económicas ou legais que ainda subsistam quer à renegociação das condições dos empréstimos quer à respectiva mobilidade, num quadro de promoção da concorrência no sistema financeiro.
+Neste sentido, o presente decreto-lei para assegurar a efectiva tutela do consumidor no âmbito da renegociação das condições do empréstimo à habitação vem, por um lado, vedar às instituições de crédito a cobrança de qualquer montante para esse efeito, nomeadamente a título de análise do processo, e, por outro, clarificar a aplicação neste domínio da proibição da prática de tying, já em vigor no âmbito da celebração dos contratos de empréstimo. Nesta medida, passa a constituir uma prática comercial vedada fazer depender a renegociação do crédito de exigências adicionais, nomeadamente, do investimento em produtos financeiros ou da observância de determinadas condições de utilização de cartão de crédito.
+O presente decreto-lei consagra, ainda, expressamente a garantia de que a transferência do crédito entre instituições de crédito não prejudica a validade do contrato de seguro subjacente, sem prejuízo da substituição do beneficiário da apólice pela nova instituição mutuante. Assim se procura obviar à prática comum de associar a mobilidade do empréstimo à celebração de novo contrato de seguro. Com efeito, esta prática, com as exigências legais que é necessário observar para o efeito, tem vindo a revelar-se um dos obstáculos remanescentes à efectiva mobilidade dos créditos.
+O presente decreto-lei concentra-se, assim, especificamente, na eliminação de barreiras injustificadas que dificultavam a efectiva mobilidade dos consumidores no domínio do crédito hipotecário à habitação.
+Foi ouvido o Banco de Portugal e o Instituto de Seguros de Portugal.
+Foi promovida a audição do Conselho de Nacional de Consumo.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objecto
+O presente decreto-lei aprova medidas de tutela do mutuário no crédito à habitação respeitantes à renegociação das condições dos empréstimos e à respectiva mobilidade.
+Artigo 2.º
+Âmbito
+1 - O presente decreto-lei é aplicável às relações contratuais de crédito para aquisição, construção e realização de obras em habitação própria permanente, secundária, ou para arrendamento, bem como para a aquisição de terrenos para construção de habitação própria, quando ocorra renegociação do crédito ou transferência para instituição de crédito diversa.
+2 - O presente decreto-lei é, ainda, aplicável às relações decorrentes do contrato de seguro celebrado para garantia da obrigação de pagamento do mútuo.
+Artigo 3.º
+Garantias no âmbito da renegociação das condições do crédito
+1 - Às instituições de crédito está vedada a cobrança de qualquer comissão pela análise da renegociação das condições do crédito, nomeadamente do spread ou do prazo da duração do contrato de mútuo.
+2 - Às instituições de crédito está vedado fazer depender a renegociação do crédito da aquisição de outros produtos ou serviços financeiros.
+Artigo 4.º
+Princípio da intangibilidade do contrato de seguro
+1 - O reembolso antecipado total com vista à transferência do crédito para instituição de crédito diversa, em condições que não afectem os riscos abrangidos pelos contratos de seguro celebrados para garantia da obrigação de pagamento no âmbito do contrato de mútuo, não prejudica a validade dos contratos de seguro, sem prejuízo da substituição do beneficiário das apólices pela nova instituição mutuante.
+2 - O disposto no número anterior prevalece sobre qualquer cláusula contratual em sentido contrário, ou que de alguma forma agrave a posição do segurado ou do mutuário em função da transferência do crédito.
+Artigo 5.º
+Regime sancionatório
+1 - Constitui contra-ordenação a violação do disposto nos artigos 3.º e 4.º, punível nos termos da alínea j) do artigo 210.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, com a última redacção dada pelo Decreto-Lei n.º 1/2008, de 3 de Janeiro, sem prejuízo da aplicação das demais disposições em matéria contra-ordenacional neste previstas.
+2 - A tentativa e a negligência são sempre puníveis, sendo os limites das coimas aplicáveis reduzidos para metade.
+3 - A fiscalização do cumprimento do disposto nos artigos 3.º e 4.º, bem como a aplicação das correspondentes coimas e sanções acessórias, é da competência do Banco de Portugal, sendo aplicável o Regime Geral das Instituições de Crédito e Sociedades Financeiras.
+Artigo 6.º
+Avaliação da execução do diploma
+No final do 1.º ano a contar da data da entrada em vigor do presente decreto-lei, o Banco de Portugal elabora e divulga um relatório de avaliação do impacte da aplicação do mesmo.
+Artigo 7.º
+Entrada em vigor
+O presente decreto-lei entra em vigor 30 dias após a sua publicação.
+Visto e aprovado em Conselho de Ministros de 16 de Julho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel António Gomes de Almeida de Pinho.
+Promulgado em 31 de Julho de 2008.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendado em 1 de Agosto de 2008.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
