@@ -1,0 +1,16 @@
+Aviso n.º 200/2008
+Por ordem superior se torna público ter o Governo da República Bolivariana da Venezuela efectuado, junto do Secretário-Geral das Nações Unidas, em 19 de Dezembro de 2003, uma reserva nos termos do n.º 3 do artigo 35.º da Convenção das Nações Unidas contra a Criminalidade Organizada Transnacional.
+Notificação
+The Secretary-General of the United Nations, acting in his capacity as depositary, communicates the following:
+On 19 December 2003, the Secretary-General received from the Government of Venezuela the following reservation in respect of article 35 (3) of the above Convention:
+«Pursuant to article 35, paragraph 3, the Bolivarian Republic of Venezuela declares that it enters an express reservation concerning the provisions of paragraph 2 of this article. Consequently, it does not consider itself bound to submit to arbitration as a means of settling disputes, nor does it recognize the compulsory jurisdiction of the International Court of Justice.
+In keeping with the depositary practice followed in similar cases, the Secretary-General proposes to receive the reservation in question for deposit in the absence of any objection on the part of any of the Contracting States, either to the deposit itself or to the procedure envisaged, within a period of one year from the date of the present notification. In the absence of any such objection, the said reservation will be accepted for deposit upon the expiration of the above-stipulated period that is on 13 January 2005.
+14 January 2004.»
+Tradução
+O Secretário-Geral das Nações Unidas, agindo na sua qualidade de depositário, comunica o seguinte:
+O Secretário-Geral, em 19 de Dezembro de 2003, recebeu do Governo da Venezuela a seguinte reserva relativa ao n.º 3 do artigo 35.º da Convenção acima mencionada:
+«A República Bolivariana da Venezuela declara, nos termos do n.º 3 do artigo 35.º, formular uma reserva relativa ao disposto no n.º 2 do artigo acima referido. Não se considera, por conseguinte, vinculada a recorrer à arbitragem como meio de resolução de diferendos e não reconhece a competência jurisdicional obrigatória do Tribunal Internacional de Justiça.
+Em conformidade com a prática seguida em casos similares, o Secretário-Geral propõe-se receber a reserva em causa para fins de depósito, salvo objecção por parte de um dos Estados Contratantes, quer para efeitos do próprio depósito, quer para efeitos do procedimento previsto, no prazo de um ano a contar da data da presente notificação. Na ausência de tal objecção, a referida reserva será recebida em depósito findo o prazo acima estipulado, isto é, em 13 de Janeiro de 2005.
+14 de Janeiro de 2004.»
+Portugal é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 32/2004, publicada no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, e ratificada pelo Decreto do Presidente da República n.º 19/2004, publicado no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, tendo depositado o seu instrumento de ratificação em 10 de Maio de 2004, conforme o Aviso n.º 121/2004, publicado no Diário da República, 1.ª série-A, n.º 141, de 17 de Junho de 2004.
+Direcção-Geral de Política Externa, 12 de Setembro de 2008. - O Subdirector-Geral para os Assuntos Multilaterais, António Manuel Ricoca Freire.
