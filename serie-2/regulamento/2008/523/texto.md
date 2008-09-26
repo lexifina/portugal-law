@@ -1,0 +1,29 @@
+Regulamento n.º 523/2008
+Regime de Transição Curricular dos Cursos Adequados a Bolonha
+No âmbito do disposto no Decreto-Lei n.º 74/2006, de 24 de Março, graus académicos e diplomas do ensino superior, nomeadamente do seu artigo 66.º («Transição Curricular»), a transição entre o plano de estudos actual (modelo Pré-Bolonha) e o novo plano de estudos do curso (modelo de Bolonha) decorre, na Escola Superior Tecnologia da Saúde de Lisboa (ESTESL), em todos os cursos de Licenciatura.
+A transição decorre no ano lectivo de 2008-2009, nas Licenciaturas em: Análises Clínicas e Saúde Pública; Anatomia Patológica, Citológica e Tanatológica; Cardiopneumologia; Dietética (Dietética e Nutrição); Farmácia; Fisioterapia, Medicina Nuclear, Ortóptica; Ortoprotesia; Radiologia, Radioterapia e Saúde Ambiental.
+Assim, enumeram-se os seguintes princípios, regras e disposições gerais, aprovados em reunião de conselho científico, do dia 17 de Setembro de 2008.
+1 - Princípios gerais de transição curricular
+1.1 - A integração dos estudantes no modelo de Bolonha faz-se no respeito pelas suas legítimas expectativas, salvaguardando que a coexistência entre a nova organização de estudos e a anterior não exceda um ano lectivo (n.º 3 do artigo 66.º do Decreto-Lei n.º 74/2006, de 24 de Março).
+1.2 - A integração dos estudantes nos novos planos do modelo de Bolonha faz-se, para cada Curso da ESTESL, de acordo com o respectivo regime de transição, aprovado em conselho científico de 23 de Julho de 2008, auscultados o Conselho Pedagógico e as respectivas Comissões Coordenadoras de Curso.
+1.3 - As competências e ou conteúdos constantes em unidades curriculares dos planos Pré-Bolonha foram integrados e ou substituídos por unidades curriculares consideradas estruturantes e identificadas nos respectivos planos de transição.
+2 - Regras de transição curricular
+2.1 - Com a entrada em funcionamento dos Planos de Estudo Adequados a Bolonha, todos os estudantes ingressados no ano lectivo 2008-2009, pela primeira vez, no 1.º ano do curso são abrangidos pelo novo plano de estudos (modelo Bolonha).
+2.2 - Com a entrada em funcionamento dos Planos de Estudo Adequados a Bolonha, transitam para o novo plano de estudos todos os estudantes que, no ano lectivo anterior ao da sua entrada em vigor, se encontravam matriculados nos 1.º 2.º e 3.º anos do respectivo curso. Relativamente, aos estudantes que frequentaram o 4.º ano, e não terminaram a sua Licenciatura, o atrás referido também se aplica.
+2.3 - Os estudantes podem obter o grau de Bacharel desde que concluam o seu Plano de Estudos (modelo Pré-Bolonha) no ano lectivo 2007-2008.
+2.4 - A creditação da formação obtida no modelo Pré-Bolonha é assumida no Plano de Estudo dos Estudantes, com as respectivas designações, classificações e ECTS.
+2.5 - Os estudantes que no final de 2007-2008 vão integrar os novos planos de Bolonha poderão usufruir da possibilidade de concluírem em época extraordinária de exames as unidades curriculares do plano Pré-Bolonha, integrando-se nos novos planos de acordo com os respectivos planos de transição.
+2.6 - Nas unidades curriculares do modelo Pré-Bolonha em que o estudante não obteve aprovação, estas serão "substituídas" por outras unidades curriculares do novo plano de estudos com os mesmos ECTS, sendo a respectiva situação analisada caso a caso pelos Coordenadores de Curso em estreita colaboração com as áreas científicas.
+2.7 - Nas unidades curriculares do modelo Pré-Bolonha em que o estudante não obteve aprovação e que não integrem o Plano de Estudos de Transição, mas que, constam do Plano de Estudos de Bolonha, deverá ser definida pela respectivo Coordenador de Curso em estreita colaboração com as áreas científicas uma unidade curricular que corresponda aquela em que o estudante não obteve aproveitamento.
+2.8 - Sempre que possível deverá estabelecer-se uma correlação directa entre a unidade curricular/unidade curriculares de determinada área científica do curso (modelo Pré-Bolonha) a unidade curricular/unidades curriculares do Plano de Estudos de Bolonha.
+2.9 - Caso não seja possível deverá encontrar-se uma forma do estudante completar o número total de ECTS correspondente a cada área científica não podendo haver sobrecarga de ECTS por semestre (30 ECTS/semestre).
+2.10 - No final do ano lectivo de 2007-2008 deixarão de funcionar as licenciaturas bietápicas, não sendo, por isso, leccionada qualquer unidade curricular do modelo Pré-Bolonha.
+2.11 - Transitam de ano (2007-2008 para 2008-2009) os estudantes que obtenham aprovação nas unidades curriculares em que se encontrem inscritos, e que não tenham em atraso, no total, mais do que 4 unidades curriculares.
+2.12 - No final do ano lectivo de 2008-2009, os cursos estarão plenamente adequados ao modelo Bolonha.
+2.13 - No início do ano lectivo 2009-2010 termina o período de transição, pelo que todos os estudantes deverão estar integrados nos novos planos de estudos (modelo de Bolonha) após usufruírem da época extraordinária.
+2.14 - Os estudantes que não tiverem concluído as unidades curriculares no ano de transição (2008-2009), poderão usufruir de uma época extraordinária de exames.
+3 - Disposições finais
+3.1 - O Presidente do Conselho Directivo, ouvidos os respectivos Conselhos Científico e Pedagógico, e tendo por referência o presente regulamento, fixará por despacho o regime de transição curricular aplicável aos cursos.
+3.2 - Aos casos omissos neste regulamento aplicam-se, com as necessárias adaptações, as disposições gerais contidas nos regulamentos da Escola ou serão objecto de deliberação emanada do conselho científico da ESTESL.
+3.3 - O presente regulamento entra em vigor no dia seguinte à sua aprovação em conselho científico, sem prejuízo da sua publicação no Diário da República.
+19 de Setembro de 2008. - O Presidente do Conselho Directivo, Manuel de Almeida Correia.
