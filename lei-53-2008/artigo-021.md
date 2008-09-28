@@ -20,6 +20,6 @@ b) Extraordinariamente, sempre que o presidente o convoque, por sua iniciativa o
 
 7 - O gabinete previsto no n.º 3 do artigo 14.º presta apoio técnico e administrativo ao Gabinete Coordenador de Segurança.
 
-8 - Revogado.
+8 - O Gabinete SIRENE é integrado no Gabinete Coordenador de Segurança.
 
 9 - A Autoridade Nacional de Segurança e o respectivo gabinete funcionam junto do Gabinete Coordenador de Segurança.

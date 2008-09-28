@@ -20,21 +20,15 @@ f) O Chefe do Estado-Maior-General das Forças Armadas;
 
 g) Dois deputados designados pela Assembleia da República por maioria de dois terços dos deputados presentes, desde que superior à maioria absoluta dos deputados em efectividade de funções;
 
-h) Os comandantes-gerais da Guarda Nacional Republicana e da Polícia Marítima, os diretores nacionais da Polícia de Segurança Pública e da Polícia Judiciária e os diretores do Serviço de Informações Estratégicas de Defesa e do Serviço de Informações de Segurança;
+h) O comandante-geral da Guarda Nacional Republicana, os directores nacionais da Polícia de Segurança Pública, da Polícia Judiciária e do Serviço de Estrangeiros e Fronteiras e os directores do Serviço de Informações Estratégicas de Defesa e do Serviço de Informações de Segurança;
 
 i) A Autoridade Marítima Nacional;
 
-j) A Autoridade Aeronáutica Nacional;
+j) O responsável pelo Sistema de Autoridade Aeronáutica;
 
-k) A Autoridade Nacional de Aviação Civil;
+l) O responsável pelo Sistema Integrado de Operações de Protecção e Socorro;
 
-l) O presidente da Autoridade Nacional de Proteção Civil;
-
-m) O diretor-geral de Reinserção e Serviços Prisionais;
-
-n) O coordenador do Centro Nacional de Cibersegurança;
-
-o) O diretor-geral da Autoridade Tributária e Aduaneira.
+m) O director-geral dos Serviços Prisionais.
 
 3 - Os Representantes da República participam nas reuniões do Conselho que tratem de assuntos de interesse para a respectiva Região.
 
