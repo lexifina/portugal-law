@@ -1,0 +1,150 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11850",
+  "numero": "519",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-09-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2008-10-30",
+            "entidades": null,
+            "id": "85095",
+            "tipo": null,
+            "titulo": "Audição em 2008-10-30 com Ana Luísa Bastos Martins da Cruz Pinho"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-02-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-10-08",
+        "DataArquivo": "2009-02-18",
+        "DataBaixaComissao": "2008-10-08",
+        "DataEnvioPAR": "2009-02-18",
+        "DataReaberta": "2008-10-08",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-09-29",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d6b4e4655304e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764e545978593259794f5445744e6d55314e533030597a566b4c5745304f5749745a5445775a546868597a5a684d6a45324c6e426b5a673d3d&fich=561cf291-6e55-4c5d-a49b-e10e8ac6a216.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-09-29",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d6b4e4655304e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764e6a51784e5467774e6d59744e4755314e533030593251304c574534597a49744e54426a4d445a694f546468595751314c6e426b5a673d3d&fich=6415806f-4e55-4cd4-a8c2-50c06b97aad5.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1914",
+        "Legislatura": "X",
+        "Nome": "Comissão de Ética, Sociedade e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-10-08",
+            "gp": "PS",
+            "id": "2269",
+            "motivoCessacao": null,
+            "nome": "Rita Neves"
+          }
+        ],
+        "RelatorioFinal": [
+          "22520"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2008-09-29",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637939685a47566d4f5449784e6930784f444d794c545178597a4174596a49774d5330775a6d4d324e6d4d345a444d314f4751756347526d&fich=adef9216-1832-41c0-b201-0fc66c8d358d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11850",
+    "PetAssunto": "Solicitam que seja criada legislação específica para as famílias monoparentais.",
+    "PetDataEntrada": "2008-09-29",
+    "PeticoesAssociadas": null,
+    "PetId": "11850",
+    "PetLeg": "X",
+    "PetNr": "519",
+    "PetNrAssinaturas": "421",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "466217",
+        "obs": null,
+        "pag": [
+          "6-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-03-21",
+        "pubLeg": "X",
+        "pubNr": "88",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/088/2009-03-21/6?pgs=6&org=PLC"
+      }
+    ]
+  }
+}
