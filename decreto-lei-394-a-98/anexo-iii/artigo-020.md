@@ -2,7 +2,7 @@
 
 ### Competência do presidente
 
-1 - Compete especialmente ao presidente do conselho de administração:
+1 - Compete ao presidente do conselho de administração, especialmente:
 
 a) Representar o conselho;
 

@@ -1,13 +1,13 @@
 # Base XXII
 
-### Escolha do subconcessionário
+### Escolha da subconcessionária
 
-1 - A escolha do subconcessionário deverá ser feita mediante concurso.
+1 - A escolha da subconcessionária ou das subconcessionárias deve ser feita mediante procedimento de contratação, a lançar pela concessionária, devendo seguir a tramitação estabelecida na legislação aplicável.
 
-2 - O concurso poderá seguir os trâmites do concurso limitado com prévia qualificação ou do concurso público, tal como previstos na legislação administrativa.
+2 - A adjudicação das subconcessões deve assegurar a minimização dos riscos e encargos para a concessionária e para o Estado.
 
-3 - Um dos critérios essenciais para a adjudicação da subconcessão será o da diminuição dos riscos e encargos para o Estado no financiamento da exploração.
+3 - Os programas dos procedimentos de contratação e os cadernos de encargos devem ser aprovados pelos membros do Governo responsáveis pelas áreas das finanças e da tutela sectorial.
 
-4 - O programa de concurso e o caderno de encargos deverão ser aprovados pelos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+4 - Caso o procedimento de contratação a adoptar seja o concurso público, este pode incluir uma fase de negociação.
 
-5 - As normas constantes nas basess XIV e XV são aplicáveis, com as necessárias adaptações, ao subconcessionário.
+5 - Nos contratos a celebrar com as subconcessionárias deve assegurar-se o cumprimento do disposto nas presentes bases.

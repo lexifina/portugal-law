@@ -12,13 +12,13 @@
 
 3 - A concessionária elaborará e manterá actualizado um inventário de todos os bens afectos à concessão, que deverá ser enviado bienalmente ao concedente até ao final do mês de Janeiro, devidamente certificado por auditor por este aceite.
 
-4 - A concessionária não poderá alienar ou onerar, parcial ou totalmente, e sob qualquer forma, os bens e os direitos que estejam afectos à exploração do sistema, salvo autorização prévia dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, ou tratando-se de bens depreciáveis ou ainda de bens cuja natureza imponha a sua substituição.
+4 - A concessionária não pode alienar ou onerar, parcial ou totalmente, e sob qualquer forma, os bens e os direitos que estejam afectos à exploração do sistema, salvo autorização prévia do membro do Governo responsável pela tutela sectorial, ou tratando-se de bens depreciáveis ou ainda de bens cuja natureza imponha a sua substituição.
 
 5 - Durante a vigência da concessão, a concessionária:
 
 a) Será titular do direito de propriedade dos bens que lhe estejam afectos e não pertençam ao domínio público ou privado de entidades públicas ou que não sejam propriedade de entidades privadas;
 
-b) Poderá, no âmbito da concessão, utilizar bens por via de locação ou de outros contratos de direito privado, desde que estes sejam previamente aprovados pelo concedente.
+b) Pode, no âmbito da concessão, utilizar equipamentos relevantes, designadamente material circulante, sistemas de bilhética, iluminação e controlo, por via de locação ou de outros contratos de direito privado, desde que estes sejam previamente aprovados pelo concedente.
 
 6 - No termo da concessão, os bens a que se refere a alínea a) do número anterior reverterão, sem qualquer indemnização, para o Estado, livres de quaisquer ónus ou encargos e em perfeitas condições de operacionalização, utilização e manutenção.
 

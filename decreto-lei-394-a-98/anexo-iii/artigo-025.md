@@ -1,8 +1,8 @@
 # Artigo 25.º
 
-### Competência
+### Competência e reuniões do conselho fiscal
 
-1 - Compete designadamente ao fiscal único:
+1 - Compete ao conselho fiscal, designadamente:
 
 a) Exercer, em geral, a fiscalização da actividade social;
 
@@ -16,4 +16,8 @@ e) Dar conhecimento ao conselho de administração de qualquer assunto que deva 
 
 f) Exercer as demais atribuições que lhe sejam cometidas por lei.
 
-2 - Quando o considere indispensável, o fiscal único poderá propor à assembleia geral a contratação de técnicos especialmente designados para o coadjuvarem nas suas funções.
+2 - Trimestralmente, o conselho fiscal deve enviar aos membros do Governo das finanças e da tutela sectorial um relatório sucinto em que refira os controlos efectuados, assim como os principais desvios em relação aos orçamentos e respectivas causas.
+
+3 - Quando o considere indispensável, o conselho fiscal pode propor à assembleia geral a contratação de técnicos especialmente designados para o coadjuvarem nas suas funções.
+
+4 - O conselho fiscal deve reunir, pelo menos, todos os trimestres.

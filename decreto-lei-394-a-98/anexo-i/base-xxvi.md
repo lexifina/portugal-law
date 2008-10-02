@@ -2,7 +2,7 @@
 
 ### Extinção da concessão
 
-1 - O Estado, através de despacho conjunto dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, poderá dar a concessão por extinta quando tenha ocorrido qualquer dos factos seguintes:
+1 - O Estado, através de despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da tutela sectorial, pode dar a concessão por extinta quando tenha ocorrido qualquer dos factos seguintes:
 
 a) Desvio do objecto da concessão;
 

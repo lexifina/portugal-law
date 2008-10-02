@@ -2,7 +2,7 @@
 
 ### Competência
 
-1 - Compete designadamente ao conselho de administração:
+1 - Compete ao conselho de administração, designadamente:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações respeitantes ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -16,10 +16,4 @@ e) Nomear directores e constituir mandatários, fixando-lhes os poderes que julg
 
 f) Exercer as demais atribuições que lhe sejam cometidas pela lei ou pela assembleia geral.
 
-2 - O conselho de administração não poderá deliberar qualquer dos assuntos a seguir mencionados sem o acordo de todos os seus membros:
-
-a) Alienação, oneração ou locação de activos corpóreos, incorpóreos e financeiros, bem como a realização de operações que impliquem o financiamento a terceiros, ou endividamento da MP de montante igual ou superior a 5% da situação líquida desta, tal como constar do último balanço devidamente aprovado;
-
-b) Participação da Metro do Porto, S. A., no capital de outras sociedades, em agrupamentos complementares de empresas e a celebração de contratos de consórcio e de quaisquer outros acordos ou contratos de cooperação e de associação em participação;
-
-c) Vinculação em qualquer acto ou contrato cujo impacte financeiro global para a MP seja superior a 5% dos capitais próprios desta.
+2 - Sem prejuízo do disposto no artigo 37.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, a participação da sociedade no capital de outras sociedades ou em agrupamentos complementares de empresas e a celebração de contratos de consórcio e de associação em participação estão condicionadas ao acordo de todos os membros do conselho de administração.
