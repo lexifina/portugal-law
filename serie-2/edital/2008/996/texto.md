@@ -1,0 +1,4 @@
+Edital n.º 996/2008
+Luís Miguel Carraça Franco, Presidente da Câmara Municipal de Alcochete, torna público que, nos termos do n.º 3 e n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 316/2007 de 19 de Setembro, rectificado pela Declaração de Rectificação n.º 104/2007 de 6 de Novembro, que se encontrará patente para discussão pública, no edifício dos Paços do Concelho de Alcochete e na Junta de Freguesia de Alcochete, por um período de 30 dias úteis, com início 5 dias após a data da publicação deste Edital no Diário da República, o "Plano de Pormenor do Canto do Pinheiro".
+As reclamações, observações ou sugestões poderão ser apresentadas por escrito nos locais indicados, por correio, dirigidas ao Presidente da Câmara Municipal de Alcochete, Largo de S. João, 2890-001 Alcochete, por fax: 212348690, ou e-mail: geral@cm-alcochete.pt.
+29 de Setembro de 2008. - O Presidente da Câmara, Luís Miguel Franco.
