@@ -1,0 +1,51 @@
+# Relatório de Auditoria 34/2008 - 1ª S/SS de 8 de Outubro
+
+**Designação:** Relatório de Auditoria 34/2008 - 1ª S/SS de 8 de Outubro
+
+**Data do documento:** 2008-10-08
+
+**Espécie:** Relatórios de Auditoria, de Verificação Externa de Contas, de Verificação Interna de Contas, de Acompanhamento da Execução Orçamental, de Apuramento de Responsabilidades, OAC
+
+**Tipo de documento:** Relatório de Auditoria
+
+**Relator:** João Alexandre Tavares Gonçalves de Figueiredo
+
+**Entidades:** Município da Amadora
+
+**Descritores:** AUDITORIA ORIENTADA; CONTRATO ADICIONAL; FUNDAMENTAÇÃO LEGAL; PROCEDIMENTO ADMINISTRATIVO; RESPONSABILIDADE FINANCEIRA SANCIONATÓRIA
+
+**Texto integral (PDF oficial):** https://www.tcontas.pt/pt-pt/ProdutosTC/Relatorios/RelatoriosAuditoria/Documents/2008/rel034-2008-1s.pdf
+
+**Registo oficial:** https://tcjure.tcontas.pt/GetDocument.aspx?numero=111966
+
+## Sumário
+
+As alegações ora transcritas, suscitam as seguintes observações:
+
+1. No que concerne aos trabalhos Picagem dos Maciços e Abertura de Negativos em Lajes – TM1-A, Impermeabilização e Drenagem do Pavimento Térreo – TM3-A e Alarmes nas instalações sanitárias dos deficientes-TM19-A os mesmos encontram-se agora devidamente justificados, na perspectiva da imprevisibilidade, considerando os esclarecimentos apresentados pelos alegantes e alguma da documentação, agora, junta ao processo, nomeadamente:
+
+Faxes nºs 328 e 466 de 01.06.2005 e 03.08.2005, respectivamente, a solicitar à firma Edifer, Construções S.A., a remoção dos materiais depositados no estaleiro e respectiva vedação.
+A adjudicação do anterior contrato com a firma Edifer foi considerada sem efeito em 29.12.2004. Ora, verifica-se que cinco meses após essa data, a firma não tinha ainda removido o estaleiro, tendo sido notificada para esse efeito, novamente, 2 meses depois. Este procedimento impossibilitou efectivamente o dono da obra de ter livre acesso ao local dos trabalhos e consequentemente de efectuar o levantamento da situação da obra em condições normais;
+
+Cópia do relatório Geológico-Geotécnico efectuado, em Agosto de 2004, pela Tecnasol FGE Fundações e Geotecnia, SA, no qual se concluí (fls. 7 e 10) &#8213;que não foi assinalada a presença de água em quaisquer dos furos de sondagem&#8214; e &#8213;de acordo com a informação das sondagens, não se prevê a ocorrência de água subterrânea na zona em estudo&#8214;;
+
+No que concerne às instalações sanitárias dos deficientes – TM19-A a nova legislação é efectivamente mais exigente do que a anterior no que respeita ao sistema de alarme.
+
+2. No que se refere aos restantes trabalhos, os respondentes não os consideram como omissões mas, como erros de quantidades, tanto mais que a presente empreitada foi adjudicada em regime de série de preços, pelo que, à data da adjudicação e do contrato, não são conhecidas integralmente as quantidades ou as espécies de trabalhos que na realidade, vão integrar a empreitada.
+Mais referem os alegantes a págs.7, dos ofícios 304 e 306 de 25 e 30.07.2007, “(…) O facto de na empreitada por série de preços, à data da adjudicação e do contrato, não serem conhecidas as quantidades ou as espécies de trabalhos que na realidade vão integrar a empreitada, não significa, obviamente que o dono da obra conceda uma espécie de cheque em branco ao empreiteiro quanto às quantidades de trabalhos a realizar. Pelo contrário, nos termos do artigo 26º do RJEOP, a realização de quantidades de trabalhos não incluídas no contrato há-de ter lugar na figura do quadro dos trabalhos a mais e deve ser ordenada pelo dono da obra. Para que se trate de trabalhos a mais, é necessária a verificação cumulativa dos seguintes requisitos:
+
+A) Que não hajam sido previstos e incluídos no contrato, por isso mesmo são a mais que os previstos no contrato;
+
+B) Que se destinem à realização da mesma empreitada, isto é, que se integrem no objecto e fim do contrato; que não possam e não devam ser objecto de uma empreitada autónoma; que haja entre a empreitada e os trabalhos uma relação de indispensável complementaridade: sem esses trabalhos o resultado da obra não realizaria o fim a que se propõe, ou não realizaria de modo satisfatório o objectivo de interesse público que se pretende realizar.&#8214;
+
+Se bem se entende, os respondentes, parecem defender, que quaisquer trabalhos a mais que devam ser executados no âmbito de uma empreitada em regime de série de preços, devem ser enquadrados ao abrigo do artigo 26º, do Decreto-Lei nº 59/99 de 2 de Março, “dispensando”, no entanto, a exigência de que esses trabalhos se tenham ficado a dever à ocorrência de circunstâncias imprevistas, porquanto, no contrato inicial apenas se previa uma estimativa das quantidades e espécies de trabalhos a realizar. Ora, a aplicação da norma legal citada, depende da verificação cumulativa de todos os seus requisitos, de entre os quais, a exigência de que os trabalhos em apreço “se tenham tornado necessários na sequência de uma circunstância imprevista”. Ou seja, condição “sine qua non&#8214; de aplicação desta norma legal, é que se trate de trabalhos que para além de reunirem as características previstas nas alíneas a) e b), tenham surgido na sequência de circunstâncias imprevistas ocorridas no decurso da empreitada a que respeitam. Sobre o que se deve entender por circunstâncias imprevistas, existe já abundante Jurisprudência deste Tribunal, vertida em Decisões e Acórdãos proferidos em sede de Fiscalização Prévia.
+A título meramente exemplificativo, vejam-se os Acórdãos nº 29/06 - 16 Mai-1ª S/PL, Acórdão nº 39/2006 - Jun.20-1ª S/PL e Acórdão nº 168/06 - 1ª S/SS.
+Da leitura de todos eles resulta que tem sido entendimento unânime da 1ª Secção deste Tribunal que para os efeitos do artigo 26º, nº 1 do Decreto-Lei nº 59/99 de 2 de Março, &#8213;circunstância imprevista é algo inesperado que surge durante a execução da obra e que um agente normalmente diligente não estava em condições de prever antes do lançamento do concurso&#8214;. Para mais essa imprevisibilidade exige para ser comprovada, a invocação de factos concretos e não uma mera remissão para a norma legal ou a transcrição do conteúdo da mesma. Acontece que a CMA e respectivos responsáveis, nos diversos momentos em que foram ouvidos (antes da elaboração do relato, quando lhe foram colocadas questões relacionadas com os trabalhos realizados e, posteriormente, em sede de contraditório), não lograram demonstrar que os trabalhos identificados sob a designação TM 5-A – Omissão no capítulo de águas residuais e pluviais; TM 11-A – Omissão no capítulo de estruturas; TM 12-A – Omissão no capítulo de arquitectura; TM 13-A – Omissão no capítulo de água fria/quente e retorno; TM 15-A – Omissão no capítulo de instalações eléctricas; TM 16-A – Omissão no capítulo das instalações telefónicas, qualificados como “trabalhos a mais”, tenham surgido na sequência de circunstâncias imprevistas, no sentido adoptado pelo Tribunal e supra referido.
+III.4. Eventuais ilegalidades Relativamente ao primeiro adicional, consideram-se procedentes as alegações respeitantes aos trabalhos a mais, identificados sob a designação TM 1-A (picagem dos maciços e abertura de negativos em lajes), TM 3-A (impermeabilização e drenagem do pavimento térreo) e TM 19-A (alarmes nas instalações sanitárias dos deficientes) os quais totalizam o valor de € 66.178,39. Refira-se que, no âmbito deste adicional, em sede de relato, já se tinham aceite os trabalhos a mais no montante de € 53.582,35. No que respeita, às alegações que visam justificar os trabalhos efectuados sob a designação TM 5-A, TM 11-A, TM 12-A, TM 13-A, TM 15-A, TM 16-A, as mesmas não são atendíveis pelas razões expostas no ponto anterior.
+Relativamente ao segundo adicional, os respondentes nada alegaram relativamente ao mesmo, pelo que se mantêm as observações indicadas.
+Conclui-se, assim, que os trabalhos adicionais que constituem o objecto do primeiro adicional (no montante de € 70.147,00 ) e do segundo adicional (no valor de € 125.798,20), atenta a fundamentação que foi apresentada para a sua execução, complementada com as alegações apresentadas no exercício do contraditório, não podem ser qualificados como “trabalhos a mais”, porquanto, conforme decorre do antes exposto, não resultaram de quaisquer “circunstâncias imprevistas” tal como se exigia no artigo 26º, nº 1, do Decreto-Lei nº 59/99, de 2 de Março. Face ao valor em causa, o procedimento adjudicatório legalmente exigível, era o concurso público (cfr.art. 48º, nº 2, alínea a) do Decreto-Lei nº 59/99, de 2 de Março, na redacção introduzida pela Lei nº 163/99, de 14 de Setembro). A falta de concurso, quando legalmente exigido, torna nulo o procedimento e o contrato em apreço por preterição de um elemento essencial (artºs 133º, n.º 1 e 185º do Código de Procedimento Administrativo). III.5. Eventual responsabilidade financeira sancionatória As ilegalidades indicadas no ponto III.4 deste Relatório são susceptíveis de consubstanciar infracção financeira geradora de responsabilidade financeira sancionatória, nos termos da al. b) do nº 1 do artigo 65º da Lei n.º 98/97, de 26 de Agosto, sancionável com multa, a efectivar através de processo de julgamento de responsabilidade financeira (nº 3 do art. 58º e 79º, nº 2 e 89º, nº 1 alínea a), todos da mesma Lei).
+
+Não foram encontrados registos de recomendação ou censura enquadráveis, respectivamente, na alínea b) e na alínea c) do nº 8 do art. 65º da referida Lei nº 98/97, em relação ao organismo e aos indiciados responsáveis .
+
+III.6. Desvio financeiro
+No tocante ao custo final, a empreitada de “Requalificação do Parque Escolar da Brandoa/E.B.1, Jardim-de-infância – ATL”, ascendeu na sua totalidade a 2.408.205,01 €19, o que representa um desvio financeiro de 11,11 % em relação ao valor inicial da empreitada. De salientar, no entanto, que não foi informado se este valor final inclui IVA e/ou quantias pagas a título de revisão de preços, uma vez que, o mesmo não coincide com o montante resultante da adição dos valores dos contratos adicionais com o valor do contrato inicial (2.482.931,45 €). Efectivamente, entre os dois valores existe uma diferença de 74.726,44 €, que eventualmente se ficará a dever a trabalhos a menos retirados do custo final da empreitada, mas que não foi explicitado pela autarquia.
