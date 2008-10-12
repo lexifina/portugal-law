@@ -18,4 +18,6 @@ b) Prevenção de riscos sistémicos;
 
 c) Controlo da idoneidade dos titulares dos órgãos de gestão, das pessoas que dirigem efectivamente a actividade e dos titulares de participações qualificadas, de acordo com os critérios definidos no artigo 30.º do Regime Geral das Instituições de Crédito e das Sociedades Financeiras, com as devidas adaptações.
 
-3 - A CMVM, através de regulamento, concretiza os princípios referidos nas alíneas a) e b) do número anterior.
+3 - Para efeitos do disposto no número anterior, as entidades referidas no n.º 1 são obrigadas a prestar à CMVM as informações que esta considere necessárias à verificação, nomeadamente, do seu grau de liquidez e de solvabilidade, dos riscos em que incorrem, incluindo o nível de exposição a diferentes tipos de instrumentos financeiros, das práticas de gestão e controlo dos riscos a que estão ou possam vir a estar sujeitas e das metodologias adoptadas na avaliação dos seus activos, em particular daqueles que não sejam transaccionados em mercados de elevada liquidez e transparência.
+
+4 - A CMVM, através de regulamento, concretiza o disposto nos números anteriores.

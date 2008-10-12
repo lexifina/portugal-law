@@ -14,6 +14,6 @@ c) As regras de registo dos valores mobiliários emprestados e de contabilidade 
 
 d) A informação a prestar pelos intermediários financeiros à CMVM e ao mercado.
 
-3 - (Revogado).
+3 - A CMVM define, através de regulamento, o conteúdo e o modo como deve ser prestada a informação prevista nos termos do artigo 350.º-A.
 
 4 - (Revogado).
