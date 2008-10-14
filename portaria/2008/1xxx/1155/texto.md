@@ -1,0 +1,11 @@
+Portaria n.º 1155/2008
+de 14 de Outubro
+Pela Portaria n.º 667-U4/93, de 14 de Julho, alterada pela Portaria n.º 751/97, de 28 de Agosto, foi concessionada à Associação de Caça e Pesca de Talhas a zona de caça associativa de Talhas (processo n.º 1326-AFN), situada no município de Macedo de Cavaleiros, com a área de 1866 ha e não de 1817,05 ha como mencionado na Portaria n.º 751/97, válida até 13 de Julho de 2008.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no artigo 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º, e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente por um único e igual período, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos na freguesia de Talhas, município de Macedo de Cavaleiros, com a área de 1866 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º A actividade cinegética em terrenos incluídos na ZPE Rios Sabor e Maças (Decreto-Lei n.º 384-B/99, de 23 de Setembro) e Sítios da Lista Nacional PTCON0021 Rios Sabor e Maças e PTCON0023 Morais (Resolução do Conselho de Ministros n.º 142/97, de 28 de Agosto) poderá ser interdita, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza.
+3.º A presente portaria produz efeitos a partir do dia 14 de Julho de 2008.
+Em 2 de Outubro de 2008.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas.
+(ver documento original)
