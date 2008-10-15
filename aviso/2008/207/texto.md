@@ -1,0 +1,5 @@
+Aviso n.º 207/2008
+Por ordem superior se torna público que, em 12 de Agosto e em 3 de Outubro de 2008, foram emitidas notas, respectivamente pelo Ministério do Poder Popular para as Relações Exteriores venezuelano e pelo Ministério dos Negócios Estrangeiros português, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo Complementar ao Acordo Quadro de Cooperação entre a República Portuguesa e a República da Venezuela, em Matéria de Cooperação Económica e Energética entre a República Portuguesa e a República Bolivariana da Venezuela, assinado em Caracas em 13 de Maio de 2008.
+Por parte de Portugal o Acordo foi aprovado pelo Decreto n.º 31-A/2006, publicado no Diário da República, 1.ª série, n.º 192, de 3 de Outubro de 2008.
+Nos termos do artigo 12.º do Acordo, este entrará em vigor no dia 2 de Novembro de 2008.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 6 de Outubro de 2008. - O Subdirector-Geral, Ricardo Eduardo Vaz Pereira Pracana.
