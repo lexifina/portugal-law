@@ -1,0 +1,5 @@
+Edital n.º 1020/2008
+Dr. António Soares Marques, Presidente da Câmara Municipal de Mangualde, Torna público, nos termos e para os efeitos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91 de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de Janeiro que durante o período de 30 dias a contar da data de publicação do presente Edital no Diário da República, é submetido a apreciação pública o Projecto do Regulamento Municipal Específico das Zonas de Estacionamento de Duração Limitada, aprovado em reunião do Órgão Executivo do dia 6 de Outubro de 2008.
+Durante esse período poderão os interessados consultar o mencionado Projecto de Regulamento na Divisão Administrativa da Câmara Municipal, durante as horas normais de expediente (9 Horas às 12 Horas e 30 Minutos e das 14 Horas às 16 Horas), nas Juntas de Freguesia e na Página Electrónica do Município.
+9 de Outubro de 2008. - O Presidente da Câmara, António Soares Marques.
+300827945
