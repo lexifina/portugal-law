@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 61/2008
+Por ter sido publicado com inexactidão no Diário da República, 1.ª série, n.º 196, de 9 de Outubro de 2008, o sumário do Decreto do Presidente da República n.º 76/2008, de 9 de Outubro, rectifica-se que onde se lê «Confirmação da nomeação ao cargo de Comandante Operacional da Força Aérea do Tenente-General José Maria Pessoa» deve ler-se «Confirmação da nomeação para o cargo de Comandante Operacional da Força Aérea do Tenente-General José Maria Pessoa».
+Secretaria-Geral da Presidência da República, 14 de Outubro de 2008. - O Secretário-Geral, Arnaldo Pereira Coutinho.
