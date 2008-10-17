@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 63/2008
+Por ter sido publicado com inexactidão no Diário da República, 1.ª série, n.º 198, de 13 de Outubro de 2008, o Decreto do Presidente da República n.º 114/2008, de 13 de Outubro, rectifica-se que onde se lê «ministro plenipotenciário de 1.ª classe António Manuel Tânger Corrêa do cargo de Embaixador de Portugal em Vilnius» deve ler-se «ministro plenipotenciário de 1.ª classe António Manuel Moreira Tânger Corrêa do cargo de Embaixador de Portugal em Vilnius».
+Secretaria-Geral da Presidência da República, 14 de Outubro de 2008. - O Secretário-Geral, Arnaldo Pereira Coutinho.
