@@ -1,0 +1,20 @@
+# Resolução n.º 1114/2008
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 134/2008, 3.º suplemento, de 2008-10-20
+
+**Sumário:** Autoriza a celebração de um contrato-programa com o clube denominado Clube de Natação da Madeira.
+
+## Texto
+
+Resolução n.º 1114/2008
+Considerando que o Clube de Natação da Madeira pessoa colectiva de direito público, contribui, na sua área de intervenção, para a prossecução da política desportiva adoptada pelo Governo Regional da Madeira;
+Considerando o forte impacto das provas desportivas de Natação nos órgãos de comunicação social regionais;
+Considerando que o desporto regional federado constitui igualmente um veículo de divulgação dos benefícios da prática desportiva e um meio de promoção da sua prática pela juventude e pela população em geral;
+Considerando a realização e participação nos campeonatos ou provas regionais, nacionais e internacionais, constitui uma forma de aferição das competências dos atletas e equipas em competição.
+O Conselho do Governo reunido em plenário em 10 de Outubro de 2008, resolveu:
+1. Ao abrigo do disposto no artigo 26.º do Decreto Legislativo Regional n.º 2-A/2008/M, de 16 de Janeiro, no artigo 57.º do Decreto Legislativo Regional n.º 4/2007/M, de 11 de Janeiro, na alínea g) do n.º 1 do artigo 5.º do Decreto Regulamentar Regional n.º 15/2005/M, de 19 de Abril, no artigo 2.º, na alínea b) do n.º 1 do artigo 3.º e na alínea b) do n.º 1 do artigo 4.º do Decreto Legislativo Regional n.º 12/2005/M, de 26 de Julho, alterado pelo Decreto Legislativo Regional n.º 4/2007/M, de 11 de Janeiro, da Resolução n.º 1220/2000, de 3 de Agosto, com as alterações introduzidas pelas resoluções n.º 46/2001, de 11 de Janeiro, n.º 1122/2001, de 9 de Agosto e n.º 458/2005, de 21 de Abril, autorizar a celebração de um contrato-programa com o Clube de Natação da Madeira tendo em vista a sua participação nos campeonatos ou provas regionais de Natação, no ano 2006 - indicadores da época 2004/2005.
+2. Para a prossecução do projecto previsto no número anterior, conceder ao Clube de Natação da Madeira uma comparticipação financeira que não excederá o montante máximo de 3.366,90 (três mil, trezentos e sessenta e seis euros e noventa cêntimos), nos seguintes termos:
+- Competição Desportiva Regional - Ano 2006 - Indicadores da ED 2004/2005 - 3.366,90 .
+3. A comparticipação financeira prevista no número anterior será processada mediante a apresentação dos documentos comprovativos das despesas efectuadas e distribuída pelos seguintes anos:
