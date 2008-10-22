@@ -1,0 +1,52 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "tipo": "Proposta de Resolução",
+  "numero": "111",
+  "id": "34143",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2008-10-22",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2009-10-14",
+    "DataInicioleg": "2008-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a51315a446c694d7a41324c5441315a5449744e444d784e533034595749304c54677a5a445a6c5957466a4d5455795a53356b62324d3d&fich=45d9b306-05e2-4315-8ab4-83d6eaac152e.doc&Inline=true",
+        "anexoNome": "PROPOSTA DE EMENDA AO ACORDO RELATIVO AO FUNDO MONETÁRIO INTERNACIONAL DESTINADA A ALARGAR A CAPACIDADE DE INVESTIMENTO DO FUNDO MONETÁRIO INTERNACIONAL"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a646d4e6a67344d5755324c5449794d6a59744e4441794e7930354e5463324c5751784d6d4e6d596d5a6c4d444d324d69356b62324d3d&fich=7f6881e6-2226-4027-9576-d12cfbfe0362.doc&Inline=true",
+        "anexoNome": "PROPOSED AMENDMENT OF THE ARTICLESOF AGREEMENT OF THE INTERNATIONAL MONETARY FUND TO EXPAND THE INVESTMENT AUTHORITY OF THE INTERNATIONAL MONETARY FUND"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "34143",
+    "IniLeg": "X",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a56685954686a4d444d354c544a6a5a4451744e4759324f5330344e7a557a4c5463344e7a52684d545532596a466b4d43356b62324d3d&fich=5aa8c039-2cd4-4f69-8753-7874a156b1d0.doc&Inline=true",
+    "IniNr": "111",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova, para adesão, uma Emenda ao Acordo Relativo ao Fundo Monetário Internacional destinada a alargar a capacidade de investimento do Fundo Monetário Internacional, adoptada em conformidade com a Resolução n.º 63-3, de 5 de Maio de 2008, da Assembleia de Governadores do referido Fundo.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
