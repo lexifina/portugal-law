@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "44744",
+  "tipo": "Requerimento",
+  "numero": "27",
+  "data_registo": "2008-10-22",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Inundações em Sete Rios, Lisboa",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1656",
+        "nome": "António Carlos Monteiro"
+      }
+    ],
+    "DataEnvio": "2008-10-23",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2008-10-23",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Presidente Conselho de Administração das Estradas de Portugal - EP",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2008-11-06",
+            "docRemetida": null,
+            "entidade": "Presidente Conselho de Administração das Estradas de Portugal - EP",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544339685a6a4a6a597a63324d6930344d4468694c54526a59325974596a49774e79316859574a6b5a6d4a6d59575535595745756347526d&fich=af2cc762-808b-4ccf-b207-aabdfbfae9aa.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2008-10-22",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544339684f544532596a4a6c5a53316b4d4459314c54517a5a575574596a46684f5330784f54466b4e4445785954466d4d6d4d756347526d&fich=a916b2ee-d065-43ee-b1a9-191d411a1f2c.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "44744",
+    "Legislatura": "X",
+    "Nr": "27",
+    "Observacoes": "escoamento de águas",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "445026",
+        "obs": null,
+        "pag": [
+          "14-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008",
+        "pubLeg": "X",
+        "pubNr": "22",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/022/2008-10-24/14?pgs=14-15&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Requerimento"
+  }
+}
