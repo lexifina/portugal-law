@@ -6,6 +6,6 @@
 
 ### Elaboração
 
-1 - A inscrição dos eleitores consta de cadernos de recenseamento elaborados pelo STAPE ou pelas comissões recenseadoras, nos termos dos artigos 56.º e 58.º, respectivamente.
+1 - Os cadernos de recenseamento são elaborados pelo SIGRE com base na informação das inscrições constantes da BDRE.
 
-2 - Há tantos cadernos de recenseamento quantos os necessários para que em cada um deles não figurem mais de 1000 eleitores.
+2 - Há tantos cadernos de recenseamento quantos os necessários para que em cada um deles figurem sensivelmente 1000 eleitores.

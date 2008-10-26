@@ -2,8 +2,6 @@
 
 ### Oficiosidade e obrigatoriedade
 
-1 - Todos os eleitores têm o direito e o dever de promover a sua inscrição no recenseamento, bem como de verificar se estão inscritos e, em caso de erro ou omissão, requerer a respectiva rectificação.
+1 - Todos os eleitores têm o direito a estar inscritos e o dever de verificar a sua inscrição no recenseamento e, em caso de erro ou omissão, requerer a respectiva rectificação.
 
-2 - A inscrição dos eleitores no recenseamento também pode ser feita oficiosamente pela respectiva comissão recenseadora.
-
-3 - Os actos previstos no n.º 1 são obrigatórios para os cidadãos nacionais residentes no território nacional maiores de 18 anos.
+2 - Todos os cidadãos nacionais, residentes no território nacional, maiores de 17 anos, são oficiosa e automaticamente inscritos na base de dados do recenseamento eleitoral, adiante designada abreviadamente por BDRE, devendo a informação para tal necessária ser obtida com base na plataforma de serviços comuns do cartão de cidadão.

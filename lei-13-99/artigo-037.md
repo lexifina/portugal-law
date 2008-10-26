@@ -2,7 +2,7 @@
 
 ### Teor da inscrição
 
-1 - A inscrição é feita mediante o preenchimento integral dos campos de informação constantes dos verbetes anexos a este diploma:
+1 - Quando a inscrição não seja automática é efectuada, através do SIGRE, mediante o preenchimento dos campos de informação seguintes:
 
 a) Número de inscrição;
 
@@ -16,23 +16,23 @@ e) Data de nascimento;
 
 f) Naturalidade;
 
-g) Sexo;
+g) Nacionalidade;
 
-h) Freguesia e concelho ou país de residência conforme o bilhete de identidade ou título de residência emitido pela entidade competente;
+h) Sexo;
 
-i) Endereço postal conforme o do verbete de inscrição;
+i) Freguesia e concelho ou país de residência conforme a identificação civil ou título válido de residência emitido pela entidade competente;
 
-j) Freguesia ou distrito consular;
+j) Morada;
 
-l) Número do bilhete de identidade;
+l) Distrito consular;
 
-m) Número e data de emissão do passaporte;
+m) Número e datas de emissão e validade do título para identificação e do título válido de residência, consoante os casos;
 
-n) Nacionalidade;
+n) Data, origem e tipo de comunicação à BDRE;
 
-o) Data de inscrição no recenseamento eleitoral.
+o) Número de telefone, telemóvel e endereço electrónico, desde que obtidos com o consentimento do titular.
 
-2 - No verbete de inscrição devem ainda ser preenchidos, consoante os casos, os seguintes campos de informação:
+2 - Devem ainda ser preenchidos, consoante os casos, os seguintes campos de informação:
 
 a) Para os eleitores referidos nas alíneas c) e d) do artigo 4.º, título de residência válido, comprovativo do tempo mínimo de residência fixado na Lei Eleitoral dos Órgãos das Autarquias Locais;
 

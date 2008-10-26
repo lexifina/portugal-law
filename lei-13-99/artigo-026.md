@@ -8,7 +8,7 @@
 
 a) No continente, para o representante do Governo no distrito;
 
-b) Nas Regiões Autónomas, para o Ministro da República;
+b) Nas Regiões Autónomas, para o Representante da República;
 
 c) No estrangeiro, para o embaixador.
 

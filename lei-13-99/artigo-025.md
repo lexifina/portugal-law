@@ -10,7 +10,7 @@
 
 4 - A criação pelas comissões recenseadoras de novos postos de recenseamento no estrangeiro e a definição da sua área, bem como a sua subsistência, dependem da possibilidade da sua integração por representantes de todos os partidos representados na Assembleia da República, salvo se a não representação de algum dos partidos resultar da falta de indicação do respectivo delegado.
 
-5 - A criação de novos postos de recenseamento e a definição das suas áreas, bem como a extinção de postos existentes, são comunicados ao STAPE e anunciados:
+5 - A criação de novos postos de recenseamento e a definição das suas áreas, bem como a extinção de postos existentes, é feita em articulação com a DGAI e anunciados:
 
 a) No território nacional, por edital a afixar, nos locais de estilo, até 31 de Dezembro de cada ano;
 

@@ -1,8 +1,8 @@
 # Artigo 12.º
 
-### Conteúdo da BDRE e dos ficheiros informatizados
+### Conteúdo e regime de interconexão da BDRE
 
-1 - A BDRE e os ficheiros informatizados dos eleitores em cada unidade de recenseamento são constituídos pelos seguintes dados identificativos dos eleitores, conforme os campos de informação constantes dos anexos a este diploma:
+1 - A BDRE é constituída pelos seguintes dados identificativos dos eleitores, comunicados pelos respectivos sistemas de identificação nacional ou pelas comissões recenseadoras:
 
 a) Número de inscrição;
 
@@ -18,30 +18,32 @@ f) Naturalidade;
 
 g) Sexo;
 
-h) Freguesia e concelho ou país de residência conforme o bilhete de identidade;
+h) Freguesia e concelho ou país de residência conforme a identificação civil ou título válido de residência emitido pela entidade competente;
 
-i) Endereço postal conforme o do verbete de inscrição,
+i) Morada;
 
-j) Freguesia ou distrito consular;
+j) Distrito consular;
 
-l) Número do bilhete de identidade;
+l) Número e datas de emissão e validade do título válido para identificação e do título válido de residência, consoante os casos;
 
-m) Número e data de emissão do passaporte;
+m) Nacionalidade;
 
-n) Nacionalidade;
+n) Data, origem e tipo da comunicação à BDRE;
 
-o) Data de inscrição no recenseamento eleitoral.
+o) Número de telefone, telemóvel e endereço electrónico, desde que obtidos com o consentimento do titular.
 
-2 - Da BDRE devem ainda constar, consoante os casos, os seguintes campos de informação:
+2 - À BDRE devem ser comunicados pelos respectivos sistemas de identificação nacional ou comissões recenseadoras, consoante os casos, os seguintes campos de informação:
 
-a) Menção de que se trata de eleitor inscrito provisoriamente, nos termos do disposto no n.º 4 do artigo 35.º;
+a) Para os eleitores referidos nas alíneas c) e d) do artigo 4.º, título de residência válido comprovativo do tempo mínimo de residência fixado na Lei Eleitoral dos Órgãos das Autarquias Locais;
 
-b) Para os eleitores referidos nas alíneas c) e d) do artigo 4.º, título de residência válido comprovativo do tempo mínimo de residência fixado na Lei Eleitoral dos Órgãos das Autarquias Locais;
+b) Menção de «eleitor do Presidente da República» nos casos de inscrições efectuadas em comissão recenseadora sediada no estrangeiro, conforme o disposto no artigo 42.º;
 
-c) Menção de «eleitor do Presidente da República» nos casos de inscrições efectuadas em comissão recenseadora sediada no estrangeiro, conforme o disposto no artigo 42.º;
+c) Menção da opção feita pelos eleitores da União Europeia não nacionais do Estado Português, nos termos do disposto no n.º 5 do artigo 37.º;
 
-d) Menção da opção feita pelos eleitores da União Europeia não nacionais do Estado Português, nos termos do disposto no n.º 5 do artigo 37.º;
+d) A informação relativa à capacidade eleitoral activa;
 
-e) A informação relativa à capacidade eleitoral activa, nos termos do disposto no artigo 50.º;
+e) Menção de que é titular do estatuto de igualdade de direitos políticos;
 
 f) A opção feita pelos cidadãos portugueses recenseados em países da União Europeia, nos termos do disposto no n.º 1 do artigo 44.º
+
+3 - Para efeitos de verificação da identificação, eliminação de inscrições indevidas, por mudança de morada, por óbito ou pela detecção de situações irregulares, a DGAI, em colaboração com as entidades públicas competentes, assegura a interconexão entre a BDRE e os outros sistemas de informação relevantes, a qual é efectuada, unicamente, quanto às categorias de dados referidos no presente artigo e fazendo-se de acordo com as regras e procedimentos previstos na presente lei.

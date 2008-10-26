@@ -6,7 +6,7 @@
 
 2 - O tribunal manda notificar imediatamente para responderem, querendo, juntando todos os elementos de prova, no prazo de dois dias:
 
-a) A comissão recenseadora;
+a) A DGAI;
 
 b) O eleitor cuja inscrição seja considerada indevida, pelo recorrente, se for esse o caso.
 

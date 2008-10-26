@@ -12,4 +12,4 @@ c) Por inserção da modificação do endereço postal dos eleitores quando resi
 
 d) Por aditamento das novas inscrições.
 
-2 - O STAPE remete, mensalmente, às comissões recenseadoras uma listagem das modificações referidas no número anterior e dos seus motivos.
+2 - A DGAI, através do SIGRE, assegura às comissões recenseadoras acesso à informação sobre todas as alterações referidas no número anterior e respectivos motivos.
