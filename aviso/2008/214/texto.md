@@ -1,0 +1,5 @@
+Aviso n.º 214/2008
+Por ordem superior se torna público que, em 11 de Abril de 2007 e em 14 de Outubro de 2008, foram emitidas notas, respectivamente pelo Ministério de Relações Exteriores colombiano e pelo Ministério dos Negócios Estrangeiros português, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República da Colômbia sobre o Exercício de Actividades Remuneradas por parte de Dependentes de Funcionários Diplomáticos, Consulares, Administrativos e Técnicos de Embaixadas e Postos Consulares Portugueses e Colombianos, assinado em Lisboa em 8 de Janeiro de 2007.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 37/2008, publicado no Diário da República, 1.ª série, n.º 196, de 9 de Outubro de 2008.
+Nos termos do artigo 11.º do Acordo, este entrou em vigor no dia 14 de Outubro de 2008.
+Direcção-Geral de Política Externa, 17 de Outubro de 2008. - O Director-Geral, Nuno Filipe Alves Salvador e Brito.
