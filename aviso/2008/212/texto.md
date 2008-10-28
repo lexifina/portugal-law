@@ -1,0 +1,4 @@
+Aviso n.º 212/2008
+Por ordem superior torna-se público que a República da Zâmbia depositou, em 15 de Janeiro de 2008, junto do Governo da Grã-Bretanha e Irlanda do Norte o instrumento de ratificação da Convenção sobre a Proibição do Desenvolvimento, da Produção e do Armazenamento das Armas Bacteriológicas (Biológicas) ou Tóxicas e sobre a Sua Destruição, concluída em Washington em 29 de Junho de 1972.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 208/73, de 8 de Maio, publicado no Diário da República, 1.ª série, n.º 108, de 8 de Maio de 1973, tendo depositado o respectivo instrumento de ratificação em 15 de Maio de 1975, conforme o Aviso de 6 de Abril, publicado no Diário da República, 1.ª série, n.º 104, de 6 de Maio de 1978.
+Direcção-Geral de Política Externa, 17 de Outubro de 2008. - O Director-Geral, Nuno Filipe Alves Salvador e Brito.
