@@ -1,0 +1,5 @@
+Aviso n.º 25984/2008
+Plano de Urbanização Caniço - Vargem
+A Câmara Municipal de Santa Cruz torna público, dando cumprimento ao disposto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 316/07, de 19 de Setembro, que se encontra em fase de participação pública o processo de elaboração do "Plano de Urbanização Caniço - Vargem", adiante designado PUCV, pelo prazo de 15 dias, após a publicação no Diário da República, para efeitos de formulação de sugestões e apresentação de informações por parte dos cidadãos em geral, bem como das associações representativas dos interesses económicos, sociais, culturais e ambientais.
+Mais se informa que nesta fase do processo se encontram disponíveis para consulta nos serviços técnicos da Câmara Municipal de Santa Cruz, no horário normal de expediente, os termos de referência relativos à fase de participação pública da elaboração do PUCV, bem como as deliberações camarárias referentes ao processo.
+30 de Julho de 2008. - O Presidente da Câmara, José Alberto de Freitas Gonçalves.
