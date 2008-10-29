@@ -1,0 +1,5 @@
+Aviso n.º 215/2008
+Por ordem superior se torna público que em 29 de Setembro de 2008 foi o Tribunal Penal Internacional para a ex-Jugoslávia notificado de que a República Portuguesa concluiu os seus requisitos de direito interno necessários para a manifestação do seu consentimento em estar vinculada ao Acordo entre a República Portuguesa e as Nações Unidas sobre a Execução de Sentenças do Tribunal Penal Internacional para a ex-Jugoslávia, assinado na Haia em 19 de Dezembro de 2007.
+Por parte da República Portuguesa, o Acordo foi aprovado pela Resolução da Assembleia da República n.º 51/2008, ratificado pelo Decreto do Presidente da República n.º 69/2008, e publicado no Diário da República, 1.ª série, n.º 179, de 16 de Setembro de 2008.
+Nos termos do seu artigo 12.º, o Acordo entre a República Portuguesa e as Nações Unidas sobre a Execução de Sentenças do Tribunal Penal Internacional para a ex-Jugoslávia entrou em vigor em 29 de Setembro de 2008.
+Departamento de Assuntos Jurídicos, 30 de Setembro de 2008. - O Director, Luís Serradas Tavares.
