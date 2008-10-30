@@ -1,0 +1,7 @@
+Aviso n.º 26082/2008
+Carlos Vicente Morais Beato, Presidente da Câmara Municipal de Grândola:
+Torno público, nos termos do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção que lhe é dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, que a Câmara Municipal de Grândola, em reunião realizada a 09 de Outubro de 2008, deliberou por unanimidade dar inicio à elaboração do Plano de Pormenor da UNOP 4 do Plano de Urbanização de Tróia, tendo como termos de referência o respectivo estudo prévio de ocupação turística, com as condições que vierem a ser impostas em Declaração de Impacte Ambiental, estabelecendo-se um prazo de 15 dias úteis após a data de publicação do presente aviso, para qualquer interessado formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+O prazo de elaboração do referido plano é de doze meses.
+O respectivo processo poderá ser consultado na Direcção de Projecto para o Planeamento e Gestão das Áreas de Desenvolvimento Turístico, todos os dias úteis, durante o horário normal de expediente entre as 9h e as 17h.
+Todos os elementos podem ser apresentados por escrito, indicando claramente que se enquadram no âmbito do presente aviso e que dizem respeito ao Plano de Pormenor da UNOP 4, devendo ser enviados por correio e dirigidos ao Presidente da Câmara Municipal de Grândola.
+14 de Outubro de 2008. - O Presidente da Câmara, Carlos Beato.
