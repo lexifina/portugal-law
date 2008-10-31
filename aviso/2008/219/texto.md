@@ -1,0 +1,5 @@
+Aviso n.º 219/2008
+Por ordem superior se torna público que em 18 de Março e em 21 de Julho de 2008 foram recebidas notas pela Embaixada da República Portuguesa em Argel e pela Embaixada da República Democrática e Popular da Argélia em Lisboa, respectivamente, pelas quais ambos os Estados Contratantes comunicam que concluíram os seus requisitos constitucionais necessários para a manifestação do seu consentimento em estarem vinculados à Convenção Relativa ao Auxílio Judiciário em Matéria Civil e Comercial entre a República Portuguesa e a República Democrática e Popular da Argélia, assinada em Argel em 22 de Janeiro de 2007.
+Por parte da República Portuguesa, a Convenção foi aprovada pelo Decreto n.º 14/2008, de 6 de Junho, publicado no Diário da República, 1.ª série, n.º 109, de 6 de Junho de 2008.
+Nos termos do seu artigo 20.º, a Convenção Relativa ao Auxílio Judiciário em Matéria Civil e Comercial entre a República Portuguesa e a República Democrática e Popular da Argélia entrou em vigor em 20 de Agosto de 2008.
+Direcção-Geral de Política Externa, 21 de Outubro de 2008. - O Director-Geral, Nuno Brito.
