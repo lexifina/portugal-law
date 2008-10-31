@@ -1,0 +1,5 @@
+Aviso n.º 218/2008
+Por ordem superior se torna público que, em 19 de Setembro e em 9 de Outubro de 2008, foram emitidas notas, respectivamente pelo Ministério do Poder Popular para as Relações Exteriores venezuelano e pelo Ministério dos Negócios Estrangeiros português, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República Bolivariana da Venezuela sobre o Exercício de Actividades Remuneradas por parte de Dependentes do Pessoal Diplomático, Consular, Administrativo e Técnico de Missões Diplomáticas, Consulares e Representações Permanentes junto de Organizações Internacionais, assinado em Caracas em 13 de Maio de 2008.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 39/2008, publicado no Diário da República, 1.ª série, n.º 196, de 9 de Outubro de 2008.
+Nos termos do artigo 11.º do Acordo, este entrará em vigor no dia 8 de Novembro de 2008.
+Direcção-Geral de Política Externa, 20 de Outubro de 2008. - O Director-Geral, Nuno Filipe Alves Salvador e Brito.
