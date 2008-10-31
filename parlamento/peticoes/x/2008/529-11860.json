@@ -1,0 +1,502 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11860",
+  "numero": "529",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-10-31",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2008-11-14",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro das Obras Públicas, Transportes e Comunicações"
+            ],
+            "nrOficio": "255/COPTC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2009-04-15",
+                "dataResposta": null,
+                "nrOficio": "85/COPTC",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a54646d4d54646b59325974595441304d6930304e6a426b4c57466d59544d74596a4d314f44566a4d574579597a63774c6e426b5a673d3d&fich=e7f17dcf-a042-460d-afa3-b3585c1a2c70.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2008-11-14",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional"
+            ],
+            "nrOficio": "256/COPTC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2009-04-15",
+                "dataResposta": null,
+                "nrOficio": "84/COPTC",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a54646d4d54646b59325974595441304d6930304e6a426b4c57466d59544d74596a4d314f44566a4d574579597a63774c6e426b5a673d3d&fich=e7f17dcf-a042-460d-afa3-b3585c1a2c70.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2009-05-28",
+            "dataResposta": "2009-06-24",
+            "entidades": [
+              "Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional"
+            ],
+            "nrOficio": "125/COPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a54646d4d54646b59325974595441304d6930304e6a426b4c57466d59544d74596a4d314f44566a4d574579597a63774c6e426b5a673d3d&fich=e7f17dcf-a042-460d-afa3-b3585c1a2c70.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2009-05-28",
+            "dataResposta": "2009-06-08",
+            "entidades": [
+              "Ministro das Obras Públicas, Transportes e Comunicações"
+            ],
+            "nrOficio": "124/COPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a54646d4d54646b59325974595441304d6930304e6a426b4c57466d59544d74596a4d314f44566a4d574579597a63774c6e426b5a673d3d&fich=e7f17dcf-a042-460d-afa3-b3585c1a2c70.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-07-21",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-11-11",
+        "DataArquivo": "2009-07-21",
+        "DataBaixaComissao": "2008-11-11",
+        "DataEnvioPAR": "2009-07-21",
+        "DataReaberta": "2008-11-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-10-31",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a59573876596a45774d3255354d7a41744d3255774e4330304f5745794c5468684f546b74596a41774d4759324d6a686d4e446b774c6e426b5a673d3d&fich=b103e930-3e04-49a2-8a99-b000f628f490.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2008-10-31",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a54646d4d54646b59325974595441304d6930304e6a426b4c57466d59544d74596a4d314f44566a4d574579597a63774c6e426b5a673d3d&fich=e7f17dcf-a042-460d-afa3-b3585c1a2c70.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-10-31",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338355130395156454e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a6d49784e7a55355a5755744e5467354e5330305a544e694c5468694f474d744e3249795a446734596d4d33597a67314c6e426b5a673d3d&fich=fb1759ee-5895-4e3b-8b8c-7b2d88bc7c85.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1911",
+        "Legislatura": "X",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-11-11",
+            "gp": "BE",
+            "id": "2191",
+            "motivoCessacao": null,
+            "nome": "Helena Pinto"
+          }
+        ],
+        "RelatorioFinal": [
+          "22527"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2009-07-23",
+    "Documentos": [
+      {
+        "DataDocumento": "2008-10-31",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396c597a6b794d6a526d4e69316a4d5745354c54526c5a4463745954637a4f4330324f474a6c4f47526d5a6d45334d6a4d756347526d&fich=ec9224f6-c1a9-4ed7-a738-68be8dffa723.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2009-07-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173902",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-24",
+                "pubLeg": "X",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revogação do Decreto-Lei nº 188/2008, de 23 de Setembro, que \"Altera as bases da concessão do direito de exploração, em regime de serviço público, do terminal de contentores nas instalações portuárias de Alcântara Sul, aprovadas pelo Decreto-Lei nº 287/84, de 23 de Agosto\";",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173906",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-24",
+                "pubLeg": "X",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revogação do Decreto-Lei nº 188/2008, de 23 de Setembro, que \"Altera as bases da concessão do direito de exploração, em regime de serviço público, do terminal de contentores nas instalações portuárias de Alcântara Sul, aprovadas pelo Decreto-Lei nº 287/84, de 23 de Agosto\";",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173907",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-24",
+                "pubLeg": "X",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revogação do Decreto-Lei nº 188/2008, de 23 de Setembro, que \"Altera as bases da concessão do direito de exploração, em regime de serviço público, do terminal de contentores nas instalações portuárias de Alcântara Sul, aprovadas pelo Decreto-Lei nº 287/84, de 23 de Agosto\";",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173908",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-24",
+                "pubLeg": "X",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24/43?pgs=43&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revogação do Decreto-Lei nº 188/2008, de 23 de Setembro, que \"Altera as bases da concessão do direito de exploração, em regime de serviço público, do terminal de contentores nas instalações portuárias de Alcântara Sul, aprovadas pelo Decreto-Lei nº 287/84, de 23 de Agosto\";",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173909",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-24",
+                "pubLeg": "X",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revogação do Decreto-Lei nº 188/2008, de 23 de Setembro, que \"Altera as bases da concessão do direito de exploração, em regime de serviço público, do terminal de contentores nas instalações portuárias de Alcântara Sul, aprovadas pelo Decreto-Lei nº 287/84, de 23 de Agosto\";",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173910",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-24",
+                "pubLeg": "X",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revogação do Decreto-Lei nº 188/2008, de 23 de Setembro, que \"Altera as bases da concessão do direito de exploração, em regime de serviço público, do terminal de contentores nas instalações portuárias de Alcântara Sul, aprovadas pelo Decreto-Lei nº 287/84, de 23 de Agosto\";",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11860",
+    "PetAssunto": "Solicitam a revogação do Decreto-Lei nº 188/2008, de 23 de Setembro, que \"Altera as bases da concessão do direito de exploração, em regime de serviço público, do terminal de contentores nas instalações portuárias de Alcântara Sul, aprovadas pelo Decreto-Lei nº 287/84, de 23 de Agosto\".",
+    "PetDataEntrada": "2008-10-31",
+    "PeticoesAssociadas": null,
+    "PetId": "11860",
+    "PetLeg": "X",
+    "PetNr": "529",
+    "PetNrAssinaturas": "15000",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1356",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-07-24",
+        "pubLeg": "X",
+        "pubNr": "105",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "447816",
+        "obs": null,
+        "pag": [
+          "8-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-11-29",
+        "pubLeg": "X",
+        "pubNr": "36",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/036/2008-11-29/8?pgs=8&org=PLC"
+      }
+    ]
+  }
+}
