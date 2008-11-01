@@ -6,9 +6,9 @@
 
 ### Disposição transitória
 
-1 - As despesas efectuadas após 11 de Março de 2008 são consideradas elegíveis quando satisfeitas cumulativamente as seguintes condições:
+1 - As despesas efectuadas após 11 de Março de 2008 até à apresentação do pedido de apoio são consideradas elegíveis quando satisfeitas cumulativamente as seguintes condições:
 
-a) Estejam previstas no PEA relativo ao ano de 2008;
+a) As acções estejam previstas no Plano de Acção Plurianual e as correspondentes despesas estejam previstas nas dotações do PEA de 2008;
 
 b) As mesmas sejam apresentadas no primeiro pedido de pagamento.
 
