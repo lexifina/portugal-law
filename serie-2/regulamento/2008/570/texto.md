@@ -1,0 +1,6 @@
+Regulamento n.º 570/2008
+Alteração ao Regulamento de Inspecção e Fiscalização Sanitária
+Dr. José Correia da Luz, Presidente da Câmara Municipal do Crato, em obediência ao disposto na alínea u) do n.º 1 do artigo 68.º da Lei n.º 169/99 de 18 de Setembro na sua actual redacção:
+Torna Público, nos termos do disposto no artigo 118.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, que durante o período de 30 dias úteis, contados da data da sua publicação no Diário da República, é submetido a apreciação pública a Alteração ao Regulamento de Inspecção e Fiscalização Sanitária do Município do Crato, podendo as sugestões serem apresentadas na Divisão Administrativa e Financeira do Município do Crato, durante as horas normais de expediente (das 9 horas às 12 horas e 30 minutos e das 14 horas às 17 horas e 30 minutos), no edifício dos Paços do Concelho situado na Praça do Município, 7430 - 999 Crato.
+Para constar mandou lavrar o presente edital que, juntamente com o Projecto de Regulamento, vai ser publicado no Diário da República, afixado no átrio dos Paços do Concelho, nas sedes de Juntas de Freguesia e publicitado através de edital em jornal local.
+20 de Outubro de 2008. - O Presidente da Câmara, José Correia da Luz.
