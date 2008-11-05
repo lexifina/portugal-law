@@ -15,3 +15,5 @@ b) As direcções regionais do Ministério da Economia (DRE), para as instalaç�
 a) O licenciamento de postos de abastecimento de combustíveis localizados nas redes viárias regional e nacional;
 
 b) A autorização para a execução e entrada em funcionamento das redes e ramais de distribuição de gás, objecto do Decreto-Lei n.º 125/97, de 23 de Maio, quando associadas a reservatórios de GPL com capacidade global superior ou igual a 50 m3.
+
+4 - Os procedimentos administrativos previstos nos números anteriores seguem a tramitação prevista nos artigos 7.º a 14.º

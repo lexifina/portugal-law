@@ -2,7 +2,7 @@
 
 ### Licença de exploração
 
-1 - A licença de exploração é concedida após verificação da concordância da instalação com o projecto aprovado e do cumprimento das condições que tiverem sido fixadas.
+1 - A licença de exploração é concedida após verificação da conformidade da instalação com o projecto aprovado e do cumprimento das condições que tenham sido fixadas, no prazo de 10 dias após a realização da vistoria final ou da realização das correcções que lhe tenham sido impostas.
 
 2 - Em casos justificados, pode ser concedido um prazo para a exploração a título provisório.
 

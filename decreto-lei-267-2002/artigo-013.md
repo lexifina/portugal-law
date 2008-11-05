@@ -2,11 +2,11 @@
 
 ### Aprovação do projecto
 
-1 - No prazo de 30 dias após a recepção dos pareceres referidos nos artigos 9.º e 11.º, a entidade licenciadora envia ao requerente, em parecer devidamente fundamentado, decisão sobre a aprovação do projecto, imposição de alterações ou rejeição.
+1 - No prazo de 15 dias após a recepção dos pareceres referidos nos artigos 9.º e 11.º, a entidade licenciadora envia ao requerente, em parecer devidamente fundamentado, decisão sobre a aprovação do projecto, imposição de alterações ou rejeição.
 
 2 - A decisão pode incluir condições, designadamente as fixadas em vistoria inicial ou constantes dos pareceres solicitados, bem como fixação de um prazo para a execução da obra.
 
-3 - No caso de serem impostas alterações, o requerente procederá à modificação do projecto no prazo que lhe for concedido, submetendo-o de novo à entidade licenciadora, a qual emite nova decisão no prazo de 20 dias, nos mesmos termos do n.º 1.
+3 - No caso de serem impostas alterações, o requerente procede à modificação do projecto no prazo que lhe seja concedido, submetendo-o de novo à entidade licenciadora, a qual emite nova decisão no prazo de 10 dias, nos mesmos termos do n.º 1.
 
 4 - Um exemplar autenticado do projecto aprovado é remetido ao requerente.
 

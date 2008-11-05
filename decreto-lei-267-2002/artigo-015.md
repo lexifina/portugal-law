@@ -10,4 +10,6 @@
 
 4 - A renovação da licença de exploração ou alvará deve ser requerida até 90 dias antes de terminada a sua validade.
 
-5 - No processo de renovação de alvará ou licença de exploração por motivo de caducidade não é necessária a apresentação dos comprovativos dos seguros de responsabilidade civil de empreiteiro e de responsável pela execução das instalações existentes, desde que não tenha havido lugar à execução de qualquer alteração significativa após o licenciamento.
+5 - A renovação da licença, nos casos previstos no artigo 5.º, segue o procedimento administrativo aplicável à respectiva instalação.
+
+Artigo 23.º

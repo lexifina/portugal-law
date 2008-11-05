@@ -21,3 +21,7 @@
 9 - Pode ser efectuada vistoria, mesmo quando não exigida pela portaria prevista no artigo 4.º, caso a entidade licenciadora a considere necessária, tendo em atenção o local, a natureza e a dimensão da instalação.
 
 10 - No processo de renovação do alvará ou da licença de exploração, por motivo de caducidade, pode ser dispensada a vistoria final se, na vistoria inicial, for verificada a permanência da conformidade com o projecto.
+
+11 - Os prazos previstos nos n.os 2 e 4 podem ser reduzidos mediante concordância de todas as entidades convocadas.
+
+12 - A guia para pagamento da taxa devida pela vistoria prevista no n.º 5 é emitida no prazo máximo de 3 dias a contar da data em que é requerida e a vistoria é convocada no prazo máximo de 10 dias a contar do seu pagamento.

@@ -8,7 +8,7 @@
 
 1 - A construção, exploração, alteração de capacidade, renovação de licença e outras alterações que de qualquer forma afectem as condições de segurança da instalação ficam sujeitas a licenciamento nos termos do presente diploma.
 
-2 - Os elementos a fornecer pelo promotor e os procedimentos a seguir na instrução do processo de licenciamento, bem como os requisitos a satisfazer para a passagem das licenças de construção e de exploração da instalação, são definidos em portaria conjunta do Ministro da Economia e do membro do Governo que tutele as autarquias locais.
+2 - Sem prejuízo do disposto no artigo 5.º, os elementos a fornecer pelo promotor e os requisitos e condições técnicas a observar para a instalação, construção, reconstrução, ampliação, alteração, conservação e exploração da instalação são definidos em portaria conjunta do ministro responsável pela área da economia e do membro do Governo responsável pela área das autarquias locais.
 
 3 - A estrutura dos processos de licenciamento é a adequada à complexidade e perigosidade das instalações envolvidas.
 

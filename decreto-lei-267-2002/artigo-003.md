@@ -2,13 +2,13 @@
 
 ### Definições
 
-Para efeitos do disposto no presente diploma, entende-se por:
+Para efeitos do disposto no presente decreto-lei, entende-se por:
 
 a) «Combustíveis líquidos» gasolinas de aviação e gasolinas auto, petróleos de iluminação e carburantes, jet-fuel, gasóleos e fuelóleos;
 
 b) «Combustíveis sólidos derivados do petróleo» o coque de petróleo e produtos similares;
 
-c) «Entidade licenciadora e fiscalizadora» entidade da administração central ou local competente para a coordenação do processo de licenciamento e para a fiscalização do cumprimento do presente diploma e dos regulamentos relativos às instalações por ele abrangidas;
+c) «Entidade licenciadora e fiscalizadora» a entidade da administração central ou local competente para a coordenação do processo de licenciamento ou de controlo prévio e para a fiscalização do cumprimento do presente diploma e dos regulamentos relativos às instalações por ele abrangidas;
 
 d) «Entidade exploradora» a entidade que, sendo ou não proprietária das instalações de armazenagem e das redes e ramais de distribuição de gás, procede à exploração técnica das mesmas, como definido no Decreto-Lei n.º 125/97, de 23 de Maio;
 
@@ -22,7 +22,7 @@ h) «Instalações de abastecimento de combustíveis (expressão equivalente a p
 
 i) «Instalações de armazenamento de combustíveis» os locais, incluindo o conjunto dos reservatórios e respectivos equipamentos auxiliares, destinados a conter produtos derivados do petróleo, líquidos ou liquefeitos;
 
-j) «Licença de exploração» o título concedido ao promotor no termo do processo de licenciamento, que autoriza o funcionamento dos postos de abastecimento, ou das instalações de armazenamento contempladas neste diploma não abrangidas pelo Decreto-Lei n.º 125/97, de 23 de Maio;
+j) «Licença de exploração» o título concedido ao promotor no termo do processo de licenciamento que habilita o funcionamento dos postos de abastecimento, ou das instalações de armazenamento contempladas neste diploma não abrangidas pelo Decreto-Lei n.º 125/97, de 23 de Maio, assumindo as formas de alvará de autorização de utilização ou licença de exploração, consoante sejam concedidos pela câmara municipal ou pela administração central, respectivamente;
 
 k) «Licenciamento» conjunto de procedimentos e diligências necessário à tomada de decisão sobre um pedido de instalação para armazenamento ou para abastecimento de combustíveis, centralizados pela entidade licenciadora, e com a participação do requerente e de todas as entidades que, em virtude de competências próprias ou da natureza do projecto, devam ser consultadas;
 
