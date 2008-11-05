@@ -1,0 +1,1431 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "230",
+    "id": "34152",
+    "titulo": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A., e aprova o regime jurídico de apropriação pública por via de nacionalização."
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2008-11-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "6418",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2008-11-05",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2008-11-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170681",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-06",
+                "pubLeg": "X",
+                "pubNr": "16",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A. (BPN) e aprova o regime jurídico de apropriação pública por via de nacionalização.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2066",
+                "nome": "Paulo Castro Rangel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31",
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-06",
+                "pubLeg": "X",
+                "pubNr": "16",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06/30?pgs=30-31,55-56&org=PLC"
+              }
+            ],
+            "sumario": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A. (BPN) e aprova o regime jurídico de apropriação pública por via de nacionalização.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-06",
+                "pubLeg": "X",
+                "pubNr": "16",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06/31?pgs=31-33&org=PLC"
+              }
+            ],
+            "sumario": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A. (BPN) e aprova o regime jurídico de apropriação pública por via de nacionalização.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-06",
+                "pubLeg": "X",
+                "pubNr": "16",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06/33?pgs=33&org=PLC"
+              }
+            ],
+            "sumario": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A. (BPN) e aprova o regime jurídico de apropriação pública por via de nacionalização.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170685",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34",
+                  "40-42",
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-06",
+                "pubLeg": "X",
+                "pubNr": "16",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06/34?pgs=34,40-42,52-53&org=PLC"
+              }
+            ],
+            "sumario": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A. (BPN) e aprova o regime jurídico de apropriação pública por via de nacionalização.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170686",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39",
+                  "42-43",
+                  "47-47",
+                  "52-52",
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-06",
+                "pubLeg": "X",
+                "pubNr": "16",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06/39?pgs=39,42-43,47,52,55&org=PLC"
+              }
+            ],
+            "sumario": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A. (BPN) e aprova o regime jurídico de apropriação pública por via de nacionalização.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170687",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41",
+                  "47-48",
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-06",
+                "pubLeg": "X",
+                "pubNr": "16",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06/40?pgs=40-41,47-48,54-55&org=PLC"
+              }
+            ],
+            "sumario": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A. (BPN) e aprova o regime jurídico de apropriação pública por via de nacionalização.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170688",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-06",
+                "pubLeg": "X",
+                "pubNr": "16",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A. (BPN) e aprova o regime jurídico de apropriação pública por via de nacionalização.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  PRESIDÊNCIA DO CONSELHO DE MINISTROS",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Lacão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170689",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43",
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-06",
+                "pubLeg": "X",
+                "pubNr": "16",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06/42?pgs=42-43,52-53&org=PLC"
+              }
+            ],
+            "sumario": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A. (BPN) e aprova o regime jurídico de apropriação pública por via de nacionalização.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170690",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-06",
+                "pubLeg": "X",
+                "pubNr": "16",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06/43?pgs=43-46&org=PLC"
+              }
+            ],
+            "sumario": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A. (BPN) e aprova o regime jurídico de apropriação pública por via de nacionalização.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "Augusto Santos Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170691",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-06",
+                "pubLeg": "X",
+                "pubNr": "16",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06/51?pgs=51&org=PLC"
+              }
+            ],
+            "sumario": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A. (BPN) e aprova o regime jurídico de apropriação pública por via de nacionalização.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170692",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-06",
+                "pubLeg": "X",
+                "pubNr": "16",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Nacionaliza todas as acções representativas do capital social do Banco Português de Negócios, S. A. (BPN) e aprova o regime jurídico de apropriação pública por via de nacionalização.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "255670",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "6418",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-11-06",
+        "pubLeg": "X",
+        "pubNr": "16",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/016/2008-11-06?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 5C, apresentada pelo PPD/PSD, de eliminação, do artigo 1.º da Proposta de Lei",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52231",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do Artigo 1.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52233",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 4C, apresentada pelo PS, de substituição, do n.º 1 do artigo 2.º da Proposta de Lei",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I><BR>Contra:<I>PCP</I>, <I> PEV</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52234",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de aditamento, de um novo artigo 17.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Abstenção:<I>PSD</I>",
+        "id": "52297",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": null,
+        "detalhe": null,
+        "id": "52298",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de emenda, do artigo 14.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I><BR>Contra:<I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "52291",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 4C, apresentada pelo PS, de emenda, do artigo 14.º do Anexo",
+        "detalhe": "A Favor: <I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52292",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do Artigo 14.º",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52293",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de eliminação, do artigo 15.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> BE</I>",
+        "id": "52294",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do Artigo 15.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52295",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de aditamento, de um novo artigo 16.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PSD</I>",
+        "id": "52296",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do n.º 1 do artigo 11.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>",
+        "id": "52285",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação dos n.ºs 2 e 3 do artigo 11.º",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52286",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação dos n.ºs 1e 2 do artigo 12.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS-PP</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "52287",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de emenda, do artigo 13.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I><BR>Contra:<I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "52288",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 2P, apresentada pelo PS, de emenda, do artigo 13.º do Anexo",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>CDS-PP</I><BR>Abstenção:<I>PSD</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "52289",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do Artigo 13.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>",
+        "id": "52290",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 1C, apresentada pelo BE, de aditamento, de um novo n.º 3.º ao artigo 9.º do Anexo",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "52279",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação dos n.ºs 4 e 5 do artigo 9.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "52280",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do Artigo 10.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS-PP</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "52281",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de eliminação, do artigo 11.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>",
+        "id": "52282",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 2C, apresentada pelo BE, de emenda, do n.º 1.º do artigo 11.º do Anexo",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "52283",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 4C, apresentada pelo PS, de emenda, do n.º 1.º do artigo 11.º do Anexo",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "52284",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 4C, apresentada pelo PS, de emenda, do n.º 2.º do artigo 6.º do Anexo",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "52273",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do n.º 2 do artigo 6.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "52274",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do n.º 3 do artigo 6.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>",
+        "id": "52275",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação dos n.ºs 1 e 2 do artigo 7.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS-PP</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "52276",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação dos n.ºs 1 e 2 do artigo 8.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "52277",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação dos n.ºs 1, 2 e 3 do artigo 9.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "52278",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 1C, apresentada pelo BE, de aditamento, de um novo n.º 5.º ao artigo 5.º do Anexo",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>3-PS</I>",
+        "id": "52266",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3P, apresentada pelo PCP, de aditamento, de um novo n.º 5.º ao artigo 5.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>",
+        "id": "52267",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de emenda, do n.º 1 do artigo 6.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PSD</I>",
+        "id": "52268",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 4C, apresentada pelo PS, de emenda, do n.º 1.º do artigo 6.º do Anexo",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "52269",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do n.º 1 do artigo 6.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "52270",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de emenda, do n.º 2 do artigo 6.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PSD</I>",
+        "id": "52272",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do n.º 2 do artigo 5.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52260",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de emenda, do n.º 3 do artigo 5.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I><BR>Contra:<I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "52261",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do n.º 3 do artigo 5.º",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I><BR>Abstenção:<I>BE</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52262",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do n.º 4 do artigo 5.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>1-PS</I>",
+        "id": "52263",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de aditamento, de um novo n.º 4 do artigo 5.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I><BR>Contra:<I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "52264",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 4C, apresentada pelo PS, de aditamento, de um novo n.º 4 do artigo 5.º do Anexo",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "52265",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do n.º 2 do artigo 3.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS-PP</I>, <I> PCP</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52254",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de emenda, do n.º 2 do artigo 4.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>PS</I>, <I> BE</I><BR>Abstenção:<I>PSD</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52255",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação dos n.ºs 1 e 2 do artigo 4.º",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52256",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de emenda, do n.º 1 do artigo 5.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I><BR>Contra:<I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "52257",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do n.º 1 do artigo 5.º",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I><BR>Abstenção:<I>BE</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52258",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de emenda, do n.º 2 do artigo 5.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I><BR>Contra:<I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "52259",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 4C, apresentada pelo PS, de substituição, do n.º 1 do artigo 2.º do Anexo",
+        "detalhe": "A Favor: <I>PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>",
+        "id": "52247",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 4C, apresentada pelo PS, de substituição, do n.º 2 do artigo 2.º do Anexo",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PCP</I>, <I> PEV</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52248",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 4C, apresentada pelo PS, de substituição, do n.º 1 do artigo 2.º do Anexo",
+        "detalhe": null,
+        "id": "52249",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de emenda, do n.º 1 do artigo 3.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>",
+        "id": "52251",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 4C, apresentada pelo PS, de emenda, do n.º 1 do artigo 3.º do Anexo",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "52252",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do n.º 1 do artigo 3.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "52253",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do Artigo 3.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> PEV</I><BR>Abstenção:<I>PSD</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52241",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de substituição, do artigo 1.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>",
+        "id": "52242",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 4C, apresentada pelo PS, de emenda, do artigo 1.º do Anexo",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I><BR>Contra:<I>CDS-PP</I>, <I> PCP</I>, <I> PEV</I><BR>Abstenção:<I>PSD</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52243",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do Artigo 1.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "52244",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de substituição, do   n.º 1 do artigo 2.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PSD</I>",
+        "id": "52245",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 3C, apresentada pelo CDS-PP, de substituição, do  n.º 2 do artigo 2.º do Anexo",
+        "detalhe": "A Favor: <I>CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> BE</I>",
+        "id": "52246",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação do n.º 2 do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I><BR>Contra:<I>PSD</I>, <I> PCP</I>, <I> PEV</I><BR>Abstenção:<I>Luísa Mesquita (Ninsc)</I>",
+        "id": "52235",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Votação dos n.º 3, 4, 5, 6, 7 e 8 do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> CDS-PP</I>, <I> BE</I><BR>Contra:<I>PCP</I>, <I> PEV</I><BR>Abstenção:<I>PSD</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52236",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 1C, apresentada pelo BE, de aditamento, de um novo n.º 8 ao artigo 2.º da Proposta de Lei",
+        "detalhe": "A Favor: <I>CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PSD</I>",
+        "id": "52237",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 1P, apresentada pelo PS, de aditamento, de um novo n.º 9 ao artigo 2.º da Proposta de Lei",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>BE</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "52238",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 1P, apresentada pelo PS, de aditamento, de um novo n.º 10 ao artigo 2.º da Proposta de Lei",
+        "detalhe": "A Favor: <I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52239",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-05",
+        "descricao": "Proposta 4C, apresentada pelo PS, de aditamento, de um novo n.º 11 ao artigo 2.º da Proposta de Lei",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52240",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
