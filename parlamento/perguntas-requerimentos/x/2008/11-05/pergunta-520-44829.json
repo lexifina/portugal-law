@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "44829",
+  "tipo": "Pergunta",
+  "numero": "520",
+  "data_registo": "2008-11-05",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Encerramento do Centro de Saúde de Coruche",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1058",
+        "nome": "Bernardino Soares"
+      }
+    ],
+    "DataEnvio": "2008-11-06",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2008-11-06",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  SAÚDE",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2009-01-16",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  SAÚDE",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544339694e575533597a466c4e79316a4e4468684c54526d4d4759744f5455334e7930344e44426d4e6d4d31595751795a6a51756347526d&fich=b5e7c1e7-c48a-4f0f-9577-840f6c5ad2f4.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2008-11-05",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544338354e6a677a4d6a63314e7930314d6a45304c5451324d4755744f44686a4e4330344e6d51304e324d334d574d324f4467756347526d&fich=96832757-5214-460e-88c4-86d47c71c688.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "44829",
+    "Legislatura": "X",
+    "Nr": "520",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "446109",
+        "obs": null,
+        "pag": [
+          "53-54"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008",
+        "pubLeg": "X",
+        "pubNr": "29",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/029/2008-11-11/53?pgs=53-54&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Pergunta"
+  }
+}
