@@ -1,0 +1,8 @@
+Aviso n.º 26645/2008
+Regulamento Municipal de Parques e Áreas de Conservação da Natureza e da Biodiversidade do Concelho de Vila Nova de Gaia
+Torna-se público, nos termos e para os efeitos do disposto nos artigos 117.º e 118.º do Código do Procedimento Administrativo, que, durante o período de 30 dias a contar da data de publicação do presente aviso no Diário da República, é submetida a apreciação pública a proposta de Regulamento Municipal Parques e Áreas de Conservação da Natureza e da Biodiversidade do Concelho de Vila Nova de Gaia, aprovada em reunião da Câmara Municipal de Vila Nova de Gaia, de 21/07/2008.
+Durante o referido período, poderão os interessados consultar a mencionada proposta no Parque Biológico de Gaia, E. M., 4430-757 Avintes, nas horas normais de expediente.
+A proposta será enviada por e-mail ou correio a quem a solicitar para o e-mail administracao@parquebiologico.pt ou pessoalmente, ou por correio, para Parque Biológico de Gaia, E. M., 4430-757 Avintes.
+Qualquer observação, sugestão ou reclamação deve ser apresentada por escrito e enviada para o e-mail administracao@parquebiologico.pt ou entregue pessoalmente, ou enviada por correio, para Parque Biológico de Gaia, E. M., 4430-757 Avintes, até à data limite acima indicada, com identificação expressa de "Discussão Pública da proposta de Regulamento Municipal Parques e Áreas de Conservação da Natureza e da Biodiversidade do Concelho de Vila Nova de Gaia", com identificação do signatário e o seu endereço, para efeitos de resposta, caso se justifique, durante o período referido.
+30 de Outubro de 2008. - O Presidente do Conselho de Administração, Nuno Gomes Oliveira.
+300922236
