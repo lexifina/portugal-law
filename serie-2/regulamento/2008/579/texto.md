@@ -1,0 +1,13 @@
+Regulamento n.º 579/2008
+Proposta de alteração (2.ª) ao Regulamento do Cartão Municipal do Idoso
+Para os devidos efeitos e nos termos do disposto no artigo 118.º do Código do Procedimento Administrativo, se torna público que a Câmara Municipal de Manteigas, em reunião ordinária de 22 de Outubro de 2008, deliberou, nos termos do disposto no artigo 64.º, n.º 6, alínea a), da Lei n.º 169/99 de 18.09, na redacção dada pela Lei 5-A/2002 de 11.01, sujeitar a um período de 30 dias de apreciação pública, para posterior aprovação pela Assembleia Municipal, a alteração do artigo 6.º do Regulamento do Cartão Municipal do Idoso, o qual passará a ter a seguinte redacção:
+«Artigo 6.º
+Benefícios
+1 - O Cartão Municipal do Idoso obedece a dois escalões, em função dos rendimentos dos seus beneficiários, obtidos no País e ou no estrangeiro:
+a) ...
+b) Os beneficiários com rendimentos per capita até 100 % do indexante dos apoios sociais (IAS) poderão solicitar a sua integração no Escalão B, entregando os documentos que comprovem essa condição.
+2 - ...
+3 - ...
+4 - ...
+5 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 6.º, não se contabilizará para a integração no Escalão B o rendimento do cônjuge que se encontre permanentemente ou há mais de seis meses internado em instituição de saúde ou de terceira idade.»
+23 de Outubro de 2008. - Por delegação de competências, o Vice-Presidente da Câmara, José Manuel Saraiva Cardoso.
