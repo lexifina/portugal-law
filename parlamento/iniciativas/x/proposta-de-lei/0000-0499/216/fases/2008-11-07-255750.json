@@ -1,0 +1,1213 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "216",
+    "id": "34009",
+    "titulo": "Aprova a Revisão do Código do Trabalho"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2008-11-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "6426",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2008-11-07",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2008-11-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170540",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42",
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/42?pgs=42,46-47&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170600",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170606",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2071",
+                "nome": "Miguel Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170609",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1270",
+                "nome": "Jorge Strecht"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170613",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170614",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1923",
+                "nome": "Teresa Vasconcelos Caeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170616",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2228",
+                "nome": "Matilde Sousa Franco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170667",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170668",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/62?pgs=62-65&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2077",
+                "nome": "Francisco Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170669",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/62?pgs=62-65&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170670",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/62?pgs=62-65&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170671",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170672",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "803",
+                "nome": "João Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170673",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170674",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170675",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170676",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2063",
+                "nome": "Alda Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170677",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "170678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-11-08",
+                "pubLeg": "X",
+                "pubNr": "18",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Revisão do Código do Trabalho",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "255750",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "6426",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-11-08",
+        "pubLeg": "X",
+        "pubNr": "18",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/018/2008-11-08?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 22P, apresentada pelo BE, de alteração do artigo 392.º do Anexo do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>",
+        "id": "52341",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Propostas 7P, 8P, 10P, 11P, 13P, 36P, 15P, 38P, 16P, 18P, 40P, 19P, 20P, 41P, 42P, 21P, 43P, 23P, 24P, 25P, 26P, 27P, 44P, 28P, 29P, 30P, 31P, apresentadas pelo BE e PCP, relativas aos artigos n.ºs 148.º, 150.º, 159.º, 160.º, 204.º, 206.º, 207.º, 209.º, 223.º, 356.º, 387.º, 389.º, 422.º, 476.º, 492.º, 497.º, 499.º, 501.º, 508.º, 510.º, 535.º, 537.º, todas respeitantes ao Anexo do Texto Final, apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>",
+        "id": "52342",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Votação dos n.º 1, 4 e 5 do artigo 203.º do Anexo do Texto Final.",
+        "detalhe": "A Favor: <I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52343",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Votação dos n.º 2 e 3 do artigo 203.º do Anexo do Texto Final.",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "52344",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Votação dos n.º 2 artigo 535.º do Anexo do Texto Final.",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "52345",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Votação dos restantes artigos",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>5-PS</I>, <I> 2-PSD</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "52346",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 34P, apresentada pelo PCP, de alteração do artigo 140.º do Anexo do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>",
+        "id": "52334",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 6P, apresentada pelo BE, de eliminação do artigo 142.º do Anexo do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>",
+        "id": "52335",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 9P, apresentada pelo BE, e Proposta 35P, apresentada pelo PCP, de eliminação do artigo 157.º do Anexo do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>",
+        "id": "52336",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 12P, apresentada pelo BE, de alteração do artigo 203.º do Anexo do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>, <I> PCP</I>",
+        "id": "52338",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 14P, apresentada pelo BE, e Proposta 37P, apresentada pelo PCP, de eliminação do artigo 205.º do Anexo do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>",
+        "id": "52339",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 17P, apresentada pelo BE, e Proposta 39P, apresentada pelo PCP, de eliminação do artigo 208.º do Anexo do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>5-PS</I>",
+        "id": "52340",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 1P, apresentada pelo BE, de eliminação do artigo 10.º do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>",
+        "id": "52321",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 2P, apresentada pelo BE, e Proposta 33P, apresentada pelo PCP, de alteração do artigo 3.º do Anexo do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>1-PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>4-PS</I>",
+        "id": "52329",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 3P, apresentada pelo BE, de alteração do artigo 112.º do Anexo do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>5-PS</I>",
+        "id": "52330",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 32P, apresentada pelo PCP, de alteração do artigo 112.º do Anexo do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>5-PS</I>",
+        "id": "52331",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 4P, apresentada pelo BE, de alteração do artigo 139.º do Anexo do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>",
+        "id": "52332",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2008-11-07",
+        "descricao": "Proposta 5P, apresentada pelo BE, de alteração do artigo 140.º do Anexo do Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Administração Pública.",
+        "detalhe": "A Favor: <I>BE</I>, <I> PEV</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>1-PS</I>, <I> PCP</I>",
+        "id": "52333",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
