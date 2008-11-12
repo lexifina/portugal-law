@@ -1,0 +1,53 @@
+# Acórdão do Supremo Tribunal Administrativo de 2008-11-12, processo 0150/08
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0150/08
+
+**Data do Acordão:** 11/12/2008
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** EDMUNDO MOSCOSO
+
+**Descritores:** INFRACÇÃO DISCIPLINAR; PRESCRIÇÃO DO PROCEDIMENTO DISCIPLINAR; SUSPENSÃO DA PRESCRIÇÃO; DIRIGENTE MÁXIMO DO SERVIÇO; COMPETÊNCIA SIMULTÂNEA; PROCESSO DE AVERIGUAÇÕES; PROCESSO DISCIPLINAR; APENSAÇÃO
+
+**Nº Convencional:** JSTA00065327
+
+**Nº do Documento:** SA1200811120150
+
+**Data de Entrada:** 02/21/2008
+
+**Recorrente:** A...
+
+**Recorrido 1:** SEA DO MINSAUD
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC TCA SUL.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR ADM GER - FUNÇÃO PUBL / DISCIPLINAR.
+
+**Legislação Nacional:** EDF84 ART4 ART14 ART48 ART85 ART88.; DL 19/88 DE 1988/06/21 ART20.; DRGU 3/88 DE 1988/01/22 ART1 ART3 ART8.; DL 291/93 DE 1993/08/24 ART5.
+
+**Referência a Doutrina:** MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO 10ED V1 PAG468.; ESTEVES DE OLIVEIRA DIREITO ADMINISTRATIVO PAG337.
+
+## Sumário
+
+I - No artº 4º do Estatuto Disciplinar (ED) aprovado pelo DL 24/84, de 16 de Janeiro), estão previstos dois prazos prescricionais. Um, de três anos, a contar da data em que a infracção foi cometida (nº 1) e outro, mais curto, de 3 meses, que se conta a partir do conhecimento da falta por parte do “dirigente máximo do serviço” em que se integra o funcionário.
+
+II - Assiste ao dirigente máximo do serviço a possibilidade de mandar instaurar um processo de averiguações, visando através dele, a “obtenção de elementos necessários à adequada qualificação de eventuais faltas ou irregularidades” (cf. artº 85º nº 5 do ED).
+
+III - A instauração do processo de averiguações, suspende o prazo prescricional (nº 5), que voltará a correr após a sua conclusão.
+
+IV - No caso de competência simultânea de dois órgãos para o exercício da acção disciplinar, exercido o direito de instaurar um processo de averiguações considera-se desde logo excluída a competência do outro órgão no tocante ao exercício do mesmo direito.
+
+V - Concluído o processo de averiguações, em princípio, o dirigente máximo do serviço tem dois caminhos a seguir: (i) ou manda instaurar o processo disciplinar, caso entenda que a matéria apurada é bastante para desencadear a instauração desse processo; ou, (ii) – ordena o arquivamento do processo de averiguações, caso conclua que não existe matéria suficiente para dar lugar a procedimento disciplinar (cf. artº 88º nº 3 do ED).
+
+VI - Tendo ordenado o arquivamento do processo de averiguações, a partir desse momento, não pode ser ultrapassado o prazo de prescrição de 3 meses, previsto no artº 4º nº 2 do ED, para outro órgão de diferente serviço, eventualmente com competência para o efeito, mandar instaurar processo disciplinar pelos mesmos factos que foram averiguados no processo de averiguações arquivado ainda que, para o efeito, esse outro órgão tenha, entretanto, mandado instaurar outro processo de averiguações.
+
+VII - Relativamente aos mesmos factos apenas deve ser organizado um processo, tanto de averiguações como disciplinar. E, caso sejam instaurados separadamente e por órgãos diferentes, dois processos ao mesmo funcionário pela prática dos mesmos factos, deve ser ordenada a sua apensação, nos termos do artº 48º do ED.
