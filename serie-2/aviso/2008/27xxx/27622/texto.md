@@ -1,0 +1,6 @@
+Aviso n.º 27622/2008
+Dr.ª Isaura Leonor Marques de Figueiredo Silva Pedro, Presidente da Câmara Municipal do Município de Nelas:
+Torna público, nos termos e para os efeitos do disposto no artigo 118.º, do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, que durante o período de 30 dias úteis, a contar da publicação do presente aviso no Diário da República, é submetido a inquérito público o projecto de alteração ao "Regulamento de Liquidação e Cobrança de Taxas, Licenças, Autorizações, Compensações e Prestação de Serviços do Concelho de Nelas", para que onde consta "Autorização Administrativa" passe a constar "Comunicação Prévia", excepto o artigo 14.º e artigo 15.º da Subsecção IV, da Secção I e o artigo 18.º, da Secção II da Tabela de Taxas, relativos às taxas inerentes à autorização de utilização, que ainda se mantém em vigor", que foi presente à reunião ordinária desta Câmara Municipal realizada em 30 de Setembro de 2008.
+O projecto de alteração ao Regulamento atrás referido ficará exposto na Divisão Administrativa e Financeira desta Autarquia para consulta dos interessados, os quais poderão, sobre o mesmo, formular por escrito, perante a Presidente da Câmara Municipal, as observações tidas por convenientes.
+1 de Outubro de 2008. - A Presidente da Câmara, Isaura Pedro.
+300925558
