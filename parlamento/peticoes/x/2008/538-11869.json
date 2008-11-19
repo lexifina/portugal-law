@@ -1,0 +1,483 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11869",
+  "numero": "538",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-11-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2009-02-13",
+            "entidades": null,
+            "id": "85793",
+            "tipo": null,
+            "titulo": "Audição em 2009-02-13 com Ana Henriques Pato, Ana Sofia Rosado e Ana Carolina Ambrósio"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2009-02-19",
+            "dataResposta": "2009-03-19",
+            "entidades": [
+              "Ministério da Cultura"
+            ],
+            "nrOficio": "59/CESC/2009",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2009-02-19",
+            "dataResposta": "2009-04-03",
+            "entidades": [
+              "Ministério do Trabalho e da Solidariedade Social"
+            ],
+            "nrOficio": "59/CESC/2009",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2009-02-19",
+            "dataResposta": "2009-04-23",
+            "entidades": [
+              "Ministério da Educação"
+            ],
+            "nrOficio": "59/CESC/2009",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2009-02-19",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério da Ciência, Tecnologia e Ensino Superior"
+            ],
+            "nrOficio": "59/CESC/2009",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2009-02-19",
+            "dataResposta": null,
+            "entidades": [
+              "Secretaria de Estado da Juventude e do Desporto"
+            ],
+            "nrOficio": "59/CESC/2009",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-07-01",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-11-26",
+        "DataArquivo": "2009-07-01",
+        "DataBaixaComissao": "2008-11-26",
+        "DataEnvioPAR": "2009-07-01",
+        "DataReaberta": "2008-11-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-11-19",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d6b4e4655304e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764e6d4e6d4d57466d597a63744d7a646b4d793030596d526c4c546734596a55744d475a6d4e574931597a5a6b4d32566c4c6e426b5a673d3d&fich=6cf1afc7-37d3-4bde-88b5-0ff5b5c6d3ee.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-11-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d6b4e4655304e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738765a4755334f546b794f5455745a6d4a6a4d533030595759334c574a684e4467744e32566b4d5451784d57526d4e54686a4c6e426b5a673d3d&fich=de799295-fbc1-4af7-ba48-7ed1411df58c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1914",
+        "Legislatura": "X",
+        "Nome": "Comissão de Ética, Sociedade e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-11-26",
+            "gp": "PCP",
+            "id": "2234",
+            "motivoCessacao": null,
+            "nome": "João Oliveira"
+          }
+        ],
+        "RelatorioFinal": [
+          "22538"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2009-07-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2008-11-19",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a5932557859545977595330324d6a4a684c54517a4f545574596a686b4e4330324e7a6b304d7a52684e6a67355a4751756347526d&fich=cce1a60a-622a-4395-b8d4-679434a689dd.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "174012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/24?pgs=24&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Juventude Comunista Portuguesa, solicitando à Assembleia da República o apoio efectivo às \"bandas de garagem\" e outras manifestações culturais, o reforço da verba do Estado para a cultura, a criação de uma rede nacional de espaços para a produção artística e medidas que apoiem e facilitem o acesso dos mais jovens à cultura",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "174013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Juventude Comunista Portuguesa, solicitando à Assembleia da República o apoio efectivo às \"bandas de garagem\" e outras manifestações culturais, o reforço da verba do Estado para a cultura, a criação de uma rede nacional de espaços para a produção artística e medidas que apoiem e facilitem o acesso dos mais jovens à cultura",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "174014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Juventude Comunista Portuguesa, solicitando à Assembleia da República o apoio efectivo às \"bandas de garagem\" e outras manifestações culturais, o reforço da verba do Estado para a cultura, a criação de uma rede nacional de espaços para a produção artística e medidas que apoiem e facilitem o acesso dos mais jovens à cultura",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "174015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Juventude Comunista Portuguesa, solicitando à Assembleia da República o apoio efectivo às \"bandas de garagem\" e outras manifestações culturais, o reforço da verba do Estado para a cultura, a criação de uma rede nacional de espaços para a produção artística e medidas que apoiem e facilitem o acesso dos mais jovens à cultura",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "174016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Juventude Comunista Portuguesa, solicitando à Assembleia da República o apoio efectivo às \"bandas de garagem\" e outras manifestações culturais, o reforço da verba do Estado para a cultura, a criação de uma rede nacional de espaços para a produção artística e medidas que apoiem e facilitem o acesso dos mais jovens à cultura",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "174017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Juventude Comunista Portuguesa, solicitando à Assembleia da República o apoio efectivo às \"bandas de garagem\" e outras manifestações culturais, o reforço da verba do Estado para a cultura, a criação de uma rede nacional de espaços para a produção artística e medidas que apoiem e facilitem o acesso dos mais jovens à cultura",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11869",
+    "PetAssunto": "Solicitam o apoio efectivo às \"bandas de garagem\" e outras manifestações culturais, o reforço da verba do Estado para a cultura, a criação de uma rede nacional de espaços para a produção artística e medidas que apoiem e facilitem o acesso dos mais jovens à cultura.",
+    "PetDataEntrada": "2008-11-19",
+    "PeticoesAssociadas": null,
+    "PetId": "11869",
+    "PetLeg": "X",
+    "PetNr": "538",
+    "PetNrAssinaturas": "4005",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "305",
+        "obs": null,
+        "pag": [
+          "24-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-07-23",
+        "pubLeg": "X",
+        "pubNr": "104",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/24?pgs=24-28&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
