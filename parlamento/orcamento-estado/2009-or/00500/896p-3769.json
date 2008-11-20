@@ -1,0 +1,112 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yxhwfCYUNRkQkRRKNgNdILK9y1llRnwWCGYaIfMmROmbBFTeXBa7plTAygph4avwhdT9Oc1JBnWZXtWa6Erlu8QiA7wis%2fH2ld%2bW3A3w12Hb0R2NdgYY%2br04L1IFqN0wHKInkwGrwpaXKdtxsZE5ixQ5dT1U6aR1ITUK10ZBaiZzpqodmBr9gkoQTUyOk6ppH%2fgSbM6mthCp4KlwGAD%2fHb3vcf%2ffUfAlRXNao%2f9uQEi%2ffKWbebu2lD%2bqjAMaUN0imAVn8qlaZ%2b3qgsAo80meZtG7z8710Hq6G5KLcxom2TTJhLcmRV8tvtMwN1pkdsrbzzUchcT1XBlARhBIaI0CH26er2%2bYuxh7w7MNBFrGoeaXkdFJ%2bPBoQGUnqO%2bMIhwie%2fXNCJUqw6Sd0NrcPTBoRQ%3d%3d&fich=OEPropostasAlteracao2009Or_json.txt&Inline=true",
+  "ficheiro_sha256": "4bbd88a09fd5b03be07b079eb1a40f048f3c9c86d8e9249aba26379ece5405fe",
+  "legislatura": "X",
+  "id": "3769",
+  "numero": "896P",
+  "orcamento": "2009",
+  "versao": "Or",
+  "data_registo": "2008-11-20",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "3769",
+    "Numero": "896P",
+    "Data": "20/11/2008 20:46:00",
+    "Titulo": "Artigo 58.º da PPL",
+    "Tema": null,
+    "Apresentada": "Plenário",
+    "Incide": "Articulado",
+    "Tipo": "Eliminação",
+    "Estado": "Rejeitado(a) em Plenário",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774f5449774d4467784d4445304c3142424c7a4e694d6d5a6b4e7a686b4c546b35595445744e444a6d5a6931685a575a684c57566d4e6d4a6a4d7a5931597a49775a4335775a47593d&Fich=3b2fd78d-99a1-42ff-aefa-ef6bc365c20d.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP, PCP, PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "EUGÉNIO ROSA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "EUGÉNIO ROSA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "EUGÉNIO ROSA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 58.º",
+        "Titulo": "Suspensão do regime simplificado em IRC",
+        "Texto": "1 - Não é permitido aos sujeitos passivos de IRC optar pela determinação do lucro tributável com base no regime simplificado previsto no artigo 53.º do Código do IRC a partir de 1 de Janeiro de 2009.\r\n\r\n2 - Os sujeitos passivos abrangidos pelo regime simplificado de determinação do lucro tributável, cujo perí",
+        "Estado": "Aprovado(a) em Plenário"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 58.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Suspensão do regime simplificado em IRC",
+        "Data": "27/11/2008 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Plenário",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Partido Ecologista \"Os Verdes\"",
+            "LUÍSA MESQUITA(PCP)",
+            "LUÍSA MESQUITA(PCP)"
+          ],
+          "Voto": [
+            "Contra",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
