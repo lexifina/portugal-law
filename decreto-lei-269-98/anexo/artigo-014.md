@@ -10,4 +10,4 @@
 
 4 - Do acto de recusa cabe reclamação nos termos previstos no n.º 2 do artigo 11.º
 
-5 - Aposta a fórmula executória, a secretaria devolve ao requerente todo o expediente respeitante à injunção ou disponibiliza àquele, por meios electrónicos, em termos a definir por portaria do Ministro da Justiça, o requerimento de injunção no qual tenha sido aposta a fórmula executória.
+5 - Aposta a fórmula executória, a secretaria disponibiliza ao requerente, preferencialmente por meios electrónicos, em termos a definir por portaria do Ministro da Justiça, o requerimento de injunção no qual tenha sido aposta a fórmula executória.
