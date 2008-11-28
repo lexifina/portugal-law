@@ -1,0 +1,228 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11874",
+  "numero": "540",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-11-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2009-06-15",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro dos Assuntos Parlamentares"
+            ],
+            "nrOficio": "182/6ªCAEIDR",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2009-12-02",
+                "dataResposta": "2010-01-05",
+                "nrOficio": "20/CAEIE",
+                "oficioResposta": "12"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2010-01-14",
+        "DataBaixaComissao": "2009-11-25",
+        "DataEnvioPAR": "2010-01-15",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2869",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Assuntos Económicos, Inovação e Energia",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2009-11-25",
+            "gp": "CDS-PP",
+            "id": "1450",
+            "motivoCessacao": null,
+            "nome": "Helder Amaral"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da X Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2009-06-15",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro dos Assuntos Parlamentares"
+            ],
+            "nrOficio": "182/6ªCAEIDR",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": null,
+                "dataResposta": null,
+                "nrOficio": null,
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453383251304646535552536347397a556b46534c305276593356745a57353062334e515a585270593246764c7a457a5a57557a596a67774c575a695a5451744e475534597930344d4464684c545a685a545535596a4d33596d5a6a5a5335775a47593d&fich=13ee3b80-fbe4-4e8c-807a-6ae59b37bfce.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2009-06-15",
+            "dataResposta": "2009-07-20",
+            "entidades": [
+              "Presidente da Entidade Reguladora dos Serviços Energéticos"
+            ],
+            "nrOficio": "184/6ªCAEIDR",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453383251304646535552536347397a556b46534c305276593356745a57353062334e515a585270593246764c7a457a5a57557a596a67774c575a695a5451744e475534597930344d4464684c545a685a545535596a4d33596d5a6a5a5335775a47593d&fich=13ee3b80-fbe4-4e8c-807a-6ae59b37bfce.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2008-12-16",
+        "DataArquivo": "2009-11-17",
+        "DataBaixaComissao": "2008-12-16",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2008-12-16",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-11-28",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453383251304646535552536347397a556b46534c305276593356745a57353062334e515a585270593246764c32566b5a475a6a4d44466a4c5456684d5441744e444a694e4330354d5467304c5451334e444a694e7a67785a546b7a5a4335775a47593d&fich=eddfc01c-5a10-42b4-9184-4742b781e93d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2008-11-28",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453383251304646535552536347397a556b46534c305276593356745a57353062334e515a585270593246764c7a457a5a57557a596a67774c575a695a5451744e475534597930344d4464684c545a685a545535596a4d33596d5a6a5a5335775a47593d&fich=13ee3b80-fbe4-4e8c-807a-6ae59b37bfce.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-11-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e505453383251304646535552536347397a556b46534c305276593356745a57353062334e515a585270593246764c324d324f574d344d5455784c5759354d4445744e446c6b597931685957557a4c5451784e44426c4f4445305a6d526a4f4335775a47593d&fich=c69c8151-f901-49dc-aae3-4140e814fdc8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1908",
+        "Legislatura": "X",
+        "Nome": "Comissão de Assuntos Económicos, Inovação e Desenvolvimento Regional",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2008-12-16",
+            "gp": "CDS-PP",
+            "id": "1450",
+            "motivoCessacao": null,
+            "nome": "Hélder Amaral"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Assuntos Económicos, Inovação e Energia da XI Legislatura."
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2008-11-28",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938314e6a55335a6d55794e4330314d6a646d4c5452684e6d59744f5463345979316d59575978597a4d324d7a4535597a59756347526d&fich=5657fe24-527f-4a6f-978c-faf1c36319c6.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11874",
+    "PetAssunto": "Solicita a intervenção da Assembleia da República no sentido de a empresa EDP cumprir a Lei 12/2008 de 26 de Fevereiro.",
+    "PetDataEntrada": "2008-11-28",
+    "PeticoesAssociadas": null,
+    "PetId": "11874",
+    "PetLeg": "X",
+    "PetNr": "540",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
