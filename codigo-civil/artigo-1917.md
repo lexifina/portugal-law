@@ -2,4 +2,4 @@
 
 ### (Alimentos)
 
-A inibição do exercício do poder paternal em nenhum caso isenta os pais do dever de alimentarem o filho.
+A inibição do exercício das responsabilidades parentais em nenhum caso isenta os pais do dever de alimentarem o filho.

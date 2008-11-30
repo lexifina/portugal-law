@@ -2,6 +2,6 @@
 
 ### (Proibição de adquirir bens do filho)
 
-1 - Sem autorização do tribunal não podem os pais tomar de arrendamento ou adquirir, directamente ou por interposta pessoa, ainda que em hasta pública, bens ou direitos do filho sujeito ao poder paternal, nem tornar-se cessionários de créditos ou outros direitos contra este, excepto nos casos de sub-rogação legal, de licitação em processo de inventário ou de outorga em partilha judicialmente autorizada.
+1 - Sem autorização do tribunal não podem os pais tomar de arrendamento ou adquirir, directamente ou por interposta pessoa, ainda que em hasta pública, bens ou direitos do filho sujeito às responsabilidades parentais, nem tornar-se cessionários de créditos ou outros direitos contra este, excepto nos casos de sub-rogação legal, de licitação em processo de inventário ou de outorga em partilha judicialmente autorizada.
 
 2. Entende-se que a aquisição é feita por interposta pessoa nos casos referidos no n.º 2 do artigo 579.º

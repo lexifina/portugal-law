@@ -1,7 +1,7 @@
 # Artigo 1792.º
 
-### (Reparação de danos não patrimoniais)
+### Reparação de danos
 
-1. O cônjuge declarado único ou principal culpado e, bem assim, o cônjuge que pediu o divórcio com o fundamento da alínea c) do artigo 1781.º devem reparar os danos não patrimoniais causados ao outro cônjuge pela dissolução do casamento.
+1 - O cônjuge lesado tem o direito de pedir a reparação dos danos causados pelo outro cônjuge, nos termos gerais da responsabilidade civil e nos tribunais comuns.
 
-2. O pedido de indemnização deve ser deduzido na própria acção de divórcio.
+2 - O cônjuge que pediu o divórcio com o fundamento da alínea b) do artigo 1781.º deve reparar os danos não patrimoniais causados ao outro cônjuge pela dissolução do casamento; este pedido deve ser deduzido na própria acção de divórcio.

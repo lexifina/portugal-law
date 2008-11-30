@@ -4,8 +4,8 @@
 
 # Artigo 1779.º
 
-### (Violação culposa dos deveres conjugais)
+### Tentativa de conciliação; conversão do divórcio sem consentimento de um dos cônjuges em divórcio por mútuo consentimento
 
-1. Qualquer dos cônjuges pode requerer o divórcio se o outro violar culposamente os deveres conjugais, quando a violação, pela sua gravidade ou reiteração, comprometa a possibilidade da vida em comum.
+1 - No processo de divórcio sem consentimento de um dos cônjuges haverá sempre uma tentativa de conciliação dos cônjuges.
 
-2. Na apreciação da gravidade dos factos invocados, deve o tribunal tomar em conta, nomeadamente, a culpa que possa ser imputada ao requerente e o grau de educação e sensibilidade moral dos cônjuges.
+2 - Se a tentativa de conciliação não resultar, o juiz procurará obter o acordo dos cônjuges para o divórcio por mútuo consentimento; obtido o acordo ou tendo os cônjuges, em qualquer altura do processo, optado por essa modalidade do divórcio, seguir-se-ão os termos do processo de divórcio por mútuo consentimento, com as necessárias adaptações.

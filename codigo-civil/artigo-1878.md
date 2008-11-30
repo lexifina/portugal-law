@@ -1,6 +1,6 @@
 # Artigo 1878.º
 
-### (Conteúdo do poder paternal)
+### (Conteúdo das responsabilidades parentais)
 
 1. Compete aos pais, no interesse dos filhos, velar pela segurança e saúde destes, prover ao seu sustento, dirigir a sua educação, representá-los, ainda que nascituros, e administrar os seus bens.
 

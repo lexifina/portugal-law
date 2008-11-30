@@ -1,13 +1,13 @@
 # Artigo 1781.º
 
-### (Ruptura da vida em comum)
+### Ruptura do casamento
 
-São ainda fundamento do divórcio litigioso:
+São fundamento do divórcio sem consentimento de um dos cônjuges:
 
-a) A separação de facto por três anos consecutivos;
+a) A separação de facto por um ano consecutivo;
 
-b) A separação de facto por um ano se o divórcio for requerido por um dos cônjuges sem oposição do outro;
+b) A alteração das faculdades mentais do outro cônjuge, quando dure há mais de um ano e, pela sua gravidade, comprometa a possibilidade de vida em comum;
 
-c) A alteração das faculdades mentais do outro cônjuge, quando dure há mais de três anos e, pela sua gravidade, comprometa a possibilidade de vida em comum;
+c) A ausência, sem que do ausente haja notícias, por tempo não inferior a um ano;
 
-d) A ausência, sem que do ausente haja notícias, por tempo não inferior a dois anos.
+d) Quaisquer outros factos que, independentemente da culpa dos cônjuges, mostrem a ruptura definitiva do casamento.

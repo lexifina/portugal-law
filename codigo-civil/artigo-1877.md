@@ -1,6 +1,6 @@
 ## Secção II
 
-## Poder paternal
+## Responsabilidades parentais
 
 ## Subsecção I
 
@@ -8,6 +8,6 @@
 
 # Artigo 1877.º
 
-### (Duração do poder paternal)
+### (Duração das responsabilidades parentais)
 
-Os filhos estão sujeitos ao poder paternal até à maioridade ou emancipação.
+Os filhos estão sujeitos às responsabilidades parentais até à maioridade ou emancipação.

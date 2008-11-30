@@ -1,6 +1,6 @@
 ## Subsecção III
 
-## Poder paternal relativamente aos bens dos filhos
+## Responsabilidades parentais relativamente aos bens dos filhos
 
 # Artigo 1888.º
 

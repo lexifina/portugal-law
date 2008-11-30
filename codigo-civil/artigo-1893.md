@@ -6,4 +6,4 @@
 
 2. A anulação pode ser requerida depois de findar o prazo se o filho ou seus herdeiros mostrarem que só tiveram conhecimento do acto impugnado nos seis meses anteriores à proposição da acção.
 
-3. A acção de anulação pode também ser intentada pelas pessoas com legitimidade para requerer a inibição do poder paternal, contanto que o façam no ano seguinte à prática dos actos impugnados e antes de o menor atingir a maioridade ou ser emancipado.
+3. A acção de anulação pode também ser intentada pelas pessoas com legitimidade para requerer a inibição das responsabilidades parentais, contanto que o façam no ano seguinte à prática dos actos impugnados e antes de o menor atingir a maioridade ou ser emancipado.

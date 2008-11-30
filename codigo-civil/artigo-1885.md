@@ -1,6 +1,6 @@
 ## Subsecção II
 
-## Poder paternal relativamente à pessoa dos filhos
+## Responsabilidades parentais relativamente à pessoa dos filhos
 
 # Artigo 1885.º
 

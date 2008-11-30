@@ -1,9 +1,9 @@
 # Artigo 1776.º
 
-### (Primeira conferência)
+### Procedimento e decisão na conservatória do registo civil
 
-1. Recebido o requerimento, o juiz convocará os cônjuges para uma conferência em que tentará conciliá-los; se a conciliação não for possível, adverti-los-á de que deverão renovar o pedido de divórcio após um período de reflexão de três meses, a contar da data da conferência, e dentro do ano subsequente à mesma data, sob pena de o pedido ficar sem efeito.
+1 - Recebido o requerimento, o conservador convoca os cônjuges para uma conferência em que verifica o preenchimento dos pressupostos legais e aprecia os acordos referidos nas alíneas a), c) e d) do n.º 1 do artigo anterior, convidando os cônjuges a alterá-los se esses acordos não acautelarem os interesses de algum deles ou dos filhos, podendo determinar para esse efeito a prática de actos e a produção da prova eventualmente necessária, e decreta, em seguida, o divórcio, procedendo-se ao correspondente registo, salvo o disposto no artigo 1776.º-A.
 
-2. O juiz deve apreciar na conferência os acordos a que se refere o n.º 2 do artigo anterior, convidando os cônjuges a alterá-los se esses acordos não acautelarem suficientemente os interesses de algum deles ou dos filhos; deve ainda homologar os acordos provisórios previstos no n.º 3 do mesmo artigo, podendo alterá-los, ouvidos os cônjuges, quando o interesse dos filhos o exigir.
+2 - É aplicável o disposto no artigo 1420.º, no n.º 2 do artigo 1422.º e no artigo 1424.º do Código de Processo Civil, com as necessárias adaptações.
 
-3. Se os cônjuges persistirem no seu propósito, o dever de coabitação fica suspenso a partir da conferência e qualquer deles pode requerer arrolamento dos seus bens próprios e dos bens comuns.
+3 - As decisões proferidas pelo conservador do registo civil no divórcio por mútuo consentimento produzem os mesmos efeitos das sentenças judiciais sobre idêntica matéria.

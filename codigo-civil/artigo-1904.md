@@ -1,5 +1,5 @@
 # Artigo 1904.º
 
-### (Viuvez)
+### Morte de um dos progenitores
 
-Dissolvido o casamento por morte de um dos cônjuges, o poder paternal pertence ao sobrevivo.
+Por morte de um dos progenitores, o exercício das responsabilidades parentais pertence ao sobrevivo.
