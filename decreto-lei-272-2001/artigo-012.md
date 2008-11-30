@@ -10,7 +10,7 @@
 
 a) A reconciliação dos cônjuges separados;
 
-b) A separação e divórcio por mútuo consentimento, excepto nos casos resultantes de acordo obtido no âmbito de processo de separação ou divórcio litigiosos;
+b) A separação e divórcio por mútuo consentimento, excepto nos casos em que os cônjuges não apresentam algum dos acordos a que se refere o n.º 1 do artigo 1775.º do Código Civil, em que algum dos acordos apresentados não é homologado ou nos casos resultantes de acordo obtido no âmbito de processo de separação ou divórcio sem consentimento do outro cônjuge;
 
 c) A declaração de dispensa de prazo internupcial.
 

@@ -6,7 +6,7 @@
 
 2 - O pedido é instruído com os documentos referidos no n.º 1 do artigo 272.º do Código do Registo Civil, a que é acrescentado acordo sobre o exercício do poder paternal quando existam filhos menores e não tenha previamente havido regulação judicial.
 
-3 - Recebido o requerimento, o conservador convoca os cônjuges para uma conferência em que tenta conciliá-los; mantendo os cônjuges o propósito de se divorciar, e observado o disposto no n.º 5 do artigo 12.º, é o divórcio decretado, procedendo-se ao correspondente registo.
+3 - Recebido o requerimento, o conservador informa os cônjuges da existência dos serviços de mediação familiar; mantendo os cônjuges o propósito de se divorciar, e observado o disposto no n.º 5 do artigo 12.º, é o divórcio decretado, procedendo-se ao correspondente registo.
 
 4 - Quando for apresentado acordo sobre o exercício do poder paternal relativo a filhos menores, o processo é enviado ao Ministério Público junto do tribunal judicial de 1.ª instância competente em razão da matéria no âmbito da circunscrição a que pertença a conservatória antes da fixação do dia da conferência prevista no número anterior, para que este se pronuncie sobre o acordo no prazo de 30 dias.
 
