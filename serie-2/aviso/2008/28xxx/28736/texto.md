@@ -1,0 +1,16 @@
+Aviso n.º 28736/2008
+Aditamento à proposta n.º 73/2004/DHU/DIPU do Plano de Pormenor da Av. dos Combatentes da Grande Guerra, Freguesia de S. Julião e Nossa Senhora da Anunciada - Setúbal
+André Martins, vereador da Câmara Municipal de Setúbal, faço público que, nos termos do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 316/07, de 19 de Setembro e Decreto-Lei n.º 232/07, de 15 de Junho, a Câmara Municipal de Setúbal, em reunião realizada em 05/11/08, sob proposta n.º 428/2008/DURB/DIPU, deliberou proceder a novo aditamento à proposta de elaboração do Plano de Pormenor da Av. dos Combatentes da Grande Guerra, da Freguesia de S. Julião e Nossa Senhora da Anunciada, deste concelho, que havia sido aprovada em reunião desta Câmara de 05/03/03, sob a proposta n.º DHU/PIPU/28/03, que foi objecto de aditamento através da proposta n.º 73/2004/DHU/DIPU, em reunião de 19/05/2004.
+Face à nova legislação em vigor, afigura-se necessário proceder ao presente aditamento, nomeadamente em matéria de avaliação ambiental estratégica, como também em termos de definição da calendarização do plano e constituição da equipa técnica responsável pela sua elaboração.
+De acordo com o disposto no n.º 6 do artigo 3.º do Decreto-Lei n.º 232/07, de 15 de Junho e respectivo anexo ao referido Decreto-Lei, o presente Plano de Pormenor não produz quaisquer efeitos significativos ao ambiente pelo que não está sujeito à Avaliação Ambiental, nos termos do disposto no n.º 5 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 316/07, de 19 de Setembro.
+É assegurada a devida publicidade, nos termos do disposto no n.º 7 do artigo 3.º do Decreto-Lei n.º 232/07, de 15 de Junho, quanto à decisão de que o Plano de Pormenor não é susceptível de ter efeitos significativos no ambiente, sendo disponibilizada ao público, pela Câmara Municipal de Setúbal através da sua colocação na respectiva página da Internet.
+A coordenação da elaboração do Plano será assegurada pelo Arquitecto Gil Serras, da Diâmetro - Estudos e Projectos, sendo a restante equipa constituída pelos técnicos: Arquitecto Fernando Barata (Arquitectura e Urbanismo) e Dr. António Esteves da Fonseca (Jurista).
+A calendarização para cada uma das fases de eleboração do Plano é a seguinte:
+1.ª fase: Caracterização e diagnóstico - 45 dias após a adjudicação;
+2.ª fase: Propostas prévias - 30 dias, após a entrega da 1.ª fase;
+3.ª fase: Proposta do plano - 15 dias após a aprovação da 2.ª fase;
+4.ª fase: Proposta final - 15 dias após a aprovação da 3.ª fase.
+Nos termos do n.º 2 do artigo 77.º do citado decreto-lei, o prazo para a formulação de sugestões e para a apresentação de informação sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração, é de 20 dias.
+A proposta (4.2.1.13.171) está patente para consulta na Divisão de Apoio Administrativo do departamento de Urbanismo desta Câmara Municipal, na Rua Acácio Barradas, 27, Edifício Sado, em Setúbal.
+Da presente deliberação é assegurada a devida publicidade, nos termos do n.º 1 do artigo 74.º do referido diploma legal.
+18 de Novembro de 2008. - O Vereador, com competência delegada na Área do Urbanismo, André Martins.
