@@ -1,0 +1,12 @@
+Aviso n.º 28738/2008
+Correcção aos limites do Plano de Pormenor das Avessadas
+Fernando Rui Linhares Corvêlo de Sousa, Presidente da Câmara Municipal de Tomar, torna público, nos termos e para os efeitos previstos no artigo 97-A, na alínea a) do n.º 4 do artigo 148.º e do n.º 2 e 3 do artigo 149.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, que a Câmara Municipal de Tomar deliberou, na sua reunião pública de 13 de Novembro de 2008, aprovar a proposta de correcção aos limites do Plano de Pormenor das Avessadas e mandar promover a discussão pública de Alteração ao Plano de Pormenor das Avessadas nos seguintes termos:
+Considerando que a não inclusão no Plano de Pormenor das Avessadas da totalidade do prédio urbano n.º 1043, origina a impossibilidade de se criar uma boa acessibilidade à área do Equipamento Público, e obriga, na zona envolvente ao N3, a uma solução urbanística de compromisso.
+Considerando que a integração do artigo urbano n.º 1043 no Plano de Pormenor, permitirá a requalificação da estrutura viária, e compensará a rectificação aos limites do E1.
+Considerando que a rectificação aos limites do E1 permitirá um melhor aproveitamento futuro da parcela, anulando passeios de largura excessiva, sem qualquer continuidade no Plano de Pormenor.
+Propõe-se a rectificação dos limites físicos do Plano de Pormenor das Avessadas, nos seguintes termos:
+No troço confinante a poente com o E1 e o N3, é integrada a totalidade do artigo urbano n.º 1043 dentro do perímetro do Plano de Pormenor, não envolvendo qualquer alteração à área de ocupação E1 e à área de arruamentos já previstos.
+Mais se informa que, nos termos do n.º 4 do artigo 77.º, do Decreto-Lei n.º 316/2007, o período de discussão pública terá início no 5.º dia útil contado a partir da publicação deste Aviso no Diário da República e durará 22 dias.
+O processo estará disponível na Divisão de Planeamento Físico desta Câmara Municipal, sito na Rua Marquês de Tomar, Edifício Escavação, no horário normal de expediente, para onde deverão ser dirigidas todas as reclamações, observações ou sugestões a apresentar por qualquer interessado.
+Para constar e para os devidos efeitos é publicado o presente Aviso no Diário da República 2.ª série, em dois jornais diários, num semanário de grande expansão nacional e em jornais de expansão local ou regional, Página da Internet da Câmara Municipal e Boletim Municipal.
+20 de Novembro de 2008. - O Presidente da Câmara, Fernando Rui Linhares Corvêlo de Sousa.
