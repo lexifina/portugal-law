@@ -1,0 +1,16 @@
+Portaria n.º 1390/2008
+de 3 de Dezembro
+Com fundamento no disposto no artigo 26.º e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro;
+Ouvidos os Conselhos Cinegéticos Municipais de Alcácer do Sal e de Montemor-o-Novo:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é criada a zona de caça municipal de Monte Novo do Zambujeiro (processo n.º 5099-AFN), pelo período de seis anos, e transferida a sua gestão para a Associação de Caçadores e Pescadores de Santo Tirso, com o número de identificação fiscal 504900552 e sede na Rua do Mercado Humberto Delgado, 41, 2910-605 Setúbal.
+2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Santa Susana, município de Alcácer do Sal, com a área de 438 ha, e na freguesia de São Cristóvão, município de Montemor-o-Novo, com a área de 193 ha, perfazendo a área total de 631 ha.
+3.º De acordo com o estabelecido no artigo 15.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:
+a) 10 % relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;
+b) 40 % relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;
+c) 10 % relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;
+d) 40 % aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º
+5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.
+6.º A zona de caça criada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 17 de Novembro de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 18 de Novembro de 2008.
+(ver documento original)
