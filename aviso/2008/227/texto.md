@@ -1,0 +1,5 @@
+Aviso n.º 227/2008
+Por ordem superior se torna público que em 2 de Novembro de 2007 e 30 de Outubro de 2008, respectivamente, foram emitidas notas pela Embaixada da República Eslovaca em Lisboa e pelo Ministério dos Negócios Estrangeiros português, tendo a última notificação escrita sido recebida pela República Eslovaca em Lisboa em 4 de Novembro de 2008, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República Eslovaca sobre a Troca e a Protecção Mútua de Informação Classificada, assinado em Bratislava em 25 de Outubro de 2007.
+Portugal é Parte neste Acordo, aprovado pelo Governo pelo Decreto n.º 44/2008, publicado no Diário da República, 1.ª série, n.º 198, de 13 de Outubro de 2008.
+Nos termos do artigo 17.º, o Acordo entra em vigor em 4 de Dezembro de 2008, 30.º dia após a recepção da última notificação escrita, por via diplomática, informando que foram cumpridos todos os requisitos de direito interno das Partes necessários para o efeito.
+Direcção-Geral dos Assuntos Europeus, 18 de Novembro de 2008. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
