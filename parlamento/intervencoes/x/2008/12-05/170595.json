@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7mX8CblfaZUC1PkJDB5lnqrCJq%2b7%2fttZ%2bq7V7723EchVdz3Nn2q812aFEYd6rr8874IzCmBVEAA%2bWOYWfsumzvqS1eq8naCM3HU8DfArtqjUIzglbaPE0CcQttqHCQQoMo%2fh%2fhKCb3g2GEQMzfq1KSc9%2fpTWFu72hTtxTyNYOeXkhbuONHMuCnIkQqg3msT7eeQmt0TfluQRzEBaM8DH7AQmw5Qhogj2EW6Pzk21Q%2bvziTvjPWoS33gxtX%2fH9JDDQX6mGASaug9iKuUhzQ7Z5ZK%2fZR5bCVlM5vvPHMxCwoMG%2bvQRYkXxSUhi0aLWAFUFURbTtAP3Ta6KrCvkgi0G8WZ9c9%2bLNnGsCv9PZZ1kJfTh41xRZVmeaxJdHrCKDxmC&fich=IntervencoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "6d409937a94b75ba2179b6cc6083cb33cce789e414851e22ef0c275c6cbcc284",
+  "legislatura": "X",
+  "id": "170595",
+  "tipo": "Intervenção",
+  "orador": "Eduardo Cabrita (S.E.  ADJUNTO  E  DA  ADMINISTRAÇÃO LOCAL)",
+  "data_registo": "2008-12-05",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "255956",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "34163",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Estabelece a transferência de atribuições para os municípios em matéria de constituição e funcionamento dos gabinetes técnicos florestais, bem como outras no domínio da prevenção e defesa da floresta."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2008-12-05",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "170595",
+    "IdDebate": "6445",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "34163",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "X",
+    "MembrosGoverno": {
+      "cargo": "S.E.  ADJUNTO  E  DA  ADMINISTRAÇÃO LOCAL",
+      "governo": "XVII GOVERNO CONSTITUCIONAL",
+      "nome": "Eduardo Cabrita"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "170595",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "21-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-12-06",
+        "pubLeg": "X",
+        "pubNr": "23",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/023/2008-12-06/21?pgs=21&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": null,
+    "Sessao": "4",
+    "Sumario": "Estabelece a transferência de atribuições para os municípios em matéria de constituição e funcionamento dos gabinetes técnicos florestais, bem como outras no domínio da prevenção e defesa da floresta.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
