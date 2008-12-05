@@ -1,0 +1,6 @@
+Aviso (extracto) n.º 29020/2008
+Inquérito Público sobre o Projecto de Regulamento dos Serviços de Apoio à Família nos Estabelecimentos de Educação Pré-Escolar da Rede Pública do Município de Vila Nova de Paiva
+1 - Torno público, em cumprimento do artigo 68.º, n.º 1, alínea v), da Lei n.º 169/99, de 18 de Setembro, na redacção da Lei n.º 5-A/2002, de 11 de Janeiro, que, nos termos do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, se encontra em fase de apreciação pública o Regulamento em epígrafe, aprovado em projecto pela Câmara Municipal de Vila Nova de Paiva na reunião ordinária que teve lugar no dia de 15 de Outubro do ano em curso, podendo ser consultado no portal oficial do Município em www.cm-vnpaiva.pt, nos serviços de Educação sitos nos Paços do Município e nas Juntas de Freguesia.
+2 - A submissão do mencionado Projecto de Regulamento a apreciação pública destina-se à recolha de sugestões, a dirigir, por escrito, ao Presidente da Câmara Municipal, dentro do prazo de 30 úteis dias a contar da data de publicação do presente Aviso na 2.ª Série do Diário da República.
+18 de Novembro de 2008. - O Presidente da Câmara, Manuel Marques Custódio.
+301002903
