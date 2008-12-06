@@ -10,9 +10,9 @@
 
 a) Prédios rústicos: 0,8%;
 
-b) Prédios urbanos: 0,4% a 0,8%;
+b) Prédios urbanos: 0,4 % a 0,7 %;
 
-c) Prédios urbanos avaliados, nos termos do CIMI: 0,2% a 0,5%.
+c) Prédios urbanos avaliados, nos termos do CIMI: 0,2 % a 0,4 %.
 
 2 - Tratando-se de prédios constituídos por parte rústica e urbana, aplica-se ao valor patrimonial tributário de cada parte a respectiva taxa.
 
@@ -20,7 +20,7 @@ c) Prédios urbanos avaliados, nos termos do CIMI: 0,2% a 0,5%.
 
 4 - Para os prédios que sejam propriedade de entidades que tenham domicílio fiscal em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças, a taxa do imposto é de 1%, sendo elevado a 2% nas situações a que se refere o número anterior.
 
-5 - Os municípios, mediante deliberação da assembleia municipal, fixam a taxa a aplicar em cada ano, dentro dos intervalos previstos nas alíneas b) e c) do n.º 1.
+5 - Os municípios, mediante deliberação da assembleia municipal, fixam a taxa a aplicar em cada ano, dentro dos intervalos previstos nas alíneas b) e c) do n.º 1, podendo esta ser fixada por freguesia.
 
 6 - Os municípios, mediante deliberação da assembleia municipal, podem definir áreas territoriais, correspondentes a freguesias ou zonas delimitadas de freguesias, que sejam objecto de operações de reabilitação urbana ou combate à desertificação, e majorar ou minorar até 30% a taxa que vigorar para o ano a que respeita o imposto.
 
