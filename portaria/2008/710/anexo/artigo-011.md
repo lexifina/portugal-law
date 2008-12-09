@@ -14,7 +14,7 @@ d) Manter organizado o registo contabilístico das mediações efectuadas por me
 
 e) Manter organizado o inventário;
 
-f) Manter organizado o registo contabilístico das mediações efectuadas por mediador;
+f) Manter organizado o arquivo de documentos;
 
 g) Manter actualizado o registo de assiduidade dos funcionários dos serviços de atendimento e de apoio administrativo;
 
