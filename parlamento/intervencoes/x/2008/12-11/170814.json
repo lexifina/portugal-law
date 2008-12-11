@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7mX8CblfaZUC1PkJDB5lnqrCJq%2b7%2fttZ%2bq7V7723EchVdz3Nn2q812aFEYd6rr8874IzCmBVEAA%2bWOYWfsumzvqS1eq8naCM3HU8DfArtqjUIzglbaPE0CcQttqHCQQoMo%2fh%2fhKCb3g2GEQMzfq1KSc9%2fpTWFu72hTtxTyNYOeXkhbuONHMuCnIkQqg3msT7eeQmt0TfluQRzEBaM8DH7AQmw5Qhogj2EW6Pzk21Q%2bvziTvjPWoS33gxtX%2fH9JDDQX6mGASaug9iKuUhzQ7Z5ZK%2fZR5bCVlM5vvPHMxCwoMG%2bvQRYkXxSUhi0aLWAFUFURbTtAP3Ta6KrCvkgi0G8WZ9c9%2bLNnGsCv9PZZ1kJfTh41xRZVmeaxJdHrCKDxmC&fich=IntervencoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "6d409937a94b75ba2179b6cc6083cb33cce789e414851e22ef0c275c6cbcc284",
+  "legislatura": "X",
+  "id": "170814",
+  "tipo": "Intervenção",
+  "orador": "Celeste Correia (PS)",
+  "data_registo": "2008-12-11",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "85472",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "34117",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Altera a Lei Orgânica n.º 2/2006, de 17 de Abril - \"Quarta alteração à Lei nº 37/81, de 3 de Outubro\"."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "34113",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Altera a Lei n.º 23/2007 de 4 de Julho que fixa o regime de entrada, permanência, saída e afastamento do território nacional."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "34112",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Preenchimento do corpo de oficiais de ligação de imigração e revisão da lista de países de colocação."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2008-12-11",
+    "Debate": "PJR n.º 384/X/4; PJL n.º 592/X/4; PJL n.º 596/X/4",
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "614",
+      "nome": "Celeste Correia"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "170814",
+    "IdDebate": "6464",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "X",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "170814",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "22-24",
+          "26-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-12-12",
+        "pubLeg": "X",
+        "pubNr": "25",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/025/2008-12-12/22?pgs=22-24,26&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Responde a pedido de esclarecimento do deputado Feliciano Barreiras Duarte (PSD)",
+    "Sessao": "4",
+    "Sumario": "Altera a Lei Orgânica n.º 2/2006, de 17 de Abril - \"Quarta alteração à Lei nº 37/81, de 3 de Outubro\"; Altera a Lei n.º 23/2007 de 4 de Julho que fixa o regime de entrada, permanência, saída e afastamento do território nacional; Preenchimento do corpo de oficiais de ligação de imigração e revisão da lista de países de colocação.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
