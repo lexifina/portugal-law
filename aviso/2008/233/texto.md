@@ -1,0 +1,5 @@
+Aviso n.º 233/2008
+Por ordem superior se torna público que, em 17 de Abril e 9 de Outubro de 2008, respectivamente, foram emitidas Notas pela Embaixada da República Checa em Lisboa e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, tendo a última notificação escrita sido recebida pela Embaixada da República Checa em Lisboa em 16 de Outubro de 2008, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República Checa Relativo à Troca e à Protecção Mútua de Informação Classificada, assinado em Praga em 25 de Outubro de 2007.
+Portugal é Parte neste Acordo, aprovado pelo Governo pelo Decreto n.º 36/2008, publicado no Diário da República, 1.ª série, n.º 196, de 9 de Outubro de 2008.
+Nos termos do artigo 16.º, o Acordo está em vigor em 15 de Novembro de 2008, 30.º dia após a recepção da última das notificações escritas, por via diplomática, informando que foram cumpridos todos os procedimentos internos necessários para esse efeito.
+Direcção-Geral dos Assuntos Europeus, 28 de Novembro de 2008. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
