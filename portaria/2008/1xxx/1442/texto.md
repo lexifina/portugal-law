@@ -1,0 +1,7 @@
+Portaria n.º 1442/2008
+de 12 de Dezembro
+A Resolução do Conselho de Ministros n.º 66/2007, de 7 de Maio, que aprovou os princípios orientadores e o conteúdo da reforma consular, consagrou um conjunto de alterações à rede consular então existente, tendo em vista o aproveitamento eficazmente dos recursos físicos e humanos de que o País dispõe para promover de forma integrada os interesses políticos, económicos e culturais de Portugal e dos portugueses no estrangeiro.
+Na sequência da reestruturação da rede consular levada a cabo neste âmbito, foram criados vários consulados honorários cuja particular localização justificam, quer pela distância, quer pelo isolamento, quer pela grande comunidade portuguesa residente, que possam praticar determinados actos consulares, sendo autorizadas, para o efeito, as competências próprias dos vice-cônsules dos consulados-gerais e consulados, nos termos e ao abrigo do n.º 2 do artigo 1.º do Decreto-Lei n.º 75/98, de 27 de Março.
+Assim:
+Manda o Governo, pelo Ministro de Estado e dos Negócios Estrangeiros, ao abrigo dos n.os 2 e 3 do artigo 1.º do Decreto-Lei n.º 75/98, de 27 de Março, que os Consulados Honorários de Portugal em Bilbau, Durban, Orleans, Tours, Santos e Windhoek fiquem autorizados a praticar actos de registo civil, de notariado e de recenseamento eleitoral e a emitir documentos de viagem.
+O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 14 de Novembro de 2008.
