@@ -1,0 +1,4 @@
+Edital n.º 1263/2008
+João Manuel Rodrigues de Carvalho, Presidente da Câmara Municipal de Penedono, torna público que o executivo municipal pela deliberação n.º 201/2008 tomada por unanimidade na sua reunião ordinária de 17 de Novembro de 2008, aprovou o Regulamento do Sistema de Controlo Interno, ao abrigo da competência prevista na alínea e) do n.º 2 e da alínea a) do n.º 7 do artigo 64.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, e para os efeitos constantes do Ponto 2.9.3 do Plano Oficial de Contabilidade das Autarquias Locais (POCAL) aprovado pelo Decreto-Lei n.º 54-A/99, de 22 de Fevereiro. O referido Regulamento está integralmente disponível na página electrónica do Município, em www.cm-penedono.pt.
+21 de Novembro de 2008. - O Presidente da Câmara, João Manuel Rodrigues de Carvalho.
+301061572
