@@ -1,0 +1,10 @@
+Aviso n.º 30097/2008
+Abertura do período de discussão pública do Plano de Pormenor em modalidade simplificada de projecto urbano para o Centro de Congressos de Lisboa
+Torna-se público, nos termos do artigo 77.º, n.º 3, do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, e do artigo 91.º da Lei n.º 169/99, de 18 de Setembro (Lei das Autarquias Locais), que a Câmara Municipal de Lisboa (CML), em reunião de Câmara de 26 de Novembro de 2008, de acordo com a proposta n.º 1130/2008, deliberou proceder à abertura de um período de discussão pública da proposta do Plano de Pormenor em modalidade simplificada de projecto urbano para o Centro de Congressos de Lisboa.
+A discussão pública decorrerá, após publicação do presente aviso no Diário da República, 2.ª série, nos termos do artigo 148.º, n.º 4, alínea a), do citado decreto-lei, por um período de 22 dias para os interessados poderem apresentar as suas reclamações, observações ou sugestões. Durante esse período será igualmente realizada uma sessão pública.
+Os interessados poderão consultar a proposta do Plano e demais documentação que consubstanciou o período de acompanhamento, bem como o local, dia e horas onde terá lugar a sessão pública no site de Urbanismo da CML, na Secção Planeamento Urbano (http://ulisses.cm-lisboa.pt) ou nos locais a seguir identificados:
+Centro de Informação Urbana de Lisboa (CIUL), sito no Picoas Plaza, na Rua do Viriato, 13 a 17;
+Gabinete de Relações Públicas da Direcção Municipal de Planeamento Urbano, sito edifício central da CML, no Campo Grande, 25, 3.º, F;
+Junta de Freguesia de Alcântara, sita na Rua dos Lusíadas, 13.
+A formulação de reclamações, observações ou sugestões, deverão ser feitas por escrito, dirigidas ao presidente da Câmara Municipal de Lisboa, utilizando para o efeito, o impresso próprio que pode ser obtido nos locais acima referidos ou no site de Urbanismo da CML (http://ulisses.cm-lisboa.pt).
+5 de Dezembro de 2008. - Por delegação de competências, a Directora Municipal de Planeamento Urbano, Maria Teresa Mourão de Almeida.
