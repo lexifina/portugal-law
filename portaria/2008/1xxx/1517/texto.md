@@ -1,0 +1,25 @@
+Portaria n.º 1517/2008
+de 24 de Dezembro
+As alterações do acordo de empresa entre Rui Pereira Pato - Despachantes Oficiais, Lda., e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e outro, publicadas no Boletim do Trabalho e Emprego, n.º 26, de 15 de Julho de 2008, abrangem as relações de trabalho entre a empresa outorgante e os trabalhadores ao seu serviço, representados pelas associações sindicais que as subscreveram.
+Os outorgantes da convenção solicitaram a sua extensão a todos os empregadores que prossigam a mesma actividade e aos trabalhadores ao seu serviço, representados pelas mesmas associações sindicais.
+A actividade prosseguida pela empresa outorgante é a de agente aduaneiro e similar de apoio ao transporte. Não existe associação de empregadores que represente esta actividade, pelo que as convenções anteriores, entre a referida empresa e as mesmas associações sindicais, publicadas no Boletim do Trabalho e Emprego, 1.ª série, n.º 27, de 22 de Julho de 2000, e n.º 6, de 15 de Fevereiro de 2006, foram objecto de extensão a todo o sector de actividade, com exclusão das empresas que outorguem convenções próprias.
+O estudo de avaliação do impacte da extensão teve por base as retribuições efectivas praticadas no sector abrangido pela convenção, apuradas pelos quadros de pessoal de 2006 e actualizadas com base no aumento percentual médio das tabelas salariais das convenções publicadas no ano de 2007.
+O número de trabalhadores a tempo completo considerado no estudo, com exclusão dos trabalhadores da empresa outorgante e de outra empresa outorgante de outra convenção e dos trabalhadores aduaneiros classificados como praticante e do residual (que inclui o ignorado) é de 680, sendo que 263 (38,7 %) auferem retribuições inferiores às da convenção.
+Atendendo a que a convenção regula diversas condições de trabalho, procede-se à ressalva genérica de cláusulas contrárias a normas legais imperativas. Exclui-se, ainda, da extensão o n.º 3 da cláusula 6.ª por estabelecer um crédito de horas mensal dos membros da comissão de trabalhadores superior ao previsto na lei.
+Com vista a aproximar os estatutos laborais dos trabalhadores e as condições de concorrência entre as empresas do sector de actividade abrangido pela convenção, a extensão assegura para a tabela salarial retroactividade idêntica à da convenção.
+A extensão das alterações tem, no plano social, o efeito de uniformizar as condições mínimas de trabalho dos trabalhadores e, no plano económico, o de aproximar as condições de concorrência entre empresas do mesmo sector.
+Assim, não existindo associação de empregadores representativa da actividade abrangida, considerando a existência de outro acordo de empresa aplicável no mesmo sector de actividade, verificando-se identidade ou semelhança económica ou social entre as relações de trabalho abrangidas pela convenção e as destinatárias da extensão e existindo circunstâncias sociais e económicas justificativas da extensão, exigidas pelos n.º 2 e 3 do artigo 575.º do Código do Trabalho, é conveniente promover a extensão da convenção em causa.
+A extensão de convenções colectivas nas Regiões Autónomas compete aos respectivos Governos Regionais, pelo que a extensão apenas é aplicável no território do continente.
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, n.º 38, de 15 de Outubro de 2008, ao qual não foi deduzida oposição por parte dos interessados.
+Assim:
+Manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, ao abrigo do artigo 575.º do Código do Trabalho, o seguinte:
+Artigo 1.º
+1 - As condições de trabalho constantes das alterações do acordo de empresa entre Rui Pereira Pato - Despachantes Oficiais, Lda., e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e outro, publicadas no Boletim do Trabalho e Emprego, n.º 26, de 15 de Julho de 2008, são estendidas no território do continente:
+a) Às relações de trabalho entre as empresas que exerçam a actividade no sector dos agentes aduaneiros e similares de apoio ao transporte, não outorgantes de qualquer convenção colectiva de trabalho e trabalhadores ao seu serviço das categorias profissionais nelas previstas;
+b) Às relações de trabalho entre a empresa outorgante e os trabalhadores ao seu serviço, das profissões e categorias profissionais previstas, não representados pelas associações sindicais outorgantes.
+2 - Não são objecto de extensão as cláusulas contrárias a normas legais imperativas e o n.º 3 da cláusula 6.ª
+Artigo 2.º
+1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+2 - A tabela salarial e as cláusulas de conteúdo pecuniário produzem efeitos a partir de 1 de Janeiro de 2008.
+3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 9 de Dezembro de 2008.
