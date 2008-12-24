@@ -1,0 +1,146 @@
+Portaria n.º 1514/2008
+de 24 de Dezembro
+Um dos objectivos prioritários do sistema de segurança social enunciado na Lei de Bases da Segurança Social, Lei n.º 4/2007, de 16 de Janeiro, consiste em promover a melhoria sustentada das condições e dos níveis de protecção social, integrando-se neste desígnio a actualização anual das pensões que se encontra subordinada às regras previstas na Lei n.º 53-B/2006, de 29 de Dezembro, que regula, igualmente, o modo de actualização do indexante dos apoios sociais (IAS), referencial determinante na fixação, cálculo e actualização das prestações de segurança social.
+Assim, a actualização anual das pensões e de outras prestações sociais atribuídas pelo sistema de segurança social está formalmente interligada com a dinâmica de crescimento da economia nacional, assim como com a evolução do nível de preços nesta, garantindo-se em qualquer situação a manutenção do poder de compra à grande maioria dos pensionistas.
+A existência de regras objectivas consagradas na lei de actualização das pensões e prestações sociais, tendo por base indicadores de natureza macroeconómica, constitui não apenas um garante da sustentabilidade financeira do próprio processo de actualização, como também uma garantia na salvaguarda dos interesses de actuais e futuros pensionistas.
+O regime estabelecido na presente portaria tem também em consideração o princípio da equidade social, diferenciando de forma positiva a actualização das pensões com montantes mais baixos, com particular benefício das pensões de valor igual ou inferior a uma vez e meia o valor do IAS e das pensões de valor compreendido entre uma vez e meia e seis vezes o valor do IAS.
+Deste modo, considerando que a variação média do IPC nos últimos 12 meses, sem habitação, disponível em 30 de Novembro de 2008, foi de 2,9 % e que o valor médio de crescimento real do PIB nos últimos dois anos, apurado a partir das contas nacionais trimestrais do Instituto Nacional de Estatística (INE) para o 3.º trimestre de 2008, se situa abaixo de 2 %, mais precisamente 1,4 %, a taxa de actualização do IAS para 2009 corresponderá ao valor de referência do IPC, ou seja, 2,9 %. Daqui resulta a determinação do valor do IAS para 2009 em (euro) 419,22.
+Assim:
+Nos termos dos artigos 68.º da Lei n.º 4/2007, de 16 de Janeiro, 4.º a 6.º e 10.º da Lei n.º 53-B/2006, de 29 de Dezembro, 42.º do Decreto-Lei n.º 187/2007, de 10 de Maio, e 62.º e 96.º do Decreto-Lei n.º 248/99, de 2 de Julho:
+Manda o Governo, pelos Ministros de Estado e das Finanças e do Trabalho e da Solidariedade Social, o seguinte:
+CAPÍTULO I
+Disposições gerais
+Artigo 1.º
+Âmbito
+1 - A presente portaria procede à actualização anual do valor do indexante dos apoios sociais (IAS) e à actualização anual das pensões e de outras prestações sociais atribuídas pelo sistema de segurança social.
+2 - Excluem-se do âmbito da actualização prevista no número anterior os seguintes grupos de beneficiários:
+a) Os beneficiários da Caixa de Previdência dos Empregados do Banco de Angola, extinta pelo Decreto-Lei n.º 288/95, de 30 de Outubro, com direito aos benefícios constantes de instrumento de regulamentação colectiva de trabalho do sector bancário, excepto no que respeita a eventual parcela de pensão correspondente a carreira contributiva do regime geral de segurança social e ao complemento de pensão por cônjuge a cargo;
+b) Os beneficiários abrangidos pelos regulamentos especiais de segurança social dos trabalhadores ferroviários e do pessoal do Serviço de Transportes Colectivos do Porto, excepto no que respeita à garantia dos valores mínimos de pensão e do complemento por dependência;
+c) Outros grupos de beneficiários não abrangidos pelo Centro Nacional de Pensões.
+Artigo 2.º
+Valor do indexante dos apoios sociais
+O valor do indexante dos apoios sociais (IAS) para o ano de 2009, a que se refere o artigo 5.º da Lei n.º 53-B/2006, de 29 de Dezembro, é de (euro) 419,22.
+Artigo 3.º
+Indexação do valor mínimo das pensões ao IAS
+As percentagens de indexação ao IAS do valor mínimo das pensões e de outras prestações sociais a que faz referência o artigo 7.º da Lei n.º 53-B/2006, de 29 de Dezembro, alteradas pela Portaria n.º 9/2008, de 3 de Janeiro, em função do estabelecido no n.º 2 do artigo 11.º da referida lei, são as constantes do anexo i da presente portaria, que desta faz parte integrante.
+CAPÍTULO II
+Actualização das pensões do regime geral
+Artigo 4.º
+Actualização das pensões de invalidez e velhice
+1 - As pensões estatutárias e regulamentares de invalidez e de velhice do regime geral atribuídas anteriormente a 1 de Janeiro de 2008 são actualizadas pela aplicação das percentagens seguintes, sem prejuízo do disposto nos artigos 5.º e 6.º:
+a) 2,90 % para as pensões de montante igual ou inferior a (euro) 628,83;
+b) 2,40 % para as pensões de montante superior a (euro) 628,83 e inferior ou igual a (euro) 2515,32;
+c) 2,15 % para as pensões de montante superior a (euro) 2515,32, sem prejuízo do disposto no número seguinte.
+2 - As pensões de montante igual ou superior aos limites estabelecidos no artigo 10.º da Lei n.º 53-B/2006, de 29 de Dezembro, e no artigo 101.º do Decreto-Lei n.º 187/2007, de 10 de Maio, não são objecto de actualização.
+Artigo 5.º
+Limites mínimos de actualização
+1 - O valor da actualização das pensões referidas na alínea a) do n.º 1 do artigo anterior, cujo montante seja igual ou superior (euro) 236,47 e inferior ou igual a (euro) 628,83 não pode ser inferior a (euro) 6,85.
+2 - O valor da actualização das pensões referidas na alínea b) do n.º 1 do artigo anterior não pode ser inferior a (euro) 18,24.
+3 - O valor da actualização das pensões referidas na alínea c) do n.º 1 do artigo anterior não pode ser inferior a (euro) 60,37.
+4 - O disposto nos números anteriores não é aplicável aos beneficiários referidos na alínea a) do n.º 2 do artigo 1.º cuja actualização das pensões observe o disposto nesta portaria.
+Artigo 6.º
+Valor mínimo de pensão dos pensionistas de invalidez e de velhice
+1 - Aos pensionistas de invalidez e de velhice do regime geral com carreira contributiva relevante para a taxa de formação da pensão inferior a 15 anos é garantido um valor mínimo de pensão de (euro) 243,32.
+2 - Aos pensionistas de invalidez e de velhice do regime geral com carreira contributiva relevante para a taxa de formação da pensão igual ou superior a 15 anos são garantidos os valores mínimos de pensão constantes da tabela seguinte:
+(ver documento original)
+a) Não relevam para efeitos da parcela de pensão a que se refere a última parte da alínea a) do n.º 2 do artigo 1.º;
+b) Não são aplicáveis às pensões antecipadas atribuídas ao abrigo do regime de flexibilização da idade de pensão por velhice, previsto na alínea a) do n.º 2 do artigo 22.º do Decreto-Lei n.º 329/93, de 25 de Setembro, na redacção dada pelo Decreto-Lei n.º 9/99, de 8 de Janeiro, nem às pensões antecipadas atribuídas ao abrigo do regime de flexibilização previsto na alínea a) do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de Maio;
+c) São aplicáveis aos beneficiários abrangidos pelos regulamentos especiais de segurança social referidos na alínea b) do n.º 2 do artigo 1.º
+Artigo 7.º
+Actualização das pensões de sobrevivência
+1 - As pensões de sobrevivência do regime geral iniciadas anteriormente a 1 de Janeiro de 2008 são actualizadas por aplicação das respectivas percentagens de cálculo aos montantes das pensões de invalidez e de velhice que lhes servem de base, bem como do complemento social, sendo caso disso, segundo o valor que para ambos resulta da aplicação das regras de actualização previstas nesta portaria.
+2 - A regra de actualização definida no n.º 1 é igualmente aplicável:
+a) Às pensões de sobrevivência iniciadas a partir de 1 de Janeiro de 2008, desde que o óbito que lhes deu origem se tenha verificado em data anterior;
+b) Às pensões de sobrevivência resultantes de óbitos verificados em data anterior à do início de vigência da presente portaria e correspondentes a pensões de invalidez ou de velhice iniciadas até 31 de Dezembro de 2007.
+Artigo 8.º
+Actualização das pensões limitadas
+As pensões do regime geral limitadas por aplicação das normas reguladoras da acumulação de pensões de diferentes regimes de enquadramento obrigatório de protecção social iniciadas anteriormente a 1 de Janeiro de 2008 são actualizadas nos termos do artigo 4.º
+Artigo 9.º
+Actualização das pensões reduzidas e proporcionais
+1 - As pensões do regime geral iniciadas anteriormente a 1 de Janeiro de 2008, reduzidas ou proporcionais em consequência do recurso a períodos contributivos de outros regimes, quer por força da aplicação de normas inscritas em legislação nacional, quer por aplicação de instrumentos internacionais, são actualizadas nos termos do artigo 4.º
+2 - Na aplicação do disposto no n.º 1 às pensões não acumuladas com outras são salvaguardados, nos termos do n.º 1 do artigo 104.º do Decreto-Lei n.º 187/2007, de 10 de Maio:
+a) Para as pensões reduzidas, o valor fixado no n.º 1 do artigo 6.º;
+b) Para as pensões proporcionais atribuídas ao abrigo do artigo 39.º do Decreto-Lei n.º 329/93, de 25 de Setembro, o valor da pensão social, nos termos do n.º 2 do artigo 44.º do mesmo decreto-lei, na redacção dada pelo Decreto-Lei n.º 437/99, de 29 de Outubro;
+c) Para as pensões proporcionais atribuídas ao abrigo do disposto no artigo 39.º do Decreto-Lei n.º 187/2007, de 10 de Maio, a percentagem do valor mínimo estabelecido no artigo 6.º correspondente à fracção do período cumprido no âmbito do regime geral, nos termos do n.º 2 do artigo 44.º do mesmo decreto-lei.
+Artigo 10.º
+Actualização das pensões bonificadas
+1 - As pensões de invalidez e de velhice, calculadas ao abrigo do artigo 27.º do Decreto Regulamentar n.º 75/86, de 30 de Dezembro, que atinjam montante igual ao valor mínimo garantido aos pensionistas de invalidez e de velhice do regime geral são actualizadas para o valor estabelecido no n.º 1 do artigo 6.º
+2 - As pensões de invalidez e velhice, calculadas no âmbito do artigo 27.º do Decreto Regulamentar n.º 75/86, de 30 de Dezembro, que não atinjam montante igual ao valor mínimo garantido aos pensionistas de invalidez e de velhice do regime geral são actualizadas por aplicação do montante fixado no n.º 1 do artigo 12.º, na parte respeitante à pensão do regime especial e em 2,90 % relativamente à bonificação e a eventuais acréscimos.
+Artigo 11.º
+Actualização da pensão provisória de invalidez
+O valor das pensões provisórias de invalidez que esteja a ser concedido à data da entrada em vigor desta portaria é fixado em (euro) 187,18.
+CAPÍTULO III
+Actualização das pensões de outros regimes
+Artigo 12.º
+Actualização das pensões do regime especial das actividades agrícolas
+1 - O quantitativo mensal das pensões de invalidez e de velhice do regime especial das actividades agrícolas é fixado em (euro) 224,62.
+2 - Os valores das pensões de sobrevivência são actualizados por aplicação das respectivas percentagens de cálculo em vigor no regime geral ao quantitativo das pensões referido no n.º 1.
+Artigo 13.º
+Actualização das pensões limitadas, reduzidas e proporcionais do regime especial das actividades agrícolas
+As pensões do regime especial das actividades agrícolas limitadas por aplicação das normas reguladoras de acumulação de pensões de diferentes regimes de enquadramento obrigatório de protecção social, bem como as reduzidas e proporcionais nos termos do artigo 9.º, iniciadas anteriormente a 1 de Janeiro de 2008, são actualizadas nos termos do artigo 4.º
+Artigo 14.º
+Actualização das pensões dos antigos fundos de reforma dos pescadores
+As pensões dos antigos fundos de reforma dos pescadores são actualizadas de acordo com o disposto no artigo 4.º
+Artigo 15.º
+Actualização das pensões do regime não contributivo
+1 - O quantitativo mensal das pensões de invalidez e de velhice do regime não contributivo é fixado em (euro) 187,18.
+2 - As pensões de viuvez e de orfandade do regime não contributivo são actualizadas para o valor que resulta da aplicação das respectivas percentagens de cálculo em vigor no regime geral ao montante fixado no n.º 1.
+Artigo 16.º
+Actualização das pensões dos regimes transitórios dos trabalhadores agrícolas
+1 - O valor mensal das pensões de invalidez e de velhice dos regimes transitórios dos trabalhadores agrícolas, referidos no artigo 90.º do Decreto-Lei n.º 445/70, de 23 de Setembro, no Decreto-Lei n.º 391/72, de 13 de Outubro, e demais legislação aplicável, é fixado em (euro) 187,18.
+2 - As pensões de sobrevivência dos regimes transitórios dos trabalhadores agrícolas atribuídas, nos termos do n.º 5 do artigo 4.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, aos cônjuges sobrevivos dos respectivos pensionistas são actualizadas por aplicação da respectiva percentagem de cálculo em vigor no regime geral ao montante fixado no n.º 1.
+Artigo 17.º
+Actualização das pensões de regimes equiparados ao regime não contributivo
+O quantitativo mensal das pensões e prestações equivalentes, de nula ou reduzida base contributiva a cargo do Centro Nacional de Pensões, designadamente as respeitantes à extinta Caixa de Previdência do Pessoal da Casa Agrícola Santos Jorge, à Associação de Socorros Mútuos na Inabilidade, à extinta Caixa de Previdência da Marinha Mercante Nacional (antigas associações), ao extinto Grémio dos Industriais de Fósforos, à extinta Caixa de Previdência da Câmara dos Despachantes Oficiais, não abrangidos pelo despacho n.º 40/SESS/91, de 24 de Abril, bem como às pensões atribuídas por aplicação dos regulamentos especiais da Caixa de Previdência dos Profissionais de Espectáculos, é fixado em (euro) 187,18, sem prejuízo de valores superiores em curso.
+Artigo 18.º
+Actualização dos subsídios complementares
+Os subsídios complementares atribuídos ao abrigo do disposto no artigo 3.º do Decreto-Lei n.º 44 506, de 10 de Agosto de 1962 (ex-Fundo de Desenvolvimento da Mão-de-Obra), são actualizados para o valor resultante da aplicação de 2,90 % ao respectivo quantitativo mensal.
+CAPÍTULO IV
+Actualização da parcela contributiva das pensões para efeito de cúmulo
+Artigo 19.º
+Actualização da parcela contributiva
+A tabela inserta na Portaria n.º 9/2008, de 3 de Janeiro, publicada em cumprimento do disposto na alínea d) do artigo 2.º do Decreto-Lei n.º 141/91, de 10 de Abril, é substituída e actualizada nos termos da tabela de coeficientes que consta do anexo ii da presente portaria, que desta faz parte integrante.
+CAPÍTULO V
+Actualização dos montantes adicionais e prestações complementares
+Artigo 20.º
+Montantes adicionais das pensões
+Os montantes adicionais das pensões atribuídos nos meses de Julho e de Dezembro são de valor igual ao que resultar, para as respectivas prestações, da actualização estabelecida na presente portaria.
+Artigo 21.º
+Complemento por dependência
+1 - O quantitativo mensal do complemento por dependência dos pensionistas de invalidez, de velhice e de sobrevivência do regime geral de segurança social é fixado em (euro) 93,60 nas situações de 1.º grau e em (euro) 168,47 nas situações de 2.º grau.
+2 - O quantitativo mensal do complemento por dependência dos pensionistas de invalidez, de velhice e de sobrevivência do regime especial das actividades agrícolas, do regime não contributivo e regimes equiparados é fixado em (euro) 84,23 nas situações de 1.º grau e em (euro) 159,10 nas situações de 2.º grau.
+Artigo 22.º
+Complemento de pensão por cônjuge a cargo
+O valor mensal do complemento de pensão por cônjuge a cargo é fixado em (euro) 36,35, sem prejuízo de valores superiores que estejam a ser atribuídos.
+Artigo 23.º
+Complemento extraordinário de solidariedade
+O valor do complemento extraordinário de solidariedade atribuído ao abrigo do Decreto-Lei n.º 208/2001, de 27 de Julho, é de (euro) 17,32 para os titulares de prestações com menos de 70 anos e de (euro) 34,63 para os que tenham ou venham a completar 70 anos.
+CAPÍTULO VI
+Pensões resultantes de doenças profissionais
+Artigo 24.º
+Actualização das pensões resultantes de doença profissional
+1 - As pensões por incapacidade permanente para o trabalho e as pensões por morte e por doença profissional atribuídas anteriormente a 1 de Janeiro de 2009, quer ao abrigo da Portaria n.º 642/83, de 1 de Junho, quer ao abrigo do Decreto-Lei n.º 248/99, de 2 de Julho, são actualizadas para o valor resultante da aplicação, ao respectivo quantitativo mensal, das percentagens de aumento seguintes:
+a) 2,90 % para as pensões calculadas com base em remuneração real ou de referência igual ou inferior a (euro) 419,22;
+b) 2,40 % para as pensões calculadas com base em remuneração real ou de referência superior a (euro) 419,22.
+2 - Para o mesmo grau de incapacidade, o aumento das pensões a que se refere a alínea b) do número anterior não pode ser inferior ao aumento máximo de actualização decorrente da aplicação da alínea a).
+Artigo 25.º
+Pensões unificadas
+As pensões unificadas atribuídas ao abrigo da Portaria n.º 642/83, de 1 de Junho, são actualizadas nos termos da alínea b) do n.º 1 do artigo anterior, no que respeita à parcela do regime geral e com observância das regras estabelecidas nos n.os 1 e 2 do mesmo artigo, no que respeita às restantes parcelas que as compõem.
+CAPÍTULO VII
+Disposições finais
+Artigo 26.º
+Produção de efeitos
+O presente diploma produz efeitos a partir de 1 de Janeiro de 2009.
+Artigo 27.º
+Revogação
+É revogada a Portaria n.º 9/2008, de 3 de Janeiro.
+Em 11 de Dezembro de 2008.
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.
+ANEXO I
+Indexação ao IAS das pensões e de outras prestações sociais
+(a que se refere o artigo 3.º)
+(ver documento original)
+ANEXO II
+Coeficientes de actualização de pensões para efeitos de cúmulo
+(a que se refere o artigo 19.º)
+(ver documento original)
