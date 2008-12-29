@@ -1,0 +1,464 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11882",
+  "numero": "547",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2008-12-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2009-01-14",
+            "entidades": null,
+            "id": "85592",
+            "tipo": null,
+            "titulo": "Audição em 2009-01-14 com Biólogo e Presidente da Associação Acção Animal, Dr. Hugo Pereira Evangelista, Presidente da Liga Portuguesa dos Direitos do Animal, D. Maria do Céu Sampaio, Sras.Catarina Prada e Margarida Faísca da Associação Acção Animal, Veterinária Municipal da Câmara Munucipal de Sintra, Drª Alexandra Pereira"
+          },
+          {
+            "data": "2009-01-27",
+            "entidades": null,
+            "id": "85699",
+            "tipo": null,
+            "titulo": "Audição em 2009-01-27 com Carlos Carvalho, Miguel Chen, Rui Mariani, Walter Dias, Joaquim Cardinali, Victor Hugo Cardinali e Filomena Cardinali"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-03-18",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2009-01-07",
+        "DataArquivo": "2009-03-18",
+        "DataBaixaComissao": "2009-01-07",
+        "DataEnvioPAR": "2009-03-18",
+        "DataReaberta": "2009-01-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2008-12-29",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d6b4e4655304e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764e7a526c5954646c4e7a45744f474a684d7930304e324e6b4c574a6a596d55745a445133593245794e6a6b325a544e694c6e426b5a673d3d&fich=74ea7e71-8ba3-47cd-bcbe-d47ca2696e3b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2008-12-29",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d6b4e4655304e7762334e53515649765247396a6457316c626e52766331426c64476c6a595738764d7a45355a6a63794e6a6b744f475a69596930304e5467354c546c694d4745745a47517a4d7a526b596d497a5a6d59314c6e426b5a673d3d&fich=319f7269-8fbb-4589-9b0a-dd334dbb3ff5.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1914",
+        "Legislatura": "X",
+        "Nome": "Comissão de Ética, Sociedade e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2009-01-07",
+            "gp": "PSD",
+            "id": "2160",
+            "motivoCessacao": null,
+            "nome": "Nuno da Câmara Pereira"
+          }
+        ],
+        "RelatorioFinal": [
+          "22549"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2009-05-07",
+    "Documentos": [
+      {
+        "DataDocumento": "2008-12-29",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a5a57497a4f44597a4d43316c596a55784c5451344f5749744f5751334e5330784d6a51344d445933593259334d7a6b756347526d&fich=ceb38630-eb51-489b-9d75-1248067cf739.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "34345",
+      "34507",
+      "34512",
+      "34345"
+    ],
+    "Iniciativasoriginadas": [
+      "34345",
+      "34507",
+      "34512"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2009-05-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172541",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-05-08",
+                "pubLeg": "X",
+                "pubNr": "77",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/077/2009-05-08/36?pgs=36&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a proibição da utilização de animais selvagens em circos; Reforça a protecção dos animais utilizados em circos; Proibição de animais em circos; Solicitam aprovação de legislação proibindo a comercialização, manutenção e apresentação de animais em circos ou outros espectáculos circenses em território nacional.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-05-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172542",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-05-08",
+                "pubLeg": "X",
+                "pubNr": "77",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/077/2009-05-08/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a proibição da utilização de animais selvagens em circos; Reforça a protecção dos animais utilizados em circos; Proibição de animais em circos; Solicitam aprovação de legislação proibindo a comercialização, manutenção e apresentação de animais em circos ou outros espectáculos circenses em território nacional.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-05-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172543",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-05-08",
+                "pubLeg": "X",
+                "pubNr": "77",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/077/2009-05-08/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a proibição da utilização de animais selvagens em circos; Reforça a protecção dos animais utilizados em circos; Proibição de animais em circos; Solicitam aprovação de legislação proibindo a comercialização, manutenção e apresentação de animais em circos ou outros espectáculos circenses em território nacional.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-05-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172544",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-05-08",
+                "pubLeg": "X",
+                "pubNr": "77",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/077/2009-05-08/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a proibição da utilização de animais selvagens em circos; Reforça a protecção dos animais utilizados em circos; Proibição de animais em circos; Solicitam aprovação de legislação proibindo a comercialização, manutenção e apresentação de animais em circos ou outros espectáculos circenses em território nacional.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-05-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172545",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-05-08",
+                "pubLeg": "X",
+                "pubNr": "77",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/077/2009-05-08/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a proibição da utilização de animais selvagens em circos; Reforça a protecção dos animais utilizados em circos; Proibição de animais em circos; Solicitam aprovação de legislação proibindo a comercialização, manutenção e apresentação de animais em circos ou outros espectáculos circenses em território nacional.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-05-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "172546",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-05-08",
+                "pubLeg": "X",
+                "pubNr": "77",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/077/2009-05-08/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a proibição da utilização de animais selvagens em circos; Reforça a protecção dos animais utilizados em circos; Proibição de animais em circos; Solicitam aprovação de legislação proibindo a comercialização, manutenção e apresentação de animais em circos ou outros espectáculos circenses em território nacional.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11882",
+    "PetAssunto": "Solicitam aprovação de legislação proibindo a comercialização, manutenção e apresentação de animais em circos ou outros espectáculos circenses em território nacional.",
+    "PetDataEntrada": "2008-12-29",
+    "PeticoesAssociadas": null,
+    "PetId": "11882",
+    "PetLeg": "X",
+    "PetNr": "547",
+    "PetNrAssinaturas": "5129",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1321",
+        "obs": null,
+        "pag": [
+          "36-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-05-08",
+        "pubLeg": "X",
+        "pubNr": "77",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/077/2009-05-08/36?pgs=36-41&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "451053",
+        "obs": null,
+        "pag": [
+          "10-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-01-10",
+        "pubLeg": "X",
+        "pubNr": "49",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/049/2009-01-10/10?pgs=10&org=PLC"
+      }
+    ]
+  }
+}
