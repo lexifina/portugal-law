@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Actos de registo
+
 # Artigo 53.º-A
 
 ### Formas de registo
@@ -6,11 +10,9 @@
 
 2 - O registo por transcrição consiste na extractação dos elementos que definem a situação jurídica das entidades sujeitas a registo constantes dos documentos apresentados.
 
-3 - O registo por depósito consiste no mero arquivamento dos documentos que titulam factos sujeitos a registo.
+3 - Sem prejuízo dos regimes especiais de depósito da prestação de contas, o registo por depósito consiste no mero arquivamento dos documentos que titulam factos sujeitos a registo.
 
-3 - Sem prejuízo dos regimes especiais de depósito de factos respeitantes a quotas e partes sociais e respectivos titulares e de prestação de contas, o registo por depósito consiste no mero arquivamento dos documentos que titulam factos sujeitos a registo.
-
-4 - Salvo no que respeita ao registo de acções e outras providências judiciais, o registo de factos respeitantes a quotas e partes sociais e respectivos titulares consiste apenas na menção do facto na ficha, efectuada com base no pedido.
+4 - (Revogado.)
 
 5 - São registados por depósito:
 

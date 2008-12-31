@@ -16,6 +16,6 @@ e) Quando o registo já tiver sido lavrado como provisório por dúvidas e estas
 
 f) (Revogada.)
 
-g) Quando, tendo a apresentação sido efectuada por telecópia, não derem entrada na conservatória, nos cinco dias úteis imediatos ao da apresentação, as fotocópias e documentos necessários ao registo.
+g) (Revogada.)
 
 2 - Além dos casos previstos no número anterior, o registo só pode ser recusado se, por falta de elementos ou pela natureza do acto, não puder ser feito como provisório por dúvidas.

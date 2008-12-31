@@ -11,3 +11,5 @@
 4 - Os documentos arquivados nos serviços da Administração Pública podem ser utilizados para a realização de registos por transcrição, devendo tais documentos ser referenciados no pedido.
 
 5 - Para efeitos do disposto no número anterior, o serviço de registo é reembolsado pelo apresentante das despesas resultantes dos pagamentos devidos às entidades referidas no número anterior.
+
+6 - Sem prejuízo da competência para certificação de fotocópias atribuída por lei a outras entidades, para efeitos de registo comercial online de actos sobre sociedades comerciais ou civis sob forma comercial os respectivos gerentes, administradores e secretários podem, quando os promovam, certificar a conformidade dos documentos electrónicos por si entregues, através do sítio na Internet, com os documentos originais, em suporte de papel.
