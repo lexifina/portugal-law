@@ -36,4 +36,4 @@ p) Em geral, todos os factos jurídicos que modifiquem os elementos de identific
 
 2 - A perfilhação dependente de assentimento só é averbada quando este for prestado.
 
-3 - Os factos referidos na alínea h) do n.º 1 são averbados aos assentos de nascimento dos filhos.
+3 - Os factos referidos na alínea f) do n.º 1 são averbados aos assentos de nascimento dos filhos.
