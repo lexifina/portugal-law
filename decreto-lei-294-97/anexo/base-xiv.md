@@ -10,7 +10,7 @@
 
 3 - A relação entre as tarifas da classe 1 e da classe 4 será, no máximo, de 1 para 2,5.
 
-4 - Sob proposta da concessionária e mediante parecer da Junta Autónoma de Estradas, poderão ser autorizadas em determinados lanços, por despacho conjunto do Ministro das Finanças e do ministro da tutela do sector rodoviário:
+4 - Sob proposta da concessionária e mediante parecer do InIR - Instituto de Infra-Estruturas Rodoviárias, I. P., podem ser autorizadas em determinados lanços, por despacho conjunto do ministro responsável pela área das finanças e do ministro responsável pelo sector das infra-estruturas rodoviárias:
 
 a) A aplicação de esquemas classificativos diferentes do previsto no n.º 1 desta base, desde que tal seja justificado pela especificidade da estrutura de tráfego desses lanços;
 

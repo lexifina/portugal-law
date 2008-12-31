@@ -8,7 +8,7 @@
 
 a) Capital da concessionária;
 
-b) Comparticipações financeiras do Estado, a efectuar nos termos das bases XI e XXVII do presente contrato;
+b) Comparticipações financeiras do Estado, a efectuar nos termos da base xxvii das presentes bases;
 
 c) Empréstimos e créditos bancários, a obter nos mercados interno e externo;
 

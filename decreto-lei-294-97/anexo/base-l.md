@@ -2,7 +2,7 @@
 
 ### Relatórios e informações
 
-1 - A concessionária remeterá ao ministro da tutela do sector rodoviário, no prazo de 30 dias após a aprovação do relatório anual de gestão, um relatório respeitante ao ano anterior, no qual será prestada informação circunstanciada sobre os estudos e trabalhos de construção, conservação e exploração das auto-estradas que constituem o objecto da concessão, bem como os planos e elementos previsionais relativos aos dois anos seguintes.
+1 - A concessionária remete ao InIR - Instituto de Infra-Estruturas Rodoviárias, I. P., no prazo de 30 dias após a aprovação do relatório anual de gestão, um relatório respeitante ao ano anterior, no qual é prestada informação circunstanciada sobre os estudos e trabalhos de construção, conservação e exploração das auto-estradas que constituem o objecto da concessão, bem como os planos e elementos previsionais relativos aos dois anos seguintes.
 
 2 - A concessionária remeterá ao Ministro das Finanças:
 
@@ -16,4 +16,4 @@ d) Quaisquer outros elementos ou estudos complementares dos referidos nas alíne
 
 3 - O Estado reserva-se o direito de solicitar à concessionária todas as informações adicionais que considerar necessárias para o seu completo esclarecimento.
 
-4 - Poderá ser nomeado um delegado do Governo junto da concessionária, a quem deverão ser prestadas todas as informações constantes desta e de outras bases.
+4 - (Revogado.)

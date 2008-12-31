@@ -2,7 +2,7 @@
 
 ### Isenções de portagem
 
-1 - Estarão isentos de portagem:
+1 - Estão isentos de portagem:
 
 a) Veículos afectos às seguintes entidades:
 
@@ -30,10 +30,10 @@ d) Veículos militares ou das forças de segurança, quando em coluna;
 
 e) Veículos da concessionária, bem como os que possam considerar-se no âmbito da sua actividade ou em serviço;
 
-f) Veículos afectos à Junta Autónoma de Estradas e à Inspecção-Geral de Finanças, no âmbito da sua função de fiscalização.
+f) Veículos afectos ao InIR - Instituto de Infra-Estruturas Rodoviárias, I. P., e à Inspecção-Geral de Finanças, no âmbito da sua função de fiscalização.
 
 2 - Os veículos a que se refere o número anterior, com excepção dos indicados nas alíneas c) e d), deverão circular munidos dos respectivos títulos de isenção, a requerer à concessionária e a emitir por esta.
 
 3 - Os títulos de isenção terão um período de validade de dois anos, renovável.
 
-4 - A concessionária não poderá conceder isenções de portagem para além das estabelecidas no n.º 1, a não ser por motivos inerentes ao serviço próprio das auto-estradas e mediante autorização prévia da Junta Autónoma das Estradas.
+4 - A concessionária pode propor ao concedente que este atribua isenções de portagem para além das estabelecidas no n.º 1, por motivos inerentes ao serviço próprio das auto-estradas.

@@ -6,37 +6,37 @@
 
 1 - A concessão tem por objecto a construção, conservação e exploração, em regime de portagem, das seguintes auto-estradas:
 
-a) A 1/IP 1 - Auto-Estrada do Norte - desde Vila Franca de Xira até Carvalhos, com a extensão de 266,8 km;
+a) A 1/IP 1 - Auto-Estrada do Norte - desde Vila Franca de Xira até Carvalhos, com a extensão de 266,9 km;
 
-b) A 2/IP 1 - Auto-Estrada do Sul - desde Fogueteiro até à via longitudinal do Algarve, com a extensão de 230,5 km;
+b) A 2/IP 1 - Auto-Estrada do Sul - desde Fogueteiro até à via longitudinal do Algarve, com a extensão de 225,8 km;
 
-c) A 3/IP 1 - auto-estrada Porto-Valença - desde o nó da Maia até Valença, com a extensão de 98,2 km;
+c) A 3/IP 1 - auto-estrada Porto-Valença desde o nó da Maia até Valença, com a extensão de 98,1 km;
 
 d) A 4/IP 4 - auto-estrada Porto-Amarante desde o nó de Ermesinde até Amarante, com a extensão de 48,3 km;
 
-e) A 5/IC 15 - Auto-Estrada da Costa do Estoril - desde o nó do Estádio Nacional até Cascais, com a extensão de 16,7 km;
+e) A 5/IC 15 - auto-estrada da Costa do Estoril - desde o nó do Estádio Nacional até Cascais, com a extensão de 16,9 km;
 
-f) A 6/IP 7 - auto-estrada Marateca (A 2)-Caia - desde a A 2 até Elvas, com a extensão de 138,9 km;
+f) A 6/IP 7 - auto-estrada Marateca (A 2)-Caia - desde a A 2 até Elvas, com a extensão de 138,8 km;
 
-g) A 7/IC 5 - auto-estrada Famalicão-Guimarães, com a extensão de 20,9 km;
+g) (Revogada.)
 
-h) A 8/IC 1 - Auto-Estrada do Oeste desde Malveira até Torres Vedras, com a extensão de 17,6 km;
+h) (Revogada.)
 
-i) A 10/IC 2 - auto-estrada Bucelas (CREL)-Carregado - IC 3, com a extensão de 33,6 km;
+i) A 10/IC 2 - auto-estrada Bucelas (CREL)-Carregado-IC 3, com a extensão de 39,8 km;
 
-j) A 12/IC 3 - auto-estrada que liga Setúbal ao Montijo, com a extensão de 24,2 km;
+j) A 12/IC 3 - auto-estrada que liga Setúbal ao Montijo, com a extensão de 24,8 km;
 
-l) A 13/IC 3/IC 11 - auto-estrada entre Almeirim e Marateca, com a extensão de 87 km;
+l) A 13/IC 3/IC 11 - auto-estrada entre Almeirim e Marateca, com a extensão de 78,7 km;
 
-m) A 14/IP 3 - auto-estrada entre Santa Eulália e Coimbra (Norte), com a extensão de 33 km;
+m) A 14/IP 3 - auto-estrada entre Santa Eulália e Coimbra (Norte), com a extensão de 39,9 km;
 
-n) Ligação ao novo aeroporto, cuja extensão dependerá da respectiva localização.
+n) Ligação ao novo aeroporto de Lisboa, cuja extensão dependerá da respectiva localização;
 
 o) A 9/IC 18 - CREL - Circular Exterior de Lisboa, desde o Estádio Nacional (A 5) até Alverca, com a extensão de 34,4 km.
 
-2 - Integram também o objecto da concessão para efeitos de conservação e exploração, as seguintes auto-estradas:
+2 - Integram também o objecto da concessão, para efeitos de conservação e exploração, as seguintes auto-estradas e vias de ligação:
 
-a) Construídas pelo Estado e ficando sujeitas ao regime de portagem, que reverterá para a concessionária:
+a) Construída pelo Estado e ficando também sujeita ao regime de portagem, que constitui receita da concessionária:
 
 Auto-Estrada do Norte: lanço Alverca-Vila Franca de Xira, com a extensão de 10,9 km;
 
@@ -44,25 +44,47 @@ Auto-Estrada do Oeste: lanço Loures-Malveira, com a extensão de 11,7 km, nos t
 
 b) Construídas pelo Estado e sem ficarem sujeitas a portagens:
 
-Auto-Estrada do Norte: lanço Carvalhos-Santo Ovídio, com a extensão de 4,4 km, e lanço Lisboa-Alverca, com a extensão de 13 km;
+Auto-Estrada do Norte - lanço Carvalhos-Santo Ovídio, com a extensão de 4,4 km, e lanço Lisboa-Alverca, com a extensão de 13 km;
 
-Auto-Estrada do Sul: lanço entre o extremo sul do nó da via rápida para a Costa da Caparica e o nó do Fogueteiro, com 9 km de extensão;
+Auto-Estrada do Sul - lanço entre o extremo sul do nó da via rápida para a Costa da Caparica e o nó do Fogueteiro, com 9 km de extensão;
 
-Auto-Estrada da Costa do Estoril: lanço Lisboa-Estádio Nacional, excluindo o Viaduto de Duarte Pacheco, com 8 km de extensão;
+Auto-estrada da Costa do Estoril - lanço Lisboa-Estádio Nacional, excluindo o Viaduto de Duarte Pacheco, com 8,1 km de extensão;
 
-Auto-estrada Figueira da Foz-Coimbra (Norte): lanço Figueira da Foz-Santa Eulália, com 12 km de extensão;
+Auto-estrada Figueira da Foz-Coimbra (Norte) - lanço Figueira da Foz-Santa Eulália, com 12 km de extensão;
 
-Auto-estrada Marateca-Caia: lanço Elvas-Caia, com a extensão de 19,1 km;
+Auto-estrada Marateca-Caia - lanço Elvas-Caia, com a extensão de 19,1 km;
 
-c) Construídas pela concessionária e sem ficarem sujeitas ao pagamento de taxas de portagem:
+c) Construídas pela concessionária e ficando sujeitas ao regime de portagem, a cobrar pela concessionária, ainda que constituindo receita da EP - Estradas de Portugal, S. A., apenas a partir da data de entrada em serviço dos respectivos aumentos de vias e de determinação expressa do concedente:
 
-Auto-Estrada Porto-Valença: sublanço Porto-Maia, com a extensão de 8,3 km;
+Auto-estrada Porto-Valença - sublanço Águas Santas-Maia, na extensão de 5,3 km;
 
-Auto-Estrada Porto (Águas Santas)-Amarante: entre Águas Santas e o nó de Ermesinde, com a extensão de 3 km.
+Auto-estrada Águas Santas-Amarante - entre Águas Santas e o nó de Ermesinde, com a extensão de 3 km;
 
-d) Construídas pela concessionária e ficando sujeitas ao regime de portagem previsto nos n.os 10-A a 10-C da base XI:
+d) Construída pela concessionária e sem ficar sujeita a portagens:
 
-Ligação do nó de Braga Sul à circular sul de Braga, com a extensão de 5 km.
+Auto-estrada Porto-Valença:
+
+Sublanço Porto (VCI)/EN 12, na extensão de 1 km;
+
+Sublanço EN 12-Águas Santas, na extensão de 2,1 km;
+
+Circular Sul de Braga e sua ligação à A 3 - compreendendo uma extensão total de 3,1 km situados entre esta e a EN 101, a EN 309 e o nó com a EN 14;
+
+e) Construídas pela concessionária e ficando sujeitas ao regime de portagem, que constitui igualmente receita da concessionária:
+
+Auto-estrada Porto-Valença:
+
+Braga Sul-Celeirós, com a extensão de 2,2 km;
+
+Celeirós-EN 14, com a extensão de 1 km;
+
+Auto-estrada Setúbal-Montijo:
+
+Ligação do Alto da Guerra, na N 10, à A 12, com a extensão de 4,3 km;
+
+Ligação à plataforma logística Lisboa (Norte);
+
+Ligação à plataforma logística do Poceirão.
 
 3 - As auto-estradas indicadas nos precedentes n.os 1 e 2 consideram-se divididas nos lanços e sublanços referidos no quadro constante do n.º 1 da base VII.
 
@@ -82,6 +104,4 @@ b) Enquanto não estiver prevista a construção do lanço ou sublanço que lhe 
 
 7 - Os traçados de cada um dos lanços ou sublanços, bem como os respectivos nós e ramais de ligação, serão os que figurarem nos projectos aprovados.
 
-8 - O valor das taxas de portagem aplicado na A 7 - Auto-Estrada Famalicão-Guimarães, que respeitem a percursos que incluam a utilização do sublanço Porto-Maia, será deduzido do valor correspondente a este.
-
-9 - (Eliminado.)
+8 - (Revogado.)
