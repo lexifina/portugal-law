@@ -20,4 +20,4 @@ g) A existência de convenção antenupcial, quando desta for feita prova após 
 
 h) As alterações ao regime de bens convencionado ou legalmente fixado.
 
-2 - O averbamento dos factos previstos nas alíneas a) a d) e f) do número anterior deve preceder a dos correspondentes averbamentos aos assentos de nascimento dos cônjuges.
+2 - (Revogado).

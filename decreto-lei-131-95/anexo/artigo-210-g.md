@@ -1,9 +1,13 @@
 # Artigo 210.º-G
 
-### Procedimento de habilitação de herdeiros e registos
+### Procedimento de habilitação de herdeiros com ou sem registos
 
-1 - O procedimento de habilitação de herdeiros e registos só é realizado quando os interessados não pretendem proceder imediatamente à partilha, nos termos do artigo anterior.
+1 - Os procedimentos de habilitação de herdeiros com ou sem registos só são realizados quando os interessados não pretendam proceder imediatamente à partilha, nos termos do artigo anterior.
 
-2 - No âmbito do procedimento de habilitação de herdeiros e registos, o serviço de registo procede aos actos referidos no n.º 1 do artigo anterior, com as necessárias adaptações.
+2 - No âmbito dos procedimentos de habilitação de herdeiros com ou sem registos, o serviço de registo procede aos actos referidos no n.º 1 do artigo anterior, com as necessárias adaptações.
 
-3 - O registo dos bens imóveis, ou móveis ou participações sociais sujeitos a registo integrados na herança indivisa só é efectuado a pedido do cabeça-de-casal.
+3 - Os interessados podem recorrer aos procedimentos de habilitação de herdeiros com ou sem registos ainda que já tenham procedido à participação referida na alínea c) do n.º 1 do artigo anterior.
+
+4 - No caso do procedimento de habilitação de herdeiros sem registos, os interessados podem optar por não proceder à participação referida na alínea c) do n.º 1 do artigo anterior.
+
+5 - (Revogado).

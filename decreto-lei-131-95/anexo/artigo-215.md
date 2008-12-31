@@ -2,7 +2,7 @@
 
 ### Requisição e emissão das certidões
 
-1 - As certidões são requisitadas verbalmente, salvo nos casos em que sejam requisitadas pelo correio, em qualquer conservatória do registo civil.
+1 - As certidões podem ser requisitadas verbalmente ou pelo correio em qualquer conservatória do registo civil ou através de transmissão electrónica de dados.
 
 2 - A requisição de certidão pode ser entregue na conservatória ou enviada pelo correio ou ainda por via electrónica, nos termos previstos em diploma próprio.
 
