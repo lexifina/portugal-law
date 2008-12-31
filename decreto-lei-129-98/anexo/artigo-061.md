@@ -1,11 +1,13 @@
 # Artigo 61.º
 
-### Perda do direito ao uso de firmas e denominações por requerimento
+### Perda do direito ao uso de firmas e denominações por falta de inscrição ou não exercício de actividade
 
-1 - Qualquer interessado pode requerer ao RNPC a declaração de perda do direito ao uso de firma ou denominação de terceiro, mediante prova da verificação das seguintes situações:
+1 - O RNPC ou qualquer um dos serviços de registo designados nos termos do n.º 1 do artigo 78.º podem, oficiosamente ou a requerimento de qualquer interessado, declarar a perda do direito ao uso de firma ou denominação de terceiro, mediante prova da verificação das seguintes situações:
 
-a) Falta de inscrição da firma ou denominação no FCPC pelo seu titular, directamente ou por intermédio da conservatória competente, consoante os casos, decorrido um ano sobre o prazo em que o deveria ter feito;
+a) Falta de inscrição da entidade no FCPC decorrido um ano desde o prazo em que a mesma deveria ter sido realizada;
 
 b) Não exercício de actividade pelo titular da firma ou denominação durante um período de dois anos consecutivos.
 
-2 - No caso previsto na alínea a) do número anterior, o RNPC pode declarar a perda do direito ao uso da firma ou denominação e promover o cancelamento dos correspondentes registos, desde que os interessados tenham sido notificados para a sede declarada ao RNPC a fim de regularizarem a situação e o não fizerem no prazo de três meses, a contar da notificação.
+2 - No caso previsto na alínea a) do número anterior, pode ser declarada a perda do direito ao uso da firma ou denominação, desde que os interessados tenham sido notificados para a sede declarada a fim de regularizarem a situação e o não fizerem no prazo de um mês, a contar da notificação.
+
+3 - À declaração de perda do direito ao uso de firma ou denominação prevista no número anterior é aplicável o disposto no n.º 2 do artigo 60.º

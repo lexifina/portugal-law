@@ -2,10 +2,10 @@
 
 ### Recusa do registo
 
-O registo deve ser recusado quando:
+O registo comercial ou a inscrição no FCPC, consoante os casos, é recusado quando:
 
-a) A escritura pública for nula;
+a) O acto for nulo;
 
 b) O certificado de admissibilidade tiver sido emitido com manifesta violação da lei;
 
-c) No instrumento destinado à constituição ou modificação da pessoa colectiva tiverem sido desrespeitadas as condições de validade constantes do certificado de admissibilidade.
+c) No acto destinado à constituição ou modificação da pessoa colectiva tiverem sido desrespeitados os elementos ou as condições de validade constantes do certificado de admissibilidade.

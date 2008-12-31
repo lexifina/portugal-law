@@ -2,4 +2,4 @@
 
 ### Impressos
 
-Os impressos próprios referidos no presente diploma constituem exclusivo da Direcção-Geral dos Registos e do Notariado e são aprovados por despacho do Ministro da Justiça.
+Os formulários próprios referidos no presente diploma constituem exclusivo do IRN, I. P., e são aprovados por despacho do seu presidente.

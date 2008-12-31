@@ -12,8 +12,10 @@ c) Alteração do objecto ou do capital;
 
 d) Alteração da localização da sede ou do endereço postal, incluindo a transferência da sede de e para Portugal;
 
-e) Fusão, cisão ou transformação;
+e) A alteração do código de actividade económica (CAE);
 
-f) Cessação de actividade;
+f) Fusão, cisão ou transformação;
 
-g) Dissolução, encerramento da liquidação ou regresso à actividade.
+g) Cessação de actividade;
+
+h) Dissolução, encerramento da liquidação ou regresso à actividade.

@@ -12,4 +12,6 @@ c) Alteração da localização da sede ou do endereço postal;
 
 d) Alteração do objecto ou do capital;
 
-e) Cessação de actividade, entrada em liquidação e encerramento da liquidação.
+e) A alteração do código de actividade económica (CAE);
+
+f) Cessação de actividade, entrada em liquidação e encerramento da liquidação.

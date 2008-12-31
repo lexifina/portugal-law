@@ -14,7 +14,7 @@
 
 2 - Os elementos característicos das firmas e denominações, ainda quando constituídos por designações de fantasia, siglas ou composições, não podem sugerir actividade diferente da que constitui o objecto social.
 
-3 - Ao RNPC não compete o controlo da legalidade do objecto social, devendo somente assegurar o cumprimento do disposto nos números anteriores.
+3 - Para efeitos do disposto neste artigo não deve ser efectuado o controlo da legalidade do objecto social, devendo somente ser assegurado o cumprimento do disposto nos números anteriores.
 
 4 - Das firmas e denominações não podem fazer parte:
 

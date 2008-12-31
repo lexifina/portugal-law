@@ -10,8 +10,8 @@
 
 4 - A incorporação na firma ou denominação de sinais distintivos registados está sujeita à prova do seu uso legítimo.
 
-5 - Nos juízos a que se refere o n.º 2 deve ser ainda considerada a existência de nomes de estabelecimentos, insígnias ou marcas de tal forma semelhantes que possam induzir em erro sobre a titularidade desses sinais distintivos.
+5 - Nos juízos a que se refere o n.º 2 deve ainda ser considerada a existência de marcas e logótipos já concedidos que sejam de tal forma semelhantes que possam induzir em erro sobre a titularidade desses sinais distintivos.
 
-6 - Para que possam prevalecer-se do disposto no número anterior, os titulares de nomes de estabelecimento, insígnias ou marcas devem ter efectuado anteriormente prova do seu direito junto do RNPC.
+6 - Para que possam prevalecer do disposto no número anterior, os titulares das marcas ou logótipos devem ter efectuado anteriormente prova do seu direito junto do RNPC.
 
-7 - Sempre que tal contribua para melhor distinção entre as firmas ou denominações de duas pessoas colectivas de tipo diferente, das quais faça parte algum elemento comum, pode o RNPC, oficiosamente ou a requerimento de qualquer das interessadas, determinar que ambas, ou alguma delas, usem por extenso o aditamento que legalmente as caracterize.
+7 - (Revogado).

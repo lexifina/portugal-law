@@ -1,10 +1,10 @@
 # Artigo 56.º
 
-### Efeitos do certificado nos actos de registo
+### Obrigatoriedade de verificação da emissão de certificado
 
-1 - Está sujeito à exibição de certificado de admissibilidade da respectiva firma ou denominação o registo definitivo:
+1 - Está sujeita à verificação da disponibilização de certificado de admissibilidade da respectiva firma ou denominação o registo comercial ou a inscrição no FCPC, consoante os casos:
 
-a) Do início de actividade de comerciante individual que adopte firma diferente do seu nome completo ou abreviado, bem como da alteração desta firma ou da mudança de residência para outro concelho;
+a) Do início de actividade de comerciante individual que adopte firma diferente do seu nome completo ou abreviado, bem como da alteração desta firma ou da mudança de estabelecimento principal para outro concelho;
 
 b) De contrato de sociedade da alteração da respectiva firma ou objecto, da mudança de sede para concelho diferente, sem prejuízo do disposto no n.º 3 do artigo 54.º, ou da fusão, cisão ou transformação de sociedades;
 
@@ -20,6 +20,12 @@ g) Da denominação de empresário individual não comerciante, da sua alteraç�
 
 h) Da constituição de associação ou instituição de fundação com personalidade jurídica, bem como da alteração da denominação, do objecto estatutário ou da transferência da sede para outro concelho.
 
-2 - O disposto no número anterior não é aplicável à alteração da denominação decorrente de transformação que se restrinja à alteração do elemento que identifica o tipo de pessoa colectiva.
+i) Da criação pelo Estado e outros entes públicos de pessoas colectivas e de organismos da Administração Pública que incorporem na sua denominação siglas, expressões de fantasia ou composições.
 
-3 - O certificado a que se refere o n.º 1 deve estar dentro do prazo de validade à data da apresentação do pedido de registo, salvo se este tiver sido precedido da celebração, há menos de três meses, de escritura pública, instrumento notarial ou outro título.
+2 - O disposto no número anterior não é aplicável:
+
+a) À alteração da denominação decorrente de transformação que se restrinja à alteração do elemento que identifica o tipo de pessoa colectiva;
+
+b) À fusão por incorporação que não implique alteração de denominação, sede ou objecto.
+
+3 - O certificado a que se refere o n.º 1 deve estar dentro do seu prazo de validade à data de apresentação do pedido de registo comercial ou de inscrição no FCPC.

@@ -24,8 +24,12 @@ e) Organismos e serviços da Administração Pública, não personalizados, que 
 
 f) Estabelecimentos individuais de responsabilidade limitada;
 
-g) Comerciantes individuais e heranças indivisas, quando o autor da sucessão fosse comerciante individual.
+g) Comerciantes individuais;
 
-2 - O FCPC pode ainda, enquanto for necessário para efeitos fiscais, incluir informação respeitante a empresários individuais que exerçam actividade económica legalmente não qualificada como profissão liberal, a heranças indivisas quando o autor da sucessão fosse empresário individual e a quaisquer sujeitos passivos da relação jurídica tributária não abrangidos pelo número fiscal de pessoa singular.
+h) Empresários individuais que exerçam actividade económica legalmente não qualificada como profissão liberal e usem firma diferente do seu nome completo ou abreviado;
 
-3 - As pessoas singulares que não sejam empresários individuais, bem como os organismos e serviços da Administração Pública que não constituam uma unidade organizativa e funcional, não são inscritas no FCPC.
+i) Instrumentos de gestão fiduciária e sucursais financeiras exteriores registados na Zona Franca da Madeira.
+
+2 - O FCPC pode ainda, enquanto for necessário para efeitos fiscais, incluir informação respeitante a quaisquer sujeitos passivos da relação jurídica tributária não abrangidos pelo número fiscal de pessoa singular.
+
+3 - (Revogado).

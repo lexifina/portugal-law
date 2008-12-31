@@ -6,9 +6,9 @@
 
 ### Horário
 
-1 - O horário mínimo de atendimento do público é fixado por despacho do Ministro da Justiça.
+1 - O período de atendimento do público é fixado de acordo com a legislação aplicável aos órgãos e serviços da Administração Pública.
 
-2 - Sempre que as circunstâncias o aconselhem, o director-geral dos Registos e do Notariado pode determinar ou autorizar horários de atendimento contínuos ou prolongados.
+2 - (Revogado).
 
 3 - Salvo no caso de estarem impedidos ou em serviço oficial, os conservadores devem permanecer no RNPC durante o horário de atendimento do público.
 

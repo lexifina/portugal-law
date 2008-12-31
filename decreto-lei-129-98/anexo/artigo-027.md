@@ -4,6 +4,6 @@
 
 Os dados pessoais podem ser conservados no FCPC:
 
-a) Até dois anos após a inscrição da cessação da actividade de empresário individual ou da situação de herança indivisa e da devolução do correspondente cartão de identificação;
+a) Até um ano após a inscrição da cessação da actividade de empresário individual;
 
-b) Até um ano após a caducidade do certificado de admissibilidade ou, no caso de recurso hierárquico ou contencioso, até um ano após o trânsito em julgado da decisão final.
+b) Até um ano após a caducidade do certificado de admissibilidade ou, no caso de recurso hierárquico ou impugnação judicial, até um ano após o trânsito em julgado da decisão final.

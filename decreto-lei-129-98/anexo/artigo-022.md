@@ -4,14 +4,22 @@
 
 1 - Os dados constantes do FCPC podem ser comunicados às entidades e para as finalidades previstas no artigo anterior.
 
-2 - A consulta, através de linha de transmissão de dados, pode ser autorizada aos serviços e entidades referidos no artigo anterior, bem como às entidades legal ou estatutariamente competentes para intervir na constituição de pessoas colectivas, garantido o respeito pelas normas de segurança da informação e a disponibilidade técnica.
+2 - A consulta online e a cedência de cópias totais ou parciais podem ser autorizadas:
 
-3 - A consulta, através da linha de transmissão de dados, bem como a cedência regular de cópias totais ou parciais do FCPC, está sujeita à celebração de protocolo com a Direcção-Geral dos Registos e do Notariado e ao envio de cópia deste à Comissão Nacional de Protecção de Dados Pessoais Informatizados.
+a) Aos serviços e entidades referidos no artigo 21.º;
 
-4 - Os dados registados na base de dados podem ainda ser comunicados, para efeitos de investigação criminal ou de instrução de processos judiciais, sempre que os dados não possam ou não devam ser obtidos das entidades a quem respeitam e não esteja disponível a consulta em linha, nos termos do artigo 15.º da Lei n.º 10/91, de 29 de Abril.
+b) Às entidades legal ou estatutariamente competentes para intervir na constituição de pessoas colectivas;
 
-5 - A comunicação dos dados nos termos dos n.os 1 a 3 está sujeita ao pagamento dos encargos devidos, nos termos de tabela aprovada por despacho do Ministro da Justiça.
+c) Aos magistrados judiciais e do Ministério Público, juízes de paz, bem como aos agentes de execução e aos administradores da insolvência, no âmbito da prossecução das suas atribuições;
 
-6 - A comunicação nos termos do n.º 4 depende de solicitação do magistrado ou da entidade policial legalmente competentes e pode ser efectuada mediante reprodução do registo ou registos informáticos das entidades em causa.
+d) Às entidades que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou de instrução ou a quem incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências, bem como às entidades com competência legal para garantir a segurança interna, no âmbito da prossecução dos seus fins.
 
-7 - Quando a solicitação referida no número anterior for efectuada por telecópia, a comunicação é feita pelo mesmo meio.
+3 - O acesso aos dados nos termos do número anterior está sujeito à celebração de protocolo com o IRN, I. P., que define os seus limites face às atribuições legais e estatutárias das entidades interessadas e ao envio de cópia deste, por via electrónica, à Comissão Nacional de Protecção de Dados.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+7 - (Revogado).
