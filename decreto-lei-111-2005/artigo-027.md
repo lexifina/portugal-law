@@ -14,4 +14,4 @@
 
 a) Do despacho conjunto referido no n.º 1 do artigo 25.º, quanto a outros CFE;
 
-b) De despacho do Ministro da Justiça, quanto a serviços dependentes da DGRN não integrados nos CFE.
+b) De despacho do presidente do IRN, I. P., quanto a serviços dependentes do IRN, I. P., não integrados nos CFE.

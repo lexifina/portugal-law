@@ -4,8 +4,8 @@
 
 O regime previsto no presente diploma não é aplicável:
 
-a) Às sociedades cuja constituição dependa de autorização especial;
+a) (Revogada).
 
-b) Às sociedades cujo capital seja realizado com recurso a entradas em espécie;
+b) (Revogada).
 
 c) Às sociedades anónimas europeias.

@@ -14,6 +14,6 @@ d) Caso tenha havido aquisição de marca registada, comunica ao INPI, I. P., po
 
 e) Promove as restantes diligências que venham ser fixadas por via regulamentar ou protocolar.
 
-2 - No mesmo prazo, o serviço que conduziu o procedimento deve remeter a pasta da sociedade à conservatória do registo comercial territorialmente competente nos termos do Código do Registo Comercial.
+2 - No mesmo prazo, o serviço que conduziu o procedimento deve remeter a pasta da sociedade à conservatória do registo comercial da área da respectiva sede.
 
 3 - O envio previsto no número anterior só ocorre quando não existam condições que garantam o acesso à informação sobre a sociedade por via electrónica.
