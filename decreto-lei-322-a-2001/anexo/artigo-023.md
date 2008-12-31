@@ -10,23 +10,25 @@
 
 1 - Reserva de firma ou denominação ... 31
 
-2 - Certificados de admissibilidade de firma ou denominação e certificados negativos:
+2 - Certificados de admissibilidade de firma ou denominação:
 
-2.1 - ...
+2.1 - Pelo pedido de emissão do certificado - (euro) 56.
 
-2.2 - ...
+2.2 - Pela urgência na emissão do certificado são acrescidos em 50 % os respectivos emolumentos.
 
-2.3 - Invalidação da emissão, renovação e segunda via do certificado - (euro) 8.
+2.3 - Invalidação da emissão do certificado - (euro) 8.
 
-2.4 - Desistência do pedido de emissão, renovação e segunda via do certificado - (euro) 6.
+2.4 - A desistência do pedido de emissão do certificado não dá lugar à restituição dos emolumentos cobrados.
 
-2.5 - Recusa de emissão, renovação e segunda via do certificado - (euro) 8.
+2.5 - O indeferimento do pedido de emissão do certificado não dá lugar à restituição dos emolumentos cobrados.
+
+2.6 - No caso previsto no número anterior o emolumento pago pode ser transferido, uma única vez, para o novo pedido do mesmo requerente a apresentar no prazo máximo de 10 dias úteis.
 
 3 - Inscrição no ficheiro central de pessoas colectivas ... 20
 
-4 - Registo de comunicação de nome comercial ... 56
+4 - (Revogado.)
 
-5 - Emissão de cartão de identificação e actualização, substituição ou segunda via do mesmo ... 14
+5 - (Revogado.)
 
 6 - Registo de pessoas colectivas religiosas:
 
@@ -38,15 +40,15 @@
 
 6.4 - Desistência do pedido de registo ... 12,50
 
-7 - Certidões e cópias de registo informático:
+7 - Certidões e cópias de registo informático e de documentos:
 
-7.1 - Requisição e emissão de certidão ou cópia de registo informático ... 10
+7.1 - Requisição e emissão de certidão ou cópia de registo informático e de documentos - (euro) 10.
 
-7.2 - Emissão de certidão ou cópia de registo informático quando requeridas por pessoas colectivas religiosas ... 5
+7.2 - Emissão de certidão ou cópia de registo informático e de documentos quando requeridas por pessoas colectivas religiosas - (euro) 5.
 
-7.3 - Requisição e emissão de certidão ou fotocópia certificada de documentos depositados no registo de pessoas colectivas religiosas, além do emolumento previsto no número anterior, acresce, por cada página ... 1
+7.3 - (Revogado.)
 
-7.4 - Fotocópia não certificada dos documentos previstos no número anterior, por cada página ... 0,50
+7.4 - (Revogado.)
 
 7.5 - Informação dada por escrito relativamente a registos e documentos ... 5,50
 

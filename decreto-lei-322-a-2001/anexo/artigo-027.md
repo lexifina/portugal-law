@@ -28,11 +28,7 @@
 
 1.3 - Se o pedido não for satisfeito por culpa dos serviços, o utente é reembolsado das quantias entregues.
 
-2 - Processo de constituição de sociedades promovido e dinamizado pelo notário:
-
-2.1 - Pela prática dos actos relativos à promoção e dinamização da constituição de sociedades comerciais e demais sujeitas a registo comercial, nos termos do Decreto-Lei n.º 267/93, de 31 de Julho ... 150
-
-2.2 - Do emolumento referido no n.º 2.1 pertencem dois terços ao cartório notarial e um terço à conservatória do registo comercial.
+2 - (Revogado.)
 
 3 - Regimes especiais de constituição imediata de sociedades e associações e de constituição online de sociedades:
 
@@ -40,7 +36,7 @@
 
 3.2 - Pela prática dos actos compreendidos no regime especial de constituição imediata de associações - (euro) 170.
 
-3.3 - Os emolumentos previstos nos números anteriores têm um valor único e o previsto no n.º 3.1 inclui o custo da publicação obrigatória.
+3.3 - Os emolumentos previstos nos n.os 3.1 e 3.2 têm um valor único, incluem a aprovação de firma ou denominação no posto de atendimento e, no caso do n.º 3.1, incluem o custo da publicação obrigatória e todos os actos de registo comercial, predial e de veículos a que deva haver lugar.
 
 3.4 - Do emolumento previsto no n.º 3.1, deduzido da taxa devida pela publicação a que se refere o n.º 3.3, pertencem dois terços à conservatória do registo comercial e um terço ao Registo Nacional de Pessoas Colectivas (RNPC).
 
@@ -48,7 +44,7 @@
 
 3.6 - No caso de constituição on-line de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou acto constitutivo elaborado pelos interessados - (euro) 380.
 
-3.7 - Os emolumentos previstos nos n.os 3.5 e 3.6 têm um valor único e incluem o custo da publicação obrigatória do registo.
+3.7 - Os emolumentos previstos nos n.os 3.5 e 3.6 têm um valor único e incluem a verificação da admissibilidade e aprovação de firma e ainda o custo da publicação obrigatória do registo.
 
 4 - Regime especial de criação imediata de representações permanentes:
 

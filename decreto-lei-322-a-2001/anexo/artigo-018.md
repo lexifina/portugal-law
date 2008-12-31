@@ -88,13 +88,11 @@ d) A autorização de uso de apelidos do ex-cônjuge, ainda que requerida fora d
 
 § 3.º Não há lugar à cobrança de emolumentos pessoais nos processos a que respeita este número.
 
-6.2 - Processos de divórcio e de separação de pessoas e bens integrando a partilha do património conjugal que inclua um bem imóvel e um bem móvel ou participação social sujeitos a registo - (euro) 475.
+6.2 - Processos de divórcio e de separação de pessoas e bens integrando a partilha e o registo do património conjugal, independentemente do número de bens imóveis ou móveis ou participações sociais sujeitos a registo, não havendo cobrança de emolumentos pessoais nos processos a que respeita este número - (euro) 475.
 
-§ 1.º Por cada registo adicional de bem imóvel - (euro) 40.
+6.2.1 - Partilha e o registo do património conjugal - (euro) 250.
 
-§ 2.º Por cada registo adicional de bem móvel ou participação social - (euro) 20.
-
-§ 3.º Não há lugar à cobrança de emolumentos pessoais nos processos a que respeita este número.
+6.2.2 - Pela desistência do procedimento de partilha - (euro) 50.
 
 6.3 - Procedimento de conversão de separação litigiosa de pessoas e bens em divórcio - (euro) 50.
 
@@ -122,21 +120,17 @@ b) A alteração da decisão relativa à atribuição da casa de morada de famí
 
 6.10.1 - Habilitação de herdeiros - (euro) 100.
 
-6.10.2 - Habilitação de herdeiros e registo dos bens integrados em herança indivisa ou de transmissão de bens que inclua um bem imóvel e um bem móvel ou participação social sujeitos a registo - (euro) 250.
+6.10.2 - Habilitação de herdeiros e registo dos bens integrados em herança indivisa ou de transmissão de bens - (euro) 250.
 
-§ 1.º Por cada registo adicional de bem imóvel - (euro) 40.
+6.10.3 - Habilitação de herdeiros e partilha e registo dos bens partilhados - (euro) 300.
 
-§ 2.º Por cada registo adicional de bem móvel ou participação social - (euro) 20.
+6.10.4 - Pela partilha e registo dos bens partilhados - (euro) 250.
 
-6.10.3 - Habilitação de herdeiros e partilha e registo dos bens partilhados que inclua um bem imóvel e um bem móvel ou participação social sujeitos a registo - (euro) 300.
+6.10.5 - Os emolumentos previstos nos n.os 6.10.2 a 6.10.4 incluem todos os registos a que haja lugar dos bens imóveis ou móveis ou participações sociais sujeitos a registo, independentemente do seu número.
 
-§ 1.º Por cada registo adicional de bem imóvel - (euro) 40.
+6.10.6 - Pela desistência de procedimento simplificado de sucessão hereditária - (euro) 50.
 
-§ 2.º Por cada registo adicional de bem móvel ou participação social - (euro) 20.
-
-6.10.4 - Pela desistência de procedimento simplificado de sucessão hereditária - (euro) 50.
-
-6.10.5 - Não há lugar à cobrança de emolumentos pessoais nos processos a que respeita este número.
+6.10.7 - Não há lugar à cobrança de emolumentos pessoais nos processos a que respeita este número.
 
 7 - Certidões, certificados e fotocópias:
 

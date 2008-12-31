@@ -6,7 +6,7 @@
 
 ### Emolumentos do registo comercial
 
-1 - Os emolumentos previstos neste artigo têm um valor único, incluindo os montantes relativos aos actos subsequentes de inscrição no ficheiro central de pessoas colectivas e de publicação obrigatória, bem como os montantes a pagar a título de emolumentos pessoais, quando estes sejam devidos.
+1 - Os emolumentos previstos neste artigo são devidos pelo pedido de registo e têm um valor único, incluindo os montantes relativos aos actos subsequentes de inscrição no ficheiro central de pessoas colectivas e de publicação obrigatória, bem como os montantes a pagar a título de emolumentos pessoais, quando estes sejam devidos.
 
 2 - Inscrições e subinscrições:
 
@@ -72,9 +72,9 @@ Pela decisão do procedimento, incluindo o registo - (euro) 250.
 
 10 - Pela urgência na feitura de cada registo é devido o valor do emolumento correspondente ao acto.
 
-11 - Desistência do pedido de registo ... 20
+11 - A desistência do pedido de registo não dá lugar à restituição dos emolumentos cobrados.
 
-12 - Recusa de registo ... 30
+12 - A recusa do pedido de registo não dá lugar à restituição dos emolumentos cobrados.
 
 13 - Certidões, fotocópias, informações escritas e certificados:
 

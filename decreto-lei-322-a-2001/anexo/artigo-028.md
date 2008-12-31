@@ -74,10 +74,16 @@
 
 25 - Os emolumentos devidos por actos de registo, quando requeridos por via electrónica, são reduzidos em 50 %, quanto a todas as verbas que os compõem.
 
-26 - O registo por depósito promovido pela conservatória, nos termos do artigo 29.º-A do Código do Registo Comercial, não está sujeito ao pagamento do emolumento previsto no n.º 3 do artigo 22.º
+28 - O registo por depósito promovido pela conservatória, nos termos do artigo 29.º-A do Código do Registo Comercial, não está sujeito ao pagamento do emolumento previsto no n.º 3 do artigo 22.º
 
-27 - Os emolumentos devidos pelo fornecimento em suporte electrónico de mapas estatísticos de registo de veículos a entidades sem fins lucrativos são reduzidos a um quarto.
+29 - Os emolumentos devidos pelo fornecimento em suporte electrónico de mapas estatísticos de registo de veículos a entidades sem fins lucrativos são reduzidos a um quarto.
 
-28 - Se o registo for solicitado por entidades licenciadas que exerçam a actividade de transportes rodoviários de mercadorias por conta de outrem, o primeiro registo de transmissão de reboques está isento de tributação emolumentar e os emolumentos devidos pelos subsequentes registos de transmissão de reboques são reduzidos a três quartos.
+25 - Os emolumentos devidos por actos de registo previstos nos artigos 22.º e 25.º, quando promovidos por via electrónica, são reduzidos em 50 %, quanto a todas as verbas que os compõem.
 
-29 - As certidões e outros documentos de carácter probatório requeridos para fins eleitorais, bem como os reconhecimentos de assinaturas e outros actos respeitantes a documentos destinados a apresentação para os mesmos fins estão isentos de emolumentos.
+26 - Os emolumentos devidos por actos de registo predial previstos nos n.os 2.1, 2.3 e 2.5 do artigo 21.º, quando promovidos por via electrónica, são reduzidos em 20 % quando não sejam requeridos, nem devam ser efectuados como provisórios, nos termos das alíneas g), h), i) e j) do n.º 1 do artigo 92.º do Código do Registo Predial.
+
+27 - Os emolumentos devidos por actos de registo predial previstos nos n.os 2.9, 2.12 e 3 do artigo 21.º, quando promovidos por via electrónica, são reduzidos em 20 %.
+
+30 - Se o registo for solicitado por entidades licenciadas que exerçam a actividade de transportes rodoviários de mercadorias por conta de outrem, o primeiro registo de transmissão de reboques está isento de tributação emolumentar e os emolumentos devidos pelos subsequentes registos de transmissão de reboques são reduzidos a três quartos.
+
+31 - As certidões e outros documentos de carácter probatório requeridos para fins eleitorais, bem como os reconhecimentos de assinaturas e outros actos respeitantes a documentos destinados a apresentação para os mesmos fins estão isentos de emolumentos.

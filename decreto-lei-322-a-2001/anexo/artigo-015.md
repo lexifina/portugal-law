@@ -28,14 +28,16 @@ h) O reconhecimento presencial das assinaturas no contrato de sociedade efectuad
 
 a) Rectificação de actos de registo ou documentos, resultante de erro ou inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado;
 
-b) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março;
+b) Rectificação dos actos de registo de alteração de firma ou denominação efectuados na sequência da emissão de novo certificado de admissibilidade de firma ou denominação determinado por aprovação indevida dos serviços ou assim considerada por decisão judicial;
 
-c) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
+c) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março;
 
-d) As certidões a entregar aos interessados na sequência da conclusão do procedimento previsto no regime especial de constituição imediata de sociedades.
+d) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
 
-e) As certidões emitidas nos termos do n.º 6 do artigo 75.º do Código do Registo Comercial;
+e) As certidões a entregar aos interessados na sequência da conclusão do procedimento previsto no regime especial de constituição imediata de sociedades.
 
-f) A certidão a entregar aos interessados na sequência da conclusão do procedimento especial de extinção imediata de entidades comerciais.
+f) As certidões emitidas nos termos do n.º 6 do artigo 75.º do Código do Registo Comercial;
 
-Suprimento de deficiências nos actos de registo requeridos por via electrónica.
+g) A certidão a entregar aos interessados na sequência da conclusão do procedimento especial de extinção imediata de entidades comerciais.
+
+h) Suprimento de deficiências nos actos de registo requeridos por via electrónica.
