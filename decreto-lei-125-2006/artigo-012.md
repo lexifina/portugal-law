@@ -8,15 +8,15 @@
 
 a) Registo do pacto ou acto constitutivo da sociedade, que deve ser imediatamente comunicado aos interessados por via electrónica;
 
-b) Inscrição do facto no ficheiro central de pessoas colectivas e codificação da actividade económica (CAE) ou, se for esse o caso, comunicação do registo para aqueles efeitos.
+b) Comunicação automática e electrónica da constituição da sociedade ao ficheiro central de pessoas colectivas e, se for o caso, codificação da actividade económica (CAE).
 
 3 - O serviço competente deve ainda proceder aos seguintes actos:
 
-a) Emissão e envio aos interessados do cartão de identificação de pessoa colectiva e do recibo comprovativo do pagamento dos encargos devidos, bem como comunicação aos mesmos do número de identificação da sociedade na segurança social;
+a) Comunicação do código de acesso do cartão electrónico da empresa e do número de identificação da sociedade na segurança social e envio posterior do cartão da empresa a título gratuito;
 
 b) Caso tenha havido aquisição de marca registada e independentemente da qualificação do correspondente acto de registo comercial, emissão e envio do documento comprovativo dessa aquisição, em modelo aprovado pelo Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.);
 
-c) Disponibilização de prova gratuita do registo da constituição da sociedade nos termos e pelos meios previstos no artigo 75.º do Código do Registo Comercial;
+c) Disponibilização gratuita de código de acesso à certidão permanente da sociedade pelo período de um ano;
 
 d) Promoção das publicações legais, as quais se devem efectuar automaticamente e por via electrónica;
 
@@ -26,7 +26,7 @@ f) Caso tenha havido aquisição de marca registada, comunicação ao INPI, I. P
 
 g) Promoção das restantes diligências que venham a ser fixadas por via regulamentar ou protocolar;
 
-h) Envio da pasta da sociedade à conservatória do registo comercial territorialmente competente, nos termos do Código do Registo Comercial.
+h) Envio da pasta da sociedade à conservatória do registo comercial da área da respectiva sede.
 
 4 - Nos casos referidos na alínea b) do número anterior, é dispensado o documento escrito e assinado pelas partes, previsto no n.º 6 do artigo 31.º do Código da Propriedade Industrial, e não há lugar à emissão do título de concessão previsto no artigo 27.º do mesmo diploma.
 
