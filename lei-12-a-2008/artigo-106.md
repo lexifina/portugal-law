@@ -13,5 +13,3 @@
 5 - Os órgãos ou serviços não podem recrutar ou recorrer a mobilidade geral de trabalhadores não integrados nas carreiras ou não titulares das categorias referidas no n.º 1 para o exercício das funções que lhes correspondam.
 
 6 - O decreto-lei referido no n.º 4 pode prever uma categoria de carreira geral por cuja integração os trabalhadores que devessem manter-se integrados nas carreiras ou titulares das categorias que subsistam podem optar nos termos que nele sejam fixados.
-
-7 - Os procedimentos concursais para as carreiras e ou categorias a que se reporta o presente artigo regem-se pelas disposições normativas aplicáveis em 31 de Dezembro de 2008 e pelo disposto na alínea d) do n.º 1 do artigo 54.º, bem como no n.º 11 do artigo 28.º da Portaria n.º 83-A/2009, de 22 de Janeiro, com as necessárias adaptações.

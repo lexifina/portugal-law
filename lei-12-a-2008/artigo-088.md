@@ -1,7 +1,3 @@
-## Título VII
-
-## Disposições finais e transitórias
-
 # Artigo 88.º
 
 ### Transição de modalidade de constituição da relação jurídica de emprego público por tempo indeterminado
