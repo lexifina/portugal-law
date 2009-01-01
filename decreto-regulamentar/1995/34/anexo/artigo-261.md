@@ -6,52 +6,52 @@
 
 Para além das previstas no Decreto-Lei n.º 315/95, de 28 de Novembro, constituem contra-ordenações puníveis com coima de 100000$00 a 750000$00 ou de 600000$00 a 7500000$00, conforme o infractor for, respectivamente, pessoa singular ou colectiva, as seguintes infracções:
 
-a) A não utilização dos materiais adequados nos revestimentos das paredes contra o disposto no artigo 20.º;
+a) Revogada;
 
-b) A não utilização dos materiais adequados nos revestimentos dos tectos e tectos falsos a que se refere o artigo 21.º;
+b) Revogada;
 
-c) A não utilização dos materiais adequados nos revestimentos dos pavimentos que não satisfaçam o disposto no artigo 22.º;
+c) Revogada;
 
-d) A falta de mobiliário e equipamento previsto no artigo 23.º;
+d) Revogada;
 
 e) A utilização de telas de projecção em infracção ao disposto no artigo 24.º;
 
-f) A falta de reposteiros e cortinados adequados a que se refere o artigo 25.º;
+f) Revogada;
 
-g) A não utilização dos elementos decorativos e publicitários em relevo contra o disposto no artigo 26.º;
+g) Revogada;
 
-h) A não utilização correcta da medição da largura útil das saídas e dos caminhos de evacuação prevista no n.º 3 do artigo 49.º;
+h) Revogada;
 
-i) A falta de aprovação dos dispositivos de segurança a que se refere o n.º 3 do artigo 50.º;
+i) Revogada;
 
-j) A falta de operacionalidade dos sistemas interessados de segurança obturados da boca de cena a que se refere o artigo 83.º;
+j) Revogada;
 
-l) A falta de depósitos temporários previstos no artigo 84.º;
+l) Revogada;
 
-m) A inexistência da largura útil das vias de evacuação horizontal a que se refere o artigo 137.º;
+m) Revogada;
 
-n) A falta de fontes de energia de emergência a que se reporta o n.º 1 do artigo 149.º;
+n) Revogada;
 
-o) A falta ou constituição deficiente das fontes locais de energia de emergência a que se refere o n.º 1 do artigo 150.º;
+o) Revogada;
 
 p) A utilização de filmes com suporte em nitrato de celulose que não satisfaçam o disposto no artigo 157.º;
 
-q) A utilização de aparelhos de aquecimento em locais do tipo A contra o disposto no artigo 168.º;
+q) Revogada;
 
-r) A utilização de aparelhos de aquecimento em locais do tipo B que não satisfaçam o disposto no artigo 169.º;
+r) Revogada;
 
-s) A utilização de aparelhos de aquecimento em locais do tipo C que não satisfaçam o disposto no artigo 170.º;
+s) Revogada; ;
 
-t) A não utilização correcta dos aparelhos autónomos alimentados a energia eléctrica a que se refere o artigo 171.º;
+t) Revogada;
 
-u) A não utilização correcta dos aparelhos autónomos de combustão a que se refere o artigo 172.º;
+u) Revogada;
 
 v) A utilização de produtos injectados nas condutas contra o disposto no artigo 180.º;
 
-x) A falta de instalações de alarme e comando a que se refere o artigo 188.º;
+x) Revogada;
 
-z) A falta dos meios de extinção de incêndio a que se reporta o artigo 199.º;
+z) Revogada;
 
-aa) A falta dos sistemas de controlo de fumos em caso de incêndio a que se refere o artigo 219.º;
+aa) Revogada;
 
-bb) A falta das condições gerais das vias de evacuação vertical previstas no artigo 240.º
+bb) Revogada;

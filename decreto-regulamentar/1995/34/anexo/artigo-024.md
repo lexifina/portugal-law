@@ -1,3 +1,15 @@
+## Secção II
+
+## Resistência ao fogo dos elementos estruturais
+
+## Secção III
+
+## Compartimentação corta-fogo
+
+## Secção IV
+
+## Acabamentos, mobiliário e decoração
+
 # Artigo 24.º
 
 ### Telas de projecção
@@ -10,8 +22,8 @@ D = 1,07 H + 1,30
 
 em que H representa a altura da imagem, medida em metros.
 
-3 - Os materiais constituintes das telas de projecção devem ser da classe M3; se as telas possuírem estruturas, estas devem ser construídas com materiais da classe M0.
+3 - Revogado.
 
 4 - As disposições dos n.os 1 e 2 são aplicáveis a recintos situados ao ar livre e aos alojados em tendas ou em estruturas insufláveis.
 
-5 - As disposições do n.º 3 são aplicáveis a recintos alojados em tendas ou em estruturas insufláveis.
+5 - Revogado.

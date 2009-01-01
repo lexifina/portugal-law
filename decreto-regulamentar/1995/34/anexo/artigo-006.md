@@ -10,6 +10,6 @@
 
 2 - Nos recintos devem ser tomadas todas as medidas para que os espectáculos, as diversões ou quaisquer outras actividades neles exercidas não possam constituir incómodo para a vizinhança.
 
-3 - Os recintos devem ser servidos por vias que permitam a aproximação, o estacionamento e a manobra das viaturas de socorro.
+3 - Revogado.
 
-4 - As paredes exteriores através das quais se preveja ser possível realizar operações de salvamento de pessoas e de combate ao incêndio devem dispor de vãos, dotados de características adequadas à sua transposição pelos bombeiros.
+4 - Revogado.

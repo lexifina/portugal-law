@@ -1,3 +1,7 @@
+## Capítulo IX
+
+## Condições de exploração
+
 # Artigo 257.º
 
 ### Remoção de poeiras dos espaços cénicos
