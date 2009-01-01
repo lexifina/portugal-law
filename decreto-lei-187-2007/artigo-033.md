@@ -30,4 +30,4 @@ P = (P1 x C3 + P2 x C4)/C
 
 4 - Para efeitos de determinação de C1, C2, C3 e C4, previstos nas fórmulas dos números anteriores, considera-se a totalidade dos anos de carreira contributiva, ainda que superior a 40 anos.
 
-5 - Aos beneficiários previstos no n.º 1 que à data em que requeiram a pensão possuam, pelo menos, 46 anos civis com registo de remunerações relevantes para efeitos de taxa de formação da pensão é garantido o valor de pensão resultante das regras de cálculo previstas no artigo anterior, caso este lhes seja mais favorável.
+5 - Aos beneficiários previstos nos n.os 1 e 2 é garantido o valor de pensão resultante das regras de cálculo constantes no artigo anterior caso este lhes seja mais favorável e superior ao valor mínimo da pensão estabelecido nos artigos 44.º, 45.º e 55.º
