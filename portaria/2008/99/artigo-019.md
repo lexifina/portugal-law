@@ -12,4 +12,4 @@ b) Condenação, com trânsito em julgado, da entidade ou dos respectivos admini
 
 c) Declaração, nos últimos 15 anos, da entidade ou dos respectivos administradores, gerentes ou directores, por sentença nacional ou estrangeira transitada em julgado, da insolvência ou da responsabilidade por insolvência de empresa por eles dominada ou de cujos órgãos de administração ou fiscalização tenham sido membros;
 
-d) Incumprimento reiterado do disposto no n.º 1 do artigo 17.º
+d) Incumprimento reiterado do disposto nos n.os 1 e 2 do artigo 17.º

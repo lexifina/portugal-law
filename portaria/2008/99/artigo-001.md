@@ -16,4 +16,6 @@ c) A promoção de actos de registo de veículos pelo vendedor, nos casos em que
 
 d) A promoção de actos de registo de veículos pelo vendedor, nos casos em que este seja entidade que, em virtude da sua actividade, proceda com carácter de regularidade à transmissão da propriedade de veículos;
 
-e) A promoção online do registo da penhora de veículos.
+e) A promoção online do registo da penhora de veículos;
+
+f) O regime das comunicações e das notificações por via electrónica, no âmbito do registo automóvel.
