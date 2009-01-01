@@ -11,5 +11,3 @@
 4 - Nos casos em que os beneficiários das prestações tenham já sido indemnizados pelo terceiro responsável, não há lugar ao seu pagamento até que nelas se esgote o valor da indemnização correspondente aos danos patrimoniais futuros, sem prejuízo do direito de regresso referido no número anterior, relativamente à eventual responsabilidade não abrangida no acordo celebrado com terceiro responsável.
 
 5 - Quando na indemnização referida no número anterior não seja discriminado o valor referente aos danos patrimoniais futuros, presume-se que o mesmo corresponde a dois terços do valor da indemnização atribuída.
-
-6 - Nos casos em que tenha havido lugar à atribuição de prestações de caráter indemnizatório simultaneamente pela Caixa Geral de Aposentações, I. P., e pelo regime geral de segurança social, o valor a deduzir pela Caixa nos termos do n.º 4 corresponde à parcela da indemnização por danos patrimoniais futuros paga pelos terceiros responsáveis na proporção que o montante das suas prestações represente no valor global atribuído por ambos os regimes.

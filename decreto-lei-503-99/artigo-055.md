@@ -6,11 +6,9 @@
 
 2 - O disposto no número anterior não se aplica aos deficientes das Forças Armadas a que se refere o Decreto-Lei n.º 43/76, de 20 de Janeiro.
 
-3 - O disposto no n.º 1 não se aplica aos militares das Forças Armadas que contraíram doenças no cumprimento do serviço militar, quando os factos que dão origem à pensão de reforma ou de invalidez tenham ocorrido antes da entrada em vigor do presente diploma, aplicando-se nesse caso as disposições do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, na sua redação atual.
+3 - O disposto no artigo 37.º não se aplica aos grandes deficientes das Forças Armadas, nos termos do disposto no Decreto-Lei n.º 314/90, de 13 de Outubro.
 
-4 - O disposto no artigo 37.º não se aplica aos grandes deficientes das Forças Armadas, nos termos do disposto no Decreto-Lei n.º 314/90, de 13 de Outubro.
-
-5 - Na determinação da remuneração a considerar para efeitos do n.º 5 do artigo 34.º será observado o seguinte:
+4 - Na determinação da remuneração a considerar para efeitos do n.º 5 do artigo 34.º será observado o seguinte:
 
 a) Tratando-se de remuneração inferior à que corresponde a um marinheiro do quadro permanente, é esta que se considera;
 
