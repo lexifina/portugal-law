@@ -32,7 +32,7 @@ g) Aquisição derivada de invalidade, distrate, renúncia ou desistência, reso
 
 4 - São consideradas simultaneamente como aquisições a título oneroso e gratuito as constantes do artigo 3.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT).
 
-5 - Não são sujeitas a imposto do selo as seguintes transmissões gratuitas:
+5 - Para efeitos da verba 1.2 da tabela geral, não são sujeitas a imposto do selo as seguintes transmissões gratuitas:
 
 a) O abono de família em dívida à morte do titular, os créditos provenientes de seguros de vida e as pensões e subsídios atribuídos, ainda que a título de subsídio por morte, por sistemas de segurança social;
 

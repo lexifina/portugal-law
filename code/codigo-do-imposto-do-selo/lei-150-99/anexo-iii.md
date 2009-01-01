@@ -16,15 +16,15 @@
 
 4 - Cheques de qualquer natureza, passados no território nacional - por cada um ... (euro) 0,05
 
-5 - Comodato - sobre o seu valor, quando exceda (euro) 600 ... 0,8%
+5 - (Revogada.)
 
-6 - Depósito civil, qualquer que seja a sua forma - sobre o respectivo valor ... 0,5%
+6 - (Revogada.)
 
 7 - Depósito, em quaisquer serviços públicos, dos estatutos de associações e outras instituições cuja constituição deles dependa - por cada um ... (euro) 50
 
 8 - Escritos de quaisquer contratos não especialmente previstos nesta Tabela, incluindo os efectuados perante entidades públicas - por cada um ... (euro) 5
 
-9 - Exploração, pesquisa e prospecção de recursos geológicos integrados no domínio público do Estado - por cada contrato administrativo ... (euro) 25
+9 - (Revogada.)
 
 10 - Garantias das obrigações, qualquer que seja a sua natureza ou forma, designadamente o aval, a caução, a garantia bancária autónoma, a fiança, a hipoteca, o penhor e o seguro-caução, salvo quando materialmente acessórias de contratos especialmente tributados na presente Tabela e sejam constituídas simultaneamente com a obrigação garantida, ainda que em instrumento ou título diferente - sobre o respectivo valor, em função do prazo, considerando-se sempre como nova operação a prorrogação do prazo do contrato:
 
@@ -86,9 +86,9 @@
 
 13 - Livros dos comerciantes, obrigatórios nos termos da lei comercial - por cada folha ... (euro) 0,50
 
-14 - Marcas e patentes - sobre o valor resultante das taxas devidas por todos os registos e diplomas ... 24%
+14 - (Revogada.)
 
-15 - Notariado e actos notariais:
+15 - Notariado, actos notariais, e actos praticados por conservadores, secretários judiciais, secretários técnicos de justiça e entidades e profissionais com competência para autenticar documentos particulares, independentemente da entidade com competência para a sua prática:
 
 15.1 - Escrituras, excluindo as que tenham por objecto os actos referidos no n.º 26, testamentos e demais instrumentos exarados nos livros de notas dos notários, incluindo os privativos - por cada instrumento ... (euro) 25
 
@@ -96,9 +96,9 @@
 
 15.3 - Instrumentos de abertura e aprovação de testamentos cerrados e internacionais - por cada um ... (euro) 25
 
-15.4 - Procurações e outros instrumentos relativos à atribuição de poderes de representação voluntária, incluindo os mandatos e substabelecimentos:
+15.4 - Procurações e outros instrumentos relativos à atribuição de poderes de representação voluntária, incluindo os mandatos e substabelecimentos, inclusive, quando conferidos também no interesse do procurador ou de terceiro:
 
-15.4.1 - Procurações e outros instrumentos que atribuam poderes de representação voluntária - por cada um:
+15.4.1 - Procurações e outros instrumentos que atribuam poderes de representação voluntária, inclusive, quando conferidos também no interesse do procurador ou de terceiro - por cada um:
 
 15.4.1.1 - Com poderes para gerência comercial ... (euro) 30
 
@@ -112,33 +112,9 @@
 
 15.7 - Outros instrumentos notariais avulsos, não especialmente previstos nesta Tabela - por cada um ... (euro) 8
 
-16 - Operações aduaneiras:
+15.8 - Documento particular autenticado, ou qualquer outro título ou procedimento, quando essa forma seja admitida em alternativa à escritura pública - por cada um - (euro) 25.
 
-16.1 - Declarações de sujeição de mercadorias não comunitárias a um regime aduaneiro, com excepção do regime de trânsito, feitas por escrito, por processo informático ou, oficiosamente, com base em declaração verbal do interessado - por cada uma ... (euro) 1,50
-
-16.2 - Venda administrativa de mercadorias - por cada guia ... (euro) 1
-
-16.3 - Guia de emolumentos - por cada uma ... (euro) 1
-
-16.4 - Guia de depósito - por cada uma ... (euro) 1,50
-
-16.5 - Licenças para movimento de embarcações fora do respectivo ancoradouro - por cada uma:
-
-16.5.1 - De cabotagem e de longo curso ... (euro) 8
-
-16.5.2 - De navegação costeira ... (euro) 1
-
-16.6 - Alvará de saída de embarcações para viagem - por cada um:
-
-16.6.1 - De navegação costeira ... (euro) 1
-
-16.6.2 - De cabotagem e de longo curso ... (euro) 8
-
-16.7 - Formulários de tráfego aéreo de saída nos voos comerciais internacionais - por cada um ... (euro) 8
-
-16.8 - Formulários de tráfego aéreo de saída nos voos comerciais domésticos - por cada um ... (euro) 3
-
-16.9 - Outras guias, licenças e formulários não especificados em qualquer verba deste número - por cada um ... (euro) 1,50
+16 - (Revogada.)
 
 17 - Operações financeiras:
 
@@ -200,9 +176,9 @@
 
 23.4 - Extractos de facturas e facturas conferidas - sobre o respectivo valor, com um mínimo de (euro) 0,5 - 0,5%
 
-24 - Títulos de dívida pública emitidos por governos estrangeiros, com exclusão dos títulos de dívida pública emitidos por Estados membros da União Europeia, quando existentes ou postos à venda no território nacional - sobre o valor nominal ... 0,9%
+24 - (Revogada.)
 
-25 - Vales de correio e telegráficos, com excepção dos chamados «de serviço» - por cada um ... (euro) 0,05
+25 - (Revogada.)
 
 26 - Entradas de capital:
 
@@ -218,9 +194,9 @@
 
 26.6 - Transferência de um país terceiro para um Estado membro da sede estatutária de uma sociedade, associação ou pessoa colectiva cuja sede de direcção efectiva se encontre num país terceiro e que seja considerada para efeitos da cobrança do imposto sobre as entradas de capital como sociedade de capitais neste Estado membro - sobre o valor real dos bens de qualquer natureza pertencentes à sociedade à data da transferência, após dedução das obrigações e dos encargos que a onerem nesse momento ... 0,4%
 
-26.7 - Transferência de um Estado membro para outro Estado membro da sede de direcção efectiva de uma sociedade, associação ou pessoa colectiva que seja considerada, para efeitos de cobrança do imposto sobre as entradas de capital, como sociedade de capitais no Estado membro referido em último lugar, e não o era no outro Estado membro, salvo quando tenha sido cobrado o imposto previsto na Directiva n.º 69/335/CE, de 17 de Julho, no Estado de proveniência - sobre o valor real dos bens de qualquer natureza pertencentes à sociedade à data da transferência, após dedução das obrigações e dos encargos que a onerem nesse momento ... 0,4%
+26.7 - (Revogada.)
 
-26.8 - Transferência de um Estado membro para outro Estado membro da sede estatutária de uma sociedade, associação ou pessoa colectiva cuja sede de direcção efectiva se situe num país terceiro e que seja considerada, para efeitos de cobrança do imposto sobre as entradas de capital, como sociedade de capitais no Estado membro referido em último lugar, e não o era no outro Estado membro, salvo quando tenha sido cobrado o imposto previsto na Directiva n.º 69/335/CE, de 17 de Julho, no Estado de proveniência - sobre o valor real de bens de qualquer natureza pertencentes à sociedade à data da transferência, após dedução das obrigações e dos encargos que a onerem nesse momento ... 0,4%
+26.8 - (Revogada.)
 
 27 - Transferências onerosas de actividades ou de exploração de serviços:
 

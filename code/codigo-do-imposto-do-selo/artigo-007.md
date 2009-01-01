@@ -34,7 +34,7 @@ o) Os actos, contratos e operações em que as instituições comunitárias ou o
 
 p) O jogo do bingo e os jogos organizados por instituições de solidariedade social, pessoas colectivas legalmente equiparadas ou pessoas colectivas de utilidade pública que desempenhem única e exclusiva ou predominantemente fins de caridade, assistência ou beneficência, quando a receita se destine aos seus fins estatutários ou, nos termos da lei, reverta obrigatoriamente a favor de outras entidades;
 
-q) A constituição e o aumento do capital resultante da entrega por uma ou mais sociedades de capitais da totalidade do respectivo património ou de um ou vários ramos da sua actividade a uma ou mais sociedades de capitais em vias de constituição ou já existentes;
+q) (Revogada.)
 
 r) A constituição e o aumento do capital social das sociedades gestoras de participações sociais (SGPS) e das sociedades de capital de risco (SCR).
 

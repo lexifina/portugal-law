@@ -2,7 +2,7 @@
 
 ### Participação da transmissão de bens
 
-1 - O cabeça-de-casal e o beneficiário de qualquer transmissão gratuita sujeita a imposto são obrigados a participar ao serviço de finanças competente a doação, o falecimento do autor da sucessão, a declaração de morte presumida ou a justificação judicial do óbito, a justificação judicial ou notarial da aquisição por usucapião ou qualquer outro acto ou contrato que envolva transmissão de bens.
+1 - O cabeça-de-casal e o beneficiário de qualquer transmissão gratuita sujeita a imposto são obrigados a participar ao serviço de finanças competente a doação, o falecimento do autor da sucessão, a declaração de morte presumida ou a justificação judicial do óbito, a justificação judicial, notarial ou efectuada nos termos previstos no Código do Registo Predial da aquisição por usucapião ou qualquer outro acto ou contrato que envolva transmissão de bens.
 
 2 - A participação a que se refere o número anterior é de modelo oficial, identifica o autor da sucessão ou da liberalidade, as respectivas datas e locais, bem como os sucessores, donatários, usucapientes ou beneficiários, as relações de parentesco e respectiva prova, devendo, sendo caso disso, conter a relação dos bens transmitidos, com a indicação dos valores que devam ser declarados pelo apresentante.
 

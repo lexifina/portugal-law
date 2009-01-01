@@ -40,4 +40,6 @@ p) Nas sucessões por morte, na data da abertura da sucessão;
 
 q) Nos créditos litigiosos, definidos nos termos do n.º 3 do artigo 579.º do Código Civil, quando transitar em julgado a decisão;
 
-r) Nas aquisições por usucapião, na data em que transitar em julgado a acção de justificação judicial ou for celebrada a escritura de justificação notarial.
+r) Nas aquisições por usucapião, na data em que transitar em julgado a acção de justificação judicial, for celebrada a escritura de justificação notarial ou no momento em que se tornar definitiva a decisão proferida em processo de justificação nos termos do Código do Registo Predial;
+
+s) Nos documentos particulares autenticados, ou qualquer outro título, quando essa forma seja admitida em alternativa à escritura pública, no momento da sua autenticação ou reconhecimento das assinaturas neles apostas.
