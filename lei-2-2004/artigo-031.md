@@ -11,3 +11,9 @@
 4 - Os titulares dos cargos de direcção intermédia que não tenham vínculo à Administração Pública não podem optar pelo vencimento ou retribuição base da sua função, cargo ou categoria de origem.
 
 5 - Para efeitos do disposto no n.º 3, é adoptado como referência o vencimento ou retribuição base médio efectivamente percebido durante o ano anterior à data do despacho de nomeação.
+
+6 - A identificação dos níveis remuneratórios correspondentes às remunerações base dos cargos de direcção intermédia de 3.º grau ou inferior é efectuada no diploma orgânico ou estatutário que os preveja.
+
+7 - Aos titulares de cargos de direcção superior são atribuídos prémios de gestão em termos definidos em decreto regulamentar.
+
+8 - Aos titulares de cargos de direcção intermédia são atribuídos prémios de desempenho nos termos previstos, com as necessárias adaptações, para os trabalhadores que exercem funções públicas.

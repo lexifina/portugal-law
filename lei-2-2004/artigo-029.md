@@ -1,15 +1,15 @@
 # Artigo 29.º
 
-### Direito de acesso na carreira
+### Direito à alteração de posicionamento remuneratório na categoria de origem
 
-1 - O tempo de serviço prestado no exercício de cargos dirigentes conta, para todos os efeitos legais, como prestado no lugar de origem, designadamente para promoção e progressão na carreira e categoria em que o funcionário se encontra integrado.
+1 - O exercício continuado de cargos dirigentes por períodos de três anos, em comissão de serviço, em substituição ou em gestão corrente, confere ao respectivo titular o direito à alteração para a ou as posições remuneratórias imediatamente seguintes da respectiva categoria de origem, correspondendo uma alteração a cada período.
 
-2 - Quando o tempo de serviço prestado em funções dirigentes corresponda ao módulo de tempo necessário à promoção na carreira, o funcionário tem direito, findo o exercício de funções dirigentes, ao provimento em categoria superior com dispensa de concurso, a atribuir em função do número de anos de exercício continuado naquelas funções.
+2 - A aplicação do disposto no número anterior a dirigentes integrados em carreiras especiais depende da verificação de outros requisitos, fixados na lei especial que estruture a respectiva carreira, que não sejam relacionados com o tempo de permanência nas posições remuneratórias e ou com a avaliação do desempenho correspondente.
 
-3 - A aplicação do disposto no número anterior aos titulares de cargos dirigentes integrados em corpos especiais ou em carreiras de regime especial depende da verificação de todos os requisitos fixados nas respectivas leis reguladoras para o acesso na carreira.
+3 - Quando, no decurso do exercício do cargo dirigente, ocorra uma alteração do posicionamento remuneratório na categoria de origem em função da reunião dos requisitos previstos para o efeito na lei geral, ou alteração de categoria ou de carreira, para efeitos de cômputo dos períodos referidos no n.º 1, releva apenas, sem prejuízo do disposto no número seguinte, o tempo de exercício subsequente a tais alterações.
 
-4 - O tempo de serviço prestado em regime de substituição e de gestão corrente, nos termos da presente lei, conta para efeitos do disposto no n.º 2.
+4 - Quando a alteração de categoria ou de carreira pressuponha a reunião de requisito relativo a tempo de serviço, no cômputo dos períodos referidos no n.º 1, só não releva o tempo de exercício de cargos dirigentes que tenha sido tomado em consideração no procedimento que gerou aquela alteração.
 
-5 - No caso de ter ocorrido mudança de categoria ou de carreira na pendência do exercício do cargo dirigente, para efeitos do cômputo do tempo de serviço referido no n.º 2 não releva o tempo prestado em funções dirigentes que tenha sido contado no procedimento que gerou a mudança de categoria ou de carreira.
+5 - O direito à alteração de posicionamento remuneratório é reconhecido, a requerimento do interessado, por despacho do dirigente máximo do órgão ou do serviço de origem, precedido de confirmação dos respectivos pressupostos pela secretaria-geral ou pelo departamento ministerial competente em matéria de recursos humanos.
 
-6 - Os funcionários que beneficiem do disposto no n.º 2 têm direito à remuneração pela nova categoria e escalão desde a data da cessação do exercício de funções dirigentes.
+6 - A remuneração pelo novo posicionamento remuneratório tem lugar desde a data da cessação do exercício do cargo dirigente.

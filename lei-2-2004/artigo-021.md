@@ -2,7 +2,7 @@
 
 ### Selecção e provimento dos cargos de direcção intermédia
 
-1 - O procedimento concursal é publicitado na bolsa de emprego público durante 10 dias, com a indicação dos requisitos formais de provimento, do perfil exigido, da composição do júri e dos métodos de selecção, que incluem, necessariamente, a realização de uma fase final de entrevistas públicas.
+1 - O procedimento concursal é publicitado na bolsa de emprego público durante 10 dias, com a indicação dos requisitos formais de provimento, do perfil exigido, tal qual se encontra caracterizado no mapa de pessoal e no regulamento interno, da composição do júri e dos métodos de selecção, que incluem, necessariamente, a realização de uma fase final de entrevistas públicas.
 
 2 - A publicitação referida no número anterior é precedida de aviso a publicar em órgão de imprensa de expansão nacional e na 2.ª série do Diário da República, em local especialmente dedicado a concursos para cargos dirigentes, com a indicação do cargo a prover e do dia daquela publicitação.
 

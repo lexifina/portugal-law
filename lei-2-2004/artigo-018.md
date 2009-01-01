@@ -14,7 +14,7 @@
 
 2 - No caso das secretarias-gerais ou dos serviços e organismos equiparados nos respectivos diplomas orgânicos ou estatutários, os titulares dos cargos de direcção superior são recrutados de entre:
 
-a) Assessores e assessores principais da carreira técnica superior;
+a) Trabalhadores integrados na carreira geral de técnico superior, posicionados na 7.ª posição remuneratória ou em outra mais elevada;
 
 b) Titulares das categorias de topo das restantes carreiras da Administração Pública para cujo ingresso seja legalmente exigida uma licenciatura; ou
 
