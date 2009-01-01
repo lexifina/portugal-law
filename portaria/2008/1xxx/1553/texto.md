@@ -1,0 +1,44 @@
+Portaria n.º 1553/2008
+de 31 de Dezembro
+Considerando a importância estratégica dos apoios previstos no Regulamento de Aplicação da Acção n.º 1.1.1 «Modernização e Capacitação das Empresas», aprovado pela Portaria n.º 289-A/2008, de 11 de Abril, e com o objectivo de melhorar a eficácia dos investimentos, mostra-se conveniente introduzir alguns ajustamentos no horizonte temporal de execução dos mesmos.
+Neste sentido, configura-se necessário um alargamento temporal das operações de instalação de culturas plurianuais que incluem a aquisição de máquinas de colheita.
+Considera-se igualmente oportuno, no que respeita aos projectos de impacte relevante (PIR), dada a dimensão e complexidade dos mesmos, deveria haver uma melhor adaptação temporal dos investimentos a realizar.
+Nestes termos, procede-se à alteração da Portaria n.º 289-A/2008, de 11 de Abril, que aprovou o Regulamento de Aplicação da Acção n.º 1.1.1 «Modernização e Capacitação das Empresas», na redacção dada pela Portaria n.º 1229-C/2008, de 27 de Outubro.
+Assim:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:
+Artigo 1.º
+Aditamento aos artigos 18.º e 27.º do Regulamento aprovado pela Portaria n.º 289-A/2008, de 11 de Abril
+Ao Regulamento aprovado pela Portaria n.º 289-A/2008, de 11 de Abril, é aditado o n.º 3 do artigo 18.º e a alínea c) do artigo 27.º com as seguintes redacções:
+«Artigo 18.º
+[...]
+1 - ...
+2 - ...
+3 - No caso de projectos PIR o prazo máximo de conclusão da execução física é de 48 meses após a assinatura do contrato.
+4 - (Anterior n.º 3.)
+Artigo 27.º
+[...]
+...
+a) ...
+b) ...
+c) No caso dos jovens agricultores, tenham apresentado também um pedido de apoio ao prémio à instalação inserido na Acção n.º 1.1.3 «Instalação de jovens agricultores», nos períodos de candidatura do ano de 2008.»
+Artigo 2.º
+Alteração aos artigos 18.º e 27.º do Regulamento aprovado pela Portaria n.º 289-A/2008, de 11 de Abril
+Os artigos 18.º e 27.º do Regulamento de Aplicação da Acção n.º 1.1.1 «Modernização e Capacitação das Empresas», aprovado pela Portaria n.º 289-A/2008, de 11 de Abril, passam a ter a seguinte redacção:
+«Artigo 18.º
+[...]
+1 - ...
+2 - No caso de projectos que prevejam a instalação de culturas plurianuais:
+a) Para as operações que prevejam investimentos de consolidação, o prazo de conclusão da execução física das operações é, no máximo, de 36 meses para além do prazo referido no n.º 1, sendo este prazo dependente do número de anos em que é apresentada comprovação das despesas de consolidação;
+b) Para as operações que prevejam a aquisição de máquinas de colheita o prazo máximo de conclusão da execução física destes equipamentos é de 24 meses para além do prazo referido no n.º 1.
+3 - ...
+4 - Em casos excepcionais e devidamente justificados, a autoridade de gestão pode autorizar a prorrogação dos prazos estabelecidos nos n.os 1, 2 e 3.
+Artigo 27.º
+[...]
+As despesas efectuadas após 1 de Janeiro de 2007 são consideradas elegíveis quando as respectivas operações não estejam concluídas antes da data da aprovação do pedido de apoio e desde que:
+a) ...
+b) No caso de projectos PIR, os respectivos pedidos de apoio sejam apresentados até 31 de Janeiro de 2009;
+c) ...»
+Artigo 3.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 22 de Dezembro de 2008.
