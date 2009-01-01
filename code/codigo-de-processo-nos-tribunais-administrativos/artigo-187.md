@@ -8,7 +8,7 @@ a) Contratos;
 
 b) Responsabilidade civil da Administração;
 
-c) Funcionalismo público;
+c) Relações jurídicas de emprego público;
 
 d) Sistemas públicos de protecção social;
 
