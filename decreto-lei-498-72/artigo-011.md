@@ -1,6 +1,6 @@
 # Artigo 11.º
 
-### Comissão e serviço militar
+### (Comissão e serviço militar
 
 1 - O subscritor que, a título temporário e com prejuízo do exercício do seu cargo, passe a prestar serviço militar ou a exercer, em regime de comissão de serviço ou requisição previsto na lei, funções remuneradas das por qualquer das entidades referidas no artigo 1.º e que relevem para o direito à aposentação, descontará quota sobre a remuneração correspondente à nova situação.
 
