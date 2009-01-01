@@ -10,7 +10,7 @@
 
 4 - No caso dos institutos públicos, a adaptação referida no número anterior é aprovada em regulamento interno homologado pelos membros do Governo referidos no número anterior.
 
-5 - Em caso de relações jurídicas de emprego público constituídas por contrato, a adaptação ao regime previsto na presente lei pode constar de acordo colectivo de trabalho.
+5 - Em caso de relações jurídicas de emprego público constituídas por contrato, a adaptação ao regime previsto na presente lei pode constar de instrumento de regulamentação colectiva de trabalho.
 
 6 - As adaptações ao SIADAP previstas nos números anteriores são feitas respeitando o disposto na presente lei em matéria de:
 
