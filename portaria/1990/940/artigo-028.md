@@ -17,3 +17,7 @@ e) Quando o titular do direito se oponha às inspecções referidas no n.º 2 do
 f) Quando se demonstre que o detentor do direito não é o seu legítimo proprietário.
 
 2 - No caso previsto na alínea f) do número anterior, e a pedido do legítimo proprietário, o direito de obtentor pode ser-lhe atribuído sem necessidade de novo processo.
+
+## Capítulo VII
+
+## Disposições finais
