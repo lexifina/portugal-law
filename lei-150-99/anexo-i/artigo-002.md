@@ -4,7 +4,7 @@
 
 1 - São sujeitos passivos do imposto:
 
-a) Notários, conservadores dos registos civil, comercial e predial e de outros bens sujeitos a registo, bem como outras entidades públicas, incluindo os estabelecimentos e organismos do Estado, relativamente aos actos, contratos e outros factos em que sejam intervenientes, com excepção dos celebrados perante notários relativos a crédito e garantias concedidos por instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e por quaisquer outras instituições financeiras, e quando, nos termos da alínea n) do artigo 5.º, os contratos ou documentos lhes sejam apresentados para qualquer efeito legal;
+a) Notários, conservadores dos registos civil, comercial, predial e de outros bens sujeitos a registo, outras entidades públicas, incluindo os estabelecimentos e organismos do Estado, bem como todas as entidades ou profissionais que autentiquem os documentos particulares, relativamente aos actos, contratos e outros factos em que sejam intervenientes, com excepção dos celebrados perante notários relativos a crédito e garantias concedidos por instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e por quaisquer outras instituições financeiras, e quando, nos termos da alínea n) do artigo 5.º, os contratos ou documentos lhes sejam apresentados para qualquer efeito legal;
 
 b) Entidades concedentes do crédito e da garantia ou credoras de juros, prémios, comissões e outras contraprestações;
 
@@ -28,8 +28,12 @@ l) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal
 
 m) Conservadores e oficiais dos registos, em exclusivo, nos casos em que os actos referidos na verba n.º 26 da tabela anexa ao presente Código não revistam a forma de escritura pública.
 
+n) As entidades ou profissionais que autentiquem os documentos particulares previstos na verba 15.8 da tabela geral, ou reconheçam as assinaturas neles apostas, com excepção daqueles que sejam relativos a crédito e garantias concedidos por instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e por quaisquer outras instituições financeiras, e quando, nos termos da alínea n) do artigo 5.º, os contratos ou documentos lhes sejam apresentados para qualquer efeito legal.
+
 2 - Nas transmissões gratuitas, são sujeitos passivos do imposto as pessoas singulares para quem se transmitam os bens, sem prejuízo das seguintes regras:
 
 a) Nas sucessões por morte, o imposto é devido pela herança, representada pelo cabeça-de-casal, e pelos legatários;
 
 b) Nas demais transmissões gratuitas, incluindo as aquisições por usucapião, o imposto é devido pelos respectivos beneficiários.
+
+3 - Não obstante o disposto no n.º 1, nos actos ou contratos da verba 1.1 da tabela geral, são sujeitos passivos do imposto as pessoas singulares ou colectivas para quem se transmitam os bens.

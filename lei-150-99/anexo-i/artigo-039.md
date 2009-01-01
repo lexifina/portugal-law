@@ -7,3 +7,5 @@
 2 - Se forem entregues ao ausente quaisquer bens por cuja aquisição não lhe tenha ainda sido liquidado imposto, os oito anos contar-se-ão desde a data da entrega.
 
 3 - Sendo desconhecida a quota do co-herdeiro alienante, para efeitos do artigo 26.º do CIMT, ou suspendendo-se o processo de liquidação, nos termos dos artigos 34.º e 35.º, aos oito anos acrescerá o tempo por que o desconhecimento ou a suspensão tiver durado.
+
+4 - Nos actos ou contratos por documento particular autenticado, ou qualquer outro título, quando essa forma seja admitida em alternativa à escritura pública, o prazo de caducidade do imposto devido conta-se a partir da data da promoção do registo predial.

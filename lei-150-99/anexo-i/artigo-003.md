@@ -14,7 +14,7 @@ b) No arrendamento e subarrendamento, o locador e o sublocador;
 
 c) Nas apostas, o apostador;
 
-d) No comodato, o comodatário;
+d) (Revogada.)
 
 e) Nas garantias, as entidades obrigadas à sua apresentação;
 

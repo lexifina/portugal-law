@@ -12,4 +12,4 @@ c) As pessoas colectivas de utilidade pública administrativa e de mera utilidad
 
 d) As instituições particulares de solidariedade social e entidades a estas legalmente equiparadas;
 
-e) O cônjuge, descendentes e ascendentes, nas transmissões gratuitas de que forem beneficiários.
+e) O cônjuge ou unido de facto, descendentes e ascendentes, nas transmissões gratuitas sujeitas à verba 1.2 da tabela geral de que são beneficiários.
