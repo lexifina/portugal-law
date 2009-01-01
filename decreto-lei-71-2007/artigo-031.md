@@ -2,4 +2,8 @@
 
 ### Remunerações em caso de acumulação
 
-As acumulações de funções previstas nas alíneas a) e b) do n.º 3, no n.º 4 do artigo 20.º e no n.º 4 do artigo 22.º não conferem direito a qualquer remuneração adicional, incluindo os referidos no n.º 2 do artigo 28.º, nas alíneas a), b) e c) do artigo 30.º, no n.º 3 do artigo 32.º, nos n.os 1 e 3 do artigo 33.º, no artigo 34.º e quaisquer outros benefícios e regalias aplicáveis nessas empresas.
+1 - A acumulação de funções prevista no n.º 4 do artigo 20.º não confere direito a qualquer remuneração adicional.
+
+2 - Nos casos de acumulação nos termos do n.º 4 do artigo 22.º, a remuneração acumulada dos administradores não executivos não pode exceder dois terços da remuneração fixa estabelecida para os administradores executivos com a remuneração mais elevada.
+
+3 - No caso previsto no n.º 1, a remuneração que eventualmente caberia ao gestor reverte a favor da empresa em que o mesmo exerce ou passa a exercer funções.
