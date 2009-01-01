@@ -24,4 +24,4 @@ c) Na transmissão ou locação do imóvel subsequente a uma operação efectuad
 
 3 - No caso de contratos realizados em simultâneo, em que haja lugar à renúncia à isenção, a condição prevista na alínea b) do n.º 1, relativamente à inscrição em nome do proprietário, deve verificar-se em relação ao sujeito passivo que realiza a transmissão do imóvel no primeiro dos contratos.
 
-4 - Não é permitida a renúncia à isenção na sublocação de bens imóveis.
+4 - Não é permitida a renúncia na sublocação de bens imóveis, excepto quando estes sejam destinados a fins industriais.
