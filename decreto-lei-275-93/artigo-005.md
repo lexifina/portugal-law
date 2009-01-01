@@ -4,7 +4,7 @@
 
 1 - Compete à Direcção-Geral do Turismo autorizar a exploração do empreendimento no regime do direito real de habitação periódica.
 
-2 - O proprietário das unidades de alojamento sujeitas ao regime de direitos reais de habitação periódica deve apresentar na Direcção-Geral do Turismo o pedido de autorização da constituição com os seguintes elementos:
+2 - O proprietário das unidades de alojamento sujeitas ao regime de direitos reais de habitação periódica deve apresentar no Turismo de Portugal, I. P., o pedido de autorização da constituição com os seguintes elementos:
 
 a) A identificação do ou dos proprietários do empreendimento turístico;
 
@@ -14,7 +14,7 @@ c) A identificação do empreendimento, com menção do número da descrição d
 
 d) Classificação provisória atribuída ao empreendimento turístico, se este ainda não estiver em funcionamento, ou a classificação definitiva, se já tiverem decorrido dois meses sobre a sua abertura ao público;
 
-e) A escritura de constituição da propriedade horizontal que garanta a utilização das instalações e equipamentos de uso comum por parte dos titulares de direitos reais de habitação periódica, nos termos previstos na alínea e) do n.º 1 do artigo anterior;
+e) O título de constituição da propriedade horizontal que garanta a utilização das instalações e equipamentos de uso comum por parte dos titulares de direitos reais de habitação periódica, nos termos previstos na alínea e) do n.º 1 do artigo anterior;
 
 f) No caso de o empreendimento se encontrar ainda em construção, a licença de construção emitida pela câmara municipal competente;
 

@@ -4,7 +4,7 @@
 
 1 - Do certificado predial devem constar:
 
-a) A data e o cartório notarial em que foi celebrada a escritura pública de constituição do direito real de habitação periódica;
+a) A data em que foi realizado o acto de constituição do direito real de habitação periódica;
 
 b) Os elementos do título de constituição do direito real de habitação periódica referidos nas alíneas a) a c) do n.º 2 do artigo 5.º;
 

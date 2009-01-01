@@ -2,7 +2,7 @@
 
 ### Duração
 
-1 - O direito real de habitação periódica é, na falta de indicação em contrário, perpétuo, mas pode ser-lhe fixado um limite de duração, não inferior a 15 anos, a contar da celebração da escritura pública prevista no artigo 6.º, excepto quando o empreendimento estiver ainda em construção, em que o prazo começa a contar a partir da data de abertura ao público do empreendimento turístico.
+1 - O direito real de habitação periódica é, na falta de indicação em contrário, perpétuo, mas pode ser-lhe fixado um limite de duração, não inferior a 15 anos, a contar da celebração do acto previsto no artigo 6.º, excepto quando o empreendimento estiver ainda em construção, em que o prazo começa a contar a partir da data de abertura ao público do empreendimento turístico.
 
 2 - O direito real de habitação periódica é limitado a um período de tempo em cada ano, que pode variar entre o mínimo de 7 dias seguidos e o máximo de 30 dias seguidos.
 
