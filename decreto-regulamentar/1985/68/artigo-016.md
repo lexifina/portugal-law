@@ -1,7 +1,3 @@
-## Secção II
-
-## Dos serviços e suas competências
-
 ## Subsecção I
 
 ## Serviços Operativos
