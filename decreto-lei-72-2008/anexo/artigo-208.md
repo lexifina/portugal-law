@@ -8,13 +8,13 @@ a) A identificação das partes;
 
 b) O capital garantido e os respectivos valores de resgate nas datas aniversárias do contrato;
 
-c) As prestações a satisfazer pelo subscritor do título;
+c) As prestações a satisfazer pelo subscritor ou portador do título;
 
 d) Os encargos, sua forma de incidência e o momento em que são cobrados;
 
 e) A indicação de que o contrato confere ou não confere o direito à participação nos resultados e, no primeiro caso, de qual a forma de cálculo e de distribuição desses resultados;
 
-f) A indicação de que o subscritor do título pode requerer, a qualquer momento, as seguintes informações:
+f) A indicação de que o subscritor ou portador do título pode requerer, a qualquer momento, as seguintes informações:
 
 i) Em contratos de prestação única com participação nos resultados, o valor da participação nos resultados distribuída até ao momento referido no pedido de informação;
 
@@ -34,7 +34,7 @@ m) A lei aplicável ao contrato e as condições de arbitragem.
 
 2 - Sem prejuízo do disposto no número anterior, os contratos de capitalização expressos em unidades de conta devem incluir as cláusulas estabelecidas no n.º 3 do artigo 206.º
 
-3 - (Revogado).
+3 - Tratando-se de títulos ao portador, as condições gerais ou especiais do contrato devem prever a obrigatoriedade de o seu legítimo detentor, em caso de extravio, avisar imediatamente o segurador.
 
 4 - Nas condições particulares, os títulos devem referir:
 
