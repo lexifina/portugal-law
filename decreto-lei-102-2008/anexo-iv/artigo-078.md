@@ -24,11 +24,13 @@ b) Em processo de insolvência quando a mesma seja decretada.
 
 a) O valor do crédito não seja superior a (euro) 750, IVA incluído, a mora do pagamento se prolongue para além de seis meses e o devedor seja particular ou sujeito passivo que realize exclusivamente operações isentas que não confiram direito a dedução;
 
-b) Os créditos sejam superiores a (euro) 750 e inferiores a (euro) 8000, IVA incluído, e o devedor, sendo particular ou sujeito passivo que realize exclusivamente operações isentas que não confiram direito a dedução, conste no registo informático de execuções como executado contra quem foi movido processo de execução anterior entretanto suspenso por não terem sido encontrados bens penhoráveis;
+b) Os créditos sejam superiores a (euro) 750 e inferiores a (euro) 8000, IVA incluído, quando o devedor, sendo um particular ou um sujeito passivo que realize exclusivamente operações isentas que não conferem o direito à dedução, conste no registo informático de execuções como executado contra quem foi movido processo de execução anterior entretanto suspenso ou extinto por não terem sido encontrados bens penhoráveis;
 
 c) Os créditos sejam superiores a (euro) 750 e inferiores a (euro) 8000, IVA incluído, tenha havido aposição de fórmula executória em processo de injunção ou reconhecimento em acção de condenação e o devedor seja particular ou sujeito passivo que realize exclusivamente operações isentas que não confiram direito a dedução;
 
 d) Os créditos sejam inferiores a (euro) 6000, IVA incluído, deles sendo devedor sujeito passivo com direito à dedução e tenham sido reconhecidos em acção de condenação ou reclamados em processo de execução e o devedor tenha sido citado editalmente.
+
+e) Os créditos sejam superiores a (euro) 750 e inferiores a (euro) 8000, IVA incluído, quando o devedor, sendo um particular ou um sujeito passivo que realize exclusivamente operações isentas que não conferem direito a dedução, conste da lista de acesso público de execuções extintas com pagamento parcial ou por não terem sido encontrados bens penhoráveis no momento da dedução.
 
 9 - O valor global dos créditos referidos no número anterior, o valor global do imposto a deduzir, a realização de diligências de cobrança por parte do credor e o insucesso, total ou parcial, de tais diligências devem encontrar-se documentalmente comprovados e ser certificados por revisor oficial de contas.
 
@@ -45,3 +47,5 @@ d) Os créditos sejam inferiores a (euro) 6000, IVA incluído, deles sendo deved
 15 - O disposto no número anterior é igualmente aplicável aos sujeitos passivos que tenham o direito à dedução parcial do imposto, nos termos do disposto no artigo 23.º, sem prejuízo da liquidação adicional e pagamento do imposto e dos juros compensatórios que se mostrem devidos pela diferença.
 
 16 - Os documentos, certificados e comunicações a que se referem os n.os 8 a 11 do presente artigo devem integrar o processo de documentação fiscal previsto nos artigos 121.º do Código do IRC e 129.º do Código do IRS.
+
+17 - O disposto no n.º 8 não é aplicável quando estejam em causa transmissões de bens ou prestações de serviços cujo adquirente ou destinatário constasse, no momento da realização da operação, da lista de acesso público de execuções extintas com pagamento parcial ou por não terem sido encontrados bens penhoráveis.
