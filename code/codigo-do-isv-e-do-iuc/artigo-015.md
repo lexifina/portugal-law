@@ -6,4 +6,4 @@
 
 2 - O estatuto de operador reconhecido é objecto de reconhecimento pelo director de alfândega da área de residência ou sede, mediante pedido formulado pelas pessoas singulares ou colectivas interessadas, reunidos que estejam os requisitos a que se refere o artigo 13.º, com exclusão das alíneas b) e c) do n.º 1.
 
-3 - O estatuto de operador reconhecido confere ao sujeito passivo o direito de deter os veículos tributáveis em suspensão de imposto pelo prazo máximo de seis meses depois de apresentada a declaração aduaneira de veículos, implicando o cumprimento das obrigações a que estão sujeitos os operadores registados, sob pena de revogação da autorização nos termos estabelecidos no artigo anterior.
+3 - O estatuto de operador reconhecido confere ao sujeito passivo o direito de deter os veículos tributáveis em suspensão de imposto pelo prazo máximo de dois anos depois de apresentada a declaração aduaneira de veículos, implicando o cumprimento das obrigações a que estão sujeitos os operadores registados, sob pena de revogação da autorização nos termos estabelecidos no artigo anterior.

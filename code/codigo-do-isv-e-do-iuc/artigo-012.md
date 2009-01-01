@@ -12,7 +12,7 @@
 
 a) Apresentar, processar e imprimir a declaração aduaneira de veículos, na admissão ou importação de veículos, associando-lhe pedido de isenção ou redução do imposto;
 
-b) Deter os veículos tributáveis em suspensão de imposto por prazo máximo de três anos depois de apresentada a declaração aduaneira de veículos;
+b) Deter os veículos tributáveis em suspensão de imposto por prazo máximo de dois anos depois de apresentada a declaração aduaneira de veículos;
 
 c) Alienar os veículos novos a outro operador registado enquanto permaneçam em suspensão de imposto;
 

@@ -4,7 +4,7 @@
 
 1 - Os automóveis ligeiros de passageiros e de utilização mista que se destinem ao serviço de aluguer com condutor - táxis, letra 'A' e letra 'T', introduzidos no consumo e que apresentem até quatro anos de uso, contados desde a atribuição da primeira matrícula e respectivos documentos, beneficiam de uma isenção correspondente a 70 % do montante do imposto.
 
-2 - Os veículos referidos no número anterior que se apresentem equipados com motores preparados para o consumo exclusivo, no seu sistema de propulsão, de gás de petróleo liquefeito, de gás natural ou de energia eléctrica, ou com motores híbridos que permitam o seu consumo juntamente com gasolina ou gasóleo, ficam integralmente isentos de imposto.
+2 - Os veículos referidos no número anterior que se encontrem equipados com motores preparados para o consumo exclusivo, no seu sistema de propulsão, de gás de petróleo liquefeito, gás natural ou de energia eléctrica, ou com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de energia eléctrica ou solar quer de gasolina ou gasóleo, ficam integralmente isentos de imposto.
 
 3 - A isenção prevista no número anterior é aplicável também aos veículos adaptados ao acesso e transporte de deficientes nos termos definidos regulamentarmente, por portaria conjunta dos membros do Governo responsáveis pelas áreas das Finanças e da Reabilitação, independentemente do respectivo sistema de combustão.
 

@@ -12,7 +12,7 @@ b) Reembolso de 50% no período superior a um ano mas inferior ou igual a dois a
 
 c) Reembolso de 25% no período superior a dois anos mas inferior ou igual a três anos.
 
-3 - Para efeitos de reembolso do imposto, o requerente apresenta na alfândega da sua área de residência comprovativo do cancelamento da matrícula nacional, bem como documento que comprove que o veículo foi matriculado no país de destino.
+3 - Para efeitos de reembolso do imposto, o requerente apresenta na alfândega comprovativo do cancelamento da matrícula nacional, bem como cópia da declaração de expedição do veículo ou, no caso de se tratar de uma exportação, cópia do documento administrativo único com a autorização de saída do veículo nele averbada.
 
 4 - O pedido de reembolso é apresentado no prazo máximo de um ano desde a data da expedição ou exportação e o seu deferimento depende da inexistência de dívidas tributárias ao Estado em fase de cobrança coerciva, sem que haja reclamação graciosa, impugnação judicial, recurso judicial, oposição à execução ou pagamento em prestações com prestação de garantia.
 
