@@ -142,20 +142,6 @@ Prestar a necessária assistência aos magistrados;
 
 Desempenhar as demais funções conferidas por lei ou por determinação superior.
 
-m) Compete ao oficial porteiro:
+m) [Revogada.]
 
-Zelar pela segurança e conservação do edifício;
-
-Executar as diversas tarefas relativas ao serviço de portaria;
-
-Orientar, fiscalizando e colaborando, a limpeza das instalações e pequenos serviços de reparação;
-
-Desempenhar as demais funções conferidas por lei ou por determinação superior.
-
-n) Compete ao auxiliar de segurança:
-
-Assegurar a vigilância e a segurança das instalações;
-
-Controlar a entrada e a saída de pessoas, verificando os objectos suspeitos de que as mesmas se façam acompanhar;
-
-Desempenhar as demais funções conferidas por lei ou por determinação superior.
+n) [Revogada.]
