@@ -16,7 +16,7 @@
 
 3 - Em relação aos terrenos para construção, deve ser apresentada fotocópia do alvará de loteamento, que deve ser substituída, caso não exista loteamento, por fotocópia do alvará de licença de construção, projecto aprovado ou documento comprovativo da viabilidade construtiva.
 
-4 - A avaliação reporta-se à data do pedido de inscrição do prédio na matriz.
+4 - A avaliação reporta-se à data do pedido de inscrição ou actualização do prédio na matriz.
 
 5 - Na avaliação de prédios urbanos é aplicável o disposto no artigo 35.º
 

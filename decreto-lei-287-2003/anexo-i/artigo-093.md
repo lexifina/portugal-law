@@ -12,6 +12,6 @@
 
 3 - O preenchimento das cadernetas ou fotocópia compete ao serviço que organizar as respectivas matrizes.
 
-4 - Os notários e os conservadores do registo predial, sempre que intervenham em actos ou contratos que exijam a apresentação da caderneta predial referida no n.º 1 relativa a prédios objecto desses actos, contratos ou factos, podem obtê-la por via electrónica e entregá-la, gratuitamente, ao sujeito passivo.
+4 - Os notários, conservadores e oficiais dos registos, bem como as entidades profissionais com competência para autenticar documentos particulares que titulem actos ou contratos sujeitos a registo predial, sempre que intervenham em actos ou contratos que exijam a apresentação da caderneta predial referida no n.º 1 relativa a prédios objecto desses actos, contratos ou factos, podem obtê-la por via electrónica e entregá-la, gratuitamente, ao sujeito passivo.
 
-5 - Nos casos em que a declaração modelo n.º 1 do IMI é entregue para efeitos de inscrição de prédio urbano ou fracção autónoma na matriz, os notários e os conservadores do registo predial que intervenham em actos ou contratos que exijam a sua apresentação podem obtê-la por via electrónica.
+5 - Nos casos em que a declaração modelo n.º 1 do IMI é entregue para efeitos de inscrição de prédio urbano ou fracção autónoma na matriz, os notários, conservadores e oficiais dos registos, bem como as entidades profissionais com competência para autenticar documentos particulares que titulem actos ou contratos sujeitos a registo predial que intervenham em actos ou contratos que exijam a sua apresentação podem obtê-la por via electrónica.

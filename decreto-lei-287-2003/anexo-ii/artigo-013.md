@@ -22,7 +22,7 @@ f) O valor patrimonial tributário do direito de propriedade do solo, quando o d
 
 g) O valor patrimonial tributário do direito de superfície perpétuo será igual ao valor da propriedade plena do imóvel, deduzido o valor da propriedade do solo, calculado nos termos da alínea anterior;
 
-h) O valor patrimonial tributário da propriedade do solo, quando o direito de superfície for temporário, obtém-se deduzindo ao valor da propriedade plena 10% por cada período completo de cinco anos, conforme o tempo por que aquele direito ainda deva durar, não podendo, porém, a dedução exceder 80%;
+h) O valor patrimonial tributário da propriedade do solo, quando o direito de superfície for temporário, obtém-se deduzindo ao valor da propriedade plena 10 % por cada período indivisível de cinco anos, conforme o tempo por que aquele direito ainda deva durar, não podendo, porém, a dedução exceder 80 %;
 
 i) O valor actual do direito de superfície temporário obtém-se descontando ao valor da propriedade plena o valor da propriedade do solo, calculado nos termos da alínea anterior;
 

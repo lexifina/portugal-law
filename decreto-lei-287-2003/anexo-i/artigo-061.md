@@ -8,7 +8,7 @@ a) Director-geral dos Impostos, que preside, podendo delegar no subdirector-gera
 
 b) Dois vogais indicados pelo Ministério das Obras Públicas, Transportes e Habitação;
 
-c) Um vogal indicado pela Associação Nacional dos Municípios Portugueses;
+c) Dois vogais indicados pela Associação Nacional de Municípios Portugueses;
 
 d) Dois vogais indicados pela Direcção-Geral dos Impostos, sendo um secretário;
 

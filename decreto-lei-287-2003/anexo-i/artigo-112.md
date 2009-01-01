@@ -16,7 +16,7 @@ c) Prédios urbanos avaliados, nos termos do CIMI: 0,2 % a 0,4 %.
 
 2 - Tratando-se de prédios constituídos por parte rústica e urbana, aplica-se ao valor patrimonial tributário de cada parte a respectiva taxa.
 
-3 - As taxas previstas nas alíneas b) e c) do n.º 1 são elevadas ao dobro nos casos de prédios urbanos que se encontrem devolutos há mais de um ano, considerando-se devolutos os prédios como tal definidos em diploma próprio.
+3 - As taxas previstas nas alíneas b) e c) do n.º 1 são elevadas, anualmente, ao dobro nos casos de prédios urbanos que se encontrem devolutos há mais de um ano e elevadas, anualmente, ao triplo nos casos de prédios em ruínas, considerando-se devolutos ou em ruínas, os prédios como tal definidos em diploma próprio.
 
 4 - Para os prédios que sejam propriedade de entidades que tenham domicílio fiscal em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças, a taxa do imposto é de 1%, sendo elevado a 2% nas situações a que se refere o número anterior.
 
@@ -45,3 +45,5 @@ c) Não terem sido neles praticadas as operações silvícolas mínimas necessá
 13 - As deliberações da assembleia municipal referidas no presente artigo devem ser comunicadas à Direcção-Geral dos Impostos, por transmissão electrónica de dados, para vigorarem no ano seguinte, aplicando-se as taxas mínimas referidas no n.º 1, caso as comunicações não sejam recebidas até 30 de Novembro.
 
 14 - No caso de as deliberações compreenderem zonas delimitadas de freguesias ou prédios individualmente considerados, das comunicações referidas no número anterior deve constar a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
+
+15 - Para efeitos da aplicação da taxa do IMI prevista no n.º 3, a identificação dos prédios ou fracções autónomas em ruínas compete às câmaras municipais e deve ser comunicada à Direcção-Geral dos Impostos, nos termos e prazos referidos no n.º 13.

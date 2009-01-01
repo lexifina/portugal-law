@@ -28,4 +28,4 @@ Ano de 2011 - (euro) 165.
 
 a) Aos prédios que sejam propriedade das entidades referidas no n.º 4 do artigo 112.º do CIMI;
 
-b) Aos prédios devolutos referidos no n.º 3 do artigo 112.º do CIMI.
+b) Aos prédios devolutos e aos prédios em ruínas referidos no n.º 3 do artigo 112.º do CIMI.
