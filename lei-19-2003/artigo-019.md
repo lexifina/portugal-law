@@ -6,4 +6,4 @@
 
 2 - As despesas de campanha eleitoral são discriminadas por categorias, com a junção de documento certificativo em relação a cada acto de despesa.
 
-3 - O pagamento das despesas de campanha faz-se, obrigatoriamente, por instrumento bancário, nos termos do artigo 9.º, com excepção das despesas de montante inferior a um salário mínimo mensal nacional e desde que, durante esse período, estas não ultrapassem o valor global de 2% dos limites fixados para as despesas de campanha.
+3 - O pagamento das despesas de campanha faz-se obrigatoriamente, por instrumento bancário, nos termos do artigo 9.º, com excepção das despesas de montante inferior ao valor do IAS desde que, durante este período, estas não ultrapassem o valor global de 2 % dos limites fixados para as despesas de campanha.
