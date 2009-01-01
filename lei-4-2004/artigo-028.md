@@ -18,15 +18,15 @@ b) A identificação da missão;
 
 c) Os termos e a duração do mandato, com a definição clara dos objectivos a alcançar;
 
-d) O estatuto e a forma de nomeação do responsável e dos elementos que a compõem;
+d) O estatuto dos responsáveis que a compõem;
 
 e) O número de elementos que deve integrar a estrutura e respectivas funções;
 
 f) Os encargos orçamentais e respectivo cabimento orçamental.
 
-4 - As estruturas de missão devem recorrer essencialmente à requisição e ao destacamento de pessoal pertencente aos quadros dos serviços e organismos da Administração Pública.
+4 - As estruturas de missão não podem constituir relações jurídicas de emprego público por tempo indeterminado.
 
-5 - Em casos excepcionais, devidamente fundamentados, podem ser celebrados contratos individuais de trabalho a termo, os quais cessam automaticamente no termo do prazo do mandato.
+5 - Os responsáveis pelas estruturas de missão exercem as respectivas funções em comissão de serviço e podem recorrer a mobilidade geral ou, com respeito pelo disposto no número anterior, recrutar trabalhadores, nos termos da lei e dentro do número fixado na resolução.
 
 6 - A estrutura de missão considera-se automaticamente extinta uma vez decorrido o prazo pelo qual foi constituída, sem prejuízo de o respectivo mandato poder ser prorrogado por resolução do Conselho de Ministros, que deve fundamentar tal decisão referindo, designadamente, o grau de cumprimento dos objectivos iniciais.
 

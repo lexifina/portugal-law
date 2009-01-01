@@ -26,6 +26,6 @@ f) Processamento de vencimentos e contabilidade.
 
 4 - Num mesmo ministério podem ser propostos outros modelos de funcionamento que consubstanciem os princípios de partilha de serviços.
 
-5 - Para efeito dos números anteriores pode ser concretizada a requisição ou transferência do pessoal anteriormente afecto à execução dessas actividades para o serviço prestador, sem prejuízo da manutenção de uma estrutura mínima que permita e facilite o diálogo com este serviço.
+5 - Para efeitos dos números anteriores, pode haver lugar a mobilidade interna ou a reafectação, no âmbito do regime de reorganização de serviços, do pessoal anteriormente afecto à execução dessas actividades para o serviço prestador, sem prejuízo da manutenção de uma estrutura mínima que permita e facilite o diálogo com este serviço.
 
-6 - Nos casos em que se verifique o recurso à transferência de funcionários, os respectivos lugares são aditados ao quadro de destino, se necessário, com a inerente extinção no quadro de origem.
+6 - (Revogado.)

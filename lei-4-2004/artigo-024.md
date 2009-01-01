@@ -22,4 +22,4 @@ f) A dotação de lugares de direcção superior e de direcção intermédia de 
 
 g) O estatuto remuneratório dos chefes de equipa multidisciplinar, se aplicável.
 
-2 - A aprovação e alteração dos quadros de pessoal são feitas por portaria conjunta do ministro da tutela, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.
+2 - (Revogado).
