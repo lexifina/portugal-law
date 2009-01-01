@@ -6,4 +6,4 @@
 
 2 - Além da superintendência do ministro da tutela, os institutos públicos devem observar as orientações governamentais estabelecidas pelo Ministro das Finanças e pelo membro do Governo responsável pela Administração Pública, respectivamente em matéria de finanças e pessoal.
 
-3 - Compete ao ministro da tutela proceder ao controlo do desempenho dos institutos públicos, em especial quanto ao cumprimento dos fins e dos objectivos estabelecidos e quanto à utilização dos recursos pessoais e materiais postos à sua disposição.
+3 - (Revogado).
