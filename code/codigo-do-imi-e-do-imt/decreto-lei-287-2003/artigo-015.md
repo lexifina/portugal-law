@@ -15,3 +15,5 @@
 6 - Tratando-se de transmissões gratuitas de prédios urbanos, a declaração modelo n.º 1 do imposto municipal sobre imóveis, aprovada pela Portaria n.º 1282/2003, de 13 de Novembro, é apresentada no prazo estabelecido no n.º 3 do artigo 26.º do Código do Imposto do Selo.
 
 7 - As plantas de arquitectura previstas no n.º 2 do artigo 37.º do Código do Imposto Municipal sobre Imóveis, a juntar à declaração modelo n.º 1, para efeitos de avaliação dos prédios referidos no n.º 1, são fornecidas gratuitamente pelas câmaras municipais, mediante declaração de que as mesmas se destinam exclusivamente ao cumprimento da obrigação imposta pelo presente artigo, podendo aquelas entidades cobrar apenas os custos associados à reprodução daqueles documentos.
+
+8 - O disposto no n.º 2 do presente artigo não se aplica ao cônjuge, descendentes e ascendentes, nas transmissões por morte de que forem beneficiários, salvo vontade expressa pelos próprios.

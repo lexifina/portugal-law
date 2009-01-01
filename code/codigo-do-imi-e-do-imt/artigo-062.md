@@ -4,7 +4,7 @@
 
 1 - Compete à CNAPU:
 
-a) Propor trienalmente, até 31 de Março, os coeficientes de localização mínimos e máximos a aplicar em cada município, com base designadamente em elementos fornecidos pelos peritos locais e regionais e pelas entidades representadas na CNAPU, para vigorarem nos três anos seguintes;
+a) Propor trienalmente, até 31 de Outubro, os coeficientes de localização mínimos e máximos a aplicar em cada município, com base designadamente em elementos fornecidos pelos peritos locais e regionais e pelas entidades representadas na CNAPU, para vigorarem nos três anos seguintes;
 
 b) Propor trienalmente, até 31 de Outubro, o zonamento e respectivos coeficientes de localização, as percentagens a que se refere o n.º 2 do artigo 45.º e as áreas da sua aplicação, bem como os coeficientes majorativos aplicáveis às moradias unifamiliares, com base em propostas dos peritos locais e regionais, para vigorarem nos três anos seguintes em cada município;
 

@@ -45,3 +45,5 @@ f) As entradas dos sócios com bens imóveis para a realização do capital das 
 g) As transmissões de bens imóveis por fusão ou cisão das sociedades referidas na antecedente alínea e), ou por fusão de tais sociedades entre si ou com sociedade civil;
 
 h) As transmissões de benfeitorias e as aquisições de bens imóveis por acessão.
+
+6 - O disposto na alínea c) do número anterior não é aplicável sempre que o excesso da quota-parte resultar de acto de partilha por efeito de dissolução do casamento que não tenha sido celebrado sob o regime de separação de bens.
