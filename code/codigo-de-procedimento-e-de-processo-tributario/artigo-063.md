@@ -6,7 +6,7 @@
 
 2 - Consideram-se disposições antiabuso, para os efeitos do presente Código, quaisquer normas legais que consagrem a ineficácia perante a administração tributária de negócios ou actos jurídicos celebrados ou praticados com manifesto abuso das formas jurídicas de que resulte a eliminação ou redução dos tributos que de outro modo seriam devidos.
 
-3 - O procedimento referido no número anterior pode ser aberto no prazo de três anos após a realização do acto ou da celebração do negócio jurídico objecto da aplicação das disposições antiabuso.
+3 - O procedimento referido no n.º 1 pode ser aberto no prazo de três anos a contar do início do ano civil seguinte ao da realização do negócio jurídico objecto das disposições anti-abuso.
 
 4 - A aplicação das disposições antiabuso depende da audição do contribuinte, nos termos da lei.
 
