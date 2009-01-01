@@ -10,7 +10,7 @@
 
 4 - Vale como garantia para os efeitos do n.º 1 a penhora já feita sobre os bens necessários para assegurar o pagamento da dívida exequenda e acrescido ou a efectuar em bens nomeados para o efeito pelo executado no prazo referido no n.º 6.
 
-5 - A garantia será prestada pelo valor da dívida exequenda, juros de mora até ao termo do prazo de pagamento limite de 5 anos e custas a contar até à data do pedido, acrescida de 25% da soma daqueles valores.
+5 - A garantia é prestada pelo valor da dívida exequenda, juros de mora contados até à data do pedido, com o limite de cinco anos, e custas na totalidade, acrescida de 25 % da soma daqueles valores.
 
 6 - As garantias referidas no n.º 1 serão constituídas para cobrir todo o período de tempo que foi concedido para efectuar o pagamento, acrescido de três meses, e serão apresentadas no prazo de 15 dias a contar da notificação que autorizar as prestações, salvo no caso de garantia que pela sua natureza justifique a ampliação do prazo até 30 dias, prorrogáveis por mais 30, em caso de circunstâncias excepcionais.
 
