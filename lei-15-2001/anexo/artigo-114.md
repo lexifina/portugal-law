@@ -12,7 +12,7 @@
 
 5 - Para efeitos contra-ordenacionais são puníveis como falta de entrega da prestação tributária:
 
-a) A falta de liquidação, liquidação inferior à devida ou liquidação indevida de imposto em factura ou documento equivalente ou a sua menção, dedução ou rectificação sem observância dos termos legais;
+a) A falta de liquidação, liquidação inferior à devida ou liquidação indevida de imposto em factura ou documento equivalente, a falta de entrega, total ou parcial, ao credor tributário do imposto devido que tenha sido liquidado ou que devesse ter sido liquidado em factura ou documento equivalente, ou a sua menção, dedução ou rectificação sem observância dos termos legais;
 
 b) A falta de pedido de liquidação do imposto que deva preceder a alienação ou aquisição de bens;
 
