@@ -8,6 +8,8 @@ a) Quando existam indícios da prática de crime em matéria tributária;
 
 b) Quando existam factos concretamente identificados indiciadores da falta de veracidade do declarado.
 
+c) Quando se verificar a situação prevista na alínea f) do artigo 87.º ou os rendimentos declarados em sede de IRS se afastarem significativamente, para menos, sem razão justificada, dos padrões de rendimento que razoavelmente possam permitir as manifestações de riqueza evidenciadas pelo sujeito passivo, nos termos do artigo 89.º-A.
+
 2 - A administração tributária tem, ainda, o poder de aceder directamente aos documentos bancários, nas situações de recusa da sua exibição ou de autorização para a sua consulta:
 
 a) Quando se trate de documentos de suporte de registos contabilísticos dos sujeitos passivos de IRS e IRC que se encontrem sujeitos a contabilidade organizada;
@@ -18,7 +20,7 @@ b) Quando o contribuinte usufrua de benefícios fiscais ou de regimes fiscais pr
 
 a) Quando se verificar a impossibilidade de comprovação e qualificação directa e exacta da matéria tributável, nos termos do artigo 88.º, e, em geral, quando estejam verificados os pressupostos para o recurso a uma avaliação indirecta;
 
-b) Quando se verificar a situação prevista na alínea f) do artigo 87.º ou os rendimentos declarados em sede de IRS se afastarem significativamente, para menos, sem razão justificada, dos padrões de rendimento que razoavelmente possam permitir as manifestações de riqueza evidenciadas pelo sujeito passivo, nos termos do artigo 89.º-A;
+b) (Revogada.)
 
 c) Quando seja necessário, para fins fiscais, comprovar a aplicação de subsídios públicos de qualquer natureza.
 
