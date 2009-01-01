@@ -46,4 +46,4 @@ b) A fiscalização dos actos materialmente administrativos praticados pelo Pres
 
 c) A fiscalização dos actos materialmente administrativos praticados pelo Conselho Superior da Magistratura e pelo seu Presidente;
 
-d) A apreciação de litígios emergentes de contratos individuais de trabalho, que não confiram a qualidade de agente administrativo, ainda que uma das partes seja uma pessoa colectiva de direito publico.
+d) A apreciação de litígios emergentes de contratos individuais de trabalho, ainda que uma das partes seja uma pessoa colectiva de direito público, com excepção dos litígios emergentes de contratos de trabalho em funções públicas.
