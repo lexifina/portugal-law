@@ -29,3 +29,5 @@ c) Os suprimentos e empréstimos efectuados pelo sócio à sociedade, no ano em 
 9 - Para a aplicação dos n.os 3 a 4 da tabela, atende-se ao valor médio de mercado, considerando, sempre que exista, o indicado pelas associações dos sectores em causa.
 
 10 - A decisão de avaliação da matéria colectável com recurso ao método indirecto constante deste artigo, após tornar-se definitiva, deve ser comunicada pelo director de finanças ao Ministério Público e, tratando-se de funcionário ou titular de cargo sob tutela de entidade pública, também à tutela destes para efeitos de averiguações no âmbito da respectiva competência.
+
+11 - A avaliação indirecta no caso da alínea f) do n.º 1 do artigo 87.º deve ser feita no âmbito de um procedimento que inclua a investigação das contas bancárias.
