@@ -6,4 +6,4 @@
 
 2 - O montante determinado nos termos do número anterior é multiplicado pelo número de nascituros medicamente comprovado.
 
-3 - Ao montante do abono pré-natal é aplicável majoração idêntica à prevista no n.º 4 do artigo 14.º, desde que a respectiva titular viva isoladamente ou o seu agregado familiar seja composto apenas por titulares do direito a abono de família para crianças e jovens.
+3 - Ao montante do abono pré-natal é aplicável majoração idêntica à prevista no n.º 4 do artigo 14.º, desde que a respectiva titular viva isoladamente ou apenas com titulares do direito a abono de família para crianças e jovens, em agregado familiar constituído nos termos dos artigos 8.º e 8.º-A.

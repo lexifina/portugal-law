@@ -28,6 +28,8 @@
 
 5 - Nos primeiros 12 meses de vida, o montante do abono de família para crianças e jovens é majorado nos termos a fixar em portaria.
 
-6 - Sempre que haja modificação da composição do agregado familiar que determina a alteração dos rendimentos de referência, o escalão de rendimentos de que depende a modulação dos montantes do abono de família para crianças e jovens deve ser reavaliado.
+6 - A majoração prevista no n.º 4 incide sobre o valor dos respectivos subsídios e das respectivas majorações e bonificações previstas na lei.
 
-7 - Os efeitos decorrentes da reavaliação, prevista no número anterior, produzem-se a partir do mês seguinte àquele em que ocorreram os factos determinantes da alteração do escalão.
+7 - Sempre que haja modificação da composição do agregado familiar que determina a alteração dos rendimentos de referência, o escalão de rendimentos de que depende a modulação dos montantes do abono de família para crianças e jovens deve ser reavaliado.
+
+8 - Os efeitos decorrentes da reavaliação, prevista no número anterior, produzem-se a partir do mês seguinte àquele em que ocorreram os factos determinantes da alteração do escalão.

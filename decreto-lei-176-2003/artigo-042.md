@@ -2,7 +2,7 @@
 
 ### Actuação das entidades gestoras das prestações
 
-1 - Sempre que da declaração anual, a que se referem os artigos anteriores, resulte posicionamento em escalão de rendimentos que venha a determinar valor inferior ao que vinha sendo concedido ao titular do direito ao abono de família para crianças e jovens, devem as entidades gestoras das prestações observar os seguintes procedimentos:
+1 - Sempre que da prova anual, a que se referem os artigos anteriores, resulte posicionamento em escalão de rendimentos que venha a determinar valor inferior ao que vinha sendo concedido ao titular do direito ao abono de família para crianças e jovens, devem as entidades gestoras das prestações observar os seguintes procedimentos:
 
 a) Notificar os interessados de que o valor da prestação irá sofrer redução a partir do ano civil subsequente àquele em que a prova teve lugar, como consequência de posicionamento em escalão diferente daquele em que se encontravam;
 

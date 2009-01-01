@@ -1,6 +1,6 @@
 ## Capítulo IV
 
-## Duração do abono de família para crianças e jovens
+## Duração do abono de família para crianças e jovens, do abono de família pré-natal e da bolsa de estudo
 
 # Artigo 19.º
 

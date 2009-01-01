@@ -16,4 +16,6 @@ b) Prestações por morte garantidas no âmbito dos subsistemas previdencial e d
 
 c) Prestação do rendimento social de inserção, no âmbito do subsistema de solidariedade.
 
-3 - Sem prejuízo do disposto no n.º 2 do artigo 13.º, o subsídio de funeral é cumulável com a generalidade das prestações garantidas no âmbito dos subsistemas do sistema público de segurança social.
+3 - O abono de família pré-natal é cumulável com as prestações garantidas pelo sistema de segurança social.
+
+4 - Sem prejuízo do disposto no n.º 2 do artigo 13.º, o subsídio de funeral é cumulável com a generalidade das prestações garantidas no âmbito dos subsistemas do sistema público de segurança social.
