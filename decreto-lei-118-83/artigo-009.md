@@ -10,7 +10,7 @@ b) Os filhos maiores dos beneficiários titulares, incluindo os dos que falecera
 
 2 - Os descendentes mencionados na alínea b) do número anterior podem inscrever-se como beneficiários familiares, nos termos seguintes:
 
-a) Até aos 26 anos, desde que frequentem curso do ensino de nível secundário ou equivalente ou superior, até à conclusão da licenciatura;
+a) Até aos 26 anos, desde que frequente curso do ensino de nível secundário ou equivalente, ou superior, até à conclusão da licenciatura, mestrado ou doutoramento;
 
 b) Se sofrerem de incapacidade total e permanente ou de doença prolongada que obstem à angariação de meios de subsistência.
 
