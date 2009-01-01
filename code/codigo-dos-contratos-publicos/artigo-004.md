@@ -12,7 +12,7 @@ c) De acordo com o procedimento específico de uma organização internacional d
 
 2 - O presente Código não é igualmente aplicável aos seguintes contratos:
 
-a) Contratos administrativos de provimento e contratos individuais de trabalho;
+a) Contratos de trabalho em funções públicas e contratos individuais de trabalho;
 
 b) Contratos de doação de bens móveis a favor de qualquer entidade adjudicante;
 
