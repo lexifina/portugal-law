@@ -6,9 +6,9 @@
 
 2 - Para efeitos do disposto no número anterior, consideram-se:
 
-a) «Jovens» os trabalhadores com idade superior a 16 e inferior a 30 anos, aferida na data da celebração do contrato de trabalho, com excepção dos jovens com menos de 23 anos, que não tenham concluído o ensino secundário, e que não estejam a frequentar uma oferta de educação-formação que permita elevar o nível de escolaridade ou qualificação profissional para assegurar a conclusão desse nível de ensino;
+a) 'Jovens' os trabalhadores com idade superior a 16 e inferior a 35 anos, inclusive, aferida na data da celebração do contrato de trabalho, com excepção dos jovens com menos de 23 anos, que não tenham concluído o ensino secundário, e que não estejam a frequentar uma oferta de educação-formação que permita elevar o nível de escolaridade ou qualificação profissional para assegurar a conclusão desse nível de ensino;
 
-b) «Desempregados de longa duração» os trabalhadores disponíveis para o trabalho, nos termos do Decreto-Lei n.º 220/2006, de 3 de Novembro, que se encontrem desempregados e inscritos nos centros de emprego há mais de 12 meses, sem prejuízo de terem sido celebrados, durante esse período, contratos a termo por período inferior a 6 meses, cuja duração conjunta não ultrapasse os 12 meses;
+b) 'Desempregados de longa duração' os trabalhadores disponíveis para o trabalho, nos termos do Decreto-Lei n.º 220/2006, de 3 de Novembro, que se encontrem desempregados e inscritos nos centros de emprego há mais de 9 meses, sem prejuízo de terem sido celebrados, durante esse período, contratos a termo por período inferior a 6 meses, cuja duração conjunta não ultrapasse os 12 meses;
 
 c) «Encargos» os montantes suportados pela entidade empregadora com o trabalhador, a título da remuneração fixa e das contribuições para a segurança social a cargo da mesma entidade;
 

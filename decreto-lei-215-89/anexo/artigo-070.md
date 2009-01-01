@@ -2,22 +2,24 @@
 
 ### Medidas de apoio ao transporte rodoviário de passageiros e de mercadorias
 
-1 - [Revogado].
+1 - Fica isenta de imposto a diferença positiva entre as mais-valias e as menos-valias resultantes da transmissão onerosa de:
 
-2 - [Revogado].
+a) Veículos afectos ao transporte público de passageiros, com lotação igual ou superior a 22 lugares, por sujeitos passivos de IRC licenciados, pelo IMTT, I. P., sempre que, no próprio exercício ou até ao fim do segundo exercício seguinte, seja efectuado o reinvestimento da totalidade do valor de realização na aquisição de veículos novos, com lotação igual ou superior a 22 lugares, com data de fabrico de, pelo menos, 2008 e que cumpram a norma ambiental Euro IV ou superior, afectos a idêntica finalidade;
 
-3 - [Revogado].
+b) Veículos afectos ao transporte em táxi, pertencentes a empresas devidamente licenciadas para esse fim, sempre que, no próprio exercício ou até ao fim do segundo exercício seguinte, seja efectuado o reinvestimento da totalidade do valor de realização na aquisição de veículos com data de fabrico de, pelo menos, 2008, afectos a idêntica finalidade;
 
-4 - Os gastos suportados com a aquisição, em território português, de combustíveis para abastecimento de veículos são dedutíveis, em valor correspondente a 120 % do respectivo montante, para efeitos da determinação do lucro tributável, quando se trate de:
+c) Veículos de mercadorias com peso bruto igual ou superior a 12 t, adquiridos antes de 1 de Julho de 2008 e com a primeira matrícula anterior a esta data, afectos ao transporte rodoviário de mercadorias público ou por conta de outrem, sempre que, no próprio exercício ou até ao fim do segundo exercício seguinte, a totalidade do valor da realização seja reinvestido em veículos de mercadorias com peso bruto igual ou superior a 12 t e primeira matrícula posterior a 1 de Julho de 2008, que sejam afectos ao transporte rodoviário de mercadorias, público ou por conta de outrem.
 
-a) Veículos afetos ao transporte público de passageiros e estejam registados como elementos do ativo fixo tangível de sujeitos passivos de IRC que estejam licenciados pelo IMT, I. P.;
+2 - Os veículos objecto do benefício referido no número anterior devem permanecer registados como elementos do activo imobilizado dos sujeitos passivos beneficiários pelo período de cinco anos.
 
-b) Veículos afetos ao transporte rodoviário de mercadorias público ou por conta de outrem, com peso bruto igual ou superior a 3,5 t, registados como elementos do ativo fixo tangível de sujeitos passivos IRC ou alugados sem condutor por estes e que estejam licenciados pelo IMT, I. P.;
+3 - O benefício previsto no n.º 1 não prejudica a aplicação dos n.os 5 e 6 do artigo 45.º do Código de IRC.
 
-c) Veículos afectos ao transporte em táxi, registados como elementos do activo fixo tangível dos sujeitos passivos de IRS ou de IRC, com contabilidade organizada e que estejam devidamente licenciados.
+4 - Os custos suportados com a aquisição, em território português, de combustíveis para abastecimento de veículos são dedutíveis, em valor correspondente a 120 % do respectivo montante, para efeitos da determinação do lucro tributável, quando se trate de:
 
-5 - O benefício previsto no número anterior encontra-se excluído do âmbito de aplicação do n.º 1 do artigo 92.º do Código do IRC.
+a) Veículos afectos ao transporte público de passageiros, com lotação igual ou superior a 22 lugares, e estejam registados como elementos do activo imobilizado de sujeitos passivos de IRC que estejam licenciados pelo IMTT, I. P.;
 
-6 - Os benefícios fiscais previstos no presente artigo são aplicáveis durante o período de tributação que se inicie em ou após 1 de janeiro de 2016 e seguintes.
+b) Veículos afectos ao transporte rodoviário de mercadorias público ou por conta de outrem, com peso bruto igual ou superior a 3,5 t, registados como elementos do activo imobilizado de sujeitos passivos IRC e que estejam licenciados pelo IMTT, I. P.;
 
-7 - O benefício fiscal previsto no presente artigo não é aplicável, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2017, aos gastos suportados com a aquisição de combustíveis que tenham beneficiado do regime de reembolso parcial para gasóleo profissional.
+c) Veículos afectos ao transporte em táxi, registados como elementos do activo imobilizado dos sujeitos passivos de IRS ou de IRC, com contabilidade organizada e que estejam devidamente licenciados.
+
+5 - Os benefícios fiscais previstos no presente artigo são aplicáveis durante o exercício de 2009.
