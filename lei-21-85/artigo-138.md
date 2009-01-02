@@ -6,4 +6,4 @@
 
 2 - O Conselho tem um secretário, que designa de entre juízes de direito.
 
-3 - O secretário aufere o vencimento correspondente a juiz de círculo.
+3 - O secretário aufere o vencimento correspondente aos juízes referidos no artigo 45.º

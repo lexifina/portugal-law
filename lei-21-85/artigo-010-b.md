@@ -8,6 +8,4 @@
 
 3 - A frequência e o aproveitamento dos magistrados judiciais nas acções de formação contínua são tidos em conta para efeitos do disposto no n.º 1 do artigo 37.º
 
-4 - A participação dos magistrados em acções de formação contínua fora da comarca onde se encontrem colocados confere-lhes o direito a abono de ajudas de custo, bem como, tratando-se de magistrados colocados nas regiões autónomas que se desloquem ao continente para esse efeito, o direito ao reembolso, se não optarem pelo recebimento antecipado, das despesas resultantes da utilização de transportes aéreos, nos termos da lei.
-
-5 - Os direitos previstos no número anterior são conferidos até ao número de acções mencionado no n.º 2 e se as acções a frequentar não forem disponibilizadas por meios técnicos que permitam a sua frequência à distância.
+4 - Nos termos a regulamentar, os custos das acções de formação, incluindo estadias e deslocações, nomeadamente dos magistrados colocados nas ilhas, são suportados pelo Ministério da Justiça.

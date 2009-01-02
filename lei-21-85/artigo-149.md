@@ -22,7 +22,7 @@ f) Aprovar o regulamento interno e a proposta de orçamento relativos ao Conselh
 
 g) Adoptar as providências necessárias à organização e boa execução do processo eleitoral;
 
-h) Alterar a distribuição de processos nos tribunais com mais de uma vara ou juízo, a fim de assegurar a igualação e operacionalidade dos serviços;
+h) Alterar a distribuição de processos nos juízos com mais de uma secção, a fim de assegurar a igualação e operacionalidade dos serviços;
 
 i) Estabelecer prioridades no processamento de causas que se encontrem pendentes nos tribunais por período considerado excessivo, sem prejuízo dos restantes processos de carácter urgente;
 
@@ -30,4 +30,6 @@ j) Propor ao Ministro da Justiça as medidas adequadas, por forma a não tornar 
 
 l) Fixar o número e composição das secções do Supremo Tribunal de justiça e dos tribunais da relação;
 
-m) Exercer as demais funções conferidas por lei.
+m) Nomear o juiz presidente dos tribunais de comarca;
+
+n) Exercer as demais funções conferidas por lei.

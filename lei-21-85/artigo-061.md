@@ -8,6 +8,6 @@ a) Os juízes do Supremo Tribunal de Justiça e os presidentes das relações, p
 
 b) Os juízes das relações, perante os respectivos presidentes;
 
-c) Os juízes de direito, perante o respectivo substituto ou, tratando-se de juízes em exercício de funções na sede de tribunal da Relação, perante o respectivo presidente.
+c) Os juízes de direito, perante o presidente do tribunal de comarca.
 
 2 - Em casos justificados, o Conselho Superior da Magistratura pode autorizar ou determinar que a posse seja tomada perante magistrado judicial não referido no número anterior.

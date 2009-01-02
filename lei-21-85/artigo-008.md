@@ -6,7 +6,7 @@
 
 ### (Domicílio necessário)
 
-1 - Os magistrados judiciais têm domicílio necessário na sede do tribunal onde exercem funções, podendo, todavia, residir em qualquer ponto da circunscrição judicial, desde que não haja inconveniente para o exercício de funções.
+1 - Os magistrados judiciais têm domicílio necessário na sede do juízo onde exercem funções, podendo, todavia, residir em qualquer ponto da comarca, desde que não haja inconveniente para o exercício de funções.
 
 2 - Quando as circunstâncias o justifiquem, e não haja prejuízo para o exercício das suas funções, os juízes de direito podem ser autorizados pelo Conselho Superior da Magistratura a residir em local diferente do previsto no número anterior.
 

@@ -6,7 +6,7 @@
 
 ### (Requisitos da posse)
 
-1 - A posse deve ser tomada pessoalmente e no lugar onde o magistrado judicial vai exercer funções.
+1 - A posse deve ser tomada pessoalmente e no tribunal onde o magistrado vai exercer funções.
 
 2 - Quando não se fixe prazo especial, o prazo para tomar posse é de trinta dias e começa no dia imediato ao da publicação da nomeação no Diário da República.
 
