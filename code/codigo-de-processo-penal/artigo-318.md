@@ -4,7 +4,7 @@
 
 1 - Excepcionalmente, a tomada de declarações ao assistente, às partes civis, às testemunhas, a peritos ou a consultores técnicos pode, oficiosamente ou a requerimento, não ser prestada presencialmente, podendo ser solicitada pelo presidente ao juiz de outra comarca, por meio adequado de comunicação, nos termos do artigo 111.º, se:
 
-a) Aquelas pessoas residirem fora do círculo judicial;
+a) Aquelas pessoas residirem fora da comarca;
 
 b) Não houver razões para crer que a sua presença na audiência é essencial à descoberta da verdade; e
 
