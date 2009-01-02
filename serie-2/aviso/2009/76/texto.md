@@ -1,0 +1,6 @@
+Aviso n.º 76/2009
+Alteração ao Plano Director Municipal
+Alfredo Oliveira Henriques, Presidente da Câmara Municipal de Santa Maria da Feira, faz público que, nos termos e para os efeitos do disposto no n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 316/2007 de 19 de Setembro, a Câmara Municipal de Santa Maria da Feira deliberou, em reunião pública de 9/12/2008, abrir o procedimento de alteração ao Regulamento do Plano Director Municipal, aprovando os termos de referência que fundamentam a sua oportunidade e fixam os respectivos objectivos gerais.
+De acordo com o n.º 2 do artigo 77.º do mesmo decreto-lei decorrerá, por um período de 15 dias úteis, a contar do dia seguinte à publicação deste anúncio no Diário da República, um processo de audição do público, durante o qual os interessados poderão proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de alteração.
+Durante aquele período, os interessados poderão consultar, junto dos serviços do Pelouro do Planeamento e Urbanismo, os termos de referência aprovados pela Câmara Municipal, e apresentar, por escrito, as suas observações ou sugestões,
+15 de Dezembro de 2008. - O Presidente da Câmara, Alfredo de Oliveira Henriques.
