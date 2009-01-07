@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 1/2009
+Através da Resolução do Conselho de Ministros n.º 72/2006, de 8 de Junho, foi autorizada a abertura de procedimento pré-contratual de concurso público para a aquisição de serviços de comunicações no âmbito da Rede Informática da Saúde (RIS), que constitui «um ponto fulcral e vital de todo o sistema informático do Ministério da Saúde», como se assinala no preâmbulo da mencionada resolução.
+A necessidade desta contratação advém da relevância que os serviços de comunicações representam no quadro do sector da saúde. Volvidos dois anos desde a abertura do concurso em apreço, a premência nesta contratação é ainda maior, sobretudo se tivermos em conta que as exigências em termos de velocidade de comunicações são hoje muito superiores. A generalização a todo o território nacional da utilização de sistemas de informação implica uma sobrecarga da rede incompatível com a capacidade actual.
+Por outro lado, estes serviços estão actualmente a ser prestados através de renovações anuais de um protocolo celebrado para o efeito pelo ex-Instituto de Gestão Informática e Financeira da Saúde (actual Administração Central do Sistema de Saúde, I. P.), que expirou em 2003.
+Na sequência do concurso público acima referido, em 21 de Outubro de 2008 foi elaborado pelo júri o relatório final previsto no artigo 109.º do Decreto-Lei n.º 197/99, de 8 de Junho.
+O Conselho de Ministros é a entidade competente para autorizar a despesa que resulte da contratação decorrente do concurso público n.º 2/2006, nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de Junho.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a realização da despesa no montante de (euro) 7 977 421,18, a que acresce IVA à taxa legal de 20 %, totalizando (euro) 9 572 905,42, no âmbito do concurso público n.º 2/2006, destinado à celebração do contrato de aquisição de serviços de comunicações no âmbito da Rede Informática da Saúde, com duração de 12 meses.
+2 - Delegar, com faculdade de subdelegação, na Ministra da Saúde a competência para a prática do acto de adjudicação da prestação de serviços referida no número anterior e de todos os actos subsequentes necessários para a celebração do respectivo contrato.
+3 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 4 de Dezembro de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
