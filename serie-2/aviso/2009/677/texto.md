@@ -1,0 +1,3 @@
+Aviso n.º 677/2009
+Torna-se público que, para os efeitos previstos no artigo 118.º do Código do Procedimento Administrativo, por deliberação da assembleia municipal de Armamar de 05 de Dezembro de 2008 se dá início, pelo prazo de 30 dias úteis contados da data desta publicação, à discussão pública do projecto de alteração do regulamento de urbanização e edificação do município de Armamar. O mencionado projecto poderá ser consultado no edifício sede do município de Armamar, sito na Praça da Republica, 5110-127 Armamar, todos os dias úteis, durante o horário normal de expediente.
+19 de Dezembro de 2008. - O Presidente da Câmara, Hernâni Pinto da Fonseca e Almeida.
