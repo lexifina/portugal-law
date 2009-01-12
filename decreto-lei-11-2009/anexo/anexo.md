@@ -1,0 +1,5 @@
+# Anexo
+
+### (a que se refere o n.º 1 do artigo 8.º)
+
+ESTATUTOS DA POLIS LITORAL RIA DE AVEIRO - SOCIEDADE PARA A REQUALIFICAÇÃO E VALORIZAÇÃO DA RIA DE AVEIRO, S. A.
