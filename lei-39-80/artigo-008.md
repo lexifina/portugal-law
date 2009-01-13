@@ -1,0 +1,11 @@
+# Artigo 8.º
+
+### Direitos da Região sobre as zonas marítimas portuguesas
+
+1 - A Região tem o direito de exercer conjuntamente com o Estado poderes de gestão sobre as águas interiores e o mar territorial que pertençam ao território regional e que sejam compatíveis com a integração dos bens em causa no domínio público marítimo do Estado.
+
+2 - A Região é a entidade competente para o licenciamento, no âmbito da utilização privativa de bens do domínio público marítimo do Estado, das actividades de extracção de inertes, da pesca e de produção de energias renováveis.
+
+3 - Os demais poderes reconhecidos ao Estado Português sobre as zonas marítimas sob soberania ou jurisdição nacional adjacentes ao arquipélago dos Açores, nos termos da lei e do direito internacional, são exercidos no quadro de uma gestão partilhada com a Região, salvo quando esteja em causa a integridade e soberania do Estado.
+
+4 - Os bens pertencentes ao património cultural subaquático situados nas águas interiores e no mar territorial que pertençam ao território regional e não tenham proprietário conhecido ou que não tenham sido recuperados pelo proprietário dentro do prazo de cinco anos a contar da data em que os perdeu, abandonou ou deles se separou de qualquer modo, são propriedade da Região.
