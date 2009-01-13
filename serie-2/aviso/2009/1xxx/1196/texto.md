@@ -1,0 +1,3 @@
+Aviso n.º 1196/2009
+Torna-se público que, para os efeitos previstos no artigo 118.º do Código do Procedimento Administrativo, por deliberação da assembleia municipal de Armamar de 29 de Dezembro de 2008 se dá início, pelo prazo de 30 dias úteis contados da data desta publicação, à discussão pública do projecto de regulamento da biblioteca municipal de Armamar. O respectivo projecto de regulamento poderá ser consultado no edifício da câmara municipal de Armamar, sito na Praça da República, todos os dias úteis, durante o horário normal de expediente, entre às 9,00 horas e às 16,00 horas.
+30 de Dezembro de 2008. - O Presidente da Assembleia, Carlos Cruz Campos.
