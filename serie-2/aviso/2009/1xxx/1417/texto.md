@@ -1,0 +1,8 @@
+Aviso n.º 1417/2009
+Plano de Pormenor de uma área na vila de Nordeste
+Nos termos do número 3 e seguintes do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 316/2007 de 19 de Setembro, adaptado à Região Autónoma dos Açores, pelo Decreto Legislativo Regional n.º 14/2000/A, de 23 de Maio, alterado e republicado pelo Decreto Legislativo Regional n.º 24/2003/A e na sequência da deliberação da Câmara Municipal em Reunião Ordinária de 22 de Dezembro de 2008, que deliberou submeter à discussão pública a proposta do Plano de Pormenor de uma área na Vila de Nordeste, torna-se público o seguinte:
+O período de discussão pública da proposta do Plano de Pormenor da Salga, inicia-se no 6.º dia útil após a data de publicação do presente aviso no Diário da República e decorrerá nos 22 dias úteis subsequentes.
+A sessão pública de apresentação da Proposta do Plano e dos respectivos pareceres terá lugar no 5.º dia útil ao do início do período de discussão pública.
+A proposta do Plano de Pormenor de uma área na Vila de Nordeste e o parecer final, e seus anexos, emitido pela Comissão de Acompanhamento estão disponíveis para consulta, na sede do Município, Serviço de Expediente, nos dias úteis das 08:30h às 12:30h e das 13:30h às 16:30h.
+Os interessados poderão apresentar reclamações, observações, sugestões e pedidos de esclarecimento, por escrito, devidamente fundamentados e endereçados ao Presidente da Câmara Municipal de Nordeste, Praça da República, 9630-141 Nordeste, dentro do prazo referido.
+7 de Janeiro de 2009. - O Presidente da Câmara, José Carlos Barbosa Carreiro.
