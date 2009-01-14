@@ -1,0 +1,5 @@
+Aviso (extracto) n.º 1395/2009
+Fernando João Couto e Cepa, presidente da Câmara Municipal de Esposende:
+Torna público, nos termos e para os efeitos previstos no artigo 117.º do Código do Procedimento Administrativo, que a Câmara Municipal de Esposende deliberou, por unanimidade, na sua sessão ordinária, realizada em 11 de Dezembro, manifestar a intenção de proceder à elaboração do Plano de Pormenor da Urbanização Sudeste, concedendo assim, um período de 15 dias para formulação de sugestões e para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração, tudo nos termos do disposto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 316/2007, de 19 de Setembro.
+Para constar e devidos efeitos se publica o presente Aviso e outros de igual teor, que vai ser afixado nos lugares públicos do costume.
+18 de Dezembro de 2008. - O Presidente da Câmara, Fernando João Couto e Cepa.
