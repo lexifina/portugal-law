@@ -2,8 +2,8 @@
 
 ### Prova de titularidade
 
-1 - Na ausência de cadastro geométrico da propriedade rústica, a informação constante do registo predial fornece informação sobre a descrição dos prédios abrangidos pela ZIF, identificando os titulares de direitos de propriedade e de outros direitos reais menores, e as matrizes prediais rústicas constituem presunção de titularidade bastante para os diversos atos necessários à concretização das ações de desenvolvimento florestal na área territorial da ZIF.
+1 - Na ausência de cadastro geométrico, predial ou simplificado, as matrizes prediais rústicas constituem presunção de titularidade bastante para os diversos actos necessários à concretização das acções de desenvolvimento florestal na área territorial da ZIF.
 
 2 - Os levantamentos dos prédios rústicos efectuados pela entidade gestora da ZIF, subscritos pelos respectivos proprietários, devem ser considerados na actualização dos respectivos registos matriciais.
 
-3 - (Revogado).
+3 - Os levantamentos referidos no número anterior, quando homologados pelo Instituto Geográfico Português, caso não tenha havido lugar à actualização das matrizes, constituem igualmente presunção de titularidade bastante para os actos referidos no n.º 1.

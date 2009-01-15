@@ -6,8 +6,12 @@
 
 ### Iniciativa do processo
 
-1 - A iniciativa do processo de constituição de ZIF pertence aos proprietários ou outros produtores florestais, que para o efeito se constituem em núcleo fundador, em conformidade com o disposto na alínea l) do artigo 3.º.
+1 - As ZIF constituem-se por iniciativa:
 
-2 - O núcleo fundador pode designar um representante comum para todas as questões para que seja solicitado ou chamado a intervir ou a pronunciar-se no âmbito do processo de constituição de ZIF.
+a) Dos proprietários ou produtores florestais;
 
-3 - O município ou municípios abrangidos pela área territorial da ZIF presta apoio técnico, preferencialmente pelos Gabinetes Técnicos Florestais, se para tal for solicitado.
+b) Dos organismos gestores de áreas públicas ou municipais;
+
+c) Dos órgãos de administração dos baldios.
+
+2 - As entidades referidas no número anterior fazem obrigatoriamente parte do núcleo fundador.
