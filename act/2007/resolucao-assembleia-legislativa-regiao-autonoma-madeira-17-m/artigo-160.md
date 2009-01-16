@@ -2,7 +2,7 @@
 
 ### Reclamações
 
-1 - Cinco deputados, pelo menos, poderão reclamar contra inexactidões até à terceira reunião plenária imediata ao dia da publicação do texto de redacção final no Diário.
+1 - Qualquer deputado poderá reclamar contra inexactidões até à terceira reunião plenária imediata ao dia da publicação do texto de redacção final no Diário.
 
 2 - Compete ao Presidente da Assembleia Legislativa decidir dentro de vinte e quatro horas, podendo os deputados reclamantes recorrer para o Plenário até à reunião imediata à do anúncio da decisão.
 

@@ -6,4 +6,4 @@
 
 ### Objecto
 
-Pode ser objecto de processo de urgência qualquer projecto e proposta de lei, projectos e propostas de decreto legislativo regional e projectos e propostas de resolução.
+Pode ser objecto de processo de urgência qualquer projecto e proposta de lei, e projectos e propostas de decreto legislativo regional.

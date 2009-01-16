@@ -8,13 +8,13 @@ a) O prazo para exame em comissão será de cinco dias;
 
 2 - Na discussão na generalidade, salvo quanto a Conferência dos Representantes dos Grupos Parlamentares dispuser diversamente, os grupos parlamentares, os deputados únicos representantes de partido e representante de partido não constituído em grupo e o Governo Regional não poderão exceder o tempo global de:
 
-a) Cinco minutos, para o grupo parlamentar com maior representatividade;
+2 - Na discussão na generalidade, salvo quando a Conferência dos Representantes dos Grupos Parlamentares dispuser diversamente, os grupos parlamentares, os deputados únicos representantes de partido e representante de partido não constituído em grupo e o Governo Regional não poderão exceder o tempo global de:
 
-b) Três minutos, para cada um dos restantes grupos parlamentares;
+a) Um minuto por cada deputado do grupo parlamentar, acrescido de mais dois minutos por cada grupo parlamentar;
 
-c) Dois minutos, para o representante de cada partido não constituído em grupo;
+b) Dois minutos por cada deputado único representante de partido;
 
-d) O Governo dispõe de tempo igual ao do Grupo Parlamentar com maior representatividade.
+c) O Governo dispõe de tempo igual ao do Grupo Parlamentar com maior representatividade.
 
 3 - As propostas de alteração devem ser apresentadas até ao início da discussão na especialidade.
 

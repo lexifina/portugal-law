@@ -34,6 +34,6 @@ o) Deliberação sobre inquéritos parlamentares e poderes de instrução das co
 
 p) Designação dos representantes da Região cuja eleição caiba à Assembleia Legislativa;
 
-q) Apreciação e votação de resoluções.
+q) Votação final global das resoluções.
 
 2 - Dentro de cada uma das matérias, a ordem do dia será fixada segundo a precedência temporal da apresentação.

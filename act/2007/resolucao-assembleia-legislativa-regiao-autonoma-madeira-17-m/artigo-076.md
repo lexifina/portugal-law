@@ -16,11 +16,11 @@ e) Emissão de votos de congratulação, louvor, saudação, protesto ou pesar;
 
 f) Apresentação de relatórios de representações e deputações.
 
-2 - O período de antes da ordem do dia não excederá quarenta e quatro minutos, salvo o disposto no artigo 79.º
+2 - O período da antes da ordem do dia não excederá quarenta e sete minutos, salvo o disposto no artigo 79.º
 
 3 - O período de antes da ordem do dia será composto por duas partes, em cada uma das quais serão tratados os seguintes assuntos:
 
-a) Na primeira parte, de duração não superior a trinta minutos, os assuntos definidos nas alíneas a), c) e d) do n.º 1;
+a) Na primeira parte, de duração não superior a trinta e três minutos, os assuntos definidos nas alíneas a), c) e d) do n.º 1;
 
 b) Na segunda parte, no tempo remanescente, aos assuntos referidos na alíneas e) e f) do n.º 1, quando os houver.
 

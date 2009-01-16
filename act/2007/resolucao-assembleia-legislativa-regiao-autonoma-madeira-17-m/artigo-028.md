@@ -11,3 +11,5 @@ b) Estabelecer o regulamento da entrada e frequência das galerias destinadas ao
 c) Em geral, coadjuvar o Presidente no exercício das suas funções;
 
 d) Solicitar parecer sobre as questões de interpretação e integração do Regimento, nos termos da alínea a) do artigo 38.º
+
+e) Regulamentar o pagamento de ajudas de custo e subsídios aos deputados.

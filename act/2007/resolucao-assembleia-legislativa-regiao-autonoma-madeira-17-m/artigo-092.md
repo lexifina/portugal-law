@@ -4,6 +4,6 @@
 
 1 - A palavra para explicações poderá ser pedida quando ocorrer incidente que justifique a defesa da honra ou dignidade de qualquer deputado.
 
-2 - Sempre que um deputado ou membro do Governo Regional considere que foram proferidas expressões ofensivas da sua honra ou consideração pode, para se defender, usar da palavra por tempo não superior a dois minutos.
+2 - Compete ao Presidente da Mesa aceitar ou rejeitar o pedido referido no número anterior consoante a justificação e análise dos factos.
 
-3 - O autor das expressões consideradas ofensivas pode dar explicações por tempo não superior a dois minutos.
+3 - Aceite pela Mesa a justificação do deputado ou membro do Governo Regional, pode este, para se defender, usar da palavra por período não superior a dois minutos.

@@ -11,3 +11,7 @@
 4 - O partido que não se tenha pronunciado durante a discussão poderá fazer uma declaração de voto oral de duração não superior a dois minutos.
 
 5 - Em casos excepcionais, pode o Plenário deliberar que os votos, apesar de entrarem fora do prazo previsto no n.º 2, sejam discutidos de imediato.
+
+6 - A Mesa pode recusar a admissão e consequente envio para o Plenário de votos que considerar jocosos, injuriosos ou difamatórios de pessoas e instituições.
+
+7 - Do despacho de recusa da admissão e envio para o Plenário, cabe recurso para a Conferência dos Representantes dos Grupos Parlamentares.
