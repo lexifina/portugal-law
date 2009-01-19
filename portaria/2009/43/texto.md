@@ -1,0 +1,40 @@
+Portaria n.º 43/2009
+de 19 de Janeiro
+A Portaria n.º 719-C/2008, de 31 de Julho, aprovou o Regulamento do Regime de Apoio às Acções Colectivas previsto na Medida Acções Colectivas do eixo prioritário n.º 3 do Programa Operacional Pesca 2007-2013 (PROMAR), conforme a subalínea i) da alínea c) do n.º 1 do artigo 3.º do Decreto-Lei n.º 81/2008, de 16 de Maio, definindo-se, no anexo deste Regulamento, os factores de ponderação no cálculo da pontuação da apreciação estratégica (AE) dos projectos.
+Verificou-se, porém, que os factores de ponderação previstos neste anexo não valorizavam, de modo adequado, os projectos que contemplam a melhoria das condições de segurança a bordo, elemento que, todavia, se reputa de forte relevância na avaliação da candidatura. Do mesmo modo, verificou-se que os projectos que contemplavam a melhoria das condições ambientais e das zonas aquícolas também não tinham uma valorização adequada à relevância destes factores. Estas razões determinam, pois, a necessidade de alteração do referido anexo, tendo-se optado, para melhor compreensão, pela sua integral republicação.
+Assim:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo da alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 81/2008, de 16 de Maio, o seguinte:
+Artigo 1.º
+Alteração do anexo ao Regulamento da Portaria n.º 719-C/2008, de 31 de Julho
+Os parâmetros constantes dos n.os 3, 4 e 8 do anexo da Portaria n.º 719-C/2008, de 31 de Julho, que aprovou o Regulamento do Regime de Apoio às Acções Colectivas, passam a ter a seguinte redacção:
+«ANEXO
+Metodologia para o cálculo da pontuação da apreciação estratégica (AE)
+(a que se refere o n.º 6 do artigo 10.º)
+...
+1) ...
+2) ...
+3) Projectos que melhorem as condições ambientais - 20 pontos;
+4) Projectos que melhorem as condições de trabalho e segurança - 20 pontos;
+5) ...
+6) ...
+7) ...
+8) Projectos que melhorem as condições das zonas aquícolas - 20 pontos.»
+Artigo 2.º
+Âmbito de aplicação
+As presentes alterações aplicam-se a todas as candidaturas apresentadas desde Agosto de 2008.
+Artigo 3.º
+Republicação
+É republicado o anexo à Portaria n.º 719-C/2008, de 31 de Julho.
+ANEXO
+Metodologia para o cálculo da pontuação da apreciação estratégica (AE)
+(a que se refere o n.º 6 do artigo 10.º)
+A pontuação da AE é obtida através da soma dos pontos obtidos por cada um dos seguintes parâmetros:
+1) Projectos com efeitos ao nível da gestão da pesca e da conservação dos recursos - 20 pontos;
+2) Projectos que desenvolvam uma política de qualidade dos produtos da pesca e da aquicultura - 20 pontos;
+3) Projectos que melhorem as condições ambientais - 20 pontos;
+4) Projectos que melhorem as condições de trabalho e segurança - 20 pontos;
+5) Projectos que melhorem o equilíbrio entre a oferta e a procura - 10 pontos;
+6) Projectos que sejam realizados por organizações que tenham beneficiado de reconhecimento oficial na acepção do Regulamento (CE) n.º 104/2000, do Conselho, de 17 de Dezembro - 10 pontos;
+7) Projectos que envolvam parcerias entre entidades do sector - 10 pontos;
+8) Projectos que melhorem as condições das zonas aquícolas - 20 pontos.
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 6 de Janeiro de 2009.
