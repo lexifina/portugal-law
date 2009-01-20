@@ -18,6 +18,18 @@ f) Os membros que representem oficialmente selecções nacionais, organizadas po
 
 2 - Podem, ainda, votar antecipadamente os estudantes do ensino superior recenseados na Região e a estudar no continente ou na Região Autónoma dos Açores.
 
-3 - Só são considerados os votos recebidos na sede da junta de freguesia, correspondente à assembleia de voto em que o eleitor deveria votar, até ao dia anterior ao da realização da eleição.
+3 - Podem ainda votar antecipadamente os seguintes eleitores recenseados na Região e deslocados no estrangeiro:
 
-4 - As listas concorrentes à eleição podem nomear, nos termos gerais, delegados para fiscalizar as operações de voto antecipado, os quais gozam de todas as imunidades e direitos previstos no artigo 54.º
+a) Militares, agentes militarizados e civis integrados em operações de manutenção de paz, cooperação técnico-militar ou equiparadas;
+
+b) Médicos, enfermeiros e outros cidadãos integrados em missões humanitárias, como tal reconhecidas pelo Ministério dos Negócios Estrangeiros;
+
+c) Investigadores e bolseiros em instituições universitárias ou equiparadas, como tal reconhecidas pelo ministério competente;
+
+d) Estudantes de escolas superiores, ao abrigo de programas de intercâmbio.
+
+4 - Podem ainda votar antecipadamente os cidadãos eleitores cônjuges ou equiparados, parentes ou afins que vivam com os eleitores mencionados no número anterior.
+
+5 - Só são considerados os votos recebidos na sede da junta de freguesia, correspondente à assembleia de voto em que o eleitor deveria votar, até ao dia anterior ao da realização da eleição.
+
+6 - As listas concorrentes à eleição podem nomear, nos termos gerais, delegados para fiscalizar as operações de voto antecipado, os quais gozam de todas as imunidades e direitos previstos no artigo 54.º

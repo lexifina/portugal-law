@@ -18,4 +18,4 @@
 
 2 - Sem prejuízo do disposto no artigo 88.º, não é admitida nenhuma forma de representação ou delegação no exercício do direito de sufrágio.
 
-3 - O direito de sufrágio é exercido presencialmente pelo cidadão eleitor, sem prejuízo das particularidades previstas nos artigos 84.º a 87.º
+3 - O direito de sufrágio é exercido presencialmente pelo cidadão eleitor, sem prejuízo das particularidades previstas nos artigos 84.º a 87.º e 87.º-A.
