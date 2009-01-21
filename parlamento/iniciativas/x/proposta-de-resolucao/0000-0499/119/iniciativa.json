@@ -1,0 +1,64 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "tipo": "Proposta de Resolução",
+  "numero": "119",
+  "id": "34263",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2009-01-21",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2009-10-14",
+    "DataInicioleg": "2008-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3255774e475177597a59344c545a6b4e6d59744e444e6a4e6930344f4749794c5446684e6d52685a5459784d54426c4f53356b62324d3d&fich=e04d0c68-6d6f-43c6-88b2-1a6dae6110e9.doc&Inline=true",
+        "anexoNome": "Protocolo FR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32526c4e445979596a426a4c574a6a4e7a4d744e444a6a4d5331684f446b324c544d7959545a6b5a5459784d4459345979356b62324d3d&fich=de462b0c-bc73-42c1-a896-32a6de61068c.doc&Inline=true",
+        "anexoNome": "Protocolo IT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3251314d446b3059545a6b4c5442695a6a67744e4445774e5330354d54686d4c544a6d4e5745784e6d45775a6d49334f53356b62324d3d&fich=d5094a6d-0bf8-4105-918f-2f5a16a0fb79.doc&Inline=true",
+        "anexoNome": "Protocolo PT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3252684e7a517a4e7a63784c5755324e3245744e44646d4e6931695a544d314c5455334f5455784d7a45324e6a55314e53356b62324d3d&fich=da743771-e67a-47f6-be35-579513166555.doc&Inline=true",
+        "anexoNome": "Protocolo ESP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4d774f4759774d5463304c57566d5a5463744e4755774d6930355a4749774c5445774f446c6a4e446c6c597a4e6b4d69356b62324d3d&fich=308f0174-efe7-4e02-9db0-1089c49ec3d2.doc&Inline=true",
+        "anexoNome": "Declarações adicionais ao Protocolo Adicional ao Tratado"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "34263",
+    "IniLeg": "X",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324e694d5755354d47526a4c5756694f5463744e4459344d7930354d6a457a4c546c6b59325a6b5a54646d5a6a4a695a69356b62324d3d&fich=cb1e90dc-eb97-4683-9213-9dcfde7ff2bf.doc&Inline=true",
+    "IniNr": "119",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova o Protocolo Adicional ao Tratado sobre o Estatuto da EUROFOR, assinado em Lisboa, em 12 de Julho de 2005.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
