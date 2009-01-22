@@ -1,0 +1,79 @@
+# Decreto Legislativo Regional n.º 2/2009/M
+
+**Emissor:** ASSEMBLEIA LEGISLATIVA REGIONAL
+
+**Publicação:** JORAM, I série, n.º 7/2009, suplemento, de 2009-01-22
+
+**Sumário:** Estabelece o Regime de Incentivos Fiscais aos Lucros Reinvestidos da Região.
+
+## Texto
+
+Decreto Legislativo Regional n.º 2/2009/M
+de 22 de Janeiro
+Regime de Incentivos Fiscais aos Lucros Reinvestidos na Região Autónoma da Madeira
+A alínea i) do n.º 1 do artigo 227.º da Lei Constitucional, conjugado com a alínea f) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, consagram a possibilidade de adaptação do regime fiscal nacional às especificidades regionais, nos termos previstos na lei.
+Em conformidade com o preceituado no n.º 4 do artigo 49.º da Lei Orgânica n.º 1/2007, de 19 de Fevereiro (Lei de Finanças das Regiões Autónomas), a Assembleia Legislativa da Região Autónoma da Madeira pode conceder deduções à colecta relativas aos lucros comerciais, industriais e agrícolas reinvestidos pelos sujeitos passivos.
+Com o presente diploma pretende-se, através de estímulos de âmbito fiscal, aumentar a confiança e esforço de inovação dos empresários regionais, concertando esforços de cooperação e revitalização das suas estratégias empresariais, admitindo-se a possibilidade de dedução à colecta de 15 % ou 25 % dos lucros reinvestidos, privilegiando-se essencialmente as actividades ligadas à educação, à investigação e desenvolvimento e às novas tecnologias de informação e comunicação.
+Este regime de incentivos enquadra-se na estratégia de desenvolvimento da Região Autónoma da Madeira para o período de 2007-2013, consagrada no Plano de Desenvolvimento Económico e Social (PDES), a qual tem subjacente a promoção e o apoio ao investimento produtivo, que reforcem ou estimulem a criação de riqueza e o emprego de forma sustentada.
+O regime de incentivos previsto neste diploma respeita os princípios da coerência entre o sistema fiscal nacional e os sistemas regionais, o princípio da legalidade, da flexibilidade e da eficiência funcional, este último vertido na alínea g) do artigo 45.º da Lei de Finanças das Regiões Autónomas e traduzindo a necessidade de a estruturação dos sistemas fiscais regionais dever incentivar o investimento nas Regiões Autónomas e assegurar o desenvolvimento económico e social respectivo.
+Nos termos do Regulamento (CE) n.º 800/2008, da Comissão, de 6 de Agosto, relativo à aplicação dos artigos 87.º e 88.º do Tratado aos Auxílios Estatais ao Investimento com Finalidade Regional, publicado no Jornal Oficial, n.º L 214, de 9 de Agosto de 2008, fica o presente regime de incentivos fiscais isento da obrigação de notificação, prevista no n.º 3 do artigo 88.º do Tratado CE, considerando tratar-se de um regime de auxílio com finalidade regional a favor do investimento e do emprego transparente, que cumpre todas as disposições daquele regulamento.
+Assim: A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea i) do n.º 1 do artigo 227.º da Constituição da República e da alínea f) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, e nos termos do n.º 4 do artigo 49.º da Lei Orgânica n.º 1/2007, de 19 de Fevereiro, o seguinte:
+Artigo 1.º Objecto e âmbito de aplicação
+O presente diploma estabelece o Regime de Incentivos Fiscais aos Lucros Reinvestidos da Região Autónoma da Madeira, que regulamenta as deduções à colecta relativas aos
+
+lucros comerciais, industriais e agrícolas, reinvestidos pelos sujeitos passivos de imposto sobre o rendimento das pessoas colectivas (IRC) que tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira, em conformidade com o Regulamento (CE) n.º 800/2008, da Comissão, de 6 de Agosto.
+Artigo 2.º Deduções à colecta
+1 - Sem prejuízo do disposto no n.º 4 deste artigo, os sujeitos passivos identificados no artigo anterior podem deduzir ao montante apurado nos termos da alínea a) do n.º 1 do artigo 83.º do Código do IRC, e até à concorrência do mesmo, uma importância correspondente a 15 % ou a 25 % dos lucros reinvestidos nos exercícios de 2009 a 2011, desde que esses lucros tenham sido apurados a partir do exercício de 2008.
+2 - A dedução à colecta dos lucros reinvestidos é fixada em 25 % ou em 15 %, consoante as actividades económicas estejam integradas, respectivamente, nos anexos i ou ii deste diploma.
+3 - A dedução é feita, nos termos da alínea d) do n.º 2 do artigo 83.º do Código do IRC, na liquidação respeitante aos períodos de tributação mencionados no n.º 1.
+4 - Aplicando-se o regime especial de tributação dos grupos de sociedades nos termos dos artigos 63.º e seguintes do Código de IRC, a dedução é feita na declaração a enviar ou apresentar pela sociedade dominante, conforme previsto na alínea a) do n.º 6 do artigo 112.º do Código de IRC.
+5 - Os valores que não sejam deduzidos à colecta de um determinado exercício podem ser reportados até ao terceiro exercício seguinte.
+Artigo 3.º Investimento elegível
+1 - Para efeitos do disposto no artigo anterior, considera-se elegível o investimento em activo imobilizado corpóreo, adquirido em estado novo, e em imobilizado incorpóreo, concretizado na Região Autónoma da Madeira, após a data de publicação do presente diploma, e que seja afecto à exploração pelo sujeito passivo, com excepção de:
+a) Terrenos; b) Edifícios e outras construções não directamente ligadas ao processo produtivo; c) Viaturas ligeiras; d) Artigos de conforto ou de decoração; e) Despesas destinadas à aquisição de material de transporte, no sector dos transportes; f) Trabalhos para a própria empresa; g) Trespasses e direitos de utilização de espaços; h) Juros; i) Outros bens de investimento não directa e imprescindivelmente associados à actividade produtiva exercida pela entidade, salvo equipamentos produtivos destinados à utilização, para fins económicos, dos resíduos resultantes do processo de transformação produtiva ou de consumo na Região, desde que de reconhecido interesse industrial e ambiental, a confirmar por despacho conjunto dos membros do Governo Regional com a tutela da economia e do ambiente.
+2 - O investimento incorpóreo elegível deve preencher os seguintes requisitos:
+a) Ser utilizado exclusivamente no estabelecimento do beneficiário do incentivo;
+b) Ser considerado elemento do activo amortizável;
+
+c) Ser adquirido a um terceiro em condições de mercado; d) Constar do activo da empresa e manter-se no estabelecimento do beneficiário durante um período mínimo de cinco anos, ou de três anos no caso de uma pequena ou média empresa.
+3 - As despesas relativas a activo fixo incorpóreo só são elegíveis até ao limite de 50 % do total do investimento elegível, excepto no caso das pequenas e médias empresas.
+4 - No caso das pequenas e médias empresas, as despesas incorridas com serviços de consultoria não são elegíveis.
+5 - Atentas as excepções indicadas, entende-se por investimento elegível o investimento inicial em activos imobilizados corpóreos e ou incorpóreos relacionados com a criação de um novo estabelecimento, alargamento de um estabelecimento existente, diversificação da produção de um estabelecimento para novos produtos adicionais ou mudança fundamental do processo de produção global de um estabelecimento existente.
+6 - No caso de aquisição de um estabelecimento, só devem ser tomados em consideração os custos de aquisição dos activos a terceiros, desde que a venda tenha sido efectuada em condições de mercado. Se a aquisição for acompanhada de outros investimentos iniciais, as despesas relativas a estes investimentos serão acrescentadas aos custos de aquisição.
+7 - A empresa terá de manter durante um período mínimo de cinco anos, ou três anos no caso de pequenas e médias empresas, os bens objecto do investimento, excepto no caso de substituição de instalações ou equipamentos que se tenham tornado obsoletos durante o período referido, em razão de uma rápida evolução tecnológica e desde que a actividade económica seja mantida.
+8 - Os custos relacionados com a aquisição de activos em locação só podem ser tomados em consideração se se tratar de um contrato de locação financeira que preveja a obrigação de aquisição do activo no termo do contrato.
+Artigo 4.º Condições de acesso
+1 - Da dedução a que se refere o artigo 2.º só podem beneficiar os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:
+a) Exerçam uma das actividades económicas especificadas nos anexos i e ii ao presente diploma;
+b) O seu lucro tributável não seja determinado por métodos indirectos;
+c) Não sejam devedores ao Estado, ao sistema de segurança social e à Região Autónoma da Madeira de quaisquer impostos ou contribuições, ou tenham o pagamento dos débitos devidamente assegurados.
+2 - Os beneficiários devem assumir uma contribuição financeira no mínimo equivalente a 25 % do investimento elegível, através de recursos próprios ou de financiamento externo, mas sem qualquer apoio público.
+Artigo 5.º Definição de pequenas e médias empresas
+Para efeitos do presente diploma, consideram-se pequenas e médias empresas aquelas que como tal sejam definidas no anexo i do Regulamento (CE) n.º 800/2008, da Comissão, de 6 de Agosto.
+
+Artigo 6.º Justificação das deduções
+1 - A dedução a que se refere o artigo 2.º é justificada por declaração a juntar ao processo de documentação fiscal indicando, nomeadamente, os bens objecto de investimento, o seu custo, a data de entrada em funcionamento e outros elementos considerados pertinentes, conforme modelo a aprovar por portaria conjunta dos membros do Governo Regional com a tutela da economia e das finanças.
+2 - A declaração mencionada no número anterior é acompanhada dos documentos comprovativos de que se encontra preenchida a condição referida na alínea c) do artigo 4.º, com referência ao mês anterior ao da declaração.
+3 - Compete à Direcção Regional dos Assuntos Fiscais verificar o cumprimento do disposto nos artigos 3.º e 4.º do presente diploma.
+4 - O beneficiário deve integrar no processo de documentação fiscal previsto no artigo 121.º do IRC todos os documentos que permitam aferir o cumprimento do disposto nos artigos 3.º e 4.º do presente diploma, os documentos comprovativos do investimento realizado, bem como a declaração prevista no n.º 1 do presente artigo.
+Artigo 7.º Contabilização do benefício fiscal
+Os sujeitos passivos de IRC beneficiários deste regime darão expressão ao imposto que deixar de ser pago, em resultado da dedução a que se refere o artigo 2.º, mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados, relativos ao exercício em que se efectua a dedução.
+Artigo 8.º Cumulação de benefícios
+A dedução a que se refere o artigo 2.º não é acumulável, relativamente às mesmas despesas elegíveis, com quaisquer outros financiamentos comunitários, nacionais ou regionais, se dessa cumulação resultar uma intensidade de auxílio superior à fixada pelo artigo 13.º do Regulamento (CE) n.º 800/2008, da Comissão, de 6 de Agosto.
+Artigo 9.º Incumprimento
+No caso de incumprimento do disposto no n.º 7 do artigo 3.º, é adicionado ao IRC, relativo ao exercício em que a empresa alienar os bens objecto do investimento, o IRC que deixou de ser liquidado por virtude de dedução à colecta, acrescido dos juros compensatórios correspondentes.
+Artigo 10.º Implementação
+O Governo Regional tomará as medidas necessárias à implementação do regime previsto no presente diploma.
+Artigo 11.º Entrada em vigor
+Este diploma entra em vigor no dia seguinte à data da sua publicação.
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de Dezembro de 2008.
+
+O P RESIDENTE DA ASSEMBLEIA LEGISLATIVA, José Miguel Jardim d'Olival Mendonça.
+Assinado em 9 de Janeiro de 2009.
+Publique-se.
+O REPRESENTANTE DA REPÚBLICA PARA A REGIÃO AUTÓNOMA DA MADEIRA, Antero Alves Monteiro Diniz.
+ANEXO I
+[a que se refere o n.º 2 do artigo 2.º e a alínea a) do n.º 1 do artigo 4.º]
+
+ANEXO II
+[a que se refere o n.º 2 do artigo 2.º e a alínea a) do n.º 1 do artigo 4.º]
