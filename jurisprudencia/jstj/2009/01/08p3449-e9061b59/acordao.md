@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal de Justiça de 2009-01-22, processo 08P3449
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 08P3449
+
+**Nº Convencional:** JSTJ000
+
+**Relator:** SOUTO DE MOURA
+
+**Descritores:** RECURSO PARA FIXAÇÃO DE JURISPRUDÊNCIA; PRAZO DE INTERPOSIÇÃO DE RECURSO; TRÂNSITO EM JULGADO
+
+**Nº do Documento:** SJ200901220034495
+
+**Data do Acordão:** 01/22/2009
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO PENAL
+
+**Decisão:** REJEITADO O RECURSO
+
+## Sumário
+
+I - O recurso para a fixação de jurisprudência é interposto no prazo de 30 dias a contar do trânsito em julgado do acórdão proferido em último lugar (n.º 1 do art. 438.º do CPP).
+
+II - Sobre tal prazo, o STJ tem entendido unanimemente que o n.º 1 do art. 438.º do CPP, ao dispor sobre o prazo de interposição do recurso para fixação de jurisprudência, não se limita a prescrever duração desse prazo (30) dias, mas define igualmente qual o facto que determina o início da contagem desse prazo, que é o trânsito em julgado do acórdão recorrido.
+
+III - Os prazos peremptórios representam o período de tempo dentro do qual podem ser levados a efeito os respectivos actos, o referido terminus intra quem, e a sua fixação funciona como instrumento de que a lei se serve em ordem a levar as partes a praticar o acto dentro dos limites de tempo que lhe são assinalados.
+
+IV - Dos autos verifica-se que:
+
+- o acórdão recorrido foi notificado aos sujeitos processuais por carta registada enviada no dia 16-05-2008, os quais não arguíram nulidades, nem pediram aclarações, nem recorrerem para o TC;
+
+- o presente recurso extraordinário deu entrada na secretaria do Tribunal da Relação no dia 15-07-2008.
+
+V - Daqui resulta que:
+
+- nos termos do art. 113.º, n.º 2, do CPP, o acórdão recorrido considera-se notificado aos recorrentes em 21-05-2008;
+
+- o prazo para arguir nulidades ou para pedir o esclarecimento de obscuridade ou ambiguidade é de 10 dias (cf. arts. 105.º, n.º 1, 379.º e 380.º, n.º 1, al. b), todos do CPP, e 668.º e 669.º do CPC, aplicável por força do art. 4.º do CPP) e igual é o prazo para recorrer para o TC (cf. art. 75.º, n.º 1, da Lei 28/82, de 15-11, na redacção da Lei 13-A/98, de 26-02);
+
+- para determinar o trânsito em julgado da decisão, deve levar-se em conta, ainda, que as partes podem praticar o acto, independentemente de justo impedimento, nos 3 dias subsequentes ao seu término, mediante o pagamento de uma multa (art. 145.º, n.º 5, do CPC);
+
+- nesse dia 02-06-2008 podia a arguida, ora recorrente, ter impugnado o acórdão da Relação pelas formas anteriormente aludidas até às 24 h (art. 143.º, n.º 4, do CPC), mas ainda podia fazê-lo, com simples pagamento de multa, até às 24 h de 05-06-2008, pelo que o acórdão recorrido transitou em julgado no dia 06-06-2008 (cf. art. 677.º do CPC);
+
+o recurso extraordinário para fixação de jurisprudência, interposto em 15-07-2008, está muito para além do prazo de 30 dias contado desde o trânsito em julgado da decisão recorrida, pelo que, sendo intempestivo, tem de ser rejeitado.
