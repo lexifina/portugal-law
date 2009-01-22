@@ -1,0 +1,8 @@
+Aviso n.º 2083/2009
+Plano de Pormenor da Zona do Cemitério de VRSA
+Discussão pública
+José Carlos Barros, Vice-Presidente da Câmara Municipal de Vila Real de Santo António, torna público, nos termos e efeitos do n.º 3 e 4 do artigo 77.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, que se procede à abertura do período de discussão pública da proposta de Plano de Pormenor da Zona do Cemitério de Vila Real de Santo António.
+Mais se informa que o período de discussão pública é de 22 dias úteis, com início no quinto dia útil posterior à respectiva publicação no Diário da República, e que os interessados podem consultar a proposta de plano e restantes documentos, na internet no sítio da Câmara Municipal de Vila Real de Santo António, bem como, no Gabinete de Apoio a Projectos Estruturantes (GAPE) da Câmara Municipal de Vila Real de Santo António, no seguinte horário: 9:30horas às 12:30h e das 14h às 16:30h.
+A Sessão Pública de Esclarecimento, prevista no n.º 3 do artigo 77.º do Decreto-Lei n.º 316/2007, de 19 de Setembro, decorrerá no dia 02 de Fevereiro, pelas 21horas no Centro Cultural António Aleixo.
+As reclamações, observações ou sugestões sobre o conteúdo da proposta de plano, e outros documentos, deverão ser formuladas por escrito e em conformidade com o n.º 5 do artigo 77.º do RJIGT, entregues até ao final do período de discussão pública no edifício da Câmara Municipal de Vila Real de Santo António, na secção de expediente.
+14 de Janeiro de 2009 - O Vice-Presidente da Câmara, José Carlos Barros.
