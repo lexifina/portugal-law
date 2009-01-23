@@ -1,0 +1,5 @@
+Aviso n.º 2223/2009
+João Paulo Marçal Lopes Catarino, Presidente da Câmara Municipal de Proença-a-Nova, faz saber que ao abrigo da competência Regulamentar das Autarquias Locais, consagrada no artigo 241.º, da Constituição da República, tendo em conta a atribuição prevista na alínea e) do n.º1, do artigo 13.º da Lei n.º 159/99, de 14 de Setembro, o disposto no artigo 64.º, n.º 6, alínea a), conjugado com o disposto no artigo 53.º, alínea a), da Lei 169/99, de 18 de Setembro, alterada pela Lei n.º 5-A/2002, de 11 de Janeiro faz saber que por deliberação da Câmara Municipal do passado dia nove de Dezembro de 2008 foi aprovado o Regulamento Municipal sobre a Atribuição de Medalhas e Galardões do Município de Proença-a-Nova. Posteriormente foi submetida esta proposta à Assembleia Municipal que a aprovou em reunião ordinária realizada no dia 19 de Dezembro do corrente ano.
+O presente Regulamento entrará em vigor 15 dias após publicação no Diário da República.
+9 de Janeiro de 2009. - O Presidente da Câmara, João Paulo Marçal Lopes Catarino.
+301223823
