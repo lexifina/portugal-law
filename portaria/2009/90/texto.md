@@ -1,0 +1,23 @@
+Portaria n.º 90/2009
+de 23 de Janeiro
+A Portaria n.º 3-B/2007, de 2 de Janeiro, veio regular o procedimento de pagamento da comparticipação do Estado no preço de venda ao público (PVP) dos medicamentos dispensados a beneficiários do Serviço Nacional de Saúde (SNS) que não estejam abrangidos por nenhum subsistema, de acordo com os elementos de identificação previstos no cartão de utente do SNS.
+O cartão de utente está a ser progressivamente substituído pelo cartão de cidadão, de acordo com a Lei n.º 7/2007, de 5 de Fevereiro.
+A progressiva substituição do cartão de utente pelo cartão de cidadão, já em utilização, exige a definição urgente e transitória da forma de verificação, no acto da dispensa, do regime de comparticipação no preço dos medicamentos, aplicável aos utentes do SNS.
+Relativamente ao receituário emitido informaticamente, esse regime de comparticipação está impresso na própria receita.
+No que se refere ao receituário emitido manualmente, a verificação do regime é efectuada através das vinhetas das unidades públicas de saúde ou de declaração emitida pelo SNS, enquanto o acesso ao Registo Nacional de Utentes não estiver generalizado.
+Assim:
+Manda o Governo, pelo Secretário de Estado Adjunto e da Saúde, ao abrigo do previsto no artigo 10.º do Decreto-Lei n.º 242-B/2006, de 29 de Dezembro, que o artigo 5.º da Portaria n.º 3-B/2007, de 2 de Janeiro, passe a ter a seguinte redacção:
+«Artigo 5.º
+Acto de dispensa
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - ...
+7 - ...
+8 - A verificação do regime de comparticipação a que o beneficiário tem direito efectua-se nos termos seguintes:
+a) Nas receitas emitidas informaticamente pelas unidades de saúde do SNS, de acordo com o n.º 2 do artigo 1.º da Portaria n.º 1501/2002, de 2 de Dezembro, o regime de comparticipação é o que estiver impresso na própria receita;
+b) Nas receitas emitidas manualmente, através da vinheta da unidade pública de saúde, sempre que conste da receita;
+c) Nas receitas emitidas manualmente sem aposição da vinheta prevista na alínea anterior, através de declaração emitida pelo SNS ou do cartão de utente, até à sua integral substituição.»
+O Secretário de Estado Adjunto e da Saúde, Francisco Ventura Ramos, em 16 de Janeiro de 2009.
