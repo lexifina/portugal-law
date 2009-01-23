@@ -1,0 +1,4 @@
+Aviso n.º 2202/2009
+Guilherme Manuel Lopes Pinto, Presidente da Câmara Municipal de Matosinhos, torna público, que conforme o disposto no n.º 1 do artigo 74.º do Decreto-Lei n.º 316/2007 de 19 de Setembro, a Câmara Municipal em sua reunião ordinária de 15 de Dezembro de 2008, deliberou mandar elaborar o Plano de Urbanização para Pampelido, nas freguesias de Perafita e Lavra.
+Nos termos do n.º 2 do artigo 77.º do referido diploma legal, decorrerá um período de 22 dias úteis, a contar da data desta publicação no Diário da República, um processo de audição ao público durante o qual os interessados poderão formular questões que possam ser consideradas no âmbito do procedimento de elaboração do Plano de Urbanização para Pampelido, nas freguesias de Perafita e Lavra.
+15 de Janeiro de 2009. - O Presidente da Câmara, Guilherme Manuel Lopes Pinto.
