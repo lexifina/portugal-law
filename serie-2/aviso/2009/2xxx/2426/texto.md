@@ -1,0 +1,5 @@
+Aviso n.º 2426/2009
+Idalécia Costa Gama Franco da Silva, presidente da Junta de Freguesia de Cadaval, Concelho de Cadaval, torna público que, nos termos do artigo 118º do Código do Procedimento Administrativo e em cumprimento de deliberação da Assembleia de Freguesia tomada na sua reunião ordinária de 30 de Setembro, se submete a apreciação pública para recolha de sugestões, o projecto de regulamento de Taxas e Licenças da Freguesia de Cadaval, aprovado pela Junta de Freguesia na sua reunião de 2 de Setembro de 2008.
+Os interessados devem dirigir por escrito as suas sugestões, devidamente fundamentadas e identificadas à Presidente da Junta de Freguesia, dentro do prazo de 30 dias contados da data da publicação do presente aviso no Diário da República.
+Neste período, o referido regulamento encontrar-se-á patente na página de Internet www.jf-cadaval.pt e na secretaria da Junta de Freguesia, onde poderá ser consultado no horário de expediente.
+16 de Janeiro de 2009. - A Presidente, Idalécia Costa Gama Franco da Silva.
