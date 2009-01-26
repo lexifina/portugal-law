@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 3/2009
+Para os devidos efeitos se declara que a Lei n.º 3/2009, de 13 de Janeiro, que regula os efeitos jurídicos dos períodos de prestação de serviço militar de antigos combatentes para efeitos de atribuição dos benefícios previstos na Leis n.os 9/2002, de 11 de Fevereiro, e 21/2004, de 5 de Junho, publicada no Diário da República, 1.ª série, n.º 8, de 13 de Janeiro de 2009, saiu com a seguinte inexactidão, que ora se rectifica:
+No artigo 22.º, onde se lê «A presente lei entra em vigor com a Lei do Orçamento do Estado referente ao ano económico seguinte ao da sua publicação.» deve ler-se «A presente lei entra em vigor na data da entrada em vigor da Lei do Orçamento do Estado para 2009.».
+Assembleia da República, 21 de Janeiro de 2009. - Pela Secretária-Geral, a Adjunta, Maria do Rosário Boléo.
