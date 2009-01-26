@@ -1,0 +1,4 @@
+Edital n.º 103/2009
+Fernando de Carvalho Ruas, Presidente da Câmara Municipal de Viseu, torna Público que, nos termos do n.º1 do artigo 74.º do Decreto-Lei n.º316/2007, de 19 de Setembro, a Câmara Municipal de Viseu, em sua reunião ordinária realizada em 31 de Outubro de 2008, deliberou autorizar o desenvolvimento procedimental de alteração ao "Plano de Pormenor da Envolvente Urbana do Rio Pavia".
+Mais se torna público que, durante o período de 15 dias, a contar da data de publicação do presente Edital no Diário da República, poderão ser formuladas sugestões e apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito desta alteração, conforme previsto no n.º2 do artigo 77.º do citado diploma legal, e de um prazo de 30 dias para a sua elaboração, considerando-se que das presentes alterações não decorrem efeitos significativos para o ambiente.
+20 de Janeiro de 2009. - O Presidente da Câmara, Fernando Carvalho Ruas.
