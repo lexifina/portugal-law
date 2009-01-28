@@ -1,0 +1,16 @@
+Resolução do Conselho de Ministros n.º 11/2009
+O Decreto n.º 25/2007, de 22 de Outubro, com o objectivo de assegurar a manutenção das condições necessárias para a programação e execução do empreendimento público relativo à ligação ferroviária de alta velocidade do eixo Lisboa-Madrid, sujeitou a medidas preventivas as áreas abrangidas pelo traçado previsto nos municípios de Moita, Palmela, Montijo, Vendas Novas, Montemor-o-Novo, Arraiolos, Évora, Redondo, Vila Viçosa, Alandroal e Elvas de forma a evitar a alteração das circunstâncias e condições existentes ou a tornar a execução do referido empreendimento mais difícil ou onerosa.
+Os traçados preliminares previstos para a ligação ferroviária de alta velocidade entre Lisboa e Madrid foram entretanto objecto dos respectivos procedimentos administrativos de avaliação de impacte ambiental e da emissão das respectivas declarações de impacte ambiental, que concluíram com a selecção de uma das alternativas de corredor propostas.
+Consequentemente, deixou de fazer sentido submeter algumas das áreas incluídas nos traçados preliminares constantes das plantas anexas ao Decreto n.º 25/2007, de 22 de Outubro, às respectivas medidas preventivas uma vez que tal já não é necessário para assegurar a manutenção das condições exigidas para a programação e execução da ligação ferroviária de alta velocidade entre Lisboa e Madrid.
+Deste modo, impõe-se a revogação dos traçados preliminares previstos para a ligação ferroviária de alta velocidade entre Lisboa e Madrid excluídos pelas respectivas declarações de impacte ambiental e a redefinição das áreas abrangidas pelas medidas preventivas.
+Assim:
+Ao abrigo do disposto nos n.os 9 do artigo 107.º e 2 do artigo 109.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção conferida pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, no artigo 7.º do Decreto-Lei n.º 794/76, de 5 de Novembro, com a redacção dada pelo Decreto-Lei n.º 313/80, de 19 de Agosto, e nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Alterar as áreas abrangidas pelas medidas preventivas estabelecidas com vista à salvaguarda da programação e implementação da ligação ferroviária de alta velocidade do eixo Lisboa-Madrid pelo Decreto n.º 25/2007, de 22 de Outubro.
+2 - Estabelecer que as medidas preventivas estabelecidas pelo Decreto n.º 25/2007, de 22 de Outubro, se aplicam nas áreas delimitadas nas plantas constantes do anexo à presente resolução, que dela faz parte integrante, identificadas com os números de ordem 1 de 10 a 10 de 10.
+3 - Decidir depositar na Rede Ferroviária Nacional - REFER, E. P. E., nas comissões de coordenação e desenvolvimento regional territorialmente competentes e nos municípios abrangidos os elementos cartográficos que permitam a identificação das áreas delimitadas nas plantas anexas à presente resolução, incluindo o respectivo levantamento aerofotogramétrico do território.
+4 - Revogar as plantas publicadas em anexo ao Decreto n.º 25/2007, de 22 de Outubro.
+5 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 8 de Janeiro de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+ANEXO
+Plantas
+(ver documento original)
