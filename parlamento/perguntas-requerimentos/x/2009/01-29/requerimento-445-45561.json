@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "45561",
+  "tipo": "Requerimento",
+  "numero": "445",
+  "data_registo": "2009-01-29",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Equipamento escolar adequado ao ensino especial",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "1023",
+        "nome": "Maria do Rosário Carneiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1553",
+        "nome": "Teresa Venda"
+      }
+    ],
+    "DataEnvio": "2009-02-02",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2009-02-02",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal do Barreiro",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2009-02-26",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal do Barreiro",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a52545443396a595452694d6a497a596930785a5749774c54517a4f545974595467774f5331684e445a6d5932526a4e6d51785a4749756347526d&fich=ca4b223b-1eb0-4396-a809-a46fcdc6d1db.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2009-01-29",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544339684d546b314d324d774e43316d4e7a497a4c5451794e5755744f47597a4d43316b4d4441324d5452684d474d794f5451756347526d&fich=a1953c04-f723-425e-8f30-d00614a0c294.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "45561",
+    "Legislatura": "X",
+    "Nr": "445",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "458555",
+        "obs": null,
+        "pag": [
+          "109-110"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009",
+        "pubLeg": "X",
+        "pubNr": "63",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/063/2009-02-09/109?pgs=109-110&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Requerimento"
+  }
+}
