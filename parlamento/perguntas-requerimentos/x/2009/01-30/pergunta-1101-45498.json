@@ -1,0 +1,118 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "45498",
+  "tipo": "Pergunta",
+  "numero": "1101",
+  "data_registo": "2009-01-30",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Publicação de artigos de imprensa na primeira página da secção de \"Classificados\" do \"Jornal de Notícias\"",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "2114",
+        "nome": "Emídio Guerreiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1686",
+        "nome": "Pedro Duarte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1887",
+        "nome": "Ribeiro Cristóvão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2065",
+        "nome": "Agostinho Branquinho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2089",
+        "nome": "Helena Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2108",
+        "nome": "André Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "51",
+        "nome": "Fernando Antunes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2072",
+        "nome": "Ana Zita Gomes"
+      }
+    ],
+    "DataEnvio": "2009-02-02",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2009-02-02",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA   EDUCAÇÃO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2009-03-04",
+            "docRemetida": null,
+            "entidade": "MIN.  DA   EDUCAÇÃO",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a52545443396959546777596d5532596930354d7a566b4c5451774e6a41744f57493359793169596a63334e546b784e6a49784e5749756347526d&fich=ba80be6b-935d-4060-9b7c-bb775916215b.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2009-01-30",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544339684f546b7a4e474579595330334e7a67344c54526a4d4751744f44686a4f533032595463784d475a6d4e4442694d7a49756347526d&fich=a9934a2a-7788-4c0d-88c9-6a710ff40b32.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "45498",
+    "Legislatura": "X",
+    "Nr": "1101",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "459232",
+        "obs": null,
+        "pag": [
+          "8-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009",
+        "pubLeg": "X",
+        "pubNr": "66",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/066/2009-02-12/8?pgs=8-10&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Pergunta"
+  }
+}
