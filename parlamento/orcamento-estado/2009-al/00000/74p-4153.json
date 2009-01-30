@@ -1,0 +1,100 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=igbGz5l3r%2bfgOSnjJoQdqasfb1jJYj8DI3hUPNO84tRQqM%2bEJtdg%2bNMtwqL0MI0YTaST0kjM4HPon1%2fAp4JIFchQ1Ng65AlYTR9ZfIaSuC1ykYdLJDe9eqIJNlQkpheBqQ4tgY9pNO7lDDsDXi6x2QOGmSKnOn0rg7yuFvD7Pts0%2bz1EW%2fWCiKeuuA4CTi3J2j3oDhuS%2fmv5wPFvrWrQWtsIM9ial99Su%2b%2blyqcOw4lU5kdpcbflu0MT0gsUIzRpOcI4EOQbXVR80nMmxobry%2bV7ujGkggWwtPOpJkyB%2bKNsGWzSIP8sX4AxMG5jeaNZXDgv8iqnzuNYOe6%2fUMrDOcQV1lNfK0DWFMSylPWLUOchGuLPpcKqZvTvm0%2bTFIWfxKEPNioMMsn83VxkT8XMwA%3d%3d&fich=OEPropostasAlteracao2009Al_json.txt&Inline=true",
+  "ficheiro_sha256": "2c14a372415562a002812a9483cec2eaee5d91ca025e843b8d888c3918e15a46",
+  "legislatura": "X",
+  "id": "4153",
+  "numero": "74P",
+  "orcamento": "2009",
+  "versao": "Al",
+  "data_registo": "2009-01-30",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "4153",
+    "Numero": "74P",
+    "Data": "30/01/2009 18:54:00",
+    "Titulo": "Adita um Artigo 11.º C à PPL",
+    "Tema": null,
+    "Apresentada": "Plenário",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Plenário",
+    "NumeroArtigoNovo": "11.º C",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684d52556376543055764d6a41774f5449774d446b774d5445354c3142424c3255774e7a55315a4463324c5759774d6a45744e446b774e4330345a6a426c4c574d7a4e6a67784d544a6d4d5441344f5335775a47593d&Fich=e0755d76-f021-4904-8f0e-c368112f1089.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "FRANCISCO MADEIRA LOPES"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "HELOÍSA APOLÓNIA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "True",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 11.º-C",
+        "Titulo": "Consignação de receita ao Ministério das Obras Públicas, Transportes e Comunicações",
+        "Texto": null,
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 11.º-C"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Consignação de receita ao Ministério das Obras Públicas, Transportes e Comunicações",
+        "Data": "05/02/2009 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Plenário",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Comunista Português",
+            "Partido Popular",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Partido Ecologista \"Os Verdes\"",
+            "JOSÉ PAULO AREIA DE CARVALHO(CDS-P)",
+            "LUÍSA MESQUITA(PCP)",
+            "JOSÉ PAULO AREIA DE CARVALHO(CDS-P)",
+            "LUÍSA MESQUITA(PCP)"
+          ],
+          "Voto": [
+            "Contra",
+            "Favor",
+            "Favor",
+            "Abstenção",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
