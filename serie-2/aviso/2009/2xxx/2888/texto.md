@@ -1,0 +1,5 @@
+Aviso n.º 2888/2009
+Luís Filipe Soromenho Gomes, Presidente da Câmara Municipal de Vila Real de Santo António, torna público que, por deliberação tomada em reunião ordinária do órgão Assembleia Municipal, realizada em 18 de Dezembro de 2008, foi aprovada a redução das taxas aplicáveis ao Regulamento de Urbanização e Edificação:
+1 - Redução de 20% (vinte por cento) em todas as taxas resultantes do Regulamento Municipal de Urbanização e Edificação, durante o ano de 2009.
+2 - Toda e qualquer edificação cujo objecto seja a criação de um estabelecimento hoteleiro cuja categoria seja pelo menos de 4 estrelas e que se comprometa criar pelo menos 10 postos de trabalho em permanência, ser-lhe-á conferida uma redução de 40% (quarenta por cento) no valor das taxas a pagar ao Município aquando do licenciamento, durante o ano de 2009. O valor base sobre o qual incide a redução anteriormente referida corresponde ao directamente retirado nos quadros e fórmulas presentes neste Regulamento.
+27 de Janeiro de 2009. - O Presidente da Câmara, Luís Filipe Soromenho Gomes.
