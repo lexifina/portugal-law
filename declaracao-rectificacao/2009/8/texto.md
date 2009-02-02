@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 8/2009
+Por ter sido publicado com inexactidão no suplemento ao Diário da República, 1.ª série, n.º 19, de 28 de Janeiro de 2009, o Decreto do Presidente da República n.º 3-B/2009, de 28 de Janeiro, rectifica-se que, no sumário e no texto, onde se lê «Francisco Manuel Seixas da Costa para o cargo Embaixador de Portugal em Paris» deve ler-se «Francisco Manuel Seixas da Costa para o cargo de Embaixador de Portugal em Paris».
+Secretaria-Geral da Presidência da República, 28 de Janeiro de 2009. - Pelo Secretário-Geral, a Directora de Serviços Administrativos e Financeiros, Graça Ferreira.
