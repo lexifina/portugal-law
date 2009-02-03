@@ -1,0 +1,5 @@
+Aviso n.º 4/2009
+Por ordem superior se torna público que, em 24 de Março e em 30 de Outubro de 2008, respectivamente, foram emitidas notas pela Embaixada da República da Bulgária em Lisboa e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, tendo a última notificação escrita sido recebida pela Embaixada da República da Bulgária em Lisboa em 4 de Novembro de 2008, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República da Bulgária Relativo à Protecção Mútua de Informação Classificada, assinado em Sófia em 14 de Dezembro de 2007.
+Portugal é Parte neste Acordo, aprovado pelo Governo pelo Decreto n.º 45/2008, publicado no Diário da República, 1.ª série, n.º 198, de 13 de Outubro de 2008.
+Nos termos do artigo 18.º, o Acordo está em vigor em 4 de Dezembro de 2008, 30.º dia após a recepção da última notificação, por escrito e por via diplomática, informando que foram cumpridos os requisitos do direito interno das Partes.
+Direcção-Geral dos Assuntos Europeus, 15 de Janeiro de 2009. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
