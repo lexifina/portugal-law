@@ -6,7 +6,7 @@
 
 2 - A DGV é a entidade responsável pela definição da informação necessária ao funcionamento do SNIRA, sendo o INGA a entidade responsável pela gestão informática das bases de dados referidas no número anterior.
 
-3 - Os detentores de bovinos, ovinos, caprinos e suínos são obrigados a comunicar à base de dados informatizada todas as movimentações para a exploração e a partir desta, de acordo com os procedimentos a estabelecer nos termos do disposto no artigo 15.º
+3 - Os detentores de bovinos, ovinos, caprinos, suínos, aves, leporídeos ou de outras espécies pecuárias são obrigados a comunicar à base de dados informatizada todas as movimentações para a exploração e a partir desta, de acordo com os procedimentos a estabelecer nos termos do disposto no artigo 15.º
 
 4 - Os detentores de bovinos são ainda obrigados a comunicar à base de dados informatizada todos os nascimentos e desaparecimentos, bem como as quedas das marcas auriculares e as datas dessas ocorrências.
 

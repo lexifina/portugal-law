@@ -6,7 +6,7 @@ Para efeitos do presente decreto-lei, entende-se por:
 
 a) «Agente identificador» a entidade com competência para aplicar a identificação ou a marcação referida no presente decreto-lei;
 
-b) «Animal» qualquer animal das espécies bovina, suína, ovina e caprina, bem como os equídeos;
+b) 'Animal' qualquer animal das espécies bovina, suína, ovina, caprina, equídeos, aves, leporídeos e outras espécies animais que sejam exploradas para produção de carnes, leite, ovos, lã, pêlo, peles ou repovoamentos cinegéticos, trabalho ou certames culturais ou desportivos;
 
 c) «Animal para abate» qualquer animal destinado a um matadouro ou a um centro de agrupamento, a partir do qual só pode ser transportado para um matadouro para efeitos de abate;
 
@@ -38,7 +38,7 @@ q) «Efectivo» o animal ou conjunto de animais da mesma espécie ou de espécie
 
 r) «Exploração» qualquer instalação ou, no caso de uma exploração agro-pecuária ao ar livre, qualquer local situado no território nacional onde os animais abrangidos pelo presente decreto-lei sejam alojados, criados ou mantidos;
 
-s) «Exploração extensiva ou de ar livre» o regime de exploração agro-pecuária, reconhecida como tal pela autoridade competente, em que os animais pastoreiam habitualmente em liberdade, com reduzido contacto com seres humanos e sem recolhimento regular para alojamento;
+s) 'Exploração extensiva em liberdade' a produção pecuária extensiva, reconhecida como tal pela autoridade competente, em que os animais pastoreiam habitualmente em liberdade, com reduzido contacto com seres humanos e sem recolhimento regular para alojamento;
 
 t) «Guia de circulação» o documento emitido pelo sistema informático que autoriza e acompanha a circulação de animais;
 

@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Centros de agrupamento, comerciantes e transportadores
+
 # Artigo 11.º
 
 ### Comerciantes

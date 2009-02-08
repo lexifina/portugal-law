@@ -10,4 +10,6 @@
 
 4 - O disposto no número anterior não se aplica sempre que os detentores das explorações ou as associações que os representem apresentem um plano aprovado pela DGV que assegure aquela recolha nas condições legalmente estabelecidas.
 
-5 - Os detentores de bovinos mortos em explorações, centros de agrupamento ou durante o transporte em zonas remotas, definidas nos termos do Regulamento (CE) n.º 1774/2002, do Parlamento Europeu e do Conselho, de 3 de Outubro, ou quando, ainda que em zona não remota, por motivos não imputáveis ao detentor, o cadáver não seja recolhido no âmbito do SIRCA, são obrigados a declarar aquela ocorrência nos termos do disposto no n.º 4 do artigo 7.º, bem como a entregar toda a documentação a eles respeitante, incluindo os meios de identificação.
+5 - As explorações pecuárias de suínos, aves, leporídeos ou outras espécies pecuárias, e os centros de agrupamento ou entrepostos, são obrigadas a assegurar condições de manutenção hígio-sanitária dos cadáveres de animais que tenham morrido na exploração, centro de agrupamento ou entreposto, bem como sistema de destruição de cadáveres aprovado ou a sua contratualização com estabelecimentos autorizados, no âmbito do Decreto-Lei n.º 122/2006, de 27 de Junho.
+
+6 - O prazo estipulado no n.º 2 pode ser estendido até à data da vistoria a realizar por parte do ICNB nos termos do artigo 9.º do Decreto-Lei n.º 139/90, de 27 de Abril, devendo nesta situação os detentores dos animais apresentar na altura da recolha dos cadáveres no âmbito do SIRCA a ficha de vistoria entregue pelo ICNB.
