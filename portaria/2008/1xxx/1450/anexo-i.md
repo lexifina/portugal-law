@@ -744,7 +744,7 @@ f) Posto Territorial da Merceana.
 
 2) Destacamento Territorial de Mafra:
 
-a) Posto Territorial da Ericeira;
+a) Posto Territorial de Ericeira;
 
 b) Posto Territorial do Livramento;
 
@@ -762,7 +762,9 @@ c) Posto Territorial de Pêro Pinheiro;
 
 d) Posto Territorial de Sintra;
 
-e) Posto Territorial de Terrugem.
+e) Posto Territorial de Terrugem;
+
+f) Posto Fiscal de Alfragide.
 
 4) Destacamento Territorial de Torres Vedras:
 
@@ -772,7 +774,7 @@ b) Posto Territorial de Moita dos Ferreiros;
 
 c) Posto Territorial de Santa Cruz;
 
-d) Posto Territorial do Sobral de Monte Agraço;
+d) Posto Territorial de Sobral de Monte Agraço;
 
 e) Posto Territorial de Torres Vedras.
 
@@ -782,7 +784,7 @@ a) Posto Territorial de Arruda dos Vinhos;
 
 b) Posto Territorial de Bucelas;
 
-c) Posto Territorial da Castanheira do Ribatejo;
+c) Posto Territorial de Castanheira do Ribatejo;
 
 d) Posto Territorial de São Julião do Tojal;
 
@@ -790,9 +792,7 @@ e) Posto Territorial de Vialonga;
 
 f) Posto Fiscal do Aeroporto de Lisboa;
 
-g) Posto Fiscal de Alfragide;
-
-h) Posto Fiscal do Ministério das Finanças.
+g) Posto Fiscal do Ministério das Finanças.
 
 6) Destacamento de Trânsito de Carcavelos.
 
@@ -800,7 +800,99 @@ h) Posto Fiscal do Ministério das Finanças.
 
 8) Destacamento de Trânsito de Torres Vedras.
 
-9) Destacamento de intervenção.
+9) Destacamento de intervenção.»
+
+2 - No anexo i, na parte respeitante ao Comando Territorial de Viana do Castelo, onde se lê:
+
+«q) Comando Territorial de Viana do Castelo
+
+1) Destacamento Territorial de Arcos de Valdevez:
+
+a) Posto Territorial de Arcos de Valdevez;
+
+b) Posto Territorial de Paredes de Coura;
+
+c) Posto Territorial de Ponte da Barca;
+
+d) Posto Territorial de Ponte de Lima.
+
+2) Destacamento Territorial de Valença:
+
+a) Posto Territorial de Melgaço;
+
+b) Posto Territorial de Monção;
+
+c) Posto Territorial de São Julião do Freixo;
+
+d) Posto Territorial de Valença;
+
+e) Posto Territorial de Vila Nova de Cerveira.
+
+3) Destacamento Territorial de Viana do Castelo:
+
+a) Posto Territorial de Barroselas;
+
+b) Posto Territorial de Caminha;
+
+c) Posto Territorial de Lanheses;
+
+d) Posto Territorial de Tangil;
+
+e) Posto Territorial de Viana do Castelo;
+
+f) Posto Territorial de Vila Praia de Âncora.
+
+4) Destacamento de Trânsito de Viana do Castelo:
+
+a) Posto de Trânsito de Ponte de Lima.
+
+5) Destacamento de intervenção.»
+
+deve ler-se:
+
+«q) Comando Territorial de Viana do Castelo
+
+1) Destacamento Territorial de Arcos de Valdevez:
+
+a) Posto Territorial de Arcos de Valdevez;
+
+b) Posto Territorial de Paredes de Coura;
+
+c) Posto Territorial de Ponte da Barca;
+
+d) Posto Territorial de Ponte de Lima;
+
+e) Posto Territorial de São Julião do Freixo.
+
+2) Destacamento Territorial de Valença:
+
+a) Posto Territorial de Melgaço;
+
+b) Posto Territorial de Monção;
+
+c) Posto Territorial de Tangil;
+
+d) Posto Territorial de Valença;
+
+e) Posto Territorial de Vila Nova de Cerveira.
+
+3) Destacamento Territorial de Viana do Castelo:
+
+a) Posto Territorial de Barroselas;
+
+b) Posto Territorial de Caminha;
+
+c) Posto Territorial de Lanheses;
+
+d) Posto Territorial de Viana do Castelo;
+
+e) Posto Territorial de Vila Praia de Âncora.
+
+4) Destacamento de Trânsito de Viana do Castelo:
+
+a) Posto de Trânsito de Ponte de Lima.
+
+5) Destacamento de intervenção.
 
 m) Comando Territorial de Portalegre
 
