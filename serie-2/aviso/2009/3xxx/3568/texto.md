@@ -1,0 +1,9 @@
+Aviso n.º 3568/2009
+Abertura do período de discussão pública do Plano de Pormenor Malha 14 do Plano de Urbanização do Alto do Lumiar. - Torna-se público, nos termos dos artigos 77.º n.º 3 do Decreto-Lei n.º 380/99 de 22 de Setembro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 316/2007 de 19 de Setembro e do artigo 91.º da Lei n.º 169/99 de 18 de Setembro (Lei das Autarquias Locais), que a Câmara Municipal de Lisboa, em Reunião de Câmara de 22 de Dezembro de 2008, de acordo com a Proposta n.º 1331/2008, deliberou proceder à abertura de um período de discussão pública da Proposta do Plano de Pormenor da Malha 14 do Plano de Urbanização do Alto do Lumiar.
+A discussão pública decorrerá, após publicação do presente Aviso no Diário da República, 2.ª série, nos termos do artigo 148.º n.º 4, alínea a) do citado decreto-lei, por um período de 22 dias para os interessados poderem apresentar as suas reclamações, observações ou sugestões.
+Os interessados poderão consultar a Proposta de Plano e demais documentação que consubstanciou o período de acompanhamento, no site de Urbanismo da CML, na Secção Planeamento Urbano (http://ulisses.cm-lisboa.pt) ou nos locais a seguir identificados:
+Centro de Informação Urbana de Lisboa (CIUL) sito no Picoas Plaza, na Rua do Viriato n.º 13 a n.º 17;
+Gabinete de Relações Públicas da Direcção Municipal de Planeamento Urbano sito Edifício Central da CML, no Campo Grande n.º 25, 3.º F;
+Junta de Freguesia do Lumiar, sita na Estrada da Torre, n.º 19.
+A formulação de reclamações, observações ou sugestões, deverão ser feitas por escrito, dirigidas ao Presidente da Câmara Municipal de Lisboa, utilizando para o efeito, o impresso próprio que pode ser obtido nos locais acima referidos ou no site de Urbanismo da CML (http://ulisses.cm-lisboa.pt).
+23 de Dezembro de 2008. - A Directora Municipal de Planeamento Urbano, Maria Teresa Mourão de Almeida.
