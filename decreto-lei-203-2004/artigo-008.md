@@ -26,4 +26,4 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 8 - A orientação directa e permanente dos internos é feita por orientadores de formação.
 
-9 - O exercício das funções de orientador de formação a que se refere o n.º 8 releva para efeitos curriculares, nos termos dos regulamentos enquadradores dos concursos das carreiras médicas, em termos a definir por portaria.
+9 - O exercício das funções de orientador de formação a que se refere o número anterior releva para efeitos curriculares, nos termos dos regulamentos enquadradores dos concursos das carreiras médicas, em termos a definir por portaria do membro do Governo responsável pela área da saúde.

@@ -4,9 +4,9 @@
 
 1 - O internato médico realiza-se em estabelecimentos públicos, com ou sem natureza empresarial, com contrato de gestão ou em regime de convenção, do sector social, privados, em hospitais sociedades anónimas de capitais exclusivamente públicos, reconhecidos como idóneos para o efeito e de acordo com a sua capacidade formativa.
 
-2 - O reconhecimento de idoneidade e a fixação da capacidade formativa dos estabelecimentos e serviços de saúde são feitos por despacho do Ministro da Saúde, sob proposta da Ordem dos Médicos, ouvido o Conselho Nacional, de acordo com as regras constantes do Regulamento do Internato Médico.
+2 - O reconhecimento de idoneidade e a fixação da capacidade formativa dos estabelecimentos e serviços de saúde são feitos por despacho do membro do Governo responsável pela área da saúde, sob proposta da Ordem dos Médicos, ouvido o Conselho Nacional, de acordo com as regras constantes do Regulamento do Internato Médico.
 
-3 - Para os efeitos do disposto no número anterior, e na ausência de proposta da Ordem dos Médicos, o reconhecimento de idoneidade e a fixação da capacidade formativa dos estabelecimentos e serviços de saúde são feitos por despacho do Ministro da Saúde, mediante proposta do Conselho Nacional.
+3 - Para os efeitos do disposto no número anterior, e na ausência de proposta da Ordem dos Médicos, o reconhecimento de idoneidade e a fixação da capacidade formativa dos estabelecimentos e serviços de saúde são feitos por despacho do membro do Governo responsável pela área da saúde, mediante proposta do Conselho Nacional.
 
 4 - A capacidade formativa dos estabelecimentos e serviços de saúde corresponde ao número máximo de internos que podem ter simultaneamente em formação.
 

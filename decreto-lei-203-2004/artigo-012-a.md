@@ -25,5 +25,3 @@
 11 - O médico que realize o internato em estabelecimento ou serviço diverso daquele onde se verificou a necessidade que deu lugar à vaga preferencial deve continuar a sua formação neste último, caso o mesmo venha a adquirir capacidade formativa na respectiva área de especialização e a partir do momento em que tal circunstância não prejudicar a continuidade e a qualidade do percurso formativo, cuja colocação compete à ARS respectiva.
 
 12 - As vagas preferenciais não podem ser transformadas em vagas normais.
-
-13 - O disposto nos n.os 5 a 7 aplica-se aos médicos que estejam colocados em vagas preferenciais em estabelecimentos com natureza de entidade pública empresarial, devendo o exercício de funções, nos termos do n.º 4, efectivar-se mediante celebração de contrato de trabalho sem termo, ao abrigo do regime de pessoal daquelas entidades.
