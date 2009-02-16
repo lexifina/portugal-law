@@ -1,0 +1,7 @@
+Aviso n.º 3747/2009
+Revisão do Plano de Pormenor da Zona Industrial de Vila Nova de Poiares
+Jaime Carlos Marta Soares, Presidente da Câmara Municipal de Vila Nova de Poiares, faz público que em reunião de Câmara realizada no dia 2 de Dezembro de 2008 foi deliberado proceder à Revisão do Plano de Pormenor da Zona Industrial de Vila Nova de Poiares, dando-se assim início ao procedimento de revisão. Mais se informa que foi estabelecido um prazo de 6 meses para a respectiva revisão.
+O plano de pormenor supracitado é enquadrado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 316/2007, de 19 de Setembro.
+Assim e dando cumprimento ao disposto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, foi deliberado dar início ao período de participação, pelo prazo de 15 dias a contar a partir do dia seguinte à publicação do presente aviso, para recolha de sugestões, bem como para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de revisão.
+Nesse sentido, os eventuais interessados poderão apresentar as sugestões e informações, mediante requerimento dirigido ao senhor Presidente da Câmara, devidamente identificado, directamente nos serviços da Câmara Municipal de Vila Nova de Poiares, através dos correios ou para o seguinte endereço de correio electrónico: cmvnp@mail.telepac.pt.
+29 de Janeiro de 2009. - O Presidente da Câmara, Jaime Carlos Marta Soares.
