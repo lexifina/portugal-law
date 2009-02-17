@@ -1,0 +1,5 @@
+Aviso n.º 3820/2009
+Revisão do Plano de Pormenor da Zona de Comércio, Indústria e Serviços da Guia
+Nos termos do n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99 de 22 de Setembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, se torna público que a Câmara Municipal de Albufeira, na sua reunião de 3 de Fevereiro de 2009, determinou o início da Revisão do Plano de Pormenor da Zona de Comércio, Indústria e Serviços da Guia, aprovou os seus termos de referência e estabeleceu o prazo de noventa dias para a sua elaboração, bem como determinou dar início, por um período de 15 dias, após a publicitação deste Aviso, nos termos do n.º 2 do artigo 77.º do já referido Decreto-Lei, para recepção de eventuais sugestões e informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de revisão.
+O presente Aviso foi enviado para publicação na 2.ª série do Diário da República em 06 de Fevereiro de 2009.
+6 de Fevereiro de 2009. - O Presidente da Câmara, Desidério Jorge da Silva.
