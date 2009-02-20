@@ -1,0 +1,88 @@
+Edital n.º 192/2009
+Arquitecto Armindo Borges Alves da Costa, presidente da Câmara Municipal de Vila Nova de Famalicão:
+Torna público que, a Câmara Municipal, em reunião realizada no dia 29 de Janeiro de 2009, deliberou por unanimidade, aprovar a proposta do projecto de Regulamento do Prémio de Mérito Empresarial «Novas Oportunidades» de Vila Nova de Famalicão e submeter, nos termos do artigo 118.º do Código do Procedimento Administrativo, a apreciação pública, pelo prazo de 30 dias, a contar da data da sua publicação na 2.ª série do Diário da República.
+A referida proposta encontra-se à disposição do público para consulta, nos Serviços de Atendimento ao Público da Câmara Municipal, durante as horas normais de expediente e no sítio oficial do Município na Internet em www.vilanovadefamalicao.org.
+Para constar se lavrou o presente edital e outros de igual teor, que vão ser afixados nos lugares do costume.
+9 de Fevereiro de 2009. - O Presidente da Câmara, Armindo B. A. Costa.
+Regulamento do Prémio de Mérito Empresarial «Novas Oportunidades» de Vila Nova de Famalicão
+Preâmbulo
+Um dos pilares fundamentais do desenvolvimento de uma comunidade é o seu grau de educação e formação. Não é possível pensar em desenvolver uma sociedade harmoniosa, criar riqueza e privilegiar o bem-estar de todos, sem que os elementos que a compõem possuam os instrumentos básicos para o exercício de uma cidadania plena e consciente. Deve apostar-se no desenvolvimento dos indivíduos do ponto de vista académico, social, técnico e humano, ou seja, proporcionar a aquisição e desenvolvimento de competências para o exercício da cidadania, no quadro da sociedade do conhecimento. Compete ao sistema educativo fornecer estes instrumentos.
+Se é verdade que a educação é um processo de crescimento, desenvolvimento e aperfeiçoamento pessoal, que potencializa o aproveitamento das capacidades de cada indivíduo, também não é menos verdade que a educação, com a acção conjunta de uma comunidade, eleva exponencialmente a possibilidade de aproveitamento de todos os recursos educativos.
+A educação não pode ser considerada como um acto isolado, desenvolvido em cada indivíduo e que só, sobre ele, tem efeito. Pelo contrário, a educação é um acto social em que se confundem os beneficiários, os actores e os "espectadores". Tal como não pode haver um desenvolvimento completo da comunidade sem que todos os seus membros possuam as condições para um desempenho correcto do seu papel social, também não é possível ter condições de obter uma boa educação e formação sem a intervenção da comunidade envolvente.
+Neste contexto de globalização da economia e dos mercados, em que o mundo do trabalho sofre profundas e constantes mutações, exige-se, cada vez mais, que os indivíduos adquiram novas competências profissionais, certificando e validando as suas competências.
+Num país, em que a estrutura do sistema de ensino é ainda bastante rígida, as expectativas de desenvolvimento de qualificações mais adequadas à vocação de muitos alunos e formandos, recaem, essencialmente, na formação. Assim, uma enorme responsabilidade pesa sobre os ombros das vias profissionalizantes, ou seja, a de desenvolver novas competências, adequadas às novas exigências das empresas e, ao mesmo tempo, promover ela própria, a mudança de comportamentos e atitudes, de modo a tornar viável o desenvolvimento sustentado das empresas, dos seus colaboradores e da sociedade. Se a Formação não integrar, em si, estes objectivos e não conseguir responder a estes desafios, tecer-se-ão outros cenários, marginalizadores do elemento humano.
+Em Vila Nova de Famalicão, a Câmara Municipal, atenta às mudanças da sociedade e do próprio sistema de ensino, tem articulado e fomentado, com as diversas entidades, um intenso diálogo, de forma a melhorar o sistema de ensino concelhio, nomeadamente no que concerne a um ensino cada vez mais profissionalizante.
+Desde o lançamento da iniciativa das Novas Oportunidades que o Município agarrou a ideia com toda a força, entendendo que promover a qualificação, fomentando as condições para a escolarização dos Famalicenses, se trata de uma mais-valia numa aposta qualificante da população do concelho.
+Foi dos primeiros Municípios a solicitar a assinatura do Acordo de Colaboração no âmbito da Iniciativa "Novas Oportunidades" entre o Município, a DREN e o IEFP, cujo objectivo é desenvolver uma actuação conjunta e concertada nos domínios da educação, qualificação e formação profissional.
+A equipa resultante do Acordo, que continua a reunir com regularidade, tem colaborado na dinamização da rede de actores locais, nomeadamente os Centros Novas Oportunidades e a Plataforma de Educação e Formação.
+O trabalho da Plataforma tem já um longo caminho percorrido. A articulação entre as Entidades Formadores, o IEFP e a Câmara Municipal é um trabalho que se tem comprovado como uma mais valia, nomeadamente na elaboração do Plano de Formação para o Concelho.
+Os Centros de Novas Oportunidades são, para nós, Câmara Municipal, uma aposta fundamental para o progresso do Município. Ao longo deste tempo temos realizado campanhas de divulgação "Famalicão tem mais Centros", com a distribuição de infomail's e colocando, pelo concelho, lonas publicitárias, identificando os sete Centros de Novas Oportunidades, tendo ajudado, também, a fazer uma distribuição do território pelos 7 CNO's do Concelho, de forma a não deixar nenhuma Freguesia de fora.
+No âmbito do referido Acordo e no quadro de competências e regime jurídico de funcionamento dos órgãos dos municípios, Lei n.º 169/99, de 18 de Setembro, com a redacção dada pela Lei n.º 5-A/2002, de 11 de Janeiro, mais concretamente nos n.º 1, alínea l), n.º 2, alínea h), n.º 2, alínea l), e n.º 4, alínea b), do artigo 64.º, e o exarado nas alíneas c) e d) do n.º 1 do artigo 28.º da Lei n.º 159/99, de 14 de Setembro, é criado o Prémio de Mérito Empresarial "Novas Oportunidades" de Vila Nova de Famalicão para as empresas e organizações do Concelho que se distingam e tenham contribuído, de forma significativa, para a consolidação dos objectivos de certificação de competências da população activa.
+CAPÍTULO I
+Disposições Iniciais
+Artigo 1.º
+Âmbito do Prémio
+No decorrer da assinatura do acordo de colaboração no âmbito da Iniciativa Novas Oportunidades, a Câmara Municipal de Vila Nova de Famalicão, em parceria com a Direcção Regional de Educação do Norte e o Instituto de Emprego e Formação Profissional, promove um prémio cuja atribuição é anual.
+Artigo 2.º
+Designação do Prémio
+O prémio para as empresas e organizações que promovam a participação dos seus colaboradores em processos de qualificação é denominado Prémio de Mérito Empresarial "Novas Oportunidades" de Vila Nova de Famalicão.
+Artigo 3.º
+Objectivos do Prémio
+A atribuição do prémio visa:
+a) Encorajar os empresários a criarem uma atitude de cidadania, a revelá-la e a valorizá-la.
+b) Reconhecer e distinguir as empresas e organizações que tenham contribuído de forma significativa para a consolidação dos objectivos de certificação de competências da população activa.
+c) A sensibilização da comunidade para a importância do reconhecimento, validação e certificação das competências adquiridas ao longo da vida.
+Artigo 4.º
+Condições de acesso
+Podem ser premiados com o referido Prémio as empresas e organizações, sedeadas no Município de Vila Nova de Famalicão, que contribuam para a implementação da iniciativa "Novas Oportunidades" no Concelho, nomeadamente através da promoção da participação dos seus colaboradores em processos de qualificação.
+Artigo 5.º
+Conteúdo do prémio
+Ao constituir-se como um testemunho de apreço e uma forma de distinguir empresas que implementem boas práticas, o Prémio de Mérito Empresarial "Novas Oportunidades" tem natureza simbólica: um "selo", um certificado com imagem/marca de distinção.
+Artigo 6.º
+Atribuição do Prémio
+1 - A entrega do prémio realizar-se-á em cerimónia pública, no decurso do mês de Julho;
+2 - As pessoas ou entidades premiadas poderão fazer uso desta condição em notícias, anúncios ou relatórios, especificando o ano em que lhes foi concedida a distinção, bem como publicar ou difundir em qualquer meio de comunicação.
+3 - A atribuição do Prémio faculta e autoriza a Câmara Municipal a publicar, total ou parcialmente, os trabalhos ou acções que justificaram os prémios, com a devida salvaguarda dos direitos de propriedade intelectual ou industrial dos premiados.
+Artigo 7.º
+Comunicação da decisão
+As entidades contempladas com o prémio serão devidamente notificadas da deliberação, através de carta registada com aviso de recepção, durante o mês de Junho de cada ano.
+CAPÍTULO II
+Processo de candidatura, selecção e atribuição do prémio
+Artigo 8.º
+Processo de candidatura
+1 - A Comissão de Acompanhamento divulga junto das Entidades de Educação e Formação do Concelho, o período para formalização de candidaturas entre os meses de Novembro e Dezembro, de cada ano.
+2 - Cada Entidade poderá indicar uma empresa ou organização para o Prémio.
+3 - As candidaturas apresentadas pelas Entidades de Educação e Formação devem ser formalizadas em formulário próprio, a disponibilizar pela Comissão de Acompanhamento.
+Artigo 9.º
+Comissão de Acompanhamento
+Para efeito de selecção das entidades a premiar, é criada uma Comissão de Acompanhamento, constituída pelas seguintes entidades:
+Câmara Municipal de Vila Nova de Famalicão, representada pelo seu Presidente ou por quem este designar, que preside à Comissão de Acompanhamento;
+Centro de Emprego de Vila Nova de Famalicão, representado pelo seu Director, ou por quem este designar;
+Direcção Regional de Educação do Norte, representada pelo Director Regional, ou por quem este designar;
+Artigo 10.º
+Competências da Comissão de Acompanhamento
+A Comissão de Acompanhamento terá as seguintes atribuições:
+a) Garantir o rigor e a transparência de todos os procedimentos relacionados com a homologação e atribuição dos prémios;
+b) Nomear e votar as entidades contempladas;
+c) Definir e aprovar os critérios relativos à atribuição do Prémio, bem como decidir sobre a atribuição do Prémio e menções honrosas;
+d) A homologação e atribuição do Prémio são da única e exclusiva responsabilidade da Comissão de Acompanhamento;
+e) A Comissão de Acompanhamento poderá decidir não atribuir num determinado ano, qualquer prémio ou menção honrosa, se constatar não haver nenhuma entidade merecedora dos mesmos;
+f) A decisão da Comissão de Acompanhamento é soberana e irreversível.
+Artigo 11.º
+Prazo de análise e selecção
+Até final do mês de Maio de cada ano, após decisão da Comissão de Acompanhamento, ficarão nomeadas as empresas e organizações que receberão o Prémio de Mérito Empresarial.
+Artigo 12.º
+Deliberação
+1 - A Comissão de Acompanhamento delibera por maioria simples de votos, tendo o seu Presidente, em caso de empate, voto de qualidade.
+2 - Da deliberação da Comissão de Acompanhamento não é admitido recurso.
+Artigo 13.º
+Divulgação dos resultados do Prémio
+A Câmara Municipal reserva o direito de publicar, da forma e modo mais adequado para os seus interesses, o anúncio de atribuição dos prémios.
+Capítulo III
+Disposições finais e transitórias
+Artigo 14.º
+Integração de lacunas
+As eventuais lacunas identificadas no presente Regulamento serão integradas por deliberação da Comissão de Acompanhamento.
+Artigo 15.º
+Entrada em vigor
+O presente Regulamento entra em vigor após aprovado pela Assembleia Municipal de Vila Nova de Famalicão.
