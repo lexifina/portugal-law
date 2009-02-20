@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "46047",
+  "tipo": "Pergunta",
+  "numero": "1333",
+  "data_registo": "2009-02-20",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Seguro de acidentes de trabalho no sector das pescas",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "2069",
+        "nome": "Jorge Machado"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "208",
+        "nome": "Agostinho Lopes"
+      }
+    ],
+    "DataEnvio": "2009-02-23",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2009-02-23",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2009-04-30",
+            "docRemetida": null,
+            "entidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a52545443396c5a6d566d4e6d4e6c4e5330334f446b334c5451314e6d4d744f546868595330344e546b7759324d324f574a6c4e3249756347526d&fich=efef6ce5-7897-456c-98aa-8590cc69be7b.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2009-02-20",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a52545443387a4d475932596a49324e4331694e4759324c5451334e325974595751354e4330315a54566a4d6a6732595449774d4445756347526d&fich=30f6b264-b4f6-477f-ad94-5e5c286a2001.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "46047",
+    "Legislatura": "X",
+    "Nr": "1333",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "463070",
+        "obs": null,
+        "pag": [
+          "107-107"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009",
+        "pubLeg": "X",
+        "pubNr": "73",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/073/2009-02-25/107?pgs=107&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Pergunta"
+  }
+}
