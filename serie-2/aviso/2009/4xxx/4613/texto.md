@@ -1,0 +1,7 @@
+Aviso n.º 4613/2009
+2.ª Alteração do Plano Director Municipal (participação preventiva)
+Para os devidos efeitos, torna-se público que, nos termos do previsto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, a Câmara Municipal, na sua reunião ordinária de 5 de Janeiro de 2009, deliberou iniciar o procedimento relativo à alteração ao Plano Director Municipal (PDM), nomeadamente aos artigos do Regulamento respeitantes às zonas de equipamento, industriais e turísticas, bem como a alteração do uso do solo da área afecta ao Estabelecimento Prisional de Coimbra e uma pequena área no Vale das Flores/Fonte da Talha, estabelecendo um prazo de 15 dias, a partir da presente publicação no Diário da República, para formulação de sugestões e para a prestação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração por todos os interessados.
+Os interessados deverão apresentar as sugestões, informações e ou observações, mediante requerimento devidamente identificado, dirigido ao Presidente da Câmara Municipal de Coimbra, ou através do email pdm.alteração@cm-coimbra.pt.
+Mais se torna público que a pedido dos interessados, ser-lhes-á disponibilizado o conteúdo da deliberação, incluindo os respectivos fundamentos. A referida deliberação poderá ainda ser consultada no site da Câmara Municipal (http://www.cm-coimbra.pt).
+19 de Janeiro de 2009. - O Vice-Presidente da Câmara, João Rebelo.
+301266332
