@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 23/2009
+Nos termos do Decreto-Lei n.º 220/2007, de 29 de Maio, compete ao Instituto Nacional de Emergência Médica, I. P. (INEM, I. P.), enquanto coordenador do Sistema Integrado Emergência Médica, garantir aos sinistrados ou vítimas de doença súbita a pronta e adequada prestação de cuidados de saúde.
+Neste âmbito, o INEM, I. P., presta, há vários anos, um relevante serviço de helitransporte de doentes urgentes/emergentes que importa alargar, enquadrando-o nos termos do processo de requalificação das urgências, através da colocação no terreno de três helicópteros a estacionar em Macedo de Cavaleiros, Aguiar da Beira e Ourique, que vêm acrescer aos dois helicópteros já existentes em Lisboa e no Porto.
+O procedimento para a aquisição de serviços de helitransporte de emergência médica já foi objecto de autorização prévia de repartição de encargos conferida por portaria conjunta do Ministro de Estado e das Finanças e da Ministra da Saúde.
+Atento o valor estimado do contrato, é adoptada a modalidade de concurso público com publicação no Jornal Oficial da União Europeia.
+A contratação será feita pelo período compreendido entre 1 de Julho de 2009 e 31 de Dezembro de 2011, período de tempo que permite uma gestão eficiente da frota de meios aéreos, possibilitando uma diminuição dos encargos com o serviço a prestar, através de uma maior garantia conferida ao adjudicatário na realização do investimento.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de Junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a realização da despesa inerente à aquisição de serviços de helitransporte de emergência médica, até ao montante de (euro) 20.000.000, a que acresce IVA à taxa legal em vigor.
+2 - Determinar, nos termos da alínea b) do n.º 1 do artigo 20.º do Código dos Contratos Públicos, o recurso ao procedimento pré-contratual de concurso público com publicação de anúncio no Jornal Oficial da União Europeia.
+3 - Delegar, com a faculdade de subdelegação, ao abrigo do disposto no artigo 109.º do Código dos Contratos Públicos, na Ministra da Saúde, a competência para a prática de todos os actos a realizar no âmbito do procedimento referido no número anterior, incluindo a competência para a aprovação do programa do procedimento e do caderno de encargos, bem como para a designação do júri do procedimento.
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 12 de Fevereiro de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
