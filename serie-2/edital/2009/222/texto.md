@@ -1,0 +1,8 @@
+Edital n.º 222/2009
+Francisco José Caldeira Duarte, presidente da Câmara Municipal de Castro Verde:
+Em representação do Município de Castro Verde, torna Público que, nos termos do artigo 77.º do Decreto-Lei n.º 380/1999, de 22 de Setembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 316/2007, de 16 de Setembro, a Câmara Municipal de Castro Verde, em reunião realizada a 4 de Fevereiro de 2009, deliberou dar inicio à elaboração, com base nos Termos de Referência aprovados, o Plano de Pormenor da Zona de Actividades Económicas de Castro Verde.
+Nos termos do n.º 2 do artigo 77.º do mesmo diploma legal, decorrerá por um período de 15 dias úteis a contar do dia seguinte ao da publicação deste aviso no Diário da República, 2.ª série, um processo de audição ao público, durante o qual os interessados poderão proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração do plano. Durante este período, os interessados poderão consultar todos os elementos referentes ao processo, nos locais a seguir identificados ou no site da Câmara Municipal de Castro Verde (www.cm-castroverde.pt):
+Gabinete de Gestão Urbanística ou Secção Técnica Administrativa, sitos no Edifício da Câmara Municipal, Largo do Padrão em Castro Verde.
+Os interessados deverão apresentar as sugestões, informações ou observações mediante exposição ao Presidente da Câmara Municipal, devendo neste constar a identificação e o endereço dos seus autores e a qualidade em que se apresentam.
+11 de Fevereiro de 2009. - O Presidente da Câmara, Francisco José Caldeira Duarte.
+301447068
