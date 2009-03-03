@@ -1,0 +1,7 @@
+Aviso n.º 4781/2009
+Nos termos do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, e na sequência da deliberação de 17 de Fevereiro de 2009 da Câmara Municipal de Tomar, submete-se a inquérito público o projecto de alteração ao Regulamento do Parque de Estacionamento Subterrâneo do Pavilhão Municipal de Tomar.
+Para o efeito, podem os interessados apresentar por escrito as suas sugestões, dentro do prazo de 30 dias contados da data da publicação do presente aviso no Diário da República.
+A alteração em causa diz respeito ao aumento do número de lugares reservados a utentes portadores de cartão de avença, de acordo com o seguinte:
+Na alínea b) do n.º 2 do artigo 3.º do Regulamento do Parque de Estacionamento Subterrâneo do Pavilhão Municipal de Tomar, publicado na 2.ª série do Diário da República n.º 188 de 28 de Setembro de 2006, com a nova redacção publicada na 2.ª série do Diário da República n.º 32 de 14 de Fevereiro de 2008, onde se lê: "Um número de lugares até ao limite máximo de noventa e seis (96) está reservado a utentes portadores de cartão de avença, sendo que nestes estão incluídos seis (6) lugares para motociclos", passa a ter a seguinte redacção:
+"Um número de lugares até ao limite máximo de 132 lugares (120 para ligeiros e 12 para motociclos) está reservado a utentes portadores de cartão de avença".
+23 de Fevereiro de 2009. - O Chefe de Divisão, no uso de competência delegada, António Branco Guerreiro.
