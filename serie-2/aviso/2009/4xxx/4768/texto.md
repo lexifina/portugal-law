@@ -1,0 +1,6 @@
+Aviso n.º 4768/2009
+Carlos Vicente Morais Beato, Presidente da Câmara Municipal de Grândola:
+Nos termos do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro e pela Lei n.º 58/2005, de 29 de Setembro, torna-se público que a Câmara Municipal de Grândola, em reunião realizada a 19 de Fevereiro de 2002, deliberou por unanimidade submeter a discussão pública o Plano de Pormenor de Área de Desenvolvimento Turístico da UNOR1 (Plano de Pormenor da UNOP 5), fixando o período de 22 dias úteis, com início a partir do 10.º dia útil após a publicação deste aviso no Diário da República.
+Mais se informa que a proposta de plano e os demais pareceres estarão disponíveis para consulta dos munícipes no edifício sede da Câmara Municipal de Grândola e da Junta de Freguesia do Carvalhal, de segunda-feira a sexta-feira, no horário de expediente, ou seja, das 9 horas às 17 horas.
+Os interessados poderão apresentar, por escrito, no prazo estipulado para o efeito, reclamações, observações, sugestões e pedidos de esclarecimento, em impresso próprio, a fornecer pela Junta de Freguesia do Carvalhal ou pelos Serviços Técnicos da Câmara Municipal de Grândola.
+20 de Fevereiro de 2009. - O Presidente da Câmara, Carlos Beato.
