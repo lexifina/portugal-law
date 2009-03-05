@@ -1,0 +1,12 @@
+Aviso n.º 4939/2009
+Alteração ao Plano de Urbanização da Cidade de Paredes - Discussão Pública
+Município de Paredes
+Celso Manuel Gomes Ferreira, Presidente da Câmara Municipal do Concelho de Paredes:
+Torna público que, em conformidade com a deliberação do Executivo desta Câmara Municipal, tomada na sua reunião ordinária de 25 de Fevereiro de 2009, foi determinada, e para os efeitos do preconizado no Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção que lhe foi introduzida pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, a abertura do concernente período de Discussão Pública.
+A Alteração ao Plano de Urbanização da Cidade de Paredes visa enquadrar o projecto da Cidade Desportiva e a "Variante à EN 15", nos termos das deliberações de Câmara datadas de 4 de Abril de 2008 e 7 de Maio de 2008.
+A conclusão da fase de alteração teve lugar no dia 17 de Fevereiro de 2009, sendo submetido a discussão pública as modificações propostas ao regulamento (artigos 22, 24, 26.º e 35.º) e à planta de zonamento (Circular Rodoviária à Cidade de Paredes e Anel Verde / Parque Ecológico).
+No âmbito da discussão pública estarão disponíveis para consulta a proposta de alteração assim como: a acta da Conferência de Serviços, o Relatório Explicativo e Justificativo, as actas das Reuniões de Câmara, o resultado da Concertação, e a fundamentação da não sujeição a Avaliação Ambiental Estratégica.
+Qualquer interessado poderá apresentar, por escrito, reclamações, sugestões ou observações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo processo de alteração, durante os 22 dias úteis que terão início no 5.º dia útil após publicação da deliberação na 2.ª série do Diário da República.
+As reclamações, sugestões ou observações referidas no ponto anterior, serão prestadas junto da Divisão de Planeamento (Sala de Atendimento ao Público), desta Câmara Municipal, sito no Parque José Guilherme, 4580-229 Paredes, nas horas normais de expediente, desde as 9 horas às 12 horas e 30 minutos e das 14 horas às 16 horas e 30 minutos ou via Internet conforme indicações no site www.cm-paredes.com.
+As reclamações, sugestões ou observações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo processo de alteração sê-lo-ão em impressos de formato A4 e A3, que estarão à disposição nos locais referidos no ponto anterior.
+26 de Fevereiro de 2009. - O Presidente da Câmara, Celso Manuel Gomes Ferreira.
