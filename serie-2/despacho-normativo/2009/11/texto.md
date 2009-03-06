@@ -1,0 +1,36 @@
+Despacho normativo n.º 11/2009
+O Despacho Normativo n.º 55/2005, publicado no Diário da República, 1.ª série-B, de 20 de Dezembro de 2005, na última redacção dada pelo Despacho Normativo n.º 8/2007, de 22 de Dezembro, definiu as regras para atribuição dos direitos ao prémio à vaca em aleitamento a partir da reserva nacional para os anos de 2006 e seguintes.
+O referido regime prevê que os candidatos devem estabelecer um plano simplificado de crescimento de efectivo aleitante, a concretizar ao longo de três anos, de acordo com determinados valores mínimos de crescimento anual.
+O estabelecimento de planos com superação dos mínimos anuais fixados no citado despacho, embora facultativo, vincula os produtores, sendo-lhes aplicáveis penalizações por incumprimento. Estas penalizações prevêem, por um lado, a perda total de direitos atribuídos e, por outro, a impossibilidade de os produtores se candidatarem à reserva nacional nos três anos subsequentes ao da atribuição dos direitos.
+Da experiência de aplicação do despacho em questão, tendo em conta o nível mínimo de utilização dos direitos estabelecido no Despacho Normativo n.º 2/2000, de 10 de Janeiro, e as consequências previstas para o incumprimento do plano de crescimento de efectivo, constata-se que o mínimo fixado pelo Despacho Normativo n.º 55/2005, de 20 de Dezembro, para o último ano do plano conduz a resultados desproporcionados face ao objectivo pretendido.
+Importa, assim, proceder à sua adaptação, em equilíbrio com os objectivos visados, harmonizando o mínimo fixado para o último ano do plano com as exigências estabelecidas relativamente à utilização dos direitos.
+Aproveita-se ainda o ensejo para actualizar as referências aos serviços e organismos do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, face à recente reestruturação.
+Assim, ao abrigo do disposto no artigo 128.º do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, determino o seguinte:
+Artigo 1.º
+Alteração ao Despacho Normativo n.º 55/2005, de 20 de Dezembro
+Os n.os 10 do artigo 3.º, 2 do artigo 5.º e 1 do artigo 8.º do Despacho Normativo n.º 55/2005, publicado no Diário da República, 1.ª série-B, de 20 de Dezembro de 2005, passam a ter a seguinte redacção:
+«Artigo 3.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - ...
+7 - ...
+8 - ...
+9 - ...
+10 - O Gabinete de Planeamento e Políticas (GPP) deve enviar ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), anualmente, até à data limite para entrega de candidaturas, as listagens dos produtores e das organizações que se encontrem nas situações previstas nas alíneas d), g), h) e i) do n.º 1 do presente artigo.
+Artigo 5.º
+[...]
+1 - ...
+2 - O plano deve, no que respeita ao previsto na alínea b) do n.º 2 do artigo 4.º, garantir que sejam atingidos, no 1.º ano, pelo menos 25 % do aumento de efectivo proposto, no 2.º ano, pelo menos 50 % e, no 3.º ano, 90 %.
+3 - ...
+Artigo 8.º
+[...]
+1 - Em cada ano, a formalização das candidaturas deve ser efectuada no período entre 1 e 30 de Setembro, junto das organizações de produtores credenciadas pelo IFAP, I. P. - entidades credenciadas (EC) - , através do preenchimento e entrega do respectivo formulário, devendo estas remeter ao IFAP, I. P., até 20 de Outubro, as candidaturas apresentadas.
+2 - ...»
+Artigo 2.º
+Produção de efeitos
+O presente despacho normativo produz efeitos a partir de 1 de Janeiro de 2008.
+27 de Fevereiro de 2009. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
