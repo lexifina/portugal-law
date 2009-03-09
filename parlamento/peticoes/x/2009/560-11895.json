@@ -1,0 +1,408 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11895",
+  "numero": "560",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2009-03-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2009-04-27",
+            "dataResposta": "2009-07-06",
+            "entidades": [
+              "Ministro do Trabalho e da Solidariedade Social"
+            ],
+            "nrOficio": "184/11ªCTSSAP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-06-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2009-04-08",
+        "DataArquivo": "2009-06-02",
+        "DataBaixaComissao": "2009-04-08",
+        "DataEnvioPAR": "2009-06-04",
+        "DataReaberta": "2009-04-08",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2009-03-09",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314e425548427663314a425569394562324e31625756756447397a5547563061574e686279387a4d475a6c4d32466c4f4330774d6d52684c5451795a5467744f4467344e5330334e7a55795a47526c5a4759775a5451756347526d&fich=30fe3ae8-02da-42e8-8885-7752ddedf0e4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2009-03-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314e425548427663314a425569394562324e31625756756447397a5547563061574e686279396d5a6d52685a5449774d6930314d4745304c54526d4f5459744f575a6d4e79316b5a6d4a684d4441314f4467314d3249756347526d&fich=ffdae202-50a4-4f96-9ff7-dfba0058853b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1913",
+        "Legislatura": "X",
+        "Nome": "Comissão de Trabalho, Segurança Social e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2009-04-08",
+            "gp": "PS",
+            "id": "1684",
+            "motivoCessacao": null,
+            "nome": "Maria de Lurdes Ruivo"
+          }
+        ],
+        "RelatorioFinal": [
+          "22580"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2009-07-23",
+    "Documentos": [
+      {
+        "DataDocumento": "2009-03-09",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938785a6d4577596d4a6a4d5330304d7a51334c5451334f4459744f5751304d533078596d4e6c4e544e6d4f474e6b4d6a59756347526d&fich=1fa0bbc1-4347-4786-9d41-1bce53f8cd26.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "34749"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2009-07-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173881",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-24",
+                "pubLeg": "X",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que tome as medidas necessárias para que a disposição da Lei do Orçamento do Estado para 2009 relativa ao recálculo das pensões produza efeitos desde a entrada em vigor do Decreto-Lei n.º 187/2007, de 10 de Maio; Recomenda ao Governo que o artigo do Orçamento do Estado para 2009 referente ao recálculo das pensões produza efeitos desde a entrada em vigor do Decreto-Lei nº187/2007, de 10 de Maio.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173882",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-24",
+                "pubLeg": "X",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24/26?pgs=26&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que tome as medidas necessárias para que a disposição da Lei do Orçamento do Estado para 2009 relativa ao recálculo das pensões produza efeitos desde a entrada em vigor do Decreto-Lei n.º 187/2007, de 10 de Maio; Recomenda ao Governo que o artigo do Orçamento do Estado para 2009 referente ao recálculo das pensões produza efeitos desde a entrada em vigor do Decreto-Lei nº187/2007, de 10 de Maio.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173883",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-24",
+                "pubLeg": "X",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que tome as medidas necessárias para que a disposição da Lei do Orçamento do Estado para 2009 relativa ao recálculo das pensões produza efeitos desde a entrada em vigor do Decreto-Lei n.º 187/2007, de 10 de Maio; Recomenda ao Governo que o artigo do Orçamento do Estado para 2009 referente ao recálculo das pensões produza efeitos desde a entrada em vigor do Decreto-Lei nº187/2007, de 10 de Maio.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173884",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-24",
+                "pubLeg": "X",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24/27?pgs=27&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que tome as medidas necessárias para que a disposição da Lei do Orçamento do Estado para 2009 relativa ao recálculo das pensões produza efeitos desde a entrada em vigor do Decreto-Lei n.º 187/2007, de 10 de Maio; Recomenda ao Governo que o artigo do Orçamento do Estado para 2009 referente ao recálculo das pensões produza efeitos desde a entrada em vigor do Decreto-Lei nº187/2007, de 10 de Maio.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173885",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-24",
+                "pubLeg": "X",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que tome as medidas necessárias para que a disposição da Lei do Orçamento do Estado para 2009 relativa ao recálculo das pensões produza efeitos desde a entrada em vigor do Decreto-Lei n.º 187/2007, de 10 de Maio; Recomenda ao Governo que o artigo do Orçamento do Estado para 2009 referente ao recálculo das pensões produza efeitos desde a entrada em vigor do Decreto-Lei nº187/2007, de 10 de Maio.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11895",
+    "PetAssunto": "Solicitam à Assembleia da República que tome as medidas necessárias para que a disposição da Lei do Orçamento do Estado para 2009 relativa ao recálculo das pensões produza efeitos desde a entrada em vigor do Decreto-Lei n.º 187/2007, de 10 de Maio.",
+    "PetDataEntrada": "2009-03-09",
+    "PeticoesAssociadas": null,
+    "PetId": "11895",
+    "PetLeg": "X",
+    "PetNr": "560",
+    "PetNrAssinaturas": "4101",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "318",
+        "obs": null,
+        "pag": [
+          "25-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-07-24",
+        "pubLeg": "X",
+        "pubNr": "105",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/105/2009-07-24/25?pgs=25-28&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "474658",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-04-09",
+        "pubLeg": "X",
+        "pubNr": "100",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/100/2009-04-09/2?pgs=2&org=PLC"
+      }
+    ]
+  }
+}
