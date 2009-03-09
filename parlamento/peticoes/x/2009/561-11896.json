@@ -1,0 +1,402 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11896",
+  "numero": "561",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2009-03-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-07-13",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2009-04-08",
+        "DataArquivo": "2009-07-16",
+        "DataBaixaComissao": "2009-04-08",
+        "DataEnvioPAR": "2009-07-16",
+        "DataReaberta": "2009-04-08",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2009-03-09",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314e425548427663314a425569394562324e31625756756447397a5547563061574e68627939684e5745334d6a67355953316b596a6c684c54517a5a6d59745954686d4e7930355a44526d4e4451345a444132597a6b756347526d&fich=a5a7289a-db9a-43ff-a8f7-9d4f448d06c9.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2009-03-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314e425548427663314a425569394562324e31625756756447397a5547563061574e686279396a4f5468685a6d4a684e69316d5a4755314c5451305a546b74596a67794d43316b4d6a6c6d593259794d54526a4d5451756347526d&fich=c98afba6-fde5-44e9-b820-d29fcf214c14.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1913",
+        "Legislatura": "X",
+        "Nome": "Comissão de Trabalho, Segurança Social e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2009-04-14",
+            "gp": "PSD",
+            "id": "2158",
+            "motivoCessacao": null,
+            "nome": "Pedro Quartin Graça"
+          }
+        ],
+        "RelatorioFinal": [
+          "22579"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2009-07-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2009-03-09",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c63793835596a6b304d4449314e7930354e5456694c5451795a5759745954566c4d4330304e5468685a6d4579596a55785a6d51756347526d&fich=9b940257-955b-42ef-a5e0-458afa2b51fd.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "33265",
+      "33594",
+      "33267"
+    ],
+    "Iniciativasoriginadas": [
+      "33265",
+      "33594",
+      "33267"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela CGTP-IN, Maria do Carmo Tavares e outros, solicitando à Assembleia da República a revogação do factor de sustentabilidade, o respeito pelo regime transitório da fórmula de cálculo das pensões e a alteração dos critérios do IAS (Indexante dos Apoios Sociais); Garantir a sustentabilidade financeira do sistema de segurança social pública por meio da diversificação das fontes de financiamento e do aumento da eficácia e da eficiência das despesas;  Garante e reforça os direitos das pessoas idosas;  Diversificação das fontes de financiamento - a nova forma de contribuição das empresas para a segurança social com base no valor acrescentado bruto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173874",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/68?pgs=68&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela CGTP-IN, Maria do Carmo Tavares e outros, solicitando à Assembleia da República a revogação do factor de sustentabilidade, o respeito pelo regime transitório da fórmula de cálculo das pensões e a alteração dos critérios do IAS (Indexante dos Apoios Sociais); Garantir a sustentabilidade financeira do sistema de segurança social pública por meio da diversificação das fontes de financiamento e do aumento da eficácia e da eficiência das despesas;  Garante e reforça os direitos das pessoas idosas;  Diversificação das fontes de financiamento - a nova forma de contribuição das empresas para a segurança social com base no valor acrescentado bruto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173875",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela CGTP-IN, Maria do Carmo Tavares e outros, solicitando à Assembleia da República a revogação do factor de sustentabilidade, o respeito pelo regime transitório da fórmula de cálculo das pensões e a alteração dos critérios do IAS (Indexante dos Apoios Sociais); Garantir a sustentabilidade financeira do sistema de segurança social pública por meio da diversificação das fontes de financiamento e do aumento da eficácia e da eficiência das despesas;  Garante e reforça os direitos das pessoas idosas;  Diversificação das fontes de financiamento - a nova forma de contribuição das empresas para a segurança social com base no valor acrescentado bruto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173903",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/69?pgs=69&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela CGTP-IN, Maria do Carmo Tavares e outros, solicitando à Assembleia da República a revogação do factor de sustentabilidade, o respeito pelo regime transitório da fórmula de cálculo das pensões e a alteração dos critérios do IAS (Indexante dos Apoios Sociais); Garantir a sustentabilidade financeira do sistema de segurança social pública por meio da diversificação das fontes de financiamento e do aumento da eficácia e da eficiência das despesas;  Garante e reforça os direitos das pessoas idosas;  Diversificação das fontes de financiamento - a nova forma de contribuição das empresas para a segurança social com base no valor acrescentado bruto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173905",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela CGTP-IN, Maria do Carmo Tavares e outros, solicitando à Assembleia da República a revogação do factor de sustentabilidade, o respeito pelo regime transitório da fórmula de cálculo das pensões e a alteração dos critérios do IAS (Indexante dos Apoios Sociais); Garantir a sustentabilidade financeira do sistema de segurança social pública por meio da diversificação das fontes de financiamento e do aumento da eficácia e da eficiência das despesas;  Garante e reforça os direitos das pessoas idosas;  Diversificação das fontes de financiamento - a nova forma de contribuição das empresas para a segurança social com base no valor acrescentado bruto",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11896",
+    "PetAssunto": "Solicitam à Assembleia da República a revogação do factor de sustentabilidade; o respeito pelo regime transitório da fórmula de cálculo das pensões; e a alteração dos critérios do IAS (indexante dos apoios sociais).",
+    "PetDataEntrada": "2009-03-09",
+    "PeticoesAssociadas": null,
+    "PetId": "11896",
+    "PetLeg": "X",
+    "PetNr": "561",
+    "PetNrAssinaturas": "15269",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1353",
+        "obs": null,
+        "pag": [
+          "67-70"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-07-23",
+        "pubLeg": "X",
+        "pubNr": "104",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/67?pgs=67-70&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "474659",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-04-09",
+        "pubLeg": "X",
+        "pubNr": "100",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/100/2009-04-09/2?pgs=2&org=PLC"
+      }
+    ]
+  }
+}
