@@ -1,0 +1,7 @@
+# Artigo 283.º
+
+### Subclasses e ramos
+
+1 - As classes podem ser divididas em subclasses e ramos, de acordo com o estabelecido no artigo 224.º
+
+2 - Na designação das praças, a identificação da subclasse ou ramo a que pertence o militar deve substituir a que se refere à respectiva classe.
