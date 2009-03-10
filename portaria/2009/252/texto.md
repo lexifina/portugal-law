@@ -1,0 +1,12 @@
+Portaria n.º 252/2009
+de 10 de Março
+Pela Portaria n.º 493/2004, de 5 de Maio, alterada pelas Portarias n.os 416/2005, 237/2006, 1075/2007 e 441/2008, respectivamente de 13 de Abril, 10 de Março, 4 de Setembro e 19 de Junho, foi criada a zona de caça municipal do Enxerim (processo n.º 3437-AFN), situada no município de Silves, e transferida a sua gestão para o Grupo Desportivo e Cultural de Enxerim.
+Veio agora a entidade titular da zona de caça acima referida requerer a exclusão de alguns terrenos e, simultaneamente, a Sociedade Turística do Arade, Lda., veio requerer a concessão de uma zona de caça turística nos terrenos objecto da exclusão acima referida.
+Entretanto foi autorizado um pedido de direito à não caça, pelo que também há necessidade de excluir da zona de caça municipal em causa a área respeitante a este pedido.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, e com fundamento no n.º 2 do artigo 28.º, nos n.os 1 e 2 do artigo 57.º e, ainda, na alínea a) do artigo 40.º, todos do diploma acima identificado e após audição do Conselho Cinegético Municipal de Silves no que respeita à concessão da zona de caça turística, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º São excluídos da zona de caça municipal de Enxerim (processo n.º 3437-AFN), vários prédios rústicos, sitos na freguesia e município de Silves, com a área de 471 ha, ficando a mesma reduzida a uma área total de 11 020 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º É concessionada, pelo período de 12 anos, renovável automaticamente, à Sociedade Turística do Arade, Lda., com o número de identificação fiscal 508387779 e sede na Rua de Santa Isabel, 4, 8500 Portimão, a zona de caça turística do Romano (processo n.º 5143-AFN), englobando vários prédios rústicos, sitos na freguesia e município de Silves, com a área total de 425 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A exclusão e a concessão previstas na presente portaria produzem efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 3 de Março de 2009.
+(ver documento original)
