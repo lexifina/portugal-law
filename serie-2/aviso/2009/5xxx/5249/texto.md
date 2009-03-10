@@ -1,0 +1,8 @@
+Aviso n.º 5249/2009
+Elaboração de plano de pormenor das termas de Cabeço de Vide
+Apresentação de sugestões
+Dr. Pedro Namorado Lancha, Presidente da Câmara Municipal de Fronteira:
+Torna público, nos termos e para efeitos do disposto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto Lei n.º 316/2007, de 19 de Setembro, que se encontra aberto o período de formulação de sugestões e apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito do processo de elaboração do Plano de Pormenor das Termas de Cabeço de Vide, em Cabeço de Vide, concelho de Fronteira, por um período de 15 (quinze) dias, contados da publicação do presente Aviso, conforme deliberação de 25 de Fevereiro de 2009, cujo processo se encontra patente nos Serviços Administrativos da Divisão de Obras, Urbanismo, Ambiente e Qualidade de Vida desta Câmara Municipal, nas horas normais de expediente, durante as quais todos os interessados poderão apresentar as suas reclamações, observações e sugestões, por escrito, devidamente fundamentadas e endereçadas ao Sr. Presidente da Câmara Municipal de Fronteira, Praça do Município, n.º 1, 7460 - 110 Fronteira, por carta registada com aviso de recepção ou entregues em mão naquela morada.
+Para constar e devidos efeitos, mandei passar o presente e outros de igual teor, que vão ser afixados nos lugares de estilo.
+E eu, António José Calado Antunes, Coordenador Técnico da Divisão de Obras, Urbanismo, Ambiente e Qualidade de Vida, o subscrevi.
+4 de Março de 2009. - O Presidente da Câmara, Pedro Namorado Lancha.
