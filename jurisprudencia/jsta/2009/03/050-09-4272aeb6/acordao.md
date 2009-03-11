@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 2009-03-11, processo 050/09
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 050/09
+
+**Data do Acordão:** 03/11/2009
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ANTÓNIO CALHAU
+
+**Descritores:** EXECUÇÃO FISCAL; PRESCRIÇÃO; OBRIGAÇÃO TRIBUTÁRIA; INTERRUPÇÃO DA PRESCRIÇÃO; CITAÇÃO; CONTRIBUIÇÕES PARA A SEGURANÇA SOCIAL; APLICAÇÃO DA LEI NO TEMPO; NULIDADE DE CITAÇÃO; DIREITO DE AUDIÇÃO
+
+**Nº Convencional:** JSTA00065635
+
+**Nº do Documento:** SA220090311050
+
+**Data de Entrada:** 01/15/2009
+
+**Recorrente:** MINISTÉRIO PÚBLICO E OUTRO
+
+**Recorrido 1:** A...
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAF BRAGA PER SALTUM.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - EXEC FISCAL.
+
+**Legislação Nacional:** CPTRIB91 ART34 N3.; L 28/94 DE 1984/08/14 ART53 N2.; CCIV66 ART297 ART326 ART327.; L 17/2000 DE 2000/08/08 ART62 N2 N3.
+
+**Jurisprudência Nacional:** AC STA PROC671/08 DE 2008/12/03.; AC STA PROC360/07 DE 2007/06/20.; AC STA PROC359/07 DE 2007/07/05.
+
+## Sumário
+
+I – A sucessão no tempo dos regimes prescricionais contidos no Código de Processo Tributário e na Lei 17/2000, de 14 de Agosto, resolve-se pela aplicação das regras do artigo 12.º do Código Civil, dispondo a Lei 17/2000 para o futuro, e regendo, consequentemente, os efeitos dos factos relevantes ocorridos durante a sua vigência, e do artigo 297.º n.º 1 do Código Civil.
+
+II – No âmbito da Lei 17/2000, a instauração da execução só por si não é causa de interrupção da prescrição, pois esta só se interrompe agora por qualquer diligência administrativa, realizada com conhecimento do responsável pelo pagamento, conducente à liquidação ou à cobrança da dívida – n.º 3 do artigo 63.º da referida Lei.
+
+III – Diligências administrativas, para este efeito, serão todas as que ocorram nos processos administrativos de liquidação e nos processos de execução fiscal, conducentes à liquidação e cobrança da dívida, de que venha a ser dado conhecimento ao devedor (como a citação, a penhora, a notificação do responsável subsidiário para se pronunciar sobre a possibilidade de reversão e a notificação do acto que a decide).
+
+IV – Tendo o oponente sido notificado do projecto de reversão e para exercer o direito de audição antes de completados cinco anos após a vigência da Lei 17/2000, a prescrição não ocorreu ainda.
+
+V – A eventual nulidade da citação deve ser conhecida no processo de execução fiscal e não no processo de oposição.
