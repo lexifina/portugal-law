@@ -1,0 +1,452 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11903",
+  "numero": "568",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2009-03-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2009-05-14",
+            "dataResposta": "2009-06-17",
+            "entidades": [
+              "Ministro da Economia e da Inovação"
+            ],
+            "nrOficio": "223/11ªCTSSAP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-07-07",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2009-05-13",
+        "DataArquivo": "2009-07-07",
+        "DataBaixaComissao": "2009-05-13",
+        "DataEnvioPAR": "2009-07-09",
+        "DataReaberta": "2009-05-13",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2009-03-26",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314e425548427663314a425569394562324e31625756756447397a5547563061574e68627938354d54557a4f5463784f43316c4d4463334c5451354e4749744f5451774e69316b5a6a6c6d5a47497a5a6a4134593245756347526d&fich=91539718-e077-494b-9406-df9fdb3f08ca.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2009-03-26",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338784d554e5555314e425548427663314a425569394562324e31625756756447397a5547563061574e68627938315a6d45785a574d344f5330784d444a6a4c54526a5a6d497459574d34595330315a444979596a566c4e6d51794e6a41756347526d&fich=5fa1ec89-102c-4cfb-ac8a-5d22b5e6d260.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1913",
+        "Legislatura": "X",
+        "Nome": "Comissão de Trabalho, Segurança Social e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2009-05-13",
+            "gp": "PS",
+            "id": "2212",
+            "motivoCessacao": null,
+            "nome": "Miguel Laranjeiro"
+          }
+        ],
+        "RelatorioFinal": [
+          "22593"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2009-07-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2009-03-26",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c63793968595751784f445a694e4330334d6a4a694c545135596a49744f446c6c5a433034593259774d3259324d5755304d5749756347526d&fich=aad186b4-722b-49b2-89ed-8cf03f61e41b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/10?pgs=10-11&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Sindicato dos Trabalhadores da Função Pública do Centro, solicitando à Assembleia da República a permanência da Direcção Regional de Economia do Centro em Coimbra",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173930",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/11?pgs=11&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Sindicato dos Trabalhadores da Função Pública do Centro, solicitando à Assembleia da República a permanência da Direcção Regional de Economia do Centro em Coimbra",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173991",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Sindicato dos Trabalhadores da Função Pública do Centro, solicitando à Assembleia da República a permanência da Direcção Regional de Economia do Centro em Coimbra",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173992",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/12?pgs=12&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Sindicato dos Trabalhadores da Função Pública do Centro, solicitando à Assembleia da República a permanência da Direcção Regional de Economia do Centro em Coimbra",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173993",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Sindicato dos Trabalhadores da Função Pública do Centro, solicitando à Assembleia da República a permanência da Direcção Regional de Economia do Centro em Coimbra",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2009-07-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173994",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-07-23",
+                "pubLeg": "X",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/13?pgs=13&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pelo Sindicato dos Trabalhadores da Função Pública do Centro, solicitando à Assembleia da República a permanência da Direcção Regional de Economia do Centro em Coimbra",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11903",
+    "PetAssunto": "Pela permanência da Direcção Regional de Economia do Centro em Coimbra.",
+    "PetDataEntrada": "2009-03-26",
+    "PeticoesAssociadas": null,
+    "PetId": "11903",
+    "PetLeg": "X",
+    "PetNr": "568",
+    "PetNrAssinaturas": "8627",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "310",
+        "obs": null,
+        "pag": [
+          "10-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-07-23",
+        "pubLeg": "X",
+        "pubNr": "104",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/10?pgs=10-13&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "478746",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-05-16",
+        "pubLeg": "X",
+        "pubNr": "121",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/121/2009-05-16/6?pgs=6-7&org=PLC"
+      }
+    ]
+  }
+}
