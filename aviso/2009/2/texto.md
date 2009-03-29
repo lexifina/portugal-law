@@ -1,0 +1,5 @@
+Aviso n.º 2/2009
+Por ordem superior se torna público que, em 25 de Julho de 2003 e em 17 de Dezembro de 2008, respectivamente, foram emitidas notas pela Embaixada da República Eslovaca em Lisboa e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, tendo a última notificação escrita sido recebida pela Embaixada da República Eslovaca em Lisboa em 29 de Dezembro de 2008, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República Eslovaca de Cooperação Científica e Tecnológica, assinado em Lisboa em 17 de Fevereiro de 2003.
+Portugal é Parte neste Acordo, aprovado pelo Governo pelo Decreto n.º 22/2008, publicado no Diário da República, 1.ª série, n.º 146, de 30 de Julho de 2008.
+Nos termos do artigo 11.º, o Acordo entra em vigor em 29 de Março de 2009, 90.º dia após a recepção da última das notificações escritas, por via diplomática, informando que foram cumpridos todos os procedimentos internos necessários para esse efeito.
+Direcção-Geral dos Assuntos Europeus, 15 de Janeiro de 2009. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
