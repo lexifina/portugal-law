@@ -8,7 +8,7 @@ a) Não estiver endereçado à secretaria judicial competente ou não respeitar 
 
 b) Omitir a identificação das partes, o domicílio do requerente ou o lugar da notificação do devedor;
 
-c) Não estiver assinado;
+c) Não estiver assinado, excepto nos casos previstos no n.º 7 do artigo anterior;
 
 d) Não estiver redigido em língua portuguesa;
 
@@ -16,7 +16,7 @@ e) Não constar do modelo a que se refere o n.º 1 do artigo anterior;
 
 f) Não se mostrar paga a taxa de justiça devida;
 
-g) O valor ultrapassar a alçada da Relação, sem que dele conste a indicação prevista na alínea g) do n.º 2 do artigo anterior;
+g) O valor ultrapassar o referido no artigo 1.º do diploma preambular, sem que dele conste a indicação prevista na alínea g) do n.º 2 do artigo anterior;
 
 h) O pedido não se ajustar ao montante ou finalidade do procedimento.
 

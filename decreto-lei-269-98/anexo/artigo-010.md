@@ -39,3 +39,5 @@ n) Assinar o requerimento.
 5 - O requerimento pode ser subscrito por mandatário judicial, bastando para o efeito a menção da existência do mandato e do domicílio profissional do mandatário.
 
 6 - A subscrição do requerimento por mandatário judicial não o exime da necessidade de preenchimento de todos os elementos relativos ao representado, nomeadamente a indicação do respectivo domicílio.
+
+7 - O disposto na alínea n) do n.º 2 não é aplicável quando o requerimento de injunção for apresentado por meios electrónicos, assegurando o sistema informático a identificação do requerente ou mandatário que procede à apresentação do requerimento.
