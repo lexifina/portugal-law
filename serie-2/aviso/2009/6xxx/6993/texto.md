@@ -1,0 +1,7 @@
+Aviso n.º 6993/2009
+Plano de Pormenor de Zambujeiro
+António d'Orey Capucho, Presidente da Câmara Municipal de Cascais, faz público que, no seguimento da proposta n.º 201/09, de 25 de Fevereiro relativa à revogação da deliberação que determinou a elaboração do Plano de Pormenor de Zambujeiro e Murches, a Câmara Municipal de Cascais deliberou a elaboração do Plano de Pormenor de Zambujeiro, nos termos da proposta n.º 203/09, de 25 de Fevereiro.
+De acordo com a citada deliberação e conforme o disposto no n.º 2 do artigo 77.º do RJIGT, encontra-se aberto um período de 15 dias após a data da publicação deste Aviso, para formulação de sugestões e apresentação de informações no âmbito do respectivo processo de elaboração.
+Nesse sentido, os eventuais interessados poderão consultar a proposta de Plano, que se encontra no Departamento de Planeamento Estratégico, sito no Edifício Tardoz dos Paços do Concelho, no Largo 5 de Outubro, em Cascais, das 10 às 12 horas e das 14 às 16 horas, bem como apresentar sugestões e informações mediante requerimento dirigido ao Senhor Presidente de Câmara, devidamente identificado, ou em livro de consulta pública, disponível na Secção Administrativa da Direcção Municipal de Ordenamento e Planeamento Estratégico, sita na morada acima indicada, ou então via e-mail enviada para o endereço electrónico dpe@cm-cascais.pt.
+Para constar se publica este aviso e outros de igual teor, que vão ser afixados nos lugares públicos do estilo.
+18 de Março de 2009. - O Presidente da Câmara, António d'Orey Capucho.
