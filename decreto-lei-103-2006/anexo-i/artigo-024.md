@@ -13,5 +13,3 @@
 5 - Sem prejuízo do disposto no n.º 2 do artigo 17.º, o pagamento das taxas por serviços prestados deve ser efectuado no momento da prestação do serviço.
 
 6 - As prestações tributárias são pagas através dos meios de pagamento autorizados.
-
-7 - Os pagamentos realizados por meios eletrónicos podem ser efetuados através da Plataforma de Pagamentos da Administração Pública.
