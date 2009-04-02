@@ -2,14 +2,16 @@
 
 ### (Prazo para a proposição da acção)
 
-1 - A acção de investigação de maternidade só pode ser proposta durante a menoridade do investigante ou nos dois primeiros anos posteriores à sua maioridade ou emancipação.
+1 - A acção de investigação de maternidade só pode ser proposta durante a menoridade do investigante ou nos dez anos posteriores à sua maioridade ou emancipação.
 
-2 - Se não for possível estabelecer a maternidade em consequência do disposto no artigo 1815.º, a acção pode ser proposta no ano seguinte à rectificação, declaração de nulidade ou cancelamento do registo inibitório, contanto que a remoção do obstáculo tenha sido requerida até ao termo do prazo estabelecido no número anterior, se para tal o investigante tiver legitimidade.
+2 - Se não for possível estabelecer a maternidade em consequência do disposto no artigo 1815.º, a acção pode ser proposta nos três anos seguintes à rectificação, declaração de nulidade ou cancelamento do registo inibitório.
 
-3 - Se a acção se fundar em escrito no qual a pretensa mãe declare inequivocamente a maternidade, pode ser intentada nos seis meses posteriores à data em que o autor conheceu ou devia ter conhecido o conteúdo do escrito.
+3 - A acção pode ainda ser proposta nos três anos posteriores à ocorrência de algum dos seguintes factos:
 
-4 - Se o investigante for tratado como filho pela pretensa mãe, sem que tenha cessado voluntariamente esse tratamento, a acção pode ser proposta até um ano posterior à data da morte daquela; tendo cessado voluntariamente o tratamento como filho, a acção pode ser proposta dentro do prazo de um ano a contar da data em que o tratamento tiver cessado.
+a) Ter sido impugnada por terceiro, com sucesso, a maternidade do investigante;
 
-5 - Se o investigante, sem que tenha cessado voluntariamente o tratamento como filho, falecer antes da pretensa mãe, a acção pode ser proposta até um ano posterior à data da morte daquele; tendo cessado voluntariamente o tratamento como filho antes da morte deste, é aplicável o disposto na segunda parte do número anterior.
+b) Quando o investigante tenha tido conhecimento, após o decurso do prazo previsto no n.º 1, de factos ou circunstâncias que justifiquem a investigação, designadamente quando cesse o tratamento como filho pela pretensa mãe;
 
-6 - Nos casos a que se referem os n.os 4 e 5 incumbe ao réu a prova da cessação voluntária do tratamento no ano anterior à propositura da acção.
+c) Em caso de inexistência de maternidade determinada, quando o investigante tenha tido conhecimento superveniente de factos ou circunstâncias que possibilitem e justifiquem a investigação.
+
+4 - No caso referido na alínea b) do número anterior, incumbe ao réu a prova da cessação voluntária do tratamento nos três anos anteriores à propositura da acção.
