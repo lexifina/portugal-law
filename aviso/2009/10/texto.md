@@ -1,0 +1,5 @@
+Aviso n.º 10/2009
+Por ordem superior se torna público que foram emitidas notas pela Embaixada de Espanha em Lisboa e pelo Ministério dos Negócios Estrangeiros de Portugal, em 23 de Janeiro e 4 de Fevereiro de 2009, respectivamente, tendo a última notificação escrita sido recebida pela Embaixada de Espanha em Lisboa em 10 de Fevereiro de 2009, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo para a Protecção da Matéria Classificada entre a República Portuguesa e o Reino de Espanha, assinado em Madrid em 10 de Janeiro de 2008.
+Portugal é Parte neste Acordo, aprovado pelo Governo pelo Decreto n.º 33/2008, publicado no Diário da República, 1.ª série, n.º 194, de 7 de Outubro de 2008.
+Nos termos do artigo 20.º, o Acordo está em vigor em 12 de Março de 2009, 30.º dia após a recepção da última notificação de que foram cumpridos os requisitos internos das Partes necessários para o efeito.
+Direcção-Geral dos Assuntos Europeus, 27 de Março de 2009. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
