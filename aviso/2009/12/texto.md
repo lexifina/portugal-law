@@ -1,0 +1,5 @@
+Aviso n.º 12/2009
+Por ordem superior se torna público que foram emitidas notas pelo Ministério dos Assuntos Exteriores e Cooperação de Espanha e pela Embaixada de Portugal em Madrid, em 25 de Janeiro de 2008 e 16 de Fevereiro de 2009, respectivamente, tendo a última notificação escrita sido recebida pelo Ministério dos Assuntos Exteriores e Cooperação de Espanha em 16 de Fevereiro de 2009, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e o Reino de Espanha relativo ao Programa de Reprodução em Cativeiro do Lince-Ibérico, assinado em Lisboa em 31 de Agosto de 2007.
+Portugal é Parte neste Acordo, aprovado pelo Governo pelo Decreto n.º 50/2008, publicado no Diário da República, 1.ª série, n.º 203, de 20 de Outubro de 2008.
+Nos termos do artigo 6.º, o Acordo está em vigor em 3 de Março de 2009, 15.º dia após a recepção da última notificação de que foram cumpridos os requisitos internos das Partes necessárias para o efeito.
+Direcção-Geral dos Assuntos Europeus, 27 de Março de 2009. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
