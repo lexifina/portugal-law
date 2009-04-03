@@ -1,5 +1,5 @@
 # Artigo 3.º
 
-### Programa de Modernização do Parque Escolar Destinado ao Ensino Secundário
+### Programa plurianual
 
-A Construção Pública, E. P. E., prossegue as atividades compreendidas no programa de modernização e manutenção da rede pública de escolas secundárias, previsto na alínea a) do n.º 2 do artigo anterior, com base em programa plurianual e nos termos e condições constantes de contrato com o Estado, no qual se prevê a respetiva contrapartida pelo serviço prestado.
+A Parque Escolar, E. P. E., desenvolverá as actividades compreendidas no seu objecto social, previsto no artigo 2.º, com base em programa plurianual e nos termos e condições constantes do contrato a estabelecer com o Estado, no qual será igualmente prevista a respectiva contrapartida pelo serviço prestado.

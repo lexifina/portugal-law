@@ -22,4 +22,4 @@ h) Requerer, nos termos do Código das Expropriações, às autoridades competen
 
 i) Exercer as competências que lhe sejam delegadas.
 
-2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado ou, na falta de designação, pelo vogal mais antigo e, em caso de igualdade, pelo que tenha mais anos de experiência como gestor público.
+2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado.

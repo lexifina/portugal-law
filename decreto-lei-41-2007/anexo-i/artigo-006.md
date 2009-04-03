@@ -10,6 +10,4 @@ São órgãos da Parque Escolar, E. P. E.;
 
 a) O conselho de administração;
 
-b) O conselho fiscal;
-
-c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
+b) O fiscal único.
