@@ -12,4 +12,8 @@ c) Participar nas votações;
 
 d) Assegurar o indispensável contacto com os eleitores.
 
+e) Respeitar a dignidade da Assembleia da República e dos Deputados;
+
+f) Observar o Regimento da Assembleia da República.
+
 2 - O exercício de quaisquer outras actividades, quando legalmente admissível, não pode pôr em causa o regular cumprimento dos deveres previstos no número anterior.

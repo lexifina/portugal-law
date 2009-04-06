@@ -6,6 +6,6 @@
 
 2 - O presidente da Comissão é eleito de entre os quatro membros e dispõe de voto de qualidade.
 
-3 - Os Deputados a que se refere o presente artigo, ou associação ou associações que entre si resolvam constituir, nos termos gerais, quando reconhecidas pelo Plenário da Assembleia da República como associações de interesse parlamentar, podem beneficiar dos direitos e regalias que vierem a ser fixados por despacho do Presidente da Assembleia da República, ouvidos a Conferência dos Representantes dos Grupos Parlamentares e o Conselho de Administração.
+3 - Os Deputados a que se refere o presente artigo, ou associação ou associações que entre si resolvam constituir, nos termos gerais, quando reconhecidas pelo Plenário da Assembleia da República como associações de interesse parlamentar, podem beneficiar dos direitos e regalias que vierem a ser fixados por despacho do Presidente da Assembleia da República, ouvidos a Conferência de Líderes e o conselho de administração.
 
 4 - Os Deputados que tenham exercido as funções de Presidente da Assembleia da República gozam de estatuto próprio, fixado nos termos da última parte do número anterior.

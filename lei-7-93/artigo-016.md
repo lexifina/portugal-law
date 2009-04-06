@@ -10,4 +10,4 @@
 
 4 - A Assembleia da República poderá estabelecer, mediante parecer favorável do Conselho de Administração, um seguro que cubra os riscos de deslocação dos Deputados no País ou os que decorrem de missões ao estrangeiro.
 
-5 - A Assembleia da República poderá satisfazer os encargos de assistência médica de emergência aos Deputados, quando em viagem oficial ou considerada de interesse parlamentar pela Conferência dos Representantes dos Grupos Parlamentares.
+5 - A Assembleia da República assume os encargos de assistência médica de emergência aos Deputados, quando em viagem oficial ou considerada de interesse parlamentar pela Conferência de Líderes.

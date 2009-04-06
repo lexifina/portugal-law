@@ -12,10 +12,10 @@ c) Se inscrevam em partido diferente daquele pelo qual foram apresentados a sufr
 
 d) Sejam judicialmente condenados por participação em organizações de ideologia fascista ou racista.
 
-2 - Considera-se motivo justificado a doença, o casamento, a maternidade e a paternidade, o luto, força maior ou outro motivo considerado relevante, devidamente fundamentados, nomeadamente no âmbito de missão ou trabalho parlamentar, de trabalho político ou do partido a que o Deputado pertence.
+2 - Considera-se motivo justificado a doença, o casamento, a maternidade e a paternidade, o luto, força maior, missão ou trabalho parlamentar e o trabalho político ou do partido a que o Deputado pertence, bem como a participação em actividades parlamentares, nos termos do Regimento.
 
 3 - A invocação de razão de consciência, devidamente fundamentada, por Deputado presente na reunião é considerada como justificação de não participação na votação.
 
-4 - A participação, devidamente autorizada, em reuniões de organismos internacionais e em outras missões parlamentares no estrangeiro exclui a marcação de falta.
+4 - Em casos excepcionais, as dificuldades de transporte podem ser consideradas como justificação de faltas.
 
 5 - A não suspensão do mandato, nos termos do artigo 4.º, nos casos aplicáveis do artigo 20.º, e desde que o Deputado não observe o disposto no n.º 7 do artigo 21.º, determina a perda do mandato, nos termos da alínea a) do n.º 1 do artigo 160.º da Constituição, a qual será declarada após verificação pela Assembleia da República, nos termos do Regimento.
