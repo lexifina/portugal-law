@@ -1,0 +1,5 @@
+Aviso n.º 7602/2009
+Torna-se público, nos termos e para os efeitos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91 de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, e dando cumprimento à deliberação tomada em reunião ordinária da Câmara Municipal realizada em 09 do corrente mês de Março, que a partir da data da publicação na 2.ª Série do Diário da República e pelo prazo de 30 dias úteis, está em apreciação pública nesta Câmara Municipal, durante o horário normal de atendimento ao público, o Projecto de Regulamento de Trânsito da Cidade de Mangualde.
+Durante esse período poderão os interessados consultar o Projecto do Regulamento em apreço nesta Câmara Municipal; nas Juntas de Freguesia do Município e em www.cmmangualde.pt. Podem ainda os interessados, querendo, apresentar sugestões, durante as horas de atendimento ao público (9:00 Horas às 16:00 Horas), nesta Câmara Municipal.
+26 de Março de 2009. - O Presidente da Câmara, António Soares Marques.
+301604953
