@@ -1,0 +1,9 @@
+Aviso n.º 7708/2009
+Alteração do Plano Director Municipal do Seixal
+Nos termos do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção conferida pelos Decretos-Leis n.os 316/2007, de 19 de Setembro, e 46/2009, de 20 de Fevereiro, e restante legislação aplicável, a Câmara Municipal do Seixal deliberou em 11 de Março de 2009, mandar alterar o Plano Director Municipal, ratificado por Resolução do Conselho de Ministros n.º 65/93, de 14 de Outubro de 1993, publicado na 1.ª série-B do Diário da República, em 11 de Novembro de 1993, para a classe de Espaços Industriais.
+De acordo com o n.º 2 do artigo 77.º do referido diploma legal, está a decorrer por 15 dias úteis, com início na data da publicação do presente aviso no Diário da República, um processo de audição ao público, durante o qual os interessados poderão proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de alteração do Plano Director Municipal.
+Durante aquele período, os interessados poderão consultar no atendimento público da Divisão Administrativa de Urbanismo, o documento de fundamentação da alteração do Plano Director Municipal, que acompanhou a deliberação de Câmara e que descreve os objectivos, metodologia e prazos a observar no processo.
+Junto ao Departamento de Planeamento e Urbanismo, poderão ser ainda marcadas reuniões de esclarecimento e informação adicional, com técnicos da equipa responsável pela alteração do Plano Director Municipal.
+Os interessados na execução das disposições do Plano deverão apresentar as suas sugestões ou observações mediante requerimento dirigido ao presidente da Câmara Municipal, a entregar no Atendimento Público da Divisão Administrativa de Urbanismo.
+27 de Março de 2009. - O Presidente da Câmara, Alfredo José Monteiro da Costa.
+201610988
