@@ -1,0 +1,145 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "215",
+    "id": "33986",
+    "titulo": "Aprova a Lei do pluralismo e da não concentração nos meios de comunicação social."
+  },
+  "fase": "Votação Propostas de Alteração",
+  "codigo_fase": "481",
+  "data_registo": "2009-04-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "481",
+    "Comissao": null,
+    "DataFase": "2009-04-15",
+    "EvtId": "110",
+    "Fase": "Votação Propostas de Alteração",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "258544",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "477681",
+        "obs": null,
+        "pag": [
+          "14-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-04-16",
+        "pubLeg": "X",
+        "pubNr": "67",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/067/2009-04-16/14?pgs=14-17&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2009-04-15",
+        "descricao": "Proposta 6P, apresentada pelo CDS-PP, de emenda da alínea b) do n.º 1 do artigo 2.º e substitui o n.º 3 do artigo 3.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I>, <I> José Paulo Areia De Carvalho (Ninsc)</I><BR>Contra:<I>PS</I>, <I> BE</I>, <I> Luísa Mesquita (Ninsc)</I><BR>Abstenção:<I>1-PS</I>, <I> PEV</I>, <I> PCP</I>",
+        "id": "53150",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "67",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2009-04-15",
+        "descricao": "Proposta 1P, apresentada pelo PS, de emenda do n.º 3 do artigo 5.º e a proposta 2-P, do Ps, de substituição do artigo 13.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> José Paulo Areia De Carvalho (Ninsc)</I><BR>Abstenção:<I>PEV</I>, <I> PCP</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "53152",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "67",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2009-04-15",
+        "descricao": "a proposta 3-P, do PS, de emenda da alínea a), de substituição das alíneas b) e c) e de emenda da alínea d) do n.º 2, de emenda do corpo do n.º 3",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> José Paulo Areia De Carvalho (Ninsc)</I><BR>Abstenção:<I>BE</I>, <I> PEV</I>, <I> PCP</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "53154",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "67",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2009-04-15",
+        "descricao": "Proposta 4P, apresentada pelo PS, de emenda da alínea a) do artigo 20.º",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> José Paulo Areia De Carvalho (Ninsc)</I><BR>Abstenção:<I>BE</I>, <I> PEV</I>, <I> PCP</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "53159",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "67",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2009-04-15",
+        "descricao": "Proposta 4P, apresentada pelo PS, de emenda da alínea b) do artigo 20.º",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> José Paulo Areia De Carvalho (Ninsc)</I><BR>Abstenção:<I>BE</I>, <I> PEV</I>, <I> PCP</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "53160",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "67",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2009-04-15",
+        "descricao": "Proposta 4P, apresentada pelo PS, de emenda do corpo do artigo 20.º",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> José Paulo Areia De Carvalho (Ninsc)</I><BR>Abstenção:<I>BE</I>, <I> PEV</I>, <I> PCP</I>, <I> Luísa Mesquita (Ninsc)</I>",
+        "id": "53161",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "67",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2009-04-15",
+        "descricao": "Proposta 5P, apresentada pelo PS, de emenda do n.º 1, de emenda da alínea a), de substituição da alínea b), de substituição da alínea c), de emenda da alínea d) e de emenda do corpo do n.º 2, de emenda do corpo do n.º 3, de emenda do n.º 4 e de emenda do n.º 5 do artigo 21.º\n",
+        "detalhe": "A Favor: <I>PS</I>, <I> Luísa Mesquita (Ninsc)</I>, <I> José Paulo Areia De Carvalho (Ninsc)</I><BR>Contra:<I>PSD</I>, <I> BE</I>, <I> PEV</I>, <I> PCP</I>, <I> CDS-PP</I>",
+        "id": "53162",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "67",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
