@@ -1,0 +1,121 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11906",
+  "numero": "571",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2009-04-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-07-15",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2009-05-19",
+        "DataArquivo": "2009-07-16",
+        "DataBaixaComissao": "2009-05-19",
+        "DataEnvioPAR": "2009-07-17",
+        "DataReaberta": "2009-05-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2009-04-16",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c7a6b30596a4d784d6d457a4c5745345a5455744e446b344d6931684d6d526a4c544d324e44517a5a5464685a5745774e6935775a47593d&fich=94b312a3-a8e5-4982-a2dc-36443e7aea06.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2009-04-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c3259334e4445324e4467774c5441795a444d744e446c6c4f5331694d5441304c54466b4f545577596a466a4f574978595335775a47593d&fich=f7416480-02d3-49e9-b104-1d950b1c9b1a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1909",
+        "Legislatura": "X",
+        "Nome": "Comissão de Poder Local, Ambiente e Ordenamento do Território",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2009-05-19",
+            "gp": "CDS-PP",
+            "id": "1656",
+            "motivoCessacao": null,
+            "nome": "António Carlos Monteiro"
+          }
+        ],
+        "RelatorioFinal": [
+          "22597"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2009-04-16",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938774e4451334d324d304e6931685a54526b4c5451354d4463744f54633059533035595445794e3255344d7a6c6d4d546b756347526d&fich=04473c46-ae4d-4907-974a-9a127e839f19.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11906",
+    "PetAssunto": "Pedido de integração na Freguesia de Vermoil dos lugares de S. Vicente, Covões, Pinhete, Vale dos Bacharéis, São Francisco, Pisão, Arneiro do Pisão e Roques, da Freguesia de S. Tiago de Litém.",
+    "PetDataEntrada": "2009-04-16",
+    "PeticoesAssociadas": null,
+    "PetId": "11906",
+    "PetLeg": "X",
+    "PetNr": "571",
+    "PetNrAssinaturas": "302",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
