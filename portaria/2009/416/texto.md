@@ -1,0 +1,13 @@
+Portaria n.º 416/2009
+de 16 de Abril
+Pela Portaria n.º 1172/2003, de 2 de Outubro, alterada pela Portaria n.º 564/2006, de 12 de Junho, foi criada a zona de caça municipal de Corte Sines (processo n.º 3438-AFN), situada no município de Mértola, com a área de 2088 ha, e transferida a sua gestão para a Associação de Caçadores de Corvos e Corte Sines.
+Veio agora aquela Associação solicitar a extinção desta zona de caça requerendo ao mesmo tempo a concessão de uma zona de caça associativa que englobasse aqueles terrenos.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção, e com fundamento no disposto na alínea a) do artigo 22.º, na alínea a) do artigo 40.º e no n.º 1 do artigo 118.º todos do diploma acima identificado e após audição do Conselho Cinegético Municipal de Mértola no que respeita à concessão da zona de caça associativa.
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É extinta a zona de caça municipal de Corte Sines (processo n.º 3438-AFN).
+2.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por um único e igual período, à Associação de Caçadores de Corvos e Corte Sines, com o número de identificação fiscal 506021432 e sede em Corvos, Caixa Postal n.º 1167, 7750-312 Mértola, a zona de caça associativa de Corvos e Corte Sines (processo n.º 5114-AFN), englobando vários prédios rústicos sitos nas freguesias de Mértola e Santana de Cambas, município de Mértola, com a área de 1923 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até ao máximo de 10 % da área total da zona de caça.
+4.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 3 de Abril de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 6 de Abril de 2009.
+(ver documento original)
