@@ -1,0 +1,9 @@
+Aviso n.º 8343/2009
+Alteração do Plano Director Municipal de Ílhavo
+Participação preventiva
+Eng. José Agostinho Ribau Esteves, Presidente da Câmara Municipal de Ílhavo, faz saber, para os efeitos previstos no n.º 2 do artigo 77.º do Decreto-Lei (DL) n.º 380/99, de 22 de Setembro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, alterado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, que a Câmara Municipal de Ílhavo, em reunião realizada em 6 de Abril de 2009, deliberou por unanimidade iniciar o procedimento relativo à alteração ao Plano Director Municipal (PDM) no que respeita ao artigo 14.º do Regulamento - Espaço para Equipamentos - e respectiva correspondência de alteração do uso na Planta de Ordenamento, para integração de um Equipamento Social na Gafanha da Nazaré e de um Equipamento de Ciência e Inovação em Ílhavo.
+Estabelece-se o prazo de 15 dias, a partir da publicação do presente Aviso no Diário da República, para formulação de sugestões e prestação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento da referida alteração, por todos os interessados.
+Qualquer sugestão, informação ou observação deverá ser apresentada por escrito no Serviço de Atendimento Integrado, em carta dirigida ao Presidente da Câmara Municipal de Ílhavo ou por via electrónica para o endereço geral@cm-ilhavo.pt contendo, em qualquer uma das formas, a identificação completa do seu subscritor.
+A deliberação da Câmara Municipal Ílhavo e o documento de fundamentação podem ser consultados no Serviço de Atendimento Integrado da Câmara Municipal de Ílhavo durante as horas normais de expediente ou no site da autarquia, em http://www.cm-ilhavo.pt.
+7 de Abril de 2009. - O Presidente da Câmara, José Agostinho Ribau Esteves.
+201672612
