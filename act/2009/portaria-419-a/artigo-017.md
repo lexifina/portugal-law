@@ -1,0 +1,21 @@
+## Capítulo III
+
+## Modo de pagamento
+
+## Secção I
+
+## Meios de pagamento
+
+# Artigo 17.º
+
+### Meios electrónicos de pagamento
+
+1 - Qualquer pessoa poderá efectuar os pagamentos resultantes do RCP através dos meios electrónicos disponíveis, Multibanco e Homebanking, ou junto das entidades bancárias indicadas pelo Instituto de Gestão da Tesouraria e do Crédito Público (IGCP) constantes de informação a divulgar por circular conjunta da Direcção-Geral da Administração da Justiça (DGAJ) e do IGFIJ, publicada no endereço electrónico http://tribunaisnet.mj.pt.
+
+2 - O pagamento de quantias superiores a 10 UC, bem como quaisquer pagamentos da responsabilidade de pessoas colectivas, são obrigatoriamente efectuados através dos meios electrónicos.
+
+3 - Quando os meios electrónicos não permitam o pagamento, este pode ser realizado por cheque ou numerário junto das entidades bancárias indicadas pelo IGCP e constantes da circular conjunta referida no n.º 1.
+
+4 - As importâncias respeitantes a actos e papéis avulsos podem ser pagas em numerário nos tribunais quando o valor for inferior a 1/4 UC, sem utilização do DUC, poderão igualmente ser pagos através dos meios electrónicos disponíveis, mediante DUC emitido pela secretaria.
+
+5 - Ao procedimento de injunção aplicam-se as regras de pagamento de taxa de justiça resultantes da Portaria n.º 220-A/2008, de 4 de Março.
