@@ -14,7 +14,7 @@ d) Beneficiar de direito de antena nos serviços públicos de rádio e televisã
 
 e) Beneficiar de todos os direitos e regalias atribuídos por lei às pessoas colectivas de utilidade pública;
 
-f) Beneficiar de isenção de custas e preparos judiciais e de imposto do selo;
+f) Beneficiar de isenção de imposto do selo;
 
 g) Solicitar e obter das entidades competentes as informações e a documentação que lhes permitam acompanhar a definição e execução das políticas de imigração;
 
