@@ -8,7 +8,7 @@ Com o produto dos bens executados efectuam-se os pagamentos pela ordem seguinte:
 
 2.º A taxa de justiça;
 
-3.º Os encargos liquidados a favor do Estado, do Cofre Geral dos Tribunais e do Serviço Social do Ministério da Justiça;
+3.º Os encargos liquidados a favor do Estado e do Instituto de Gestão Financeira e das Infra-Estruturas da Justiça, I. P.
 
 4.º Os restantes encargos, proporcionalmente;
 

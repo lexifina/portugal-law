@@ -1,5 +1,5 @@
 # Artigo 524.º
 
-### (Disposições subsidiárias)
+### Disposições subsidiárias
 
-É subsidiariamente aplicável o disposto no Código das Custas Judiciais.
+É subsidiariamente aplicável o disposto no Regulamento das Custas Processuais.

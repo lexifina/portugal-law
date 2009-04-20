@@ -2,4 +2,4 @@
 
 ### (Destino das multas)
 
-Salvo disposição da lei em contrário, a importância das multas e das coimas aplicadas em juízo tem o destino fixado no Código das Custas Judiciais.
+Salvo disposição em contrário, as importâncias de multas e coimas cobradas em juízo têm o destino fixado no Regulamento das Custas Processuais.

@@ -26,4 +26,4 @@ d) A ordem de remessa de boletins ao registo criminal;
 
 e) A data e as assinaturas dos membros do tribunal.
 
-4 - A sentença observa o disposto neste Código e no Código das Custas Judiciais em matéria de custas.
+4 - A sentença observa o disposto neste Código e no Regulamento das Custas Processuais em matéria de custas.

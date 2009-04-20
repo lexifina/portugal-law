@@ -6,4 +6,4 @@
 
 ### (Lei aplicável)
 
-Em tudo o que não for especialmente previsto neste Código, a execução de bens rege-se pelo Código das Custas Judiciais e, subsidiariamente, pelo Código de Processo Civil.
+Em tudo o que não esteja especialmente previsto neste Código, a execução de bens rege-se pelo disposto no Código de Processo Civil e no Regulamento das Custas Processuais.
