@@ -70,7 +70,7 @@ Tendo ainda como destinatárias as sociedades, e em nome da transparência, clar
 
 Esta previsão, atendendo à fé pública do notário e à sua isenção face aos interesses em conflito, tem em vista, sobretudo, habilitar os sócios minoritários com um documento essencial para efeitos de prova judicial, nomeadamente em sede de impugnação das deliberações.
 
-Porventura com maior impacte junto dos cidadãos, aponta-se a alteração deste Código que consiste no alargamento do elenco de documentos que permitem a verificação da identidade dos outorgantes, admitindo-se indistintamente o conhecimento pessoal, o bilhete de identidade e a carta de condução, desde que emitidos pela autoridade competente de um dos países da União Europeia, e o passaporte.
+Porventura com maior impacto junto dos cidadãos, aponta-se a alteração deste Código que consiste no alargamento do elenco de documentos que permitem a verificação da identidade dos outorgantes, admitindo-se indistintamente o conhecimento pessoal, o bilhete de identidade e a carta de condução, desde que emitidos pela autoridade competente de um dos países da União Europeia, e o passaporte.
 
 O espectro mais alargado de documentos identificadores assenta no reconhecimento da diversa finalidade da verificação da identidade para efeitos civis ou notariais, tendo-se entendido que o limite da simplificação seria a possibilidade de proceder à identificação, também nos cartórios notariais, mediante o recurso a outros documentos tradicionalmente já utilizados para esse fim.
 
