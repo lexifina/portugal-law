@@ -1,0 +1,9 @@
+Aviso n.º 8472/2009
+Rolando Nunes de Sousa, vice-presidente no exercício de competências delegadas da Câmara Municipal de Espinho:
+Faz público que para efeitos do disposto nos n.º 3 e n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, e em cumprimento da deliberação da reunião pública desta Câmara no dia 27 de Março de 2009 que a partir do 5.º dia útil, a contar da publicação deste aviso no Diário da República, e durante 30 dias úteis, se encontra aberto um período de discussão pública da proposta de revisão do Plano Director Municipal de Espinho.
+A proposta de revisão do Plano de Director Municipal, acompanhada do Parecer Final da Comissão Técnica de Acompanhamento, dos demais pareceres emitidos, do resultado da concertação e do relatório da Avaliação Ambiental Estratégica, estarão disponíveis para consulta no Edifício da Câmara Municipal de Espinho - Salão Nobre (1.º Andar).
+A proposta e os demais elementos acima referidos serão também disponibilizados para consulta na Internet, no sítio da Câmara Municipal de Espinho.
+Durante o referido período de discussão pública, qualquer reclamação, observação ou sugestão, deverão ser apresentadas por escrito, através do preenchimento de modelo próprio (disponível nos locais acima referidos e na página da Internet do Município) a entregar directamente ou a remeter pelo Correio, dirigido ao Presidente da Câmara Municipal de Espinho - Praça Dr. José Salvador - Apartado 700 - 4501-901 Espinho.
+E para constar se passou este e outros de igual teor que vão ser afixados nos locais de estilo e avisos publicados nos jornais Diário de Notícias, Jornal de Notícias, Semanário Expresso, Maré Viva e Defesa de Espinho.
+14 de Abril de 2009. - O Vice-Presidente, no exercício de competências delegadas, Rolando Nunes de Sousa.
+301684196
