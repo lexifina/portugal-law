@@ -23,3 +23,5 @@ vii) Permitir a recolha de material genético, quando solicitado pelo Banco Port
 b) Comunicar ao IFAP, I. P., a redução de animais objecto de apoio, nos termos do n.º 6 do artigo 22.º
 
 2 - O disposto nas alíneas a) e b) do número anterior produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.
+
+3 - Manter o número de animais por espécie ou, em caso de substituição de espécie, manter o número de cabeças normais inicialmente comprometidas.

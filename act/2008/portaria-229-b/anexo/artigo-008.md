@@ -6,9 +6,9 @@
 
 a) Tenham submetido toda a superfície agrícola ou agro-florestal da unidade de produção e os respectivos animais ao modo de produção integrado ou ao modo de produção biológico, de acordo com os respectivos normativos;
 
-b) Tenham efectuado, junto do GPP, a notificação relativa ao modo de produção biológico;
+b) Efectuem junto do GPP, antes do início do compromisso, a notificação relativa ao modo de produção biológico;
 
-c) Tenham celebrado contrato com organismo de controlo (OC) reconhecido, através do qual garantam o controlo da sua unidade de produção;
+c) Celebrem contrato, antes do início do compromisso, com organismo de controlo (OC) reconhecido, através do qual garantam o controlo da sua unidade de produção;
 
 d) Sem prejuízo do previsto no normativo aplicável ao respectivo modo de produção, tenham um encabeçamento de animais em pastoreio inferior ou igual a:
 
@@ -22,9 +22,9 @@ e) Apresentem, no caso de a unidade de produção utilizar áreas de baldio, dec
 
 a) Toda a superfície cultivada com plantas da mesma espécie;
 
-b) Toda a superfície de pastagem permanente, inclusive em sobcoberto de povoamento florestal arborizado, e o espaço agro-florestal não arborizado com aproveitamento forrageiro, utilizados exclusivamente por animais criados nesse modo de produção;
+b) Toda a superfície de uma parcela agrícola ou agro-florestal ocupada por pastagem permanente, inclusive em sob coberto de povoamento florestal arborizado ou em espaço agro-florestal não arborizado com aproveitamento forrageiro, que seja utilizada exclusivamente por animais criados nesse modo de produção;
 
-c) Toda a superfície de uma parcela agrícola ou agro-florestal;
+c) (Revogada.)
 
 d) Todos os animais da mesma espécie ou com o mesmo tipo de produção presentes na unidade de produção.
 
@@ -53,3 +53,5 @@ iv) Outros frutos frescos e sabugueiro - 80 árvores por hectare;
 v) Frutos secos e olival - 60 árvores por hectare;
 
 vi) Vinha - 2000 cepas por hectare, excepto nos casos de áreas ocupadas com vinha conduzida em pérgula ou de áreas situadas na Região Demarcada dos Vinhos Verdes, em que a densidade mínima é de 1000 cepas por hectare.
+
+6 - Sem prejuízo do disposto nas alíneas b) e d) do n.º 2, os animais de outrem que pastoreiem parcelas da unidade de produção com áreas forrageiras em sob coberto devem ser de espécie distinta dos animais do próprio existentes na unidade de produção, podendo não estar submetidos ao normativo de PRODI ou MPB desde que não coloquem em causa o cumprimento dos normativos específicos a que está sujeita a unidade de produção.

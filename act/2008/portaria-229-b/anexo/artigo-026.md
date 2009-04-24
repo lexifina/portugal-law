@@ -18,7 +18,7 @@ c) No caso dos n.os 3, 4, 5 e 6 do anexo viii, perda de direito ao apoio para a 
 
 5 - O incumprimento de qualquer um dos compromissos de cada acção constantes do anexo ix, bem como a reincidência do incumprimento dos compromissos constantes do anexo vii, determina a devolução total dos apoios recebidos e a exclusão do beneficiário de cada acção, sem prejuízo de outras consequências legalmente aplicáveis.
 
-6 - O incumprimento do compromisso constante do anexo x determina a devolução total dos apoios recebidos pelo compromisso complementar e a exclusão do beneficiário deste apoio, sem prejuízo de outras consequências legalmente aplicáveis.
+6 - (Revogado.)
 
 7 - A reincidência do incumprimento dos compromissos constantes do anexo viii determina a devolução total dos apoios recebidos anteriormente e a exclusão do apoio relativamente às áreas ou animais em que se verificou, sem prejuízo de outras consequências legalmente aplicáveis.
 

@@ -20,8 +20,10 @@ h) Anexo viii, relativo a compromissos de cada acção para efeitos de aplicaç�
 
 i) Anexo ix, relativo a compromissos de cada acção para efeitos de aplicação do artigo 26.º;
 
-j) Anexo x, relativo ao compromisso complementar para efeitos de aplicação do artigo 26.º;
+j) (Revogada.)
 
 l) Anexo xi, relativo a compromissos da acção «Alteração de modos de produção agrícola» e respectiva pontuação para efeitos de aplicação do artigo 26.º;
 
-m) Anexo xii, relativo à transição entre programas.
+m) Anexo xii, relativo à transição entre programas;
+
+n) Anexo XIII, relativo às práticas culturais de gestão a adoptar no âmbito da acção n.º 2.2.4, 'Conservação do solo'.
