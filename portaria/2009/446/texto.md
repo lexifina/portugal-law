@@ -1,0 +1,11 @@
+Portaria n.º 446/2009
+de 28 de Abril
+Pela Portaria n.º 1461/2007, de 14 de Novembro, foi renovada até 26 de Julho de 2013 a zona de caça municipal de Elvas (3) (processo n.º 2632-AFN), situada no município de Elvas, e cuja entidade gestora é o Clube Amadores de Caça e Pesca de Elvas.
+Vieram entretanto vários proprietários de terrenos incluídos na zona de caça acima referida requerer a sua exclusão e, simultaneamente, a Associação de Caçadores de S. Vicente e Ventosa veio requerer a concessão de uma zona de caça associativa nos terrenos objecto da exclusão acima referida.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, e com fundamento no n.º 1 do artigo 28.º, em conjugação com o estipulado no n.º 1 do artigo 167.º e, ainda, na alínea a) do artigo 40.º, todos do diploma acima identificado e após audição do Conselho Cinegético Municipal de Elvas no que respeita à concessão da zona de caça associativa, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º São excluídos da zona de caça municipal de Elvas (3) (processo n.º 2632-AFN) vários prédios rústicos sitos na freguesia de Barbacena do município de Elvas, com a área de 199 ha, ficando a mesma reduzida a uma área total de 1202 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º É concessionada, pelo período de seis anos, renovável automaticamente, à Associação de Caçadores de S. Vicente e Ventosa, com o número de identificação fiscal 503310590 e sede na Rua de Elvas, 7, 7350 Elvas, a zona de caça associativa da Herdade da Serra (processo n.º 4883-AFN), englobando vários prédios rústicos sitos na freguesia de Barbacena do município de Elvas, com a área total de 199 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A exclusão e a concessão previstas na presente portaria produzem efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 20 de Abril de 2009.
+(ver documento original)
