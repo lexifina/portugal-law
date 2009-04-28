@@ -1,0 +1,4 @@
+Aviso n.º 8823/2009
+Nuno Miguel Caramujo Ribeiro Canta, Presidente do Conselho de Administração dos Serviços Municipalizados de Água e Saneamento do Município de Montijo, torna público em cumprimento do disposto no artigo 91.º da Lei n.º 169/99 de 18 de Setembro, com as alterações introduzidas pelo n.º 1 do artigo 91.º de Lei n.º 5-A/2002 de 11 de Janeiro, bem como do previsto no n.º 5 do artigo 344.º do Regulamento Municipal dos Sistemas Públicos e Prediais de Distribuição de Água e de Drenagem de Águas Residuais, que a partir do dia 1 de Fevereiro de 2009 é actualizada, de acordo com o índice de preços no consumidor de 2008, a tabela de taxas e tarifas relativamente ao consumo de água e prestações de serviços.
+29 de Janeiro de 2009. - O Presidente do Conselho de Administração, Nuno Ribeiro Canta.
+301708033
