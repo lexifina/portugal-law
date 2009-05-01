@@ -1,14 +1,10 @@
-# Artigo 28
+# Artigo 28.º
 
 ### Inacumulabilidade com rendimentos de trabalho e com prestações sociais
 
 1 - Os subsídios previstos no presente decreto-lei não são acumuláveis com:
 
-a) Rendimentos de trabalho ou outras prestações pecuniárias regulares pagas pelas entidades empregadoras sem correspondente prestação de trabalho efetivo, com exceção das seguintes situações:
-
-ii) Subsídio parental inicial correspondente ao gozo da licença parental inicial, nos termos previstos nos n.os 4 e 5 do artigo 40.º do Código do Trabalho;
-
-iii) Subsídio parental alargado correspondente ao gozo da licença parental alargada, nos termos previstos nas alíneas c) e d) do n.º 1 do artigo 51.º do Código do Trabalho.
+a) Rendimentos de trabalho ou outras prestações pecuniárias regulares pagas pelas entidades empregadoras sem a correspondente prestação de trabalho efectivo;
 
 b) Prestações sociais substitutivas de rendimento de trabalho, excepto com pensões de invalidez, velhice e sobrevivência concedidas no âmbito do regime de protecção social convergente, do regime geral de segurança social ou de outros regimes obrigatórios de protecção social;
 

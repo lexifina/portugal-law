@@ -2,4 +2,4 @@
 
 ### Subsídio parental alargado
 
-O subsídio parental alargado é concedido por um período até três meses a qualquer um ou a ambos os progenitores simultânea ou alternadamente, nas situações de exercício de licença parental complementar gozada nos termos previstos nas alíneas a), c) e d) do n.º 1 do artigo 51.º do Código do Trabalho.
+O subsídio parental alargado é atribuído por período até três meses a qualquer um ou a ambos os progenitores ou adoptantes, alternadamente, durante o gozo de licença parental complementar alargada para assistência a filho integrado no agregado familiar, desde que gozada imediatamente após o período de atribuição do subsídio parental inicial ou do subsídio parental alargado do outro progenitor.

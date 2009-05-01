@@ -14,6 +14,6 @@ a) O cônjuge ou equiparado;
 
 b) Parente ou afim na linha recta ascendente ou do 2.º grau da linha colateral.
 
-3 - Para efeitos do cálculo e montante do subsídio, é aplicável o disposto nos artigos 21.º e 22.º, na alínea d) do n.º 5 do artigo 23.º e no artigo 24.º
+3 - Para efeitos do cálculo e montante do subsídio, é aplicável o disposto nos artigos 21.º, 22.º, na alínea d) do n.º 4 do artigo 23.º e no artigo 24.º.
 
 4 - Mantêm-se em vigor os artigos 85.º e 86.º do Regulamento constante do anexo ii da Lei n.º 59/2008, de 11 de Setembro, até à revisão do Regime do Contrato de Trabalho em Funções Públicas.
