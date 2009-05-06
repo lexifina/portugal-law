@@ -1,0 +1,29 @@
+# Relatório de Acompanhamento 3/2009 - 2ª S/PL de 6 de Maio
+
+**Designação:** Relatório de Acompanhamento 3/2009 - 2ª S/PL de 6 de Maio
+
+**Data do documento:** 2009-05-06
+
+**Espécie:** Relatórios de Auditoria, de Verificação Externa de Contas, de Verificação Interna de Contas, de Acompanhamento da Execução Orçamental, de Apuramento de Responsabilidades, OAC
+
+**Tipo de documento:** Relatório de Acompanhamento
+
+**Relator:** Manuel Henrique de Freitas Pereira
+
+**Entidades:** Instituto de Informática - Ministério das Finanças; Instituto de Gestão Financeira da Segurança Social, I. P.; Marconi SGPS, Comunicações, Lda.; Instituto da Segurança Social, I. P.; Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P.
+
+**Descritores:** CONTROLO EXTERNO; CONTROLO INTERNO; EXECUÇÃO ORÇAMENTAL; PENSÕES; SEGURANÇA SOCIAL; SISTEMA DE INFORMAÇÃO FINANCEIRA
+
+**Registo oficial:** https://tcjure.tcontas.pt/GetDocument.aspx?numero=113500
+
+## Sumário
+
+SÍNTESE CONCLUSIVA
+O presente relatório, respeitante à execução orçamental do período entre Janeiro a Setembro de 2008, enquadra-se nas competências constitucionais e legais do Tribunal de Contas (TC) em matéria de fiscalização orçamental.
+As insuficiências reveladas pelo SIF que vêm impossibilitando um adequado acompanhamento da execução do OSS, conduziu o TC, ao longo dos últimos trimestres, à realização de diversas acções junto de diferentes Instituições de Segurança Social com o objectivo de conhecer os procedimentos inerentes ao registo dos valores da execução orçamental naquele sistema informático e apreciar e identificar as restrições relativas à fiabilidade da informação financeira aí constante. Estes trabalhos têm vindo a facultar um conjunto de informação indispensável para, por um lado, percepcionar os procedimentos inerentes ao registo dos valores da execução orçamental no SIF e identificar as práticas, os processos, os controlos e os responsáveis pela produção dessa informação financeira e, por outro, efectuar o levantamento dos constrangimentos e das soluções que têm vindo a ser adoptadas para a resolução dos problemas que ainda condicionam a realização, directamente através daquele sistema informático, do acompanhamento e controlo, interno e externo, da execução do OSS.
+Assim, resulta do acompanhamento feito pelo TC que se têm registado melhorias significativas no que respeita à tempestividade dos dados financeiros constantes do SIF, designadamente, no que concerne ao registo contabilístico das “Prestações”. Mantêm-se, contudo, os condicionalismos resultantes dos procedimentos extra-SIF necessários ao apuramento das receitas de “Contribuições e Quotizações” e da não integralidade da informação financeira disponibilizada naquele sistema, uma vez que, quer o IGFCSS, quer a Caixa de Previdência do Pessoal da Companhia Portuguesa Rádio Marconi (CPPCPRM), permanecem fora dele, amputando-o de parte do universo consolidante.
+Tendo sido abordadas, em anteriores relatórios, as questões relativas às “Prestações” e às “Contribuições e Quotizações”, o trabalho desenvolvido em sede de validação da informação financeira do 3.º trimestre de 2008 constante do SIF, direccionou-se, agora, por um lado, para a identificação das razões que explicam a não utilização do SIF por aqueles dois organismos e, por outro, para a percepção das diligências em curso que venham a garantir a resolução deste problema. O resultado deste trabalho encontra-se vertido no Anexo II deste relatório, tendo sido comprovado, mais uma vez, o recurso a procedimentos extra contabilísticos para apuramento da execução do OSS, o que obsta a que os dados possam ser validados pelo TC, mantendo-se, portanto, uma posição de reserva sobre os mesmos.
+Tendo em atenção estas restrições, os dados financeiros disponibilizados mostram que, no final do 3.º trimestre de 2008, se apurou um Saldo de Execução Efectiva Global do SSS na ordem dos € 1.718,6 milhões (com as receitas efectivas a superarem em cerca de 12,0% as despesas efectivas), o que traduz um crescimento de 56,5% face aos € 1.098,0 milhões obtidos em igual período de 2007. Este aumento no Saldo resulta de uma dinâmica de crescimento mais acentuada das Receitas Efectivas (7,0%) face ao crescimento das Despesas Efectivas (3,1%).
+Da decomposição do Saldo de Execução Efectiva pelos vários componentes do SSS constata-se que o Sistema Previdencial apresenta um saldo positivo de, aproximadamente, € 1.398,7 milhões (a componente de Repartição contribui com cerca de € 813,0 milhões e a de Capitalização com sensivelmente € 585,7 milhões), enquanto no Sistema de Protecção Social de Cidadania se apurou um saldo de cerca de € 319,9 milhões, sendo que € 326,8 milhões são provenientes do Subsistema de Solidariedade e € 137,6 milhões do Subsistema de Acção Social, enquanto o Subsistema de Protecção Familiar apresentou um saldo negativo de € 144,5 milhões.
+As receitas do SSS provenientes de Transferências Correntes do OE e as obtidas por conta do IVA Social, consideradas em conjunto, cresceram 6,6% em 2008, 0,9 pontos percentuais acima do crescimento verificado em 2007, enquanto as receitas de Contribuições e Quotizações cresceram 6,3%, três décimas percentuais acima do verificado no ano anterior. Finalmente, as despesas com Pensões aumentaram 6,0%, reflectindo um crescimento ligeiramente mais moderado que o verificado em igual período do ano anterior quando se registou um crescimento destas prestações na ordem dos 6,2%.
+Salienta-se, por último, que, à semelhança do efectuado no último RAEOSS publicado, apresenta-se no Anexo III deste documento uma exposição sumária sobre a evolução do FEFSS até ao final do terceiro trimestre de 2008, verificando-se que o valor da sua carteira atinge cerca de € 8.257,7 milhões, o que representa mais € 305,4 milhões relativamente ao registado no final do trimestre anterior.
