@@ -1,0 +1,63 @@
+Portaria n.º 469/2009
+de 6 de Maio
+A Lei n.º 32/2008, de 17 de Julho, procedeu à transposição para a ordem jurídica interna da Directiva n.º 2006/24/CE, do Parlamento Europeu e do Conselho, de 15 de Março de 2006, relativa à conservação de dados gerados ou tratados no contexto da oferta de serviços de comunicações electrónicas publicamente disponíveis ou de redes públicas de comunicações.
+No quadro da regulamentação imposta por aquela directiva, a Lei n.º 32/2008, de 17 de Julho, veio criar a obrigação de os fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações conservarem certos dados de comunicação especificamente definidos, para que possam ser acedidos pelas autoridades competentes, exclusivamente para fins de investigação, detecção e repressão de crimes graves.
+Reconhecendo a sensibilidade dos valores em presença e da conservação dos dados em causa, a Lei n.º 32/2008, de 17 de Julho, adoptou especiais restrições, cautelas e medidas de segurança em sede de acesso e tratamento dos dados e de supervisão e fiscalização do cumprimento das obrigações legalmente previstas, de que cabe destacar as seguintes: a inclusão de um elenco taxativo de tipos de crime que integram o conceito de «crime grave»; a proibição expressa da conservação de dados que revelem o conteúdo das comunicações; a previsão de que o acesso aos dados apenas pode ser solicitado pelo Ministério Público ou pela autoridades de polícia criminal competentes e depende sempre da decisão do juiz; a fixação em um ano do período de conservação de dados; a consagração da obrigatoriedade de autorização e registo junto da Comissão Nacional de Protecção de Dados (CNPD) das pessoas que, no âmbito dos fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações, devam desempenhar tarefas associadas ao cumprimento das obrigações previstas na lei.
+No que especificamente respeita à transmissão dos dados legalmente previstos, o n.º 3 do artigo 7.º da Lei n.º 32/2008, de 17 de Julho, determina que a mesma se processe mediante comunicação electrónica, nos termos das condições técnicas e de segurança fixadas em portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna, da justiça e das telecomunicações, que devem observar um grau de protecção e codificação o mais elevado possível, de acordo com o estado da técnica ao momento da transmissão, incluindo métodos de codificação, encriptação ou outros adequados.
+Em cumprimento dessa determinação legal, a presente portaria vem concretizar medidas importantes, tendo em vista a fixação das condições técnicas e de segurança da comunicação electrónica dos dados de tráfego e de localização relativos a pessoas singulares e a pessoas colectivas, bem como dos dados conexos necessários para identificar o assinante ou o utilizador registado, previstos na Lei n.º 32/2008, de 17 de Julho.
+Assim, em primeiro lugar, prevê-se que a comunicação electrónica se processe tendo por base uma aplicação informática específica, através da qual o juiz procede ao envio do pedido de dados e os fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações notificam da transferência do ficheiro correspondente ao resultado da pesquisa.
+Em segundo lugar, fica expressamente estabelecida a obrigatoriedade de aposição de assinatura electrónica, seja no despacho fundamentado do juiz que ordena ou autoriza a transmissão de dados - estendendo-se a este domínio a regra prevista no n.º 1 do artigo 17.º da Portaria n.º 114/2008, de 6 de Fevereiro - , seja no ficheiro de resposta ao pedido de dados, enviado pelos fornecedores.
+Em terceiro lugar, determina-se a encriptação de todas as comunicações electrónicas efectuadas ao abrigo da presente portaria, bem como do ficheiro de resposta ao pedido de dados enviado pelos fornecedores, conferindo assim as máximas garantias neste domínio.
+Em quarto lugar, estabelece-se a obrigatoriedade de proceder ao registo electrónico dos pedidos de dados enviados, com indicação de quem procedeu ao envio e da data e hora em que o mesmo ocorreu, bem como dos acessos a ficheiros de resposta, igualmente com indicação de quem os efectuou e da data e hora de cada acesso.
+Finalmente, prevê-se a realização de auditorias de segurança à aplicação informática, consagrando expressamente na portaria uma boa prática já observada no âmbito dos sistemas informáticos do sistema judicial.
+A presente portaria vem ainda dar ao juiz a possibilidade de utilizar a plataforma tecnológica criada para enviar pedidos de dados relativos a crimes para os quais não seja possível ordenar ou autorizar a transmissão dos dados conservados ao abrigo da Lei n.º 32/2008, de 17 de Julho.
+Deste modo, garante-se que o juiz tem a possibilidade de enviar os pedidos de dados aos fornecedores com as mesmas condições de segurança e de forma sempre electrónica, independentemente do tipo de crimes a que tais dados respeitem.
+Assim:
+Ao abrigo do disposto no n.º 3 do artigo 7.º da Lei n.º 32/2008, de 17 de Julho, no n.º 3 do artigo 94.º do Código de Processo Penal e no n.º 3 do artigo 176.º do Código de Processo Civil:
+Manda o Governo, pelo Ministro da Administração Interna, da Justiça e das Obras Públicas, Transportes e Comunicações, o seguinte:
+Artigo 1.º
+Objecto
+A presente portaria estabelece os termos das condições técnicas e de segurança em que se processa a comunicação electrónica para efeitos da transmissão de dados de tráfego e de localização relativos a pessoas singulares e a pessoas colectivas, bem como dos dados conexos necessários para identificar o assinante ou o utilizador registado, nos termos previstos na Lei n.º 32/2008, de 17 de Julho.
+Artigo 2.º
+Pedido de dados
+1 - O juiz que tenha ordenado ou autorizado a transmissão de dados nos termos previstos no artigo 9.º da Lei n.º 32/2008, de 17 de Julho, procede ao pedido dos mesmos através da aplicação informática especificamente disponibilizada para o efeito («a aplicação informática»).
+2 - O pedido de dados é efectuado através do preenchimento do formulário electrónico disponibilizado na aplicação informática, ao qual se anexa o despacho fundamentado do juiz que ordena ou autoriza a transmissão de dados.
+3 - O pedido de dados é constituído:
+a) Pelo despacho fundamentado do juiz que ordena ou autoriza a transmissão de dados, elaborado em formato portable document format (pdf) ou em ficheiro de texto e com aposição de assinatura electrónica, nos termos do disposto no n.º 1 do artigo 17.º da Portaria n.º 114/2008, de 6 de Fevereiro; e
+b) Pelo formulário electrónico, preenchido de acordo com o conteúdo do despacho referido na alínea anterior.
+Artigo 3.º
+Resposta dos fornecedores ao pedido de dados
+1 - Após recepção de um pedido de dados, o fornecedor de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações («o fornecedor») procede imediatamente à pesquisa dos mesmos, de acordo com a ordem cronológica de recepção do pedido ou o grau de urgência determinado no despacho fundamentado do juiz.
+2 - Logo que a pesquisa de dados esteja concluída, o fornecedor:
+a) Transfere o ficheiro correspondente ao resultado da pesquisa, através de ligação segura, encriptada e com autenticação mediante nome de utilizador e palavra-passe; e
+b) Envia notificação da transferência do ficheiro de resposta através da aplicação informática, indicando o nome do ficheiro transferido.
+3 - Os ficheiros de resposta obedecem aos seguintes requisitos técnicos:
+a) São elaborados em formato portable document format (pdf);
+b) É-lhes aposta assinatura electrónica;
+c) São encriptados mediante chaves assimétricas, disponibilizadas através de certificados digitais.
+4 - O fornecedor solicita, através da aplicação informática, que o pedido de dados seja rectificado ou completado quando:
+a) Se verifique uma divergência entre o despacho fundamentado do juiz e o preenchimento do formulário electrónico;
+b) Falte algum dos elementos referidos no n.º 3 do artigo 2.º
+Artigo 4.º
+Notificação da recepção do ficheiro de resposta
+1 - O fornecedor é notificado, pela aplicação informática, da recepção e armazenamento com sucesso do ficheiro de resposta enviado.
+2 - Após recepção da notificação referida no número anterior, o fornecedor pode eliminar a cópia do ficheiro em causa do seu sistema, sem prejuízo da obrigação de conservação dos dados nos termos previstos na Lei n.º 32/2008, de 17 de Julho.
+Artigo 5.º
+Segurança da informação
+1 - Tendo em vista a segurança dos dados objecto da comunicação electrónica referida no artigo 1.º, são adoptadas as seguintes medidas:
+a) Encriptação de todas as comunicações electrónicas efectuadas ao abrigo da presente portaria;
+b) Encriptação do ficheiro de resposta, nos termos previstos na alínea c) do n.º 4 do artigo 3.º, a qual assegura que a visualização, em suporte electrónico, dos dados constantes desse ficheiro, se efectua apenas através da aplicação informática;
+c) Aposição de assinatura electrónica ao despacho fundamentado do juiz e ao ficheiro de resposta do fornecedor, nos termos previstos na alínea a) do n.º 3 do artigo 2.º e na alínea b) do n.º 4 do artigo 3.º, com vista a assegurar a integridade desses ficheiros;
+d) Registo electrónico dos pedidos de dados enviados, com indicação de quem procedeu ao envio e da data e hora em que o mesmo ocorreu;
+e) Registo electrónico dos acessos a ficheiros de resposta, com indicação de quem os efectuou e da data e hora de cada acesso;
+f) Armazenamento dos ficheiros de resposta em repositórios separados para cada fornecedor, os quais apresentam os mecanismos de segurança necessários para evitar a interconexão dos dados;
+g) Auditorias de segurança à aplicação informática;
+h) As demais medidas previstas na Lei n.º 67/98, de 26 de Outubro, e na Lei n.º 32/2008, de 17 de Julho.
+2 - O acesso à aplicação informática efectua-se mediante introdução, pelo juiz, do respectivo nome de utilizador e palavra-passe.
+Artigo 6.º
+Envio electrónico de outros pedidos
+Quando o juiz recorrer à aplicação informática para a realização, nos termos legalmente previstos, de um pedido de dados relativo a crime para o qual não seja possível ordenar ou autorizar a transmissão dos dados conservados ao abrigo da Lei n.º 32/2008, de 17 de Julho, aplica-se ao envio desse pedido o disposto no artigo 2.º da presente portaria, com as devidas adaptações.
+Artigo 7.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Ministro da Administração Interna, Rui Carlos Pereira, em 28 de Abril de 2009. - O Ministro da Justiça, Alberto Bernardes Costa, em 27 de Abril de 2009. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 23 de Abril de 2009.
