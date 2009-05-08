@@ -1,0 +1,5 @@
+Aviso n.º 17/2009
+Por ordem superior se torna público que foram emitidas notas pelo Ministério dos Negócios Estrangeiros português e pela Embaixada do Grão-Ducado do Luxemburgo em Lisboa, respectivamente em 8 de Outubro de 2008 e em 2 de Abril de 2009, tendo a última notificação escrita sido recebida pelo Ministério dos Negócios Estrangeiros português em 8 de Abril de 2009, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e o Grão-Ducado do Luxemburgo Relativo à Troca e à Protecção Mútua de Informação Classificada, assinado no Luxemburgo em 22 de Fevereiro de 2008.
+Portugal é Parte neste Acordo, aprovado pelo Governo pelo Decreto n.º 32/2008, publicado no Diário da República, 1.ª série, n.º 193, de 6 de Outubro de 2008.
+Nos termos do artigo 17.º, o Acordo entra em vigor em 8 de Maio de 2009, 30.º dia após a recepção da última notificação escrita informando que foram cumpridos todos os procedimentos internos necessários para esse efeito.
+Direcção-Geral dos Assuntos Europeus, 30 de Abril de 2009. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
