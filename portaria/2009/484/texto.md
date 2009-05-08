@@ -1,0 +1,11 @@
+Portaria n.º 484/2009
+de 8 de Maio
+Pela Portaria n.º 1044/2008, de 15 de Setembro, foi renovada a zona de caça municipal de Monforte 5 (processo n.º 2833-AFN), situada no município de Monforte e cuja entidade titular é a Associação de Caçadores do Concelho de Monforte.
+Vieram entretanto vários proprietários de terrenos incluídos na zona de caça acima referida requerer a sua exclusão e, simultaneamente, o Clube de Caça e Tiro de Veiros, veio requerer a concessão de uma zona de caça associativa nalguns dos terrenos objecto da exclusão acima referida.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção e com fundamento no n.º 1 do artigo 28.º, em conjugação com o estipulado no n.º 1 do artigo 167.º e ainda na alínea a) do artigo 40.º, todos do diploma acima identificado, e após audição do Conselho Cinegético Municipal de Monforte no que respeita à concessão da zona de caça associativa, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º São excluídos da zona de caça municipal Monforte 5 (processo n.º 2833-AFN), vários prédios rústicos sitos na freguesia de Santo Aleixo, município de Monforte, com a área de 227 ha, ficando a mesma com a área de 512 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º É concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caça e Tiro de Veiros, com o número de identificação fiscal 502121521 e sede social na Zona Industrial, lote 17, 7100 Veiros, a zona de caça associativa da Herdade da Giralda e outras (processo n.º 5198-AFN), englobando vários prédios rústicos, sitos na freguesia de Santo Aleixo, município de Monforte, com a área de 193 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 30 de Abril de 2009.
+(ver documento original)
