@@ -1,0 +1,12 @@
+Portaria n.º 492/2009
+de 8 de Maio
+Pela Portaria n.º 110/2008, de 5 de Fevereiro, foi renovada a zona de caça municipal da Junta de Freguesia do Campo (processo n.º 2674-AFN), situada no município de Reguengos de Monsaraz, e cuja entidade titular é a Junta de Freguesia de Campo.
+Pela Portaria n.º 1219/2008, de 23 de Outubro, foram excluídos da referida zona de caça vários prédios rústicos, tendo a mesma ficado com a área total de 1960 ha.
+Veio entretanto o proprietário de um terreno incluído na zona de caça em causa requerer a sua exclusão e, simultaneamente, o Clube de Caça e Pesca do Monte da Serra requerer a concessão de uma zona de caça associativa que engloba a área agora excluída.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção, e com fundamento no n.º 1 do artigo 28.º, em conjugação com o estipulado no n.º 1 do artigo 167.º, no artigo 11.º e na alínea a) do artigo 40.º, todos do diploma acima identificado, e após audição do Conselho Cinegético Municipal de Reguengos de Monsaraz, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É excluído da zona de caça municipal da Junta de Freguesia do Campo (processo n.º 2674-AFN) um prédio rústico sito na freguesia de Campo, município de Reguengos de Monsaraz, com a área de 361 ha, ficando a mesma com a área de 1599 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caça e Pesca do Monte da Serra, com o número de identificação fiscal 507958586 e sede na Rua Nova, 116, São Marcos do Campo, 7200-072 Reguengos de Monsaraz, a zona de caça associativa da Herdade das Tabolinas (processo n.º 5224-AFN), englobando o prédio rústico denominado Herdade das Tabolinas, sito na freguesia de Campo, município de Reguengos de Monsaraz, com a área de 361 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 4 de Maio de 2009.
+(ver documento original)
