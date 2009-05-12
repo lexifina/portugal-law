@@ -1,5 +1,7 @@
 # TABELA II-A
 
+1-benzilpiperazina (1-benzil-1,4-diazacilohexano, N-benzilpiperazina ou, de forma menos precisa, benzilpiperazina ou BZP).
+
 Bufotenina - 5-hidroxi-N-N-dimetiltripptamina.
 
 Catinona - (-)-(alfa)-aminopropiofenona.

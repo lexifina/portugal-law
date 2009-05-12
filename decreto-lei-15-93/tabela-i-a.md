@@ -184,6 +184,8 @@ Norpipanona - 4,4-difenil-6-peperidino-3-hexanona.
 
 Ópio - mistura de alcalóides sob a forma de cloridratos e brometos.
 
+oripavina (3-O-desmetiltebaína, o 6,7,8,14-tetradeshidro-4,5-(alfa)-epoxi-6-metoxi-17-metilmorfinan-3-ol).
+
 Oxicodona - 3-metoxi-4,5-epoxi-6-oxo-14-hidroxi-17-metilmorfinano; 14-hidroxidiidrocodeínona.
 
 Oximorfona - 3,14-diidroxi-4,5-epoxi-6-oxo-17-metilmorfinano; 14-hidroxidiidromorfinona.
