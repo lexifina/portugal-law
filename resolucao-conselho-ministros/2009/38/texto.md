@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 38/2009
+Na sequência da trágica queda da ponte que ligava as margens do rio Douro em Entre os Rios e Castelo de Paiva, ocorrida no início de Março de 2001, e da qual resultou um elevado número de vítimas, o Estado assumiu a responsabilidade de indemnizar os respectivos familiares.
+Nesse sentido, foi elaborado um plano de acção que permitiu ao Estado facultar a esses familiares um procedimento extrajudicial célere e alternativo para obtenção das indemnizações pelas perdas e prejuízos verificados.
+Este procedimento de determinação das indemnizações aos herdeiros das vítimas da queda da ponte sobre o rio Douro em Entre os Rios e Castelo de Paiva foi estabelecido pela Resolução de Conselho de Ministros n.º 29-A/2001, de 9 de Março, e contou com a colaboração do Provedor de Justiça e da Ordem dos Advogados.
+Sucede, no entanto, que, quer no momento da decisão que culminou na referida resolução do Conselho de Ministros quer no momento da determinação, pela comissão especialmente criada para o efeito, dos montantes indemnizatórios a pagar pelo Estado, não era ainda possível prever alguns dos prejuízos que os herdeiros das vítimas viriam a ter.
+Por este motivo, torna-se necessário complementar o regime previsto na Resolução de Conselho de Ministros n.º 29-A/2001, de 9 de Março, prevendo que ao valor já atribuído aos herdeiros das vítimas seja acrescido valor equivalente àquele que os referidos herdeiros tiveram com custas judiciais em processos directamente resultantes da queda da ponte sobre o rio Douro em Entre os Rios e Castelo de Paiva.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Em virtude da responsabilidade assumida pelo Estado ao abrigo da Resolução de Conselho de Ministros n.º 29-A/2001, de 9 de Março, as indemnizações pagas aos herdeiros das vítimas da queda da ponte sobre rio Douro, em Entre os Rios e Castelo de Paiva, devem ser acrescidas de compensação no valor das despesas tidas com custas judiciais suportadas em processos directamente resultantes do referido sinistro.
+2 - A presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 23 de Abril de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
