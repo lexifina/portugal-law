@@ -1,0 +1,8 @@
+Aviso n.º 9601/2009
+Plano de Pormenor da Rua Adelino Amaro da Costa. - Dr. Manuel Castro Almeida, Presidente da Câmara Municipal de S. João da Madeira, torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 74.º e n.º 2 do artigo 77.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro e, em cumprimento do disposto na alínea b) do n.º 4 do artigo 148.º do citado diploma, que esta Câmara Municipal, em sua reunião ordinária de 05 de Maio de 2009, deliberou mandar elaborar o Plano de Pormenor da rua Adelino Amaro da Costa, para o que estabeleceu:
+- Um prazo de cinco meses para a sua elaboração;
+- Dispensar este procedimento da avaliação ambiental nos termos do disposto no Decreto-Lei n.º 232/2007, de 15 de Junho;
+- Dar início ao período de participação previsto no n.º 2 do artigo 77.º do mesmo Decreto-Lei, pelo prazo de 20 dias a contar do 5.º dia seguinte ao da publicação na 2.ª série do Diário da República, para recolha de sugestões, bem como para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+Os interessados deverão apresentar, por escrito, todas as observações ou sugestões que especificamente se relacionem com o Plano de Pormenor em apreço, devendo ser dirigidas ao Presidente da Câmara Municipal e remetidas por correio ou endereço electrónico para geral@cm-sjm.pt ou entregues no local acima indicado durante o período de participação pública, devendo neste constar a identificação e o endereço dos seus autores e a qualidade em que se apresentam.
+7 de Maio de 2009. - O Presidente da Câmara, Manuel Castro de Almeida.
+201766151
