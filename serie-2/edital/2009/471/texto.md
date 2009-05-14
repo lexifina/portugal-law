@@ -1,0 +1,53 @@
+Edital n.º 471/2009
+José Carlos Costa Barros, Vice-Presidente da Câmara Municipal de Vila Real de Santo António:
+Torna público que, por deliberação da Câmara Municipal tomada em reunião ordinária de 21 de Abril de 2009, e posterior deliberação da Assembleia Municipal tomada em reunião ordinária de 30 de Abril de 2009, e nos termos do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Dezembro e na sua actual redacção, durante o período de 30 dias, a contar da data da publicação do presente edital no Diário da República, é submetido a inquérito público o Projecto de Alteração ao Regulamento Orgânico da Câmara Municipal de Vila Real de Santo António, nos termos abaixo indicados, durante o qual poderá ser consultado na secretaria desta Câmara Municipal, durante as horas normais de expediente, e sobre ele serem formuladas, por escrito, as observações tidas por conveniente, dirigidas ao Presidente da Câmara Municipal de Vila Real de Santo António.
+O inquérito público consiste na recolha de observações ou sugestões que os interessados queiram formular sobre o conteúdo daquele aditamento ao Regulamento.
+Projecto de alteração ao Regulamento Orgânico da Câmara Municipal de Vila Real de Santo António
+Aditamento ao Regulamento Orgânico da Câmara Municipal de Vila Real de Santo António do artigo 15.º-A, com a seguinte redacção:
+"Artigo 15.º-A
+1 - O Serviço Municipal de Protecção Civil é constituído pelos seguintes gabinetes técnicos:
+a) Gabinete de Informação Pública;
+b) Gabinete de Prevenção e Segurança;
+c) Gabinete de Planeamento e Operações;
+d) Gabinete de Apoio Administrativo;
+e) Núcleo de Vigilância e Protecção Civil.
+2- Compete ao Gabinete de Informação Pública:
+a) Assegurar a pesquisa, análise, selecção e difusão da documentação com importância para a protecção civil;
+b) Divulgar a missão e estrutura do SMPC;
+c) Recolher a informação pública emanada das comissões e gabinetes que integram o SMPC destinada à divulgação pública relativa a medidas preventivas ou situações de catástrofe;
+d) Promover e incentivar acções de divulgação sobre protecção civil junto dos munícipes com vista à adopção de medidas de autoprotecção;
+e) Indicar, na iminência de acidentes graves ou catástrofes, as orientações, medidas preventivas e procedimentos a ter pela população para fazer face à situação;
+f) Dar seguimento a outros procedimentos, por determinação do presidente da câmara municipal ou vereador com competências delegadas.
+3 - Compete ao Gabinete de Prevenção e Segurança:
+a) Propor medidas de segurança face aos riscos inventariados;
+b) Colaborar na elaboração e execução de treinos e simulacros;
+c) Elaborar projectos de regulamentação de prevenção e segurança;
+d) Realizar acções de sensibilização para questões de segurança, preparando e organizando as populações face aos riscos e cenários previsíveis;
+e) Promover campanhas de informação sobre medidas preventivas, dirigidas a segmentos específicos da população alvo, ou sobre riscos específicos em cenários prováveis previamente definidos;
+f) Fomentar o voluntariado em protecção civil;
+g) Estudar as questões de que vier a ser incumbido, propondo as soluções que entenda mais adequadas.
+4 - Compete ao Gabinete de Planeamento e Operações:
+a) Acompanhar a elaboração e actualizar o plano municipal de emergência e os planos especiais, quando estes existam;
+b) Assegurar a funcionalidade e a eficácia da estrutura do SMPC;
+c) Inventariar e actualizar permanentemente os registos dos meios e dos recursos existentes no concelho, com interesse para o SMPC;
+d) Realizar estudos técnicos com vista à identificação, análise e consequências dos riscos naturais, tecnológicos e sociais que possam afectar o município, em função da magnitude estimada e do local previsível da sua ocorrência, promovendo a sua cartografia, de modo a prevenir, quando possível, a sua manifestação e a avaliar e minimizar os efeitos das suas consequências previsíveis;
+e) Manter informação actualizada sobre acidentes graves e catástrofes ocorridas no município, bem como sobre elementos relativos às condições de ocorrência, às medidas adoptadas para fazer face às respectivas consequências e às conclusões sobre o êxito ou insucesso das acções empreendidas em cada caso;
+f) Planear o apoio logístico a prestar às vítimas e às forças de socorro em situação de emergência;
+g) Levantar, organizar e gerir os centros de alojamento a accionar em situação de emergência;
+h) Elaborar planos prévios de intervenção e preparar e propor a execução de exercícios e simulacros que contribuam para uma actuação eficaz de todas as entidades intervenientes nas acções de protecção civil;
+i) Estudar as questões de que vier a ser incumbido, propondo as soluções que considere mais adequadas.
+5 - Compete ao Gabinete de Apoio Administrativo:
+a) Assegurar o apoio administrativo a toda a estrutura do SMPC;
+b) Executar as tarefas inerentes à recepção, classificação e organização do arquivo dos documentos enviados ao SMPC;
+c) Assegurar uma adequada circulação de documentos pelos diversos serviços e entidades envolvidas, diligenciando, em tempo, a divulgação das normas e orientações definidas;
+d)Promover a aquisição de equipamentos e materiais necessários ao funcionamento eficaz do SMPC procedendo à sua distribuição, garantindo a sua correcta manutenção e controlo;
+e) Organizar e manter actualizado o inventário de bens móveis, de acordo com as regras definidas;
+f) Assegurar o funcionamento das comunicações rádio / telefónicas do Serviço Municipal de Protecção Civil;
+g) Executar outras atribuições que lhe sejam superiormente cometidas em matéria administrativa.
+6 - Compete ao Núcleo de Vigilância e Protecção Civil:
+a) Proceder a acções de prevenção, patrulhamento e vigilância permanentes em zonas sensíveis ou de risco na área territorial do Município de Vila Real de Santo António;
+b) Apoiar os Gabinetes de Informação Pública, de Prevenção e Segurança e de Planeamento e Operações no exercício das suas competências próprias;
+c) Dar apoio logístico e de prevenção na realização de grandes eventos ou actividades que por si só possam representar risco para os participantes e população em geral;
+d) Executar outras atribuições que lhe sejam superiormente cometidas em matéria de vigilância e protecção civil."
+6 de Maio de 2009. - O Vice-Presidente da Câmara, José Carlos Costa Barros.
+201766557
