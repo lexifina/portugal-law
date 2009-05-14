@@ -1,0 +1,6 @@
+Edital n.º 474/2009
+Maria Irene da Conceição Barata Joaquim, presidente da Câmara Municipal de Vila de Rei:
+Torna público, no uso da competência que lhe confere a alínea v) do número 1 do artigo 68.º, conjugado com o artigo 91.º, ambos da Lei número 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei número 5-A/2002, de 11 de Janeiro, que a Câmara Municipal de Vila de Rei, na reunião camarária, realizada a 1 de Fevereiro de 2008, deliberou submeter a apreciação pública uma proposta de "Projecto de Regulamento de Atribuição e Gestão de Habitação Social do Conjunto dos 36 Fogos, em Vila de Rei", em cumprimento do número 1 do artigo 118.º do Código do Procedimento Administrativo (Decreto-Lei número 6/96, de 31 de Janeiro).
+Assim, durante o período de 30 dias, a contar da data da publicação do presente edital, no Diário da República, poderá a Proposta de Projecto de Regulamento, ser consultada no Edifício dos Paços do Concelho, na Divisão Financeira e Patrimonial, sobre a qual os interessados devem dirigir por escrito as suas sugestões à Presidente da Câmara Municipal de Vila de Rei, nos termos do número 2 do artigo 118.º do Decreto-Lei número 6/96 de 31 de Janeiro.
+5 de Maio de 2009. - A Presidente da Câmara, Maria Irene da Conceição Barata Joaquim.
+301757339
