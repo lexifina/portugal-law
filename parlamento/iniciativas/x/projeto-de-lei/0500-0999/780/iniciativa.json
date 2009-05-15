@@ -1,0 +1,113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "tipo": "Projeto de Lei",
+  "numero": "780",
+  "id": "34550",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2009-05-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2009-10-14",
+    "DataInicioleg": "2008-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "1270",
+        "nome": "Jorge Strecht"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2095",
+        "nome": "Maria José Gamboa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2734",
+        "nome": "Esmeralda Salero Ramires"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2148",
+        "nome": "Teresa Moraes Sarmento"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2052",
+        "nome": "Costa Amorim"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2055",
+        "nome": "João Bernardo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2213",
+        "nome": "Isabel Coutinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2212",
+        "nome": "Miguel Laranjeiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1684",
+        "nome": "Maria de Lurdes Ruivo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1028",
+        "nome": "Sónia Fertuzinhos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2178",
+        "nome": "Maria Helena Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "195",
+        "nome": "Leonor Coutinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2103",
+        "nome": "Isabel Santos"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "34550",
+    "IniLeg": "X",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a6b314d6d56684d32497a4c54686959546b744e4442694f4331694f5455324c5463334d7a59324d4755774e4451324d53356b62324d3d&fich=952ea3b3-8ba9-40b8-b956-773660e04461.doc&Inline=true",
+    "IniNr": "780",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Estabelece o regime jurídico do trabalho no domicílio.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
