@@ -1,0 +1,5 @@
+Aviso n.º 18/2009
+Por ordem superior se torna público que, em 7 de Maio de 2007 e em 14 de Abril de 2009, foram emitidas notas, respectivamente, pelo Ministério das Relações Exteriores da República do Chile e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, em que se comunica terem sido cumpridas as respectivas formalidades internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República do Chile nas Áreas da Educação, Ciência e Ensino Superior, Cultura, Juventude, Desporto e Comunicação Social, assinado em Lisboa em 2 de Março de 2007.
+Por parte de Portugal o Acordo foi aprovado pelo Decreto n.º 11/2009, de 9 de Abril, publicado no Diário da República, 1.ª série, n.º 70, da mesma data.
+Nos termos do seu artigo 15.º, este Acordo entrará em vigor 60 dias após a data da recepção da última notificação, por via diplomática, de que foram cumpridos todos os requisitos de direito interno das Partes necessários para o efeito, ou seja, dia 15 de Junho de 2009.
+Direcção-Geral de Política Externa, 6 de Maio de 2009. - O Director-Geral, Nuno Filipe Alves Salvador e Brito.
