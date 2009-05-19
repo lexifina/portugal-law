@@ -1,0 +1,6 @@
+Aviso (extracto) n.º 9780/2009
+Manuel Luís da Rosa Narra, Presidente da Câmara Municipal de Vidigueira, torna público que, a Câmara Municipal deliberou submeter a discussão pública, durante o prazo de 30 dias, contados da publicação do presente aviso no Diário da República, a proposta de alteração à "Postura sobre animais domésticos de produção, animais de capoeira, gado bravo e cães de raças potencialmente perigosas e cães perigosos no concelho de Vidigueira", em cumprimento do artigo n.º 118.º do Código do Procedimento Administrativo, que têm a ver com uma reordenação dos capítulos e secções por temas, bem como um reajustamento da previsão das coimas a aplicar aos respectivos artigos cuja violação se venha verificar.
+Durante o referido período a Postura poderá ser consultado na Câmara Municipal de Vidigueira e Juntas de Freguesia do Concelho, durante as horas de expediente, bem como no sitio da Internet em www.cm-vidigueira.pt.
+Mais se faz saber que os interessados deverão apresentar as suas observações e ou sugestões, presencialmente ou pelo correio, na Câmara Municipal de Vidigueira - Praça da República - 7960-225 Vidigueira, todos os dias úteis das 9 às 17H30', através do fax 284436110 ou por correio electrónico para o endereço geral@cm-vidigueira.pt.
+8 de Maio de 2009. - O Presidente da Câmara, Manuel Luís da Rosa Narra.
+301772048
