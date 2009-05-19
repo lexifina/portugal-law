@@ -1,0 +1,5 @@
+Aviso n.º 9/2009
+Por ordem superior se torna público que o secretário-geral do Conselho da União Europeia notificou pela nota n.º 2989, de 4 de Março de 2009, ter a República Italiana depositado, em 18 de Fevereiro de 2009, o instrumento de ratificação do Segundo Protocolo, estabelecido com base no artigo K.3 do Tratado da União Europeia, da Convenção Relativa à Protecção dos Interesses Financeiros das Comunidades Europeias, assinado em Bruxelas em 19 de Junho de 1997.
+Portugal é Parte neste Protocolo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 86/2000 e ratificado pelo Decreto do Presidente da República n.º 82/2000, publicados no Diário da República, 1.ª série, n.º 288, de 15 de Dezembro de 2000.
+Nos termos do artigo 16.º, n.º 3, o Protocolo entra em vigor em 19 de Maio de 2009, 90.º dia após a conclusão dos procedimentos internos pelos Estados membros da União Europeia à data de adopção pelo Conselho do acto que estabelece o presente Protocolo.
+Direcção Geral dos Assuntos Europeus, 16 de Março de 2009. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
