@@ -2,24 +2,24 @@
 
 ### Distribuição do produto das coimas
 
-1 - Caso a coima seja paga directamente à empresa exploradora do serviço em questão, o produto da coima é distribuído da seguinte forma:
+1 - Caso a coima seja paga, nos termos do n.º 2 do artigo 12.º, o produto da mesma é distribuído da seguinte forma:
 
 a) 60% para o Estado;
 
-b) 20% para a EP - Estradas de Portugal, E. P. E.;
+b) 40 % para a entidade referida no artigo 11.º cujo agente de fiscalização tenha lavrado o auto de notícia;
 
-c) 20% para a empresa exploradora do serviço em questão.
+c) (Revogado.)
 
-2 - As concessionárias devem proceder à entrega trimestral nos cofres do Tesouro dos quantitativos que, das coimas cobradas, constituem receita do Estado.
+2 - Caso a coima paga se refira a contra-ordenação constante de auto de notícia enviado ao Instituto de Infra-Estruturas Rodoviárias, I. P., nos termos do n.º 8 do artigo 12.º, o produto da mesma é distribuído da seguinte forma:
 
-3 - Caso a coima seja paga após a instauração do processo contra-ordenacional pela Direcção-Geral de Viação, o produto da coima é distribuído da seguinte forma:
+a) 15 % para a entidade referida no artigo 11.º cujo agente de fiscalização tenha lavrado o auto de notícia;
 
-a) 20% para a empresa exploradora do serviço em questão;
+b) 25 % para o Instituto de Infra-Estruturas Rodoviárias, I. P.;
 
-b) 20 % para o Instituto de Infra-Estruturas Rodoviárias, I. P.;
+c) 20 % para a entidade que realizar a respectiva cobrança;
 
-c) 20% para a EP - Estradas de Portugal, E. P. E.;
+d) 40 % para o Estado.
 
-d) 40% para o Estado.
+3 - A entidade que realizar a cobrança das coimas referidas nos números anteriores deve entregar mensalmente, às entidades ali referidas, os quantitativos das coimas, as taxas de portagens e os custos administrativos que àquelas pertençam.
 
-4 - A Direcção-Geral de Viação deve proceder à entrega trimestral às concessionárias das importâncias relativas às taxas de portagem cobradas, bem como dos quantitativos que, das coimas cobradas no âmbito dos processos de contra-ordenação, nos termos da presente lei, àquelas pertencem.
+4 - (Revogado.)

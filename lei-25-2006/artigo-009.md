@@ -2,7 +2,7 @@
 
 ### Auto de notícia
 
-1 - Quando o agente de fiscalização, no exercício das suas funções, presenciar a prática das contra-ordenações previstas nos artigos 5.º e 6.º lavra auto de notícia, do qual deve constar:
+1 - Quando o agente de fiscalização, no exercício das suas funções, detectar a prática ou a ocorrência de contra-ordenações previstas nos artigos 5.º e 6.º lavra auto de notícia, do qual deve constar:
 
 a) A descrição dos factos constitutivos da infracção;
 
@@ -16,17 +16,17 @@ e) A indicação das disposições legais que prevêem a infracção e a respect
 
 f) O prazo concedido para a apresentação de defesa e o local onde esta deve ser entregue;
 
-g) A indicação da possibilidade de pagamento voluntário da coima pelo mínimo, bem como o prazo e o local para o efeito e as consequências do não pagamento;
+g) A indicação da possibilidade de realizar o pagamento voluntário da taxa de portagem devida, dos custos administrativos associados, e da coima liquidada nos termos do n.º 2 do artigo 12.º, bem como o prazo e o local para o efeito e as consequências do não pagamento nesse prazo;
 
 h) Sempre que possível, a identificação de testemunhas que possam depor sobre os factos;
 
-i) A assinatura do agente que o levantou e, quando possível, de testemunhas.
+i) A assinatura do agente que o levantou, que poderá ser efectuada por chancela, assinatura digitalizada ou outro meio de reprodução devidamente autorizado e, quando possível, de testemunhas.
 
-2 - O auto de notícia lavrado nos termos do número anterior faz fé sobre os factos presenciados pelo autuante até prova em contrário.
+2 - O auto de notícia lavrado nos termos do número anterior faz fé sobre os factos detectados pelo autuante até prova em contrário.
 
 3 - O disposto no número anterior aplica-se aos meios de prova obtidos através dos equipamentos referidos no artigo anterior.
 
-4 - O auto de notícia não deixa de ser lavrado ainda que o autuante repute a infracção como não punível, devendo, no entanto, fazer menção da circunstância.
+4 - (Revogado.)
 
 5 - O arguido é notificado da infracção que lhe é imputada e da sanção em que incorre no momento da autuação mediante a entrega do aviso de pagamento da coima.
 
