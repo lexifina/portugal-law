@@ -12,6 +12,4 @@ c) A existência de sistemas de pagamento, no âmbito da cobrança electrónica 
 
 d) Que é vedado qualquer emprego da identificação e detecção electrónica dos veículos para efectuar uma vigilância em tempo real ou a partir de registos sucessivos dos movimentos dos veículos.
 
-2 - Sem prejuízo do disposto no número anterior, em caso de infracção à Lei n.º 25/2006, de 30 de Junho, na sua redacção actual, e demais legislação rodoviária, as entidades com atribuições de fiscalização daquelas normas podem proceder ao relacionamento de dados nos termos da legislação aplicável.
-
-3 - A identificação ou detecção electrónica confina-se à zona de implantação das praças ou dos pórticos de portagens e destina-se exclusivamente ao pagamento electrónico de portagens em infra-estruturas rodoviárias, sem prejuízo do disposto no n.º 11 do artigo 17.º
+2 - Sem prejuízo do disposto no número anterior, em caso de infracção ao Código da Estrada, à Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, e demais legislação rodoviária, as entidades com atribuições de fiscalização daquelas normas podem proceder ao relacionamento de dados nos termos da legislação aplicável.

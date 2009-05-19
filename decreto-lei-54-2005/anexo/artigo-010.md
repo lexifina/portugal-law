@@ -1,12 +1,12 @@
 ## Capítulo II
 
-## Emissão de chapas de matrícula dos modelos constantes dos anexos iii, iv e v
+## Emissão de chapas de matrícula dos modelos constantes dos anexos III e IV
 
 # Artigo 10.º
 
 ### Manipuladores
 
-1 - A inscrição de números de matrícula em chapas de matrícula dos modelos constantes dos anexos iii, iv e v só pode ser efetuada por manipuladores que possuam uma autorização para o efeito, concedida pelo fabricante das chapas de matrícula, titular da respetiva homologação.
+1 - A inscrição de números de matrícula em chapas de matrícula dos modelos constantes dos anexos III e IV só pode ser efectuada por manipuladores que possuam uma autorização para o efeito, concedida pelo fabricante das chapas de matrícula, titular da respectiva homologação.
 
 2 - Os manipuladores têm de respeitar integralmente todas as instruções referentes ao processo de fabrico das chapas de matrícula que lhes sejam determinadas pelos respectivos fabricantes.
 

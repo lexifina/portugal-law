@@ -1,10 +1,10 @@
 # Artigo 2.º
 
-### Contraordenações
+### Regime sancionatório
 
-1 - As infrações ao Regulamento constituem contraordenações rodoviárias, com exceção das previstas no número seguinte.
+1 - As infracções ao Regulamento constituem contra-ordenações rodoviárias, com excepção das previstas nas alíneas c) e d) do número seguinte.
 
-2 - Constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a prática dos seguintes atos:
+2 - Constituem contra-ordenações puníveis com coima de (euro) 250 a (euro) 1250 as seguintes infracções ao Regulamento:
 
 a) O incumprimento do estabelecido no artigo 15.º;
 
