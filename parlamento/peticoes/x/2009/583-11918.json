@@ -1,0 +1,314 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11918",
+  "numero": "583",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2009-05-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2010-01-14",
+            "entidades": null,
+            "id": "87509",
+            "tipo": null,
+            "titulo": "Audição em 2010-01-14 com José Brito Faria e Outros (JF Vila Seca)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-01-20",
+            "dataResposta": "2010-03-02",
+            "entidades": [
+              "Ministério do Ambiente e do Ordenamento do Territorio"
+            ],
+            "nrOficio": "26/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-01-20",
+            "dataResposta": null,
+            "entidades": [
+              "DGEG - Direcção Geral de Energia e Geologia"
+            ],
+            "nrOficio": "26/CAOPTL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-01-20",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério da Agricultura, Desenvolvimento Rural e das Pescas"
+            ],
+            "nrOficio": "26/CAOPTL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-01-20",
+            "dataResposta": "2010-02-17",
+            "entidades": [
+              "Presidente da Câmara Municipal de Barcelos"
+            ],
+            "nrOficio": "27/CAOPTL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2010-04-27",
+        "DataBaixaComissao": "2009-12-09",
+        "DataEnvioPAR": "2010-06-18",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2875",
+        "Legislatura": "XI",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2009-12-09",
+            "gp": "PS",
+            "id": "3937",
+            "motivoCessacao": null,
+            "nome": "Frederico Castro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da X Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2009-06-09",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional"
+            ],
+            "nrOficio": "259/CPLAOT",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c324d34596d4d7a596a55794c5745794e6a41744e4467784f4331694d6d4d324c575131596a63304d6a4934597a51354e7935775a47593d&fich=c8bc3b52-a260-4818-b2c6-d5b74228c497.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2009-06-09",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério da Economia e da Inovação"
+            ],
+            "nrOficio": "259/CPLAOT",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c324d34596d4d7a596a55794c5745794e6a41744e4467784f4331694d6d4d324c575131596a63304d6a4934597a51354e7935775a47593d&fich=c8bc3b52-a260-4818-b2c6-d5b74228c497.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2009-06-09",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério da Agricultura, Desenvolvimento Rural e Pescas"
+            ],
+            "nrOficio": "259/CPLAOT",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c324d34596d4d7a596a55794c5745794e6a41744e4467784f4331694d6d4d324c575131596a63304d6a4934597a51354e7935775a47593d&fich=c8bc3b52-a260-4818-b2c6-d5b74228c497.pdf&Inline=true"
+          },
+          {
+            "dataOficio": null,
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Câmara Municipal de Barcelos"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c324d34596d4d7a596a55794c5745794e6a41744e4467784f4331694d6d4d324c575131596a63304d6a4934597a51354e7935775a47593d&fich=c8bc3b52-a260-4818-b2c6-d5b74228c497.pdf&Inline=true"
+          },
+          {
+            "dataOficio": null,
+            "dataResposta": null,
+            "entidades": [
+              "MIBAL - Minas de Barqueiros, SA"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c324d34596d4d7a596a55794c5745794e6a41744e4467784f4331694d6d4d324c575131596a63304d6a4934597a51354e7935775a47593d&fich=c8bc3b52-a260-4818-b2c6-d5b74228c497.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2009-06-02",
+        "DataArquivo": "2009-11-17",
+        "DataBaixaComissao": "2009-06-02",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2009-06-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2009-05-20",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c7a466d5a6a45354d5455784c545a6d5a4455744e44686a4f4330344d4745334c575131595449344e445a684f5463794f4335775a47593d&fich=1ff19151-6fd5-48c8-80a7-d5a2846a9728.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2009-05-20",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c324d34596d4d7a596a55794c5745794e6a41744e4467784f4331694d6d4d324c575131596a63304d6a4934597a51354e7935775a47593d&fich=c8bc3b52-a260-4818-b2c6-d5b74228c497.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2009-05-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539556347397a556b46534c305276593356745a57353062334e515a585270593246764c7a41335a546b344e5751304c5751795a5441744e47466a4f4331684e6a5a694c546b7a4d7a55334d444e6d4e4759785a4335775a47593d&fich=07e985d4-d2e0-4ac8-a66b-9335703f4f1d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1909",
+        "Legislatura": "X",
+        "Nome": "Comissão de Poder Local, Ambiente e Ordenamento do Território",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2009-06-02",
+            "gp": "PS",
+            "id": "2215",
+            "motivoCessacao": null,
+            "nome": "Nuno Sá"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão do Ambiente, Ordenamento do Território e Poder Local da XI Legislatura."
+      }
+    ],
+    "DataDebate": "2010-10-14",
+    "Documentos": [
+      {
+        "DataDocumento": "2009-05-20",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938774e7a466c4f4755335a4330324d6a51774c54526a4d6a5974596d51344e6930325a574e6d5a6d49304d5451794d4745756347526d&fich=071e8e7d-6240-4c26-bd86-6ecffb41420a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "35703",
+      "35706",
+      "35692",
+      "35698"
+    ],
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11918",
+    "PetAssunto": "Revogação da atribuição da concessão da exploração de caulino em Vila Seca e Milhazes, município de Barcelos.",
+    "PetDataEntrada": "2009-05-20",
+    "PeticoesAssociadas": null,
+    "PetId": "11918",
+    "PetLeg": "X",
+    "PetNr": "583",
+    "PetNrAssinaturas": "4667",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "479952",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-06-06",
+        "pubLeg": "X",
+        "pubNr": "134",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/134/2009-06-06/6?pgs=6-7&org=PLC"
+      }
+    ]
+  }
+}
