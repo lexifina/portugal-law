@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "47659",
+  "tipo": "Requerimento",
+  "numero": "196",
+  "data_registo": "2009-05-20",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Taxa Municipal de Direitos de Passagem",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "2272",
+        "nome": "Marta Rebelo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1164",
+        "nome": "Miguel Coelho"
+      }
+    ],
+    "DataEnvio": "2009-05-22",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2009-05-22",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2009-06-30",
+            "docRemetida": null,
+            "entidade": "MIN.  DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544338354e5463344d6d566b4e79316b4d444e6d4c5451324e4755744f4759304d7930324e4745324f4755354e7a4a684f4751756347526d&fich=95782ed7-d03f-464e-8f43-64a68e972a8d.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2009-05-20",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544338354d544533597a59794e69316b5a5455334c5451345a6a4174596a67794f4330304e574e6b5a6a686b4d4749314d3245756347526d&fich=9117c626-de57-48f0-b828-45cdf8d0b53a.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "47659",
+    "Legislatura": "X",
+    "Nr": "196",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "479598",
+        "obs": null,
+        "pag": [
+          "4-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009",
+        "pubLeg": "X",
+        "pubNr": "127",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/127/2009-05-27/4?pgs=4-7&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Requerimento"
+  }
+}
