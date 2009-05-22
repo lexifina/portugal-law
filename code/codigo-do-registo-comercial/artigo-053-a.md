@@ -33,3 +33,5 @@ g) Os factos constantes do artigo 9.º se respeitarem a factos que estão sujeit
 h) Os factos mencionados nas alíneas a), d) e e) do artigo 10.º;
 
 i) Todos os factos que por lei especial estejam sujeitos a depósito.
+
+6 - Os suportes, processo e conteúdo dos registos são regulamentados por membro do Governo responsável pela área da justiça.
