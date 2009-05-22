@@ -29,3 +29,7 @@ c) Os agentes de execução quanto ao registo das penhoras e os administradores 
 4 - No caso das entidades referidas nas alíneas c) e e) do n.º 1, a obrigatoriedade de promover o registo estende-se a todos os factos constantes do mesmo título.
 
 5 - A obrigação de pedir o registo cessa no caso de este se mostrar promovido por qualquer outra entidade que tenha legitimidade.
+
+6 - Quando, na sequência de acto jurídico de transmissão ou oneração titulado por qualquer forma legalmente admitida, haja que proceder-se ao registo do cancelamento de hipotecas previamente existentes sobre os prédios, a promoção deste registo constitui obrigação da entidade obrigada a promover o registo daquele acto jurídico.
+
+7 - Quando o registo do cancelamento de hipoteca deva ser requerido isoladamente, a respectiva promoção constitui obrigação do titular do direito de propriedade.
