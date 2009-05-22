@@ -8,7 +8,7 @@
 
 ... Em euros
 
-1 - Reserva de firma ou denominação ... 31
+1 - (Revogado.)
 
 2 - Certificados de admissibilidade de firma ou denominação:
 

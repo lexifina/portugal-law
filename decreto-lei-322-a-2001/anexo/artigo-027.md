@@ -12,7 +12,7 @@
 
 1.1 - Pela utilização do serviço de telecópia nos serviços dos registos e do notariado, para emissão de documentos, são cobrados os seguintes emolumentos:
 
-1.1.1 - Por cada certificado de admissibilidade de firma ou denominação ... 10
+1.1.1 - (Revogado.)
 
 1.1.2 - Por qualquer outro documento que contenha até sete folhas, incluindo as do pedido e resposta e uma eventual folha de certificação ou encerramento:
 
