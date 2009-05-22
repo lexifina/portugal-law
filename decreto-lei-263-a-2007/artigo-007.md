@@ -20,7 +20,7 @@ d) A inexistência de manifestação da intenção de exercer o direito de prefe
 
 5 - Os documentos escritos em língua estrangeira só podem ser aceites quando traduzidos nos termos da lei, salvo se estiverem redigidos em língua inglesa, francesa ou espanhola e o funcionário competente dominar essa língua.
 
-6 - Os documentos arquivados em serviço de registo podem ser utilizados para a realização do procedimento especial de transmissão, oneração e registo imediato, aplicando-se o disposto no n.º 2 do artigo 43.º do Código do Registo Predial.
+6 - Os documentos arquivados nos serviços da Administração Pública podem ser utilizados para a realização do procedimento especial de transmissão, oneração e registo imediato, aplicando-se o disposto no 6 do artigo 43.º do Código do Registo Predial.
 
 7 - Sem prejuízo do disposto no número seguinte, os documentos que instruam o procedimento ficam arquivados pela ordem da sua apresentação.
 

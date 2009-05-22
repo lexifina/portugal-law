@@ -2,10 +2,4 @@
 
 ### Documentos a entregar aos interessados
 
-Concluído o procedimento, o serviço de registo procede à entrega imediata e gratuita dos seguintes documentos:
-
-a) Certidão dos títulos elaborados, a quem for cobrado recibo da conta;
-
-b) Certidão permanente dos registos em vigor sobre o prédio, a que se refere o n.º 6 do artigo 110.º do Código do Registo Predial, podendo o interessado fazer a opção nele prevista;
-
-c) Comprovativos do pagamento dos encargos devidos.
+Concluído o procedimento, o serviço de registo competente entrega aos interessados que o solicitem, de imediato e gratuitamente, uma certidão dos títulos elaborados e dos registos em vigor sobre o prédio, bem como os documentos comprovativos do pagamento dos encargos devidos.
