@@ -1,0 +1,5 @@
+Aviso n.º 10128/2009
+José Alberto Leal Fateixa Palmeiro, Presidente da Câmara Municipal de Estremoz, torna público que, em reunião realizada em 6 de Maio de 2009, a Câmara Municipal de Estremoz deliberou proceder, nos termos do n.º 3 do art. 93.º e n.º 4 do art. 100.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, à revisão global do Plano de Pormenor da Zona Industrial de Estremoz, fixando em 4 meses o prazo de elaboração dos respectivos trabalhos e em 15 dias úteis, o prazo para formulação de sugestões, bem como, para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de revisão, a contar da data de publicação no Diário da República da presente Deliberação (dando assim também cumprimento ao n.º 1 do art. 74.º e ao n.º 2 do art. 77.º do mesmo diploma, para os quais remete o n.º 7 do art. 96.º).
+E para constar se publicam este e outros de igual teor que vão ser afixados nos lugares de estilo.
+19 de Maio de 2009. - O Presidente da Câmara, José Alberto Fateixa.
+201815212
