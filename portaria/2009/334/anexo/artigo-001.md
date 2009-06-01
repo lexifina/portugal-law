@@ -1,3 +1,7 @@
+## Anexo
+
+## REGULAMENTO INTERNO DO JULGADO DE PAZ DO AGRUPAMENTO DOS CONCELHOS DE OLEIROS, MAÇÃO, PROENÇA-A-NOVA, SERTÃ E VILA DE REI
+
 # Artigo 1.º
 
 ### Circunscrição territorial e sede
