@@ -1,0 +1,4 @@
+Aviso n.º 22/2009
+Por ordem superior se torna público que, em 20 de Abril de 2007, os Emirados Árabes Unidos depositaram o seu instrumento de adesão à Convenção Aduaneira Relativa ao Transporte Internacional de Mercadorias Efectuado ao Abrigo das Cadernetas TIR (Convenção TIR - 1995), adoptada em Genebra em 14 de Novembro de 1975.
+Portugal é Parte da mesma Convenção, aprovada, para adesão, pelo Decreto n.º 102/78, publicado no Diário da República, 1.ª série, n.º 217, suplemento, de 20 de Setembro de 1978, tendo depositado o seu instrumento de adesão à Convenção em 13 de Fevereiro de 1979, conforme Aviso publicado no Diário da República, 1.ª série, n.º 138, de 18 de Junho de 1979.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 19 de Maio de 2009. - O Subdirector-Geral, Miguel Maria Simões Coelho Almeida e Sousa.
