@@ -1,0 +1,5 @@
+Aviso n.º 26/2009
+Por ordem superior se torna público que foram emitidas notas pela Embaixada da República da Hungria em Lisboa e pelo Ministério dos Negócios Estrangeiros português, respectivamente em 10 e em 13 de Setembro de 2007, tendo a última notificação escrita sido recebida pela Embaixada da Hungria em Lisboa em 18 de Setembro de 2007, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República da Hungria nas Áreas da Educação, Ciência, Ensino Superior, Cultura, Juventude, Desporto e Comunicação Social, assinado em Lisboa em 3 de Novembro de 2005.
+Portugal é Parte neste Acordo, aprovado pelo Governo pelo Decreto n.º 18/2007, publicado no Diário da República, 1.ª série, n.º 148, de 2 de Agosto de 2007.
+Nos termos do artigo 21.º, o Acordo entrou em vigor em 18 de Outubro de 2007, 30.º dia após a recepção da última notificação escrita informando que foram cumpridos todos os procedimentos internos necessários para esse efeito.
+Direcção-Geral dos Assuntos Europeus, 26 de Maio de 2009. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
