@@ -1,0 +1,10 @@
+Portaria n.º 599/2009
+de 4 de Junho
+Pela Portaria n.º 1221/2003, de 20 de Outubro, foi renovada a zona de caça turística de Vale de Asna (processo n.º 807-AFN), situada no município de Montemor-o-Novo, concessionada à SOCATURA - Sociedade de Caça e Turismo do Alentejo, Lda., e válida até 13 de Julho de 2009.
+Entretanto, pela Portaria n.º 85/2008, de 25 de Janeiro, foi a presente concessão transmitida para Maria Teresa Correia Martins Caiado Bolas e a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no artigo 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º e no n.º 1 do artigo 118.º, do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente por dois períodos iguais, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos na freguesia de São Cristóvão, município de Montemor-o-Novo, com a área de 1042 ha.
+2.º A concessão de alguns terrenos agora anexados incluídos em área classificada poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que determinem a incompatibilidade da actividade cinegética com a conservação da natureza, até um máximo de 10% da área total da zona de caça.
+3.º A presente portaria produz efeitos a partir do dia 14 de Julho de 2009.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 25 de Maio de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 26 de Maio de 2009.
