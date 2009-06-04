@@ -1,0 +1,275 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Xjds6GcLl28g3Dit5vc2mi4g%2bAwDy%2fh2rUBa%2b0NiO3AK3hrZLRAr%2bnDRHRtml4FiiK%2fA3Gw9D73jBJtYcuRnx5TXTzmFL96Ni%2feq90ScD9ZtQ3iBncn3K%2bfYv1HI4kZgSEKHf3mayjyi3iV01qJR3%2fwu7XGLqlCyxX7%2fd7Oi5q5sL1C3JiCoNEddTMrDnH9l27gfG0XYFBbEsdqzZrbTOmhUGcPe%2b9JylvFTbjlXQi4xoH6dCtKjQ5XalUX%2bLgQOlj%2fkbUkSm8qWnI5zL9OL2vEAPEVF%2fAlnKHNPo7mELu6wzf3De3LLTu7GuIwWYMbpoJUmfqCE5cP%2boBV2ODkQMbmAxfPdeOcIpIQykZ1SP7o%3d&fich=IniciativasX_json.txt&Inline=true",
+  "ficheiro_sha256": "d419cb43ec052c3e60f947a06cf257e9daf097b636fa45600a1ec4c61386b2e0",
+  "legislatura": "X",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "262",
+    "id": "34466",
+    "titulo": "Aprova a lei sobre política criminal, que define os objectivos, prioridades e orientações de política criminal para o biénio de 2009/1011, em cumprimento da Lei nº 17/2006, de 23 de Maio (Lei Quadro da Política Criminal)."
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "2009-06-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7008",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "2009-06-04",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2009-06-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1905",
+                "nome": "Fernando Negrão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:27",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-06-05",
+                "pubLeg": "X",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/089/2009-06-05/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a lei sobre política criminal, que define os objectivos, prioridades e orientações de política criminal para o biénio de 2009/1011, em cumprimento da Lei nº 17/2006, de 23 de Maio (Lei Quadro da Política Criminal).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:27",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-06-05",
+                "pubLeg": "X",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/089/2009-06-05/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a lei sobre política criminal, que define os objectivos, prioridades e orientações de política criminal para o biénio de 2009/1011, em cumprimento da Lei nº 17/2006, de 23 de Maio (Lei Quadro da Política Criminal).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2140",
+                "nome": "Sónia Sanfona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:27",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-06-05",
+                "pubLeg": "X",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/089/2009-06-05/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a lei sobre política criminal, que define os objectivos, prioridades e orientações de política criminal para o biénio de 2009/1011, em cumprimento da Lei nº 17/2006, de 23 de Maio (Lei Quadro da Política Criminal).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:27",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "173086",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-06-05",
+                "pubLeg": "X",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/089/2009-06-05/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a lei sobre política criminal, que define os objectivos, prioridades e orientações de política criminal para o biénio de 2009/1011, em cumprimento da Lei nº 17/2006, de 23 de Maio (Lei Quadro da Política Criminal).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "260553",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "7008",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-06-05",
+        "pubLeg": "X",
+        "pubNr": "89",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/04/089/2009-06-05?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": [
+      "PSD"
+    ],
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2009-06-04",
+        "descricao": "Requerimento apresentado pelo PPD/PSD, nos termos e para os efeitos do disposto no artigo 151.º do RAR, de avocação para Plenário, da discussão e votação na especialidade, da proposta de aditamento, apresentada em sede de especialidade da Comissão, de um artigo 22.º-A ao texto da Proposta de Lei",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> PEV</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> Luísa Mesquita (Ninsc)</I>, <I> José Paulo Areia De Carvalho (Ninsc)</I>",
+        "id": "53607",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "89",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
