@@ -1,0 +1,16 @@
+Portaria n.º 603/2009
+de 4 de Junho
+Pela Portaria n.º 781/2008, de 7 de Agosto, foi criada a zona de caça municipal de Montejunto (processo n.º 4951-AFN), situada no município de Alandroal, e transferida a sua gestão para o Grupo Desportivo de Caça e Pesca de Montejunto.
+Veio entretanto a Lazer e Floresta - Empresa para o Desenvolvimento Agro-Florestal, Imobiliário, Turístico e Cinegético, S. A., proprietária dos terrenos incluídos na zona de caça acima referida requerer a sua exclusão de acordo com o disposto no n.º 1 do artigo 28.º, em conjugação com o estipulado no n.º 1 do artigo 167.º, do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção.
+Tendo em conta que os terrenos a excluir representam a totalidade da área da zona de caça municipal de Montejunto (processo n.º 4951-AFN), pela presente portaria é extinta esta transferência de gestão.
+Entretanto, a Lazer e Floresta - Empresa para o Desenvolvimento Agro-Florestal, Imobiliário, Turístico e Cinegético, S. A., requereu uma concessão para aqueles mesmos terrenos tendo em vista a criação de uma zona de caça turística.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção, e com fundamento na alínea d) do n.º 1 e no n.º 2, ambos do artigo 22.º, e na alínea a) do artigo 40.º e no n.º 1 do artigo 118. º, todos do diploma acima identificado, e após audição do Conselho Cinegético Municipal do Alandroal:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É extinta a zona de caça municipal de Montejunto (processo n.º 4951-AFN), bem como a respectiva transferência de gestão.
+2.º É concessionada, pelo período de 12 anos, à Lazer e Floresta - Empresa para o Desenvolvimento Agro-Florestal, Imobiliário, Turístico e Cinegético, S. A., com o número de identificação fiscal 504529319 e sede na Rua de Laura Alves, 4, 10.º, esquerdo, 1050-138 Lisboa, a zona de caça turística do Milreu (processo n.º 5209-AFN), englobando um prédio rústico denominado «Herdade do Milreu», sito na freguesia de Nossa Senhora da Conceição, município de Alandroal, com a área de 436 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A concessão de alguns terrenos incluídos em área classificada poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que determinem a incompatibilidade da actividade cinegética com a conservação da natureza até um máximo de 10 % da área total da zona de caça.
+4.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+5.º É revogada a Portaria n.º 781/2008, de 7 de Agosto.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 25 de Maio de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 26 de Maio de 2009.
+(ver documento original)
