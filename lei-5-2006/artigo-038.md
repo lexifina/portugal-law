@@ -2,7 +2,7 @@
 
 ### Cedência a título de empréstimo
 
-1 - Podem ser objecto de cedência, a título de empréstimo, as armas das classes C e D, desde que destinadas ao exercício de prática venatória, nas condições definidas na legislação regulamentar da presente lei.
+1 - Podem ser objecto de cedência, a título de empréstimo, a terceiro que as possa legalmente deter, as armas das classes C e D, desde que destinadas ao exercício de prática venatória ou treino de caça, nas condições definidas na legislação regulamentar da presente lei.
 
 2 - O empréstimo deve ser formalizado mediante documento escrito, elaborado em triplicado, emitido pelo proprietário e por este datado e assinado, sendo certificado pela PSP, que arquiva o original, devendo o duplicado ser guardado pelo proprietário e o triplicado acompanhar a arma.
 

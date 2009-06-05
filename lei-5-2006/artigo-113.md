@@ -10,7 +10,7 @@ b) Licença de uso e porte de arma de caça transita para licença de uso e port
 
 c) Licença de uso e porte de arma de recreio de cano liso transita para licença de uso e porte de arma D;
 
-d) Autorização de uso e porte de arma de defesa «modelo V» e «modelo V-A» transita para licença especial;
+d) Autorização de uso e porte de arma de defesa 'modelo V' e 'modelo V-A' transita para licença especial, aplicando-se as mesmas regras que a esta relativamente à caducidade e validade, bem como no que se refere aos requisitos previstos para a sua concessão;
 
 e) Para efeitos do disposto na alínea a) do n.º 3 do artigo 5.º, as referências existentes nas respectivas leis orgânicas ou estatutos profissionais a licença de uso e porte de arma de defesa entendem-se feitas para licença de uso e porte de arma de classe B.
 

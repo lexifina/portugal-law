@@ -13,3 +13,5 @@ a) A quem, nos termos da respectiva lei orgânica ou estatuto profissional, poss
 b) Aos titulares da licença B;
 
 c) Aos titulares de licença especial atribuída ao abrigo do n.º 1 do artigo 19.º
+
+4 - Sem prejuízo do disposto no número anterior, mediante autorização especial do director nacional da PSP, podem ser autorizadas a venda, a aquisição, a cedência, a detenção, a utilização, a importação, a exportação e a transferência de armas e acessórios da classe B destinados a museus públicos ou privados, investigação científica ou industrial e utilizações em realizações teatrais, cinematográficas ou outros espectáculos de natureza artística, de reconhecido interesse cultural.

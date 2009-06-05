@@ -1,6 +1,6 @@
 # Artigo 87.º
 
-### Tráfico de armas
+### Tráfico e mediação de armas
 
 1 - Quem, sem se encontrar autorizado, fora das condições legais ou em contrário das prescrições da autoridade competente, vender, ceder a qualquer título ou por qualquer meio distribuir, mediar uma transacção ou, com intenção de transmitir a sua detenção, posse ou propriedade, adoptar algum dos comportamentos previstos no artigo anterior, envolvendo quaisquer equipamentos, meios militares e material de guerra, armas, engenhos, instrumentos, mecanismos, munições, substâncias ou produtos aí referidos, é punido com uma pena de 2 a 10 anos de prisão.
 

@@ -23,3 +23,5 @@ d) Cópia dos livretes de manifesto de armas que pretende averbar;
 e) Cópia do bilhete de identidade ou passaporte.
 
 4 - O director nacional da PSP pode determinar a todo o tempo a apreensão do cartão europeu de arma de fogo por motivos de segurança e ordem pública de especial relevo.
+
+5 - São averbadas as armas de propriedade do requerente e aquelas de que é legítimo detentor e utilizador, bem como o seu extravio ou furto.

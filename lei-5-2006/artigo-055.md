@@ -8,4 +8,4 @@
 
 3 - As armas sem número de série de fabrico ficam sujeitas ao exame e marcação previstos no número anterior.
 
-4 - Para efeitos de maior aptidão desportiva podem ser autorizadas pelo director nacional da PSP alterações nas armas exclusivamente utilizadas nessa actividade, sendo obrigatório o averbamento ao respectivo manifesto.
+4 - As alterações de características das armas para efeito de maior aptidão venatória ou desportiva são requeridas ao director nacional da PSP, sendo obrigatório o seu averbamento ao respectivo manifesto.

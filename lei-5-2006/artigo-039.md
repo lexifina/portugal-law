@@ -20,7 +20,7 @@ b) Declarar, de imediato e por qualquer meio, às autoridades policiais o extrav
 
 c) Não exibir ou empunhar armas sem que exista manifesta justificação para tal;
 
-d) Disparar as armas unicamente em carreiras ou campos de tiro ou no exercício de actos venatórios, em campos de treino de caça, em provas desportivas ou práticas recreativas em propriedades rústicas privadas com condições de segurança para o efeito;
+d) Disparar as armas unicamente em carreiras ou campos de tiro ou no exercício de actos venatórios, actos de gestão cinegética e outras actividades de carácter venatório, nomeadamente no treino de caça em áreas específicas para o efeito, em provas desportivas ou em práticas recreativas em propriedades rústicas privadas em condições de segurança para o efeito;
 
 e) Comunicar de imediato às autoridades policiais situações em que tenham recorrido às armas por circunstâncias de defesa pessoal ou de propriedade;
 

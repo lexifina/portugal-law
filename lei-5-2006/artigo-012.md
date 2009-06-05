@@ -12,7 +12,7 @@
 
 De acordo com a classificação das armas constante do artigo 3.º, os fins a que as mesmas se destinam, bem como a justificação da sua necessidade, podem ser concedidas pelo director nacional da PSP as seguintes licenças de uso e porte ou detenção:
 
-a) Licença B, para o uso e porte de armas das classes B e E;
+a) Licença B, para o uso e porte de armas das classes B, B1 e E;
 
 b) Licença B1, para o uso e porte de armas das classes B1 e E;
 
@@ -27,3 +27,7 @@ f) Licença F, para a detenção, uso e porte de armas da classe F;
 g) Licença de detenção de arma no domicílio, para a detenção de armas das classes B, B1, C, D e F e uso e porte de arma da classe E;
 
 h) Licença especial para o uso e porte de armas das classes B, B1 e E.
+
+2 - Às situações de isenção ou dispensa de licença legalmente previstas são correspondentemente aplicáveis as obrigações previstas para os titulares de licença.
+
+3 - O uso e porte de arma por quem desempenha actividades profissionais que o exijam, que não as desempenhadas pelas Forças Armadas e forças e serviços de segurança, é regulado por despacho do director nacional da PSP.

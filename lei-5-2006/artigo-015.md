@@ -6,7 +6,7 @@
 
 a) Se encontrem em pleno uso de todos os direitos civis;
 
-b) Demonstrem carecer da licença para a prática de actos venatórios de caça maior ou menor, para as licenças C ou D, respectivamente, e se encontrem habilitados com carta de caçador com arma de fogo;
+b) Demonstrem carecer da licença para a prática de actos venatórios de caça maior ou menor e se encontrem habilitados com carta de caçador com arma de fogo ou demonstrem fundamentadamente carecer da mesma por motivos profissionais;
 
 c) Sejam idóneos;
 

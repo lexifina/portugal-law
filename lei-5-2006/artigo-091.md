@@ -2,7 +2,7 @@
 
 ### Interdição de frequência, participação ou entrada em determinados locais
 
-1 - Pode ser temporariamente interdita a frequência, participação ou entrada em estabelecimento de ensino, recinto desportivo, em locais de diversão nocturna, locais onde ocorra manifestação cultural, desportiva ou venatória, feira ou mercado, campo ou carreira de tiro, a quem for condenado:
+1 - Pode ser temporariamente interdita a frequência, participação ou entrada em estabelecimento de ensino, recinto desportivo, estabelecimentos ou locais de diversão, locais onde ocorra manifestação cultural, desportiva ou venatória, feira ou mercado, campo ou carreira de tiro, a quem for condenado:
 
 a) Pela prática de crime previsto na presente lei praticado num dos locais referidos;
 

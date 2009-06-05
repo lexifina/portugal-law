@@ -16,7 +16,9 @@ c) Enviar à PSP cópia dos registos obrigatórios;
 
 d) Observar com rigor todas as normas de segurança a que está sujeita a actividade;
 
-e) Facultar aos serviços de fiscalização da PSP, sempre que por estes solicitado, o acesso aos registos de armas e munições, bem como a conferência das armas e munições em existência.
+e) Facultar às autoridades competentes, sempre que por estas solicitado, o acesso aos registos de armas e munições, bem como a conferência das armas e munições em existência;
+
+f) Facultar às autoridades competentes, sempre que por estas solicitado, o acesso às armas transferidas de outro Estado membro, bem como à respectiva documentação.
 
 2 - Os armeiros estão, especialmente, obrigados a registar diariamente os seguintes actos:
 
@@ -44,4 +46,4 @@ h) Existências de armas e munições.
 
 6 - O armeiro remete à PSP, até ao dia 5 de cada mês, uma cópia dos registos obrigatórios.
 
-7 - Os registos devem ser mantidos por um período de 10 anos.
+7 - Os registos devem ser mantidos por um período de 20 anos.

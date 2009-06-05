@@ -1,11 +1,17 @@
 # Artigo 62.º
 
-### Autorização prévia para a importação temporária
+### Autorização prévia para a importação e exportação temporária
 
-1 - O director nacional da PSP pode emitir autorização prévia para a importação temporária de armas destinadas à prática venatória, competições desportivas ou feiras de coleccionadores, reconhecidas pelas respectivas federações ou associações, a requerimento dos seus proprietários ou dos organismos que promovem aquelas iniciativas.
+1 - O director nacional da PSP pode emitir autorização prévia, nos seguintes casos:
 
-2 - O director nacional da PSP pode igualmente emitir autorização prévia para a importação temporária de armas e munições destinadas a integrar mostruários e demonstrações, a pedido de agentes comerciais e de representantes de fábricas nacionais ou estrangeiras, devidamente credenciadas pela PSP.
+a) Para a importação e exportação temporária de armas e partes essenciais de armas de aquisição condicionada, destinadas à prática venatória e competições desportivas;
 
-3 - Da autorização constam as características das armas e suas quantidades, o prazo de permanência no País, bem como, se for caso disso, as regras de segurança a observar.
+b) Para a importação e exportação temporária de armas e partes essenciais de armas de aquisição condicionada, destinadas a feiras da especialidade, feiras agrícolas ou de coleccionadores, exposições, mostruários e demonstrações;
 
-4 - A autorização prevista no n.º 1 é dispensada aos titulares do cartão europeu de arma de fogo.
+c) Para a importação e exportação temporária de armas e partes essenciais de armas de aquisição condicionada, com vista à sua alteração ou reparação.
+
+2 - O requerimento será formulado pelos proprietários, fabricantes, armeiros, agentes comerciais ou entidades que promovem as iniciativas referidas no n.º 1.
+
+3 - Da autorização constam a classe, tipo, modelo, calibre e demais características das armas e suas quantidades, o prazo de permanência ou ausência do país, bem como, se for caso disso, as regras de segurança a observar.
+
+4 - (Revogado).

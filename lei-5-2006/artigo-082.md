@@ -8,4 +8,4 @@
 
 3 - Todas as armas entregues devem ser objecto de análise e perícia balística, a efectuar pelo departamento competente da Polícia Judiciária.
 
-4 - O achado, logo que disponibilizado pelas autoridades, se for susceptível de comércio, será objecto de venda em leilão, revertendo o produto da venda para o achador.
+4 - O achado, logo que disponibilizado pelas autoridades, se for susceptível de comércio ou manifesto, será objecto de venda em leilão, revertendo o produto da venda para o achador, podendo este, em alternativa, requerer o seu manifesto, se for titular da licença aplicável.
