@@ -1,0 +1,9 @@
+Aviso n.º 10620/2009
+Plano de Pormenor do Parque de Negócios do Cartaxo - ALE
+Discussão pública
+Paulo Alexandre Fernandes Varela Simões Caldas, Licenciado em Economia e Presidente da Câmara Municipal do Cartaxo:
+Torna público, nos termos e para os efeitos do disposto no artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, que esta Câmara Municipal deliberou, nas suas reuniões ordinárias de 22 de Outubro de 2007 e de 27 de Maio de 2009, dar início aos procedimentos para elaboração do Plano de Pormenor do Parque de Negócios do Cartaxo - ALE e aprovar os respectivos Termos de Referência, e, para efeitos do disposto no Decreto-Lei n.º 323/2007, de 15 de Junho, sujeitar esse plano a procedimento de Avaliação Ambiental.
+Deliberado, também, dar início ao período de participação preventiva previsto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, pelo prazo de 15 dias úteis a contar da data da publicação deste aviso no Diário da República, para recolha de sugestões, bem como para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração. Durante este período, os interessados poderão consultar os termos de referência na Secção de Administração Urbanística, sita no edifício dos Paços do Concelho, Praça 15 de Dezembro, 2070-050 Cartaxo, ou no site da Câmara Municipal do Cartaxo (www.cm-cartaxo.pt).
+Os interessados deverão apresentar as sugestões, informações ou observações mediante exposição dirigida ao Presidente da Câmara Municipal, devendo nesta constar a identificação e o endereço dos seus autores e a qualidade em que as apresentam.
+29 de Maio de 2009. - O Presidente da Câmara, Paulo Alexandre Fernandes Varela Simões Caldas.
+201865628
