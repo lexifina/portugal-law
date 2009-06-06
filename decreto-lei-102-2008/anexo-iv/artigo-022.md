@@ -14,7 +14,7 @@
 
 6 - Não obstante o disposto no número anterior, o sujeito passivo pode solicitar o reembolso antes do fim do período de 12 meses quando se verifique a cessação de actividade ou passe a enquadrar-se no disposto nos n.os 3 e 4 do artigo 29.º, 1 do artigo 54.º ou 1 do artigo 61.º, desde que o valor do reembolso seja igual ou superior a (euro) 25, bem como quando o crédito a seu favor exceder (euro) 3000.
 
-7 - Em qualquer caso, a Direcção-Geral dos Impostos pode exigir, quando a quantia a reembolsar exceder (euro) 1000, caução, fiança bancária ou outra garantia adequada, que determina a suspensão do prazo de contagem dos juros indemnizatórios referidos no número seguinte, até à prestação da mesma, a qual deve ser mantida pelo prazo de um ano.
+7 - Em qualquer caso, a Direcção-Geral dos Impostos pode exigir, quando a quantia a reembolsar exceder (euro) 1000, caução, fiança bancária ou outra garantia adequada, que determina a suspensão do prazo de contagem dos juros indemnizatórios referidos no número seguinte, até à prestação da mesma, a qual deve ser mantida pelo prazo de seis meses.
 
 8 - Os reembolsos de imposto, quando devidos, devem ser efectuados pela Direcção-Geral dos Impostos até ao fim do 3.º mês seguinte ao da apresentação do pedido, findo o qual podem os sujeitos passivos solicitar a liquidação de juros indemnizatórios nos termos do artigo 43.º da lei geral tributária.
 

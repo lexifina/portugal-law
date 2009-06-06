@@ -51,3 +51,5 @@ h) Enviar, por transmissão electrónica de dados, a declaração, anexos e mapa
 14 - Para cumprimento do disposto na alínea b) do n.º 1, as facturas ou documentos equivalentes podem ser elaborados pelo próprio adquirente dos bens ou serviços ou por um terceiro, em nome e por conta do sujeito passivo.
 
 15 - Os sujeitos passivos referidos na alínea i) do n.º 1 do artigo 2.º são obrigados a emitir uma factura por cada aquisição de bens ou de serviços aí mencionados quando o respectivo transmitente ou prestador não seja um sujeito passivo, não se aplicando, nesse caso, os condicionalismos previstos no n.º 11 do artigo 36.º
+
+16 - Ficam dispensados de apresentar a declaração, os anexos e os mapas recapitulativos a que se referem as alíneas d), e) e f) do n.º 1 os sujeitos passivos que não possuam nem sejam obrigados a possuir contabilidade organizada para efeitos de IRS.
