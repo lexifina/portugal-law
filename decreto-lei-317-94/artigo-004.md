@@ -6,17 +6,17 @@
 
 a) À identificação do condutor;
 
-b) A cada infracção punida com inibição de condução em território nacional;
+b) A cada infracção punida com inibição ou proibição de condução em território nacional;
 
-c) À existência de inibição de condução aplicada por organismos estrangeiros;
+c) À existência de inibição ou proibição de condução aplicada por organismos estrangeiros;
 
-d) À existência de decisões em medida de segurança que impliquem cassação da licença de condução.
+d) À existência de decisões em medida de segurança que impliquem cassação dos títulos de condução.
 
 2 - São dados de identificação do condutor:
 
-a) O tipo de licença de que é titular;
+a) Os tipos dos títulos de condução de que é titular;
 
-b) O número da licença de condução;
+b) Os números dos títulos de condução;
 
 c) O número do bilhete de identidade;
 
@@ -24,7 +24,7 @@ d) A residência;
 
 e) O nome.
 
-3 - Relativamente a cada infracção punida com inibição de condução em território nacional são recolhidos os seguintes dados:
+3 - Relativamente a cada infracção punida com inibição ou proibição de condução em território nacional, são recolhidos os seguintes dados:
 
 a) Número do auto;
 
@@ -40,11 +40,11 @@ f) Número de processo;
 
 g) Entidade decisória;
 
-h) Período de inibição;
+h) Período de inibição ou proibição;
 
-i) Data de início do período de inibição;
+i) Data de início do período de inibição ou proibição;
 
-j) Data do fim do período de inibição;
+j) Data do fim do período de inibição ou proibição;
 
 l) Suspensão de execução de sanção acessória;
 
@@ -72,15 +72,17 @@ x) Data do fim da frequência de acção de formação;
 
 z) Acidente de viação.
 
-4 - Relativamente à existência de uma inibição de condução comunicada por organismos estrangeiros são recolhidos os seguintes dados:
+4 - Relativamente à existência de uma inibição ou proibição de condução comunicada por organismo estrangeiros, são recolhidos os seguintes dados:
 
 a) País;
 
-b) Entidade que procedeu à comunicação;
+c) Período de inibição ou proibição;
 
-c) Período de inibição;
+d) Data de início do período de inibição ou proibição;
 
-d) Tipo de infracção.
+e) Data do fim do período de inibição ou proibição;
+
+f) Tipo de infracção.
 
 5 - Relativamente às decisões que impliquem cassação da licença de condução são recolhidos os seguintes dados:
 
@@ -88,4 +90,6 @@ a) Data da cassação;
 
 b) Entidade responsável;
 
-c) Fundamento.
+c) Fundamento;
+
+d) Período durante o qual não pode ser concedido novo título de condução.
