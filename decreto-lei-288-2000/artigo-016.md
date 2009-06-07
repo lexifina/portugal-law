@@ -6,4 +6,4 @@
 
 2 - A comissão de serviço pode ser dada por finda a todo o tempo.
 
-3 - O mordomo é remunerado pelo nível remuneratório 16 da Tabela Remuneratória Única.
+3 - O mordomo tem direito à remuneração equivalente ao índice 290 da escala salarial da função publica.
