@@ -1,0 +1,22 @@
+# Portaria n.º 55/2009
+
+**Emissor:** SECRETARIAS REGIONAIS DO EQUIPAMENTO SOCIAL E DO PLANO E FINANÇAS
+
+**Publicação:** JORAM, I série, n.º 54/2009, de 2009-06-08
+
+**Sumário:** Autoriza a repartição dos encargos orçamentais previstos para o “fornecimento e asentamento de mobiliário para a Escola Secundária e Professional de S. Martinho”.
+
+## Texto
+
+Portaria n.º 55/2009
+de 8 de Junho
+Dando cumprimento ao artigo 22.º do Decreto-Lei n.º 197/99, de 08 de Junho de 1999, manda o Governo Regional através dos Secretários Regionais do Plano e Finanças e do Equipamento Social, o seguinte:
+1. Os encargos orçamentais previstos para o “FORNECIMENTO E ASSENTAMENTO DE MOBILIÁRIO
+PARA A ESCOLA SECUNDÁRIA E PROFISSIONAL DE S.
+MARTINHO”, processo n.º 66/2009, encontram-se escalonados na forma abaixo indicada:
+Ano económico de 2009 ................................ 0,00 Ano económico de 2010...................... 463.980,00
+2. A despesa relativa ao próximo ano económico, está prevista na rubrica da Secretaria 05, Capítulo 50, Medida 48, Projecto 11, Classificação económica 07.01.10 da proposta de Orçamento da RAM para 2010.
+3. Esta Portaria entra imediatamente em vigor.
+Assinada a 2009/05/28.
+O SECRETÁRIO REGIONAL DO PLANO E FINANÇAS, José Manuel Ventura Garcês
+O SECRETÁRIO REGIONAL DO PLANO E FINANÇAS, Luís Manuel dos Santos Costa
