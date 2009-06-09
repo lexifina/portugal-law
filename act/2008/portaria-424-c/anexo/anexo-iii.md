@@ -20,9 +20,9 @@ a) Os projectos que demonstrem ser tecnicamente viáveis são pontuados em 40 po
 
 b) À pontuação base prevista na alínea anterior acrescem as majorações calculadas para cada um dos parâmetros previstos na tabela ii;
 
-c) Aos parâmetros com os n.os de ordem 1 a 7 são atribuídos 5 pontos a cada;
+c) Aos parâmetros com os números de ordem 1 a 6 são atribuídos 5 pontos a cada;
 
-d) Aos parâmetros com os n.os de ordem 8 e 9 são atribuídos 10 pontos a cada.
+d) Aos parâmetros com os números de ordem 7 a 9 são atribuídos 10 pontos a cada.
 
 TABELA II
 

@@ -4,7 +4,11 @@
 
 Sem prejuízo do disposto no artigo 6.º do Decreto-Lei n.º 81/2008, de 16 de Maio, não são consideradas para efeitos de concessão de apoios as seguintes despesas:
 
-a) Aquisição de edifícios, instalações ou equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração, salvo se os respectivos contratos estipularem uma opção de compra e esta estiver realizada e paga à data de apresentação do pedido de pagamento do saldo dos apoios;
+a) Aquisição de edifícios, instalações ou equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração, salvo se os respectivos contratos estipularem uma opção de compra e esta estiver realizada e paga:
+
+i) No prazo de dois anos após a celebração do contrato de concessão dos apoios, para as operações de prazo igual ou inferior a 24 meses;
+
+ii) Até 30 de Junho de 2015, para as demais operações;
 
 b) Custos com os contratos de locação financeira ou de aluguer de longa duração, na parte que excedam os custos de aquisição dos correspondentes bens, nos casos referidos na alínea anterior;
 
