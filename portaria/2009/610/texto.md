@@ -1,0 +1,49 @@
+Portaria n.º 610/2009
+de 8 de Junho
+O Decreto-Lei n.º 220/2008, de 12 de Novembro, diploma que aprovou o regime jurídico da segurança contra incêndios em edifícios, estabelece no n.º 1 do artigo 32.º que a tramitação dos procedimentos ali previstos é realizada de modo informático, com recurso a sistema ou plataforma própria.
+Para tanto, o n.º 2 do artigo 32.º estabelece que o sistema informático é objecto de portaria conjunta dos membros do Governo responsáveis pela protecção civil e da administração local.
+Assim:
+Ao abrigo do disposto no n.º 2 do artigo 32.º do Decreto-Lei n.º 220/2008, de 12 de Novembro:
+Manda o Governo, pelo Secretário de Estado Adjunto e da Administração Local e pelo Secretário de Estado da Protecção Civil, o seguinte:
+1.º
+Objecto
+A presente portaria tem por objecto a regulamentação do funcionamento do sistema informático previsto no n.º 2 do artigo 32.º do Decreto-Lei n.º 220/2008, de 12 de Novembro.
+2.º
+Sistema informático
+1 - A Autoridade Nacional da Protecção Civil disponibiliza sistema informático que permite a tramitação desmaterializada dos procedimentos administrativos previstos no regime jurídico da segurança contra incêndios em edifícios.
+2 - Na construção do sistema informático referido no número anterior devem ser salvaguardados os mecanismos que permitam a interoperabilidade de sistemas para disponibilização e recepção de elementos entre as várias entidades intervenientes.
+3 - O presente sistema informático deve assegurar, em específico, a interoperabilidade com o sistema informático previsto no artigo 8.º-A do Decreto-Lei n.º 555/99, de 16 de Dezembro, na redacção da Lei n.º 60/2007, de 4 de Setembro, de forma a receber deste último os requerimentos apresentados no âmbito das operações urbanísticas e a submeter no mesmo as decisões tomadas.
+3.º
+Entidade gestora
+A gestão do sistema informático ou plataforma e das respectivas funcionalidades compete à Autoridade Nacional da Protecção Civil.
+4.º
+Funcionalidades
+1 - O sistema informático deve, nos termos do artigo 32.º, n.º 1, do Decreto-Lei n.º 220/2008, de 12 de Novembro, disponibilizar as seguintes funcionalidades:
+a) O envio de pedidos, requerimentos, recepção e disponibilização simultânea online dos elementos que constituem e instruem todos os procedimentos no âmbito do regime jurídico da segurança contra incêndios em edifícios;
+b) O envio de decisão, parecer, autorização ou aprovação de pedidos ou requerimentos;
+c) Tramitação procedimental desmaterializada de todos os procedimentos previstos e associados ao regime jurídico da segurança contra incêndios em edifícios;
+d) Realização de todas as comunicações e notificações no âmbito dos procedimentos;
+e) Permitir a tramitação desmaterializada e online dos pedidos de consulta externa e de realização de vistoria, no âmbito dos procedimentos de controlo prévio das operações urbanísticas, recebidos através do sistema informático a que se refere o artigo 8.º-A do Decreto-Lei n.º 555/99, de 16 de Dezembro, na redacção da Lei n.º 60/2007, de 4 de Setembro;
+f) Permitir a realização da liquidação pelas entidades consultadas e notificação para pagamento das taxas devidas, efectuar a prova do pagamento e disponibilizar informação sobre o seu pagamento;
+g) Efectuar a gestão e contagem dos prazos previstos nos procedimentos da Autoridade Nacional da Protecção Civil, de acordo com as regras estabelecidas no artigo 72.º do Código do Procedimento Administrativo;
+h) Efectuar a gestão e contagem dos prazos previstos no RJUE para a consulta, de acordo com as regras estabelecidas no artigo 72.º do Código do Procedimento Administrativo;
+i) Envio de alertas de aproximação do fim dos prazos previstos nos procedimentos;
+j) Realizar a gestão da informação documental e processual dos procedimentos;
+l)Registar, gerir e disponibilizar informação estatística acerca dos procedimentos por município, NUTS III, NUTS II e território nacional;
+m)Cumprir nas suas funcionalidades a legislação de protecção de dados pessoais;
+n) Constituir base de dados e backup de todos os elementos inseridos no sistema e criação de perfil de utilizador, controlo de acessos e autorizações;
+o) Criação de histórico de todos os documentos e movimentos do processo, de acordo com prazos definidos;
+p) Introdução única de dados permitindo a sua disponibilização imediata em todos os módulos e sistema totalmente integrado;
+q) Parametrização de consultas online;
+r) Conversão dos relatórios em ficheiros electrónicos;
+s) Ferramenta de exploração de base de dados para criação de relatórios, consultas e gráficos ad hoc;
+t) Ajuda online.
+2 - A Autoridade Nacional da Protecção Civil pode inserir outras funcionalidades ou introduzir alterações às existentes, de forma a garantir e aperfeiçoar o sistema e criar novas funcionalidades, desde que tal não prejudique a interoperabilidade com o sistema informático a que se refere o artigo 8.º-A do Decreto-Lei n.º 555/99, de 16 de Dezembro, na redacção da Lei n.º 60/2007, de 4 de Setembro.
+5.º
+Prestação de informação a terceiros
+Por protocolo a celebrar entre a Autoridade Nacional da Protecção Civil e outras entidades com interesse justificado, pode ser facultado o acesso à informação disponibilizada pelo sistema informático.
+6.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+Em 26 de Maio de 2009.
+O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado da Protecção Civil, José Miguel Abreu de Figueiredo Medeiros.
