@@ -2,6 +2,8 @@
 
 ## Fusão de sociedades
 
+## Secção I
+
 # Artigo 97.º
 
 ### (Noção. Modalidades)

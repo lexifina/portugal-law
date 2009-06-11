@@ -16,4 +16,4 @@ b) A justificação da aplicação ao caso concreto dos métodos utilizados pelo
 
 5 - Cada um dos revisores pode exigir das sociedades participantes as informações e documentos que julgue necessários, bem como proceder aos exames indispensáveis ao cumprimento das suas funções.
 
-6 - O exame do projecto de fusão referido no n.º 2 pode ser dispensado por acordo de todos os sócios de cada uma das sociedades que participam na fusão.
+6 - Não são exigidos o exame do projecto de fusão referido no n.º 2 e os relatórios previstos no n.º 4 se todos os sócios e portadores de outros títulos que confiram direito de voto de todas as sociedades que participam na fusão os dispensarem.
