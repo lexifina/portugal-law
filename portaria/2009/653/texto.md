@@ -1,0 +1,8 @@
+Portaria n.º 653/2009
+de 16 de Junho
+Nos termos do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 421/99, de 21 de Outubro, diploma que aprovou o Estatuto de Pessoal das Administrações Portuárias (EPAP), e do artigo 31.º do referido Estatuto, e ouvidos os sindicatos representativos do sector:
+Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:
+1.º Os montantes da tabela de remunerações base, incluindo diuturnidades, dos trabalhadores das administrações portuárias, aprovada pelo n.º 1.º da Portaria n.º 193/90, de 17 de Março, com os aditamentos previstos no n.º 1.º da Portaria n.º 863/91, de 20 de Agosto, no n.º 2.º da Portaria n.º 239/96, de 4 de Julho, e no n.º 2.º do n.º 81.º da Portaria n.º 1098/99, de 21 de Dezembro, resultantes da actualização prevista no n.º 1.º da Portaria n.º 270/2008, de 9 de Abril, são actualizados em 2,5 %, com arredondamento à décima do euro imediatamente superior.
+2.º Os montantes da tabela de remunerações base, incluindo diuturnidades, dos titulares dos cargos de direcção e chefia aprovada pelo n.º 1.º da Portaria n.º 194/90, de 17 de Março, resultantes da actualização prevista no n.º 2.º da Portaria n.º 270/2008, de 9 de Abril, são actualizados em 2,5 %, com arredondamento à décima do euro imediatamente superior.
+3.º O disposto na presente portaria produz efeitos a 1 de Janeiro de 2009.
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 5 de Junho de 2009.
