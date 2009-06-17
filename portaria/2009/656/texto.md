@@ -1,0 +1,9 @@
+Portaria n.º 656/2009
+de 17 de Junho
+Pela Portaria n.º 123/97, de 21 de Fevereiro, foi concessionada à Companhia das Lezírias, S. A., a zona de caça turística do Roubão, Braço de Prata e Outras (processo n.º 66-AFN), situada no município de Benavente, e válida até 13 de Julho de 2009.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no artigo 48.º e no n.º 1 do artigo 118.º, em conjugação com o estipulado na alínea a) do artigo 40.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos na freguesia de Samora Correia, município de Benavente, com a área de 8425 ha.
+2.º A concessão de alguns terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados que determinem a incompatibilidade da actividade cinegética com a conservação da natureza, até um máximo de 10 % da área total da zona de caça.
+3.º A presente portaria produz efeitos a partir do dia 14 de Julho de 2009.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 5 de Junho de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 9 de Junho de 2009.
