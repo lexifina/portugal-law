@@ -22,7 +22,7 @@ b) Terem decorrido pelo menos três anos desde a realização dos títulos de ca
 
 c) O reembolso não implicar a redução do capital social para valor inferior ao capital mínimo previsto nos estatutos nem implicar o incumprimento ou o agravamento de incumprimento de quaisquer relações ou limites prudenciais fixados por lei ou pelo Banco de Portugal em relação à caixa agrícola.
 
-4 - A direcção deve suspender o reembolso:
+4 - O órgão de administração deve suspender o reembolso:
 
 a) Em todas as situações a que alude o n.º 1, quando o reembolso for susceptível de causar problemas graves à caixa agrícola, podendo o associado, em tais circunstâncias e em caso de exoneração, retirar o respectivo pedido;
 

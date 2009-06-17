@@ -1,7 +1,11 @@
 # Artigo 13.º
 
-### Delegações
+### Agências
 
-1 - Precedendo autorização do Banco de Portugal, as caixas agrícolas podem instalar delegações na sua área de acção ou nos municípios limítrofes em que não exista nenhuma outra caixa agrícola em funcionamento.
+1 - As caixas agrícolas podem instalar agências na sua área de acção ou nos municípios limítrofes em que não exista nenhuma outra caixa agrícola em funcionamento, mediante autorização:
 
-2 - As delegações a que se refere o número anterior não podem iniciar o seu funcionamento sem que tenha sido efectuado no Banco de Portugal o registo especial a que se refere o artigo 10.º
+a) Da Caixa Central, no caso das caixas agrícolas suas associadas;
+
+b) Do Banco de Portugal, nos restantes casos.
+
+2 - No caso previsto na alínea a) do número anterior, a Caixa Central comunica, de imediato, ao Banco de Portugal as autorizações concedidas.

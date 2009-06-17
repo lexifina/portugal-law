@@ -12,8 +12,10 @@
 
 5 - Para efeitos do disposto no número anterior, os compromissos da caixa associada com vencimentos ulteriores à data da exoneração tornam-se exigíveis até àquela data.
 
-6 - A faculdade prevista no n.º 3 só poderá ser exercida no prazo de 90 dias contados da recepção da denúncia.
+6 - A faculdade prevista no n.º 4 só pode ser exercida no prazo de 90 dias contados da recepção da denúncia.
 
-7 - No caso previsto no n.º 3, vencer-se-ão igualmente os compromissos da Caixa Central para com as suas associadas.
+7 - No caso previsto no n.º 4, vencem-se igualmente os compromissos da Caixa Central para com as suas associadas.
 
 8 - Para efeitos da verificação da condição estabelecida no n.º 3, a Caixa Central dará conhecimento ao Banco de Portugal de todos os pedidos de exoneração logo que estes lhe sejam apresentados.
+
+9 - Caso estejam reunidas as condições que permitam o reembolso dos títulos de capital, cabe à assembleia geral a sua aprovação.

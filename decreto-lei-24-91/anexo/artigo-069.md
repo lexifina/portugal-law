@@ -20,7 +20,7 @@ c) A verificação dos factos previstos nos n.os 2 e 3 do artigo 79.º e 8 do ar
 
 6 - Os estatutos da Caixa Central poderão prever a aplicação de sanções de natureza pecuniária e a suspensão temporária de direitos em caso de incumprimento pelas caixas agrícolas associadas das regras e orientações emanadas da Caixa Central em conformidade com o disposto no presente diploma.
 
-7 - A aplicação das sanções referidas no número anterior é da competência do órgão de administração da Caixa Central, cabendo recurso para a assembleia geral, com efeito meramente devolutivo.
+7 - A aplicação das sanções referidas no número anterior é da competência do órgão de administração da Caixa Central, ou, se esta tiver adoptado a modalidade prevista na alínea c) do n.º 1 do artigo 278.º do Código das Sociedades Comerciais, do conselho geral e de supervisão, cabendo recurso para a assembleia geral, com efeito meramente devolutivo.
 
 8 - As sanções só poderão ser aplicadas mediante processo escrito e com audição prévia da associada.
 
