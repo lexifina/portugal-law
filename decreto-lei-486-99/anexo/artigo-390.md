@@ -2,7 +2,7 @@
 
 ### Sociedades abertas
 
-1 - Constitui contra-ordenação muito grave a omissão de comunicação ou divulgação de participação qualificada em sociedade aberta.
+1 - Constitui contra-ordenação muito grave a omissão de comunicação ou divulgação de participação qualificada em sociedade aberta ou de participação detida por sociedade aberta em sociedade sediada em Estado ou jurisdição que não seja membro da União Europeia.
 
 2 - Constitui contra-ordenação grave a omissão de:
 
