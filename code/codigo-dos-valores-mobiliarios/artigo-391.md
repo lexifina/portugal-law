@@ -2,4 +2,4 @@
 
 ### Fundos de garantia
 
-Constitui contra-ordenação grave a falta de constituição de fundos de garantia obrigatórios.
+Constitui contra-ordenação muito grave a falta de constituição de fundos de garantia obrigatórios e o incumprimento do dever de contribuição para os mesmos.

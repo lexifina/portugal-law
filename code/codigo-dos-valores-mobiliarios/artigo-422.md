@@ -2,7 +2,7 @@
 
 ### Divulgação de decisões
 
-1 - Decorrido o prazo de impugnação judicial, a decisão da CMVM que condene o agente pela prática de uma ou mais contra-ordenações muito graves é divulgada através do sistema de difusão de informação referido no artigo 367.º, por extracto elaborado pela CMVM ou na íntegra, mesmo que tenha sido requerida a sua impugnação judicial, sendo, neste caso, feita expressa menção desse facto.
+1 - Decorrido o prazo de impugnação judicial, a decisão da CMVM que condene o agente pela prática de uma ou mais contra-ordenações graves ou muito graves é divulgada através do sistema de difusão de informação referido no artigo 367.º, por extracto elaborado pela CMVM ou na íntegra, mesmo que tenha sido requerida a sua impugnação judicial, sendo, neste caso, feita expressa menção desse facto.
 
 2 - A decisão judicial que confirme, altere ou revogue a decisão condenatória da CMVM ou do tribunal de 1.ª instância é comunicada de imediato à CMVM e obrigatoriamente divulgada nos termos do número anterior.
 
