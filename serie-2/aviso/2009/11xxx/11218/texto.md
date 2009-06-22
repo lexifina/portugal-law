@@ -1,0 +1,5 @@
+Aviso n.º 11218/2009
+Plano de Pormenor de um terreno sito na freguesia de Santa Margarida
+Jorge Manuel Fernandes Malheiro de Magalhães, Presidente da Câmara Municipal de Lousada, torna público que a Câmara Municipal de Lousada na sua reunião de 18 de Maio de 2009, deliberou a elaboração do Plano de Pormenor da freguesia de Santa Margarida, no prazo de 180 dias, nos termos do n.º 1 do artigo 74 do Decreto-Lei n.º 380/99 de 22 de Setembro com as alterações introduzidas pelo Decreto-Lei 46/2009 de 20 de Fevereiro, e proceder à abertura do Período de Participação de 15 dias, a contar do dia seguinte da data de publicação deste aviso, conforme o previsto no n.º 2 do artigo 77.º do referido diploma legal, durante o qual os interessados poderão formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração do Plano de Pormenor de Santa Margarida.
+4 de Junho de 2009. - O Presidente da Câmara, Jorge Manuel Fernandes Malheiro de Magalhães.
+301883934
