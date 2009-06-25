@@ -1,0 +1,9 @@
+Portaria n.º 681/2009
+de 25 de Junho
+Com fundamento no disposto na alínea a) do artigo 40.º e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção, e ouvido o Conselho Cinegético Municipal de Évora:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente, à Sela Ibérica - Actividades Hípicas e Turísticas, Lda., com o número de identificação fiscal 506839362 e sede social no Monte das Flores, 7000-171 Évora, a zona de caça turística da Herdade do Louseiro e outras (processo n.º 5250-AFN), englobando vários prédios rústicos sitos na freguesia de Nossa Senhora de Machede, município de Évora, com a área de 419 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até ao máximo de 10 % da área total da zona de caça.
+3.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 16 de Junho de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 18 de Junho de 2009.
+(ver documento original)
