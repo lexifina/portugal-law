@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal Administrativo de 2009-06-25, processo 0243/09
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0243/09
+
+**Data do Acordão:** 06/25/2009
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JORGE LINO
+
+**Descritores:** OPOSIÇÃO À EXECUÇÃO; EXECUÇÃO FISCAL; ILEGALIDADE ABSTRACTA; TAXA DE PUBLICIDADE; INSTITUTO DAS ESTRADAS DE PORTUGAL; COMPETÊNCIA
+
+**Nº Convencional:** JSTA00065833
+
+**Nº do Documento:** SA2200906250243
+
+**Data de Entrada:** 03/05/2009
+
+**Recorrente:** A...
+
+**Recorrido 1:** FAZENDA PÚBLICA
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAF LOULÉ PER SALTUM.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - OPOSIÇÃO / EXEC FISCAL.
+
+**Legislação Nacional:** CPPTRIB99 ART204 N1 A H N2.; CPTRIB91 ART236 ART286 N1 H N2.; CPCI63 ART145 ART176 A G.; CONST97 ART103 N2 N3 ART105 N1 N2 N4 ART165 I ART199.; DL 239/2004 DE 2004/12/21 ART8 N3 D.; DL 227/2002 DE 2002/10/30 ART4 N1 ART6 N1 N2 N3 C D.; ESTATUTOS DO IEP APROVADOS PELO DL 237/99 DE 1999/06/25 ART4 N1 B J L N2 J N.; DL 13/71 DE 1971/ 01/23 ART1 ART2 ART3 ART10 N1 B N2 ART15 N1 J NAS REDACÇÕES DO DL 667/76 DE 1976/08/05 DL 232/82 DE 1982/06/19 DL 25/2004 DE 2004/01/24,; L 97/88 DE 1988/08/17 ART1 N1 ART2.; DL 105/98 DE 1998/04/24 ART8 N4.
+
+**Referência a Doutrina:** ALFREDO JOSÉ DE SOUSA E OUTRO CÓDIGO DE PROCESSO TRIBUTÁRIO COMENTADO E ANOTADO 3ED NOTA8 AO ART286.; ALFREDO JOSÉ DE SOUSA E OUTRO CÓDIGO DE PROCESSO DAS CONTRIBUIÇÕES E IMPOSTOS COMENTADO E ANOTADO NOTA E NOTAS NOTA16 AO ART176.; JORGE DE SOUSA CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO ANOTADO E COMENTADO ANOTAÇÃO AO ART204.
+
+## Sumário
+
+O IEP-Instituto de Estradas de Portugal goza de habilitação legal ou competência para a cobrança por meio de execução fiscal de taxas de licença para a implantação de tabuletas ou objectos de publicidade na denominada zona de protecção à estrada.
