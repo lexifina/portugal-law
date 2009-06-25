@@ -4,7 +4,7 @@
 
 1 - As datas limite de entrada em serviço de cada um dos lanços referidos no n.º 1 da base II são as seguintes:
 
-(ver tabela no documento original)
+(ver documento original)
 
 2 - As datas de entrada em serviço e, bem assim, as datas de início da construção de cada um dos lanços referidos no número anterior constam do programa de estudos, projecto e construção de recuperação.
 
