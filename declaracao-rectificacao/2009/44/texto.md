@@ -1,0 +1,7 @@
+Declaração de Rectificação n.º 44/2009
+Ao abrigo da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que o Decreto-Lei n.º 99-A/2009, de 29 de Abril, publicado no Diário da República, 1.ª série, n.º 83, de 29 de Abril de 2009, saiu com a seguinte inexactidão que, mediante declaração da entidade emitente, assim se rectifica:
+No 3.º parágrafo do anexo i, que define os limites do Parque Natural da Ria Formosa, onde se lê:
+«Daqui, prossegue pelo terminal nascente do Aeroporto de Faro, no sentido sul-norte e inflecte pelo caminho carreteiro, para norte, que circunda o Parchal dos Azeites, até ao cruzamento com a estrada municipal n.º 527. Daqui segue pela estrada municipal n.º 527, até à passagem de nível do caminho-de-ferro, continuando pela linha do caminho-de-ferro até à intersecção com o caminho da Horta do Refúgio, seguindo para norte até à estrada nacional n.º 125.»
+deve ler-se:
+«Daqui, prossegue pelo terminal nascente do Aeroporto de Faro, no sentido sul-norte e inflecte pelo caminho carreteiro, para norte, que circunda o Parchal dos Azeites, até ao cruzamento com a estrada municipal n.º 527. Daqui segue pela estrada municipal n.º 527, até à passagem de nível do caminho-de-ferro, passando por Faro até Olhão até à intersecção com o caminho da Horta do Refúgio, seguindo para norte até à estrada nacional n.º 125.»
+Centro Jurídico, 25 de Junho de 2009. - O Director-Adjunto, Pedro Delgado Alves.
