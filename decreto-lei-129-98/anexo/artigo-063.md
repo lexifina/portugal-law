@@ -2,6 +2,10 @@
 
 ## Impugnação de decisões
 
+## Capítulo I
+
+## Recurso hierárquico e impugnação judicial
+
 # Artigo 63.º
 
 ### Admissibilidade
