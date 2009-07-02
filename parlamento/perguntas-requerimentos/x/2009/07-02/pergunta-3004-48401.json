@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "48401",
+  "tipo": "Pergunta",
+  "numero": "3004",
+  "data_registo": "2009-07-02",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Situação da empresa INAPAL, no distrito de Setúbal",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1715",
+        "nome": "Bruno Dias"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2077",
+        "nome": "Francisco Lopes"
+      }
+    ],
+    "DataEnvio": "2009-07-03",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2009-07-03",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DO TRABALHO E DA SOLIDARIEDADE SOCIAL",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2009-09-17",
+            "docRemetida": null,
+            "entidade": "MIN. DO TRABALHO E DA SOLIDARIEDADE SOCIAL",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544338334d4463785a546c68595330794d6a67784c54526c5a6a67744f44457a4f5330794f474d775a474d77597a557a4e5749756347526d&fich=7071e9aa-2281-4ef8-8139-28c0dc0c535b.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2009-07-02",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544338334d4755344e6d5a6b4d6930334e4441774c5451335a6d5574595746685a5330304e4451354e7a646d4e6d5a6d4d3251756347526d&fich=70e86fd2-7400-47fe-aaae-444977f6ff3d.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "48401",
+    "Legislatura": "X",
+    "Nr": "3004",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "488902",
+        "obs": null,
+        "pag": [
+          "18-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009",
+        "pubLeg": "X",
+        "pubNr": "157",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/157/2009-07-09/18?pgs=18&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Pergunta"
+  }
+}
