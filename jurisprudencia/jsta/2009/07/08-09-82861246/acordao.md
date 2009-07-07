@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal Administrativo de 2009-07-07, processo 08/09
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 08/09
+
+**Data do Acordão:** 07/07/2009
+
+**Tribunal:** CONFLITOS
+
+**Relator:** CARDOSO DE ALBUQUERQUE
+
+**Descritores:** CONFLITO DE JURISDIÇÃO; COMPETÊNCIA DOS TRIBUNAIS JUDICIAIS; COMPETÊNCIA DOS TRIBUNAIS ADMINISTRATIVOS; CAMINHO PÚBLICO; DOMÍNIO PÚBLICO
+
+**Nº Convencional:** JSTA00065874
+
+**Nº do Documento:** SAC2009070708
+
+**Data de Entrada:** 04/15/2009
+
+**Recorrente:** MAGISTRADA DO MINISTÉRIO PÚLBICO, NO CONFLITO NEGATIVO DE JURISDIÇÃO ENTRE O TRIBUNAL JUDICIAL DE CELORICO DE BASTO E O TRIBUNAL ADMINISTRATIVO E FISCAL DE BRAGA
+
+**Recorrido 1:** *
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** CONFLITO.
+
+**Objecto:** NEGATIVO JURISDIÇÃO TAF BRAGA - TRIBUNAL JUDICIAL DE CELORICO DE BASTO.
+
+**Decisão:** DECL COMPETENTE TRIBUNAL JUDICIAL.
+
+**Área Temática 1:** DIR ADM GER.
+
+**Área Temática 2:** DIR JUDIC - ORG COMP TRIB.
+
+**Legislação Nacional:** CONST97 ART209 N1 A ART210 ART211 N1 ART212 N3.; CPC96 ART66.; LOFTJ99 ART18 N1.; ETAF02 ART4.
+
+**Jurisprudência Nacional:** AC CONFLITOS PROC26/08 DE 2009/04/21.; AC CONFLITOS PROC3/09 DE 2009/03/28.; AC CONFLITOS PROC17/08 DE 2008/12/09.
+
+**Referência a Doutrina:** VIEIRA DE ANDRADE JUSTIÇA ADMINISTRATIVA 9ED PAG103.; FREITAS DO AMARAL CURSO DE DIREITO ADMINISTRATIVO 2002 PAG137.; MÁRIO ESTEVES DE OLIVEIRA E OUTROS CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS VI PAG25 PAG26.; MANUEL DE ANDRADE NOÇÕES ELEMENTARES DE PROCESSO CIVIL PAG89 PAG90.
+
+## Sumário
+
+São competentes os tribunais comuns para o julgamento de uma acção em que os autores pedem que seja reconhecido por um particular que um caminho pertence ao domínio público.
