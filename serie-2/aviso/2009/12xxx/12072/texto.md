@@ -1,0 +1,6 @@
+Aviso n.º 12072/2009
+Plano de Urbanização da Amadora - zona nascente (PUAZN) - 1.ª Alteração - Discussão pública
+Joaquim Moreira Raposo, Presidente da Câmara Municipal da Amadora, faz público, que depois de ouvidas as entidades representativas dos interesses a ponderar e de acordo com o parecer emitido pela Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo (acta da Conferência de Serviços realizada em 27.04.2009 acerca da 1.º alteração ao Plano de Urbanização da Amadora-Zona Nascente-Puazn, em cumprimento da deliberação da Câmara Municipal da Amadora tomada em 17.06.2009, nos termos dos n.º s 3 e 4 do artigo.77.º do DL 380/99, de 22 de Setembro, na redacção dada pelo DL 46/2009 de 20 de Fevereiro, se procede à abertura do período de discussão pública da alteração ao referido plano de urbanização.
+Mais se informa que o período de discussão pública é de 22 dias, com inicio no 6.º dia após a publicação do presente aviso no Diário da República, que os interessados podem consultar a proposta do plano e pareceres emitidos, no Departamento de Administração Urbanística da Câmara Municipal da Amadora, nas horas normais de expediente e que devem apresentar, por escrito, as suas reclamações, observações ou sugestões, até ao final do referido período.
+24 de Junho de 2009. - O Presidente da Câmara, Joaquim Moreira Raposo.
+201980956
