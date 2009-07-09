@@ -4,7 +4,7 @@
 
 1 - Compete ao GRAL proceder à selecção dos mediadores para integrarem as listas de mediadores penais.
 
-2 - As listas de mediadores penais encontram-se organizadas por ordem alfabética e por comarca.
+2 - As listas de mediadores penais são organizadas nos termos de despacho do director do Gabinete para a Resolução Alternativa de Litígios.
 
 3 - Compete ao GRAL assegurar a manutenção e actualização das listas de mediadores penais, bem como a sua disponibilização aos serviços do Ministério Público.
 
