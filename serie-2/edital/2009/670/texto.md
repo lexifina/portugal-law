@@ -1,0 +1,4 @@
+Edital n.º 670/2009
+Engenheiro José Maria Ministro dos Santos, Presidente da Câmara Municipal de Mafra, faz público em cumprimento do artigo 91.º da Lei n.º 169/99, de 18 de Setembro, na sua redacção actual QUE, na sequência do Aviso publicado com o n.º 8808/2009, no Diário da República, 2.ª série, n.º 82, de 28 de Abril deste mesmo ano, em reunião da Câmara Municipal e em sessão da Assembleia Municipal realizadas, respectivamente, em 18 e 30 de Junho do corrente ano, e após ter decorrido a audiência dos interessados e apreciação pública nos termos dos artigos 117.º e 118.º do Código do Procedimento Administrativo, foi aprovado, a alteração ao Regulamento sobre o Licenciamento das Actividades Diversas, o qual entrará em vigor no prazo de 15 dias após a data da publicação do presente edital no Diário da República.
+2 de Julho de 2009. - O Presidente da Câmara, José Maria Ministro dos Santos.
+301999116
