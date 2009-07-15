@@ -1,0 +1,7 @@
+Portaria n.º 746/2009
+de 14 de Julho
+Considerando a recente alteração ao regime jurídico do crédito agrícola mútuo, aprovada pelo Decreto-Lei n.º 142/2009, de 16 de Junho, que veio alargar o objecto da Caixa Central de Crédito Agrícola Mútuo no sentido de abranger todas as actividades permitidas aos bancos, vem o Governo, através do Ministro de Estado e das Finanças, determinar, ao abrigo do n.º 1 do artigo 95.º e do n.º 1 do artigo 196.º, ambos do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, com alterações introduzidas pelos Decretos-Leis n.os 246/95, de 14 de Setembro, 232/96, de 5 de Dezembro, 222/99, de 22 de Julho, 250/2000, de 13 de Outubro, 285/2001, de 3 de Novembro, 201/2002, de 26 de Setembro, 319/2002, de 28 de Dezembro, 252/2003, de 17 de Outubro, 145/2006, de 31 de Julho, 104/2007, de 3 de Abril, 357-A/2007, de 31 de Outubro, 1/2008, de 3 de Janeiro, 126/2008, de 21 de Julho, e 211-A/2008, de 3 de Novembro, o seguinte:
+1.º A alínea c) do n.º 1.º da Portaria n.º 95/94, de 9 de Fevereiro, com as alterações introduzidas pelas Portarias n.os 847/97, de 25 de Outubro, 1010/98, de 1 de Outubro, 1197/2000, de 27 de Julho, e 866/2002, de 24 de Julho, passa a ter a seguinte redacção:
+«c) Caixa Central de Crédito Agrícola Mútuo - (euro) 17 500 000;»
+2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 17 de Junho de 2009.
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Julho de 2009.
