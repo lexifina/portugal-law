@@ -1,0 +1,7 @@
+Edital n.º 686/2009
+Manuel João Fontainhas Condenado, Presidente da Câmara Municipal de Vila Viçosa:
+Faz público, em cumprimento do disposto no n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99 de 22 de Setembro com a redacção dada pelo Decreto-Lei n.º 46/2009 de 20 de Fevereiro, que a Câmara Municipal, na sua reunião ordinária pública de 20 de Maio de 2009, deliberou iniciar a Alteração ao Plano de Pormenor da Zona Industrial de Vila Viçosa, no sentido de permitir outra configuração geométrica de implantação do Lote L21, mantendo-se os índices aplicáveis e ainda, possibilitar o seu acesso através da via P1, dado o tipo de estabelecimento a instalar
+Assim, nos termos conjugados do n.º 2 do artigo 77 do supra citado Decreto-Lei e deliberação de 03/06/2009 da Câmara Municipal, podem, num prazo de 15 dias, todos os cidadãos e entidades interessadas, formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de Alteração, devendo as mesmas ser elaboradas por escrito e dirigidas ao Presidente da Câmara Municipal e entregues na respectiva Divisão de Administração Urbanística ou remetidas pelo correio para Praça da República, 7160-207 Vila Viçosa.
+Em cumprimento dos artigo os 148.º e 149.º do Decreto-Lei n.º 46/ 2009, de 20 de Fevereiro, vão aquelas deliberações ser publicadas na 2.ª série do Diário da República e em outros meios de publicidade
+3 de Julho de 2009. - O Presidente da Câmara, Manuel João Fontainhas Condenado.
+202017486
