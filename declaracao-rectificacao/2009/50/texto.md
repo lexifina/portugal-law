@@ -1,0 +1,7 @@
+Declaração de Rectificação n.º 50/2009
+Ao abrigo da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que a Portaria n.º 743-A/2009, publicada no Diário da República, 1.ª série, n.º 132, suplemento, de 10 de Julho de 2009, saiu com a seguinte inexactidão, que, mediante declaração da entidade emitente, assim se rectifica:
+No n.º 3 do artigo 23.º do Regulamento do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público para a Matrícula e Inscrição no Ano Lectivo de 2009-2010, onde se lê:
+«3 - O disposto na alínea c) do número anterior também se aplica aos estudantes que pretendem utilizar exames nacionais do ensino secundário realizados em 2007 ou 2008 correspondentes às provas de ingresso exigidas para ingresso nos pares estabelecimento/curso a que concorrem, pelo que também devem instruir o processo de candidatura com a ficha ENES 2008, cuja emissão solicitam na escola secundária onde realizaram os exames nacionais.»
+deve ler-se:
+«3 - O disposto na alínea c) do número anterior também se aplica aos estudantes que pretendem utilizar exames nacionais do ensino secundário realizados em 2007 ou 2008 correspondentes às provas de ingresso exigidas para ingresso nos pares estabelecimento/curso a que concorrem, pelo que também devem instruir o processo de candidatura com a ficha ENES 2009, cuja emissão solicitam na escola secundária onde realizaram os exames nacionais.»
+Centro Jurídico, 15 de Julho de 2009. - O Director-Adjunto, Pedro Delgado Alves.
