@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "48579",
+  "tipo": "Pergunta",
+  "numero": "3176",
+  "data_registo": "2009-07-17",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "A Redução das vagas no quadro dos efectivos no âmbito do PRACE - Delegação Regional do Norte do IEFP",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1102",
+        "nome": "Pedro Mota Soares"
+      }
+    ],
+    "DataEnvio": "2009-07-20",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2009-07-20",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DO TRABALHO E DA SOLIDARIEDADE SOCIAL",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2009-08-20",
+            "docRemetida": null,
+            "entidade": "MIN. DO TRABALHO E DA SOLIDARIEDADE SOCIAL",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a52545443396c4d4759304d7a646d4d7930354d7a5a6c4c54526c5a4755744f44526c4e7931694d7a67334d6a51344d474a6a4e5745756347526d&fich=e0f437f3-936e-4ede-84e7-b3872480bc5a.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2009-07-17",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a52545443396a4f4745774d5749345a533169596a4a6c4c5452684e6a5974595755794e4330344e475a694d4459355a4441774d4445756347526d&fich=c8a01b8e-bb2e-4a66-ae24-84fb069d0001.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "48579",
+    "Legislatura": "X",
+    "Nr": "3176",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "489828",
+        "obs": null,
+        "pag": [
+          "26-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009",
+        "pubLeg": "X",
+        "pubNr": "173",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/04/173/2009-07-28/26?pgs=26&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Pergunta"
+  }
+}
