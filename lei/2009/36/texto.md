@@ -1,0 +1,43 @@
+Lei n.º 36/2009
+de 20 de Julho
+Autoriza o Governo a aprovar o Código Florestal
+A Assembleia da República decreta, nos termos da alínea d) do artigo 161.º da Constituição, o seguinte:
+Artigo 1.º
+Objecto
+É concedida autorização ao Governo para aprovar o Código Florestal e um regime contra-ordenacional específico para as infracções de natureza florestal.
+Artigo 2.º
+Sentido
+A presente lei de autorização legislativa é concedida para permitir obter uma maior eficácia na prevenção e repressão dos ilícitos contra-ordenacionais em causa, tendo em vista o objectivo final consubstanciado na conservação e gestão racional dos recursos da floresta, de privar os responsáveis de qualquer benefício económico resultante das infracções ou, no mínimo, de os sancionar de forma proporcional à gravidade das infracções cometidas, de aproveitar os meios que as novas tecnologias disponibilizam, sem alterar as garantias de defesa do arguido, de possibilitar o licenciamento pelas câmaras municipais nas acções de arborização e rearborização, bem como da instrução e decisão dos correspondentes processos contra-ordenacionais e ainda obrigar os proprietários e outros produtores florestais à realização de operações silvícolas mínimas, que garantam a salvaguarda do património florestal.
+Artigo 3.º
+Extensão
+A extensão da autorização legislativa concedida é a seguinte:
+a) Fixação dos limites das coimas aplicáveis ao agente no montante mínimo de (euro) 50 e no montante máximo de (euro) 100 000, no caso de o infractor ser pessoa singular;
+b) Fixação do limite das coimas aplicáveis ao agente no montante mínimo de (euro) 500 e no montante máximo de (euro) 500 000, no caso de o infractor ser pessoa colectiva;
+c) Consagração da responsabilidade contra-ordenacional relativamente àqueles que actuam em nome de outrem, desde que o façam voluntariamente, como órgão, membro ou representante de uma pessoa colectiva ou sociedade, ainda que irregularmente constituída, ou de mera associação de facto, ou ainda em representação legal ou voluntária de outrem;
+d) Criação de um registo individual informatizado no qual são lançadas todas as sanções aplicadas;
+e) Consagração do limite máximo de três anos, para as sanções acessórias, de duração da privação da atribuição de subsídios ou outros benefícios, outorgados ou a outorgar, por entidades ou serviços públicos, no âmbito da actividade florestal;
+f) Atribuição de fé em juízo aos autos de notícia levantados pelas autoridades ou agentes da autoridade no exercício das suas funções de fiscalização, até prova em contrário;
+g) Previsão de que os bens apreendidos aos infractores constituam garantias de pagamento das coimas;
+h) Estabelecimento da possibilidade de venda antecipada de bens cautelarmente apreendidos, quando haja risco de deterioração ou tal seja requerido pelo respectivo proprietário ou detentor;
+i) Previsão do pagamento voluntário pelo mínimo legal da coima, no caso de o infractor não ter qualquer antecedente no respectivo registo individual;
+j) Previsão da declaração de perda a favor do Estado de quaisquer instrumentos, que serviram ou estavam destinados a servir a prática da contra-ordenação, bem como os bens, produtos e quantias apreendidas em processo contra-ordenacional;
+l) Previsão da prescrição, decorrido o prazo de cinco anos sobre a prática da contra-ordenação, do procedimento pelas contra-ordenações graves e muito graves;
+m) Previsão da prescrição da coima e sanções acessórias, decorrido o prazo de dois anos sobre a prática da contra-ordenação, no caso das contra-ordenações leves;
+n) Previsão da obrigação de os proprietários e outros produtores florestais procederem à realização de operações silvícolas mínimas nas respectivas explorações florestais e agro-florestais;
+o) Previsão da possibilidade da entrada livre nos estabelecimentos e locais onde se exerçam as actividades a inspeccionar pelas autoridades administrativas no exercício das funções inspectivas, de fiscalização ou vigilância;
+p) Previsão, no caso da arborização e rearborização com espécies de rápido crescimento, do licenciamento, pelas câmaras municipais, das acções que envolvam áreas inferiores a 10 ha;
+q) Consagração da possibilidade de as câmaras municipais instruírem e decidirem processos de contra-ordenação, no que se refere às acções dos operadores florestais e às arborizações e rearborizações até 10 ha;
+r) Previsão de que os espaços florestais possam ficar submetidos ao regime florestal e aos seus ónus e incidências;
+s) Previsão de que os espaços florestais privados, não incluídos no regime florestal total ou parcial, que beneficiem de apoios públicos para a constituição ou beneficiação de povoamentos florestais, sejam submetidos ao regime florestal especial, por força do contrato e durante a sua vigência;
+t) Previsão de que as vias de comunicação florestais, nos terrenos submetidos ao regime florestal que não constituam o acesso público de povoações ou propriedades particulares, não estejam abertas ao trânsito público;
+u) Consagração da possibilidade de o Orçamento do Estado poder concretizar anualmente os benefícios fiscais adequados ao sector florestal, para além do estabelecido na legislação florestal aplicável.
+Artigo 4.º
+Prazo
+A autorização legislativa concedida pela presente lei tem a duração de 90 dias.
+Aprovada em 22 de Maio de 2009.
+O Presidente da Assembleia da República, Jaime Gama.
+Promulgada em 8 de Julho de 2009.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendada em 9 de Julho de 2009.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
