@@ -1,0 +1,4 @@
+Aviso n.º 12861/2009
+Carlos Alberto Oliveira Henriques, Vice-Presidente da Câmara Municipal de Batalha, torna público, que foi dado cumprimento do disposto no n.º 1 do artigo 118.º do Código de Procedimento Administrativo, não tendo sido registadas quaisquer reclamações ao projecto do Regulamento Municipal do Banco Local de Voluntariado da Batalha, aprovado pela Câmara Municipal em 19/03/2009, publicado no Diário da República, 2.ª Série, n.º 81, de 27 de Abril de 2009 - Aviso n.º 8744/2009, podendo o mesmo ser consultado no portal do Município (www.cm-batalha.pt).
+30 de Junho de 2009. - O Vice-Presidente da Câmara, Carlos Alberto Oliveira Henriques.
+302038838
