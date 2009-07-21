@@ -1,0 +1,5 @@
+# Artigo 25.º
+
+### Condição militar
+
+Os membros das Forças Armadas servem, exclusivamente, a República e a comunidade nacional e assumem voluntariamente os direitos e deveres que integram a condição militar, nos termos da lei.
