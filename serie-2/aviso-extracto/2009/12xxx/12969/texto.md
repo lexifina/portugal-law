@@ -1,0 +1,10 @@
+Aviso (extracto) n.º 12969/2009
+Revisão do Plano de Urbanização da Vila de Mértola
+Jorge Paulo Colaço Rosa, Presidente da Câmara Municipal de Mértola, em cumprimento do preceituado no n.º 1 do artigo 74.º conjugado com o artigo 96.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009 de 20 de Fevereiro, faz saber que em reunião ordinária de 15 de Abril de 2009, foi deliberado proceder à Revisão do Plano de Urbanização da Vila de Mértola.
+As alterações a introduzir no Plano decorrem da necessidade de proceder à adequação/conformação dos parâmetros urbanísticos, bem como a localização de alguns equipamentos, considerando que já decorreram mais de três anos desde a entrada em vigor da última revisão, existindo assim necessidade de adequação à evolução a médio prazo das condições económicas e sociais.
+Nos termos do n.º 1 do artigo 74.º e alínea b) do n.º 4 do artigo 148.º do Regime jurídico dos Instrumentos de Gestão Territorial, conjugado com o n.º 2 do artigo 77.ºdo já citado Decreto-Lei n.º 380/99 e num prazo de 30 dias a contar da data de publicação do presente aviso no Diário da República, poderão ser formuladas sugestões, bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+Durante este período, o processo de revisão do Plano de Urbanização da Vila de Mértola, encontra-se ao dispor de qualquer interessado, para consulta, nas instalações da Divisão de Ordenamento do Território e Administração Urbanística, sita na Av. Aureliano Mira Fernandes, n.º 8-1.º, em Mértola, todos os dias úteis, durante o horário normal de expediente.
+As sugestões e outras informações acima referidas devem ser apresentadas por escrito e remetidas à Câmara Municipal de Mértola, Praça Luís de Camões, 7750-329 Mértola.
+O prazo previsto para a revisão do Plano de Urbanização é fixado num máximo de 6 meses, contados a partir do final do período de participação.
+1 de Junho de 2009. - O Presidente da Câmara, Jorge Paulo Colaço Rosa.
+302028267
