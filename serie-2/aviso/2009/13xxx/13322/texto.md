@@ -1,0 +1,8 @@
+Aviso n.º 13322/2009
+Alteração ao Regulamento do Plano Director Municipal de Porto de Mós
+João Salgueiro, presidente da Câmara Municipal de Porto de Mós, faz saber que a Câmara Municipal de Porto de Mós, em reunião ordinária realizada em 9 de Junho de 2009, deliberou proceder à alteração do artigo 26.º do Regulamento do Plano Director Municipal de Porto de Mós, por se considerar necessário permitir acolher a implementação de infra-estruturas de produção de energias renováveis no concelho, em espaços florestais de protecção.
+Mais deliberou proceder à avaliação ambiental estratégica, de acordo com os critérios estabelecidos no anexo ao Decreto-Lei n.º 232/2007, de 15 de Junho.
+Assim e nos termos do n.º 2 do artigo 6.º e do n.º 2, do artigo 77.º do Decreto-Lei n.º 380/1999, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, está aberto o direito de participação dos munícipes, que pretendam formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de alteração e cujos termos de referência podem ser lidos na página da Internet do município ou consultados na Câmara Municipal.
+Tais contributos podem ser formulados no prazo de 15 dias úteis a contar da data da publicação deste aviso no Diário da República, devendo ser dirigidos à Câmara Municipal de Porto de Mós, Divisão de Urbanismo e Planeamento, em carta fechada, contendo no exterior do envelope «Direito à participação - Alteração ao Plano Director Municipal de Porto de Mós».
+22 de Julho de 2009. - O Presidente da Câmara, João Salgueiro.
+202085259
