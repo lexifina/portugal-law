@@ -1,0 +1,24 @@
+# Resolução n.º 862/2009
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 76/2009, 2.º suplemento, de 2009-07-28
+
+**Sumário:** Autoriza a celebração de um contrato programa com a sociedade denominada Sociedade Pólo Científico e Tecnológico da Madeira - Madeira Tecnopolo S.A., tendo em vista a concepção e montagem do sistema de incentivos + Conhecimento e a estruturação de candidaturas ao mencionado sistema de incentivos.
+
+## Texto
+
+Resolução n.º 862/2009
+Considerando que a criação de condições para atrair investigadores e cientistas, de renome mundial, em áreas emergentes, nomeadamente no caso da biotecnologia, nanotecnologia, e comunicações, constitui um dos objectivos primordiais da política governativa e um desafio que é colocado ao desenvolvimento futuro do pólo tecnológico tutelado pela Vice-Presidência do Governo Regional e às parcerias que, neste âmbito, possam ser estabelecidas com universidades nacionais e estrangeiras;
+Considerando que a necessidade de encontrar soluções para estimular a permanência de investigadores seniores na Região Autónoma da Madeira para que aqui possam desenvolver pesquisas e novos conhecimentos, capazes de dotar a Região de uma nova “marca”, agora relacionada com a investigação, atraindo e fixando competências;
+Considerando que a sociedade designada por Pólo Científico e Tecnológico da Madeira - Madeira Tecnopólo. S.A. tem por objecto social o desenvolvimento, a promoção e gestão do Parque Científico e Tecnológico, a prestação dos serviços de apoio necessários à sua actividade, bem como o incremento do desenvolvimento económico, científico e tecnológico da Madeira, através do reforço competitivo das empresas, da internacionalização da criação de empresas inovadoras e de base tecnológica, da extensão das actividades de investigação e desenvolvimento tecnológico, da valorização do potencial humano e do ordenamento do território;
+Considerando a necessidade de criar um sistema de incentivos regional correspondente ao já vigente para o território continental português, aplicável aos projectos a desenvolver na R.A.M, visando:
+. Intensificar o esforço empresarial regional de I&DT . Criar novos conhecimentos com vista ao aumento da
+competitividade das empresas ; . Promover a inserção das empresas em redes
+nacionais e internacionais de conhecimento, estimulando a criação e endogeneização de novos conhecimentos indutores de novas oportunidades económicas ; . Promover a cooperação e o desenvolvimento de projectos de I&DT entre as empresas e as entidades do SCT ; . Estimular a demonstração, experimentação tecnológica, a disseminação e a transferência de tecnologia para o sector empresarial; Considerando a necessidade de estruturar novas áreas de investigação e desenvolvimento na Região Autónoma da Madeira; Considerando que a Carnegie Mellon University, a Universidade da Madeira, o Madeira Tecnopólo e o Centro de Ciência e Tecnologia da Madeira trabalham juntos no Programa CMU - Madeira - Human Computer Interaction. Considerando a aptidão técnica e a missão do Pólo Cientifico e Tecnológico da Madeira - Madeira Tecnopólo, S.A., designadamente no desenvolvimento de projectos anteriores e similares aos descritos no presente contrato. O Conselho de Governo, reunido em plenário em 23 de Julho de 2009, resolveu:
+
+1. Ao abrigo do disposto no artigo 25.º do Decreto Legislativo Regional n.º 45/2008/M que aprova o Orçamento da Região Autónoma da Madeira para 2009, autorizar a celebração de um contrato-programa com o Pólo Científico e Tecnológico da Madeira - Madeira Tecnopolo S.A., tendo em vista a concepção e montagem do sistema de incentivos + Conhecimento e a estruturação de candidaturas ao mencionado sistema de incentivos.
+2. Mandatar o Senhor Vice-Presidente do Governo Regional da Madeira, para, em representação da Região, elaborar o respectivo processo e outorgar o contrato-programa a celebrar com o Pólo Científico e Tecnológico da Madeira - Madeira Tecnopolo, S.A., sendo o seu início reportado ao dia 1 de Janeiro de 2008, e término a 31 de Dezembro de 2009 e cuja minuta faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência.
+3. No âmbito do presente contrato-programa, a Região Autónoma da Madeira concederá uma comparticipação financeira ao Pólo Científico e Tecnológico da Madeira - Madeira Tecnopolo, S.A., cujo montante máximo será de 150.000,00 (cento e cinquenta mil euros), sendo o processamento da comparticipação proporcional aos custos imputáveis ao andamento do projecto. A comparticipação só será concedida após a apresentação de comprovativos de despesas inerentes ao projecto.
+4. As despesas, referentes ao ano 2009, têm cabimento orçamental na Secretaria 03, Capítulo 50, Divisão 05, Subdivisão 01, Código de Classificação Económica 02.02.25 Alínea A.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
