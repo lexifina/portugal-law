@@ -1,0 +1,8 @@
+Aviso n.º 13334/2009
+Decisão de elaborar o Plano de Pormenor da Entrada Sul - Parque da Cidade de Vendas Novas
+Faz-se público, para os efeitos previstos no n.º 4 do artigo 77.º do Decreto-Lei 380/99 de 22 de Setembro, alterado e Republicado pelo Decreto-Lei 316/2007 de 19 de Setembro, que a Câmara Municipal de Vendas Novas, na sua reunião ordinária, deliberou, em 30 de Janeiro de 2008, proceder à elaboração do Plano de Pormenor da Entrada Sul - Parque da Cidade de Vendas Novas.
+Por tal motivo, e ao abrigo do previsto nas disposições conjugadas do n.º 2 do artigo 77 e n.º 1 do artigo 74 do Decreto-Lei 380/99 de 22 de Setembro, republicado pelo Decreto-Lei 46/2009 de 20 de Fevereiro, encontra-se aberto, durante o prazo de 20 dias, contados a partir do 5.º dia posterior ao da publicação do presente aviso no Diário da República, um período de participação, aberto a todos os interessados, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+O prazo referido é contado nos termos previstos no artigo 72.º do Código do Processo Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, com a redacção dada pelo Decreto-Lei n.º 6/96, de 31 de Janeiro.
+A formulação de quaisquer observações e sugestões, bem como informações, relativas ao procedimento de elaboração, deverão ser formuladas por escrito e dirigidas ao Presidente da Câmara Municipal de Vendas Novas, dentro do referido prazo.
+17 de Julho de 2009. - O Presidente da Câmara, José Maria Rodrigues Figueira.
+202081321
