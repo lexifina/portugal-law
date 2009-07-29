@@ -1,0 +1,12 @@
+Portaria n.º 818/2009
+de 29 de Julho
+Pela Portaria n.º 473/2004, de 4 de Maio, foi renovada a zona de caça associativa de Vale do Peso (processo n.º 883-AFN), situada no município do Crato, concessionada ao Clube de Caça e Pesca de Vale do Peso. Pela Portaria n.º 1045/2007, de 31 de Agosto, foram anexados vários prédios rústicos, tendo a mesma ficado com a área de 2040 ha.
+Pela Portaria n.º 1042/2007, de 31 de Agosto, foi renovada a zona de caça associativa de Aldeia da Mata (processo n.º 42-AFN), situada nos municípios de Alter do Chão e Crato, concessionada ao Clube de Caça e Pesca Matense. Pela mesma portaria foram anexados vários prédios rústicos, tendo a mesma ficado com a área total de 5182 ha.
+Veio, entretanto, o Clube de Caça e Pesca de Vale do Peso requerer a desanexação de alguns prédios rústicos da zona de caça associativa de Vale do Peso (processo n.º 883-AFN) e, em simultâneo, veio o Clube de Caça e Pesca Matense requerer a anexação daqueles prédios rústicos bem como de outros prédios à zona de caça associativa de Aldeia da Mata (processo n.º 42-AFN).
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção, e com fundamento nos artigos 11.º e 47.º, em conjugação com a alínea a) do artigo 40.º, e no n.º 1 do artigo 118.º, todos do diploma acima identificado, e após audição do Conselho Cinegético Municipal do Crato no que respeita à anexação, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º São desanexados da zona de caça associativa de Vale do Peso (processo n.º 883-AFN) vários prédios rústicos sitos na freguesia do Monte da Pedra, município do Crato, com a área de 91 ha, ficando a mesma com a área de 1949 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º São anexados à zona de caça associativa de Aldeia da Mata (processo n.º 42-AFN) vários prédios rústicos sitos na freguesia do Monte da Pedra, município do Crato, com a área de 188 ha, ficando a mesma com a área total de 5371 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A desanexação e a anexação previstas na presente portaria produzem efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 16 de Julho de 2009.
+(ver documento original)
