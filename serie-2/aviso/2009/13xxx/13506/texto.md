@@ -1,0 +1,5 @@
+Aviso n.º 13506/2009
+Carlos Vicente Morais Beato, Presidente da Câmara Municipal de Grândola, esclarecendo o conteúdo do Aviso n.º 11631/2009, publicado no Diário da República, 2.ª Série n.º 125, de 1 de Julho de 2009 informa todos os interessados que poderão, nos termos do artigo 77.º do D.L. 380/99 de 22 de Setembro, na redacção que lhe foi dada pela republicação efectuada pelo D.L. 46/09, de 20 de Fevereiro, igualmente formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração de alteração do Plano de Pormenor da Área de Desenvolvimento Turístico da UNOR IV (Plano de Pormenor de ADT 4).
+Mais se informa que a proposta de alteração de plano e os demais pareceres estarão disponíveis para consulta dos munícipes no edifício sede da Câmara Municipal de Grândola e da Junta de Freguesia do Carvalhal, de segunda-feira a sexta-feira, no horário de expediente, ou seja, das 9 horas às 17 horas.
+23 de Julho de 2009. - O Presidente da Câmara, Carlos Beato.
+202101028
