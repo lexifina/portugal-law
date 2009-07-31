@@ -1,0 +1,5 @@
+Aviso n.º 42/2009
+Por ordem superior se torna público que, em 8 de Dezembro de 2008 e em 25 de Junho de 2009, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da República Popular da China e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades internas de aprovação do Acordo de Extradição entre a República Portuguesa e a República Popular da China, assinado em Pequim em 31 de Janeiro de 2007.
+Por parte de Portugal, o Acordo foi aprovado pela Resolução da Assembleia da República n.º 31/2009, de 6 de Março, e ratificado pelo Decreto do Presidente da República n.º 43/2009, publicado no Diário da República, 1.ª série, de 30 de Abril de 2009.
+Nos termos do artigo 21.º, n.º 1, do Acordo, este entra em vigor a 25 de Julho de 2009, 30 dias após a data da última recepção da comunicação, por escrito e por via diplomática, de que foram cumpridos todos os formalismos constitucionais e legais exigíveis para cada um dos Estados para a sua entrada em vigor.
+Direcção-Geral de Política Externa, 24 de Julho de 2009. - O Director-Geral, Nuno Brito.
