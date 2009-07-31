@@ -1,0 +1,8 @@
+Aviso n.º 13651/2009
+Plano de Pormenor da Área Central da Quinta do Conde
+Em conformidade com o disposto no n.º 4 do artigo 148.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro (RJIGT), se torna público que esta Câmara Municipal, em reunião efectuada no dia 22 de Julho de 2009, deliberou por unanimidade iniciar o procedimento de elaboração do Plano de Pormenor da Área Central da Quinta do Conde, nos termos do n.º 1 do artigo 74.º do RJIGT, aprovando os respectivos Termos de Referência e Oportunidade.
+Nos termos do n.º 2 do artigo 77.º do RJIGT, decorrerá, nos 30 dias de calendário subsequentes à publicação do aviso no Diário da República, um período de participação pública durante o qual os interessados poderão apresentar por escrito sugestões e pedidos de esclarecimento, bem como informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+Durante aquele período, os interessados poderão consultar os Termos de Referência e Oportunidade que fundamenta a elaboração aprovada pela Câmara Municipal, durante as horas de expediente, todos os dias úteis, devendo dirigir-se ao Gabinete da Quinta do Conde, no edifício do Mercado Municipal da Quinta do Conde, sito na Rua Manuel de Arriaga na Quinta do Conde.
+Os interessados deverão apresentar as suas observações, exposições ou sugestões em ofício devidamente identificado, dirigido ao Senhor Presidente da Câmara Municipal de Sesimbra.
+27 de Julho de 2009. - O Presidente da Câmara, Augusto Manuel Neto Carapinha Pólvora.
+202113421
