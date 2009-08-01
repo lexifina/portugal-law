@@ -30,7 +30,7 @@ l) Transferências monetárias ou bancárias de pessoas singulares ou colectivas
 
 3 - Os rendimentos a que se referem os números anteriores reportam-se ao ano civil anterior ao da data da apresentação do requerimento, desde que os meios de prova se encontrem disponíveis, e, quando tal se não verifique, reportam-se ao ano imediatamente anterior àquele, sem prejuízo, designadamente, do disposto no número seguinte.
 
-4 - Sempre que existam os rendimentos referidos nas alíneas g), h) e i) do n.º 1, os mesmos podem reportar-se aos anos civis determinados no número anterior e ao ano da apresentação do requerimento, nos termos a regulamentar.
+4 - Sempre que existam os rendimentos referidos nas alíneas g), h) e i) do n.º 1, os mesmos podem reportar-se aos anos civis determinados no número anterior, ao ano da apresentação do requerimento e ao ano em que os mesmos sejam atribuídos, nos termos a regulamentar.
 
 5 - Os rendimentos previstos nos n.os 1 e 2 são objecto de actualização nos termos a regulamentar.
 

@@ -4,11 +4,11 @@
 
 1 - O direito ao complemento solidário para idosos é suspenso nas seguintes situações:
 
-a) Não verificação da condição estabelecida na alínea c) do n.º 1 do artigo 4.º;
+a) Não verificação da condição estabelecida na alínea c) do n.º 1 do artigo 4.º nos termos do disposto no artigo 20.º;
 
 b) Incumprimento do disposto no artigo 3.º e no n.º 1 do artigo 13.º;
 
-c) Incumprimento das obrigações constantes do artigo 20.º;
+c) (Revogada.)
 
 d) Após o trânsito em julgado de decisão judicial condenatória do titular que determine a privação da sua liberdade.
 
