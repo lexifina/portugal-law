@@ -1,0 +1,7 @@
+Edital n.º 849/2009
+Dr. José Fernandes Estevens, presidente da Câmara Municipal de Castro Marim:
+Torna público que, por proposta da Câmara Municipal aprovada em reunião realizada a 27 de Abril de 2009, a Assembleia Municipal de Castro Marim em reunião realizada a 13 de Maio de 2009, deliberou a suspensão dos efeitos financeiros decorrentes da entrada em vigor do "Regulamento Municipal de Urbanização e de Edificação no Concelho de Castro Marim" e do "Regulamento, Tabela de Taxas e Outras Receitas Municipais", mantendo-se em vigor, com os devidos ajustamentos, os dispositivos anteriores relativos a estas matérias e enquanto durar o quadro económico-financeiro que motivou a proposta.
+Mais foi deliberado que no decurso do referido período, e sem prejuízo dos ajustes que eventualmente venham a verificar-se na tabela em vigor, os tributos actualmente devidos no âmbito do licenciamento de operações urbanísticas abranjam igualmente o procedimento de comunicação prévia, porquanto quer a licença, quer a admissão de comunicação prévia integram a categoria dos actos administrativos permissivos em geral.
+Para constar e para os devidos efeitos legais, publica-se o presente edital e outros de igual teor, que vão ser afixados nos Paços do Município e demais lugares de estilo, na 2.ª série do Diário da República, bem como no sítio da Internet www.cm-castromarim.pt.
+21 de Julho de 2009. - O Presidente da Câmara, José Fernandes Estevens.
+302079249
