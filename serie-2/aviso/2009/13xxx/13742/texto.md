@@ -1,0 +1,13 @@
+Aviso n.º 13742/2009
+Regulamento Municipal de Urbanização e Edificação (RMUE)
+Eng. José António Bastos da Silva, Presidente da Câmara Municipal de Vale de Cambra:
+Torna público, nos termos do disposto no artigo 118.º do C.P.A aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, que a Câmara Municipal em sua reunião de 20 de Julho do corrente ano, deliberou clarificar o n.º 5 do artigo 100.º do Regulamento Municipal de Urbanização e Edificação, o qual deve ser complementado com a seguinte leitura, que por lapso não foi objecto de publicação: «[...] nas reconstruções com aumento de área aplica-se o disposto no n.º 3.»
+Para constar se lavrou o presente Aviso e outros de igual teor, que vão ser afixados nos lugares públicos do costume e nas Juntas de freguesia.
+27 de Julho de 2009. - O Presidente da Câmara, José António Bastos da Silva.
+Artigo 100.º
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - A Taxa Municipal de urbanização, calculado de acordo com o n.º 1 do presente artigo, para os Núcleos Rurais, identificados nos números 3 e 4, do artigo 33.º, do Regulamento do PDM e na respectiva planta de ordenamento, beneficiam os requerentes de uma redução de 100 % do valor calculado, quando se trate de reconstrução sem aumento de área, aplicando-se às reconstruções com aumento de área o disposto no n.º 3 (redução de 50 %).
+202118736
