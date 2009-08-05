@@ -1,0 +1,7 @@
+Aviso n.º 13899/2009
+João Paulo Marçal Lopes Catarino, Presidente da Câmara Municipal de Proença-a-Nova, faz saber que ao abrigo da competência Regulamentar das Autarquias Locais, consagrada no artigo 241.º, da Constituição da República, tendo em conta a atribuição prevista na alínea h), do artigo 22.º da Lei n.º 159/99, de 14 de Setembro, o disposto na alínea x), do n.º 1 do artigo 64.º da Lei n.º 169/99, de 18 de Setembro, alterada pela Lei n.º 5-A/2002, de 11 de Janeiro, que por deliberação da Câmara Municipal do passado dia 07 de Julho de 2009 foram aprovadas as alterações ao Projecto de Regulamento do Centro Intermunicipal de Recolha de Animais Errantes.
+Assim torna-se Público para os devidos efeitos, que se encontra exposto na secretaria desta Autarquia, a proposta acima referida, a fim de poder ser consultada por todos os interessados, que podem formular por escrito quaisquer observações ou sugestões durante o prazo de 30 dias úteis. O prazo conta-se a partir da publicação, deste Aviso na 2.ª série do Diário da República. Poderá ainda ser consultado no site www.cm-proencanova.pt no espaço destinado aos regulamentos deste Município.
+As sugestões ou observações a apresentar, por escrito, naquele período, devem ser dirigidas ao Presidente da Câmara Municipal de Proença-a-Nova.
+Para conhecimento se publica o presente aviso que vai ser afixado nos lugares públicos do Concelho de Proença-a-Nova.
+24 de Julho de 2009. - O Presidente da Câmara, João Paulo Marçal Lopes Catarino.
+302115617
