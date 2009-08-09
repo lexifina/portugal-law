@@ -6,7 +6,7 @@
 
 ### Regime de pessoal
 
-1 - Os trabalhadores dos hospitais E. P. E. estão sujeitos ao regime do contrato de trabalho, de acordo com o Código do Trabalho, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação colectiva de trabalho e regulamentos internos.
+1 - Os trabalhadores dos hospitais E. P. E. estão sujeitos ao regime do contrato de trabalho, nos termos do Código do Trabalho, bem como ao regime disposto em diplomas que definam o regime legal de carreira de profissões da saúde, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação colectiva de trabalho e regulamentos internos.
 
 2 - Os hospitais E. P. E. devem prever anualmente uma dotação global de pessoal, através dos respectivos orçamentos, considerando os planos de actividade.
 
