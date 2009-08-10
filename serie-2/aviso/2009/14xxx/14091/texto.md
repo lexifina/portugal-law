@@ -1,0 +1,6 @@
+Aviso n.º 14091/2009
+Estabelecimento de Medidas Preventivas para a Unidade Operativa de Planeamento e Gestão dos Leões/Plano de Urbanização de Évora
+Prorrogação do prazo de vigência
+José Ernesto Ildefonso Leão d'Oliveira, Presidente da Câmara Municipal de Évora, para os devidos efeitos legais, torna público que no seguimento da deliberação de Câmara Municipal de Évora, na sua reunião ordinária de 18 de Junho de 2009, foi, ao abrigo do disposto no artigo 109.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, republicado através do Decreto-Lei n.º 46/2009, de 20 de Fevereiro, aprovada pela Assembleia Municipal de Évora, na sua reunião ordinária de 26 de Junho de 2009, a prorrogação do prazo de vigência das Medidas Preventivas para a Unidade Operativa de Planeamento e Gestão dos Leões do Plano de Urbanização de Évora, anteriormente aprovadas pela Assembleia Municipal em 27 de Junho de 2008 e publicadas no Diário da República, 2.ª série, n.º 156, de 13 de Agosto de 2008, através do aviso n.º 21899/2008, por mais seis meses a partir da cessação do prazo estipulado no artigo 3.º das referidas Medidas Preventivas.
+30 de Julho de 2009. - O Presidente da Câmara, José Ernesto d'Oliveira.
+202130197
