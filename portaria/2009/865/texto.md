@@ -1,0 +1,15 @@
+Portaria n.º 865/2009
+de 13 de Agosto
+O Decreto-Lei n.º 225/2007, de 31 de Maio, que veio concretizar um conjunto de medidas ligadas às energias renováveis previstas na estratégia nacional para a energia, estabelecida através da Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro, fixou valores para o coeficiente Z, de forma a garantir, para cada tecnologia renovável, uma remuneração por um prazo considerado suficiente para permitir a recuperação dos investimentos efectuados face à expectativa de retorno económico mínimo dos agentes económicos.
+As tecnologias contempladas no diploma foram, em geral, aquelas que tinham maior expressão e implantação no território nacional e que, na sua maioria, constavam na Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro.
+Tendo em conta a perspectiva de desenvolvimento de novas tecnologias, ficou previsto, no n.º 19 do anexo ii do Decreto-Lei n.º 189/88, de 27 de Maio, com a redacção que lhe foi dada pelo Decreto-Lei n.º 33-A/2005, de 16 de Fevereiro, a possibilidade de atribuição de um coeficiente Z específico para novos tipos de tecnologias, bem como, para projectos inovadores de reconhecido interesse nacional.
+A energia geotérmica, e em particular no que respeita ao desenvolvimento de sistemas geotérmicos para a produção de electricidade, como tecnologia emergente, apresenta um potencial interessante tanto do ponto vista da disponibilidade como do ponto de vista da utilização do recurso, pelo que importa estabelecer um coeficiente Z, que dê suporte ao desenvolvimento desta tecnologia.
+Assim:
+Manda o Governo, pelo Ministro da Economia e da Inovação, ao abrigo do n.º 19 do anexo ii do Decreto-Lei n.º 189/88, de 27 de Maio, na sua actual redacção, o seguinte:
+Artigo Único
+Energia geotérmica
+1 - O coeficiente Z, aplicável às centrais eléctricas que utilizam energia geotérmica em Portugal Continental, para projectos de grande profundidade e elevada entalpia, assume os seguintes valores:
+a) Para os projectos até um limite de 3 MW de potência por projecto e por entidade e até um limite de potência instalada, a nível nacional de 6 MW - 29,4;
+b) Para os restantes projectos até um limite de 3 MW de potência por projecto e até um limite de potência instalada a nível nacional de 10 MW, o factor Z é fixado por portaria do membro do Governo que tutela a área da energia, tendo em consideração as valências do projecto, entre o valor de 16,3 e 26,2.
+2 - O montante de remuneração definido por VRD, nos termos do n.º 20 do anexo ii do Decreto-Lei n.º 189/88, de 27 de Maio, com as alterações introduzidas pelo Decreto-Lei n.º 225/2007, de 31 de Maio, é aplicável, para cada megawatt de potência de injecção na rede atribuído para as centrais previstas no n.º 1 da presente portaria, durante os primeiros 12 anos a contar desde o início do fornecimento de electricidade à rede, entendendo-se este como a data da licença de exploração definitiva da central.
+O Ministro da Economia e da Inovação, Fernando Teixeira dos Santos, em 27 de Julho de 2009.
