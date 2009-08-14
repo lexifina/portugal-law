@@ -1,0 +1,43 @@
+Lei n.º 78/2009
+de 13 de Agosto
+Procede à oitava alteração ao Código da Estrada, permitindo o averbamento da habilitação legal para a condução de veículos da categoria A1 à carta de condução que habilita legalmente para a condução de veículos da categoria B.
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
+Artigo 1.º
+Objecto
+O artigo 123.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, alterado e republicado pelo Decreto-Lei n.º 44/2005, de 23 de Fevereiro, e alterado pelo Decreto-Lei n.º 113/2008, de 1 de Julho, passa a ter a seguinte redacção:
+«Artigo 123.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+a) ...
+b) ...
+c) ...
+d) Motociclos de cilindrada não superior a 125 cm3 e de potência máxima até 11 kW.
+5 - ...
+6 - ...
+7 - ...
+8 - ...
+9 - O disposto na alínea d) do n.º 4 do presente artigo aplica-se a todos os titulares de carta de condução válida para a categoria B que cumpram uma das seguintes condições:
+a) Tenham idade igual ou superior a 25 anos;
+b) Sejam titulares de habilitação legal válida para a condução de ciclomotores.
+10 - Os titulares de carta de condução válida para a condução de veículos da categoria B que tenham idade inferior a 25 anos e não sejam titulares de habilitação legal para a condução de ciclomotores estão sujeitos, para os efeitos da alínea d) do n.º 4 do presente artigo, à realização e aprovação em exame prático, sendo facultativa a instrução adicional em escola de condução.
+11 - ...
+12 - ...
+13 - (Anterior n.º 9.)
+14 - (Anterior n.º 10.)»
+Artigo 2.º
+Regulamentação
+O Governo regulamenta, no prazo de 30 dias após a publicação da presente lei, os requisitos técnicos do exame prático referido no artigo anterior.
+Artigo 3.º
+Entrada em vigor
+1 - A presente lei entra em vigor no dia seguinte ao da sua publicação.
+2 - O previsto no n.º 10 do artigo 123.º do Código da Estrada, na redacção que lhe é dada pela presente lei, apenas produz efeitos no dia seguinte ao da publicação da regulamentação prevista no artigo anterior.
+Aprovada em 3 de Julho de 2009.
+O Presidente da Assembleia da República, Jaime Gama.
+Promulgada em 30 de Julho de 2009.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendada em 5 de Agosto de 2009.
+Pelo Primeiro-Ministro, Fernando Teixeira dos Santos, Ministro de Estado e das Finanças.
