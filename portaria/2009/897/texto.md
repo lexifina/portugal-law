@@ -1,0 +1,11 @@
+Portaria n.º 897/2009
+de 14 de Agosto
+Pela Portaria n.º 1130/2008, de 9 de Outubro, foi renovada a zona de caça municipal de Santa Vitória 1 (processo n.º 3023-AFN), situada no município de Beja e cuja entidade titular é o Clube de Caçadores de Santa Vitória.
+Vieram, entretanto, proprietários de alguns terrenos incluídos na zona de caça acima referida requerer a sua exclusão e, simultaneamente, a Associação de Caça e Pesca da Freguesia de Santa Vitória veio requerer a anexação de terrenos, nos quais se incluem os acima referidos, à zona de caça associativa de Corte d'Azinha de Cima (processo n.º 2343-AFN), criada pela Portaria n.º 554/2000, de 4 de Agosto, alterada pelas Portarias n.os 266/2002 e 883/2005, respectivamente de 13 de Março e de 26 de Setembro, e que se situa no município de Beja.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção, e com fundamento no n.º 1 do artigo 28.º, em conjugação com o estipulado no n.º 1 do artigo 167.º e ainda no artigo 11.º e na alínea a) do artigo 40.º, todos do diploma acima identificado, e após audição do Conselho Cinegético Municipal de Beja no que respeita à anexação de terrenos à zona de caça associativa, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º São excluídos da zona de caça municipal de Santa Vitória 1 (processo n.º 3023-AFN) vários prédios rústicos sitos na freguesia de Santa Vitória, município de Beja, com a área de 55 ha, ficando a mesma com a área total de 1779 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º São anexados à zona de caça associativa de Corte d'Azinha de Cima (processo n.º 2343-AFN) vários prédios rústicos sitos na freguesia de Santa Vitória, município de Beja, com a área de 100 ha, passando a mesma a abranger a área total de 1013 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A exclusão e a anexação previstas na presente portaria produzem efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 3 de Agosto de 2009.
+(ver documento original)
