@@ -6,26 +6,26 @@
 
 2 - A licença de utilização destina-se a comprovar, para além da conformidade da obra concluída com o projecto aprovado, a adequação do recinto ao uso previsto, bem como a observância das normas técnicas e de segurança aplicáveis e ainda as relativas às condições sanitárias e à segurança contra riscos de incêndio.
 
-3 - A emissão da licença de utilização está sujeita à realização de vistoria nos termos do artigo 11.º
+3 - A licença de utilização é válida por três anos, renovável por iguais períodos, e está sujeita à realização de vistoria obrigatória nos termos do artigo 11.º
 
 4 - A licença de utilização caduca:
 
-a) (Revogada.)
+a) Se terminar o prazo de validade;
 
-b) (Revogada.)
+b) Se o recinto se mantiver encerrado por período superior a nove meses;
 
 c) Se tiverem sido realizadas obras ou intervenções que alterem a morfologia ou as condições de segurança e funcionais edificadas.
 
 5 - A emissão da licença de utilização depende de requerimento, acompanhado dos seguintes documentos:
 
-a) Cópia simples do certificado de inspeção, a emitir por entidade qualificada nos termos do artigo 14.º;
+a) Fotocópia autenticada do certificado de inspecção, a emitir por entidade qualificada nos termos do artigo 14.º;
 
-b) Cópia simples da apólice de seguro de responsabilidade civil, válida;
+b) Fotocópia autenticada da apólice de seguro de responsabilidade civil, válida;
 
-c) Cópia simples da apólice de seguro de acidentes pessoais, válida.
+c) Fotocópia autenticada da apólice de seguro de acidentes pessoais, válida.
 
-6 - Os seguros referidos no número anterior podem ser substituídos por garantia ou instrumento financeiro equivalentes, subscritos noutro Estado membro da União Europeia ou do Espaço Económico Europeu, nos termos dos n.os 2 e 3 do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+6 - A renovação da licença de utilização, que deve ser requerida até 30 dias antes do termo da sua validade, implica a apresentação de certificado de inspecção do recinto, nos termos do artigo 14.º
 
-7 - Quando nos recintos, simultaneamente e com caráter de prevalência, se desenvolvam atividades de restauração ou de bebidas, devem ser igualmente cumpridas as respetivas formalidades impostas pelo Decreto-Lei n.º 48/2011, de 1 de abril.
+7 - A licença de utilização dos recintos em que, simultaneamente e com carácter de prevalência, se desenvolvam as actividades de restauração e de bebidas obedece ao regime previsto no Decreto-Lei n.º 168/97, de 4 de Julho, com as especificidades estabelecidas no presente diploma.
 
 8 - A licença de utilização é titulada por alvará que, para além dos elementos referidos no artigo 77.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção dada pelo Decreto-Lei n.º 177/2001, de 4 de Junho, deve conter as especificações previstas no artigo 13.º

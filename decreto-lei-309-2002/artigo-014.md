@@ -2,10 +2,8 @@
 
 ### Certificado de inspecção
 
-1 - O certificado de inspeção visa atestar que o empreendimento cumpre e mantém os requisitos especificados nas normas técnicas e de segurança aplicáveis, previstas no artigo 8.º
+1 - O certificado de inspecção visa atestar que o empreendimento cumpre e mantém os requisitos essenciais de qualidade, designadamente requisitos de segurança, habitabilidade, protecção ambiental, funcionalidade e qualidade arquitectónica e urbanística.
 
-2 - Os certificados de inspeção são emitidos por entidades acreditadas para o efeito pelo Instituto Português de Acreditação, I. P.
+2 - Os certificados de inspecção são emitidos por entidades para tal qualificadas e são válidos por 3 anos, obrigatoriamente renovados até 30 dias antes do termo da sua validade.
 
-3 - (Revogado.)
-
-4 - Os proprietários ou os promotores de recintos de espetáculos e de divertimentos públicos devem solicitar uma inspeção à entidade referida no n.º 2 até 30 dias antes da data em que se cumpram três anos de anterior solicitação de inspeção.
+3 - Para os efeitos do disposto no número anterior, são considerados entidades qualificadas os organismos de inspecção acreditados no âmbito do Sistema Português da Qualidade, para os recintos previstos neste diploma.

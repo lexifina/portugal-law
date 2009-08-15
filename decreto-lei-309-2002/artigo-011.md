@@ -16,4 +16,4 @@ c) Um representante da autoridade de saúde competente, a convocar nos termos da
 
 4 - A comissão referida no n.º 2, depois de proceder à vistoria, elabora o respectivo auto, do qual devem constar o nome do responsável pelas condições gerais e de segurança do recinto, a lotação para cada uma das actividades a que este se destina e, quando se trate de salas de jogos, o número máximo de unidades de diversão ou aparelhos de jogo a instalar.
 
-5 - Quando o auto de vistoria conclua em sentido desfavorável, ou quando seja desfavorável o voto fundamentado de um dos elementos referidos no n.º 2, não pode ser emitido o alvará da licença de utilização enquanto não forem removidas as causas que justificaram tal decisão, notificando-se o requerente no prazo de 15 dias a contar da data da realização da vistoria.
+5 - Quando o auto de vistoria conclua em sentido desfavorável ou quando seja desfavorável o voto fundamentado de um dos elementos referidos no n.º 2, não pode ser emitida a licença de utilização enquanto não forem removidas as causas que justificaram tal sentido desfavorável.

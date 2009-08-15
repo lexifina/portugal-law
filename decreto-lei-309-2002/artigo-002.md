@@ -12,8 +12,6 @@ c) (Revogada);
 
 d) Os espaços de jogo e recreio previstos no artigo 2.º do regulamento das condições técnicas e de segurança aprovado pelo Decreto-Lei n.º 379/97, de 27 de Dezembro;
 
-e) (Revogada.)
+e) Os recintos itinerantes;
 
-f) (Revogada.)
-
-g) Recintos de diversão provisória.
+f) Os recintos improvisados.

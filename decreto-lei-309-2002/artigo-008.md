@@ -18,8 +18,6 @@ b) (Revogada);
 
 c) Aos espaços de jogo e recreio aplicam-se as normas do regulamento das condições técnicas e de segurança aprovado pelo Decreto-Lei n.º 379/97, de 27 de Dezembro;
 
-d) Aos de natureza não artística referidos no n.º 1 do artigo 3.º, aplica-se, sempre que os mesmos envolvam a instalação de equipamentos de diversão, o disposto no Decreto-Lei n.º 268/2009, de 29 de Setembro, sendo aplicáveis as normas constantes do Decreto-Lei n.º 220/2008, de 12 de Novembro, e da Portaria n.º 1532/2008, de 29 de Dezembro, nos restantes casos;
+d) Aos de natureza não artística previstos no n.º 1 do artigo 3.º e aos recintos improvisados ou itinerantes aplicam-se as normas a aprovar por decreto regulamentar no prazo de seis meses a contar da data da publicação do presente diploma.
 
-e) Aos recintos de diversão provisória previstos na alínea a) do n.º 1 do artigo 7.º-A, e sempre que os mesmos envolvam a instalação de equipamentos de diversão, aplica-se o disposto no Decreto-Lei n.º 268/2009, de 29 de Setembro.
-
-2 - (Revogado.)
+2 - Até à aprovação do decreto regulamentar a que se refere a alínea b) do número anterior e a alínea d) do mesmo número, na parte relativa aos recintos de natureza não artística previstos no n.º 1 do artigo 3.º, são aplicáveis as normas previstas no Decreto Regulamentar n.º 34/95, de 16 de Dezembro.
