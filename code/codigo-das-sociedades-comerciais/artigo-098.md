@@ -35,3 +35,5 @@ a) O balanço do último exercício, desde que tenha sido encerrado nos seis mes
 b) Um balanço reportado a uma data que não anteceda o 1.º dia do 3.º mês anterior à data do projecto de fusão.
 
 3 - O projecto ou um anexo a este indicará os critérios de avaliação adoptados, bem como as bases de relação de troca referida na alínea e) do n.º 1.
+
+4 - O projecto de fusão pode ser elaborado através de modelo electrónico disponível em página na Internet que permita a entrega de todos os documentos necessários e a promoção imediata do registo do projecto, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.

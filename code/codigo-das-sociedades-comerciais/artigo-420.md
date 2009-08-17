@@ -41,3 +41,7 @@ d) Fiscalizar a independência do revisor oficial de contas, designadamente no t
 3 - O fiscal único ou qualquer membro do conselho fiscal, quando este exista, devem proceder, conjunta ou separadamente e em qualquer momento do ano, a todos os actos de verificação e inspecção que considerem convenientes para o cumprimento das suas obrigações de fiscalização.
 
 4 - O revisor oficial de contas tem, especialmente e sem prejuízo da actuação dos outros membros, o dever de proceder a todos os exames e verificações necessários à revisão e certificação legais das contas, nos termos previstos em lei especial, e bem assim os outros deveres especiais que esta lei lhe imponha.
+
+5 - No caso de sociedades que sejam emitentes de valores mobiliários admitidos à negociação em mercado regulamentado, o fiscal único ou o conselho fiscal devem atestar se o relatório sobre a estrutura e práticas de governo societário divulgado inclui os elementos referidos no artigo 245.º-A do Código dos Valores Mobiliários.
+
+6 - No parecer a que se refere a alínea g) do n.º 1, o fiscal único ou o conselho fiscal devem exprimir a sua concordância ou não com o relatório anual de gestão e com as contas do exercício, para além de incluir a declaração subscrita por cada um dos seus membros, prevista na alínea c) do n.º 1 do artigo 245.º do Código dos Valores Mobiliários.

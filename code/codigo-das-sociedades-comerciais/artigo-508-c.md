@@ -22,6 +22,10 @@ d) O número, o valor nominal ou, na falta de valor nominal, o valor contabilís
 
 e) Os objectivos e as políticas da sociedade em matéria de gestão dos riscos financeiros, incluindo as políticas de cobertura de cada uma das principais categorias de transacções previstas para as quais seja utilizada a contabilização de cobertura, e a exposição por parte das entidades compreendidas na consolidação aos riscos de preço, de crédito, de liquidez e de fluxos de caixa, quando materialmente relevantes para a avaliação dos elementos do activo e do passivo, da posição financeira e dos resultados, em relação com a utilização dos instrumentos financeiros.
 
+f) A descrição dos principais elementos dos sistemas de controlo interno e de gestão de riscos do grupo relativamente ao processo de elaboração das contas consolidadas, quando os valores mobiliários da sociedade sejam admitidos à negociação num mercado regulamentado.
+
 6 - Quando para além do relatório de gestão for exigido um relatório consolidado de gestão, os dois relatórios podem ser apresentados sob a forma de relatório único.
 
 7 - Na elaboração do relatório único pode ser adequado dar maior ênfase às questões que sejam significativas para as empresas compreendidas na consolidação, consideradas no seu conjunto.
+
+8 - No caso de sociedades que sejam emitentes de valores mobiliários admitidos à negociação em mercado regulamentado e que apresentem um único relatório, a informação constante da alínea f) do n.º 5 deve ser incluída na secção do relatório sobre governo das sociedades que contém a informação constante da alínea m) do n.º 1 do artigo 245.º-A do Código dos Valores Mobiliários.

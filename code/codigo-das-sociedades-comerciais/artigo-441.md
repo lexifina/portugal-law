@@ -2,7 +2,7 @@
 
 ### Competência do conselho geral e de supervisão
 
-Compete ao conselho geral e de supervisão:
+1 - Compete ao conselho geral e de supervisão:
 
 a) Nomear e destituir os administradores, se tal competência não for atribuída nos estatutos à assembleia geral;
 
@@ -41,3 +41,5 @@ r) Conceder ou negar o consentimento à transmissão de acções, quando este fo
 s) Convocar a assembleia geral, quando entenda conveniente;
 
 t) Exercer as demais funções que lhe sejam atribuídas por lei ou pelo contrato de sociedade.
+
+2 - É aplicável ao conselho geral e de supervisão, com as devidas adaptações, o disposto nos n.os 5 e 6 do artigo 420.º

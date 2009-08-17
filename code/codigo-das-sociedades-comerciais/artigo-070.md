@@ -8,6 +8,8 @@
 
 a) Relatório de gestão;
 
-b) Certificação legal das contas;
+b) Relatório sobre a estrutura e as práticas de governo societário, quando não faça parte integrante do documento referido na alínea anterior;
 
-c) Parecer do órgão de fiscalização, quando exista.
+c) Certificação legal das contas;
+
+d) Parecer do órgão de fiscalização, quando exista.
