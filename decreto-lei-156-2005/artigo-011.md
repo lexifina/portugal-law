@@ -1,6 +1,6 @@
 # Artigo 11.º
 
-### Fiscalização e instrução dos processos por contra-ordenação
+### Fiscalização e instrução dos processos de contra-ordenação
 
 1 - A fiscalização e a instrução dos processos relativos às contra-ordenações previstas no n.º 1 do artigo 9.º compete:
 
