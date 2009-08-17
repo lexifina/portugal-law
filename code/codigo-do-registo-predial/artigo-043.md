@@ -21,3 +21,5 @@
 5 - Os documentos arquivados nos serviços da Administração Pública podem ser utilizados para a realização de registos, devendo tais documentos ser referenciados no pedido.
 
 6 - Para efeitos do disposto no número anterior, o serviço de registo é reembolsado pelo apresentante das despesas resultantes dos pagamentos devidos às entidades referidas naquele mesmo número.
+
+7 - Para efeitos de promoção de actos de registo predial através da Internet em que sejam interessadas sociedades comerciais ou civis sob forma comercial podem os respectivos gerentes e administradores certificar a conformidade dos documentos electrónicos por si submetidos com os documentos originais em suporte de papel.
