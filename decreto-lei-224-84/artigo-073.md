@@ -14,4 +14,4 @@
 
 6 - A falta de apresentação de título que constitua motivo de recusa nos termos da alínea b) do artigo 69.º pode ser suprida, com observância dos números anteriores, desde que o facto sujeito a registo seja anterior à data da apresentação.
 
-7 - Se, nos termos do número anterior, o registo for recusado porque o facto é posterior à data da apresentação, deve ser efectuada nova apresentação, imediatamente após a última apresentação pessoal do dia em que foi efectuado o despacho de recusa, transferindo-se a totalidade dos emolumentos que foram pagos.
+7 - Se, nos termos do número anterior, o registo for recusado porque o facto é posterior à data da apresentação, ou se o registo for recusado porque o prédio não foi devidamente identificado no pedido, deve ser efectuada nova apresentação, imediatamente após a última apresentação pessoal do dia em que foi efectuado o despacho de recusa, transferindo-se a totalidade dos emolumentos que foram pagos.
