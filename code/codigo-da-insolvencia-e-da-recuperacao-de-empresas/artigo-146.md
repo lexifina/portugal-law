@@ -14,6 +14,6 @@ a) Não pode ser apresentada pelos credores que tenham sido avisados nos termos 
 
 b) Só pode ser feita no prazo de um ano subsequente ao trânsito em julgado da sentença de declaração da insolvência, ou no prazo de três meses seguintes à respectiva constituição, caso termine posteriormente.
 
-3 - Proposta a acção, há-de o autor assinar termo de protesto no processo principal da insolvência.
+3 - Proposta a acção, a secretaria, oficiosamente, lavra termo no processo principal da insolvência no qual identifica a acção apensa e o reclamante e reproduz o pedido, o que equivale a termo de protesto.
 
-4 - Os efeitos do protesto caducam, porém, se o autor deixar de promover os termos da causa durante 30 dias.
+4 - A instância extingue-se e os efeitos do protesto caducam se o autor, negligentemente, deixar de promover os termos da causa durante três meses.
