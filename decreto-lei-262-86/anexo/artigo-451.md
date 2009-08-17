@@ -24,4 +24,6 @@ e) Um parecer em que se indique se o relatório de gestão é ou não concordant
 
 f) Data e assinatura do revisor oficial de contas.
 
-4 - (Revogado.)
+4 - No caso de sociedades que sejam emitentes de valores mobiliários admitidos à negociação em mercado regulamentado, o revisor deve atestar se o relatório sobre a estrutura e as práticas de governo societário divulgado inclui os elementos referidos no artigo 245.º-A do Código dos Valores Mobiliários que lhe sejam exigíveis.
+
+5 - O âmbito do parecer a que se refere a alínea e) do n.º 3 deve igualmente incluir as matérias referidas nas alíneas c), d), f), h), i) e m) do n.º 1 do artigo 245.º-A do Código dos Valores Mobiliários, no caso dos emitentes abrangidos pelas disposições em causa.
