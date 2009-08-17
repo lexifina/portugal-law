@@ -40,14 +40,18 @@ b) As sociedades envolvidas na operação exerçam, efectiva e directamente, a m
 
 c) Relativamente às operações a que se referem as alíneas b) e c) do n.º 3, o ramo de actividade transmitido seja constituído por um conjunto de elementos que constituam, do ponto de vista organizacional e técnico, uma exploração autónoma, não sendo considerados como tal uma carteira de participações ou um activo isolado.
 
-6 - Os benefícios previstos no presente artigo são concedidos por despacho do Ministro das Finanças, precedido de informação da Direcção-Geral dos Impostos a requerimento das empresas interessadas, o qual deve ser entregue na referida Direcção-Geral, acompanhado de estudo demonstrativo das vantagens e dos elementos comprovativos das condições a que se refere o número anterior.
+6 - Os benefícios previstos no presente artigo são concedidos por despacho do ministro responsável pela área das finanças, precedido de informação da Direcção-Geral dos Impostos a requerimento das empresas interessadas, o qual deve ser enviado, preferencialmente através da Internet, à referida Direcção-Geral, acompanhado de estudo demonstrativo das vantagens e dos elementos comprovativos das condições a que se refere o número anterior.
 
 7 - Do requerimento devem constar expressamente os actos realizados, previstos no n.º 3, e este deve ser entregue até à data de apresentação a registo dos actos de concentração ou cooperação ou, não havendo lugar a registo, até à data da produção dos respectivos efeitos jurídicos.
 
-8 - Os requerimentos apresentados pelos interessados devem, ainda, ser acompanhados de parecer sobre a substância da operação de reorganização empresarial e sobre o estudo referido no n.º 6, emitido pelo ministério da tutela da actividade da empresa, bem como de parecer, emitido pela Autoridade da Concorrência, sobre a compatibilidade da operação projectada com a existência de um grau de concorrência no mercado.
+8 - Os requerimentos apresentados pelos interessados devem, ainda, ser acompanhados de parecer sobre a substância da operação de reorganização empresarial emitido pelo ministério da tutela da actividade da empresa, no prazo máximo de 10 dias, a contar da entrega dos elementos e documentos referidos no n.º 6.
 
-9 - A Direcção-Geral dos Impostos deve solicitar parecer, sobre os pressupostos da isenção referida na alínea c) do n.º 1, à Direcção-Geral dos Registos e do Notariado, devendo o mesmo ser proferido nos 45 dias seguintes ao da recepção do pedido, presumindo-se uma posição favorável se o mesmo não for recebido naquele prazo.
+9 - Sempre que os pareceres não sejam emitidos no prazo referido no número anterior, considera-se que o ministério da tutela da actividade da empresa aprova a operação de reorganização empresarial nos termos apresentados pela empresa interessada, não produzindo efeitos jurídicos qualquer parecer emitido fora desse prazo.
 
-10 - Nos casos em que os actos de concentração ou cooperação precedam o despacho do Ministro das Finanças, as empresas interessadas podem solicitar o reembolso dos impostos, emolumentos e outros encargos legais que comprovadamente tenham suportado, no prazo de um ano, a contar da data de apresentação a registo dos actos de concentração ou cooperação ou, não havendo lugar a registo, da data da produção dos respectivos efeitos jurídicos.
+10 - O pedido do parecer referido no n.º 8 do artigo anterior e a respectiva emissão são efectuados preferencialmente por via electrónica, nos termos a definir por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, da economia e da justiça.
 
-11 - O pedido de reembolso deve ser dirigido às entidades competentes para a liquidação dos impostos, emolumentos ou encargos legais suportados.
+11 - Quando estiverem reunidas as condições técnicas para esse efeito, os requerimentos referidos no n.º 6 podem ser enviados por via electrónica no momento do pedido do registo comercial do projecto de fusão ou cisão, quando promovido através da internet, nos termos a definir por portaria conjunta dos membros do Governo responsáveis pela área das finanças e da justiça.
+
+12 - Nos casos em que os actos de concentração ou cooperação precedam o despacho do Ministro das Finanças, as empresas interessadas podem solicitar o reembolso dos impostos, emolumentos e outros encargos legais que comprovadamente tenham suportado, no prazo de um ano, a contar da data de apresentação a registo dos actos de concentração ou cooperação ou, não havendo lugar a registo, da data da produção dos respectivos efeitos jurídicos.
+
+13 - O pedido de reembolso deve ser dirigido às entidades competentes para a liquidação dos impostos, emolumentos ou encargos legais suportados.
