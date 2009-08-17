@@ -1,8 +1,8 @@
 # Artigo 245.º-A
 
-### Informação anual sobre governo das sociedades
+### Relatório anual sobre governo das sociedades
 
-1 - Os emitentes de acções admitidas à negociação em mercado regulamentado divulgam, em capítulo do relatório anual de gestão especialmente elaborado para o efeito ou em anexo a este, a seguinte informação detalhada sobre a estrutura e práticas de governo societário:
+1 - Os emitentes de acções admitidas à negociação em mercado regulamentado situado ou a funcionar em Portugal divulgam, em capítulo do relatório anual de gestão especialmente elaborado para o efeito ou em anexo a este, um relatório detalhado sobre a estrutura e as práticas de governo societário, contendo, pelo menos, os seguintes elementos:
 
 a) Estrutura de capital, incluindo indicação das acções não admitidas à negociação, diferentes categorias de acções, direitos e deveres inerentes às mesmas e percentagem de capital que cada categoria representa;
 
@@ -26,8 +26,20 @@ j) Acordos significativos de que a sociedade seja parte e que entrem em vigor, s
 
 l) Acordos entre a sociedade e os titulares do órgão de administração ou trabalhadores que prevejam indemnizações em caso de pedido de demissão do trabalhador, despedimento sem justa causa ou cessação da relação de trabalho na sequência de uma oferta pública de aquisição;
 
-m) Sistemas de controlo interno e de risco de gestão implementados na sociedade.
+m) Principais elementos dos sistemas de controlo interno e de gestão de risco implementados na sociedade relativamente ao processo de divulgação de informação financeira;
+
+n) Declaração sobre o acolhimento do código de governo das sociedades ao qual o emitente se encontre sujeito por força de disposição legal ou regulamentar, especificando as eventuais partes desse código de que diverge e as razões da divergência;
+
+o) Declaração sobre o acolhimento do código de governo das sociedades ao qual o emitente voluntariamente se sujeite, especificando as eventuais partes desse código de que diverge e as razões da divergência;
+
+p) Local onde se encontram disponíveis ao público os textos dos códigos de governo das sociedades aos quais o emitente se encontre sujeito nos termos das alíneas anteriores;
+
+q) Composição e descrição do modo de funcionamento dos órgãos sociais do emitente, bem como das comissões que sejam criadas no seu seio.
 
 2 - Os emitentes de acções admitidas à negociação em mercado regulamentado sujeitos a lei pessoal portuguesa divulgam a informação sobre a estrutura e práticas de governo societário nos termos definidos em regulamento da CMVM, onde se integra a informação exigida no número anterior.
 
 3 - O órgão de administração de sociedades emitentes de acções admitidas à negociação em mercado regulamentado sujeitas a lei pessoal portuguesa apresenta anualmente à assembleia geral um relatório explicativo das matérias a que se refere o n.º 1.
+
+4 - As sociedades cujos valores mobiliários, distintos de acções, se encontrem admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal devem divulgar anualmente a informação referida nas alíneas c), d), f), h), i) e m) do n.º 1, salvo se as respectivas acções forem negociadas num sistema de negociação multilateral, caso em que devem divulgar todas as informações referidas no n.º 1.
+
+5 - O relatório detalhado sobre a estrutura e as práticas de governo societário não pode conter remissões, excepto para o relatório anual de gestão.
