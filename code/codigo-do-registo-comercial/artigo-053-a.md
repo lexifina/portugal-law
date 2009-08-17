@@ -16,7 +16,7 @@
 
 5 - São registados por depósito:
 
-a) Os factos mencionados nas alíneas b) a l), n), p), q), u), v) e z) do n.º 1 do artigo 3.º, salvo o registo da verificação das condições de que depende a constituição de uma sociedade anónima europeia gestora de participações sociais;
+a) Os factos mencionados nas alíneas b) a l), n), p), q), u), v) e z) do n.º 1 do artigo 3.º, salvo o registo do projecto de constituição de sociedade anónima europeia gestora de participações sociais, bem como o da verificação das condições de que depende a sua constituição;
 
 b) Os factos referidos nas alíneas b), c) e e) do n.º 2 do artigo 3.º;
 
