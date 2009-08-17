@@ -22,7 +22,7 @@
 
 2.5.1 - Pelo depósito do projecto de fusão ou cisão - (euro) 80;
 
-2.5.2 - Pela inscrição da fusão ou cisão - (euro) 170;
+2.5.2 - Pela inscrição da fusão ou da cisão - (euro) 150;
 
 2.6 - Dissolução - (euro) 200;
 

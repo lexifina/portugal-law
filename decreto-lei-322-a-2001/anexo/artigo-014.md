@@ -14,6 +14,8 @@ d) Averbamentos de actualização dos registos por efeito da redenominação aut
 
 e) Averbamentos do acto declarativo de utilidade pública, nos casos de expropriação de bens destinados a integrar o domínio público do Estado, quando requeridos por entidades públicas.
 
+f) Os registos de actualização ou de transmissão de direitos efectuados na sequência de uma operação de fusão ou cisão.
+
 2 - São ainda gratuitos os seguintes actos:
 
 a) Rectificação de actos de registo ou documentos, resultante de erro ou inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado;
