@@ -2,7 +2,7 @@
 
 ### (Consulta de documentos)
 
-1 - A partir da publicação da convocatória, da comunicação aos sócios ou do aviso aos credores exigidos pelo artigo anterior, os sócios e credores ou, quando estes não existirem, os trabalhadores de qualquer das sociedades participantes na fusão têm o direito de consultar, na sede de cada uma delas, os seguintes documentos e de obter, sem encargos, cópia integral destes:
+1 - A partir da publicação do registo do projecto, os sócios, credores e representantes dos trabalhadores, ou, quando estes não existirem, os trabalhadores de qualquer das sociedades participantes na fusão têm o direito de consultar, na sede de cada uma delas, os seguintes documentos e de obter, sem encargos, cópia integral destes:
 
 a) Projecto de fusão;
 
