@@ -1,0 +1,29 @@
+# Adenda n.º 7
+
+Adenda n.º 7 ao certificado de homologação CE n.º . . ., relativo à homologação CE de um tipo de pára-brisas no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.
+
+Conteúdo da lista do pára-brisas
+
+Para cada um dos pára-brisas que não são objecto da presente homologação, devem ser fornecidas, pelo menos, as seguintes informações:
+
+Fabricante do veículo: ...
+
+Modelo: ...
+
+Categoria do veículo: ...
+
+Área planificada (F): ...
+
+Altura do segmento (h): ...
+
+Curvatura (r): ...
+
+Ângulo de instalação (a): ...
+
+Ângulo do encosto ((beta)): ...
+
+Coordenadas do ponto «R» (A, B, C) em relação ao meio do bordo superior do pára-brisas: ...
+
+Descrição do parâmetro F do pára-brisas
+
+(ver figura no documento original)

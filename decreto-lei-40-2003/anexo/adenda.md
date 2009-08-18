@@ -1,0 +1,39 @@
+# Adenda
+
+Adenda ao certificado de homologação CE n.º ..., no que respeita à homologação de um veículo em conformidade com a Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.
+
+1 - Informações adicionais:
+
+1.1 - Descrição do tipo de vidro utilizado:
+
+1.1.1 - Para os pára-brisas: ...
+
+1.1.2 - Para os vidros laterais: ...
+
+1.1.3 - Para os vidros traseiros: ...
+
+1.1.4 - Para os tectos de abrir: ...
+
+1.1.5 - Para os restantes vidros: ...
+
+1.2 - Marca de homologação CE:
+
+1.2.1 - Do pára-brisas: ...
+
+1.2.2 - Dos vidros laterais: ...
+
+1.2.3 - Dos vidros traseiros: ...
+
+1.2.4 - Dos tectos de abrir: ...
+
+1.2.5 - Dos restantes vidros: ...
+
+1.3 - Equipamento(s) complementar(es) do pára-brisas e respectiva localização: ...
+
+1.4 - As disposições de montagem são/não são (ver nota *) respeitadas.
+
+5 - Observações:
+
+...
+
+(nota *) Riscar o que não interessa.
