@@ -1,0 +1,101 @@
+Portaria n.º 940/2009
+de 20 de Agosto
+A Escola Portuguesa de Macau (EPM) é um estabelecimento de ensino particular e cooperativo que ministra o currículo nacional do ensino básico, com os desenhos curriculares estabelecidos pelo Decreto-Lei n.º 6/2001, de 18 de Janeiro, e alterados pelo Decreto-Lei n.º 209/2002, de 17 de Outubro, bem como os cursos científico-humanísticos de nível secundário criados pelo Decreto-Lei n.º 74/2004, de 26 de Março, rectificado pela Declaração de Rectificação n.º 44/2004, de 25 de Maio, alterados pelo Decreto-Lei n.º 24/2006, de 6 de Fevereiro, rectificado pela Declaração de Rectificação n.º 23/2006, de 7 de Abril, e pelo Decreto-Lei n.º 272/2007, de 26 de Julho, rectificado pela Declaração de Rectificação n.º 84/2007, de 21 de Setembro.
+Considerando o papel que o ensino particular e cooperativo tem desempenhado no domínio da flexibilização curricular, dado a sua história e características específicas que o vocacionam para a inovação pedagógica;
+Considerando a experiência e a capacidade pedagógicas da Escola Portuguesa de Macau, concretizadas num quadro docente especializado e estável;
+Considerando, em relação ao ensino básico, por um lado, que o currículo ministrado resulta já de algumas alterações ao currículo nacional e, por outro, que se torna necessário promover mais alguns ajustamentos, no sentido da valorização da aprendizagem das línguas estrangeiras e da educação para a cidadania, tendo em conta a diversidade cultural característica da sociedade macaense;
+Considerando, relativamente ao ensino secundário, por um lado, que os cursos científico-humanísticos a funcionar actualmente na Escola Portuguesa de Macau resultam já de algumas alterações efectuadas à matriz dos cursos de oferta nacional, e, por outro, a necessidade de adequar e flexibilizar as ofertas curriculares de forma a responder às opções pretendidas pelos alunos e pelo enquadramento legal da política educativa da Região Administrativa Especial de Macau onde se integra a EPM;
+Considerando por fim que as disposições conjugadas dos artigos 11.º do Decreto-Lei n.º 553/80, de 21 de Novembro, e 5.º do Decreto-Lei n.º 47 587, de 10 de Março de 1967, prevêem a possibilidade de realização de experiências pedagógicas em estabelecimentos de ensino particular que a requeiram e que ofereçam as necessárias garantias, a fim de promover a inovação pedagógica:
+Determina-se pela presente portaria:
+O reajustamento dos planos de estudo nacionais do ensino básico, no sentido da valorização do ensino de línguas estrangeiras, da integração das diferentes áreas curriculares não disciplinares e da realização de acertos programáticos pontuais, favorecendo o multilinguismo e contribuindo para o desenvolvimento da educação para a cidadania; e
+A criação de cursos científico-humanísticos de nível secundário com planos de estudo próprios que, sendo elaborados com base na oferta nacional, se constituam como um percurso escolar mais flexível, assegurando a continuidade de uma oferta curricular diversa, de forma a satisfazer as necessidades e os interesses da comunidade e, simultaneamente, facilitando a gestão dos recursos humanos e financeiros da escola.
+Assim:
+Em conformidade com o disposto no artigo 11.º do Decreto-Lei n.º 6/2001, de 18 de Janeiro, alterado pelo Decreto-Lei n.º 209/2002, de 17 de Outubro; no n.º 5 do artigo 5.º do Decreto-Lei n.º 74/2004, de 26 de Março, rectificado pela Declaração de Rectificação n.º 44/2004, de 25 de Maio, alterado pelo Decreto-Lei n.º 24/2006, de 6 de Fevereiro, rectificado pela Declaração de Rectificação n.º 23/2006, de 7 de Abril, e pelo Decreto-Lei n.º 272/2007, de 26 de Julho, rectificado pela Declaração de Rectificação n.º 84/2007, de 21 de Setembro; no artigo 5.º do Decreto-Lei n.º 47 587, de 10 de Março de 1967, e nos artigos 11.º e 33.º do Decreto-Lei n.º 553/80, de 21 de Novembro:
+Manda o Governo, pela Ministra da Educação, o seguinte:
+Artigo 1.º
+Objecto
+A presente portaria aprova os princípios orientadores da organização e da gestão do currículo próprio da Escola Portuguesa de Macau ao nível do ensino básico e dos cursos científico-humanísticos do ensino secundário, bem como as respectivas matrizes curriculares e planos de estudos.
+Artigo 2.º
+Ensino básico
+1 - A organização e a gestão do currículo próprio da Escola Portuguesa de Macau, ao nível do ensino básico, subordinam-se aos seguintes princípios orientadores:
+a) Consubstanciação dos planos de estudo agora criados no currículo nacional do ensino básico;
+b) Introdução, no 1.º ciclo, e continuação, no 2.º ciclo, de duas línguas estrangeiras, Mandarim e Inglês, na via de estudos A, e de uma língua estrangeira, Inglês, na via de estudos B, tendo em conta o meio sócio-geográfico em que a escola se insere;
+c) Continuação, no 3.º ciclo, via A, das línguas estrangeiras frequentadas nos 1.º e 2.º ciclos, e introdução, na via B, do Mandarim ou do Francês como opção ao nível da iniciação da segunda língua estrangeira;
+d) Substituição, em todos os anos de escolaridade, das áreas curriculares não disciplinares, Estudo Acompanhado e Área de Projecto, pela Área de Integração, como instrumento de autonomia para a melhoria da capacidade de resolução de problemas no contexto da escola;
+e) Substituição, no 2.º ciclo, nas vias A e B, da disciplina de História e Geografia de Portugal por História e Geografia de Portugal e de Macau, visando integrar as realidades de Macau e de Portugal, como ponto de partida para a construção do saber nestas áreas, a partir das vivências dos alunos.
+2 - São criados na Escola Portuguesa de Macau, como experiência pedagógica, a desenvolver nos termos da presente portaria, as matrizes curriculares dos 1.º, 2.º e 3.º ciclos do ensino básico, bem como as respectivas vias de estudos A e B.
+3 - As matrizes curriculares criadas pela presente portaria funcionam na Escola Portuguesa de Macau, em regime de autonomia pedagógica, nos termos do n.º 1 do artigo 35.º do Decreto-Lei n.º 553/80, de 21 de Novembro.
+4 - As matrizes curriculares aprovadas nos termos do presente artigo são as que constam dos anexos n.os 1 a 10 à presente portaria, da qual fazem parte integrante.
+5 - Os programas das diferentes áreas curriculares e disciplinas são os definidos para as áreas e disciplinas correspondentes do currículo nacional.
+6 - Sem prejuízo do disposto no número anterior, são introduzidas adaptações nos programas de Estudo do Meio do 1.º ciclo, de História e Geografia de Portugal e Macau do 2.º ciclo, de História do 3.º ciclo e das orientações curriculares de Geografia do 3.º ciclo do ensino básico, visando integrar as realidades locais.
+7 - Aplicam-se às matrizes curriculares agora aprovadas as disposições constantes do Despacho Normativo n.º 1/2005, alterado pelos Despachos Normativos n.os 50/2005, 18/2006 e 5/2007.
+8 - Com a publicação da presente portaria, são ratificadas as alterações introduzidas pela Escola Portuguesa de Macau a partir do ano lectivo de 2005-2006 nas matrizes curriculares das vias A e B dos diferentes ciclos do ensino básico.
+Artigo 3.º
+Ensino secundário
+1 - A organização e a gestão do currículo próprio da Escola Portuguesa de Macau, ao nível dos cursos científico-humanísticos do ensino secundário, subordinam-se aos seguintes princípios orientadores:
+a) Consubstanciação dos planos de estudo agora criados na oferta nacional de cursos científico-humanísticos;
+b) Flexibilização da oferta ao nível da formação específica, visando assegurar as diferentes possibilidades de prosseguimento de estudos para os alunos que o pretendam fazer e permitindo a opção por um leque variado de disciplinas para os alunos que ambicionem apenas a conclusão do ensino secundário, garantindo em qualquer dos casos a coerência do percurso formativo;
+c) Continuação na componente de formação geral de línguas estrangeiras com carácter obrigatório nos três anos do ciclo de estudos do nível secundário, sendo o Mandarim e o Inglês para a via A e o Inglês para a via B, tendo em conta o meio sócio-geográfico em que a escola se insere;
+d) Introdução da disciplina de Informática na componente de formação geral, com carácter obrigatório nos três anos do ciclo de estudos do nível secundário.
+2 - São criados na Escola Portuguesa de Macau, como experiência pedagógica, a desenvolver nos termos da presente portaria, os cursos científico-humanísticos de Ciências, de Humanidades e de Artes, bem como as respectivas vias de estudos A e B.
+3 - Os cursos criados pela presente portaria funcionam na Escola Portuguesa de Macau, em regime de autonomia pedagógica, nos termos do n.º 1 do artigo 35.º do Decreto-Lei n.º 553/80, de 21 de Novembro.
+4 - Os planos de estudo dos cursos aprovados nos termos do presente artigo são os que constam dos anexos n.os 11 a 16 à presente portaria, da qual fazem parte integrante.
+5 - Têm acesso aos cursos aprovados nos termos do n.º 2 do presente artigo os titulares do 9.º ano de escolaridade ou de habilitação equivalente.
+6 - Os programas das disciplinas da formação geral e específica são os definidos para os cursos correspondentes da oferta nacional.
+7 - Aplicam-se aos cursos agora criados as disposições constantes da Portaria n.º 550-D/2004, de 21 de Maio, alterada pela Portaria n.º 259/2006, de 14 de Março, e pela Portaria n.º 1322/2007, de 4 de Outubro.
+8 - Os cursos agora criados entram em funcionamento:
+a) No ano lectivo de 2009-2010, no 10.º ano de escolaridade;
+b) No ano lectivo de 2010-2011, no 11.º ano de escolaridade;
+c) No ano lectivo de 2011-2012, no 12.º ano de escolaridade.
+Artigo 4.º
+Relatório de avaliação
+A Escola Portuguesa de Macau elabora no final de cada ciclo de estudos um relatório de avaliação sobre o funcionamento e os resultados da organização do currículo do ensino básico e dos cursos científico-humanísticos do ensino secundário bem como das respectivas matrizes curriculares e planos de estudo aprovados pela presente portaria, para apreciação pelos serviços competentes do Ministério da Educação.
+Pela Ministra da Educação, Jorge Miguel de Melo Viana Pedreira, Secretário de Estado Adjunto e da Educação, em 28 de Julho de 2009.
+ANEXO N.º 1
+1.º ciclo - Via A
+(ver documento original)
+ANEXO N.º 2
+1.º ciclo - Via B
+(ver documento original)
+ANEXO N.º 3
+2.º ciclo - Via A
+(ver documento original)
+ANEXO N.º 4
+2.º ciclo - Via B
+(ver documento original)
+ANEXO N.º 5
+3.º ciclo - 7.º ano - Via A
+(ver documento original)
+ANEXO N.º 6
+3.º ciclo - 7.º ano - Via B
+(ver documento original)
+ANEXO N.º 7
+3.º ciclo - 8.º ano - Via A
+(ver documento original)
+ANEXO N.º 8
+3.º ciclo - 8.º ano - Via B
+(ver documento original)
+ANEXO N.º 9
+3.º ciclo - 9.º ano - Via A
+(ver documento original)
+ANEXO N.º 10
+3.º ciclo - 9.º ano - Via B
+(ver documento original)
+ANEXO N.º 11
+Curso de Ciências - Via A
+(ver documento original)
+ANEXO N.º 12
+Curso científico-humanístico de Ciências - Via B
+(ver documento original)
+ANEXO N.º 13
+Curso científico-humanístico de Humanidades - Via A
+(ver documento original)
+ANEXO N.º 14
+Curso científico-humanístico de Humanidades - Via B
+(ver documento original)
+ANEXO N.º 15
+Curso científico-humanístico de Artes - Via A
+(ver documento original)
+ANEXO N.º 16
+Curso científico-humanístico de Artes - Via B
+(ver documento original)
