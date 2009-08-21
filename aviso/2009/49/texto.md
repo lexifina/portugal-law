@@ -1,0 +1,5 @@
+Aviso n.º 49/2009
+Por ordem superior se torna público que, a 15 de Maio de 1996 e 11 de Julho de 1996, foram emitidas notas, respectivamente pela Embaixada da República da Turquia em Lisboa e pelo Ministério dos Negócios Estrangeiros português, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo de Transporte Aéreo entre o Governo da República Portuguesa e o Governo da República da Turquia, assinado em Lisboa em 13 de Março de 1992.
+Por parte de Portugal, o Acordo foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 26/95, de 2 de Fevereiro de 1995, e ratificado pelo Decreto do Presidente da República n.º 51/95, de 26 de Abril, publicados no Diário da República, 1.ª série-A, n.º 116/95, de 19 de Maio de 1995.
+Nos termos do artigo 22.º do Acordo, este entrou em vigor no dia 17 de Julho de 1996.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 29 de Julho de 2009. - O Subdirector-Geral, Miguel Maria Simões Coelho Almeida e Sousa.
