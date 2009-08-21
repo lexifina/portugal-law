@@ -1,0 +1,5 @@
+Aviso n.º 45/2009
+Por ordem superior se torna público que, em 5 de Janeiro e 8 de Maio de 2009, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros e Cooperação de Moçambique e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Protocolo entre a República Portuguesa e a República de Moçambique que Revê a Convenção para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinado em Maputo em 24 de Março de 2008.
+Por parte de Portugal, o Protocolo foi aprovado pela Resolução da Assembleia da República n.º 36/2009, publicada no Diário da República, 1.ª série, n.º 89, de 8 de Maio de 2009.
+Nos termos do artigo 17.º do Protocolo, este entrou em vigor no dia 7 de Junho de 2009.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 29 de Julho de 2009. - O Subdirector-Geral, Miguel Maria Simões Coelho Almeida e Sousa.
