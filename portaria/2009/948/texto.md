@@ -1,0 +1,9 @@
+Portaria n.º 948/2009
+de 21 de Agosto
+Com fundamento no disposto na alínea a) do artigo 40.º e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção, e ouvido o Conselho Cinegético Municipal de Castro Verde:
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é concessionada pelo período de 12 anos, renovável automaticamente por um único e igual período, à Sociedade Agro-Pecuária da Herdade da Cata, Lda., com o número de identificação fiscal 501258540 e sede na Herdade da Cata, 7800-631 Cabeça Gorda, a zona de caça turística do Ferragudo (processo n.º 5281-AFN), englobando o prédio rústico denominado «Ferragudo», sito na freguesia e município de Castro Verde, com a área de 464 ha, conforme a planta anexa à presente portaria e que dela faz parte integrante.
+2.º A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até ao máximo de 10 % da área total da zona de caça.
+3.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 5 de Agosto de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 12 de Agosto de 2009.
+(ver documento original)
