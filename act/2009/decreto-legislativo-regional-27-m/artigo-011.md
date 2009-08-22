@@ -1,0 +1,19 @@
+# Artigo 11.º
+
+### Indicadores de desempenho
+
+1 - Os indicadores de desempenho relativos à estrutura do SIADAP-RAM 1 devem obedecer aos seguintes princípios:
+
+a) Pertinência face aos objectivos que pretendem medir;
+
+b) Credibilidade;
+
+c) Facilidade de recolha;
+
+d) Clareza;
+
+e) Comparabilidade.
+
+2 - Os indicadores devem permitir a mensurabilidade dos desempenhos.
+
+3 - Na definição dos indicadores de desempenho deve ser assegurada a participação das várias unidades orgânicas do serviço.
