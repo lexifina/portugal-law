@@ -1,0 +1,6 @@
+Aviso n.º 15019/2009
+No âmbito da elaboração do Plano de Pormenor do Espartal, a Câmara Municipal, deliberou, por unanimidade, na reunião realizada em 17 de Agosto, a abertura do procedimento de Discussão Pública.
+Assim e em cumprimento do disposto nos n.os 3 e 4, do artigo 77.º, do Decreto-Lei n.º 380/1999, de 22 de Setembro, com a actual redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, torna-se público que se encontra aberto um período de Discussão Pública, com a duração de 22 dias úteis, contados depois de decorridos cinco dias após publicação do presente aviso, no Diário da República, 2.ª série.
+Nestes termos, a proposta de plano, acompanhada do respectivo contrato de planeamento, do relatório ambiental, da acta da conferência decisória, dos demais pareceres emitidos, bem como dos resultados da concertação, encontra-se patente para consulta na Divisão de Urbanismo e Habitação desta Câmara Municipal, entre as 9 horas e as 15 horas e 30 minutos, bem como na Internet, no sítio da Câmara Municipal de Aljezur, convidando todos os interessados para, no decorrer do prazo acima referido, apresentarem por escrito, as reclamações, observações ou sugestões que acharem por conveniente.
+19 de Agosto de 2009. - O Presidente da Câmara, Manuel José de Jesus Marreiros.
+202212566
