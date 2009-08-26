@@ -1,0 +1,4 @@
+Aviso n.º 62/2009
+Por ordem superior se torna público que, em 20 de Outubro de 2008, o Governo da República do Peru depositou o seu instrumento de adesão ao Tratado de Budapeste sobre o Reconhecimento Internacional do Depósito de Microrganismos para Efeitos do Procedimento em Matéria de Patentes, adoptado em 28 de Abril de 1977 e alterado em 26 de Setembro de 1980.
+Portugal é Parte do Tratado aprovado, para adesão, pela Resolução da Assembleia da República n.º 32/97 e ratificado pelo Decreto do Presidente da República n.º 29/97, ambos publicados no Diário da República, 1.ª série-A, n.º 115, de 19 de Maio de 1997, tendo depositado o instrumento de adesão ao Tratado em 16 de Julho de 1997, conforme o Aviso n.º 255/97, publicado no Diário da República, 1.ª série-A, n.º 207, de 8 de Setembro de 1997.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 22 de Maio de 2009. - O Subdirector-Geral, Miguel Maria Simões Coelho Almeida e Sousa.
