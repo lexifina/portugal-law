@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 72/2009
+Portugal, como membro da Organização do Tratado do Atlântico Norte (OTAN), participa na ISAF - International Security Assistance Force, sob comando da OTAN, no Afeganistão, nos termos definidos na portaria n.º 621/2009, de 27 de Abril, publicada no Diário da República, 2.ª série, n.º 119, de 23 de Junho de 2009.
+No quadro da nova estratégia da OTAN para o Afeganistão e conforme o parecer favorável do Conselho Superior de Defesa Nacional, emitido na sua sessão de 9 de Julho de 2009, concluído o processo de decisão política, Portugal irá reforçar a contribuição nacional.
+Nesta conformidade, as Forças Armadas irão preparar e projectar dois contingentes: um constituído por uma aeronave C-130, para apoio às eleições no corrente ano, de 27 de Julho a 24 de Outubro, envolvendo 41 militares; e outro constituído por uma força de escalão companhia, análoga à que operou naquele teatro de operações entre Agosto de 2005 e Julho de 2008, com um efectivo de cerca de 170 militares, para reforçar a nossa participação em 2010.
+Tendo presente que na elaboração do Orçamento do Estado para 2009 não foi contemplado o empenhamento destas forças naquele teatro de operações, mas que se coloca agora essa necessidade, de forma superveniente e que não era previsível àquela data, importa garantir a dotação orçamental necessária.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Decidir o envio de dois contingentes militares para o Afeganistão, no âmbito da ISAF - International Security Assistance Force, sob comando da OTAN.
+2 - Autorizar o dispêndio de (euro) 13 745 000, no corrente ano, para suportar os encargos de preparação e aprontamento do contingente militar para o reforço do contributo nacional, no âmbito da ISAF, sob comando da OTAN.
+3 - Determinar que os encargos decorrentes da presente participação nacional na operação militar mencionados no número anterior são suportados pelo orçamento do Exército e da Força Aérea destinado às forças nacionais destacadas, o qual é reforçado no valor de (euro) 5 354 000 e (euro) 8 391 000, respectivamente, por transferência do Ministério das Finanças e da Administração Pública.
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 16 de Julho de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
