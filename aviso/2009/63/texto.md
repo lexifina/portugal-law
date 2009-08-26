@@ -1,0 +1,4 @@
+Aviso n.º 63/2009
+Por ordem superior se torna público que, a 30 de Maio de 2008, o Reino do Lesoto depositou o seu instrumento de adesão à Convenção de Roterdão Relativa ao Procedimento de Prévia Informação e Consentimento para Determinados Produtos Químicos e Pesticidas Perigosos no Comércio Internacional, adoptada em Roterdão em 11 de Setembro de 1998.
+Portugal é Parte da mesma Convenção, aprovada pelo Decreto n.º 33/2004, publicado no Diário da República, 1.ª série-A, n.º 255, de 29 de Outubro de 2004, tendo depositado o seu instrumento de aprovação em 16 de Fevereiro de 2005, conforme o Aviso n.º 193/2005, publicado no Diário da República, 1.ª série-A, n.º 86, de 4 de Maio de 2005.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 25 de Maio de 2009. - O Subdirector-Geral, Miguel Maria Simões Coelho Almeida e Sousa.
