@@ -12,7 +12,7 @@ a) Nas transmissões por morte, a herança e os legatários e, nas restantes tra
 
 b) No arrendamento e subarrendamento, o locador e o sublocador;
 
-c) Nas apostas, o apostador;
+c) Nas apostas, incluindo em todos os jogos sociais do Estado, o apostador;
 
 d) (Revogada.)
 

@@ -64,6 +64,8 @@
 
 11.2.3 - Cartões modelo C ... (euro) 2
 
+11.3 - Jogos sociais do Estado: Euromilhões, Lotaria Nacional, Lotaria Instantânea, Totobola, Totogolo, Totoloto e Joker - incluídos no preço de venda da aposta - 4,5 %.
+
 12 - Licenças:
 
 12.1 - Para instalação ou exploração de máquinas electrónicas de diversão - por cada máquina e sobre o valor da taxa devida pela emissão da licença, no mínimo de (euro) 15 ... 20%
