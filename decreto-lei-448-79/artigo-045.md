@@ -1,17 +1,13 @@
 # Artigo 45.º
 
-### (Júri do concurso para professor catedrático)
+### Nomeação dos júris
 
-1 - Obtido o despacho de admissão dos candidatos a concurso para professor catedrático, o conselho científico submeterá à aprovação do reitor da universidade, no prazo de 30 dias, uma proposta de júri do concurso, do qual farão parte:
+1 - Os júris dos concursos são nomeados por despacho do órgão máximo da instituição de ensino superior, nos termos fixados pelos respectivos estatutos.
 
-a) Professores catedráticos da disciplina ou grupo de disciplinas a que se refere o concurso afectos à Universidade em causa;
+2 - Quando a instituição de ensino superior não esteja habilitada a conferir o grau de doutor na área ou áreas disciplinares para que o concurso é aberto, o júri é nomeado sob proposta do Conselho de Reitores das Universidades Portuguesas.
 
-b) Professores catedráticos da disciplina ou grupo de disciplinas a que o concurso respeita afectos a outras Universidades.
+3 - (Revogado.)
 
-2 - No número de membros do júri, que não pode ser inferior a cinco, não se contando, para o efeito, o presidente, estarão, sempre que possível, pelo menos, dois professores catedráticos de outras Universidades.
+4 - (Revogado.)
 
-3 - Para dar satisfação aos requisitos exigidos no número anterior, poderão ainda integrar o júri professores catedráticos de disciplinas ou grupos de disciplinas análogas da mesma ou de diferente Universidade.
-
-4 - Poderão também ser integrados no júri investigadores de reconhecida competência na área científica a que o concurso respeite.
-
-5 - Quando tal se justifique, poderão igualmente ser admitidos a fazer parte do júri professores estrangeiros de reconhecido mérito na área da disciplina ou grupo de disciplinas para que o concurso foi aberto.
+5 - (Revogado.)

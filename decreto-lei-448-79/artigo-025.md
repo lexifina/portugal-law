@@ -1,9 +1,13 @@
 # Artigo 25.º
 
-### (Provimento e nomeação de professores auxiliares)
+### Contratação de professores auxiliares
 
-1 - Os professores auxiliares são providos provisoriamente por contrato de duração igual a um quinquénio.
+1 - Os professores auxiliares são contratados por tempo indeterminado com um período experimental de cinco anos, findo o qual, em função de avaliação específica da actividade desenvolvida realizada de acordo com critérios fixados pelo órgão legal e estatutariamente competente da instituição de ensino superior e sob proposta fundamentada aprovada por maioria de dois terços desse mesmo órgão:
 
-2 - A nomeação definitiva dos professores auxiliares efectua-se mediante deliberação do conselho científico, observado o disposto no artigo 20.º, com as necessárias adaptações.
+a) É mantido o contrato por tempo indeterminado; ou
 
-3 - O professor auxiliar que tenha sido assistente e não seja nomeado definitivamente será colocado, se tal requerer no prazo de três meses, na situação prevista no n.º 4 do artigo 22.º
+b) Após um período suplementar de seis meses, de que o docente pode prescindir, querendo, cessa a relação contratual, regressando o docente, se for caso disso, à situação jurídico-funcional de que era titular antes do período experimental, quando constituída e consolidada por tempo indeterminado.
+
+2 - A decisão a que se refere o número anterior é comunicada ao professor até seis meses antes do termo do período experimental.
+
+3 - Em caso de incumprimento, total ou parcial, do prazo estipulado no número anterior, a instituição de ensino superior fica obrigada a pagar ao docente uma indemnização de valor igual à remuneração base correspondente ao período de antecedência em falta quando haja cessação da relação contratual.

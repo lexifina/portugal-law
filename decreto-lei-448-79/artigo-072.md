@@ -1,6 +1,6 @@
 # Artigo 72.º
 
-### (Serviço docente nocturno)
+### Serviço docente nocturno
 
 1 - Considera-se serviço docente nocturno o que for prestado em aulas para além das 20 horas.
 

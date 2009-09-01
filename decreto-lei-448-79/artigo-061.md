@@ -4,6 +4,6 @@
 
 # Artigo 61.º
 
-### (Impedimento de parentesco ou afinidade)
+### Garantias de imparcialidade
 
-Dos júris não podem fazer parte os parentes ou afins dos candidatos na linha recta ou até ao terceiro grau da linha colateral.
+É aplicável ao procedimento regulado na presente subsecção o regime de garantias de imparcialidade previsto nos artigos 44.º a 51.º do Código do Procedimento Administrativo, com as necessárias adaptações.

@@ -1,6 +1,6 @@
 ## Capítulo III
 
-## Provimento do pessoal docente
+## Regime de vinculação do pessoal docente
 
 ## Secção I
 
@@ -8,10 +8,12 @@
 
 # Artigo 19.º
 
-### (Nomeação inicial de professores catedráticos e associado)
+### Contratação de professores catedráticos e associados
 
-1 - O provimento de professores catedráticos e associados é feito por nomeação.
+1 - Os professores catedráticos e associados são contratados por tempo indeterminado.
 
-2 - Os professores catedráticos, fora do caso previsto no artigo 23.º, são inicialmente nomeados por um período de dois anos.
+2 - Se o contrato referido no número anterior não for precedido por um contrato por tempo indeterminado como professor das carreiras docentes do ensino universitário ou do ensino politécnico ou como investigador da carreira de investigação científica, o mesmo tem o período experimental de um ano.
 
-3 - Os professores associados são nomeados inicialmente por um período de cinco anos.
+3 - Findo o período experimental, e em função de avaliação específica da actividade desenvolvida realizada de acordo com critérios fixados pelo órgão legal e estatutariamente competente da instituição de ensino superior, o contrato passa a contrato por tempo indeterminado em regime de tenure, nos termos do artigo seguinte, salvo se o órgão máximo da instituição de ensino superior, sob proposta fundamentada aprovada por maioria de dois terços do órgão científico legal e estatutariamente competente, decidir no sentido da sua cessação, decisão que deve ser comunicada ao professor até 90 dias antes do termo daquele período.
+
+4 - Na situação de cessação prevista no número anterior, e sendo o caso, o docente regressa à situação jurídico-funcional de que era titular antes do período experimental, quando constituída e consolidada por tempo indeterminado.

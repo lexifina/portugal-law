@@ -8,7 +8,7 @@
 
 a) Orientação, visando a melhoria da qualidade do desempenho dos docentes;
 
-b) Consideração de todas as vertentes da actividade dos docentes enunciadas no artigo 4.º, na medida em que elas lhes tenham, em conformidade com a lei e o Estatuto, estado afectas no período a que se refere a avaliação;
+b) Consideração de todas as vertentes da actividade dos docentes enunciadas no artigo 4.º;
 
 c) Consideração da especificidade de cada área disciplinar;
 
@@ -30,6 +30,4 @@ l) Homologação dos resultados da avaliação do desempenho pelo dirigente máx
 
 m) Previsão da audiência prévia dos interessados;
 
-n) Previsão da possibilidade de os interessados impugnarem judicialmente, nos termos gerais, o acto de homologação e a decisão sobre a reclamação;
-
-o) Aplicação do regime de garantias de imparcialidade previsto nos artigos 44.º a 51.º do Código do Procedimento Administrativo e consagrado no presente Estatuto para concursos.
+n) Previsão da possibilidade de os interessados impugnarem judicialmente, nos termos gerais, o acto de homologação e a decisão sobre a reclamação.

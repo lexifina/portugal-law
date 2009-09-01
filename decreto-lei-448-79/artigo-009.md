@@ -8,10 +8,6 @@
 
 # Artigo 9.º
 
-### (Recrutamento de professores catedráticos e associados)
+### Recrutamento de professores catedráticos e associados
 
-Os professores catedráticos e associados podem ser recrutados:
-
-a) Por transferência;
-
-b) Por concurso documental, nos termos dos artigos 37.º a 52.º
+Os professores catedráticos e associados são recrutados exclusivamente por concurso documental, nos termos do presente Estatuto.

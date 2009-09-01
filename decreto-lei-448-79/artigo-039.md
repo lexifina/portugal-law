@@ -1,9 +1,17 @@
 # Artigo 39.º
 
-### (Abertura dos concursos)
+### Órgão máximo da instituição de ensino superior
 
-1 - Os reitores das Universidades deverão propor bienalmente, no mês de Julho, ao Ministro da Educação a abertura de concursos para o preenchimento das vagas de professor que se verifiquem nos quadros das respectivas escolas ou departamentos.
+1 - Compete ao órgão máximo da instituição de ensino superior, nos termos fixados nos respectivos estatutos:
 
-2 - Os concursos serão abertos perante as reitorias, pelo período de trinta dias.
+a) A decisão de abrir concurso;
 
-3 - A abertura dos concursos é feita por edital publicado no Diário da República.
+b) A homologação das deliberações finais dos júris dos concursos;
+
+c) A decisão final sobre a contratação.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - A prática dos actos a que se refere o n.º 1 depende, nos termos da lei, da existência de cabimento orçamental.

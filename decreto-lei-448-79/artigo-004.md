@@ -1,11 +1,15 @@
 # Artigo 4.º
 
-### (Funções dos docentes universitários)
+### Funções dos docentes universitários
 
 Cumpre, em geral, aos docentes universitários:
 
-a) Prestar o serviço docente que lhes for atribuído;
+a) Realizar actividades de investigação científica, de criação cultural ou de desenvolvimento tecnológico;
 
-b) Desenvolver, individualmente ou em grupo, a investigação científica;
+b) Prestar o serviço docente que lhes for distribuído e acompanhar e orientar os estudantes;
 
-c) Contribuir para a gestão democrática da escola e participar nas tarefas de extensão universitária.
+c) Participar em tarefas de extensão universitária, de divulgação científica e de valorização económica e social do conhecimento;
+
+d) Participar na gestão das respectivas instituições universitárias;
+
+e) Participar em outras tarefas distribuídas pelos órgãos de gestão competentes e que se incluam no âmbito da actividade de docente universitário.

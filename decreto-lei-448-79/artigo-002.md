@@ -4,7 +4,7 @@
 
 # Artigo 2.º
 
-### (Categorias)
+### Categorias
 
 As categorias do pessoal docente abrangido por este diploma são as seguintes:
 
@@ -14,6 +14,6 @@ b) Professor associado;
 
 c) Professor auxiliar;
 
-d) Assistente;
+d) [Revogada.]
 
-e) Assistente estagiário.
+e) [Revogada.]
