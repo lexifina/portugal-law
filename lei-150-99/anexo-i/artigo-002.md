@@ -30,6 +30,8 @@ m) Conservadores e oficiais dos registos, em exclusivo, nos casos em que os acto
 
 n) As entidades ou profissionais que autentiquem os documentos particulares previstos na verba 15.8 da tabela geral, ou reconheçam as assinaturas neles apostas, com excepção daqueles que sejam relativos a crédito e garantias concedidos por instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e por quaisquer outras instituições financeiras, e quando, nos termos da alínea n) do artigo 5.º, os contratos ou documentos lhes sejam apresentados para qualquer efeito legal.
 
+o) A Santa Casa da Misericórdia de Lisboa, relativamente aos contratos de jogo celebrados no âmbito dos jogos sociais do Estado, cuja organização e exploração se lhe encontre atribuída em regime de direito exclusivo.
+
 2 - Nas transmissões gratuitas, são sujeitos passivos do imposto as pessoas singulares para quem se transmitam os bens, sem prejuízo das seguintes regras:
 
 a) Nas sucessões por morte, o imposto é devido pela herança, representada pelo cabeça-de-casal, e pelos legatários;
