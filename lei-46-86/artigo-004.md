@@ -13,3 +13,5 @@
 3 - A educação escolar compreende os ensinos básico, secundário e superior, integra modalidades especiais e inclui actividades de ocupação de tempos livres.
 
 4 - A educação extra-escolar engloba actividades de alfabetização e de educação de base, de aperfeiçoamento e actualização cultural e científica e a iniciação, reconversão e aperfeiçoamento profissional e realiza-se num quadro aberto de iniciativas múltiplas, de natureza formal e não formal.
+
+5 - O disposto na presente lei não prejudica a definição de um regime mais amplo quanto à universalidade, obrigatoriedade e gratuitidade na organização geral do sistema educativo, nos termos da lei.

@@ -16,6 +16,6 @@
 
 3 - As crianças que completem os 6 anos de idade entre 16 de Setembro e 31 de Dezembro podem ingressar no ensino básico se tal for requerido pelo encarregado de educação, em termos a regulamentar.
 
-4 - A obrigatoriedade de frequência do ensino básico termina aos 15 anos de idade.
+4 - (Revogado).
 
 5 - A gratuitidade no ensino básico abrange propinas, taxas e emolumentos relacionados com a matrícula, frequência e certificação, podendo ainda os alunos dispor gratuitamente do uso de livros e material escolar, bem como de transporte, alimentação e alojamento, quando necessários.
