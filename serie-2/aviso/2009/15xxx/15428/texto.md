@@ -1,0 +1,5 @@
+Aviso n.º 15428/2009
+João Agostinho Pinto Pereira, presidente da Câmara Municipal de Albergaria-a-Velha, torna público que, após audiência e apreciação pública, nos termos do artigo 118.º do Código de Procedimento Administrativo, no âmbito da competência constante na alínea a) do n.º 2 do artigo 53.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, a Assembleia Municipal de Albergaria-a-Velha, na sua sessão ordinária de 26 de Junho de 2009, aprovou o Regulamento do Arquivo Municipal de Albergaria-a-Velha, sob proposta da Câmara Municipal tomada na sua reunião ordinária pública de 4 de Fevereiro de 2009, o qual entrará em vigor no prazo de 15 dias úteis a contar do dia seguinte ao da sua publicação no Diário da República, 2.º Série.
+E para constar e demais efeitos, se publica o presente aviso e se afixam editais de igual teor nos lugares públicos do costume.
+25 de Agosto de 2009. - O Presidente da Câmara, João Agostinho Pinto Pereira.
+302231317
