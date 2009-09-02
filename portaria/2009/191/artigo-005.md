@@ -2,11 +2,11 @@
 
 ### Conselho consultivo
 
-1 - A autarquia local deve constituir um conselho consultivo que assegure a participação da sociedade civil na política cinegética da ZCN.
+1 - A autarquia local, ou a entidade colectiva integrada por esta, deve constituir um conselho consultivo que assegure a participação da sociedade civil na política cinegética da ZCN.
 
 2 - O conselho consultivo da ZCN integra um representante de cada junta de freguesia da área abrangida, um representante de cada uma das organizações do sector da caça de níveis 1 e 2 existentes no concelho ou concelhos abrangidos, um representante de cada um dos conselhos directivos de baldios se a área integrante da ZCN incluir territórios baldios.
 
-3 - Podem integrar ainda o conselho consultivo, quando a autarquia local o considere, dois representantes do conselho cinegético municipal.
+3 - Podem integrar ainda o conselho consultivo, quando a autarquia local ou a entidade colectiva integrada por esta o considerem, dois representantes dos conselhos cinegéticos municipais dos concelhos abrangidos.
 
 4 - Quando a ZCN se integre em áreas protegidas ou classificadas, o conselho consultivo deve integrar ainda dois representantes do Instituto de Conservação da Natureza e da Biodiversidade, I. P.
 
