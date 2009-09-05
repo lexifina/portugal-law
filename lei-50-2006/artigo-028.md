@@ -2,8 +2,8 @@
 
 ### Concurso de infracções
 
-1 - Se o mesmo facto constituir simultaneamente crime e contraordenação, o agente é sempre punido a título de crime, sem prejuízo da aplicação das sanções acessórias previstas para a contraordenação.
+1 - Se o mesmo facto constituir simultaneamente crime e contra-ordenação ambiental, o arguido é responsabilizado por ambas as infracções, instaurando-se, para o efeito, processos distintos a decidir pelas autoridades competentes, sem prejuízo do disposto nos números seguintes.
 
-2 - Quando se verifique concurso de crime e contraordenação, ou quando, pelo mesmo facto, uma pessoa deva responder a título de crime e outra a título de contraordenação, o processamento da contraordenação cabe às autoridades competentes para o processo criminal, nos termos do regime geral das contraordenações.
+2 - A decisão administrativa que aplique uma coima caduca quando o arguido venha a ser condenado em processo criminal pelo mesmo facto.
 
-3 - (Revogado).
+3 - Sendo o arguido punido a título de crime, poderão ainda assim aplicar-se as sanções acessórias previstas para a respectiva contra-ordenação.

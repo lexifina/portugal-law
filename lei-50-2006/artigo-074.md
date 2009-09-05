@@ -1,5 +1,5 @@
 # Artigo 74.º
 
-### Autoridade administrativa
+### Reformatio in pejus
 
-Para os efeitos da presente lei, consideram-se autoridade administrativa os organismos a quem compita legalmente a instauração, a instrução e ou a aplicação das sanções dos processos de contraordenação ambiental e do ordenamento do território.
+Não é aplicável aos processos de contra-ordenação instaurados e decididos nos termos desta lei a proibição de reformatio in pejus, devendo essa informação constar de todas as decisões finais que admitam impugnação ou recurso.

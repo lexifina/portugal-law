@@ -6,7 +6,7 @@
 
 a) As despesas de transporte e as ajudas de custo;
 
-b) O reembolso por franquias postais e por comunicações telefónicas e telemáticas;
+b) O reembolso por franquias postais, comunicações telefónicas, telegráficas, por telecópia e telemáticas;
 
 c) Os emolumentos devidos aos peritos;
 
