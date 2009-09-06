@@ -32,14 +32,18 @@ d) A violação dos direitos de personalidade e outros direitos, liberdades e ga
 
 5 - Em caso de oposição do contribuinte com fundamento nalgumas circunstâncias referidas no número anterior, a diligência só poderá ser realizada mediante autorização concedida pelo tribunal da comarca competente com base em pedido fundamentado da administração tributária.
 
-6 - A notificação das instituições de crédito, sociedades financeiras e demais entidades, para efeitos de permitirem o acesso a elementos cobertos pelo sigilo a que estejam vinculadas, nos casos em que exista a possibilidade legal de a administração tributária exigir a sua derrogação, deve ser instruída com os seguintes elementos:
+6 - A notificação das instituições de crédito, sociedades financeiras e demais entidades, para efeitos de permitirem o acesso a elementos cobertos pelo dever de sigilo a que estejam vinculadas, nos casos em que exista a possibilidade legal de a administração tributária exigir a sua derrogação, deve ser instruída com os seguintes elementos:
 
-a) Nos casos de acesso directo sem necessidade de consentimento do titular dos elementos protegidos, cópia da decisão fundamentada proferida pelo director-geral dos Impostos ou pelo director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo, nos termos do n.º 4 do artigo 63.º-B;
+a) Nos casos de acesso directo sem necessidade de consentimento do titular dos elementos protegidos, cópia da decisão proferida pelo director-geral dos Impostos ou pelo director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo;
 
-b) Nos casos de acesso directo em que não é facultado ao contribuinte o direito a recurso com efeito suspensivo, cópia da notificação que lhe foi dirigida para o efeito de assegurar a sua audição prévia;
+b) (Revogada.)
 
-c) Nos casos de acesso directo em que o contribuinte disponha do direito a recurso com efeito suspensivo, cópia da notificação referida na alínea anterior e certidão emitida pelo director-geral dos Impostos ou pelo director-geral das Alfândegas e Impostos Especiais sobre o Consumo que ateste que o contribuinte não interpôs recurso no prazo legal;
+c) Nos casos de acesso directo relativo a familiares ou terceiros em que o interessado disponha do direito a recurso com efeito suspensivo, alternativamente:
 
-d) Nos casos em que o contribuinte tenha recorrido ao tribunal com efeito suspensivo e ainda nos casos de acesso aos documentos relativos a familiares ou a terceiros, certidão da decisão judicial transitada em julgado ou pendente de recurso com efeito devolutivo.
+i) Cópia da notificação que lhes foi dirigida para o efeito de exercício do direito de audição prévia e certidão emitida pelo director-geral dos Impostos ou pelo director-geral das Alfândegas e Impostos Especiais sobre o Consumo que ateste que não foi interposto recurso no prazo legal;
+
+ii) Certidão da decisão judicial transitada em julgado ou pendente de recurso com efeito devolutivo, desde que o interessado tenha recorrido ao tribunal;
+
+d) (Revogada.)
 
 7 - As instituições de crédito, sociedades financeiras e demais entidades devem cumprir as obrigações relativas ao acesso a elementos cobertos pelo sigilo a que estejam vinculadas no prazo de 10 dias úteis.
