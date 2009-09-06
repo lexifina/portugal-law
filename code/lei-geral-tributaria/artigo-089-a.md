@@ -12,13 +12,21 @@ b) Os bens de que frua no ano em causa o sujeito passivo ou qualquer elemento do
 
 c) Os suprimentos e empréstimos efectuados pelo sócio à sociedade, no ano em causa, ou por qualquer elemento do seu agregado familiar.
 
-3 - Verificadas as situações previstas no n.º 1 deste artigo, bem como na alínea f) do artigo 87.º, cabe ao sujeito passivo a comprovação de que correspondem à realidade os rendimentos declarados e de que é outra a fonte das manifestações de fortuna ou o acréscimo de património ou o consumo evidenciados.
+3 - Verificadas as situações previstas no n.º 1 deste artigo, bem como na alínea f) do n.º 1 do artigo 87.º, cabe ao sujeito passivo a comprovação de que correspondem à realidade os rendimentos declarados e de que é outra a fonte das manifestações de fortuna ou do acréscimo de património ou da despesa efectuada.
 
 4 - Quando o sujeito passivo não faça a prova referida no número anterior relativamente às situações previstas no n.º 1 deste artigo, considera-se como rendimento tributável em sede de IRS, a enquadrar na categoria G, no ano em causa, e no caso das alíneas a) e b) do n.º 2, nos três anos seguintes, quando não existam indícios fundados, de acordo com os critérios previstos no artigo 90.º, que permitam à administração tributária fixar rendimento superior, o rendimento padrão apurado nos termos da tabela seguinte:
 
 (ver tabela no documento original)
 
-5 - No caso da alínea f) do artigo 87.º, considera-se como rendimento tributável em sede de IRS, a enquadrar na categoria G, quando não existam indícios fundados, de acordo com os critérios previstos no artigo 90.º, que permitam à administração tributária fixar rendimento superior, a diferença entre o acréscimo de património ou o consumo evidenciados e os rendimentos declarados pelo sujeito passivo no mesmo período de tributação.
+5 - Para efeitos da alínea f) do n.º 1 do artigo 87.º:
+
+a) Considera-se como rendimento tributável em sede de IRS, a enquadrar na categoria G, quando não existam indícios fundados, de acordo com os critérios previstos no artigo 90.º, que permitam à administração tributária fixar rendimento superior, a diferença entre o acréscimo de património ou a despesa efectuada, e os rendimentos declarados pelo sujeito passivo no mesmo período de tributação;
+
+b) Os acréscimos de património consideram-se verificados no período em que se manifeste a titularidade dos bens ou direitos e a despesa quando efectuada;
+
+c) Na determinação dos acréscimos patrimoniais, deve atender-se ao valor de aquisição e, sendo desconhecido, ao valor de mercado;
+
+d) Consideram-se como rendimentos declarados os rendimentos líquidos das diferentes categorias de rendimentos.
 
 6 - A decisão de avaliação da matéria colectável pelo método indirecto constante deste artigo é da competência do director de finanças da área do domicílio fiscal do sujeito passivo, sem faculdade de delegação.
 
@@ -30,4 +38,4 @@ c) Os suprimentos e empréstimos efectuados pelo sócio à sociedade, no ano em 
 
 10 - A decisão de avaliação da matéria colectável com recurso ao método indirecto constante deste artigo, após tornar-se definitiva, deve ser comunicada pelo director de finanças ao Ministério Público e, tratando-se de funcionário ou titular de cargo sob tutela de entidade pública, também à tutela destes para efeitos de averiguações no âmbito da respectiva competência.
 
-11 - A avaliação indirecta no caso da alínea f) do n.º 1 do artigo 87.º deve ser feita no âmbito de um procedimento que inclua a investigação das contas bancárias.
+11 - A avaliação indirecta no caso da alínea f) do n.º 1 do artigo 87.º deve ser feita no âmbito de um procedimento que inclua a investigação das contas bancárias, podendo no seu decurso o contribuinte regularizar a situação tributária, identificando e justificando a natureza dos rendimentos omitidos e corrigindo as declarações dos respectivos períodos.
