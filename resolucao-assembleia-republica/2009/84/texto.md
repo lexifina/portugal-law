@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 84/2009
+Aprova a retirada por parte da República Portuguesa da Convenção Relativa à Abolição das Sanções Penais por Quebra do Contrato de Trabalho por Parte dos Trabalhadores Indígenas, adoptada na 38.ª Sessão da Conferência Geral da Organização Internacional do Trabalho, em Genebra em 21 de Junho de 1955, aprovada, para ratificação, pelo Decreto-Lei n.º 42 691, de 30 de Novembro de 1959.
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar a retirada por parte da República Portuguesa da Convenção Relativa à Abolição das Sanções Penais por Quebra do Contrato de Trabalho por Parte dos Trabalhadores Indígenas, adoptada na 38.ª Sessão da Conferência Geral da Organização Internacional do Trabalho, em Genebra em 21 de Junho de 1955, aprovada, para ratificação, pelo Decreto-Lei n.º 42 691, de 30 de Novembro de 1959.
+Aprovada em 23 de Julho de 2009.
+O Presidente da Assembleia da República, Jaime Gama.
