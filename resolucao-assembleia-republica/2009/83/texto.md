@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 83/2009
+Aprova a retirada por parte da República Portuguesa da Convenção Relativa à Protecção e Integração das Populações Aborígenes e Outras Populações Tribais e Semitribais nos Países Independentes, adoptada na 40.ª Sessão da Conferência Geral da Organização Internacional do Trabalho, em Genebra em 26 de Junho de 1957, aprovada, para ratificação, pelo Decreto-Lei n.º 43 281, de 29 de Outubro de 1960.
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar a retirada por parte da República Portuguesa da Convenção Relativa à Protecção e Integração das Populações Aborígenes e Outras Populações Tribais e Semitribais nos Países Independentes, adoptada na 40.ª Sessão da Conferência Geral da Organização Internacional do Trabalho, em Genebra em 26 de Junho de 1957, aprovada, para ratificação, pelo Decreto-Lei n.º 43 281, de 29 de Outubro de 1960.
+Aprovada em 23 de Julho de 2009.
+O Presidente da Assembleia da República, Jaime Gama.
