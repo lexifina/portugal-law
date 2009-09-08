@@ -1,0 +1,11 @@
+Portaria n.º 995/2009
+de 8 de Setembro
+Pela Portaria n.º 1040/2003, de 19 de Setembro, foi criada a zona de caça municipal de Mesão Frio (processo n.º 3354-AFN), situada no município de Mesão Frio, válida até 19 de Setembro de 2009, e transferida a sua gestão para o Clube de Caça e Pesca de Mesão Frio.
+Entretanto, a entidade titular veio requerer a sua renovação com a área de 2460 ha, e não 2568 ha como mencionado na respectiva portaria de criação, devido ao ajustamento aos novos limites administrativos. Simultaneamente requereu ainda a anexação de outros prédios rústicos.
+Cumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º, 21.º e 26.º, em conjugação com o estipulado na alínea a) do artigo 18.º, e no n.º 1 do artigo 118.º, do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, ouvido o Conselho Cinegético Municipal, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria esta zona de caça, bem como a respectiva transferência de gestão, são renovadas por um período de seis anos, englobando vários terrenos cinegéticos sitos nas freguesias de Barqueiros, Vila Jusã, São Nicolau, Santa Cristina, Vila Marim, Cidadelhe e Oliveira, município de Mesão Frio, com a área de 2460 ha.
+2.º São anexados à presente zona de caça vários prédios rústicos sitos nas freguesias de Barqueiros, Santa Cristina, Vila Marim e Oliveira, município de Mesão Frio, com a área de 63 ha.
+3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 2523 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+4.º A presente portaria produz efeitos a partir do dia 20 de Setembro de 2009.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 28 de Agosto de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 1 de Setembro de 2009.
+(ver documento original)
