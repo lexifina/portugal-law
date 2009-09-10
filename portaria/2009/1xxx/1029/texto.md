@@ -1,0 +1,11 @@
+Portaria n.º 1029/2009
+de 10 de Setembro
+Pela Portaria n.º 1195/2007, de 18 de Setembro, foi concessionada à Associação de Caçadores do Bairro das Espadas e não à Associação Bairro das Espadas, como por lapso saiu publicado, a zona de caça associativa da Herdade da Bota e outras (processo n.º 4698-AFN), situada no município de Évora.
+Veio entretanto a entidade concessionária da zona de caça acima mencionada requerer a desanexação de vários prédios rústicos incluídos na mesma, tendo em simultâneo, a TANS - Sociedade Nacional Agrícola e Turística Eborense, Lda., requerido a concessão de uma zona de caça turística que englobasse aqueles terrenos.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção, e com fundamento no artigo 47.º e na alínea a) do artigo 40.º, ambos do diploma acima identificado, e após audição do Conselho Cinegético Municipal de Évora no que respeita à concessão da zona de caça turística, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º São desanexados da zona de caça associativa da Herdade da Bota e outras (processo n.º 4698-AFN) vários prédios rústicos sitos na freguesia de Torre de Coelheiros, município de Évora, com a área de 455 ha, ficando a mesma com a área de 564 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º Pela presente portaria é concessionada, pelo período de 12 anos, à TANS - Sociedade Nacional Agrícola e Turística Eborense, Lda., com o número de identificação fiscal 505902958 e sede social na Herdade dos Alcamizes, 7000-019 Nossa Senhora da Graça do Divor, a zona de caça turística da Herdade da Maceda (processo n.º 5299-AFN), englobando vários prédios rústicos sitos na freguesia de Torre de Coelheiros, município de Évora, com a área de 455 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A desanexação e a concessão previstas na presente portaria produzem efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 1 de Setembro de 2009.
+(ver documento original)
