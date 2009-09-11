@@ -1,0 +1,28 @@
+Portaria n.º 1019/2009
+de 10 de Setembro
+No quadro da sua normal actividade de comunicação, as forças e serviços de segurança têm vindo a divulgar através da Internet muita informação sobre o quadro legal em que actuam e sobre os resultados decorrentes do cumprimento das suas missões nas mais diversas áreas. O mesmo tem vindo a ser feito no domínio da protecção civil, tirando partido do novo ambiente comunicacional propiciado pela rápida expansão das redes electrónicas e o aumento ininterrupto dos seus utilizadores.
+Por isso mesmo, foi incluída na consulta pública preparatória da aprovação do SIMPLEX 2009 a ideia de criar um portal da segurança, delimitada nos termos seguintes:
+«Criar um portal que reúna informação sobre segurança, apresentada na óptica do utilizador. O portal da segurança proporcionará indicações práticas para reforço da segurança individual e comunitária, numa óptica preventiva ou reactiva. Beneficiando da reformulação dos sítios já existentes - que se poderão manter -, o portal incluirá conselhos úteis em texto, áudio e vídeo, com recurso às ferramentas da web 2.0, devendo constituir-se como um meio simples e directo de pesquisa de informação pública sobre um vasto conjunto de temas no domínio da segurança. Terá áreas para conteúdos de vários ministérios. O portal disponibilizará on-line trabalhos e produtos de informação e estudo produzidos pelas instituições de ensino e formação das forças e serviços de segurança.»
+O projecto colheu significativas manifestações de interesse dos participantes na consulta pública e veio a ser incluído na versão final do SIMPLEX.
+Através do Portal da Segurança o cidadão passa a poder ter acesso a dados que lhe permitam estabelecer uma mais rápida ligação com as forças de segurança, com a Polícia Judiciária, com o Serviço de Estrangeiros e Fronteiras e a Autoridade Nacional de Protecção Civil.
+Pode também ficar a saber mais facilmente como actuar perante as mais diversas circunstâncias, incluindo as resultantes de catástrofes ou alterações da ordem e tranquilidade públicas.
+Além de servir de elemento agregador da informação dispersa por várias entidades, o Portal vem facultar às entidades parceiras ferramentas tecnológicas que lhes permitirão produzir, separadamente e em conjunto, conteúdos informativos fidedignos sobre temas de segurança, de acordo com as respectivas competências legais.
+Em fase mais avançada de desenvolvimento - e tirando partido do estímulo que o Governo está a dar à criação de aplicações utilizáveis nas redes de fibra óptica de nova geração - o Portal da Segurança deverá incluir um centro de atendimento de videochamadas de cidadãos, para fornecimento de informações úteis, uma rede de videoconferência segura entre membros das forças e serviços de segurança, bem como uma intranet com estatísticas de criminalidade geolocalizadas e tratadas com recurso a modernas técnicas de modelização tridimensional.
+A boa gestão das ferramentas já criadas e o planeamento das fases seguintes do projecto recomendam que entre os Ministérios da Justiça e da Administração Interna sejam estabelecidos procedimentos adequados de cooperação, por forma a assegurar a actualização dos conteúdos e uma estrutura estável que dinamize a introdução de novas funcionalidades e a resposta às solicitações dos cidadãos, que sendo os naturais destinatários da informação produzida devem ter um papel activo na modelação dos conteúdos a disponibilizar.
+Assim:
+Manda o Governo, pelo Ministro da Administração Interna, ao abrigo do disposto no artigo 14.º do Decreto-Lei n.º 79/2005, de 15 de Abril, o seguinte:
+Artigo 1.º
+Objecto
+A presente portaria regula o funcionamento e gestão do Portal da Segurança.
+Artigo 2.º
+Portal da Segurança
+O Portal da Segurança constitui um espaço multifuncional destinado a disponibilizar através da Internet informação sobre segurança, apresentada na óptica do utilizador, proporcionando indicações práticas para reforço da segurança individual e comunitária, numa óptica preventiva ou reactiva, sendo os respectivos conteúdos produzidos, separada ou conjuntamente pelas forças e serviços de segurança sob tutela do Ministério da Administração Interna, bem como de outros cujas tutelas tal determinem.
+Artigo 3.º
+Gestão do Portal da Segurança
+1 - As ferramentas de criação e administração de conteúdos do Portal da Segurança devem assegurar que cada uma das entidades que contribuem para o Portal possa, de forma autónoma, definir, produzir e inserir os documentos, imagens, sons e demais conteúdos resultantes do exercício das suas competências, bem como ferramentas e mecanismos de validação e inserção dos conteúdos conjuntamente elaborados.
+2 - Com vista a assegurar a frequente actualização de conteúdos e a dinamização da introdução de novas funcionalidades, através de procedimentos adequados de cooperação, é criada a Comissão de Gestão do Portal de Segurança (CGPS), composta por um representante de cada força e serviço de segurança sob tutela do Ministério da Administração Interna.
+3 - Os membros da CGPS reúnem periodicamente e definem métodos de trabalho em rede de conhecimento e gestão, que permitam dar cumprimento ao disposto na presente portaria, reportando regularmente às respectivas tutelas o que se revele necessário para a actualização do Portal e, em especial, aditamento de novas funcionalidades, designadamente através da preparação conjunta de candidaturas às fontes de financiamento legalmente previstas.
+Artigo 4.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação, devendo os elementos da CGPS ser designados no prazo de oito dias.
+O Ministro da Administração Interna, Rui Carlos Pereira, em 15 de Agosto de 2009.
