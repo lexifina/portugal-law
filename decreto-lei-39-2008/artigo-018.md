@@ -8,7 +8,7 @@
 
 1 - São empreendimentos de turismo no espaço rural os estabelecimentos que se destinam a prestar, em espaços rurais, serviços de alojamento a turistas, dispondo para o seu funcionamento de um adequado conjunto de instalações, estruturas, equipamentos e serviços complementares, tendo em vista a oferta de um produto turístico completo e diversificado no espaço rural.
 
-2 - Os empreendimentos de turismo no espaço rural previstos nas alíneas a) a c) do número seguinte devem integrar-se nos locais onde se situam de modo a preservar, recuperar e valorizar o património arquitectónico, histórico, natural e paisagístico das respectivas regiões, através da recuperação de construções existentes, desde que seja assegurado que esta respeita a traça arquitectónica da construção já existente.
+2 - Os empreendimentos de turismo no espaço rural previstos nas alíneas a) a c) do número seguinte devem preservar, recuperar e valorizar o património arquitectónico, histórico, natural e paisagístico dos respectivos locais e regiões onde se situam, através da reconstrução, reabilitação ou ampliação de construções existentes, de modo a ser assegurada a sua integração na envolvente.
 
 3 - Os empreendimentos de turismo no espaço rural podem ser classificados nos seguintes grupos:
 

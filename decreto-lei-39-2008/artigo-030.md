@@ -26,4 +26,6 @@ c) Termo de responsabilidade subscrito pelos autores dos projectos de especialid
 
 7 - Fora do caso previsto no número anterior, cada empreendimento turístico, estabelecimento e equipamento integrados em conjuntos turísticos (resorts) devem dispor de alvará de autorização de utilização próprio, de natureza turística ou para outro fim a que se destinem.
 
-8 - A instalação dos empreendimentos turísticos pode ser autorizada por fases, aplicando-se a cada uma delas o disposto na presente secção.
+8 - A concessão de autorização de utilização para fins turísticos e a emissão do respectivo alvará aos edifícios autónomos de carácter unifamiliar previstos no n.º 7 do artigo 15.º depende de prévia concessão de autorização de utilização para fins turísticos a um dos empreendimentos turísticos do conjunto turístico, que assegura a sua exploração.
+
+9 - A instalação dos empreendimentos turísticos pode ser autorizada por fases, aplicando-se a cada uma delas o disposto na presente secção.
