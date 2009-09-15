@@ -12,7 +12,7 @@
 
 a) Por despacho conjunto, devidamente fundamentado, do ministro responsável pela área laboral e do ministro responsável pelo sector de actividade;
 
-b) Tratando-se de serviço da administração directa ou indirecta do Estado, de serviços das autarquias locais ou empresa do sector empresarial do Estado, por tribunal arbitral, constituído nos termos de lei específica sobre arbitragem obrigatória.
+b) Tratando-se de empresa do sector empresarial do Estado, por tribunal arbitral, constituído nos termos de lei específica sobre arbitragem obrigatória.
 
 5 - A definição dos serviços mínimos deve respeitar os princípios da necessidade, da adequação e da proporcionalidade.
 
