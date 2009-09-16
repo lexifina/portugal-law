@@ -19,3 +19,5 @@ d) Pelo termo da inibição do poder paternal;
 e) Pela cessação do impedimento dos pais;
 
 f) Pelo estabelecimento da maternidade ou paternidade.
+
+g) Pela constituição do apadrinhamento civil.
