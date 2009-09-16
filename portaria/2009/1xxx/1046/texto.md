@@ -1,0 +1,18 @@
+Portaria n.º 1046/2009
+de 15 de Setembro
+O Programa do XVII Governo Constitucional colocou os meios de resolução alternativa de litígios na linha da frente das prioridades de reforma no sector da justiça. Assumiu-se o compromisso de contribuir para uma justiça mais próxima do cidadão e das empresas e de criar condições que permitam que os tribunais judiciais tenham melhor capacidade de resposta, libertando-os de processos que possam ser decididos por meios de resolução alternativa de litígios.
+Este compromisso traduziu-se no alargamento e na promoção dos meios de resolução alternativa de litígios através da criação de novos centros de arbitragem em parceria com entidades públicas e privadas, bem como do desenvolvimento e promoção dos sistemas públicos de mediação familiar, laboral e penal e da expansão e melhoria da rede dos julgados de paz.
+Um dos centros de arbitragem cuja criação foi promovida por este governo foi o Arbitrare - Centro de Arbitragem para a Propriedade Industrial, Nomes de Domínio, Firmas e Denominações. Este centro tem por objecto promover e auxiliar a resolução de litígios emergentes de conflitos relativos a matérias de propriedade industrial, nomes de domínio, firmas e denominações que oponham particulares ou estes e a Administração Pública, contribuindo, assim, para que litígios desta natureza possam ser mais rápida e eficazmente resolvidos através da informação, mediação ou arbitragem.
+A criação do Arbitrare resulta, assim, do reconhecimento das vantagens específicas da mediação e arbitragem, designadamente eficácia, economia e celeridade, e do próprio contributo para o descongestionamento dos tribunais.
+Pela presente portaria, o Ministério da Justiça vincula o Instituto Nacional da Propriedade Industrial, I. P., e o Instituto dos Registos e do Notariado, I. P., à jurisdição do Arbitrare, nos termos do n.º 4 do artigo 49.º do Código da Propriedade Industrial e do n.º 4 do artigo 73.º-B do Regime do Registo Nacional de Pessoas Colectivas, respectivamente. Estes serviços públicos passam assim a poder resolver os seus conflitos relativos a matérias de propriedade industrial, firmas e denominações através de um tribunal arbitral, dando o exemplo, enquanto entidades públicas, na adesão e promoção destes meios de resolução alternativa de litígios.
+Assim:
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do n.º 4 do artigo 49.º do Código da Propriedade Industrial e do n.º 4 do artigo 73.º-B do Regime do Registo Nacional de Pessoas Colectivas, o seguinte:
+Artigo 1.º
+Vinculação ao Arbitrare
+1 - Pela presente portaria vinculam-se à jurisdição do Arbitrare - Centro de Arbitragem para a Propriedade Industrial, Nomes de Domínio, Firmas e Denominações o Instituto dos Registos e do Notariado, I. P., e o Instituto Nacional da Propriedade Industrial, I. P.
+2 - O Instituto dos Registos e do Notariado, I. P., vincula-se à jurisdição do Arbitrare - Centro de Arbitragem para a Propriedade Industrial, Nomes de Domínio, Firmas e Denominações para a composição de litígios de valor igual ou inferior a 1 milhão de euros e que tenham por objecto questões relativas a firmas e denominações.
+3 - O Instituto Nacional da Propriedade Industrial, I. P., vincula-se à jurisdição do Arbitrare - Centro de Arbitragem para a Propriedade Industrial, Nomes de Domínio, Firmas e Denominações para a composição de litígios de valor igual ou inferior a 1 milhão de euros e que tenham por objecto matérias relativas a propriedade industrial.
+Artigo 2.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 8 de Setembro de 2009.
