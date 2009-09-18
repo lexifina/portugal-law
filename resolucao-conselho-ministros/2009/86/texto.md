@@ -1,0 +1,14 @@
+Resolução do Conselho de Ministros n.º 86/2009
+O Orçamento do Estado para 2009, aprovado pela Lei n.º 64-A/2008, de 31 de Dezembro, alterado pela Lei n.º 10/2009, de 10 de Março, contempla uma dotação orçamental para indemnizações compensatórias a atribuir a empresas que prestam serviço público, cuja distribuição se torna necessário definir, de acordo com o disposto no artigo 36.º do Decreto-Lei n.º 69-A/2009, de 24 de Março.
+Esta distribuição tem em conta os regimes legais, bem como os compromissos concretos decorrentes de contratos de concessão e convénios outorgados pelo Estado, relativos à prestação de serviço público, em vigor no corrente ano.
+Assim:
+Ao abrigo do disposto na alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de Junho, do artigo 36.º do Decreto-Lei n.º 69-A/2009, de 24 de Março, e nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a realização de despesa resultante da terceira adenda ao acordo de 22 de Novembro de 2006, celebrado entre o Estado Português e os operadores privados de transporte público de passageiros da área metropolitana de Lisboa: Rodoviária de Lisboa, S. A., Transportes Sul do Tejo, S. A., Vimeca Transportes, Lda., e Scotturb Transportes Urbanos, Lda., no montante de (euro) 9 486 952, acrescido de IVA à taxa legal em vigor, a processar através da Direcção-Geral do Tesouro e Finanças.
+2 - Delegar, com a faculdade de subdelegação, ao abrigo do disposto no artigo 109.º do Código dos Contratos Públicos, no Ministro de Estado e das Finanças e no Ministro das Obras Públicas, Transportes e Comunicações as competências para aprovar a minuta da terceira adenda ao acordo entre o Estado Português e os operadores privados da área metropolitana de Lisboa, tendente à manutenção de títulos de transporte L1, L12, L123, L123SX, L123MA, 12, 23 e 123, e para outorgar, em nome do Estado Português, o referido acordo.
+3 - Atribuir, para o corrente ano, as compensações financeiras pela obrigação da manutenção de prestação de serviço público às empresas pelo montante referido no n.º 1 conforme o quadro anexo à presente resolução, da qual faz parte integrante.
+4 - Determinar que a atribuição a que se refere o número anterior é feita em execução do disposto no n.º 6 do artigo 14.º do Regulamento (CEE) n.º 1191/69, de 26 de Junho, alterado pelo Regulamento (CEE) n.º 1893/91, do Conselho, de 20 de Junho, e ao abrigo do artigo 36.º do Decreto-Lei n.º 69-A/2009, de 24 de Março.
+5 - Determinar que a presente resolução produz efeitos a 1 de Janeiro de 2009.
+Presidência do Conselho de Ministros, 3 de Setembro de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+ANEXO
+Valor da compensação financeira para o período de 1 de Janeiro a 31 de Dezembro de 2009
+(ver documento original)
