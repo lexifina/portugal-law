@@ -1,0 +1,5 @@
+Aviso n.º 90/2009
+Por ordem superior se torna público que foram emitidas notas pelo Ministério dos Assuntos Exteriores e Cooperação de Espanha e pela Embaixada de Portugal em Madrid, respectivamente em 19 de Maio de 2009 e em 5 de Agosto de 2009, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Protocolo de Revisão da Convenção sobre Cooperação para a Protecção e o Aproveitamento Sustentável das Águas das Bacias Hidrográficas Luso-Espanholas (Convenção de Albufeira) e o Protocolo Adicional, assinado em 4 de Abril de 2008.
+Portugal é Parte neste Protocolo, aprovado pela Resolução da Assembleia da República n.º 62/2008 e ratificado pelo Decreto do Presidente da República n.º 147/2008, publicados no Diário da República, 1.ª série, n.º 222, de 14 de Novembro de 2008.
+Nos termos dos artigos 11.º do Protocolo e 31.º da Convenção de Albufeira, o Protocolo está em vigor em 5 de Agosto de 2009, data da troca dos instrumentos diplomáticos adequados.
+Direcção-Geral dos Assuntos Europeus, 10 de Setembro de 2009. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
