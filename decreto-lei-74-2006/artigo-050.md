@@ -2,7 +2,7 @@
 
 ### Depósito legal
 
-1 - As dissertações de mestrado e as teses de doutoramento estão sujeitas:
+1 - As dissertações de mestrado e as teses de doutoramento, bem como os trabalhos previstos na alínea a) do n.º 2 do artigo 31.º e a compilação escrita prevista na alínea b) do mesmo número estão sujeitos:
 
 a) A depósito legal de um exemplar em papel e de um exemplar em formato digital na Biblioteca Nacional;
 
