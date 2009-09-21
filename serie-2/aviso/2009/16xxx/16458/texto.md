@@ -1,0 +1,9 @@
+Aviso n.º 16458/2009
+Alargamento do período de discussão pública da proposta do Plano Director Municipal da Trofa
+De acordo com o n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de Setembro, alterado pelo Decreto-Lei n.º 46/2009 de 20 de Fevereiro, a Câmara Municipal procedeu à abertura do Período de Discussão Pública do Plano Director Municipal da Trofa, através do Aviso n.º 12666-A/2009, publicado na 2.ª série do Diário da República, n.º 137, em 17 de Julho de 2009. Esse período decorre desde o dia 24 de Julho e prolongar-se-á até ao dia 1 de Outubro.
+Tendo-se constatado o elevado número de consultas ao Plano, assim como a manifesta vontade de apresentar sugestões escritas por parte dos munícipes, tendo ainda em conta que o período de discussão pública se sobrepôs em grande parte em período normal de férias, o período de discussão pública do plano, prolongasse por mais 20 dias úteis.
+Os elementos encontram-se disponíveis para consulta na Divisão de Planeamento e Urbanismo, no Pólo II do Município da Trofa, sito na Rua Imaculada Conceição, de 2.ª a 5.ª-feira das 9.30h às 17.00h e à 6.ª-f das 9.30h às 12.30h, ou através do site da Câmara Municipal - www.mun-trofa.pt.
+As sugestões e informações, deverão ser entregues no prazo referenciado e dirigidas, por escrito, ao Presidente da Câmara Municipal da Trofa, em ficha de participação própria para o efeito, a entregar no Edifício do Pólo I, sito na Rua das Indústrias n.º 393, apartado 65, 4786-909 Trofa, de 2.ª a 5.ª-feira das 9.30h às 17.00h e à 6.ª-f. das 9.30h às 12.30h, ou através de carta registada com aviso de recepção, para a supra morada.
+Quaisquer outras informações que se mostrem necessárias poderão ser obtidas na Divisão de Planeamento e Urbanismo desta Câmara, através do e-mail pdmtrofa@mun-trofa.pt ou pelo telefone 252409850.
+15 de Setembro de 2009. - O Presidente da Câmara, Bernardino Manuel Vasconcelos.
+202306242
