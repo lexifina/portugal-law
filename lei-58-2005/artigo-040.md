@@ -16,4 +16,4 @@
 
 7 - Até à aprovação da delimitação das zonas inundáveis ou ameaçadas pelas cheias, estão sujeitos a parecer vinculativo da administração da região hidrográfica territorialmente competente o licenciamento de operações de urbanização ou edificação, quando se localizem dentro do limite da cheia, com período de retorno de 100 anos, ou de uma faixa de 100 m para cada lado da linha de água, quando se desconheça aquele limite.
 
-8 - É competência da autoridade nacional da água, em articulação com a Autoridade Nacional de Proteção Civil, a criação de sistemas de alerta para salvaguarda de pessoas e bens.
+8 - É competência da autoridade nacional da água, em articulação com o Serviço Nacional de Bombeiros e Protecção Civil e a ARH competente, a criação de sistemas de alerta para salvaguarda de pessoas e bens.

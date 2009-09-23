@@ -14,4 +14,4 @@
 
 6 - Sem prejuízo da responsabilidade criminal por desobediência, as entidades competentes em matéria de fiscalização podem fixar uma sanção pecuniária compulsória nos termos a definir no normativo referido no n.º 1.
 
-7 - (Revogado.)
+7 - Sem prejuízo do disposto no número anterior, se a alteração do estado das águas que resultou da infracção cometida se tiver estendido à área de jurisdição de uma entidade distinta daquela em cuja área se verificou a infracção, deve de imediato este facto ser levado ao conhecimento da entidade competente para a instauração do processo de contra-ordenação.
