@@ -4,7 +4,7 @@
 
 1 - O disposto no presente decreto-lei aplica-se aos processos pendentes à data da sua entrada em vigor, sem prejuízo dos actos e formalidades praticados que devam ser salvaguardados nos termos legais.
 
-2 - Os títulos de utilização emitidos ao abrigo da legislação anterior mantêm-se em vigor nos termos em que foram emitidos, desde que os mesmos sejam levados ao conhecimento da ARH territorialmente competente no prazo de um ano a contar da data da sua entrada em funcionamento e sem prejuízo da sujeição dos seus titulares às obrigações decorrentes da Lei n.º 58/2005, de 29 de Dezembro, e demais actos legislativos complementares.
+2 - Os títulos de utilização emitidos ao abrigo da legislação anterior mantêm-se em vigor nos termos em que foram emitidos, sem prejuízo da sujeição dos seus titulares às obrigações decorrentes da Lei n.º 58/2005, de 29 de Dezembro, e demais actos legislativos complementares.
 
 3 - No caso de serem necessárias alterações para a progressiva adaptação do título emitido às disposições da Lei n.º 58/2005, de 29 de Dezembro, e dos actos legislativos que a complementam, a ARH fixará um calendário com as medidas adequadas para a sua concretização, tendo em conta as expectativas legítimas do detentor do título quanto à sua duração, as condições económicas do exercício da actividade e o disposto no n.º 3 do artigo 32.º
 
