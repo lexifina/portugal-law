@@ -12,14 +12,4 @@
 
 3 - As garantias obedecem ao princípio da exclusividade, não podendo ser desviadas para outro fim nem objecto de qualquer oneração, total ou parcial, originária ou superveniente.
 
-4 - Podem ser fixados limites mínimos para efeito da constituição das garantias financeiras obrigatórias mediante portaria a aprovar pelos membros do Governo responsáveis pelas áreas das finanças, do ambiente e da economia, nomeadamente relativos:
-
-a) Ao âmbito de actividades cobertas;
-
-b) Ao tipo de risco que deve ser coberto;
-
-c) Ao período de vigência da garantia;
-
-d) Ao âmbito temporal de aplicação da garantia;
-
-e) Ao valor mínimo que deve ser garantido.
+4 - Podem ser fixados limites mínimos para os efeitos da constituição das garantias financeiras obrigatórias, mediante portaria a aprovar pelos membros do Governo responsáveis pelas áreas das finanças, do ambiente e da economia.
