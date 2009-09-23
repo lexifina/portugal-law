@@ -1,0 +1,18 @@
+Despacho normativo n.º 32-A/2009
+Considerando o manifesto interesse no rápido conhecimento e difusão dos resultados da eleição da Assembleia da República, apurados no escrutínio provisório, cuja organização e direcção cabem à Direcção-Geral de Administração Interna do Ministério da Administração Interna, nos termos da alínea b) do n.º 5 do artigo 2.º do Decreto-Lei n.º 78/2007, de 29 de Março, determina-se o seguinte:
+1 - Após o encerramento da votação e o anúncio dos resultados, os presidentes das mesas das assembleias de voto devem comunicá-los, conforme constam dos editais, com a máxima celeridade, à junta de freguesia ou à entidade que for determinada pelo governador civil ou pelo Representante da República, prioritariamente à prestação de informações a qualquer outra entidade.
+2 - A comunicação referida no número anterior deve conter os seguintes elementos:
+Número de eleitores inscritos;
+Número de votantes;
+Número de votos em branco;
+Número de votos nulos;
+Número de votos obtidos por cada lista.
+3 - A entidade referida no n.º 1 apura os resultados da eleição na freguesia, comunicando-os imediatamente ao governador civil ou ao Representante da República.
+4 - O governador civil ou o Representante da República transmite de imediato à Direcção-Geral de Administração Interna os resultados referidos no n.º 3.
+5 - Para além dos intervenientes referidos nos números anteriores, nas operações de escrutínio provisório intervêm ainda, na respectiva área de actuação, as seguintes entidades:
+a) Instituto das Tecnologias de Informação na Justiça do Ministério da Justiça;
+b) Portugal Telecom;
+c) Guarda Nacional Republicana e Polícia de Segurança Pública.
+6 - Na difusão dos resultados do escrutínio provisório, os órgãos de comunicação social devem indicar expressamente que se trata de resultados provisórios fornecidos pela Direcção-Geral de Administração Interna do Ministério da Administração Interna.
+22 de Setembro de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro da Administração Interna, Rui Carlos Pereira.
+900000073
