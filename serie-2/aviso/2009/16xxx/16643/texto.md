@@ -1,0 +1,4 @@
+Aviso n.º 16643/2009
+Ângelo João Guarda Verdades de Sá, Presidente da Câmara Municipal de Borba, torna público que a Câmara Municipal de Borba deliberou, em sua reunião ordinária de 02 de Setembro de 2009, submeter a apreciação pública para recolha de sugestões, pelo prazo de 30 dias contados a partir da data da publicação do presente aviso no Diário da República, 2.ª série, proposta de alteração ao Regulamento das Feiras e Mercados do Município de Borba. Assim, nos termos do artigo 118.º do Código do Procedimento, convidam-se todos os interessados a consultarem na Divisão Administrativa e Financeira da autarquia, ou na página da Internet, www.cm-borba.pt, a alteração ao regulamento acima mencionado, durante as horas de expediente, ou seja, das 9:00 horas às 12:30 horas e das 14:00 horas às 17:30 horas.
+7 de Setembro de 2009. - O Presidente da Câmara, Ângelo João Guarda Verdades de Sá.
+302290237
