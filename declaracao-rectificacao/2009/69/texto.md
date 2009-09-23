@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 69/2009
+Ao abrigo da alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que a Resolução do Conselho de Ministros n.º 84-A/2009, de 14 de Setembro, publicada no Diário da República, 1.ª série, n.º 178, suplemento, de 14 de Setembro de 2009, saiu com a seguinte inexactidão, que, mediante declaração da entidade emitente, assim se rectifica:
+No n.º 1, onde se lê «Não ratificar a alínea a) do n.º 2 do artigo 21.º e o quadro 4 do artigo 22.º do Plano Director Municipal de Vila Franca de Xira.» deve ler-se «Não ratificar a alínea a) do n.º 2 do artigo 21.º e a segunda linha do quadro 4 do artigo 22.º do Plano Director Municipal de Vila Franca de Xira.».
+Centro Jurídico, 22 de Setembro de 2009. - A Directora, Susana de Meneses Brasil de Brito.
