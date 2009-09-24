@@ -1,0 +1,16 @@
+Portaria n.º 1102/2009
+de 24 de Setembro
+Pela Portaria n.º 1264-BX/2004, de 29 de Setembro, alterada pela Portaria n.º 199/2007, de 12 de Fevereiro, foi criada a zona de caça associativa da Eira Grande I (processo n.º 3816-AFN), situada no município de Serpa e concessionada à Associação de Caçadores da Serra de Mértola.
+Pela Portaria n.º 1264-CF/2004, de 29 de Setembro, alterada pela Portaria n.º 148/2007, de 31 de Janeiro, foi criada a zona de caça associativa da Eira Grande II (processo n.º 3839-AFN), situada no município de Serpa e concessionada à Associação de Caçadores da Serra de Mértola.
+Veio agora aquela Associação solicitar a extinção daquelas zonas de caça associativas.
+Em simultâneo, veio a Associação de Caçadores e Pescadores - Serro do Moinho requerer a concessão de uma zona de caça associativa que, para além de outros, englobasse aqueles terrenos.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção, e com fundamento no disposto na alínea a) do n.º 1 do artigo 50.º, na alínea a) do artigo 40.º e no n.º 1 do artigo 118.º, todos do diploma acima referido, ouvido o Conselho Cinegético Municipal de Serpa no que respeita à concessão da zona de caça associativa, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º São extintas a zona de caça associativa da Eira Grande I (processo n.º 3816-AFN) e a zona de caça associativa da Eira Grande II (processo n.º 3839-AFN).
+2.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente, à Associação de Caçadores e Pescadores - Serro do Moinho, com o número de identificação fiscal 507245849 e sede social na Rua de Serpa, 16, 7830-497 Vale dos Mortos, a zona de caça associativa do Monte Moinho, Vale Figueira e Outras (processo n.º 5313-AFN), englobando vários prédios rústicos sitos na freguesia de Salvador, município de Serpa, com a área de 1208 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º É criada uma área de condicionamento parcial à actividade cinegética, devidamente identificada na planta anexa.
+4.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+5.º São revogadas a Portaria n.os 1264-BX/2004, de 29 de Setembro, alterada pela Portaria n.º 199/2007, de 12 de Fevereiro, e pela Portaria n.º 1264-CF/2004, de 29 de Setembro, alterada pela Portaria n.º 148/2007, de 31 de Janeiro.
+6.º Esta portaria produz efeitos a partir do dia 11 de Agosto de 2009.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 11 de Setembro de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 17 de Setembro de 2009.
+(ver documento original)
