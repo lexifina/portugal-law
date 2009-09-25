@@ -1,0 +1,17 @@
+# Artigo 53.º
+
+### Sanções acessórias
+
+1 - Podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias, em função da gravidade da infracção e da culpa do agente:
+
+a) Perda, a favor da Região Autónoma da Madeira, de equipamentos, máquinas e utensílios utilizados na prática da infracção;
+
+b) Privação dos direitos a subsídios ou benefícios outorgados por entidades ou serviços públicos;
+
+c) Suspensão da licença de exploração ou do título de exploração;
+
+d) Encerramento do estabelecimento e instalações.
+
+2 - As sanções previstas nas alíneas b), c) e d) têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva.
+
+3 - As sanções acessórias previstas nas alíneas a), b) e c) do n.º 1, quando aplicadas a estabelecimentos industriais integrados no regime de autorização prévia, são publicitadas pela autoridade que aplicou a coima, a expensas do infractor.
