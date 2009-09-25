@@ -1,7 +1,3 @@
-## Capítulo VII
-
-## Normas para circos, espectáculos, competições, concursos, exposições, publicidade e manifestações similares
-
 # Artigo 53.º
 
 ### Disposições gerais
