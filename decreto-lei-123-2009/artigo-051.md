@@ -8,9 +8,9 @@
 
 1 - A todos os equipamentos, dispositivos e materiais utilizados nas ITUR são aplicáveis os seguintes requisitos de protecção:
 
-a) Os relativos à saúde e à segurança do utilizador ou de qualquer outra pessoa, incluindo os contidos no Decreto-Lei n.º 21/2017, de 21 de fevereiro, no que se refere aos requisitos de segurança, e demais legislação aplicável;
+a) Os relativos à saúde e à segurança do utilizador ou de qualquer outra pessoa, incluindo os contidos no Decreto-Lei n.º 6/2008, de 10 de Janeiro, no que se refere aos requisitos de segurança, e demais legislação aplicável;
 
-b) Os contidos no Decreto-Lei n.º 31/2017, de 22 de março, no que se refere à compatibilidade eletromagnética, e demais legislação aplicável.
+b) Os contidos no Decreto-Lei n.º 325/2007, de 28 de Setembro, no que se refere à compatibilidade electromagnética, e demais legislação aplicável.
 
 2 - A instalação das ITUR deve respeitar:
 

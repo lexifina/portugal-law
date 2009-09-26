@@ -8,7 +8,7 @@
 
 3 - Quando em consequência do estado de ocupação das infra-estruturas já construídas, estas não possam alojar outros equipamentos ou recursos de redes e, por razões relacionadas com a protecção do ambiente, a saúde ou segurança públicas, o património cultural, o ordenamento do território e a defesa da paisagem urbana e rural, não existam alternativas viáveis à instalação de novas infra-estruturas, pode o ICP-ANACOM determinar a partilha de recursos, caso tal seja tecnicamente viável e não prejudique o bom funcionamento dos recursos existentes, nos termos do n.º 2 do artigo 25.º da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro.
 
-4 - As decisões da ANACOM referidas no número anterior podem ter como destinatária qualquer das entidades referidas no artigo 2.º
+4 - As decisões do ICP-ANACOM referidas no número anterior podem ter como destinatárias qualquer das entidades referidas no artigo 2.º, bem como as empresas de comunicações electrónicas que já estejam instaladas naquelas infra-estruturas.
 
 5 - As determinações emitidas ao abrigo do n.º 3 podem incluir normas de repartição de custos.
 

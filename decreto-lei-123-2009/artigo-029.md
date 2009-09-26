@@ -12,6 +12,4 @@ b) Rede de tubagens ou tubagem para a instalação dos diversos cabos, equipamen
 
 3 - No projecto, na instalação e na utilização das infra-estruturas de telecomunicações deve ser assegurado o sigilo das comunicações, a segurança e a não interferência entre as infra-estruturas de cablagem instaladas.
 
-4 - O início da obra deve ser previamente comunicado ao projetista ITUR.
-
-5 - O cumprimento das obrigações previstas no presente artigo recai sobre o promotor da operação urbanística.
+4 - O cumprimento das obrigações previstas no presente artigo recai sobre o promotor da operação urbanística.

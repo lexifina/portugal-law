@@ -1,8 +1,8 @@
 # Artigo 7.º
 
-### Construção por empresas de comunicações eletrónicas de infraestruturas aptas
+### Procedimento de controlo prévio de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas
 
-1 - Sem prejuízo do disposto no artigo anterior, a construção por empresas de comunicações eletrónicas de infraestruturas aptas, fora do âmbito das operações de loteamento, de urbanização ou edificação, rege-se pelo presente decreto-lei, bem como pelo procedimento de comunicação prévia previsto nos artigos 34.º e 35.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, com as subsequentes alterações, excecionando-se deste regime:
+1 - Sem prejuízo do disposto no artigo anterior, a construção por empresas de comunicações electrónicas de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas, fora do âmbito das operações de loteamento, de urbanização ou edificação, regem-se pelo presente decreto-lei, bem como pelo procedimento de comunicação prévia previsto nos artigos 35.º, 36.º e 36.º-A do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro, com as devidas adaptações, excepcionando-se deste regime:
 
 a) A instalação e funcionamento das infra-estruturas sujeitas a autorização municipal nos termos do Decreto-Lei n.º 11/2003, de 18 de Janeiro;
 
@@ -10,18 +10,16 @@ b) As obras necessárias para evitar situações que ponham em causa a saúde e 
 
 2 - Nos casos referidos na alínea b) do número anterior, deve a empresa proceder, no dia útil seguinte, à comunicação ao município da realização das obras, pelos meios de comunicação disponíveis e que se mostrarem mais adequados.
 
-3 - Os elementos instrutórios da comunicação prévia são fixados de acordo com o previsto no n.º 4 do artigo 35.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, neles se incluindo obrigatoriamente:
+3 - No prazo máximo de 20 dias a contar da recepção da comunicação prévia referida no n.º 1, pode a câmara municipal, por escrito e de forma fundamentada:
 
-a) Comprovativo do anúncio prévio de realização das obras de construção, realizado no prazo e nos termos previstos no artigo 9.º;
+a) Determinar o adiamento da instalação e funcionamento das infra-estruturas pelas referidas empresas, por um período máximo de 30 dias, quando, por motivos de planeamento e de execução das obras, pretenda condicionar a intervenção à obrigação de a anunciar de modo que outras empresas manifestem a sua intenção de aderir à intervenção;
 
-b) Extrato da consulta ao SIIA, do qual resulte a ausência de informação no SIIA relativa a infraestruturas aptas integradas no domínio público que permitam satisfazer as necessidades da empresa de comunicações eletrónicas interessada, ou comprovativo da recusa de acesso com fundamento numa das situações previstas no n.º 2 do artigo 14.º e no artigo 15.º;
+b) Rejeitar a realização da obra quando existam infra-estruturas aptas ao alojamento de redes de comunicações electrónicas, pertencentes ao domínio público, nas quais exista capacidade disponível que permita satisfazer as necessidades da empresa requerente.
 
-c) Comprovativo do deferimento do pedido de atribuição de direito de passagem ou do decurso do prazo, previsto nos n.os 4 e 6 do artigo anterior, se for aplicável ao caso.
+4 - Quando a câmara municipal tenha determinado a obrigação referida na alínea a) do número anterior, pode estabelecer, no acto de anúncio referido na mesma alínea, um impedimento temporário de realização de obra para instalação de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas na área abrangida, durante um período que não pode exceder um ano.
 
-4 - O mero acesso físico a infraestruturas aptas para instalação ou manutenção de cabos de comunicações eletrónicas, equipamentos ou quaisquer recursos de redes de comunicações, bem como dispositivos de derivação, juntas ou outros equipamentos necessários à transmissão de comunicações eletrónicas naquelas redes, não configura obras de construção, pelo que não está abrangido pelo presente artigo.
+5 - O impedimento referido no número anterior pode ser igualmente determinado pela câmara municipal nos casos de anúncios de realização de obras previstos no artigo 9.º
 
-5 - (Revogado.)
+6 - Os municípios devem assegurar a disponibilização no SIC das determinações que tenham proferido nos termos do n.º 3.
 
-6 - (Revogado.)
-
-7 - (Revogado.)
+7 - Os elementos instrutórios que devem ser apresentados com a comunicação prévia prevista no n.º 1 são fixados por portaria a publicar nos termos do n.º 4 do artigo 9.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro.

@@ -6,4 +6,4 @@
 
 2 - A declaração a que alude o presente artigo reveste a natureza de um termo de responsabilidade dispensando a apreciação prévia dos projectos por parte dos serviços municipais.
 
-3 - Compete à ANACOM aprovar o modelo do termo de responsabilidade a que se refere o presente artigo, bem como as condições da respetiva emissão.
+3 - Compete ao ICP-ANACOM aprovar o modelo do termo de responsabilidade a que se refere o presente artigo.

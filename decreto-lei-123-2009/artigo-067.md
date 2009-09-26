@@ -6,16 +6,14 @@
 
 a) Os engenheiros e os engenheiros técnicos inscritos em associações públicas de natureza profissional que, nos termos da lei que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, se considerem habilitados para o efeito;
 
-b) Os engenheiros e os engenheiros técnicos inscritos nas respetivas associações públicas de natureza profissional no seguimento do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, por reconhecimento de qualificações equivalentes às referidas na alínea anterior;
+b) Os técnicos de áreas de formação de electricidade e energia e de electrónica e automação, os técnicos detentores de certificação de curso técnico-profissional, com módulos ITED, com número de horas e conteúdos idênticos aos previstos para a formação habilitante, e outros técnicos de telecomunicações que se encontrem inscritos no ICP-ANACOM como projectistas ITED na data de entrada em vigor do presente decreto-lei;
 
-c) Os cidadãos de Estados membros da União Europeia ou do Espaço Económico Europeu com qualificações, obtidas fora de Portugal, equivalentes às referidas na alínea a), que aqui pretendam exercer a atividade profissional em regime de livre prestação de serviços e para tanto informem mediante declaração prévia a Ordem dos Engenheiros ou a Ordem dos Engenheiros Técnicos, conforme aplicável, nos termos do artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto;
+c) As pessoas colectivas que tenham a colaboração de, pelo menos, um engenheiro ou um engenheiro técnico que cumpra os requisitos referidos na alínea a).
 
-d) Outros técnicos que se encontrem inscritos no ICP-ANACOM como projetistas ITED à data de entrada em vigor do presente decreto-lei.
-
-2 - Os projetistas ITED referidos na alínea d) do número anterior apenas se encontram habilitados a subscrever projetos ITED em edifícios com uma estimativa orçamental global da obra até à classe 2, nos termos do regime jurídico de acesso e exercício da atividade da construção.
+2 - Os projectistas ITED referidos na alínea b) do número anterior encontram-se habilitados a subscrever projectos ITED em edifícios com uma estimativa orçamental global da obra até à classe 2 de alvarás de construção.
 
 3 - (Revogado.)
 
-4 - As associações públicas de natureza profissional referidas nas alíneas a) a c) do n.º 1 devem disponibilizar ao ICP-ANACOM, nos termos a acordar, informação relativa aos técnicos que consideram habilitados para realizar projetos ITED.
+4 - As associações públicas de natureza profissional referidas na alínea a) do n.º 1 do presente artigo devem disponibilizar ao ICP-ANACOM, nos termos a acordar, informação relativa aos técnicos que consideram habilitados para realizar projectos ITED.
 
 5 - Compete às associações públicas de natureza profissional assegurar que os técnicos nelas inscritos e habilitados para efeitos do presente decreto-lei como técnicos ITED actualizem os respectivos conhecimentos.

@@ -1,6 +1,6 @@
 ## Capítulo II
 
-## Construção e ampliação de infraestruturas aptas
+## Construção e ampliação de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas
 
 # Artigo 5.º
 

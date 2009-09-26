@@ -1,17 +1,15 @@
 # Artigo 79.º
 
-### Obrigações da entidade formadora de projetistas e instaladores ITED
+### Obrigações da entidade formadora ITED
 
 Constituem obrigações da entidade formadora ITED:
 
-a) Ministrar cursos de formação ITED, incluindo de formação contínua, observado o disposto no artigo 77.º;
+a) Ministrar cursos habilitantes ITED, bem como cursos de actualização com os conteúdos programáticos e as durações, definidos nos termos do n.º 2 do artigo 77.º;
 
 b) Utilizar apenas os equipamentos e instalações que correspondam aos requisitos definidos, pelo ICP-ANACOM;
 
-c) Assegurar que os formadores dos cursos referidos na alínea a) estão devidamente habilitados;
+c) Assegurar que os formadores dos seus cursos habilitantes e de actualização estão devidamente habilitados, nos termos definidos no n.º 3 do artigo 45.º;
 
 d) Assegurar a calibração periódica dos equipamentos, de acordo com as instruções dos respectivos fabricantes, documentado em plano de calibração;
 
-e) Facultar ao ICP-ANACOM informação relativa aos formandos com e sem aproveitamento, por curso ministrado, no prazo máximo de 15 dias após o termo do mesmo;
-
-f) Comunicar previamente ao ICP-ANACOM a realização de cada ação de formação, com indicação dos respetivos, local, data e hora.
+e) Facultar ao ICP-ANACOM, quando solicitado, informação relativa aos formandos com e sem aproveitamento, por curso ministrado, no prazo de 15 dias após aquela solicitação.
