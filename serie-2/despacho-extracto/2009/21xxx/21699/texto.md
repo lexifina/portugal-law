@@ -1,0 +1,4 @@
+Despacho (extracto) n.º 21699/2009
+Nos termos e ao abrigo do disposto no n.º 1, alínea u), do artigo 37.º dos Estatutos da Universidade Aberta, homologados pelo Despacho Normativo n.º 65-B/2008, de 12 de Novembro, publicado no Diário da República, 2.ª série, n.º 246, 22 de Dezembro de 2008, tendo sobre o assunto auscultado o Conselho de Gestão e até se proceder a uma revisão mais profunda do Regulamento de Períodos de Funcionamento de Atendimento do Horário de Trabalho do Pessoal não Docente da Universidade Aberta, revogo pelo presente despacho e com efeitos imediatos o artigo 14.º do referido Regulamento, publicado no n.º 179, 2.ª série do Diário da República, de 5 de Agosto de 2003, em anexo ao Despacho n.º 15 183/2003 (2.ª série).
+18 de Setembro de 2009. - O Reitor, Carlos António Alves dos Reis.
+202336789
