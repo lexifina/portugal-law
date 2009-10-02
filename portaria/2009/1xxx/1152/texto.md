@@ -1,0 +1,11 @@
+Portaria n.º 1152/2009
+de 2 de Outubro
+Pela Portaria n.º 1270/2008, de 6 de Novembro, foi criada a zona de caça municipal do Vale do Tejo (processo n.º 5094-AFN), situada no município da Chamusca, e transferida a sua gestão para o Clube de Caça e Pesca do Vale do Tejo.
+Veio entretanto o proprietário de terrenos incluídos na zona de caça acima referida requerer a sua exclusão e, simultaneamente, a Associação de Caçadores da Pucariça e Casal do Rei veio requerer a concessão de uma zona de caça associativa, que, para além de outros, englobe os terrenos objecto da exclusão acima referida.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção e com fundamento no n.º 1 do artigo 28.º, em conjugação com o estipulado no n.º 1 do artigo 167.º, e na alínea a) do artigo 40.º, todos do diploma acima identificado e após audição do Conselho Cinegético Municipal da Chamusca, no que respeita à concessão da zona de caça associativa, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º São excluídos da zona de caça municipal do Vale do Tejo (processo n.º 5094-AFN), vários terrenos cinegéticos sitos na freguesia de Carregueira, município da Chamusca, com a área de 38 ha, ficando a mesma reduzida a área total de 1665 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º É concessionada, pelo período de seis anos, à Associação de Caçadores da Pucariça e Casal do Rei, com o número de identificação fiscal 507955951 e sede na Rua do Pombal, 1, 2250-365 Aldeia de Santa Margarida, a zona de caça associativa da Pucariça e Casal do Rei (processo n.º 5348-AFN), englobando vários prédios rústicos sitos na freguesia de Carregueira, município da Chamusca, com a área de 1601 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A exclusão e a concessão previstas na presente portaria produzem efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 11 de Setembro de 2009.
+(ver documento original)
