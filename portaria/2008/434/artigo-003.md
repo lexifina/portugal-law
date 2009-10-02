@@ -1,6 +1,6 @@
 # Artigo 3.º
 
-### Comandos territoriais complexos
+### Comandos territoriais
 
 1 - É fixada por despacho do director nacional da PSP, em função da complexidade do comando:
 
@@ -8,10 +8,4 @@ a) A estrutura dos serviços, designados por núcleos e secções, que integram 
 
 b) A estrutura de comando e serviços das subunidades dos comandos territoriais.
 
-2 - Para efeitos do disposto no número anterior são comandos territoriais complexos:
-
-a) Os comandos regionais dos Açores e da Madeira;
-
-b) Os comandos metropolitanos de Lisboa e Porto;
-
-c) Os comandos distritais de Aveiro, Braga, Coimbra, Évora, Faro, Leiria, Santarém, Setúbal, Vila Real e Viseu.
+2 - Para efeitos do disposto no número anterior, são comandos territoriais especialmente complexos os comandos regionais de polícia e os comandos metropolitanos de polícia de Lisboa e do Porto e são comandos territoriais complexos os comandos distritais de polícia.

@@ -2,16 +2,20 @@
 
 ### Comando Regional dos Açores
 
-a) 1.ª Divisão Policial, com sede em Ponta Delgada, que integra as seguintes subunidades operacionais: Esquadra de Capelas, Esquadra das Furnas, Esquadra da Lagoa, Esquadra da Maia, Esquadra do Nordeste, Esquadra de Ponta Delgada, Esquadra de Trânsito de Ponta Delgada, Esquadra de Povoação, Esquadra de Rabo de Peixe, Esquadra da Ribeira Grande, Esquadra de Vila Franca do Campo, Esquadra de Vila Porto, Esquadra de Investigação Criminal da 1.ª Divisão Policial e Esquadra de Segurança Aeroportuária de Ponta Delgada.
+a) Divisão Policial de Ponta Delgada, que integra as seguintes subunidades operacionais: Esquadra de Capelas, Esquadra das Furnas, Esquadra da Lagoa, Esquadra da Maia, Esquadra do Nordeste, Esquadra de Ponta Delgada, Esquadra de Povoação, Esquadra de Rabo de Peixe, Esquadra da Ribeira Grande, Esquadra de Vila Franca do Campo, Esquadra de Vila do Porto, Esquadra de Trânsito de Ponta Delgada, Esquadra de Investigação Criminal de Ponta Delgada e Esquadra de Intervenção e Fiscalização Policial de Ponta Delgada;
 
-b) 2.ª Divisão Policial, com sede em Angra do Heroísmo, que integra as seguintes subunidades operacionais: Esquadra de Angra do Heroísmo, Esquadra de Trânsito de Angra do Heroísmo, Esquadra da Vila da Praia da Vitória, Esquadra da Calheta, Esquadra de Biscoitos, Esquadra de Velas, Esquadra de Santa Cruz da Graciosa, Esquadra de Investigação Criminal da 2.ª Divisão Policial e Esquadra de Segurança Aeroportuária das Lajes.
+b) Divisão Policial de Angra do Heroísmo, que integra as seguintes subunidades operacionais: Esquadra de Angra do Heroísmo, Esquadra de Biscoitos, Esquadra da Calheta, Esquadra de Santa Cruz da Graciosa, Esquadra de Velas, Esquadra da Vila da Praia da Vitória, Esquadra de Trânsito de Angra do Heroísmo, Esquadra de Investigação Criminal de Angra do Heroísmo e Esquadra de Intervenção e Fiscalização Policial de Angra do Heroísmo;
 
-c) 3.ª Divisão Policial, com sede na Horta, que integra as seguintes subunidades operacionais: Esquadra da Horta, Esquadra de Trânsito da Horta, Esquadra de Lajes do Pico, Esquadra de Madalena do Pico, Esquadra de São Roque do Pico, Esquadra de Santa Cruz das Flores, Esquadra de Lajes das Flores, Esquadra de Investigação Criminal da 3.ª Divisão Policial e Esquadra de Segurança Aeroportuária da Horta.
+c) Divisão Policial da Horta, que integra as seguintes subunidades operacionais: Esquadra da Horta, Esquadra de Lajes das Flores, Esquadra de Lajes do Pico, Esquadra de Madalena do Pico, Esquadra de São Roque do Pico, Esquadra de Santa Cruz das Flores, Esquadra de Trânsito da Horta, Esquadra de Investigação Criminal da Horta e Esquadra de Intervenção e Fiscalização Policial da Horta;
+
+d) Divisão de Segurança Aeroportuária dos Açores, que integra as seguintes subunidades operacionais: Esquadra de Segurança Aeroportuária de Angra do Heroísmo, Esquadra de Segurança Aeroportuária da Horta e Esquadra de Segurança Aeroportuária de Ponta Delgada.
 
 Comando Regional da Madeira
 
-a) 1.ª Divisão Policial, com sede no Funchal, que integra as seguintes subunidades operacionais: 1.ª Esquadra do Funchal, 2.ª Esquadra do Funchal, Esquadra de Trânsito do Funchal e Esquadra de Investigação Criminal da 1.ª Divisão Policial.
+a) Divisão Policial do Funchal, que integra as seguintes subunidades operacionais: 1.ª Esquadra do Funchal, 2.ª Esquadra do Funchal, Esquadra de Trânsito do Funchal, Esquadra de Investigação Criminal do Funchal e Esquadra de Intervenção e Fiscalização Policial do Funchal;
 
-b) 2.ª Divisão Policial, com sede no Machico, que integra as seguintes subunidades operacionais: Esquadra de Camacha, Esquadra de Santa Cruz, Esquadra do Machico, Esquadra de Santana, Esquadra de Investigação Criminal da 2.ª Divisão Policial, Esquadra de Porto Santo e Esquadra de Segurança Aeroportuária da Madeira.
+b) Divisão Policial do Machico, que integra as seguintes subunidades operacionais: Esquadra do Machico, Esquadra de Porto Santo, Esquadra de Santa Cruz, Esquadra de Santana, Esquadra de Trânsito do Machico, Esquadra de Investigação Criminal do Machico e Esquadra de Intervenção e Fiscalização Policial do Machico;
 
-c) 3.ª Divisão Policial, com sede em Câmara de Lobos, que integra as seguintes subunidades operacionais: Esquadra de Câmara de Lobos, Esquadra de Trânsito de Câmara de Lobos, Esquadra do Estreito de Câmara de Lobos, Esquadra da Calheta, Esquadra de Ponta do Sol, Esquadra de Porto Moniz, Esquadra da Ribeira Brava, Esquadra de São Vicente e Esquadra de Investigação Criminal da 3.ª Divisão Policial.
+c) Divisão Policial de Câmara de Lobos, que integra as seguintes subunidades operacionais: Esquadra da Calheta, Esquadra de Câmara de Lobos, Esquadra de Ponta do Sol, Esquadra de Porto Moniz, Esquadra da Ribeira Brava, Esquadra de São Vicente, Esquadra de Trânsito de Câmara de Lobos, Esquadra de Investigação Criminal de Câmara de Lobos e Esquadra de Intervenção e Fiscalização Policial de Câmara de Lobos;
+
+d) Divisão de Segurança Aeroportuária da Madeira, que integra as seguintes subunidades operacionais: Esquadra de Segurança Aeroportuária da Madeira e Esquadra de Segurança Aeroportuária de Porto Santo.
