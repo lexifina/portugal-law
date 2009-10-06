@@ -1,0 +1,8 @@
+Aviso n.º 17470/2009
+Plano de Pormenor da Zona Envolvente da Fábrica das Sedas Discussão Pública
+Dinis Manuel da Silva Costa, Presidente da Câmara Municipal de Vizela, torna público, nos termos do disposto do disposto nos n.os 3 e 4, do artigo 77.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, na sua actual redacção e em cumprimento da deliberação da Câmara Municipal de Vizela de 23 de Setembro de 2009, que a partir do 5.º dia útil a seguir à publicação deste aviso no Diário da Republica e durante 22 dias úteis, se encontra aberto um período de discussão pública do Plano de Pormenor da Zona Envolvente da Fábrica das Sedas, freguesia de S. João.
+A proposta do Plano, acompanhada dos respectivos pareceres emitidos, estão disponíveis para consulta na Divisão de Gestão Urbanística, sito na Rua Dr. Abílio Torres, freguesia de S. Miguel, de segunda a sexta-feira, entre as 10h00 m e as 16h00 m.
+Durante o período de discussão pública, qualquer reclamação, observação, sugestão ou pedido de esclarecimento deve ser apresentado por escrito e entregue directamente nos Serviços de Obras Particulares da Câmara Municipal, sito à Rua Dr. Abílio Torres, freguesia de S. Miguel, ou remeter por correio registado, endereçado ao Presidente da Câmara Municipal de Vizela - Plano de Pormenor da Zona Envolvente da Fábrica das Sedas - Rua Dr. Alfredo Pinto, n.º 42, S. João - 4815-397 Vizela.
+Para constar se pública o presente aviso no Diário da República, sitio da Câmara Municipal de Vizela e na comunicação social, sendo ainda afixado nos lugares de estilo outros de igual teor.
+25 de Setembro de 2009. - O Presidente da Câmara, Dinis Manuel da Silva Costa.
+202367569
