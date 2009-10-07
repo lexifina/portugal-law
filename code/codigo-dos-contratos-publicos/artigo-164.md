@@ -16,7 +16,7 @@ e) O órgão competente para prestar esclarecimentos;
 
 f) Os documentos de habilitação, directamente relacionados com o objecto do contrato a celebrar, a apresentar nos termos do disposto no n.º 6 do artigo 81.º;
 
-g) O prazo para a apresentação dos documentos de habilitação pelo adjudicatário;
+g) O prazo para a apresentação dos documentos de habilitação pelo adjudicatário, bem como o prazo a conceder pela entidade adjudicante para a supressão de irregularidades detectadas nos documentos apresentados que possam levar à caducidade da adjudicação nos termos do disposto no artigo 86.º;
 
 h) Os requisitos mínimos de capacidade técnica que os candidatos devem preencher;
 

@@ -22,7 +22,7 @@ c) O preço atribuído aos trabalhos a mais, somado ao preço de anteriores trab
 
 d) O somatório do preço atribuído aos trabalhos a mais com o preço de anteriores trabalhos a mais e de anteriores trabalhos de suprimento de erros e omissões não exceder 50 % do preço contratual.
 
-3 - O limite previsto na alínea c) do número anterior é elevado para 25 % quando estejam em causa obras cuja execução seja afectada por condicionalismos naturais com especiais características de imprevisibilidade, nomeadamente as obras marítimas-portuárias e as obras complexas do ponto de vista geotécnico, em especial a construção de túneis.
+3 - O limite previsto na alínea c) do número anterior é elevado para 25 % quando estejam em causa obras cuja execução seja afectada por condicionalismos naturais com especiais características de imprevisibilidade, nomeadamente as obras marítimas-portuárias e as obras complexas do ponto de vista geotécnico, em especial a construção de túneis, bem como as obras de reabilitação ou restauro de bens imóveis.
 
 4 - Não são considerados trabalhos a mais aqueles que sejam necessários ao suprimento de erros ou omissões, independentemente da parte responsável pelos mesmos.
 

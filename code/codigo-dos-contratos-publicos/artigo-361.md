@@ -10,7 +10,7 @@
 
 2 - No caso em que o empreiteiro tenha a obrigação contratual de elaborar o programa ou o projecto de execução, o plano de trabalhos compreende as prestações de concepção sob responsabilidade do empreiteiro.
 
-3 - O plano de trabalhos constante do contrato pode ser ajustado pelo empreiteiro ao plano final de consignação apresentado pelo dono da obra nos termos do disposto no artigo 357.º
+3 - O plano de trabalhos constante do contrato pode ser ajustado pelo empreiteiro ao plano final de consignação apresentado pelo dono da obra nos termos do disposto no artigo 357.º, bem como em caso de prorrogação do prazo de execução, de detecção de erros e omissões reclamados na fase de execução ou quando haja lugar a trabalhos a mais.
 
 4 - Os ajustamentos referidos no número anterior não podem implicar a alteração do preço contratual, nem a alteração do prazo de execução da obra, nem ainda alterações aos prazos parciais definidos no plano de trabalhos constante do contrato, para além do que seja estritamente necessário à adaptação do plano de trabalhos ao plano final de consignação.
 

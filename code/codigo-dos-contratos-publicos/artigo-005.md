@@ -10,7 +10,7 @@ a) A entidade adjudicante exerça sobre a actividade desta, isoladamente ou em c
 
 b) Esta entidade desenvolva o essencial da sua actividade em benefício de uma ou de várias entidades adjudicantes que exerçam sobre ela o controlo análogo referido na alínea anterior.
 
-3 - A parte ii do presente Código não é igualmente aplicável à formação dos contratos, a celebrar pelos hospitais E. P. E.:
+3 - 3 - A parte II do presente Código não é igualmente aplicável à formação dos contratos, a celebrar pelos hospitais E. P. E. e pelas associações de direito privado que prossigam finalidades a título principal de natureza científica e tecnológica, bem como, exclusivamente no âmbito da actividade científica e tecnológica, pelas instituições de ensino superior públicas e pelos laboratórios de Estado:
 
 a) De empreitada de obras públicas cujo valor seja inferior ao referido na alínea c) do artigo 7.º da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março;
 
