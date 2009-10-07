@@ -22,6 +22,8 @@ h) O modo de prestação da caução ou os termos em que não seja exigida essa 
 
 i) O valor da caução, quando esta for exigida nos termos do disposto no n.º 3 do artigo 89.º
 
+j) O prazo para a apresentação, pelo adjudicatário, dos documentos de habilitação, bem como o prazo a conceder pela entidade adjudicante para a supressão de irregularidades detectadas nos documentos apresentados que possam levar à caducidade da adjudicação nos termos do disposto no artigo 86.º
+
 2 - Quando for convidada a apresentar proposta mais de uma entidade, o convite deve também indicar:
 
 a) Se as propostas apresentadas serão objecto de negociação e, em caso afirmativo:

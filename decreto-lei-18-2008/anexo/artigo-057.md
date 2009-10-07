@@ -18,7 +18,7 @@ a) Uma lista dos preços unitários de todas as espécies de trabalho previstas 
 
 b) Um plano de trabalhos, tal como definido no artigo 361.º, quando o caderno de encargos seja integrado por um projecto de execução;
 
-c) O projecto de execução quando este tiver sido submetido à concorrência pelo caderno de encargos.
+c) Um estudo prévio, nos casos previstos no n.º 3 do artigo 43.º, competindo a elaboração do projecto de execução ao adjudicatário.
 
 3 - Integram também a proposta quaisquer outros documentos que o concorrente apresente por os considerar indispensáveis para os efeitos do disposto na parte final da alínea b) do n.º 1.
 

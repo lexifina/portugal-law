@@ -18,7 +18,7 @@ b) Os restantes 75 %, no prazo de 30 dias após o termo de cada ano adicional do
 
 6 - Não obstante o disposto no número anterior, quando o prazo a que estão sujeitas as obrigações de correcção de defeitos, designadamente as obrigações de garantia, for superior a cinco anos, a caução destinada a garantir o exacto e pontual cumprimento das obrigações contratuais deve encontrar-se liberada em pelo menos 75 %, no prazo de 30 dias após o decurso desses cinco anos.
 
-7 - Nos contratos em que haja lugar a recepção provisória, a recepção definitiva ou a acto equivalente e no caso de estas ocorrerem apenas parcialmente, a liberação parcial prevista no número anterior é promovida na proporção do valor respeitante à recepção parcial ou a acto equivalente.
+7 - Nos contratos sujeitos, nos termos do disposto no n.º 2 do artigo 397.º, a diferentes prazos de garantia e, consequentemente, a recepções provisórias e definitivas parciais, a liberação parcial da caução, nos termos do disposto nos números anteriores, é promovida na proporção do valor respeitante a cada um dos conjuntos de elementos que compõem a obra, designadamente estruturais, construtivos não estruturais ou instalações técnicas e equipamentos.
 
 8 - A liberação da caução prevista nos n.os 4 a 7 depende da inexistência de defeitos da prestação do co-contratante ou da correcção daqueles que hajam sido detectados até ao momento da liberação, sem prejuízo de o contraente público poder decidir diferentemente, designadamente por considerar que os defeitos identificados e não corrigidos são de pequena importância e não justificam a não liberação.
 

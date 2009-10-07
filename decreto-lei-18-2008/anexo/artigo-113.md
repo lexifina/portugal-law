@@ -10,4 +10,4 @@
 
 4 - Para os efeitos do disposto no n.º 2, quando a entidade adjudicante seja um município, são tidos em conta, autonomamente, os contratos celebrados no âmbito de cada serviço municipalizado.
 
-5 - Não podem igualmente ser convidadas a apresentar propostas entidades que tenham executado obras, fornecido bens móveis ou prestado serviços à entidade adjudicante, a título gratuito, no ano económico em curso ou nos dois anos económicos anteriores.
+5 - Não podem igualmente ser convidadas a apresentar propostas entidades que tenham executado obras, fornecido bens móveis ou prestado serviços à entidade adjudicante, a título gratuito, no ano económico em curso ou nos dois anos económicos anteriores, excepto se o tiverem feito ao abrigo do Estatuto do Mecenato.

@@ -20,7 +20,7 @@ g) As associações de que façam parte uma ou várias das pessoas colectivas re
 
 2 - São também entidades adjudicantes:
 
-a) Quaisquer pessoas colectivas que, independentemente da sua natureza pública ou privada:
+a) Quaisquer pessoas colectivas, com excepção das fundações públicas previstas na Lei n.º 62/2007, de 10 de Setembro, que independentemente da sua natureza pública ou privada:
 
 i) Tenham sido criadas especificamente para satisfazer necessidades de interesse geral, sem carácter industrial ou comercial; e
 
@@ -28,7 +28,7 @@ ii) Sejam maioritariamente financiadas pelas entidades referidas no número ante
 
 b) Quaisquer pessoas colectivas que se encontrem na situação referida na alínea anterior relativamente a uma entidade que seja, ela própria, uma entidade adjudicante nos termos do disposto na mesma alínea;
 
-c) As associações de direito privado que prossigam finalidades a título principal de natureza científica e tecnológica, desde que sejam maioritariamente financiadas pelas entidades referidas no número anterior, estejam sujeitas ao seu controlo de gestão ou tenham um órgão de administração, de direcção ou de fiscalização cuja maioria dos titulares seja, directa ou indirectamente, designada pelas mesmas;
+c) (Revogada);
 
 d) As associações de que façam parte uma ou várias das pessoas colectivas referidas nas alíneas anteriores, desde que sejam maioritariamente financiadas por estas, estejam sujeitas ao seu controlo de gestão ou tenham um órgão de administração, de direcção ou de fiscalização cuja maioria dos titulares seja, directa ou indirectamente, designada pelas mesmas;
 

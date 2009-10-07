@@ -4,7 +4,7 @@
 
 Não podem ser candidatos, concorrentes ou integrar qualquer agrupamento, as entidades que:
 
-a) Se encontrem em estado de insolvência, declarada por sentença judicial, em fase de liquidação, dissolução ou cessação de actividade, sujeitas a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga, ou tenham o respectivo processo pendente;
+a) Se encontrem em estado de insolvência, declarada por sentença judicial, em fase de liquidação, dissolução ou cessação de actividade, sujeitas a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga, ou tenham o respectivo processo pendente, salvo quando se encontrarem abrangidas por um plano de insolvência, ao abrigo da legislação em vigor;
 
 b) Tenham sido condenadas por sentença transitada em julgado por qualquer crime que afecte a sua honorabilidade profissional, se entretanto não tiver ocorrido a sua reabilitação, no caso de se tratar de pessoas singulares, ou, no caso de se tratar de pessoas colectivas, tenham sido condenados por aqueles crimes os titulares dos órgãos sociais de administração, direcção ou gerência das mesmas e estes se encontrem em efectividade de funções;
 
@@ -16,7 +16,7 @@ e) Não tenham a sua situação regularizada relativamente a impostos devidos em
 
 f) Tenham sido objecto de aplicação da sanção acessória prevista na alínea e) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, na alínea b) do n.º 1 do artigo 45.º da Lei n.º 18/2003, de 11 de Junho, e no n.º 1 do artigo 460.º do presente Código, durante o período de inabilidade fixado na decisão condenatória;
 
-g) Tenham sido objecto de aplicação da sanção acessória prevista na alínea b) do n.º 1 do artigo 627.º do Código do Trabalho, durante o período de inabilidade fixado na decisão condenatória;
+g) Tenham sido objecto de aplicação da sanção acessória prevista na alínea b) do n.º 2 do artigo 562.º do Código de Trabalho;
 
 h) Tenham sido objecto de aplicação, há menos de dois anos, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal ou no Estado de que sejam nacionais ou no qual se situe o seu estabelecimento principal;
 
