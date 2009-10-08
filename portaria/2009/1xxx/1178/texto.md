@@ -1,0 +1,15 @@
+Portaria n.º 1178/2009
+de 7 de Outubro
+No n.º 2 do artigo 31.º do Decreto-Lei n.º 211/2009, de 3 de Setembro, do qual constam as medidas necessárias ao cumprimento, no território nacional, quer da Convenção de Washington, sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção (CITES), quer dos regulamentos comunitários sobra a matéria, prevê-se que é devido o pagamento de uma taxa pela emissão das licenças, certificados e declarações de não inclusão nos anexos A, B, C ou D do Regulamento (CE) n.º 338/97, pela realização de peritagens e pela realização de actos de registo ou de averbamentos no Registo Nacional CITES.
+Por sua vez, estabelece-se no n.º 3 do referido artigo 31.º do referido diploma legal que o montante das taxas a cobrar consta de portaria aprovada pelos membros do Governo responsáveis pelas áreas das finanças e do ambiente.
+O artigo 33.º do Decreto-Lei n.º 211/2009, de 3 de Setembro, estatui que esta portaria é publicada no prazo de 60 dias contado da data de entrada em vigor do diploma.
+A presente portaria vem estabelecer o montante das taxas devidas pelos serviços prestados pelo Instituto da Conservação da Natureza e da Biodiversidade, I. P., na qualidade de autoridade administrativa principal, não se aplicando aos territórios das Regiões Autónomas dos Açores e da Madeira, onde os valores a cobrar pelos serviços mencionados que sejam prestados pelas autoridades administrativas regionais serão definidos por diploma próprio.
+Assim:
+Manda o Governo, pelos Ministros de Estado e das Finanças e do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, ao abrigo do disposto no n.º 3 do artigo 31.º do Decreto-Lei n.º 211/2009, de 3 de Setembro, o seguinte:
+1.º O montante das taxas devidas pela emissão das licenças, certificados e declarações de não inclusão nos anexos A, B, C ou D do Regulamento (CE) n.º 338/97, pela realização de peritagens, e pela realização de actos de registo ou de averbamentos no Registo Nacional CITES, é o discriminado na lista constante do anexo à presente portaria, que dela faz parte integrante.
+2.º Os valores referidos no anexo à presente portaria serão actualizados, automaticamente, a partir de 1 de Março de cada ano, pelo valor do índice médio de preços no consumidor, no continente, relativo ao ano anterior, excluindo a habitação, e publicado pelo Instituto Nacional de Estatística, sendo o valor a cobrar por deslocações aumentado de acordo com a portaria que procede à revisão anual das tabelas de subsídios de viagem para os trabalhadores em funções públicas, arredondando-se o resultado obtido para a unidade monetária (euro) imediatamente superior.
+3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 25 de Setembro de 2009. - Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 24 de Setembro de 2009.
+ANEXO
+Lista a que se refere o n.º 1.º
+(ver documento original)
