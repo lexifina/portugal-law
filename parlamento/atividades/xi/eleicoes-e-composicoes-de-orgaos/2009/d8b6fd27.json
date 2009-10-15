@@ -1,0 +1,141 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=cqpGrns5UyiyPnfDDcltPGDDPGagvAPg5LKOzP1ZUMdFhS1tYE%2boUqLKys6rT7dQcCsHZzpaaD89aqaaeheMPgaLprYCqr1kfj1yfNQQLvRfJRydrl8CY1Co%2bE8e0qRj21QPh3XBduK2UjaCTwkaZsSJ4Ws78SqTHcUqMO96eMwx0mJ%2fnsLMcuHSvhMz5fog89wsUW8g%2fE6ZhuGk3jur29lC8psdBmdSjbYJnssR%2faJyQGkQf1%2bt9BE0CqnanLSJIJsdFkKfZum%2fMA3QD2YgBITg5jSzdngUrVVNHICp8QvlGKw3W%2bpeu%2bh8LqCpg3zL2WI3n87847CubKBOteTOUU2WZeFIAxLb8PlZly06%2b9I%3d&fich=AtividadesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "e990867e1dd1772bdbc8ca55751b34755453758a1f02604666e2c3ee6e5cbd72",
+  "legislatura": "XI",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2009-10-15",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição dos membros do Conselho de Administração em representação dos Grupos Parlamentares",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2009-10-15",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": "Efectivo",
+        "nome": "José Manuel Lello Ribeiro de Almeida (PS)"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Jorge Fernando Magalhães da Costa (PPD/PSD)"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "João Guilherme Nobre Prata Fragoso Rebelo (CDS-PP)"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Helena Maria Moura Pinto (BE)"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "José Batista Mestre Soeiro (PCP)"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "José Luís Teixeira Ferreira (PEV)"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Teresa Maria Neto Venda (PS)"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "José Manuel Marques de Matos Rosa (PPD/PSD)"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "José Helder do Amaral (CDS-PP)"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "João Pedro Furtado da Cunha Semedo (BE)"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Bruno Ramos Dias (PCP)"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Heloísa Augusta Baião de Brito Apolónia (PEV)"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "XI",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Conselho de Administração da Assembleia da República",
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": [
+      "16630",
+      "16631"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2010-09-15",
+        "descricao": null,
+        "detalhe": null,
+        "id": "58516",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "554279",
+            "obs": null,
+            "pag": [
+              "12-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2009-10-16",
+            "pubLeg": "XI",
+            "pubNr": "1",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/001/2009-10-16/12?pgs=12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "554280",
+            "obs": null,
+            "pag": [
+              "8-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-09-17",
+            "pubLeg": "XI",
+            "pubNr": "2",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/002/2010-09-17/8?pgs=8-9&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "1",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
