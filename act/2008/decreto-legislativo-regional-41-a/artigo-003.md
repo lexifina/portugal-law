@@ -8,7 +8,7 @@
 
 3 - No caso dos institutos públicos, a adaptação referida no número anterior é aprovada em regulamento interno homologado pelos membros do Governo aí referidos.
 
-4 - Em caso de relações jurídicas de emprego público constituídas por contrato, a adaptação ao regime previsto no presente diploma pode constar de acordo colectivo de trabalho.
+4 - Em caso de relações jurídicas de emprego público constituídas por contrato, a adaptação ao regime previsto no presente diploma pode constar de instrumento de regulamentação colectiva de trabalho.
 
 5 - As adaptações ao SIADAPRA previstas nos números anteriores são feitas respeitando o disposto na presente lei em matéria de:
 
