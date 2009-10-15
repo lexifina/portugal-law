@@ -19,3 +19,5 @@
 a) 50 % daquele período de congelamento a partir da data da entrada em vigor do presente diploma;
 
 b) 50 % daquele período de congelamento a partir de 1 de Setembro de 2009.
+
+8 - A relevância do tempo de serviço nos termos dos n.os 1 a 6 do presente artigo abrange igualmente os trabalhadores que se mantenham integrados em carreiras subsistentes a que alude o artigo 106.º da Lei n.º 12-A/2008, de 27 de Fevereiro, com efeitos a 1 de Janeiro de 2009.

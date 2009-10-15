@@ -6,4 +6,4 @@
 
 2 - Os actuais trabalhadores provisoriamente nomeados em comissão de serviço durante o período probatório, bem como em contrato administrativo de provimento para a realização de estágio e em comissão de serviço extraordinária, transitam para a modalidade de nomeação definitiva, aplicando-se o disposto na parte final do número anterior.
 
-3 - Os trabalhadores que actualmente se encontrem em substituição em cargo não dirigente mantêm essa situação de acordo com o regime em que foi constituída, até à alteração do Decreto Legislativo Regional n.º 29/2007/A, de 10 de Dezembro.
+3 - (Revogado)
