@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Y5feubGpmx3U3eADC2xbJmNQ%2bo9hh0y0Ws%2bMg6e1ClK3K68Ax4Xhm%2fWAehW8ocLQeD2OxoySGddyZuNhZaLhFlUp0ir7jK%2bOM48106ZJfd5wcxphkEewWoW0V2xfzdMNDfGCCckE9GmO9gLekm49cKDkNA8ZLG3MKaBA%2fkt5m8WXIfeT%2b5Mx1%2b0sg7BllQnlJxstthBRb%2bInCrt9Uig%2bShhf4upRTB1UPB5rRZ5AdO%2bS2bOM3SOwHIIzM8sV51n%2b%2fFpTd99F%2bLrFlKG%2beBsI3Ay12J%2bsVEuFtnniXdweo0Fbri050dE53bSr8jRl8MGpmX2sdxehZ6G6%2byWG%2fP8M0NepLg61Gx0Gl5lJ5jDaOiQ%3d&fich=IntervencoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7f20a8e6bd694f3fe5bcaedfdae6b5dacd6c1585dae5f92751007c07eefc189c",
+  "legislatura": "XI",
+  "id": "174129",
+  "tipo": "Intervenção",
+  "orador": "Celeste Correia (PS)",
+  "data_registo": "2009-10-15",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "87284",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "87284",
+        "tipo": "DEB",
+        "titulo": "Primeira reunião após eleições legislativas - Abertura da 1ª Sessão Legislativa da XI Legislatura"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Leitura dos nomes dos Deputados que constituem a Comissão Eventual de Verificação de Poderes dos Deputados Eleitos.",
+        "duracao": "00:00:59:207",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20091015pln&url=l11/sl1/a2009/m10/&tI=00:05:52:727&drc=00:00:59:207"
+      }
+    ],
+    "DataReuniaoPlenaria": "2009-10-15",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "614",
+      "nome": "Celeste Correia"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "174129",
+    "IdDebate": "3924",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "174129",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-10-16",
+        "pubLeg": "XI",
+        "pubNr": "1",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/001/2009-10-16/3?pgs=3&org=PLC"
+      }
+    ],
+    "Qualidade": "Sec. Mesa",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Foram eleitos para a Comissão Eventual de Verificação de Poderes dos Deputados Eleitos os seguintes deputados: Osvaldo de Castro, Ricardo Rodrigues, João Serrano, Luis Pita Ameixa, Celeste Correia, Maria de Belém Roseira e Victor Baptista (PS), José Matos Correia, Luis Campos Ferreira, Luis Montenegro, Luis Rodrigues, Miguel Macedo e Sérgio Vieira (PSD), Nuno Magalhães e Abel Baptista (CDS-PP), Pedro Soares e Mariana Aiveca (BE), João Oliveira (PCP) e José Luis Ferreira (PEV)",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
