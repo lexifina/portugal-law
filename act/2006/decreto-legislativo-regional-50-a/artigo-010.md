@@ -6,7 +6,7 @@
 
 a) Consultar os pedidos de mobilidade na BEP - Açores, contactando directamente os funcionários ou agentes que reúnam o perfil pretendido;
 
-b) Se não for possível encontrar um funcionário ou agente com o perfil pretendido ou não existir qualquer pedido de mobilidade naquela bolsa, o serviço ou organismo deve inscrever na BEP - Açores uma oferta de mobilidade, disponibilizando-a pelo período de 15 dias, aguardando o contacto de funcionários ou agentes eventualmente interessados.
+b) Se não for possível encontrar um trabalhador com o perfil pretendido ou não existir qualquer pedido de mobilidade naquela bolsa, o serviço ou organismo deve inscrever na BEP - Açores uma oferta de mobilidade, disponibilizando-a pelo período de cinco dias seguidos, aguardando o contacto de trabalhadores eventualmente interessados.
 
 2 - A inexistência de funcionários ou agentes com o perfil pretendido nos termos do número anterior deverá ser devidamente fundamentado.
 
