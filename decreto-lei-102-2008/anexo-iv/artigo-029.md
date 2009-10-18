@@ -22,7 +22,9 @@ f) Entregar um mapa recapitulativo com a identificação dos sujeitos passivos s
 
 g) Dispor de contabilidade adequada ao apuramento e fiscalização do imposto;
 
-h) Enviar, por transmissão electrónica de dados, a declaração, anexos e mapas recapitulativos a que se referem as alíneas d), e) e f) até ao final do mês de Junho ou, em caso de adopção de um período de tributação em IRC diferente do ano civil, até ao final do 6.º mês posterior à data do termo desse período.
+h) Enviar, por transmissão electrónica de dados, a declaração, os anexos e os mapas recapitulativos a que se referem as alíneas d), e) e f) até ao dia 15 de Julho ou, em caso de adopção de um período de tributação em sede de IRC diferente do ano civil, até ao 15.º dia do 7.º mês posterior à data do termo desse período, independentemente de esse dia ser útil ou não útil.
+
+i) Indicar na declaração recapitulativa a que se refere a alínea c) do n.º 1 do artigo 23.º do Regime do IVA nas Transacções Intracomunitárias, nos prazos e condições previstos no artigo 30.º desse Regime, as prestações de serviços efectuadas a sujeitos passivos que tenham noutro Estado membro da Comunidade a sede, um estabelecimento estável ou, na sua falta, o domicílio, para o qual os serviços são prestados, quando tais operações sejam aí tributáveis.
 
 2 - A obrigação de declaração periódica prevista no número anterior subsiste mesmo que não haja, no período correspondente, operações tributáveis.
 
