@@ -8,7 +8,7 @@
 
 3 - O registo dos factos referidos nas alíneas a), e) e f) do artigo 5.º deve ser requerido no prazo de dois meses a contar da data da publicação do decreto que os determinou.
 
-4 - O pedido de registo de prestação de contas de sociedades e de estabelecimentos individuais de responsabilidade limitada deve ser efectuado no prazo de seis meses a contar do termo do exercício económico.
+4 - O pedido de registo de prestação de contas de sociedades e de estabelecimentos individuais de responsabilidade limitada deve ser efectuado até ao 15.º dia do 7.º mês posterior à data do termo do exercício económico.
 
 5 - Estão igualmente sujeitas a registo obrigatório as acções, decisões, procedimentos e providências cautelares previstas no artigo 9.º
 
