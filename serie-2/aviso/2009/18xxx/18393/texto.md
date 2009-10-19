@@ -1,0 +1,8 @@
+Aviso n.º 18393/2009
+António José Correia, Presidente da Câmara Municipal de Peniche, torna público, nos termos e para os efeitos do disposto no n.º 5 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a sua actual redacção e para efeitos do disposto no Decreto-Lei n.º 232/2007, de 15 de Junho, que esta Câmara Municipal, em reunião ordinária de 13 de Agosto de 2009, deliberou, com base nos Termos de Referência anteriormente aprovados, não sujeitar a procedimento de Avaliação Ambiental Estratégica, nos termos do disposto no Decreto-Lei n.º 232/2007, de 15 de Junho o Plano de Urbanização de Atouguia da Baleia e solicitar o acompanhamento da CCDR-LVT.
+Deliberado, também, dar inicio ao período de participação previsto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, pelo prazo de 20 dias a contar da data de publicação na 2.ª série do Diário da República, para recolha de sugestões, bem como para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração. Durante este período, os interessados poderão consultar os Termos de Referência nos locais a seguir identificados ou no Site da Câmara Municipal de Peniche (www.cm-peniche.pt):
+Departamento de Planeamento e Gestão Urbanística sito no edifício da Câmara Municipal, na rua Vasco da Gama n.º 45;
+Junta de Freguesia de Atouguia da Baleia, sito na Rua Largo de São Leonardo, n.º 7.
+Os interessados deverão apresentar as sugestões, informações ou observações mediante exposição dirigida ao Presidente da Câmara Municipal, devendo neste constar a identificação e o endereço dos seus autores e a qualidade em que as apresentam.
+9 de Outubro de 2009. - O Presidente da Câmara, António José Correia.
+302419846
