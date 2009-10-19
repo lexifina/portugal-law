@@ -1,0 +1,15 @@
+Portaria n.º 1300/2009
+de 19 de Outubro
+Pela Portaria n.º 1135/2007, de 10 de Setembro, foi renovada a zona de caça municipal da Cabeça do Carneiro (processo n.º 2618-AFN), situada no município do Alandroal, e ainda renovada a respectiva transferência de gestão para a Associação de Caçadores da Cabeça do Carneiro.
+Pela Portaria n.º 1191/2008, de 16 de Outubro, foram desanexados desta zona de caça vários prédios rústicos, tendo ficado com a área de 1985 ha.
+Pela Portaria n.º 541/2008, de 27 de Junho, foi renovada a zona de caça municipal da Aldeia da Venda (processo n.º 2724-AFN), situada no município do Alandroal, e cuja entidade titular é a Associação de Caça e Pesca de Aldeia da Venda.
+Pela Portaria n.º 695/99, de 24 de Agosto, foi concessionada à Associação de Caça e Pesca de Aldeia da Venda a zona de caça associativa da Freguesia de Santiago Maior (processo n.º 2202-AFN), situada no município do Alandroal.
+Vieram agora as entidades titulares requerer a exclusão de terrenos cinegéticos das zonas de caça municipais da Cabeça do Carneiro e da Aldeia da Venda e, simultaneamente, requerer a anexação daqueles terrenos, para além de outros, à zona de caça associativa da Freguesia de Santiago Maior.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção, e com fundamento no disposto nos artigos 11.º e 37.º, na alínea a) do artigo 40.º, e nos n.os 1 e 2 do artigo 28.º, em conjugação com o disposto no n.º 1 do artigo 167.º, todos do diploma acima identificado, e após audição do Conselho Cinegético Municipal do Alandroal no que respeita à anexação de terrenos à zona de caça associativa, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º São excluídos da zona de caça municipal da Cabeça do Carneiro (processo n.º 2618-AFN) vários terrenos cinegéticos sitos na freguesia de Santiago Maior, município do Alandroal, com a área de 67 ha, ficando a mesma com a área de 1918 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º São excluídos da zona de caça municipal da Aldeia da Venda (processo n.º 2724-AFN) vários terrenos cinegéticos sitos na freguesia de Santiago Maior, município do Alandroal, com a área de 39 ha, ficando a mesma com a área de 1187 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º São anexados à zona de caça associativa da Freguesia de Santiago Maior (processo n.º 2202-AFN) vários prédios rústicos sitos na freguesia de Santiago Maior e São Pedro de Terena, município do Alandroal, com a área de 374 ha, ficando a mesma com a área de 1946 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+4.º A presente anexação só produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 12 de Outubro de 2009.
+(ver documento original)
