@@ -1,0 +1,11 @@
+Portaria n.º 1297/2009
+de 19 de Outubro
+Pela Portaria n.º 1252/2008, de 4 de Novembro, foi criada a zona de caça municipal das Herdades da Regenesta Nova e Regenesta Velha (processo n.º 5092-AFN), situada no município de Portel, e cuja entidade titular é a Associação de Caçadores de São João Batista de Portel.
+Vieram, entretanto, proprietários de alguns terrenos incluídos na zona de caça acima referida requerer a sua exclusão e, simultaneamente, o Clube de Caçadores de S. Braz veio requerer a anexação dos terrenos objecto da exclusão acima referida à zona de caça associativa da Herdade do Monte Airoso, Rio Torto e Melindres (processo n.º 590-AFN), renovada pela Portaria n.º 483/2003, de 16 de Junho, alterada pela Portaria n.º 774/2006, de 7 de Agosto.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção e com fundamento no n.º 1 do artigo 28.º, em conjugação com o estipulado no n.º 1 do artigo 167.º e no artigo 11.º e na alínea a) do artigo 40.º, todos do diploma acima identificado, e após audição do Conselho Cinegético Municipal de Portel no que respeita à anexação de terrenos à zona de caça associativa, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É excluído da zona de caça municipal das Herdades da Regenesta Nova e Regenesta Velha (processo n.º 5092-AFN) o prédio rústico denominado Regenesta Nova, sito na freguesia e município de Portel, com a área de 143 ha, ficando a mesma reduzida à área total de 119 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º É anexado à zona de caça associativa da Herdade do Monte Airoso, Rio Torto e Melindres (processo n.º 590-AFN) o prédio rústico acima identificado, passando esta zona de caça a abranger a área total de 1486 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A exclusão e a anexação previstas na presente portaria produzem efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 2 de Outubro de 2009.
+(ver documento original)
