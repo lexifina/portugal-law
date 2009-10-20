@@ -106,6 +106,16 @@ Uma segunda ligação hertziana, co-canal, no mesmo trajecto e com recurso a pol
 
 (ver documento original)
 
+em que (alfa) é um ponderador que traduz o valor da unidade de espectro radioeléctrico para cada faixa de frequências atribuída:
+
+(ver documento original)
+
+LF representa a totalidade do espectro radioeléctrico atribuído, em MHz;
+
+W(índice 5) representa o ponderador que procura reflectir o impacte social da utilização do espectro radioeléctrico nas diferentes zonas do País, tendo por base o índice de desenvolvimento económico e social:
+
+(ver documento original)
+
 1.3.9 - Fixo - ligações em ondas decamétricas e hectométricas - taxa aplicável por estação:
 
 (ver documento original)
