@@ -1,0 +1,15 @@
+Portaria n.º 1309/2009
+de 20 de Outubro
+Pela Portaria n.º 1590/2007, de 14 de Dezembro, alterada pela Portaria n.º 1385/2008, de 3 de Dezembro, foi criada a zona de caça municipal de Água d'Elvira e outras (processo n.º 4782-AFN), situada no município de Viana do Alentejo, e transferida a sua gestão para a ACPVA - Associação de Caça e Pesca de Viana do Alentejo.
+Vieram entretanto proprietários de terrenos incluídos na zona de caça municipal acima referida requerer a sua exclusão.
+Verificou-se, no entanto, que após a exclusão acima referida a área remanescente não permite prosseguir os objectivos inerentes a este tipo de zona de caça, o que implica a extinção da mesma.
+Em simultâneo, a Seca - Sociedade Turística de Exploração Cinegética de Alcáçovas, Lda., veio requerer a anexação daqueles terrenos à zona de caça turística das Herdades de Água Doce, Pardieiro e outras (processo n.º 459-AFN), situada no município de Viana do Alentejo, renovada pela Portaria n.º 1205/2002, de 2 de Setembro.
+Assim:
+Com base no disposto no artigo 46.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a actual redacção, e com fundamento no n.º 1 do artigo 28.º, em conjugação com o estipulado no n.º 1 do artigo 167.º, na alínea d) do n.º 1 do artigo 22.º, no artigo 11.º, na alínea a) do artigo 40.º e no n.º 1 do artigo 118.º, todos do diploma acima identificado, e após audição do Conselho Cinegético Municipal de Viana do Alentejo no que respeita à anexação de terrenos à zona de caça turística, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É extinta a zona de caça municipal de Água d'Elvira e outras (processo n.º 4782-AFN).
+2.º São anexados à zona de caça turística das Herdades de Água Doce, Pardieiro e outras (processo n.º 459-AFN) vários prédios rústicos sitos na freguesia de Alcáçovas, município de Viana do Alentejo, com a área de 459 ha, ficando a mesma com a área total de 2170 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º A concessão de alguns terrenos agora anexados, incluídos em área classificada, poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos que determinem a incompatibilidade da actividade cinegética com a conservação da natureza até um máximo de 10 % da área total da zona de caça.
+4.º A presente anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+5.º É revogada a Portaria n.º 1590/2007, de 14 de Dezembro, alterada pela Portaria n.º 1385/2008, de 3 de Dezembro.
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 8 de Outubro de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 12 de Outubro de 2009.
+(ver documento original)
