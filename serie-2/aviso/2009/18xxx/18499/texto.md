@@ -1,0 +1,8 @@
+Aviso n.º 18499/2009
+PP1 - Plano de Pormenor São Romão/Olhalvas
+Isabel Damasceno Vieira Campos Costa, na qualidade de Presidente da Câmara Municipal de Leiria, torna público, para os efeitos consignados nos n.º 3 e 4 do artigo 77.º do Decreto-Lei n. 380/1999, de 22 de Setembro (republicado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro) e em cumprimento da deliberação de Câmara Municipal de 18 de Agosto de 2009, a abertura do período de discussão pública do PP1 - Plano de Pormenor São Romão/Olhalvas, o qual decorrerá durante 22 dias úteis, contados a partir do 5.º dia útil a seguir à publicação do presente aviso no Diário da República.
+Os documentos integrantes deste Plano de Pormenor estarão patentes, nas horas normais de expediente no seguinte local:
+Departamento de Planeamento e Urbanismo, Rua de Alcobaça n.º 30, 2400-086 Leiria; horário: de segunda a sexta-feira das 9 horas às 12 e 30 minutos e das 14 horas às 17 horas e 30 minutos.
+No decurso do período de discussão pública poderão ser apresentadas sugestões ou observações sobre o Plano de Pormenor de São Romão/Olhalvas - PP1, por escrito em papel branco devidamente identificado com os dados do signatário, endereçadas à Câmara Municipal de Leiria, Departamento de Planeamento e Urbanismo, Largo do Município, 2410-160 Leiria, ou através do endereço electrónico dpu.pp1@cm-leiria.pt, referindo expressamente a identificação (nome, número do bilhete de identidade ou cartão de cidadão e morada, opcionalmente telefone e endereço electrónico) e o assunto, o qual deve ser exposto de forma clara e sucinta.
+25 de Setembro de 2009. - A Presidente da Câmara, Isabel Damasceno Campos.
+202435592
