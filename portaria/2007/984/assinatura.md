@@ -1,0 +1,1 @@
+Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 13 de Agosto de 2007. - Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação, em 9 de Agosto de 2007.
