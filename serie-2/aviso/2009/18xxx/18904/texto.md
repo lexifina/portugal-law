@@ -1,0 +1,4 @@
+Aviso n.º 18904/2009
+Doutor Jorge Manuel Fernandes Malheiro de Magalhães, Licenciado em Direito, na qualidade de Presidente da Câmara Municipal de Lousada: Torna Público, para cumprimento do preceituado no n.º 2 do artigo 118.º do Código do Procedimento Administrativo, e dando execução ao deliberado por esta Câmara Municipal em sua reunião realizada no dia 06/10/2009, que, a partir da publicação no Diário da República 2.ª série e pelo prazo de 30 dias, está em apreciação pública nesta Câmara o projecto de Regulamento de Liquidação e Cobrança de Taxas e outras Receitas Municipais para posterior sujeição ao Órgão Deliberativo. Mais faz saber que exemplares do projecto do Regulamento, bem como da fundamentação económico-financeira do valor das taxas municipais se encontram afixados no edifício dos Serviços Municipais.
+9 de Outubro de 2009. - O Presidente da Câmara, Jorge Manuel Fernandes Malheiro de Magalhães.
+302420169
