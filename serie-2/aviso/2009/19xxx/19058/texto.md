@@ -1,0 +1,4 @@
+Aviso n.º 19058/2009
+No uso das competências que se encontram previstas na alínea a) do n.º 6 do artigo 64.º, e, alínea a) do n.º 2 do artigo 53.º, ambos da Lei n.º 169/99 de 18.09, com a redacção introduzida pela Lei n.º 5-A/2002 de 11.01, torna-se público, que o Projecto de Regulamento de Realojamento da Azenha do Mar, publicado na 2.ª série, do Diário da República n.º 42, de 28 de Fevereiro de 2007, com as alterações entretanto introduzidas naquele Projecto de Regulamento, publicadas na 2.ª série, do Diário da República n.º 31, de 13 de Fevereiro de 2009, foi aprovado, de forma definitiva, em Regulamento, em reunião ordinária da Câmara Municipal realizada em 03.09.2009, e em sessão ordinária da Assembleia Municipal realizada em 18.09.2009.
+8 de Outubro de 2009. - O Presidente da Câmara, António Manuel Camilo Coelho.
+302421279
