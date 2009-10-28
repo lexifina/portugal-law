@@ -1,0 +1,4 @@
+Aviso n.º 111/2009
+Por ordem superior se torna público que, em 12 de Outubro de 2009, a República Portuguesa depositou o seu instrumento de ratificação das Emendas à Convenção Relativa à Criação do Centro Europeu de Previsão do Tempo a Médio Prazo e a Emenda ao Protocolo sobre Privilégios e Imunidades do Centro Europeu de Previsão do Tempo a Médio Prazo, adoptadas em Reading em 22 de Abril de 2005.
+Portugal é Parte das Emendas, aprovadas, para ratificação, pela Resolução da Assembleia da República n.º 89/2009 e pelo Decreto do Presidente da República n.º 92/2009, ambos publicados no Diário da República, 1.ª série, n.º 179, de 15 de Setembro de 2009, tendo depositado o seu instrumento de ratificação em 12 de Outubro de 2009.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 21 de Outubro de 2009. - O Subdirector-Geral, Miguel de Almeida e Sousa.
