@@ -1,0 +1,11 @@
+Aviso n.º 19311/2009
+Elaboração do Plano de Pormenor da Área Central da cidade de Vila Nova de Famalicão
+Torna-se público, no seguimento da deliberação da Câmara Municipal, de 27 de Maio de 2009 e para efeito do disposto no n.º 2 do artigo 77, do Decreto-Lei n.º 46/2009, que, durante 30 dias após a data de publicação deste Aviso, se encontra aberto o período para formulação de sugestões, bem como a apresentação de informações sobre questões que possam ser consideradas no âmbito do processo de elaboração do Plano de Pormenor da Área Central da Cidade de Vila Nova de Famalicão (PPACCVNF).
+Dando cumprimento aos artigos 6.º e 74.º do decreto-lei acima referido, torna-se público que na mesma deliberação foi aprovado um prazo estimado de 6 meses para a realização do trabalho técnico de elaboração bem como os objectivos a prosseguir na elaboração do mesmo:
+Promover o desenvolvimento harmonioso do conjunto urbano que constitui a área central da cidade e assegurar a sua articulação com os espaços confinantes de construção mais recente, visando a salvaguarda dos valores arquitectónicos e culturais que caracterizam a memória colectiva e constituem os elementos estruturantes da fisionomia da cidade.
+Manter os edifícios no seu todo ou em parte, sempre que estes possuam qualidade arquitectónica ou se integrem em conjuntos com características definidoras de determinada época;
+Promover a multifuncionalidade do centro urbano.
+Conservar e promover a reabilitação os edifícios, conjuntos e espaços públicos relevantes, através da sua reestruturação formal e funcional, quer para a preservação da imagem da cidade quer para o reforço da sua qualidade urbana.
+Todos os interessados poderão formular as suas sugestões através de um impresso próprio disponível no Departamento de Urbanismo da Câmara Municipal de Vila Nova de Famalicão e sob forma electrónica no site do Município: http://www.cm-vnfamalicao.pt. Quaisquer esclarecimentos deverão ser solicitados no Gabinete de Planeamento, que funciona no Departamento de Urbanismo, ou através do fax 252 318761 ou ainda por correio electrónico: planeamento.urbanismo@vilanovadefamalicao.org.
+3 de Agosto de 2009. - O Presidente da Câmara, Armindo B. A. Costa.
+202468519
