@@ -1,0 +1,10 @@
+Edital n.º 1070/2009
+Pedro Luís Filipe, Director Municipal de Administração Geral, no uso dos poderes que me foram delegados pela Sra. Presidente da Câmara Municipal de Almada, através do seu Despacho n.º 85/05-09, de 2 de Janeiro de 2006 torno público que:
+A Câmara Municipal de Almada, na sua reunião de 7 de Outubro corrente, deliberou aprovar a proposta que aqui se dá por integralmente reproduzida para todos os legais efeitos, quanto ao seguinte:
+1 - Determinar, nos termos dos n.os 1 e 2 do artigo 74.º do Decreto-Lei n.º 380/99, de 22/09, com a redacção conferida pelo Decreto-Lei n.º 46/2009, de 20/02, com as alterações introduzidas pelo Decreto-Lei n.º 181/2009, de 07/08, a elaboração do Plano de Pormenor de Reabilitação Urbana e Funcional de Cacilhas no prazo de 10 meses (contados a partir do termo do período de participação preventiva e descontados nomeadamente os tempos relativos à apreciação dos trabalhos produzidos em cada fase, à discussão pública e, de uma forma geral, à tramitação administrativa do Processo) e de acordo com os termos de referência (anexo 2);
+2 - Abrir, nos termos dos n.os 1 e 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22/09, com a redacção conferida pelo Decreto-Lei n.º 46/2009, de 20/02, com as alterações introduzidas pelo Decreto-Lei n.º 181/2009, de 07/08, um período de participação preventiva de 90 dias a partir da data da publicação do respectivo aviso no Diário da República e da divulgação na comunicação social e na Internet da Câmara Municipal, realizar um fórum de participação integrado no período de participação preventiva, indicando que a proposta se encontra disponível para consulta:
+Nas instalações dos serviços técnicos da Câmara Municipal de Almada, Avenida D. Nuno Álvares Pereira 67, 2800-181 Almada, no horário de expediente (entre as 9h e as 15h);
+Na Junta de Freguesia de Cacilhas na Rua Liberato Teles, 6-A, 2800-291 Almada, no horário das 9h - 12h30 e das 14h - 17h.
+E para constar se passou o presente Edital e outros de igual teor que vão ser afixados nos lugares de estilo.
+14 de Outubro de 2009. - O Director Municipal de Administração Geral, Pedro Filipe.
+202473808
