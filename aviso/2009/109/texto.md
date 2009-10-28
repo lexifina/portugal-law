@@ -1,0 +1,4 @@
+Aviso n.º 109/2009
+Por ordem superior se torna público que a República Portuguesa aprovou, para ratificação, a Convenção sobre a Importação Temporária, adoptada em Istambul em 26 de Junho de 1990, pelo Decreto n.º 54-A/97 e que a mesma foi ratificada em 18 de Julho de 1997, conforme publicação no Diário da República, 1.ª série-A, n.º 228, suplemento, de 2 de Outubro de 1997.
+Portugal é Parte da Convenção, aprovada, para ratificação, pelo Decreto n.º 54-A/97, publicado no Diário da República, 1.ª série-A, n.º 228, suplemento, de 21 de Outubro de 1997, tendo depositado o seu instrumento de ratificação junto do Secretário-Geral do Conselho de Cooperação Aduaneira em 18 de Junho de 1997.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 21 de Outubro de 2009. - O Subdirector-Geral, Miguel de Almeida e Sousa.
