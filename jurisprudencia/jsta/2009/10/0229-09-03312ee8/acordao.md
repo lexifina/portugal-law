@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal Administrativo de 2009-10-29, processo 0229/09
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0229/09
+
+**Data do Acordão:** 10/29/2009
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** COSTA REIS
+
+**Descritores:** EXECUÇÃO DE JULGADO; ACÇÃO DE INDEMNIZAÇÃO; DANO; CAUSALIDADE
+
+**Nº Convencional:** JSTA00066064
+
+**Nº do Documento:** SA1200910290229
+
+**Data de Entrada:** 03/02/2009
+
+**Recorrente:** A...
+
+**Recorrido 1:** ESTADO PORTUGUÊS
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAF LISBOA PER SALTUM.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM CONT - RESPONSABILIDADE EXTRA.
+
+**Legislação Nacional:** CCIV66 ART483.; DL 48051 DE 1967/11/21 ART2 ART3 ART4 ART5 ART6 ART7 ART10.
+
+**Jurisprudência Nacional:** AC STA PROC56770-B DE 2000/11/28.; AC STA PROC1683/02 DE 2002/12/18.; AC STA PROC1331/02 DE 2002/11/06.
+
+## Sumário
+
+I - Anulado o acto recorrido e não tendo havido imediata e espontânea execução do julgado abrem-se ao interessado duas possibilidades de tutela jurisdicional: ou requer a execução do julgado - o meio mais comum de repor a ordem jurídica violada pela prática de um acto ilegal - ou intenta uma acção de indemnização fundada nos prejuízos decorrentes do acto ilícito. Pode, ainda, acontecer que, tendo-se optado pela primeira daquelas vias, se conclua que o processo executivo não é o meio mais eficaz ou mais idóneo para reconstituir a situação actual hipotética recorrendo-se nessa altura à propositura de uma acção de indemnização.
+
+II - Anulado o despacho que adjudicou o bem posto a concurso, os restantes opositores ao mesmo só poderiam requerer indemnização pelos danos eventualmente decorrentes do acto anulado se provassem que a proposta que apresentaram era a melhor e que, sendo assim, dever-lhe-ia ter sido adjudicada o bem concursado.
+
+III - Deste modo, e inexistindo a certeza de que a proposta da Recorrente era a melhor visto o juízo anulatório não se pronunciar, ainda que implicitamente, sobre a qualidade das restantes propostas e à forma como a sua classificação deveria ter sido ordenada e não podendo esse juízo ser feito pelo Tribunal, visto se tratar de tarefa da Administração a ser, eventualmente, desempenhada na sequência da execução do julgado, é vã a pretensão indemnizatória dirigida contra a entidade que promoveu o concurso por um dos concursantes.
