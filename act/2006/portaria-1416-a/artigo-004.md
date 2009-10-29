@@ -15,3 +15,5 @@ b) Os documentos comprovativos da sua capacidade e dos seus poderes de represent
 2 - Todos os documentos entregues através de sítio na Internet, desde que tenham sido correctamente digitalizados, sejam integralmente apreensíveis e tenham sido enviados por quem tenha competência para a conferência de documentos electrónicos com os respectivos originais em formato de papel, têm o mesmo valor probatório dos originais.
 
 3 - Os documentos que não tenham sido enviados pelas entidades referidas no número anterior têm de ser certificados nos termos da lei.
+
+4 - A existência do pedido depende da confirmação do pagamento dos encargos devidos.
