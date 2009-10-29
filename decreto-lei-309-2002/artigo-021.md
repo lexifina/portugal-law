@@ -8,7 +8,7 @@
 
 1 - Sem prejuízo das contra-ordenações previstas nos regulamentos das normas técnicas e de segurança aplicáveis, constituem contra-ordenações, puníveis com as seguintes coimas:
 
-a) A violação do disposto nos artigos 9.º, 10.º, 17.º, 18.º e 19.º é punível com coima de (euro) 498,80 até ao máximo de (euro) 3740,98 no caso de se tratar de pessoa singular ou até (euro) 44891,81 no caso de se tratar de pessoa colectiva;
+a) A violação do disposto nos artigos 9.º, 10.º e 17.º é punível com coima de (euro) 498,80 a (euro) 3740,98, no caso de pessoas singulares, e até (euro) 44 891,81 no caso de pessoas colectivas;
 
 b) A falta do seguro a que se referem os artigos 15.º e 16.º é punível com coima de (euro) 2493,99 até ao máximo de (euro) 3740,98 no caso de se tratar de pessoa singular ou até (euro) 44891,81 no caso de se tratar de pessoa colectiva;
 
