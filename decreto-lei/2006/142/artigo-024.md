@@ -10,7 +10,7 @@
 
 2 - O atraso na comunicação à autoridade competente pelos detentores de ovinos, caprinos, suínos, aves, leporídeos e outras espécies no prazo legalmente estabelecido de todas as movimentações para a exploração e a partir desta, bem como a data dessas ocorrências, constitui contra-ordenação punível com coima cujo montante mínimo é de (euro) 25 por animal ou lote de animais movimentados quando estes não ultrapassem o número de cinco e de (euro) 125 quando aquele número seja superior, até ao montante máximo de (euro) 1870 por lote, no caso das pessoas singulares, e de (euro) 22 440, no caso das pessoas colectivas.
 
-3 - O atraso na comunicação à autoridade competente pelos detentores de ovinos, caprinos e suínos, no prazo legalmente estabelecido, de todas as movimentações para a exploração e a partir desta, bem como a data dessas ocorrências, constitui contra ordenação punível com coima cujo montante mínimo é de (euro) 25 por animal ou lote de animais movimentados quando estes não ultrapassem o número de cinco e de (euro) 125 quando aquele número seja superior, até ao montante máximo de (euro) 1870 por lote, no caso das pessoas singulares, e de (euro) 22440, no caso das pessoas colectivas.
+3 - O atraso na comunicação à autoridade competente pelos detentores de ovinos, caprinos, suínos, aves, leporídeos e outras espécies no prazo legalmente estabelecido de todas as movimentações para a exploração e a partir desta, bem como a data dessas ocorrências, constitui contra ordenação punível com coima cujo montante mínimo é de (euro) 25 por animal ou lote de animais movimentados quando estes não ultrapassem o número de cinco e de (euro) 125 quando aquele número seja superior, até ao montante máximo de (euro) 1870 por lote no caso das pessoas singulares e de (euro) 22 440 no caso das pessoas colectivas.
 
 4 - Constitui contra-ordenação, punível com coima cujo montante mínimo é de (euro) 50 e máximo de (euro) 1870, no caso das pessoas singulares, e de (euro) 22440, no caso das pessoas colectivas:
 
@@ -18,11 +18,11 @@ a) A não comunicação da alteração de alguns dos elementos do registo da exp
 
 b) O desrespeito pelas normas aprovadas nos termos do n.º 1 do artigo 15.º;
 
-c) A não actualização do registo nos termos do n.º 1 do artigo 9.º do anexo I, do n.º 1 do artigo 8.º do anexo II e do n.º 1 do artigo 3.º do anexo III.
+c) A não actualização do registo nos termos do n.º 1 do artigo 9.º do anexo i, do n.º 1 do artigo 8.º do anexo ii, do n.º 1 do artigo 3.º do anexo iii, do n.º 1 do artigo 5.º do anexo v, do n.º 1 do artigo 3.º do anexo vi e do n.º 1 do artigo 3.º do anexo vii.
 
 5 - Constitui contra-ordenação, punível com coima cujo montante mínimo é de (euro) 100 e máximo de (euro) 1870, no caso das pessoas singulares, e de (euro) 22440, no caso das pessoas colectivas:
 
-a) O desrespeito das obrigações relativas à declaração de existências para as espécies ovina e caprina prevista no artigo 10.º do anexo II;
+a) O desrespeito das obrigações relativas à declaração de alteração de efectivos e de existências para as espécies ovina e caprina, suína, aves, leporídeos e outras espécies pecuárias, prevista no artigo 10.º do anexo ii, no artigo 5.º do anexo iii, no artigo 6.º do anexo v, no artigo 4.º do anexo vi e no artigo 4.º do anexo vii;
 
 b) O desrespeito das obrigações relativas à marcação, identificação e registo de equídeos previstas nos artigos 2.º e 3.º do anexo IV.
 
@@ -36,7 +36,7 @@ c) O desrespeito da proibição de abate de animais para consumo humano fora dos
 
 d) O desrespeito do disposto no n.º 2 do artigo 6.º nos abates para auto consumo;
 
-e) A não introdução nas bases de dados informatizadas, dentro dos prazos estabelecidos, dos elementos referentes ao abate de animais das espécies bovina, ovina, caprina e suína pelos matadouros que a ele procedam, bem como pelos centros de recolha de cadáveres, nos termos do n.os 9 e 10 do artigo 7.º, respectivamente;
+e) A não introdução nas bases de dados informatizadas, dentro dos prazos estabelecidos, dos elementos referentes ao abate de animais das espécies bovina, ovina, caprina e suína, aves, leporídeos e outras espécies pecuárias pelos matadouros que a ele procedam, bem como pelos centros de recolha de cadáveres, nos termos dos n.os 8 e 9 do artigo 7.º, respectivamente;
 
 f) O abandono de cadáveres de animais mortos na exploração;
 
@@ -44,11 +44,11 @@ g) A remoção de quaisquer partes dos animais mortos na exploração, incluindo
 
 h) A não comunicação, no prazo legalmente estabelecido, da morte dos animais na exploração, bem como o não cumprimento das regras relativas à recolha dos cadáveres nos termos do disposto no artigo 8.º;
 
-i) O funcionamento de centros de agrupamento sem a autorização prevista no artigo 10.º;
+i) Revogada;
 
 j) O exercício da actividade por comerciantes que não se encontrem registados nos termos do artigo 11.º;
 
-l) O desrespeito das obrigações relativas aos centros de agrupamento e comerciantes previstas nos artigos 10.º e 11.º;
+l) O desrespeito das obrigações relativas aos comerciantes, previstas no artigo 11.º;
 
 m) O desrespeito das obrigações relativas aos transportadores previstas no artigo 12.º;
 
@@ -84,6 +84,12 @@ dd) O desrespeito das obrigações relativas à identificação e registo de ovi
 
 ee) A circulação de animais das espécies ovina e caprina sem que sejam acompanhados de passaporte de rebanho ou destacável ou dos documentos de acompanhamento, nos termos dos artigos 4.º e 9.º do anexo II;
 
-ff) O desrespeito das obrigações relativas à identificação e registo de suínos constantes dos artigos 2.º e 3.º do anexo III.
+ff) O desrespeito das obrigações relativas à identificação e registo de suínos constantes dos artigos 2.º e 3.º do anexo III;
+
+gg) O desrespeito das obrigações relativas à expedição, transporte e embalagem de ovos de incubação, aves do dia e aves para abate e ovos de consumo, constantes dos artigos 1.º, 2.º e 3.º, bem como dos documentos de acompanhamento, constantes no artigo 4.º do anexo v;
+
+hh) O desrespeito das obrigações relativas à expedição, transporte e embalagem de leporídeos, constantes do artigo 1.º, bem como dos documentos de acompanhamento constantes no artigo 2.º do anexo vi;
+
+ii) O desrespeito das obrigações relativas à expedição, transporte e embalagem de "outras espécies" pecuárias, constantes do artigo 1.º, bem como dos documentos de acompanhamento constantes no artigo 2.º do anexo vii.
 
 7 - A tentativa e a negligência são puníveis, sendo os montantes mínimos e máximos das coimas reduzidos a metade.
