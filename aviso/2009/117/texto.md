@@ -1,0 +1,4 @@
+Aviso n.º 117/2009
+Por ordem superior se torna público que, em 16 de Novembro de 2007, o Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte depositou o seu instrumento de ratificação da Convenção sobre o Instituto Florestal Europeu, adoptada em Joensuu em 28 de Agosto de 2003.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 65/2006 e pelo Decreto do Presidente da República n.º 120/2006, ambos publicados no Diário da República, 1.ª série, n.º 234, de 6 de Dezembro de 2006, tendo depositado o seu instrumento de ratificação em 16 de Janeiro de 2007, conforme o Aviso n.º 4/2007, publicado no Diário da República, 1.ª série, n.º 28, de 8 de Fevereiro de 2007.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 30 de Outubro de 2009. - O Subdirector-Geral, Miguel de Almeida e Sousa.
