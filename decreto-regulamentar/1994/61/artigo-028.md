@@ -2,13 +2,13 @@
 
 ### Aviamento de receitas
 
-1 - O farmacêutico que aviar uma receita especial respeitante a substâncias estupefacientes ou psicotrópicas deve verificar a identidade do adquirente e anotar à margem do original da receita o nome, número e data do bilhete de identidade ou da carta de condução ou, no caso de estrangeiros, do passaporte, indicando a data de entrega e assinando de forma legível.
+1 - O farmacêutico que avie uma receita especial respeitante a substâncias estupefacientes ou psicotrópicas verifica a identidade do adquirente e anota à margem do original da receita o nome, número e data do bilhete de identidade ou da carta de condução, ou o nome e número do cartão de cidadão ou, no caso de estrangeiros, do passaporte, indicando a data de entrega e assinando de forma legível.
 
 2 - Para identificação do adquirente pode o farmacêutico aceitar outros documentos, desde que tenham fotografia do titular, devendo, nesse caso, recolher a assinatura deste; se não souber ou não puder assinar, o farmacêutico consigna essa menção.
 
 3 - O farmacêutico recusar-se-á a aviar receitas relativas a medicamentos contendo estupefacientes ou substâncias psicotrópicas quando:
 
-a) Não sejam do modelo aprovado pelo INFARMED;
+a) Não sejam do modelo aprovado nos termos do artigo anterior;
 
 b) Tiver fundadas dúvidas sobre a sua autenticidade;
 

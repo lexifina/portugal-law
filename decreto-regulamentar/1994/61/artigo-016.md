@@ -2,7 +2,7 @@
 
 ### Quotas de fabrico de substâncias
 
-1 - No mês de Novembro de cada ano o INFARMED, atendendo aos compromissos internacionais assumidos e de acordo com as regras decorrentes das convenções, estabelece as quantidades das substâncias compreendidas nas tabelas I e II, com excepção da II-A, que podem ser fabricadas ou postas à venda pelas entidades autorizadas, no decurso do ano seguinte.
+1 - No mês de Julho de cada ano, o INFARMED, atendendo aos compromissos internacionais assumidos e de acordo com as regras decorrentes das convenções, estabelece as quantidades das substâncias compreendidas nas tabelas i e ii, com excepção da ii-A, que podem ser fabricadas ou postas à venda pelas entidades autorizadas, no decurso do ano seguinte.
 
 2 - As quantidades estabelecidas podem ser aumentadas no decurso do ano a que respeita a autorização, competindo ao INFARMED, em qualquer momento e quando especiais circunstâncias o exijam, limitar o fabrico de determinadas substâncias e preparações.
 

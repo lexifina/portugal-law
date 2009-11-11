@@ -1,5 +1,7 @@
 # Artigo 62.º
 
-### Cooperação administrativa com a Comunidade
+### Cooperação administrativa com a Comissão Europeia e os Estados membros
 
-A DGA é a entidade competente nos termos e para os efeitos do que se dispõe no artigo 7.º do Regulamento (CEE) n.º 3677/90, do Conselho, de 13 de Dezembro, e no artigo 7.º da Directiva n.º 92/109/CEE, do Conselho, de 14 de Dezembro.
+1 - A DGAIEC e a DGAE são as entidades competentes nos termos e para os efeitos do disposto no n.º 1 do artigo 11.º do Regulamento (CE) n.º 273/2004, do Parlamento Europeu e do Conselho, de 11 de Fevereiro.
+
+2 - A DGAIEC é a entidade competente nos termos e para os efeitos do disposto no n.º 2 do artigo 11.º do Regulamento (CE) n.º 273/2004, do Parlamento Europeu e do Conselho, de 11 de Fevereiro, e do artigo 27.º do Regulamento (CE) n.º 111/2005, do Conselho, de 22 de Dezembro de 2004.

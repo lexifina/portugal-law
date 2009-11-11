@@ -6,9 +6,9 @@
 
 ### Receitas
 
-1 - Só mediante apresentação de receita médica ou médico-veterinária com as especificações constantes dos números seguintes podem ser fornecidas ao público, para tratamento, as substâncias e preparações compreendidas nas tabelas I e II.
+1 - Só mediante apresentação de receita médica ou médico-veterinária, conforme modelo a aprovar por portaria do membro do Governo responsável pela área da saúde, podem ser fornecidas ao público, para tratamento, as substâncias e preparações compreendidas nas tabelas i e ii.
 
-2 - O INFARMED, em colaboração com a Direcção-Geral da Saúde e as administrações regionais de saúde (ARS), após audição da Ordem dos Médicos, da Ordem dos Médicos Veterinários, da Ordem dos Farmacêuticos e da Associação Nacional de Farmácias, aprova o modelo do livro de receitas com talonário.
+2 - A aprovação do modelo de receita referido no número anterior é precedida de parecer do INFARMED, no âmbito do qual devem ser ouvidas a Direcção-Geral da Saúde, as administrações regionais de saúde, a Ordem dos Médicos, a Ordem dos Médicos Veterinários, a Ordem dos Farmacêuticos e a Associação Nacional de Farmácias.
 
 3 - As receitas são numeradas e contêm no rosto as referências do n.º 3 do artigo 15.º do Decreto-Lei n.º 15/93, podendo ser adaptadas com vista ao seu tratamento informático.
 

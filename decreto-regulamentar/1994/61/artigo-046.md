@@ -1,25 +1,23 @@
 # Artigo 46.º
 
-### Pedidos de autorização - Tabela V
+### Pedido de licença
 
-1 - Do pedido de autorização ou de manutenção da autorização para produzir ou fabricar substâncias classificadas contidas na tabela V, devem constar os seguintes elementos:
+1 - A fim de obter a licença referida no artigo anterior, para além dos elementos referidos no artigo 5.º do Regulamento (CE) n.º 1277/2005, da Comissão, de 27 de Junho, o operador deve apresentar um pedido, em papel ou por via electrónica, acompanhado dos seguintes elementos:
 
-a) Identificação do requerente através do bilhete de identidade ou do cartão de identificação de pessoa colectiva ou equiparada;
+a) Fotocópia do cartão de identificação fiscal do requerente, ou do bilhete de identidade, no caso de ser pessoa colectiva, ou indicação dos elementos do cartão de cidadão, ou do bilhete de identidade, no caso de ser pessoa singular;
 
-b) Identificação e qualificação profissional do responsável técnico;
+b) Declaração de nomeação de um responsável que assegura que a actividade para a qual é requerida a licença se realiza em conformidade com as disposições legais aplicáveis e que fica habilitado a representar o operador e a tomar as decisões necessárias para o desempenho dessas funções;
 
-c) Indicação dos responsáveis pela elaboração e actualização dos registos;
+c) Descrição do cargo e funções do responsável referido na alínea anterior;
 
-d) Designação das substâncias, nos termos constantes da tabela V;
+d) Indicação da capacidade e processo de produção, fabrico ou transformação;
 
-e) Capacidade e processo de produção ou fabrico;
+e) Indicação da utilização previsível das substâncias inventariadas resultantes da actividade licenciada;
 
-f) Destino dos produtos;
+f) Planta de implantação das instalações do operador para as actividades previstas no n.º 1 do artigo 45.º, incluindo armazéns ou depósitos das substâncias inventariadas.
 
-g) Localização e descrição gráfica dos estabelecimentos fabris e dos armazéns ou depósitos das matérias-primas e dos produtos produzidos ou fabricados.
+2 - A decisão sobre o pedido de licença é tomada no prazo de 60 dias a contar da data da sua apresentação.
 
-2 - O pedido deve ser acompanhado de certificado do registo criminal dos requerentes e das pessoas referidas na alínea c) e, no caso de pessoa colectiva, dos indivíduos que a podem obrigar.
+3 - O pedido de licença é indeferido se as condições estabelecidas no n.º 1 não estiverem satisfeitas ou se existirem motivos razoáveis para suspeitar que as substâncias inventariadas se destinam ao fabrico ilegal de estupefacientes ou de substâncias psicotrópicas.
 
-3 - O pedido de autorização ou de manutenção de autorização é apresentado na Direcção-Geral da Indústria (DGI) ou na delegação regional competente do Ministério da Indústria e Energia, cabendo a esta providenciar pelo envio imediato do mesmo àquela Direcção-Geral.
-
-4 - As alterações dos elementos a que se referem as alíneas b), c), e), f) e g) do n.º 1 devem ser comunicadas à DGI no prazo de 30 dias.
+4 - Sempre que se verifique qualquer alteração às informações fornecidas em conformidade com o número anterior, o titular da licença deve informar a DGAE, no prazo de 10 dias a contar da data dessa alteração.

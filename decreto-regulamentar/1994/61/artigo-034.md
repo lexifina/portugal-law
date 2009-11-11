@@ -6,4 +6,4 @@
 
 2 - O fornecimento de substâncias ou preparações nos termos do artigo 17.º do Decreto-Lei n.º 15/93 é objecto de registo autónomo, com discriminação da identidade do doente, da dose do fármaco e da data da entrega.
 
-3 - O farmacêutico, no prazo de 10 dias, comunica ao INFARMED os casos de fornecimento efectuado de acordo com o número anterior, identificando-se, bem como ao doente, e indicando os elementos a que se refere o n.º 3 do artigo 27.º
+3 - No prazo de 10 dias, o farmacêutico comunica ao INFARMED os casos de fornecimento efectuado de acordo com o número anterior, identificando-se, bem como ao doente, e indicando os elementos constantes do modelo de receita a que se refere o artigo 27.º

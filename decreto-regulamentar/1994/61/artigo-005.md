@@ -6,7 +6,7 @@
 
 ### Regras gerais
 
-1 - Compete ao presidente do conselho de administração do Instituto Nacional da Farmácia e do Medicamento (INFARMED), com faculdade de delegação nos restantes membros do conselho e em todo o pessoal dirigente do Instituto, proferir os despachos de autorização, revogação ou suspensão das actividades previstas no n.º 1 do artigo 2.º
+1 - Compete ao presidente do conselho de administração do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., com faculdade de delegação nos restantes membros do conselho e em todo o pessoal dirigente do instituto, proferir os despachos de autorização, revogação ou suspensão das actividades previstas no n.º 1 do artigo 2.º, no prazo de 60 dias.
 
 2 - As autorizações só são concedidas se fundamentadas nas necessidades do País, dando prevalência aos interesses de ordem médica, médico-veterinária, científica e didáctica, ressalvadas as excepções previstas nas convenções referidas no artigo 3.º
 

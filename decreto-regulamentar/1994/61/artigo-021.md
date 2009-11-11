@@ -12,6 +12,6 @@ b) A navios mercantes, aeronaves e outros meios de transporte público internaci
 
 3 - As substâncias e preparações detidas não podem exceder as quantidades indispensáveis para a prossecução normal dos fins autorizados.
 
-4 - Observadas as condições gerais, pode ser autorizado o fornecimento ao Serviço de Prevenção e Tratamento da Toxicodependência (SPTT) de substâncias compreendidas na tabela I-A, para tratamento com estupefaciente substituto.
+4 - Observadas as condições gerais, pode ser autorizado o fornecimento ao IDT, I. P., de substâncias compreendidas na tabela i-A para tratamento com estupefaciente substituto.
 
-5 - Só pode ser ministrado tratamento com estupefaciente substituto sob autorização e controlo do SPTT.
+5 - Só pode ser ministrado tratamento com estupefaciente substituto sob autorização e controlo do IDT, I. P.

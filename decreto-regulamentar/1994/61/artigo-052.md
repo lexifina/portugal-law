@@ -1,6 +1,6 @@
 ## Secção II
 
-## Comércio
+## Fiscalização
 
 ## Subsecção I
 
@@ -8,12 +8,18 @@
 
 # Artigo 52.º
 
-### Competência da Direcção-Geral do Comércio
+### Competência da DGAIEC
 
-1 - Compete à Direcção-Geral do Comércio (DGC) emitir a licença que autoriza o exercício da actividade dos operadores que intervenham na importação, exportação, trânsito e colocação no mercado das substâncias classificadas constantes da tabela V.
+1 - Compete à DGAIEC:
 
-2 - Aos operadores autorizados a intervir na colocação no mercado das substâncias classificadas constantes da tabela V é atribuído um número de comercialização.
+a) Emitir a licença para o exercício da actividade dos operadores que intervenham na importação, exportação, actividades intermédias e colocação no mercado das substâncias inventariadas da categoria 1;
 
-3 - Os despachos de concessão, revogação ou suspensão da licença e de indeferimento do pedido, bem como o número de comercialização atribuído pela DGC, são comunicados ao requerente, ao GCDMJ, à IGAE, à DGA e ao INFARMED.
+b) Efectuar o registo dos operadores que intervenham na importação, exportação, actividades intermédias e colocação no mercado das substâncias inventariadas das categorias 2 e 3;
 
-4 - Os despachos de concessão, revogação ou suspensão da licença e de indeferimento são publicados no Diário da República.
+c) Emitir as autorizações de importação e exportação para as substâncias inventariadas das categorias 1, 2 e 3, nos termos da legislação comunitária.
+
+2 - A emissão, a revogação e a suspensão da licença é comunicada à ASAE, ao INFARMED, à PJ e ao IDT, I. P.
+
+3 - (Revogado).
+
+4 - (Revogado).

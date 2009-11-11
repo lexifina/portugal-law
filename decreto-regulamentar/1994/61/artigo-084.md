@@ -1,5 +1,5 @@
 # Artigo 84.º
 
-### Violação da obrigação de colaboração - Tabelas V e VI
+### Violação da obrigação de colaboração
 
-O agente mencionado no artigo 64.º que, nas circunstâncias aí descritas, podendo fazê-lo, não efectuar a notificação das encomendas ou transacções suspeitas quanto a substâncias classificadas inscritas nas tabelas V e VI, susceptíveis de desvio para o mercado ilícito, é punido, por contra-ordenação, com a coima de 50000$00 a 750000$00.
+O incumprimento do disposto no artigo 64.º constitui contra-ordenação, punível com coima de (euro) 1500 a (euro) 3740,98, no caso de pessoas singulares, e de (euro) 3000 a (euro) 44 891,81, no caso de pessoas colectivas.

@@ -20,4 +20,6 @@ e) Nome e quantidade das substâncias e preparações existentes no dia 31 de De
 
 4 - No relatório a que alude o número anterior, se se tratar de ópio bruto ou folhas de coca, indicar-se-á o título em princípios activos.
 
-5 - As farmácias enviam ao INFARMED, no prazo de 15 dias após o termo de cada trimestre, uma cópia do registo a que se refere o n.º 1 do artigo 34.º
+5 - As farmácias enviam ao INFARMED, no prazo de 15 dias após o termo de cada trimestre, uma cópia do registo a que se refere o n.º 1 do artigo 34.º.
+
+6 - As farmácias autorizadas a substituir os livros e registos manuais pelo registo informático podem efectuar o envio referido nos n.os 1 e 5 através de transmissão electrónica de dados, de acordo com requisitos a definir pelo INFARMED.
