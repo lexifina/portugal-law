@@ -1,0 +1,552 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11933",
+  "numero": "4",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2009-11-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2010-01-28",
+            "entidades": null,
+            "id": "87589",
+            "tipo": null,
+            "titulo": "Audição em 2010-01-28 com Peticionários da Petição 4/XI/1ª - Renato Epifanio, António José Borges, Carlos Leone"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2009-12-03",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério da Cultura"
+            ],
+            "nrOficio": "35/CESC/2009",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2010-01-13",
+                "dataResposta": "2010-01-26",
+                "nrOficio": "12/CESC/2010",
+                "oficioResposta": "652/MAP"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2009-12-03",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério dos Negócios Estrangeiros"
+            ],
+            "nrOficio": "35/CESC/2009",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2010-01-13",
+                "dataResposta": "2010-01-26",
+                "nrOficio": "12/CESC/2010",
+                "oficioResposta": "652/MAP"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2009-12-03",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Direcção da Associação Portuguesa de Editores e Livreiros"
+            ],
+            "nrOficio": "36/CESC/2009",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2010-01-13",
+                "dataResposta": "2010-01-22",
+                "nrOficio": "11/CESC/2010",
+                "oficioResposta": "45/2010"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-05-05",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2009-12-02",
+        "DataArquivo": "2010-05-05",
+        "DataBaixaComissao": "2009-12-02",
+        "DataEnvioPAR": "2010-05-05",
+        "DataReaberta": "2009-12-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c7a41354d7a686c4d6a4d7a4c5441354f574d744e4463774f5331694f54466a4c5451324d544179596d46694d5449334d6935775a47593d&fich=0938e233-099c-4709-b91c-46102bab1272.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c7a6b78597a4978595751324c544179595451744e47526b4e4331684e7a42694c57526b5a5442694d5745355a4452685a5335775a47593d&fich=91c21ad6-02a4-4dd4-a70b-dde0b1a9d4ae.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c7a49324f474a6c4e4745324c545931595751744e4446684f4330344e7a49354c546b304f5455314d6a41774d3245325a6935775a47593d&fich=268be4a6-65ad-41a8-8729-949552003a6f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c3259775a6d49314e5756694c544e6b597a4d744e44426d5a433035597a6b354c5751314e44417859574e694d6a42694d5335775a47593d&fich=f0fb55eb-3dc3-40fd-9c99-d5401acb20b1.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c324a69596a55354e7a45354c5751324d4467744e47457a5a5331685a54686c4c5749314e7a41784e7a426a4e4441304d6935775a47593d&fich=bbb59719-d608-4a3e-ae8e-b570170c4042.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-06-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c325179595746684d3245354c5745354f4449744e4745334f5330354f445a6c4c5445774d6a646c4e6d4535596d59354e6935775a47593d&fich=d2aaa3a9-a982-4a79-986e-1027e6a9bf96.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-06-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c3251794f445a695a5745334c574d314e6a63744e47526a596931685a4445794c5449315a6d566c4d57466c4d5755355a5335775a47593d&fich=d286bea7-c567-4dcb-ad12-25fee1ae1e9e.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2876",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Ética, Sociedade e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2009-12-02",
+            "gp": "PSD",
+            "id": "3991",
+            "motivoCessacao": null,
+            "nome": "Nuno Encarnação"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da  Legislatura."
+      }
+    ],
+    "DataDebate": "2010-05-14",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764f4467314d6d45795a5445744d6a63354d5330304d444a6c4c5745314d7a63745a6a51354e324a6b4d6a6b784e444a6c4c6e426b5a673d3d&fich=8852a2e1-2791-402e-a537-f497bd29142e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2010-05-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100514pln&url=l11/sl1/a2010/m05/&tI=01:27:26:860&drc=00:04:27:648"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-15",
+                "pubLeg": "XI",
+                "pubNr": "57",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/057/2010-05-15/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os livros que saíram de circulação não sejam destruídos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100514pln&url=l11/sl1/a2010/m05/&tI=01:32:03:201&drc=00:04:04:114"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-15",
+                "pubLeg": "XI",
+                "pubNr": "57",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/057/2010-05-15/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os livros que saíram de circulação não sejam destruídos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100514pln&url=l11/sl1/a2010/m05/&tI=01:36:16:771&drc=00:03:39:104"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-15",
+                "pubLeg": "XI",
+                "pubNr": "57",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/057/2010-05-15/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os livros que saíram de circulação não sejam destruídos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100514pln&url=l11/sl1/a2010/m05/&tI=01:40:01:921&drc=00:02:16:693"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-15",
+                "pubLeg": "XI",
+                "pubNr": "57",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/057/2010-05-15/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os livros que saíram de circulação não sejam destruídos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100514pln&url=l11/sl1/a2010/m05/&tI=01:42:29:741&drc=00:04:31:363"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-15",
+                "pubLeg": "XI",
+                "pubNr": "57",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/057/2010-05-15/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os livros que saíram de circulação não sejam destruídos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100514pln&url=l11/sl1/a2010/m05/&tI=01:47:07:567&drc=00:02:53:423"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-15",
+                "pubLeg": "XI",
+                "pubNr": "57",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/057/2010-05-15/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os livros que saíram de circulação não sejam destruídos.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11933",
+    "PetAssunto": "Solicitam que os livros que saíram de circulação não sejam destruídos.",
+    "PetDataEntrada": "2009-11-16",
+    "PeticoesAssociadas": null,
+    "PetId": "11933",
+    "PetLeg": "XI",
+    "PetNr": "4",
+    "PetNrAssinaturas": "4280",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "334",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-05-15",
+        "pubLeg": "XI",
+        "pubNr": "57",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/057/2010-05-15?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "507064",
+        "obs": null,
+        "pag": [
+          "6-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-12-05",
+        "pubLeg": "XI",
+        "pubNr": "17",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/017/2009-12-05/6?pgs=6&org=PLC"
+      }
+    ]
+  }
+}
