@@ -1,0 +1,44 @@
+# Informação-Parecer do Conselho Consultivo da Procuradoria-Geral da República n.º 27/2007, de 2009-11-16
+
+**Fonte:** https://www.ministeriopublico.pt/pareceres-pgr/1621
+
+**Número do Parecer:** 27/2007, de 16.11.2009
+
+**Data de Assinatura:** 16-11-2009
+
+**Tipo de Parecer:** Informação-Parecer
+
+**Iniciativa:** Governo
+
+**Entidade:** Ministério dos Negócios Estrangeiros
+
+**Relator:** PEREIRA COUTINHO
+
+## Descritores
+
+CONVENÇÃO INTERNACIONAL
+ONU
+ELIMINAÇÃO
+DISCRIMINAÇÃO CONTRA AS MULHERES
+FINANCIAMENTO DO TERRORISMO
+TRÁFICO DE ESTUPEFACIENTES
+SUBSTÂNCIA PSICOTRÓPICA
+TRÁFICO DE MIGRANTES
+ESTUPEFACIENTES
+PROTOCOLO DE ALTERAÇÃO
+CONVENÇÃO DAS NAÇÕES UNIDAS CONTRA A CRIMINALIDADE ORGANIZADA TRANSNACIONAL
+CONVENÇÃO INTERNACIONAL SOBRE ELIMINAÇÃO DE TODAS AS FORMAS DE DISCRIMINAÇÃO RACIAL
+CONVENÇÃO SOBRE OS DIREITOS DA CRIANÇA
+PACTO INTERNACIONAL DOS DIREITOS CIVIS E POLÍTICOS
+ESTADO DE EMERGÊNCIA
+PROTOCOLO FACULTATIVO REFERENTE AO PACTO INTERNACIONAL SOBRE OS DIREITOS CIVIS E POLÍTICOS
+NOTIFICAÇÃO
+DECLARAÇÕES
+TRADUÇÃO
+
+**Referências Complementares:** DIR INT PUBL * TRATADOS
+
+## Conclusões
+
+SÚMULA P. PARECER
+Tradução de declarações/reservas de Convenções da ONU - Organização das Nações Unidas.
