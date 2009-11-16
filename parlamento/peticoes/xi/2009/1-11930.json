@@ -1,0 +1,502 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11930",
+  "numero": "1",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2009-11-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2009-12-09",
+            "entidades": null,
+            "id": "87369",
+            "tipo": null,
+            "titulo": "Audição em 2009-12-09 com Alfredo Rodrigues, António Jorge Costa, Inês Garcia"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2009-11-25",
+            "dataResposta": "2009-12-18",
+            "entidades": [
+              "Ministra da Educação"
+            ],
+            "nrOficio": "11/8ªCEC/2009",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2009-12-22",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2009-11-25",
+        "DataArquivo": "2009-12-22",
+        "DataBaixaComissao": "2009-11-25",
+        "DataEnvioPAR": "2009-12-22",
+        "DataReaberta": "2009-11-25",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938324f544e684d4751324e433077596a457a4c5451324f4751744f545a6b4e4331685a47566d595449794f474a684e3251756347526d&fich=693a0d64-0b13-468d-96d4-adefa228ba7d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684d474e695a4459305969316a4d57466d4c5451304d5759744f4441334d79316d5a444d314e546b345a6a52694d3245756347526d&fich=a0cbd64b-c1af-441f-8073-fd35598f4b3a.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279387a596a566b4f444d314d43316959544a6c4c5451784f4755744f44526b4e4330324e7a45314d54686a4e6a59304e324d756347526d&fich=3b5d8350-ba2e-418e-84d4-671518c6647c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-05-25",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b4d5467784e4451785a4331694d474e6d4c5451334e575174595451355a69316b4e54597a5a6a49794e6d51784d4441756347526d&fich=d181441d-b0cf-475d-a49f-d563f226d100.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2871",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2009-11-25",
+            "gp": "PS",
+            "id": "728",
+            "motivoCessacao": null,
+            "nome": "Rosalina Martins"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2010-04-08",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764d7a64685a6a6c6d4d6a45744e7a6b774d693030597a4d324c54686859544d744e7a67325a54526a4d44646d4d546b314c6e426b5a673d3d&fich=37af9f21-7902-4c36-8aa3-786e4c07f195.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "35174",
+      "35186",
+      "35187"
+    ],
+    "Iniciativasoriginadas": [
+      "35186",
+      "35187",
+      "35174"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2010-04-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100408pln&url=l11/sl1/a2010/m04/&tI=03:40:42:518&drc=00:03:51:854"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-09",
+                "pubLeg": "XI",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/043/2010-04-09/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a vinculação definitiva dos professores contratados e profissionalizados, com dez ou mais anos de serviço docente prestado no ensino público; Cria o regime de integração excepcional dos docentes contratados; Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Recomenda ao Governo que promova a estabilidade e qualificação do corpo docente nas escolas; Recomenda a integração excepcional dos docentes contratados com mais de 10 anos de serviço.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-04-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100408pln&url=l11/sl1/a2010/m04/&tI=03:44:39:404&drc=00:04:23:760"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175681",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-09",
+                "pubLeg": "XI",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/043/2010-04-09/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a vinculação definitiva dos professores contratados e profissionalizados, com dez ou mais anos de serviço docente prestado no ensino público; Cria o regime de integração excepcional dos docentes contratados; Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Recomenda ao Governo que promova a estabilidade e qualificação do corpo docente nas escolas; Recomenda a integração excepcional dos docentes contratados com mais de 10 anos de serviço.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-04-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100408pln&url=l11/sl1/a2010/m04/&tI=03:49:06:104&drc=00:03:30:756"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-09",
+                "pubLeg": "XI",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/043/2010-04-09/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a vinculação definitiva dos professores contratados e profissionalizados, com dez ou mais anos de serviço docente prestado no ensino público; Cria o regime de integração excepcional dos docentes contratados; Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Recomenda ao Governo que promova a estabilidade e qualificação do corpo docente nas escolas; Recomenda a integração excepcional dos docentes contratados com mais de 10 anos de serviço.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-04-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100408pln&url=l11/sl1/a2010/m04/&tI=03:52:40:859&drc=00:04:51:393"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-09",
+                "pubLeg": "XI",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/043/2010-04-09/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a vinculação definitiva dos professores contratados e profissionalizados, com dez ou mais anos de serviço docente prestado no ensino público; Cria o regime de integração excepcional dos docentes contratados; Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Recomenda ao Governo que promova a estabilidade e qualificação do corpo docente nas escolas; Recomenda a integração excepcional dos docentes contratados com mais de 10 anos de serviço.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-04-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100408pln&url=l11/sl1/a2010/m04/&tI=03:57:35:879&drc=00:04:46:011"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-09",
+                "pubLeg": "XI",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/043/2010-04-09/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a vinculação definitiva dos professores contratados e profissionalizados, com dez ou mais anos de serviço docente prestado no ensino público; Cria o regime de integração excepcional dos docentes contratados; Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Recomenda ao Governo que promova a estabilidade e qualificação do corpo docente nas escolas; Recomenda a integração excepcional dos docentes contratados com mais de 10 anos de serviço.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-04-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100408pln&url=l11/sl1/a2010/m04/&tI=04:02:24:891&drc=00:03:45:643"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175685",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-09",
+                "pubLeg": "XI",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/043/2010-04-09/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a vinculação definitiva dos professores contratados e profissionalizados, com dez ou mais anos de serviço docente prestado no ensino público; Cria o regime de integração excepcional dos docentes contratados; Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Recomenda ao Governo que promova a estabilidade e qualificação do corpo docente nas escolas; Recomenda a integração excepcional dos docentes contratados com mais de 10 anos de serviço.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11930",
+    "PetAssunto": "Solicitam a vinculação definitiva dos professores contratados e profissionalizados, com dez ou mais anos de serviço docente prestado no ensino público.",
+    "PetDataEntrada": "2009-11-16",
+    "PeticoesAssociadas": null,
+    "PetId": "11930",
+    "PetLeg": "XI",
+    "PetNr": "1",
+    "PetNrAssinaturas": "4338",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1395",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-04-09",
+        "pubLeg": "XI",
+        "pubNr": "43",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/043/2010-04-09?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "507062",
+        "obs": null,
+        "pag": [
+          "3-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-12-05",
+        "pubLeg": "XI",
+        "pubNr": "17",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/017/2009-12-05/3?pgs=3-5&org=PLC"
+      }
+    ]
+  }
+}
