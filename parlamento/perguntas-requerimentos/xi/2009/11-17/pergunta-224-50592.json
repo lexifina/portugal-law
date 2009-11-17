@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "50592",
+  "tipo": "Pergunta",
+  "numero": "224",
+  "data_registo": "2009-11-17",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Almoço de homenagem a ex-Secretária de Estado dos Transportes, Engª Ana Paula Vitorino, pago por gestores públicos, em nome de empresas públicas",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "4059",
+        "nome": "Heitor Sousa"
+      }
+    ],
+    "DataEnvio": "2009-11-18",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2009-11-18",
+        "dataProrrogacao": "2010-01-15",
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Presidente do Conselho de Administração da CP - Comboios de Portugal",
+        "prazoProrrogacao": null,
+        "prorrogado": "S",
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-01-15",
+            "docRemetida": null,
+            "entidade": "MIN.  DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764e545535596d517a597a6b744d47457a595330305a4751344c5745354d5751744f4759334d3259304d544a6a59546b314c6e426b5a673d3d&fich=559bd3c9-0a3a-4dd8-a91d-8f73f412ca95.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2009-11-17",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764e445531596a646d5a546374596d51794e793030596a49324c5467774d7a6b74596d45345932557a4e6d59315a574d794c6e426b5a673d3d&fich=455b7fe7-bd27-4b26-8039-ba8ce36f5ec2.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "50592",
+    "Legislatura": "XI",
+    "Nr": "224",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "506490",
+        "obs": null,
+        "pag": [
+          "115-116"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009",
+        "pubLeg": "XI",
+        "pubNr": "11",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/011/2009-11-25/115?pgs=115-116&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
