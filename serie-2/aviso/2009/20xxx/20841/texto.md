@@ -1,0 +1,4 @@
+Aviso n.º 20841/2009
+Manuel Alberto da Silva Pereira, Presidente da Câmara Municipal de Santa Cruz das Flores, torna publico que, para efeitos de apreciação pública, para recolha de sugestões, nos termos do artigo 118.º do Código do procedimento Administrativo, aprovado pelo Decreto -Lei n.º 442/91 de 15 de Novembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 6/99 de 31 de Janeiro se encontram para consulta nos serviços da Câmara Municipal, no horário normal de expediente e, na página electrónica htt://cm-santacruzdasflores.azoresdigital.pt, os Projectos de: Regulamento de Taxas, Tabela de Taxas Municipais Administrativas e Tabela de Taxas Municipais Urbanismo do Município de Santa Cruz das Flores, aprovado pela Câmara Municipal em reunião extraordinária do dia 5 de Novembro de 2009.
+6 de Novembro de 2009. - O Presidente da Câmara, Manuel Alberto da Silva Pereira.
+202575552
