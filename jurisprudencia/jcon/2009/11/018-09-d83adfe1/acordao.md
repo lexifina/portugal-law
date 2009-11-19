@@ -1,0 +1,29 @@
+# Acórdão do Tribunal dos Conflitos de 2009-11-19, processo 018/09
+
+**Acórdãos T CONFLITOS:** Acórdão do Tribunal dos Conflitos
+
+**Processo:** 018/09
+
+**Data do Acordão:** 11/19/2009
+
+**Tribunal:** CONFLITOS
+
+**Relator:** AZEVEDO MOREIRA
+
+**Descritores:** COMPETÊNCIA DOS TRIBUNAIS ADMINISTRATIVOS; COMPETÊNCIA DOS TRIBUNAIS JUDICIAIS
+
+**Nº Convencional:** JSTA000P11154
+
+**Nº do Documento:** SAC20091119018
+
+**Recorrente:** MINISTÉRIO PÚLBICO, NO CONFLITO NEGATIVO DE JURISDIÇÃO ENTRE O TRIBUNAL JUDICIAL DE CINFÃES E O TRIBUNAL ADMINISTRATIVO E FISCAL DE MIRANDELA
+
+**Recorrido 1:** *
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** Conflito nº 18/09; Acordam no Tribunal de Conflitos:; O Digno Magistrado do Ministério Público, ao abrigo do disposto nos arts. 115º, 116º e 117º do Código de Processo Civil (CPC), vem requerer a resolução de um conflito de jurisdição entre o Tribunal Judicial da Comarca de Cinfães (TJCC) e o Tribunal Administrativo e Fiscal de Mirandela (TAFM) que se coloca nos seguintes termos.; A… celebrou com a Empresa de Construções B… um contrato de prestação de serviços de escavações mediante o uso de máquinas retroescavadoras e explosivos.; Esse contrato teve lugar para execução de uma empreitada de obra pública (remodelação de um campo de futebol) adjudicada pelo Município de Alfândega da Fé à empresa acima mencionada.; O referido A… prestou aqueles serviços mas, não tendo recebido a correspondente contrapartida pecuniária, propôs no TJCC, uma acção declarativa contra a empresa de construções e o município para efeito de lhe ser paga essa importância.; Todavia, tendo sido suscitada a excepção dilatória da incompetência do tribunal em razão da matéria, a M.ª Juíza julgou procedente a excepção e, consequentemente, absolveu os réus da instância.; Fundamentou o decidido na circunstância de estar em apreciação um contrato sujeito ao regime jurídico das empreitadas de obras públicas, portanto um contrato administrativo, uma relação jurídico-administrativa cuja discussão contenciosa se insere no âmbito de competência dos Tribunais Administrativos.; Proposta a acção no TAFM, também este Tribunal se declarou incompetente dizendo, em suma, o seguinte:; Nos termos do art. 4º, nº 1, al. f) do ETAF, para que o contrato em causa pudesse ser considerado como administrativo seria necessário que algum dos seus aspectos substantivos estivesse sujeito a um regime jurídico de direito público. O que não acontece no caso presente em que se discute uma relação jurídica entre o empreiteiro e o sub-empreiteiro regulada por normas de direito privado, como, em casos semelhantes, tem decidido o Tribunal de Conflitos.; Decidindo.; Nada há a acrescentar aos mencionados factos respeitantes à determinação da jurisdição competente, os quais não são controvertidos.; A questão resume-se, pois, a saber qual é a ordem jurisdicional competente para dirimir os litígios emergentes de um contrato de sub-empreitada celebrado, no âmbito da execução de um contrato de empreitada de obras públicas, entre o adjudicatário (empreiteiro) e um terceiro (sub-empreiteiro).; A resposta não é acompanhada de qualquer dúvida, foi já dada em várias espécies jurisprudenciais deste mesmo Tribunal e vai no sentido em que se pronunciou o TAFM.; Com efeito, nos termos conjugados dos arts. 4º nº 1 als. e) e f) do ETAF e 178º nº 1 do CPA, incluem-se no âmbito de competência da jurisdição administrativa os contratos que, de algum modo, constituam, modifiquem ou extingam uma relação jurídica administrativa.; No caso em apreço, a relação jurídica qualificável como administrativa foi constituída entre a Empresa de Construções B... e o Município de Alfândega da Fé através do acordo de vontades expresso num contrato de empreitada de obra pública. E essa qualificação deriva, naturalmente, do carácter público do interesse que, a coberto da lei, a autarquia prossegue com a celebração do referido contrato.; Mas esse interesse público subjacente ao contrato administrativo de empreitada não se comunica a qualquer outro acordo de vontades que o contratante privado, na execução da empreitada, estabeleça com um terceiro particular.; Este acordo de vontades, no caso materializado num contrato de subempreitada em que são partes o empreiteiro originário e o subempreiteiro, acordo a que é alheia a entidade pública detentora do ius imperii, rege-se inteiramente por normas de direito privado, não denotando, no seu conteúdo, qualquer elemento juspublicístico (cfr., neste sentido, entre outros, os acs. deste Tribunal de Conflitos de 29.03.2001 e de 10.05.2001 in, respectivamente, procs. nºs 366 e 361 e PIRES DE LIMA e ANTUNES VARELA, Código Civil Anotado vol. 2º p. 879 e 880).; Por conseguinte, não estando em causa no presente pleito qualquer relação jurídica administrativa, nem se vislumbrando no art. 4º do ETAF ou em qualquer outra norma a atribuição específica de competência à jurisdição administrativa para decidir sobre esta matéria, tal competência cabe, por força do disposto no art. 18º nº 1 da Lei de Organização e Funcionamento dos Tribunais Judiciais, a esta ordem judiciária.; Deste modo, acorda-se em resolver o presente conflito atribuindo aos Tribunais Judiciais competência para julgar a presente acção.; Sem custas.; Lisboa, 19 de Novembro de 2009. – Fernando Manuel Azevedo Moreira (relator) – José Adriano Machado Souto de Moura – Rosendo Dias José – Fernanda Martins Xavier e Nunes – António Fernando da Silva Sousa Grandão – Raul Eduardo do Vale Raposo Borges.
+
+## Sumário
+
+Compete aos tribunais judiciais e não aos tribunais administrativos dirimir os litígios emergentes de um contrato de subempreitada celebrado, na execução de uma empreitada de obra pública, entre o empreiteiro originário e um terceiro, uma vez que esse contrato está materialmente submetido a normas de direito privado.
