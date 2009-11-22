@@ -2,8 +2,8 @@
 
 ### Compensação
 
-1 - O ressarcimento do custo das obras coercivas, nos termos do artigo 14.º, e, sendo caso disso, do realojamento temporário dos arrendatários existentes, é feito através do recebimento das rendas.
+1 - O ressarcimento pelas obras executadas pelo município é feito através do recebimento das rendas, com o limite previsto no artigo 14.º
 
-2 - Quando o senhorio o requeira, demonstrando que as rendas são indispensáveis para o sustento do seu agregado familiar ou para a sustentabilidade económica da pessoa coletiva, a entidade promotora das obras coercivas pode autorizar o levantamento de 50 % do valor dos depósitos da renda vigente aquando do início das obras, acrescida das atualizações ordinárias anuais, revertendo o restante para a entidade promotora das obras coercivas.
+2 - O senhorio pode levantar os depósitos no valor correspondente a 50% da renda vigente aquando do início das obras, acrescida das actualizações ordinárias anuais, revertendo o restante para o município.
 
-3 - A autorização referida no número anterior é emitida no prazo de 10 dias após a apresentação do requerimento, acompanhado dos elementos de prova necessários.
+3 - No prazo de 10 dias após ter sido requerida pelo senhorio, o município emite declaração para os efeitos referidos no número anterior.

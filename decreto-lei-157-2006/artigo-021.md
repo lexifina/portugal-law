@@ -12,10 +12,8 @@ b) O auto é assinado pelo funcionário que o lavrar e pelo possuidor dos bens, 
 
 c) Ao acto de arrolamento assiste o possuidor ou detentor dos bens, sempre que queira e esteja no local ou seja possível chamá-lo, podendo fazer-se representar por mandatário judicial;
 
-d) Os bens arrolados ficam depositados à guarda da entidade promotora das obras coercivas e são entregues ao respetivo dono, a requerimento deste, sem prejuízo de só poderem ser repostos no fogo despejando após a conclusão das respetivas obras;
+d) Os bens arrolados ficam depositados à guarda do município e são entregues ao arrendatário a requerimento deste, sem prejuízo de só poderem ser repostos no fogo despejando após a conclusão das respectivas obras;
 
 e) São aplicáveis ao arrolamento as disposições relativas à penhora, com as devidas adaptações, em tudo que não contrarie o estabelecido neste artigo.
 
-3 - O arrendatário é responsável pelas despesas resultantes do despejo.
-
-4 - O dono dos bens é responsável pelas despesas resultantes do depósito e arrolamento daqueles.
+3 - O arrendatário é responsável pelas despesas resultantes do despejo, depósito e arrolamento dos bens.

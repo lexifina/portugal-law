@@ -1,9 +1,5 @@
 ## Secção IV
 
-## Disposições sancionatórias
-
-## Secção V
-
 ## Disposições finais e transitórias
 
 # Artigo 47.º

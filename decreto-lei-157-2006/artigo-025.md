@@ -1,27 +1,17 @@
 # Artigo 25.º
 
-### Denúncia do contrato com arrendatário com idade igual ou superior a 65 anos ou com deficiência com grau de incapacidade igual ou superior a 60 %
+### Denúncia no arrendamento para habitação
 
-1 - À denúncia do contrato de duração indeterminada para demolição ou realização de obra de remodelação ou restauro profundos, nos termos da alínea b) do artigo 1101.º do Código Civil, quando o arrendatário tiver idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade igual ou superior a 60 %, aplica-se o disposto no artigo 6.º, sem prejuízo do disposto no número seguinte.
+1 - Em caso de denúncia do contrato de arrendamento para realização de obras de remodelação ou restauro profundo ou para demolição do prédio, que ocorre mediante acção judicial, o arrendatário habitacional tem o direito de ser realojado, devendo na petição inicial da acção ser indicado o local destinado ao realojamento e a respectiva renda.
 
-2 - O realojamento previsto na alínea b) do n.º 1 do artigo 6.º dá lugar à celebração de novo contrato por duração indeterminada, não sendo aplicável o disposto na alínea c) do artigo 1101.º do Código Civil.
+2 - O direito ao realojamento do arrendatário referido no número anterior implica que o realojamento ocorra no mesmo concelho e em condições análogas às que o arrendatário já detinha, não podendo o local a tal destinado encontrar-se em estado de conservação mau ou péssimo.
 
-3 - À renda a pagar pelo novo contrato de arrendamento é aplicável, com as necessárias adaptações, o disposto nas alíneas a) e b) do n.º 2 do artigo 35.º do NRAU, sem prejuízo do disposto no número seguinte.
+3 - Na contestação da acção judicial de denúncia do contrato de arrendamento, o arrendatário pode invocar as circunstâncias previstas nas alíneas a) e b) do n.º 3 do artigo 37.º do NRAU.
 
-4 - Se o arrendatário invocar e comprovar que o RABC do seu agregado familiar é inferior a cinco RMNA, aplica-se para efeitos do valor da renda a que se refere o número anterior o disposto no n.º 7, na alínea a) do n.º 9 e no n.º 10 do artigo 36.º do NRAU.
+4 - Na contestação da acção judicial de denúncia do contrato de arrendamento, o arrendatário pode igualmente optar entre o realojamento, nos termos do presente artigo, e o recebimento da indemnização prevista no n.º 2 do artigo 6.º, a qual tem por limite mínimo o valor correspondente a 24 vezes a retribuição mínima mensal garantida.
 
-5 - (Revogado.)
+5 - A sentença da acção judicial referida no n.º 1 fixa o prazo para a celebração de novo contrato de arrendamento, a renda a pagar pelo novo alojamento, a qual é determinada nos termos do artigo 31.º do NRAU, bem como o faseamento aplicável, nos termos dos artigos 38.º e seguintes do mesmo regime.
 
-6 - (Revogado.)
+6 - Após a sentença referida no número anterior deve ser celebrado novo contrato de arrendamento, nos termos do n.º 2.
 
-7 - (Revogado.)
-
-8 - (Revogado.)
-
-9 - (Revogado.)
-
-10 - (Revogado.)
-
-11 - (Revogado.)
-
-12 - (Revogado).
+7 - A morte do arrendatário realojado é causa de caducidade do contrato de arrendamento referido no número anterior, devendo o locado ser restituído no prazo de seis meses a contar do decesso.
