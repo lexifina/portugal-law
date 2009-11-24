@@ -1,0 +1,534 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11937",
+  "numero": "8",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2009-11-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-02-19",
+            "dataResposta": "2010-03-18",
+            "entidades": [
+              "Ministério dos Negócios Estrangeiros"
+            ],
+            "nrOficio": "43/CNECP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d6b4e4f52554e514c305276593356745a57353062334e515a585270593246764c3251355a574e6a5a5745344c5749315a4749744e446b304d5330345a444d314c546b775954466a4d4455794e6a59784f5335775a47593d&fich=d9eccea8-b5db-4941-8d35-90a1c0526619.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-04-27",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2009-12-21",
+        "DataArquivo": "2010-04-27",
+        "DataBaixaComissao": "2009-12-21",
+        "DataEnvioPAR": "2010-04-30",
+        "DataReaberta": "2009-12-21",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d6b4e4f52554e514c305276593356745a57353062334e515a585270593246764c7a466c59325a68593251354c5749784e5751744e4463774f5331695a574e6c4c574d354d4456685a4445314d7a417a4e7935775a47593d&fich=1ecfacd9-b15d-4709-bece-c905ad153037.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-05-07",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d6b4e4f52554e514c305276593356745a57353062334e515a585270593246764c3251355a574e6a5a5745344c5749315a4749744e446b304d5330345a444d314c546b775954466a4d4455794e6a59784f5335775a47593d&fich=d9eccea8-b5db-4941-8d35-90a1c0526619.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d6b4e4f52554e514c305276593356745a57353062334e515a585270593246764c7a67314d325a694e7a41794c5752685a4441744e4451784d4331684f5455354c5749774d6a45314e44646c597a5a6d5a4335775a47593d&fich=853fb702-dad0-4410-a959-b021547ec6fd.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d6b4e4f52554e514c305276593356745a57353062334e515a585270593246764c7a4d304d6d49784d474d324c5751304f4445744e4445314e7930344d5467304c5441344e4445784e5467794e546b31597935775a47593d&fich=342b10c6-d481-4157-8184-08411582595c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-06-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d6b4e4f52554e514c305276593356745a57353062334e515a585270593246764c3255334e574a6a4e4451334c574a6b4d3245744e475a6d4f533169596a426d4c544a684d6d51345954597a4d474d324e6935775a47593d&fich=e75bc447-bd3a-4ff9-bb0f-2a2d8a630c66.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2865",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2009-12-21",
+            "gp": "PS",
+            "id": "1164",
+            "motivoCessacao": null,
+            "nome": "Miguel Coelho"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2010-05-05",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764f5752694d7a526b596a55744f4755774e7930304d5455304c574535593251744d7a4e6a4e32526a5a6a566c4e5452694c6e426b5a673d3d&fich=9db34db5-8e07-4154-a9cd-33c7dcf5e54b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "35064",
+      "35067"
+    ],
+    "Iniciativasoriginadas": [
+      "35064",
+      "35067"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2010-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100505pln&url=l11/sl1/a2010/m05/&tI=03:34:13:720&drc=00:02:50:873"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100505pln&url=l11/sl1/a2010/m05/&tI=03:57:12:946&drc=00:01:36:682"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": "S.E. DOS ASSUNTOS EUROPEUS",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Lourtie"
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62",
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-06",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/053/2010-05-06/61?pgs=61-62,67-68&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o Acordo que Modifica o Acordo Laboral Integrado no Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América, assinado a 1 de Junho de 1995, assinado em Lisboa, a 11 de Julho de 2009; Aprova o Acordo que Modifica o Regulamento do Trabalho, assinado a 12 de Fevereiro de 1997, assinado em Lisboa, a 11 de Julho de 2009, que decorre do Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América; Visa impedir qualquer alteração ao Acordo Laboral (Base das Lajes) vigente que prejudique os trabalhadores portugueses, designadamente ao nível da actualização salarial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100505pln&url=l11/sl1/a2010/m05/&tI=03:37:05:717&drc=00:02:53:082"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100505pln&url=l11/sl1/a2010/m05/&tI=03:53:34:790&drc=00:01:20:046"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63",
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-06",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/053/2010-05-06/62?pgs=62-63,66-67&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o Acordo que Modifica o Acordo Laboral Integrado no Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América, assinado a 1 de Junho de 1995, assinado em Lisboa, a 11 de Julho de 2009; Aprova o Acordo que Modifica o Regulamento do Trabalho, assinado a 12 de Fevereiro de 1997, assinado em Lisboa, a 11 de Julho de 2009, que decorre do Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América; Visa impedir qualquer alteração ao Acordo Laboral (Base das Lajes) vigente que prejudique os trabalhadores portugueses, designadamente ao nível da actualização salarial.",
+            "Teor": "Responde a pedidos de esclarecimento dos deputados Pedro mota Soares (CDS-PP), Miguel Coelho (PS), José Manuel Pureza (BE) e António Filipe (PCP)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100505pln&url=l11/sl1/a2010/m05/&tI=03:40:04:514&drc=00:03:45:766"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176027",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-06",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/053/2010-05-06/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o Acordo que Modifica o Acordo Laboral Integrado no Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América, assinado a 1 de Junho de 1995, assinado em Lisboa, a 11 de Julho de 2009; Aprova o Acordo que Modifica o Regulamento do Trabalho, assinado a 12 de Fevereiro de 1997, assinado em Lisboa, a 11 de Julho de 2009, que decorre do Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América; Visa impedir qualquer alteração ao Acordo Laboral (Base das Lajes) vigente que prejudique os trabalhadores portugueses, designadamente ao nível da actualização salarial.",
+            "Teor": "Ao deputado Almeida Henriques (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100505pln&url=l11/sl1/a2010/m05/&tI=03:43:52:377&drc=00:02:36:880"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176028",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-06",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/053/2010-05-06/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o Acordo que Modifica o Acordo Laboral Integrado no Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América, assinado a 1 de Junho de 1995, assinado em Lisboa, a 11 de Julho de 2009; Aprova o Acordo que Modifica o Regulamento do Trabalho, assinado a 12 de Fevereiro de 1997, assinado em Lisboa, a 11 de Julho de 2009, que decorre do Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América; Visa impedir qualquer alteração ao Acordo Laboral (Base das Lajes) vigente que prejudique os trabalhadores portugueses, designadamente ao nível da actualização salarial.",
+            "Teor": "Ao deputado Almeida Henriques (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100505pln&url=l11/sl1/a2010/m05/&tI=03:46:31:820&drc=00:02:53:869"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176029",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-06",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/053/2010-05-06/65?pgs=65&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o Acordo que Modifica o Acordo Laboral Integrado no Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América, assinado a 1 de Junho de 1995, assinado em Lisboa, a 11 de Julho de 2009; Aprova o Acordo que Modifica o Regulamento do Trabalho, assinado a 12 de Fevereiro de 1997, assinado em Lisboa, a 11 de Julho de 2009, que decorre do Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América; Visa impedir qualquer alteração ao Acordo Laboral (Base das Lajes) vigente que prejudique os trabalhadores portugueses, designadamente ao nível da actualização salarial.",
+            "Teor": "Ao deputado Almeida Henriques (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100505pln&url=l11/sl1/a2010/m05/&tI=03:49:29:918&drc=00:03:51:082"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176030",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-06",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/053/2010-05-06/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o Acordo que Modifica o Acordo Laboral Integrado no Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América, assinado a 1 de Junho de 1995, assinado em Lisboa, a 11 de Julho de 2009; Aprova o Acordo que Modifica o Regulamento do Trabalho, assinado a 12 de Fevereiro de 1997, assinado em Lisboa, a 11 de Julho de 2009, que decorre do Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América; Visa impedir qualquer alteração ao Acordo Laboral (Base das Lajes) vigente que prejudique os trabalhadores portugueses, designadamente ao nível da actualização salarial.",
+            "Teor": "Ao deputado Almeida Henriques (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100505pln&url=l11/sl1/a2010/m05/&tI=03:55:03:469&drc=00:02:05:416"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176031",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-06",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/053/2010-05-06/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o Acordo que Modifica o Acordo Laboral Integrado no Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América, assinado a 1 de Junho de 1995, assinado em Lisboa, a 11 de Julho de 2009; Aprova o Acordo que Modifica o Regulamento do Trabalho, assinado a 12 de Fevereiro de 1997, assinado em Lisboa, a 11 de Julho de 2009, que decorre do Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América; Visa impedir qualquer alteração ao Acordo Laboral (Base das Lajes) vigente que prejudique os trabalhadores portugueses, designadamente ao nível da actualização salarial.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11937",
+    "PetAssunto": "Visa impedir qualquer alteração ao Acordo Laboral (Base das Lajes) vigente que prejudique os trabalhadores portugueses, designadamente ao nível da actualização salarial.",
+    "PetDataEntrada": "2009-11-24",
+    "PeticoesAssociadas": null,
+    "PetId": "11937",
+    "PetLeg": "XI",
+    "PetNr": "8",
+    "PetNrAssinaturas": "427",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1403",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-05-06",
+        "pubLeg": "XI",
+        "pubNr": "53",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/053/2010-05-06?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
