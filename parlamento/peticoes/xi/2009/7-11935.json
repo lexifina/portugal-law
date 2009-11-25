@@ -1,0 +1,476 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11935",
+  "numero": "7",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2009-11-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2010-07-13",
+            "entidades": null,
+            "id": "88913",
+            "tipo": null,
+            "titulo": "Audição em 2010-07-13 com Senhor Paulo Jorge dos Santos Lameiro"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-05-31",
+            "dataResposta": "2011-01-05",
+            "entidades": [
+              "Ministro das Obras Públicas, Transportes e Comunicações"
+            ],
+            "nrOficio": "66/COPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-05-31",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra do Ambiente e do Ordenamento do Território"
+            ],
+            "nrOficio": "67/COPTC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-01-05",
+        "DataArquivo": "2011-03-31",
+        "DataBaixaComissao": "2010-01-05",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2010-01-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c3252694e7a59784d47597a4c545979595441744e445534596931694e6a52694c546b774d5459314d324a6c596a6b325a4335775a47593d&fich=db7610f3-62a0-458b-b64b-901653beb96d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-06-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a6b784e3259315a6a566c4c5759344f5463744e44526c4d7931684d7a67344c544d344e7a41794e54566a4d6d4d7a4d4335775a47593d&fich=917f5f5e-f897-44e3-a388-3870255c2c30.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-07-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a55324e7a566d4e3249304c54686b4f5463744e4745314d4330345a5751784c54566b5a6a4d304e6a4d325a445930595335775a47593d&fich=5675f7b4-8d97-4a50-8ed1-5df34636d64a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a63314d5441774f4463794c5449785a446b744e445a6a596930354e6a566c4c574a6c59575133593251304f44526a4f4335775a47593d&fich=75100872-21d9-46cb-965e-bead7cd484c8.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-04-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c32526b596d51324f4755344c575a6d5a4451744e4452694d6930354d5455794c54426c5a54646b595445335a575668596935775a47593d&fich=ddbd68e8-ffd4-44b2-9152-0ee7da17eeab.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-01-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a4934596a51314e6a686b4c545a6c4e5451744e4749794d4330344e7a49794c5751334d32597a4e7a646c59575932597935775a47593d&fich=28b4568d-6e54-4b20-8722-d73f377eaf6c.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2872",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-04-20",
+            "gp": "PS",
+            "id": "2215",
+            "motivoCessacao": null,
+            "nome": "Nuno Sá"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2011-07-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764e7a4e684e444d354d54457459325531595330304d3259354c5749324d474574595752694d574a6c4d7a5130595451794c6e426b5a673d3d&fich=73a43911-ce5a-43f9-b60a-adb1be344a42.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "36342"
+    ],
+    "Iniciativasoriginadas": [
+      "36342"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-07-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180636",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-22",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/006/2011-07-22/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a alteração ao traçado do IC36 de modo a prevenir a divisão da freguesia de Pousos, concelho de Leiria; Contestam o projecto do traçado do IC36 previsto para o lugar de Pousos, Leiria, propondo uma alternativa de passagem em túnel.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-07-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180637",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-22",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/006/2011-07-22/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a alteração ao traçado do IC36 de modo a prevenir a divisão da freguesia de Pousos, concelho de Leiria; Contestam o projecto do traçado do IC36 previsto para o lugar de Pousos, Leiria, propondo uma alternativa de passagem em túnel.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-07-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-22",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/006/2011-07-22/48?pgs=48&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a alteração ao traçado do IC36 de modo a prevenir a divisão da freguesia de Pousos, concelho de Leiria; Contestam o projecto do traçado do IC36 previsto para o lugar de Pousos, Leiria, propondo uma alternativa de passagem em túnel.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-07-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180639",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-22",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/006/2011-07-22/49?pgs=49&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a alteração ao traçado do IC36 de modo a prevenir a divisão da freguesia de Pousos, concelho de Leiria; Contestam o projecto do traçado do IC36 previsto para o lugar de Pousos, Leiria, propondo uma alternativa de passagem em túnel.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-07-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180640",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-22",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/006/2011-07-22/50?pgs=50&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a alteração ao traçado do IC36 de modo a prevenir a divisão da freguesia de Pousos, concelho de Leiria; Contestam o projecto do traçado do IC36 previsto para o lugar de Pousos, Leiria, propondo uma alternativa de passagem em túnel.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-07-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180641",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-22",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/006/2011-07-22/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a alteração ao traçado do IC36 de modo a prevenir a divisão da freguesia de Pousos, concelho de Leiria; Contestam o projecto do traçado do IC36 previsto para o lugar de Pousos, Leiria, propondo uma alternativa de passagem em túnel.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11935",
+    "PetAssunto": "Contestam o projecto do traçado do IC36 previsto para o lugar de Pousos, Leiria, propondo uma alternativa de passagem em túnel.",
+    "PetDataEntrada": "2009-11-25",
+    "PeticoesAssociadas": null,
+    "PetId": "11935",
+    "PetLeg": "XI",
+    "PetNr": "7",
+    "PetNrAssinaturas": "5714",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "357",
+        "obs": null,
+        "pag": [
+          "46-51"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-07-22",
+        "pubLeg": "XII",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/006/2011-07-22/46?pgs=46-51&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
