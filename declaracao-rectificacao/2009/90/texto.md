@@ -1,0 +1,7 @@
+Declaração de Rectificação n.º 90/2009
+Ao abrigo da alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que o Decreto-Lei n.º 264/2009, de 28 de Setembro, publicado no Diário da República, 1.ª série, n.º 188, de 28 de Setembro de 2009, saiu com a seguinte inexactidão que, mediante declaração da entidade emitente, assim se rectifica.
+No n.º 12 do artigo 19.º do anexo, «Republicação do Decreto-Lei n.º 151-A/2000, de 20 de Julho», onde se lê:
+«12 - Ficam isentas do pagamento da taxa referida no n.º 1, associada à exploração das redes e estações dos serviços móvel marítimo e de radiodeterminação que suportam o 'Sistema Nacional de Controlo de Tráfego Marítimo' (Vessel Traffic System - VTS), a Autoridade Nacional de Controlo de Tráfego Marítimo (ANCTM) é a entidade que, de acordo com o disposto nos respectivos Estatutos, apoiar a ANTCM na prossecução das suas atribuições.»
+deve ler-se:
+«12 - Ficam isentas do pagamento da taxa referida no n.º 1, associada à exploração das redes e estações dos serviços móvel marítimo e de radiodeterminação que suportam o 'Sistema Nacional de Controlo de Tráfego Marítimo' (Vessel Traffic System - VTS), a Autoridade Nacional de Controlo de Tráfego Marítimo (ANCTM) e a entidade que, de acordo com o disposto nos respectivos Estatutos, apoiar a ANCTM na prossecução das suas atribuições.»
+Centro Jurídico, 19 de Novembro de 2009. - A Directora, Susana de Meneses Brasil de Brito.
