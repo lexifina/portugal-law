@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "50741",
+  "tipo": "Pergunta",
+  "numero": "363",
+  "data_registo": "2009-11-26",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Solicita informações relativamente à área consular de Berlim",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "77",
+        "nome": "José Cesário"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2104",
+        "nome": "Carlos Páscoa Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1458",
+        "nome": "Carlos Alberto Gonçalves"
+      }
+    ],
+    "DataEnvio": "2009-11-27",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2009-11-27",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DE ESTADO E DOS NEGÓCIOS ESTRANGEIROS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-02-10",
+            "docRemetida": null,
+            "entidade": "MIN. DE ESTADO E DOS NEGÓCIOS ESTRANGEIROS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764f44517a4e7a6b324d6d55744d6d4d7a4e6930304f4463354c5467304f4755744e3249774e54426b597a41784e6a4a694c6e426b5a673d3d&fich=8437962e-2c36-4879-848e-7b050dc0162b.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2009-11-26",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764f5464694e5745325a5759744d7a59334e6930304d7a4a6c4c54686a4f4451745a5451355a6a55314d6a63304f47597a4c6e426b5a673d3d&fich=97b5a6ef-3676-432e-8c84-e49f552748f3.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "50741",
+    "Legislatura": "XI",
+    "Nr": "363",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "505421",
+        "obs": null,
+        "pag": [
+          "70-71"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009",
+        "pubLeg": "XI",
+        "pubNr": "13",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/013/2009-11-27/70?pgs=70-71&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
