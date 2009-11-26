@@ -1,0 +1,11 @@
+Aviso n.º 21481/2009
+Plano de Pormenor do Parque Ribatejo Alverca
+Prorrogação do período de discussão pública
+Maria da Luz Gameiro Beja Ferreira Rosinha, Presidente da Câmara Municipal de Vila Franca de Xira, torna público que a Câmara Municipal de Vila Franca de Xira, em reunião ordinária e pública realizada a 18 de Novembro de 2009, deliberou aprovar a prorrogação do período de discussão pública da proposta de Plano de Pormenor do Parque Ribatejo Alverca, na freguesia de Alverca do Ribatejo, até ao dia 5 de Janeiro de 2010, o qual teve início 5 dias após a publicação do Aviso n.º 19074/2009, na 2.ª série do Diário da República, n.º 207, de 26 de Outubro de 2009, nos termos dos n.os 3 e 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelos Decretos-Lei n.º 316/2007, de 19 de Setembro, n.º 46/2009, de 20 de Fevereiro e n.º 181/2009, de 7 de Agosto.
+Os documentos integrantes da proposta de Plano de Pormenor do Parque Ribatejo, incluindo o Relatório de Avaliação Ambiental Estratégica, a acta de conferência decisória e todos os pareceres finais das entidades consultadas estarão patentes nos seguintes locais, durante a hora normal de expediente:
+a) Câmara Municipal de Vila Franca de Xira - Departamento de Planeamento, Gestão e Qualificação Urbana, sito na Travessa do Curral, n.º 24 - 2600-134 Vila Franca de Xira;
+b) Junta de Freguesia de Alverca do Ribatejo, sita na Rua Dr. Miguel Bombarda, n.º 23 - 2615-125 Alverca do Ribatejo.
+No decurso do período de discussão pública os interessados devem apresentar por escrito as suas reclamações, observações, sugestões ou pedidos de esclarecimentos, sobre quaisquer questões do âmbito da referida proposta, dirigidas à Sr.ª Presidente da Câmara Municipal, Praça Afonso de Albuquerque, n.º 2 - 2900-093 Vila Franca de Xira.
+Para constar e devidos efeitos se publica o presente Aviso na 2.ª série do Diário da República, sendo também afixado nos lugares públicos do costume, em dois jornais diários, num semanário de grande expansão nacional, nos jornais de expansão local e no site do Município.
+Paços do Município de Vila Franca de Xira, 19 de Novembro de 2009. - A Presidente da Câmara Municipal, Maria da Luz Rosinha.
+202607911
