@@ -1,0 +1,6 @@
+Aviso n.º 21654/2009
+Prorrogação da suspensão parcial do Plano Director Municipal de Chamusca e das medidas preventivas
+Sérgio Morais da Conceição Carrinho, Presidente da Câmara Municipal de Chamusca, faz público, que sob proposta da Câmara Municipal, a Assembleia Municipal de Chamusca, na sua reunião extraordinária de 20 de Novembro de 2009, deliberou prorrogar por mais um ano, o prazo de vigência da suspensão parcial do Plano Director Municipal de Chamusca e das medidas preventivas estabelecidas para uma área de aproximadamente 7 ha, sita no Casal do Relvão, freguesia de Carregueira, ambas ratificadas pela Resolução de Conselho de Ministros n.º 168/2007, publicadas no Diário da República, 1.º série, n.º 202, de 19 de Outubro de 2007.
+Nos termos do disposto no n.º 9 do artigo 112.º do Decreto-Lei n.º 380/99 de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 46/2009 de 20 de Fevereiro, a prorrogação das medidas preventivas segue o procedimento previsto no referido decreto-lei para o seu estabelecimento, produzindo os seus efeitos a partir de 19 de Outubro de 2009.
+Chamusca, 24 de Novembro de 2009. - O Presidente da Câmara, Sérgio Morais da Conceição Carrinho.
+202624095
