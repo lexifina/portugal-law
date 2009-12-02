@@ -1,0 +1,5 @@
+Aviso n.º 121/2009
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros da República Italiana notificou por nota verbal de 13 de Novembro de 2009 ter sido depositado pela República Checa, em 13 de Novembro de 2009, o instrumento de ratificação do «Tratado de Lisboa que altera o Tratado da União Europeia e o Tratado que institui a Comunidade Europeia», assinado em Lisboa em 13 de Dezembro de 2007, completando-se assim o depósito dos instrumentos de ratificação dos Estados membros signatários do Tratado de Lisboa.
+Portugal é Parte neste Tratado, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 19/2008 e ratificado pelo Decreto do Presidente da República n.º 31/2008, ambos publicados no Diário da República, 1.ª série, n.º 96, de 19 de Maio de 2008, tendo depositado o seu instrumento de ratificação em 17 de Junho de 2008.
+Nos termos do artigo 6.º, n.º 2, o Tratado entra em vigor em 1 de Dezembro de 2009.
+Direcção-Geral dos Assuntos Europeus, 18 de Novembro de 2009. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
