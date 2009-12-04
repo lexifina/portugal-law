@@ -1,0 +1,7 @@
+Aviso n.º 21902/2009
+Augusto Fernando Andrade, presidente da Câmara Municipal de Aguiar da Beira:
+Torna público no uso da competência referida na alínea u) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de Setembro, republicada pela alínea v) do n.º 1 do artigo 68.º da Lei n.º 5-A/2002, de 11 de Janeiro, que a Câmara Municipal em reunião extraordinária do dia 23 do corrente mês, deliberou aprovar o "Projecto de regulamento das taxas municipais", incluindo a tabela de taxas e a fundamentação económico - financeira das mesmas, que dele fazem parte integrante, no sentido de submeter o mesmo à apreciação pública e discussão pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data da publicação do presente aviso no Diário da República, para cumprimento do disposto no artigo 118.º do Código de Procedimento Administrativo.
+Os documentos acima referenciados encontram-se expostos, para efeitos de consulta e recolha de sugestões de todos os interessados, nos serviços de atendimento ao público da Câmara Municipal de Aguiar da Beira, onde poderão ser consultados todos os dias úteis, das 9:00 às 16:00 horas, bem como no sítio do Município na Internet (www.cm-aguiardabeira.pt) e vão ser publicados em separata no Boletim Municipal da Autarquia.
+As sugestões deverão ser formuladas por escrito e enviadas à Câmara Municipal de Aguiar da Beira até às 16:00 do último dia do prazo acima referido.
+Paços do Município de Aguiar da Beira, 23 de Novembro de 2009. - O Presidente da Câmara, Augusto Fernando Andrade.
+302624021
