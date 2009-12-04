@@ -1,0 +1,6 @@
+Aviso n.º 21929/2009
+Manuel Avelar Cunha Santos, Presidente da Câmara Municipal de Santa Cruz da Graciosa: Torna público, para cumprimento do preceituado no n.º 2 do artigo 118.º do Código do Procedimento Administrativo, e dando execução ao deliberado por esta Câmara Municipal em sua reunião realizada no dia 19/11/2009, que, a partir da publicação do presente Aviso no Diário da República, 2.ª série e pelo prazo de 30 dias, está em apreciação pública nesta Câmara Municipal, o projecto de Regulamento e Tabela de Taxas Municipais para posterior sujeição ao Órgão Deliberativo.
+Mais faz saber que os documentos acima referenciados encontram-se expostos para efeitos de recolha de sugestões de todos os interessados nos Serviços de Atendimento ao Público da Câmara Municipal, onde poderão ser consultados, todos os dias úteis, das 9:00 às 16:00, bem como no sítio do Município de Santa Cruz da Graciosa na Internet (www.cm-graciosa.pt).
+As sugestões deverão ser formuladas, por escrito, e enviadas à Câmara Municipal, dirigidas ao seu Presidente, até às 16:00 horas do último dia do prazo acima referido.
+Santa Cruz da Graciosa, 20 de Novembro de 2009. - O Presidente da Câmara Municipal, Manuel Avelar Cunha Santos.
+302622361
