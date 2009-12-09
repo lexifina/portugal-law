@@ -1,0 +1,6 @@
+Aviso n.º 22085/2009
+José António Marcos Soares, Vereador da Câmara Municipal da Madalena do Pico torna público, ao abrigo da competência que lhe foi delegada e conferida pela alínea v) do n.º 1 do artigo 68.º da lei n.º 169/99, de 18 de Setembro, na redacção dada pela Lei n.º 5-A/2002, de 11 de Janeiro, que a Câmara Municipal, na sua reunião realizada no dia 19 de Novembro de 2009, deliberou aprovar o "Projecto de Regulamento do Cartão Jovem Municipal", no sentido de submeter o mesmo à apreciação pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data da publicação do presente aviso, para cumprimento do disposto no artigo 118.º do Código de Procedimento Administrativo.
+O documento acima referenciado encontra-se exposto para efeitos de consulta e recolha de sugestões de todos os interessados, nos Serviços de atendimento ao público da Câmara Municipal da Madalena, onde poderão ser consultados todos os dias úteis das 09:00h às 16:00h, bem como no sítio do Município na Internet (www.cm-madalena.pt).
+As sugestões deverão ser formuladas por escrito e enviadas à Câmara Municipal até às 16:00h do último dia do prazo acima referido.
+20 de Novembro de 2009. - O Vereador com Competências Delegadas, José António Marcos Soares.
+302615444
