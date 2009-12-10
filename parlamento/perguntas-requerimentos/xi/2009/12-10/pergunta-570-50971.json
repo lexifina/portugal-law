@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "50971",
+  "tipo": "Pergunta",
+  "numero": "570",
+  "data_registo": "2009-12-10",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Condições de trabalho na nova empresa da Portucel - Concelho de Setúbal, Distrito de Setúbal",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "4197",
+        "nome": "Paula Santos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2077",
+        "nome": "Francisco Lopes"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1715",
+        "nome": "Bruno Dias"
+      }
+    ],
+    "DataEnvio": "2009-12-11",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2009-12-11",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DO TRABALHO E DA SOLIDARIEDADE SOCIAL",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-01-11",
+            "docRemetida": null,
+            "entidade": "MIN. DO TRABALHO E DA SOLIDARIEDADE SOCIAL",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764e544579596d51335a4745744e5445785a5330305a57566d4c57466c4e7a45745a6d4e6a5a544d335a6a6b795a6a41784c6e426b5a673d3d&fich=512bd7da-511e-4eef-ae71-fcce37f92f01.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2009-12-10",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d7a4131597a4d794e4459744d4745334d533030595749344c5745314f4749745a6d466c4e47466c59324d784e6a49784c6e426b5a673d3d&fich=305c3246-0a71-4ab8-a58b-fae4aecc1621.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "50971",
+    "Legislatura": "XI",
+    "Nr": "570",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "508056",
+        "obs": null,
+        "pag": [
+          "110-111"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009",
+        "pubLeg": "XI",
+        "pubNr": "22",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/022/2009-12-14/110?pgs=110-111&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
