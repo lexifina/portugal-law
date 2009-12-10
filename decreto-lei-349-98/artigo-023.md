@@ -4,7 +4,7 @@
 
 1 - Os empréstimos serão garantidos por hipoteca da habitação adquirida, construída ou objecto das obras financiadas, incluindo o terreno.
 
-2 - Em reforço da garantia prevista no número anterior, poderá ser constituído seguro de vida, do mutuário e cônjuge, de valor não inferior ao montante do empréstimo, ou outras garantias consideradas adequadas ao risco do empréstimo pela instituição de crédito mutuante.
+2 - Em reforço da garantia prevista no número anterior, pode ser constituído seguro de vida do mutuário e cônjuge ou outras garantias consideradas adequadas ao risco do empréstimo pela instituição de crédito mutuante.
 
 3 - No regime geral de crédito, a garantia hipotecária a que se refere o n.º 1 pode ser substituída, parcial ou totalmente, por hipoteca de outro prédio ou por penhor de títulos cotados na bolsa de valores e, em casos excepcionais, por qualquer outra garantia considerada adequada ao risco do empréstimo pela instituição de crédito mutuante.
 
