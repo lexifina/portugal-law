@@ -1,0 +1,198 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "2",
+    "id": "34926",
+    "titulo": "Segunda alteração à Lei n.º 64-A/2008, de 31 de Dezembro (Orçamento do Estado para 2009)."
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2009-12-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7226",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2009-12-11",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2009-12-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4225",
+                "nome": "José Manuel Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:54",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "174741",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2009-12-12",
+                "pubLeg": "XI",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/014/2009-12-12/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Segunda alteração à Lei n.º 64-A/2008, de 31 de Dezembro (Orçamento do Estado para 2009)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "264658",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "7226",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2009-12-12",
+        "pubLeg": "XI",
+        "pubNr": "14",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/014/2009-12-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2009-12-11",
+        "descricao": "das alterações aos n.ºs 1 e 2 do artigo 139.º e artigo 149.º da Lei n.º 64-A/2008, de 31 de Dezembro, constante da PPL n.º 2/XI (GOV)",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>BE</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "54625",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "14",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2009-12-11",
+        "descricao": "da Proposta 2P apresentada pelo PPD/PSD de alteração ao n.º 1 do artigo 151.º da Lei n.º 64-A/2008, de 31 de Dezembro",
+        "detalhe": "A Favor: <I>PSD</I>, <I> 1-CDS-PP</I><BR>Abstenção:<I>PS</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "54626",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "14",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2009-12-11",
+        "descricao": "do corpo do artigo 1.º da PPL n.º 2/XI (GOV)",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>BE</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "54627",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "14",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2009-12-11",
+        "descricao": "da Proposta 1P apresentada pelo PCP de aditamento de um artigo 1.º-A a PPL n.º 2/XI (GOV)",
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "54628",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "14",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2009-12-11",
+        "descricao": "do artigo 2.º da PPL n.º 2/XI (GOV)",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>BE</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "54629",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "14",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2009-12-11",
+        "descricao": "do Mapa I anexo à PPL n.º 2/XI (GOV)",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>BE</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "54630",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "14",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2009-12-11",
+        "descricao": "dos Mapas II, III, IV, V, VI, VII, VIII e IX anexos a PPL n.º 2/XI (GOV)",
+        "detalhe": "A Favor: <I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "54631",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "14",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
