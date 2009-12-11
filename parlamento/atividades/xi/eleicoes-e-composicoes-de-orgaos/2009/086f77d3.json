@@ -1,0 +1,125 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=cqpGrns5UyiyPnfDDcltPGDDPGagvAPg5LKOzP1ZUMdFhS1tYE%2boUqLKys6rT7dQcCsHZzpaaD89aqaaeheMPgaLprYCqr1kfj1yfNQQLvRfJRydrl8CY1Co%2bE8e0qRj21QPh3XBduK2UjaCTwkaZsSJ4Ws78SqTHcUqMO96eMwx0mJ%2fnsLMcuHSvhMz5fog89wsUW8g%2fE6ZhuGk3jur29lC8psdBmdSjbYJnssR%2faJyQGkQf1%2bt9BE0CqnanLSJIJsdFkKfZum%2fMA3QD2YgBITg5jSzdngUrVVNHICp8QvlGKw3W%2bpeu%2bh8LqCpg3zL2WI3n87847CubKBOteTOUU2WZeFIAxLb8PlZly06%2b9I%3d&fich=AtividadesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "e990867e1dd1772bdbc8ca55751b34755453758a1f02604666e2c3ee6e5cbd72",
+  "legislatura": "XI",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2009-12-11",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição para o Conselho Superior do Ministério Publico",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2009-12-11",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": "Efectivo",
+        "nome": "Júlio de Lemos de Castro Caldas"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "António José Barradas Leitão"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Guilherme Victorino Guimarães da Palma Carlos"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "José Luís Bonifácio Ramos"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "José António de Melo Pinto Ribeiro"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Manuel Carlos Falcão Gonçalves"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Fernando Santos Pereira"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Maria Teresa Filipe de Moraes Sarmento"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "XI",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Conselho Superior do Ministério Publico",
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": [
+      "15894",
+      "15895"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2009-12-11",
+        "descricao": null,
+        "detalhe": null,
+        "id": "55524",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "515751",
+            "obs": null,
+            "pag": [
+              "7-7"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2009-12-12",
+            "pubLeg": "XI",
+            "pubNr": "14",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/014/2009-12-12/7?pgs=7&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "515752",
+            "obs": "Anúncio",
+            "pag": [
+              "45-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2009-12-18",
+            "pubLeg": "XI",
+            "pubNr": "15",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/015/2009-12-18/45?pgs=45-46&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "14",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
