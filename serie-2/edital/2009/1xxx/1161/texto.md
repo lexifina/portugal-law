@@ -1,0 +1,9 @@
+Edital n.º 1161/2009
+Projecto de Regulamento de Taxas e outras Receitas do Município
+Dr. Gonçalo Fernando da Rocha de Jesus, Presidente da Câmara Municipal de Castelo de Paiva, ao abrigo da sua competência constante da alínea v) do n.º 1 do artigo 68.º da lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro e para efeitos do disposto no n.º 1 do artigo 91.º do mesmo diploma legal, torna público que em reunião ordinária de 26 de Novembro de 2009 foi deliberado aprovar e submeter à discussão pública, pelo período de 30 dias úteis, a contar da data da publicação do presente Edital no Diário da República, o projecto de Regulamento de Taxas e outras receitas do Município de Castelo de Paiva, assim como a respectiva fundamentação económico-financeira, nos termos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto Lei n.º 442/91, de 15 de Novembro, na sua redacção actual.
+Nos termos do n.º 2 do artigo 118.º do C.P.A., convidam-se os interessados, devidamente identificados, a dirigir, por escrito, ao Presidente da Câmara Municipal, eventuais sugestões e ou reclamações, dentro do período atrás referido, para a Câmara Municipal, Largo do Conde, Sobrado, 4550-102 Castelo de Paiva.
+Mais faz saber que os exemplares do projecto de Regulamento, bem como da fundamentação económico-financeira do valar das taxas Municipais, podem ser consultados na Divisão de Administração Geral da Câmara Municipal de Castelo de Paiva, durante o horário normal de funcionamento e no site da Câmara Municipal de Castelo de Paiva, www.cm-castelo-paiva.pt.
+Para constar se publica o presente e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+E eu, Adão Santos, Chefe da Divisão de Administração geral, o subscrevi.
+Paços do Município de Castelo de Paiva, 26 de Novembro de 2009.- O Presidente da Câmara, (Dr. Gonçalo Rocha).
+302661371
