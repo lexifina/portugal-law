@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal de Justiça de 2009-12-17, processo 468/06.1PGLSB.S1
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 468/06.1PGLSB.S1
+
+**Nº Convencional:** 3.ª SECÇÃO
+
+**Relator:** MAIA COSTA
+
+**Descritores:** CONCURSO DE INFRACÇÕES; SENTENÇA; FACTOS PROVADOS; FÓRMULAS TABELARES; FUNDAMENTAÇÃO DE FACTO; FUNDAMENTAÇÃO DE DIREITO; NULIDADE DA SENTENÇA
+
+**Nº do Documento:** SJ
+
+**Data do Acordão:** 12/17/2009
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO PENAL
+
+**Decisão:** ANULADO O ACÓRDÃO RECORRIDO
+
+## Sumário
+
+I - A sentença referente a um concurso de crimes de conhecimento superveniente deverá ser elaborada, como qualquer outra sentença, nos termos do art. 374.º do CPP, pois a lei não prevê nenhum desvio a esse regime geral.
+
+II - Do mesmo passo, a punição do concurso superveniente não constitui uma operação aritmética ou automática, antes exige um julgamento (art. 472.º, n.º 1, do CPP) destinado a avaliar, em conjunto, os factos, na sua globalidade, e a personalidade do agente, conforme dispõe o art. 77.º, n.º 1, do CP.
+
+III - Assim, o julgamento do concurso de crime constitui um novo julgamento destinado a habilitar o tribunal a produzir um juízo autónomo relativamente aos produzidos nos julgamentos dos crimes singulares, pois agora se aprecia a globalidade da conduta do agente. Esse juízo global exige uma fundamentação própria, quer em termos de direito, quer em termos de factualidade.
+
+IV - Por isso a sentença de um concurso de crimes terá de conter uma referência aos factos cometidos pelo agente, não só em termos de citação dos tipos penais cometidos, como também da descrição dos próprios factos efectivamente praticados, na sua singularidade circunstancial.
+
+V - Ainda que se aceite uma referência sucinta, uma vez que os factos já constam desenvolvidamente das respectivas sentenças condenatórias, tal referência sintética não deixa de ser essencial, pois só ela, dando os contornos de cada crime integrante do concurso, pode informar sobre a ilicitude concreta dos crimes praticados (que a mera indicação dos dispositivos legais não revela), a homogeneidade da actuação do agente, a eventual interligação entre as diversas condutas, a forma como a personalidade deste se manifesta nas condutas praticadas.
+
+VI - A sentença do concurso constitui uma decisão autónoma, e por isso ela tem de conter todos os elementos da sentença, e habilitar quem a lê, as partes ou qualquer outro leitor, a apreender a situação de facto ali julgada e compreender a decisão de direito. É essa a função de convicção (e de legitimação) que a sentença deve cumprir.
+
+VII - A sentença deve conter também uma referência aos factos atinentes à personalidade do agente, normalmente contidos no relatório social, mas que podem resultar também da audiência, caso o arguido esteja presente (art. 472.º, n.º 2, do CPP), de forma a habilitar o tribunal a formular a apreciação conjunta dos factos e da personalidade a que se refere o n.º 1 do art. 77.º do CP.
+
+VIII - Se nenhuma referência a sentença contém sobre os factos praticados pelo recorrente que motivaram as condenações que entram no concurso, não se mostra possível avaliar o grau de ilicitude dos crimes, a sua eventual interligação, a existência ou não de homogeneidade de conduta, elementos estes essenciais para a avaliação global da conduta.
+
+IX - E se, a fundamentação de direito apenas considerar que, “na medida da pena ter-se-á em consideração, em conjunto, a personalidade da arguida e os factos pela mesma praticados ( art. 77.º, n.º 1, do CP), bem como os critérios jurisprudenciais nesta matéria atinentes à reiteração criminosa e aos fins de prevenção geral e especial das penas. Os ilícitos que subjazem às duas condenações têm natureza idêntica, ofendendo bens jurídicos de natureza pessoal e patrimonial. Contando actualmente 21 anos de idade, a arguida sofreu outra condenação também por crimes de roubo. Finalmente, ter-se-ão em atenção a personalidade revelada no cometimento dos delitos sub júdice e as difíceis condições da sua vida” é manifesta a mencionada referência sintética, que não permite avaliar como valorou o tribunal recorrido as condutas concretas relativas a cada um dos crimes, que interligações pôde ou não, estabelecer entre eles, que continuidades ou descontinuidades foi possível desvendar na conduta global do agente, e como se manifestou a personalidade deste nas infracções cometidas.
+
+X - Enferma de nulidade a sentença que, nos termos anteditos, não se mostra fundamentada, quer em termos de facto, quer de direito – arts. 374.º, n.º 2, e 379.º, n.º 1, al. a), do CPP.
