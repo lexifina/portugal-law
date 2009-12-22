@@ -1,0 +1,16 @@
+Edital n.º 1185/2009
+Carlos Henrique Lopes Rodrigues, Presidente da Câmara Municipal de Vila do Porto, ao abrigo da sua competência constante da alínea v) do n.º 1 do artigo 68.º e para os efeitos do estatuído no n.º 1 do artigo 91.º da Lei n.º 169/99, de 18 de Setembro, alterada e republicada pela Lei n.º 5-A/2002 de 11 de Janeiro, torna público que, após o período de apreciação pública, a Assembleia Municipal de Vila do Porto, na sessão extraordinária de 9 de Dezembro de 2009, aprovou, sob proposta da Câmara Municipal aprovada na sua reunião ordinária de 3 de Dezembro de 2009, a Alteração do Regulamento de Instalações e Funcionamento dos Estabelecimentos de Hospedagem, que se publica em anexo.
+Paços do Município de Vila do Porto, 9 de Dezembro de 2009. - O Presidente da Câmara, Carlos Henriques Lopes Rodrigues.
+Alteração do Regulamento de Instalação e Funcionamento dos Estabelecimentos de Hospedagem
+Artigo único
+É alterado o artigo 5.º do regulamento de instalação e funcionamento dos estabelecimentos de hospedagem, publicado no Diário da República da 2.ª série, n.º 11 de 14 de Janeiro de 2000 (Apêndice n.º 7), o qual passa a ter a seguinte redacção:
+«Artigo 5.º
+[...]
+1 - A licença de utilização dos estabelecimentos de hospedagem e alojamentos particulares será emitida pelo presidente da Câmara Municipal, ou em quem este delegar, a pedido dos interessados, mediante o pagamento de uma taxa actualizada anualmente nos termos da tabela de taxas e licenças em vigor no município.
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - ...
+7 - ...»
+302672566
