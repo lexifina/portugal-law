@@ -1,0 +1,8 @@
+Portaria n.º 1448/2009
+de 28 de Dezembro
+Pela Portaria n.º 566/2004, de 26 de Maio, foi criada a zona de caça municipal de Santo Tirso (processo n.º 3637-AFN), situada no município de Santo Tirso, válida até 26 de Maio de 2010, e transferida a sua gestão para a Associação de Caçadores e Pescadores de Monte Córdova, que entretanto requereu a sua renovação.
+Cumpridos os preceitos legais, e com fundamento no disposto no artigo 21.º, em conjugação com o estipulado na alínea a) do artigo 18.º, ambos do Decreto-Lei n.º 202/2004, de 18 de Agosto, na sua actual redacção, e consultado o Conselho Cinegético Municipal de Santo Tirso, de acordo com a alínea d) do artigo 158.º do mesmo diploma, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é renovada a zona de caça municipal de Santo Tirso (processo n.º 3637-AFN), bem como a respectiva transferência de gestão, por um período de seis anos, sendo aquela constituída pelos terrenos cinegéticos cujos limites constam da planta anexa a esta portaria e que dela faz parte integrante sitos nas freguesias de Burgães, Carreira, Couto (São Miguel), Lamelas, Negrelos (São Tomé), Rebordões, Reguenga, Refojos de Riba de Ave e Roriz, todas pertencentes ao município da Santo Tirso, com a área de 1511 ha.
+2.º Esta portaria produz efeitos a partir do dia 27 de Maio de 2010.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Pedro de Sousa Barreiro, Secretário de Estado das Florestas e Desenvolvimento Rural, em 6 de Dezembro de 2009.
+(ver documento original)
