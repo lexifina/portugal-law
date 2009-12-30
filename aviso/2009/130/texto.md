@@ -1,0 +1,5 @@
+Aviso n.º 130/2009
+Por ordem superior se torna público que, em 25 de Junho de 2009 e em 9 de Setembro de 2009, foram emitidas notas, respectivamente, pelo Ministério dos Negócios Estrangeiros de Portugal e pelo Ministério dos Negócios Estrangeiros da República Popular da China, em que se comunica terem sido cumpridas as respectivas formalidades internas de aprovação do Tratado entre a República Portuguesa e a República Popular da China sobre a Transferência de Pessoas Condenadas, assinado em Pequim em 31 de Janeiro de 2007.
+Por parte de Portugal, o Tratado foi aprovado pela Resolução da Assembleia da República n.º 32/2009, de 6 de Março, e ratificado pelo Decreto do Presidente da República n.º 44/2009, de 30 de Abril, publicados no Diário da República, 1.ª série, n.º 84, de 30 de Abril de 2009.
+Nos termos do artigo 19.º, n.º 1, o Tratado entrou em vigor em 15 de Outubro de 2009, 30 dias após a data de recepção da última notificação por escrito e por via diplomática comunicando o cumprimento das respectivas formalidades constitucionais ou legais para entrada em vigor.
+Direcção-Geral de Política Externa, 15 de Dezembro de 2009. - O Director-Geral, Nuno Brito.
