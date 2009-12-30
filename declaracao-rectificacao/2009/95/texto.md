@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 95/2009
+Ao abrigo da alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que a Portaria n.º 1398/2009, de 7 de Dezembro, publicada no Diário da República, 1.ª série, n.º 236, de 7 de Dezembro de 2009, saiu com a seguinte inexactidão que, mediante declaração da entidade emitente, assim se rectifica:
+No n.º 2 do artigo 1.º do Regulamento do Regime de Apoio à Imobilização Definitiva de Embarcações de Pesca Licenciadas para a Arte do Cerco, onde se lê «na página electrónica da Direcção-Geral das Pescas e Aquicultura (www.minagricultura.pt)» deve ler-se «na página electrónica da Direcção-Geral das Pescas e Aquicultura (www.min-agricultura.pt)».
+Centro Jurídico, 18 de Dezembro de 2009. - A Directora, Susana de Meneses Brasil de Brito.
