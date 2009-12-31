@@ -1,0 +1,13 @@
+Portaria n.º 1460-B/2009
+de 31 de Dezembro
+O Decreto-Lei n.º 108/2006, de 8 de Outubro, procedeu à criação de um regime processual civil de natureza experimental (RPCE), aplicável nos tribunais determinados por portaria do Ministro da Justiça.
+A Portaria n.º 955/2006, de 13 de Setembro, concretizou critérios complementares que densificaram o processo de selecção dos tribunais onde se aplicaria, por um período experimental, esta nova forma processual. Nos termos do artigo único desse diploma, o regime processual experimental aplica-se nos Juízos de Competência Especializada Cível do Tribunal da Comarca de Almada, nos Juízos Cíveis do Tribunal da Comarca do Porto, nos Juízos de Pequena Instância Cível do Tribunal da Comarca do Porto e nos Juízos de Competência Especializada Cível do Tribunal da Comarca do Seixal.
+A Portaria n.º 1244/2009, de 13 de Outubro, alargou a aplicação do regime processual experimental aos Juízos de Competência Especializada Cível do Tribunal da Comarca do Barreiro, aos Juízos de Competência Especializada Cível do Tribunal da Comarca de Matosinhos e às Varas Cíveis do Tribunal da Comarca do Porto, a partir do dia 4 de Janeiro de 2010.
+O Governo, no cumprimento do seu Programa, que prevê a simplificação e desburocratização da justiça, constituiu em 15 de Dezembro de 2009 uma comissão de processo civil com a finalidade de promover a identificação e destacar os momentos e as causas de retardamento e de insegurança na marcha processual, sugerir as melhores soluções que facilitam a tramitação processual e conferir uma maior estabilidade, transparência e segurança à vida judiciária, em benefício dos cidadãos e das empresas.
+Esta comissão, para a construção de um novo paradigma do processo civil baseado na desmaterialização e no registo integral de imagem e de voz, na oralidade, na simplicidade e na celeridade, terá de identificar as virtuosidades e fragilidades do regime de processo civil experimental para, afinal, proceder à alteração ao regime actualmente em vigor.
+Apesar de o diploma que prevê o alargamento da aplicação do regime processual civil experimental a novos tribunais ter sido publicado em Outubro passado, dado o objecto e a amplitude da matéria a ser apreciada pela comissão de processo civil, impõe-se, no imediato, a não aplicação do regime processual civil experimental aos tribunais identificados na Portaria n.º 1244/2009, de 13 de Outubro.
+Assim:
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto na alínea c) do artigo 199.º da Constituição da República Portuguesa, o seguinte:
+Artigo único
+É revogada a Portaria n.º 1244/2009, de 13 de Outubro.
+O Ministro da Justiça, Alberto de Sousa Martins, em 30 de Dezembro de 2009.
