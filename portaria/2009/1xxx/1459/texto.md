@@ -1,0 +1,23 @@
+Portaria n.º 1459/2009
+de 31 de Dezembro
+A Portaria n.º 1448/2001, de 22 de Dezembro, estabeleceu transitoriamente as regras de determinação do vencimento de exercício dos conservadores, notários e oficiais dos registos e do notariado. A sua vigência tem vindo a ser sucessivamente prorrogada até que seja alcançado o desenvolvimento de um modelo retributivo moderno, capaz de responder, de forma eficaz, às necessidades do sector, devidamente conjugado com a modernização dos estatutos profissionais, designadamente mediante a introdução de critérios transparentes de avaliação de desempenho.
+Já na vigência do XVIII Governo Constitucional, o Ministério da Justiça deliberou desencadear o processo de aprovação do decreto-lei que aprovará o regime de revisão e de transição das carreiras de conservador, de notário, de ajudante e de escriturário dos registos e do notariado, passo essencial para viabilizar alterações no modelo retributivo. Não é, todavia, possível concluir esse processo no plano imediato, sendo necessário manter em vigor as regras transitórias.
+Por isso mesmo, as razões que presidiram à prorrogação, até 31 de Dezembro de 2009, dos critérios de determinação da participação emolumentar continuam a verificar-se, sendo indispensável alargar, de novo, até 31 de Dezembro de 2010, a vigência das regras provisórias de determinação do vencimento de exercício dos conservadores, notários e oficiais dos registos e do notariado.
+Assim:
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos n.os 6 do artigo 54.º e 2 do artigo 61.º, ambos do Decreto-Lei n.º 519-F2/79, de 29 de Dezembro, e tendo presente o estatuído no artigo 59.º do Decreto-Lei n.º 92/90, de 17 de Março, o seguinte:
+Artigo 1.º
+Extensão de aplicação
+As regras sobre a determinação do vencimento de exercício dos conservadores, notários e oficiais dos registos e do notariado fixadas transitoriamente pela Portaria n.º 1448/2001, de 22 de Dezembro, e aplicadas nos anos subsequentes, vigoram até ao dia 31 de Dezembro de 2010.
+Artigo 2.º
+Regime de aplicação
+O disposto no n.º 6 da Portaria n.º 1448/2001, de 22 de Dezembro, aplica-se aos conservadores, notários e oficiais dos registos e do notariado dos serviços que entraram em funcionamento entre 1 de Janeiro e 31 de Outubro de 2001, à excepção daqueles cuja receita mensal ilíquida, gerada nesse período, foi superior à que lhes estaria garantida por efeito da aplicação do disposto naquele número.
+Artigo 3.º
+Forma de cálculo
+Para efeitos de determinação do vencimento de exercício dos oficiais destacados entre 1 de Janeiro e 31 de Outubro de 2001, deve ser deduzido ao total dos vencimentos de categoria que concorram para o apuramento da parte proporcional a que cada oficial tem direito o valor do vencimento desse funcionário correspondente ao período do destacamento.
+Artigo 4.º
+Regras de actualização
+As participações emolumentares, calculadas de acordo com as regras previstas nos artigos anteriores, são actualizadas de acordo com a taxa que vier a ser fixada para o índice 100 da escala indiciária do regime geral.
+Artigo 5.º
+Entrada em vigor
+A presente portaria entra em vigor no dia 1 de Janeiro de 2010.
+O Ministro da Justiça, Alberto de Sousa Martins, em 29 de Dezembro de 2009.
