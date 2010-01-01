@@ -2,7 +2,7 @@
 
 ### Competência dos tribunais tributários
 
-1 - Compete aos tribunais tributários conhecer:
+1 - Sem prejuízo do disposto no artigo seguinte, compete aos tribunais tributários conhecer:
 
 a) Das acções de impugnação:
 
