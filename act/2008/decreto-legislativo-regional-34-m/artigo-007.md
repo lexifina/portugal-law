@@ -11,3 +11,5 @@ a) Anexo C da declaração periódica de rendimentos (modelo n.º 22);
 b) Declaração relativa a rendimentos e retenções de residentes (modelo n.º 10);
 
 c) Anexo Q da informação empresarial simplificada (IES).
+
+3 - Para além das causas de exclusão previstas no artigo 70.º, n.º 2, do Código dos Contratos Públicos, na Região Autónoma da Madeira, constitui igualmente causa de exclusão o incorrecto ou inadequado preenchimento das obrigações fiscais declarativas a apresentar pelo adjudicatário nos termos do número anterior.
