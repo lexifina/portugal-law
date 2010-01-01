@@ -1,6 +1,6 @@
-## Capítulo II
+## Capítulo III
 
-## Processo de impugnação de despedimento colectivo
+## Processo do contencioso de instituições de previdência, abono de família, associações sindicais, associações de empregadores ou comissões de trabalhadores
 
 # Artigo 156.º
 

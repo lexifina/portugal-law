@@ -10,4 +10,4 @@
 
 4 - Havendo recurso subordinado, deve ser interposto no mesmo prazo da alegação do recorrido, aplicando-se, com as necessárias adaptações, o disposto nos números anteriores.
 
-5 - À interposição e alegação do recurso de revista e de agravo em 2.ª instância aplica-se o regime estabelecido no Código de Processo Civil.
+5 - À interposição do recurso de revista aplica-se o regime estabelecido no Código de Processo Civil.

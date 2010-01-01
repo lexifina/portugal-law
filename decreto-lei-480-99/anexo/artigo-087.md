@@ -2,7 +2,7 @@
 
 ### Julgamento dos recursos
 
-1 - O regime do julgamento dos recursos é o que resulta, com as necessárias adaptações, das disposições do Código de Processo Civil que regulamentam o julgamento do recurso de agravo, quer interposto na 1.ª instância, quer na 2.ª instância, conforme os casos.
+1 - O regime do julgamento dos recursos é o que resulta, com as necessárias adaptações, das disposições do Código de Processo Civil que regulamentam o julgamento do recurso de apelação e de revista.
 
 2 - Sem prejuízo do disposto no número anterior, quando funcionar como tribunal de revista, o Supremo Tribunal de Justiça tem os poderes estabelecidos no Código de Processo Civil.
 

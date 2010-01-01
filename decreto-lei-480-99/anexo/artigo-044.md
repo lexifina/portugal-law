@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Suspensão de despedimento colectivo
+
 ## Subsecção III
 
 ## Protecção da segurança, higiene e saúde no trabalho

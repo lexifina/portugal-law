@@ -4,6 +4,6 @@
 
 1 - As acções a que se referem os artigos anteriores seguem, depois dos articulados, os termos do processo comum, com exclusão da audiência preliminar e da tentativa de conciliação.
 
-2 - Estas acções consideram-se sempre de valor equivalente à alçada da Relação mais (euro) 0,01.
+2 - Da decisão final cabe sempre recurso de revista até ao Supremo Tribunal de Justiça.
 
 3 - O recurso da decisão de mérito tem efeito suspensivo.

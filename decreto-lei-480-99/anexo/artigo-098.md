@@ -1,6 +1,6 @@
 ## Capítulo III
 
-## Disposição final
+## Disposições finais
 
 # Artigo 98.º
 
