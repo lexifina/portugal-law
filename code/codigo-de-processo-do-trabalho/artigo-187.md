@@ -1,7 +1,3 @@
-## Livro II
-
-## Do processo penal
-
 ## Título I
 
 ## Da acção

@@ -2,9 +2,9 @@
 
 ### Processamento no caso de morte
 
-1 - Recebida a participação, se for caso de morte, o Ministério Público, conforme as circunstâncias, determina a realização da autópsia ou a junção aos autos do respectivo relatório, salvo se a autópsia for considerada desnecessária, e ordena as diligências indispensáveis à determinação dos beneficiários legais dos sinistrados e à obtenção das provas de parentesco.
+1 - Recebida a participação, se for caso de morte, o Ministério Público, conforme as circunstâncias, determina a realização da autópsia ou a junção aos autos do respectivo relatório e ordena as diligências indispensáveis à determinação dos beneficiários legais dos sinistrados e à obtenção das provas de parentesco.
 
-2 - Instruído o processo com a certidão de óbito, o relatório da autópsia, se esta se tiver realizado, e certidões comprovativas do parentesco dos beneficiários com a vítima, o Ministério Público designa data para a tentativa de conciliação, se não tiver sido junto o acordo extrajudicial previsto na lei.
+2 - Instruído o processo com a certidão de óbito, o relatório da autópsia e certidões comprovativas do parentesco dos beneficiários com a vítima, o Ministério Público designa data para a tentativa de conciliação, se não tiver sido junto o acordo extrajudicial previsto na lei.
 
 3 - Tendo sido junto o acordo, o Ministério Público designa data para declarações dos beneficiários e, se estas confirmarem as bases do acordo, submete-o à homologação do juiz, sem prejuízo do disposto no artigo 114.º
 

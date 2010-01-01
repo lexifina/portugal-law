@@ -13,3 +13,5 @@
 3 - Quando a remição for admitida, a secretaria procede ao cálculo do capital que o pensionista tenha direito a receber.
 
 4 - Em seguida, o processo vai ao Ministério Público, que, após verificar o cálculo, ordena as diligências necessárias à entrega do capital.
+
+5 - Nos tribunais sediados nas áreas metropolitanas de Lisboa e do Porto não há lugar à deprecada para a entrega do capital da remição.

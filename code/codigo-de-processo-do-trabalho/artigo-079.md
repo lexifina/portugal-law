@@ -4,7 +4,7 @@
 
 # Artigo 79.º
 
-### Decisões que admitem recurso
+### Decisões que admitem sempre recurso
 
 Sem prejuízo do disposto no artigo 678.º do Código de Processo Civil e independentemente do valor da causa e da sucumbência, é sempre admissível recurso para a Relação:
 

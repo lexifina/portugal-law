@@ -18,6 +18,8 @@ b) Sempre que seja admissível oposição do requerido, esta é apresentada até
 
 c) A decisão é sucintamente fundamentada e ditada para a acta.
 
-2 - Nos casos de admissibilidade de oposição, as partes são advertidas para comparecerem pessoalmente na audiência, na qual se procederá a tentativa de conciliação.
+2 - Nos casos de admissibilidade de oposição, as partes são advertidas para comparecer pessoalmente ou, em caso de justificada impossibilidade de comparência, fazer-se representar por mandatário com poderes especiais para confessar, desistir ou transigir, na audiência, na qual se procederá à tentativa de conciliação.
 
-3 - A falta de comparência de qualquer das partes ou dos seus mandatários não é motivo de adiamento.
+3 - Sempre que as partes se fizerem representar nos termos do número anterior, o mandatário deve informar-se previamente sobre os termos em que o mandante aceita a conciliação.
+
+4 - A falta de comparência de qualquer das partes ou dos seus mandatários não é motivo de adiamento.

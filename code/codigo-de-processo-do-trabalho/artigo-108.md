@@ -6,7 +6,7 @@
 
 ### Intervenientes
 
-1 - À tentativa de conciliação são chamadas, além do sinistrado ou dos seus beneficiários legais, as entidades patronais ou seguradoras, conforme os elementos constantes da participação.
+1 - À tentativa de conciliação são chamadas, além do sinistrado ou dos seus beneficiários legais, as entidades empregadoras ou seguradoras, conforme os elementos constantes da participação.
 
 2 - Se das declarações prestadas na tentativa de conciliação resultar a necessidade de convocação de outras entidades, o Ministério Público designa data para nova tentativa, a realizar num dos 15 dias seguintes.
 
@@ -16,4 +16,4 @@
 
 5 - Faltando de novo a entidade responsável ou não sendo conhecido o seu paradeiro, é dispensada a tentativa de conciliação, presumindo-se verdadeiros, até prova em contrário, os factos declarados nos termos do número anterior se a ausência for devida a falta injustificada e a entidade responsável residir ou tiver sede no continente ou na ilha onde se realiza a diligência.
 
-6 - Nos tribunais sediados nas áreas metropolitanas de Lisboa e do Porto não há lugar à deprecada de tentativa de conciliação.
+6 - Nos tribunais sediados nas áreas metropolitanas de Lisboa e do Porto não há lugar à deprecada para exame médico e tentativa de conciliação.

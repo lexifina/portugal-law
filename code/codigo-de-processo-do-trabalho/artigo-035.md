@@ -2,6 +2,6 @@
 
 ### Meios de prova
 
-1 - As partes podem apresentar qualquer meio de prova, salvo se o despedimento tiver sido precedido de processo disciplinar, caso em que apenas é permitida a apresentação de prova documental.
+1 - As partes podem apresentar qualquer meio de prova, sendo limitado a três o número de testemunhas por parte.
 
-2 - O tribunal pode, oficiosamente, determinar a produção de outras provas que considere indispensáveis à decisão.
+2 - O tribunal pode, oficiosamente ou a requerimento fundamentado das partes, determinar a produção de quaisquer provas que considere indispensáveis à decisão.

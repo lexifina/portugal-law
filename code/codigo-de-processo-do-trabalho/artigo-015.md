@@ -8,6 +8,8 @@
 
 3 - As participações exigidas por lei devem ser dirigidas ao tribunal a que se referem os números anteriores.
 
-4 - É também competente o tribunal do domicílio do sinistrado, doente ou beneficiário se a participação aí for apresentada ou se ele o requerer até à fase contenciosa do processo.
+4 - É também competente o tribunal do domicílio do sinistrado, doente ou beneficiário se ele o requerer até à fase contenciosa do processo ou se aí tiver apresentado a participação.
 
-5 - Se o sinistrado, doente ou beneficiário for inscrito marítimo ou tripulante de qualquer aeronave e o acidente ocorrer em viagem ou durante ela se verificar a doença, é ainda competente o tribunal da primeira localidade em território nacional a que chegar o barco ou aeronave ou o da sua matrícula.
+5 - No caso de uma pluralidade de beneficiários exercer a faculdade prevista no número anterior, é territorialmente competente o tribunal da área de residência do maior número deles ou, em caso de ser igual o número de requerentes, o tribunal da área de residência do primeiro a requerer.
+
+6 - Se o sinistrado, doente ou beneficiário for inscrito marítimo ou tripulante de qualquer aeronave e o acidente ocorrer em viagem ou durante ela se verificar a doença, é ainda competente o tribunal da primeira localidade em território nacional a que chegar o barco ou aeronave ou o da sua matrícula.
