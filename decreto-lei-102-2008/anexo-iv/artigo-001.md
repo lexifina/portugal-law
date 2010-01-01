@@ -38,7 +38,9 @@ h) «Serviços de telecomunicações» os que possibilitem a transmissão, a emi
 
 i) «Sujeito passivo revendedor de gás ou de electricidade» a pessoa singular ou colectiva cuja actividade consista na aquisição de gás, através do sistema de distribuição de gás natural, ou de electricidade para revenda, e cujo consumo próprio desses bens não seja significativo.
 
-3 - Para efeitos do regime aplicável às transmissões de bens efectuadas a bordo de um navio, de uma aeronave ou de um comboio, durante um transporte intracomunitário de passageiros, entende-se por:
+j) «Locação de curta duração de um meio de transporte», a locação de um meio de transporte por um período não superior a 30 dias ou, tratando-se de uma embarcação, por um período não superior a 90 dias.
+
+3 - Para efeitos das regras aplicáveis às transmissões de bens e às prestações de serviços efectuadas a bordo de um navio, de uma aeronave ou de um comboio, durante um transporte intracomunitário de passageiros, entende-se por:
 
 a) «Transporte intracomunitário de passageiros» o transporte de passageiros cujo lugar de partida e de chegada se situa no território da Comunidade sem escala em país terceiro, bem como a parte de um transporte de passageiros efectuada no território da Comunidade, sem que haja escala em país terceiro entre o lugar de partida e o lugar de chegada;
 

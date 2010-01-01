@@ -16,7 +16,7 @@ a) O imposto devido ou pago pela aquisição de bens e serviços a outros sujeit
 
 b) O imposto devido pela importação de bens;
 
-c) O imposto pago pela aquisição dos bens ou dos serviços indicados nas alíneas i) e j) do n.º 1 do artigo 2.º, no n.º 8, na alínea a) do n.º 10 e nos n.os 11, 13 e 16, na alínea b) do n.º 17 e nos n.os 19 e 22 do artigo 6.º;
+c) O imposto pago pelas aquisições de bens ou serviços abrangidas pelas alíneas e), h), i) e j) do n.º 1 do artigo 2.º;
 
 d) O imposto pago como destinatário de operações tributáveis efectuadas por sujeitos passivos estabelecidos no estrangeiro, quando estes não tenham no território nacional um representante legalmente acreditado e não tenham facturado o imposto;
 

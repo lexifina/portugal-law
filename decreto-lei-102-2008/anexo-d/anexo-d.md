@@ -1,6 +1,6 @@
 # Anexo D
 
-### Lista exemplificativa dos serviços prestados por via electrónica, a que se refere a alínea n) do n.º 8 do artigo 6.º
+### Lista exemplificativa de prestações de serviços por via electrónica
 
 1 - Fornecimento de sítios informáticos, domiciliação de páginas web, manutenção à distância de programas e equipamentos.
 
@@ -12,4 +12,4 @@
 
 5 - Prestação de serviços de ensino à distância.
 
-Quando um prestador de serviços e o seu cliente comunicam por correio electrónico, esse facto não significa só por si que o serviço prestado é um serviço electrónico na acepção da alínea n) do n.º 8 do artigo 6.º do Código.
+Quando o prestador de serviços e o seu cliente comunicam por correio electrónico, esse facto não significa, por si só, que o serviço seja prestado por via electrónica.

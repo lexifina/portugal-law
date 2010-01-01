@@ -28,7 +28,7 @@ b) Quando as mercadorias que compõem a unidade de venda sofram alterações da 
 
 6 - A taxa aplicável às prestações de serviços a que se refere a alínea c) do n.º 2 do artigo 4.º é a mesma que seria aplicável no caso de transmissão de bens obtidos após a execução da empreitada.
 
-7 - Aos serviços referidos na alínea n) do n.º 8 do artigo 6.º aplica-se a taxa referida na alínea c) do n.º 1.
+7 - Às prestações de serviços por via electrónica, nomeadamente as descritas no anexo D, aplica-se a taxa referida na alínea c) do n.º 1.
 
 8 - Quando não isentas, ao abrigo do artigo 13.º ou de outros diplomas, às importações de mercadorias que sejam objecto de pequenas remessas enviadas a particulares ou que sejam contidas nas bagagens pessoais dos viajantes, sujeitas ao direito aduaneiro forfetário previsto nas disposições preliminares da Pauta Aduaneira Comum, aplica-se a taxa referida na alínea c) do n.º 1, independentemente da sua natureza.
 

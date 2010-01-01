@@ -4,9 +4,7 @@
 
 1 - São sujeitos passivos do imposto:
 
-a) As pessoas singulares ou colectivas que, de um modo independente e com carácter de habitualidade, exerçam actividades de produção, comércio ou prestação de serviços, incluindo as actividades extractivas, agrícolas e as das profissões livres, e, bem assim, as que do mesmo modo independente pratiquem uma só operação tributável, desde que essa operação seja conexa com o exercício das referidas actividades, onde quer que este ocorra, ou quando, independentemente dessa conexão, tal operação preencha os pressupostos da incidência real de IRS e de IRC.
-
-As pessoas singulares ou colectivas referidas nesta alínea são também sujeitos passivos do imposto pela aquisição de qualquer dos serviços indicados no n.º 8 do artigo 6.º, nas condições nele previstas;
+a) As pessoas singulares ou colectivas que, de um modo independente e com carácter de habitualidade, exerçam actividades de produção, comércio ou prestação de serviços, incluindo as actividades extractivas, agrícolas e as das profissões livres, e, bem assim, as que, do mesmo modo independente, pratiquem uma só operação tributável, desde que essa operação seja conexa com o exercício das referidas actividades, onde quer que este ocorra, ou quando, independentemente dessa conexão, tal operação preencha os pressupostos de incidência real do imposto sobre o rendimento das pessoas singulares (IRS) ou do imposto sobre o rendimento das pessoas colectivas (IRC);
 
 b) As pessoas singulares ou colectivas que, segundo a legislação aduaneira, realizem importações de bens;
 
@@ -14,13 +12,13 @@ c) As pessoas singulares ou colectivas que, em factura ou documento equivalente,
 
 d) As pessoas singulares ou colectivas que efectuem operações intracomunitárias, nos termos do Regime do IVA nas Transacções Intracomunitárias;
 
-e) Os adquirentes dos serviços referidos nos n.os 11, 13, 16, 17, alínea b), e 19 do artigo 6.º, nas condições aí previstas e desde que os respectivos prestadores não tenham, no território nacional, sede, estabelecimento estável ou domicílio a partir do qual o serviço seja prestado;
+e) As pessoas singulares ou colectivas referidas na alínea a), pela aquisição dos serviços abrangidos pela alínea a) do n.º 6 do artigo 6.º, quando os respectivos prestadores não tenham, no território nacional, sede, estabelecimento estável ou, na sua falta, o domicílio, a partir do qual os serviços são prestados;
 
-f) Os adquirentes dos serviços mencionados na alínea a) do n.º 10 do artigo 6.º, nas condições aí previstas;
+f) (Revogada)
 
 g) As pessoas singulares ou colectivas referidas na alínea a), que sejam adquirentes em transmissões de bens ou prestações de serviços efectuadas no território nacional por sujeitos passivos que aqui não tenham sede, estabelecimento estável ou domicílio nem disponham de representante nos termos do artigo 30.º;
 
-h) As pessoas singulares ou colectivas referidas na alínea a), que sejam adquirentes dos bens referidos no n.º 22 do artigo 6.º, nas condições aí previstas, desde que os respectivos transmitentes não disponham no território nacional de sede, estabelecimento estável a partir do qual a transmissão seja efectuada ou domicílio;
+h) As pessoas singulares ou colectivas referidas na alínea a), que sejam adquirentes dos bens indicados no n.º 4 do artigo 6.º, nas condições aí previstas, desde que os respectivos transmitentes não tenham, no território nacional, sede, estabelecimento estável ou, na sua falta, o domicílio, a partir do qual as transmissões são efectuadas;
 
 i) As pessoas singulares ou colectivas referidas na alínea a) que, no território nacional, sejam adquirentes dos bens ou dos serviços mencionados no anexo E ao presente Código e tenham direito à dedução total ou parcial do imposto, desde que os respectivos transmitentes ou prestadores sejam sujeitos passivos do imposto;
 
@@ -53,3 +51,5 @@ j) Cantinas;
 l) Radiodifusão e radiotelevisão.
 
 4 - Para efeitos dos n.os 2 e 3 do presente artigo, o Ministro das Finanças define, caso a caso, as actividades susceptíveis de originar distorções de concorrência ou aquelas que são exercidas de forma não significativa.
+
+5 - Para efeitos das alíneas e) e g) do n.º 1, consideram-se sujeitos passivos do imposto, relativamente a todos os serviços que lhes sejam prestados no âmbito da sua actividade, as pessoas singulares ou colectivas referidas na alínea a) do n.º 1, bem como quaisquer outras pessoas colectivas que devam estar registadas para efeitos do artigo 5.º do Regime do IVA nas Transacções Intracomunitárias.
