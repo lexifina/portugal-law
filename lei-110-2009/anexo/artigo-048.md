@@ -2,7 +2,7 @@
 
 ### Valores excluídos da base de incidência
 
-Não integram a base de incidência contributiva, designadamente:
+Não integram a base de incidência contributiva:
 
 a) Os valores compensatórios pela não concessão de férias ou de dias de folga;
 
@@ -18,7 +18,7 @@ f) Os valores das refeições tomadas pelos trabalhadores em refeitórios das re
 
 g) As importâncias atribuídas ao trabalhador a título de indemnização, por força de declaração judicial da ilicitude do despedimento;
 
-h) A compensação por cessação do contrato de trabalho no caso de despedimento colectivo, por extinção do posto de trabalho, por inadaptação, por não concessão de aviso prévio, por caducidade e por resolução por parte do trabalhador;
+h) A compensação por cessação do contrato de trabalho no caso de despedimento colectivo, por extinção do posto de trabalho e por inadaptação;
 
 i) A indemnização paga ao trabalhador pela cessação, antes de findo o prazo convencional, do contrato de trabalho a prazo;
 

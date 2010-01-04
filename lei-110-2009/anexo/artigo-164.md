@@ -1,11 +1,11 @@
 # Artigo 164.º
 
-### Direito de opção
+### Base de incidência contributiva facultativa
 
-1 - No momento da declaração trimestral, o trabalhador independente pode optar pela fixação de um rendimento superior ou inferior até 25 % àquele que resultar dos valores declarados nos termos do artigo 151.º-A, sem prejuízo dos limites previstos no artigo anterior.
+1 - Para efeitos da fixação da base de incidência contributiva o trabalhador independente pode optar pelo escalão imediatamente anterior ao que lhe corresponde nos termos do n.º 2 do artigo anterior.
 
-2 - A opção a que se refere o número anterior é efetuada em intervalos de 5 %.
+2 - O direito de opção previsto no número anterior é exercido oficiosamente pela entidade de segurança social competente, podendo o trabalhador independente renunciar-lhe apresentando requerimento para o efeito.
 
-3 - Notificado da base de incidência contributiva que lhe é aplicável por força do disposto no n.º 3 do artigo 162.º, o trabalhador independente pode requerer, no prazo que for fixado na respetiva notificação, que lhe seja aplicado o regime de apuramento trimestral do rendimento relevante, ficando sujeito à obrigação declarativa trimestral a partir de janeiro.
+3 - Nos casos em que o rendimento relevante seja igual ou inferior a 12 vezes o valor do IAS, o trabalhador pode requerer que lhe seja considerado, como base de incidência, o valor do duodécimo daquele rendimento, com o limite mínimo de 50 % do valor do IAS, nos termos do disposto no número seguinte.
 
-4 - (Revogado.)
+4 - O disposto no número anterior só é aplicável ao trabalhador em início ou no reinício de actividade e tem a duração máxima de três anos civis seguidos ou interpolados por trabalhador.

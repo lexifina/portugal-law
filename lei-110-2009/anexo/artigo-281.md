@@ -78,7 +78,11 @@ vii) 2016 em 27,3 % cabendo respectivamente 18,7 % e 8,6 % à entidade empregado
 
 viii) 2017 em 28,3 % cabendo respectivamente 19,7 % e 8,6 % à entidade empregadora e ao trabalhador;
 
-f) (Revogada).
+f) A taxa contributiva a cargo das entidades contratantes que adquiram prestação de serviços prevista no n.º 4 do artigo 168.º é fixada para o ano de:
+
+i) 2010 em 2,5 %;
+
+ii) 2011 em 5 %;
 
 g) A taxa contributiva relativa aos beneficiários do seguro social voluntário prevista no n.º 1 do artigo 184.º é fixada para o ano de:
 

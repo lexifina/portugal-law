@@ -1,19 +1,9 @@
 # Artigo 152.º
 
-### Declaração anual da atividade
+### Declaração de serviços prestados
 
-1 - Os trabalhadores independentes sujeitos ao cumprimento da obrigação contributiva são obrigados a apresentar, através de modelo oficial e por referência ao ano civil anterior:
+1 - Os trabalhadores independentes são obrigados a declarar à instituição de segurança social competente, em relação a cada uma das entidades contratantes a quem prestaram serviços, o valor dos serviços prestados no ano civil a que respeitam.
 
-a) O valor total das vendas realizadas;
+2 - A declaração referida no número anterior deve ser apresentada até ao dia 15 do mês de Fevereiro do ano civil seguinte ao que respeita.
 
-b) O valor total da prestação de serviços a pessoas singulares que não tenham actividade empresarial;
-
-c) O valor total da prestação de serviços por pessoa colectiva e por pessoa singular com actividade empresarial.
-
-2 - É ainda objeto da mesma declaração a identificação dos valores necessários ao apuramento do rendimento relevante dos trabalhadores independentes que não possam ser obtidos por interconexão de dados com a autoridade tributária.
-
-3 - (Revogado.)
-
-4 - Quando esteja em causa o acesso a subsídio por cessação de atividade que ocorra em momento anterior à data da obrigação declarativa prevista no presente artigo, a declaração do valor da atividade é efetuada com o requerimento do subsídio.
-
-5 - A violação do disposto no presente artigo constitui contraordenação leve.
+3 - A violação do disposto no presente artigo constitui contra-ordenação leve quando seja cumprida nos 30 dias subsequentes ao termo do prazo e constitui contra-ordenação grave nas demais situações.

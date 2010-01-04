@@ -8,7 +8,7 @@ a) Os trabalhadores marítimos e os vigias, nacionais, que se encontrem a exerce
 
 b) Os trabalhadores marítimos nacionais que exerçam actividade a bordo de navios de empresas comuns de pesca constituídas ao abrigo dos Decretos-Leis n.os 1/81, de 7 de Janeiro, e 193/84, de 11 de Junho;
 
-c) (Revogada).
+c) Os tripulantes que se encontrem a exercer actividade profissional em navios inscritos no Registo Internacional de Navios da Madeira (MAR).
 
 2 - Podem ainda enquadrar-se no seguro social voluntário as pessoas que integrem grupos de actividades específicos que, de acordo com os respectivos estatutos, prevejam a inscrição no regime, designadamente:
 
@@ -19,7 +19,5 @@ b) Os bolseiros de investigação que reúnam as condições definidas no Estatu
 c) Os agentes da cooperação que, reunindo as condições definidas no respectivo estatuto, se obriguem, mediante contrato, a prestar serviço no quadro das relações do cooperante, de que não resulte o seu enquadramento em regime de protecção social obrigatório de outro país;
 
 d) Os praticantes desportivos de alto rendimento.
-
-e) Os cuidadores informais principais.
 
 3 - A definição dos requisitos específicos de enquadramento relativos a cada grupo de situações especiais é objecto de legislação própria.

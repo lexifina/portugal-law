@@ -14,6 +14,4 @@ d) Os sócios de sociedades de agricultura de grupo ainda que nelas exerçam act
 
 e) Os titulares de direitos sobre explorações agrícolas ou equiparadas, ainda que a actividade nelas exercida se traduza apenas em actos de gestão, desde que tais actos sejam exercidos directamente, de forma reiterada e com carácter de permanência.
 
-2 - As pessoas que vivem em união de facto nas condições previstas na Lei n.º 7/2001, de 11 de maio, alterada pela Lei n.º 23/2010, de 30 de agosto, são abrangidas pelo regime dos trabalhadores independentes nos termos aplicáveis aos cônjuges.
-
-3 - O carácter de permanência afere-se pela adstrição dos titulares de explorações agrícolas ou equiparadas a actos de gestão que exijam uma actividade regular, embora não a tempo completo.
+2 - O carácter de permanência afere-se pela adstrição dos titulares de explorações agrícolas ou equiparadas a actos de gestão que exijam uma actividade regular, embora não a tempo completo.

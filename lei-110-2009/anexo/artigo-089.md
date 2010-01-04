@@ -1,4 +1,4 @@
-## Subsecção VII
+## Subsecção VI
 
 ## Pensionistas em actividade
 

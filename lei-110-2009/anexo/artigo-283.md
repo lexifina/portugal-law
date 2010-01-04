@@ -1,9 +1,9 @@
 # Artigo 283.º
 
-### Contribuições da responsabilidade das entidades contratantes
+### Efeitos específicos no registo de remunerações
 
-1 - As contribuições das entidades contratantes sobre serviços prestados por trabalhadores independentes destinam-se à proteção destes trabalhadores nas eventualidades imediatas.
+1 - As contribuições das entidades contratantes sobre serviços prestados por trabalhadores independentes que beneficiam de isenção de contribuir em virtude de se encontrarem abrangidos pelo regime geral dos trabalhadores por conta de outrem, relevam para efeitos de registo de remunerações do trabalhador nos termos dos números seguintes.
 
-2 - (Revogado.)
+2 - A remuneração a registar na carreira de trabalhador corresponde a um quinto do valor anual que serviu de base de incidência contributiva ao cálculo das contribuições pagas pelas entidades contratantes referentes a esse trabalhador.
 
-3 - (Revogado.)
+3 - A remuneração apurada nos termos do número anterior releva apenas para efeitos de determinação da remuneração de referência no cálculo das pensões de invalidez, velhice e sobrevivência.

@@ -2,11 +2,11 @@
 
 ### Situações excepcionais para a regularização da dívida
 
-1 - A autorização do pagamento prestacional de dívida à segurança social, a isenção ou redução dos respetivos juros vencidos e vincendos, só é permitida nos termos do presente artigo, sem prejuízo do disposto no artigo seguinte e das regras aplicáveis ao processo de execução fiscal.
+1 - A autorização do pagamento prestacional de dívida à segurança social, a isenção ou redução dos respectivos juros vencidos e vincendos, só é permitida nos termos do presente artigo, sem prejuízo das regras aplicáveis ao processo de execução fiscal.
 
 2 - As condições excepcionais previstas no número anterior só podem ser autorizadas quando, cumulativamente, sejam requeridas pelo contribuinte, sejam indispensáveis para a viabilidade económica deste e desde que o contribuinte se encontre numa das seguintes situações:
 
-a) Processo de insolvência, de recuperação ou de revitalização;
+a) Processo de insolvência ou de recuperação;
 
 b) Procedimento extrajudicial de conciliação;
 
@@ -21,9 +21,3 @@ d) Contratos de aquisição, total ou parcial, do capital social de uma empresa 
 5 - As instituições de segurança social competentes podem exigir complementarmente ao contribuinte, e a expensas deste, a realização de auditorias, estudos e avaliações por entidades que considere idóneas, sempre que tal se revele necessário para a análise da proposta de regularização.
 
 6 - Sem prejuízo das competências próprias das instituições de segurança social nas Regiões Autónomas, a autorização a que se refere o n.º 1 do presente artigo é concedida por deliberação do conselho directivo do Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.)
-
-7 - Sem prejuízo do previsto no número anterior, o Instituto da Segurança Social, I. P. (ISS, I. P.), no âmbito da sua atribuição de assegurar o cumprimento das obrigações contributivas, pode celebrar acordos de regularização voluntária de dívida, nos termos definidos em decreto-lei, nos seguintes casos:
-
-a) Quando a dívida se reporte a períodos limitados e não se encontre participada para efeitos de execução fiscal;
-
-b) Nas situações de apuramento de contribuição de liquidação anual, quando o contribuinte, pela sua situação económica, não tenha capacidade de efetuar o pagamento de uma só vez.

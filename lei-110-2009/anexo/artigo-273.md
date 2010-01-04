@@ -18,7 +18,7 @@ b) A taxa contributiva relativa aos docentes não abrangidos pela Caixa Geral de
 
 c) A taxa contributiva relativa aos docentes de nacionalidade estrangeira que optaram pela não inscrição na Caixa Geral de Aposentações, nos termos do Despacho Normativo n.º 61/97, de 1 de Outubro, contratados até dia 31 de Dezembro de 2005 é de 7,8 % a cargo da respectiva entidade empregadora;
 
-d) (Revogada).
+d) A taxa contributiva relativa aos trabalhadores abrangidos pela Caixa de Previdência do Pessoal da Companhia Portuguesa Rádio Marconi, admitidos até à publicação do Decreto-Lei n.º 357/97, de 16 de Dezembro, é de 5,7 %, sendo, respectivamente, de 4 % e de 1,7 % para a entidade empregadora e para os trabalhadores;
 
 e) A taxa contributiva relativa aos trabalhadores agrícolas abrangidos pelo Decreto-Lei n.º 464/99, de 5 de Novembro, é a fixada no referido diploma para o ano de 2010 e a taxa contributiva referente aos trabalhadores previstos no Decreto-Lei n.º 40/2001, de 9 de Fevereiro, é fixada em 8 % ou 15 % consoante os trabalhadores optem pelo 1.º ou 2.º a 5.º escalões de base de incidência contributiva previstos no presente Código para os trabalhadores independentes;
 
@@ -32,7 +32,7 @@ i) A taxa contributiva relativa aos notários abrangidos pelo regime dos trabalh
 
 j) A taxa contributiva relativa aos oficiais do notariado que optaram pela manutenção no regime de protecção social da função pública, nos termos previstos no Decreto-Lei n.º 26/2004, de 4 de Fevereiro, é de 7,8 %, sendo, respectivamente, de 6,8 % e de 1 % da responsabilidade das entidades empregadoras e dos trabalhadores;
 
-l) (Revogada).
+l) A taxa contributiva de 29 % relativa aos trabalhadores inscritos marítimos que exercem actividade profissional na pesca local e costeira, sendo, respectivamente, de 21 % e de 8 % da responsabilidade das entidades empregadoras e dos trabalhadores.
 
 2 - Aos trabalhadores agrícolas diferenciados e indiferenciados que até à entrada em vigor do presente Código se encontrem abrangidos pelo regime previsto no Decreto-Lei n.º 401/86, de 2 de Dezembro, e no Decreto Regulamentar n.º 75/86, de 30 de Dezembro, mantêm-se a aplicação do referido regime, com as taxas previstas no Decreto-Lei n.º 199/99, de 8 de Junho, em situação de grupo fechado.
 

@@ -13,5 +13,3 @@
 3 - A taxa contributiva correspondente à cobertura das eventualidades de doença profissional, invalidez, velhice e morte é de 27,4 %.
 
 4 - A taxa contributiva correspondente à cobertura da eventualidade de doenças profissionais é de 0,5 %.
-
-5 - A taxa contributiva correspondente à proteção do cuidador informal principal é de 21,4 %.

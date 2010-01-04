@@ -6,4 +6,4 @@
 
 2 - Quando o âmbito material de protecção integrar a eventualidade de desemprego, a taxa contributiva é de 33,3 %, sendo, respectivamente, de 22,3 % e de 11 % para as entidades empregadoras e para os trabalhadores.
 
-3 - (Revogado).
+3 - À taxa contributiva a cargo das entidades empregadoras dos trabalhadores do serviço doméstico não se aplica o disposto no artigo 55.º

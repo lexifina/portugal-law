@@ -1,5 +1,9 @@
 # Artigo 47.º
 
-### Conceito de regularidade
+### Outras prestações base de incidência
 
-Considera-se que uma prestação reveste caráter de regularidade quando constitui direito do trabalhador, por se encontrar preestabelecida segundo critérios objetivos e gerais, ainda que condicionais, por forma que este possa contar com o seu recebimento e a sua concessão tenha lugar com uma frequência igual ou inferior a cinco anos.
+Integram ainda a base de incidência contributiva, além das prestações a que se refere o artigo anterior, todas as que sejam atribuídas ao trabalhador, com carácter de regularidade, em dinheiro ou em espécie, directa ou indirectamente como contrapartida da prestação do trabalho quando ocorram os seguintes pressupostos:
+
+a) A atribuição das mesmas se encontre prevista segundo critérios de objectividade, ainda que sujeita a condições;
+
+b) Constituam um direito do trabalhador e este possa contar com o seu recebimento independentemente da frequência da concessão.

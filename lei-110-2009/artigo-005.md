@@ -46,7 +46,7 @@ u) O Decreto-Lei n.º 87/2004, de 17 de Abril, e o Decreto-Lei n.º 261/91, de 2
 
 v) O Decreto-Lei n.º 98/2005, de 16 de Junho;
 
-x) O artigo 11.º do Decreto Legislativo Regional n.º 12/93/M, de 23 de Julho, alterado pelo Decreto Legislativo Regional n.º 22/98/M, de 18 de Setembro;
+x) O Decreto Legislativo Regional n.º 12/93/M, de 23 de Julho, alterado pelo Decreto Legislativo Regional n.º 22/98/M, de 18 de Setembro;
 
 z) Os artigos 17.º, 20.º, 24.º, 127.º, 128.º e 129.º do Decreto n.º 45 266, de 23 de Setembro de 1963;
 
@@ -83,7 +83,5 @@ pp) A Portaria n.º 311/2005, de 23 de Março;
 qq) A Portaria n.º 292/2009, de 23 de Março;
 
 rr) O Despacho Normativo n.º 208/83, de 22 de Novembro.
-
-ss) O Decreto-Lei n.º 299/86, de 19 de Setembro.
 
 2 - Até à entrada em vigor da regulamentação mantêm-se transitoriamente em vigor as disposições procedimentais dos diplomas revogados no número anterior que não contrariem o disposto no Código.
