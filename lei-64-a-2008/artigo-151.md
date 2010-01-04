@@ -2,7 +2,7 @@
 
 ### Necessidades de financiamento das regiões autónomas
 
-1 - As Regiões Autónomas dos Açores e da Madeira não podem acordar contratualmente novos empréstimos, incluindo todas as formas de dívida, que impliquem um aumento do seu endividamento líquido.
+1 - Sem prejuízo do disposto no n.º 2, a Região Autónoma da Madeira pode acordar contratualmente novos empréstimos, incluindo todas as formas de dívida, que não impliquem um aumento do seu endividamento líquido superior a (euro) 79 milhões, os quais podem ser afectos, excepcionalmente, à regularização de compromissos perante fornecedores ou a fazer face a encargos provocados pela situação de crise que afecta a economia regional.
 
 2 - Podem excepcionar-se do disposto no número anterior, nos termos e condições a definir por despacho do ministro responsável pela área das finanças, empréstimos e amortizações destinados ao financiamento de projectos com comparticipação de fundos comunitários.
 
