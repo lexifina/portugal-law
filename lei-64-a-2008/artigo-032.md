@@ -1,0 +1,43 @@
+# Artigo 32.º
+
+### Alteração à Lei n.º 53/2006, de 7 de Dezembro
+
+1 - O artigo 13.º da Lei n.º 53/2006, de 7 de Dezembro, alterada pela Lei n.º 11/2008, de 20 de Fevereiro, passa a ter a seguinte redacção:
+
+«Artigo 13.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+11 - ...
+
+12 - ...
+
+13 - ...
+
+14 - Sem prejuízo da aplicação do disposto nos n.os 9 a 12 do artigo anterior, o pessoal do serviço extinto que se manteve em exercício de funções em comissão de serviço ou através de outro instrumento de mobilidade, ao abrigo da Lei n.º 2/2004, de 15 de Janeiro, alterada pela Lei n.º 51/2005, de 30 de Agosto, ou do Decreto-Lei n.º 262/88, de 23 de Julho, e que cesse essa mesma comissão de serviço ou esse outro instrumento de mobilidade deve ser reafecto ao serviço integrador, para o qual foram transferidas as atribuições a que o funcionário esteve por último afecto.»
+
+2 - No n.º 5 do artigo 29.º da Lei n.º 53/2006, de 7 de Dezembro, onde se lê «procedimento de selecção referido no artigo 34.º» deve passar a ler-se «procedimento concursal».
+
+3 - Nas subalíneas i) e ii) da alínea b) do n.º 2 do artigo 39.º da Lei n.º 53/2006, de 7 de Dezembro, onde se lê «procedimentos de selecção» ou «procedimentos de selecção referidos no artigo 34.º» deve passar a ler-se «procedimentos concursais».
+
+4 - São revogados os artigos 3.º a 10.º e 34.º, as alíneas c) e d) do n.º 2 do artigo 39.º e o artigo 41.º da Lei n.º 53/2006, de 7 de Dezembro, alterada pela Lei n.º 11/2008, de 20 de Fevereiro.
