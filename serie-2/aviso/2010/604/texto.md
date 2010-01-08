@@ -1,0 +1,9 @@
+Aviso n.º 604/2010
+Alteração do Plano Director Municipal de Santarém
+Delimitação de aglomerados rurais
+Presidente da Câmara Municipal de Santarém, torna público que o Executivo Municipal, em sua reunião ordinária realizada no dia 9 de Novembro de 2009, nos termos do n.º 3 e 4 do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009 de 20 de Fevereiro e pelo Decreto-Lei n.º 181/2009 de 7 de Agosto, deliberou a abertura do período de Discussão Pública da Alteração do Plano Director Municipal de Santarém - Delimitação de Aglomerados Rurais, pelo período de 30 dias úteis, a contar do 5.º dia útil a seguir à data de publicação do presente Aviso no Diário da República.
+Durante o período referenciado neste aviso, a proposta de Alteração do Plano Director Municipal, acompanhada do parecer da Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo - Delegação Sub-Regional do Vale do Tejo, os demais pareceres emitidos, bem como os resultados da concertação, estarão disponíveis para consulta na Divisão de Ordenamento do Território no edifício do Departamento de Gestão Urbanística e Ambiente, sito na Praça do Município e nas sedes das Juntas de freguesia do Concelho.
+Nesse sentido todos os interessados poderão apresentar as suas reclamações, observações ou sugestões, mediante requerimento dirigido ao Senhor Presidente de Câmara, devidamente identificado, ou então via e-mail enviada para o endereço electrónico (sigt@cm-santarem.pt).
+Para constar se publica o presente aviso, e outros de igual teor vão ser afixados nos locais do costume, na página de internet da Câmara Municipal de Santarém e divulgado através da comunicação social.
+10 de Novembro de 2009. - O Presidente da Câmara, Francisco Moita Flores.
+202749954
