@@ -1,0 +1,9 @@
+Aviso n.º 696/2010
+Jorge Codinha Antunes Barroso, Presidente da Câmara Municipal do Concelho da Nazaré:
+Torna público, em cumprimento do disposto no artigo 91.º da Lei n.º 169/99, de 18 de Setembro, com a redacção dada pela Lei n.º 5-A/2002, de 11 de Janeiro, que foi deliberado em reunião ordinária de Câmara Municipal, realizada no dia 14 de Janeiro de 2008, iniciar o processo de elaboração do Plano de Urbanização de Caixins Sul/S. Gião, encontrando-se os elementos disponíveis do Plano para consulta na Divisão de Planeamento e Urbanismo, desta Câmara Municipal.
+Participação
+Nos termos do disposto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, decorrerá por um período de 15 dias a contar da data da publicação do presente aviso no Diário da República, um processo de audição do público, durante o qual os interessados poderão formular sugestões, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento, dirigidas ao Presidente da Câmara Municipal da Nazaré, Av. Vieira Guimarães, n.º 54, 2450-951 Nazaré, podendo também utilizar para o efeito impresso próprio que pode ser obtido na Divisão de Planeamento e Urbanismo da Câmara Municipal e nas Juntas de Freguesia do Concelho.
+E para constar mandei publicar este aviso e outros de igual teor nos locais habituais, no Diário da República e ainda em dois jornais de expansão local e num de expansão nacional e na página da Câmara Municipal da Nazaré, conforme dispõe o artigo 149.º, n.º 1 do Decreto-Lei n.º 380/99, na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro.
+E eu, Chefe da Divisão de Planeamento e Urbanismo, o subscrevi.
+Nazaré, 05 de Janeiro de 2010. - O Presidente da Câmara Municipal, (Jorge Codinha Antunes Barroso, Eng.).
+202755372
