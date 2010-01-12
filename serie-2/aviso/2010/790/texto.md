@@ -1,0 +1,8 @@
+Aviso n.º 790/2010
+Regulamento de Espaços Verdes Públicos do Concelho de Vila Nova de Gaia
+Discussão pública
+Torna-se público, para efeitos do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto -Lei n.º 442/91, de 15 de Novembro, na redacção do Decreto-Lei n.º 6/96, de 31 de Janeiro, e na sequência da deliberação da Câmara Municipal de Vila Nova de Gaia de 25 de Novembro de 2009, que se encontra aberto, a partir da data de publicação deste aviso no Diário da República, II Série, e durante 30 dias, o período de discussão pública da proposta de Regulamento de Espaços Verdes Públicos do Concelho de Vila Nova de Gaia, que estará disponível no Parque Biológico de Gaia, E.M., 4430-757 Avintes, onde poderá ser consultada, nas horas normais de expediente.
+A proposta será enviada por email ou correio a quem a solicitar para o email administracao@parquebiologico.pt ou pessoalmente ou por correio para Parque Biológico de Gaia, E.M., 4430-757 Avintes.
+Qualquer observação, sugestão ou reclamação deve ser apresentada por escrito e enviada para o email administracao@parquebiologico.pt ou entregue pessoalmente ou enviada por correio para Parque Biológico de Gaia, E.M., 4430-757 Avintes, até à data limite acima indicada, com identificação expressa de Discussão Pública da proposta de Regulamento de Espaços Verdes Públicos do Concelho de Vila Nova de Gaia, com identificação do signatário e o seu endereço, para efeitos de resposta, caso se justifique, durante o período referido.
+06 de Janeiro de 2010 - Nuno Fernando da Ascenção Gomes Oliveira, Presidente do Conselho de Administração do Parque Biológico de Gaia, E. M.
+302760912
