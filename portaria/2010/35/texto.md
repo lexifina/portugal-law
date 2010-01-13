@@ -1,0 +1,7 @@
+Portaria n.º 35/2010
+de 13 de Janeiro
+Pela Portaria n.º 1033-FZ/2004, de 10 de Agosto, foi criada a zona de caça municipal das freguesias de Lamas e Podentes (processo n.º 3758-AFN), situa-da nos municípios de Penela e Miranda do Corvo, válida até 10 de Agosto de 2010, e transferida a sua gestão para a Associação de Caçadores e Pescadores da Freguesia de Lamas, que entretanto requereu a sua renovação.
+Cumpridos os preceitos legais e com fundamento no disposto no artigo 21.º, em conjugação com o estipulado na alínea a) do artigo 18.º, ambos do Decreto-Lei n.º 202/2004, de 18 de Agosto, na sua actual redacção, e não tendo sido consultados os Conselhos Cinegéticos Municipais de Penela e Miranda do Corvo por não se encontrarem constituídos, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É renovada a zona de caça municipal das freguesias de Lamas e Podentes (processo n.º 3758-AFN), bem como a respectiva transferência de gestão, por um período de seis anos, sendo aquela constituída por vários terrenos cinegéticos sitos na freguesia de Lamas, município de Miranda do Corvo, e Podentes, município de Penela, com a área de 489 ha.
+2.º Esta portaria produz efeitos a partir do dia 11 de Agosto de 2010.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Pedro de Sousa Barreiro, Secretário de Estado das Florestas e Desenvolvimento Rural, em 4 de Janeiro de 2010.
