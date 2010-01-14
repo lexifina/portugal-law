@@ -1,0 +1,100 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "51680",
+  "tipo": "Requerimento",
+  "numero": "1",
+  "data_registo": "2010-01-14",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Prevenção rodoviária",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2084",
+        "nome": "Nuno Magalhães"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4225",
+        "nome": "José Manuel Rodrigues"
+      }
+    ],
+    "DataEnvio": "2010-01-18",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-01-18",
+        "dataProrrogacao": null,
+        "dataReenvio": "2010-01-25",
+        "devolvido": null,
+        "nomeEntidade": "Governo Regional da Região Autónoma da Madeira",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": "S",
+        "respostas": [
+          {
+            "dataResposta": "2010-03-08",
+            "docRemetida": null,
+            "entidade": "Governo Regional da Região Autónoma da Madeira",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764f4467314d44426a4e7a6b744d7a63784e6930304f544a684c54677a4f4455744d7a41354f5759325a5451304d3246684c6e426b5a673d3d&fich=88500c79-3716-492a-8385-3099f6e443aa.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      },
+      {
+        "dataEnvio": "2010-01-18",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Secretaria Regional do Turismo e Transportes",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-01-14",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e52766379387855307776596a67304d6a41355a5749745a5459784d693030596a426c4c574a6d5a444d744d445930596a49304d54466b595451334c6e426b5a673d3d&fich=b84209eb-e612-4b0e-bfd3-064b2411da47.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "51680",
+    "Legislatura": "XI",
+    "Nr": "1",
+    "Observacoes": "Madeira",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "509758",
+        "obs": null,
+        "pag": [
+          "104-105"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "40",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/040/2010-01-19/104?pgs=104-105&org=PLC"
+      }
+    ],
+    "ReqTipo": "RA",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
