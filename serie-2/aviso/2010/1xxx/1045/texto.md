@@ -1,0 +1,4 @@
+Aviso n.º 1045/2010
+Torna-se público que esta Junta de Freguesia deliberou na reunião de 21/12/2009, por unanimidade, aprovar o Projecto de Regulamento de Taxas e Licenças, o qual, em conformidade com o disposto no artigo 118.º do Código de Procedimento Administrativo e o artigo 91.º da Lei n.º 169/99, de 18 de Setembro, na redacção introduzida pela Lei n.º 5-A/2002 de 11 de Janeiro, é submetido para consulta pública, pelo prazo de 30 dias úteis contados da publicação do presente aviso na 2.ª série do Diário da República, os quais poderão sobre o mesmo, formular por escrito perante o Presidente da Junta Freguesia, as observações tidas por convenientes, encontrando-se disponível para consulta na secretaria da Junta Freguesia.
+08/01/2010. - O Presidente da Junta, José João Gordinho Marques.
+302775566
