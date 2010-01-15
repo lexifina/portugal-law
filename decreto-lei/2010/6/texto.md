@@ -1,0 +1,25 @@
+Decreto-Lei n.º 6/2010
+de 15 de Janeiro
+O Decreto-Lei n.º 270/2002, de 2 de Dezembro, estabelece o sistema de preços de referência para efeitos de comparticipação pelo Estado no preço dos medicamentos. Este sistema foi implementado em Portugal tendo presente a necessidade de garantir o controlo da despesa farmacêutica, de incentivar a racionalização na utilização dos medicamentos e de incrementar a respectiva acessibilidade.
+Inicialmente, aquele decreto-lei previa uma majoração de 25 %, relativamente ao preço de referência de cada grupo homogéneo, para os utentes abrangidos pelo regime especial de comparticipação, até 31 de Dezembro de 2003, a qual foi sucessivamente prorrogada até 30 de Junho de 2006. Assim, entre 2002 e 2006, os pensionistas de mais baixos rendimentos, ou seja, aqueles com rendimento total anual igual ou inferior a catorze vezes o salário mínimo nacional, beneficiaram de uma majoração da comparticipação do Estado no preço dos medicamentos de referência, na ordem dos 25 %. Esta majoração não abrangia os medicamentos genéricos mas apenas os medicamentos de referência, vulgarmente conhecidos como medicamentos de marca.
+Posteriormente, o Decreto-Lei n.º 127/2006, de 4 de Julho, alterou esta majoração, que passou a ser de 20 %, até 31 de Dezembro de 2006. Esta majoração foi sendo sucessivamente prorrogada, nos termos dos Decretos-Leis n.os 127/2006, de 4 de Julho, 242-A/2006, de 29 de Dezembro, 392-B/2007, de 28 de Dezembro, 110/2008, de 27 de Junho, e 247/2008, de 18 de Dezembro, até 31 de Dezembro de 2009.
+Entretanto, a protecção aos grupos sociais mais carenciados conheceu uma evolução positiva muito significativa, por força de medidas adoptadas pelo XVII Governo Constitucional, pois a generalidade dos idosos e pensionistas cujo rendimento total anual não exceda catorze vezes o salário mínimo nacional passaram a beneficiar de uma comparticipação a 100 % nos medicamentos genéricos, muito superior à mera majoração de 25 % ou 20 % na comparticipação do Estado nos medicamentos de referência. Esta iniciativa, adoptada através do Decreto-Lei n.º 129/2009, de 29 de Maio, tem permitido beneficiar utentes de grupos sociais vulneráveis, o que é especialmente importante para ultrapassar a crise internacional que afectou todo o Mundo e que também se fez sentir em Portugal.
+O regime de majoração de 20 % do preço de referência para os utentes do regime especial encontra justificação na necessidade de existir um tempo de adaptação aos medicamentos genéricos mas também, e fundamentalmente, na necessidade de minorar o impacte nos grupos sociais mais carenciados.
+Uma das razões que justifica a manutenção da majoração de 20 % na comparticipação do Estado nos medicamentos de referência - a necessidade de um tempo de adaptação aos medicamentos genéricos - encontra-se em curso para poder ser considerada satisfeita. Com efeito, a comparticipação na aquisição dos medicamentos genéricos tem beneficiado cada vez mais utentes, o que é especialmente relevante quanto aos grupos sociais mais vulneráveis, à medida que se vai generalizando a utilização deste tipo de medicamentos.
+A outra razão que justifica a manutenção da majoração de 20 % - a necessidade de minorar o impacte nos grupos sociais mais carenciados - carece ainda de uma revisão do sistema de comparticipação e preços dos medicamentos que crie as condições para uma maior acessibilidade dos doentes e consumidores a medicamentos de qualidade eficazes e seguros, a preços sustentáveis.
+A concretização desta segunda condição encontra-se assumida no Programa do XVIII Governo Constitucional, onde se refere a promoção de uma revisão global do actual sistema de comparticipação do medicamento, com especial enfoque nos regimes especiais, no sentido de obter melhor equidade e mais valor para todos os cidadãos.
+Neste sentido, até à concretização desta condição, ou seja, de uma revisão global do sistema de comparticipação e preços de referência, que se pretende concretizar brevemente, justifica-se a manutenção da majoração de 20 % na comparticipação do Estado na compra de medicamentos de referência para os utentes do regime especial de comparticipação.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Prorrogação
+O prazo a que se refere o n.º 2 do artigo 6.º do Decreto-Lei n.º 270/2002, de 2 de Dezembro, com a última redacção dada pelo Decreto-Lei n.º 247/2008, de 18 de Dezembro, é prorrogado até à data de entrada do novo regime jurídico que revê o sistema de preços de referência.
+Artigo 2.º
+Produção de efeitos
+O presente decreto-lei produz efeitos a 1 de Janeiro de 2010.
+Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Ana Maria Teodoro Jorge.
+Promulgado em 8 de Janeiro de 2010.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendado em 11 de Janeiro de 2010.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
