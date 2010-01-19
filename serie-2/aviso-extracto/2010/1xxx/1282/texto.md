@@ -1,0 +1,4 @@
+Aviso (extracto) n.º 1282/2010
+Luís Filipe Martins Santiago, presidente da Assembleia de Freguesia de São Marcos, concelho de Sintra, torna público que, em reunião ordinária de 10 de Dezembro de 2009 e nos termos dos artigos 117.º e 118.º do Código do Procedimento Administrativo, a Assembleia de Freguesia deliberou submeter o projecto de alteração do Regulamento do Programa de Apoio ao Associativismo da Freguesia de São Marcos a apreciação pública para recolha de sugestões, durante o prazo de 30 dias, a contar da data da publicação do presente aviso no Diário da República, estando o mesmo disponível em www.jf-smarcos.pt, na sede da Junta de Freguesia, sita na Avenida do Brasil, 27-A, São Marcos, Agualva-Cacém, e na Delegação do Casal do Cotão da Junta de Freguesia, sita na Avenida da Cidade de Lisboa, 67-A,Casal do Cotão, Agualva-Cacém.
+12 de Janeiro de 2010. - O Presidente da Assembleia de Freguesia de São Marcos, Luís Filipe Martins Santiago.
+302783552
