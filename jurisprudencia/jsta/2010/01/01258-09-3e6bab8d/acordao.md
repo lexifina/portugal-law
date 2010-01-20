@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2010-01-20, processo 01258/09
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01258/09
+
+**Data do Acordão:** 01/20/2010
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** VALENTE TORRÃO
+
+**Descritores:** RECLAMAÇÃO; EXECUÇÃO FISCAL; PRESCRIÇÃO; DÍVIDA EXEQUENDA; REGIME DE SUBIDA; PREJUÍZO IRREPARÁVEL
+
+**Nº Convencional:** JSTA000P11379
+
+**Nº do Documento:** SA22010012001258
+
+**Recorrente:** A...
+
+**Recorrido 1:** FAZENDA PÚBLICA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - O regime regra da subida das reclamações das decisões do órgão da execução fiscal é o da subida diferida - o tribunal só conhecerá das reclamações quando, depois de realizadas a penhora e a venda, o processo lhe for remetido a final (artº. 278º, nº 1 do CPPT).
+
+II - A reclamação terá, porém, subida imediata quando a reclamação se fundamentar em prejuízo irreparável causado por qualquer das ilegalidades indicadas nas alíneas a) a d) do nº 3 do artº 278º do CPPT.
+
+III - Entende-se, todavia, que a reclamação deverá também subir imediatamente quando a retenção lhe fizer perder a sua utilidade, não tendo por isso aquela enumeração efeito taxativo.
+
+IV - Não tendo a reclamante invocado factos relevantes que demonstrem que a retenção da reclamação lhe causa prejuízo irreparável, nem se afigurando como previsível a curto prazo a realização de penhora em bens da reclamante por o processo de execução estar suspenso a aguardar decisão em processo de impugnação, a reclamação tem subida diferida, nos termos do nº 1 do artº 278º do CPPT.
+
+V - É que, no caso dos autos, nem se verifica nenhum dos fundamentos enunciados no nº 3 do artº 278º do CPPT, nem se pode concluir que a retenção da reclamação a torna inútil.
