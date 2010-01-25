@@ -1,0 +1,20 @@
+Aviso n.º 1661/2010
+Alteração do "Plano de Pormenor da Zona Envolvente aos Novos Paços de Concelho de Oliveira do Bairro"
+Mário João Ferreira da Silva Oliveira, Presidente da Câmara Municipal de Oliveira do Bairro, torna público para os devidos efeitos que, o Aviso n.º 21919/2009, de 04 de Dezembro, publicado na 2.ª série do Diário da República n.º 235, referente ao inicio do processo de alteração do "Plano de Pormenor da Zona Envolvente aos Paços do Concelho de Oliveira do Bairro", deliberado na Reunião de Câmara 11 de Novembro de 2009, surge na sequência do processo de suspensão parcial do mesmo plano de pormenor, pelo que a área de intervenção da referida alteração incide sobre a mesma área sujeita a suspensão parcial e a estabelecimento de medidas preventivas, identificada no aviso referente a esse assunto.
+Mais se informa que a alteração do referido plano de pormenor, decorre da evolução e alteração das condições sociais e culturais que estiveram subjacentes à elaboração do plano de pormenor, face à necessidade de construir a Casa da Cultura de Oliveira do Bairro no local do Antigo Quartel dos Bombeiros de Oliveira do Bairro e de parcelas confinantes. Esta situação, bem como a não necessidade de realização da avaliação ambiental estratégica, encontram-se justificadas nos Termos de Referência aprovados nas Reuniões de Câmara de 11 de Novembro de 2009 e de 14 de Janeiro de 2010.
+O prazo de elaboração da referida alteração é de 6 meses.
+Nestes termos decorrerá um período adicional de 20 (vinte) dias a contar da data de publicação do presente aviso, na 2.ª série do Diário da República, para formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração da alteração do mencionado plano.
+Neste sentido, todos os interessados poderão apresentar as suas sugestões ou observações, por escrito em impresso próprio (disponível em www.cm-olb.pt, ou no Departamento de Obras e Urbanismo - Gabinete de Planeamento), ou em ofício devidamente identificado, dirigido ao Sr. Presidente da Câmara Municipal de Oliveira do Bairro, ou ainda via e-mail para o endereço electrónico planeamento@cm-ob.pt, dentro do prazo estipulado.
+Durante aquele período, os interessados poderão consultar os elementos que constituem o processo de alteração ao plano de pormenor, das 09h às 12h 30 m e das 14h às 17h 30 m, no Departamento de Obras e Urbanismo - Gabinete de Planeamento.
+Em anexo publica-se as deliberações das Reuniões de Câmara de 26 de Novembro de 2009 e de 14 de Janeiro de 2010.
+O presente aviso vai ser afixado nos lugares públicos do costume.
+Paços do Concelho de Oliveira do Bairro, 15 de Janeiro de 2010. - O Presidente da Câmara Municipal, Mário João Ferreira da Silva Oliveira.
+ANEXO
+Deliberação da Reunião de Câmara de 26 de Novembro de 2009
+"A Câmara Municipal deliberou por maioria, com a abstenção dos Vereadores Jorge Mendonça e Lília Águas, aprovar a Informação n.º 31/09 do Gabinete de Planeamento, nos exactos termos exarados", que tem como base os seguintes pressupostos:
+1 - Termos de referencia, onde se encontra descrito a Área de Intervenção, Enquadramento Legal, Conteúdo Material e Documental, Fazes e Prazos de Elaboração, Constituição da Equipe Técnica, Enquadramento nos Instrumentos de Gestão Territorial, Situação Existente, Oportunidade da Alteração do Plano e Objectivos Estratégicos/Base Programática (Anexo I);
+2 - Prazo de elaboração da alteração é de 6 meses;
+3 - Participação Preventiva, por um período de 15 dias, para formulação de sugestões e para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de alteração do plano de pormenor.
+Deliberação da Reunião de Câmara de 14 de Janeiro de 2010
+" A Câmara Municipal deliberou por maioria, com abstenção dos Vereadores Jorge Mendonça e Lília Ana Águas, aprovar o Relatório de Justificação para a Não Realização de Avaliação Ambiental Estratégica, relativo à alteração do "Plano de Pormenor da Zona Envolvente aos Novos Paços do Concelho de Oliveira do Bairro"
+202815199
