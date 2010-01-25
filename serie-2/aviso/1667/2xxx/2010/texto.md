@@ -1,0 +1,9 @@
+Aviso n.º 1667/2010
+1.º Alteração do Plano Director Municipal do Sabugal
+Para os devidos efeitos, torna-se público que, nos termos do previsto no artigo 77.º do Decreto Lei n.º 380/99, de 22 de Setembro, com a redacção que lhe foi dada pelo Decreto Lei n.º 316/2007, de 19 de Setembro e Decreto Lei n.º 46/2009, de 20 de Fevereiro, a Câmara Municipal, em reunião ordinária de 8 de Janeiro de 2010, deliberou iniciar o procedimento relativo à alteração do Plano Director Municipal, com vista a conceber uma Zona de Localização Empresarial no Sabugal, a localizar no Alto do Espinhal e estabelecer um prazo de 15 dias, a partir da presente publicação no Diário da República, para formulação de sugestões e prestação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração por todos os interessados.
+A alteração ao PDM consubstancia-se na alteração do artigo 36.º do Regulamento prevendo uma nova Unidade Operativa de Gestão e Planeamento e referenciando os parâmetros a que deve obedecer a operação de loteamento ou o Plano de Pormenor e alteração da Carta de Ordenamento com a reclassificação daqueles solos rurais para urbanos.
+O prazo de alteração ao Plano Director Municipal é de 3 meses. A Câmara Municipal deliberou ainda sujeitar a alteração ao PDM, a Avaliação Ambiental Estratégica.
+Os interessados deverão apresentar as sugestões, informações e ou observações, mediante requerimento devidamente identificado, dirigido ao Presidente da Câmara Municipal do Sabugal, ou através do email: presidencia@cm-sabugal.pt.
+Mais se torna público que a pedido dos interessados, ser-lhes-á disponibilizado o conteúdo da deliberação, incluindo os respectivos fundamentos e termos de referência. A referida deliberação poderá ainda ser consultada no site da Câmara Municipal (http://www.cm-sabugal.pt)
+Sabugal, 18 de Janeiro de 2010. - O Presidente da Câmara - António dos Santos Robalo.
+202808776
