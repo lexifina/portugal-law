@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal de Justiça de 2010-01-27, processo 765/06.6TCFUN.L1.S1
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 765/06.6TCFUN.L1.S1
+
+**Nº Convencional:** 6ª SECÇÃO
+
+**Relator:** CARDOSO ALBUQUERQUE
+
+**Descritores:** CESSÃO DE EXPLORAÇÃO; FRACÇÃO AUTÓNOMA; EMPREENDIMENTO TURÍSTICO; NULIDADE POR FALTA DE FORMA LEGAL; DENÚNCIA; OBRIGAÇÃO DE RESTITUIÇÃO; ATRASO NA RESTITUIÇÃO DA COISA; INDEMNIZAÇÃO; RESPONSABILIDADE POR FACTO ILÍCITO; CULPA; ÓNUS DA PROVA
+
+**Nº do Documento:** SJ
+
+**Data do Acordão:** 01/27/2010
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA
+
+**Decisão:** CONCEDIDA EM PARTE
+
+## Sumário
+
+I - Os contratos de cessão de estabelecimento comercial firmados em Fevereiro de 1994 entre autores e ré, relativos a fracções autónomas que constituíam unidades de alojamento para turistas ou meios complementares de alojamento regulados pelo DL n.º 167/97, de 04-07, alterado pelos DL n.ºs 305/99, de 06-08, e 55/2002, de 11-03, e regulamentados pelo DReg n.º 34/97, de 17-09, alterado pelos DReg n.ºs 14/99, de 14-08, e 6/2000, de 27-04, deveriam ter sido celebrados por escritura pública, de acordo com o disposto no art. 80.º, n.ºs 2, al. m), e 3, do CN (na redacção então vigente).
+
+II - Declarada a nulidade de um negócio ou contrato, no caso por inobservância da forma legal imperativa, invocado no pressuposto da sua validade, se na acção tiverem sido fixados os necessários factos materiais, pode a parte ser condenada na restituição do recebido, com fundamento no art. 289.º, n.º 1, do CC, sendo esta a doutrina fixada no Assento, ora com o valor de jurisprudência uniformizadora, n.º 4/95 (publicado no DR I Série A, de 17-05-1995).
+
+III - Provado que a ré, após ter denunciado os contratos para o fim do ano de 2001, manteve as fracções em seu poder até à sua entrega aos proprietários em Julho de 2002, privando os autores de usufruir o seu valor locativo, cabe-lhe restituir o valor da fruição que delas fez durante o aludido período de tempo, pagando o montante da “renda” correspondente e que na falta de melhores elementos será o que as partes ajustaram quando firmaram cada um dos contratos, em nada para o caso relevando não ter ficado provado que as tenha afectado à finalidade constante dos contratos declarados nulos.
+
+IV - Quanto ao reembolso das despesas feitas pelos autores com as obras de reparação e substituição feitas nas fracções e respectivo equipamento, na medida em que as cláusulas que estabeleciam a obrigação da ré restituir cada uma das fracções em “bom estado” não são aplicáveis, por os contratos terem sido declarados nulos, a questão da culpa segue as regras gerais dos arts. 483.º e segs. do CC, pelo que, enquanto acto ilícito danoso, sempre teria de ser alegada e demonstrada pelos autores a culpa dos réus nas descritas deteriorações ou mau estado de conservação das fracções e equipamentos como um dos pressupostos da responsabilidade civil geral, por inexistir uma presunção legal, o que os mesmos não fizeram.
