@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 2010-01-27, processo 01119/09
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01119/09
+
+**Data do Acordão:** 01/27/2010
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** VALENTE TORRÃO
+
+**Descritores:** EMPREENDIMENTO TURÍSTICO; UTILIDADE TURÍSTICA; BENEFÍCIOS FISCAIS DEPENDENTES DE RECONHECIMENTO
+
+**Nº Convencional:** JSTA00066247
+
+**Nº do Documento:** SA22010012701119
+
+**Data de Entrada:** 11/09/2009
+
+**Recorrente:** A... E B...
+
+**Recorrido 1:** FAZENDA PÚBLICA
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAF LOULÉ PER SALTUM.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR FISC - IMT.
+
+**Legislação Nacional:** DL 423/83 DE 1983/12/05 ART20 ART16 ART19 ART27.; DL 485/88 DE 1988/12/30 ART3.; LGT98 ART43.; CPPTRIB99 ART61 N3.
+
+**Jurisprudência Nacional:** AC STA PROC937/09 DE 2010/01/20.; AC STA PROC907/09 DE 2009/12/09.
+
+## Sumário
+
+I - O disposto na alínea 22) do artº 3º do Decreto-Lei nº 485/88, de 30 de Dezembro, deve ser interpretado no sentido de que o legislador pretendeu revogar as isenções relativas à contribuição industrial e ao imposto complementar - Secção A e B (previstas no artº 16º, nº 1 alínea a) do Decreto-Lei nº 423/83, de 5 de Dezembro) e todas as previstas nos artºs 16º a 27º que se relacionem com a contribuição industrial e imposto complementar - Secção A e B - e não no sentido de que tal norma revogou integralmente os artigos 16º a 27º do Decreto-Lei nº 423/83, de 5 de Dezembro.
+
+II - Após a redacção dada ao artº 16º, nº 4 do Decreto-Lei nº 423/83, de 5 de Dezembro, pelo artº 4º do Decreto-Lei nº 38/94, de 8 de Fevereiro, a definição, a medida e prazos dos benefícios fiscais a conceder a empreendimentos de utilidade turística, no despacho de atribuição de utilidade turística, apenas passou a ser obrigatória relativamente a isenção ou redução de taxas devidas por licenças aos governos civis e à Direcção-Geral de Espectáculos.
+
+III - Assim, nos casos referidos no artº 20º, nº 1, do mesmo diploma - isenção de sisa e do imposto sobre sucessões e doações e redução do imposto do selo - os benefícios fiscais aí previstos aplicam-se automaticamente, desde que cumpridos os requisitos estabelecidos naquele mesmo diploma.
+
+IV - Deste modo, reconhecida a utilidade turística à fracção adquirida pelo recorrente, por despacho do Secretário de Estado do Turismo, de 25.08.2006, beneficiava aquele de isenção de sisa (hoje IMT) e de redução de imposto de selo, benefícios estes de aplicação automática e sem necessidade de os mesmos estarem reconhecidos no citado despacho.
+
+V - Liquidado e pago o IMT e o imposto de selo e juros compensatórios relativos a aquisição de fracção gozando daqueles benefícios, a respectiva liquidação é ilegal e porque efectuada com cometimento de erro de direito pela Administração Tributária, tem o recorrente direito a juros indemnizatórios, ao abrigo do artº 43º da Lei Geral Tributária.
