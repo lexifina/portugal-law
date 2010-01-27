@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal de Justiça de 2010-01-27, processo 675/2001.L1.S1
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 675/2001.L1.S1
+
+**Nº Convencional:** 2. ª SECÇÃO
+
+**Relator:** OLIVEIRA VASCONCELOS
+
+**Descritores:** NEXO DE CAUSALIDADE; PEÃO; TRÂNSITO DE PEÕES
+
+**Nº do Documento:** SJ
+
+**Data do Acordão:** 01/27/2010
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA
+
+**Decisão:** NEGADA A REVISTA
+
+## Sumário
+
+I - A Relação pode conhecer oficiosamente da alteração da matéria de facto, se a mesma for relevante para a questão de direito discutida nos recursos e por forma a harmonizar as respostas do tribunal de 1.ª instância.
+
+II - Ao fazê-lo no âmbito dos presentes autos dentro do âmbito da questão aí discutida – apuramento da responsabilidade pela ocorrência do acidente – não cometeu qualquer nulidade.
+
+III - A bondade da decisão da alteração da matéria de facto introduzida pela Relação, é matéria de que o STJ não pode conhecer, face ao disposto nos arts. 722.º, n.º 2, e 729.º n.º 3, ambos do CPC.
+
+IV - A culpa define-se como o nexo de imputação ético jurídico que liga o facto ilícito à vontade do agente – em face das circunstâncias especiais do caso devia e podia ter agido de outro modo – e deve ser apreciada segundo a diligência de um bom pai de família, em face das circunstâncias de dado caso.
+
+V - No caso particular dos acidentes de viação, o que importa determinar – mais do que uma violação
+
+formal de uma regra de trânsito – é o processo causal da verificação do acidente e a influência de tal conduta na sua produção.
+
+VI - Tendo resultado provado que o condutor do veículo atropelante conduzia o mesmo a uma velocidade não apurada, que encontrou nos semáforos um sinal verde, que a cerca de 30 metros avistou a autora a atravessar a via fora da passadeira que existia por perto, não se vê como atribuir-lhe qualquer culpa na ocorrência do acidente.
+
+VII - O facto de ter resultado provado que, o condutor do veículo atropelante, conduzia o veículo pela via de trânsito situada mais à esquerda da respectiva faixa de rodagem não significa necessariamente que tenha infringido o disposto no art. 14.º, n.º 1, do CE, uma vez que não existem factos – que nem sequer foram alegados – que demonstrassem que havia lugar na faixa mais à direita.
+
+VIII - A travessia de uma estrada com violação da obrigação de um peão o fazer por uma passadeira, destinada a esse efeito, é manifestamente causal do seu atropelamento.
