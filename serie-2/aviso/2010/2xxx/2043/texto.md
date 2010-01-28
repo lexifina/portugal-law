@@ -1,0 +1,11 @@
+Aviso n.º 2043/2010
+Plano de Pormenor da Antiga Fábrica de Cortiça "Socor"
+Nos termos Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, torna-se público que a Câmara Municipal de Sines, em Reunião de Câmara Pública de 21 de Janeiro de 2010, deliberou iniciar o processo de elaboração e o período de audiência prévia do Plano de Pormenor da Antiga Fábrica de Cortiça "Socor"
+O Plano de Pormenor da Antiga Fábrica da Cortiça "Socor"abrange uma área de intervenção de 1,9422 ha, localizado na zona Ocidental da Cidade de Sines, correspondendo a parte da Sub-UOPG 4.6, Norte da Rua Júdice Fialho, nomeadamente à secção 4.6.4 e parte da secção 4.6.2, conforme a planta de localização em anexo, estando completamente integrada na UOPG 4, do Plano de Urbanização da Cidade de Sines. Os limites propostos para o Plano de Pormenor são: a Nascente a Rua da Alegria, a Sul a Rua Marquês de Pombal; a Poente a Av. General Humberto Delgado e a Norte o Mercado Municipal e parte da Travessa Mariana Godinho
+A implementação deste Plano decorre da necessidade de actuar ao nível de uma zona profundamente obsoleta, com espaços edificados degradados, que necessitam de uma profunda avaliação e alteração face às actuais circunstâncias económicas, sociais e urbanísticas. Para a área de intervenção serão ponderados a admissão de usos habitacionais, de comércio, de serviços e de turismo
+O prazo estabelecido para a elaboração do Plano é de 59 dias úteis.
+Os interessados poderão, no prazo máximo de 15 dias após a publicação no Diário da República, proceder junto da Câmara Municipal de Sines, à formulação de sugestões, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração do Plano.
+Os termos de referência com a indicação da área de intervenção poderão ser consultados no Serviço Administrativo do Departamento de Ambiente Planeamento e Urbanismo, da Câmara Municipal de Sines, todos os dias úteis, entre as 9 horas e as 15 horas e 30 minutos ou ainda em www.mun-sines.pt.
+Para constar se passou o presente aviso, a que vai ser dada a publicidade prevista na lei
+Sines, Paços do Concelho, aos 21 de Janeiro de 2010. - O Presidente da Câmara Municipal de Sines, Manuel Coelho Carvalho, Dr.
+202829277
