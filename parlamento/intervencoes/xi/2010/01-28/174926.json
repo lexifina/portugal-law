@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Y5feubGpmx3U3eADC2xbJmNQ%2bo9hh0y0Ws%2bMg6e1ClK3K68Ax4Xhm%2fWAehW8ocLQeD2OxoySGddyZuNhZaLhFlUp0ir7jK%2bOM48106ZJfd5wcxphkEewWoW0V2xfzdMNDfGCCckE9GmO9gLekm49cKDkNA8ZLG3MKaBA%2fkt5m8WXIfeT%2b5Mx1%2b0sg7BllQnlJxstthBRb%2bInCrt9Uig%2bShhf4upRTB1UPB5rRZ5AdO%2bS2bOM3SOwHIIzM8sV51n%2b%2fFpTd99F%2bLrFlKG%2beBsI3Ay12J%2bsVEuFtnniXdweo0Fbri050dE53bSr8jRl8MGpmX2sdxehZ6G6%2byWG%2fP8M0NepLg61Gx0Gl5lJ5jDaOiQ%3d&fich=IntervencoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7f20a8e6bd694f3fe5bcaedfdae6b5dacd6c1585dae5f92751007c07eefc189c",
+  "legislatura": "XI",
+  "id": "174926",
+  "tipo": "Intervenção",
+  "orador": "João Semedo (BE)",
+  "data_registo": "2010-01-28",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "26152",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "26152",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Comentou a greve dos enfermeiros, e referiu a situação dos trabalhadores do Serviço Nacional de Saúde"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "A greve dos enfermeiros e a situação dos trabalhadores do Serviço Nacional de Saúde (SNS).",
+        "duracao": "00:06:55:166",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20100128pln&url=l11/sl1/a2010/m01/&tI=00:21:24:018&drc=00:06:55:166"
+      },
+      {
+        "assunto": "Responde a Bernardino Soares sobre a sua declaração acerca da greve dos enfermeiros e da situação dos trabalhadores do Serviço Nacional de Saúde (SNS).",
+        "duracao": "00:03:05:783",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20100128pln&url=l11/sl1/a2010/m01/&tI=00:31:25:528&drc=00:03:05:783"
+      },
+      {
+        "assunto": "Responde a Rosário Águas sobre a sua declaração acerca da greve dos enfermeiros e da situação dos trabalhadores do Serviço Nacional de Saúde (SNS).",
+        "duracao": "00:02:51:317",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20100128pln&url=l11/sl1/a2010/m01/&tI=00:38:38:267&drc=00:02:51:317"
+      },
+      {
+        "assunto": "Responde a Maria Antónia Almeida Santos sobre a sua declaração acerca da greve dos enfermeiros e da situação dos trabalhadores do Serviço Nacional de Saúde (SNS).",
+        "duracao": "00:01:46:603",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20100128pln&url=l11/sl1/a2010/m01/&tI=00:45:08:320&drc=00:01:46:603"
+      }
+    ],
+    "DataReuniaoPlenaria": "2010-01-28",
+    "Debate": null,
+    "Deputados": {
+      "GP": "BE",
+      "idCadastro": "803",
+      "nome": "João Semedo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "174926",
+    "IdDebate": "3960",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "174926",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "14-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-01-29",
+        "pubLeg": "XI",
+        "pubNr": "27",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/027/2010-01-29/14?pgs=14-21&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Responde a pedidos de esclarecimento dos deputados Bernardino Soares (PCP), Rosário Águas (PSD) e Maria Antónia Almeida Santos (PS)",
+    "Sessao": "1",
+    "Sumario": "Comentou a greve dos enfermeiros, e referiu a situação dos trabalhadores do Serviço Nacional de Saúde",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
