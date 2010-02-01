@@ -1,0 +1,155 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11950",
+  "numero": "21",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-02-01",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-06-16",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério das Finanças e da Administração Pública"
+            ],
+            "nrOficio": "143/5ªCOF/2010",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2010-07-19",
+                "dataResposta": "2010-09-08",
+                "nrOficio": "177/5ªCOF/2010",
+                "oficioResposta": "1608"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e686279383559325a6d5a6a4d7a597930334e5463794c54526c4d574d74595751324f43316d4e6a417a4e475177597a67344d4455756347526d&fich=9cfff33c-7572-4e1c-ad68-f6034d0c8805.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-09-21",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-03-10",
+        "DataArquivo": "2010-09-29",
+        "DataBaixaComissao": "2010-03-10",
+        "DataEnvioPAR": "2010-10-06",
+        "DataReaberta": "2010-03-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e68627938785a444d334d6d59304e6930784f574e6a4c5451785957557459545a6a4e433077597a4d33597a49794e546b354f5441756347526d&fich=1d372f46-19cc-41ae-a6c4-0c37c2259990.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-06-17",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e686279383559325a6d5a6a4d7a597930334e5463794c54526c4d574d74595751324f43316d4e6a417a4e475177597a67344d4455756347526d&fich=9cfff33c-7572-4e1c-ad68-f6034d0c8805.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-07-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e68627938794d6a426d4f546b794f53316a4f5441794c54513059545174595445324d6930334d7a6c69597a56684f4751324e6a63756347526d&fich=220f9929-c902-44a4-a162-739bc5a8d667.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e686279396b4d44646a4e47597a4d43316c5a6d55354c5451794f545574596d5a6b4d7930784d474a6d4f574a6b4d44637a4d5441756347526d&fich=d07c4f30-efe9-4295-bfd3-10bf9bd07310.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-09-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e68627938774e7a51324d7a49345969316d4d4445334c545268597a41744f574d774d69307a4f4746694e6a497a5a6a4e68595451756347526d&fich=0746328b-f017-4ac0-9c02-38ab623f3aa4.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2868",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Orçamento e Finanças",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-03-10",
+            "gp": "PS",
+            "id": "2225",
+            "motivoCessacao": null,
+            "nome": "Hortense Martins"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6d4a69596d4668595441745a446b7a596930304d4451324c54686d5a4467744f57566c4e4463784f574e694d5755344c6e426b5a673d3d&fich=6bbbaaa0-d93b-4046-8fd8-9ee4719cb1e8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11950",
+    "PetAssunto": "Pretende que as pessoas colectivas sem fins lucrativos fiquem isentas de I.R.C.  e de Pagamento Especial por Conta.",
+    "PetDataEntrada": "2010-02-01",
+    "PeticoesAssociadas": null,
+    "PetId": "11950",
+    "PetLeg": "XI",
+    "PetNr": "21",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
