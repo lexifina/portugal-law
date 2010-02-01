@@ -1,0 +1,20 @@
+Portaria n.º 971/2009
+de 27 de Agosto
+A revalidação anual do alvará prevista no regime jurídico do exercício da actividade da construção, aprovado pelo Decreto-Lei n.º 12/2004, de 9 de Janeiro, estabelece como uma das condições mínimas de permanência na actividade que as empresas com habilitações em classe superior à classe 1 detenham, no último exercício ou na média dos três últimos exercícios, valores de liquidez geral e autonomia financeira iguais ou superiores aos valores fixados na Portaria n.º 994/2004, de 5 de Agosto, os quais são de 110 % e 15 % para a liquidez geral e para a autonomia financeira, respectivamente.
+Os dados financeiros de referência - balanço e demonstração de resultados - para efeitos de revalidação para o ano seguinte são os entregues para o cumprimento das obrigações fiscais de cada ano, relativos ao exercício do ano anterior. Assim, a revalidação do alvará para os anos de 2010 e 2011 tem como valores de referência os dados financeiros de 2008 e 2009, respectivamente.
+A grave crise económica e financeira de âmbito mundial e nacional que se instalou no ano de 2008, com permanência em 2009, recomenda que se considerem algumas medidas provisórias e de excepção que, de algum modo, salvaguardem as empresas de construção das consequências nefastas para a manutenção da sua actividade decorrentes dos previsíveis maus resultados económico-financeiros relativos aos exercícios destes dois anos.
+Neste contexto, foi entendido baixar transitoriamente o nível de exigência dos valores mínimos para os indicadores de liquidez geral e autonomia financeira, relativamente às revalidações dos alvarás que tenham como dados de referência os exercícios de 2008 e 2009. Uma medida de natureza similar, de menor exigência para os valores mínimos daqueles rácios, fora já antes implementada no ano de adaptação ao novo e actual regime do exercício da actividade da construção.
+Estando já em curso a preparação do processo de revalidação para 2010, no qual se repercutem os dados financeiros de 2008, há que proceder, em tempo útil, à concretização desta medida provisória.
+Salienta-se o carácter excepcional e transitório desta medida, limitada aos anos de crise declarada. Com efeito, esta medida de menor exigência, tomada exclusivamente pela invulgar profundidade da presente crise económica e financeira, não poderá transformar-se num factor de descredibilização do alvará, numa altura em que, com a recente entrada em vigor do Código dos Contratos Públicos, aquele adquiriu um carácter mais determinante no âmbito da concorrência no mercado das obras públicas.
+Assim:
+Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, ao abrigo do n.º 5 do artigo 10.º do Decreto-Lei n.º 12/2004, de 9 de Janeiro, o seguinte:
+1.º Os indicadores de liquidez geral e autonomia financeira, com vista ao acesso e permanência na actividade da construção das empresas do sector, são definidos do seguinte modo:
+a) Liquidez geral = (existências + disponibilidades + +dívidas de terceiros a curto prazo)/passivo a curto prazo;
+b) Autonomia financeira = capitais próprios/activo líquido total.
+2.º Os valores de referência dos indicadores enunciados no número anterior são transitoriamente os seguintes:
+a) Quando a última declaração fiscal exigível e já disponível seja a referente aos anos de 2008 e 2009:
+(ver documento original)
+b) Quando a última declaração fiscal exigível e já disponível seja a referente ao ano de 2010 e até fixação de novos indicadores:
+(ver documento original)
+3.º A presente portaria entra em vigor no dia 1 de Fevereiro de 2010 e revoga a Portaria n.º 994/2004, de 5 de Agosto.
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 19 de Agosto de 2009.
