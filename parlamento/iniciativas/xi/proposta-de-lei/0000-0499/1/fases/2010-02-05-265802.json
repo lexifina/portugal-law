@@ -1,0 +1,1082 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "1",
+    "id": "34912",
+    "titulo": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2010-02-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7316",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2010-02-05",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-02-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Lacão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/48?pgs=48-51&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175127",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06?org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Lacão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52",
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/52?pgs=52,54-55&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175129",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/55?pgs=55-57&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Lacão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58",
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/58?pgs=58,60-61&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/59?pgs=59&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4057",
+                "nome": "Assunção Cristas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/61?pgs=61-63&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175136",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/63?pgs=63-65&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175137",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175138",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/66?pgs=66-68&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175139",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175140",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Lacão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/73?pgs=73&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4225",
+                "nome": "José Manuel Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/74?pgs=74&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3236",
+                "nome": "Defensor Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:13",
+            "horaTermo": "15:14",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-06",
+                "pubLeg": "XI",
+                "pubNr": "30",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06/77?pgs=77-78&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Orgânica n.º 1/2007, de 19 de Fevereiro, que aprova a Lei de Finanças das Regiões Autonomas",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "265802",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "7316",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-02-06",
+        "pubLeg": "XI",
+        "pubNr": "30",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/030/2010-02-06?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2010-02-05",
+        "descricao": "Texto de Substituição apresentado pela Comissão de Orçamento e Finanças. (Maioria absoluta dos Deputados em efectividade de funções, com recurso a votação electrónica, nos termos da alínea t) do artigo 164.º, n.º 2 do artigo 166.º e n.º 5 do artigo 168.º da CRP e do n.º 4 do artigo 94.º do RAR.)",
+        "detalhe": "A Favor: <I>1-PS</I>, <I> 76-PSD</I>, <I> 19-CDS-PP</I>, <I> 16-BE</I>, <I> 13-PCP</I>, <I> 2-PEV</I><BR>Contra:<I>87-PS</I>",
+        "id": "54940",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "30",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
