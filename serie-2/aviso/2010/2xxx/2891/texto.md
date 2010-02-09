@@ -1,0 +1,4 @@
+Aviso n.º 2891/2010
+António Jacinto Branco Moreira Guerreiro, Chefe de Divisão de Obras de Construção Civil do Departamento de Obras Municipais da Câmara Municipal de Tomar, no uso de competência subdelegada, torna público que a Assembleia Municipal de Tomar, sob proposta da Câmara Municipal de Tomar na sua reunião realizada em 12 de Novembro de 2009, e cumpridas as formalidades legais do artigo 118.º do Código do Procedimento Administrativo, deliberou, na 5.ª sessão ordinária realizada em 21 de Dezembro de 2009, aprovar a alteração ao Regulamento do Parque Público de Estacionamento de Duração Limitada e Utilização Onerosa sito na rua João dos Santos Simões, cujo teor consta integralmente do Aviso n.º 12438/2008 referente ao projecto de regulamento publicado na 2.ª série do Diário da República n.º 78 de 21 de Abril de 2008.
+Paços do Município de Tomar, 28 de Janeiro de 2010. - O Chefe de Divisão, António Branco Guerreiro.
+302853552
