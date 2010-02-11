@@ -1,0 +1,2363 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "8",
+    "id": "35053",
+    "titulo": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2010-02-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7335",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2010-02-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "35054",
+        "leg": "XI",
+        "nr": "9",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1380",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-02-12",
+            "pubLeg": "XI",
+            "pubNr": "32",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12?org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Orçamento do Estado para 2010."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-02-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2227",
+                "nome": "Jorge Seguro Sanches"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14",
+                  "8-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/8?pgs=8-11,13-14&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/10?pgs=10&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/11?pgs=11-13&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1990",
+                "nome": "Miguel Frasquilho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-18",
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/14?pgs=14-18,21-22&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XVII GOVERNO CONSTITUCIONAL",
+              "nome": "Teixeira dos Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/19?pgs=19-21&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   EDUCAÇÃO",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Isabel Alçada"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-24",
+                  "29-30",
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/22?pgs=22-24,29-30,33-34&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/24?pgs=24-26&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2114",
+                "nome": "Emídio Guerreiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2169",
+                "nome": "Paula Barros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/28?pgs=28&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/30?pgs=30-32&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4221",
+                "nome": "Vânia Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/32?pgs=32&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2729",
+                "nome": "Bravo Nico"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/33?pgs=33&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1028",
+                "nome": "Sónia Fertuzinhos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/35?pgs=35-38&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3942",
+                "nome": "Francisca Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/37?pgs=37&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-44",
+                  "46-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/39?pgs=39-44,46-48&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/44?pgs=44-46&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46",
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/46?pgs=46,50&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Lacão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48",
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/48?pgs=48,50-51&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50",
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/49?pgs=49-50,55-56&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/51?pgs=51&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Lacão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  ECONOMIA, DA INOVAÇÃO E DO DESENVOLVIMENTO",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Vieira Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-54",
+                  "57-59",
+                  "62-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/52?pgs=52-54,57-59,62-64&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2015",
+                "nome": "António Almeida Henriques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2095",
+                "nome": "Maria José Gamboa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/57?pgs=57&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3943",
+                "nome": "Nuno Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2225",
+                "nome": "Hortense Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3990",
+                "nome": "Pedro Saraiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/62?pgs=62&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  ECONOMIA, DA INOVAÇÃO E DO DESENVOLVIMENTO",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Vieira Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/65?pgs=65&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/66?pgs=66&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  ECONOMIA, DA INOVAÇÃO E DO DESENVOLVIMENTO",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Vieira Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175185",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/67?pgs=67-69&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4135",
+                "nome": "Nuno Araújo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175186",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/68?pgs=68&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2027",
+                "nome": "Adriano Rafael Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175187",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4169",
+                "nome": "Carina Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175188",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175189",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/71?pgs=71-73&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175190",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/73?pgs=73-76&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3998",
+                "nome": "José Manuel Pureza"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175191",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/76?pgs=76-78&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/78?pgs=78-82&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175193",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/82?pgs=82-84&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175194",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/84?pgs=84-90&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "18:57",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  PRESIDÊNCIA",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Silva Pereira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "90-96"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-02-12",
+                "pubLeg": "XI",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/90?pgs=90-96&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano - Principais Linhas de Acção para 2010-2013; Orçamento do Estado para 2010",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "266088",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "509149",
+        "obs": null,
+        "pag": [
+          "2-96"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-02-12",
+        "pubLeg": "XI",
+        "pubNr": "32",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/032/2010-02-12/2?pgs=2-96&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
