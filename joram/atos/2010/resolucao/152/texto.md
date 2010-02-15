@@ -1,0 +1,21 @@
+# Resolução n.º 152/2010
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 12/2010, 2.º suplemento, de 2010-02-15
+
+**Sumário:** Autoriza os Serviços da Secretaria Regional do Equipamento Social a prosseguir com as intervenções de limpeza, desassoreamento, reparação e reconstrução das infra-estruturas hidráulicas, vias de comunicação e de protecção da orla costeira mais danificadas, no sentido de repor as suas condições de normal funcionamento com a maior urgência possível, com dispensa das formalidades e procedimentos previstos na Lei, relativamente às intervenções de manifesta urgência, ratificando as decisões entretanto adoptadas, face à referida urgência e ao manifesto interesse público das intervenções em causa.
+
+## Texto
+
+Resolução n.º 152/2010
+Considerando que no inicio do corrente mês de Fevereiro, a Região voltou a ser atingida por condições atmosféricas excepcionalmente adversas, designadamente uma intensa e anormal pluviosidade e ventos fortes, que provocaram danos significativos em infra-estruturas e equipamentos públicos no domínio dos cursos de água, rede viária e da protecção da orla costeira;
+Considerando que, em alguns casos, tais adversas condições atmosféricas, acentuaram os danos e prejuízos causados pelos temporais ocorridos em Dezembro de 2009;
+Considerando que, num quadro de excepcionalidade decorrente da natureza dos factos ocorridos, importa assegurar as necessárias condições de implementação às intervenções em curso e a executar no domínio das infra-estruturas hidráulicas, da rede viária e da protecção da orla costeira, ratificando os procedimentos já executados e propiciando o devido enquadramento às intervenções que de imediato se afiguram recomendáveis, em ordem a assegurar, com a maior celeridade possível, as condições de funcionamento em segurança das infra-estruturas e equipamentos atingidos.
+Nestes termos, ao abrigo da alínea b) do artigo 69.º do Estatuto Político-Administrativo, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pelas Leis n.ºs 130/99, de 21 de Agosto, e 12/2000, de 21 de Julho, e considerando que se encontram reunidas as condições baseadas no princípio da necessidade, com aflorações várias no Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, e pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro, e Lei n.º 30/2008, de 10 de Janeiro, conjugado com a alínea c) do n.º 1 do artigo 24.º e alínea c) do n.º 2, e alínea a) do n.º 4 do artigo 95.º do Decreto-Lei 18/2008, de 29 de Janeiro, adaptado à Região
+
+Autónoma da Madeira pelo Decreto Legislativo Regional n.º 34/2008/M, de 14 de Agosto, com as alíneas b) e c) do artigo 6.º do Decreto Legislativo Regional n.º 33/2008/M, de 14 de Agosto, que adapta à Região a Lei n.º 58/2005 de 29 de Dezembro, e com o artigo 1352.º do Código Civil, o Conselho do Governo reunido em plenário em 10 de Fevereiro de 2010, resolveu:
+1 - Autorizar os Serviços da Secretaria Regional do Equipamento Social, a prosseguir com as intervenções de limpeza, desassoreamento, reparação e reconstrução das infra-estruturas hidráulicas, vias de comunicação e de protecção da orla costeira mais danificadas, no sentido de repor as suas condições de normal funcionamento com a maior urgência possível, com dispensa das formalidades e procedimentos previstos na Lei, relativamente às intervenções de manifesta urgência, ratificando as decisões entretanto adoptadas, face à referida urgência e ao manifesto interesse público das intervenções em causa.
+2 - Determinar a limpeza, estabilização e consolidação dos terrenos confinantes com os cursos de água, que não integrem o domínio público, incluindo intervenções de regularização, aterros, escavações ou alterações do coberto vegetal.
+3 - Declarar de utilidade pública as obras e intervenções a realizar nos prédios confinantes com as infraestruturas e equipamentos públicos, no sentido de repor, com a maior urgência, o normal funcionamento e assegurar a segurança dos mesmos.
+Presidência do Governo Regional. - O SECRETÁRIO REGIONAL DOS RECURSOS HUMANOS, no exercício da Presidência, Eduardo António Brazão de Castro.
