@@ -1,0 +1,6 @@
+Aviso n.º 3371/2010
+Francisco José Guedes Ribeiro, Presidente da Câmara Municipal de Santa Marta de Penaguião:
+Faz Público, nos termos da alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, e ao abrigo do n.º 3, do artigo 57.º da mesma lei, que o Executivo Municipal, em reunião ordinária realizada em 2 de Fevereiro de 2010, aprovou, por unanimidade, o "Projecto de Regulamento e Tabela de Taxas do Município de Santa Marta de Penaguião" e submetê-lo a audiência e apreciação pública, nos termos dos artigos 117.º e 118.º do Código do Procedimento Administrativo. Os interessados poderão dirigir por escrito as suas sugestões à Câmara Municipal de Santa Marta de Penaguião, dentro do prazo de 30 dias contados da data da publicação do presente edital no Diário da República. O referido Regulamento está patente para consulta todos os dias úteis, durante o horário normal de expediente, no Gabinete de Atendimento ao Munícipe e ainda disponível no site da Câmara Municipal em www.cm-smpenaguiao.pt.
+Para constar e produzir efeitos legais se publica este e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+Santa Marta de Penaguião, 2 de Fevereiro de 2010. - O Presidente da Câmara, Francisco José Guedes Ribeiro.
+302889988
