@@ -1,0 +1,5 @@
+# Artigo 3.º
+
+### Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte à sua publicação.
