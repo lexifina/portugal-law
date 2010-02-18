@@ -1,0 +1,134 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=vqu5%2bcGAcPEn9XYilyZQKf69vWPH5%2bMxgjP5bizpbp1tX%2fiJhT8phaf%2fM1YfTkfG1bDfMQrWCcKlnAXUWnvgN6M1J2z1qOXekqa5s3ca5TUeIGAzUxuBQ%2bVq7PdYQLoojJ9GtA5GRhj35MwZnFdUqq3zhZQBa6n20CcPYmTqmJvOzSC8%2btSMg%2bA4oHpHNEcroBJ5JY%2bz2NjcPLXzZ5wQ3D4K2ZT4eHHzyYdrcRfjA%2bn%2f8fx6sDttyQUFCzDAk0ZXMmPq1fBjqt3Tz6qdT3o%2bQ7%2fcWd634MrFcdnTMlcY7SvEHcd3zb737MasIbwG2E8F0t%2bsb%2bNwP8E%2bAPamJS2XVPQsSI3hmWVyKORYKi%2bFyXGfDWgRN4MGHs0GYbDD%2fobUSZyGugShdyTQVIkLE57DOclqRCNeiY4vILeYi9pMNRM4MRWMFeyATPrnjjn64ryz&fich=OEPropostasAlteracao2010Or_json.txt&Inline=true",
+  "ficheiro_sha256": "a94eb1ee9c154411cfe7f928e8e5a3edea448a33bbd740816d9ec4ca330f0a8b",
+  "legislatura": "XI",
+  "id": "4171",
+  "numero": "3P",
+  "orcamento": "2010",
+  "versao": "Or",
+  "data_registo": "2010-02-18",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "4171",
+    "Numero": "3P",
+    "Data": "18/02/2010 11:40:00",
+    "Titulo": "Artigo 49.º-A",
+    "Tema": null,
+    "Apresentada": "Plenário",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Aprovado(a) Parcialmente em Plenário",
+    "NumeroArtigoNovo": "Artigo 49.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5441794d4445774d4445794e6939515153396959574d774e6a526a4f5330304f4442684c54513159544d74596a4a6c4d69316c4f5749794d7a67334d474931596a55756347526d&Fich=bac064c9-480a-45a3-b2e2-e9b23870b5b5.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "JORGE MACHADO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 49.º-A",
+        "Titulo": "Consignação temporária de receita do IVA",
+        "Texto": null,
+        "Estado": "Entrada",
+        "Numeros": [
+          {
+            "Numero": "N.º 1",
+            "Titulo": null,
+            "Texto": null,
+            "Estado": "Entrada"
+          },
+          {
+            "Numero": "N.º 2",
+            "Titulo": null,
+            "Texto": null,
+            "Estado": "Entrada"
+          }
+        ]
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": [
+        {
+          "Descricoes": {
+            "Descricao": "N.º 1, Artigo 49.º-A"
+          },
+          "DiplomasTerceirosouPropostasDeLeiMapas": null,
+          "SubDescricao": null,
+          "Data": "11/03/2010 00:00:00",
+          "ResultadoCompleto": "Aprovado(a) Parcialmente em Plenário",
+          "Resultado": "Aprovado(a)",
+          "GruposParlamentares": {
+            "GrupoParlamentar": [
+              "Partido Socialista",
+              "Partido Social Democrata",
+              "Partido Popular",
+              "Bloco de Esquerda",
+              "Partido Comunista Português",
+              "Partido Ecologista \"Os Verdes\""
+            ],
+            "Voto": [
+              "Favor",
+              "Contra",
+              "Favor",
+              "Favor",
+              "Favor",
+              "Favor"
+            ]
+          }
+        },
+        {
+          "Descricoes": {
+            "Descricao": "N.º 2, Artigo 49.º-A"
+          },
+          "DiplomasTerceirosouPropostasDeLeiMapas": null,
+          "SubDescricao": null,
+          "Data": "11/03/2010 00:00:00",
+          "ResultadoCompleto": "Aprovado(a) Parcialmente em Plenário",
+          "Resultado": "Rejeitado(a)",
+          "GruposParlamentares": {
+            "GrupoParlamentar": [
+              "Partido Socialista",
+              "Partido Social Democrata",
+              "Bloco de Esquerda",
+              "Partido Comunista Português",
+              "Partido Ecologista \"Os Verdes\""
+            ],
+            "Voto": [
+              "Contra",
+              "Contra",
+              "Favor",
+              "Favor",
+              "Favor"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
