@@ -14,4 +14,4 @@ d) Assegurar as demais componentes do financiamento, cumprindo, pontualmente, as
 
 e) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projecto, não alterando, nem modificando o mesmo, sem prévia autorização do gestor;
 
-f) Constituir, até à data da conclusão material do projecto, contado da data da última factura, e manter válido pelo prazo de cinco anos, um seguro marítimo de casco com cobertura extensível a doca seca no montante mínimo do valor do apoio público.
+f) Comprovar até à data de apresentação do último pedido de pagamento a existência de seguro marítimo de casco com cobertura extensível a doca seca no montante mínimo do valor do apoio público, à excepção das embarcações de pesca local.
