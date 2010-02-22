@@ -1,0 +1,6 @@
+Aviso n.º 37/2010
+Por ordem superior se torna público que, por notificação de 10 de Março de 2008, o Secretário-Geral das Nações Unidas comunicou ter a Suíça realizado uma notificação relativa à Convenção de Viena sobre o Direito dos Tratados, adoptada em Viena em 23 de Maio de 1969.
+Em 7 de Março de 2008, o Governo da Suíça notificou o Secretário-Geral da sua intenção de renovar a nomeação de Mr. Lucius Caflisch, membro da Comissão de Direito Internacional e de Mr. Walter Kälin, Professor de Direito Público e Direito Internacional na Universidade de Berna como conciliadores nos termos do n.º 1 do anexo à Convenção.
+A República Portuguesa é Parte na mesma Convenção, a qual foi aprovada pela Resolução da Assembleia da República n.º 67/2003 e ratificada pelo Decreto do Presidente da República n.º 46/2003, ambos publicados no Diário da República,1.ª série, n.º 181, de 7 de Agosto de 2003.
+O instrumento de adesão foi depositado em 6 de Fevereiro de 2004, estando esta Convenção em vigor para a República Portuguesa desde 7 de Março de 2004, conforme o Aviso n.º 27/2004, publicado no Diário da República, 1.ª série, n.º 80, de 3 de Abril de 2004.
+Departamento de Assuntos Jurídicos, 3 de Fevereiro de 2010. - O Director, Miguel de Serpa Soares.
