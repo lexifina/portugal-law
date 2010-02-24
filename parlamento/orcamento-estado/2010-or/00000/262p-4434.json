@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=vqu5%2bcGAcPEn9XYilyZQKf69vWPH5%2bMxgjP5bizpbp1tX%2fiJhT8phaf%2fM1YfTkfG1bDfMQrWCcKlnAXUWnvgN6M1J2z1qOXekqa5s3ca5TUeIGAzUxuBQ%2bVq7PdYQLoojJ9GtA5GRhj35MwZnFdUqq3zhZQBa6n20CcPYmTqmJvOzSC8%2btSMg%2bA4oHpHNEcroBJ5JY%2bz2NjcPLXzZ5wQ3D4K2ZT4eHHzyYdrcRfjA%2bn%2f8fx6sDttyQUFCzDAk0ZXMmPq1fBjqt3Tz6qdT3o%2bQ7%2fcWd634MrFcdnTMlcY7SvEHcd3zb737MasIbwG2E8F0t%2bsb%2bNwP8E%2bAPamJS2XVPQsSI3hmWVyKORYKi%2bFyXGfDWgRN4MGHs0GYbDD%2fobUSZyGugShdyTQVIkLE57DOclqRCNeiY4vILeYi9pMNRM4MRWMFeyATPrnjjn64ryz&fich=OEPropostasAlteracao2010Or_json.txt&Inline=true",
+  "ficheiro_sha256": "a94eb1ee9c154411cfe7f928e8e5a3edea448a33bbd740816d9ec4ca330f0a8b",
+  "legislatura": "XI",
+  "id": "4434",
+  "numero": "262P",
+  "orcamento": "2010",
+  "versao": "Or",
+  "data_registo": "2010-02-24",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "4434",
+    "Numero": "262P",
+    "Data": "24/02/2010 18:48:00",
+    "Titulo": "Novo Artigo 70.º-A à PPL",
+    "Tema": null,
+    "Apresentada": "Plenário",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Plenário",
+    "NumeroArtigoNovo": "Artigo 70.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5441794d4445774d4445794e693951515338355a574e6a5a6a426c4d43307a596d59354c54526d4f5441744f4455795a43316b597a5977597a6c685954466d4f5749756347526d&Fich=9eccf0e0-3bf9-4f90-852d-dc60c9aa1f9b.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 70.º-A",
+        "Titulo": "Remuneração dos certificados de aforro",
+        "Texto": null,
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 70.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Remuneração dos certificados de aforro",
+        "Data": "11/03/2010 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Plenário",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Popular",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Partido Ecologista \"Os Verdes\""
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
