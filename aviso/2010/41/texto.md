@@ -1,0 +1,4 @@
+Aviso n.º 41/2010
+Por ordem superior se torna público que, em 3 de Novembro de 2009, o Governo da Etiópia depositou o seu instrumento de adesão ao Acordo para a Conservação das Aves Aquáticas Migradoras Afro-Euroasiáticas e anexos, adoptado na Haia em 15 de Agosto de 1996.
+Portugal é Parte do mesmo Acordo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 69/2003 e ratificado pelo Decreto do Presidente da República n.º 47/2003, ambos publicados no Diário da República, 1.ª série-A, n.º 190, de 19 de Agosto de 2003, tendo depositado o seu instrumento de adesão em 11 de Dezembro de 2003, conforme o Aviso n.º 140/2005, publicado no Diário da República, 1.ª série-A, n.º 78, de 21 de Abril de 2005.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 15 de Fevereiro de 2010. - O Subdirector-Geral, Miguel de Almeida e Sousa.
