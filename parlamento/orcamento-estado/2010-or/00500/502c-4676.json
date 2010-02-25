@@ -1,0 +1,132 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=vqu5%2bcGAcPEn9XYilyZQKf69vWPH5%2bMxgjP5bizpbp1tX%2fiJhT8phaf%2fM1YfTkfG1bDfMQrWCcKlnAXUWnvgN6M1J2z1qOXekqa5s3ca5TUeIGAzUxuBQ%2bVq7PdYQLoojJ9GtA5GRhj35MwZnFdUqq3zhZQBa6n20CcPYmTqmJvOzSC8%2btSMg%2bA4oHpHNEcroBJ5JY%2bz2NjcPLXzZ5wQ3D4K2ZT4eHHzyYdrcRfjA%2bn%2f8fx6sDttyQUFCzDAk0ZXMmPq1fBjqt3Tz6qdT3o%2bQ7%2fcWd634MrFcdnTMlcY7SvEHcd3zb737MasIbwG2E8F0t%2bsb%2bNwP8E%2bAPamJS2XVPQsSI3hmWVyKORYKi%2bFyXGfDWgRN4MGHs0GYbDD%2fobUSZyGugShdyTQVIkLE57DOclqRCNeiY4vILeYi9pMNRM4MRWMFeyATPrnjjn64ryz&fich=OEPropostasAlteracao2010Or_json.txt&Inline=true",
+  "ficheiro_sha256": "a94eb1ee9c154411cfe7f928e8e5a3edea448a33bbd740816d9ec4ca330f0a8b",
+  "legislatura": "XI",
+  "id": "4676",
+  "numero": "502C",
+  "orcamento": "2010",
+  "versao": "Or",
+  "data_registo": "2010-02-25",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "4676",
+    "Numero": "502C",
+    "Data": "25/02/2010 17:06:00",
+    "Titulo": "Novo Artigo 15.º-A (Aumentos mínimos das remunerações dos trabalhadores que exercem funções públicas)",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Plenário",
+    "NumeroArtigoNovo": "Artigo 15.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5441794d4445774d4445794e693951515338784e3249334e4756684d6931694f444e6d4c5451344d5459744f5752684e7930314f4745355a475a695a5445774e5451756347526d&Fich=17b74ea2-b83f-4816-9da7-58a9dfbe1054.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BERNARDINO SOARES"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "JORGE MACHADO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "True",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 15.º-A",
+        "Titulo": "Aumentos mínimos das remunerações dos trabalhadores que exercem funções públicas",
+        "Texto": "Em 2010 nenhum aumento de tabela salarial dos Trabalhadores da Administração Pública será inferior ao valor necessário para recuperar pelo menos 50% da perda acumulada de poder de compra sofrida na última década, acrescida da taxa de inflação prevista.",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": {
+      "Requerimento": {
+        "Data": "08/03/2010 10:20:00",
+        "Titulo": "Requerimento de Avocação 1A",
+        "Observacoes": "Avocação da discussão e votação da Proposta de Alteração n.º 502C (PCP)",
+        "Aprovado": "True",
+        "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a544556484c3039464c7a49774d5441794d4445774d4445794e69395351533953556d56784d5545756347526d&Fich=RReq1A.pdf&Inline=true"
+      }
+    },
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": [
+        {
+          "Descricoes": {
+            "Descricao": "Artigo 15.º-A"
+          },
+          "DiplomasTerceirosouPropostasDeLeiMapas": null,
+          "SubDescricao": "Aumentos mínimos das remunerações dos trabalhadores que exercem funções públicas",
+          "Data": "11/03/2010 00:00:00",
+          "ResultadoCompleto": "Rejeitado(a) em Plenário",
+          "Resultado": "Rejeitado(a)",
+          "GruposParlamentares": {
+            "GrupoParlamentar": [
+              "Partido Socialista",
+              "Partido Social Democrata",
+              "Partido Popular",
+              "Bloco de Esquerda",
+              "Partido Comunista Português",
+              "Partido Ecologista \"Os Verdes\""
+            ],
+            "Voto": [
+              "Contra",
+              "Contra",
+              "Contra",
+              "Favor",
+              "Favor",
+              "Favor"
+            ]
+          }
+        },
+        {
+          "Descricoes": {
+            "Descricao": "Artigo 15.º-A"
+          },
+          "DiplomasTerceirosouPropostasDeLeiMapas": null,
+          "SubDescricao": "Aumentos mínimos das remunerações dos trabalhadores que exercem funções públicas",
+          "Data": "04/03/2010 00:00:00",
+          "ResultadoCompleto": "Rejeitado(a) em Comissão",
+          "Resultado": "Rejeitado(a)",
+          "GruposParlamentares": {
+            "GrupoParlamentar": [
+              "Partido Socialista",
+              "Partido Social Democrata",
+              "Partido Popular",
+              "Bloco de Esquerda",
+              "Partido Comunista Português"
+            ],
+            "Voto": [
+              "Contra",
+              "Contra",
+              "Contra",
+              "Favor",
+              "Favor"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
