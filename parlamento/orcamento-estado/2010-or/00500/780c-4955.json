@@ -1,0 +1,121 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=vqu5%2bcGAcPEn9XYilyZQKf69vWPH5%2bMxgjP5bizpbp1tX%2fiJhT8phaf%2fM1YfTkfG1bDfMQrWCcKlnAXUWnvgN6M1J2z1qOXekqa5s3ca5TUeIGAzUxuBQ%2bVq7PdYQLoojJ9GtA5GRhj35MwZnFdUqq3zhZQBa6n20CcPYmTqmJvOzSC8%2btSMg%2bA4oHpHNEcroBJ5JY%2bz2NjcPLXzZ5wQ3D4K2ZT4eHHzyYdrcRfjA%2bn%2f8fx6sDttyQUFCzDAk0ZXMmPq1fBjqt3Tz6qdT3o%2bQ7%2fcWd634MrFcdnTMlcY7SvEHcd3zb737MasIbwG2E8F0t%2bsb%2bNwP8E%2bAPamJS2XVPQsSI3hmWVyKORYKi%2bFyXGfDWgRN4MGHs0GYbDD%2fobUSZyGugShdyTQVIkLE57DOclqRCNeiY4vILeYi9pMNRM4MRWMFeyATPrnjjn64ryz&fich=OEPropostasAlteracao2010Or_json.txt&Inline=true",
+  "ficheiro_sha256": "a94eb1ee9c154411cfe7f928e8e5a3edea448a33bbd740816d9ec4ca330f0a8b",
+  "legislatura": "XI",
+  "id": "4955",
+  "numero": "780C",
+  "orcamento": "2010",
+  "versao": "Or",
+  "data_registo": "2010-02-25",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "4955",
+    "Numero": "780C",
+    "Data": "25/02/2010 23:20:00",
+    "Titulo": "Lisboa - Centro de Saúde de Mem Martins - Novo - Reforço de dotação de 200 000 €",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Mapa PIDDAC",
+    "Tipo": "Emenda",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5441794d4445774d4445794e69395151533879596d49354f4459334e5330774e47566b4c5451304f444d74596d4668596931684e5446695a54457a4e7a4e694e6a51756347526d&Fich=2bb98675-04ed-4483-baab-a51be1373b64.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "BE",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "BE",
+          "Deputado": "ANA DRAGO"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "FRANCISCO LOUÇÃ"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "HELENA PINTO"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "LUÍS FAZENDA"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "RITA CALVÁRIO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 1.º",
+        "Titulo": "Aprovação",
+        "Texto": "1 - É aprovado pela presente lei o Orçamento do Estado para o ano de 2010, constante dos mapas seguintes: \r\n\r\na) Mapas I a IX, com o orçamento da administração central, incluindo os orçamentos dos serviços e fundos autónomos; \r\n\r\nb) Mapas X a XII, com o orçamento da segurança social; \r\n\r\nc) Mapas XIII e XIV, ",
+        "Estado": "Aprovado(a) em Plenário",
+        "Numeros": {
+          "Numero": "N.º 1",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Aguarda Voto em Plenário",
+          "Alineas": {
+            "Alinea": "Alínea d)",
+            "Titulo": null,
+            "Texto": null,
+            "Estado": "Aguarda Voto em Plenário"
+          }
+        }
+      }
+    },
+    "ProgramasMedidas": {
+      "Nome": "P17 - Saúde",
+      "Descricao": "M23 - Saúde - Serviços individuais de saúde"
+    },
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": "13 - Saúde",
+    "Medidas_Programas": {
+      "Descricao": "P17 - Saúde",
+      "SubDescricao": "M23 - Saúde - Serviços individuais de saúde"
+    },
+    "NUTS": {
+      "Descricao": [
+        "PT1                  (Continente)",
+        "PT17                 (Lisboa)",
+        "PT171                (Grande Lisboa)",
+        "1111                 (Sintra)"
+      ]
+    },
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": null,
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "03/03/2010 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Popular",
+            "Bloco de Esquerda",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Abstenção",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
