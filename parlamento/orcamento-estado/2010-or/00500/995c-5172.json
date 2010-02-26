@@ -1,0 +1,86 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=vqu5%2bcGAcPEn9XYilyZQKf69vWPH5%2bMxgjP5bizpbp1tX%2fiJhT8phaf%2fM1YfTkfG1bDfMQrWCcKlnAXUWnvgN6M1J2z1qOXekqa5s3ca5TUeIGAzUxuBQ%2bVq7PdYQLoojJ9GtA5GRhj35MwZnFdUqq3zhZQBa6n20CcPYmTqmJvOzSC8%2btSMg%2bA4oHpHNEcroBJ5JY%2bz2NjcPLXzZ5wQ3D4K2ZT4eHHzyYdrcRfjA%2bn%2f8fx6sDttyQUFCzDAk0ZXMmPq1fBjqt3Tz6qdT3o%2bQ7%2fcWd634MrFcdnTMlcY7SvEHcd3zb737MasIbwG2E8F0t%2bsb%2bNwP8E%2bAPamJS2XVPQsSI3hmWVyKORYKi%2bFyXGfDWgRN4MGHs0GYbDD%2fobUSZyGugShdyTQVIkLE57DOclqRCNeiY4vILeYi9pMNRM4MRWMFeyATPrnjjn64ryz&fich=OEPropostasAlteracao2010Or_json.txt&Inline=true",
+  "ficheiro_sha256": "a94eb1ee9c154411cfe7f928e8e5a3edea448a33bbd740816d9ec4ca330f0a8b",
+  "legislatura": "XI",
+  "id": "5172",
+  "numero": "995C",
+  "orcamento": "2010",
+  "versao": "Or",
+  "data_registo": "2010-02-26",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "5172",
+    "Numero": "995C",
+    "Data": "26/02/2010 16:55:00",
+    "Titulo": "Novo Artigo 39.º-C (Prestações por deficiência e dependência)",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 39.º-C",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5441794d4445774d4445794e693951515338795a4467335a6a4a6b596930344d6a59344c5452684f444d744f54646b4d69307959544d324d6a4d784e446b33596a59756347526d&Fich=2d87f2db-8268-4a83-97d2-2a36231497b6.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "HELOÍSA APOLÓNIA"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "JOSÉ LUÍS FERREIRA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 39.º-C",
+        "Titulo": "Prestações por deficiência e dependência",
+        "Texto": "Os montantes mensais das prestações previstas no Decreto-Lei nº. 133-B/97, de 30 de Maio, na redacção que lhe foi dada pelos Decretos-Leis nº.s 341/99, de 25 de Agosto, e 250/2001, de 21 de Setembro, no âmbito do regime geral de segurança social e do regime de protecção social da função pública, são, durante ",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 39.º-C"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Prestações por deficiência e dependência",
+        "Data": "04/03/2010 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Popular",
+            "Bloco de Esquerda",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Abstenção",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
