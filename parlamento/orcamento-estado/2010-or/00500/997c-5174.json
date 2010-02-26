@@ -1,0 +1,86 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=vqu5%2bcGAcPEn9XYilyZQKf69vWPH5%2bMxgjP5bizpbp1tX%2fiJhT8phaf%2fM1YfTkfG1bDfMQrWCcKlnAXUWnvgN6M1J2z1qOXekqa5s3ca5TUeIGAzUxuBQ%2bVq7PdYQLoojJ9GtA5GRhj35MwZnFdUqq3zhZQBa6n20CcPYmTqmJvOzSC8%2btSMg%2bA4oHpHNEcroBJ5JY%2bz2NjcPLXzZ5wQ3D4K2ZT4eHHzyYdrcRfjA%2bn%2f8fx6sDttyQUFCzDAk0ZXMmPq1fBjqt3Tz6qdT3o%2bQ7%2fcWd634MrFcdnTMlcY7SvEHcd3zb737MasIbwG2E8F0t%2bsb%2bNwP8E%2bAPamJS2XVPQsSI3hmWVyKORYKi%2bFyXGfDWgRN4MGHs0GYbDD%2fobUSZyGugShdyTQVIkLE57DOclqRCNeiY4vILeYi9pMNRM4MRWMFeyATPrnjjn64ryz&fich=OEPropostasAlteracao2010Or_json.txt&Inline=true",
+  "ficheiro_sha256": "a94eb1ee9c154411cfe7f928e8e5a3edea448a33bbd740816d9ec4ca330f0a8b",
+  "legislatura": "XI",
+  "id": "5174",
+  "numero": "997C",
+  "orcamento": "2010",
+  "versao": "Or",
+  "data_registo": "2010-02-26",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "5174",
+    "Numero": "997C",
+    "Data": "26/02/2010 17:00:00",
+    "Titulo": "Artigo 31.º",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Substituição",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5441794d4445774d4445794e6939515153387a5a4467344d32466c5a5330344d7a4d354c5451794d6d4d744f4441774d4330354f574e684f474a6d4d7a68695a6a67756347526d&Fich=3d883aee-8339-422c-8000-99ca8bf38bf8.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "HELOÍSA APOLÓNIA"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "JOSÉ LUÍS FERREIRA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 31.º",
+        "Titulo": "Descentralização de competências para os municípios no domínio da educação",
+        "Texto": "1 - Durante o ano de 2010, fica o Governo autorizado a transferir para todos os municípios do continente as dotações inscritas no orçamento do Ministério da Educação, acrescidas de actualização nos termos equivalentes à inflação prevista, referentes a competências a descentralizar no domínio da educação, rela",
+        "Estado": "Aprovado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 31.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Descentralização de competências para os municípios no domínio da educação",
+        "Data": "04/03/2010 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Popular",
+            "Bloco de Esquerda",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Abstenção",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
