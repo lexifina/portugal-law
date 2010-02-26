@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=vqu5%2bcGAcPEn9XYilyZQKf69vWPH5%2bMxgjP5bizpbp1tX%2fiJhT8phaf%2fM1YfTkfG1bDfMQrWCcKlnAXUWnvgN6M1J2z1qOXekqa5s3ca5TUeIGAzUxuBQ%2bVq7PdYQLoojJ9GtA5GRhj35MwZnFdUqq3zhZQBa6n20CcPYmTqmJvOzSC8%2btSMg%2bA4oHpHNEcroBJ5JY%2bz2NjcPLXzZ5wQ3D4K2ZT4eHHzyYdrcRfjA%2bn%2f8fx6sDttyQUFCzDAk0ZXMmPq1fBjqt3Tz6qdT3o%2bQ7%2fcWd634MrFcdnTMlcY7SvEHcd3zb737MasIbwG2E8F0t%2bsb%2bNwP8E%2bAPamJS2XVPQsSI3hmWVyKORYKi%2bFyXGfDWgRN4MGHs0GYbDD%2fobUSZyGugShdyTQVIkLE57DOclqRCNeiY4vILeYi9pMNRM4MRWMFeyATPrnjjn64ryz&fich=OEPropostasAlteracao2010Or_json.txt&Inline=true",
+  "ficheiro_sha256": "a94eb1ee9c154411cfe7f928e8e5a3edea448a33bbd740816d9ec4ca330f0a8b",
+  "legislatura": "XI",
+  "id": "5214",
+  "numero": "890C-2",
+  "orcamento": "2010",
+  "versao": "Or",
+  "data_registo": "2010-02-26",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "5214",
+    "Numero": "890C-2",
+    "Data": "26/02/2010 12:43:00",
+    "Titulo": "N.º 6, Artigo 2.º",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Eliminação",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5441794d4445774d4445794e6939515153383159574a6a4d7a49354f533032596a49324c5452695a4449744f54557a5a6930774d4759314f4749344d7a4e6b4e4441756347526d&Fich=5abc3299-6b26-4bd2-953f-00f58b833d40.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 2.º",
+        "Titulo": "Utilização das dotações orçamentais",
+        "Texto": "1 - Ficam cativos 40% do total das verbas afectas à Lei de Programação Militar. \r\n\r\n2 - Ficam cativos 12,5% das despesas afectas ao capítulo 50 do Orçamento do Estado em financiamento nacional, com excepção das dotações afectas à rubrica 020214 - «estudos, pareceres, projectos e consultadoria».\r\n\r\n3 - Fica ca",
+        "Estado": "Aprovado(a) em Comissão com Alterações",
+        "Numeros": {
+          "Numero": "N.º 6",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Prejudicado(a)"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 6, Artigo 2.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "04/03/2010 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Popular",
+            "Bloco de Esquerda",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
