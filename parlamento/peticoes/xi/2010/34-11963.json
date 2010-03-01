@@ -1,0 +1,223 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11963",
+  "numero": "34",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-03-01",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-02-24",
+            "entidades": null,
+            "id": "90723",
+            "tipo": null,
+            "titulo": "Audição em 2011-02-24 com Peticionários da Petição n.º 34/XI/1ª - José Manuel de Jesus Oliveira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-05-05",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra da Saúde"
+            ],
+            "nrOficio": "140/CTSSAP",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2011-02-15",
+                "dataResposta": "2011-02-22",
+                "nrOficio": "42/CTSSAP/2011",
+                "oficioResposta": "1225"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-05-05",
+            "dataResposta": null,
+            "entidades": [
+              "Ordem dos Psicólogos Portugueses"
+            ],
+            "nrOficio": "142/CTSSAP/2010",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2011-02-15",
+                "dataResposta": "2011-03-04",
+                "nrOficio": "43/CTSSAP/2011",
+                "oficioResposta": "A00000283500110"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-03-24",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-04-27",
+        "DataArquivo": "2011-03-29",
+        "DataBaixaComissao": "2010-04-27",
+        "DataEnvioPAR": "2011-03-30",
+        "DataReaberta": "2010-04-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d54464456464e54515641765247396a6457316c626e52766331426c64476c6a595738764d7a45784e47457859574d744d546c6d595330304d5441324c546b314f574d745a4464694d32457a4e6a686c596a466b4c6e426b5a673d3d&fich=3114a1ac-19fa-4106-959c-d7b3a368eb1d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-07-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d54464456464e54515641765247396a6457316c626e52766331426c64476c6a595738764e7a526b5a6a4d354d4449744e6a646b4d693030596a4d774c57453359546b744e7a566a5a44526a4e7a466c5a544e6d4c6e426b5a673d3d&fich=74df3902-67d2-4b30-a7a9-75cd4c71ee3f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d54464456464e54515641765247396a6457316c626e52766331426c64476c6a595738764e54686a595463324e6a4d744d6a5979596930304e6d51314c5749794d3259744e6d49304d5452684f574d7a4e7a51344c6e426b5a673d3d&fich=58ca7663-262b-46d5-b23f-6b414a9c3748.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d54464456464e54515641765247396a6457316c626e52766331426c64476c6a595738765a446c6b59574a6c597a55744e545269597930304e6a6b794c57466d4f5459744e4451304e6a646a5a446b32596d517a4c6e426b5a673d3d&fich=d9dabec5-54bc-4692-af96-44467cd96bd3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d54464456464e54515641765247396a6457316c626e52766331426c64476c6a595738764d7a63344e32526a4d5463745a444d355a6930304e6a6c6d4c5749335a6d55744e444d325a44466b5a6d45354d574d344c6e426b5a673d3d&fich=3787dc17-d39f-469f-b7fe-436d1dfa91c8.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-03-31",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d54464456464e54515641765247396a6457316c626e52766331426c64476c6a595738765a4455324e6d59334d7a49744d6a646c5a4330304d7a55774c5749354e6a51744d57526b5a444669596a4a6c5a6d566c4c6e426b5a673d3d&fich=d566f732-27ed-4350-b964-1ddd1bb2efee.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-02-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d54464456464e54515641765247396a6457316c626e52766331426c64476c6a59573876595752694e44686c596a49745a4759355a4330304e5755304c5467784d6a49744f574e6b4e44566b4d4451304d6d526d4c6e426b5a673d3d&fich=adb48eb2-df9d-45e4-8122-9cd45d0442df.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-03-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d54464456464e54515641765247396a6457316c626e52766331426c64476c6a595738764d54466d4f44513059574d744d54466d5a6930305a4445774c57497959324974595441775a57566d597a4d324d7a457a4c6e426b5a673d3d&fich=11f844ac-11ff-4d10-b2cb-a00eefc36313.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2874",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Trabalho, Segurança Social e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-04-27",
+            "gp": "PSD",
+            "id": "4146",
+            "motivoCessacao": null,
+            "nome": "Margarida Almeida"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2011-07-27",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6d45355a444e694d544d744e4759304e7930304f575a694c5467795a4449744d3255304d574a694e6d4e6a596a566c4c6e426b5a673d3d&fich=6a9d3b13-4f47-49fb-82d2-3e41bb6ccb5e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "36362"
+    ],
+    "Iniciativasoriginadas": [
+      "36362"
+    ],
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11963",
+    "PetAssunto": "Solicitam que os Psicólogos inscritos na recém-criada Ordem não sejam desqualificados retroactivamente.",
+    "PetDataEntrada": "2010-03-01",
+    "PeticoesAssociadas": null,
+    "PetId": "11963",
+    "PetLeg": "XI",
+    "PetNr": "34",
+    "PetNrAssinaturas": "1242",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "511842",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-03-27",
+        "pubLeg": "XI",
+        "pubNr": "89",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/089/2010-03-27/4?pgs=4&org=PLC"
+      }
+    ]
+  }
+}
