@@ -1,0 +1,165 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11966",
+  "numero": "37",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-03-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2010-05-26",
+            "entidades": null,
+            "id": "88255",
+            "tipo": null,
+            "titulo": "Audição em 2010-05-26 com Pedro Nuno de Magalhães Ribeiro e Victor Manuel Mendes Neves"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-05-19",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro das Obras Públicas, Transportes e Comunicações"
+            ],
+            "nrOficio": "52/COPTC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2010-07-15",
+                "dataResposta": "2010-12-02",
+                "nrOficio": "167/COPTC",
+                "oficioResposta": "6644"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-12-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-04-06",
+        "DataArquivo": "2010-12-21",
+        "DataBaixaComissao": "2010-04-06",
+        "DataEnvioPAR": "2010-12-21",
+        "DataReaberta": "2010-04-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a597a4e6d557a596d59304c5459304e4451744e4445324d7930344d3249304c5759345a6d59784e5441334e445977597935775a47593d&fich=636e3bf4-6444-4163-83b4-f8ff1507460c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-07-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a51325a5463794e6d49304c575534596a55744e4467324e5331684e6d49794c5445785a6a6b30595451305a5445324d4335775a47593d&fich=46e726b4-e8b5-4865-a6b2-11f94a44e160.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c32526a5a6a59354e6a41794c57566c4e4445744e474e6d595330354e474d344c57526b4e574e684e6a5531596d45774d4335775a47593d&fich=dcf69602-ee41-4cfa-94c8-dd5ca655ba00.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-12-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c3249354f4759774e5745324c57466c596d49744e44526b5a5331694e7a4d354c574a694e444d324e474d305a4751785a5335775a47593d&fich=b98f05a6-aebb-44de-b739-bb4364c4dd1e.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-12-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c324d315a6d526d4e7a41304c5463304e6a49744e474931596930354d7a6b334c54526c597a4d305a6d51784e474e6d4d7935775a47593d&fich=c5fdf704-7462-4b5b-9397-4ec34fd14cf3.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2872",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-04-06",
+            "gp": "PSD",
+            "id": "2641",
+            "motivoCessacao": null,
+            "nome": "Paulo Cavaleiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d765a6a45354d6a5269597a45744e7a55304e5330305a574e6b4c57497a59546b744d7a517a4d54517a4d6a646c4e4759304c6e426b5a673d3d&fich=f1924bc1-7545-4ecd-b3a9-34314327e4f4.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11966",
+    "PetAssunto": "Solicitam que sejam reapreciadas as decisões  já tomadas no sentido de suspender a construção da Via Estruturante Arouca-Feira.",
+    "PetDataEntrada": "2010-03-04",
+    "PeticoesAssociadas": null,
+    "PetId": "11966",
+    "PetLeg": "XI",
+    "PetNr": "37",
+    "PetNrAssinaturas": "5",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
