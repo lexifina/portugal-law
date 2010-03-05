@@ -1,0 +1,87 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=vqu5%2bcGAcPEn9XYilyZQKf69vWPH5%2bMxgjP5bizpbp1tX%2fiJhT8phaf%2fM1YfTkfG1bDfMQrWCcKlnAXUWnvgN6M1J2z1qOXekqa5s3ca5TUeIGAzUxuBQ%2bVq7PdYQLoojJ9GtA5GRhj35MwZnFdUqq3zhZQBa6n20CcPYmTqmJvOzSC8%2btSMg%2bA4oHpHNEcroBJ5JY%2bz2NjcPLXzZ5wQ3D4K2ZT4eHHzyYdrcRfjA%2bn%2f8fx6sDttyQUFCzDAk0ZXMmPq1fBjqt3Tz6qdT3o%2bQ7%2fcWd634MrFcdnTMlcY7SvEHcd3zb737MasIbwG2E8F0t%2bsb%2bNwP8E%2bAPamJS2XVPQsSI3hmWVyKORYKi%2bFyXGfDWgRN4MGHs0GYbDD%2fobUSZyGugShdyTQVIkLE57DOclqRCNeiY4vILeYi9pMNRM4MRWMFeyATPrnjjn64ryz&fich=OEPropostasAlteracao2010Or_json.txt&Inline=true",
+  "ficheiro_sha256": "a94eb1ee9c154411cfe7f928e8e5a3edea448a33bbd740816d9ec4ca330f0a8b",
+  "legislatura": "XI",
+  "id": "5430",
+  "numero": "1236P",
+  "orcamento": "2010",
+  "versao": "Or",
+  "data_registo": "2010-03-05",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "5430",
+    "Numero": "1236P",
+    "Data": "05/03/2010 19:05:00",
+    "Titulo": "Do Artigo 2.º do RERT II",
+    "Tema": null,
+    "Apresentada": "Plenário",
+    "Incide": "Articulado",
+    "Tipo": "Substituição",
+    "Estado": "Aprovado(a) em Plenário",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5441794d4445774d4445794e693951515338314e6d4a6d4e4445324d53303559574a684c54526d4e446b744f5751774f43316b4d7a566c5a47466c5a6a5a6d596a41756347526d&Fich=56bf4161-9aba-4f49-9d08-d35edaef6fb0.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PS",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "PS",
+        "Deputado": "AFONSO CANDAL"
+      }
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 120.º",
+        "Titulo": "Regularização tributária de elementos patrimoniais colocados no exterior",
+        "Texto": "É aprovado o regime excepcional de regularização tributária de elementos patrimoniais que não se encontrem no território português, em 31 de Dezembro de 2009, abreviadamente designado pela sigla RERT II, nos termos e condições de seguida transcritos:\r\n\r\n«Artigo 1.º\r\nObjecto\r\n\r\n1 - O presente regime excepciona",
+        "Estado": "Aprovado(a) em Plenário com Alterações"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 120.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": {
+          "Diploma": [
+            "S1VP5642",
+            "Não se aplica do Não se aplica (Regularização Tributária de elementos patrimoniais colocados no exterior - RERT II)"
+          ]
+        },
+        "SubDescricao": "Regularização Tributária de elementos patrimoniais colocados no exterior - RERT II",
+        "Data": "12/03/2010 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Plenário",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Popular",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Partido Ecologista \"Os Verdes\""
+          ],
+          "Voto": [
+            "Favor",
+            "Favor",
+            "Abstenção",
+            "Contra",
+            "Contra",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
