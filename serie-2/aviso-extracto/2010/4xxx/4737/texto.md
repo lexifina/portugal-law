@@ -1,0 +1,4 @@
+Aviso (extracto) n.º 4737/2010
+João Nunes da Silva Santos, Presidente da Junta de Freguesia de Salvaterra de Magos, torna público que, decorrido o período de inquérito público, nos termos dos artigos 114.º a 119.º do Código de Procedimento Administrativo, que a Assembleia de Freguesia de Salvaterra de Magos, em conformidade com o disposto na alínea j), do n.º 2, do artigo 17.º, e em sua sessão extraordinária de 22/01/2010 e sob proposta da Junta de Freguesia de 14/12/2009, aprovou o Regulamento de Funcionamento, Utilização e Gestão do Campo de Ténis da Freguesia de Salvaterra de Magos, que foi publicado em edital afixado nos locais públicos do costume e publicitado na página electrónica da freguesia, entrando em vigor 15 dias após a publicação deste aviso em Diário da República.
+24 de Fevereiro de 2010. - O Presidente, João Nunes da Silva Santos.
+302951619
