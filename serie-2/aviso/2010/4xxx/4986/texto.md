@@ -1,0 +1,5 @@
+Aviso n.º 4986/2010
+Proposta de Regulamento Municipal de Taxas de Urbanização e Edificação
+Pelo presente se torna público que o projecto de Regulamento Municipal de Taxas de Urbanização e Edificação, aprovado em reunião ordinária da Câmara Municipal de 01/03/2010, se encontra submetido a apreciação pública, nos termos do artigo 118.º do Código de Procedimento Administrativo, pelo período de 30 dias após a publicação do presente aviso no Diário da República. As observações e eventuais sugestões dos interessados deverão ser dirigidas por escrito ao Presidente da Câmara Municipal de Paredes de Coura. O projecto de Regulamento de Taxas de Urbanização e Edificação, bem como a respectiva Tabela, os estudos e demais documentação respeitantes à fundamentação económico-financeira das taxas, a que se refere o n.º 2 do artigo 8.º da Lei n.º 53-E/2006, de 29/12, poderão ser consultados no Portal do Município de Paredes de Coura www.cm-paredes-coura.pt, bem como nos serviços de expediente geral do Município de Paredes de Coura.
+Paços do Município de Paredes de Coura, 2 de Março de 2010. - O Presidente da Câmara, António Pereira Júnior.
+302986158
