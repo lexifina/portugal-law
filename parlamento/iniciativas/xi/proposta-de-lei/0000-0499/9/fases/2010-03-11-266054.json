@@ -1,0 +1,3100 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "9",
+    "id": "35054",
+    "titulo": "Orçamento do Estado para 2010."
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2010-03-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7330",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2010-03-11",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-03-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3989",
+                "nome": "Paulo Mota Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=00:36:46:978&drc=00:01:58:021"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=00:47:04:017&drc=00:01:21:983"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185122",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-16",
+                  "95-95"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/16?pgs=16,95&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "173",
+                "nome": "Jaime Gama"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=00:38:45:062&drc=00:00:54:518"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=00:48:26:817&drc=00:01:48:443"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-16",
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/16?pgs=16,18-19&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=00:41:09:559&drc=00:05:51:395"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=00:39:39:580&drc=00:01:12:420"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:08:12:409&drc=00:01:53:544"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:13:40:708&drc=00:07:29:952"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:30:54:555&drc=00:04:22:511"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:49:53:727&drc=00:04:16:869"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:14:30:697&drc=00:03:46:346"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:18:58:171&drc=00:00:44:828"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:42:46:286&drc=00:02:52:713"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:47:50:914&drc=00:00:29:085"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:01:47:856&drc=00:00:35:241"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:15:16:205&drc=00:01:40:000"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:30:08:757&drc=00:01:59:725"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:22:55:603&drc=00:01:17:162"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:28:31:852&drc=00:01:02:424"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185124",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "102-103",
+                  "115-116",
+                  "131-131",
+                  "16-18",
+                  "177-177",
+                  "23-24",
+                  "49-49",
+                  "64-65",
+                  "68-68",
+                  "71-73",
+                  "76-79",
+                  "88-90",
+                  "94-94",
+                  "99-99"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/16?pgs=16-18,23-24,49,64-65,68,71-73,76-79,88-90,94,99,102-103,115-116,131,177&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3989",
+                "nome": "Paulo Mota Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:57:19:219&drc=00:02:18:389"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18",
+                  "93-95"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/18?pgs=18,93-95&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1990",
+                "nome": "Miguel Frasquilho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=00:50:15:201&drc=00:06:12:699"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:11:39:786&drc=00:01:06:073"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:15:42:037&drc=00:00:34:703"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20",
+                  "24-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/19?pgs=19-20,24-26&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=00:56:36:860&drc=00:04:04:929"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:07:44:271&drc=00:00:28:199"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:10:14:497&drc=00:01:24:001"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:17:05:836&drc=00:01:01:421"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:00:20:128&drc=00:01:05:871"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21",
+                  "23-24",
+                  "26-26",
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/20?pgs=20-21,23-24,26,74&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:01:06:515&drc=00:01:50:066"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=02:16:39:836&drc=00:01:20:164"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=02:42:43:669&drc=00:00:26:331"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:05:41:724&drc=00:00:18:570"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:24:20:204&drc=00:00:46:422"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185119",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "115-115",
+                  "21-21",
+                  "45-45",
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/21?pgs=21,45,57,115&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1592",
+                "nome": "Vítor Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:03:14:027&drc=00:04:26:246"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:18:10:761&drc=00:03:32:612"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:06:37:508&drc=00:03:48:354"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:56:43:499&drc=00:03:34:004"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:39:57:672&drc=00:03:46:921"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:07:03:568&drc=00:03:13:564"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:12:10:529&drc=00:00:55:118"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "104-105",
+                  "111-113",
+                  "22-23",
+                  "26-27",
+                  "62-62",
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/22?pgs=22-23,26-27,62,74,104-105,111-113&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:12:53:999&drc=00:02:44:163"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:16:39:688&drc=00:00:11:688"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=02:59:25:284&drc=00:05:13:884"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:10:29:401&drc=00:01:48:921"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:26:40:887&drc=00:04:10:963"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:38:06:625&drc=00:02:40:416"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:47:06:071&drc=00:02:20:808"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:04:54:242&drc=00:01:43:206"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Teixeira dos Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26",
+                  "61-61",
+                  "63-63",
+                  "67-67",
+                  "69-69",
+                  "71-71",
+                  "76-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/25?pgs=25-26,61,63,67,69,71,76&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2167",
+                "nome": "Abel Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:22:00:749&drc=00:01:32:306"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/27?pgs=27&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:23:38:242&drc=00:01:32:581"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=02:44:34:278&drc=00:01:13:259"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28",
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/27?pgs=27-28,57&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:25:12:899&drc=00:01:05:894"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:55:04:697&drc=00:01:59:816"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28",
+                  "93-93"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/28?pgs=28,93&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:26:21:854&drc=00:03:58:715"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:32:20:505&drc=00:03:33:226"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:44:41:675&drc=00:02:21:538"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30",
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/30?pgs=30,32-33&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:30:22:445&drc=00:01:54:555"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:39:43:397&drc=00:01:30:521"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=02:45:49:388&drc=00:01:57:125"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29",
+                  "31-31",
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/29?pgs=29,31,58&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:35:56:193&drc=00:01:33:264"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:54:16:995&drc=00:01:27:039"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:19:12:194&drc=00:01:16:350"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:26:20:595&drc=00:01:23:342"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:36:05:826&drc=00:00:53:263"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:51:20:323&drc=00:01:06:015"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:01:07:163&drc=00:01:29:186"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:15:24:271&drc=00:01:23:477"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:19:04:107&drc=00:00:39:708"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "100-102",
+                  "104-104",
+                  "107-107",
+                  "110-110",
+                  "113-113",
+                  "30-30",
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/30?pgs=30,73,100-102,104,107,110,113&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:37:59:797&drc=00:01:14:166"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/31?pgs=31&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "803",
+                "nome": "João Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:41:16:683&drc=00:00:58:759"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175249",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/32?pgs=32&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4057",
+                "nome": "Assunção Cristas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=01:42:18:505&drc=00:02:19:793"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:28:05:315&drc=00:02:02:252"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:02:39:416&drc=00:04:18:583"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:19:47:318&drc=00:03:03:097"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:26:29:804&drc=00:00:55:068"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175250",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "102-102",
+                  "110-111",
+                  "114-115",
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/32?pgs=32,102,110-111,114-115&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=02:15:07:879&drc=00:00:31:376"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175251",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2064",
+                "nome": "Jorge Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=02:15:39:255&drc=00:00:59:330"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175252",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=02:47:58:167&drc=00:02:46:361"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:01:32:925&drc=00:01:23:690"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:00:13:163&drc=00:01:28:691"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:03:40:617&drc=00:00:56:139"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:20:43:699&drc=00:02:55:377"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175253",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "100-101",
+                  "58-59",
+                  "75-75",
+                  "94-95"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/58?pgs=58-59,75,94-95,100-101&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1826",
+                "nome": "Joaquim Ponte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=02:51:27:733&drc=00:02:35:166"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175254",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/59?pgs=59&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=02:54:10:587&drc=00:02:13:161"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:13:09:460&drc=00:02:12:623"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175255",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "113-113",
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/59?pgs=59-60,113&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4129",
+                "nome": "Cristóvão Crespo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=02:56:27:497&drc=00:02:54:471"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175256",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:04:43:113&drc=00:01:49:480"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:57:48:794&drc=00:00:43:123"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175257",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:12:22:330&drc=00:01:15:315"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:25:59:668&drc=00:00:38:968"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:13:02:534&drc=00:01:25:281"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:18:18:855&drc=00:00:37:146"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:37:01:243&drc=00:02:52:445"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175258",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "104-104",
+                  "63-64",
+                  "66-67",
+                  "89-89"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/63?pgs=63-64,66-67,89,104&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:21:16:579&drc=00:01:34:907"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175259",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2195",
+                "nome": "Ricardo Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:22:54:700&drc=00:02:57:859"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175260",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/66?pgs=66&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4225",
+                "nome": "José Manuel Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:35:21:381&drc=00:02:36:184"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175261",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:40:54:669&drc=00:01:55:415"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175262",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4144",
+                "nome": "Luísa Roseira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:43:01:984&drc=00:01:55:324"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:55:46:723&drc=00:00:49:443"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175263",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70",
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/70?pgs=70,73&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=03:44:59:373&drc=00:01:58:941"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175264",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4214",
+                "nome": "João Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:03:06:867&drc=00:01:37:628"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175265",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/75?pgs=75-76&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:46:07:398&drc=00:00:44:601"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175266",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/77?pgs=77&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2065",
+                "nome": "Agostinho Branquinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:46:56:504&drc=00:00:45:376"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175267",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-89"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/89?pgs=89&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "839",
+                "nome": "Pedro Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=04:52:21:504&drc=00:02:41:131"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175268",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "92-93"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/92?pgs=92-93&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:06:11:231&drc=00:02:57:560"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175269",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "96-97"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/96?pgs=96-97&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:09:29:292&drc=00:00:45:721"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:13:15:138&drc=00:00:27:429"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:18:19:434&drc=00:00:49:695"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175270",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "100-100",
+                  "97-98"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/97?pgs=97-98,100&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:10:16:824&drc=00:01:33:817"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175272",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "97-97"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/97?pgs=97&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:11:53:934&drc=00:00:39:618"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175273",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "97-98"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/97?pgs=97-98&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4064",
+                "nome": "Inês de Medeiros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:12:36:177&drc=00:00:36:272"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:13:48:739&drc=00:00:23:973"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175274",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "98-98"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/98?pgs=98&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:14:17:027&drc=00:00:36:216"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175275",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "98-98"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/98?pgs=98&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3",
+                "nome": "Adão Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:17:03:492&drc=00:01:09:001"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "99-99"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/99?pgs=99&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1553",
+                "nome": "Teresa Venda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:23:39:013&drc=00:02:39:772"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175277",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "101-101"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/101?pgs=101&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:32:11:420&drc=00:02:38:112"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:43:48:281&drc=00:02:49:865"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:53:13:268&drc=00:01:32:842"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DO  TESOURO E FINANÇAS",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Costa Pina"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "103-103",
+                  "105-108"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/103?pgs=103,105-108&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4174",
+                "nome": "José Gusmão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:34:52:969&drc=00:01:10:353"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:46:41:395&drc=00:00:18:564"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:58:44:039&drc=00:02:21:061"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:10:22:320&drc=00:01:43:271"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:17:06:939&drc=00:01:54:377"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "103-103",
+                  "109-109",
+                  "112-112",
+                  "114-114"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/103?pgs=103,109,112,114&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2839",
+                "nome": "Rita Calvário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:47:26:247&drc=00:01:41:310"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "106-106"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/106?pgs=106&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2015",
+                "nome": "António Almeida Henriques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:49:24:124&drc=00:01:41:634"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:54:46:110&drc=00:01:29:755"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "106-108"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/106?pgs=106-108&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=05:56:34:196&drc=00:01:02:973"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "109-109"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/109?pgs=109&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=06:25:23:712&drc=00:00:55:814"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "116-116"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/116?pgs=116&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "00:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100311pln&url=l11/sl1/a2010/m03/&tI=00:39:39:580&drc=00:01:12:420"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "117-117"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-12",
+                "pubLeg": "XI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12/117?pgs=117&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2010.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "266054",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "7330",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-03-12",
+        "pubLeg": "XI",
+        "pubNr": "33",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/033/2010-03-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
