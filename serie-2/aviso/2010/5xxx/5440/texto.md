@@ -1,0 +1,4 @@
+Aviso n.º 5440/2010
+Carlos Alberto Oliveira Henriques, Vereador a Tempo Inteiro da Câmara Municipal de Batalha, torna público, para efeitos do disposto no n.º 3 do artigo 118.º do Código do Procedimento Administrativo (CPA), que foi dado cumprimento do disposto no n.º 1 do citado artigo, não tendo sido registadas quaisquer reclamações ao projecto do Regulamento da Biblioteca Itinerante da Batalha, aprovado pela Câmara Municipal em 26/11/2009 e publicado no Diário da República, 2.ª série, n.º 252, de 31 de Dezembro de 2009 - Aviso n.º 23429/2009. O Regulamento foi aprovado definitivamente pelo Executivo na sua reunião ordinária de 18/02/2010, podendo o mesmo ser consultado no portal do Município (www.cm-batalha.pt).
+Paços do Município da Batalha, 22 de Fevereiro de 2010. - O Vereador da Câmara Municipal da Batalha, Carlos Alberto Oliveira Henriques.
+302944418
