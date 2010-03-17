@@ -1,0 +1,633 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "4",
+    "id": "35101",
+    "titulo": "Comissão Eventual de Inquérito Parlamentar à relação do Estado com a Comunicação Social e, nomeadamente, à actuação do Governo na compra da TVI."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2010-03-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7407",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2010-03-17",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-03-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "20:25",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100317pln&url=l11/sl1/a2010/m03/&tI=03:06:34:247&drc=00:06:31:087"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-18",
+                "pubLeg": "XI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/035/2010-03-18/54?pgs=54-56&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à relação do Estado com a Comunicação Social e, nomeadamente, à actuação do Governo na compra da TVI.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "20:25",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100317pln&url=l11/sl1/a2010/m03/&tI=03:13:17:339&drc=00:06:55:409"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-18",
+                "pubLeg": "XI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/035/2010-03-18/56?pgs=56-58&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à relação do Estado com a Comunicação Social e, nomeadamente, à actuação do Governo na compra da TVI.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "803",
+                "nome": "João Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "20:25",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100317pln&url=l11/sl1/a2010/m03/&tI=03:20:22:853&drc=00:03:15:783"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100317pln&url=l11/sl1/a2010/m03/&tI=03:55:30:526&drc=00:02:31:248"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59",
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-18",
+                "pubLeg": "XI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/035/2010-03-18/58?pgs=58-59,68-69&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à relação do Estado com a Comunicação Social e, nomeadamente, à actuação do Governo na compra da TVI.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "20:25",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100317pln&url=l11/sl1/a2010/m03/&tI=03:23:45:271&drc=00:04:40:301"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-18",
+                "pubLeg": "XI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/035/2010-03-18/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à relação do Estado com a Comunicação Social e, nomeadamente, à actuação do Governo na compra da TVI.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "20:25",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100317pln&url=l11/sl1/a2010/m03/&tI=03:28:31:781&drc=00:03:35:134"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-18",
+                "pubLeg": "XI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/035/2010-03-18/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à relação do Estado com a Comunicação Social e, nomeadamente, à actuação do Governo na compra da TVI.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "20:25",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100317pln&url=l11/sl1/a2010/m03/&tI=03:32:08:603&drc=00:06:48:397"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175360",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-18",
+                "pubLeg": "XI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/035/2010-03-18/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à relação do Estado com a Comunicação Social e, nomeadamente, à actuação do Governo na compra da TVI.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "20:25",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100317pln&url=l11/sl1/a2010/m03/&tI=03:39:04:543&drc=00:08:52:203"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Lacão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-18",
+                "pubLeg": "XI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/035/2010-03-18/64?pgs=64-66&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à relação do Estado com a Comunicação Social e, nomeadamente, à actuação do Governo na compra da TVI.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2065",
+                "nome": "Agostinho Branquinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "20:25",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100317pln&url=l11/sl1/a2010/m03/&tI=03:48:20:146&drc=00:02:57:061"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175362",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-18",
+                "pubLeg": "XI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/035/2010-03-18/66?pgs=66&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à relação do Estado com a Comunicação Social e, nomeadamente, à actuação do Governo na compra da TVI.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "20:25",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100317pln&url=l11/sl1/a2010/m03/&tI=03:51:28:230&drc=00:03:14:770"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Lacão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175363",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-18",
+                "pubLeg": "XI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/035/2010-03-18/67?pgs=67&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à relação do Estado com a Comunicação Social e, nomeadamente, à actuação do Governo na compra da TVI.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2065",
+                "nome": "Agostinho Branquinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "20:25",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100317pln&url=l11/sl1/a2010/m03/&tI=03:54:50:575&drc=00:00:32:980"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175364",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-18",
+                "pubLeg": "XI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/035/2010-03-18/68?pgs=68&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à relação do Estado com a Comunicação Social e, nomeadamente, à actuação do Governo na compra da TVI.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "20:25",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100317pln&url=l11/sl1/a2010/m03/&tI=03:58:07:742&drc=00:00:22:625"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Lacão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175365",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-03-18",
+                "pubLeg": "XI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/035/2010-03-18/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à relação do Estado com a Comunicação Social e, nomeadamente, à actuação do Governo na compra da TVI.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "266851",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "7407",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-03-18",
+        "pubLeg": "XI",
+        "pubNr": "35",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/035/2010-03-18?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
