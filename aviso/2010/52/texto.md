@@ -1,0 +1,4 @@
+Aviso n.º 52/2010
+Por ordem superior se torna público que, em 10 de Dezembro de 2009, a Grande Jamahiriya Árabe Líbia Popular Socialista depositou o seu instrumento de adesão ao Acordo Relativo ao Salvamento dos Astronautas, Regresso dos Astronautas e Restituição dos Objectos Lançados no Espaço Extra-Atmosférico, adoptado em Londres em 11 de Abril de 1968.
+Portugal é Parte do mesmo Acordo, aprovado, para ratificação, pelo Decreto-Lei n.º 49 057, publicado na 1.ª série do Diário do Governo, n.º 137, de 12 de Junho de 1969, tendo depositado o seu instrumento de ratificação ao Acordo em 25 de Março de 1970, conforme aviso publicado na 1.ª série do Diário do Governo, n.º 132, de 6 de Junho de 1970.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 11 de Março de 2010. - O Subdirector-Geral, Miguel de Almeida e Sousa.
