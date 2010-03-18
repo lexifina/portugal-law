@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "53566",
+  "tipo": "Pergunta",
+  "numero": "2106",
+  "data_registo": "2010-03-18",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Pagamentos em atraso a associações de bombeiros e transporte de doentes em Barrancos",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1339",
+        "nome": "José Soeiro"
+      }
+    ],
+    "DataEnvio": "2010-03-25",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-03-25",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  SAÚDE",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-06-16",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  SAÚDE",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d6a4269595745795a4759745a5755774d7930304e57597a4c546b7a4f446b744d5749334f546334595745324d6a686b4c6e426b5a673d3d&fich=20baa2df-ee03-45f3-9389-1b7978aa628d.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-03-18",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d5755355a6a6b345a5755744e7a686d5a6930304e6a49354c57466b5a5459744d7a557a5a6d4d315a6a4a694f5456694c6e426b5a673d3d&fich=1e9f98ee-78ff-4629-ade6-353fc5f2b95b.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "53566",
+    "Legislatura": "XI",
+    "Nr": "2106",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "512688",
+        "obs": null,
+        "pag": [
+          "81-83"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "92",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/092/2010-03-31/81?pgs=81-83&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
