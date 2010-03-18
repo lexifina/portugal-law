@@ -1,0 +1,512 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11973",
+  "numero": "43",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-03-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-03-26",
+            "dataResposta": "2010-04-14",
+            "entidades": [
+              "Ministério da Presidência"
+            ],
+            "nrOficio": "108/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764e6a41785a474e6d595451745a44426d4e793030596a426c4c57497a5a6a41744e7a59314f446b314e474d355a6d5a6c4c6c424552673d3d&fich=601dcfa4-d0f7-4b0e-b3f0-7658954c9ffe.PDF&Inline=true"
+          },
+          {
+            "dataOficio": "2010-03-26",
+            "dataResposta": "2010-04-15",
+            "entidades": [
+              null
+            ],
+            "nrOficio": "109/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764e6a41785a474e6d595451745a44426d4e793030596a426c4c57497a5a6a41744e7a59314f446b314e474d355a6d5a6c4c6c424552673d3d&fich=601dcfa4-d0f7-4b0e-b3f0-7658954c9ffe.PDF&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-09-21",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-03-23",
+        "DataArquivo": "2010-09-21",
+        "DataBaixaComissao": "2010-03-23",
+        "DataEnvioPAR": "2010-09-29",
+        "DataReaberta": "2010-03-23",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764e54466b4d445a6b4f4759744d7a49784f5330304f474d344c574a6d596a6774596a686c596d5a6b4e5745334e6a4d784c6e426b5a673d3d&fich=51d06d8f-3219-48c8-bfb8-b8ebfd5a7631.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-04-26",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764e6a41785a474e6d595451745a44426d4e793030596a426c4c57497a5a6a41744e7a59314f446b314e474d355a6d5a6c4c6c424552673d3d&fich=601dcfa4-d0f7-4b0e-b3f0-7658954c9ffe.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-07-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738765a6d51785a6a67334e5449744e47526d4f5330305a5441774c57466b596a6b74596a557a4d54526a4d574a6b4f574d794c6e426b5a673d3d&fich=fd1f8752-4df9-4e00-adb9-b5314c1bd9c2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764d54466b5a57457a595463744f5759345a5330304e7a59344c5467314e444d7459544a6d4f57457a4d324d304e446b7a4c6e426b5a673d3d&fich=11dea3a7-9f8e-4768-8543-a2f9a33c4493.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-09-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738765a6a6c6a4e6a41324d6a45744f5756684d4330304d57526b4c574a694d544574595463784f475577597a45774e6a56694c6e426b5a673d3d&fich=f9c60621-9ea0-41dd-bb11-a718e0c1065b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-06-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a59573876596d51354e6a4d7a5a4745744e4452684d693030596d517a4c54686d59544d7459544d32595451784e7a6869595463784c6e426b5a673d3d&fich=bd9633da-44a2-4bd3-8fa3-a36a4178ba71.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-06-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764d57526d596d566a4d6d4d745a6a5a694d5330305a5751324c574a6b4e544d745a6a4579596a4d324e7a42685a445a6d4c6e426b5a673d3d&fich=1dfbec2c-f6b1-4ed6-bd53-f12b3670ad6f.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2875",
+        "Legislatura": "XI",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-03-23",
+            "gp": "PSD",
+            "id": "4144",
+            "motivoCessacao": null,
+            "nome": "Luísa Roseira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2010-12-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764d57526d4f445a694d6d5174595442684e6930304d4745784c5746694e6d4d744d575a6c4e4459315a5456694f446c694c6e426b5a673d3d&fich=1df86b2d-a0a6-40a1-ab6c-1fe465e5b89b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2010-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101203pln&url=l11/sl2/a2010/m12/&tI=03:32:15:320&drc=00:03:33:183"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178406",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-12-04",
+                "pubLeg": "XI",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/027/2010-12-04/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de medidas legislativas adequadas para confirmar a legalidade da atribuição pelos municípios de subsídios aos Serviços Sociais dos Trabalhadores e CCD's - Centros de Cultura e Desporto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101203pln&url=l11/sl2/a2010/m12/&tI=03:35:51:193&drc=00:01:29:685"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178407",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-12-04",
+                "pubLeg": "XI",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/027/2010-12-04/61?pgs=61&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de medidas legislativas adequadas para confirmar a legalidade da atribuição pelos municípios de subsídios aos Serviços Sociais dos Trabalhadores e CCD's - Centros de Cultura e Desporto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101203pln&url=l11/sl2/a2010/m12/&tI=03:37:22:502&drc=00:02:26:646"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178408",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-12-04",
+                "pubLeg": "XI",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/027/2010-12-04/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de medidas legislativas adequadas para confirmar a legalidade da atribuição pelos municípios de subsídios aos Serviços Sociais dos Trabalhadores e CCD's - Centros de Cultura e Desporto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101203pln&url=l11/sl2/a2010/m12/&tI=03:39:50:531&drc=00:01:46:511"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178409",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-12-04",
+                "pubLeg": "XI",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/027/2010-12-04/62?pgs=62&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de medidas legislativas adequadas para confirmar a legalidade da atribuição pelos municípios de subsídios aos Serviços Sociais dos Trabalhadores e CCD's - Centros de Cultura e Desporto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101203pln&url=l11/sl2/a2010/m12/&tI=03:41:41:742&drc=00:03:47:504"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178410",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-12-04",
+                "pubLeg": "XI",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/027/2010-12-04/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de medidas legislativas adequadas para confirmar a legalidade da atribuição pelos municípios de subsídios aos Serviços Sociais dos Trabalhadores e CCD's - Centros de Cultura e Desporto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101203pln&url=l11/sl2/a2010/m12/&tI=03:45:32:308&drc=00:02:14:691"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178411",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-12-04",
+                "pubLeg": "XI",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/027/2010-12-04/64?pgs=64&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de medidas legislativas adequadas para confirmar a legalidade da atribuição pelos municípios de subsídios aos Serviços Sociais dos Trabalhadores e CCD's - Centros de Cultura e Desporto.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11973",
+    "PetAssunto": "Pedido de medidas legislativas adequadas para confirmar a legalidade da atribuição pelos municípios de subsídios aos Serviços Sociais dos Trabalhadores e CCD's - Centros de Cultura e Desporto.",
+    "PetDataEntrada": "2010-03-18",
+    "PeticoesAssociadas": null,
+    "PetId": "11973",
+    "PetLeg": "XI",
+    "PetNr": "43",
+    "PetNrAssinaturas": "7245",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "353",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-12-04",
+        "pubLeg": "XI",
+        "pubNr": "27",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/027/2010-12-04?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "511847",
+        "obs": null,
+        "pag": [
+          "10-11"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-03-27",
+        "pubLeg": "XI",
+        "pubNr": "89",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/089/2010-03-27/10?pgs=10-11&org=PLC"
+      }
+    ]
+  }
+}
