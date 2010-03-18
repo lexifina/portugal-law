@@ -1,0 +1,8 @@
+Aviso n.º 5736/2010
+Projecto de regulamento e tabela geral de taxas e licenças
+Em cumprimento da deliberação tomada em reunião ordinária do executivo, realizada em 26 de Fevereiro de 2010, torna-se público, para discussão pública, nos termos do artigo 118.º CPA, o Projecto de Regulamento e Tabela Geral de Taxas e Licenças da Freguesia de Sardoal, a qual decorrerá durante 30 dias a contar da data da publicação deste aviso no Diário da República.
+O Regulamento, bem como os documentos que o integram estarão patentes, nas horas normais de expediente na secretaria da Junta de Freguesia de Sardoal e no sitio electrónico - www.sardoal.freguesias.pt onde podem ser consultados.
+No decurso do período de discussão pública poderão ser apresentadas reclamações, sugestões ou observações sobre o Regulamento e Tabela de Taxas e serão dirigidas ao Presidente da Junta de Freguesia de Sardoal, por via postal, para Tapada da Torre, 2230-161 Sardoal, entregues pessoalmente na Secretaria da Junta de Freguesia, por fax - 241852389, ou por e-mail j.freguesia.sardoal@sapo.pt, referindo expressamente a identificação - nome, número de bilhete de identidade ou cartão de cidadão e morada, opcionalmente telefone e endereço electrónico. Relativamente ao assunto este deve ser expresso de forma clara e sucinta.
+Para constar se publica o presente e outros de igual teor que vão ser afixados nos lugares do costume, publicado no Diário da República e no sito electrónico desta Freguesia - www.sardoal.freguesias.pt.
+Sardoal, 03 de Março de 2010. - O Presidente da Junta de Freguesia, Victor Lopes Pires.
+303025563
