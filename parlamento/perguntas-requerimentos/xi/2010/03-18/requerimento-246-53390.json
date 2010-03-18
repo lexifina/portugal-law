@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "53390",
+  "tipo": "Requerimento",
+  "numero": "246",
+  "data_registo": "2010-03-18",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Restauro do Monumento Nacional, Capela de S. Pedro em Arganil",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "3989",
+        "nome": "Paulo Mota Pinto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3991",
+        "nome": "Nuno Encarnação"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3990",
+        "nome": "Pedro Saraiva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1960",
+        "nome": "Rosário Águas"
+      }
+    ],
+    "DataEnvio": "2010-03-19",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-03-19",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA CULTURA",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-04-23",
+            "docRemetida": null,
+            "entidade": "MIN.  DA CULTURA",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e52766379387855307776595449304d54497a4e5459744d7a4a6d5a6930304d5445784c5749784e4759745a6a6c694d324d784d4449355a6d56694c6e426b5a673d3d&fich=a2412356-32ff-4111-b14f-f9b3c1029feb.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-03-18",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e52766379387855307776595759304e6a6b34597a59744e32597a4e4330304d6a63774c57466b4e4463744d474e695a6d59794f5755334e6a42684c6e426b5a673d3d&fich=af4698c6-7f34-4270-ad47-0cbff29e760a.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "53390",
+    "Legislatura": "XI",
+    "Nr": "246",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "512216",
+        "obs": null,
+        "pag": [
+          "14-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "84",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/084/2010-03-22/14?pgs=14-15&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
