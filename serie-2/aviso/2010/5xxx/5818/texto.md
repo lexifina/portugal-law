@@ -1,0 +1,11 @@
+Aviso n.º 5818/2010
+Discussão pública
+Mário João Ferreira da Silva Oliveira, Presidente da Câmara Municipal de Oliveira do Bairro, faz saber que na sequência da conferência de serviços de 01 de Março de 2010, no âmbito da qual foi emitido parecer favorável à proposta do Plano de Pormenor para a Área Envolvente (Sul) à Zona Industrial de Vila Verde, a Câmara Municipal procede à abertura de um período de Discussão Pública do referido plano de pormenor, conforme previsto nos números 3 e 4, do artigo 77.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro.
+Assim, torna-se público que, considerando o direito à participação dos interessados, podem ser apresentadas reclamações, observações, sugestões, bem como pedidos de esclarecimento sobre a proposta do Plano de Pormenor para a Área Envolvente (Sul) à Zona Industrial de Vila Verde, durante 22 (vinte e dois) dias, com início 5 (cinco) dias após a publicação do presente aviso na 2.ª série do Diário da República.
+Neste sentido, todos os interessados poderão apresentar as suas reclamações, observações ou sugestões, dentro do prazo estipulado, por escrito em impresso próprio (disponível em www.cm-olb.pt, ou no Gabinete de Planeamento), ou em ofício devidamente identificado, dirigido ao Sr. Presidente da Câmara Municipal de Oliveira do Bairro, ou ainda em
+www.sig.cm-olb.pt (Participação Pública).
+As propostas do plano de pormenor e relatório ambiental, a acta da conferência de serviços e pareceres apensos, encontram-se disponíveis para consulta no Gabinete de Planeamento do Município de Oliveira do Bairro, durante o horário normal, das 09h às 12h 30 m e das 14h às 17h 30 m, e no site desse município, em www.cm-olb.pt.
+Quaisquer informações ou esclarecimentos da proposta do plano de pormenor poderão ser obtidos no Gabinete de Planeamento deste Município, durante o horário anteriormente referido.
+Mais se informa que o presente aviso será afixado nos lugares públicos de estilo, e publicitado na comunicação social, boletim municipal e página da internet deste município.
+Paços do Município, 10 de Março de 2010. - O Presidente da Câmara, Mário João Ferreira da Silva Oliveira.
+203030471
