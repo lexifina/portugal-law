@@ -1,0 +1,5 @@
+Edital n.º 241/2010
+Raul Miguel de Castro, na qualidade de Presidente da Câmara Municipal de Leiria torna público o início do procedimento de alteração ao regulamento do Plano Director Municipal de Leiria e a abertura de um período de participação preventiva de 15 dias, de acordo com deliberação aprovada por unanimidade em reunião de Câmara Municipal de 9 de Março de 2010, em conformidade com o disposto nos artigos 74.º, n.º 1, 77.º, n.º 2 e 148.º, n.º 4, alínea a) do Regime Jurídico dos Instrumentos de Gestão Territorial.
+O processo referente à presente alteração poderá ser consultado no Departamento de Planeamento e Urbanismo - Gabinete do PDM (Rua de Alcobaça n.º 30 - 2.º piso) e na página de internet do Município, www.cm-leiria.pt, devendo os interessados que pretendam apresentar observações ou sugestões efectuá-lo pessoalmente no horário de expediente, por correio registado para a morada (Largo do Município 2414-006 Leiria) ou por correio electrónico para o endereço cmleiria@cm-leiria.pt.
+Paços do Município, 12 de Março de 2010. - O Presidente da Câmara Municipal, Raul Miguel de Castro.
+203027361
