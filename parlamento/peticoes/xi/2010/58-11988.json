@@ -1,0 +1,213 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11988",
+  "numero": "58",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-03-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-05-27",
+            "dataResposta": "2010-05-28",
+            "entidades": [
+              "Presidente da Câmara Municipal da Moita"
+            ],
+            "nrOficio": "195/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738765a4749304d7a6331595467744e7a45335a4330304d3249334c5745314f5755744d574d774f474d324f54426b5a444a684c6e426b5a673d3d&fich=db4375a8-717d-43b7-a59e-1c08c690dd2a.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2010-05-27",
+            "dataResposta": "2010-06-16",
+            "entidades": [
+              "Presidente da Assembleia Municipal da Moita"
+            ],
+            "nrOficio": "196/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738765a4749304d7a6331595467744e7a45335a4330304d3249334c5745314f5755744d574d774f474d324f54426b5a444a684c6e426b5a673d3d&fich=db4375a8-717d-43b7-a59e-1c08c690dd2a.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2010-05-27",
+            "dataResposta": "2010-06-18",
+            "entidades": [
+              "Presidente da Junta de Freguesia do Vale da Amoreira"
+            ],
+            "nrOficio": "197/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738765a4749304d7a6331595467744e7a45335a4330304d3249334c5745314f5755744d574d774f474d324f54426b5a444a684c6e426b5a673d3d&fich=db4375a8-717d-43b7-a59e-1c08c690dd2a.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-07-07",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-04-27",
+        "DataArquivo": "2010-07-07",
+        "DataBaixaComissao": "2010-04-27",
+        "DataEnvioPAR": "2010-07-08",
+        "DataReaberta": "2010-04-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764d6d51314e444e6d595451745a4451344f4330304f4467784c54686b4d4459744d6a63794d4467344e5745324d3246684c6e426b5a673d3d&fich=2d543fa4-d488-4881-8d06-2720885a63aa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-05-28",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738765a4749304d7a6331595467744e7a45335a4330304d3249334c5745314f5755744d574d774f474d324f54426b5a444a684c6e426b5a673d3d&fich=db4375a8-717d-43b7-a59e-1c08c690dd2a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764d5459784e5752684f5449744d574577596930304d444d7a4c5467774d6a63744e474e6c4e6d59344e544d79596a59344c6e426b5a673d3d&fich=1615da92-1a0b-4033-8027-4ce6f8532b68.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764f54566d5a4442684d6a6774596a63774e793030596a55314c5749314d4759744e4459305a6d51334f574a6c595441324c6e426b5a673d3d&fich=95fd0a28-b707-4b55-b50f-464fd79bea06.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738765a574930596d4a6a4d7a6b744d5449324d6930304d444e694c574977593259744e5468694e446378595445304e5455794c6e426b5a673d3d&fich=eb4bbc39-1262-403b-b0cf-58b471a14552.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-07-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764f475a694d54457a595441744d4751774e5330305a5755324c574a694e4455744d6a526d4d57526c4e545a6c59574d7a4c6e426b5a673d3d&fich=8fb113a0-0d05-4ee6-bb45-24f1de56eac3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-06-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764e544a6d5a6a6b325a4455744f4441795a693030596a55314c5745354f5759744e7a426c4e4451335a544d335a4441344c6e426b5a673d3d&fich=52ff96d5-802f-4b55-a99f-70e447e37d08.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-06-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764f4445314e4749344f4755744f44646a595330304d6a51774c574a6c4e6d45744d6d45794e544d31596a51355a574e694c6e426b5a673d3d&fich=8154b88e-87ca-4240-be6a-2a2535b49ecb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-06-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764d5459795a6d45304d6a67744e7a6734597930304f4451304c546c6b597a51744d4751304e6a6c6a4d446b314d4467774c6e426b5a673d3d&fich=162fa428-788c-4844-9dc4-0d469c095080.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2875",
+        "Legislatura": "XI",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-04-27",
+            "gp": "PS",
+            "id": "4186",
+            "motivoCessacao": null,
+            "nome": "Eurídice Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d765a57466a5a544a6d597a5974595459774d7930304f47466b4c574a684d5467744e474d324f544d334d6a4a6b4f4445304c6e426b5a673d3d&fich=eace2fc6-a603-48ad-ba18-4c693722d814.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11988",
+    "PetAssunto": "Solicitam que a Câmara Municipal da Moita proceda à redução da renda das lojas do Mercado do Vale da Amoreira.",
+    "PetDataEntrada": "2010-03-21",
+    "PeticoesAssociadas": null,
+    "PetId": "11988",
+    "PetLeg": "XI",
+    "PetNr": "58",
+    "PetNrAssinaturas": "19",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "575812",
+        "obs": null,
+        "pag": [
+          "13-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-01-14",
+        "pubLeg": "XII",
+        "pubNr": "124",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/124/2012-01-14/13?pgs=13&org=PLC"
+      }
+    ]
+  }
+}
