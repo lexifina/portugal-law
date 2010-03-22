@@ -1,0 +1,5 @@
+Regulamento n.º 278/2010
+João Agostinho Pinto Pereira, presidente da Câmara Municipal de Albergaria-a-Velha, torna público que, após audiência e apreciação pública, nos termos do artigo 118.º do Código de Procedimento Administrativo, no uso da sua competência referida na alínea a) do n.º 2 do artigo 53.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, a Assembleia Municipal de Albergaria-a-Velha, na sua sessão ordinária realizada a 26 de Fevereiro de 2010, aprovou o Regulamento Municipal para Atribuição de Habitações Sociais no Município de Albergaria-a-Velha, de acordo com o projecto publicado na 2.ª série do Diário da República - Regulamento n.º 511, de 2009, sob proposta da Câmara Municipal tomada na sua reunião ordinária de 10 de Fevereiro de 2010, o qual entrará em vigor no prazo de 5 dias úteis a contar do dia seguinte ao da sua publicação no Diário da República, 2.ª série.
+E para constar e demais efeitos, se publica o presente aviso e se afixam editais de igual teor nos lugares públicos do costume.
+09 de Março de 2010. - O Presidente da Câmara, João Agostinho Pinto Pereira.
+303007938
