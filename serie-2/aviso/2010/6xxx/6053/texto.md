@@ -1,0 +1,5 @@
+Aviso n.º 6053/2010
+Manuel Viegas dos Santos, Presidente da Junta de Freguesia de Querença, torna público que, nos termos do artigo 118 do Código do Procedimento Administrativo e em cumprimento da deliberação da Assembleia de Freguesia de Querença, na sessão ordinária de 17/12/2009, se submete à apreciação pública para recolha de sugestões, o Projecto de Regulamento de Tabela Geral de Taxas e Licenças da Freguesia de Querença, aprovado pela Junta de Freguesia de Querença na sua reunião de 28/11/2009. Os interessados devem remeter por escrito as suas sugestões, para a morada da sede da Junta de Freguesia, sita no Largo da Igreja Nossa Senhora da Assunção, em Querença devidamente fundamentadas e identificadas dirigidas ao Presidente da Junta de Freguesia, dentro de um prazo de 30 dias contados da data da publicação do presente aviso no Diário da República.
+Neste período o referido regulamento encontrar-se-á patente na secretária da Junta de Freguesia, onde poderá ser consultado na hora de expediente, e foram afixados editais nos sítios do costume.
+9 de Março de 2010. - O Presidente, Manuel Viegas dos Santos.
+303006747
