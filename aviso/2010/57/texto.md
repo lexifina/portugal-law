@@ -1,0 +1,5 @@
+Aviso n.º 57/2010
+Por ordem superior se torna público que, em 15 de Maio de 2009 e 9 de Julho de 2009, a República da Albânia e a República da Croácia depositaram, junto do Governo do Reino da Bélgica, os seus instrumentos de aceitação do Acordo sobre o Estatuto das Missões e dos Representantes dos Estados Terceiros Junto da Organização do Tratado do Atlântico Norte, assinado em Bruxelas em 14 de Setembro de 1994.
+Portugal é Parte deste Acordo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 29/2000 e ratificado pelo Decreto do Presidente da República n.º 16/2000, ambos publicados no Diário da República, 1.ª série-A, n.º 76, de 30 de Março de 2000, tendo depositado o seu instrumento de aceitação em 26 de Junho de 2000.
+Nos termos da alínea b) do artigo 3.º do Acordo, o mesmo entrou em vigor em 15 de Maio de 2009 para a República da Albânia e em 9 de Julho de 2009 para República da Croácia.
+Direcção-Geral de Política Externa, 9 de Março de 2010. - O Director-Geral, Nuno Filipe Alves Salvador e Brito.
