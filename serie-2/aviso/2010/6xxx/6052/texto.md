@@ -1,0 +1,5 @@
+Aviso n.º 6052/2010
+Manuel Viegas dos Santos, Presidente da Junta de Freguesia de Querença, torna público, para os devidos efeitos, e de harmonia com as deliberações da Junta de Freguesia de Querença de 28/11/2009, e da Assembleia de Freguesia de Querença, em sessão ordinária realizada em 17/12/2009, que foi aprovado o Projecto de Regulamento do Cemitério de Querença.
+Nos termos e para os efeitos do artigo 118.º do Código do Procedimento, submete-se à apreciação pública, para recolha de sugestões encontrando-se disponível para consulta na sede da Junta de Freguesia, sita no Largo da Igreja Nossa Senhora da Assunção, em Querença o projecto de regulamento em referência, pelo prazo de 30 dias a contar da data da sua publicação em Diário da República, pelo que no decurso daquele prazo podem os interessados remeter por escrito qualquer sugestão que se entenda, as quais deverão ser dirigidas ao Presidente da Junta e entregues na morada da sede da Junta de Freguesia. Sendo que nesta mesma data foram afixados editais nos sítios do costume.
+3 de Março de 2010. - O Presidente, Manuel Viegas dos Santos.
+302982059
