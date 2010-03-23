@@ -1,0 +1,8 @@
+Edital n.º 257/2010
+Projecto de Regulamento do Cemitério de São Martinho de Sardoura
+Manuel Emílio dos Santos, presidente da Junta de Freguesia de S. Martinho de Sardoura, concelho de Câmara Municipal de Castelo de Paiva, ao abrigo da sua competência constante da alínea g) do n.º 1 do artigo 38.º da lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, e para efeitos do disposto no n.º 1 do artigo 91.º do mesmo diploma legal, torna público que em reunião ordinária de 20 de Junho de 2009 foi deliberado aprovar e submeter à discussão pública, pelo período de 30 dias úteis, a contar da data da publicação do presente edital no Diário da República, o projecto de Regulamento do Cemitério de São Martinho de Sardoura, nos termos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, na sua redacção actual.
+Nos termos do n.º 2 do artigo 118.º do CPA, convidam-se os interessados, devidamente identificados, a dirigir, por escrito, ao presidente da Junta de Freguesia, eventuais sugestões e ou reclamações, dentro do período atrás referido, para a Junta de Freguesia de São Martinho de Sardoura, lugar de Vinha de Além, São Martinho de Sardoura, 4550-865 Castelo de Paiva.
+Mais faz saber que os exemplares do projecto de Regulamento podem ser consultados na sede da Junta de Freguesia, aos sábados entre as 9 e as 12 horas, e em qualquer período no local destinado aos editais localizados na sede da Junta.
+Para constar se publica o presente e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+12 de Março de 2010. - O Presidente da Junta de Freguesia, Manuel Emílio dos Santos.
+303023935
