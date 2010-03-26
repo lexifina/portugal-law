@@ -1,0 +1,181 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11981",
+  "numero": "51",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-03-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2010-04-27",
+            "entidades": null,
+            "id": "88441",
+            "tipo": null,
+            "titulo": "Audição em 2010-04-27 com Guilherme Sabrosa Apolinário Portada - Presidente da Direcção-Geral da Associação Académica da Universidade do Algarve, Luis Rebelo - Federação Académica do Porto, Miguel Portugal - Associação Académica de Coimbra, Ricardo Morgado - Federação Académica do Porto"
+          },
+          {
+            "data": "2010-05-19",
+            "entidades": null,
+            "id": "88442",
+            "tipo": null,
+            "titulo": "Audição em 2010-05-19 com Presidente do Conselho de Reitores das Universidades Portuguesas"
+          },
+          {
+            "data": "2010-05-21",
+            "entidades": null,
+            "id": "88443",
+            "tipo": null,
+            "titulo": "Audição em 2010-05-21 com Presidente do Conselho Coordenador dos Institutos Superiores Politécnicos, Professor Doutor Vicente Ferreira, Professora Doutora Conceição Bento"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-04-14",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Ciência, Tecnologia e Ensino Superior"
+            ],
+            "nrOficio": "145/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-06-09",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-04-13",
+        "DataArquivo": "2010-06-09",
+        "DataBaixaComissao": "2010-04-13",
+        "DataEnvioPAR": "2010-06-15",
+        "DataReaberta": "2010-04-13",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-05-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279387a4e7a42684d6a4d334e69316d4d575a6b4c5451314e6a51745954637a4d43316d4d5445314d7a5a694e4459314d4459756347526d&fich=370a2376-f1fd-4564-a730-f11536b46506.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793835596a45314e6a51795a6930344d4442684c5451334e445574596d517a597930774e6a59345a5468694e7a646b4d6a6b756347526d&fich=9b15642f-800a-4745-bd3c-0668e8b77d29.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-06-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938334d4751774e7a637a4e69316a4e7a41794c5451325a6d4d7459544e69595330774d5445774e3259345a6d45344d5449756347526d&fich=70d07736-c702-46fc-a3ba-01107f8fa812.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2871",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-04-13",
+            "gp": "PSD",
+            "id": "4014",
+            "motivoCessacao": null,
+            "nome": "Antonieta Guerreiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d7659324e6b4d54597a59546b744d3255774e4330304d324d774c546c6d4e5749744e6d466c4e5745345a4441774e475a684c6e426b5a673d3d&fich=ccd163a9-3e04-43c0-9f5b-6ae5a8d004fa.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11981",
+    "PetAssunto": "Solicitam a suspensão e posterior alteração do regime de prescrição no ensino superior, previsto no artigo 5ª da Lei n.º 37/2003, de 22 de Agosto",
+    "PetDataEntrada": "2010-03-26",
+    "PeticoesAssociadas": null,
+    "PetId": "11981",
+    "PetLeg": "XI",
+    "PetNr": "51",
+    "PetNrAssinaturas": "3775",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "530834",
+        "obs": null,
+        "pag": [
+          "5-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-04-30",
+        "pubLeg": "XI",
+        "pubNr": "112",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/112/2010-04-30/5?pgs=5-7&org=PLC"
+      }
+    ]
+  }
+}
