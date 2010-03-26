@@ -1,0 +1,6 @@
+Edital n.º 279/2010
+Paulo Jorge Simões Júlio, Presidente da Câmara Municipal de Penela, torna público, nos termos e para os efeitos previstos no artigo 117.º do Código de Procedimento Administrativo que durante o período de 30 dias, a contar da publicação do presente Edital no Diário da República, é submetida a inquérito público a proposta de Regulamento Municipal de Taxas e Preços Municipais, bem como a respectiva tabela e fundamentação económico financeira, conforme deliberação do órgão executivo municipal tomada em 16 de Março de 2010.
+Assim, em cumprimento do disposto no artigo 118.º daquele Código, se consigna que a proposta está patente, para o efeito, durante o período antes referenciado, no átrio do edifício dos Paços do Município, no Balcão Único e em www.cm-penela.pt, para e sobre ela serem formuladas, por escrito, perante o Presidente da Câmara Municipal, as observações tidas por convenientes, após o que será presente, para confirmação ao respectivo órgão municipal competente.
+Para constar e devidos efeitos, se publica o presente edital e outros de igual teor, que vai ser enviado para publicação no Diário da República e afixado nos lugares públicos do costume.
+18 de Março de 2010. - O Presidente da Câmara, Paulo Jorge Simões Júlio.
+303057997
