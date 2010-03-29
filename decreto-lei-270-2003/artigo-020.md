@@ -14,9 +14,9 @@
 
 2 - É concedido o direito de acesso à infra-estrutura ferroviária nacional às empresas nacionais de transporte ferroviário para prestação do serviço de transporte ferroviário de mercadorias no território nacional.
 
-3 - São concedidos os direitos de acesso e trânsito na infra-estrutura ferroviária nacional a agrupamentos internacionais cuja composição integre uma empresa estabelecida em Portugal para prestação de serviços de transporte ferroviário internacional.
+3 - (Revogado).
 
-4 - É concedido o direito de trânsito na infra-estrutura ferroviária nacional a agrupamentos internacionais para a prestação de serviços de transporte ferroviário internacional entre Estados membros da União Europeia em que se encontrem estabelecidas as empresas que os constituam.
+4 - (Revogado).
 
 5 - É concedido o direito de acesso à infra-estrutura ferroviária nacional às empresas de transporte ferroviário para prestação de serviços de transporte combinado internacional de mercadorias.
 
