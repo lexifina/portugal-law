@@ -1,0 +1,5 @@
+Edital n.º 302/2010
+António José Ferreira Sousa Correia Santos, Presidente da Câmara Municipal do Município de Peniche, faz público, que o Executivo Municipal deliberou, em sua Reunião Ordinária de 9 de Março de 2010, submeter a apreciação pública a proposta de Regulamento da Venda Ambulante do Município de Peniche.
+Assim, nos termos do artigo 118.º do Código do Procedimento Administrativo, convidam-se todos os interessados a consultarem nos Serviços Centrais desta Autarquia ou na página da Internet www.cm-peniche.pt a proposta de regulamento e a formularem as suas sugestões e observações, dentro do prazo de 30 dias a contar da data da presente publicação, por requerimento escrito, dirigido ao Senhor Presidente da Câmara Municipal de Peniche e endereçadas à Câmara Municipal de Peniche, Largo do Município, 2520-239 Peniche, ou entregues directamente nos Serviços Centrais desta Câmara Municipal, durante o período de expediente, ou ainda por correio electrónico para o endereço cmpeniche@cm-peniche.pt.
+Paços do Município de Peniche, 19 de Março de 2010. - O Presidente da Câmara, António José Correia.
+303068964
