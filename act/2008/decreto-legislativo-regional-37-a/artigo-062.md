@@ -6,7 +6,7 @@
 
 a) No costado direito, o número de ordem da ganadaria;
 
-b) No quadril ou na coxa direita, o ferro da ganadaria;
+b) No quadril direito, o ferro da ganadaria;
 
 c) Na pá da mão direita, o número correspondente ao último algarismo do ano em que nasceu;
 

@@ -14,7 +14,7 @@ d) Deve realizar-se há, pelo menos, 15 anos;
 
 e) Não pode haver outra tourada tradicional em local já incluído no respectivo mapa;
 
-f) Não pode haver tourada tradicional no mesmo dia, na mesma freguesia nem em freguesias contíguas.
+f) (Eliminada.)
 
 2 - As touradas tradicionais, incluindo as já constantes do mapa anexo, que não se realizem mais de uma vez em cada 10 anos podem ser excluídas do mesmo, salvo casos de força maior, devendo a justificação do motivo da não realização ser apresentada pelas entidades promotoras até ao final de cada época taurina.
 

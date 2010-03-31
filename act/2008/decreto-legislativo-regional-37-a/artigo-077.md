@@ -2,7 +2,7 @@
 
 ### Delegado municipal
 
-1 - A câmara municipal nomeia um delegado municipal por cada tourada, por sorteio com garantia de rotatividade, mediante a organização prévia de uma lista de pessoas idóneas.
+1 - A câmara municipal nomeia um delegado municipal por cada tourada, por sorteio com garantia de rotatividade, mediante a organização prévia de uma lista de pessoas idóneas, com reconhecida competência na matéria.
 
 2 - O delegado municipal comunica à Polícia de Segurança Pública e à câmara municipal respectiva todas as infracções a este diploma que venham a verificar-se e orienta a execução da tourada, nomeadamente quanto aos seguintes aspectos:
 
