@@ -1,0 +1,20 @@
+Portaria n.º 186/2010
+de 31 de Março
+Através das portarias n.os 145/2009, de 27 de Janeiro, e 579/2009, de 1 de Junho, foram homologados os contratos públicos de aprovisionamento (CPA) com vista ao fornecimento de, respectivamente, medicamentos do foro oncológico e medicamentos diversos.
+Por despachos do Secretário de Estado Adjunto e da Saúde de 10 de Julho e de 30 de Maio de 2008, foi autorizada a abertura dos concursos públicos n.os 2008/6 e 2008/14, respectivamente, e foram aprovados os programas de concurso e os seus cadernos de encargos, os quais prevêem, nos n.os 2 e 1.1 do artigo 2.º das cláusulas técnicas especiais, respectivamente, que para os medicamentos que à data de apresentação das propostas que ainda não tenham obtido a concessão de autorização de introdução no mercado (AIM) pela Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), os CPA só serão celebrados após a obtenção de AIM em Portugal.
+Estão nestas condições os medicamentos anexos à presente portaria, cujas AIM foram emitidas recentemente, e, em consequência, torna-se necessário homologar os contratos públicos de aprovisionamento.
+Assim:
+Manda o Governo, pelo Secretário de Estado da Saúde, ao abrigo das competências delegadas pela Ministra da Saúde através do despacho n.º 3873/2010, de 24 de Fevereiro, o seguinte:
+1.º São homologados os contratos públicos de aprovisionamento que constam dos anexos i e ii da presente portaria.
+2.º Os contratos públicos de aprovisionamento a que se refere o anexo i da presente portaria são aditados ao anexo à portaria n.º 145/2009, de 27 de Janeiro.
+3.º Os contratos públicos de aprovisionamento a que se refere o anexo ii são aditados ao anexo à portaria n.º 579/2009, de 1 de Junho.
+4.º A presente portaria produz efeitos a partir da data da sua publicação.
+O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 11 de Março de 2010.
+ANEXO I
+Catálogo de Aprovisionamento Público da Saúde
+(situação dos artigos: passou a acordo)
+(ver documento original)
+ANEXO II
+Catálogo de Aprovisionamento Público da Saúde
+(situação dos artigos: passou a acordo)
+(ver documento original)
