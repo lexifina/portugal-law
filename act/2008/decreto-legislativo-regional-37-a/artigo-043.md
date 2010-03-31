@@ -1,11 +1,3 @@
-## Capítulo XIII
-
-## Touradas à corda
-
-## Secção I
-
-## Disposições gerais
-
 # Artigo 43.º
 
 ### Definições
