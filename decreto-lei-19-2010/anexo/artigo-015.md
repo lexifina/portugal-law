@@ -6,9 +6,9 @@
 
 2 - Ao fiscal único compete, especialmente:
 
-a) Fiscalizar a gestão e o cumprimento das normas reguladoras da atividade da empresa, tendo em vista, nomeadamente, a realização dos objetivos fixados nos orçamentos anuais;
+a) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;
 
-b) Apreciar e emitir parecer sobre o relatório anual de gestão e de controlo orçamental, as contas do exercício e os demais instrumentos de prestação de contas;
+b) Dar parecer sobre o relatório de gestão do exercício e certificar as contas;
 
 c) Acompanhar com regularidade a gestão através de balancetes e mapas demonstrativos da execução orçamental;
 
@@ -18,26 +18,10 @@ e) Propor a realização de auditorias externas, quando tal se mostre necessári
 
 f) Pronunciar-se sobre qualquer outro assunto em matéria de gestão económica e financeira que seja submetido à sua consideração pelo conselho de administração;
 
-g) Dar parecer sobre o Plano de Atividades e Orçamento;
+g) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global;
 
-h) Dar parecer prévio à realização de operações de financiamento ou celebração de atos ou negócios jurídicos dos quais resultem obrigações para a SPMS, E. P. E., superiores a 5 % do ativo líquido, salvo nos casos em que os mesmos tenham sido aprovados no plano de atividades e orçamento;
+h) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas e pelas entidades que integram o sistema de controlo interno da administração financeira do Estado;
 
-i) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração;
+i) Dar parecer sobre os instrumentos previsionais de gestão e sobre os relatórios trimestrais de execução orçamental.
 
-j) Acompanhar e pronunciar-se trimestralmente sobre a execução do contrato-programa e respetivas adendas.
-
-3 - Compete ao revisor oficial de contas o dever de proceder a todos os exames e verificações necessários à revisão e certificação legais das contas, bem como exercer as seguintes funções:
-
-a) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;
-
-b) Verificar, quando o julgue conveniente e pela forma que entenda adequada, a extensão da caixa e as existências de qualquer espécie de bens ou valores pertencentes à empresa ou por ela recebidos em garantia, depósito ou outro título;
-
-c) Verificar a exatidão dos documentos de prestação de contas;
-
-d) Verificar se os critérios valorimétricos adotados pela SPMS, E. P. E., conduzem a uma correta avaliação do património e dos resultados;
-
-e) Elaborar, a pedido do conselho fiscal, revisão limitada das demonstrações financeiras integradas nos relatórios trimestrais e no Plano de Atividades e Orçamento, elaborados e apresentados pelo conselho de administração.
-
-4 - Com base nos relatórios trimestrais elaborados pelo conselho de administração, o conselho fiscal deve emitir um relatório sucinto que reflita os controlos efetuados e as eventuais anomalias detetadas, bem como os eventuais desvios verificados em relação aos orçamentos e a identificação das respetivas causas, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da saúde.
-
-5 - Com base na proposta de plano de atividades e orçamento apresentada pelo conselho de administração, o conselho fiscal deve emitir um relatório e parecer ao mesmo, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+3 - O fiscal único deve cumprir o seu mandato com independência, isenção e imparcialidade e os seus membros, agentes ou representantes, quando existam, devem observar o dever de estrito sigilo sobre os factos de que tenham conhecimento no exercício das suas funções ou por causa delas.

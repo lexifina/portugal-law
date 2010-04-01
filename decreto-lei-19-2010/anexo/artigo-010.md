@@ -2,7 +2,7 @@
 
 ### Funcionamento do conselho de administração
 
-1 - O conselho de administração reúne, pelo menos, mensalmente e, ainda, sempre que convocado pelo presidente ou por solicitação dos dois vogais ou do órgão de fiscalização, sem prejuízo de fixação, pelo próprio conselho, de calendário de reuniões com maior frequência.
+1 - O conselho de administração reúne, pelo menos, mensalmente e, ainda, sempre que convocado pelo presidente ou por solicitação dos dois vogais ou do fiscal único, sem prejuízo de fixação, pelo próprio conselho, de calendário de reuniões com maior frequência.
 
 2 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho na sua primeira reunião e constam do regulamento interno.
 
