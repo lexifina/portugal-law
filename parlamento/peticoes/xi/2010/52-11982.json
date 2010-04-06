@@ -1,0 +1,112 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11982",
+  "numero": "52",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-04-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-02-08",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-05-12",
+        "DataArquivo": "2011-02-08",
+        "DataBaixaComissao": "2010-05-12",
+        "DataEnvioPAR": "2011-02-11",
+        "DataReaberta": "2010-05-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-05-20",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d54464456464e54515641765247396a6457316c626e52766331426c64476c6a595738764e4449794f54646d4d7a49744d4751774d533030596d55784c5467345a5445744e5445345a4449775a5467304f5745784c6e426b5a673d3d&fich=42297f32-0d01-4be1-88e1-518d20e849a1.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2874",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Trabalho, Segurança Social e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-05-12",
+            "gp": "PS",
+            "id": "1631",
+            "motivoCessacao": null,
+            "nome": "Custódia Fernandes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d765a6a63354f544133596a41744d6a4d354e7930304e6a52684c5467324d6d51744f574a6c596a4e6b4f444133596a4a6d4c6e426b5a673d3d&fich=f79907b0-2397-464a-862d-9beb3d807b2f.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11982",
+    "PetAssunto": "Solicita alteração da alínea b) do n. 1 do art.º 37º A do Estatuto de Aposentação.",
+    "PetDataEntrada": "2010-04-06",
+    "PeticoesAssociadas": null,
+    "PetId": "11982",
+    "PetLeg": "XI",
+    "PetNr": "52",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
