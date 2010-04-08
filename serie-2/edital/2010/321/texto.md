@@ -1,0 +1,8 @@
+Edital n.º 321/2010
+Projecto de Regulamento e Tabela de Taxas Municipais
+Amândio Manuel Ferreira Melo, Presidente da Câmara Municipal de Belmonte, ao abrigo da sua competência consoante da alínea v) do n.º.1 do artigo 68.º da Lei n.º.169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º.5-A/2002, de 11 de Janeiro, e para efeitos do disposto no n.º.1 do artigo 91.º do mesmo diploma legal, torna público que na reunião ordinária de 18 de Novembro de 2009 foi deliberado aprovar e submeter à discussão pública, pelo período de 30 dias, a contar da publicação do presente Edital no Diário da República, o projecto de regulamento e tabela de taxas municipais, assim como a respectiva fundamentação económico-financeira, nos termos do artigo 118.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, na sua actual redacção.
+Nos termos do n.º 2 do artigo 118.º do C.P.A., convidam-se os interessados, devidamente identificados, a dirigir, por escrito, ao Presidente da Câmara Municipal, eventuais sugestões e ou reclamações, dentro do período atrás referido, para a Câmara Municipal de Belmonte, Rua Pedro Álvares Cabral, 135 - 6250-088 Belmonte.
+Mais se faz saber que exemplares do projecto de regulamento, bem como da fundamentação económico-financeira do valor das taxas municipais podem ser consultados na Repartição Administrativa da Câmara Municipal de Belmonte, durante o horário normal de funcionamento e no site da Câmara Municipal de Belmonte, www.cm-belmonte.pt
+Para se constar e devidos efeitos, se lavrou o presente Edital e outros de igual teor, que vão ser afixados nos locais públicos do costume.
+Câmara Municipal, 18 de Março de 2010. - O Presidente, Amândio Manuel Ferreira Melo.
+303051564
