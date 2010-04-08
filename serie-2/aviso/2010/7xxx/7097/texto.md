@@ -1,0 +1,5 @@
+Aviso n.º 7097/2010
+Alteração do Plano Director Municipal de Guimarães
+Para efeitos do disposto nos n.os 1 e 2 do artigo 77.º do Regime Jurídico dos Instrumentos de Gestão Territorial (aprovado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro), torna-se público que, por deliberações da Câmara Municipal de Guimarães, tomadas em suas reuniões de 18 de Fevereiro e 11 de Março de 2010, respectivamente, se deu início a um procedimento de Alteração do Plano Director Municipal de Guimarães, tendo sido fixado o prazo de 180 dias úteis para a conclusão do procedimento, assim como um período de 15 dias úteis, contados a partir do dia seguinte ao da presente publicação no Diário da República, para a promoção da participação preventiva dos interessados, período durante o qual os interessados poderão formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito daquele procedimento.
+Guimarães, 26 de Março de 2010. - O Presidente da Câmara Municipal de Guimarães, Dr. António Magalhães.
+303089376
