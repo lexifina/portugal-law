@@ -1,0 +1,6 @@
+Aviso n.º 7124/2010
+Projecto de Regulamento e Tabela de Taxas, Licenças e Outras Receitas da Freguesia de S. Teotónio
+José Manuel dos Reis Guerreiro, Presidente da Junta de Freguesia de S. Teotónio, torna público que por deliberação tomada pelo Órgão Executivo, na reunião ordinária de 3 de Março de 2010, o Projecto de Regulamento de Taxas, Licenças e Outras Receitas da Freguesia de S. Teotónio, bem como a Tabela e a Fundamentação Económico-Financeira que dele fazem parte integrante, se encontram em inquérito público, para recolha de sugestões, pelo prazo de 30 dias a contar da data da publicação do presente aviso no Diário da República., nos termos do artigo 118.º do Código do Procedimento Administrativo.
+Torna igualmente público que o Projecto de Regulamento e respectivos anexos se encontram disponíveis para consulta dos interessados na Secretaria da Junta de Freguesia de S. Teotónio, ou no site www.f-steotonio.pt. Os interessados poderão dirigir por escrito as suas sugestões à Junta de Freguesia de S. Teotónio, por carta registada com aviso de recepção, para Rua Luis de Camões 7630-635 S. Teotónio ou entregues pessoalmente naquela morada.
+Freguesia de S. Teotónio, 16 de Março de 2010. - O Presidente da Junta, José Manuel dos Reis Guerreiro.
+303099152
