@@ -1,0 +1,123 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "tipo": "Projeto de Lei",
+  "numero": "208",
+  "id": "35192",
+  "fases": 8,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2010-04-08",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2010-09-14",
+    "DataInicioleg": "2009-10-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "1554",
+        "nome": "Filipe Neto Brandão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1264",
+        "nome": "Sérgio Sousa Pinto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "148",
+        "nome": "Marques Júnior"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3236",
+        "nome": "Defensor Moura"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "682",
+        "nome": "José Miguel Medeiros"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1683",
+        "nome": "José Ribeiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "487",
+        "nome": "Fernando Jesus"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1270",
+        "nome": "Jorge Strecht"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1373",
+        "nome": "Osvaldo de Castro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2195",
+        "nome": "Ricardo Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3914",
+        "nome": "Vítor Fontes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1488",
+        "nome": "Afonso Candal"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1703",
+        "nome": "João Sequeira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1987",
+        "nome": "Eduardo Cabrita"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1212",
+        "nome": "Ana Catarina Mendonça Mendes"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "35192",
+    "IniLeg": "XI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a5a4467354d546b30595330774f475a694c545130595749744f4467344d53316d5a5756694e5459794e546c694e544d755a47396a&fich=3d89194a-08fb-44ab-8881-feeb56259b53.doc&Inline=true",
+    "IniNr": "208",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Dispõe sobre a denominação de bens públicos e outros, proibindo a sua atribuição a pessoa viva.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
