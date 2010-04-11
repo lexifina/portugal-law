@@ -6,9 +6,9 @@ Lei n.º 115/2009 · Aprova o Código da Execução das Penas e Medidas Privativ
 
 <https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34515975>
 
-Em vigor desde 2010-04-10; 7 dias com versões no DR (o último em 2023-08-20). Os artigos do próprio Lei n.º 115/2009 estão em [`lei-115-2009/`](lei-115-2009/).
+Em vigor desde 2010-04-11; 7 dias com versões no DR (o último em 2023-08-20). Os artigos do próprio Lei n.º 115/2009 estão em [`lei-115-2009/`](lei-115-2009/).
 
-In force since 2010-04-10; 7 days with versions in the Diário da República (the last on 2023-08-20). The articles of Lei n.º 115/2009 itself are in [`lei-115-2009/`](lei-115-2009/).
+In force since 2010-04-11; 7 days with versions in the Diário da República (the last on 2023-08-20). The articles of Lei n.º 115/2009 itself are in [`lei-115-2009/`](lei-115-2009/).
 
 | Disposição | Ficheiro | Alterações | Última alteração |
 | --- | --- | ---: | --- |
