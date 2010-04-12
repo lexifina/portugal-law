@@ -1,0 +1,11 @@
+Resolução da Assembleia da República n.º 28/2010
+Propõe medidas no âmbito do programa de apoio financeiro Porta 65 - Arrendamento por jovens
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, propor ao Governo que o programa Porta 65 - Jovem integre as seguintes propostas:
+a) Que os jovens possam candidatar-se com o contrato de arrendamento a ter início posteriormente ao período da candidatura, através da apresentação de um contrato-promessa de arrendamento, sendo obrigatória a apresentação do contrato de arrendamento efectivo no mês seguinte à aprovação do apoio;
+b) Que o jovem após uma interrupção do programa possa voltar ao mesmo, se tal facto não se dever a penalização por fraude ao programa;
+c) Que os jovens, mediante alterações de circunstâncias como mudança de residência e alteração do modelo inicial de candidatura, como são o caso de candidaturas em co-habitação, possam continuar abrangidos pelo programa, desde que se mantenham dentro dos critérios admissíveis de acesso ao Porta 65 - Jovem;
+d) Que os jovens, que não possuam declaração de rendimentos do ano imediatamente anterior ou cuja primeira declaração de rendimentos não permita ter rendimentos suficientes para a candidatura, possam, excepcionalmente, candidatar-se ao programa demonstrando ter rendimentos necessários, para beneficiar do apoio, nos seis meses anteriores à candidatura. As candidaturas aprovadas e os apoios atribuídos nestas circunstâncias ficam condicionados à apresentação da primeira declaração de rendimentos posterior a esse período de candidatura, demonstrando que efectivamente o cidadão tinha os requisitos necessários à candidatura e aos apoios recebidos. Caso não se confirmem as condições o apoio é cancelado e o cidadão deverá devolver os apoios recebidos ao Estado. Os jovens terão de fazer prova dos seus rendimentos relativos aos seis meses anteriores ao período de candidatura mediante:
+i) Apresentação de contrato de trabalho válido e legal, acompanhado dos respectivos recibos de vencimento dos últimos seis meses;
+ii) Apresentação dos rendimentos recebidos dos últimos seis meses para trabalhadores independentes.
+Aprovada em 12 de Março de 2010.
+O Presidente da Assembleia da República, Jaime Gama.
