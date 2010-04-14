@@ -1,0 +1,125 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=cqpGrns5UyiyPnfDDcltPGDDPGagvAPg5LKOzP1ZUMdFhS1tYE%2boUqLKys6rT7dQcCsHZzpaaD89aqaaeheMPgaLprYCqr1kfj1yfNQQLvRfJRydrl8CY1Co%2bE8e0qRj21QPh3XBduK2UjaCTwkaZsSJ4Ws78SqTHcUqMO96eMwx0mJ%2fnsLMcuHSvhMz5fog89wsUW8g%2fE6ZhuGk3jur29lC8psdBmdSjbYJnssR%2faJyQGkQf1%2bt9BE0CqnanLSJIJsdFkKfZum%2fMA3QD2YgBITg5jSzdngUrVVNHICp8QvlGKw3W%2bpeu%2bh8LqCpg3zL2WI3n87847CubKBOteTOUU2WZeFIAxLb8PlZly06%2b9I%3d&fich=AtividadesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "e990867e1dd1772bdbc8ca55751b34755453758a1f02604666e2c3ee6e5cbd72",
+  "legislatura": "XI",
+  "tipo": "Voto",
+  "numero": "37",
+  "data_registo": "2010-04-14",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Pesar pela morte do Presidente da Polónia e pelas demais vítimas do desastre aéreo em Smolensk",
+    "AutoresGP": [
+      "PS",
+      "PSD",
+      "CDS-PP",
+      "BE",
+      "Maria Paula Cardoso (PSD)",
+      "Conceição Casa Nova (PS)",
+      "Mendes Bota (PSD)",
+      "Teresa Damásio (PS)",
+      "Carlos Alberto Gonçalves (PSD)",
+      "José Cesário (PSD)",
+      "José de Bianchi (PS)",
+      "Paulo Pisco (PS)",
+      "José Ribeiro e Castro (CDS-PP)",
+      "Filipe Lobo D' Ávila (CDS-PP)",
+      "José Manuel Pureza (BE)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2010-04-15",
+    "DataAnuncio": null,
+    "DataEntrada": "2010-04-14",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XI",
+    "Numero": "37",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "514275",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-04-17",
+        "pubLeg": "XI",
+        "pubNr": "105",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/105/2010-04-17/2?pgs=2&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "26387",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-04-16",
+        "pubLeg": "XI",
+        "pubNr": "45",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/045/2010-04-16?org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2010-04-15",
+        "descricao": null,
+        "detalhe": null,
+        "id": "55408",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "516239",
+            "obs": null,
+            "pag": [
+              "51-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-04-16",
+            "pubLeg": "XI",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/045/2010-04-16/51?pgs=51&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "45",
+        "tipoReuniao": null,
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
