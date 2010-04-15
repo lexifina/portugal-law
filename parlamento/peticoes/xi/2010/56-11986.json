@@ -1,0 +1,572 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11986",
+  "numero": "56",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-04-15",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2010-06-22",
+            "entidades": null,
+            "id": "88644",
+            "tipo": null,
+            "titulo": "Audição em 2010-06-22 com Movimento Cívico pela Beneficiação da ER361"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-07-02",
+            "dataResposta": "2010-07-09",
+            "entidades": [
+              "Presidente das Estradas de Portugal, S.A."
+            ],
+            "nrOficio": "117/COPTC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2010-10-22",
+                "dataResposta": "2010-10-28",
+                "nrOficio": "248/COPTC",
+                "oficioResposta": "9351"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-07-02",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente do INIR - Instituto de Infra-Estruturas Rodoviárias"
+            ],
+            "nrOficio": "118/COPTC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2010-10-22",
+                "dataResposta": null,
+                "nrOficio": "249/COPTC",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-07-02",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Administração Interna"
+            ],
+            "nrOficio": "119/COPTC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2010-10-22",
+                "dataResposta": "2010-10-29",
+                "nrOficio": "250/COPTC",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-11-25",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-05-04",
+        "DataArquivo": "2010-12-09",
+        "DataBaixaComissao": "2010-05-04",
+        "DataEnvioPAR": "2010-12-09",
+        "DataReaberta": "2010-05-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-07-13",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a45324e7a566d4f475a6c4c5759354d324d744e474534596930354f546b344c544d324e444d77596a4d315a4451304f4335775a47593d&fich=1675f8fe-f93c-4a8b-9998-36430b35d448.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a4d32597a51774f4442684c574a6a4e5463744e446c685a693169596a49354c544d334e6a497a597a466d4d545177595335775a47593d&fich=36c4080a-bc57-49af-bb29-37623c1f140a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-10-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c3245304d5467354d3249304c5467324d7a45744e444a685a5330344d6d55314c545532597a67314e575a694e4459304e4335775a47593d&fich=a41893b4-8631-42ae-82e5-56c855fb4644.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a6c694f44646b596a646d4c5467314d5751744e4745314d5330354e6d4d354c5467774e6d45784d6a63354e3255795a6935775a47593d&fich=9b87db7f-851d-4a51-96c9-806a12797e2f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-10-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a6c695a5455325a4451354c5749334d6a59744e444a6c5a5330354e445a694c544534597a41325a446779596d526d5a6935775a47593d&fich=9be56d49-b726-42ee-946b-18c06d82bdff.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c3255334e6d4e695a5756684c54646b4e4463744e44566c4f5330345a446b774c5755315a6a426b5a6a55344f4459344e7935775a47593d&fich=e76cbeea-7d47-45e9-8d90-e5f0df588687.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-10-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c3251774d3246694e5459324c574d344d4459744e4463334d6931684e574a6d4c57597a5a4759794d7a6b355a5449315a5335775a47593d&fich=d03ab566-c806-4772-a5bf-f3df2399e25e.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-12-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a67315a5759334e44497a4c5745304d446b744e446c6c4e7931685a4445324c544a684e4751335a474d31596a59774f4335775a47593d&fich=85ef7423-a409-49e7-ad16-2a4d7dc5b608.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-11-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a67304d4755794d6a6b314c5467325a4455744e4751334d5330344f5745784c54526b4e6a51314d7a45334d3249354d4335775a47593d&fich=840e2295-86d5-4d71-89a1-4d6453173b90.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a646d4e444e694f5449334c5455354d4463744e4445784e7930344d7a41334c54526a4f5459324d7a6b35597a6868597935775a47593d&fich=7f43b927-5907-4117-8307-4c966399c8ac.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-11-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c3251315954637a5a6a637a4c5441304d474d744e4441784d4331694f44566c4c5459784d4755324d5459324e5445774d6935775a47593d&fich=d5a73f73-040c-4010-b85e-610e61665102.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2872",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-05-04",
+            "gp": "PSD",
+            "id": "1410",
+            "motivoCessacao": null,
+            "nome": "Vasco Cunha"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2011-01-12",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d76597a55344e4455354f544d744f544d324e5330304d7a64684c57466a5a5459744e6d59335a6a63794d6d59354d6a4d314c6e426b5a673d3d&fich=c5845993-9365-437a-ace6-6f7f722f9235.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110112pln&url=l11/sl2/a2011/m01/&tI=03:36:53:530&drc=00:03:26:653"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-13",
+                "pubLeg": "XI",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/037/2011-01-13/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a repavimentação da ER361 no troço Alcanede e Alcanena.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110112pln&url=l11/sl2/a2011/m01/&tI=03:40:25:931&drc=00:02:42:289"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178783",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-13",
+                "pubLeg": "XI",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/037/2011-01-13/63?pgs=63&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a repavimentação da ER361 no troço Alcanede e Alcanena.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110112pln&url=l11/sl2/a2011/m01/&tI=03:43:13:293&drc=00:02:35:764"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178784",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-13",
+                "pubLeg": "XI",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/037/2011-01-13/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a repavimentação da ER361 no troço Alcanede e Alcanena.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110112pln&url=l11/sl2/a2011/m01/&tI=03:45:54:188&drc=00:02:36:583"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178785",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-13",
+                "pubLeg": "XI",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/037/2011-01-13/64?pgs=64&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a repavimentação da ER361 no troço Alcanede e Alcanena.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110112pln&url=l11/sl2/a2011/m01/&tI=03:48:34:650&drc=00:02:38:896"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178786",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-13",
+                "pubLeg": "XI",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/037/2011-01-13/65?pgs=65&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a repavimentação da ER361 no troço Alcanede e Alcanena.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110112pln&url=l11/sl2/a2011/m01/&tI=03:51:16:050&drc=00:02:17:443"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178787",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-13",
+                "pubLeg": "XI",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/037/2011-01-13/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a repavimentação da ER361 no troço Alcanede e Alcanena.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11986",
+    "PetAssunto": "Solicitam a repavimentação da ER361 no troço Alcanede e Alcanena.",
+    "PetDataEntrada": "2010-04-15",
+    "PeticoesAssociadas": null,
+    "PetId": "11986",
+    "PetLeg": "XI",
+    "PetNr": "56",
+    "PetNrAssinaturas": "4604",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "354",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-01-13",
+        "pubLeg": "XI",
+        "pubNr": "37",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/037/2011-01-13?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "530852",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-05-15",
+        "pubLeg": "XI",
+        "pubNr": "121",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/121/2010-05-15/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
