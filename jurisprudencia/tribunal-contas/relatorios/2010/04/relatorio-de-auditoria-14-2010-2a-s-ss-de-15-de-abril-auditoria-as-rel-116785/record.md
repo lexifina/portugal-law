@@ -1,0 +1,40 @@
+# Relatório de Auditoria 14/2010 - 2ª S/SS de 15 de Abril - Auditoria às Relações Financeiras Inter-organismos do MDN: OGME ? Oficinas Gerais de Material de Engenharia, Ano de 2007
+
+**Designação:** Relatório de Auditoria 14/2010 - 2ª S/SS de 15 de Abril - Auditoria às Relações Financeiras Inter-organismos do MDN: OGME ? Oficinas Gerais de Material de Engenharia, Ano de 2007
+
+**Data do documento:** 2010-04-15
+
+**Espécie:** Relatórios de Auditoria, de Verificação Externa de Contas, de Verificação Interna de Contas, de Acompanhamento da Execução Orçamental, de Apuramento de Responsabilidades, OAC
+
+**Tipo de documento:** Relatório de Auditoria
+
+**Relator:** João Manuel Macedo Ferreira Dias
+
+**Entidades:** Oficinas Gerais de Material de Engenharia
+
+**Descritores:** ATIVO FINANCEIRO; AUDITORIA DE SISTEMAS; AUTONOMIA ADMINISTRATIVA E FINANCEIRA; COBRANÇA DE DÍVIDAS; ENQUADRAMENTO LEGAL; ESTATUTO; FATURAÇÃO; FISCALIZAÇÃO ECONÓMICA; MANUAL DE PROCEDIMENTOS; ORGANIZAÇÃO E FUNCIONAMENTO; RENEGOCIAÇÃO DAS CONDIÇÕES; SEPARAÇÃO DE PODERES; SISTEMA DE INFORMAÇÃO CONTABILÍSTICA
+
+**Texto integral (PDF oficial):** https://www.tcontas.pt/pt-pt/ProdutosTC/Relatorios/RelatoriosAuditoria/Documents/2010/rel014-2010-2s.pdf
+
+**Registo oficial:** https://tcjure.tcontas.pt/GetDocument.aspx?numero=116785
+
+## Sumário
+
+CONCLUSÕES E RECOMENDAÇÕES
+O Tribunal concluiu, designadamente, que:
+&#61485;	No Relatório n.º 11/09 – 2.ª S, enviado ao Ministro de Estado e das Finanças e ao Ministro da Defesa Nacional, entre outras entidades, o TC considerou que os EFE são historicamente pessoas coletivas de direito público, enquadráveis no quadro legislativo vigente como EPE – Entidades Públicas Empresariais, embora atípicas. Ficaram assim criadas as condições para uma uniformização interpretativa que eventualmente facilitará a revisão do estatuto, do enquadramento jurídico-económico e do modelo de funcionamento dos EFE, que são manifestamente desadequados, como diversos estudos e relatórios já evidenciaram.
+&#61485;	Desempenhando o Comandante da Logística dois papéis dificilmente conciliáveis – por um lado, o de direção e fiscalização dos EFE e, por outro, o de dirigente máximo do CL, cliente hegemónico daqueles Estabelecimentos – não fica institucionalmente salvaguardada a necessária autonomia de gestão dos EFE.
+&#61485;	Atentas as competências e composição do CFEF – Conselho Fiscal dos Estabelecimentos Fabris e a sua dependência funcional e hierárquica ao Comandante da Logística, não fica igualmente salvaguardado o princípio da autonomia da fiscalização interna de primeiro grau definido no n.º 1 do art.º 12.º da Lei de Bases da Contabilidade Pública – Lei n.º 8/90, de 20 de Fevereiro.
+&#61485;	Embora em 2007 os EFE, classificados como EPE, não estivessem sujeitos à disciplina do Decreto-Lei n.º 197/99, de 8 de Junho, tendo em atenção a noção de “organismo de direito público”, provinda da jurisprudência comunitária, os EFE passaram a integrar-se no conceito de entidades adjudicantes previstas no CCP – Código dos Contratos Públicos, a que devem obedecer. Não será no entanto aplicável, o preceituado quanto à contratação pública no CCP, quando se esteja em face de contratação “in house”, nos termos estabelecidos no art.º 5.º n.º 2 daquele código.
+&#61485;	Embora a sua missão preveja o fornecimento e abastecimento das Forças Armadas, a atividade das OGME encontra-se direccionada quase em exclusivo para o Exército que, além do mais, através do Comandante da Logística, aprova o valor do preço “homem/hora”.
+&#61485;	As OGME caracterizam-se por elevados níveis etários e de antiguidade do seu pessoal e por disporem de equipamentos quase totalmente amortizados. Os sistemas de informação existentes, não funcionando de forma integrada, implicam, a múltipla introdução dos mesmos registos, situação que potencia a existência de erros e inconsistências e significativos atrasos na execução da contabilidade.
+&#61485;	As OGME não dispõem de manuais de procedimentos atualizados para as áreas mais relevantes, tendo-se concluído existirem insuficiências na gestão das existências decorrentes do atraso no registo e tratamento da informação, da movimentação de artigos com base em “documentos provisórios” e da não realização sistemática de contagens físicas anuais.
+&#61485;	A prática de faturação provisória, correspondendo de facto a um crédito por adiantamento de clientes, regularizada aquando da faturação definitiva, embora adequadamente refletida na Contabilidade tem um inapropriado suporte documental.
+&#61485;	No que respeita às dívidas de clientes, as OGME têm o dever de desencadear todos os mecanismos legais para a efetiva cobrança mesmo nas contratações “in house”.
+&#61485;	As OGME, em 2007, detinham contas bancárias na Caixa Geral de Depósitos, no Banco Santander Totta e no IGCP, tendo esta última passado a ser movimentada a partir de Setembro 2009. As OGME encontram-se, atualmente, a cumprir “o princípio da unidade de tesouraria”.
+&#61485;	No âmbito das contrapartidas relativas à aquisição das viaturas blindadas de rodas está prevista a instalação de um banco de ensaio de motores e respetivo equipamento auxiliar, que permitirá às OGME montar e testar os “Power Packs” dos PANDUR II. Os trabalhos em curso criaram limitações operacionais à atividade corrente das OGME. De acordo com informação da CPC, a montagem dos “Power Packs” não estava inicialmente prevista nem contratualizada mas constitui uma significativa vantagem adicional para a economia portuguesa, e a instalação de um banco de ensaio de motores não está “propriamente atrasada” sendo, porém, “de toda a conveniência que (...) fique rapidamente operacional”.
+O Tribunal recomendou:
+a)	ao Governo, através do Ministro de Estado e das Finanças e do Ministro da Defesa Nacional, reiterando as recomendações anteriormente formuladas, nomeadamente no Relatório n.º 11/09 – 2.ª S, que, com carácter de urgência, reaprecie e proceda à revisão do estatuto, do enquadramento jurídico-económico, modelo de gestão e de funcionamento dos EFE, no sentido de se enquadrarem no quadro legislativo vigente como EPE, à luz do disposto no regime jurídico do Setor Empresarial do Estado – Decreto-Lei n.º 558/99, de 17 de Dezembro, com as alterações do Decreto-Lei n.º 300/2007, de 23 de Agosto.
+b)	ao Chefe do Estado-Maior do Exército e ao Comandante da Logística que, entretanto, sejam desde já adoptados os mecanismos que permitam a convergência dos poderes de direção e de fiscalização e de administração e funcionamento das OGME, e dos restantes EFE, com o regime que regula as EPE, designadamente quanto: ao cumprimento do disposto no Decreto-Lei n.º 558/99, de 17 de Dezembro, com as alterações do Decreto-Lei n.º 300/2007, de 23 de Agosto; à adequação da composição do CFEF com vista ao reforço da fiscalização financeira, designadamente através de entidades independentes e com a certificação profissional requerida; à salvaguarda da necessária autonomia de gestão dos EFE, incluindo a negociação dos preços; à prossecução de esforços com vista à efetiva extensão da atividade dos EFE aos demais órgãos dos três ramos das Forças Armadas.
+c)	ao Comandante da Logística que, no uso dos poderes de direção dos serviços integrados no CL e de direção e de fiscalização das OGME, promova a solução das dívidas pendentes de unidades do CL às OGME.
+à Direção das OGME que: adeqúe os procedimentos administrativos e contabilísticos às exigências legais, designadamente quanto ao regime de faturação; proceda à elaboração e/ou atualização de manuais de procedimentos para as áreas mais relevantes; adopte as medidas conducentes ao funcionamento de forma integrada dos sistemas de informação existentes e/ou a adquirir, racionalizando e optimizando procedimentos, nomeadamente na área da contabilidade e na gestão de existências; desencadeie os apropriados mecanismos de salvaguarda de ativos, designadamente quanto ao registo, gestão e controlo das existências e de bens do ativo imobilizado; desencadeie todas as diligências e mecanismos legais para a efetiva cobrança de dívidas de clientes.
