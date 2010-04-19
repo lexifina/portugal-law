@@ -1,0 +1,7 @@
+Edital n.º 373/2010
+Discussão pública do projecto de regulamento municipal de taxas e licenças do município de Mirandela
+José Maria Lopes Silvano, Presidente da Câmara Municipal de Mirandela, torna público, nos termos e para os efeitos previstos no artigo 117.º do Código de Procedimento Administrativo, que durante o período de 30 dias, a contar da publicitação da deliberação, é submetido a inquérito público o projecto de Regulamento Municipal de Taxas, Licenças do Município de Mirandela e respectiva Tabela, conforme deliberação do órgão executivo municipal tomada em 29 de Março de 2010, do qual faz parte integrante e que aqui se dá como transcrita.
+Assim, em cumprimento do disposto no artigo 118.º daquele Código, se consigna que a proposta está patente, para o efeito, durante o período antes referenciado, no Gabinete de Apoio ao Presidente no Edifício dos Paços do Concelho, para e sobre ela serem formuladas, por escrito, perante o presidente da câmara municipal, as observações tidas por convenientes, após o que será presente, para confirmação ao respectivo órgão municipal competente. Está também disponível no portal do Município de Mirandela (www.cm-mirandela.pt).
+Para constar e devidos efeitos, se publica o presente Edital e outros de igual teor, que vai ser enviado para publicação no Diário da República e afixado nos lugares públicos do costume.
+Paços do Concelho, 29 de Março de 2010. - O Presidente da Câmara Municipal de Mirandela, José Maria Lopes Silvano.
+303097832
