@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2010-04-21, processo 0101/10
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0101/10
+
+**Data do Acordão:** 04/21/2010
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** VALENTE TORRÃO
+
+**Descritores:** TAXA DE PUBLICIDADE; RECLAMAÇÃO GRACIOSA; INDEFERIMENTO TÁCITO; IMPUGNAÇÃO JUDICIAL; TEMPESTIVIDADE; PROJECTO; DECISÃO; DECISÃO FINAL; PROCEDIMENTO
+
+**Nº Convencional:** JSTA000P11697
+
+**Nº do Documento:** SA2201004210101
+
+**Recorrente:** A...
+
+**Recorrido 1:** CM DE LISBOA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A reclamação deduzida ao abrigo do 16º da Lei nº. 53-E/2006, de 29/12, presume-se indeferida para efeitos de impugnação judicial se não for decidida no prazo de 60 dias.
+
+II - Do indeferimento tácito ou expresso cabe impugnação judicial para o tribunal administrativo e fiscal da área do município ou da junta de freguesia, no prazo de 60 dias a contar do indeferimento.
+
+III - Deste modo, é intempestiva uma impugnação judicial deduzida em 20.11.2007, quando a reclamação graciosa havia sido apresentada em 02.07.2007 e só em 02.01.2008 veio a ser proferido despacho expresso de indeferimento.
+
+IV - O acto que determina a notificação para exercício do direito de audição é um mero acto preparatório da decisão final que, mesmo quando contém projecto de decisão (como impõe o n.º 5 do artº. 60.º da LGT), não dispensa um ulterior acto final de decisão do procedimento, que, mesmo quando concorda com o teor da proposta de decisão, é um acto distinto daquela, materializado numa declaração de concordância, como se estabelece no n.º 1 do artº. 77.º da LGT.
+
+V - O projecto de decisão de indeferimento de reclamação graciosa de acto de liquidação de taxa municipal, notificado ao reclamante para exercício do direito de audição, nos termos do artº. 60.º, n.º 5, da LGT, não se transforma automaticamente em decisão final pelo facto de o reclamante nada dizer.
