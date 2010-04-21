@@ -1,0 +1,29 @@
+# Acórdão do Supremo Tribunal Administrativo de 2010-04-21, processo 0102/10
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0102/10
+
+**Data do Acordão:** 04/21/2010
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ANTÓNIO CALHAU
+
+**Descritores:** RECTIFICAÇÃO DE ERRO MATERIAL; ESCLARECIMENTO; REFORMA DE ACÓRDÃO
+
+**Nº Convencional:** JSTA000P11698
+
+**Nº do Documento:** SA2201004210102
+
+**Recorrente:** A...
+
+**Recorrido 1:** FAZENDA PÚBLICA
+
+## Sumário
+
+1. Ocorrendo no acórdão erros de escrita ou inexactidões devidas a lapso manifesto, devem os mesmos ser rectificados, a requerimento de qualquer das partes ou por iniciativa do juiz (arts. 667.º e 732.º do CPC).
+
+2. Nos termos dos artigos 669.º e 732.º do CPC, pode qualquer das partes requerer também no tribunal que proferiu o acórdão o esclarecimento de alguma obscuridade ou ambiguidade que ele contenha.
+
+3. Só pode aclarar-se ou esclarecer-se um acórdão se ele contiver alguma obscuridade ou ambiguidade, sendo que ele será obscuro se contiver alguma passagem cujo sentido não se compreende e ambíguo quando permita interpretações diferentes.
