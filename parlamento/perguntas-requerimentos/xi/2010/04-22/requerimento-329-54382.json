@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "54382",
+  "tipo": "Requerimento",
+  "numero": "329",
+  "data_registo": "2010-04-22",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Barragem de Beliche sita na Freguesia de Santa Maria, a norte de Tavira",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1048",
+        "nome": "Altino Bessa"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2167",
+        "nome": "Abel Baptista"
+      }
+    ],
+    "DataEnvio": "2010-04-23",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-04-23",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Direcção Geral de Agricultura e Desenvolvimento Rural",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-05-31",
+            "docRemetida": null,
+            "entidade": "MIN.  DA   AGRICULTURA , DO DESENVOLVIMENTO RURAL E DAS PESCAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077765a5452684f54646c59324d744d6a4e6b4e693030596d51344c546b784e5455744e4446684d5463774e5455785a6a6b304c6e426b5a673d3d&fich=e4a97ecc-23d6-4bd8-9155-41a170551f94.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-04-22",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d6d55334e474a6b596d45745a546c6b5a4330304d7a6c694c57457a4e574d74596a4e694d4745775a6a49344e446b774c6e426b5a673d3d&fich=2e74bdba-e9dd-439b-a35c-b3b0a0f28490.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "54382",
+    "Legislatura": "XI",
+    "Nr": "329",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "516344",
+        "obs": null,
+        "pag": [
+          "16-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "118",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/118/2010-05-11/16?pgs=16-22&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
