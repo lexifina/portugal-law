@@ -1,0 +1,1656 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "215",
+    "id": "35218",
+    "titulo": "Regime de suspensão de mandato dos titulares de órgãos autárquicos."
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2010-04-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7426",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2010-04-22",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35213",
+        "leg": "XI",
+        "nr": "222",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1398",
+            "obs": null,
+            "pag": [
+              "39-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-04-23",
+            "pubLeg": "XI",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1398",
+            "obs": null,
+            "pag": [
+              "39-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-04-23",
+            "pubLeg": "XI",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos)"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35215",
+        "leg": "XI",
+        "nr": "223",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1398",
+            "obs": null,
+            "pag": [
+              "39-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-04-23",
+            "pubLeg": "XI",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1398",
+            "obs": null,
+            "pag": [
+              "39-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-04-23",
+            "pubLeg": "XI",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-04-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1592",
+                "nome": "Vítor Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175911",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2155",
+                "nome": "Luís Gonelha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175912",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1170",
+                "nome": "Rui Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175913",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2215",
+                "nome": "Nuno Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175914",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2214",
+                "nome": "Manuel Mota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175915",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "487",
+                "nome": "Fernando Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175916",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1977",
+                "nome": "António Gameiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175917",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4167",
+                "nome": "Anabela Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175918",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1553",
+                "nome": "Teresa Venda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175919",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1023",
+                "nome": "Maria do Rosário Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2266",
+                "nome": "João Serrano"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175921",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2250",
+                "nome": "Miguel Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175923",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4067",
+                "nome": "Rui Prudêncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2230",
+                "nome": "João Portugal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1683",
+                "nome": "José Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4186",
+                "nome": "Eurídice Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2225",
+                "nome": "Hortense Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1570",
+                "nome": "Ricardo Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2129",
+                "nome": "João Paulo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175930",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4204",
+                "nome": "António Cabeleira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175931",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2065",
+                "nome": "Agostinho Branquinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175932",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4205",
+                "nome": "Isabel Sequeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175933",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4214",
+                "nome": "João Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175934",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2641",
+                "nome": "Paulo Cavaleiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175935",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3919",
+                "nome": "Amadeu Soares Albergaria"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175936",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4050",
+                "nome": "Fernando Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175937",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3944",
+                "nome": "Teresa Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175938",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3943",
+                "nome": "Nuno Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175939",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "303",
+                "nome": "João Prata"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "175940",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-04-23",
+                "pubLeg": "XI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Regime de suspensão de mandato dos titulares de órgãos autárquicos.; Procede à segunda alteração à Lei n.º 34/87, de 16 de Julho, (crimes da responsabilidade de Titulares de Cargos Políticos); Altera o regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, no capítulo referente às garantias de imparcialidade.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "267043",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "516806",
+        "obs": null,
+        "pag": [
+          "36-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-04-23",
+        "pubLeg": "XI",
+        "pubNr": "48",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/048/2010-04-23/36?pgs=36&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2010-04-22",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PEV</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>",
+        "id": "55460",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "48",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
