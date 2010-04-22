@@ -4,7 +4,7 @@
 
 Sem prejuízo das obrigações previstas no artigo 11.º do Decreto-Lei n.º 81/2008, de 16 de Maio, quando aplicável, constituem obrigações dos beneficiários:
 
-a) Iniciar a execução dos projectos até 90 dias a contar da data da outorga do competente contrato com o IFAP e completar essa execução até 18 meses a contar da mesma data;
+a) Iniciar a execução dos projectos até 150 dias a contar da data da outorga do competente contrato com o IFAP e completar essa execução no prazo de 18 meses a contar da mesma data;
 
 b) Constituir garantias nas condições que vierem a ser definidas na decisão de aprovação dos projectos;
 
