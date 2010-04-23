@@ -2,11 +2,11 @@
 
 ### Condições de acesso relativas aos projectos
 
-Sem prejuízo das condições previstas no artigo 5.º do Decreto-Lei n.º 81/2008, de 16 de Maio, são condições de acesso a este regime:
+Sem prejuízo das condições previstas no artigo 5.º do Decreto-Lei n.º 81/2008, de 16 de Maio, alterado pelo Decreto-Lei n.º 128/2009, de 28 de Maio, são condições de acesso a este regime:
 
 a) Relativamente ao estabelecimento, sempre que exigível, nos termos da legislação em vigor:
 
-i) Ter, nos termos do regime de exercício da actividade industrial, autorização de instalação ou alteração no caso dos estabelecimentos da classe 1; estar a declaração prévia de instalação ou alteração deferida, no caso dos estabelecimentos da classe 2, ou ter o registo efectuado, no caso dos estabelecimentos da classe 3;
+i) Ter, nos termos do regime de exercício da actividade industrial, autorização de instalação ou alteração no caso de estabelecimento do tipo 1;
 
 ii) Possuir número de controlo veterinário, quando se trate da modernização de estabelecimentos existentes;
 
