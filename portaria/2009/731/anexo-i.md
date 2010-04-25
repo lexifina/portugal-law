@@ -32,7 +32,9 @@ Nas Artes e Expressões;
 
 Nas Ciências Experimentais;
 
-Na educação pré-escolar e no 1.º ciclo do ensino básico.
+Na educação pré-escolar e no 1.º ciclo do ensino básico;
+
+Na educação especial.
 
 Avaliação das aprendizagens com TIC.
 
