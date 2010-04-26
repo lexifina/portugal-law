@@ -1,0 +1,5 @@
+Aviso n.º 8315/2010
+Luís Manuel Barbosa Marques Leal, Dr., Presidente da Câmara Municipal de Montemor-o-Velho, torna público, ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de Setembro, na redacção dada pela Lei n.º 5-A/2002, de 11 de Setembro, e nos termos e para os efeitos do disposto no artigo 91.º da referida lei, que a Assembleia Municipal, em sessão ordinária de 12 de Abril de 2010, sob proposta da Câmara Municipal aprovada em reunião de 29 de Março de 2010 deliberou, por maioria, aprovar o Regulamento Municipal de Taxas e Outras Receitas do Município, bem como a fundamentação económico-financeira, nos termos da Lei n.º 53-E/2006, de 29 de Dezembro.
+Mais faz saber que o mencionado Regulamento, de acordo com o diposto no seu artigo 33.º, entra em vigor cinco dias após a publicação do presente aviso e ainda que o texto integral se encontra diponível nos serviços e no sítio do Município (www.cm-montemorvelho.pt).
+Paços do Município de Montemor-o-Velho, 14 de Abril de 2010. - O Presidente da Câmara Municipal, Luís Manuel Barbosa Marques Leal, Dr.
+303153057
