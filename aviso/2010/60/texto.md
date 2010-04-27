@@ -1,0 +1,5 @@
+Aviso n.º 60/2010
+Por ordem superior se torna público que, em 1 de Fevereiro de 2010, o Reino dos Países Baixos notificou o Governo da República Portuguesa, na qualidade de depositário, da conclusão dos respectivos requisitos constitucionais necessários à expressão do seu consentimento em estar vinculado ao Acordo entre a Irlanda, o Reino dos Países Baixos, o Reino de Espanha, a República Italiana, a República Portuguesa, a República Francesa e o Reino Unido da Grã-Bretanha e da Irlanda do Norte Que Estabelece Um Centro de Análise e Operações Marítimas - Narcóticos (MAOC-N), adoptado em Lisboa em 30 de Setembro de 2007.
+Por parte da República Portuguesa, o Acordo foi aprovado pela Resolução da Assembleia da República n.º 2/2009 e ratificado pelo Decreto do Presidente da República n.º 5/2009, ambos de 2 de Fevereiro.
+Atendendo a que a notificação do Reino dos Países Baixos corresponde à terceira notificação, em conformidade com o disposto no n.º 3 do artigo 21.º, o Acordo entra em vigor no dia 2 de Abril de 2010.
+Direcção-Geral de Política Externa, 20 de Abril de 2010. - O Director-Geral, Nuno Filipe Alves Salvador e Brito.
