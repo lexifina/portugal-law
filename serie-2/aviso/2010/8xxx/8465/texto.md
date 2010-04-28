@@ -1,0 +1,4 @@
+Aviso n.º 8465/2010
+Carlos Alberto Oliveira Henriques, Vereador a Tempo Inteiro da Câmara Municipal de Batalha, torna público, para efeitos do disposto no n.º 3 do artigo 118.º do Código do Procedimento Administrativo (CPA), que foi dado cumprimento do disposto no n.º 1 do citado artigo, não tendo sido registadas quaisquer reclamações ao projecto do Regulamento Municipal de Utilização Manutenção e Cedência de Cartografia, publicado no Diário da República 2.ª série n.º 22 de 02/02/2010 (Aviso n.º 2359/2010). O Regulamento foi aprovado definitivamente pelo Executivo na sua reunião ordinária de 01/04/2010, conforme deliberação n.º 2010/0186/D.O.T. (STPSIG), podendo o mesmo ser consultado no portal do Município (www.cm-batalha.pt).
+Paços do Município da Batalha, 13 de Abril de 2010. - O Vereador Câmara Municipal da Batalha, Carlos Alberto Oliveira Henriques.
+303157634
