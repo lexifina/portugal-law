@@ -23,3 +23,5 @@ f) Registos do curriculum vitae em sítios da Internet.
 4 - Os centros de emprego asseguram o devido apoio aos beneficiários na aquisição de estratégias de aproximação do mercado de trabalho através da orientação, formação e acompanhamento dos esforços de procura activa e de melhoria das condições de empregabilidade a desenvolver por parte do beneficiário.
 
 5 - Com vista a facilitar a procura de emprego por parte do candidato a emprego, os centros de emprego devem disponibilizar, de acordo com os recursos disponíveis, meios de apoio à procura activa.
+
+6 - Sempre que a Administração Pública promove concursos, como forma de recrutamento e selecção de pessoal para os quadros, é obrigada a contactar, por via electrónica ou postal simples, todos os desempregados que detenham as habilitações literárias requeridas para o concurso, inscritos no centro de emprego da área geográfica do posto de trabalho, bem como nos imediatamente limítrofes.
