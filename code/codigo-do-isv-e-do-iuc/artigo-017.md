@@ -10,7 +10,7 @@
 
 2 - A liquidação do imposto incidente sobre os veículos que possuam matrícula nacional é titulada pela declaração complementar de veículos (DCV).
 
-3 - Para efeitos de matrícula, os veículos automóveis ligeiros e pesados, as máquinas industriais, os motociclos, ciclomotores, triciclos e quadriciclos, ainda que excluídos do imposto, ficam sujeitos ao processamento da DAV.
+3 - Para efeitos de matrícula, os veículos automóveis ligeiros e pesados, os motociclos, os ciclomotores, os triciclos e os quadriciclos, ainda que excluídos do imposto, ficam sujeitos ao processamento da DAV.
 
 4 - A DAV pode ser processada por transmissão electrónica de dados, nos termos a definir por portaria do membro do Governo responsável pela área das Finanças.
 

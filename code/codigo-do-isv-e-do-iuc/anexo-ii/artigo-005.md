@@ -4,7 +4,7 @@
 
 1 - Estão isentos de imposto os seguintes veículos:
 
-a) Veículos da administração central, regional, local e das forças militares e militarizadas, bem como os veículos propriedade de corporações de bombeiros que se destinem ao combate ao fogo;
+a) Veículos da administração central, regional, local e das forças militares e de segurança, bem como os veículos adquiridos pelas associações humanitárias de bombeiros ou câmaras municipais para o cumprimento das missões de protecção, socorro, assistência, apoio e combate a incêndios, atribuídas aos seus corpos de bombeiros;
 
 b) Automóveis e motociclos da propriedade de Estados estrangeiros, de missões diplomáticas e consulares, de organizações internacionais e de agências europeias especializadas, bem como dos respectivos funcionários, quando o seu reconhecimento seja obrigatório em virtude de instrumento de direito internacional;
 
