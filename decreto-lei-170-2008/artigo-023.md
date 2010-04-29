@@ -6,7 +6,7 @@
 
 2 - A comunicação à ANCP, a que se refere o número anterior, só tem lugar relativamente a veículos com menos de cinco anos e com um número de quilómetros percorridos inferior a 100 000 e que, em qualquer caso, se apresentem em bom estado de conservação.
 
-3 - A comunicação a que se refere o n.º 1 deve conter, designadamente, a seguinte informação: marca, modelo, matrícula, ano da matrícula, quilometragem, cilindrada e tipo de combustível, em termos a definir pelo membro do Governo responsável pela área dos serviços partilhados da Administração Pública.
+3 - A comunicação a que se refere o n.º 1 deve conter, designadamente, a seguinte informação: marca, modelo, matrícula, ano da matrícula, quilometragem, cilindrada e tipo de combustível, em termos a definir pelo membro do Governo responsável pela área das finanças.
 
 4 - Nos casos não previstos no n.º 2 ou naqueles em que a ANCP manifeste não estarem reunidas as condições para que o veículo integre o PVE, a entidade que superintender o processo deve promover o respectivo abate ou alienação nos termos legais.
 
