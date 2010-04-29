@@ -6,4 +6,6 @@ As taxas de imposto aplicáveis aos motociclos, triciclos e quadriciclos são as
 
 TABELA C
 
+Componente cilindrada
+
 (ver documento original)

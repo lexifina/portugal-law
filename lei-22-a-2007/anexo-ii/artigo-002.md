@@ -19,3 +19,5 @@ f) Categoria F: Embarcações de recreio de uso particular com potência motriz 
 g) Categoria G: Aeronaves de uso particular.
 
 2 - Presumem-se afectos ao transporte particular de mercadorias ou ao transporte por conta própria os veículos relativamente aos quais se não comprove a afectação ao transporte público de mercadorias ou ao transporte por conta de outrem.
+
+3 - Nos casos de veículos das categorias F e G, entende-se por uso particular o uso de uma embarcação ou de uma aeronave pelo seu proprietário ou por uma pessoa singular ou colectiva que a utilize, mediante aluguer ou a outro título, para fins não comerciais, designadamente para fins que não sejam o transporte de pessoas, de mercadorias ou a prestação de serviços, a título oneroso ou no interesse das autoridades públicas.
