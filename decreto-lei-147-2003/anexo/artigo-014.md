@@ -18,4 +18,6 @@
 
 6 - Presume-se não emitido o documento de transporte que não seja imediatamente exibido pelo transportador.
 
-7 - Somente são aplicáveis as sanções referidas no presente artigo quando as infracções forem verificadas durante a circulação dos bens, sendo competente para a sua determinação o chefe do serviço de finanças da área onde foram detectadas.
+7 - Somente são aplicáveis as sanções referidas no presente artigo quando as infracções forem verificadas durante a circulação dos bens.
+
+8 - É sempre competente para a aplicação de coimas por infracções ao presente diploma o chefe do serviço de finanças da área onde foram detectadas.
