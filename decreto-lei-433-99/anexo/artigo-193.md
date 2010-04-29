@@ -2,7 +2,7 @@
 
 ### Penhora e venda em caso de citação por postal
 
-1 - Se a citação for efectuada mediante postal nos termos do artigo 191.º, se este não vier devolvido ou, sendo devolvido, não indicar a nova morada do executado, proceder-se-á logo à penhora.
+1 - Se a citação for efectuada por via postal ou por transmissão electrónica de dados, conforme previsto no artigo 191.º, e o postal não vier devolvido ou, sendo devolvido, não indicar a nova morada do executado e ainda em caso de não acesso à caixa postal electrónica, procede-se à penhora.
 
 2 - Se, na diligência da penhora, houver possibilidade, citar-se-á o executado pessoalmente, com a informação de que, se não efectuar o pagamento ou não deduzir oposição no prazo de 30 dias, será designado dia para a venda.
 

@@ -12,8 +12,8 @@
 
 5 - Se os bens oferecidos em dação não forem suficientes para o pagamento da dívida exequenda, pode o excedente beneficiar do pagamento em prestações nos termos do presente título.
 
-6 - Caso se vençam as prestações pelo não pagamento de qualquer delas ou logo que notificado o indeferimento do pedido do pagamento em prestações ou da dação em pagamento, prossegue de imediato o processo de execução.
+6 - Caso se vençam as prestações, nos termos previstos no n.º 1 do artigo 200.º, ou logo que notificado o indeferimento do pedido do pagamento em prestações ou da dação em pagamento, prossegue de imediato o processo de execução.
 
-7 - Se o executado só for citado posteriormente, o prazo referido no n.º 2 conta-se a partir da citação.
+7 - Se o executado só for citado posteriormente, o prazo referido no nº 2 conta-se a partir da citação.
 
 8 - Nos casos de suspensão da instância, pela pendência de reclamação graciosa, impugnação, recurso judicial ou oposição sobre o objecto da dívida exequenda, pode o executado, no prazo de 15 dias após a notificação da decisão neles proferida, requerer o pagamento em prestações ou solicitar a dação em pagamento.

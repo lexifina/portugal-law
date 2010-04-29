@@ -18,18 +18,20 @@
 
 6 - Nos casos em que se demonstre notória dificuldade financeira e previsíveis consequências económicas para os devedores, poderá ser alargado o número de prestações mensais até 5 anos, se a dívida exequenda exceder 500 unidades de conta no momento da autorização, não podendo então nenhuma delas ser inferior a 10 unidades da conta.
 
-7 - A importância a dividir em prestações não compreende os juros de mora, que continuam a vencer-se em relação à dívida exequenda incluída em cada prestação e até integral pagamento, os quais serão incluídos na guia passada pelo funcionário para pagamento conjuntamente com a prestação.
+7 - Quando, no âmbito de processo de recuperação económica se demonstre a indispensabilidade da medida e, ainda, quando os riscos inerentes à recuperação dos créditos o tornem recomendável, a administração tributária pode estabelecer que o regime prestacional seja alargado até ao dobro do limite máximo previsto no número anterior, com a observância das condições previstas nos n.os 3 e 6.
 
-8 - Poderão beneficiar do regime previsto neste artigo os terceiros que assumam a dívida, ainda que o seu pagamento em prestações se encontre autorizado, desde que se verifiquem cumulativamente as seguintes condições:
+8 - A importância a dividir em prestações não compreende os juros de mora, que continuam a vencer-se em relação à dívida exequenda incluída em cada prestação e até integral pagamento, os quais serão incluídos na guia passada pelo funcionário para pagamento conjuntamente com a prestação.
+
+9- Poderão beneficiar do regime previsto neste artigo os terceiros que assumam a dívida, ainda que o seu pagamento em prestações se encontre autorizado, desde que se verifiquem cumulativamente as seguintes condições:
 
 a) Obtenham autorização do devedor ou provem interesse legítimo;
 
 b) Prestem garantia através de um dos meios previstos no n.º 1 do artigo 199.º
 
-9 - A assunção da dívida nos termos do número anterior não exonera o antigo devedor, respondendo este solidariamente com o novo devedor, e, em caso de incumprimento, o processo de execução fiscal prosseguirá os seus termos contra o novo devedor.
+10 - A assunção da dívida nos termos do número anterior não exonera o antigo devedor, respondendo este solidariamente com o novo devedor, e, em caso de incumprimento, o processo de execução fiscal prosseguirá os seus termos contra o novo devedor.
 
-10 - O despacho de aceitação de assunção de dívida e das garantias previstas na alínea b) do n.º 8 pode determinar a extinção das garantias constituídas e ou apresentadas pelo antigo devedor.
+11 - O despacho de aceitação de assunção de dívida e das garantias previstas na alínea b) do n.º 8 pode determinar a extinção das garantias constituídas e ou apresentadas pelo antigo devedor.
 
-11 - O novo devedor ficará sub-rogado nos direitos referidos no n.º 1 do artigo 92.º após a regularização da dívida, nos termos e condições previstos no presente artigo.
+12 - O novo devedor ficará sub-rogado nos direitos referidos no n.º 1 do artigo 92.º após a regularização da dívida, nos termos e condições previstos no presente artigo.
 
-12 - O disposto neste artigo não poderá aplicar-se a nenhum caso de pagamento por sub-rogação.
+13 - O disposto neste artigo não poderá aplicar-se a nenhum caso de pagamento por sub-rogação.

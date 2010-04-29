@@ -18,6 +18,10 @@
 
 8 - A presunção referida no número anterior poderá ser ilidida por informação do operador sobre o conteúdo e data da emissão.
 
-9 - O acto de notificação será nulo no caso de falta de indicação do autor do acto e, no caso de este o ter praticado no uso de delegação ou subdelegação de competências, da qualidade em que decidiu, do seu sentido e da sua data.
+9 - As notificações efectuadas por transmissão electrónica de dados consideram-se feitas no momento em que o destinatário aceda à caixa postal electrónica.
 
-10 - O presente artigo não prejudica a aplicação do disposto no n.º 6 do artigo 45.º da Lei Geral Tributária.
+10 - Em caso de ausência de acesso à caixa postal electrónica, deve ser efectuada nova transmissão electrónica de dados, no prazo de 15 dias seguintes ao respectivo conhecimento por parte do serviço que tenha procedido à emissão da notificação, aplicando-se com as necessárias adaptações a presunção prevista no n.º 6, caso, no prazo de 10 dias, se verifique de novo o não acesso à caixa postal electrónica.
+
+11 - O acto de notificação será nulo no caso de falta de indicação do autor do acto e, no caso de este o ter praticado no uso de delegação ou subdelegação de competências, da qualidade em que decidiu, do seu sentido e da sua data.
+
+12 - O presente artigo não prejudica a aplicação do disposto no n.º 6 do artigo 45.º da Lei Geral Tributária.
