@@ -4,10 +4,8 @@
 
 O membro do Governo responsável pela área das finanças define, por portaria, os procedimentos necessários à execução da presente lei, nomeadamente:
 
-a) Os termos e condições do investimento público;
+a) A definição do nível de fundos próprios das instituições de crédito a atingir com a execução das operações de capitalização;
 
-b) Os termos e eventuais elementos adicionais dos planos de reforço de capitais, de reestruturação e de recapitalização;
+b) A fixação de um limite mínimo para o dividendo prioritário superior ao previsto no n.º 2 do artigo 341.º do Código das Sociedades Comerciais, em linha com o valor de referência adoptado a nível europeu;
 
-c) (Revogada.)
-
-d) Os termos e eventuais elementos adicionais da análise aprofundada da qualidade dos ativos e da apreciação prospetiva da adequação de fundos próprios.
+c) Os termos e eventuais elementos adicionais do plano de reforço de fundos próprios previsto no n.º 2 do artigo 12.º
