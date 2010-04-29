@@ -2,7 +2,7 @@
 
 ### Deveres
 
-1 - São deveres do bombeiro dos quadros de comando e ativo:
+1 - São deveres do bombeiro do quadro activo:
 
 a) Cumprir a lei, o Estatuto e os regulamentos;
 
@@ -38,6 +38,4 @@ h) Elaborar as normas internas necessárias ao bom funcionamento do corpo de bom
 
 i) Garantir a articulação, com correcção e eficiência, entre o corpo de bombeiros e a respectiva entidade detentora, com respeito pelo regime jurídico do corpo de bombeiros e pelos fins da mesma entidade.
 
-3 - Os bombeiros que integram os quadros de reserva e honra estão sujeitos aos deveres referidos no n.º 1, à exceção da alínea e).
-
-4 - São ainda deveres do bombeiro os que resultem de lei ou regulamento aplicáveis.
+3 - São ainda deveres do bombeiro os que resultem de lei ou regulamento aplicáveis.

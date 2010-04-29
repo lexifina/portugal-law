@@ -14,6 +14,4 @@ d) Pensão de sobrevivência;
 
 e) Subsídio por morte.
 
-2 - O bombeiro pode optar por ter proteção também na eventualidade de doença e parentalidade, mediante o pagamento da respetiva contribuição.
-
-3 - Para efeitos do disposto nos números anteriores, a atividade prestada como bombeiro voluntário considera-se equiparada a atividade profissional.
+2 - Para efeitos do disposto no número anterior, a actividade prestada como bombeiro voluntário considera-se equiparada a actividade profissional.
