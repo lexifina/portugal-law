@@ -2,7 +2,11 @@
 
 ### Compensação de dívidas de tributos por iniciativa da administração tributária
 
-1 - Os créditos do executado resultantes de reembolso, revisão oficiosa, reclamação graciosa ou impugnação judicial de qualquer acto tributário são obrigatoriamente aplicados na compensação das suas dívidas à mesma administração tributária, salvo se pender reclamação graciosa, impugnação judicial, recurso judicial ou oposição à execução da dívida exequenda ou esta esteja a ser paga em prestações, devendo a dívida exequenda mostrar-se garantida nos termos deste Código.
+1 - Os créditos do executado resultantes de reembolso, revisão oficiosa, reclamação ou impugnação judicial de qualquer acto tributário são obrigatoriamente aplicados na compensação das suas dívidas à mesma administração tributária, excepto nos casos seguintes:
+
+a) Estar a correr prazo para interposição de reclamação graciosa, recurso hierárquico, impugnação judicial, recurso judicial ou oposição à execução;
+
+b) Estar pendente qualquer dos meios graciosos ou judiciais referidos na alínea anterior ou estar a dívida a ser paga em prestações, desde que a dívida exequenda se mostre garantida nos termos do artigo 169.º
 
 2 - Quando a importância do crédito for insuficiente para o pagamento da totalidade das dívidas e acrescido, o crédito é aplicado sucessivamente no pagamento dos juros de mora, de outros encargos legais e do capital da dívida, aplicando-se o disposto no n.º 3 do artigo 262.º
 
@@ -24,7 +28,7 @@ b) Dentro das dívidas com igual antiguidade, com as de maior valor;
 
 c) Em igualdade de circunstâncias, com qualquer das dívidas.
 
-5 - No caso de já estar instaurado processo de execução fiscal, a compensação é efectuada através da emissão de título de crédito destinado a ser aplicado no pagamento da dívida exequenda e acrescido.
+5 - A compensação é efectuada através da emissão de título de crédito destinado a ser aplicado no pagamento da dívida exequenda e acrescido.
 
 6 - Verificando-se a compensação referida nos números anteriores, os acréscimos legais serão devidos até à data da compensação ou, se anterior, até à data limite que seria de observar no reembolso do crédito se o atraso não for imputável ao contribuinte.
 

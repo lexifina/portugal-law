@@ -18,6 +18,6 @@
 
 8 - As notificações referidas nos n.os 3 e 4 do presente artigo podem ser efectuadas, nos termos do número anterior, por telefax quando a administração tributária tenha conhecimento do número de telefax do notificando e possa posteriormente confirmar o conteúdo da mensagem e o momento em que foi enviada.
 
-9 - As notificações referidas no presente artigo podem, ainda, ser efectuadas por transmissão electrónica de dados, nos termos a definir por portaria do Ministro das Finanças.
+9 - As notificações referidas no presente artigo podem ser efectuadas por transmissão electrónica de dados, que equivalem, consoante os casos, à remessa por via postal registada ou por via postal registada com aviso de recepção.
 
-10 - As notificações efectuadas nos termos do número anterior equivalem, consoante os casos, à remessa por via postal registada ou por via postal registada com aviso de recepção, de acordo com o disposto no n.º 3 do artigo 6.º do Decreto-Lei n.º 290-D/99, de 2 de Agosto.
+10 - (Revogado).

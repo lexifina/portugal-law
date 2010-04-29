@@ -20,6 +20,8 @@ a) Tributos, incluindo impostos aduaneiros, especiais e extrafiscais, taxas, dem
 
 b) Coimas e outras sanções pecuniárias fixadas em decisões, sentenças ou acórdãos relativos a contra-ordenações tributárias, salvo quando aplicadas pelos tribunais comuns.
 
+c) Coimas e outras sanções pecuniárias decorrentes da responsabilidade civil determinada nos termos do Regime Geral das Infracções Tributárias.
+
 2 - Poderão ser igualmente cobradas mediante processo de execução fiscal, nos casos e termos expressamente previstos na lei:
 
 a) Outras dívidas ao Estado e a outras pessoas colectivas de direito público que devam ser pagas por força de acto administrativo;
