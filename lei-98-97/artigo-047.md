@@ -4,16 +4,18 @@
 
 1 - Excluem-se do disposto no artigo anterior:
 
-a) Os actos e contratos praticados ou celebrados pelas entidades referidas nos n.os 2 e 3 do artigo 2.º, sem prejuízo do disposto na alínea c) do n.º 1 do artigo 5.º, bem como os actos do Governo e dos Governos Regionais que não determinem encargos orçamentais ou de tesouraria e se relacionem exclusivamente com a tutela e gestão dessas entidades;
+a) Os actos e contratos praticados ou celebrados pelas entidades referidas nas alíneas a), b) e c) do n.º 2 do artigo 2.º, de valor inferior a (euro) 5 000 000, bem como os actos do Governo e dos Governos Regionais que não determinem encargos orçamentais ou de tesouraria e se relacionem exclusivamente com a tutela e gestão dessas entidades;
 
 b) Os títulos definitivos dos contratos precedidos de minutas visadas;
 
 c) Os contratos de arrendamento, bem como os de fornecimento de água, gás e electricidade ou celebrados com empresas de limpeza, de segurança de instalações e de assistência técnica;
 
-d) Os contratos adicionais aos contratos visados;
+d) Os actos ou contratos que, no âmbito de empreitadas de obras públicas já visadas, titulem a execução de trabalhos a mais ou de suprimento de erros e omissões, os quais ficam sujeitos a fiscalização concomitante e sucessiva;
 
 e) Os contratos destinados a estabelecer condições de recuperação de créditos do Estado;
 
-f) Outros actos, diplomas, despachos ou contratos já especialmente previstos na lei.
+f) Contratos de aquisição de serviços celebrados com instituições sem fins lucrativos que tenham por objecto os serviços de saúde e de carácter social mencionados no anexo ii-B da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março, bem como os contratos de aquisição de serviços celebrados com instituições sem fins lucrativos que tenham por objecto os serviços de educação e formação profissional mencionados no referido anexo, que confiram certificação escolar ou certificação profissional;
 
-2 - Os contratos referidos na alínea d) do número anterior são remetidos ao Tribunal de Contas no prazo de 15 dias a contar do início da sua execução.
+g) Outros actos, diplomas, despachos ou contratos já especialmente previstos na lei.
+
+2 - Os actos, contratos ou documentação referidos na alínea d) do número anterior são remetidos ao Tribunal de Contas no prazo de 60 dias a contar do início da sua execução.
