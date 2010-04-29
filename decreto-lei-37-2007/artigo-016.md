@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Disposições finais e transitórias
-
 # Artigo 16.º
 
 ### Regulamentação
