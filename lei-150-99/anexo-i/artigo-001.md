@@ -10,7 +10,7 @@
 
 ### Incidência objectiva
 
-1 - O imposto do selo incide sobre todos os actos, contratos, documentos, títulos, livros, papéis e outros factos previstos na Tabela Geral, incluindo as transmissões gratuitas de bens.
+1 - O imposto do selo incide sobre todos os actos, contratos, documentos, títulos, papéis e outros factos previstos na Tabela Geral, incluindo as transmissões gratuitas de bens.
 
 2 - Não são sujeitas a imposto as operações sujeitas a imposto sobre o valor acrescentado e dele não isentas.
 
@@ -50,4 +50,4 @@ f) Bens de uso pessoal ou doméstico.
 
 7 - Os valores e dinheiro depositados em contas conjuntas, guardados em cofres de aluguer ou confiados a qualquer pessoa ou entidade, consideram-se pertencentes em partes iguais aos respectivos titulares, salvo prova em contrário, tanto da Fazenda Nacional como dos interessados.
 
-8 - Os saldos das contas de depósitos existentes à data da sucessão em nome de qualquer herdeiro ou legatário, e que pudessem ser movimentados pelo autor da herança, presumir-se-ão fazer parte desta, salvo prova em contrário.
+8 - O disposto no n.º 2 não se aplica às situações previstas na verba n.º 11.2 da Tabela Geral.

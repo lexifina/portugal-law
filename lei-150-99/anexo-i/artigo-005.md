@@ -24,17 +24,17 @@ g) Nas operações de crédito, no momento em que forem realizadas ou, se o cré
 
 h) Nas operações realizadas por ou com intermediação de instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas, no momento da cobrança dos juros, prémios, comissões e outras contraprestações, considerando-se efectivamente cobrados, sem prejuízo do disposto no n.º 1 do artigo 51.º, os juros e comissões debitados em contas correntes à ordem de quem a eles tiver direito;
 
-i) Nos testamentos públicos, no momento em que forem efectuados, e, nos testamentos cerrados ou internacionais, no momento da aprovação e abertura;
+i) (Revogada.)
 
-j) Nos livros, antes da sua utilização, salvo se forem utilizadas folhas avulsas escrituradas por sistema informático ou semelhante para utilização ulterior sob a forma de livro, caso em que o imposto se considera devido nos 60 dias seguintes ao termo do ano económico ou da cessação da actividade;
+j) (Revogada.)
 
 l) Sem prejuízo do disposto na alínea seguinte, nos restantes casos, na data da emissão dos documentos, títulos e papéis ou da ocorrência dos factos;
 
 m) Nos empréstimos efectuados pelos sócios às sociedades em que seja estipulado prazo não inferior a um ano e sejam reembolsados antes desse prazo, no momento do reembolso;
 
-n) Em caso de actos, contratos, documentos, títulos, livros, papéis e outros factos previstos na Tabela anexa ao presente Código em que não intervenham a qualquer título pessoas colectivas ou pessoas singulares no exercício de actividade de comércio, indústria ou prestação de serviços, quando forem apresentados perante qualquer entidade pública;
+n) Em caso de actos, contratos, documentos, títulos, papéis e outros factos previstos na Tabela Geral anexa ao presente Código em que não intervenham a qualquer título pessoas colectivas ou pessoas singulares no exercício de actividade de comércio, indústria ou prestação de serviços, quando forem apresentados perante qualquer entidade pública;
 
-o) Nos actos referidos na verba n.º 26 da tabela anexa ao presente Código, no momento da celebração da escritura, salvo quando o acto revista a forma de documento particular ou de diploma, caso em que a obrigação tributária se considera constituída, respectivamente, no momento da assinatura do documento ou da entrada em vigor do diploma;
+o) (Revogada.)
 
 p) Nas sucessões por morte, na data da abertura da sucessão;
 
@@ -42,4 +42,6 @@ q) Nos créditos litigiosos, definidos nos termos do n.º 3 do artigo 579.º do 
 
 r) Nas aquisições por usucapião, na data em que transitar em julgado a acção de justificação judicial, for celebrada a escritura de justificação notarial ou no momento em que se tornar definitiva a decisão proferida em processo de justificação nos termos do Código do Registo Predial;
 
-s) Nos documentos particulares autenticados, ou qualquer outro título, quando essa forma seja admitida em alternativa à escritura pública, no momento da sua autenticação ou reconhecimento das assinaturas neles apostas.
+s) (Revogada.)
+
+Nos prémios do bingo, das rifas e do jogo do loto, bem como em quaisquer prémios de sorteios ou de concursos, no momento da atribuição.

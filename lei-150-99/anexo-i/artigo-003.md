@@ -22,7 +22,7 @@ f) Na concessão do crédito, o utilizador do crédito;
 
 g) Nas restantes operações financeiras realizadas por ou com intermediação de instituições de crédito, sociedades ou outras instituições financeiras, o cliente destas;
 
-h) Na publicidade, o afixante ou o publicitante;
+h) (Revogada.)
 
 i) Nos cheques, o titular da conta;
 
@@ -30,18 +30,20 @@ j) Nas letras e livranças, o sacado e o devedor;
 
 l) Nos títulos de crédito não referidos anteriormente, o credor;
 
-m) Nas procurações e substabelecimentos, o procurador e o substabelecido;
+m) (Revogada.)
 
 n) No reporte, o primeiro alienante;
 
 o) Nos seguros, o tomador e, na actividade de mediação, o mediador;
 
-p) Na constituição de uma sociedade de capitais, a sociedade a constituir;
+p) (Revogada.)
 
-q) No aumento de capital de uma sociedade de capitais, a sociedade cujo capital é aumentado;
+q) (Revogada.)
 
-r) Na transferência de sede estatutária ou de direcção efectiva de uma sociedade de capitais, a sociedade cuja sede ou direcção efectiva é transferida;
+r) (Revogada.)
 
 s) Em quaisquer outros actos, contratos e operações, o requerente, o requisitante, o primeiro signatário, o beneficiário e o destinatário dos mesmos, bem como o prestador ou fornecedor de bens e serviços.
 
-4 - Nos contratos de trabalho, o encargo do imposto é pago pelo empregador.
+t) Nos prémios do bingo, das rifas e do jogo do loto, bem como em quaisquer prémios de sorteios ou de concursos, o beneficiário.
+
+4 - (Revogado.)

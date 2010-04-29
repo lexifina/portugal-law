@@ -8,7 +8,7 @@ a) Os prémios recebidos por resseguros tomados a empresas operando legalmente e
 
 b) Os prémios e comissões relativos a seguros do ramo «Vida»;
 
-c) Os escritos de quaisquer contratos que devam ser celebrados no âmbito das operações realizadas, registadas, liquidadas ou compensadas através de entidade gestora de mercados regulamentados ou através de entidade por esta indicada ou sancionada no exercício de poder legal ou regulamentar, ou ainda por entidade gestora de mercados organizados registados na CMVM, que tenham por objecto, directa ou indirectamente, valores mobiliários, de natureza real ou teórica, direitos a eles equiparados, contratos de futuros, taxas de juro, divisas ou índices sobre valores mobiliários, taxas de juro ou divisas;
+c) (Revogada.)
 
 d) As garantias inerentes a operações realizadas, registadas, liquidadas ou compensadas através de entidade gestora de mercados regulamentados ou através de entidade por esta indicada ou sancionada no exercício de poder legal ou regulamentar, ou ainda por entidade gestora de mercados organizados registados na CMVM, que tenham por objecto, directa ou indirectamente, valores mobiliários, de natureza real ou teórica, direitos a eles equiparados, contratos de futuros, taxas de juro, divisas ou índices sobre valores mobiliários, taxas de juro ou divisas;
 
@@ -36,12 +36,14 @@ p) O jogo do bingo e os jogos organizados por instituições de solidariedade so
 
 q) (Revogada.)
 
-r) A constituição e o aumento do capital social das sociedades gestoras de participações sociais (SGPS) e das sociedades de capital de risco (SCR).
+r) (Revogada.)
 
-s) Os registos e averbamentos relativos a veículo que utilize exclusivamente energia eléctrica ou solar, ou outra forma não poluente de energia, efectuados em conservatórias de registo e respectivos postos de atendimento ou em serviços desconcentrados da Direcção-Geral de Viação.
+s) (Revogada.)
 
 2 - O disposto nas alíneas g) e h) do n.º 1 não se aplica quando qualquer dos intervenientes não tenha sede ou direcção efectiva no território nacional, com excepção das situações em que o credor tenha sede ou direcção efectiva noutro Estado membro da União Europeia ou num Estado em relação ao qual vigore uma convenção para evitar a dupla tributação sobre o rendimento e o capital acordada com Portugal, caso em que subsiste o direito à isenção, salvo se o credor tiver previamente realizado os financiamentos previstos nas alíneas g) e h) do n.º 1 através de operações realizadas com instituições de crédito ou sociedades financeiras sediadas no estrangeiro ou com filiais ou sucursais no estrangeiro de instituições de crédito ou sociedades financeiras sediadas no território nacional.
 
 3 - O disposto na alínea i) do n.º 1 não se aplica quando o sócio seja entidade domiciliada em território sujeito a regime fiscal privilegiado, a definir por portaria do Ministério das Finanças.
 
-4 - Mantêm-se em vigor as isenções nas transmissões gratuitas, constantes de acordos entre o Estado e quaisquer pessoas, de direito público ou privado.
+4 - O disposto na alínea p) do n.º 1 não se aplica quando se trate de imposto devido nos termos da verba n.º 11.2 da Tabela Geral.
+
+5 - Mantêm-se em vigor as isenções nas transmissões gratuitas, constantes de acordos entre o Estado e quaisquer pessoas, de direito público ou privado.

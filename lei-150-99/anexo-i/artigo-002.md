@@ -18,7 +18,7 @@ f) Entidades emitentes de letras e outros títulos de crédito, entidades editan
 
 g) Locador e sublocador, nos arrendamentos e subarrendamentos;
 
-h) Outras entidades que intervenham em actos e contratos ou emitam ou utilizem os documentos, livros, títulos ou papéis;
+h) Outras entidades que intervenham em actos e contratos ou emitam ou utilizem os documentos, títulos ou papéis;
 
 i) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal pelas entidades emitentes de apólices de seguros efectuados no território de outros Estados membros da União Europeia ou fora desse território, cujo risco ocorra em território português;
 
@@ -26,11 +26,13 @@ j) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal
 
 l) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal por quaisquer entidades que, no território português, realizem quaisquer outras operações abrangidas pela incidência do presente Código em regime de livre prestação de serviços.
 
-m) Conservadores e oficiais dos registos, em exclusivo, nos casos em que os actos referidos na verba n.º 26 da tabela anexa ao presente Código não revistam a forma de escritura pública.
+m) (Revogada.)
 
-n) As entidades ou profissionais que autentiquem os documentos particulares previstos na verba 15.8 da tabela geral, ou reconheçam as assinaturas neles apostas, com excepção daqueles que sejam relativos a crédito e garantias concedidos por instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e por quaisquer outras instituições financeiras, e quando, nos termos da alínea n) do artigo 5.º, os contratos ou documentos lhes sejam apresentados para qualquer efeito legal.
+n) (Revogada.)
 
 o) A Santa Casa da Misericórdia de Lisboa, relativamente aos contratos de jogo celebrados no âmbito dos jogos sociais do Estado, cuja organização e exploração se lhe encontre atribuída em regime de direito exclusivo.
+
+p) As entidades que concedem os prémios do bingo, das rifas e do jogo do loto, bem como quaisquer prémios de sorteios ou de concursos.
 
 2 - Nas transmissões gratuitas, são sujeitos passivos do imposto as pessoas singulares para quem se transmitam os bens, sem prejuízo das seguintes regras:
 
