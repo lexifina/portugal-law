@@ -16,7 +16,7 @@
 
 7 - Os sujeitos passivos podem deduzir ainda o imposto respeitante a créditos considerados incobráveis:
 
-a) Em processo de execução após o registo da suspensão de instância, a que se refere a alínea c) do n.º 2 do artigo 806.º do Código do Processo Civil;
+a) Em processo de execução, após o registo a que se refere a alínea c) do n.º 2 do artigo 806.º do Código do Processo Civil;
 
 b) Em processo de insolvência quando a mesma seja decretada.
 
@@ -26,7 +26,7 @@ a) O valor do crédito não seja superior a (euro) 750, IVA incluído, a mora do
 
 b) Os créditos sejam superiores a (euro) 750 e inferiores a (euro) 8000, IVA incluído, quando o devedor, sendo um particular ou um sujeito passivo que realize exclusivamente operações isentas que não conferem o direito à dedução, conste no registo informático de execuções como executado contra quem foi movido processo de execução anterior entretanto suspenso ou extinto por não terem sido encontrados bens penhoráveis;
 
-c) Os créditos sejam superiores a (euro) 750 e inferiores a (euro) 8000, IVA incluído, tenha havido aposição de fórmula executória em processo de injunção ou reconhecimento em acção de condenação e o devedor seja particular ou sujeito passivo que realize exclusivamente operações isentas que não confiram direito a dedução;
+c) Nos termos de acordo obtido em procedimento extrajudicial de conciliação, em conformidade com o Decreto-Lei n.º 316/98, de 20 de Outubro, alterado pelo Decreto-Lei n.º 201/2004, de 18 de Agosto.
 
 d) Os créditos sejam inferiores a (euro) 6000, IVA incluído, deles sendo devedor sujeito passivo com direito à dedução e tenham sido reconhecidos em acção de condenação ou reclamados em processo de execução e o devedor tenha sido citado editalmente.
 

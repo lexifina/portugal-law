@@ -44,4 +44,4 @@ b) O adquirente provar que o transmitente dos bens ou prestador dos serviços to
 
 12 - Sem prejuízo do disposto no número anterior, a elaboração de facturas ou documentos equivalentes pelos próprios adquirentes dos bens ou dos serviços ou por terceiros que não disponham de sede, estabelecimento estável ou domicílio em qualquer Estado membro é sujeita a autorização prévia da Direcção-Geral dos Impostos, a qual pode fixar condições específicas para a sua efectivação.
 
-13 - Nas situações previstas nas alíneas i) e j) do n.º 1 do artigo 2.º, as facturas ou documentos equivalentes emitidos pelos transmitentes dos bens ou prestadores dos serviços devem conter a expressão «IVA devido pelo adquirente».
+13 - Nas situações previstas nas alíneas i), j) e l) do n.º 1 do artigo 2.º, as facturas ou documentos equivalentes emitidos pelos transmitentes dos bens ou prestadores dos serviços devem conter a expressão 'IVA devido pelo adquirente'.

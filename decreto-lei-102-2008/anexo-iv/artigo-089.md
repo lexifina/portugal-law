@@ -2,6 +2,6 @@
 
 ### Liquidação oficiosa pelo chefe do serviço de finanças
 
-1 - Sem prejuízo do disposto no artigo 88.º, o chefe do serviço de finanças competente pode proceder também à liquidação oficiosa do imposto que se mostrar devido, quando o sujeito passivo não tiver enviado a declaração periódica a que estava obrigado nos termos deste Código.
+1 - O chefe do serviço de finanças competente procede à liquidação oficiosa do imposto quando o sujeito passivo não cumpra as obrigações previstas na alínea b) do n.º 1 do artigo 67.º
 
 2 - A liquidação referida no número anterior tem como base os elementos recolhidos em visita de fiscalização ou outros ao dispor dos serviços.

@@ -24,6 +24,8 @@ i) As pessoas singulares ou colectivas referidas na alínea a) que, no territór
 
 j) As pessoas singulares ou colectivas referidas na alínea a) que disponham de sede, estabelecimento estável ou domicílio em território nacional e que pratiquem operações que confiram o direito à dedução total ou parcial do imposto, quando sejam adquirentes de serviços de construção civil, incluindo a remodelação, reparação, manutenção, conservação e demolição de bens imóveis, em regime de empreitada ou subempreitada.
 
+l) As pessoas singulares ou colectivas referidas na alínea a) que disponham de sede, estabelecimento estável ou domicílio em território nacional e que pratiquem operações que confiram o direito à dedução total ou parcial do imposto, quando sejam adquirentes de prestações de serviços que tenham por objecto direitos de emissão, reduções certificadas de emissões ou unidades de redução de emissões de gases com efeito de estufa, aos quais se refere o Decreto-Lei n.º 233/2004, de 14 de Dezembro.
+
 2 - O Estado e demais pessoas colectivas de direito público não são, no entanto, sujeitos passivos do imposto quando realizem operações no exercício dos seus poderes de autoridade, mesmo que por elas recebam taxas ou quaisquer outras contraprestações, desde que a sua não sujeição não origine distorções de concorrência.
 
 3 - O Estado e as demais pessoas colectivas de direito público referidas no número anterior são, em qualquer caso, sujeitos passivos do imposto quando exerçam algumas das seguintes actividades e pelas operações tributáveis delas decorrentes, salvo quando se verifique que as exercem de forma não significativa:
