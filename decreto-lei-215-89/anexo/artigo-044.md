@@ -48,12 +48,20 @@ d) Relativamente às situações previstas na alínea n), no ano, inclusive, em 
 
 4 - As isenções a que se refere a alínea b) do n.º 2 são reconhecidas oficiosamente, desde que se verifique a inscrição na matriz em nome das entidades beneficiárias, que os prédios se destinem directamente à realização dos seus fins e que seja feita prova da respectiva natureza jurídica.
 
-5 - A isenção a que se refere a alínea n) do n.º 1 é de carácter automático, no caso de prédio que tenha beneficiado da isenção prevista na alínea g) do artigo 6.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, devendo, nos restantes casos, ser reconhecida pelo chefe de finanças da área da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no prazo de 90 dias contados da verificação do facto determinante da isenção.
+5 - A isenção a que se refere a alínea n) do n.º 1 é de carácter automático, operando mediante comunicação da classificação como monumentos nacionais ou da classificação individualizada como imóveis de interesse público ou de interesse municipal, a efectuar pelo Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P., ou pelas câmaras municipais, vigorando enquanto os prédios estiverem classificados, mesmo que estes venham a ser transmitidos.
 
-6 - Nos restantes casos previstos no presente artigo, a isenção é reconhecida pela Direcção-Geral dos Impostos, em requerimento, devidamente documentado, que deve ser apresentado pelos sujeitos passivos no serviço de finanças da área da situação do prédio, no prazo de 90 dias contados da verificação do facto determinante da isenção.
+6 - Para os efeitos previstos no número anterior, os serviços do Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P., e as câmaras municipais procedem à referida comunicação, relativamente aos imóveis já classificados à data da entrada em vigor da presente lei:
 
-7 - Nas situações abrangidas nos n.os 5 e 6, se o pedido for apresentado para além do prazo ai referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação.
+a) Oficiosamente, no prazo de 60 dias; ou
 
-8 - Os benefícios constantes das alíneas b) a m) do n.º 1 cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto na alínea g) do n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis, e os constantes da alínea n) cessam no ano, inclusive, em que os prédios venham a ser desclassificados.
+b) A requerimento dos proprietários dos imóveis, no prazo de 30 dias a contar da data de entrada do requerimento nos respectivos serviços.
 
-9 - As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público ou privado, são mantidas na forma da respectiva lei.
+7 - A isenção a que se refere a alínea g) do n.º 1 é reconhecida pelo director-geral dos Impostos, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no serviço de finanças da área da situação do prédio, no prazo de 60 dias contados da verificação do facto determinante da isenção.
+
+8 - Nos restantes casos previstos neste artigo, a isenção é reconhecida pelo chefe do serviço de finanças da área da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no serviço de finanças da área da situação do prédio, no prazo de 60 dias contados da verificação do facto determinante da isenção.
+
+9 - Nas situações abrangidas nos n.os 7 e 8, se o pedido for apresentado para além do prazo aí referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação
+
+10 - Os benefícios constantes das alíneas b) a m) do n.º 1 cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto na alínea g) do n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis, e os constantes da alínea n) cessam no ano, inclusive, em que os prédios venham a ser desclassificados.
+
+11 - As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público ou privado, são mantidas na forma da respectiva lei.
