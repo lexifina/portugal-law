@@ -11,3 +11,7 @@ b) Casais de jovens não separados judicialmente de pessoas e bens ou em união 
 c) Jovens em coabitação, com idade igual ou superior a 18 anos e inferior a 30 anos, partilhando uma habitação para residência permanente dos mesmos.
 
 2 - O agregado jovem integra o conjunto de pessoas que vivem em comunhão de habitação, formado por um ou mais jovens ou por um casal de jovens e as seguintes pessoas: os dependentes, assim considerando os filhos, adoptados e enteados, menores não emancipados, bem como os menores sob tutela e os irmãos, maiores ou emancipados, que não aufiram de qualquer rendimento.
+
+3 - Caso o jovem complete 30 anos durante o prazo em que beneficia do apoio, pode ainda candidatar-se até ao limite de duas candidaturas subsequentes, consecutivas e ininterruptas.
+
+4 - O disposto no número anterior é aplicável aos casos em que um dos elementos do casal completa 32 anos durante o prazo em que beneficia do apoio.
