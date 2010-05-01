@@ -2,7 +2,7 @@
 
 ### Painéis adicionais
 
-Os painéis adicionais representados no quadro XXXV, em anexo, destinam-se a completar a indicação dada pelos sinais verticais, a restringir a sua aplicação a certas categorias de utentes da via pública, a limitar a sua validade a determinados períodos de tempo ou a indicar a extensão da via em que vigoram as prescrições e são os seguintes:
+Os painéis adicionais representados no quadro xxxv, em anexo, destinam-se a completar a indicação dada pelos sinais verticais, a restringir a sua aplicação a certas categorias de utentes da via pública, a limitar a sua validade a determinados períodos de tempo ou a indicar a extensão da via em que vigoram as prescrições e são os seguintes:
 
 Modelos n.os 1a e 1b - painéis indicadores de distância: destinam-se a indicar o afastamento de um local ou zona de perigo ou ainda o início do local em que se aplica a prescrição a que se refere o sinal, podendo o modelo n.º 1b utilizar-se apenas com o sinal B1;
 
@@ -20,9 +20,9 @@ Modelo n.º 8 - painéis indicadores de duração: destinam-se a informar que a 
 
 Modelo n.º 9 - painéis indicadores de peso: destinam-se a indicar que a prescrição constante do sinal só se aplica quando o peso total do veículo ultrapassa o valor que figurar no painel;
 
-Modelos n.os 10a e 10b - painéis indicadores de aplicação: destinam-se a informar que, respectivamente, a prescrição não se aplica ou só se aplica a determinados veículos ou operações;
+Modelos n.os 10a, 10b E 10c - painéis indicadores de aplicação: destinam-se a informar que, respectivamente, a prescrição não se aplica ou só se aplica a determinados veículos ou operações, e a veículos eléctricos;
 
-Modelos n.os 11a, 11b, 11c, 11d, 11e, 11f, 11g, 11h, 11i e 11j - painéis indicadores de veículos a que se aplica a regulamentação: destinam-se a informar que a indicação ou a prescrição constante do sinal apenas se aplica aos veículos que figurarem no painel; o modelo n.º 11a deve utilizar-se para automóveis ligeiros de passageiros e mistos; o modelo n.º 11b para automóveis de mercadorias; o modelo n.º 11c para automóveis pesados de passageiros; o modelo n.º 11d para veículos portadores do dístico de deficiente; o modelo 11e para automóveis pesados de mercadorias; o modelo n.º 11f para motociclos; o modelo n.º 11g para ciclomotores; o modelo n.º 11h para velocípedes; o modelo n.º 11i para veículos agrícolas, e o modelo n.º 11j para veículos afectos ao serviço de determinadas entidades;
+Modelos n.os 11a, 11b, 11c, 11d, 11e, 11f, 11g, 11h, 11i, 11j e 11l - painéis indicadores de veículos a que se aplica a regulamentação: destinam-se a informar que a indicação ou a prescrição constante do sinal apenas se aplica aos veículos que figurarem no painel; o modelo n.º 11a deve utilizar-se para automóveis ligeiros de passageiros e mistos; o modelo n.º 11b para automóveis de mercadorias; o modelo n.º 11c para automóveis pesados de passageiros; o modelo n.º 11d para veículos portadores do dístico de deficiente; o modelo 11e para automóveis pesados de mercadorias; o modelo n.º 11f para motociclos; o modelo n.º 11g para ciclomotores; o modelo n.º 11h para velocípedes; o modelo n.º 11i para veículos agrícolas; o modelo n.º 11j para veículos afectos ao serviço de determinadas entidades; e o modelo n.º 11l para veículos eléctricos;
 
 Modelos n.os 12a, 12b, 12c, 12d, 12e e 12f - painéis indicadores da posição autorizada para estacionamento: destinam-se a indicar a disposição autorizada para o estacionamento de veículos, podendo utilizar-se apenas com o sinal de informação H1;
 

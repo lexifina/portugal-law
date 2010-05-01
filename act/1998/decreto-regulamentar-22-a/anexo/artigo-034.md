@@ -6,7 +6,7 @@
 
 ### Sinais de informação
 
-Os sinais de informação representados no quadro XXIX, em anexo, indicam a existência de locais com interesse e dão outras indicações úteis e são os seguintes:
+Os sinais de informação representados no quadro xxix, em anexo, indicam a existência de locais com interesse e dão outras indicações úteis e são os seguintes:
 
 H1a - estacionamento autorizado: indicação do local em que o estacionamento é autorizado;
 
@@ -37,6 +37,10 @@ H12 - telefone: indicação da existência de um telefone público;
 H13a - posto de abastecimento de combustível: indicação da existência de um posto de abastecimento de combustível, situado à distância, em metros, indicada no sinal;
 
 H13b - posto de abastecimento de combustível com GPL: indicação da existência de um posto de abastecimento de combustível com gás de petróleo liquefeito, situado à distância, em metros, indicada no sinal;
+
+H13c - Posto de abastecimento de combustível com serviço a veículos eléctricos: indicação da existência de posto de abastecimento de combustível e de um ponto de carregamento para veículos eléctricos, situados à distância, em metros, indicada no sinal;
+
+H13d - Posto de abastecimento de combustível com GPL e com serviço a veículos eléctricos: indicação da existência de posto de abastecimento de combustível com gás de petróleo liquefeito e de um ponto de carregamento para veículos eléctricos, situados à distância, em metros, indicada no sinal;
 
 H14a - parque de campismo: indicação da existência de local em que é permitida a prática de campismo, situado à distância, em metros, indicada no sinal;
 
