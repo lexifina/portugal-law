@@ -1,0 +1,585 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "11992",
+  "numero": "62",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-05-03",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2010-05-18",
+            "entidades": null,
+            "id": "88562",
+            "tipo": null,
+            "titulo": "Audição em 2010-05-18 com Diogo Afonso de Belford Cerqueira Pereira Henriques"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-05-26",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-05-12",
+        "DataArquivo": "2010-05-26",
+        "DataBaixaComissao": "2010-05-12",
+        "DataEnvioPAR": "2010-05-26",
+        "DataReaberta": "2010-05-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-05-18",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e6862793833596d59304e6a4e6a596930784e6a4a694c54526d5a444174596a49794d7931694e7a517a59544d304e6a55314d6d49756347526d&fich=7bf463cb-162b-4fd0-b223-b743a346552b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-05-27",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627939695a6d4669595749304e6930315a44686c4c5451334e7a4174596a5a6d4f5330344e444a6d4e7a6c6d4e474d794e574d756347526d&fich=bfabab46-5d8e-4770-b6f9-842f79f4c25c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2864",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-05-12",
+            "gp": "PSD",
+            "id": "1905",
+            "motivoCessacao": null,
+            "nome": "Fernando Negrão"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2010-05-27",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-05-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764e4451335a5451784f5751744e57517a4e5330305a474a6b4c546b7a4f575174596a59794d6a4577595459354d324e694c6e426b5a673d3d&fich=447e419d-5d35-4dbd-939d-b62210a693cb.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2010-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176643",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-79",
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-28",
+                "pubLeg": "XI",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/062/2010-05-28/77?pgs=77-79,82-83&org=PLC"
+              }
+            ],
+            "Sumario": "Altera o Código de Execução de Penas e Medidas Privativas da Liberdade (Lei n.º 115/2009, de 12 de Outubro); Alteração ao Código de Execução das Penas e medidas privativas da liberdade, aprovado pela Lei n. º 115/2009, de 12 de Outubro; Primeira alteração ao Código da execução das penas e medidas privadas da liberdade (Aprovado pela Lei n.º 115/2009, de 12 de Outubro); Petição nº 62/XI(1ª), apresentada por Nuno Miguel Miranda de Magalhães e outros, solicitando à Assembleia da República a alteração dos artigos do Código de Execução de Penas que permitem a saída das prisões de condenados por crimes violentos",
+            "Teor": "Responde aos deputados Manuel Seabra (PS), Hugo Velosa (PSD) e António Filipe (PCP)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176644",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-28",
+                "pubLeg": "XI",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/062/2010-05-28/79?pgs=79-80&org=PLC"
+              }
+            ],
+            "Sumario": "Altera o Código de Execução de Penas e Medidas Privativas da Liberdade (Lei n.º 115/2009, de 12 de Outubro); Alteração ao Código de Execução das Penas e medidas privativas da liberdade, aprovado pela Lei n. º 115/2009, de 12 de Outubro; Primeira alteração ao Código da execução das penas e medidas privadas da liberdade (Aprovado pela Lei n.º 115/2009, de 12 de Outubro); Petição nº 62/XI(1ª), apresentada por Nuno Miguel Miranda de Magalhães e outros, solicitando à Assembleia da República a alteração dos artigos do Código de Execução de Penas que permitem a saída das prisões de condenados por crimes violentos",
+            "Teor": "Ao deputado Nuno Magalhães (CDS-PP)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176645",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-28",
+                "pubLeg": "XI",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/062/2010-05-28/80?pgs=80&org=PLC"
+              }
+            ],
+            "Sumario": "Altera o Código de Execução de Penas e Medidas Privativas da Liberdade (Lei n.º 115/2009, de 12 de Outubro); Alteração ao Código de Execução das Penas e medidas privativas da liberdade, aprovado pela Lei n. º 115/2009, de 12 de Outubro; Primeira alteração ao Código da execução das penas e medidas privadas da liberdade (Aprovado pela Lei n.º 115/2009, de 12 de Outubro); Petição nº 62/XI(1ª), apresentada por Nuno Miguel Miranda de Magalhães e outros, solicitando à Assembleia da República a alteração dos artigos do Código de Execução de Penas que permitem a saída das prisões de condenados por crimes violentos",
+            "Teor": "Ao deputado Nuno Magalhães (CDS-PP)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176646",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-28",
+                "pubLeg": "XI",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/062/2010-05-28/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "Sumario": "Altera o Código de Execução de Penas e Medidas Privativas da Liberdade (Lei n.º 115/2009, de 12 de Outubro); Alteração ao Código de Execução das Penas e medidas privativas da liberdade, aprovado pela Lei n. º 115/2009, de 12 de Outubro; Primeira alteração ao Código da execução das penas e medidas privadas da liberdade (Aprovado pela Lei n.º 115/2009, de 12 de Outubro); Petição nº 62/XI(1ª), apresentada por Nuno Miguel Miranda de Magalhães e outros, solicitando à Assembleia da República a alteração dos artigos do Código de Execução de Penas que permitem a saída das prisões de condenados por crimes violentos",
+            "Teor": "Ao deputado Nuno Magalhães (CDS-PP)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176647",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-28",
+                "pubLeg": "XI",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/062/2010-05-28/83?pgs=83-85&org=PLC"
+              }
+            ],
+            "Sumario": "Altera o Código de Execução de Penas e Medidas Privativas da Liberdade (Lei n.º 115/2009, de 12 de Outubro); Alteração ao Código de Execução das Penas e medidas privativas da liberdade, aprovado pela Lei n. º 115/2009, de 12 de Outubro; Primeira alteração ao Código da execução das penas e medidas privadas da liberdade (Aprovado pela Lei n.º 115/2009, de 12 de Outubro); Petição nº 62/XI(1ª), apresentada por Nuno Miguel Miranda de Magalhães e outros, solicitando à Assembleia da República a alteração dos artigos do Código de Execução de Penas que permitem a saída das prisões de condenados por crimes violentos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176648",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-87"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-28",
+                "pubLeg": "XI",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/062/2010-05-28/85?pgs=85-87&org=PLC"
+              }
+            ],
+            "Sumario": "Altera o Código de Execução de Penas e Medidas Privativas da Liberdade (Lei n.º 115/2009, de 12 de Outubro); Alteração ao Código de Execução das Penas e medidas privativas da liberdade, aprovado pela Lei n. º 115/2009, de 12 de Outubro; Primeira alteração ao Código da execução das penas e medidas privadas da liberdade (Aprovado pela Lei n.º 115/2009, de 12 de Outubro); Petição nº 62/XI(1ª), apresentada por Nuno Miguel Miranda de Magalhães e outros, solicitando à Assembleia da República a alteração dos artigos do Código de Execução de Penas que permitem a saída das prisões de condenados por crimes violentos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176649",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "87-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-28",
+                "pubLeg": "XI",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/062/2010-05-28/87?pgs=87-88&org=PLC"
+              }
+            ],
+            "Sumario": "Altera o Código de Execução de Penas e Medidas Privativas da Liberdade (Lei n.º 115/2009, de 12 de Outubro); Alteração ao Código de Execução das Penas e medidas privativas da liberdade, aprovado pela Lei n. º 115/2009, de 12 de Outubro; Primeira alteração ao Código da execução das penas e medidas privadas da liberdade (Aprovado pela Lei n.º 115/2009, de 12 de Outubro); Petição nº 62/XI(1ª), apresentada por Nuno Miguel Miranda de Magalhães e outros, solicitando à Assembleia da República a alteração dos artigos do Código de Execução de Penas que permitem a saída das prisões de condenados por crimes violentos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176650",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "88-89"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-28",
+                "pubLeg": "XI",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/062/2010-05-28/88?pgs=88-89&org=PLC"
+              }
+            ],
+            "Sumario": "Altera o Código de Execução de Penas e Medidas Privativas da Liberdade (Lei n.º 115/2009, de 12 de Outubro); Alteração ao Código de Execução das Penas e medidas privativas da liberdade, aprovado pela Lei n. º 115/2009, de 12 de Outubro; Primeira alteração ao Código da execução das penas e medidas privadas da liberdade (Aprovado pela Lei n.º 115/2009, de 12 de Outubro); Petição nº 62/XI(1ª), apresentada por Nuno Miguel Miranda de Magalhães e outros, solicitando à Assembleia da República a alteração dos artigos do Código de Execução de Penas que permitem a saída das prisões de condenados por crimes violentos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176651",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "90-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-28",
+                "pubLeg": "XI",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/062/2010-05-28/90?pgs=90&org=PLC"
+              }
+            ],
+            "Sumario": "Altera o Código de Execução de Penas e Medidas Privativas da Liberdade (Lei n.º 115/2009, de 12 de Outubro); Alteração ao Código de Execução das Penas e medidas privativas da liberdade, aprovado pela Lei n. º 115/2009, de 12 de Outubro; Primeira alteração ao Código da execução das penas e medidas privadas da liberdade (Aprovado pela Lei n.º 115/2009, de 12 de Outubro); Petição nº 62/XI(1ª), apresentada por Nuno Miguel Miranda de Magalhães e outros, solicitando à Assembleia da República a alteração dos artigos do Código de Execução de Penas que permitem a saída das prisões de condenados por crimes violentos",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11992",
+    "PetAssunto": "Solicitam a alteração dos artigos do Código de Execução de Penas que permitem a saída das prisões de condenados por crimes violentos.",
+    "PetDataEntrada": "2010-05-03",
+    "PeticoesAssociadas": null,
+    "PetId": "11992",
+    "PetLeg": "XI",
+    "PetNr": "62",
+    "PetNrAssinaturas": "11258",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1412",
+        "obs": null,
+        "pag": [
+          "77-90"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-05-28",
+        "pubLeg": "XI",
+        "pubNr": "62",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/062/2010-05-28/77?pgs=77-90&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "517149",
+        "obs": null,
+        "pag": [
+          "5-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-05-22",
+        "pubLeg": "XI",
+        "pubNr": "127",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/127/2010-05-22/5?pgs=5-7&org=PLC"
+      }
+    ]
+  }
+}
