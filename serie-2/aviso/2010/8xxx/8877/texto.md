@@ -1,0 +1,9 @@
+Aviso n.º 8877/2010
+Alteração do Plano Director Municipal de Trancoso
+Implementação de um parque ambiental em Vila Franca das Naves
+Júlio José Saraiva Sarmento, Presidente da Câmara Municipal de Trancoso, torna público que o Executivo Municipal, em sua reunião ordinária realizada no dia 20 de Abril de 2010, nos termos do n.º 3 e 4 do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009 de 20 de Fevereiro e pelo Decreto-Lei n.º 181/2009 de 7 de Agosto, deliberou a abertura do período de Discussão Pública da Alteração do Plano Director Municipal de Trancoso - Implementação de um Parque Ambiental em Vila Franca das Naves, pelo período de 30 dias úteis, a contar do 5.º dia útil a seguir à data de publicação do presente Aviso no Diário da República.
+Durante o referido período, a proposta de Alteração do Plano Director Municipal, acompanhada da acta da conferência de serviços, dos demais pareceres emitidos, bem como os resultados da concertação, estarão disponíveis para consulta na Divisão de Obras Municipais no edifício dos Paços do Município, sito na Praça do Município, bem como na sede da Junta de Freguesia de Vila Franca das Naves.
+Nesse sentido todos os interessados, devidamente identificados, poderão apresentar as suas reclamações, observações ou sugestões, mediante requerimento dirigido ao Senhor Presidente da Câmara Municipal, podendo fazê-lo via e-mail para o endereço electrónico geral@cm-trancoso.pt.
+Para constar se publica o presente aviso, e outros de igual teor que vão ser afixados nos locais do costume, na página de internet da Câmara Municipal de Trancoso e divulgado através da comunicação social.
+Paços do Município de Trancoso, 27 de Abril de 2010. - O Presidente da Câmara, Júlio José Saraiva Sarmento.
+203194221
