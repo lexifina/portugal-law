@@ -1,0 +1,55 @@
+Portaria n.º 247/2010
+de 3 de Maio
+O regime legal da primeira venda de pescado fresco, aprovado pelo Decreto-Lei n.º 81/2005, de 20 de Abril, tem como preocupações garantir as melhores condições hígio-sanitárias e de comercialização do pescado fresco, não só na perspectiva do consumidor final, como dos operadores económicos do sector.
+A Portaria n.º 197/2006, de 23 de Fevereiro, reconhecendo que existem circunstâncias específicas relacionadas com as características técnicas das embarcações em determinadas comunidades piscatórias, que acarretam excessivas dificuldades na deslocação à lota mais próxima, e que também se reflectem no exercício da pesca sem auxílio de embarcações, estabeleceu um regime específico de isenção de venda em lota, para certos operadores do sector.
+O mesmo tipo de condicionalismos ocorre, na frota local do rio Minho, sempre que o local habitual de operação e o porto de desembarque se encontrem a uma distância considerável de uma lota ou de um posto de vendagem da DOCAPESCA, Portos e Lotas, S. A., ou existam dificuldades relacionadas com a compatibilização dos horários da primeira venda em lota e ainda com as características específicas da pesca local.
+Na zona do rio Minho muitos casos existem que a lota ou o posto de vendagem mais próximo se situa a uma distância superior a 40 km, o que implica inevitáveis dispêndios de combustível com consequente aumento dos custos e redução de rendimento, a que acresce, na maioria dos casos, uma perda da qualidade do pescado.
+A verificação de tais circunstâncias enquadra-se no n.º 4 do artigo 1.º do Decreto-Lei n.º 81/2005, de 20 de Abril, que permite que o membro do Governo responsável pelo sector das pescas possa adoptar medidas específicas relativas ao regime da primeira venda de pescado fresco.
+Entende-se, assim, estarem reunidas todas as condições que recomendam a criação das citadas medidas específicas para o caso do rio Minho, pelo que se consagra na presente portaria a possibilidade dos armadores e titulares de licença de pesca profissional para operar no rio Minho, realizarem a venda do pescado capturado nos termos actualmente já consagrados na Portaria n.º 197/2006, de 23 de Fevereiro, sempre garantido o necessário e rigoroso controlo.
+Assim:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do n.º 4 do artigo 1.º do Decreto-Lei n.º 81/2005, de 20 de Abril, o seguinte:
+Artigo 1.º
+Alterações à Portaria n.º 197/2006, de 23 de Fevereiro
+São alterados os artigos 2.º, 3.º, 4.º, 5.º e 6.º da Portaria n.º 197/2006, de 23 de Fevereiro, que passam a ter a seguinte redacção:
+«Artigo 2.º
+[...]
+1 - ...
+2 - ...
+3 - Podem ainda ser autorizados pela DGPA, a proceder à venda directa do pescado capturado, nos termos definidos no n.º 1, os armadores e titulares de licença de pesca profissional para operar no rio Minho.
+Artigo 3.º
+[...]
+1 - ...
+2 - No caso previsto no n.º 3 do artigo anterior, o pedido a que se refere o n.º 1 deve ser acompanhado de justificação que fundamente as dificuldades na deslocação à lota ou ao posto de vendagem para primeira venda, confirmada pela autoridade marítima respectiva, de informação relativa ao porto habitual de desembarque e ao período em que o mesmo é efectuado.
+3 - A DGPA pode, a todo o tempo, restringir a possibilidade de desembarque a certos portos de desembarque e a determinados horários, publicitando tal condicionalismo através de edital da capitania, com uma antecedência de oito dias.
+Artigo 4.º
+[...]
+1 - ...
+2 - Conjuntamente com o pedido de renovação da licença de pesca é apresentada anualmente cópia da última declaração de imposto sobre o rendimentos das pessoas singulares (IRS) ou colectivas (IRC).
+3 - Sem prejuízo do disposto no n.º 1, a DGPA pode revogar a autorização para venda directa sempre que os comprovativos do exercício da actividade e valores de venda previstos no despacho n.º 14 694/2003 (2.ª série), de 29 de Julho, com as alterações que lhe foram introduzidas pelo despacho n.º 16 945/2009 (2.ª série), de 23 de Julho, indicarem rendimentos inferiores aos valores nele previstos.
+4 - A revogação da autorização a que se refere o número anterior deve ser comunicada aos interessados até 15 de Novembro de cada ano.
+Artigo 5.º
+[...]
+1 - ...
+2 - ...
+a) ...
+b) Manter, durante o prazo mínimo de três anos civis, as cópias das guias emitidas.
+3 - ...
+Artigo 6.º
+[...]
+1 - ...
+a) ...
+b) ...
+c) ...
+d) ...
+e) Pesar e declarar todo o pescado capturado e vendido, em declaração de modelo aprovado pela DGPA;
+f) Apresentar ou a remeter por telecópia ou via electrónica, até 48 horas após a primeira venda, cópia dos duplicados das notas de venda, em modelo aprovado pela DGPA;
+g) Proceder até ao dia 15 do mês seguinte à entrega dos originais dos duplicados das notas de venda, quando não tenha sido entregue nas 48 horas seguintes;
+h) Efectuar até ao dia 15 do mês seguinte o pagamento dos montantes referentes aos descontos das contribuições para a segurança social, do imposto sobre o valor acrescentado (IVA) e da taxa de registo.
+2 - As obrigações a que se referem as alíneas e) a h) do número anterior, devem ser cumpridas junto dos serviços da DOCAPESCA mais próximos da área de residência respectiva.
+3 - ...
+a) ...
+b) Emitir cada nota de venda em triplicado, destinando-se o original a acompanhar o pescado vendido, o duplicado a ser entregue nos serviços da lota ou no posto de vendagem da DOCAPESCA respectiva e o triplicado a ser arquivado pelo titular durante o prazo de mínimo de três anos civis.»
+Artigo 2.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 27 de Abril de 2010.
