@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal Administrativo de 2010-05-05, processo 015/09
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 015/09
+
+**Data do Acordão:** 05/05/2010
+
+**Tribunal:** CONFLITOS
+
+**Relator:** SANTOS MONTEIRO
+
+**Descritores:** CEMITÉRIO; JAZIGO; CONFLITO DE JURISDIÇÃO; COMPETÊNCIA DOS TRIBUNAIS ADMINISTRATIVOS; RATIFICAÇÃO; EMBARGO DE OBRA
+
+**Nº Convencional:** JSTA00066421
+
+**Nº do Documento:** SAC20100505015
+
+**Data de Entrada:** 05/26/2009
+
+**Recorrente:** A… E OUTROS NO CONFLITO NEGATIVO DE JURISDIÇÃO ENTRE O TRIBUNAL DE COMPETÊNCIA CÍVEL DE VILA NOVA DE FAMALICÃO E OS TRIBUNAIS ADMINISTRATIVOS E FISCAIS
+
+**Recorrido 1:** *
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC PRE-CONFLITO.
+
+**Objecto:** AC RP.
+
+**Decisão:** DECL COMPETENTE TRIBUNAL ADMINISTRATIVO.
+
+**Área Temática 1:** DIR ADM GER / DIR ADM CONT - MEIO PROC ACESSÓRIO.
+
+**Área Temática 2:** DIR JUDIC - ORG COMP TRIB.
+
+**Legislação Nacional:** CCIV66 ART202 N1.; CONST97 ART84 N2 ART211 N1 ART212 N3.; LAL99 ART34 N4 ART66 N2 R.; DL 280/2007 DE 2007/08/07 ART1 B ART18 ART19 ART25 ART27 ART28.; CADM40 ART356.; DL 44220 DE 1962/03/03 ART8 PAR3.; LOFTJ99 ART18 N1.; ETAF02 ART1 N1 ART4 N1 A.; CPTA02 ART10 N7 ART37 N3.
+
+**Jurisprudência Nacional:** AC STA PROC43843 IN BMJ N479 PAG276.; AC STA PROC46025 DE 2000/11/15.; AC STA PROC47332 DE 2001/06/05.; AC STA PROC46143 DE 2002/03/06.; AC RL DE 1995/01/10 IN CJ ANOXX TI PAG20.; AC RE DE 1997/06/26 IN CJ ANOXXII TII PAG280.
+
+**Referência a Doutrina:** LOPES DIAS CEMITÉRIOS JAZIGOS E SEPULTURAS PAG327 PAG332.; FREITAS DO AMARAL A UTILIZAÇÃO DO DOMÍNIO PÚBLICO PELOS PARTICULARES PAG173.; RLJ ANO49 PAG423.; MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO V1 8ED PAG849.; FERNANDO ALVES CORREIA IN REVISTA DIREITO E JUSTIÇA UCP-FACULDADE DE DIREITO PAG114.
+
+## Sumário
+
+São competentes os tribunais administrativos para o conhecimento de pedido de ratificação de embargo extrajudicial de obra nova cujo fundamento é a construção de um jazigo por um particular sem respeitar as regras de acesso de todos e cada um dos jazigos e bem assim dos espaços entre os demais.
