@@ -1,0 +1,89 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "54548",
+  "tipo": "Pergunta",
+  "numero": "2646",
+  "data_registo": "2010-05-05",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Aumento da pendência processual em 2009",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "123",
+        "nome": "Miguel Macedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1905",
+        "nome": "Fernando Negrão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1897",
+        "nome": "Teresa Morais"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1537",
+        "nome": "Hugo Velosa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1561",
+        "nome": "Luís Montenegro"
+      }
+    ],
+    "DataEnvio": "2010-05-06",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-05-06",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.   DA   JUSTIÇA",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-05-05",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d6d4d314d4445794d6d51744e7a526c597930304e6d52694c5745775a6a6b744f54526c4f4755334e7a4d304f444a6a4c6e426b5a673d3d&fich=2c50122d-74ec-46db-a0f9-94e8e773482c.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "54548",
+    "Legislatura": "XI",
+    "Nr": "2646",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "516543",
+        "obs": null,
+        "pag": [
+          "7-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "117",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/117/2010-05-10/7?pgs=7-8&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
