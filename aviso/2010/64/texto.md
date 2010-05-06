@@ -1,0 +1,5 @@
+Aviso n.º 64/2010
+Por ordem superior se torna público terem sido emitidas notas pelo Ministério dos Assuntos Exteriores e da Cooperação de Espanha e pela Embaixada de Portugal em Madrid, respectivamente em 4 de Novembro de 2009 e em 23 de Março de 2010, tendo a última notificação escrita sido recebida pelo Ministério dos Assuntos Exteriores e da Cooperação de Espanha em 25 de Março de 2010, em que se comunica terem sido cumpridas as formalidades internas de aprovação do Acordo Quadro entre a República Portuguesa e o Reino de Espanha sobre Cooperação Transfronteiriça em Saúde, assinado em Zamora em 22 de Janeiro de 2009.
+Portugal é Parte neste Acordo, aprovado pelo Decreto n.º 3/2010, publicado no Diário da República, 1.ª série, n.º 55, de 19 de Março de 2010.
+Nos termos do artigo 10.º, o Acordo entra em vigor em 24 de Abril de 2010, 30 dias após a recepção da última notificação de que foram cumpridos os requisitos de direito interno das Partes necessários para o efeito.
+Direcção-Geral dos Assuntos Europeus, 19 de Abril de 2010. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
