@@ -8,9 +8,9 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 1 do artigo 95.�
 
 a) Bancos - 3500000 contos;
 
-b) Caixas de crédito agrícola mútuo - 10000 ou 500000 contos, conforme façam ou não parte do sistema integrado de crédito agrícola mútuo;
+b) Caixas de crédito agrícola mútuo - (euro) 5 000 000 ou (euro) 7 500 000, conforme façam ou não parte do sistema integrado de crédito agrícola mútuo;
 
-c) Caixa Central de Crédito Agrícola Mútuo - 1500000 contos;
+c) Caixa Central de Crédito Agrícola Mútuo - (euro) 17 500 000;
 
 d) Sociedades de investimento - 1500000 contos;
 
