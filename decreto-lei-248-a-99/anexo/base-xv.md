@@ -2,9 +2,9 @@
 
 ### Obrigações de informação da Concessionária
 
-1 - Ao longo de todo o período de duração da Concessão, e sem prejuízo das demais obrigações de informação estabelecidas nas presentes bases, a Concessionária compromete-se para com o Concedente a:
+1 - Ao longo de todo o período da Concessão, e sem prejuízo das demais obrigações de informação estabelecidas nas presentes bases, a Concessionária compromete-se para com o Concedente a:
 
-a) Dar-lhe conhecimento imediato de todo e qualquer evento que possa vir a prejudicar ou impedir o cumprimento pontual e atempado de qualquer das obrigações emergentes das presentes bases e que possa constituir causa de sequestro da Concessão ou de rescisão do Contrato de Concessão, nos termos previstos no capítulo XIV;
+a) Dar-lhe conhecimento imediato de todo e qualquer evento que possa vir a prejudicar ou a impedir o cumprimento pontual e atempado de qualquer das obrigações emergentes das presentes bases e ou que possa constituir causa de sequestro da Concessão ou de resolução do Contrato de Concessão, nos termos previstos no capítulo XIV;
 
 b) Remeter-lhe até ao dia 30 de Setembro de cada ano um relatório auditado da sua situação contabilística compreendendo o balanço e a conta de exploração relativos ao semestre em causa;
 
@@ -20,6 +20,8 @@ g) Remeter-lhe uma versão revista do Caso Base, se e quando este for alterado n
 
 h) Remeter-lhe, no prazo de três meses após o termo de cada semestre civil, informação relativa à condição financeira da Concessionária desde a entrada em vigor da Concessão até ao termo do semestre anterior, bem como uma projecção da sua posição entre esse período e o termo previsto da Concessão, sendo esta informação elaborada na forma e incluindo as projecções constantes do Caso Base;
 
-i) Apresentar-lhe prontamente as informações complementares ou adicionais que lhe forem solicitadas.
+i) Remeter-lhe, no primeiro trimestre de cada ano, um relatório, respeitante ao ano anterior, no qual é prestada informação circunstanciada sobre os estudos e os trabalhos de construção, de conservação e de exploração das Auto-Estradas, bem como sobre os níveis de serviço e os indicadores de actividade relacionados com a sinistralidade e a segurança rodoviárias na Concessão, cobrindo aspectos como os pontos de acumulação de acidentes e a identificação das suas causas e a comparação com congéneres nacionais e internacionais, acompanhado por auditoria efectuada por entidade idónea e independente;
 
 2 - O Concedente reserva-se o direito de solicitar todas as informações adicionais que julgar necessárias para seu completo esclarecimento, através de um delegado por si nomeado junto da Concessionária.
+
+3 - Das informações mencionadas nas alíneas a), b), c), d), e), g), h) e i) do n.º 1 deve ser remetida cópia à EP.

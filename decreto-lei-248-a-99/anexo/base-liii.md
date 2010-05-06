@@ -2,38 +2,34 @@
 
 ### Isenções de portagem
 
-1 - Estarão isentos de portagem:
+1 - Estão isentos do pagamento de taxas de portagem os veículos afectos às seguintes entidades ou organismos:
 
-a) Veículos afectos às seguintes entidades ou organismos:
+a) Presidente da República;
 
-Presidente da República;
+b) Presidente da Assembleia da República;
 
-Presidente da Assembleia da República;
+c) Presidentes do Tribunal Constitucional, do Supremo Tribunal de Justiça, do Supremo Tribunal Administrativo e do Tribunal de Contas;
 
-Membros do Governo;
+d) Membros do Governo;
 
-Presidente do Tribunal Constitucional;
+e) Procurador-Geral da República;
 
-Presidente do Supremo Tribunal de Justiça;
+f) Veículos afectos ao Comando da GNR ou da PSP e veículos de forças de segurança afectos à fiscalização do trânsito;
 
-Presidente do Supremo Tribunal Administrativo;
+g) Veículos de protecção civil, de bombeiros, ambulâncias e outros veículos de emergência a estes equiparáveis, quando devidamente identificados;
 
-Presidente do Tribunal de Contas;
+h) Veículos militares ou das forças de segurança, quando em coluna;
 
-Procurador-Geral da República;
+i) Veículos da Concessionária, bem como os que possam considerar-se no âmbito da sua actividade ou ao seu serviço;
 
-b) Veículos afectos ao Comando da GNR ou PSP e veículos da Brigada de Trânsito da GNR;
+j) Veículos afectos à EP e ao InIR, no âmbito das respectivas funções de fiscalização;
 
-c) Veículos dos bombeiros, ambulâncias e outros veículos de emergência a estes equiparáveis, quando devidamente identificados;
+k) Veículos afectos à ANSR - Autoridade Nacional da Segurança Rodoviária, no âmbito das respectivas funções de planeamento, coordenação, controlo e fiscalização.
 
-d) Veículos militares ou das forças de segurança, quando em coluna;
-
-e) Veículos da Concessionária, bem como os que possam considerar-se no âmbito da sua actividade ou em serviço;
-
-f) Veículos afectos ao IEP e à Inspecção-Geral de Finanças, no âmbito das suas funções de fiscalização.
-
-2 - Os veículos a que se refere o número anterior, com excepção dos indicados nas alíneas c) e d), deverão circular munidos dos respectivos títulos de isenção, a requerer à Concessionária e a emitir por esta.
+2 - Os veículos a que se refere o número anterior, com excepção dos indicados nas alíneas g) e h), devem circular munidos dos respectivos títulos de isenção, a emitir pelo Concedente.
 
 3 - Os títulos de isenção terão um período de validade de dois anos, renovável.
 
-4 - A Concessionária não poderá conceder isenções de portagem para além das estabelecidas no n.º 1, a não ser por motivos inerentes ao serviço próprio das Auto-Estradas e mediante autorização prévia do IEP.
+4 - A Concessionária não pode conceder isenções de portagem para além das estabelecidas no n.º 1, a não ser por motivos inerentes ao serviço próprio das Auto-Estradas e mediante autorização prévia do Concedente.
+
+5 - A passagem de um veículo isento não dá lugar a uma Transacção.

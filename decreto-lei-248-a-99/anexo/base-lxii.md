@@ -6,7 +6,7 @@
 
 ### Contratos do Projecto
 
-1 - Carecem de aprovação prévia do Concedente, sob pena de nulidade, a substituição, modificação ou rescisão dos Contratos do Projecto, bem como a celebração pela Concessionária de quaisquer Contratos do Projecto não existentes à data da assinatura do Contrato de Concessão.
+1 - Carecem de aprovação prévia do Concedente, sob pena de nulidade, a substituição, a modificação ou a resolução dos Contratos do Projecto, bem como a celebração pela Concessionária de quaisquer Contratos do Projecto não existentes à Data de Assinatura do Contrato de Concessão.
 
 2 - A aprovação do Concedente deverá ser comunicada à Concessionária no prazo de 30 dias úteis a contar da data da recepção do respectivo pedido acompanhado de toda a documentação que o deva instruir, suspendendo-se o referido prazo em virtude da apresentação de pedidos de esclarecimento pelo Concedente.
 

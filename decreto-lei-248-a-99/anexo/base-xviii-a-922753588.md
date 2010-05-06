@@ -1,6 +1,6 @@
 ## Capítulo IV-A
 
-## Funções do IMT
+## InIR, às bases da concessão da concepção, projecto, construção, financiamento, exploração e conservação de lanços de auto-estrada e conjuntos viários associados na zona norte de Portugal
 
 # Base XVIII-A
 

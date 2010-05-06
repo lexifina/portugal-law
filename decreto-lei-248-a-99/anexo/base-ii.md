@@ -2,7 +2,7 @@
 
 ### Objecto da Concessão
 
-1 - A Concessão tem por objecto a concepção, projecto, construção, financiamento, exploração e conservação, em regime de portagem, dos Lanços:
+1 - A Concessão tem por objecto a concepção, projecto, construção, financiamento, exploração e conservação, com cobrança de portagens aos utentes, pela Concessionária, e em regime de disponibilidade, dos seguintes Lanços:
 
 a) A 7/IC 5 Póvoa de Varzim/Famalicão, desde o IC 1, na extensão aproximada de 18 km;
 
@@ -14,9 +14,9 @@ d) A 11/IC 14 Esposende/Barcelos/Braga, desde o IC 1, com a extensão aproximada
 
 e) A 11/IP 9 Braga/Guimarães/IP 4/A 4, com a extensão aproximada de 43 km.
 
-f) Variante à EN 207 (nó do IP 9)/Felgueiras (EN 101) com a extensão aproximada de 3 km.
+f) Variante à EN 207 (nó do IP 9)/Felgueiras (EN 101), com a extensão aproximada de 5 km.
 
-2 - Constituem ainda objecto da Concessão, para efeitos de exploração e conservação, os seguintes Lanços já construídos, ficando sujeitos ao regime de portagem, que reverterão para a Concessionária:
+2 - Constituem ainda objecto da Concessão, para efeitos de exploração e de conservação, os seguintes Lanços já construídos, com cobrança de portagens aos utentes, pela Concessionária, e em regime de disponibilidade:
 
 a) A 7/IC 5 Famalicão/Guimarães, com a extensão de 20,8 km;
 

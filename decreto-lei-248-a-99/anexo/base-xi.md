@@ -2,7 +2,7 @@
 
 ### Estrutura accionista da Concessionária
 
-1 - Sem prejuízo do disposto no número seguinte, e salvo autorização em contrário do Concedente, os membros do Agrupamento deterão em conjunto enquanto accionistas, ao longo de todo o período de duração da Concessão e a todo o tempo, o domínio da Concessionária, nos termos previstos no artigo 486.º do Código das Sociedades Comerciais.
+1 - Sem prejuízo do disposto no número seguinte, e salvo autorização em contrário do Concedente, os membros do Agrupamento detêm em conjunto, enquanto accionistas, ao longo de todo o período da Concessão e a todo o tempo, o domínio da Concessionária, nos termos previstos no artigo 486.º do Código das Sociedades Comerciais.
 
 2 - Até três anos após a data de entrada em serviço do último Lanço a construir, os membros do Agrupamento deterão, nos termos e condições descritos no Contrato de Concessão, a totalidade do capital social da Concessionária.
 

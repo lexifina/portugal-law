@@ -1,5 +1,11 @@
 # Base LXV-D
 
-### Entrega das receitas de portagem
+### Entrega das receitas das portagens à EP
 
-Salvo se diversamente estipulado nas presentes bases e no Contrato de Concessão, a Concessionária entrega à EP o valor das taxas de portagem devidas pelas Transações registadas nas Autoestradas, nos termos e em obediência aos procedimentos estabelecidos no Contrato de Concessão.
+A Concessionária obriga-se a entregar à EP o valor das portagens devidas pelas Transacções registadas, nos seguintes termos:
+
+a) Diariamente, no sétimo dia útil subsequente ao do registo das respectivas Transacções, um valor correspondente ao montante das receitas de Cobrança Primária;
+
+b) Mensalmente, um valor correspondente à totalidade das taxas de portagem cobradas em regime de Cobrança Secundária e Coerciva;
+
+c) No prazo de 60 dias a contar do registo das respectivas Transacções, um valor correspondente ao montante das receitas de portagem devidas e ainda não entregues, independentemente da sua efectiva cobrança aos utentes.

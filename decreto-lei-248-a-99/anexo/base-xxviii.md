@@ -2,7 +2,7 @@
 
 ### Apresentação dos estudos e projectos
 
-1 - Sempre que haja lugar à apresentação de estudos prévios, estes deverão ser submetidos ao IEP divididos nos seguintes fascículos independentes:
+1 - Sempre que haja lugar à apresentação de estudos prévios, estes devem ser submetidos ao Concedente divididos nos seguintes fascículos independentes:
 
 a) Volume-síntese de apresentação geral do Lanço;
 
@@ -20,9 +20,11 @@ g) Túneis;
 
 h) Áreas de Serviço e áreas de repouso.
 
-2 - Os estudos prévios serão instruídos conjuntamente com os respectivos Estudos de Impacte Ambiental, elaborados em cumprimento da legislação nacional e comunitária em vigor, por forma a que o IEP os possa submeter ao Ministério do Ambiente para parecer de avaliação de acordo com a legislação em vigor.
+i) Auditoria de segurança.
 
-3 - Os projectos base e os projectos de execução deverão ser apresentados ao IEP divididos nos seguintes fascículos independentes:
+2 - Os estudos prévios são instruídos conjuntamente com os respectivos Estudos de Impacte Ambiental, elaborados em cumprimento da legislação nacional e comunitária em vigor, de forma a que o Concedente os possa submeter ao MAOT para parecer de avaliação, de acordo com a legislação em vigor.
+
+3 - Os projectos base e os projectos de execução devem ser apresentados ao Concedente divididos nos seguintes fascículos independentes:
 
 a) Volume-síntese de apresentação geral do Lanço;
 
@@ -72,18 +74,20 @@ y) Expropriações;
 
 z) Relatório das medidas de minimização de impactes ambientais.
 
+aa) Auditoria de segurança.
+
 4 - Toda a documentação será entregue em quintuplicado, excepto os Estudos de Impacte Ambiental, que deverão ser entregues em nove exemplares, com uma cópia de natureza informática, cujos elementos deverão ser manipuláveis em equipamentos do tipo computador pessoal (PC ou PS), em ambiente Windows (última versão).
 
 5 - A documentação informática usará os seguintes tipos:
 
-a) Textos - Win Word, armazenados no formato standard;
+a) Textos - Microsoft Word, armazenados no formato standard;
 
-b) Tabelas e folhas de cálculo - Win Excel, armazenados no formato standard;
+b) Tabelas e folhas de cálculo - Microsoft Excel, armazenados no formato standard;
 
 c) Peças desenhadas - formato DXF ou DWG.
 
-6 - Se a Concessionária pretender utilizar aplicações ou formatos alternativos aos indicados no número anterior, deverá fornecer ao IEP todas as explicações, meios físicos e software necessários para a sua utilização.
+6 - Se a Concessionária pretender utilizar aplicações ou formatos alternativos aos indicados no número anterior, deve fornecer ao Concedente todas as explicações, meios físicos e software necessários para a sua utilização.
 
-7 - Os estudos e projectos apresentados ao IEP, nas diversas fases, deverão ser instruídos com parecer de revisão emitido por entidades técnicas independentes previamente aceites pelo IEP, o qual os submeterá à aprovação do MEPAT.
+7 - Os estudos e os projectos apresentados ao Concedente, nas diversas fases, devem ser instruídos com parecer de revisão emitido por entidades técnicas independentes previamente aceites pelo InIR, o qual os submete à aprovação do MOPTC.
 
-8 - A apresentação de projectos ao IEP deverá ser instruída com todas as autorizações necessárias por parte das autoridades competentes.
+8 - A apresentação de projectos ao Concedente deve ser instruída com todas as autorizações necessárias por parte das autoridades competentes.

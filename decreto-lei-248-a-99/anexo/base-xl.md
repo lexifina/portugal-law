@@ -14,6 +14,6 @@
 
 a) Dar inteira satisfação aos aspectos de segurança, higiene e salubridade, bem como à sua integração cuidada na paisagem em que se situam, quer através da volumetria e partido arquitectónico das construções, quer da vegetação utilizada, devendo obedecer à condição de proporcionarem aos utentes daqueles um serviço de qualidade, cómodo, seguro, rápido e eficiente;
 
-b) Incluir zonas de repouso destinadas a proporcionar aos utentes da Auto-Estrada locais de descanso agradáveis, bem como postos de abastecimento de combustíveis e lubrificantes.
+b) Incluir zonas de repouso destinadas a proporcionar aos utentes das Auto-Estradas locais de descanso agradáveis, bem como postos de abastecimento de combustíveis e de lubrificantes.
 
 4 - A distância entre Áreas de Serviço consecutivas a estabelecer nos Lanços a construir não deverá ser superior a 50 km.

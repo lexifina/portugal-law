@@ -2,7 +2,7 @@
 
 ### Fase contenciosa
 
-1 - Sem prejuízo do disposto no n.º 6 da base LXXXVIII, a Parte que não se conforme com qualquer decisão adoptada pela Comissão de Peritos nos termos da base anterior poderá, no prazo máximo de 30 dias contado da data em que a referida decisão lhe tenha sido comunicada, submeter a questão que tenha ou devesse ter sido objecto da decisão da Comissão de Peritos, e que constituirá o objecto do litígio, a um tribunal arbitral composto por três árbitros, um nomeado por cada Parte e o terceiro escolhido de comum acordo pelos árbitros que as Partes tiverem designado.
+1 - Sem prejuízo do disposto no n.º 6 da base anterior, a Parte que não se conforme com qualquer decisão adoptada pela Comissão de Peritos nos termos dessa mesma base pode, no prazo de 30 dias contado da data em que a referida decisão lhe tenha sido comunicada, submeter a questão que tenha ou devesse ter sido objecto da decisão da Comissão de Peritos, e que constitui o objecto do litígio, a um tribunal arbitral composto por três árbitros, um nomeado por cada Parte e o terceiro escolhido de comum acordo pelos árbitros que as Partes tenham designado.
 
 2 - Não poderá ser designado como árbitro quem tenha intervindo como perito na fase pré-contenciosa.
 
@@ -18,7 +18,7 @@
 
 8 - Salvo compromisso pontual entre as Partes, o tribunal arbitral julgará segundo o direito constituído e das suas decisões não caberá recurso.
 
-9 - As decisões do tribunal arbitral deverão ser proferidas no prazo máximo de 6 meses a contar da data de constituição do tribunal determinada nos termos da presente base, mas o tribunal arbitral poderá prorrogar tal prazo por um máximo de 12 meses sempre que a complexidade da matéria ou outras razões atendíveis o justifiquem.
+9 - As decisões do tribunal arbitral devem ser proferidas no prazo de seis meses a contar da data de constituição do tribunal determinada nos termos da presente base, podendo o tribunal arbitral prorrogar tal prazo por um máximo de 12 meses, sempre que a complexidade da matéria ou outras razões atendíveis o justifiquem.
 
 10 - Cada decisão do tribunal arbitral configurará a decisão final do Processo de Resolução de Diferendos relativamente ao objecto do litígio e incluirá a fixação das custas do processo e a forma da sua repartição entre as Partes.
 
