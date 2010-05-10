@@ -1,0 +1,4 @@
+Aviso n.º 9356/2010
+Joaquim José Pinto Moreira, Presidente da Câmara Municipal de Espinho, torna público que sob proposta da Câmara Municipal, a Assembleia Municipal de Espinho, aprovou em 26 de Abril de 2010, o Regulamento Geral e Tabela de Taxas do Município de Espinho e o Regulamento Municipal de Urbanização, Edificação e Taxas por Operações Urbanísticas, nos termos do artigo 53.º, n.º 2, alínea a) da Lei n.º 169/99, de 18 de Setembro, no uso das competências que lhe são atribuídas pelo artigo 68.º, n.º 1, alínea v), da Lei n.º 169/99, de 18 de Setembro, com a redacção dada pela Lei n.º 5/A/2002, de 11 de Janeiro, e na execução do que dispõe o n.º 1, do artigo 91.º deste Diploma, depois de serem cumpridas as formalidades, do Código de Procedimento Administrativo, designadamente quanto à discussão pública prevista no artigo 118.º, daquele Código.
+Espinho, 03 de Maio de 2010. - O Presidente da Câmara Municipal, (Dr. Joaquim José Pinto Moreira).
+303217696
