@@ -1,0 +1,11 @@
+Resolução da Assembleia da República n.º 40/2010
+Acompanhamento dos fluxos migratórios portugueses para o estrangeiro
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que adopte as seguintes medidas:
+1 - O acompanhamento dos fluxos migratórios portugueses para o estrangeiro deve ser uma prioridade política permanente dos órgãos de soberania, particularmente do Governo, que deve desenvolver os mecanismos adequados para garantir um permanente conhecimento da evolução deste fenómeno e a consequente defesa dos direitos dos cidadãos envolvidos.
+2 - Devem ser criadas equipas multidisciplinares de apoio social no âmbito dos serviços consulares dos principais destinos dos actuais fluxos migratórios, os quais devem incluir especialistas em serviço social, sociologia e psicologia.
+3 - Tais equipas devem ser prioritariamente criadas nos países e cidades que forem identificados pelo Ministério dos Negócios Estrangeiros, em articulação com organismos representativos das nossas comunidades, sindicatos, associações empresariais e entidades religiosas, como mais problemáticos sob o ponto de vista social, económico ou político, enquanto destinos dos cidadãos portugueses.
+4 - O apoio social desenvolvido por estas equipas deve envolver as associações de cidadãos portugueses, que, para o efeito, podem ter acesso a incentivos especificamente destinados à criação de uma verdadeira rede social para as comunidades portuguesas.
+5 - Devem ser criadas estruturas especializadas no apoio ao retorno de emigrantes, a funcionar em câmaras municipais, centros regionais de segurança social, centros de emprego e delegações da Agência para o Investimento e Comércio Externo de Portugal, E. P. E (AICEP, E. P. E.).
+6 - O apoio ao retorno deve traduzir-se no aconselhamento relativo ao acesso a informações, fundos e incentivos que permitam o desenvolvimento de iniciativas empresariais, à reinserção socioeducativa, à formação e requalificação profissional, entre outros, que garantam uma plena reintegração em Portugal dos cidadãos regressados após experiências profissionais e familiares verificadas no estrangeiro.
+Aprovada em 19 de Março de 2010.
+O Presidente da Assembleia da República, Jaime Gama.
