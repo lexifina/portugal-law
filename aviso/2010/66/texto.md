@@ -1,0 +1,6 @@
+Aviso n.º 66/2010
+Por ordem superior se torna público que o Secretariado-Geral do Conselho da União Europeia notificou pela Nota n.º 5677, de 20 de Abril de 2010, ter Malta depositado, em 17 de Março de 2010, o instrumento de adesão ao Protocolo, estabelecido com base no artigo K.3 do Tratado da União Europeia, Relativo ao Âmbito de Aplicação do Conceito de Branqueamento de Dinheiro na Convenção sobre a Utilização da Informática no Domínio Aduaneiro e à Inclusão do Número de Matrícula do Meio de Transporte na Lista de Dados da Convenção, assinado em Bruxelas em 12 de Março de 1999.
+Nos termos do artigo 4.º, o Protocolo entra em vigor em Malta em 15 de Junho de 2010.
+Portugal é Parte neste Protocolo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 41/2001 e ratificado pelo Decreto do Presidente da República n.º 32/2001, ambos publicados no Diário da República, 1.ª série, n.º 145, de 25 de Junho de 2001, tendo, nos termos do artigo 3.º, notificado o Secretariado-Geral do Conselho da União Europeia do cumprimento das formalidades exigidas pelas respectivas normas constitucionais para a aprovação do presente Protocolo.
+O Protocolo está em vigor em Portugal desde 4 de Abril de 2008.
+Direcção-Geral dos Assuntos Europeus, 4 de Maio de 2010. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
