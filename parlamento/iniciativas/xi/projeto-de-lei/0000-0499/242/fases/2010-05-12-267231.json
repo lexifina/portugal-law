@@ -1,0 +1,533 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "242",
+    "id": "35250",
+    "titulo": "Altera o Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade do sistema previdencial e do subsistema de solidariedade."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2010-05-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7437",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2010-05-12",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35107",
+        "leg": "XI",
+        "nr": "165",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1410",
+            "obs": null,
+            "pag": [
+              "76-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-05-13",
+            "pubLeg": "XI",
+            "pubNr": "56",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/76?pgs=76-82&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1410",
+            "obs": null,
+            "pag": [
+              "76-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-05-13",
+            "pubLeg": "XI",
+            "pubNr": "56",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/76?pgs=76-82&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1410",
+            "obs": null,
+            "pag": [
+              "76-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-05-13",
+            "pubLeg": "XI",
+            "pubNr": "56",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/76?pgs=76-82&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforça a protecção social na maternidade, paternidade e adopção dos trabalhadores da Administração Pública."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35108",
+        "leg": "XI",
+        "nr": "166",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1410",
+            "obs": null,
+            "pag": [
+              "76-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-05-13",
+            "pubLeg": "XI",
+            "pubNr": "56",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/76?pgs=76-82&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1410",
+            "obs": null,
+            "pag": [
+              "76-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-05-13",
+            "pubLeg": "XI",
+            "pubNr": "56",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/76?pgs=76-82&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1410",
+            "obs": null,
+            "pag": [
+              "76-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-05-13",
+            "pubLeg": "XI",
+            "pubNr": "56",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/76?pgs=76-82&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforça a protecção social na maternidade, paternidade e adopção."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35252",
+        "leg": "XI",
+        "nr": "244",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1410",
+            "obs": null,
+            "pag": [
+              "76-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-05-13",
+            "pubLeg": "XI",
+            "pubNr": "56",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/76?pgs=76-82&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1410",
+            "obs": null,
+            "pag": [
+              "76-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-05-13",
+            "pubLeg": "XI",
+            "pubNr": "56",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/76?pgs=76-82&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1410",
+            "obs": null,
+            "pag": [
+              "76-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-05-13",
+            "pubLeg": "XI",
+            "pubNr": "56",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/76?pgs=76-82&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o Decreto-Lei n.º 89/2009, de 9 de Abril, reforçando a protecção na parentalidade dos trabalhadores abrangidos pelo regime convergente."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-05-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:37",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176531",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77",
+                  "82-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-13",
+                "pubLeg": "XI",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/76?pgs=76-77,82&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a protecção social na maternidade, paternidade e adopção dos trabalhadores da Administração Pública; Altera o Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade do sistema previdencial e do subsistema de solidariedade; Altera o Decreto-Lei n.º 89/2009, de 9 de Abril, reforçando a protecção na parentalidade dos trabalhadores abrangidos pelo regime convergente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:37",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176532",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78",
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-13",
+                "pubLeg": "XI",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/77?pgs=77-78,81-82&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a protecção social na maternidade, paternidade e adopção dos trabalhadores da Administração Pública; Altera o Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade do sistema previdencial e do subsistema de solidariedade; Altera o Decreto-Lei n.º 89/2009, de 9 de Abril, reforçando a protecção na parentalidade dos trabalhadores abrangidos pelo regime convergente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:37",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176533",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-13",
+                "pubLeg": "XI",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/78?pgs=78-79&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a protecção social na maternidade, paternidade e adopção dos trabalhadores da Administração Pública; Altera o Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade do sistema previdencial e do subsistema de solidariedade; Altera o Decreto-Lei n.º 89/2009, de 9 de Abril, reforçando a protecção na parentalidade dos trabalhadores abrangidos pelo regime convergente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4146",
+                "nome": "Margarida Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:37",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176534",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-13",
+                "pubLeg": "XI",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/79?pgs=79-80&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a protecção social na maternidade, paternidade e adopção dos trabalhadores da Administração Pública; Altera o Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade do sistema previdencial e do subsistema de solidariedade; Altera o Decreto-Lei n.º 89/2009, de 9 de Abril, reforçando a protecção na parentalidade dos trabalhadores abrangidos pelo regime convergente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "456",
+                "nome": "João Paulo Pedrosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:37",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176535",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-05-13",
+                "pubLeg": "XI",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a protecção social na maternidade, paternidade e adopção dos trabalhadores da Administração Pública; Altera o Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade do sistema previdencial e do subsistema de solidariedade; Altera o Decreto-Lei n.º 89/2009, de 9 de Abril, reforçando a protecção na parentalidade dos trabalhadores abrangidos pelo regime convergente",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "267231",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "520149",
+        "obs": null,
+        "pag": [
+          "76-82"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-05-13",
+        "pubLeg": "XI",
+        "pubNr": "56",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/056/2010-05-13/76?pgs=76-82&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
