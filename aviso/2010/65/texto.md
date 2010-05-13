@@ -1,0 +1,5 @@
+Aviso n.º 65/2010
+Por ordem superior se torna público que foram emitidas notas pela Embaixada da Roménia em Lisboa e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, respectivamente em 1 de Setembro de 2009 e em 8 de Abril de 2010, tendo a última notificação escrita sido recebida pela Embaixada da Roménia em Lisboa em 13 de Abril de 2010, em que se comunica terem sido cumpridas as formalidades internas de aprovação do Acordo de Segurança entre a República Portuguesa e a Roménia sobre Protecção Mútua de Informação Classificada, assinado em Bucareste em 14 de Maio de 2008.
+Portugal é Parte neste Acordo, aprovado pelo Decreto n.º 4/2010, de 8 de Abril, publicado no Diário da República, 1.ª série, n.º 68, de 8 de Abril de 2010.
+Nos termos do artigo 15.º, o Acordo entra em vigor em 13 de Maio de 2010, 30 dias após a recepção da última notificação de que foram cumpridos os requisitos de direito interno das Partes necessários para o efeito.
+Direcção-Geral dos Assuntos Europeus, 22 de Abril de 2010. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
