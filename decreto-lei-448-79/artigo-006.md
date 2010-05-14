@@ -1,0 +1,23 @@
+# Artigo 6.º
+
+### Serviço dos docentes
+
+1 - Cada instituição de ensino superior aprova um regulamento de prestação de serviço dos docentes, o qual deve ter em consideração, designadamente:
+
+a) Os princípios adoptados pela instituição na sua gestão de recursos humanos;
+
+b) O plano de actividades da instituição;
+
+c) O desenvolvimento da actividade científica;
+
+d) Os princípios informadores do Processo de Bolonha.
+
+2 - O regulamento de prestação de serviço dos docentes abrange todas as funções que lhes competem, nos termos dos artigos 4.º e 5.º, e deve, designadamente, nos termos por ele fixados:
+
+a) Permitir que os professores de carreira, numa base de equilíbrio plurianual, por um tempo determinado, com contabilização e compensação obrigatórias das eventuais cargas horárias lectivas excessivas, se possam dedicar, total ou parcialmente, a qualquer das componentes da actividade académica;
+
+b) Permitir que os professores de carreira possam, a seu pedido, participar noutras instituições, designadamente de ciência e tecnologia, sem perda de direitos.
+
+3 - A distribuição de serviço dos docentes é feita pelo órgão legal e estatutariamente competente, de acordo com o regulamento a que se refere o presente artigo.
+
+4 - Compete a cada docente propor o quadro institucional que melhor se adeqúe ao exercício da investigação que deve desenvolver.
