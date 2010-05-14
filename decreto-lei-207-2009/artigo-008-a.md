@@ -1,0 +1,13 @@
+# Artigo 8.º-A
+
+### Regime transitório excepcional
+
+1 - Aos actuais assistentes e equiparados a assistentes, equiparados a professor-adjunto ou a professor-coordenador que exerçam funções docentes em regime de tempo integral ou de dedicação exclusiva há mais de 10 anos, ainda que não se encontrem inscritos a 15 de Novembro de 2009 em instituição de ensino superior para a obtenção do grau de doutor, em programa de doutoramento validado através de um processo de avaliação externa, aplica-se o disposto no n.º 7 do artigo 6.º para renovações de contratos.
+
+2 - Aos docentes referidos no número anterior, findo o período transitório máximo de seis anos, pode aplicar-se, a título excepcional, mais uma renovação de contrato por dois anos, nos termos do disposto no n.º 7 do artigo 6.º, desde que à data dessa renovação se encontrem em fase adiantada de preparação do seu doutoramento, enquadrado em programa de doutoramento validado através de um processo de avaliação externa.
+
+3 - Após conclusão do doutoramento por parte dos docentes referidos no n.º 1 e dentro dos prazos referidos nos n.os 1 e 2, estes transitam, sem outras formalidades, para o regime de contrato de trabalho em funções públicas na modalidade de contrato por tempo indeterminado na categoria de professor-adjunto ou, tratando-se de equiparados a professor-coordenador, de professor-coordenador, com um período experimental de cinco anos, findo o qual se aplica o procedimento previsto no artigo 10.º-B ou no artigo 10.º do Estatuto, conforme se trate de professor-adjunto ou de professor-coordenador.
+
+4 - Aos actuais assistentes e equiparados a assistentes, equiparados a professor-adjunto ou a professor-coordenador que exerçam funções docentes em regime de tempo integral ou de dedicação exclusiva há mais de cinco anos, ainda que não se encontrem inscritos a 15 de Novembro de 2009 em instituição de ensino superior para a obtenção do grau de doutor, em programa de doutoramento validado através de um processo de avaliação externa, aplica-se o previsto nos n.os 1 e 2.
+
+5 - Os actuais assistentes, professores-adjuntos e professores-coordenadores que exerçam funções docentes em regime de tempo integral ou dedicação exclusiva há mais de 15 anos podem requerer a prestação de provas públicas de avaliação da sua competência pedagógica e técnico-científica, no prazo de um ano a partir da publicação da presente lei, nos termos do estabelecido nos n.os 8 a 10 do artigo 6.º, com as devidas adaptações, transitando, em caso de aprovação nas referidas provas, sem outras formalidades, para o regime de contrato de trabalho em funções públicas na modalidade de contrato por tempo indeterminado na respectiva categoria.
