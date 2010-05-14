@@ -1,0 +1,165 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "31",
+    "id": "35259",
+    "titulo": "Decreto-Lei n.º 26/2010, de 30 de Março, que \"Procede à décima alteração ao Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e edificação, e procede à primeira alteração ao Decreto-Lei n.º 107/2009, de 15 de Maio\""
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2010-05-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "24222",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2010-06-16",
+            "id": "88833",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2010-05-18",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2010-05-17",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XI",
+            "nome": "Grupo de Trabalho - Décima alteração ao Dec-Lei 555/99, de 16 de Dezembro (APP 30-PSD, 31-PCP, 32-PP e 33-BE)",
+            "num": "4",
+            "orgId": "3389",
+            "publicacao": null,
+            "sigla": "GT-ADL555-99"
+          }
+        ],
+        "Documentos": null,
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "2875",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "4",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final da Comissão",
+            "pag": [
+              "3-3"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-07-17",
+            "pubLeg": "XI",
+            "pubNr": "170",
+            "pubSL": "1",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/170/2010-07-17/3?pgs=3&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final da Comissão",
+            "pag": [
+              "3-3"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-07-17",
+            "pubLeg": "XI",
+            "pubNr": "170",
+            "pubSL": "1",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/170/2010-07-17/3?pgs=3&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2010-07-14",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2010-07-14",
+            "dataRemessa": "2010-07-14",
+            "numeroOficio": "302/12ª-CAOTPL",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PEV"
+            ],
+            "data": "2010-07-14",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PCP</I><BR>Contra:<I>PS</I><BR>Ausência: <I>PEV</I>",
+            "id": "56276",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "37",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2010-05-14",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "267631",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
