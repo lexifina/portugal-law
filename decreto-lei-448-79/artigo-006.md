@@ -14,7 +14,7 @@ d) Os princípios informadores do Processo de Bolonha.
 
 2 - O regulamento de prestação de serviço dos docentes abrange todas as funções que lhes competem, nos termos dos artigos 4.º e 5.º, e deve, designadamente, nos termos por ele fixados:
 
-a) Permitir que os professores de carreira, numa base de equilíbrio plurianual, por um tempo determinado, se possam dedicar, total ou parcialmente, a qualquer das componentes da actividade académica;
+a) Permitir que os professores de carreira, numa base de equilíbrio plurianual, por um tempo determinado, com contabilização e compensação obrigatórias das eventuais cargas horárias lectivas excessivas, se possam dedicar, total ou parcialmente, a qualquer das componentes da actividade académica;
 
 b) Permitir que os professores de carreira possam, a seu pedido, participar noutras instituições, designadamente de ciência e tecnologia, sem perda de direitos.
 
