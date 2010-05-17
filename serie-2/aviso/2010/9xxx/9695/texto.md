@@ -1,0 +1,5 @@
+Aviso n.º 9695/2010
+Dra. Isaura Leonor Marques de Figueiredo Silva Pedro, Presidente da Câmara Municipal de Nelas, torna público que, mediante proposta da Câmara Municipal, a Assembleia Municipal de Nelas, reunida em sessão ordinária de 30 de Abril de 2010, deliberou nos termos e para efeitos no previsto no n.º 9 do artigo 112.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, aprovar, por unanimidade, a prorrogação, por mais um ano, da Suspensão Parcial do Plano Director Municipal e das Medidas Preventivas publicadas através do Aviso n.º 15543/2008 a 19 de Maio de 2008, e estabelecidas para a área identificada na planta anexa ao respectivo aviso.
+Nos termos do disposto no n.º 9 do artigo 112.º do citado diploma legal, a presente prorrogação da Suspensão Parcial do Plano Director Municipal e das Medidas Preventivas está sujeita às regras aplicáveis ao seu estabelecimento inicial, produzindo os seus efeitos a partir de 19 de Maio.
+6 de Maio de 2010. - A Presidente da Câmara, Dr.ª Isaura Leonor Marques de Figueiredo Silva Pedro.
+203233441
