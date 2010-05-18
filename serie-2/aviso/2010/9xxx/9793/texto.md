@@ -1,0 +1,8 @@
+Aviso n.º 9793/2010
+Alteração do Plano Director Municipal de Salvaterra de Magos - Classe de Solo de Prédio, Parâmetros e Índices de Edificabilidade
+Ana Cristina Ribeiro, Presidente da Câmara Municipal de Salvaterra de Magos, torna público, em conformidade com o n.º 3, do artigo 77.º, do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, com as alterações introduzidas pelo Decreto-Lei n.º 181/2009, de 7 de Agosto, que se encontra em consulta pública a proposta de alteração do Plano Director Municipal (PDM) de Salvaterra de Magos - Classe de Solo de Prédio, Parâmetros e Índices de Edificabilidade.
+O período de discussão pública terá início 5 dias após a publicação do presente aviso e terá a duração de 30 dias.
+Os interessados podem proceder à consulta do conteúdo documental da proposta de alteração ao PDM, assim como à acta da conferência de serviços, pareceres emitidos e resultados da concertação, na Divisão de Urbanismo e Planeamento, Sector de Planeamento desta Câmara Municipal, no período da manhã, entre as 9 horas e as 12 horas e 30 minutos e, no período de tarde, entre as 14 horas e as 17 horas e 30 minutos, todos os dias úteis.
+As eventuais sugestões podem ser apresentadas, por escrito, na Secção de Loteamentos e Obras Particulares, desta Câmara Municipal, dirigidas à Senhora Presidente da Câmara, no prazo referido anteriormente.
+Município de Salvaterra de Magos, 7 de Maio de 2010. - A Presidente da Câmara Municipal, Ana Cristina Ribeiro
+203245495
