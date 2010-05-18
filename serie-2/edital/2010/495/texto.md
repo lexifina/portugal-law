@@ -1,0 +1,6 @@
+Edital n.º 495/2010
+Carlos Alberto Mendonça Rabaçal, Presidente da Câmara Municipal de Setúbal, em substituição,
+Faz público que, que a Assembleia Municipal de Setúbal, em sessão ordinária realizada em 23 de Abril de 2010, no uso da competência que lhe é cometida pela alínea a) do n.º 2 do artigo 53.º, conjugado com a alínea a) do n.º 6, do artigo 64.º da Lei n.º 169/99, de 18 de Setembro, alterada e republicada pela Lei n.º 5-A/2002, de 11 de Janeiro, aprovou o Regulamento e Tabela de Taxas e Outras Receitas do Município de Setúbal e a respectiva Fundamentação Económico-Financeira do valor das Taxas, que poderão ser consultados no site do Município www.mun-setubal.pt que lhe haviam sido propostos em cumprimento da deliberação da Câmara Municipal de 14 de Abril de 2010, após inquérito público, conforme determinado no artigo 118.º do Código do Procedimento Administrativo, tendo entrado em vigor 5 dias após a sua aprovação e publicitação por edital da Assembleia.
+Para constar e devidos efeitos, se lavrou o presente edital e outros de igual teor, que vão ser publicados nos locais habituais.
+Paços do Concelho de Setúbal, Secção de Expediente Geral, 27 de Abril de 2010. - O Presidente, em substituição, nos termos do Despacho n.º 151/10, de 20/04, Carlos Alberto Mendonça Rabaçal.
+303224589
