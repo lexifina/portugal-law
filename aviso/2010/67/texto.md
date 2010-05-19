@@ -1,0 +1,4 @@
+Aviso n.º 67/2010
+Por ordem superior se torna público que, em 12 de Novembro de 2008, o Governo da República Checa depositou o seu instrumento de adesão à Convenção Relativa à Criação de Uma Agência Espacial Europeia (ESA), adoptada em Paris em 30 de Maio de 1975.
+Portugal é Parte da mesma Convenção, aprovada, para adesão, pela Resolução da Assembleia da República n.º 66/2000 e ratificada pelo Decreto do Presidente da Republica n.º 42/2000, ambos publicados no Diário da República, 1.ª série-A, n.º 242, de 19 de Outubro de 2000, tendo depositado o seu instrumento de adesão em 14 de Novembro de 2000, conforme o Aviso n.º 252/2000, publicado no Diário da República, 1.ª série-A, n.º 293, de 21 de Dezembro de 2000.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 11 de Maio de 2010. - O Subdirector-Geral, Miguel de Almeida e Sousa.
