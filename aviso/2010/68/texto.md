@@ -1,0 +1,4 @@
+Aviso n.º 68/2010
+Por ordem superior se torna público que, a 8 de Janeiro de 2010, a República da Sérvia depositou o seu instrumento de adesão à Emenda à Convenção Relativa às Exposições Internacionais de 22 de Novembro de 1928, modificada e completada pelos Protocolos de 10 de Maio de 1948, de 16 de Novembro de 1966 e de 30 de Novembro de 1972 e pela alteração de 24 de Junho de 1982, adoptada pela Assembleia Geral em 31 de Maio de 1988.
+Portugal é Parte da mesma Emenda aprovada, para ratificação, pelo Decreto n.º 10/92, publicado no Diário da República, 1.ª série-A, n.º 35, de 11 de Fevereiro de 1992, tendo depositado o seu instrumento de ratificação em 6 de Abril de 1992, conforme o Aviso n.º 70/92, publicado no Diário da República, 1.ª série-A, n.º 111, de 14 de Maio de 1992.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 11 de Maio de 2010. - O Subdirector-Geral, Miguel de Almeida e Sousa.
