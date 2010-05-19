@@ -1,0 +1,11 @@
+Aviso n.º 9893/2010
+Plano de Pormenor do Parque Ecológico do Rio Ferreira
+Celso Manuel Gomes Ferreira, Presidente da Câmara Municipal do Concelho de Paredes
+Torna público que, em conformidade com a deliberação do Executivo desta Câmara Municipal, tomada na sua reunião ordinária de 5 de Maio de 2010, foi determinada, e para os efeitos do preconizado no n.º 2, do artigo 77.º,do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção que lhe foi introduzida pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro e no Decreto-Lei n.º 181/2009 de 7 de Agosto, a elaboração do Plano de Pormenor do Parque Ecológico do Rio Ferreira (estabelecendo 60 dias úteis como prazo máximo para a elaboração) e abertura do período de participação preventiva.
+A elaboração do plano de pormenor visa:
+Enquadrar as pré-existências, designadamente os edifícios comerciais e de serviços e equipamentos, e a divisão cadastral de pelo menos três lotes resultantes das obras efectuadas no Parque das Margens do Rio Ferreira, mantendo o sítio as especificidades de espaço verde público de recreio e lazer.
+Desenvolver e concretizar propostas para a área mais a Sul, não intervencionada, à data, estabelecendo regras sobre a implantação das infra-estruturas e o desenho dos espaços de utilização colectiva, a forma de edificação (caso tenham lugar) e a disciplina da sua integração na paisagem, a localização e inserção urbanística dos equipamentos de utilização colectiva (caso tenham lugar) e a organização espacial das demais actividades de interesse geral.
+Qualquer interessado poderá apresentar, por escrito, sugestões ou observações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo processo de elaboração, durante os 15 dias úteis a contar do dia seguinte ao da publicação no Diário da República.
+As sugestões ou observações referidas no ponto anterior, serão prestadas junto da Divisão de Planeamento (Sala de Atendimento ao Público), desta Câmara municipal, sito no Parque José Guilherme, 4580-229 Paredes, nas horas normais de expediente, desde as 9 horas às 12 horas e 30 minutos e das 14 horas às 16 horas e 30 minutos ou via Internet conforme indicações no site www.cm-paredes.pt.
+Paredes, 06 de Maio de 2010. - O Presidente da Câmara, Celso Manuel Gomes Ferreira (Dr.)
+203255036
