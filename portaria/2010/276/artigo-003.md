@@ -36,4 +36,6 @@ Litossolos derivados de xistos;
 
 Solos mediterrânicos vermelhos, amarelos ou pardos, em geral derivados de xistos e calcários;
 
-Solos podzolizados não hidromórficos.
+Solos podzolizados não hidromórficos;
+
+Solos calcários pardos vermelhos.
