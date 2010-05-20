@@ -1,0 +1,5 @@
+Aviso n.º 10040/2010
+Regulamento Municipal de Urbanização e Edificação (RMUE)
+Dr. João Manuel Gomes Marques, Presidente da Câmara Municipal de Pedrógão Grande, torna público que, no uso das competências que se encontram previstas na alínea a) do n.º 6 do artigo 64.º, e, alínea a) do n.º 2 do artigo 53.º, ambos da Lei n.º 169/99, de 18 de Setembro, com a redacção introduzida pela Lei n.º 5-A/2002, de 11 de Janeiro, o Projecto de Regulamento Municipal de Urbanização e Edificação (RMUE, cujo aviso foi publicado na 2.ª série, do Diário da República, n.º 246, de 22/12/2009, após o decurso do prazo para apreciação pública nos termos do artigo 118.º do Código de Procedimento Administrativo, com vista à recolha de quaisquer sugestões ou reclamações, foi aprovado, de forma definitiva, em Regulamento, em reunião ordinária da Câmara Municipal realizada em 10/12/2009, e em sessão ordinária da Assembleia Municipal realizada em 26/04/2010. O referido Regulamento encontra-se disponível no site do Município (www.cm-pedrogaogrande.pt.)
+Pedrógão Grande, 28 Abril de 2010. - O Presidente da Câmara Municipal, Dr. João Manuel Gomes Marques.
+303210591
