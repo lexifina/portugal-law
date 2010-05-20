@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal de Justiça de 2010-05-20, processo 12411/03.5TBVNG.P1.S1
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 12411/03.5TBVNG.P1.S1
+
+**Nº Convencional:** 7ª SECÇÃO
+
+**Relator:** ALBERTO SOBRINHO
+
+**Descritores:** USUCAPIÃO; AQUISIÇÃO DE DIREITOS; DIREITO DE PROPRIEDADE; POSSE; ANIMUS POSSIDENDI; CORPUS; PRESUNÇÕES LEGAIS; PRESUNÇÃO DE PROPRIEDADE; PRESUNÇÃO JURIS TANTUM; ALVARÁ; FORÇA OBRIGATÓRIA
+
+**Nº do Documento:** SJ
+
+**Data do Acordão:** 05/20/2010
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA
+
+**Decisão:** CONCEDIDA PARCIALMENTE
+
+## Sumário
+
+I - Pela usucapião adquirem-se direitos reais sobre coisas, por força de uma posse duradoura sobre elas exercida, desde logo o direito de propriedade – art. 1287.º do CC.
+
+II - A posse, de acordo com a concepção subjectivista acolhida pela nossa lei, é integrada por dois elementos: o corpus, que consiste na relação material com a coisa, e o animus, elemento psicológico que se traduz na intenção de actuar com a convicção de ser titular do direito real correspondente.
+
+III - Tendo resultado provado que os réus adquiriram por compra um prédio urbano com logradouro, aquisição essa registada a seu favor, que na parte da frente do imóvel mandaram ajardinar o terreno, cuidando sempre da sua manutenção, mantendo um pequeno quintal e cuidando de uma pequena horta e árvores de frutos, que semeavam e colhiam para consumo doméstico, fazendo-o à vista de toda a gente, decorre claramente que os réus praticaram sobre o imóvel actos caracterizadores do respectivo direito de propriedade, de modo contínuo, público e pacífico e ainda no convencimento de quem exerce um direito próprio.
+
+IV - O registo definitivo constitui presunção juris tantum de que o direito existe e pertence à pessoa em cujo nome está inscrito.
+
+V - A presunção decorrente do art. 7.º do CRgP não abrange a área, confrontações e/ou limites dos imóveis registados.
+
+VI - O alvará de loteamento não certifica o rigor da área que consigna, nem tem força probatória plena quanto aos factos nele atestados.
