@@ -1,0 +1,9 @@
+Aviso n.º 10138/2010
+Plano de Pormenor do Parque de Negócios do Cartaxo - ALE e respectivo Relatório Ambiental - Discussão Pública
+Paulo Alexandre Fernandes Varela Simões Caldas, Licenciado em Economia e Presidente da Câmara Municipal do Cartaxo:
+Torna público, nos termos e para os efeitos do disposto no artigo 77.º, 3 e 4 do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, e do disposto no artigo 7.º, 6 do Decreto-Lei n.º 232/2007, de 15 de Junho, em cumprimento da deliberação da Câmara Municipal de 2010/05/11 que, a partir do quinto dia útil a seguir à publicação deste aviso no Diário da República e durante vinte e dois dias úteis, se encontra aberto o período de discussão pública da proposta de Plano de Pormenor do Parque de Negócios do Cartaxo - ALE e do respectivo Relatório Ambiental.
+A proposta do Plano de Pormenor, acompanhada das actas das reuniões de concertação, o Estudo de Tráfego, o Relatório Ambiental e o respectivo Resumo Não Técnico, estarão disponíveis para consulta na Secção de Administração Urbanística, sita no edifício dos Paços do Concelho, Praça 15 de Dezembro, 2070-050 Cartaxo, ou no site da Câmara Municipal do Cartaxo (www.cm-cartaxo.pt).
+Durante o período de discussão pública do Plano de Pormenor do Parque de Negócios do Cartaxo - ALE e do respectivo Relatório Ambiental, os interessados deverão apresentar as sugestões, informações ou observações mediante exposição escrita dirigida ao Sr. Presidente da Câmara Municipal do Cartaxo em impresso próprio disponível nos locais atrás referidos.
+Para constar se publica o presente e outros de igual teor que vão ser afixados nos lugares públicos do estilo.
+Paços do Município do Cartaxo, 12 de Maio de 2010. - O Presidente, Paulo Alexandre Fernandes Varela Simões Caldas.
+203266458
