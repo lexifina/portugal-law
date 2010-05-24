@@ -16,7 +16,7 @@
 
 5 - A contrapartida da remição de acções, incluindo o prémio, só pode ser retirada de fundos que, nos termos dos artigos 32.º e 33.º, possam ser distribuídos aos accionistas.
 
-6 - A partir da remição, uma importância igual ao valor nominal das acções remidas deve ser levada a uma reserva especial, que só pode ser utilizada para incorporação no capital social, sem prejuízo da sua eliminação no caso de o capital ser reduzido.
+6 - A remição é feita pelo valor nominal das acções ou, na falta de valor nominal, pelo seu valor de emissão, salvo se o contrato de sociedade previr a concessão de um prémio.
 
 7 - A remição de acções não importa redução do capital e, salvo disposição contrária do contrato de sociedade, podem ser emitidas por deliberação da assembleia geral novas acções da mesma espécie em substituição das acções remidas.
 

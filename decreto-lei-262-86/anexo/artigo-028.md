@@ -16,6 +16,8 @@ c) Avaliar os bens, indicando os critérios utilizados para a avaliação;
 
 d) Declarar se os valores encontrados atingem ou não o valor nominal da parte, quota ou acções atribuídas aos sócios que efectuaram tais entradas, acrescido dos prémios de emissão, se for caso disso, ou a contrapartida a pagar pela sociedade.
 
+e) No caso de acções sem valor nominal, declarar se os valores encontrados atingem ou não o montante do capital social correspondentemente emitido.
+
 4 - O relatório deve reportar-se a uma data não anterior em 90 dias à do contrato de sociedade, mas o seu autor deve informar os fundadores da sociedade de alterações relevantes de valores, ocorridas durante aquele período, de que tenha conhecimento.
 
 5 - O relatório do revisor deve ser posto à disposição dos fundadores da sociedade pelo menos quinze dias antes da celebração do contrato; o mesmo se fará quanto à informação referida no n.º 4 até essa celebração.

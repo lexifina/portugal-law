@@ -2,7 +2,7 @@
 
 ### (Falta de pagamento do dividendo prioritário)
 
-1 - Se os lucros distribuíveis ou o activo de liquidação não forem suficientes para satisfazer o pagamento do dividendo ou do valor nominal das acções, nos termos previstos no artigo 341.º, n.º 2, serão repartidos proporcionalmente pelas acções preferenciais sem voto.
+1 - Se os lucros distribuíveis ou o activo de liquidação não forem suficientes para satisfazer o pagamento do dividendo, do valor nominal ou do valor de emissão das acções, nos termos previstos no n.º 2 do artigo 341.º, são repartidos proporcionalmente pelas acções preferenciais sem voto.
 
 2 - O dividendo prioritário que não for pago num exercício social deve ser pago nos três exercícios seguintes, antes do dividendo relativo a estes, desde que haja lucros distribuíveis.
 
