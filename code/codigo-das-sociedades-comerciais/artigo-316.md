@@ -21,3 +21,5 @@
 5 - Sem prejuízo da sua responsabilidade, nos termos gerais, os administradores intervenientes nas operações proibidas pelo n.º 2 são pessoal e solidariamente responsáveis pela liberação das acções.
 
 6 - São nulos os actos pelos quais uma sociedade adquira acções referidas no n.º 2 às pessoas ali mencionadas, excepto em execução de crédito e se o devedor não tiver outros bens suficientes.
+
+7 - Consideram-se suspensos os direitos inerentes às acções subscritas por terceiro por conta da sociedade em violação deste preceito, enquanto não forem por ele cumpridas as obrigações de reembolso da sociedade e de restituição das quantias pagas pelos administradores para a sua liberação.

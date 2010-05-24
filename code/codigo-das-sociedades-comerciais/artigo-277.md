@@ -4,7 +4,7 @@
 
 1 - Não são admitidas contribuições de indústria.
 
-2 - Nas entradas em dinheiro só pode ser diferida a realização de 70% do valor nominal das acções; não pode ser diferido o pagamento do prémio de emissão, quando previsto.
+2 - Nas entradas em dinheiro só pode ser diferida a realização de 70 % do valor nominal ou do valor de emissão das acções, não podendo ser diferido o prémio de emissão, quando previsto.
 
 3 - A soma das entradas em dinheiro já realizadas deve ser depositada em instituição de crédito, numa conta aberta em nome da futura sociedade, até ao momento da celebração do contrato.
 

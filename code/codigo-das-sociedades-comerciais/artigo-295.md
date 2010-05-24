@@ -14,12 +14,12 @@ c) Importâncias correspondentes a bens obtidos a título gratuito, quando não 
 
 3 - Os ágios a que se refere a alínea a) do número anterior consistem:
 
-a) Quanto à emissão de acções, na diferença para mais entre o valor nominal e a quantia que os accionistas tiverem desembolsado para as adquirir;
+a) Quanto à emissão de acções, na diferença para mais entre o valor nominal e a quantia que os accionistas tiverem desembolsado para as adquirir ou, no caso de acções sem valor nominal, o montante do capital correspondentemente emitido;
 
 b) Quanto à emissão de obrigações com direito de subscrição de acções ou de obrigações convertíveis, na diferença para mais entre o valor de emissão e o valor por que tiverem sido reembolsadas;
 
-c) Quanto à troca de obrigações com direito de subscrição de acções ou de obrigações convertíveis em acções, na diferença para mais entre o valor da emissão daquelas e o valor nominal destas;
+c) Quanto à troca de obrigações com direito de subscrição de acções ou de obrigações convertíveis em acções, na diferença para mais entre o valor da emissão daquelas e o valor nominal destas ou, no caso de acções sem valor nominal, o montante do capital correspondentemente emitido;
 
-d) Quanto às entradas em espécie, na diferença para mais entre o valor atribuído aos bens em que a entrada consiste e o valor nominal das acções correspondentes.
+d) Quanto às entradas em espécie, na diferença para mais entre o valor atribuído aos bens em que a entrada consiste e o valor nominal das acções correspondentes ou, no caso de acções sem valor nominal, o montante do capital correspondentemente emitido.
 
 4 - Por portaria dos Ministros das Finanças e da Justiça podem ser dispensadas, no todo ou em parte, do regime estabelecido no n.º 2, as reservas constituídas pelos valores referidos na alínea a) daquele número.

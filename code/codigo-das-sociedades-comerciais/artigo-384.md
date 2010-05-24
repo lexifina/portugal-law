@@ -35,3 +35,5 @@ d) Qualquer relação, estabelecida ou a estabelecer, entre a sociedade e o acci
 a) Determinar que os votos assim emitidos valham como votos negativos em relação a propostas de deliberação apresentadas ulteriormente à emissão do voto;
 
 b) Autorizar a emissão de votos até ao máximo de cinco dias seguintes ao da realização da assembleia, caso em que o cômputo definitivo dos votos é feito até ao 8.º dia posterior ao da realização da assembleia e se assegura a divulgação imediata do resultado da votação.
+
+10 - Na falta de previsão dos estatutos aplica-se a alínea a) do número anterior.

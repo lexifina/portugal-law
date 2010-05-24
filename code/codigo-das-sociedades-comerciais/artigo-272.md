@@ -4,7 +4,7 @@
 
 Do contrato de sociedade devem especialmente constar:
 
-a) O valor nominal e o número das acções;
+a) O número de acções e, se existir, o respectivo valor nominal;
 
 b) As condições particulares, se as houver, a que fica sujeita a transmissão de acções;
 

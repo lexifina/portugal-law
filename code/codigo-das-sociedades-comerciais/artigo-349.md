@@ -6,7 +6,7 @@
 
 2 - Para efeitos do número anterior, entende-se por capitais próprios o somatório do capital realizado, deduzidas as acções próprias, com as reservas, os resultados transitados e os ajustamentos de partes de capital em sociedades coligadas.
 
-3 - O cumprimento do limite de emissão deve ser verificado através de parecer do conselho fiscal ou do fiscal único.
+3 - O cumprimento do limite de emissão deve ser verificado através de parecer do conselho fiscal, do fiscal único, da comissão de auditoria ou do conselho geral e de supervisão.
 
 4 - O limite fixado nos números anteriores não se aplica:
 

@@ -4,7 +4,7 @@
 
 1 - É proibido à sociedade conceder empréstimos ou crédito a administradores, efectuar pagamentos por conta deles, prestar garantias a obrigações por eles contraídas e facultar-lhes adiantamentos de remunerações superiores a um mês.
 
-2 - São nulos os contratos celebrados entre a sociedade e os seus administradores, directamente ou por pessoa interposta, se não tiverem sido previamente autorizados por deliberação do conselho de administração, na qual o interessado não pode votar, e com o parecer favorável do conselho fiscal.
+2 - São nulos os contratos celebrados entre a sociedade e os seus administradores, directamente ou por pessoa interposta, se não tiverem sido previamente autorizados por deliberação do conselho de administração, na qual o interessado não pode votar, e com o parecer favorável do conselho fiscal ou da comissão de auditoria.
 
 3 - O disposto nos números anteriores é extensivo a actos ou contratos celebrados com as sociedades que estejam em relação de domínio ou de grupo com aquela de que o contraente é administrador.
 
