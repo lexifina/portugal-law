@@ -2,7 +2,7 @@
 
 ### Acta da assembleia geral
 
-1 - Sem prejuízo do disposto no n.º 2 do artigo 63.º do Código das Sociedades Comerciais, a ata da assembleia geral das sociedades emitentes de ações admitidas à negociação em mercado regulamentado contém ainda, em relação a cada deliberação:
+1 - Sem prejuízo do disposto no n.º 2 do artigo 63.º do Código das Sociedades Comerciais, a acta da assembleia geral das sociedades abertas deve ainda conter, em relação a cada deliberação:
 
 a) O número total de votos emitidos;
 

@@ -10,7 +10,7 @@ b) Extracto da acta contendo a deliberação sobre a alteração dos estatutos, 
 
 2 - As entidades referidas no n.º 1 do artigo 244.º informam imediatamente o público sobre:
 
-a) Convocação das assembleias dos titulares de valores mobiliários admitidos à negociação;
+a) Convocação das assembleias dos titulares de valores mobiliários admitidos à negociação, bem como a inclusão de assuntos na ordem do dia e apresentação de propostas de deliberação;
 
 b) Alteração, atribuição e pagamento ou exercício de quaisquer direitos inerentes aos valores mobiliários admitidos à negociação ou às acções a que estes dão direito, incluindo indicação dos procedimentos aplicáveis e da instituição financeira através da qual os accionistas podem exercer os respectivos direitos patrimoniais;
 

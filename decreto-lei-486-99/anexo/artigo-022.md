@@ -10,10 +10,6 @@
 
 2 - O disposto no número anterior pode ser afastado pelos estatutos da sociedade, salvo quanto à alteração destes e à eleição de titulares dos órgãos sociais.
 
-3 - Para efeitos do n.º 1, a convocatória da assembleia geral deve incluir:
-
-a) Indicação de que o direito de voto pode ser exercido por correspondência;
-
-b) Descrição do modo por que se processa o voto por correspondência, incluindo o endereço e o prazo para a recepção das declarações de voto.
+3 - (Revogado).
 
 4 - A sociedade deve verificar a autenticidade do voto e assegurar, até ao momento da votação, a sua confidencialidade.
