@@ -10,7 +10,7 @@
 
 a) O presidente do SRPC, IP-RAM, que preside;
 
-b) Os vice-presidentes do SRPC, IP-RAM;
+b) O vice-presidente do SRPC, IP-RAM;
 
 c) O inspector regional de Bombeiros;
 
