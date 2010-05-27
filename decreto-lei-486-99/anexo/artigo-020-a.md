@@ -38,4 +38,8 @@ b) Consideram-se instruções indirectas as que, em geral ou particular, indepen
 
 8 - A declaração da CMVM implica a imediata imputação de todos os direitos de voto inerentes às acções que integrem o fundo de investimento, o fundo de pensões, o fundo de capital de risco ou a carteira, enquanto não seja demonstrada a independência da entidade gestora ou do intermediário financeiro, com as respectivas consequências, devendo ainda ser comunicada aos participantes ou aos clientes da entidade gestora ou do intermediário financeiro.
 
-9 - Antes de emitir o comunicado previsto no n.º 7, a CMVM dá conhecimento do mesmo ao Instituto de Seguros de Portugal sempre que se refira a fundos de pensões.
+9 - A adopção das medidas referidas no n.º 7 é precedida de consulta prévia:
+
+a) Ao Banco de Portugal ou ao Instituto de Seguros de Portugal, sempre que a participação qualificada se refira a sociedades abertas sujeitas à supervisão de uma destas autoridades;
+
+b) Ao Instituto de Seguros de Portugal, sempre que a participação qualificada se refira a direitos de voto inerentes a acções integrantes de fundos de pensões.
