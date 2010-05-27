@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "55749",
+  "tipo": "Requerimento",
+  "numero": "1660",
+  "data_registo": "2010-05-27",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Entidades participadas pela Câmara Municipal de Sines",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1048",
+        "nome": "Altino Bessa"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2084",
+        "nome": "Nuno Magalhães"
+      }
+    ],
+    "DataEnvio": "2010-06-01",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-06-01",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Sines",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-06-22",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Sines",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d4751345a6d46684d3255744f446c6c4d6930304d44526b4c546b334f444d745a6d55354d3245344e544d305a4751354c6e426b5a673d3d&fich=0d8faa3e-89e2-404d-9783-fe93a8534dd9.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-05-27",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077765a6a5933597a566d4d5463744d4459334e53303059575a6d4c574530593249744e575a684e4759795a5445344f5749774c6e426b5a673d3d&fich=f67c5f17-0675-4aff-a4cb-5fa4f2e189b0.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "55749",
+    "Legislatura": "XI",
+    "Nr": "1660",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "519512",
+        "obs": null,
+        "pag": [
+          "91-92"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "140",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/140S1/2010-06-08/91?pgs=91-92&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
