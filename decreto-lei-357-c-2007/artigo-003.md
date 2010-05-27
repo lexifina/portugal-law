@@ -2,4 +2,4 @@
 
 ### Sede
 
-As sociedades gestoras referidas no artigo 1.º têm sede estatutária e efetiva administração em Portugal.
+As sociedades gestoras referidas no artigo anterior têm sede estatutária e efectiva administração em Portugal.

@@ -2,7 +2,7 @@
 
 ### Participações qualificadas
 
-1 - Quem, direta ou indiretamente, pretenda adquirir participação qualificada numa sociedade gestora de mercado regulamentado comunica previamente à CMVM o seu projeto de aquisição.
+1 - Quem, directa ou indirectamente, pretenda adquirir participação qualificada numa sociedade gestora de mercado regulamentado ou numa sociedade gestora de sistema de negociação multilateral deve comunicar previamente à CMVM o seu projecto de aquisição.
 
 2 - Considera-se participação qualificada:
 

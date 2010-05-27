@@ -11,5 +11,3 @@ b) Ter o adquirente adquirido ou aumentado a sua participação depois de ter cu
 c) Ter-se a CMVM oposto ao projecto de aquisição ou de aumento de participação qualificada.
 
 2 - O incumprimento do dever de comunicação previsto no artigo anterior determina a inibição dos direitos de voto, até à realização da comunicação em falta.
-
-3 - A CMVM pode determinar a inibição do exercício dos direitos de voto inerentes à participação em causa com fundamento em factos relevantes de que tome conhecimento após a constituição ou aumento de participação qualificada e que criem o receio fundado de que a influência exercida pelo detentor de participação qualificada pode prejudicar a gestão sã e prudente da sociedade participada.

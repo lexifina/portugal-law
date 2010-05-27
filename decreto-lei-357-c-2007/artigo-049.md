@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Organização interna
-
 ## Título V
 
 ## Disposições finais e transitórias

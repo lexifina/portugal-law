@@ -6,7 +6,7 @@
 
 2 - O processo de autorização deve, pelo menos, ser instruído com os elementos comprovativos de que estão reunidos os requisitos legais da qualidade de accionista e com os referidos nas alíneas a) e f) do artigo 20.º
 
-3 - É fundamento adicional de recusa de autorização a circunstância de não se considerar demonstrado que o requerente satisfaz o disposto no artigo 10.º
+3 - É fundamento adicional de recusa de autorização o membro do Governo responsável pela área das finanças não considerar demonstrado que o requerente satisfaz o disposto no artigo 103.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, com as devidas adaptações.
 
 4 - É fundamento específico de caducidade que as deliberações a tomar ou outros actos a praticar na sequência da autorização não tenham lugar no prazo de seis meses, ou a sua execução não tenha lugar no prazo de 12 meses após a concessão de autorização.
 
