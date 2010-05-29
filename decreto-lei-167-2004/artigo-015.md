@@ -1,0 +1,21 @@
+# Artigo 15.º
+
+### Sanções acessórias
+
+1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, desde que verificados os pressupostos da aplicação das sanções acessórias tal como previsto no Regime Geral das Contra-Ordenações e Coimas, as seguintes sanções acessórias:
+
+a) Perda de objectos pertencentes ao agente;
+
+b) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Privação do direito de participar em feiras e mercados;
+
+e) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;
+
+f) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+g) Suspensão de autorizações de licenças e alvarás.
+
+2 - As sanções referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos, contados a partir do trânsito em julgado da decisão condenatória.
