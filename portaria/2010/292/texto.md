@@ -1,0 +1,11 @@
+Portaria n.º 292/2010
+de 31 de Maio
+A Portaria n.º 836/99, de 24 de Agosto, veio criar, com produção de efeitos reportados a 23 de Junho de 1996, no quadro de pessoal do ex-Instituto do Desporto, aprovado pela Portaria n.º 1187/95, de 28 de Setembro, um lugar de assessor da carreira técnica superior, a extinguir quando vagar.
+A criação do mencionado lugar, com efeitos reportados à data atrás indicada, teve como pressuposto considerar-se que, à técnica superior principal da carreira técnica superior, Maria Regina Peyroteo Gomes Mirandela da Costa, que cessou em 23 de Junho de 1996 a comissão de serviço que na altura exercia enquanto titular do cargo de chefe da Divisão de Apoio à Formação do ex-Instituto do Desporto, lhe era aplicável o disposto na alínea a) do n.º 2 e nos n.os 6 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhes foi conferida pelo artigo 1.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e no artigo único do Decreto-Lei n.º 239/94, de 22 de Setembro.
+Todavia, por Acórdão do Supremo Tribunal Administrativo, Processo n.º 0226/07, 2.ª Subsecção do CA, de 4 de Março de 2009, deveria ter sido aplicado à técnica superior atrás mencionada o disposto na alínea a) do n.º 2 do artigo 32.º da Lei n.º 49/99, de 22 de Junho, em conjugação com o n.º 9 do artigo 39.º do mesmo diploma, criando-se no quadro de pessoal do ex-Instituto do Desporto um lugar de assessor principal da carreira técnica superior, a extinguir quando vagar, com efeitos reportados a 30 de Abril de 1997, data em que efectivamente cessou funções.
+Assim:
+Manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Presidência, o seguinte:
+1.º Em execução do Acórdão do Supremo Tribunal Administrativo, de 4 de Março de 2009, é criado, no quadro de pessoal do ex-Instituto do Desporto, aprovado pela Portaria n.º 1187/95, de 28 de Setembro, um lugar de assessor principal da carreira técnica superior, a extinguir quando vagar.
+2.º A criação do lugar referido no número anterior produz efeitos reportados a 30 de Abril de 1997.
+3.º É revogada a Portaria n.º 836/99, de 24 de Agosto.
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 5 de Abril de 2010. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira, em 29 de Março de 2010.
