@@ -1,0 +1,8 @@
+Aviso n.º 10907/2010
+Plano de Pormenor na Modalidade de Plano de Intervenção em Espaço Rural no Outeirão, Freguesia da Comporta
+Pedro Manuel Igrejas da Cunha Paredes, Presidente da Câmara Municipal de Alcácer do Sal:
+Torna público, nos termos e para os efeitos do n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, que a Câmara Municipal, em reunião de 18/02/2010, determinou a elaboração do Plano de Pormenor na Modalidade de Plano de Intervenção em Espaço Rural, contratualizado com a Sociedade Agrícola da Zorra - Actividades Imobiliárias e Turísticas, Lda., e a Pedra Mestra - Actividades Imobiliárias e Turísticas, SA, necessário à concretização de um empreendimento turístico, que os promotores pretendem levar a efeito na área e nos termos do contrato celebrado em 18/12/2009, cuja minuta esteve sujeita a audição pública nos termos do artigo 6.º-A, e em prossecução da deliberação de 01/10/2009.
+A deliberação que determinou a elaboração do Plano está disponível para consulta no edifício dos Serviços Técnicos da Câmara Municipal, na Secretaria da Divisão de Planeamento e Gestão Urbanística, Equipamento e Habitação, no horário normal de expediente, ou seja, das 9 às 16 horas.
+Assim, no prazo de 15 dias úteis a contar da publicação do presente aviso, encontra-se o processo sujeito a audição pública, durante a qual os interessados poderão apresentar, por escrito, no prazo estipulado para o efeito, reclamações, observações e sugestões.
+Alcácer do Sal, 25 de Maio de 2010. - O Presidente da Câmara, Pedro Manuel Igrejas da Cunha Paredes.
+203304365
