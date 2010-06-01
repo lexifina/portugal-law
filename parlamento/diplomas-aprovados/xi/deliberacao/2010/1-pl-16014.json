@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P51eFuHgxFD78h707uCD%2f4%2bbRGeVckHY%2fxjH0irckIJg1CudMSeBOXHqaanmRXA0kQKLyDrf%2bEf7iBWDqH%2bDguXCPRsyEdQhtMvveqTIYviOJK%2b7XmFM05zqIG2hRWj4v6pUBtQ4Ilihmxk7R0UG1cFFW3g%2bFk%2brFe5Ci2NFVXnpmKPI%2feXn7EXzmzGfQuDSCwuS567d0yV9twkD9rLrHmqJaRUdA21rTkWfFj9OKi01Yx1Shjticm%2bTlK%2b69lEoUHEQNnxqGMBA4TGmEuhKIJ5nOOkO%2bv5b8GbCQQ%2b9jY4%2b6DXCHJsrNMDYApsXkkwK%2fj2smQNnSWPKCauTX7N6NggJgBeKdegS%2b1gbnI5B74Y%3d&fich=DiplomasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "b7c669e93e898120f7d9ad6dc24f69ed5622cb7554a8cd128468fc992e8858c7",
+  "legislatura": "XI",
+  "id": "16014",
+  "tipo": "Deliberação",
+  "numero": "1-PL",
+  "data_registo": "2010-06-01",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2010",
+    "Id": "16014",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "35325",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c4e7a4979596a646a4f533079596d51774c5451784d5745744f5467344f5331694d3245344e7a426d4f4451315a4445755a47396a&fich=e722b7c9-2bd0-411a-9889-b3a870f845d1.doc&Inline=true",
+        "IniNr": "4",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "D",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XI",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c324a6b4e4456695a47597a4c57557a593255744e4459304e4330355a4759784c54566a4e3255355a6a49305a6a67334e79356b62324d3d&fich=bd45bdf3-e3ce-4644-9df1-5c7e9f24f877.doc&Inline=true",
+    "Numero": "1",
+    "Numero2": "PL",
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "550501",
+        "obs": null,
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-06-01",
+        "pubLeg": "XI",
+        "pubNr": "93",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/11/01/093/2010-06-01/3?pgs=3&org=PLC"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Deliberação",
+    "Titulo": "Prorrogação do período normal de funcionamento da Assembleia da República",
+    "Tp": "B",
+    "Versao": "1"
+  }
+}
