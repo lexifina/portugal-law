@@ -1,0 +1,148 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "tipo": "Projeto de Resolução",
+  "numero": "160",
+  "id": "35373",
+  "fases": 11,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2010-06-02",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2010-09-14",
+    "DataInicioleg": "2009-10-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "123",
+        "nome": "Miguel Macedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1990",
+        "nome": "Miguel Frasquilho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3",
+        "nome": "Adão Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "42",
+        "nome": "Duarte Pacheco"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4144",
+        "nome": "Luísa Roseira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1743",
+        "nome": "Ulisses Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2641",
+        "nome": "Paulo Cavaleiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "77",
+        "nome": "José Cesário"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4014",
+        "nome": "Antonieta Guerreiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4129",
+        "nome": "Cristóvão Crespo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3964",
+        "nome": "Carlos São Martinho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "249",
+        "nome": "Mendes Bota"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4085",
+        "nome": "Pedro Lynce"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4146",
+        "nome": "Margarida Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1410",
+        "nome": "Vasco Cunha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4050",
+        "nome": "Fernando Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4204",
+        "nome": "António Cabeleira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2027",
+        "nome": "Adriano Rafael Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4086",
+        "nome": "António Leitão Amaro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4145",
+        "nome": "Luís Menezes"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "35373",
+    "IniLeg": "XI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a4f54526d4d54526b4f5330785a57466c4c5451334e5745744f5745324f5330794f47566c4e3245304e54426b4f4459755a47396a&fich=c94f14d9-1eae-475a-9a69-28ee7a450d86.doc&Inline=true",
+    "IniNr": "160",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Instituição do princípio de isenção do pagamento de taxas por parte da população residente nas áreas protegidas.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
