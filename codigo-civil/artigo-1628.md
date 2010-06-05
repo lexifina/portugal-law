@@ -16,4 +16,4 @@ c) O casamento em cuja celebração tenha faltado a declaração da vontade de u
 
 d) O casamento contraído por intermédio de procurador, quando celebrado depois de terem cessado os efeitos da procuração, ou quando esta não tenha sido outorgada por quem nela figura como constituinte, ou quando seja nula por falta de concessão de poderes especiais para o acto ou de designação expressa do outro contraente;
 
-e) O casamento contraído por duas pessoas do mesmo sexo.
+e) (Revogada).
