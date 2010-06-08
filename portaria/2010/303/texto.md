@@ -1,0 +1,30 @@
+Portaria n.º 303/2010
+de 8 de Junho
+Considerando o objectivo de aprofundamento da reforma fiscal ambiental, o Governo veio proceder, através das alterações introduzidas no Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS) pelo artigo 85.º da Lei n.º 3-B/2010, de 28 de Abril, a uma extensão da dedução à colecta do IRS relativa a encargos suportados pelos contribuintes individuais com equipamentos de eficiência energética, alargando tais deduções aos equipamentos e obras que contribuam para a melhoria das condições de comportamento térmico de edifícios, para o que se autonomizou um novo artigo 85.º-A no Código do IRS.
+Com esta medida pretende-se reforçar o estímulo directo aos contribuintes na realização de despesas que, além de possuírem retorno financeiro a longo prazo para os próprios, conduzem também à redução da factura energética do País como um todo, reforçando a vinculação do IRS às modernas preocupações extrafiscais no âmbito do clima e da energia.
+É com esse propósito que se publica a presente portaria, substituindo a Portaria n.º 725/91, de 29 de Julho.
+Assim:
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Economia, da Inovação e do Desenvolvimento, ao abrigo da alínea c) do artigo 199.º da Constituição, o seguinte:
+Artigo 1.º
+Equipamentos dedutíveis
+As deduções à colecta a que se referem as alíneas a) e b) do artigo 85.º-A do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, abrangem os equipamentos constantes da lista que se publica em anexo à presente portaria e dela faz parte integrante.
+Artigo 2.º
+Facturas dos equipamentos
+Para efeitos das deduções a que se refere a presente portaria, os sujeitos passivos devem possuir factura ou documento equivalente comprovativos da aquisição e instalação dos equipamentos, nos termos previstos no artigo 128.º do Código do IRS, contendo o número de identificação fiscal do adquirente e a menção «uso pessoal».
+Artigo 3.º
+Norma revogatória
+É revogada a Portaria n.º 725/91, de 29 de Julho.
+Em 6 de Maio de 2010.
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva.
+ANEXO
+(a que se refere o artigo 1.º)
+Lista de equipamentos abrangidos pelas deduções à colecta a que se referem as alíneas a) e b) do artigo 85.º-A do Código do Imposto sobre o Rendimento das Pessoas Singulares.
+1 - Instalações solares térmicas para aquecimento de águas sanitárias e de climatização, utilizando como dispositivos de captação da energia colectores solares.
+2 - Bombas de calor destinadas ao aquecimento de águas de uso doméstico.
+3 - Painéis fotovoltaicos e respectivos sistemas de controlo e armazenamento de energia, destinados ao abastecimento de energia eléctrica a habitações.
+4 - Aerogeradores de potência nominal inferior a 5 kW e respectivos sistemas de controlo e armazenamento de energia, destinados ao abastecimento de energia eléctrica a habitações.
+5 - Equipamentos de queima de biomassa florestal, combustíveis derivados de resíduos ou de biogás, nomeadamente recuperadores de calor de lareiras, destinados quer ao aquecimento ambiente quer de águas sanitárias, e as caldeiras destinadas à alimentação de sistemas de aquecimento ambiente ou aquecimento de águas sanitárias e de climatização.
+6 - Equipamentos e obras de melhoria das condições de comportamento térmico de edifícios, dos quais resulte directamente o seu maior isolamento:
+a) Aplicação de isolamentos térmicos na envolvente dos edifícios, seja pelo exterior ou pelo interior, incluindo coberturas (telhados ou lajes), paredes e pavimentos adjacentes ao solo ou a espaços não climatizados;
+b) Substituição de vãos envidraçados simples por vidros duplos com caixilharia de corte térmico.
+7 - Equipamentos de carregamento de veículos eléctricos de instalação doméstica, em conformidade com as especificações técnicas a definir por portaria.
