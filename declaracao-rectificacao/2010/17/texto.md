@@ -1,0 +1,7 @@
+Declaração de Rectificação n.º 17/2010
+Ao abrigo da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que a Portaria n.º 222/2010, de 20 de Abril, publicada no Diário da República, 1.ª série, n.º 76, de 20 de Abril de 2010, saiu com as seguintes inexactidões, que, mediante declaração da entidade emitente, assim se rectificam:
+1 - No n.º 1 do artigo 2.º do regulamento do concurso de acesso à categoria de conselheiro de embaixada, onde se lê «do prazo para apresentação das candidaturas mencionado no artigo 4.º, n.º 1, do presente regulamento.» deve ler-se «do prazo para apresentação das candidaturas mencionado no artigo 7.º, n.º 1, do presente regulamento.».
+2 - No n.º 1 do artigo 8.º do regulamento do concurso de acesso à categoria de conselheiro de embaixada, onde se lê «do prazo fixado para o n.º 1 do artigo 4.º do presente regulamento» deve ler-se «do prazo fixado para o n.º 1 do artigo 7.º do presente regulamento».
+3 - Na alínea a) do n.º 1 do artigo 8.º do regulamento do concurso de acesso à categoria de conselheiro de embaixada, onde se lê «para o endereço concurso-conselheiros2010@mne.pt;» deve ler-se «para o endereço concursoconselheiros2010@mne.pt;».
+4 - Na alínea c) do n.º 1 do artigo 8.º do regulamento do concurso de acesso à categoria de conselheiro de embaixada, onde se lê «serviço de expediente do Ministério dos Negócios» deve ler-se «serviço de expediente do Ministério dos Negócios Estrangeiros».
+4 de Junho de 2010. - A Directora-Adjunta, Alexandra Ludomila Ribeiro Fernandes Leitão.
