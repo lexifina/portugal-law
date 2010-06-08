@@ -1,0 +1,695 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12000",
+  "numero": "70",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-06-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-06-15",
+            "dataResposta": "2010-07-14",
+            "entidades": [
+              "Ministra da Educação"
+            ],
+            "nrOficio": "245/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-06-21",
+            "dataResposta": "2010-06-23",
+            "entidades": [
+              "APH - Associação de Professores de História"
+            ],
+            "nrOficio": "258/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-06-21",
+            "dataResposta": "2010-06-25",
+            "entidades": [
+              "Agrupamento de Escolas de Moura"
+            ],
+            "nrOficio": "258/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-06-21",
+            "dataResposta": "2010-06-29",
+            "entidades": [
+              "Agrupamento de Escolas de Amareleja"
+            ],
+            "nrOficio": "258/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-06-21",
+            "dataResposta": "2010-07-01",
+            "entidades": [
+              "Escola Secundária de Penafiel"
+            ],
+            "nrOficio": "258/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-06-21",
+            "dataResposta": "2010-07-05",
+            "entidades": [
+              "Escola Secundária de Carvalhos"
+            ],
+            "nrOficio": "258/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-06-21",
+            "dataResposta": "2010-07-06",
+            "entidades": [
+              "Associação de Jardins-Escolas João de Deus"
+            ],
+            "nrOficio": "258/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-06-21",
+            "dataResposta": "2010-07-08",
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "258/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-06-21",
+            "dataResposta": "2010-07-08",
+            "entidades": [
+              "Associação de Professores de Português"
+            ],
+            "nrOficio": "258/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-06-21",
+            "dataResposta": "2010-07-08",
+            "entidades": [
+              "Associação Nacional de Municípios Portugueses"
+            ],
+            "nrOficio": "258/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-06-21",
+            "dataResposta": "2010-07-08",
+            "entidades": [
+              "Departamento de Pedagogia e Educação - Escola de Ciências Sociais (Universidade de Évora)"
+            ],
+            "nrOficio": "258/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-06-21",
+            "dataResposta": "2010-07-11",
+            "entidades": [
+              "Escola Secundária de Cantanhade"
+            ],
+            "nrOficio": "258/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-06-21",
+            "dataResposta": "2010-07-19",
+            "entidades": [
+              "ANAFRE - Associação Nacional de Freguesias"
+            ],
+            "nrOficio": "258/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-07-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-06-15",
+        "DataArquivo": "2010-07-14",
+        "DataBaixaComissao": "2010-06-15",
+        "DataEnvioPAR": "2010-07-21",
+        "DataReaberta": "2010-06-15",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-06-16",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939695a5759334e545534597931694e5467304c5451355a4755744f5463344d4330334e475579596a46694f4749355a6d51756347526d&fich=bef7558c-b584-49de-9780-74e2b1b8b9fd.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938795a6d5669596d517a4d79316d59544d774c545133596a59745954637a597930794e5459324d7a67345a6d4532595745756347526d&fich=2febbd33-fa30-47b6-a73c-2566388fa6aa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938354e7a526c5a474d344f5330314f4446684c5452694e6a6774596d557a4f4330774d5759354d6d4e6d4e6a46694d7a49756347526d&fich=974edc89-581a-4b68-be38-01f92cf61b32.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938324e5449784e6a45315a69303259544e684c54526d4f446b744f5459785953316d596a41795a5449334d4759794f4745756347526d&fich=6521615f-6a3a-4f89-961a-fb02e270f28a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279383059324a694f54426a4e43307a4f546c684c54517a4d6a6b74596a4a6d59793078597a497a4f546c685a6a526a4e6a59756347526d&fich=4cbb90c4-399a-4329-b2fc-1c2399af4c66.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793968597a51314e5442684e4330345a6a686d4c54526c4d3255744f54677a4d4330334f5463345a4755335a5746694e4755756347526d&fich=ac4550a4-8f8f-4e3e-9830-7978de7eab4e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b5a6a4930597a686d4f4330795a546c6d4c5452695a44517459544a6d4f4331684d7a59774e4745345a6d59775a5755756347526d&fich=df24c8f8-2e9f-4bd4-a2f8-a3604a8ff0ee.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938774d7a4533596a4a6b4d69316a4f4751794c5451785a6a457459544a6a5a6930325a6d4d774f5445784d7a49304d5455756347526d&fich=0317b2d2-c8d2-41f1-a2cf-6fc091132415.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938335a6d4d304e6a45774e53316c4d5751334c5451794d4445744f44426a4f53316a5932597a4e324a694e574d7a595751756347526d&fich=7fc46105-e1d7-4201-80c9-ccf37bb5c3ad.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396c4f544e6a4d4745774e53316b4e6a45794c54517a4f5467745954466c595330775a6d497a4e6d5a6a4e544a6b4e5745756347526d&fich=e93c0a05-d612-4398-a1ea-0fb36fc52d5a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938324f4459324e7a5a6c596930305a57597a4c5451334d6d497459574578597930304d6d49334d4759304f5455324e6a59756347526d&fich=686676eb-4ef3-472b-aa1c-42b70f495666.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938305a6a45784d446c6c5969303159324a6a4c5451314f544d744f544d345a6930315a6d566c4f445a685a6d526b4e4455756347526d&fich=4f1109eb-5cbc-4593-938f-5fee86afdd45.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d595441304e6d51335a5330784e6d4d334c54526b4e475974595749324e6930785a4745344e7a63334d4449354e444d756347526d&fich=fa046d7e-16c7-4d4f-ab66-1da877702943.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938795a5445334e6a4e6b4d5331694f574d334c5451345a6a6774596d49325a6930324d6a41314d574d7a4e6d526c4d6d45756347526d&fich=2e1763d1-b9c7-48f8-bb6f-62051c36de2a.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-07-29",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279387a4f446468596d4d774d5330304d44646c4c5451354d446b74596a646c4f5330774f4467784e6a5532596a45304e7a59756347526d&fich=387abc01-407e-4909-b7e9-0881656b1476.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938774d6a67344e7a4a6a4e6930334d7a63774c5451344e544574596d566c4f4331684f4755314e6a426b4e54466d4f5751756347526d&fich=028872c6-7370-4851-bee8-a8e560d51f9d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938784f4463324d44686c4d6930314e54566c4c5451354d6d59744f444e6b5a69316d5957466c5954466b596d55334f474d756347526d&fich=187608e2-555e-492f-83df-faaea1dbe78c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793832597a6333596a64694e793077596d566d4c5451784d6a41744f446c6b5953316b4e6a55304d474d33593255344f4459756347526d&fich=6c77b7b7-0bef-4120-89da-d6540c7ce886.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938795a6a6b774d3245334d79316d59546b324c5451785a57597459546b345a4331684d54426b4f5755794d325a6d4d544d756347526d&fich=2f903a73-fa96-41ef-a98d-a10d9e23ff13.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938344d445a6a4e4459305979316b4d6a49344c54517859546b744f444a6b4d7930354e6d4d774e5745325a57453559324d756347526d&fich=806c464c-d228-41a9-82d3-96c05a6ea9cc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938314d325979596a49795a5330334d446c6b4c5451794e4455744f546b334d69307a4e3251774d5467314e446c6d5a6d49756347526d&fich=53f2b22e-709d-4245-9972-37d018549ffb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4e5467355954466b5a5330345a5445784c5452694f575974596a67335969307a4d6a4d354d5455334e6a55314d4449756347526d&fich=f589a1de-8e11-4b9f-b87b-323915765502.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396c4e6d4d78597a59304f53316c4d544e694c54526b4d5755744f4441304e69316a4d574e6c4d44526b4d4451334e6d4d756347526d&fich=e6c1c649-e13b-4d1e-8046-c1ce04d0476c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a4e6a59334d444a694d43316a596d49794c5452695a546b745954426c597930324f4441784d57566d4e4752694e5445756347526d&fich=c66702b0-cbb2-4be9-a0ec-68011ef4db51.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a4f4463344d6a51325979316c5a544d774c5451335a6d5574596a4d774f533034596d553559575a6b4d7a526a4d5755756347526d&fich=c878246c-ee30-47fe-b309-8be9afd34c1e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4f5455304d446b7a596930795a6a6b344c54526d4f5751744f446c6c4d7930314f4449774e474d794d4751334e446b756347526d&fich=f954093b-2f98-4f9d-89e3-58204c20d749.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793968596d55784d3252684d5330794f5449304c5451324e6a6b744f575977597930795a4451324e7a67354f5467354e4751756347526d&fich=abe13da1-2924-4669-9f0c-2d467899894d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-09-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793835596a41305a44526b4f43316b596d51784c54526a5a6a6774596d55794d7930334f54466c596a51794d7a45304d4455756347526d&fich=9b04d4d8-dbd1-4cf8-be23-791eb4231405.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2871",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-06-15",
+            "gp": "PSD",
+            "id": "303",
+            "motivoCessacao": null,
+            "nome": "João Prata"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2010-09-17",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-06-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764d6d51305a6a4d325a6a45744e6d55354d4330304d7a41774c574a6b59546b744e475a684d474d305a445932596a49354c6e426b5a673d3d&fich=2d4f36f1-6e90-4300-bda9-4fa0c4d66b29.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "35494",
+      "35629"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2010-09-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100917pln&url=l11/sl2/a2010/m09/&tI=02:25:22:668&drc=00:02:45:845"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100917pln&url=l11/sl2/a2010/m09/&tI=02:46:38:070&drc=00:01:11:637"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177318",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48",
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-09-18",
+                "pubLeg": "XI",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/003/2010-09-18/47?pgs=47-48,52&org=PLC"
+              }
+            ],
+            "Sumario": "Constituição de turmas - número máximo de alunos nos estabelecimentos de educação pré-escolar e dos ensino básico e secundário; Estabelece um número máximo de alunos por turma e por docente nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Pedido de redução do número máximo de alunos por turma e por professor.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-09-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100917pln&url=l11/sl2/a2010/m09/&tI=02:28:12:035&drc=00:04:36:211"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177319",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-09-18",
+                "pubLeg": "XI",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/003/2010-09-18/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Constituição de turmas - número máximo de alunos nos estabelecimentos de educação pré-escolar e dos ensino básico e secundário; Estabelece um número máximo de alunos por turma e por docente nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Pedido de redução do número máximo de alunos por turma e por professor.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-09-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100917pln&url=l11/sl2/a2010/m09/&tI=02:32:50:620&drc=00:03:54:844"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177320",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-09-18",
+                "pubLeg": "XI",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/003/2010-09-18/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Constituição de turmas - número máximo de alunos nos estabelecimentos de educação pré-escolar e dos ensino básico e secundário; Estabelece um número máximo de alunos por turma e por docente nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Pedido de redução do número máximo de alunos por turma e por professor.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-09-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100917pln&url=l11/sl2/a2010/m09/&tI=02:36:48:339&drc=00:04:34:728"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177321",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-09-18",
+                "pubLeg": "XI",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/003/2010-09-18/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Constituição de turmas - número máximo de alunos nos estabelecimentos de educação pré-escolar e dos ensino básico e secundário; Estabelece um número máximo de alunos por turma e por docente nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Pedido de redução do número máximo de alunos por turma e por professor.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2010-09-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100917pln&url=l11/sl2/a2010/m09/&tI=02:41:26:443&drc=00:05:09:565"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177322",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-09-18",
+                "pubLeg": "XI",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/003/2010-09-18/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Constituição de turmas - número máximo de alunos nos estabelecimentos de educação pré-escolar e dos ensino básico e secundário; Estabelece um número máximo de alunos por turma e por docente nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Pedido de redução do número máximo de alunos por turma e por professor.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12000",
+    "PetAssunto": "Pedido de redução do número máximo de alunos por turma e por professor.",
+    "PetDataEntrada": "2010-06-08",
+    "PeticoesAssociadas": null,
+    "PetId": "12000",
+    "PetLeg": "XI",
+    "PetNr": "70",
+    "PetNrAssinaturas": "18213",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1464",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-09-18",
+        "pubLeg": "XI",
+        "pubNr": "3",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/003/2010-09-18?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "558734",
+        "obs": null,
+        "pag": [
+          "8-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-06-18",
+        "pubLeg": "XI",
+        "pubNr": "147",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/147/2010-06-18/8?pgs=8&org=PLC"
+      }
+    ]
+  }
+}
