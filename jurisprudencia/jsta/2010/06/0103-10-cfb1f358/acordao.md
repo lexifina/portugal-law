@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2010-06-16, processo 0103/10
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0103/10
+
+**Data do Acordão:** 06/16/2010
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** CASIMIRO GONÇALVES
+
+**Descritores:** DEFERIMENTO TÁCITO; BENEFÍCIOS FISCAIS; TRANSMISSÃO DE BENEFÍCIOS FISCAIS; IRC
+
+**Nº Convencional:** JSTA00066486
+
+**Nº do Documento:** SA2201006160103
+
+**Data de Entrada:** 02/12/2010
+
+**Recorrente:** A...
+
+**Recorrido 1:** MFIN
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC TCA SUL.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR FISC - IRC.
+
+**Legislação Nacional:** EBF89 ART2 N2 ART11 A ART13.; CIRC ART69 N2 N7 N8 NAS REDACÇÕES DO DL 221/2001 DE 2001/07/10 E L 32 B/2002 DE 2002/12/30.; CPA91 ART108 ART140 ART141.
+
+**Jurisprudência Nacional:** AC STA PLENO PROC548/08 DE 2010/01/20.; AC STA PROC1097/09 DE 2010/01/27.
+
+**Referência a Doutrina:** MANUEL ANSELMO TORRES A RESPONSABILIDADE DOS PREJUÍZOS FISCAIS IN SALDANHA SANCHES E OUTROS REESTRUTURAÇÃO DE EMPRESAS E LIMITES DO PLANEAMENTO FISCAL PAG114 PAG115.; REAVALIAÇÃO DOS BENEFÍCIOS FISCAIS IN CTF N198 PAG95 N118 PAG173 PAG174 N188 PAG196.; NUNO SÁ GOMES MANUAL DE DIREITO FISCAL VI PAG323 E TEORIA GERAL DOS BENEFÍCIOS FISCAIS IN CTF N165.; CASALTA NABAIS DIREITO FISCAL PAG368.; FRANCISCO SOUSA DA CÂMARA AS OPERAÇÕES DE REESTRUTURAÇÃO E A CLAUSULA ANTIABUSO IN SALDANHA SANCHES REESTRUTURAÇÃO DE EMPRESAS E LIMITES DO PLANEAMENTO FISCAL PAG71 PAG110.; BAPTISTA LOBO NEUTRALIDADE FISCAL DAS FUSÕES BENEFÍCIO FISCAL OU DESAGRAVAMENTO ESTRUTURAL? COROLÁRIOS AO NÍVEL DO REGIME DE TRANSMISSIBILIDADE DE PREJUÍZOS IN FISCALIDADE N26/27 PAG29 PAG61.
+
+## Sumário
+
+Os elementos mencionados no art. 11°-A do EBF destinados a averiguar se deixou de efectuar-se o pagamento de contribuições relativas ao sistema da segurança social, não integram os elementos exigidos no nº 7 do art. 69º do CIRC para efeitos da verificação do deferimento tácito ali também referido.
