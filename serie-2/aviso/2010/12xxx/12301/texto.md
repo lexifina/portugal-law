@@ -1,0 +1,9 @@
+Aviso n.º 12301/2010
+Revisão do Plano de Urbanização de Vandoma Norte
+Celso Manuel Gomes Ferreira, Presidente da Câmara Municipal do Concelho de Paredes
+Torna público que, em conformidade com a deliberação do Executivo desta Câmara Municipal, tomada na sua reunião ordinária de 2 de Junho de 2010, nos termos e para efeitos do preconizado na legislação aplicável, foi determinada a revisão do Plano de Urbanização de Vandoma Norte, (estabelecendo 60 dias úteis como prazo máximo para a elaboração, acrescidos dos restantes períodos de suspensão legalmente previstos, designadamente: para a concertação, discussão pública, ponderação, aprovação, publicação e depósito) e a abertura do período de participação preventiva.
+A Revisão do Plano de Urbanização de Vandoma Norte, visa reconsiderar e reapreciar as opções do plano, na totalidade da área de abrangência, transpostas nas suas peças escritas e gráficas, designadamente no que concerne aos equipamentos desportivos, à Reserva Ecológica Nacional, às vias estruturantes municipais e à Zona Industrial.
+Qualquer interessado poderá apresentar, por escrito, sugestões ou observações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo processo de elaboração, durante os 15 dias úteis a contar do dia seguinte ao da publicação no Diário da República.
+As sugestões ou observações referidas no ponto anterior, serão prestadas junto da Divisão de Planeamento (Sala de Atendimento ao Público), desta Câmara municipal, sito no Parque José Guilherme, 4580-229 Paredes, nas horas normais de expediente, desde as 9 horas às 12 horas e 30 minutos e das 14 horas às 16 horas e 30 minutos ou via Internet conforme indicações no site www.cm-paredes.pt.
+Paredes, 11 de Junho de 2010. - O Presidente da Câmara, Celso Manuel Gomes Ferreira (Dr.).
+203372973
