@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 2010-06-22, processo 0413/10
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0413/10
+
+**Data do Acordão:** 06/22/2010
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** ANTÓNIO MADUREIRA
+
+**Descritores:** CÂMARA MUNICIPAL; IMPOSIÇÃO DE OBRAS; INTIMAÇÃO PARA FAZER OBRAS; OBRAS A EXPENSAS DO PROPRIETÁRIO; OBRAS DE REPARAÇÃO; VISTORIA; PRETERIÇÃO DE FORMALIDADE LEGAL; PRINCÍPIO DO APROVEITAMENTO DO ACTO ADMINISTRATIVO; NOMEAÇÃO DE PERITOS
+
+**Nº Convencional:** JSTA00066495
+
+**Nº do Documento:** SA1201006220413
+
+**Data de Entrada:** 05/20/2010
+
+**Recorrente:** A...
+
+**Recorrido 1:** CM DE MATOSINHOS
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAF PORTO DE 2009/11/30.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR URB - OBRAS.; DIR ADM CONT - ACTO.
+
+**Legislação Nacional:** ETAF84 ART6.; DL 48051 DE 1967/11/21 ART7.; CPA91 ART94 ART95 N1 N2.; DL 100/84 DE 1984/03/29 ART51 N2 D.
+
+**Jurisprudência Nacional:** AC STA PROC800/02 DE 2002/06/25.; AC STA PROC1308/02 DE 2002/10/08.
+
+## Sumário
+
+I - As vistorias para a realização de obras em edifícios, em virtude dos mesmos constituírem perigo para a saúde e segurança das pessoas, que às Câmaras Municipais compete mandar fazer [artigo 51.º, n.º 2, alínea d) do DL n.º 100/84, de 29/3, na redacção dada pela Lei n.º 18/91, de 12/6], são efectuadas por peritos, nomeados de acordo com os números 1 e 2 do artigo 94.º do CPA.
+
+II - Tendo a Câmara designado peritos nos termos do n.º 1 do referido preceito para a realização de uma vistoria para o referenciado fim, tinha de notificar os interessados da realização da mesma, nos termos do disposto no artigo 95.º do CPA, permitindo-lhe a designação de peritos em número igual ao por ela indicado (artigo 96.º do mesmo diploma).
+
+III - Não o tendo feito, preteriu uma formalidade, geradora de vício de forma, que determina a ilegalidade dessa vistoria e a anulação do acto que foi proferido no final do respectivo procedimento.
+
+IV - Não evita essa anulação o facto de, no decurso de recurso contencioso para anulação de um acto que mandou efectuar obras de conservação com preterição da formalidade referida nos números anteriores, ter sido feita uma perícia colegial, em que interveio um perito nomeado pelo particular, na qual foi considerado que o prédio vistoriado apresentava perigo para a segurança das pessoas.
+
+V - É que, tendo essa perícia sido efectuada mais de cinco anos após a realização da vistoria, e não se reportando ela à data dessa vistoria mas sim à data da realização da perícia, e sendo público e notório que um dos factores de desgaste das condições de segurança dos edifícios é o decurso do tempo, a diferença temporal entre os dois actos não permite concluir que o resultado da vistoria era o único legalmente possível ou que com o cumprimento das formalidades preteridas seria o mesmo, sendo pelo menos legítima a dúvida, pelo que, não é possível atribuir efeitos não invalidantes ao vício decorrente dessa preterição.
