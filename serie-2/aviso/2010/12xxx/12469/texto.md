@@ -1,0 +1,11 @@
+Aviso n.º 12469/2010
+Alteração do Plano de Pormenor da Várzea de Porto de Mós
+João Salgueiro, Presidente da Câmara Municipal de Porto de Mós:
+Torna público que, nos termos e para os efeitos do disposto no n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, a Câmara Municipal deliberou em reunião ordinária realizada em 2 de Junho de 2010, elaborar a Alteração do Plano de Pormenor da Várzea de Porto de Mós, aprovar os termos de referência que fundamentam a sua oportunidade e definem os seus objectivos e estabelecer um prazo de 30 dias para a sua elaboração.
+Para efeitos do disposto no Decreto-Lei n.º 232/2007, de 15 de Junho e, de acordo com o conteúdo dos termos de referência aprovados, foi deliberado a não sujeição da Alteração do Plano a procedimento de Avaliação Ambiental Estratégica.
+Mais se torna público que, a Câmara Municipal deliberou ainda, nos termos do n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, para efeitos de participação pública preventiva, estabelecer o prazo de 15 dias úteis, contados a partir da data de publicação da deliberação no Diário da República, durante o qual todos os interessados poderão formular sugestões e ou apresentar informações que possam ser consideradas no âmbito do respectivo procedimento de elaboração da Alteração do Plano de Pormenor da Várzea de Porto de Mós.
+Tais contributos devem ser dirigidos à Câmara Municipal de Porto de Mós, Divisão Planeamento, em carta fechada, contendo no exterior do envelope - direito à participação - Alteração do Plano de Pormenor da Várzea de Porto de Mós.
+Os termos de referência da elaboração da Alteração do Plano de Pormenor da Várzea de Porto de Mós estão disponíveis para consulta no sítio da Internet do Município www.municipio-portodemos.pt e, no horário normal de expediente, na Divisão de Planeamento, no Edifício dos Paços do Concelho, sito na Praça da República, em Porto de Mós.
+E para constar, se publica o presente aviso e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+Porto de Mós, 16 de Junho de 2010. - O Presidente da Câmara Municipal, João Salgueiro.
+203380716
