@@ -1,0 +1,23 @@
+Resolução da Assembleia da República n.º 57/2010
+Reforça os meios e as competências da Unidade Técnica de Apoio Orçamental e procede à terceira alteração à Resolução da Assembleia da República n.º 20/2004, de 16 de Fevereiro (estrutura e competências dos serviços da Assembleia da República).
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, o seguinte:
+Artigo único
+O artigo 10.º-A da Resolução da Assembleia da República n.º 20/2004, de 16 de Fevereiro, aditado pela Resolução da Assembleia da República n.º 53/2006, de 7 de Agosto, passa a ter a seguinte redacção:
+«Artigo 10.º-A
+[...]
+1 - ...
+a) ...
+b) ...
+c) Acompanhamento técnico da execução orçamental, para o conjunto das administrações públicas, incluindo na análise a elaborar os seguintes elementos (em valor absoluto para as grandes rubricas e também em percentagem do PIB para o saldo orçamental):
+i) Orçamento aprovado;
+ii) Execução mensal e cumulativa no final do período em análise;
+iii) Projecção para o final do ano;
+d) ...
+e) ...
+f) ...
+g) Realização de reportes trimestrais sobre o endividamento contraído e investimento realizado em todas as entidades e empresas do sector público e à administração regional e local.
+2 - A UTAO é composta por 8 a 10 técnicos, a recrutar através de mobilidade interna ou cedência de interesse público, nos termos da Lei de Organização e Funcionamento dos Serviços da Assembleia da República (LOFAR) e demais legislação aplicável.
+3 - ...
+4 - ...»
+Aprovada em 9 de Junho de 2010.
+O Presidente da Assembleia da República, Jaime Gama.
