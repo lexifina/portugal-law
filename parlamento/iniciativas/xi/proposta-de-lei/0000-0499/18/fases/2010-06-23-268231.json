@@ -1,0 +1,414 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "18",
+    "id": "35269",
+    "titulo": "Regula certos aspectos das condições de trabalho dos trabalhadores que prestam serviços transfronteiriços no sector ferroviário, transpondo a Directiva n.º 2005/47/CE do Conselho, de 18 de Julho de 2005."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2010-06-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7523",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2010-06-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "35271",
+        "leg": "XI",
+        "nr": "20",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1420",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-06-24",
+            "pubLeg": "XI",
+            "pubNr": "71",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/071/2010-06-24?org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Estabelece o regime sancionatório aplicável à violação das normas respeitantes aos tempos de condução, pausas e tempos de repouso e ao controlo da utilização de tacógrafos, na actividade de transporte rodoviário, transpondo a Directiva n.º 2006/22/CE do Parlamento Europeu e do Conselho, de 15 de Março de 2006, alterada pela Directiva n.º 2009/5/CE da Comissão, de 30 de Janeiro de 2009"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-06-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100623pln&url=l11/sl1/a2010/m06/&tI=03:23:32:030&drc=00:03:18:385"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100623pln&url=l11/sl1/a2010/m06/&tI=03:47:44:349&drc=00:02:18:118"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DA   SEGURANÇA  SOCIAL",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Marques"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176449",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57",
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-24",
+                "pubLeg": "XI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/071/2010-06-24/56?pgs=56-57,62-63&org=PLC"
+              }
+            ],
+            "sumario": "Regula certos aspectos das condições de trabalho dos trabalhadores que prestam serviços transfronteiriços no sector ferroviário, transpondo a Directiva n.º 2005/47/CE do Conselho, de 18 de Julho de 2005; Estabelece o regime sancionatório aplicável à violação das normas respeitantes aos tempos de condução, pausas e tempos de repouso e ao controlo da utilização de tacógrafos, na actividade de transporte rodoviário, transpondo a Directiva n.º 2006/22/CE do Parlamento Europeu e do Conselho, de 15 de Março de 2006, alterada pela Directiva n.º 2009/5/CE da Comissão, de 30 de Janeiro de 2009",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4169",
+                "nome": "Carina Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100623pln&url=l11/sl1/a2010/m06/&tI=03:26:53:828&drc=00:02:27:947"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176450",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-24",
+                "pubLeg": "XI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/071/2010-06-24/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "sumario": "Regula certos aspectos das condições de trabalho dos trabalhadores que prestam serviços transfronteiriços no sector ferroviário, transpondo a Directiva n.º 2005/47/CE do Conselho, de 18 de Julho de 2005; Estabelece o regime sancionatório aplicável à violação das normas respeitantes aos tempos de condução, pausas e tempos de repouso e ao controlo da utilização de tacógrafos, na actividade de transporte rodoviário, transpondo a Directiva n.º 2006/22/CE do Parlamento Europeu e do Conselho, de 15 de Março de 2006, alterada pela Directiva n.º 2009/5/CE da Comissão, de 30 de Janeiro de 2009",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2165",
+                "nome": "Jorge Fão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100623pln&url=l11/sl1/a2010/m06/&tI=03:29:23:024&drc=00:04:09:766"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-24",
+                "pubLeg": "XI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/071/2010-06-24/58?pgs=58&org=PLC"
+              }
+            ],
+            "sumario": "Regula certos aspectos das condições de trabalho dos trabalhadores que prestam serviços transfronteiriços no sector ferroviário, transpondo a Directiva n.º 2005/47/CE do Conselho, de 18 de Julho de 2005; Estabelece o regime sancionatório aplicável à violação das normas respeitantes aos tempos de condução, pausas e tempos de repouso e ao controlo da utilização de tacógrafos, na actividade de transporte rodoviário, transpondo a Directiva n.º 2006/22/CE do Parlamento Europeu e do Conselho, de 15 de Março de 2006, alterada pela Directiva n.º 2009/5/CE da Comissão, de 30 de Janeiro de 2009",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4059",
+                "nome": "Heitor Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100623pln&url=l11/sl1/a2010/m06/&tI=03:33:34:851&drc=00:04:40:128"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176452",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-24",
+                "pubLeg": "XI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/071/2010-06-24/59?pgs=59&org=PLC"
+              }
+            ],
+            "sumario": "Regula certos aspectos das condições de trabalho dos trabalhadores que prestam serviços transfronteiriços no sector ferroviário, transpondo a Directiva n.º 2005/47/CE do Conselho, de 18 de Julho de 2005; Estabelece o regime sancionatório aplicável à violação das normas respeitantes aos tempos de condução, pausas e tempos de repouso e ao controlo da utilização de tacógrafos, na actividade de transporte rodoviário, transpondo a Directiva n.º 2006/22/CE do Parlamento Europeu e do Conselho, de 15 de Março de 2006, alterada pela Directiva n.º 2009/5/CE da Comissão, de 30 de Janeiro de 2009",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100623pln&url=l11/sl1/a2010/m06/&tI=03:38:16:791&drc=00:04:31:650"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-24",
+                "pubLeg": "XI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/071/2010-06-24/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Regula certos aspectos das condições de trabalho dos trabalhadores que prestam serviços transfronteiriços no sector ferroviário, transpondo a Directiva n.º 2005/47/CE do Conselho, de 18 de Julho de 2005; Estabelece o regime sancionatório aplicável à violação das normas respeitantes aos tempos de condução, pausas e tempos de repouso e ao controlo da utilização de tacógrafos, na actividade de transporte rodoviário, transpondo a Directiva n.º 2006/22/CE do Parlamento Europeu e do Conselho, de 15 de Março de 2006, alterada pela Directiva n.º 2009/5/CE da Comissão, de 30 de Janeiro de 2009",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100623pln&url=l11/sl1/a2010/m06/&tI=03:42:54:034&drc=00:04:47:065"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-24",
+                "pubLeg": "XI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/071/2010-06-24/60?pgs=60-62&org=PLC"
+              }
+            ],
+            "sumario": "Regula certos aspectos das condições de trabalho dos trabalhadores que prestam serviços transfronteiriços no sector ferroviário, transpondo a Directiva n.º 2005/47/CE do Conselho, de 18 de Julho de 2005; Estabelece o regime sancionatório aplicável à violação das normas respeitantes aos tempos de condução, pausas e tempos de repouso e ao controlo da utilização de tacógrafos, na actividade de transporte rodoviário, transpondo a Directiva n.º 2006/22/CE do Parlamento Europeu e do Conselho, de 15 de Março de 2006, alterada pela Directiva n.º 2009/5/CE da Comissão, de 30 de Janeiro de 2009",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "268231",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "521538",
+        "obs": null,
+        "pag": [
+          "56-63"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-06-24",
+        "pubLeg": "XI",
+        "pubNr": "71",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/071/2010-06-24/56?pgs=56-63&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
