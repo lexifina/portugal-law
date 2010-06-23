@@ -1,0 +1,10 @@
+Resolução da Assembleia da República n.º 56/2010
+Colocação dos especialistas de medicina geral e familiar
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que, após comprovação da necessidade de recrutamento dos profissionais de saúde, especialistas em medicina geral e familiar, através de despacho ministerial competente:
+1 - Realize os concursos de colocação dos recém-especialistas em medicina geral e familiar na carreira médica, permitindo a sua integração no Serviço Nacional de Saúde de forma atempada, ou seja, logo após a verificação da necessidade do preenchimento das vagas carenciadas e no prazo mais curto possível relativamente à época de avaliação do internato médico.
+2 - Uniformize a nível nacional as necessárias regras e procedimentos concursais, com vista a garantir os princípios da igualdade de oportunidades no acesso.
+3 - Determine que os concursos sejam de âmbito nacional, podendo ser admitidos todos os interessados que cumpram os requisitos, mas independentemente da região onde concluíram o internato médico.
+4 - Elimine os critérios de valorização para efeitos de concurso que tenham por base a integração, ou não, numa Unidade de Saúde Familiar (USF).
+5 - Publique regularmente, anualmente ou de dois em dois anos, o mapa de necessidades de médicos de medicina geral e familiar em termos nacionais e regionais, permitindo uma programação adequada da abertura de vagas a concurso, nomeadamente, em zonas carenciadas, e de modo a orientar as opções individuais e profissionais de cada licenciado em Medicina.
+Aprovada em 28 de Maio de 2010.
+O Presidente da Assembleia da República, Jaime Gama.
