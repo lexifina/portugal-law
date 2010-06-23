@@ -10,6 +10,8 @@ b) As entidades gestoras de instituições de investimento colectivo autorizadas
 
 c) As instituições com funções correspondentes às referidas nas alíneas anteriores que estejam autorizadas a exercer em Portugal qualquer actividade de intermediação financeira.
 
+d) As sociedades de investimento mobiliário e as sociedades de investimento imobiliário.
+
 2 - São empresas de investimento em instrumentos financeiros:
 
 a) As sociedades corretoras;
