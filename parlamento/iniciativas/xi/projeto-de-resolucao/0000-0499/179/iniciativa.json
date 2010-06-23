@@ -1,0 +1,118 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "tipo": "Projeto de Resolução",
+  "numero": "179",
+  "id": "35458",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2010-06-23",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2010-09-14",
+    "DataInicioleg": "2009-10-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "BE",
+        "idCadastro": "2194",
+        "nome": "Cecília Honório"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3926",
+        "nome": "Pedro Filipe Soares"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4059",
+        "nome": "Heitor Sousa"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "803",
+        "nome": "João Semedo"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4161",
+        "nome": "Catarina Martins"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2191",
+        "nome": "Helena Pinto"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "839",
+        "nome": "Pedro Soares"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2156",
+        "nome": "Mariana Aiveca"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "1651",
+        "nome": "Francisco Louçã"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2433",
+        "nome": "José Moura Soeiro"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "1652",
+        "nome": "Fernando Rosas"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "263",
+        "nome": "Luís Fazenda"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4174",
+        "nome": "José Gusmão"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "1941",
+        "nome": "Ana Drago"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "BE"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "35458",
+    "IniLeg": "XI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a4d574935596a63304f533031597a59354c54526a4d6a4574596d5933597931694d44426b4f475a694d6a5935595749755a47396a&fich=c1b9b749-5c69-4c21-bf7c-b00d8fb269ab.doc&Inline=true",
+    "IniNr": "179",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo que recuse o visto prévio da União Europeia sobre os Orçamentos de Estado Nacionais",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
