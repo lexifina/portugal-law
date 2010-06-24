@@ -1,0 +1,658 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "15",
+    "id": "34823",
+    "titulo": "Revoga os diplomas reguladores do dispositivo electrónico de matrícula."
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2010-06-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7567",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2010-06-24",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "34845",
+        "leg": "XI",
+        "nr": "26",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1442",
+            "obs": null,
+            "pag": [
+              "63-63",
+              "67-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-06-25",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,67-70&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1442",
+            "obs": null,
+            "pag": [
+              "63-63",
+              "67-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-06-25",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,67-70&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1442",
+            "obs": null,
+            "pag": [
+              "63-63",
+              "67-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-06-25",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,67-70&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revoga o Decreto-Lei n.º 111/2009, de 18 de Maio, o Decreto-Lei n.º 112/2009, de 18 de Maio, e o Decreto-Lei n.º 113/2009, de 18 de Maio, referentes à regulamentação do uso de dispositivos electrónicos de matrículas em veículos automóveis, seus reboques, motociclos, ciclomotores, quadriciclos, máquinas industriais e máquinas industriais rebocáveis."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "34854",
+        "leg": "XI",
+        "nr": "28",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1442",
+            "obs": null,
+            "pag": [
+              "63-63",
+              "67-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-06-25",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,67-70&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1442",
+            "obs": null,
+            "pag": [
+              "63-63",
+              "67-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-06-25",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,67-70&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1442",
+            "obs": null,
+            "pag": [
+              "63-63",
+              "67-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-06-25",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,67-70&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revoga o sistema de Identificação Electrónica de Veículos e o Dispositivo Electrónico de Matrícula."
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35416",
+        "leg": "XI",
+        "nr": "320",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1442",
+            "obs": null,
+            "pag": [
+              "63-63",
+              "67-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-06-25",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,67-70&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1442",
+            "obs": null,
+            "pag": [
+              "63-63",
+              "67-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-06-25",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,67-70&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1442",
+            "obs": null,
+            "pag": [
+              "63-63",
+              "67-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-06-25",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,67-70&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revoga os Decretos-Lei n.º 111/2009, de 18 de Maio, n.º 112/2009, de 18 de Maio, e o n.º 113/2009, de 18 de Maio, referentes aos sistema de identificação electrónica de veículos e o dispositivo electrónico de matricula."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-06-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3236",
+                "nome": "Defensor Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63",
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-25",
+                "pubLeg": "XI",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,67-68&org=PLC"
+              }
+            ],
+            "sumario": "Revogação do Decreto-Lei n.º 111/2009, de 18 de Maio, do Decreto-Lei n.º 112/2009, de 18 de Maio, e do Decreto-Lei n.º 113/2009, de 18 de Maio, referentes à regulamentação do uso de dispositivos electrónicos de matrículas em veículos automóveis, seus reboques, motociclos, ciclomotores, quadriciclos, máquinas industriais e máquinas industriais rebocáveis",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "148",
+                "nome": "Marques Júnior"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63",
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-25",
+                "pubLeg": "XI",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,70&org=PLC"
+              }
+            ],
+            "sumario": "Revogação do Decreto-Lei n.º 111/2009, de 18 de Maio, do Decreto-Lei n.º 112/2009, de 18 de Maio, e do Decreto-Lei n.º 113/2009, de 18 de Maio, referentes à regulamentação do uso de dispositivos electrónicos de matrículas em veículos automóveis, seus reboques, motociclos, ciclomotores, quadriciclos, máquinas industriais e máquinas industriais rebocáveis",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1683",
+                "nome": "José Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63",
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-25",
+                "pubLeg": "XI",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,70&org=PLC"
+              }
+            ],
+            "sumario": "Revogação do Decreto-Lei n.º 111/2009, de 18 de Maio, do Decreto-Lei n.º 112/2009, de 18 de Maio, e do Decreto-Lei n.º 113/2009, de 18 de Maio, referentes à regulamentação do uso de dispositivos electrónicos de matrículas em veículos automóveis, seus reboques, motociclos, ciclomotores, quadriciclos, máquinas industriais e máquinas industriais rebocáveis",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2107",
+                "nome": "Glória Araújo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63",
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-25",
+                "pubLeg": "XI",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,68-69&org=PLC"
+              }
+            ],
+            "sumario": "Revogação do Decreto-Lei n.º 111/2009, de 18 de Maio, do Decreto-Lei n.º 112/2009, de 18 de Maio, e do Decreto-Lei n.º 113/2009, de 18 de Maio, referentes à regulamentação do uso de dispositivos electrónicos de matrículas em veículos automóveis, seus reboques, motociclos, ciclomotores, quadriciclos, máquinas industriais e máquinas industriais rebocáveis",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4135",
+                "nome": "Nuno Araújo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63",
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-25",
+                "pubLeg": "XI",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,68-69&org=PLC"
+              }
+            ],
+            "sumario": "Revogação do Decreto-Lei n.º 111/2009, de 18 de Maio, do Decreto-Lei n.º 112/2009, de 18 de Maio, e do Decreto-Lei n.º 113/2009, de 18 de Maio, referentes à regulamentação do uso de dispositivos electrónicos de matrículas em veículos automóveis, seus reboques, motociclos, ciclomotores, quadriciclos, máquinas industriais e máquinas industriais rebocáveis",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2165",
+                "nome": "Jorge Fão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63",
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-25",
+                "pubLeg": "XI",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,69-70&org=PLC"
+              }
+            ],
+            "sumario": "Revogação do Decreto-Lei n.º 111/2009, de 18 de Maio, do Decreto-Lei n.º 112/2009, de 18 de Maio, e do Decreto-Lei n.º 113/2009, de 18 de Maio, referentes à regulamentação do uso de dispositivos electrónicos de matrículas em veículos automóveis, seus reboques, motociclos, ciclomotores, quadriciclos, máquinas industriais e máquinas industriais rebocáveis",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "728",
+                "nome": "Rosalina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63",
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-06-25",
+                "pubLeg": "XI",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/072/2010-06-25/63?pgs=63,69-70&org=PLC"
+              }
+            ],
+            "sumario": "Revogação do Decreto-Lei n.º 111/2009, de 18 de Maio, do Decreto-Lei n.º 112/2009, de 18 de Maio, e do Decreto-Lei n.º 113/2009, de 18 de Maio, referentes à regulamentação do uso de dispositivos electrónicos de matrículas em veículos automóveis, seus reboques, motociclos, ciclomotores, quadriciclos, máquinas industriais e máquinas industriais rebocáveis",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "268694",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "524314",
+        "obs": null,
+        "pag": [
+          "62-62"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-04-27",
+        "pubLeg": "XI",
+        "pubNr": "72",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/11/01/072/2010-04-27/62?pgs=62&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2010-06-24",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>PS</I>",
+        "id": "55965",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "72",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
