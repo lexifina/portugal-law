@@ -1,0 +1,60 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "tipo": "Proposta de Resolução",
+  "numero": "18",
+  "id": "35439",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2010-06-25",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2010-09-14",
+    "DataInicioleg": "2009-10-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595338334e4449344d6a4e6b595330335a5755304c5451794f546374596a4e6a5979316959545a684e474533597a6332595759755a47396a&fich=742823da-7ee4-4297-b3cc-ba6a4a7c76af.doc&Inline=true",
+        "anexoNome": "Acordo PT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595338345a574577596a4a684f533031597a67314c54526b4f446b7459544a6d4e7930334d574a6b4d4749774e475930596a51755a47396a&fich=8ea0b2a9-5c85-4d89-a2f7-71bd0b04f4b4.doc&Inline=true",
+        "anexoNome": "Acordo ING"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c4d546330596a6c6d5a693034597a51794c545269597a63744f444531596930324e5749784d6a41324e3259774f5441755a47396a&fich=e174b9ff-8c42-4bc7-815b-65b12067f090.doc&Inline=true",
+        "anexoNome": "Protocolo PT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a4e6a4e6b593245345953307a5a4749784c545134595459745954566c4f53316859324a6859574d324e574d324d6d55755a47396a&fich=c63dca8a-3db1-48a6-a5e9-acbaac65c62e.doc&Inline=true",
+        "anexoNome": "Protocolo ING"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "35439",
+    "IniLeg": "XI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595339694e474a6b5a574d31597930354f5441304c5451314e6d4974595441334d7930334d6a497a5a574d344e325a6c596a49755a47396a&fich=b4bdec5c-9904-456b-a073-7223ec87feb2.doc&Inline=true",
+    "IniNr": "18",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova o Acordo entre a República Portuguesa e o Governo das Bermudas (Conforme Autorizado pela Carta de Outorga do Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte) sobre Troca de Informações em Matéria Fiscal assinado, em Paget Parish, em 10 de Maio de 2010.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
