@@ -18,7 +18,7 @@ d) A ocupação de edifícios ou suas fracções autónomas sem autorização de
 
 e) As falsas declarações dos autores e coordenador de projectos no termo de responsabilidade relativamente à observância das normas técnicas gerais e específicas de construção, bem como das disposições legais e regulamentares aplicáveis ao projecto;
 
-f) As falsas declarações no termo de responsabilidade do director técnico da obra e do director de fiscalização de obra ou de outros técnicos relativamente:
+f) As falsas declarações no termo de responsabilidade do director de obra e do director de fiscalização de obra ou de outros técnicos relativamente:
 
 i) À conformidade da execução da obra com o projecto aprovado e com as condições da licença e comunicação prévia admitida;
 
@@ -38,7 +38,7 @@ m) A falta dos registos do estado de execução das obras no livro de obra;
 
 n) A não remoção dos entulhos e demais detritos resultantes da obra nos termos do artigo 86.º;
 
-o) A ausência de requerimento a solicitar à câmara municipal o averbamento de substituição do requerente, do autor de projecto ou director de fiscalização de obra, bem como do titular de alvará de licença ou apresentante da comunicação prévia;
+o) A ausência de requerimento a solicitar à câmara municipal o averbamento de substituição do requerente, do autor de projecto, de director de obra ou director de fiscalização de obra, do titular do alvará de construção ou do título de registo emitidos pelo InCI, I. P., bem como do titular de alvará de licença ou apresentante da comunicação prévia;
 
 p) A ausência do número de alvará de loteamento ou a admissão da comunicação prévia nos anúncios ou em quaisquer outras formas de publicidade à alienação dos lotes de terreno, de edifícios ou fracções autónomas nele construídos;
 
@@ -46,7 +46,7 @@ q) A não comunicação à câmara municipal dos negócios jurídicos de que res
 
 r) A realização de operações urbanísticas sujeitas a comunicação prévia sem que esta haja sido efectuada e admitida;
 
-s) A não conclusão das operações urbanísticas referidas nos n.os 2 e 3 do artigo 89.º nos prazos fixados para o efeito;
+s) A não conclusão das operações urbanísticas referidas nos n.ºs 2 e 3 do artigo 89.º nos prazos fixados para o efeito;
 
 t) A deterioração dolosa da edificação pelo proprietário ou por terceiro ou a violação grave do dever de conservação.
 
@@ -62,7 +62,7 @@ t) A deterioração dolosa da edificação pelo proprietário ou por terceiro ou
 
 7 - A contra-ordenação prevista nas alíneas o) e q) do n.º 1 é punível com coima graduada de (euro) 100 até ao máximo de (euro) 2500, no caso de pessoa singular, e de (euro) 500 até (euro) 10 000, no caso de pessoa colectiva.
 
-8 - Quando as contra-ordenações referidas no n.º 1 sejam praticadas em relação a operações urbanísticas que hajam sido objecto de comunicação prévia nos termos do presente diploma, os montantes máximos das coimas referidos nos n.os 3 a 5 anteriores são agravados em (euro) 50 000 e os das coimas referidas nos n.os 6 e 7 em (euro) 25 000.
+8 - Quando as contra-ordenações referidas no n.º 1 sejam praticadas em relação a operações urbanísticas que hajam sido objecto de comunicação prévia nos termos do presente diploma, os montantes máximos das coimas referidos nos n.ºs 3 a 5 anteriores são agravados em (euro) 50 000 e os das coimas referidas nos n.ºs 6 e 7 em (euro) 25 000.
 
 9 - A tentativa e a negligência são puníveis.
 

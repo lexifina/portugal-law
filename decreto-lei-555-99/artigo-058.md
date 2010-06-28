@@ -2,11 +2,11 @@
 
 ### Prazo de execução
 
-1 - A câmara municipal fixa, com o deferimento do pedido de licenciamento das obras referidas nas alíneas c) a g) do n.º 2 do artigo 4.º, o prazo de execução da obra, em conformidade com a programação proposta pelo requerente.
+1 - A câmara municipal fixa, com o deferimento do pedido de licenciamento das obras referidas nas alíneas c) a f) do n.º 2 do artigo 4.º, o prazo de execução da obra, em conformidade com a programação proposta pelo requerente.
 
-2 - Nas situações previstas nas alíneas c) a h) do n.º 1 do artigo 6.º, o prazo de execução é o fixado pelo interessado, não podendo, no entanto, ultrapassar os limites fixados mediante regulamento municipal.
+2 - Nas situações previstas no n.º 4 do artigo 4.º, o prazo de execução é o fixado pelo interessado, não podendo, no entanto, ultrapassar os limites fixados mediante regulamento municipal.
 
-3 - Os prazos referidos nos números anteriores começam a contar da data de emissão do respectivo alvará, da data do pagamento ou do depósito das taxas ou da caução nas situações previstas no artigo 113.º ou do fim do prazo a que se refere o n.º 1 do artigo 36.º, na hipótese de comunicação prévia.
+3 - Os prazos referidos nos números anteriores começam a contar da data de emissão do respectivo alvará, da data do pagamento ou do depósito das taxas ou da caução nas situações previstas no artigo 113.º ou do pagamento das taxas a que se refere o n.º 2 do artigo 36.º-A, na hipótese de comunicação prévia.
 
 4 - O prazo para a conclusão da obra pode ser alterado por motivo de interesse público, devidamente fundamentado, no acto de deferimento a que se refere o n.º 1 ou, na situação prevista no n.º 2, até ao fim do prazo previsto no n.º 1 do artigo 36.º
 

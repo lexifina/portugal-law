@@ -2,7 +2,7 @@
 
 ### Execução por fases
 
-1 - O requerente pode optar pela execução faseada da obra, devendo para o efeito, em caso de operação urbanística sujeita a licenciamento, identificar no projecto de arquitectura os trabalhos incluídos em cada uma das fases e indicar os prazos, a contar da data de aprovação daquele projecto, em que se propõe requerer a aprovação dos projectos da engenharia de especialidades relativos a cada uma dessas fases, podendo a câmara municipal fixar diferentes prazos por motivo de interesse público devidamente fundamentado.
+1 - O requerente pode optar pela execução faseada da obra, devendo para o efeito, em caso de operação urbanística sujeita a licenciamento, identificar no projecto de arquitectura os trabalhos incluídos em cada uma das fases e indicar os prazos, a contar da data de aprovação daquele projecto, em que se propõe requerer a aprovação dos projectos das especialidades e outros estudos relativos a cada uma dessas fases, podendo a câmara municipal fixar diferentes prazos por motivo de interesse público devidamente fundamentado.
 
 2 - Cada fase deve corresponder a uma parte da edificação passível de utilização autónoma.
 

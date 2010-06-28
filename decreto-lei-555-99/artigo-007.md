@@ -2,13 +2,13 @@
 
 ### Operações urbanísticas promovidas pela Administração Pública
 
-1 - Estão igualmente isentas de licença:
+1 - Estão igualmente isentas de controlo prévio:
 
 a) As operações urbanísticas promovidas pelas autarquias locais e suas associações em área abrangida por plano municipal de ordenamento do território;
 
 b) As operações urbanísticas promovidas pelo Estado relativas a equipamentos ou infra-estruturas destinados à instalação de serviços públicos ou afectos ao uso directo e imediato do público, sem prejuízo do disposto no n.º 4;
 
-c) As obras de edificação ou demolição promovidas pelos institutos públicos que tenham por atribuições específicas a salvaguarda do património cultural ou a promoção e gestão do parque habitacional do Estado e que estejam directamente relacionadas com a prossecução destas atribuições;
+c) As obras de edificação ou demolição promovidas por institutos públicos ou entidades da Administração Pública que tenham por atribuições específicas a salvaguarda do património cultural ou a promoção e gestão do parque habitacional do Estado e que estejam directamente relacionadas com a prossecução destas atribuições;
 
 d) As obras de edificação ou demolição promovidas por entidades públicas que tenham por atribuições específicas a administração das áreas portuárias ou do domínio público ferroviário ou aeroportuário, quando realizadas na respectiva área de jurisdição e directamente relacionadas com a prossecução daquelas atribuições;
 

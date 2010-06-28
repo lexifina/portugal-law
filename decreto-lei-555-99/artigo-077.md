@@ -46,7 +46,7 @@ i) O prazo de validade da licença, o qual corresponde ao prazo para a conclusã
 
 5 - O alvará de autorização de utilização relativo à utilização de edifício ou de sua fracção deve conter a especificação dos seguintes elementos:
 
-a) Identificação do titular da licença;
+a) Identificação do titular da autorização;
 
 b) Identificação do edifício ou fracção autónoma;
 
@@ -55,3 +55,5 @@ c) O uso a que se destina o edifício ou fracção autónoma.
 6 - O alvará a que se refere o número anterior deve ainda mencionar, quando for caso disso, que o edifício a que respeita preenche os requisitos legais para a constituição da propriedade horizontal.
 
 7 - No caso de substituição do titular de alvará de licença, o substituto deve disso fazer prova junto do presidente da câmara para que este proceda ao respectivo averbamento no prazo de 15 dias a contar da data da substituição.
+
+8 - A titularidade do alvará de autorização de utilização de edifícios ou fracções autónomas é transmitida automaticamente com a propriedade a que respeita.

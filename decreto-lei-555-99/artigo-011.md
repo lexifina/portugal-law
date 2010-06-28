@@ -24,8 +24,8 @@
 
 11 - Quando se verifique que a operação urbanística a que respeita o pedido ou comunicação não se integra no tipo de procedimento indicado, o requerente ou comunicante é notificado, no prazo de 15 dias a contar da apresentação desse requerimento, para os efeitos seguintes:
 
-a) No caso de o procedimento indicado ser mais simples do que o aplicável, para, em 30 dias, declarar se pretende que o procedimento prossiga na forma legalmente prevista, devendo, em caso afirmativo e no mesmo prazo, juntar os elementos que estiverem em falta, sob pena de indeferimento do pedido;
+a) No caso de o procedimento indicado ser mais simples do que o aplicável, para, em 30 dias, declarar se pretende que o procedimento prossiga na forma legalmente prevista, devendo, em caso afirmativo e no mesmo prazo, juntar os elementos que estiverem em falta, sob pena de rejeição liminar;
 
 b) No caso de o procedimento indicado ser mais exigente do que o aplicável, tomar conhecimento da conversão oficiosa do procedimento para a forma legalmente prevista;
 
-c) No caso de a operação urbanística em causa estar dispensada de licença ou comunicação prévia, tomar conhecimento da extinção do procedimento.
+c) No caso de a operação urbanística em causa estar isenta de controlo prévio, tomar conhecimento da extinção do procedimento.

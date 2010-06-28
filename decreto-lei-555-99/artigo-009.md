@@ -18,4 +18,6 @@
 
 8 - O gestor do procedimento regista no processo a junção subsequente de quaisquer novos documentos e a data das consultas a entidades exteriores ao município e da recepção das respectivas respostas, quando for caso disso, bem como a data e o teor das decisões dos órgãos municipais.
 
-9 - A substituição do requerente ou comunicante, do responsável por qualquer dos projectos apresentados ou do director técnico da obra deve ser comunicada ao gestor do procedimento para que este proceda ao respectivo averbamento no prazo de 15 dias a contar da data da substituição.
+9 - A substituição do requerente ou comunicante, do titular do alvará de construção ou do título de registo emitidos pelo Instituto da Construção e do Imobiliário, I. P. (InCI, I. P.), do responsável por qualquer dos projectos apresentados, do director de obra ou do director de fiscalização de obra deve ser comunicada ao gestor do procedimento para que este proceda ao respectivo averbamento no prazo de 15 dias a contar da data da substituição.
+
+10 - Cabe ao gestor do procedimento verificar a adequação das habilitações do titular do alvará de construção ou do título de registo emitidos pelo InCI, I. P., à natureza e à estimativa de custo da operação urbanística.

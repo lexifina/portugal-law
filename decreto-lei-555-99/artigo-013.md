@@ -14,4 +14,10 @@
 
 6 - Os pareceres das entidades exteriores ao município só têm carácter vinculativo quando tal resulte da lei, desde que se fundamentem em condicionamentos legais ou regulamentares e sejam recebidos dentro do prazo.
 
-7 - São fixados em diploma próprio os projectos da engenharia de especialidades e as certificações técnicas que carecem de consulta, aprovação ou de parecer, interno ou externo, bem como os termos em que têm lugar.
+7 - São fixados em diploma próprio os projectos das especialidades e outros estudos e as certificações técnicas que carecem de consulta, de aprovação ou de parecer, interno ou externo, bem como os termos em que têm lugar.
+
+8 - A consulta, certificação, aprovação ou parecer, por entidade interna ou externa aos municípios, dos projectos das especialidades e outros estudos referidos no número anterior não têm lugar quando o respectivo projecto seja acompanhado por termo de responsabilidade subscrito por técnico autor de projecto legalmente habilitado que ateste o cumprimento das normas legais e regulamentares aplicáveis, designadamente as identificadas nos n.ºs 1 e 2 do artigo 10.º
+
+9 - A realização de vistoria, certificação, aprovação ou parecer, pelo município ou por entidade exterior, sobre a conformidade da execução dos projectos das especialidades e outros estudos com o projecto aprovado ou apresentado é dispensada mediante emissão de termo de responsabilidade por técnico legalmente habilitado para esse efeito, de acordo com o respectivo regime legal, que ateste essa conformidade.
+
+10 - O disposto nos n.ºs 8 e 9 não prejudica a verificação aleatória dos projectos neles referidos e da sua execução.

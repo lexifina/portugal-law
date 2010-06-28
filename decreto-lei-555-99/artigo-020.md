@@ -2,7 +2,7 @@
 
 ### Apreciação dos projectos de obras de edificação
 
-1 - A apreciação do projecto de arquitectura, no caso de pedido de licenciamento relativo a obras previstas nas alíneas c), d), e), f) e g) do n.º 2 do artigo 4.º, incide sobre a sua conformidade com planos municipais de ordenamento no território, planos especiais de ordenamento do território, medidas preventivas, área de desenvolvimento urbano prioritário, área de construção prioritária, servidões administrativas, restrições de utilidade pública e quaisquer outras normas legais e regulamentares relativas ao aspecto exterior e a inserção urbana e paisagística das edificações, bem como sobre o uso proposto.
+1 - A apreciação do projecto de arquitectura, no caso de pedido de licenciamento relativo a obras previstas nas alíneas c) a f) do n.º 2 do artigo 4.º, incide sobre a sua conformidade com planos municipais de ordenamento no território, planos especiais de ordenamento do território, medidas preventivas, área de desenvolvimento urbano prioritário, área de construção prioritária, servidões administrativas, restrições de utilidade pública e quaisquer outras normas legais e regulamentares relativas ao aspecto exterior e a inserção urbana e paisagística das edificações, bem como sobre o uso proposto.
 
 2 - Para os efeitos do número anterior, a apreciação da inserção urbana das edificações é efectuada na perspectiva formal e funcional, tendo em atenção o edificado existente, bem como o espaço público envolvente e as infra-estruturas existentes e previstas.
 
@@ -14,12 +14,12 @@ b) Da data da recepção do último dos pareceres, autorizações ou aprovaçõe
 
 c) Do termo do prazo para a recepção dos pareceres, autorizações ou aprovações, sempre que alguma das entidades consultadas não se pronuncie até essa data.
 
-4 - O interessado deve apresentar os projectos de engenharia das especialidades necessários à execução da obra no prazo de seis meses a contar da notificação do acto que aprovou o projecto de arquitectura caso não tenha apresentado tais projectos com o requerimento inicial.
+4 - O interessado deve apresentar os projectos das especialidades e outros estudos necessários à execução da obra no prazo de seis meses a contar da notificação do acto que aprovou o projecto de arquitectura caso não tenha apresentado tais projectos com o requerimento inicial.
 
 5 - O presidente da câmara pode prorrogar o prazo referido no número anterior por uma só vez e por período não superior a três meses, mediante requerimento fundamentado apresentado antes do respectivo termo.
 
-6 - A falta de apresentação dos projectos da engenharia de especialidades no prazo estabelecido no n.º 4 ou naquele que resultar da prorrogação concedida nos termos do número anterior implica a suspensão do processo de licenciamento pelo período máximo de seis meses, findo o qual é declarada a caducidade após audiência prévia do interessado.
+6 - A falta de apresentação dos projectos das especialidades e outros estudos no prazo estabelecido no n.º 4 ou naquele que resultar da prorrogação concedida nos termos do número anterior implica a suspensão do processo de licenciamento pelo período máximo de seis meses, findo o qual é declarada a caducidade após audiência prévia do interessado.
 
 7 - (Revogado.)
 
-8 - As declarações de responsabilidade dos autores dos projectos da engenharia de especialidades que estejam inscritos em associação pública constituem garantia bastante do cumprimento das normas legais e regulamentares aplicáveis aos projectos, excluindo a sua apreciação prévia, salvo quando as declarações sejam formuladas nos termos do n.º 5 do artigo 10.º
+8 - As declarações de responsabilidade dos autores dos projectos das especialidades e outros estudos que estejam inscritos em associação pública constituem garantia bastante do cumprimento das normas legais e regulamentares aplicáveis aos projectos, excluindo a sua apreciação prévia, salvo quando as declarações sejam formuladas nos termos do n.º 5 do artigo 10.º

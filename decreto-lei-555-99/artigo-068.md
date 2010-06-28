@@ -2,10 +2,10 @@
 
 ### Nulidades
 
-São nulas as licenças, a admissão de comunicações prévias ou as autorizações de utilização previstas no presente diploma que:
+São nulas as licenças, as admissões de comunicações prévias, as autorizações de utilização e os pedidos de informação prévia previstos no presente decreto-lei que:
 
-a) Violem o disposto em plano municipal de ordenamento do território, plano especial de ordenamento do território, medidas preventivas ou licença de loteamento em vigor;
+a) Violem o disposto em plano municipal de ordenamento do território, plano especial de ordenamento do território, medidas preventivas ou licença ou comunicação prévia de loteamento em vigor;
 
-b) Violem o disposto no n.º 2 do artigo 37.º
+b) (Revogada.)
 
 c) Não tenham sido precedidas de consulta das entidades cujos pareceres, autorizações ou aprovações sejam legalmente exigíveis, bem como quando não estejam em conformidade com esses pareceres, autorizações ou aprovações.

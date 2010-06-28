@@ -10,7 +10,7 @@ b) Existir declaração de utilidade pública para efeitos de expropriação que
 
 c) Tiver sido objecto de parecer negativo ou recusa de aprovação ou autorização de qualquer entidade consultada nos termos do presente diploma cuja decisão seja vinculativa para os órgãos municipais.
 
-2 - Quando o pedido de licenciamento tiver por objecto a realização das operações urbanísticas referidas nas alíneas a) a c), d), e) e g) do n.º 2 do artigo 4.º, o indeferimento pode ainda ter lugar com fundamento em:
+2 - Quando o pedido de licenciamento tiver por objecto a realização das operações urbanísticas referidas nas alíneas a) a e) do n.º 2 do artigo 4.º, o indeferimento pode ainda ter lugar com fundamento em:
 
 a) A operação urbanística afectar negativamente o património arqueológico, histórico, cultural ou paisagístico, natural ou edificado;
 

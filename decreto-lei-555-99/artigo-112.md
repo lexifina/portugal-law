@@ -20,4 +20,4 @@
 
 9 - Decorrido o prazo fixado pelo Tribunal sem que se mostre praticado o acto devido, o interessado pode prevalecer-se do disposto no artigo 113.º, com excepção do disposto no número seguinte.
 
-10 - Na situação prevista no número anterior, tratando-se de aprovação do projecto de arquitectura, o interessado pode juntar os projectos de especialidade ou, caso já o tenha feito no requerimento inicial, inicia-se a contagem do prazo previsto na alínea c) do n.º 1 do artigo 23.º
+10 - Na situação prevista no número anterior, tratando-se de aprovação do projecto de arquitectura, o interessado pode juntar os projectos das especialidades e outros estudos ou, caso já o tenha feito no requerimento inicial, inicia-se a contagem do prazo previsto na alínea c) do n.º 1 do artigo 23.º

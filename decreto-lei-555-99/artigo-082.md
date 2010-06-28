@@ -8,4 +8,4 @@
 
 3 - Na situação prevista no artigo 113.º, os pedidos de ligação referidos no n.º 1 podem ser instruídos com o recibo do pagamento ou do depósito das taxas ou da caução.
 
-4 - Nos casos referidos no n.º 3 do artigo 6.º, os pedidos de ligação são instruídos com cópia do recibo da apresentação de comunicação prévia e da sua admissão e se for necessária a compatibilização de projectos com as infra-estruturas existentes, ou a sua realização no caso de inexistência, estas serão promovidas pela entidade prestadora ou pelo requerente, nos termos da parte final do n.º 1.
+4 - Nos casos referidos no n.º 4 do artigo 4.º, os pedidos de ligação são instruídos com cópia do recibo da apresentação de comunicação prévia e da sua admissão e se for necessária a compatibilização de projectos com as infra-estruturas existentes ou a sua realização no caso de inexistência, estas serão promovidas pela entidade prestadora ou pelo requerente, nos termos da parte final do n.º 1.

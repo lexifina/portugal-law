@@ -2,7 +2,7 @@
 
 ### Execução de instrumentos de planeamento territorial e outros instrumentos urbanísticos
 
-1 - As condições da licença ou comunicação prévia de operação de loteamento podem ser alteradas por iniciativa da câmara municipal desde que tal alteração se mostre necessária à execução de plano municipal de ordenamento do território, plano especial de ordenamento do território, área de desenvolvimento urbano prioritário, área de construção prioritária ou área crítica de recuperação e reconversão urbanística.
+1 - As condições da licença ou comunicação prévia de operação de loteamento podem ser alteradas por iniciativa da câmara municipal desde que tal alteração se mostre necessária à execução de plano municipal de ordenamento do território, plano especial de ordenamento do território, área de desenvolvimento urbano prioritário, área de construção prioritária ou área de reabilitação urbana.
 
 2 - A deliberação da câmara municipal que determine as alterações referidas no número anterior é devidamente fundamentada e implica a emissão de novo alvará, e a publicação e submissão a registo deste, a expensas do município.
 
