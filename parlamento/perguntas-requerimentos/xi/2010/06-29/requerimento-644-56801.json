@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "56801",
+  "tipo": "Requerimento",
+  "numero": "644",
+  "data_registo": "2010-06-29",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Cortes no desperdício dos Conselhos de Administração - Unidade Local de Saúde da Guarda, EPE",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1923",
+        "nome": "Teresa Caeiro"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4096",
+        "nome": "Isabel Galriça Neto"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "3995",
+        "nome": "João Serpa Oliva"
+      }
+    ],
+    "DataEnvio": "2010-07-02",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-07-02",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Presidente do Conselho de Admnistração da Unidade Local de Saúde da Guarda",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-09-28",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  SAÚDE",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d5445344d5441354d544d744e6a51785a6930304f544d344c57466c59546b744d6d526d4e7a49304d574a6c4d4759314c6e426b5a673d3d&fich=11810913-641f-4938-aea9-2df7241be0f5.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-06-29",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764e6d45314e4446694d7a51745a6d45325a6930305954646a4c546c684d4441744d3255355a546c685a4449774e6d4e6b4c6e426b5a673d3d&fich=6a541b34-fa6f-4a7c-9a00-3e9e9ad206cd.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "56801",
+    "Legislatura": "XI",
+    "Nr": "644",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "522613",
+        "obs": null,
+        "pag": [
+          "115-116"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "160",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/160S1/2010-07-05/115?pgs=115-116&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
