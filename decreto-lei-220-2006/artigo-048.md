@@ -10,7 +10,7 @@ b) Do PPE, nomeadamente das acções nele previstas, com excepção das referida
 
 c) Do dever de apresentação quinzenal;
 
-d) Do dever de comunicação do período anual de dispensa previsto no n.º 2 do artigo 41.º
+d) (Revogada).
 
 2 - A advertência escrita motivada pelo primeiro incumprimento do dever de apresentação quinzenal tem lugar aquando da primeira verificação do cumprimento no âmbito de acções de controlo, acompanhamento e avaliação promovidas pelos centros de emprego.
 

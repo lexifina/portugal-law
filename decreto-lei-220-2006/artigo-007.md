@@ -10,4 +10,4 @@ a) Nas situações em que não seja atribuível subsídio de desemprego;
 
 b) Nas situações em que os beneficiários tenham esgotado os períodos de concessão do subsídio de desemprego, desde que se encontrem preenchidos os demais condicionalismos previstos no presente decreto-lei.
 
-3 - A protecção através do subsídio de desemprego parcial é assegurada nas situações em que o beneficiário, a receber subsídio de desemprego, celebre contrato de trabalho a tempo parcial, nos termos previstos no presente decreto-lei.
+3 - A protecção através do subsídio de desemprego parcial é assegurada nas situações em que o beneficiário, requerente ou titular de prestações de desemprego exerça uma actividade profissional nos termos do presente decreto-lei.

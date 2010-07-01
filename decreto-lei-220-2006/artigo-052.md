@@ -21,3 +21,5 @@ c) Registo de remunerações relativo a férias não gozadas na vigência do con
 a) Durante o período anual de dispensa de cumprimento de deveres comunicado ao centro de emprego;
 
 b) Durante o período de ausência do território nacional, nas situações de deslocação ao estrangeiro para tratamento médico, desde que esta necessidade seja atestada nos termos estabelecidos no âmbito do Serviço Nacional de Saúde.
+
+6 - O pagamento das prestações de desemprego é ainda suspenso durante o período de exercício de actividade profissional determinante do reconhecimento do direito ao subsídio de desemprego parcial, quando o rendimento relevante da actividade profissional independente ou a retribuição do trabalho por conta de outrem for igual ou superior ao valor do subsídio de desemprego, consoante o caso.

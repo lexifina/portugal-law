@@ -2,7 +2,7 @@
 
 ### Montante do subsídio social de desemprego
 
-1 - O montante diário do subsídio social de desemprego é indexado ao valor da retribuição mínima mensal garantida e calculado na base de 30 dias por mês, nos termos seguintes:
+1 - O montante diário do subsídio social de desemprego é indexado ao valor do indexante dos apoios sociais (IAS) e calculado na base de 30 dias por mês, nos termos seguintes:
 
 a) 100% para os beneficiários com agregado familiar;
 

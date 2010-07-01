@@ -6,9 +6,9 @@
 
 a) Respeite as retribuições mínimas e demais condições estabelecidas na lei geral ou em instrumento de regulamentação colectiva de trabalho aplicável;
 
-b) Consista no exercício de funções ou tarefas susceptíveis de poderem ser desempenhadas pelo trabalhador, atendendo, nomeadamente, às suas aptidões físicas, habilitações escolares e formação profissional;
+b) Consista no exercício de funções ou tarefas susceptíveis de poderem ser desempenhadas pelo trabalhador, considerando, nomeadamente, as suas aptidões físicas, habilitações escolares, formação profissional, competências e experiências profissionais, ainda que se situem em sector de actividade ou profissão distinta da ocupação anterior ao momento do desemprego;
 
-c) Garanta uma retribuição ilíquida igual ou superior ao valor da prestação de desemprego acrescido de 25%, se a oferta de emprego ocorrer durante os primeiros seis meses de concessão de prestações de desemprego, ou igual ou superior ao valor da prestação de desemprego acrescido de 10%, se a oferta de emprego ocorrer a partir do sétimo mês;
+c) Garanta uma retribuição ilíquida igual ou superior ao valor da prestação de desemprego, acrescido de 10 %, se a oferta de emprego ocorrer durante os primeiros 12 meses de concessão de prestações de desemprego, ou igual ou superior ao valor da prestação de desemprego, se aquela oferta ocorrer no decurso ou após o 13.º mês;
 
 d) Assegure que o valor das despesas de transporte entre a residência e o local de trabalho cumpra uma das seguintes condições:
 
@@ -24,7 +24,7 @@ i) Não exceda 25% do horário de trabalho, salvo nas situações em que o benef
 
 ii) Excedendo 25% do horário de trabalho da oferta de emprego, não seja superior ao tempo de deslocação no emprego imediatamente anterior.
 
-2 - Na observância do disposto na alínea b) do número anterior, o centro de emprego deve procurar atender, ainda, às competências e experiências profissionais do beneficiário, ainda que a oferta de emprego se possa situar em sector de actividade ou profissão distinta da ocupação anterior ao momento do desemprego.
+2 - (Revogado).
 
 3 - Para efeitos do disposto na alínea c) do n.º 1, é sempre considerado emprego conveniente aquele que garanta uma retribuição ilíquida igual ou superior ao valor da retribuição ilíquida auferida no emprego imediatamente anterior.
 
