@@ -8,15 +8,15 @@
 
 1 - As taxas do imposto são as seguintes:
 
-a) Para as importações, transmissões de bens e prestações de serviços constantes da lista i anexa a este diploma, a taxa de 5 %;
+a) Para as importações, transmissões de bens e prestações de serviços constantes da lista i anexa a este diploma, a taxa de 6 %;
 
-b) Para as importações, transmissões de bens e prestações de serviços constantes da lista ii anexa a este diploma, a taxa de 12 %;
+b) Para as importações, transmissões de bens e prestações de serviços constantes da lista ii anexa a este diploma, a taxa de 13 %;
 
-c) Para as restantes importações, transmissões de bens e prestações de serviços, a taxa de 20 %.
+c) Para as restantes importações, transmissões de bens e prestações de serviços, a taxa de 21 %.
 
 2 - Estão sujeitas à taxa a que se refere a alínea a) do n.º 1 as importações e transmissões de objectos de arte previstas em legislação especial.
 
-3 - As taxas a que se referem as alíneas a), b) e c) do n.º 1 são, respectivamente, de 4 %, 8 % e 14 %, relativamente às operações que, de acordo com a legislação especial, se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira.
+3 - As taxas a que se referem as alíneas a), b) e c) do n.º 1 são, respectivamente, de 4 %, 9 % e 15 %, relativamente às operações que, de acordo com a legislação especial, se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira.
 
 4 - Nas transmissões de bens constituídos pelo agrupamento de várias mercadorias, formando um produto comercial distinto, aplicam-se as seguintes taxas:
 
