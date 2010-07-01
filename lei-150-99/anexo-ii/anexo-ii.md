@@ -132,7 +132,7 @@
 
 17 - Operações financeiras:
 
-17.1 - Pela utilização de crédito, sob a forma de fundos, mercadorias e outros valores, em virtude da concessão de crédito a qualquer título, incluindo a cessão de créditos, o factoring, e as operações de tesouraria quando envolvam qualquer tipo de financiamento ao cessionário, aderente, ou devedor, considerando-se, sempre, como nova concessão de crédito a prorrogação do prazo do contrato - sobre o respectivo valor, em função do prazo:
+17.1 - Pela utilização de crédito, sob a forma de fundos, mercadorias e outros valores, em virtude da concessão de crédito a qualquer título excepto nos casos referidos na verba 17.2, incluindo a cessão de créditos, o factoring e as operações de tesouraria quando envolvam qualquer tipo de financiamento ao cessionário, aderente ou devedor, considerando-se, sempre, como nova concessão de crédito a prorrogação do prazo do contrato - sobre o respectivo valor, em função do prazo:
 
 17.1.1 - Crédito de prazo inferior a um ano - por cada mês ou fracção ... 0,04%
 
@@ -142,15 +142,25 @@
 
 17.1.4 - Crédito utilizado sob a forma de conta corrente, descoberto bancário ou qualquer outra forma em que o prazo de utilização não seja determinado ou determinável, sobre a média mensal obtida através da soma dos saldos em dívida apurados diariamente, durante o mês, divididos por 30 ... 0,04%
 
-17.2 - Operações realizadas por ou com intermediação de instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e quaisquer outras instituições financeiras, sobre o valor cobrado:
+17.2 - Pela utilização de crédito em virtude da concessão de crédito no âmbito de contratos de crédito a consumidores abrangidos pelo Decreto-Lei n.º 133/2009, de 2 de Junho, considerando-se, sempre, como nova concessão de crédito a prorrogação do prazo do contrato - sobre o respectivo valor, em função do prazo:
 
-17.2.1 - Juros por, designadamente, desconto de letras e bilhetes do Tesouro, por empréstimos, por contas de crédito e por créditos em liquidação ... 4%.
+17.2.1 - Crédito de prazo inferior a um ano - por cada mês ou fracção - 0,07 %.
 
-17.2.2 - Prémios e juros por letras tomadas, de letras a receber por conta alheia, de saques emitidos sobre praças nacionais ou de quaisquer transferências ... 4%
+17.2.2 - Crédito de prazo igual ou superior a um ano - 0,90 %.
 
-17.2.3 - Comissões por garantias prestadas ... 3%
+17.2.3 - Crédito de prazo igual ou superior a cinco anos - 1 %.
 
-17.2.4 - Outras comissões e contraprestações por serviços financeiros ... 4%
+17.2.4 - Crédito utilizado sob a forma de conta corrente, descoberto bancário ou qualquer outra forma em que o prazo de utilização não seja determinado ou determinável, sobre a média mensal obtida através da soma dos saldos em dívida apurados diariamente, durante o mês, divididos por 30 - 0,07 %.
+
+17.3 - Operações realizadas por ou com intermediação de instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e quaisquer outras instituições financeiras, sobre o valor cobrado:
+
+17.3.1 - Juros por, designadamente, desconto de letras e bilhetes do Tesouro, por empréstimos, por contas de crédito e por créditos em liquidação ... 4%.
+
+17.3.2 - Prémios e juros por letras tomadas, de letras a receber por conta alheia, de saques emitidos sobre praças nacionais ou de quaisquer transferências ... 4%
+
+17.3.3 - Comissões por garantias prestadas ... 3%
+
+17.3.4 - Outras comissões e contraprestações por serviços financeiros ... 4%
 
 18 - Precatórios ou mandados para levantamento e entrega de dinheiro ou valores existentes - sobre a importância a levantar ou a entregar ... 0,5%
 
