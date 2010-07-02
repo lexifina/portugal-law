@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=cqpGrns5UyiyPnfDDcltPGDDPGagvAPg5LKOzP1ZUMdFhS1tYE%2boUqLKys6rT7dQcCsHZzpaaD89aqaaeheMPgaLprYCqr1kfj1yfNQQLvRfJRydrl8CY1Co%2bE8e0qRj21QPh3XBduK2UjaCTwkaZsSJ4Ws78SqTHcUqMO96eMwx0mJ%2fnsLMcuHSvhMz5fog89wsUW8g%2fE6ZhuGk3jur29lC8psdBmdSjbYJnssR%2faJyQGkQf1%2bt9BE0CqnanLSJIJsdFkKfZum%2fMA3QD2YgBITg5jSzdngUrVVNHICp8QvlGKw3W%2bpeu%2bh8LqCpg3zL2WI3n87847CubKBOteTOUU2WZeFIAxLb8PlZly06%2b9I%3d&fich=AtividadesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "e990867e1dd1772bdbc8ca55751b34755453758a1f02604666e2c3ee6e5cbd72",
+  "legislatura": "XI",
+  "tipo": "Orientação da Política Orçamental",
+  "numero": null,
+  "data_registo": "2010-07-02",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Relatório de Orientação da Política Orçamental 2010",
+    "Audicoes": null,
+    "Comissao": "Comissão de Orçamento e Finanças",
+    "DataAgendamentoDebate": "2010-07-09",
+    "DataEntrada": "2010-07-02",
+    "DataParecerUTAO": "2010-07-08",
+    "DataPedidoParecer": null,
+    "DescTipo": "Orientação da Política Orçamental",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-07-09 00:00:00.0",
+        "TipoDocumento": "Nota técnica",
+        "TituloDocumento": "Parecer Técnico da UTAO",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764e554e505269394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764e4449344d474a694d4463745a6a4d354d6930304d445a694c574a694f544174595463775a445132596d5a6c4d6d45784c6e426b5a673d3d&fich=4280bb07-f392-406b-bb90-a70d46bfe2a1.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2010-07-02 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Relatório de Orientação da Política Orçamental",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764e554e505269394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764d324932595455774d6a59745a6d59774d433030596d566c4c574a6a5a44597459574a695a474e6b4d444d334d4455334c6e426b5a673d3d&fich=3b6a5026-ff00-4bee-bcd6-abbdcd037057.pdf&Inline=true"
+      }
+    ],
+    "EntidadesExternas": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XI",
+    "Links": null,
+    "LinkTexto": null,
+    "MembrosGoverno": null,
+    "Observacoes": null,
+    "ParecerComissao": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "521786",
+        "obs": null,
+        "pag": [
+          "2-55"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-07-07",
+        "pubLeg": "XI",
+        "pubNr": "113",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/11/01/113/2010-07-07/2?pgs=2-55&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "42",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-07-10",
+        "pubLeg": "XI",
+        "pubNr": "79",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10?org=PLC"
+      }
+    ],
+    "Relatores": null,
+    "Sessao": "1",
+    "TextoRelatorio": null,
+    "TextosAprovados": null,
+    "Tipo": "POR",
+    "VotacaoDebate": null,
+    "VotacaoRelatorio": null
+  }
+}
