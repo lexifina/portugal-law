@@ -1,0 +1,6 @@
+Edital n.º 669/2010
+Projecto de Regulamento e Tabela de Taxas e Licenças da Freguesia de Amoreira da Gândara
+Joaquim de Oliveira Cosme, Presidente da Freguesia de Amoreira da Gândara, concelho de Anadia, torna público, que por deliberação tomada pelo Órgão executivo, na reunião ordinária de 23 de Março de 2010, o Projecto de Taxas e a Fundamentação Económico-Financeira que dele fazem parte integrante, que de acordo com o estabelecido no artigo 118.º do Código de Procedimento Administrativo, se encontram em inquérito público, para recolha de sugestões, pelo prazo de 30 dias a contar da data de publicação do presente aviso no Diário da República.
+Torna igualmente público que o Projecto de Regulamentação de Taxas e Licenças da Freguesia de Amoreira da Gândara e respectivos anexos se encontram disponíveis para consulta dos interessados na Sede da Junta de Freguesia, às Terças Feiras, durante o horário de expediente. Os interessados poderão dirigir por escrito as suas sugestões à Freguesia de Amoreira da Gândara, através do envio de e-mail, para o endereço electrónico juntaamoreira@sapo.pt ou por carta registada com aviso de recepção, para a Rua Principal da Madureira, n.º 6, 3780-011 Amoreira da Gândara ou entregues pessoalmente.
+Freguesia de Amoreira da Gândara, 24 de Março de 2010. - O Presidente da Freguesia, Joaquim de Oliveira Cosme.
+303416478
