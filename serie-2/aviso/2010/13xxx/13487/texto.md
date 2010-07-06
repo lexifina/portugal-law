@@ -1,0 +1,8 @@
+Aviso n.º 13487/2010
+Decisão de elaborar o Plano de Pormenor de Câmboas em Vila Praia de Âncora
+Faz-se público, para os efeitos previstos no n.º 4 do artigo 77.º do Regime Jurídico dos Instrumentos de Gestão territorial, que a Câmara Municipal de Caminha, na sua reunião extraordinária, deliberou, em 02 de Junho de 2009, proceder à elaboração do Plano de Pormenor de Câmboas em Vila Praia de Âncora.
+Por tal motivo, e ao abrigo do previsto nas disposições conjugadas do n.º 2 do artigo 77.º e n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 53/2000, de 7 de Abril, pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro, pela Lei n.º 56/2007, de 31 de Agosto, pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro e pelo Decreto-Lei n.º 181/2009, de 07 de Agosto, encontra-se aberto, durante o prazo de 15 dias, contados a partir do 5.º dia posterior ao da publicação do presente aviso no Diário da República, um período de participação, aberto a todos os interessados, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+O prazo referido é contado nos termos previstos no artigo 72.º do Código do Processo Administrativo.
+A formulação de quaisquer observações e sugestões, bem como informações, relativas ao procedimento de elaboração, deverão ser formuladas por escrito e dirigidas ao Presidente da Câmara Municipal de Caminha, dentro do referido prazo.
+Caminha, 30 de Junho de 2010. - O Presidente da Câmara Municipal, Júlia Paula Pires Pereira da Costa.
+203433196
