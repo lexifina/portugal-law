@@ -1,0 +1,5 @@
+Aviso n.º 13496/2010
+Torna público, nos termos e para os efeitos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, e dando cumprimento à deliberação tomada em reunião ordinária da Câmara Municipal realizada em 10 do corrente mês de Maio, que a partir da data da publicação na 2.ª série do Diário da República e pelo prazo de 30 dias úteis, está em apreciação pública nesta Câmara Municipal, durante o horário normal de atendimento ao público, a Proposta de Regulamento de Funcionamento do Espaço Internet de Mangualde.
+Durante esse período poderão os interessados consultar a Proposta de Regulamento em apreço nesta Câmara Municipal; nas Juntas de Freguesia do Município e em www.cmmangualde.pt. Podem ainda os interessados, querendo, apresentar sugestões, durante as horas de atendimento ao público (9.00 Horas às 16.00 Horas), nesta Câmara Municipal.
+Município de Mangualde, 02 de Junho de 2010. O Presidente da Câmara Municipal, João Nuno Ferreira Gonçalves de Azevedo.
+303341244
