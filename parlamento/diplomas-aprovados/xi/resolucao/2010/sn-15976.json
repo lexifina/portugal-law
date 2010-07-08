@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P51eFuHgxFD78h707uCD%2f4%2bbRGeVckHY%2fxjH0irckIJg1CudMSeBOXHqaanmRXA0kQKLyDrf%2bEf7iBWDqH%2bDguXCPRsyEdQhtMvveqTIYviOJK%2b7XmFM05zqIG2hRWj4v6pUBtQ4Ilihmxk7R0UG1cFFW3g%2bFk%2brFe5Ci2NFVXnpmKPI%2feXn7EXzmzGfQuDSCwuS567d0yV9twkD9rLrHmqJaRUdA21rTkWfFj9OKi01Yx1Shjticm%2bTlK%2b69lEoUHEQNnxqGMBA4TGmEuhKIJ5nOOkO%2bv5b8GbCQQ%2b9jY4%2b6DXCHJsrNMDYApsXkkwK%2fj2smQNnSWPKCauTX7N6NggJgBeKdegS%2b1gbnI5B74Y%3d&fich=DiplomasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "b7c669e93e898120f7d9ad6dc24f69ed5622cb7554a8cd128468fc992e8858c7",
+  "legislatura": "XI",
+  "id": "15976",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2010-07-08",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2010",
+    "Id": "15976",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "35337",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595338344d7a6c694e44426a5953316b4e6a49774c54526d4e544d744f446b314e5331694d6a5a6a4f446b334e5441334d6d49755a47396a&fich=839b40ca-d620-4f53-8955-b26c8975072b.doc&Inline=true",
+        "IniNr": "146",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XI",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c7a6c6d5a574534596a49314c575a684f574d744e47526c4d533169596d466c4c54526d5a546c6c4d44646c5a5749314d79356b62324d3d&fich=9fea8b25-fa9c-4de1-bbae-4fe9e07eeb53.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "522027",
+        "obs": null,
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-07-08",
+        "pubLeg": "XI",
+        "pubNr": "114",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/11/01/114/2010-07-08/3?pgs=3&org=PLC"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Resolução",
+    "Titulo": "Recomenda ao Governo que apresente todos os elementos estatísticos das contas públicas de acordo com o Sistema Europeu de Contas Nacionais e Regionais (SEC95)",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
