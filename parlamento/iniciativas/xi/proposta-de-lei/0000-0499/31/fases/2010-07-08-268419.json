@@ -1,0 +1,353 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "31",
+    "id": "35400",
+    "titulo": "Permite a nomeação de Magistrados do Ministério Público jubilados para o exercício de funções do Ministério Público e procede à 9.ª alteração do Estatuto do Ministério Público, aprovado pela Lei n.º 47/86, de 15 de Outubro."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2010-07-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7544",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2010-07-08",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-07-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:36",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  JUSTIÇA  E  DA MODERNIZAÇÃO  JUDICIÁRIA",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "José Magalhães"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176907",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39",
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-09",
+                "pubLeg": "XI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/078/2010-07-09/38?pgs=38-39,45-46&org=PLC"
+              }
+            ],
+            "sumario": "Permite a nomeação de Magistrados do Ministério Público jubilados para o exercício de funções do Ministério Público e procede à 9.ª alteração do Estatuto do Ministério Público, aprovado pela Lei n.º 47/86, de 15 de Outubro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:36",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176908",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-09",
+                "pubLeg": "XI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/078/2010-07-09/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Permite a nomeação de Magistrados do Ministério Público jubilados para o exercício de funções do Ministério Público e procede à 9.ª alteração do Estatuto do Ministério Público, aprovado pela Lei n.º 47/86, de 15 de Outubro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:36",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176909",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-09",
+                "pubLeg": "XI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/078/2010-07-09/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Permite a nomeação de Magistrados do Ministério Público jubilados para o exercício de funções do Ministério Público e procede à 9.ª alteração do Estatuto do Ministério Público, aprovado pela Lei n.º 47/86, de 15 de Outubro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:36",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176910",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-09",
+                "pubLeg": "XI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/078/2010-07-09/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Permite a nomeação de Magistrados do Ministério Público jubilados para o exercício de funções do Ministério Público e procede à 9.ª alteração do Estatuto do Ministério Público, aprovado pela Lei n.º 47/86, de 15 de Outubro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2195",
+                "nome": "Ricardo Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:36",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176911",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-09",
+                "pubLeg": "XI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/078/2010-07-09/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Permite a nomeação de Magistrados do Ministério Público jubilados para o exercício de funções do Ministério Público e procede à 9.ª alteração do Estatuto do Ministério Público, aprovado pela Lei n.º 47/86, de 15 de Outubro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4172",
+                "nome": "Filipe Lobo D' Ávila"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:36",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "176912",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-09",
+                "pubLeg": "XI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/078/2010-07-09/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Permite a nomeação de Magistrados do Ministério Público jubilados para o exercício de funções do Ministério Público e procede à 9.ª alteração do Estatuto do Ministério Público, aprovado pela Lei n.º 47/86, de 15 de Outubro",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "268419",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "7544",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-07-09",
+        "pubLeg": "XI",
+        "pubNr": "78",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/078/2010-07-09?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
