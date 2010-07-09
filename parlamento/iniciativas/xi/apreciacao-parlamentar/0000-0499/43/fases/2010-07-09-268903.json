@@ -1,0 +1,538 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "43",
+    "id": "35408",
+    "titulo": "Decreto-Lei n.º 67-A/2010, de 14 de Junho \"Identifica os lanços e os sublanços de auto-estrada sujeitos ao regime de cobrança de taxas de portagem aos utilizadores e fixa a data a partir da qual se inicia a cobrança das mesmas\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2010-07-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7591",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2010-07-09",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "35419",
+        "leg": "XI",
+        "nr": "46",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1452",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-07-10",
+            "pubLeg": "XI",
+            "pubNr": "79",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1452",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-07-10",
+            "pubLeg": "XI",
+            "pubNr": "79",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10?org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 67-A/2010, de 14 de Junho \"Identifica os lanços e os sublanços de auto-estrada sujeitos ao regime de cobrança de taxas de portagem aos utilizadores e fixa a data a partir da qual se inicia a cobrança das mesmas\"."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35516",
+        "leg": "XI",
+        "nr": "363",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1452",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-07-10",
+            "pubLeg": "XI",
+            "pubNr": "79",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1452",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-07-10",
+            "pubLeg": "XI",
+            "pubNr": "79",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10?org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Define os critérios que promovem a coesão territorial e garantem o acesso dos cidadãos às auto-estradas em regime de portagens sem cobrança aos utilizadores (SCUT)."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-07-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "13:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100709pln&url=l11/sl1/a2010/m07/&tI=01:34:46:966&drc=00:04:39:808"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177194",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-10",
+                "pubLeg": "XI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10/29?pgs=29-31&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 67-A/2010, de 14 de Junho \"Identifica os lanços e os sublanços de auto-estrada sujeitos ao regime de cobrança de taxas de portagem aos utilizadores e fixa a data a partir da qual se inicia a cobrança das mesmas\"; Define os critérios que promovem a coesão territorial e garantem o acesso dos cidadãos às auto-estradas em regime de portagens sem cobrança aos utilizadores (SCUT).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4059",
+                "nome": "Heitor Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "13:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100709pln&url=l11/sl1/a2010/m07/&tI=01:39:31:721&drc=00:02:39:487"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100709pln&url=l11/sl1/a2010/m07/&tI=01:59:31:946&drc=00:03:58:067"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177204",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31",
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-10",
+                "pubLeg": "XI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10/31?pgs=31,36-37&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 67-A/2010, de 14 de Junho \"Identifica os lanços e os sublanços de auto-estrada sujeitos ao regime de cobrança de taxas de portagem aos utilizadores e fixa a data a partir da qual se inicia a cobrança das mesmas\"; Define os critérios que promovem a coesão territorial e garantem o acesso dos cidadãos às auto-estradas em regime de portagens sem cobrança aos utilizadores (SCUT).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2064",
+                "nome": "Jorge Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "13:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100709pln&url=l11/sl1/a2010/m07/&tI=01:42:17:268&drc=00:03:02:041"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177205",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-10",
+                "pubLeg": "XI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10/32?pgs=32&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 67-A/2010, de 14 de Junho \"Identifica os lanços e os sublanços de auto-estrada sujeitos ao regime de cobrança de taxas de portagem aos utilizadores e fixa a data a partir da qual se inicia a cobrança das mesmas\"; Define os critérios que promovem a coesão territorial e garantem o acesso dos cidadãos às auto-estradas em regime de portagens sem cobrança aos utilizadores (SCUT).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "13:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100709pln&url=l11/sl1/a2010/m07/&tI=01:45:26:124&drc=00:03:41:028"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177206",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-10",
+                "pubLeg": "XI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 67-A/2010, de 14 de Junho \"Identifica os lanços e os sublanços de auto-estrada sujeitos ao regime de cobrança de taxas de portagem aos utilizadores e fixa a data a partir da qual se inicia a cobrança das mesmas\"; Define os critérios que promovem a coesão territorial e garantem o acesso dos cidadãos às auto-estradas em regime de portagens sem cobrança aos utilizadores (SCUT).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2263",
+                "nome": "Ana Paula Vitorino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "13:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100709pln&url=l11/sl1/a2010/m07/&tI=01:49:11:251&drc=00:02:41:554"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100709pln&url=l11/sl1/a2010/m07/&tI=02:03:44:585&drc=00:01:45:989"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177207",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34",
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-10",
+                "pubLeg": "XI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10/33?pgs=33-34,37&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 67-A/2010, de 14 de Junho \"Identifica os lanços e os sublanços de auto-estrada sujeitos ao regime de cobrança de taxas de portagem aos utilizadores e fixa a data a partir da qual se inicia a cobrança das mesmas\"; Define os critérios que promovem a coesão territorial e garantem o acesso dos cidadãos às auto-estradas em regime de portagens sem cobrança aos utilizadores (SCUT).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "13:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100709pln&url=l11/sl1/a2010/m07/&tI=01:51:56:398&drc=00:04:01:689"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177208",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-10",
+                "pubLeg": "XI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 67-A/2010, de 14 de Junho \"Identifica os lanços e os sublanços de auto-estrada sujeitos ao regime de cobrança de taxas de portagem aos utilizadores e fixa a data a partir da qual se inicia a cobrança das mesmas\"; Define os critérios que promovem a coesão territorial e garantem o acesso dos cidadãos às auto-estradas em regime de portagens sem cobrança aos utilizadores (SCUT).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "13:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20100709pln&url=l11/sl1/a2010/m07/&tI=01:56:04:296&drc=00:03:22:322"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Lacão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177209",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-07-10",
+                "pubLeg": "XI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 67-A/2010, de 14 de Junho \"Identifica os lanços e os sublanços de auto-estrada sujeitos ao regime de cobrança de taxas de portagem aos utilizadores e fixa a data a partir da qual se inicia a cobrança das mesmas\"; Define os critérios que promovem a coesão territorial e garantem o acesso dos cidadãos às auto-estradas em regime de portagens sem cobrança aos utilizadores (SCUT).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "268903",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "527855",
+        "obs": null,
+        "pag": [
+          "29-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-07-10",
+        "pubLeg": "XI",
+        "pubNr": "79",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/01/079/2010-07-10/29?pgs=29-37&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
