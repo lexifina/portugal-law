@@ -1,0 +1,6 @@
+Aviso n.º 13792/2010
+José Maria Ministro dos Santos, Presidente da Câmara Municipal de Mafra, faz público que, no âmbito da elaboração do Plano de Pormenor da Vila Nova de Mafra e para efeitos do n.º 3 do artigo 77.º do Decreto-Lei n.º 380/99, de 22/9, com a redacção conferida pelo Decreto-Lei n.º 46/2009, de 20/02, é aberto o período de Discussão Pública pelo prazo de 45 dias, a contar do 5.º dia seguinte ao da publicação do presente aviso na 2.ª série do Diário da República, durante o qual os interessados poderão apresentar reclamações, observações ou sugestões.
+Nestes termos, a proposta de plano e a acta da conferência de serviços encontram-se disponíveis para consulta na Divisão de Planeamento e Ordenamento do Território, durante o horário dos serviços de atendimento ao público, bem como no sítio da internet http://www.cm-mafra.pt/camara/consultas.asp.
+Podem os interessados apresentar as reclamações, observações ou sugestões que acharem por convenientes, mediante requerimento identificado, dirigido ao Presidente desta Câmara, ou através do e-mail div.pot@cm-mafra.pt.
+Mafra, 29 de Junho de 2010. - O Presidente da Câmara Municipal, Engenheiro José Maria Ministro dos Santos.
+203451615
