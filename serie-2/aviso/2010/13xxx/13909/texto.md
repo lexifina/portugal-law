@@ -1,0 +1,5 @@
+Aviso n.º 13909/2010
+Projecto de Regulamento de Apoio ao Associativismo Desportivo
+Torna-se público, nos termos e para os efeitos do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, e respectivas alterações, que, durante o período de 30 dias a contar da publicação do presente aviso no Diário da República, é submetido à apreciação pública o Projecto de Regulamento de Apoio ao Associativismo Desportivo, aprovado em Reunião de Câmara de 31 de Maio de 2010. Durante esse período poderão os interessados consultar o referido Projecto de Regulamento na Secretaria da Câmara Municipal de Mondim de Basto, sita no Largo Conde de Vila Real, 4880-236 Mondim de Basto, no horário normal de expediente, ou no sítio da Internet: www.cm-mondimdebasto.pt, e sobre ele dizerem o que tiverem por conveniente, através de documento escrito, dirigido ao Presidente da Câmara Municipal, e entregues na Secretaria, ou a enviar, por carta registada com aviso de recepção, para a referida morada.
+5 de Julho de 2010. - O Presidente da Câmara, Humberto da Costa Cerqueira.
+303450813
