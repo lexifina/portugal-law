@@ -1,0 +1,12 @@
+Aviso n.º 14109/2010
+Fernando Jorge Loureiro de Roboredo Seara, Presidente da Câmara Municipal de Sintra, ao abrigo da sua competência constante da alínea v) do n.º 1 do artº68.º e para os efeitos do estatuído no n.º 1 do artigo 91.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, torna público que, a Assembleia Municipal de Sintra, na sua 3.ª Sessão Ordinária, em 24 de Junho de 2010, deliberou aprovar:
+1 - As alterações ao Regulamento de Transporte Público de Aluguer em Veículos Automóveis Ligeiros de Passageiros - Transportes em Táxi acompanhadas de Parecer da Comissão Permanente de Obras Municipais, Trânsito, Segurança e Protecção Civil, da Assembleia Municipal de Sintra;
+2 - O Regulamento da Linha e do Eléctrico de Sintra, acompanhado do Parecer da Comissão Permanente de Urbanismo e Ambiente, da Assembleia Municipal de Sintra;
+3 - As alterações ao Regulamento dos Cemitérios Municipais de Sintra, acompanhado do Parecer da Comissão Permanente de Urbanismo e Ambiente, da Assembleia Municipal de Sintra;
+4 - O Regulamento de Organização, Funcionamento e utilização dos Espaços Municipais de Juventude de Sintra, acompanhado do Parecer da Comissão Permanente de Urbanismo e Ambiente, da Assembleia Municipal de Sintra;
+5 - O Regulamento do Licenciamento do Exercício e da Fiscalização da Actividade de Exploração de Máquinas Automáticas, Mecânicas, Eléctricas e Electrónicas de Diversão no Município de Sintra, acompanhado do Parecer da Comissão Permanente de Assuntos Sociais, da Assembleia Municipal de Sintra;
+6 - O Regulamento de Atribuição de Prémios Literários de Sintra, acompanhado do Parecer da Comissão Permanente de Assuntos Sociais, da Assembleia Municipal de Sintra;
+7 - As alterações ao Regulamento de Animais do Município de Sintra, acompanhado do Parecer da Comissão Permanente de Assuntos Sociais, da Assembleia Municipal de Sintra.
+Assim, sem prejuízo da publicação do presente Aviso em 2.ª série do Diário da República, torna-se de igual modo público que, os referidos regulamentos se encontram ainda disponíveis através de Edital afixado nos lugares de estilo, no Gabinete de Apoio ao Munícipe e Controlo de Processos, suas Delegações e na página da Câmara Municipal de Sintra na Internet em www.cm-sintra.pt.
+Paços do Concelho de Sintra, 06 de Julho de 2010. - O Presidente da Câmara, Fernando Jorge Loureiro de Roboredo Seara.
+303454337
