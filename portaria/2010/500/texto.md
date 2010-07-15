@@ -1,0 +1,23 @@
+Portaria n.º 500/2010
+de 15 de Julho
+A legislação em vigor define taxativamente as entidades competentes para a concessão de passaportes, prevendo que, no tocante ao passaporte comum e ao território continental, tal acto seja da responsabilidade dos governadores civis (artigo 15.º do Decreto-Lei n.º 83/2000, de 11 de Maio).
+Ao actualizar o regime legal, de forma a enquadrar a produção e emissão do passaporte electrónico português (PEP), o Decreto-Lei n.º 138/2006, de 26 de Julho, manteve essa opção.
+Foi contudo prevista, de forma inovadora (artigo 19.º), a cooperação entre as entidades competentes pela concessão e os serviços responsáveis pela identificação civil de forma a assegurar o rigoroso estabelecimento da identidade dos requerentes de passaporte, ponto essencial da cadeia de segurança em que deve assentar o acto de concessão.
+Devendo os serviços intervenientes nas operações de recolha e de concessão do PEP assegurar que as mesmas decorram «em condições técnicas e de segurança que dêem pleno cumprimento às especificações aplicáveis», foram colocados, nas instalações dos governos civis e nas lojas do cidadão em que os mesmos têm presença assegurada, os equipamentos tecnológicos adequados de recolha de dados pessoais, fase primeira do procedimento de concessão.
+O projecto do PEP, relativamente aos requisitos dos equipamentos de recolha de dados biométricos, nomeadamente fotografia, impressões digitais e altura, nas iniciativas de identificação electrónica da Administração Pública, foi articulado com o projecto do cartão de cidadão, de forma a assegurar a compatibilidade dos requisitos adoptados.
+Tendo ocorrido entretanto o lançamento do cartão de cidadão, que utiliza equipamento similar para recolha de dados de identificação, estão reunidas as condições para levar a cabo novas modalidades de coordenação entre os ministérios responsáveis por cada um dos documentos.
+Com efeito, é hoje possível assegurar que nas lojas de cidadão onde não se encontre representado o governo civil territorialmente competente mas haja serviços do Instituto dos Registos e do Notariado seja por estes feita a recolha de dados para o PEP, alargando a rede nacional de pontos onde pode ser feita a apresentação de pedidos e a obtenção presencial de dados pessoais dos requerentes. O processo deverá ser remetido, via sistema de informação do PEP, a decisão do governo civil competente, criando assim sinergias, sem alterar as competências legalmente estabelecidas, facto que fundamenta a previsão de que as taxas devidas revertam integralmente a favor da entidade responsável pelo acto de concessão.
+Nestes termos, ao abrigo do disposto no n.º 1 do artigo 20.º do Decreto-Lei n.º 83/2000, de 11 de Maio, na redacção decorrente do Decreto-Lei n.º 138/2006, de 26 de Julho:
+Manda o Governo, pelos Ministros da Administração Interna e da Justiça, o seguinte:
+Artigo 1.º
+Recepção de requerimentos
+1 - Nas lojas do cidadão onde não se encontre representado o governo civil competente em razão do território, os serviços do Instituto dos Registos e Notariado podem receber requerimentos tendentes à concessão do passaporte electrónico português e proceder à recolha de dados pessoais dos respectivos requerentes, utilizando para o efeito o equipamento de que dispõem para o processo homólogo tendente à obtenção de cartão de cidadão.
+2 - O processo é submetido, via sistema de informação do PEP, a decisão do governo civil competente, aplicando-se todas as regras de segurança e seguindo-se todos os trâmites legalmente previstos.
+3 - Para a prossecução dos objectivos do n.º 1, deverão ser celebrados protocolos entre os governos civis e o Instituto dos Registos e do Notariado.
+Artigo 2.º
+Regime das receitas
+Revertem a favor do governo civil competente todas as taxas devidas pelos actos praticados nos termos do artigo anterior.
+Artigo 3.º
+Produção de efeitos
+O regime decorrente da presente portaria começa a ser aplicado no 1.º dia do 2.º mês posterior ao da respectiva publicação.
+O Ministro da Administração Interna, Rui Carlos Pereira, em 23 de Junho de 2010. - O Ministro da Justiça, Alberto de Sousa Martins, em 22 de Junho de 2010.
