@@ -1,0 +1,205 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12012",
+  "numero": "82",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-07-15",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2010-10-14",
+            "entidades": null,
+            "id": "89342",
+            "tipo": null,
+            "titulo": "Audição em 2010-10-14 com Srs. Mariana Galindo, Isabel Correia da Silva, Miguel Metelo Seixas e Paulo Silveira e Sousa"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-09-16",
+            "dataResposta": "2010-10-04",
+            "entidades": [
+              "Ministra da Cultura"
+            ],
+            "nrOficio": "421/CESC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-10-14",
+            "dataResposta": "2010-10-25",
+            "entidades": [
+              "Fundação para a Ciência e a Tecnologia"
+            ],
+            "nrOficio": "453/CESC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-11-10",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-09-15",
+        "DataArquivo": "2010-11-10",
+        "DataBaixaComissao": "2010-09-15",
+        "DataEnvioPAR": "2010-11-10",
+        "DataReaberta": "2010-09-15",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-11-24",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c325a6c5a6a4d325a47526c4c54417a597a67744e444e6b4f5331684d3249334c545a684d7a41314e5459334f474978596935775a47593d&fich=fef36dde-03c8-43d9-a3b7-6a3055678b1b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-09-15",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c7a566d4f54686a4d574d784c5755334e3259744e47466d4f5331685a5759314c574d30596a42694e57466b4e4459305a6935775a47593d&fich=5f98c1c1-e77f-4af9-aef5-c4b0b5ad464f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-11-24",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c7a5130596a51354e5449334c5455354f4759744e474e6c5a4331685932526d4c544e6d4e324931596a59315954526c4e5335775a47593d&fich=44b49527-598f-4ced-acdf-3f7b5b65a4e5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-10-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c7a41314d7a646b593256684c54526a5a5455744e4463775a5331684d47597a4c57526b4f4756684d546b314d7a4d774d7935775a47593d&fich=0537dcea-4ce5-470e-a0f3-dd8ea1953303.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-09-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c324e695a6d46684e4459314c5751355a4759744e44517a4d533035595756684c54686c4e324577595463795a6a6b35595335775a47593d&fich=cbfaa465-d9df-4431-9aea-8e7a0a72f99a.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-11-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c324d77597a59785a54466c4c5745324e6a49744e4751774d5330355954517a4c57526c59324d31596d4a6b5a4755795a4335775a47593d&fich=c0c61e1e-a662-4d01-9a43-decc5bbdde2d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-10-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c32466a4f57457a5a6a41304c5451794f544d744e4746694d793168597a4d334c574a6a595445355a54526a4e6d49345a4335775a47593d&fich=ac9a3f04-4293-4ab3-ac37-bca19e4c6b8d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-11-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c325a6d4f57566b4f54686a4c57466b4f5755744e44637a4d7930345a4449324c5745795a6a63304e5449324d574a6b4e5335775a47593d&fich=ff9ed98c-ad9e-4733-8d26-a2f745261bd5.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2876",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Ética, Sociedade e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-09-15",
+            "gp": "PS",
+            "id": "4064",
+            "motivoCessacao": null,
+            "nome": "Inês de Medeiros"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2010-07-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6d4669597a4d774d6a6374596a466d4e6930304f4464694c5746684f446774595441324d6a59304f47466c59324d344c6e426b5a673d3d&fich=6abc3027-b1f6-487b-aa88-a062648aecc8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12012",
+    "PetAssunto": "Solicitam que o encerramento para obras da Biblioteca Nacional de Portugal seja adiado, de modo a que o aviso desse encerramento seja feito com pelo menos um ano de antecedência, para permitir planear o trabalho das várias partes envolvidas (Universidades, instituições de financiamento, estudantes, investigadores).",
+    "PetDataEntrada": "2010-07-15",
+    "PeticoesAssociadas": null,
+    "PetId": "12012",
+    "PetLeg": "XI",
+    "PetNr": "82",
+    "PetNrAssinaturas": "3568",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "531187",
+        "obs": null,
+        "pag": [
+          "12-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-09-18",
+        "pubLeg": "XI",
+        "pubNr": "1",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/001/2010-09-18/12?pgs=12&org=PLC"
+      }
+    ]
+  }
+}
