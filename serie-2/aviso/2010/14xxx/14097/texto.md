@@ -1,0 +1,10 @@
+Aviso n.º 14097/2010
+Plano de Pormenor da UP1 de Santo Amador
+José Maria Prazeres Pós de Mina, Presidente da Câmara Municipal de Moura: Torna público que, a Assembleia Municipal de Moura, deliberou em 25 de Junho de 2010 aprovar a proposta da versão final do Plano de Pormenor da UP1 de Santo Amador.
+A elaboração do Plano de Urbanização decorreu nos termos do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações introduzidas pelo Decreto -Lei n.º 316/2007, de 19 de Setembro e pelo Decreto-Lei n.º 46/2009 de 20 de Fevereiro.
+Assim, nos termos e para os efeitos do disposto na alínea d) do n.º 4 do artigo 148.º do Regime Jurídico dos Instrumentos de Gestão Territorial, publica -se em Anexo o Plano de Pormenor da UP1 de Santo Amador, constituído pelo Regulamento, Planta de Condicionantes e Planta de Implantação, com a redacção aprovada em 30 de Abril de 2009, que será, igualmente, divulgada nos termos da lei.
+O Plano de Pormenor da UP1 de Sto. Amador visa fundamentalmente propiciar condições para o correcto ordenamento da UP1, pela ainda relativa não ocupação da área correspondente com acções de urbanização e transformação do solo, facilitando a resolução de uma Área Não Estruturada de Santo Amador, bem como a criação de condições que viabilizem uma correcta implementação da actividade industrial, conforme o estabelecido no anexo II do PDMMA, conjuntamente com a criação de áreas para habitação e equipamentos.
+Do presente plano resulta a ampliação do perímetro urbano do aglomerado de Santo Amador, em cerca de 1 hectare, assim como alterações ao zonamento definido pelo Plano Director Municipal para a zona industrial proposta.
+Assim, nos termos e para os efeitos do disposto na alínea d) do n.º 4 do artigo 148.º do Regime Jurídico dos Instrumentos de Gestão Territorial, publica -se em Anexo a Alteração ao Plano de Pormenor da UP1 de Santo Amador, constituído pelo Regulamento, Planta de Condicionantes e Planta de Implantação.
+Município de Moura, ao nono dia do mês de Julho de dois mil e dez. - O Presidente da Câmara, José Maria Prazeres Pós-de-Mina.
+203471988
