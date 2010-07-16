@@ -1,0 +1,5 @@
+Aviso n.º 14199/2010
+Duarte Manuel da Silva Guerreiro Patrício, Presidente da Junta de Freguesia de Rio de Moinhos, Concelho de Aljustrel, torna público que, após audiência e apreciação pública, nos termos do artigo 118.º do Código do Procedimento Administrativo, no uso da competência referida na alínea d), n.º.2 do artigo 17.º da Lei n.º.169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º.5-A/2002, de 11 de Janeiro, a Assembleia de Freguesia de Rio de Moinhos, na sua sessão ordinária de 29 de Junho de 2010, sob proposta da Junta de Freguesia, aprovou por unanimidade, o Regulamento e Tabela Geral de Taxas e outras Receitas da Freguesia, que entrará em vigor no dia seguinte ao da sua publicação na 2.ª série do Diário da República.
+Para constar e produzir efeitos legais se publica este e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+Rio de Moinhos, 06 de Julho de 2010. - O Presidente da Junta de Freguesia, Duarte Manuel da Silva Guerreiro Patrício.
+303455228
