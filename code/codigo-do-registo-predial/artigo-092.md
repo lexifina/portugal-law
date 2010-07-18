@@ -2,7 +2,7 @@
 
 ### (Provisoriedade por natureza)
 
-1 - São efectuadas provisoriamente por natureza as seguintes inscrições:
+1 - São pedidas como provisórias por natureza as seguintes inscrições:
 
 a) Das acções e procedimentos referidos no artigo 3.º;
 
@@ -22,7 +22,7 @@ h) De aquisição por venda em processo judicial, antes de passado o título de 
 
 i) De hipoteca voluntária, antes de lavrado o título constitutivo;
 
-j) De aquisição por partilha em inventário, antes de passada em julgado a sentença;
+j) De aquisição por partilha em inventário, antes de a respectiva sentença homologatória se tornar definitiva;
 
 l) De hipoteca judicial, antes de passada em julgado a sentença;
 
