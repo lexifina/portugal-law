@@ -2,4 +2,4 @@
 
 ### (Designação pelo tribunal)
 
-Se todas as pessoas referidas nos artigos anteriores se escusarem ou forem removidas, é o cabeça-de-casal designado pelo tribunal, oficiosamente, a requerimento de qualquer interessado, ou a pedido do Ministério Público nos inventários em que tenha intervenção principal.
+Se todas as pessoas referidas nos artigos anteriores se escusarem ou forem removidas, é o cabeça-de-casal designado pelo tribunal, oficiosamente ou a requerimento de qualquer interessado.

@@ -2,13 +2,13 @@
 
 ### (Escusa)
 
-1. O cabeça-de-casal pode a todo o tempo escusar-se do cargo:
+1 - O cabeça-de-casal pode a todo o tempo escusar-se do cargo:
 
 a) Se tiver mais de setenta anos de idade;
 
 b) Se estiver impossibilitado, por doença, de exercer convenientemente as funções;
 
-c) Se residir fora da comarca cujo tribunal é competente para o inventário;
+c) (Revogada.)
 
 d) Se o exercício das funções de cabeça-de-casal for incompatível com o desempenho de cargo público que exerça.
 

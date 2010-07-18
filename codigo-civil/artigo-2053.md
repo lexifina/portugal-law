@@ -2,4 +2,4 @@
 
 ### Aceitação a benefício de inventário
 
-A aceitação a benefício de inventário faz-se requerendo inventário judicial, nos termos da lei de processo, ou intervindo em inventário pendente.
+A aceitação a benefício de inventário faz-se requerendo inventário, nos termos previstos em lei especial, ou intervindo em inventário pendente.
