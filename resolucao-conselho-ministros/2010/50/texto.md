@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 50/2010
+O Decreto n.º 19/2008, de 1 de Julho, sujeitou a área de implantação no Campo de Tiro de Alcochete e áreas confinantes a medidas preventivas, com o objectivo de assegurar a manutenção das condições necessárias ao planeamento, à execução e à operação do novo aeroporto de Lisboa (NAL), respectivos acessos e actividades complementares, conexas ou acessórias, acautelando um adequado ordenamento do território e uma efectiva protecção do ambiente.
+Em conformidade com o disposto no n.º 1 do artigo 9.º do Decreto-Lei n.º 794/76, de 5 de Novembro, tais medidas foram fixadas pelo prazo de dois anos, com possibilidade de prorrogação por prazo não superior a um ano.
+Considerando que ainda não foi possível proceder à programação integral do empreendimento público garantido através das medidas preventivas, dada a sua complexidade, é necessário prorrogar o prazo de vigência das medidas preventivas estabelecidas pelo Decreto n.º 19/2008, de 1 de Julho.
+Foram ouvidos os municípios de Alcochete, de Benavente, de Coruche, de Palmela, de Vendas Novas e de Vila Franca de Xira.
+Foi promovida a audição aos municípios da Moita, do Montijo, de Montemor-o-Novo, de Salvaterra de Magos e de Setúbal.
+Assim:
+Nos termos dos n.os 1 do artigo 9.º do Decreto-Lei n.º 794/76, de 5 de Novembro, alterado pelos Decretos-Leis n.os 313/80, de 19 de Agosto, 400/84, de 31 de Dezembro, 380/99, de 22 de Setembro, e 307/2009, de 23 de Outubro, e 9 do artigo 107.º, 2 do artigo 109.º e 1 do artigo 112.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 310/2003, de 10 de Outubro, pela Lei n.º 56/2007, de 31 de Agosto, e pelos Decretos-Leis n.os 316/2007, de 19 de Setembro, 46/2009, de 20 de Fevereiro, e 181/2009, de 7 de Agosto, e nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Prorrogar por um ano, a contar desde 1 de Julho de 2010, a vigência das medidas preventivas estabelecidas pelo Decreto n.º 19/2008, de 1 de Julho.
+2 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 16 de Julho de 2010. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
