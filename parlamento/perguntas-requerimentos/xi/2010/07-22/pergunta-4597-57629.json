@@ -1,0 +1,128 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "57629",
+  "tipo": "Pergunta",
+  "numero": "4597",
+  "data_registo": "2010-07-22",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Instabilidade nos órgãos de gestão do Agrupamento de Escolas Inês de Castro, em Coimbra",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "3990",
+        "nome": "Pedro Saraiva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3957",
+        "nome": "José Ferreira Gomes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3991",
+        "nome": "Nuno Encarnação"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "303",
+        "nome": "João Prata"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4143",
+        "nome": "Raquel Coelho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4014",
+        "nome": "Antonieta Guerreiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3919",
+        "nome": "Amadeu Soares Albergaria"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2641",
+        "nome": "Paulo Cavaleiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1686",
+        "nome": "Pedro Duarte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1960",
+        "nome": "Rosário Águas"
+      }
+    ],
+    "DataEnvio": "2010-07-23",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-07-23",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA   EDUCAÇÃO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-09-24",
+            "docRemetida": null,
+            "entidade": "MIN.  DA   EDUCAÇÃO",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764e5467794e4745334d5749744d6a4d774d5330304f4451774c546c684d6a59744f4459344d6d5a6a5a5751774d5445324c6e426b5a673d3d&fich=5824a71b-2301-4840-9a26-8682fced0116.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-07-22",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077765a5467315a6a526a59574d74597a55794e4330304d4759344c5745794e4749744d5445794d7a4e6b4e6a55344e6a5a6a4c6e426b5a673d3d&fich=e85f4cac-c524-40f8-a24b-11233d65866c.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "57629",
+    "Legislatura": "XI",
+    "Nr": "4597",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "529294",
+        "obs": null,
+        "pag": [
+          "82-84"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "177",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/177/2010-07-26/82?pgs=82-84&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
