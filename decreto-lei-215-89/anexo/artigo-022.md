@@ -77,3 +77,5 @@ c) Sempre que sejam obtidos, no mesmo ano, rendimentos provenientes de diferente
 d) Os rendimentos que dão direito ao crédito de imposto devem ser considerados, para efeitos de tributação, pelas respectivas importâncias ilíquidas dos impostos sobre o rendimento pagos no estrangeiro;
 
 e) As sociedades gestoras dos fundos de investimento são obrigadas a manter um registo apropriado que evidencie os montantes dos rendimentos obtidos no estrangeiro, discriminados por país, e os montantes do imposto sobre o rendimento efectivamente pago.
+
+16 - O saldo positivo entre as mais-valias e menos-valias resultante da alienação de acções detidas por fundos de investimento durante mais de 12 meses, obrigações e outros títulos de dívida, está excluído de tributação, excepto quando obtido por fundos de investimento mistos ou fechados de subscrição particular aos quais se aplicam as regras previstas no Código do IRS.
