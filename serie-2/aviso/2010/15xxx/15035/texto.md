@@ -1,0 +1,8 @@
+Aviso n.º 15035/2010
+Proposta de alteração do Plano Director Municipal
+(artigos 24.º e 25.º do Regulamento do PDM)
+Torna-se público, nos termos do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 46/09, de 20 de Fevereiro, que a Câmara Municipal de Alvaiázere, por deliberação de 6 de Julho do corrente ano, decidiu proceder à alteração do Plano Director Municipal no que diz respeito ao n.º 2 e 4 do artigo 24.º, ao n.º 4 e 6 do artigo 25.º e ao aditamento do n.º 13 do artigo 25.º, tendo estabelecido o prazo de 180 dias para a sua alteração.
+Torna-se ainda público, em conformidade com o n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 46/09, 20 de Fevereiro, que decorrerá, após publicação de Aviso na 2.ª série do Diário da República, nos termos alínea b) do n.º 4 do artigo 148.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 46/09, de 20 de Fevereiro, um período de 15 dias para participação dos interessados, podendo ser formuladas sugestões e apresentadas informações.
+A formulação de sugestões, devem ser apresentadas por escrito, devidamente fundamentadas, utilizando para o feito, o impresso próprio que pode ser obtido na Secção de atendimento ao Público da Câmara Municipal de Alvaiázere, ou no site www.cm-alvaiazere.pt, e entregues no prazo de mencionado, durante o horário normal de expediente (segunda-feira a sexta-feira, das 8.00 às 18.00 horas), remetido por correio dirigido ao Sr. Presidente da Câmara Municipal, Rua Conselheiro Furtado dos Santos, 3250-100 Alvaiázere, ou por correio electrónico.
+Alvaiázere, 16 de Julho de 2010. - O Presidente da Câmara, Dr. Paulo Tito Morgado.
+203518895
