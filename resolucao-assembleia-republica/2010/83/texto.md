@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 83/2010
+Cessação de vigência do Decreto-Lei n.º 48/2010, de 11 de Maio (estabelece o regime jurídico de acesso e de exercício da actividade de inspecção técnica de veículos a motor e seus reboques e funcionamento dos centros de inspecção e revoga o Decreto-Lei n.º 550/99, de 15 de Dezembro).
+A Assembleia da República resolve, nos termos dos n.os 5 do artigo 166.º e 1 e 4 do artigo 169.º da Constituição, do n.º 2 do artigo 193.º e dos artigos 194.º e 195.º do Regimento, fazer cessar a vigência do Decreto-Lei n.º 48/2010, de 11 de Maio (estabelece o regime jurídico de acesso e de exercício da actividade de inspecção técnica de veículos a motor e seus reboques e funcionamento dos centros de inspecção e revoga o Decreto-Lei n.º 550/99, de 15 de Dezembro), e repristinar o Decreto-Lei n.º 550/99, de 15 de Dezembro, e os n.os 1.º a 3.º, 12.º e 15.º a 41.º da Portaria n.º 1165/2000, de 9 de Dezembro, bem como o seu anexo iii.
+Aprovada em 16 de Julho de 2010.
+O Presidente da Assembleia da República, Jaime Gama.
