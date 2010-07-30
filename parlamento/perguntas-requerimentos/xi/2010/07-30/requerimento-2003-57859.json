@@ -1,0 +1,101 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "57859",
+  "tipo": "Requerimento",
+  "numero": "2003",
+  "data_registo": "2010-07-30",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Estudo de Impacte Ambiental das obras de Requalificação da EN2",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "249",
+        "nome": "Mendes Bota"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4014",
+        "nome": "Antonieta Guerreiro"
+      }
+    ],
+    "DataEnvio": "2010-07-30",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-07-30",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de São Brás de Alportel",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-09-03",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de São Brás de Alportel",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d6a4a684d545a68595467744d6a4e6b4f5330304d4455784c546b354d5459744f5452684e6a686a4e6a42684d3249304c6e426b5a673d3d&fich=22a16aa8-23d9-4051-9916-94a68c60a3b4.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          },
+          {
+            "dataResposta": "2010-10-07",
+            "docRemetida": "Segue um Livro - MOPTC - EP - Estradas de Portugal, S.A. para o Senhor Deputado Mendes Bota",
+            "entidade": "Câmara Municipal de São Brás de Alportel",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077765a6a45344e7a6c6b4e3245744e6d5177595330304e5463784c574a6a4e3251744d6a4d795932457a4d544932596a52694c6e426b5a673d3d&fich=f1879d7a-6d0a-4571-bc7d-232ca3126b4b.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-07-30",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077765954466b4f545668597a6b744d6a566d4d4330304d7a45774c574a6a597a67744d7a426c5a6a6c6d5a6a52694e544d354c6e426b5a673d3d&fich=a1d95ac9-25f0-4310-bcc8-30ef9ff4b539.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "57859",
+    "Legislatura": "XI",
+    "Nr": "2003",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "535776",
+        "obs": null,
+        "pag": [
+          "12-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "184",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/184/2010-08-10/12?pgs=12-13&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
