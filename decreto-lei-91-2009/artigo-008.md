@@ -12,6 +12,4 @@ c) Subsídio parental;
 
 d) Subsídio por adopção.
 
-e) Subsídio por necessidade de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida para realização de parto e para acompanhamento.
-
 2 - A atribuição dos subsídios referidos no número anterior determina a suspensão do pagamento das prestações de desemprego, durante o período de concessão daqueles subsídios, nos termos regulados no respectivo regime jurídico.

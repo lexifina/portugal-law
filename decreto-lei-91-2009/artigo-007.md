@@ -6,28 +6,22 @@
 
 a) Subsídio por risco clínico durante a gravidez;
 
-b) Subsídio por necessidade de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida para realização de parto e para acompanhamento;
+b) Subsídio por interrupção da gravidez;
 
-c) Subsídio por interrupção da gravidez;
+c) Subsídio parental;
 
-d) Subsídio parental;
+d) Subsídio parental alargado;
 
-e) Subsídio parental alargado;
+e) Subsídio por adopção;
 
-f) Subsídio por adopção;
+f) Subsídio por riscos específicos;
 
-g) Subsídio por riscos específicos;
+g) Subsídio para assistência a filho;
 
-h) Subsídio para assistência a filho;
+h) Subsídio para assistência a filho com deficiência ou doença crónica;
 
-i) Subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica;
+i) Subsídio para assistência a neto.
 
-j) Subsídio para assistência a neto;
+2 - O direito aos subsídios previstos nas alíneas c) a h) do número anterior apenas é reconhecido, após o nascimento do filho, aos beneficiários que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com excepção do direito da mãe ao subsídio parental inicial de 14 semanas e do subsídio por riscos específicos durante a amamentação.
 
-k) Subsídio específico por internamento hospitalar do recém-nascido.
-
-2 - A proteção regulada no presente capítulo integra, também, a atribuição de prestações pecuniárias compensatórias de subsídios de férias, de Natal ou outros de natureza análoga.
-
-3 - O direito aos subsídios previstos nas alíneas d) a i) do n.º 1 apenas é reconhecido, após o nascimento do filho, aos beneficiários que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com exceção do direito da mãe ao subsídio parental inicial de 42 dias e do subsídio por riscos específicos durante a amamentação.
-
-4 - A proteção conferida aos trabalhadores independentes não integra as prestações previstas no n.º 2.
+3 - A protecção conferida aos trabalhadores independentes não integra os subsídios previstos nas alíneas g) e i) do número anterior.

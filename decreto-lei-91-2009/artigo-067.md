@@ -12,6 +12,6 @@ c) Subsídio para assistência a filho;
 
 d) Subsídio para assistência a neto, na modalidade prevista na alínea b) do artigo 21.º
 
-2 - [Revogado].
+2 - O disposto no número anterior é aplicável aos correspondentes subsídios sociais concedidos no âmbito do subsistema de solidariedade.
 
 3 - Para efeitos do n.º 1, consideram-se serviços competentes as entidades prestadoras de cuidados de saúde, designadamente centros de saúde e hospitais, com excepção dos serviços de urgência.

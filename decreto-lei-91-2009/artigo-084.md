@@ -1,7 +1,3 @@
-## Capítulo VI
-
-## Disposições transitórias e finais
-
 # Artigo 84.º
 
 ### Execução
