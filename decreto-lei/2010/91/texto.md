@@ -1,0 +1,63 @@
+Decreto-Lei n.º 91/2010
+de 22 de Julho
+O presente decreto-lei visa proceder a ajustes na organização interna do Ministério da Saúde e do Alto-Comissariado da Saúde no que diz respeito ao número de dirigentes e à coordenação nacional na definição e no desenvolvimento dos programas verticais de saúde, que ficam na dependência directa do membro do Governo responsável pela área da saúde.
+Os programas verticais de saúde são programas de âmbito nacional, desenvolvidos no âmbito do Plano Nacional de Saúde, que abordam matérias prioritárias do mesmo como sejam as doenças cardiovasculares, as doenças oncológicas, a infecção VIH/sida e a saúde mental.
+Esta alteração na organização interna do Ministério da Saúde e do Alto-Comissariado da Saúde permite reduzir a estrutura dirigente e garantir uma coordenação política mais efectiva dos referidos programas, cria as condições para a redução da estrutura organizativa dos mesmos e agiliza a partilha de recursos administrativos entre as coordenações nacionais.
+No quadro das orientações definidas pelo programa de reestruturação da administração central do Estado (PRACE) e dos objectivos do Programa do XVII Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos com ganhos de eficiência, foi aprovada a nova orgânica do Ministério da Saúde, através do Decreto-Lei n.º 212/2006, de 27 de Outubro, e a nova orgânica do Alto-Comissariado da Saúde, através do Decreto-Lei n.º 218/2007, de 29 de Maio.
+Volvidos três anos, e tendo em conta o contexto de implementação do Plano Nacional de Saúde, verifica-se a necessidade de proceder a ajustes nos referidos normativos legais.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Alteração ao Decreto-Lei n.º 212/2006, de 27 de Outubro
+O artigo 11.º do Decreto-Lei n.º 212/2006, de 27 de Outubro, alterado pelo Decreto-Lei n.º 234/2008, de 2 de Dezembro, passa a ter a seguinte redacção:
+«Artigo 11.º
+[...]
+1 - ...
+2 - ...
+a) ...
+b) ...
+c) ...
+d) ...
+e) Assegurar a coordenação nacional na definição e no desenvolvimento de programas verticais de saúde, nos termos da sua orgânica;
+f) ...
+g) ...
+3 - O ACS é dirigido por um alto-comissário, coadjuvado por um adjunto, cujo estatuto é definido em diploma próprio.»
+Artigo 2.º
+Alteração ao Decreto-Lei n.º 218/2007, de 29 de Maio
+Os artigos 2.º, 3.º, 4.º e 5.º do Decreto-Lei n.º 218/2007, de 29 de Maio, passam a ter a seguinte redacção:
+«Artigo 2.º
+[...]
+1 - ...
+2 - ...
+a) ...
+b) ...
+c) ...
+d) ...
+e) Assegurar a coordenação nacional na definição e no desenvolvimento de programas verticais de saúde, nos termos do artigo 5.º;
+f) ...
+g) ...
+3 - ...
+Artigo 3.º
+[...]
+O ACS é dirigido por um alto-comissário, coadjuvado por um alto-comissário-adjunto.
+Artigo 4.º
+[...]
+1 - ...
+2 - O alto-comissário-adjunto é nomeado nos termos previstos na lei para os titulares de cargos de direcção superior do 2.º grau e exerce as competências que nele forem delegadas ou subdelegadas pelo alto-comissário, substituindo-o nas suas ausências e impedimentos.
+3 - O alto-comissário aufere a remuneração correspondente a subsecretário de Estado e o alto-comissário-adjunto a correspondente a titulares de cargos de direcção superior do 1.º grau.
+Artigo 5.º
+[...]
+1 - Ao ACS compete acompanhar e prestar o apoio técnico, administrativo, financeiro e logístico à coordenação nacional na definição e no desenvolvimento de programas nacionais, nos termos a definir por despacho do membro do Governo responsável pela área da saúde.
+2 - A elaboração, a coordenação e a monitorização dos programas verticais de saúde de âmbito nacional, que o ACS deve acompanhar e apoiar, compete a coordenadores nacionais, cujo número não pode exceder quatro.
+3 - Os coordenadores nacionais são nomeados por despacho do membro do Governo responsável pela área da saúde, estando na sua dependência hierárquica directa, de entre personalidades de reconhecido mérito, sendo a sua remuneração fixada por despacho conjunto dos membros do Governo responsáveis pelas áreas da saúde e das finanças.
+4 - ...
+5 - (Revogado.)»
+Artigo 3.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 20 de Maio de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Ana Maria Teodoro Jorge.
+Promulgado em 13 de Julho de 2010.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendado em 16 de Julho de 2010.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
