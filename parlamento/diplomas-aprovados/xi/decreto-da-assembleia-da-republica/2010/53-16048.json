@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P51eFuHgxFD78h707uCD%2f4%2bbRGeVckHY%2fxjH0irckIJg1CudMSeBOXHqaanmRXA0kQKLyDrf%2bEf7iBWDqH%2bDguXCPRsyEdQhtMvveqTIYviOJK%2b7XmFM05zqIG2hRWj4v6pUBtQ4Ilihmxk7R0UG1cFFW3g%2bFk%2brFe5Ci2NFVXnpmKPI%2feXn7EXzmzGfQuDSCwuS567d0yV9twkD9rLrHmqJaRUdA21rTkWfFj9OKi01Yx1Shjticm%2bTlK%2b69lEoUHEQNnxqGMBA4TGmEuhKIJ5nOOkO%2bv5b8GbCQQ%2b9jY4%2b6DXCHJsrNMDYApsXkkwK%2fj2smQNnSWPKCauTX7N6NggJgBeKdegS%2b1gbnI5B74Y%3d&fich=DiplomasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "b7c669e93e898120f7d9ad6dc24f69ed5622cb7554a8cd128468fc992e8858c7",
+  "legislatura": "XI",
+  "id": "16048",
+  "tipo": "Decreto da Assembleia da República",
+  "numero": "53",
+  "data_registo": "2010-08-02",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2010",
+    "Id": "16048",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "35272",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a4d324e684f544d784f43316a5a4459354c54526c4e7a63744f44637a4f4330324d4459324e47466c4f4455794d6a45755a47396a&fich=c3ca9318-cd69-4e77-8738-60664ae85221.doc&Inline=true",
+        "IniNr": "21",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "P",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XI",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c7a55305957597a4e54686c4c5442694e446b744e444d314d6930344d6a686a4c5468684e4468695a6a4a6b5a4468695a53356b62324d3d&fich=54af358e-0b49-4352-828c-8a48bf2dd8be.doc&Inline=true",
+    "Numero": "53",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "523196",
+        "obs": null,
+        "pag": [
+          "177-179"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-08-02",
+        "pubLeg": "XI",
+        "pubNr": "130",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/11/01/130/2010-08-02/177?pgs=177-179&org=PLC"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Decreto da Assembleia da República",
+    "Titulo": "Autoriza o Governo a alterar o Estatuto do Notariado e o Estatuto da Ordem dos Notários",
+    "Tp": "D",
+    "Versao": "1"
+  }
+}
