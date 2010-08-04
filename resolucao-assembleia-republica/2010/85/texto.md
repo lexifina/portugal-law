@@ -1,0 +1,7 @@
+Resolução da Assembleia da República n.º 85/2010
+Isenção da aplicação das taxas devidas ao Instituto da Conservação da Natureza e da Biodiversidade, I. P. (ICNB, I. P.), à população residente nas zonas protegidas e utilização das receitas resultantes, na integração desses residentes neste modelo de desenvolvimento de território e na melhoria dos meios de fiscalização do ICNB, I. P.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+Se aplique um regime de taxas mais justo e adequado, fazendo uma discriminação positiva, segundo o princípio do poluidor-pagador, de acordo com o nível de impacte da iniciativa/actividade sobre o ambiente e ou sobre terceiros (residentes e ou proprietários e ou visitantes), aplicando-se no caso dos residentes a isenção total dessas taxas.
+A aplicação das receitas resultantes dessas taxas, como instrumentos de compensação ambiental, se destine, por um lado, à promoção dos locais e conservação da biodiversidade e ecossistemas, convocando a participação da população nesse processo, como agente de desenvolvimento e salvaguarda do novo modelo de desenvolvimento de território e, por outro, na melhoria dos meios de fiscalização do ICNB, I. P., de modo a dar resposta às situações de crime e atropelo ambiental que se têm verificado nas zonas e áreas protegidas de Portugal.
+Aprovada em 16 de Julho de 2010.
+O Presidente da Assembleia da República, Jaime Gama.
