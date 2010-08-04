@@ -1,0 +1,10 @@
+Resolução da Assembleia da República n.º 84/2010
+Discriminação positiva e políticas de apoio às populações residentes nas áreas protegidas
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+a) O Instituto da Conservação da Natureza e da Biodiversidade, I. P. (ICNB, I. P.), no âmbito da gestão das áreas abrangidas pelo Sistema Nacional de Áreas Classificadas (SNAC), actue como parceiro para o desenvolvimento sustentável das respectivas comunidades locais, para a melhoria da sua qualidade de vida e para a prossecução de actividades económicas sustentáveis geradoras de valor, em particular a actividade agrícola, zootécnica, florestal, artesanal e de turismo da natureza, promovendo parcerias com as autarquias locais, as outras entidades públicas, o sector privado e as organizações representativas da sociedade civil, tais como as associações de agricultores e de regantes, as associações de moradores, os conselhos directivos dos baldios, as organizações não governamentais de ambiente ou as agências de desenvolvimento regional, na prossecução das suas atribuições;
+b) O ICNB, I. P., promova a criação e utilização de logótipos e marcas associadas a cada uma das identidades do SNAC cuja exploração possa contribuir para a valorização dos produtos regionais ou artesanais e das unidades hoteleiras, em especial de turismo da natureza;
+c) Reconheça o princípio geral de isenção de pagamento de taxas que são cobradas pelas diversas entidades da Administração Pública às populações residentes em áreas abrangidas pelo SNAC, em especial as mais desfavorecidas, no seguimento do espírito da Portaria n.º 138-A/2010, de 4 de Março;
+d) Defina, após a audição e devida ponderação dos contributos das entidades representativas das populações residentes, nomeadamente as respectivas autarquias locais, o valor das taxas referidas na alínea anterior;
+e) Reforce a discriminação positiva das autarquias locais abrangidas pelo SNAC.
+Aprovada em 16 de Julho de 2010.
+O Presidente da Assembleia da República, Jaime Gama.
