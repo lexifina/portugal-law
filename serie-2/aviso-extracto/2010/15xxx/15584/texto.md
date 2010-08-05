@@ -1,0 +1,7 @@
+Aviso (extracto) n.º 15584/2010
+Dr. Manuel da Silva Soares, Presidente da Câmara Municipal de Sever do Vouga, torna público, que em conformidade com a deliberação do Órgão Executivo deste Município, tomada na sua reunião ordinária de 9 de Junho de 2010, foi determinada, e para os efeitos do preconizado no Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção que lhe foi introduzida pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro e no Decreto-Lei n.º 181/2009, de 7 de Agosto, a abertura do concernente período de discussão pública da alteração ao Regulamento do Plano de Urbanização da Zona Industrial dos Padrões.
+No âmbito da discussão pública estarão disponíveis para consulta a proposta de alteração do Regulamento, bem como a demais documentação que instrui o processo.
+Qualquer interessado poderá apresentar, por escrito, reclamações, sugestões ou observações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo processo de alteração, durante os 22 dias úteis que terão início no 5.º dia útil após publicação deste aviso no Diário da República.
+As reclamações, sugestões ou observações referidas no ponto anterior, serão prestadas junto da Divisão de Planeamento, Licenciamento e Gestão Urbanística, desta Câmara Municipal, sita na Praça do Município, 3740-262 Sever do Vouga, nas horas normais de expediente, desde as 9 horas até às 16 horas ou via Internet conforme indicações no site http://www.cm-sever.pt/.
+Paços do Concelho de Sever do Vouga, 30 de Julho de 2010. - O Presidente da Câmara, (Dr. Manuel da Silva Soares).
+303549748
