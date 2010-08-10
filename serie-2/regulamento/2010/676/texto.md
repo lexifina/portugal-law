@@ -1,0 +1,4 @@
+Regulamento n.º 676/2010
+Fernando Francisco Teixeira de Barros, Vice-Presidente da Câmara Municipal de Vila Flor, torna público que, após apreciação pública, nos termos do artigo 118.º do Código do Procedimento Administrativo, do Projecto de Regulamento e Tabela de Taxas, preços e tarifas e outras receitas municipais, foi o referido regulamento aprovado definitivamente por deliberação do executivo em reunião ordinária da Câmara Municipal de 26 de Abril de 2010 e em sessão ordinária da Assembleia Municipal realizada em 30 de Abril de 2010, encontrando-se o mesmo disponível nos serviços da Câmara Municipal de Vila Flor, afixado na Divisão Administrativa e Financeira.
+Paços do concelho de vila flor, 04 de Agosto de 2010. - O Vice-Presidente da Câmara Municipal de Vila Flor, Eng.º Fernando Francisco Teixeira de Barros.
+303564368
