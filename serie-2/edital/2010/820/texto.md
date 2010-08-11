@@ -1,0 +1,7 @@
+Edital n.º 820/2010
+Projecto de Regulamento do Serviço Municipal de Protecção Civil de Alpiarça
+Mário Fernando Atracado Pereira, Presidente da Câmara Municipal de Alpiarça, torna público que, por deliberação da Assembleia Municipal de 30 de Junho de 2010, em conformidade com o artigo 118.º do CPA, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, com a redacção dada pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, se submete a apreciação pública a proposta de Regulamento do Serviço Municipal de Protecção Civil de Alpiarça disponível em www.cm-alpiarca.pt, durante o período de 30 dias seguidos a contar da publicação deste Edital no Diário da República.
+As sugestões, propostas, reclamações e ou pareceres tidos por convenientes, deverão ser formulados por escrito, dirigidos ao Presidente da Câmara Municipal de Alpiarça, e endereçados à Câmara Municipal de Alpiarça, Rua José Relvas, 374, 2090-106 Alpiarça; entregues pessoalmente no Gabinete Municipal de Protecção Civil desta Câmara Municipal; ou por correio-electrónico: atendimento@cm-alpiarca.pt, com indicação do nome do remetente, morada e número de identificação fiscal.
+Para constar se publica o presente aviso, e outros de igual teor que vão ser afixados nos lugares públicos do costume, publicado no Diário da República e na página da Internet da Câmara.
+Alpiarça, 13 de Julho de 2010. - O Presidente da Câmara Municipal de Alpiarça, Mário Fernando Atracado Pereira.
+303486105
