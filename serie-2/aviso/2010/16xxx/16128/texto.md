@@ -1,0 +1,8 @@
+Aviso n.º 16128/2010
+Elaboração de Plano de Pormenor para a UOPG 13 - Plano de Urbanização da Meia Praia
+Dr.ª Maria Joaquina Baptista Quintans de Matos, Vice-Presidente da Câmara Municipal de Lagos:
+Faz público que a Câmara Municipal de Lagos, com endereço postal no Edifício Paços do Concelho Séc. XXI, Praça do Município, 8600-293 Lagos, tel. n.º 282780900, fax n.º 282780999 e endereço electrónico expediente.geral@cm-lagos.pt, na sua reunião realizada no dia 02/06/2010, deliberou, de acordo com o n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, promover a elaboração do Plano de Pormenor para a UOPG 13, do Plano de Urbanização da Meia Praia, aprovando os respectivos Termos de Referência e fixando um prazo de 95 dias para a sua elaboração, bem como estabelecer um período de participação de 15 dias para formulação de sugestões e apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento.
+Mais se publicita que a elaboração do presente Plano, decorre de Contrato de Planeamento celebrado em 23/07/2010, com os promotores White Lake, Imobiliária, Unipessoal, Lda., e Monte dos Amores - Sociedade Turística e Agrícola, Lda., conforme prevê o artigo 6.º-A do diploma legal antes referido.
+Durante o período fixado para a participação, que poderá revestir qualquer meio escrito e até 27/08/2010, poderão os interessados consultar os elementos que constituem este processo, no Departamento de Planeamento e Gestão Urbanística desta Câmara Municipal, no endereço acima referido.
+29 de Julho de 2010. - A Vice-Presidente, Dr.ª Maria Joaquina Baptista Quintans de Matos.
+203577069
