@@ -1,0 +1,5 @@
+Aviso n.º 193/2010
+Por ordem superior se torna público que, em 20 de Maio de 2003 e em 25 de Junho de 2010, foram emitidas notas, respectivamente, pelo Departamento dos Negócios Estrangeiros da República das Filipinas e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, em que se comunica terem sido cumpridas as respectivas formalidades internas de aprovação do Acordo Cultural entre a República Portuguesa e a República das Filipinas, assinado em Manila em 8 de Novembro de 2002.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 5/2010, de 12 de Abril, publicado no Diário da República, 1.ª série, n.º 70, da mesma data.
+Nos termos do artigo 10.º do Acordo, este entra em vigor após a data da recepção da última notificação pelas Partes, por via diplomática, de que foram cumpridos os respectivos procedimentos legais internos exigidos para o efeito, ou seja, 25 de Junho de 2010.
+Direcção-Geral de Política Externa, 3 de Agosto de 2010. - O Director-Geral, Nuno Filipe Alves Salvador e Brito.
