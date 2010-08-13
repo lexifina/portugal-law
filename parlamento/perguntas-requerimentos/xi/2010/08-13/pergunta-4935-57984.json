@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "57984",
+  "tipo": "Pergunta",
+  "numero": "4935",
+  "data_registo": "2010-08-13",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Remuneração de Gestores - PROPNERY - Propriedades e Equipamentos, SA.",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1102",
+        "nome": "Pedro Mota Soares"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1922",
+        "nome": "Pedro Brandão Rodrigues"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4057",
+        "nome": "Assunção Cristas"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2419",
+        "nome": "Cecília Meireles"
+      }
+    ],
+    "DataEnvio": "2010-08-17",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-08-17",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-09-13",
+            "docRemetida": null,
+            "entidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764e6d4d314e7a45784d4745744e6a6b344d4330304e6a46684c574578595467744e7a55785a44557a5a546869595751784c6e426b5a673d3d&fich=6c57110a-6980-461a-a1a8-751d53e8bad1.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-08-13",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764f54646a5a5445305a5759744e544a6a4d5330304e5441774c5749314f5749744f5749324f544d784e6a686c4f544e6a4c6e426b5a673d3d&fich=97ce14ef-52c1-4500-b59b-9b693168e93c.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "57984",
+    "Legislatura": "XI",
+    "Nr": "4935",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "535168",
+        "obs": null,
+        "pag": [
+          "13-16"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "188",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/01/188S1/2010-08-18/13?pgs=13-16&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
