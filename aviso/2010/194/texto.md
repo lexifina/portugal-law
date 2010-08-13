@@ -1,0 +1,5 @@
+Aviso n.º 194/2010
+Por ordem superior se torna público que foram emitidas notas pelo Embaixada da República Francesa e pelo Ministério dos Negócios Estrangeiros, respectivamente em 8 de Outubro de 2008 e em 4 de Maio de 2010, tendo a última notificação sido recebida pela Embaixada da República Francesa em Lisboa em 24 de Junho de 2010, em que se comunica terem sido cumpridos os procedimentos internos exigidos para a entrada em vigor do Acordo entre o Governo da República Portuguesa e o Governo da República Francesa sobre o Reconhecimento de Períodos de Estudos e de Graus e Diplomas no Ensino Superior, assinado em Lisboa em 22 de Fevereiro de 2008.
+Portugal é Parte neste Acordo, aprovado pelo Decreto n.º 9/2010, publicado no Diário da República, 1.ª série, n.º 81, de 27 de Abril de 2010.
+Nos termos do artigo 7.º, o Acordo entrou em vigor em 24 de Junho de 2010, data da recepção da última notificação a comunicar o cumprimento dos procedimentos internos exigidos para a entrada em vigor.
+Direcção-Geral dos Assuntos Europeus, 28 de Julho de 2010. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
