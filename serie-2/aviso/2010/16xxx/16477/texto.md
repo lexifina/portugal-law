@@ -1,0 +1,4 @@
+Aviso n.º 16477/2010
+Fernanda Maria Silva dos Santos Anunciação, Presidente da Junta de Freguesia de Casal de Cambra, Concelho de Sintra, torna público que a Assembleia de Freguesia de Casal de Cambra, sob proposta da Junta de Freguesia aprovada em reunião realizada em 08/04/2010 e cumpridas as formalidades legais constantes no artigo 118.º do Código de Procedimento Administrativo, deliberou, na Sessão Ordinária realizada em 16/04/2010 aprovar o - Regulamento de Registo, Classificação e Licenciamento de Canídeos e Gatídeos da Freguesia de Casal de Cambra. O referido regulamento entrará em vigor no 1.º dia útil após a afixação do respectivo edital nos locais de estilo da Freguesia e publicação no sítio electrónico da Junta de Freguesia de Casal de Cambra.
+Casal de Cambra, 29 de Julho de 2010. - A Presidente, Fernanda Maria Silva dos Santos Anunciação.
+303595415
