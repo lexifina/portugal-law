@@ -1,7 +1,3 @@
-## Capítulo VII
-
-## Carreira docente
-
 ## Secção I
 
 ## Contagem de tempo de serviço
