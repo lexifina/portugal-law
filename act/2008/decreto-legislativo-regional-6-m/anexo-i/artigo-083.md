@@ -1,7 +1,3 @@
-## Capítulo X
-
-## Condições de trabalho
-
 ## Secção I
 
 ## Férias

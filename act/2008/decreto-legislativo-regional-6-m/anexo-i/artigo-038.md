@@ -1,7 +1,3 @@
-## Capítulo VII
-
-## Carreira docente
-
 # Artigo 38.º
 
 ### Conteúdo funcional
