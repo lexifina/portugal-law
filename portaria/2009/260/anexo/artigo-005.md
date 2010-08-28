@@ -14,10 +14,4 @@ d) Regime nacional previsto no Decreto-Lei n.º 180/95, de 26 de Julho, relativo
 
 e) Outros regimes de qualidade reconhecidos a nível nacional, que cumpram os requisitos previstos no n.º 2 do artigo 22.º do Regulamento (CE) n.º 1974/2006, da Comissão, de 15 de Dezembro.
 
-2 - As pessoas referidas no artigo anterior devem ainda reunir as seguintes condições:
-
-a) Encontrarem-se legalmente constituídas, quando se trate de pessoas colectivas;
-
-b) Possuírem a situação regularizada face à administração fiscal e à segurança social;
-
-c) Não estarem abrangidas por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000.
+2 - (Revogado.)

@@ -8,15 +8,15 @@ a) Modo de produção biológico (MPB);
 
 b) Denominação de origem protegida (DOP):
 
-i) Mais de duas categorias de produtos certificados;
+i) Três ou mais produtos certificados;
 
-ii) Uma a duas categorias de produtos certificados;
+ii) Um a dois produtos certificados;
 
 c) Indicação geográfica protegida (IGP):
 
-i) Mais de duas categorias de produtos certificados;
+i) Três ou mais produtos certificados;
 
-ii) Uma a duas categorias de produtos certificados;
+ii) Um a dois produtos certificados;
 
 d) Especialidade tradicional garantida (ETG);
 
