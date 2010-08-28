@@ -17,3 +17,7 @@ b) Uma descrição detalhada das competências técnicas dos recursos humanos en
 c) Descrição das actividades técnicas a prosseguir, em função da tipologia da operação definida no número anterior e respectivos prazos de execução, identificando as acções destinadas a promover a sua valorização económica.
 
 3 - Não se encontram abrangidas pelos benefícios dos apoios previstos no presente Regulamento as espécies vegetais ornamentais ou florestais.
+
+4 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem, desde que as respectivas operações não estejam concluídas antes da aprovação dos pedidos de apoio.
+
+5 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.

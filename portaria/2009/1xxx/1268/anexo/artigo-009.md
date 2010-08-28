@@ -14,7 +14,7 @@ d) Cumprir as obrigações legais, designadamente as fiscais e para com a segura
 
 e) Cumprir as normas legais aplicáveis em matéria de segurança e higiene no trabalho;
 
-f) Manter um sistema de contabilidade nos termos previstos na alínea e) do n.º 1 do artigo 6.º;
+f) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido;
 
 g) Manter a actividade existente à data da candidatura e as condições legais necessárias ao exercício da mesma, durante o período de cinco anos a contar da data de celebração do contrato, ou até ao termo da operação, se tal termo ultrapassar os cinco anos;
 

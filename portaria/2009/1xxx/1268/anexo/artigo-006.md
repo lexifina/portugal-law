@@ -8,11 +8,11 @@ a) Estarem legalmente constituídos quando se trate de pessoas colectivas;
 
 b) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos;
 
-c) Possuírem a situação regularizada face à administração fiscal e à segurança social;
+c) [Revogada.]
 
 d) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;
 
-e) Disporem de contabilidade actualizada e organizada de acordo com a legislação em vigor;
+e) [Revogada.]
 
 f) Disporem de capacidade técnica, nomeadamente meios humanos e materiais de apoio à conservação in situ ou ex situ.
 
