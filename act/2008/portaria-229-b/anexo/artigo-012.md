@@ -10,13 +10,13 @@
 
 4 - Durante o período de conversão para modo de produção biológico, os montantes dos apoios são majorados em 20 %, por um período máximo de três anos.
 
-5 - Para efeitos do número anterior, só são elegíveis as áreas que nunca beneficiaram de apoio agro-ambiental à conversão para modo de produção biológico.
+5 - Para efeitos do número anterior, só são elegíveis os beneficiários que nunca beneficiaram de apoio agro-ambiental à conversão para modo de produção biológico.
 
 6 - As superfícies com culturas permanentes são pagas à área elegível.
 
 7 - As superfícies com culturas temporárias, com excepção das culturas forrageiras, são pagas à área elegível anualmente semeada ou plantada na área candidata.
 
-8 - A superfície forrageira da unidade de produção, em modo de produção biológico ou em modo de produção integrado, é paga na proporção directa do efectivo pecuário próprio anualmente declarado, com excepção dos equídeos, expresso em cabeça normal (CN), até ao limite máximo de 1 ha por CN.
+8 - A superfície forrageira da unidade de produção, em modo de produção biológico ou em modo de produção integrado, é paga na proporção directa do efectivo pecuário próprio anualmente declarado e elegível, com excepção dos equídeos, expresso em cabeça normal (CN), até ao limite máximo de 1 ha por CN.
 
 9 - Sem prejuízo do número anterior, em unidades de produção sem efectivo pecuário ou com efectivo pecuário total inferior ou igual a 2,000 CN, as culturas forrageiras anuais podem ser pagas em função da área semeada.
 
@@ -32,4 +32,4 @@ b) (euro) 600 euros por hectare, no caso de culturas temporárias, incluindo hor
 
 c) (euro) 450 euros por hectare, no caso de pastagens permanentes.
 
-13 - Nas parcelas ocupadas com culturas temporárias sujeitas ao compromisso de não recorrer a monda química em pelo menos 5 % da área por parcela, não é aplicável o disposto no n.º 7, sendo pagas a área elegível semeada ou plantada e a área elegível não semeada ou não plantada até ao limite de 5 % da área total da parcela.
+13 - Nas parcelas ocupadas com culturas temporárias sujeitas ao compromisso de não recorrer a monda química em pelo menos 5 % da área por parcela, não é aplicável o disposto no n.º 7, sendo pagas a área elegível semeada ou plantada e a área elegível não semeada ou não plantada até ao limite de 5 % da área semeada ou plantada.

@@ -6,7 +6,7 @@ Podem beneficiar dos apoios previstos no presente capítulo as entidades referid
 
 a) Tenham um encabeçamento de animais em pastoreio inferior ou igual a:
 
-i) 3,000 CN por hectare (ha) de superfície agrícola e agro-florestal, no caso de unidades de produção em que mais de 50 % desta superfície se localize em zonas de montanha ou de unidades de produção até 2,00 ha de superfície agrícola e agro-florestal, incluindo áreas de baldio;
+i) 2,000 CN por hectare (ha) de superfície agrícola e agro-florestal, no caso de unidades de produção em que mais de 50 % desta superfície se localize em zonas de montanha ou de unidades de produção até 2,00 ha de superfície agrícola e agro-florestal, incluindo áreas de baldio;
 
 ii) 2,000 CN por ha de superfície forrageira nos restantes casos;
 

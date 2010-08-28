@@ -12,11 +12,11 @@ c) Celebrem contrato, antes do início do compromisso, com organismo de controlo
 
 d) Sem prejuízo do previsto no normativo aplicável ao respectivo modo de produção, tenham um encabeçamento de animais em pastoreio inferior ou igual a:
 
-i) 3,000 CN por hectare de superfície agrícola e agro-florestal, no caso de unidades de produção em que mais de 50 % desta superfície se localize em zonas de montanha ou de unidades de produção até 2 ha de superfície agrícola e agro-florestal, incluindo áreas de baldio;
+i) 2,000 CN por hectare de superfície agrícola e agro-florestal, no caso de unidades de produção em que mais de 50 % desta superfície se localize em zonas de montanha ou de unidades de produção até 2 ha de superfície agrícola e agro-florestal, incluindo áreas de baldio;
 
 ii) 2,000 CN/ha de superfície forrageira nos restantes casos;
 
-e) Apresentem, no caso de a unidade de produção utilizar áreas de baldio, declaração do órgão de gestão do baldio em como essa área se encontra submetida a um dos modos de produção e controlada por OC reconhecido, estando limitada à utilização por animais no mesmo modo de produção, e se responsabiliza, nessas áreas, pelo cumprimento dos requisitos identificados no artigo 5.º e dos compromissos referidos na subalínea iii) da alínea b) do n.º 1 do artigo 9.º
+e) Apresentem, no caso de a unidade de produção utilizar áreas de baldio, declaração do órgão de gestão do baldio em como essa área se encontra submetida a um dos modos de produção e controlada por OC reconhecido, estando limitada à utilização por animais no mesmo modo de produção, a menos que se possa provar que foram devidamente segregados de quaisquer outros animais de criação convencional ou diferente modo de produção, e que se responsabiliza, nessas áreas, pelo cumprimento dos requisitos identificados no artigo 5.º e dos compromissos referidos na subalínea iii) da alínea b) do n.º 1 do artigo 9.º
 
 2 - Para efeitos de aplicação da alínea a) do número anterior, os beneficiários devem submeter ao mesmo modo de produção:
 

@@ -43,3 +43,5 @@ s) «Superfície forrageira» a terra própria ou de baldio que é utilizada dir
 t) «Unidade de produção» o conjunto de parcelas agrícolas, agro-florestais ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização;
 
 u) «Zona de montanha» as regiões definidas na Portaria n.º 377/88, de 11 de Junho, de acordo com a Directiva n.º 75/268/CEE, do Conselho, de 28 de Abril.
+
+v) «Requisitos mínimos relativos à utilização de adubos e produtos fitossanitários» as condições base exigidas para o acesso e atribuição dos apoios agro-ambientais, relativas à utilização dos adubos e produtos fitossanitários e em zonas classificadas como protecção às captações de água para abastecimento público, complementares às normas obrigatórias estabelecidas nos termos dos artigos 5.º e 6.º e os anexos ii e iii do Regulamento (CE) n.º 73/2009, do Conselho, de 19 de Janeiro.

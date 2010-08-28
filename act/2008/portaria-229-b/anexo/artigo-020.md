@@ -36,7 +36,7 @@ ii) Segunda - outras unidades de produção.
 
 4 - A decisão é comunicada pelo IFAP, I. P., aos beneficiários até 15 de Setembro do ano do pedido de apoio.
 
-5 - Nos termos do n.º 3 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, a concessão do apoio é formalizada através da assinatura de um termo de aceitação pelo beneficiário.
+5 - Nos termos do n.º 3 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, a concessão do apoio é formalizada através da assinatura de um termo de aceitação pelo beneficiário, com a apresentação do primeiro pedido de pagamento.
 
 6 - Sem prejuízo do n.º 3, no caso da acção 'Conservação do solo', são aprovados pedidos de apoio até que se atinja uma área de rotação sob compromisso de 60 000 ha.
 
