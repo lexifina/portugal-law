@@ -28,7 +28,7 @@ e) Membros da sociedade civil, tais como mulheres, jovens, consumidores, agentes
 
 6 - Os GAL ou a EG devem ainda:
 
-a) Ter a situação regularizada face à administração fiscal e à segurança social;
+a) [Revogada;]
 
 b) Não estar abrangidos por quaisquer disposições de exclusão resultantes de incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;
 

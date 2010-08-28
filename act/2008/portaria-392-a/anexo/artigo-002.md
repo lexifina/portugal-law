@@ -4,7 +4,7 @@
 
 Para efeitos de aplicação do presente Regulamento, e para além das definições constantes do Decreto-Lei n.º 37-A/2008, entende-se por:
 
-a) «Abordagem LEADER» o modelo de governação de um território de intervenção, caracterizado pela participação dos agentes locais nas tomadas de decisão, devidamente organizados em parcerias denominadas grupos de acção local, com uma estratégia de desenvolvimento para o território ao qual se destina, compreendendo a cooperação com outros territórios e integrando-se em redes;
+a) «Abordagem LEADER», o modelo de governação de um território de intervenção, caracterizado pela implicação dos agentes locais na construção de uma estratégia de desenvolvimento e pela sua participação activa nas tomadas de decisão, devidamente organizados em parcerias denominadas grupos de acção local, compreendendo a cooperação com outros territórios e integrando-se em redes;
 
 b) «Contrato de parceria» o documento de constituição de uma parceria sem personalidade jurídica, por via do qual entidades privadas e entidades públicas se obrigam, de forma duradoura, a assegurar o desenvolvimento de actividades tendentes à satisfação de necessidades colectivas e no qual se encontram estabelecidos os objectivos dessa parceria e as obrigações dos seus membros;
 

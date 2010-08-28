@@ -22,7 +22,7 @@ e) Representar o GAL junto das autoridades nacionais e comunitárias;
 
 f) Aprovar o «Manual de procedimentos» proposto pela ETL, garantindo que o mesmo incorpora as orientações técnicas da autoridade de gestão do PRODER;
 
-g) Apresentar à autoridade de gestão do PRODER os pedidos de apoio e pedidos de pagamento, no âmbito das medidas n.os 3.4 e 3.5;
+g) Apresentar à autoridade de gestão do PRODER os pedidos de apoio no âmbito das medidas n.os 3.4 e 3.5;
 
 h) Elaborar e submeter à aprovação da autoridade de gestão do PRODER as propostas dos avisos de abertura de concursos referentes às medidas n.os 3.1 e 3.2;
 
