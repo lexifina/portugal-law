@@ -17,3 +17,5 @@ b) Manter as árvores, os muros de pedra posta e as sebes arbustivas ou arbórea
 c) Manter a vegetação arbórea e arbustiva ao longo das linhas de água, sem prejuízo das limpezas e regularizações necessárias ao adequado escoamento.
 
 3 - A obrigação referida na alínea a) do n.º 1 deve ser cumprida pelo beneficiário durante um período de cinco anos a contar do ano a que respeita o primeiro pagamento compensatório às zonas desfavorecidas, no âmbito deste Regulamento ou de anteriores programas, ainda que não apresente novo pedido de apoio.
+
+4 - Findo o período de tempo referido no número anterior, os beneficiários que reúnam os critérios de elegibilidade previstos no artigo 7.º podem apresentar candidaturas anuais, seguidas ou interpoladas, aos apoios previstos neste Regulamento.

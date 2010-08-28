@@ -1,5 +1,5 @@
 # Artigo 5.º
 
-### Condicionalidade
+### Condicionalidade e requisitos mínimos
 
-Os apoios previstos no presente Regulamento estão subordinados ao cumprimento dos requisitos legais de gestão e às boas condições agrícolas e ambientais, em conformidade com os artigos 4.º e 5.º e os anexos iii e iv do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, e com a correspondente legislação nacional.
+Os beneficiários devem cumprir na exploração os requisitos legais de gestão e as boas condições agrícolas e ambientais, em conformidade com os artigos 5.º, 6.º e 8.º e os anexos ii e iii do Regulamento (CE) n.º 73/2009, do Conselho, de 19 de Janeiro, e com a correspondente legislação nacional.
