@@ -1,0 +1,129 @@
+## Capítulo XVIII
+
+## Alteração ao Regulamento de Aplicação da Acção n.º 1.4.2, «Informação e Promoção de Produtos de Qualidade», aprovado pela Portaria n.º 346/2009, de 3 de Abril
+
+# Artigo 23.º
+
+### Alteração ao Regulamento aprovado pela Portaria n.º 346/2009, de 3 de Abril
+
+Os artigos 7.º, 11.º, 12.º, 13.º, 14.º, 15.º, 18.º, 19.º e 21.º e o anexo ii do Regulamento de Aplicação da Acção n.º 1.4.2, «Informação e Promoção de Produtos de Qualidade», aprovado pela Portaria n.º 346/2009, de 3 de Abril, passam a ter a seguinte redacção:
+
+«Artigo 7.º
+
+[...]
+
+1 - ...
+
+2 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem, desde que as respectivas operações não estejam concluídas antes da aprovação dos pedidos de apoio.
+
+3 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.
+
+4 - (Anterior n.º 2.)
+
+5 - (Anterior n.º 3.)
+
+6 - (Anterior n.º 4.)
+
+7 - (Anterior n.º 5.)
+
+8 - (Anterior n.º 6.)
+
+Artigo 11.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - A alteração dos critérios de selecção referidos nos números anteriores, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.
+
+Artigo 12.º
+
+[...]
+
+1 - Os pedidos de apoio são submetidos ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, na modalidade de concurso, de período definido ou de período contínuo, consoante decisão do gestor, sendo os respectivos períodos de abertura divulgados pela autoridade de gestão com uma antecedência não inferior a 10 dias seguidos relativamente ao início do prazo de submissão.
+
+2 - ...
+
+Artigo 13.º
+
+Avisos de abertura e anúncios
+
+1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Os critérios de selecção e respectivos factores e fórmulas, em função dos objectivos e prioridade fixados.
+
+2 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.
+
+Artigo 14.º
+
+[...]
+
+1 - ...
+
+2 - São solicitados aos candidatos, quando se justifique, pelo secretariado técnico, os documentos exigidos ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamentos para a não aprovação do pedido.
+
+3 - ...
+
+4 - ...
+
+Artigo 15.º
+
+Readmissão de pedidos de apoio
+
+Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental de acordo com a hierarquização obtida no respectivo concurso ou período.
+
+Artigo 18.º
+
+[...]
+
+1 - ...
+
+2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas e pagas, devendo os comprovativos das mesmas ser entregues no secretariado técnico, no prazo de cinco dias úteis a contar da data de apresentação do pedido.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - Quando previsto no contrato de financiamento, pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, mediante a constituição de caução correspondente a 110 % do montante do adiantamento.
+
+Artigo 19.º
+
+[...]
+
+1 - O secretariado técnico analisa os pedidos de pagamento e emite o relatório de análise, no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P.
+
+Artigo 21.º
+
+[...]
+
+1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.
+
+2 - Para além do disposto no número anterior, a operação está sujeita a controlo até 24 meses após o pagamento final.
+
+3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
+
+ANEXO II
+
+[...]
+
+(a) Quando se refere a pedidos apresentados em parceria que abranjam, no mínimo, três produtos.»
