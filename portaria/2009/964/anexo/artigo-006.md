@@ -12,8 +12,8 @@ c) Ter a titularidade da exploração agrícola;
 
 d) Possuir capacidade profissional adequada tal como se encontra definida na alínea e) do artigo 4.º da Portaria n.º 289-A/2008, de 11 de Abril;
 
-e) Ter a situação regularizada face à administração fiscal e à segurança social;
+e) [Revogada.]
 
 f) Não estar abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;
 
-g) Dispor de contabilidade actualizada e organizada de acordo com a legislação em vigor.
+g) [Revogada.]

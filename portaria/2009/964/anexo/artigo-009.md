@@ -6,7 +6,7 @@ Os beneficiários dos apoios previstos no presente Regulamento devem cumprir, al
 
 a) Executar a operação nos termos e prazos fixados no contrato de financiamento;
 
-b) Manter regularizada a situação face à administração fiscal e à segurança social;
+b) Ter a situação regularizada face à administração fiscal e à segurança social;
 
 c) Manter as condições legais necessárias ao exercício da respectiva actividade, nomeadamente a situação regularizada em matéria de licenciamentos, nos termos legalmente exigíveis;
 
@@ -18,4 +18,4 @@ f) Manter a actividade existente à data da candidatura e as condições legais 
 
 g) Garantir que todos os pagamentos e recebimentos referentes à operação são efectuados através de conta bancária específica para o efeito;
 
-h) Manter um sistema de contabilidade nos termos previstos no artigo 6.º
+h) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido.
