@@ -22,6 +22,6 @@ f) Fornecer serviços de sistema através de contratação bilateral com o opera
 
 g) Fornecer energia eléctrica em situação de indisponibilidade da RESP aos consumidores que estejam ligados à instalação de cogeração.
 
-2 - Para efeitos do fornecimento referido na alínea b) do número anterior, o cogerador pode estabelecer linhas diretas próprias para o abastecimento de terceiros, ou linhas internas para abastecimento próprio, as quais não integram a RESP.
+2 - Para efeitos do fornecimento referido na alínea b) do número anterior, o cogerador pode estabelecer linhas directas próprias, as quais não integram a RESP.
 
 3 - Para efeitos do disposto na alínea d) do n.º 1, entende-se como electricidade de reserva a electricidade que deve ser fornecida pela rede eléctrica sempre que haja perturbação, inclusivamente em períodos de manutenção ou de avaria do processo de cogeração, e como electricidade de reforço, a electricidade fornecida pela rede eléctrica caso a procura de electricidade seja superior à produção pelo processo de cogeração.

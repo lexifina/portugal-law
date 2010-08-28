@@ -2,9 +2,9 @@
 
 ### Articulação com o licenciamento das instalações eléctricas
 
-1 - (Revogado)
+1 - O licenciamento das instalações de cogeração é regido pelas disposições aplicáveis do Regulamento de Licenças para Instalações Eléctricas (RLIE) em tudo o que não contrarie o disposto no presente decreto-lei.
 
-2 - (Revogado)
+2 - A atribuição de licença de produção em cogeração integra a licença de estabelecimento prevista no RLIE.
 
 3 - Sem prejuízo do disposto no número seguinte, a licença de exploração das instalações referidas nos números anteriores é emitida após vistoria para verificação da sua conformidade com os termos da respectiva licença de produção em cogeração e com as normas legais e os regulamentos em vigor, nomeadamente as respeitantes aos regimes jurídicos de prevenção e controlo integrados da poluição e do comércio europeu de licenças de emissão de gases com efeito de estufa, quando aplicáveis.
 

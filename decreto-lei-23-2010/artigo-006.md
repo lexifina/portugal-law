@@ -2,14 +2,12 @@
 
 ### Mudança de modalidade de regime remuneratório
 
-1 - O cogerador pode mudar de regime remuneratório a qualquer momento, do especial para o geral, nos termos dos números seguintes e desde que preencha os requisitos aplicáveis à submodalidade de destino.
+1 - O cogerador com instalações de cogeração com uma potência eléctrica instalada inferior ou igual a 100 MW que se encontre enquadrado na modalidade geral do regime remuneratório e detenha uma cogeração de elevada eficiência pode mudar para a modalidade especial, após três anos contados do início da exploração.
 
-2 - O cogerador que se encontre enquadrado na modalidade especial do regime remuneratório pode mudar para qualquer submodalidade da modalidade geral, desde que cumpra os requisitos aplicáveis à submodalidade de destino, apenas podendo regressar à modalidade de origem após, pelo menos, dois anos de permanência na modalidade geral.
+2 - O cogerador com instalações de cogeração com uma potência eléctrica instalada inferior ou igual a 20 MW que se encontre enquadrado na modalidade especial do regime remuneratório pode mudar para o regime geral, apenas podendo regressar à modalidade de origem após, pelo menos, um ano de permanência efectiva na modalidade geral.
 
-3 - (Revogado).
+3 - O cogerador com instalações de cogeração com uma potência eléctrica instalada superior a 20 MW e inferior ou igual a 100 MW que se encontre enquadrado na modalidade especial do regime remuneratório pode mudar para a modalidade geral, apenas podendo regressar à modalidade de origem após três anos de permanência efectiva na modalidade geral.
 
-4 - O procedimento de mudança de modalidade previsto nos n.os 1 e 2, nomeadamente as matérias relativas à sua admissibilidade, ao prazo de pré-aviso mínimo e à data de produção de efeitos daquela, é estabelecido em portaria do membro do Governo responsável pela área da energia.
+4 - As mudanças de modalidade a que se referem os números anteriores são precedidas de pré-aviso mínimo de 60 dias à DGEG, só produzindo efeitos a partir do início do semestre subsequente ao da comunicação ou, se for o caso, da data em que estiver cumprido o disposto no n.º 3 do artigo 18.º, cessando automaticamente a aplicação da modalidade de origem.
 
-5 - A mudança de modalidade de regime remuneratório a que se referem os números anteriores não interrompe ou suspende a contagem dos prazos iniciais que se encontrem em curso nos termos dos artigos 5.º ou 5.º-A.
-
-6 - Sem prejuízo do disposto no número anterior, consideram-se suspensos os efeitos do contrato celebrado com o CUR ao abrigo do artigo 5.º, devendo o cogerador, quando mude da modalidade especial do regime remuneratório para a submodalidade A da modalidade geral do regime remuneratório, celebrar novo contrato com o CUR, nos termos do disposto no artigo 5.º-A.
+5 - A mudança de modalidade de regime remuneratório a que se referem os números anteriores não interrompe ou suspende a contagem dos prazos iniciada nos termos do artigo anterior.

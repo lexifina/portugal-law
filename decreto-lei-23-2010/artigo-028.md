@@ -28,6 +28,6 @@ i) O número de horas de funcionamento do equipamento em cogeração.
 
 a) A facultar à EEGO todas as informações e os documentos necessários à emissão e verificação das garantias e certificados de origem;
 
-b) A facilitar o acesso às instalações de produção para o bom desempenho das funções inerentes à emissão e verificação das garantias e certificados de origem;
+b) A autorizar o acesso às instalações de produção por parte de técnicos da EEGO, ou de entidades credenciadas pela DGEG e que prestem serviços à EEGO, no desempenho das funções que lhe são cometidas no presente decreto-lei;
 
-c) A permitir a realização, prestando a colaboração necessária, de ações de auditoria e monitorização das instalações de cogeração e dos equipamentos de produção e medição de energia, bem como do combustível utilizado e da respetiva fração renovável.
+c) A permitir a realização, prestando a colaboração necessária, de acções de auditoria e monitorização das instalações de cogeração e dos equipamentos de produção e medição de energia, bem como do combustível utilizado e da respectiva fracção renovável, no caso de utilização de biomassa, em termos de conteúdo energético, em conformidade com o manual de procedimentos da EEGO.

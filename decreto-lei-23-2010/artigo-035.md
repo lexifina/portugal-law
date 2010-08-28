@@ -1,7 +1,3 @@
-## Capítulo VIII
-
-## Disposições finais
-
 # Artigo 35.º
 
 ### Operacionalidade da plataforma electrónica de licenciamento

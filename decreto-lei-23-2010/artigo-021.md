@@ -6,13 +6,13 @@
 
 ### Noção e conteúdo
 
-1 - Qualquer produtor de eletricidade em instalações de cogeração de elevada eficiência pode solicitar à entidade emissora de garantias de origem (EEGO) a emissão de garantia de origem referente à eletricidade produzida em cogeração.
+1 - Qualquer produtor de electricidade em instalações de cogeração de elevada eficiência, ou outras instalações de cogeração que por redução do período de análise ou por requalificação das energias produzidas cumpra os critérios previstos no artigo 3.º para a cogeração de elevada eficiência pode solicitar à entidade emissora de garantias de origem (EEGO) a emissão de garantia de origem referente à electricidade produzida em cogeração.
 
-2 - (Revogado).
+2 - Considera-se electricidade produzida em cogeração a electricidade produzida num processo ligado à produção de calor útil e calculada de acordo com a metodologia estabelecida no anexo ii do presente decreto-lei, do qual faz parte integrante.
 
 3 - A garantia de origem destina-se:
 
-a) A comprovar que a quantidade de eletricidade vendida é produzida em cogeração de elevada eficiência;
+a) A comprovar a quantidade de electricidade produzida em cogeração de elevada eficiência;
 
 b) A certificar que a instalação permite a obtenção de uma poupança de energia primária de acordo com o estabelecido no anexo iii.
 
@@ -24,30 +24,22 @@ a) O poder calorífico inferior da fonte de combustível a partir da qual foi pr
 
 b) O tipo e as quantidades de cada combustível utilizado;
 
-c) A quantidade e a utilização do calor produzido em combinação com a eletricidade;
+c) A utilização do calor produzido em combinação com a electricidade;
 
 d) As datas e os locais da produção;
 
-e) A quantidade de eletricidade produzida em cogeração de elevada eficiência, nos termos do anexo II, que é coberta pela garantia de origem;
+e) A quantidade de electricidade produzida em cogeração de elevada eficiência, abrangida pela garantia de origem;
 
-f) A poupança de energia primária, calculada de acordo com o anexo III, com base nos valores de referência harmonizados em matéria de eficiência, estabelecidos nos termos do referido anexo;
+f) A poupança de energia primária, calculada de acordo com o anexo iii, com base em valores de referência harmonizados em matéria de eficiência, como refere o n.º 6 do artigo 3.º;
 
-g) A eficiência elétrica e térmica nominal da instalação de cogeração;
+g) As emissões de CO(índice 2) associadas à produção de electricidade;
 
-h) Se, e em que medida, a instalação beneficiou de apoio ao investimento;
+h) As emissões evitadas de CO(índice 2) por MWh produzido de electricidade, quando comparado com a produção separada de calor e electricidade utilizando os mesmos combustíveis;
 
-i) Se, e em que medida, a unidade de energia beneficiou por qualquer outra via de um regime de apoio nacional, e o tipo de regime de apoio;
+i) Informações complementares que venham a ser estabelecidas por despacho do director-geral de Energia e Geologia.
 
-j) A identidade, localização, tipo e capacidade (térmica e elétrica) da instalação de cogeração em que a energia foi produzida e a data da sua entrada em serviço;
+6 - Sem prejuízo do disposto no número seguinte, as garantias de origem emitidas em outros Estados membros são reconhecidas pelo Estado Português.
 
-l) A data de emissão, o número de identificação único e a entidade emissora da garantia de origem.
+7 - O reconhecimento de uma garantia de origem proveniente de outro Estado membro pode ser recusado, sempre que, com base em critérios objectivos, transparentes e não discriminatórios, existam, nomeadamente, fundadas suspeitas de fraude.
 
-6 - A garantia de origem deve ter um formato normalizado de 1 MWh, correspondente à produção líquida de eletricidade medida à saída da instalação e exportada para a rede.
-
-7 - Sem prejuízo do disposto no número seguinte, as garantias de origem emitidas em outros Estados membros são reconhecidas pelo Estado Português.
-
-8 - O reconhecimento de uma garantia de origem proveniente de outro Estado membro pode ser recusado, sempre que, com base em critérios objectivos, transparentes e não discriminatórios, existam, nomeadamente, fundadas suspeitas de fraude.
-
-9 - Os prémios e a tarifa de referência previstos no artigo 4.º-A apenas são pagos contra a entrega ao CUR de garantias de origem emitidas pela EEGO, a pedido do cogerador, devendo reverter para a EEGO.
-
-10 - O disposto no n.º 1 não obsta à obtenção pela cogeração renovável da garantia de origem prevista no Decreto-Lei n.º 141/2010, de 31 de dezembro, alterado pelo Decreto-Lei n.º 39/2013, de 18 de março, no que respeita à energia de fonte renovável.
+8 - Os prémios e a tarifa de referência previstos no artigo 4.º apenas são pagos contra a entrega ao CUR de garantias de origem emitidas pela EEGO que certifiquem a poupança de energia primária alcançada, as quais serão imediatamente canceladas pela EEGO.

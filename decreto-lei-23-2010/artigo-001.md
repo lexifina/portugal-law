@@ -6,12 +6,12 @@
 
 ### Objecto
 
-1 - O presente decreto-lei estabelece a disciplina da atividade de cogeração e procede à transposição para a ordem jurídica interna da Diretiva n.º 2012/27/UE, do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativa à eficiência energética, que altera as Diretivas n.os 2009/125/CE, do Parlamento Europeu e do Conselho, 21 de outubro de 2009, e 2010/30/UE, do Parlamento Europeu e do Conselho, de 19 de maio de 2010, e revoga as Diretivas n.os 2004/8/CE, do Parlamento Europeu e do Conselho, de 11 de fevereiro de 2004, e 2006/32/CE, do Parlamento Europeu e do Conselho, de 5 de abril de 2006.
+1 - O presente decreto-lei estabelece a disciplina da actividade de cogeração e procede à transposição para a ordem jurídica interna da Directiva n.º 2004/8/CE, do Parlamento Europeu e do Conselho, de 11 de Fevereiro.
 
-2 - (Revogado).
+2 - Para efeitos do presente decreto-lei, entende-se por cogeração a produção simultânea, num processo integrado, de energia térmica e de energia eléctrica e, ou se for o caso, mecânica.
 
-3 - (Revogado).
+3 - A unidade capaz de operar em modo de cogeração designa-se por instalação ou unidade de cogeração e a entidade que detenha uma instalação de cogeração licenciada denomina-se cogerador.
 
-4 - (Revogado).
+4 - As instalações de cogeração com uma capacidade instalada inferior a 1 MW são designadas por cogeração de pequena dimensão.
 
-5 - (Revogado).
+5 - A cogeração de pequena dimensão cuja capacidade máxima seja inferior a 50 kW denomina-se microcogeração.

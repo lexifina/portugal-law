@@ -10,13 +10,9 @@ b) Estabelecer contratos de venda total ou parcial e aquisição de energia elé
 
 c) Observar as condições técnicas e de segurança de ligação às redes de transporte e distribuição da RESP, em conformidade com os regulamentos aplicáveis;
 
-d) Cumprir as regras estabelecidas para a injeção de energia reativa no Regulamento da Rede de Transporte e no Regulamento da Rede de Distribuição e do Regulamento de Relações Comerciais, sem prejuízo do direito previsto na alínea f) do n.º 1 do artigo anterior;
+d) Cumprir as regras estabelecidas para o fornecimento de energia reactiva no Regulamento da Rede de Transporte e no Regulamento da Rede de Distribuição e do Regulamento de Relações Comerciais, sem prejuízo do direito previsto na alínea f) do n.º 1 do artigo anterior;
 
-e) Adquirir e instalar o equipamento de telecontagem para a produção de energia eléctrica;
-
-f) Requerer a atribuição de licença de produção para a realização de alterações ou renovações substanciais à cogeração;
-
-g) Comunicar previamente à DGEG a realização de quaisquer alterações ao centro eletroprodutor que não se reconduzam às alterações previstas na alínea anterior.
+e) Adquirir e instalar o equipamento de telecontagem para a produção de energia eléctrica.
 
 2 - Caso a potência de ligação seja superior a 10 MW e o fornecimento da energia eléctrica não seja efectuado em mercados organizados ou através de contratação bilateral, comunicar ao gestor da RESP envolvida, e ou à concessionária da RNT na sua função de gestor global do Sistema Eléctrico Nacional (SEN), com uma antecedência mínima de 36 horas em relação ao início de um determinado dia, o regime de produção da energia eléctrica que prevê injectar na RESP nesse dia.
 

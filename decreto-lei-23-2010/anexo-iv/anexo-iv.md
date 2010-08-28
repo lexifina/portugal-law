@@ -1,16 +1,16 @@
 # Anexo IV
 
-### Elementos do projeto da instalação e outros elementos a juntar ao pedido de licença de produção em cogeração
+Elementos do projecto da instalação e outros elementos a juntar ao pedido de licença de produção em cogeração
 
-1 - O projeto deve compreender:
+1 - O projecto deve compreender:
 
 a) Memória descritiva:
 
-Memória descritiva e justificativa indicando a natureza, a importância, a função e as características das instalações e do equipamento, as condições gerais do seu estabelecimento e da sua exploração, os sistemas de ligação à terra, as disposições principais adotadas para a produção de eletricidade, sua transformação, transporte e utilização ou a origem e o destino da energia a transportar e as proteções contra sobreintensidades e sobretensões e os seus cálculos, quando se justifique;
+Memória descritiva e justificativa indicando a natureza, a importância, a função e as características das instalações e do equipamento, as condições gerais do seu estabelecimento e da sua exploração, os sistemas de ligação à terra, as disposições principais adoptadas para a produção de electricidade, sua transformação, transporte e utilização ou a origem e o destino da energia a transportar e as protecções contra sobreintensidades e sobretensões e os seus cálculos, quando se justifique;
 
-Descrição, tipos e características dos geradores de energia elétrica, transformadores e aparelhagem de corte e proteção, bem como das caldeiras, das turbinas e de outros equipamentos;
+Descrição, tipos e características dos geradores de energia eléctrica, transformadores e aparelhagem de corte e protecção, bem como das caldeiras, das turbinas e de outros equipamentos;
 
-Identificação das coordenadas retangulares planas do sistema de referência PT-TM06/ETRS89 todos os geradores;
+Identificação das coordenadas rectangulares planas do sistema Hayford-Gauss referidas ao ponto central Melriça (Datum 73) de todos os geradores;
 
 b) Desenhos:
 
