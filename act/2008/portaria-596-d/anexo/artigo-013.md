@@ -1,8 +1,8 @@
 # Artigo 13.º
 
-### Avisos de abertura
+### Avisos de abertura e anúncios
 
-1 - Os avisos de abertura dos concursos são aprovados pelo gestor, após audição da autoridade de gestão, e homologação do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas e indicam, nomeadamente, o seguinte:
+1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:
 
 a) As prioridades visadas;
 
@@ -14,4 +14,6 @@ d) O prazo para apresentação dos pedidos;
 
 e) A dotação orçamental a atribuir;
 
-2 - Os avisos de abertura dos concursos são divulgados em www.proder.pt e publicados em dois jornais de grande circulação e, quando se justifique, num jornal regional relevante na área geográfica do respectivo concurso.
+f) Os critérios de selecção e respectivos factores e fórmulas, em função dos objectivos e prioridade fixados.
+
+2 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.

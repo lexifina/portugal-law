@@ -21,3 +21,5 @@ ii) Na óptica curricular do candidato;
 iii) Na óptica curricular dos formadores;
 
 b) Avaliação do plano de formação relativamente aos conteúdos do aviso do concurso, bem como na relação do custo por hora de formação.
+
+3 - A alteração dos critérios de selecção referidos nos números anteriores, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.
