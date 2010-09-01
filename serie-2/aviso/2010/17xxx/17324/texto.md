@@ -1,0 +1,11 @@
+Aviso n.º 17324/2010
+Alteração do Plano Director Municipal do Cartaxo
+Eixo Economia/Emprego
+Paulo Jorge Vieira Varanda, Licenciado em Engenharia Civil e Vice-Presidente da Câmara Municipal do Cartaxo:
+Torna público, nos termos e para os efeitos do disposto nos artigos 74.º e 96.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, que a Câmara Municipal do Cartaxo, na sua reunião ordinária de 10 de Agosto de 2010, deliberou por unanimidade dar início ao procedimento de alteração do Plano Director Municipal do Cartaxo, sob o eixo Economia/Emprego.
+No âmbito do mesmo procedimento, foi ainda deliberado dar início ao período de participação preventiva previsto no n.º 2 do artigo 77.º do RJIGT pelo prazo de 15 dias úteis a contar da data da publicação deste aviso no Diário da República, para recolha de sugestões, bem como para a apresentação de informações sobre quaisquer questões que possam ser consideradas. Durante este período, os interessados poderão consultar os elementos aprovados em reunião de Câmara, relativos ao presente procedimento de alteração do Plano Director Municipal do Cartaxo na Secção de Administração Urbanística, sita no edifício dos Paços do Concelho, Praça 15 de Dezembro, 2070-050 Cartaxo, ou no site da Câmara Municipal do Cartaxo (www.cm-cartaxo.pt).
+Os interessados deverão apresentar as sugestões, informações ou observações mediante exposição dirigida ao Presidente da Câmara Municipal, devendo nesta constar a identificação e o endereço dos seus autores e a qualidade em que as apresentam.
+Finalmente, foi ainda deliberado dispensar esta alteração do Plano Director Municipal do Cartaxo do procedimento de Avaliação Ambiental Estratégica, de acordo com o estipulado no n.º 5 do artigo 74.º do RJIGT, conjugado com o n.º 2 do artigo 3.º do Decreto-Lei n.º 232/2007, de 15 de Junho.
+Para constar se publica o presente e outros de igual teor que vão ser afixados nos lugares públicos do estilo.
+Paços do Município do Cartaxo, 18 de Agosto de 2010. - O Vice-Presidente da Câmara Municipal, Paulo Jorge Vieira Varanda.
+203635178
