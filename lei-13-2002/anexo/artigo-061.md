@@ -10,7 +10,7 @@
 
 ### Provimento das vagas
 
-1 - As vagas de juízes dos tribunais superiores são preenchidas por transferência de outra secção do mesmo tribunal, bem como por concurso quando as vagas a prover sejam iguais ou superiores a cinco.
+1 - As vagas de juízes dos tribunais superiores são preenchidas por transferência de outra secção ou de outro tribunal de idêntica categoria da jurisdição administrativa e fiscal, bem como por concurso.
 
 2 - A admissão ao concurso, quando se trate do provimento das vagas referidas no número anterior, depende de graduação baseada na ponderação global dos seguintes factores:
 
