@@ -14,9 +14,9 @@ Nestes termos:
 
 Manda o Governo, pelos Ministros de Estado e das Finanças e da Economia e da Inovação, em cumprimento do estabelecido nos n.os1 e 2 artigo 64.º da Lei n.º 67-A/2007, de 31 de Dezembro, e nos n.os 1 e 8 do artigo 73.º do Código dos Impostos Especiais sobre o Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro, o seguinte:
 
-1.º (Revogado.)
+1.º A taxa do imposto sobre os produtos petrolíferos e energéticos (ISP) aplicável à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 11 41 a 2710 11 49, é de (euro) 518,95 por 1000 l.
 
-2.º (Revogado.)
+2.º A taxa do ISP aplicável ao gasóleo, classificado pelos códigos NC 2710 19 41 a 2710 19 49, é de (euro) 278,41 por 1000 l.
 
 3.º (Revogado.)
 
