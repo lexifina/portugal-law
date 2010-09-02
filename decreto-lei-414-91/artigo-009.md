@@ -30,7 +30,7 @@ Licenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Química, Quí
 
 Ramo de nutrição:
 
-Licenciatura em Ciências de Nutrição;
+Licenciaturas em Ciências de Nutrição e Dietética e Nutrição, da Faculdade de Medicina da Universidade de Lisboa.
 
 Ramo de veterinária:
 
