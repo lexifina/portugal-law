@@ -1,0 +1,4 @@
+Aviso n.º 220/2010
+Por ordem superior se torna público que, em 19 de Junho de 2008, o Governo da República de Chipre depositou o seu instrumento de adesão ao Acordo para a Conservação das Aves Aquáticas Migradoras Afro-Euroasiáticas e Anexos, adoptado na Haia em 15 de Agosto de 1996.
+Portugal é Parte do mesmo Acordo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 69/2003 e ratificado pelo Decreto do Presidente da República n.º 47/2003, ambos publicados no Diário da República, 1.ª série-A, n.º 190, de 19 de Agosto de 2003, tendo depositado o seu instrumento de adesão em 11 de Dezembro de 2003, conforme o Aviso n.º 140/2005, publicado no Diário da República, 1.ª série-A, n.º 78, de 21 de Abril de 2005.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 26 de Agosto de 2010. - O Subdirector-Geral, Miguel de Almeida e Sousa.
