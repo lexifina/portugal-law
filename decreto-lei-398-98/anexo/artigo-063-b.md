@@ -16,6 +16,8 @@ e) Quando exista a necessidade de controlar os pressupostos de regimes fiscais p
 
 f) Quando se verifique a impossibilidade de comprovação e quantificação directa e exacta da matéria tributável, nos termos do artigo 88.º, e, em geral, quando estejam verificados os pressupostos para o recurso a uma avaliação indirecta.
 
+g) Quando se verifique a existência comprovada de dívidas à segurança social.
+
 2 - A administração tributária tem, ainda, o poder de aceder directamente aos documentos bancários, nas situações de recusa da sua exibição ou de autorização para a sua consulta, quando se trate de familiares ou terceiros que se encontrem numa relação especial com o contribuinte.
 
 3 - (Revogado.)
@@ -33,3 +35,5 @@ f) Quando se verifique a impossibilidade de comprovação e quantificação dire
 9 - O regime previsto nos números anteriores não prejudica a legislação aplicável aos casos de investigação por infracção penal e só pode ter por objecto operações e movimentos bancários realizados após a sua entrada em vigor, sem prejuízo do regime vigente para as situações anteriores.
 
 10 - Para os efeitos desta lei, considera-se documento bancário qualquer documento ou registo, independentemente do respectivo suporte, em que se titulem, comprovem ou registem operações praticadas por instituições de crédito ou sociedades financeiras no âmbito da respectiva actividade, incluindo os referentes a operações realizadas mediante utilização de cartões de crédito.
+
+11 - A administração tributária presta ao ministério da tutela informação anual de carácter estatístico sobre os processos em que ocorreu o levantamento do sigilo bancário, a qual é remetida à Assembleia da República com a apresentação da proposta de lei do Orçamento do Estado.
