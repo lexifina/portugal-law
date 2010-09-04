@@ -1,9 +1,9 @@
 # Artigo 16.º
 
-### (Desconto da quota)
+### (Relação contributiva)
 
-1 - Todos os serviços que processem remunerações sujeitas a quota procederão ao desconto desta nas folhas ou notas de abonos e descontos e preencherão relação discriminativa dos descontos efectuados, em suporte digital.
+1 - No dia 19 de cada mês, a Caixa disponibiliza na sua página electrónica, em área de acesso reservado, relativamente aos serviços que processem remunerações sujeitas a desconto de quota ou que contribuam para a CGA, uma relação contributiva previsional, relativa aos descontos de quotas e às contribuições desse mês e a outros valores que se mostrem em dívida.
 
-2 - As relações de descontos serão remetidas à competente delegação da Direcção-Geral do Orçamento, que, até ao dia 15 do mês seguinte àquele a que digam respeito, as enviará à CGA, em suporte digital ou através de correio electrónico, comunicando à Direcção-Geral do Tesouro o total dos descontos nelas incluídos.
+2 - Compete aos serviços, até ao dia 13 do mês seguinte àquele em que a relação contributiva previsional tenha sido disponibilizada, introduzirem-lhe as alterações necessárias e confirmarem-na, através do código de utilizador previamente fornecido pela Caixa e de uma palavra passe.
 
-3 - A Direcção-Geral do Tesouro promoverá a entrega à CGA da importância total dos descontos referidos nos números anteriores, até ao dia 15 do mês seguinte àquele a que digam respeito.
+3 - A relação contributiva previsional converte-se em definitiva no dia em que tenha sido confirmada pelo serviço ou, na falta de intervenção deste, no último dia de que aquele disponha para o fazer.

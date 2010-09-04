@@ -8,7 +8,7 @@
 
 1 - Têm direito à pensão de sobrevivência como herdeiros hábeis dos contribuintes, verificados os requisitos que se estabelecem nos artigos seguintes:
 
-a) Os cônjuges sobrevivos, os divorciados ou separados judicialmente de pessoas e bens e as pessoas que estiverem nas condições do artigo 2020.º do Código Civil;
+a) Os cônjuges sobrevivos, os divorciados ou separados de pessoas e bens e as pessoas que vivam em união de facto;
 
 b) Os filhos, incluindo os nascituros e os adoptados plenamente;
 
