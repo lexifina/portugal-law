@@ -6,7 +6,7 @@ Impedem a atribuição de direitos ou benefícios, em vida ou por morte, fundado
 
 a) Idade inferior a 18 anos à data do reconhecimento da união de facto;
 
-b) Demência notória, mesmo com intervalos lúcidos e situação de acompanhamento de maior, se assim se estabelecer na sentença que a haja decretado, salvo se posteriores ao início da união;
+b) Demência notória, mesmo com intervalos lúcidos, e a interdição ou inabilitação por anomalia psíquica, salvo se a demência se manifestar ou a anomalia se verificar em momento posterior ao do início da união de facto;
 
 c) Casamento não dissolvido, salvo se tiver sido decretada a separação de pessoas e bens;
 
