@@ -6,7 +6,7 @@
 
 ### Finalidade do dispositivo electrónico de matrícula
 
-1 - A identificação ou detecção electrónica de veículos através do dispositivo electrónico de matrícula, nos termos previstos nos n.os 5, 6 e 7 do artigo 3.º do presente Regulamento, destina-se à cobrança electrónica de portagens em conformidade com o Serviço Electrónico Europeu de Portagem.
+1 - A identificação ou detecção electrónica de veículos através do dispositivo electrónico de matrícula, nos termos previstos nos n.os 5, 6 e 7 do artigo 3.º do presente Regulamento, destina-se exclusivamente à cobrança electrónica de portagens em conformidade com o Serviço Electrónico Europeu de Portagem, ficando vedada a utilização do dispositivo electrónico de matrícula para quaisquer outras finalidades, sem prejuízo do disposto no n.º 11.
 
 2 - O modo de utilização do dispositivo electrónico de matrícula para a finalidade prevista no número anterior é definido por portaria do membro do Governo responsável pelas áreas das obras públicas e transportes, nos termos e com os limites definidos no presente Regulamento.
 
@@ -36,7 +36,7 @@ a) As forças de segurança, relativamente a todas as bases de dados a que se re
 
 b) As concessionárias e as subconcessionárias de infra-estruturas rodoviárias, relativamente às bases de dados a que se referem as alíneas b) e c) do n.º 3;
 
-c) A SIEV, S. A., relativamente às bases de dados a que se referem as alíneas a) e c) do n.º 3;
+c) A SIEV, S. A., relativamente às bases de dados a que se refere a alínea c) do n.º 3;
 
 d) O Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR, I. P.), relativamente à base de dados a que se refere a alínea b) do n.º 3;
 
@@ -44,7 +44,7 @@ e) Entidades de cobrança de portagens, relativamente às bases de dados referid
 
 8 - Os meios e o modo de acesso aos dados pelas entidades referidas no número anterior são definidos por portaria dos membros do Governo responsáveis pelas áreas da administração interna, da justiça, das obras públicas e transportes, devendo aquela portaria assegurar que o acesso concedido àquelas entidades é apenas o estritamente indispensável ao eficaz desempenho das suas competências.
 
-9 - Os dispositivos de identificação ou detecção electrónica de veículos, através do dispositivo electrónico de matrícula, são dotados de um alcance meramente local, de forma a permitir a simples detecção dos dispositivos electrónicos de matrícula que se encontrem nas proximidades, não podendo, em caso algum, essa identificação permitir a localização geral e permanente dos veículos a partir da leitura electrónica do dispositivo electrónico de matrícula dos veículos em circulação.
+9 - Os dispositivos de detecção e identificação electrónica de veículos são dotados de um alcance meramente local, de forma a permitir a simples detecção dos dispositivos electrónicos de matrícula que se encontrem na zona de implantação das praças ou dos pórticos de portagem, não podendo, em caso algum, essa identificação permitir a localização geral e permanente dos veículos a partir da leitura electrónica do dispositivo electrónico de matrícula dos veículos em circulação.
 
 10 - Os dados obtidos em violação do disposto no presente artigo não podem servir de prova perante quaisquer entidades públicas ou privadas, sem prejuízo da responsabilidade civil, criminal, contra-ordenacional ou disciplinar que dessa violação possa resultar.
 
