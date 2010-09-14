@@ -1,0 +1,4 @@
+Aviso n.º 225/2010
+Por ordem superior se torna público que, em 29 de Abril de 2010, o Governo do Grão-Ducado do Luxemburgo depositou o seu instrumento de ratificação do Tratado de Budapeste sobre o Reconhecimento Internacional do Depósito de Microrganismos para Efeitos do Procedimento em Matéria de Patentes, adoptado, em Budapeste, em 28 de Abril de 1977 e alterado em 26 de Setembro de 1980.
+Portugal é Parte do mesmo Tratado, aprovado, para adesão, pela Resolução da Assembleia da República n.º 32/97 e ratificado pelo Decreto do Presidente da República n.º 29/97, ambos publicados no Diário da República, 1.ª série-A, n.º 115, de 19 de Maio de 1997, tendo depositado o instrumento de adesão ao Tratado em 16 de Julho de 1997, conforme o Aviso n.º 255/97, publicado no Diário da República, 1.ª série-A, n.º 207, de 8 de Setembro de 1997.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 7 de Setembro de 2010. - O Subdirector-Geral, Miguel de Almeida e Sousa.
