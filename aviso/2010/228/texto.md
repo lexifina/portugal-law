@@ -1,0 +1,5 @@
+Aviso n.º 228/2010
+Por ordem superior se torna público ter o Uganda depositado junto do Secretário-Geral das Nações Unidas, em 25 de Setembro de 2008, o seu instrumento de ratificação à Convenção sobre os Direitos das Pessoas com Deficiência, adoptada em Nova Iorque em 13 de Dezembro de 2006. Em conformidade com o artigo 45 (2), a referida Convenção entrou em vigor para este Estado a 25 de Outubro de 2008.
+Portugal é Parte da Convenção sobre os Direitos das Pessoas com Deficiência, aprovada para ratificação pela Resolução da Assembleia da República n.º 56/2009 e ratificada pelo Decreto do Presidente da República n.º 71/2009, ambos publicados no Diário da República, 1.ª série, n.º 146, de 30 de Julho de 2009, tendo depositado o seu instrumento de ratificação em 23 de Setembro de 2009, conforme o Aviso n.º 114/2009, publicado no Diário da República, 1.ª série, n.º 210, de 29 de Outubro de 2009.
+A Convenção em apreço entrou em vigor para a República Portuguesa em 23 de Outubro de 2009.
+Direcção-Geral de Política Externa, 7 de Setembro de 2010. - O Director-Geral, Nuno Filipe Alves Salvador e Brito.
