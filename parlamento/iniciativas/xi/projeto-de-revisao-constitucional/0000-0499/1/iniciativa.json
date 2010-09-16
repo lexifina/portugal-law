@@ -1,0 +1,363 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "tipo": "Projeto de Revisão Constitucional",
+  "numero": "1",
+  "id": "35630",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2010-09-16",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2011-06-19",
+    "DataInicioleg": "2010-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "123",
+        "nome": "Miguel Macedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1561",
+        "nome": "Luís Montenegro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1905",
+        "nome": "Fernando Negrão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1897",
+        "nome": "Teresa Morais"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1686",
+        "nome": "Pedro Duarte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2015",
+        "nome": "António Almeida Henriques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1990",
+        "nome": "Miguel Frasquilho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4085",
+        "nome": "Pedro Lynce"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3",
+        "nome": "Adão Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4145",
+        "nome": "Luís Menezes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "618",
+        "nome": "Guilherme Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4013",
+        "nome": "Jorge Bacelar Gouveia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "249",
+        "nome": "Mendes Bota"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1998",
+        "nome": "Luís Campos Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1384",
+        "nome": "Paulo Batista Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4214",
+        "nome": "João Figueiredo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1743",
+        "nome": "Ulisses Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4144",
+        "nome": "Luísa Roseira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3919",
+        "nome": "Amadeu Soares Albergaria"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4143",
+        "nome": "Raquel Coelho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4146",
+        "nome": "Margarida Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4129",
+        "nome": "Cristóvão Crespo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2027",
+        "nome": "Adriano Rafael Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2061",
+        "nome": "José Pedro Aguiar Branco"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4087",
+        "nome": "Celeste Amaro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3990",
+        "nome": "Pedro Saraiva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3943",
+        "nome": "Nuno Reis"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "77",
+        "nome": "José Cesário"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2065",
+        "nome": "Agostinho Branquinho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1643",
+        "nome": "José de Matos Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "42",
+        "nome": "Duarte Pacheco"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2104",
+        "nome": "Carlos Páscoa Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4030",
+        "nome": "Carlos Peixoto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3991",
+        "nome": "Nuno Encarnação"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4169",
+        "nome": "Carina Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4213",
+        "nome": "Teresa Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4204",
+        "nome": "António Cabeleira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3945",
+        "nome": "Pedro Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4086",
+        "nome": "António Leitão Amaro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3918",
+        "nome": "Maria Paula Cardoso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1960",
+        "nome": "Rosário Águas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "288",
+        "nome": "Luís Capoulas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3964",
+        "nome": "Carlos São Martinho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1410",
+        "nome": "Vasco Cunha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3942",
+        "nome": "Francisca Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4051",
+        "nome": "Maria Conceição Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4193",
+        "nome": "Maria das Mercês Borges"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2064",
+        "nome": "Jorge Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3944",
+        "nome": "Teresa Fernandes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4205",
+        "nome": "Isabel Sequeira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4014",
+        "nome": "Antonieta Guerreiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2641",
+        "nome": "Paulo Cavaleiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3957",
+        "nome": "José Ferreira Gomes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4147",
+        "nome": "Carla Barros"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4050",
+        "nome": "Fernando Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1239",
+        "nome": "Luís Marques Guedes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3920",
+        "nome": "Carla Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3963",
+        "nome": "Carlos Costa Neves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2114",
+        "nome": "Emídio Guerreiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1951",
+        "nome": "José de Matos Rosa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "303",
+        "nome": "João Prata"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1238",
+        "nome": "Sérgio Vieira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1458",
+        "nome": "Carlos Alberto Gonçalves"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Revisão Constitucional",
+    "IniEpigrafe": null,
+    "IniId": "35630",
+    "IniLeg": "XI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953396b5a6a6b325a6a55314e5330334d4467324c54526c596a49744f5759775a4330324e7a4177593249794d6a49314d6a41755a47396a&fich=df96f555-7086-4eb2-9f0d-6700cb222520.doc&Inline=true",
+    "IniNr": "1",
+    "IniObs": "Prorrogação do prazo de funcionamento: DAR II S A n.º 105, de 2011-03-16",
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "C",
+    "IniTitulo": "Projecto de Revisão Constitucional n.º 1/XI",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
