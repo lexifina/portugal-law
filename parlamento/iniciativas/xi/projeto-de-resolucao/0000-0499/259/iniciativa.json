@@ -1,0 +1,64 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "tipo": "Projeto de Resolução",
+  "numero": "259",
+  "id": "35634",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2010-09-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2011-06-19",
+    "DataInicioleg": "2010-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1058",
+        "nome": "Bernardino Soares"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": [
+      {
+        "assunto": "Decreto-Lei n.º 70/2010, de 16 de Junho, que \"Estabelece as regras para a determinação da condição de recursos a ter em conta na atribuição e manutenção das prestações do subsistema de protecção familiar e do subsistema de solidariedade, bem como para a atribuição de outros apoios sociais públicos, e procede às alterações na atribuição do rendimento social de inserção, tomando medidas para aumentar a possibilidade de inserção dos seus beneficiários, procedendo à primeira alteração ao Decreto-Lei n.º 164/99, de 13 de Maio, à segunda alteração à Lei n.º 13/2003, de 21 de Maio, à quinta alteração ao Decreto-Lei n.º 176/2003, de 2 de Agosto, à segunda alteração ao Decreto-Lei n.º 283/2003, de 8 de Novembro, e à primeira alteração ao Decreto-Lei n.º 91/2009, de 9 de Abril\".",
+        "dcl": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "35406",
+        "legislatura": "XI",
+        "numero": "44",
+        "sessao": "1",
+        "tipo": "A"
+      }
+    ],
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "35634",
+    "IniLeg": "XI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595338785a6a6333596a45334e69316a4d444a6c4c5451354d6a6774595445355a6930354f4463355a4455305a574531596d51755a47396a&fich=1f77b176-c02e-4928-a19f-9879d54ea5bd.doc&Inline=true",
+    "IniNr": "259",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Cessação da vigência do Decreto-Lei n.º 70/2010, de 16 de Junho, que \"Estabelece as regras para a determinação da condição de recursos a ter em conta na atribuição e manutenção das prestações do subsistema de protecção familiar e do subsistema de solidariedade, bem como para a atribuição de outros apoios sociais públicos, e procede às alterações na atribuição do rendimento social de inserção, tomando medidas para aumentar a possibilidade de inserção dos seus beneficiários, procedendo à primeira alteração ao Decreto-Lei n.º 164/99, de 13 de Maio, à segunda alteração à Lei n.º 13/2003, de 21 de Maio, à quinta alteração ao Decreto-Lei n.º 176/2003, de 2 de Agosto, à segunda alteração ao Decreto-Lei n.º 283/2003, de 8 de Novembro, e à primeira alteração ao Decreto-Lei n.º 91/2009, de 9 de Abril\".",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
