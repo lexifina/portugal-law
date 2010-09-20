@@ -1,0 +1,467 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12023",
+  "numero": "93",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-09-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-07-28",
+            "dataResposta": "2011-08-24",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "39/COM/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-10-11",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-07-13",
+        "DataArquivo": "2011-10-19",
+        "DataBaixaComissao": "2011-07-13",
+        "DataEnvioPAR": "2011-10-19",
+        "DataReaberta": "2011-07-13",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-07-13",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e6862793835596a63304f446b7a59533169596a41354c545130595759744f44637a4d5330324d7a4d785a4445325a6a45314d7a51756347526d&fich=9b74893a-bb09-44af-8731-6331d16f1534.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-07-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939685a444a6c4f546c6b4e4331684d7a45354c5451324e4749744f5455774d69316d4f444d31597a45784d6d457a593251756347526d&fich=ad2e99d4-a319-464b-9502-f835c112a3cd.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-11-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938314e444e69597a4d7a5a6930345a474d344c54526b4e446374595441314f43307a5a4441784f544d304d5749314e4749756347526d&fich=543bc33f-8dc8-4d47-a058-3d019341b54b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-09-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938325a5759304d4459354d4330345a474d354c5451324f5451744f4445794e7931694d574d34596a6b7a4e7a517a4f4749756347526d&fich=6ef40690-8dc9-4694-8127-b1c8b937438b.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-07-13",
+            "gp": "PSD",
+            "id": "4148",
+            "motivoCessacao": null,
+            "nome": "Luís Vales"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XI Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2011-07-06",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2873",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Saúde da XII Legislatura."
+      }
+    ],
+    "DataDebate": "2012-01-13",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-09-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764e57517a4d32566b5a444d745a4445354d5330304f54646a4c5745344d4467744f5751344d3251314d5445785a5441314c6e426b5a673d3d&fich=5d33edd3-d191-497c-a808-9d83d5111e05.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2012-01-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120113pln&url=l12/sl1/a2012/m01/&tI=01:44:30:527&drc=00:03:52:663"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-14",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/059/2012-01-14/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem o \"Reconhecimento da Fibromialgia como Doença Crónica e Incapacitante\".",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-01-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120113pln&url=l12/sl1/a2012/m01/&tI=01:48:27:376&drc=00:02:27:076"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183251",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-14",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/059/2012-01-14/34?pgs=34&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem o \"Reconhecimento da Fibromialgia como Doença Crónica e Incapacitante\".",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-01-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120113pln&url=l12/sl1/a2012/m01/&tI=01:50:59:327&drc=00:03:15:989"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183252",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-14",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/059/2012-01-14/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem o \"Reconhecimento da Fibromialgia como Doença Crónica e Incapacitante\".",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-01-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120113pln&url=l12/sl1/a2012/m01/&tI=01:54:25:966&drc=00:03:38:739"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183253",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-14",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/059/2012-01-14/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem o \"Reconhecimento da Fibromialgia como Doença Crónica e Incapacitante\".",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-01-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120113pln&url=l12/sl1/a2012/m01/&tI=01:58:10:537&drc=00:03:19:462"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183254",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-14",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/059/2012-01-14/36?pgs=36&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem o \"Reconhecimento da Fibromialgia como Doença Crónica e Incapacitante\".",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12023",
+    "PetAssunto": "Pretendem o \"Reconhecimento da Fibromialgia como Doença Crónica e Incapacitante\".",
+    "PetDataEntrada": "2010-09-20",
+    "PeticoesAssociadas": null,
+    "PetId": "12023",
+    "PetLeg": "XI",
+    "PetNr": "93",
+    "PetNrAssinaturas": "6148",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "380",
+        "obs": null,
+        "pag": [
+          "33-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-01-14",
+        "pubLeg": "XII",
+        "pubNr": "59",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/059/2012-01-14/33?pgs=33-36&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "531242",
+        "obs": null,
+        "pag": [
+          "7-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-10-02",
+        "pubLeg": "XI",
+        "pubNr": "9",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/009/2010-10-02/7?pgs=7-8&org=PLC"
+      }
+    ]
+  }
+}
