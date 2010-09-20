@@ -1,0 +1,4 @@
+Aviso n.º 256/2010
+Por ordem superior se torna público que, em 7 de Maio de 2010, o Chile depositou o seu instrumento de adesão à Convenção Relativa à Organização de Cooperação e de Desenvolvimento Económico, Protocolo Adicional n.º 1, Protocolo Adicional n.º 2, Memorando de Acordo para a Aplicação do artigo 15.º da Convenção e Protocolo Relativo à Revisão da Convenção de Cooperação Económica Europeia, adoptados em Paris em 14 de Dezembro de 1960.
+Portugal é Parte da mesma Convenção aprovada, para ratificação, pelo Decreto-Lei n.º 43 829, publicado no Diário de Governo, 1.ª série, n.º 174, de 28 de Julho de 1961, tendo depositado a sua carta de ratificação em 4 de Agosto de 1961, conforme aviso publicado no Diário de Governo, 1.ª série, n.º 209, de 8 de Setembro de 1961.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 15 de Setembro de 2010. - O Subdirector-Geral, Miguel de Almeida e Sousa.
