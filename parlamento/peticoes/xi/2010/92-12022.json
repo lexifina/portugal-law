@@ -1,0 +1,119 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12022",
+  "numero": "92",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-09-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-11-30",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-09-29",
+        "DataArquivo": "2010-11-30",
+        "DataBaixaComissao": "2010-09-29",
+        "DataEnvioPAR": "2010-11-30",
+        "DataReaberta": "2010-09-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-09-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627938784d575530596a557a4e43316c4e4455344c54513559324d744f5759345a43316a4e544d305a6a6b314d7a55784d6a63756347526d&fich=11e4b534-e458-49cc-9f8d-c534f9535127.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-12-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e6862793830597a5a6a4d57526d5a53316c5a6a6c6c4c545135596a4974595464694f53316b4f57526c4e6d51784d7a49315a5467756347526d&fich=4c6c1dfe-ef9e-49b2-a7b9-d9de6d1325e8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2864",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-09-29",
+            "gp": "PS",
+            "id": "1977",
+            "motivoCessacao": null,
+            "nome": "António Gameiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2010-09-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764e5459794e4755784d5463744e6d59304d5330304d3251344c5468685a4755744f4449344e5441334e444e69597a51334c6e426b5a673d3d&fich=5624e117-6f41-43d8-8ade-82850743bc47.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12022",
+    "PetAssunto": "Solicitam a Apreciação Parlamentar do Decreto-Lei n.º 99/2010, de 2 de Setembro, que procede a alterações ao Regulamento Emolumentar dos Registos e do Notariado.",
+    "PetDataEntrada": "2010-09-21",
+    "PeticoesAssociadas": null,
+    "PetId": "12022",
+    "PetLeg": "XI",
+    "PetNr": "92",
+    "PetNrAssinaturas": "352",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
