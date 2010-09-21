@@ -1,0 +1,5 @@
+Aviso n.º 262/2010
+Por ordem superior se torna público ter a Suíça depositado junto do Secretário-Geral das Nações Unidas, em 24 de Setembro de 2009, o seu instrumento de ratificação à Convenção contra a Corrupção, adoptada em Nova Iorque em 31 de Outubro de 2003. Em conformidade com o artigo 68 (2), a referida Convenção entrou em vigor para este Estado a 24 de Outubro de 2009.
+Portugal é Parte da Convenção contra a Corrupção, aprovada para ratificação pela Resolução da Assembleia da República n.º 47/2007, de 21 de Setembro, publicada no Diário da República, 1.ª série, n.º 183, e ratificada pelo Decreto do Presidente da República n.º 97/2007, de 21 de Setembro, publicado no Diário da República, 1.ª série, n.º 183, tendo depositado o seu instrumento de ratificação em 28 de Setembro de 2007, conforme o Aviso n.º 148/2008, de 30 de Julho, publicado no Diário da República, 1.ª série, n.º 146.
+A Convenção em apreço entrou em vigor para a República Portuguesa a 28 de Outubro de 2007.
+Direcção-Geral de Política Externa, 15 de Setembro de 2010. - O Director-Geral, Nuno Filipe Alves Salvador e Brito.
