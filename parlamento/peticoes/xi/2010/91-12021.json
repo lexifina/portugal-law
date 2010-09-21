@@ -1,0 +1,486 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12021",
+  "numero": "91",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-09-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-10-07",
+            "dataResposta": "2010-10-26",
+            "entidades": [
+              "Directora Geral de Veterinária"
+            ],
+            "nrOficio": "425/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-12-06",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-09-21",
+        "DataArquivo": "2010-12-07",
+        "DataBaixaComissao": "2010-09-21",
+        "DataEnvioPAR": "2010-12-10",
+        "DataReaberta": "2010-09-21",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-09-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a59573876596a686a4e5441774f5445744d444179595330305a5463794c54686a4f474974596d55784e6a41335a6a466a4d5755784c6e426b5a673d3d&fich=b8c50091-002a-4e72-8c8b-be1607f1c1e1.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764e5749775a6d45774e3245744e57526c4e793030596a6c6b4c5468694d4455745a54566d5a4468694f4441794d54426d4c6e426b5a673d3d&fich=5b0fa07a-5de7-4b9d-8b05-e5fd8b80210f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-01-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764f574a6c4e4745784d3249744e44517a4e4330304d446b784c546c684d3255744e54426c5a575134596a67305a6a41354c6e426b5a673d3d&fich=9be4a13b-4434-4091-9a3e-50eed8b84f09.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-01-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764d324d794d3259324f5449744d5749354d5330304f574d334c5745774d6d45745a574a685a574533595464684d575a6b4c6e426b5a673d3d&fich=3c23f692-1b91-49c7-a02a-ebaea7a7a1fd.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2875",
+        "Legislatura": "XI",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-09-21",
+            "gp": "BE",
+            "id": "2839",
+            "motivoCessacao": null,
+            "nome": "Rita Calvário"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2011-02-23",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-09-21",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764e5445795a6a51325a5445744d4759314e433030596a6c6c4c54686d4e3251744e6d51784f474d304d545a6a4e4464694c6e426b5a673d3d&fich=512f46e1-0f54-4b9e-8f7d-6d18c416c47b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-02-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110223pln&url=l11/sl2/a2011/m02/&tI=02:07:18:590&drc=00:04:09:412"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179552",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-24",
+                "pubLeg": "XI",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/055/2011-02-24/38?pgs=38&org=PLC"
+              }
+            ],
+            "Sumario": "Alteração do Decreto-Lei n.º 314/2003, de 17 de Dezembro, que \"Aprova o Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses (PNLVERAZ) e estabelece as regras relativas à posse e detenção, comércio, exposições e entrada em território nacional de animais susceptíveis à raiva\", no sentido de tomar medidas que acabem com o fim do abate de animais saudáveis em canis/gatis municipais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-02-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110223pln&url=l11/sl2/a2011/m02/&tI=02:11:31:991&drc=00:04:14:666"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-24",
+                "pubLeg": "XI",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/055/2011-02-24/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Alteração do Decreto-Lei n.º 314/2003, de 17 de Dezembro, que \"Aprova o Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses (PNLVERAZ) e estabelece as regras relativas à posse e detenção, comércio, exposições e entrada em território nacional de animais susceptíveis à raiva\", no sentido de tomar medidas que acabem com o fim do abate de animais saudáveis em canis/gatis municipais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-02-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110223pln&url=l11/sl2/a2011/m02/&tI=02:15:48:218&drc=00:03:47:440"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-24",
+                "pubLeg": "XI",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/055/2011-02-24/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Alteração do Decreto-Lei n.º 314/2003, de 17 de Dezembro, que \"Aprova o Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses (PNLVERAZ) e estabelece as regras relativas à posse e detenção, comércio, exposições e entrada em território nacional de animais susceptíveis à raiva\", no sentido de tomar medidas que acabem com o fim do abate de animais saudáveis em canis/gatis municipais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-02-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110223pln&url=l11/sl2/a2011/m02/&tI=02:19:37:234&drc=00:03:38:230"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-24",
+                "pubLeg": "XI",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/055/2011-02-24/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Alteração do Decreto-Lei n.º 314/2003, de 17 de Dezembro, que \"Aprova o Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses (PNLVERAZ) e estabelece as regras relativas à posse e detenção, comércio, exposições e entrada em território nacional de animais susceptíveis à raiva\", no sentido de tomar medidas que acabem com o fim do abate de animais saudáveis em canis/gatis municipais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-02-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110223pln&url=l11/sl2/a2011/m02/&tI=02:23:21:907&drc=00:02:58:147"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-24",
+                "pubLeg": "XI",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/055/2011-02-24/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Alteração do Decreto-Lei n.º 314/2003, de 17 de Dezembro, que \"Aprova o Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses (PNLVERAZ) e estabelece as regras relativas à posse e detenção, comércio, exposições e entrada em território nacional de animais susceptíveis à raiva\", no sentido de tomar medidas que acabem com o fim do abate de animais saudáveis em canis/gatis municipais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-02-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110223pln&url=l11/sl2/a2011/m02/&tI=02:26:22:366&drc=00:01:24:869"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-24",
+                "pubLeg": "XI",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/055/2011-02-24/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Alteração do Decreto-Lei n.º 314/2003, de 17 de Dezembro, que \"Aprova o Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses (PNLVERAZ) e estabelece as regras relativas à posse e detenção, comércio, exposições e entrada em território nacional de animais susceptíveis à raiva\", no sentido de tomar medidas que acabem com o fim do abate de animais saudáveis em canis/gatis municipais.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12021",
+    "PetAssunto": "Alteração do Decreto-Lei n.º 314/2003, de 17 de Dezembro, que \"Aprova o Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses (PNLVERAZ) e estabelece as regras relativas à posse e detenção, comércio, exposições e entrada em território nacional de animais susceptíveis à raiva\", no sentido de tomar medidas que acabem com o fim do abate de animais saudáveis em canis/gatis municipais.",
+    "PetDataEntrada": "2010-09-21",
+    "PeticoesAssociadas": null,
+    "PetId": "12021",
+    "PetLeg": "XI",
+    "PetNr": "91",
+    "PetNrAssinaturas": "2400",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "356",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-02-24",
+        "pubLeg": "XI",
+        "pubNr": "55",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/055/2011-02-24?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "531211",
+        "obs": null,
+        "pag": [
+          "12-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-09-25",
+        "pubLeg": "XI",
+        "pubNr": "4",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/004/2010-09-25/12?pgs=12&org=PLC"
+      }
+    ]
+  }
+}
