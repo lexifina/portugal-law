@@ -1,0 +1,4 @@
+Aviso n.º 263/2010
+Por ordem superior se torna público que, em 24 de Agosto de 2010, o Governo da República Democrática de Timor-Leste depositou o seu instrumento de adesão à Constituição e à Convenção da União Internacional de Telecomunicações e ao Protocolo Facultativo sobre a Resolução Obrigatória de Litígios Relativos à Constituição da União Internacional das Telecomunicações, à Convenção da União Internacional das Telecomunicações e aos Regulamentos Administrativos, adoptados em Genebra em 22 de Dezembro de 1992.
+Portugal é Parte da mesma Constituição e Convenção, aprovadas, para ratificação, pela Resolução da Assembleia da República n.º 10-A/95 e ratificadas pelo Decreto do Presidente da República n.º 27-A/95, ambos publicados no Diário da República, 1.ª série-A, n.º 44, suplemento, de 21 de Fevereiro de 1995.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 13 de Setembro de 2010. - O Subdirector-Geral, Miguel de Almeida e Sousa.
