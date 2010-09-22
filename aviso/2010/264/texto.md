@@ -1,0 +1,4 @@
+Aviso n.º 264/2010
+Por ordem superior se torna público que, em 6 de Julho de 2010, o Governo da Antiga República Jugoslava da Macedónia depositou o seu instrumento de adesão ao Acordo de Lisboa Relativo à Protecção das Denominações de Origem e ao Seu Registo Internacional, adoptado em Lisboa em 31 de Outubro de 1958.
+Portugal é Parte do mesmo Acordo, aprovado, para ratificação, pelo Decreto-Lei n.º 46 852, publicado no Diário de Governo, 1.ª série, n.º 231, de 4 de Outubro de 1966, tendo depositado o seu instrumento de confirmação e ratificação em 16 de Janeiro de 1991, conforme o Aviso n.º 37/91, publicado no Diário da República, 1.ª série-A, n.º 56, de 8 de Março de 1991.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 13 de Setembro de 2010. - O Subdirector-Geral, Miguel de Almeida e Sousa.
