@@ -1,0 +1,127 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=cqpGrns5UyiyPnfDDcltPGDDPGagvAPg5LKOzP1ZUMdFhS1tYE%2boUqLKys6rT7dQcCsHZzpaaD89aqaaeheMPgaLprYCqr1kfj1yfNQQLvRfJRydrl8CY1Co%2bE8e0qRj21QPh3XBduK2UjaCTwkaZsSJ4Ws78SqTHcUqMO96eMwx0mJ%2fnsLMcuHSvhMz5fog89wsUW8g%2fE6ZhuGk3jur29lC8psdBmdSjbYJnssR%2faJyQGkQf1%2bt9BE0CqnanLSJIJsdFkKfZum%2fMA3QD2YgBITg5jSzdngUrVVNHICp8QvlGKw3W%2bpeu%2bh8LqCpg3zL2WI3n87847CubKBOteTOUU2WZeFIAxLb8PlZly06%2b9I%3d&fich=AtividadesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "e990867e1dd1772bdbc8ca55751b34755453758a1f02604666e2c3ee6e5cbd72",
+  "legislatura": "XI",
+  "tipo": "Voto",
+  "numero": "63",
+  "data_registo": "2010-09-23",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de congratulação pela celebração do Dia Internacional da Paz em 21 de Setembro de 2010",
+    "AutoresGP": [
+      "BE",
+      "Pedro Filipe Soares (BE)",
+      "Pedro Soares (BE)",
+      "José Manuel Pureza (BE)",
+      "Cecília Honório (BE)",
+      "Francisco Louçã (BE)",
+      "Ana Drago (BE)",
+      "Helena Pinto (BE)",
+      "Rita Calvário (BE)",
+      "João Semedo (BE)",
+      "José Moura Soeiro (BE)",
+      "Catarina Martins (BE)",
+      "José Gusmão (BE)",
+      "Mariana Aiveca (BE)",
+      "Luís Fazenda (BE)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2010-09-24",
+    "DataAnuncio": null,
+    "DataEntrada": "2010-09-23",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XI",
+    "Numero": "63",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "531209",
+        "obs": null,
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-09-25",
+        "pubLeg": "XI",
+        "pubNr": "4",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/004/2010-09-25/3?pgs=3&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "26713",
+        "obs": null,
+        "pag": [
+          "44-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-09-25",
+        "pubLeg": "XI",
+        "pubNr": "6",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/006/2010-09-25/44?pgs=44&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2010-09-24",
+        "descricao": null,
+        "detalhe": null,
+        "id": "56514",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "526545",
+            "obs": null,
+            "pag": [
+              "43-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-09-25",
+            "pubLeg": "XI",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/006/2010-09-25/43?pgs=43-44&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "6",
+        "tipoReuniao": null,
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
