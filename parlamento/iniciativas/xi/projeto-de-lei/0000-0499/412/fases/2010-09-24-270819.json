@@ -1,0 +1,390 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "412",
+    "id": "35639",
+    "titulo": "Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2010-09-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7695",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2010-09-24",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "35624",
+        "leg": "XI",
+        "nr": "36",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1450",
+            "obs": null,
+            "pag": [
+              "49-55"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-09-25",
+            "pubLeg": "XI",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/006/2010-09-25/49?pgs=49-55&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Cria um procedimento único de formação e de exame para a obtenção simultânea da carta de caçador e da licença de uso e porte de arma para o exercício da actividade venatória e procede a quarta alteração a Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-09-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:39",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   ADMINISTRAÇÃO INTERNA",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Pereira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177821",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50",
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-09-25",
+                "pubLeg": "XI",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/006/2010-09-25/49?pgs=49-50,54&org=PLC"
+              }
+            ],
+            "sumario": "Cria um procedimento único de formação e de exame para a obtenção simultânea da carta de caçador e da licença de uso e porte de arma para o exercício da actividade venatória e procede a quarta alteração a Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições; Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições; Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4172",
+                "nome": "Filipe Lobo D' Ávila"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:39",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177822",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51",
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-09-25",
+                "pubLeg": "XI",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/006/2010-09-25/50?pgs=50-51,55&org=PLC"
+              }
+            ],
+            "sumario": "Cria um procedimento único de formação e de exame para a obtenção simultânea da carta de caçador e da licença de uso e porte de arma para o exercício da actividade venatória e procede a quarta alteração a Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições; Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições; Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1905",
+                "nome": "Fernando Negrão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:39",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177823",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-09-25",
+                "pubLeg": "XI",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/006/2010-09-25/51?pgs=51&org=PLC"
+              }
+            ],
+            "sumario": "Cria um procedimento único de formação e de exame para a obtenção simultânea da carta de caçador e da licença de uso e porte de arma para o exercício da actividade venatória e procede a quarta alteração a Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições; Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições; Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1977",
+                "nome": "António Gameiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:39",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-09-25",
+                "pubLeg": "XI",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/006/2010-09-25/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Cria um procedimento único de formação e de exame para a obtenção simultânea da carta de caçador e da licença de uso e porte de arma para o exercício da actividade venatória e procede a quarta alteração a Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições; Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições; Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:39",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177825",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-09-25",
+                "pubLeg": "XI",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/006/2010-09-25/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Cria um procedimento único de formação e de exame para a obtenção simultânea da carta de caçador e da licença de uso e porte de arma para o exercício da actividade venatória e procede a quarta alteração a Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições; Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições; Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:39",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-09-25",
+                "pubLeg": "XI",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/006/2010-09-25/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Cria um procedimento único de formação e de exame para a obtenção simultânea da carta de caçador e da licença de uso e porte de arma para o exercício da actividade venatória e procede a quarta alteração a Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições; Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições; Procede à quarta alteração à Lei n.º 5/2006, de 23 de Fevereiro, que aprova o novo regime jurídico das armas e suas munições",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "270819",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "526540",
+        "obs": null,
+        "pag": [
+          "49-55"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-09-25",
+        "pubLeg": "XI",
+        "pubNr": "6",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/006/2010-09-25/49?pgs=49-55&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
