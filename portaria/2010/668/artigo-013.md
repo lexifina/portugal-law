@@ -30,6 +30,6 @@ c) Título alcoométrico volúmico natural mínimo de 15 % vol;
 
 d) Título alcoométrico volúmico adquirido máximo de 14 % vol.
 
-3 - Do ponto de vista organoléptico, os vinhos objectos da presente portaria devem satisfazer os requisitos apropriados quanto à cor, limpidez, aroma e sabor, nos termos a definir pela entidade certificadora.
+3 - Do ponto de vista organoléptico, os vinhos objecto da presente portaria devem satisfazer os requisitos apropriados quanto à cor, limpidez, aroma e sabor, nos termos a definir pela entidade certificadora.
 
 4 - Os vinhos que após a certificação e engarrafamento apresentem depósito só podem ser comercializados se na rotulagem for utilizada a expressão «Sujeito a depósito» ou menção equivalente.
