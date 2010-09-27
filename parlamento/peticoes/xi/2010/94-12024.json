@@ -1,0 +1,229 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12024",
+  "numero": "94",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-09-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-08-30",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2011-08-30",
+        "DataBaixaComissao": "2011-07-07",
+        "DataEnvioPAR": "2011-08-31",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-09-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764f4755774d6a457a4d3249744e7a6b314d6930304d6a526a4c574a69596a51744e6a4a6a4e6d4e6a5a5455344d7a42684c6e426b5a673d3d&fich=8e02133b-7952-424c-bbb4-62c6cce5830a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3510",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-07-13",
+            "gp": "PS",
+            "id": "4133",
+            "motivoCessacao": null,
+            "nome": "Isabel Oneto"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XI Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-03-09",
+            "dataResposta": "2011-04-15",
+            "entidades": [
+              "Comissão Nacional de Proteção de Dados"
+            ],
+            "nrOficio": "212/CACDLG/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e686279396a4f4745334d5745774d43307859574e6a4c5451774d546774596a686a4e7930334e54566b597a6c6b5a5751305a6d4d756347526d&fich=c8a71a00-1acc-4018-b8c7-755dc9ded4fc.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-10-13",
+        "DataArquivo": "2011-07-06",
+        "DataBaixaComissao": "2010-10-13",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2010-10-13",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-10-13",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e6862793832596a6b7a4d6a45795a43316b5a444a6c4c54517a596a6774596a51795979316c5a546b344d7a5a684e6d4d30597a63756347526d&fich=6b93212d-dd2e-43b8-b42c-ee9836a6c4c7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-03-10",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e686279396a4f4745334d5745774d43307859574e6a4c5451774d546774596a686a4e7930334e54566b597a6c6b5a5751305a6d4d756347526d&fich=c8a71a00-1acc-4018-b8c7-755dc9ded4fc.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-03-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e686279396b4e4451774d325a6c5a4330344e57566c4c545132595445744f446c6d4e5330784e544a694d6a4177596d59794d4451756347526d&fich=d4403fed-85ee-46a1-89f5-152b200bf204.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-04-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e686279396b4f444131596a6c6a4d4330334f5446694c5451794d6a67744f444130597930344d7a4e684d44426b596a52684d3255756347526d&fich=d805b9c0-791b-4228-804c-833a00db4a3e.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2864",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2010-11-30",
+            "dataNomeacao": "2010-10-13",
+            "gp": "PSD",
+            "id": "1905",
+            "motivoCessacao": null,
+            "nome": "Fernando Negrão"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-11-30",
+            "gp": "PS",
+            "id": "4133",
+            "motivoCessacao": null,
+            "nome": "Isabel Oneto"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias da XII Legislatura."
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2010-10-01",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764d446330596a686a4e5467744d6a497a5a5330304f57466d4c57497a5a6a59744e4455304f574e6d4f4463775a47526d4c6e426b5a673d3d&fich=074b8c58-223e-49af-b3f6-4549cf870ddf.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12024",
+    "PetAssunto": "Solicita a aprovação urgente de uma Resolução da Assembleia da República no sentido da fiscalização e avaliação da actuação recente da Comissão Nacional de Protecção de Dados.",
+    "PetDataEntrada": "2010-09-27",
+    "PeticoesAssociadas": null,
+    "PetId": "12024",
+    "PetLeg": "XI",
+    "PetNr": "94",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
