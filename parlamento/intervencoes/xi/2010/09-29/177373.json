@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Y5feubGpmx3U3eADC2xbJmNQ%2bo9hh0y0Ws%2bMg6e1ClK3K68Ax4Xhm%2fWAehW8ocLQeD2OxoySGddyZuNhZaLhFlUp0ir7jK%2bOM48106ZJfd5wcxphkEewWoW0V2xfzdMNDfGCCckE9GmO9gLekm49cKDkNA8ZLG3MKaBA%2fkt5m8WXIfeT%2b5Mx1%2b0sg7BllQnlJxstthBRb%2bInCrt9Uig%2bShhf4upRTB1UPB5rRZ5AdO%2bS2bOM3SOwHIIzM8sV51n%2b%2fFpTd99F%2bLrFlKG%2beBsI3Ay12J%2bsVEuFtnniXdweo0Fbri050dE53bSr8jRl8MGpmX2sdxehZ6G6%2byWG%2fP8M0NepLg61Gx0Gl5lJ5jDaOiQ%3d&fich=IntervencoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7f20a8e6bd694f3fe5bcaedfdae6b5dacd6c1585dae5f92751007c07eefc189c",
+  "legislatura": "XI",
+  "id": "177373",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Carla Rodrigues (PSD)",
+  "data_registo": "2010-09-29",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "26638",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "26638",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Salientou a importancia do serviço publico de rádio e televisão e assumiu a sua defesa contra a privatização do mesmo"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Pede esclarecimento a Inês de Medeiros acerca da sua declaração sobre  importância do serviço público de rádio e televisão e contra a privatização do mesmo.",
+        "duracao": "00:03:33:731",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20100929pln&url=l11/sl2/a2010/m09/&tI=01:14:34:172&drc=00:03:33:731"
+      }
+    ],
+    "DataReuniaoPlenaria": "2010-09-29",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "3920",
+      "nome": "Carla Rodrigues"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "177373",
+    "IdDebate": "4073",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "177373",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "24-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-09-30",
+        "pubLeg": "XI",
+        "pubNr": "7",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/007/2010-09-30/24?pgs=24-25&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "À deputada Inês de Medeiros (PS)",
+    "Sessao": "2",
+    "Sumario": "Salientou a importancia do serviço publico de rádio e televisão e assumiu a sua defesa contra a privatização do mesmo",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
