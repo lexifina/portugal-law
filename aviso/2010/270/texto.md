@@ -1,0 +1,13 @@
+Aviso n.º 270/2010
+Por ordem superior se torna público que, por notificação datada de 17 de Julho de 2007, o Secretário-Geral das Nações Unidas na sua qualidade de depositário comunicou ter o Japão depositado uma declaração em 9 de Julho de 2007, ao abrigo do n.º 2 do artigo 36.º do Estatuto do Tribunal Internacional de Justiça, pela qual reconhece a jurisdição obrigatória do Tribunal Internacional de Justiça.
+Tradução
+O Secretário-Geral das Nações Unidas, na sua qualidade de depositário, comunica que:
+A acção acima mencionada ocorreu no dia 9 de Julho de 2007.
+De acordo com o n.º 4 do artigo 36.º do Estatuto do Tribunal Internacional de Justiça, junto segue em anexo a declaração, cujo texto em inglês é autêntico, e respectiva tradução para francês.
+De acordo com as instruções do Ministro de Negócios Estrangeiros, tenho a honra de declarar em nome do Governo japonês que o Japão reconhece, em conformidade com o n.º 2 do artigo 36.º do Estatuto do Tribunal Internacional de Justiça, como obrigatória ipso facto e sem acordo especial, em relação a qualquer outro Estado que aceite a mesma obrigação e numa base de reciprocidade, a jurisdição do Tribunal em todos os litígios, que aconteçam a ou após 15 de Setembro de 1958 assim como outras situações subsequentes que não tenham sido resolvidas por outros meios pacíficos.
+Esta declaração não se aplica aos litígios em relação aos quais as Partes neles envolvidas acordaram ou deverão acordar submetê-los a arbitragem ou à resolução judicial com vista a uma decisão definitiva e vinculativa.
+Esta declaração não se aplica a nenhum litígio em relação ao qual qualquer outra Parte nele envolvida tenha reconhecido como obrigatória a jurisdição do Tribunal Internacional de Justiça apenas para efeitos de resolução desse mesmo litígio; ou quando a aceitação da jurisdição obrigatória do Tribunal em nome de qualquer outra Parte no litígio tiver sido depositada ou ratificada num prazo inferior a 12 meses antes do preenchimento do pedido de apreciação do litígio pelo Tribunal.
+Esta declaração é válida durante um período de cinco anos e, posteriormente, até à sua denúncia mediante notificação escrita.
+A República Portuguesa é desde 14 de Dezembro de 1955 Parte do Estatuto do Tribunal Internacional de Justiça, que se encontra publicado juntamente com o texto da Carta das Nações Unidas no Diário da República, 1.ª série-A, n.º 117, de 22 de Maio de 1991.
+Informações complementares sobre o Tribunal Internacional de Justiça poderão ser obtidas no seguinte endereço electrónico: www.icj-cij.org.
+Departamento de Assuntos Jurídicos, 21 de Setembro de 2010. - O Director, Miguel de Serpa Soares.
