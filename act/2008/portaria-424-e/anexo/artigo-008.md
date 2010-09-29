@@ -2,4 +2,8 @@
 
 ### Pagamento dos apoios
 
-O pagamento dos prémios fixos individuais é efectuado pelo IFAP após comprovação de que o beneficiário não se encontra a receber qualquer prestação de protecção ao desemprego e mediante comprovação da entrega da cédula marítima na respectiva capitania, no prazo de 50 dias, subsequentes à data de recepção do contrato devidamente firmado e remetido pelo promotor, contando-se este prazo nos termos do artigo 12.º
+O pagamento dos apoios a atribuir ao abrigo do presente regime é realizado pelo IFAP, no prazo de 50 dias úteis após a notificação da concessão do apoio, nos seguintes termos:
+
+a) No caso dos prémios fixos individuais, o pagamento realiza-se após comprovação, pelo beneficiário, de que não se encontra a receber qualquer prestação de protecção ao desemprego e de que procedeu à entrega da sua cédula marítima na capitania de registo;
+
+b) No caso dos apoios à aquisição de embarcação de pesca, o pagamento é realizado de uma só vez mediante a comprovação, pelo beneficiário, de que a propriedade da embarcação se encontra definitivamente registada em seu nome e que a mesma se encontra operacional, devendo, neste último caso, fazê-lo através da apresentação do respectivo certificado de navegabilidade ou documento equivalente.
