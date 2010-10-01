@@ -1,0 +1,590 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "416",
+    "id": "35643",
+    "titulo": "Altera a Lei nº 47/2006, de 28 de Agosto, que define o regime de avaliação, certificação e adopção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objectivos a que deve obedecer o apoio sócio-educativo relativamente à aquisição e ao empréstimo de manuais escolares."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2010-10-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7717",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2010-10-01",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35631",
+        "leg": "XI",
+        "nr": "410",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1457",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-02",
+            "pubLeg": "XI",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1457",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-02",
+            "pubLeg": "XI",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1457",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-02",
+            "pubLeg": "XI",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02?org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Programa faseado de distribuição gratuita e criação de bolsas de empréstimo de manuais escolares na escolaridade obrigatória."
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35653",
+        "leg": "XI",
+        "nr": "423",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1457",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-02",
+            "pubLeg": "XI",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1457",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-02",
+            "pubLeg": "XI",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1457",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-02",
+            "pubLeg": "XI",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02?org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Regula o empréstimo de manuais escolares."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35042",
+        "leg": "XI",
+        "nr": "137",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1457",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-02",
+            "pubLeg": "XI",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1457",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-02",
+            "pubLeg": "XI",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1457",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-02",
+            "pubLeg": "XI",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02?org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Define o regime de certificação e adopção dos manuais escolares, garantindo a sua gratuitidade."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-10-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4225",
+                "nome": "José Manuel Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101001pln&url=l11/sl2/a2010/m10/&tI=00:44:26:261&drc=00:04:09:514"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177427",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-02",
+                "pubLeg": "XI",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "sumario": "Regula o empréstimo de manuais escolares; Programa faseado de distribuição gratuita e criação de bolsas de empréstimo de manuais escolares na escolaridade obrigatória; Altera a Lei nº 47/2006, de 28 de Agosto, que define o regime de avaliação, certificação e adopção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objectivos a que deve obedecer o apoio sócio-educativo relativamente à aquisição e ao empréstimo de manuais escolares; Define o regime de certificação e adopção dos manuais escolares, garantindo a sua gratuitidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101001pln&url=l11/sl2/a2010/m10/&tI=00:48:48:212&drc=00:04:03:771"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177428",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-02",
+                "pubLeg": "XI",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02/22?pgs=22&org=PLC"
+              }
+            ],
+            "sumario": "Regula o empréstimo de manuais escolares; Programa faseado de distribuição gratuita e criação de bolsas de empréstimo de manuais escolares na escolaridade obrigatória; Altera a Lei nº 47/2006, de 28 de Agosto, que define o regime de avaliação, certificação e adopção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objectivos a que deve obedecer o apoio sócio-educativo relativamente à aquisição e ao empréstimo de manuais escolares; Define o regime de certificação e adopção dos manuais escolares, garantindo a sua gratuitidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101001pln&url=l11/sl2/a2010/m10/&tI=00:53:04:893&drc=00:03:14:460"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101001pln&url=l11/sl2/a2010/m10/&tI=01:09:58:479&drc=00:02:23:349"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177429",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23",
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-02",
+                "pubLeg": "XI",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02/23?pgs=23,27&org=PLC"
+              }
+            ],
+            "sumario": "Regula o empréstimo de manuais escolares; Programa faseado de distribuição gratuita e criação de bolsas de empréstimo de manuais escolares na escolaridade obrigatória; Altera a Lei nº 47/2006, de 28 de Agosto, que define o regime de avaliação, certificação e adopção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objectivos a que deve obedecer o apoio sócio-educativo relativamente à aquisição e ao empréstimo de manuais escolares; Define o regime de certificação e adopção dos manuais escolares, garantindo a sua gratuitidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101001pln&url=l11/sl2/a2010/m10/&tI=00:56:45:294&drc=00:04:49:812"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177430",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-02",
+                "pubLeg": "XI",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Regula o empréstimo de manuais escolares; Programa faseado de distribuição gratuita e criação de bolsas de empréstimo de manuais escolares na escolaridade obrigatória; Altera a Lei nº 47/2006, de 28 de Agosto, que define o regime de avaliação, certificação e adopção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objectivos a que deve obedecer o apoio sócio-educativo relativamente à aquisição e ao empréstimo de manuais escolares; Define o regime de certificação e adopção dos manuais escolares, garantindo a sua gratuitidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101001pln&url=l11/sl2/a2010/m10/&tI=01:01:37:793&drc=00:03:56:210"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177431",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-02",
+                "pubLeg": "XI",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Regula o empréstimo de manuais escolares; Programa faseado de distribuição gratuita e criação de bolsas de empréstimo de manuais escolares na escolaridade obrigatória; Altera a Lei nº 47/2006, de 28 de Agosto, que define o regime de avaliação, certificação e adopção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objectivos a que deve obedecer o apoio sócio-educativo relativamente à aquisição e ao empréstimo de manuais escolares; Define o regime de certificação e adopção dos manuais escolares, garantindo a sua gratuitidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2169",
+                "nome": "Paula Barros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101001pln&url=l11/sl2/a2010/m10/&tI=01:05:36:440&drc=00:04:17:727"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177432",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-02",
+                "pubLeg": "XI",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "sumario": "Regula o empréstimo de manuais escolares; Programa faseado de distribuição gratuita e criação de bolsas de empréstimo de manuais escolares na escolaridade obrigatória; Altera a Lei nº 47/2006, de 28 de Agosto, que define o regime de avaliação, certificação e adopção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objectivos a que deve obedecer o apoio sócio-educativo relativamente à aquisição e ao empréstimo de manuais escolares; Define o regime de certificação e adopção dos manuais escolares, garantindo a sua gratuitidade.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "270956",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "527954",
+        "obs": null,
+        "pag": [
+          "20-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-10-02",
+        "pubLeg": "XI",
+        "pubNr": "9",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/009/2010-10-02/20?pgs=20-27&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
