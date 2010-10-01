@@ -2,7 +2,7 @@
 
 ### Entidade reguladora dos serviços
 
-1 - A entidade reguladora para efeitos do presente decreto-lei é a Entidade Reguladora dos Serviços de Águas e Resíduos.
+1 - A entidade reguladora dos serviços para os efeitos do presente decreto-lei é a Entidade Reguladora dos Serviços de Águas e Resíduos, I. P.
 
 2 - Compete à entidade reguladora zelar pelo cumprimento das obrigações das entidades gestoras, decorrentes do presente decreto-lei e demais legislação aplicável, com o objectivo de promover a eficiência e a qualidade do serviço prestado aos utilizadores e a sustentabilidade económico-financeira da prestação destes serviços, contribuindo para o desenvolvimento geral do sector.
 
@@ -16,7 +16,7 @@ b) Emitir pareceres, a pedido das entidades titulares e das entidades gestoras d
 
 c) Emitir pareceres sobre os contratos atinentes aos diversos modelos de gestão e respectivas peças pré-contratuais;
 
-d) Emitir instruções vinculativas quanto às tarifas a praticar pelos sistemas municipais que não se conformem com as disposições legais e regulamentares em vigor, de acordo com os princípios estabelecidos na Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e no Decreto-Lei n.º 97/2008, de 11 de junho, permitindo a recuperação gradual dos custos associados, garantindo a transparência na formação da tarifa e assegurando o equilíbrio económico e financeiro do serviço prestado pelas entidades gestoras e de acordo com o princípio geral de equivalência previsto no Decreto-Lei n.º 178/2006, de 5 de setembro, permitindo a compensação tendencial dos custos sociais e ambientais da atividade de gestão de resíduos urbanos;
+d) Emitir recomendações gerais relativas aos tarifários dos serviços objecto do presente decreto-lei, independentemente do modelo de gestão adoptado para a sua prestação, e acompanhar o seu grau de adopção, divulgando os respectivos resultados;
 
 e) Elaborar códigos de boas práticas, não vinculativos, no que diz respeito à implementação do presente decreto-lei e da restante legislação aplicável;
 
@@ -32,10 +32,16 @@ b) Quando tal se justifique, a entidade reguladora pode decidir emitir parecer n
 
 7 - São nulos os actos praticados sem a obtenção de parecer obrigatório da entidade reguladora ou antes do decurso do prazo para a respectiva emissão, bem como os actos realizados sem o decurso do procedimento de audição obrigatória a que se refere o número anterior.
 
-8 - Sem prejuízo do regime previsto nos artigos 11.º-A e 11.º-B, as entidades titulares ou gestoras que tomem decisões desconformes com as decisões, recomendações, pareceres ou instruções da entidade reguladora ficam obrigadas ao dever de fundamentação expressa da decisão, com a exposição circunstanciada dos fundamentos de facto e de direito que justifiquem a motivação do ato.
+8 - As decisões das entidades titulares ou gestoras desconformes às recomendações ou pareceres não vinculativos previstos no presente decreto-lei devem fundamentar essa opção na respectiva deliberação ou decisão.
 
 9 - A entidade reguladora procede à divulgação através da Internet das recomendações gerais e dos pareceres que emita, bem como dos relatórios periódicos sobre o grau de implementação do presente regime e de concretização dos objectivos que o norteiam.
 
-10 - (Revogado).
+10 - Quando a entidade reguladora verifique que existem fortes indícios de um manifesto incumprimento, por parte de tarifário dos serviços, do disposto no artigo 82.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de Dezembro, nos artigos 20.º a 23.º do regime económico e financeiro da água, aprovado pelo Decreto-Lei n.º 97/2008, de 11 de Junho, e no artigo 16.º da Lei das Finanças Locais, aprovada pela Lei n.º 2/2007, de 15 de Janeiro, pode:
 
-11 - (Revogado).
+a) Pedir esclarecimentos à entidade às entidades gestoras sobre esse facto;
+
+b) No caso de a entidade gestora não prestar os esclarecimentos ou se estes não afastarem os indícios de incumprimento, aconselhar à entidade gestora a realização de uma auditoria ao tarifário em causa, dando disso conhecimento à respectiva assembleia municipal, intermunicipal ou metropolitana e à entidade competente da tutela inspectiva;
+
+c) Recomendar à entidade gestora a revisão do tarifário, de acordo com o enquadramento legal, dando disso conhecimento à respectiva assembleia municipal, intermunicipal ou metropolitana e à entidade competente da tutela inspectiva.
+
+11 - O procedimento previsto no número anterior aplica-se igualmente, com as devidas adaptações, a situações em que existam fortes indícios de um manifesto incumprimento de disposições legais relativas à qualidade do serviço prestado, à protecção da saúde pública e aos direitos dos consumidores.

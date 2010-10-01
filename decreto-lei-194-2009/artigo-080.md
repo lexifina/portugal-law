@@ -12,4 +12,4 @@
 
 5 - Os sistemas referidos no n.º 5 do artigo 8.º devem ser implementados no prazo de três anos a contar da entrada em vigor do presente decreto-lei no que respeita às entidades gestoras existentes.
 
-6 - (Revogado.)
+6 - O sítio na Internet previsto no n.º 3 do artigo 61.º deve ser implementado no prazo de seis meses a contar da entrada em vigor do presente decreto-lei, no que respeita às entidades gestoras existentes.
