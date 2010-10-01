@@ -6,33 +6,43 @@
 
 ### Emolumentos do registo de automóveis
 
+... Em euros
+
 1 - Registos:
 
-1.1 - Pelo registo inicial relativo a veículo com primeira matrícula atribuída nos 60 dias anteriores - (euro) 50;
+1.1 - Pelo registo inicial relativo a veículo com primeira matrícula atribuída nos 60 dias anteriores - (euro) 55;
 
-1.2 - Por cada registo subsequente - (euro) 60;
+1.2 - Por cada registo subsequente - (euro) 65;
 
-1.3 - Tratando-se de registo de propriedade adquirida por revenda efectuada por entidade comercial que tenha por actividade principal a compra de veículos para revenda, nos 180 dias posteriores à aquisição da propriedade por tal entidade - (euro) 20;
+1.3 - Tratando-se de registo de propriedade adquirida por revenda efetuada por entidade comercial que tenha por atividade principal a compra e venda de veículos para revenda, nos 180 dias posteriores à aquisição da propriedade por tal entidade - (euro) 30;
 
 1.4 - O emolumento previsto no número anterior é devido pela entidade comercial nele referida, sendo devido a esta última, por parte do adquirente da propriedade em virtude da revenda, o valor do emolumento pago pela entidade comercial, pelo registo de propriedade a seu favor, nos termos do n.º 1.2;
 
-1.5 - Tratando-se de registo de alteração de nome, firma, residência ou sede - (euro) 30;
+1.5 - Tratando-se de registo de alteração de nome, firma, residência ou sede - (euro) 35;
 
 1.6 - Por cada registo relativo a ciclomotor ou motociclo, triciclo ou quadriciclo com cilindrada não superior a 50 cm3:
 
-1.6.1 - Tratando-se de registo inicial relativo a veículo com primeira matrícula atribuída nos 60 dias anteriores - (euro) 10;
+1.6.1 - Tratando-se de registo inicial relativo a veículo com primeira matrícula atribuída nos 60 dias anteriores - (euro) 20;
 
-1.6.2 - Tratando-se de registo subsequente - (euro) 20;
+1.6.2 - Tratando-se de registo subsequente - (euro) 30;
 
-1.7 - Se o registo contiver a menção de reserva de propriedade, acresce 25 % aos emolumentos previstos nos n.os 1.2, 1.3 e 1.6;
+1.7 - Pela menção de reserva de propriedade ou pelo seu cancelamento são devidos 50 % dos emolumentos previstos nos n.os 1.2, 1.3 e 1.6.2, respetivamente;
 
-1.8 - Se o registo for requerido fora do prazo, os emolumentos previstos nos números anteriores são agravados em 50 %;
+1.8 - Se o registo for requerido fora de prazo, é devido valor igual ao do emolumento;
 
 1.9 - Se o registo respeitar a diversos veículos, acresce, por cada veículo depois do primeiro, 50 % do valor do emolumento previsto para o registo.
 
+1.10 - Pela desistência - (euro) 20;
+
+1.11 - Pela recusa - (euro) 25;
+
+1.11.1 - Se o emolumento previsto para o ato de registo requerido for inferior ao valor previsto nos n.os 1.10 e 1.11, pela desistência ou pela recusa é devido o emolumento correspondente ao ato;
+
+1.12 - Pelo suprimento oficioso de deficiências que ocorra no âmbito dos n.os 2 e 3 do artigo 42.º-A do Decreto n.º 55/75, de 12 de fevereiro - (euro) 10.
+
 2 - Certidões, fotocópias, certificados de matrícula, informações:
 
-2.1 - Por cada fotocópia, certidão ou fotocópia acrescida da certificação de outro facto - (euro) 17;
+2.1 - Pela requisição e emissão de certidão ou fotocópia acrescida da certificação de outro facto - (euro) 17;
 
 2.2 - Pela confirmação do conteúdo de certidão ou fotocópia é devido o emolumento da respectiva emissão, reduzido a metade.
 
@@ -40,51 +50,67 @@
 
 2.4 - Por cada informação dada por escrito relativa:
 
-2.4.1 - Ao actual proprietário inscrito do veículo e aos encargos que o oneram ... 3
+2.4.1 - Ao actual proprietário inscrito do veículo e aos encargos que o oneram - (euro) 5;
 
-2.4.2 - A proprietários anteriores ... 5
+2.4.2 - A proprietários anteriores - (euro) 7.
 
-3 - Se for requerida urgência, duplica o valor do emolumento.
+3 - Pela urgência na feitura de cada registo é devido o valor do emolumento correspondente ao acto.
 
 4 - Intermediação:
 
-4.1 - Por cada remessa de requerimentos e documentos ... 5
+4.1 - Por cada remessa de requerimentos e documentos ... 5...
 
-5 - Mapas estatísticos e bases de dados:
+5 - Acesso electrónico, cópias parciais e mapas para fins de investigação científica e estatística.
 
-5.1 - Pelo fornecimento em suporte de papel de mapas estatísticos:
+5.1 - Informação típica disponibilizada pelos serviços para fins de investigação científica ou estatística fornecida em suporte papel:
 
-5.1.1 - Até 5000 registos - (euro) 1000;
+5.1.1 - Relativa a cada conjunto de 500 000 matrículas, ou parte - (euro) 100;
 
-5.1.2 - Acima de 5000 registos - (euro) 2000;
+5.1.2 - (Revogado.)
 
-5.2 - Pelo fornecimento em suporte electrónico de mapas estatísticos:
+5.2 - Informação típica disponibilizada pelos serviços para fins de investigação científica ou estatística fornecida em suporte electrónico:
 
-5.2.1 - Até 5000 registos - (euro) 100;
+5.2.1 - Relativa a cada conjunto de 500 000 matrículas, ou parte - (euro) 50;
 
-5.2.2 - Acima de 5000 registos - (euro) 200;
+5.2.2 - (Revogado.)
 
-5.3 - Pela consulta em linha à base de dados do registo de veículos:
+5.3 - Acesso electrónico à informação:
 
-5.3.1 - Assinatura mensal, obrigatoriamente feita pelo período mínimo de um ano e que inclui até 300 acessos úteis - (euro) 500;
+5.3.1 - Por assinatura mensal, obrigatoriamente feita pelo período mínimo de seis meses - (euro) 150;
 
-5.3.2 - Por cada acesso útil a mais - (euro) 1;
+5.3.2 - Acresce em cada período mensal, por cada acesso:
 
-5.3.3 - São considerados acessos úteis, para efeitos do presente número, os que correspondem aos inputs ou outputs à finalidade para que foi autorizada a consulta.
+5.3.2.1 - Até 1000 acessos - (euro) 1;
 
-5.4 - Por cada cópia parcial em suporte magnético:
+5.3.2.2 - De 1001 até 5000 acessos - (euro) 0,90;
 
-5.4.1 - Até 5000 registos - (euro) 100;
+5.3.2.3 - De 5001 até 50 000 acessos - (euro) 0,80;
 
-5.4.2 - Acima de 5000 registos - (euro) 200;
+5.3.2.4 - De 50 001 até 100 000 acessos - (euro) 0,50;
 
-5.5 - Por cada cópia parcial em suporte de papel (conteúdo integral ou parcial de registo):
+5.3.2.5. - Acima de 100 000 acessos - (euro) 0,30;
 
-5.5.1 - Até 1000 registos - (euro) 2000;
+5.3.3 - (Revogado.)
 
-5.5.2 - Por cada adicional de 1000 registos ou fracção - (euro) 1000.
+5.4 - Cópias parciais da base de dados, de conteúdo total ou parcial da situação jurídica de cada veículo, fornecida em suporte electrónico:
 
-6 - Pelo processo de justificação ... 50
+5.4.1 - Por cada conjunto de 500 matrículas ou parte - (euro) 300;
+
+5.4.2 - (Revogado.)
+
+5.5 - Cópia parcial da base de dados, de conteúdo total ou parcial da situação jurídica de cada veículo, fornecida em suporte papel:
+
+5.5.1 - Por cada conjunto de 500 matrículas ou parte - (euro) 2000;
+
+5.5.2 - (Revogado.)
+
+5.6 - O emolumento devido pela prestação de informação para fins de investigação científica ou de estatística que requeira um tratamento informático especial é o correspondente ao custo efectivo do serviço, acrescido de 10 % desse montante;
+
+5.7 - Os emolumentos previstos nos n.os 5.2, 5.3, 5.4, 5.5 e 5.6 constituem receita do IRN, I. P., e do IGFEJ, I. P., na proporção de 85 % e 15 %, respetivamente;
+
+5.8 - Os emolumentos previstos no n.º 5.1 constituem receita do IRN, I. P.
+
+6 - Pelo processo de justificação - (euro) 100.
 
 7 - Pela instrução e decisão de processo especial de rectificação ... 125
 
@@ -92,10 +118,16 @@
 
 9 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste artigo são pagos pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).
 
-10 - Para fazer face ao encargo referido no número anterior, constitui receita do IRN, I. P., o montante de (euro) 20, a deduzir dos emolumentos previstos no n.º 1, ou o montante de (euro) 1,5, a deduzir do emolumento previsto no n.º 2.1, por cada um dos actos previstos em tais preceitos.
+10 - Para fazer face ao encargo referido no número anterior, constitui receita do IRN, I. P., o montante de (euro) 25, a deduzir dos emolumentos previstos nos n.os 1.1, 1.2, 1.3 e 1.5, e de (euro) 15, a deduzir dos emolumentos previstos nos n.os 1.6.1 e 1.6.2, por cada um dos atos previstos em tais preceitos.
 
-11 - Para fazer face ao encargo com a gestão dos sistemas informáticos necessários à sua disponibilização, constitui receita do Instituto das Tecnologias de Informação na Justiça, I. P. (ITIJ) o montante de (euro) 5, a deduzir, por cada acto de registo, independentemente de ser promovido por via electrónica, aos emolumentos previstos no n.º 1.
+11 - (Revogado.)
 
-12 - Os emolumentos cobrados pelos actos de registo requeridos por via electrónica constituem receita do IRN, I. P., sem prejuízo da receita atribuída ao ITIJ, nos termos do número anterior.
+12 - Os emolumentos cobrados pelos atos de registo requeridos por via eletrónica constituem receita do IRN, I. P.
 
-13 - Os emolumentos previstos no n.º 5.3 constituem receita do IRN, I. P., e do ITIJ, I. P., em partes iguais.
+12.1 - Constituem, igualmente, receita do IRN, I. P., os valores previstos nos n.os 1.7, 1.8, 1.10, 1.11, 1.12, 2 e 3.
+
+13 - (Revogado.)
+
+14 - Os montantes pecuniários a pagar em resultado da aplicação de reduções emolumentares previstas nesta tabela devem ser arredondados, por excesso ou por defeito, para a unidade decimal mais próxima. Caso os montantes pecuniários a pagar resultem num valor exatamente intermédio, o montante deve ser arredondado por excesso.
+
+14.1 - Os valores resultantes dos arredondamentos efetuados nos termos do número anterior são suportados pelo Instituto dos Registos e do Notariado, I. P., nos arredondamentos por defeito e revertem para a mesma entidade nos arredondamentos por excesso.

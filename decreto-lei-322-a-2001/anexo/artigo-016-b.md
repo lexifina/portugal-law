@@ -16,7 +16,7 @@ c) Actualização dos registos, por efeito da redenominação automática dos va
 
 d) Averbamentos de actualização das inscrições, quanto à residência ou sede dos sujeitos que nelas figuram, quando a actualização respeite a alterações toponímicas não dependentes da vontade dos interessados.
 
-e) Os registos de actualização ou de transmissão de direitos efectuados na sequência de uma operação de fusão ou cisão.
+e) (Revogada.)
 
 2 - São ainda gratuitos os seguintes actos:
 

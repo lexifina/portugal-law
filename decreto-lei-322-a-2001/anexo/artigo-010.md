@@ -58,6 +58,8 @@ aa) Assentos, certidões ou quaisquer outros actos ou documentos que tenham de s
 
 ab) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março.
 
+ac) Procedimento de aquisição de nacionalidade a quem foi identificado como português por erro imputável à administração.
+
 2 - São, ainda, gratuitos os actos de registo e os documentos necessários à instrução dos processos de atribuição do estatuto de igualdade luso-brasileiro contido no Tratado de Amizade, Cooperação e Consulta, de 22 de Abril de 2000.
 
 3 - Beneficiam ainda de gratuitidade dos actos de registo civil ou de nacionalidade, dos processos e declarações que lhes respeitem, dos documentos necessários e processos relativos ao suprimento destes, bem como das certidões requeridas para quaisquer fins, os indivíduos que provem a sua insuficiência económica pelos seguintes meios:

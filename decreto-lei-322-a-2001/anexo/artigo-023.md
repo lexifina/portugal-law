@@ -60,15 +60,11 @@
 
 8.1.1.1 - Pela consulta em linha à base de dados do FCPC - assinatura mensal de (euro) 600, que inclui até 100 acessos úteis;
 
-8.1.1.2 - Por cada acesso útil efectuado no mês:
+8.1.1.2 - (Revogado.)
 
-A partir de 101 até 200 ... 4
+8.1.1.3 - (Revogado.)
 
-A partir de 201 ... 2
-
-8.1.1.3 - A assinatura mensal deve ser feita pelo período mínimo de um ano;
-
-8.1.1.4 - São considerados acessos úteis, para efeitos deste número, os que correspondem aos inputs ou outputs à finalidade para que foi autorizada a consulta.
+8.1.1.4 - (Revogado.)
 
 8.2 - Cópias do FCPC e da base de dados do RPCR:
 
@@ -80,7 +76,7 @@ A partir de 201 ... 2
 
 8.2.3.1 - Até 1000 registos ... 1000
 
-8.2.3.2 - Por cada adicional de 1000 registos ou fracção ... 500
+8.2.3.2 - (Revogado.)
 
 8.3 - Por cada cópia parcial em suporte de papel (conteúdo integral ou parcial do registo):
 
