@@ -1,5 +1,3 @@
-Decreto-Lei n.º 306/2007
-
 de 27 de Agosto
 
 O Decreto-Lei n.º 243/2001, de 5 de Setembro, que transpôs para ordem jurídica interna a Directiva n.º 98/83/CE, do Conselho, de 3 de Novembro, relativa à qualidade da água destinada ao consumo humano, manteve aspectos fundamentais do anterior diploma, o Decreto-Lei n.º 236/98, de 1 de Agosto. Este definia já o essencial das obrigações das entidades gestoras, nomeadamente a apresentação do programa de controlo da qualidade da água para consumo humano, a frequência de amostragem de acordo com a população servida, a comunicação dos incumprimentos de valores paramétricos e de outras situações que comportassem risco para a saúde humana, a publicação trimestral dos resultados obtidos nas análises de demonstração de conformidade, a comunicação, até 31 de Março de cada ano, dos dados analíticos da implementação do programa de controlo da qualidade da água relativos ao ano transacto, a realização de análises preferencialmente em laboratórios de ensaios credenciados e os métodos analíticos de referência.
