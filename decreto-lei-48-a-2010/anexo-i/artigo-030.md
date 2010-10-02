@@ -1,12 +1,8 @@
-## Secção VI
-
-## Monitorização e fiscalização
-
 # Artigo 30.º
 
 ### Sanções
 
-1 - O não início da comercialização efetiva de qualquer apresentação do medicamento comparticipado na data notificada ao abrigo do n.º 1 do artigo 13.º, bem como qualquer infração ao disposto nesse artigo, constitui contraordenação punível com coima entre (euro) 2 000 e 15 % do volume de negócios do responsável ou (euro) 180 000, consoante o que for inferior.
+1 - O não início da comercialização efectiva de qualquer apresentação do medicamento comparticipado na data notificada ao abrigo do n.º 1 do artigo 13.º, bem como qualquer infracção ao disposto nesse artigo, constitui contra-ordenação punível com coima de (euro) 2500 a (euro) 3740 ou a (euro) 44 750, consoante o agente seja pessoa singular ou colectiva.
 
 2 - A tentativa e a negligência são puníveis.
 

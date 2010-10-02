@@ -1,11 +1,3 @@
-## Anexo I
-
-## (a que se refere o artigo 2.º) Regime geral das comparticipações do Estado no preço dos medicamentos
-
-## Capítulo II
-
-## Regimes de comparticipação de medicamentos
-
 ## Secção II
 
 ## Regimes especiais de comparticipação
