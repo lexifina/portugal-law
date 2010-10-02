@@ -1,6 +1,6 @@
-## Capítulo XII
+## Capítulo XI
 
-## Processo supletivo
+## Cancelamento provisório do registo criminal
 
 # Artigo 229.º
 

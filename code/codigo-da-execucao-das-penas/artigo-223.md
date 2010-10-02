@@ -2,10 +2,6 @@
 
 ## Indulto
 
-## Capítulo XI
-
-## Cancelamento provisório do registo criminal
-
 # Artigo 223.º
 
 ### Legitimidade
