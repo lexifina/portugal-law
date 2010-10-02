@@ -2,4 +2,8 @@
 
 ### Oferta formativa a financiar
 
-O apoio financeiro incide sobre os cursos profissionais de nível secundário, regulamentados pela Portaria n.º 550-C/2004, de 21 de Maio, que constam das autorizações prévias de funcionamento (APF) das escolas profissionais privadas ou dos respectivos aditamentos, emitidos até à data de início do período de candidatura.
+O apoio financeiro incide sobre a seguinte oferta formativa ministrada nas escolas profissionais privadas:
+
+a) Cursos profissionais de nível secundário que constam das autorizações prévias de funcionamento (APF) e respectivos aditamentos emitidos até à data de início do período de candidatura, formalizada nos termos do artigo 6.º;
+
+b) Cursos de educação e formação de jovens, cuja candidatura é formalizada nos termos do artigo 6.º

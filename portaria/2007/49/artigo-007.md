@@ -16,7 +16,7 @@ e) A capacidade, qualidade e adequação das instalações e equipamentos educat
 
 f) Os mecanismos de auto-avaliação organizacional e pedagógica e de avaliação de impacte estabelecidos ao nível das escolas profissionais privadas relativamente aos cursos nelas ministrados;
 
-g) O grau de sucesso escolar e profissional de cursos profissionais ministrados na escola profissional privada.
+g) O grau de sucesso escolar e profissional dos cursos ministrados na escola profissional privada.
 
 2 - Os requisitos e critérios a adoptar na análise e selecção das ofertas formativas a financiar encontram-se sistematizados no anexo do presente diploma, de que faz parte integrante.
 

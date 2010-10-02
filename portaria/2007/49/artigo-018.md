@@ -2,7 +2,7 @@
 
 ### Processo técnico-pedagógico
 
-As entidades beneficiárias do financiamento ficam obrigadas a organizar um processo sobre cada um dos cursos profissionais com turmas subsidiadas ao abrigo do presente diploma, o qual deverá conter os seguintes elementos:
+As entidades beneficiárias do financiamento ficam obrigadas a organizar um processo, no todo ou em parte, em suporte electrónico, sobre cada um dos cursos com turmas subsidiadas ao abrigo do presente diploma, o qual deverá conter os seguintes elementos:
 
 a) Planificação anual do curso;
 

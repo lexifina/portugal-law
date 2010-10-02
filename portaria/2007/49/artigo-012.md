@@ -6,26 +6,46 @@
 
 ### Apoio financeiro
 
-1 - O financiamento objecto do presente diploma é assegurado pelos Ministérios da Educação e do Trabalho e da Solidariedade Social.
+1 - O financiamento objecto do presente diploma é assegurado pelo Ministério da Educação.
 
-2 - A comparticipação do Ministério do Trabalho e da Solidariedade Social é concretizada através de transferência do orçamento do Instituto do Emprego e Formação Profissional, I. P., para o Ministério da Educação, de acordo com as orientações definidas para o financiamento do ensino profissional e nos termos a estabelecer para cada ano económico, por despacho conjunto dos ministros da tutela.
+2 - (Revogado.)
 
 3 - O apoio financeiro a conceder consiste na atribuição de um subsídio por turma por curso definido pelo Ministro da Educação, de valor correspondente ao limite máximo anual a pagar pelo Estado durante o período de um ciclo de formação, para comparticipação dos custos de formação respectivos.
 
-4 - O valor do subsídio por turma por curso é calculado nos seguintes termos:
+4 - Nos cursos profissionais, o valor do subsídio por turma por curso é calculado nos seguintes termos:
 
-a) Sem prejuízo do disposto no número seguinte, a determinação do valor por aluno por ano será feita por referência ao valor por aluno por ano apurado para o curso profissional a financiar para o ciclo de formação de 2005 a 2008 assim como às alterações socioeconómicas entretanto ocorridas com impacto significativo ao nível da oferta formativa correspondente, salvo nos casos previstos na alínea seguinte;
+a) A determinação do valor por aluno por ano será feita por referência ao valor por aluno por ano apurado para o curso financiado no ciclo de formação iniciado no ano lectivo de 2008-2009, salvo nos casos previstos na alínea seguinte;
 
 b) Tratando-se de uma nova oferta formativa a financiar, a determinação do valor por aluno por ano será feita por referência à média dos valores apurados no ano precedente, nos termos da alínea anterior, relativamente aos cursos profissionais de natureza análoga;
 
 c) O valor unitário a que se referem as alíneas anteriores será aplicado, consoante o caso, a um número médio de 23 alunos para determinação do valor global do subsídio por turma por curso.
 
-5 - A aplicação do valor referencial por aluno por ano na determinação do valor do subsídio por turma por curso, nos termos do número anterior, será objecto de reapreciação ao fim de cada período de três anos, tendo em conta os seguintes parâmetros:
+d) A aplicação do valor referencial por aluno por ano na determinação do valor do subsídio por turma por curso será objecto de reapreciação ao fim de cada período de três anos, tendo em conta os custos de formação incorridos, apurados pela análise da média dos custos de funcionamento directamente associados à oferta formativa em causa, constantes das últimas demonstrações financeiras aprovadas e demais documentos contabilísticos correspondentes, relativos às escolas profissionais privadas onde é ministrado o referido curso, assim como as alterações sócio-económicas entretanto ocorridas com impacte significativo ao nível da oferta formativa correspondente.
 
-a) Custos de formação incorridos com o curso profissional a financiar, apurados pela análise da média dos custos de funcionamento directamente associados à oferta formativa em causa, constantes das últimas demonstrações financeiras aprovadas e demais documentos contabilísticos correspondentes, relativos às escolas profissionais privadas onde é ministrado o referido curso;
+5 - Nos cursos de educação e formação de jovens, o valor do subsídio por turma por curso é calculado nos seguintes termos:
 
-b) Natureza do curso profissional.
+a) Sem prejuízo do disposto na alínea seguinte, a determinação do valor por aluno por ano será feita por referência ao valor por aluno por ano apurado para o curso financiado iniciado no ano lectivo 2006-2007;
 
-6 - O acesso efectivo pelas entidades candidatas ao valor do subsídio por turma por curso está dependente do respeito pelos limites e condições estabelecidos no capítulo VI do despacho n.º 14758/2004, de 23 de Julho, relativo à constituição de turmas.
+b) Tratando-se de uma nova oferta formativa a financiar, a determinação do valor por aluno por ano será feita por referência à média dos valores apurados no ano precedente, nos termos da alínea anterior, relativamente aos cursos de educação e formação de natureza análoga;
+
+c) O valor unitário a que se referem as alíneas anteriores será aplicado, consoante o caso, a um número médio de 20 alunos para determinação do valor global do subsídio por turma por curso;
+
+d) A aplicação do valor referencial por aluno por ano na determinação do valor do subsídio por turma, por curso, será objecto de reapreciação ao fim de cada período de três anos, tendo em conta os custos de formação incorridos, apurados pela análise da média dos custos de funcionamento directamente associados à oferta formativa em causa, constantes das últimas demonstrações financeiras aprovadas e demais documentos contabilísticos correspondentes, relativos às escolas profissionais privadas onde é ministrado o referido curso, assim como as alterações sócio-económicas entretanto ocorridas com impacte significativo ao nível da oferta formativa correspondente.
+
+6 - O acesso efectivo pelas entidades candidatas ao valor do subsídio por turma por curso está dependente dos limites legais definidos nos termos das alíneas seguintes, em matéria de constituição de turmas:
+
+a) No caso dos cursos profissionais, o respeito pelos limites e condições estabelecidos no capítulo vi do despacho n.º 14 758/2004, de 23 de Julho;
+
+b) No caso dos cursos de educação e formação de jovens, o respeito pelos limites e condições estabelecidos no despacho n.º 12 568/2010, publicado no Diário da República, 2.ª série, n.º 150, de 4 de Agosto de 2010, que altera o despacho conjunto n.º 453/2004, publicado no Diário da República, 2.ª série, n.º 175, de 27 de Julho de 2004, rectificado pela declaração de rectificação n.º 1673/2004, de 7 de Setembro.
 
 7 - As entidades proprietárias das escolas profissionais privadas não poderão ser beneficiárias de outro tipo de apoios ao mesmo fim destinados relativamente aos alunos que integram as turmas objecto do financiamento.
+
+8 - Nos casos em que as entidades proprietárias das escolas profissionais privadas estabeleçam parcerias com estabelecimentos de ensino da rede pública para o desenvolvimento de componentes do plano curricular no âmbito de cursos financiados, a comparticipação financeira desses cursos será reduzida da parcela correspondente às componentes curriculares desenvolvidas pelos estabelecimentos de ensino da rede pública nos seguintes termos:
+
+a) Componente de formação sócio-cultural: 35 %;
+
+b) Componente de formação científica: 20 %;
+
+c) Componente de formação técnica/tecnológica: 45 %.
+
+9 - As tabelas referentes aos apoios financeiros a conceder por curso e por turma para as ofertas formativas em causa serão objecto de aprovação pelo Ministro da Educação, sendo devidamente divulgadas através das páginas electrónicas do ME e das direcções regionais de educação territorialmente competentes.
