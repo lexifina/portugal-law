@@ -22,4 +22,4 @@ e) Cria as condições necessárias para a continuidade do tratamento após a li
 
 5 - O plano é periodicamente avaliado e actualizado, em função das necessidades de tratamento do internado e das suas condições de inserção familiar e social.
 
-6 - Ao inimputável e ao imputável internado em estabelecimento destinado a inimputáveis é aplicável o disposto na Lei da Saúde Mental relativamente aos direitos das pessoas com necessidade de cuidados de saúde mental.
+6 - Ao inimputável e ao imputável internado em estabelecimento destinado a inimputáveis é aplicável o disposto nas alíneas a) a d) do n.º 1 e nos n.os 2 e 3 do artigo 5.º da Lei n.º 36/98, de 24 de Julho.

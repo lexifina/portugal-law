@@ -32,6 +32,6 @@ l) Dar parecer sobre a concessão do indulto e promover a respectiva revogação
 
 m) Suscitar a resolução do conflito de competência;
 
-n) (Revogada);
+n) Instaurar a execução por custas;
 
 o) Instaurar os procedimentos, promover e realizar as demais diligências previstas no presente Código.

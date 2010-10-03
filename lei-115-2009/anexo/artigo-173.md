@@ -1,6 +1,6 @@
 ## Capítulo V
 
-## Liberdade condicional e execução da pena acessória de expulsão
+## Liberdade condicional
 
 ## Secção I
 
