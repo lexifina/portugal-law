@@ -6,4 +6,4 @@
 
 2 - Constitui um só crime continuado a realização plúrima do mesmo tipo de crime ou de vários tipos de crime que fundamentalmente protejam o mesmo bem jurídico, executada por forma essencialmente homogénea e no quadro da solicitação de uma mesma situação exterior que diminua consideravelmente a culpa do agente.
 
-3 - O disposto no número anterior não abrange os crimes praticados contra bens eminentemente pessoais, salvo tratando-se da mesma vítima.
+3 - O disposto no número anterior não abrange os crimes praticados contra bens eminentemente pessoais.
