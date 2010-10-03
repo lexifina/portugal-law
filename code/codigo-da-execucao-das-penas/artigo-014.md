@@ -16,14 +16,10 @@ b) O regime se mostrar adequado ao seu comportamento prisional, à salvaguarda d
 
 5 - A colocação do recluso em regime aberto cessa se deixarem de verificar-se os pressupostos previstos nos números anteriores ou se o recluso deixar de cumprir as condições estabelecidas aquando da sua concessão.
 
-6 - A colocação do recluso em regime aberto e a sua cessação são da competência:
-
-a) Do director do estabelecimento prisional, no caso de regime aberto no interior;
-
-b) Do director-geral dos Serviços Prisionais, no caso de regime aberto no exterior.
+6 - A colocação do recluso em regime aberto no interior e a sua cessação são da competência do director do estabelecimento prisional.
 
 7 - As decisões de colocação em regime aberto no interior, bem como de cessação deste, são comunicadas ao director-geral dos Serviços Prisionais.
 
-8 - As decisões de colocação em regime aberto no exterior, bem como de cessação deste, são comunicadas ao Ministério Público junto do tribunal de execução das penas para verificação da legalidade.
+8 - A colocação do recluso em regime aberto no exterior e a sua cessação são da competência do director-geral dos Serviços Prisionais, sendo a decisão de colocação submetida a homologação prévia pelo tribunal de execução das penas, nos termos do artigo 172.º-A.
 
 9 - Os reclusos colocados em regime aberto estão sujeitos à realização periódica ou aleatória dos testes referidos na alínea g) do artigo 8.º
