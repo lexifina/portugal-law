@@ -1,0 +1,6 @@
+Aviso (extracto) n.º 19628/2010
+Dr. Manuel da Silva Soares, Presidente da Câmara Municipal de Sever do Vouga, torna público que, por deliberações tomadas nas reuniões ordinárias da Câmara Municipal, realizadas em 10 de Março de 2010 e 9 de Junho de 2010, respectivamente, foi submetida a apreciação pública e a discussão pública a Alteração ao artigo 46.º do Regulamento do Plano de Urbanização da Vila de Sever do Vouga, através do Aviso n.º 8486/2010, de 28 de Abril e Aviso n.º 15584/2010, de 5 de Agosto, este último rectificado através da Declaração de Rectificação n.º 1657/2010, de 17 de Agosto, todos publicados na 2.ª série do Diário da República, cuja versão final foi aprovada pela Assembleia Municipal, em sua sessão de 24 de Setembro de 2010, por proposta da Câmara Municipal, aprovada em 22 de Setembro de 2010, que passará a ter a seguinte redacção:
+Artigo 46.º
+A área industrial representada no zonamento destina-se à construção de edifícios destinados à actividade industrial e de armazenagem, prestação de serviços e estabelecimentos de restauração e bebidas
+Paços do Município de Sever do Vouga, 28 de Setembro de 2010. - O Presidente da Câmara, Dr. Manuel da Silva Soares.
+203743815
