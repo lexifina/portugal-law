@@ -1,0 +1,60 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "tipo": "Proposta de Resolução",
+  "numero": "29",
+  "id": "35695",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2010-10-11",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2011-06-19",
+    "DataInicioleg": "2010-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595338775a6d517a5a5449795979307759574e6d4c5452684d546b74596a597a4e79316c4f5455315a6a41315a4467354f444d756347526d&fich=0fd3e22c-0acf-4a19-b637-e955f05d8983.pdf&Inline=true",
+        "anexoNome": "Convenção digitalizada"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953396b4e54646b4e444e6a4e7931694f4751334c54526d59324d74596a59314d5330324e7a686c4e4451784e6a52695a6a63755a47396a&fich=d57d43c7-b8d7-4fcc-b651-678e44164bf7.doc&Inline=true",
+        "anexoNome": "Convenção PT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d4e5451775a5755315a43316d4d47466d4c54526a5a575974596a59785a4330784d474d354d44646a5a54526d4d3255755a47396a&fich=f540ee5d-f0af-4cef-b61d-10c907ce4f3e.doc&Inline=true",
+        "anexoNome": "Convenção ING"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595338324d6a497a4e4463794e533030596a4d324c54526d4e6d51744f475a6d4d793168593252694e4463354f4463784d7a51755a47396a&fich=62234725-4b36-4f6d-8ff3-acdb47987134.doc&Inline=true",
+        "anexoNome": "Convenção Castelhano"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "35695",
+    "IniLeg": "XI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a4e6d4a6b4e575a684f4331685a44566a4c54517859545574595755314e43316d4f5451305a5751324d7a51774f5463755a47396a&fich=c6bd5fa8-ad5c-41a5-ae54-f944ed634097.doc&Inline=true",
+    "IniNr": "29",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova a Convenção entre a República Portuguesa e a República Oriental do Uruguai para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em matéria de Impostos sobre o Rendimento e sobre o Património e o Protocolo, à Convenção entre a  República Portuguesa e a República Oriental do Uruguai para Evitar e Dupla Tributação e Prevenir a Evasão Fiscal em matéria de impostos sobre o rendimentos e sobre o Património, assinados no Estoril, em 30 de Novembro de 2009.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
