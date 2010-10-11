@@ -1,0 +1,601 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12033",
+  "numero": "103",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-10-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2011-10-25",
+        "DataBaixaComissao": "2011-07-07",
+        "DataEnvioPAR": "2011-10-27",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-10-27",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c324e6d59574e6b5a574d784c57597a4e6a45744e446b30596931695a57526a4c574a684e5449794d475132596a4e684d4335775a47593d&fich=cfacdec1-f361-494b-bedc-ba5220d6b3a0.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3520",
+        "Legislatura": "XII",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XI Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-01-19",
+            "dataResposta": "2011-01-27",
+            "entidades": [
+              "Câmara Municipal de Évora"
+            ],
+            "nrOficio": "60/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-01-19",
+            "dataResposta": "2011-02-02",
+            "entidades": [
+              "Câmara Municipal de Braga"
+            ],
+            "nrOficio": "58/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-01-19",
+            "dataResposta": "2011-03-02",
+            "entidades": [
+              "Câmara Municipal do Barreiro"
+            ],
+            "nrOficio": "59/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-01-19",
+            "dataResposta": "2011-02-09",
+            "entidades": [
+              "Universidade de Trás-os-Montes e Alto Douro"
+            ],
+            "nrOficio": "61/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-01-19",
+            "dataResposta": "2011-03-09",
+            "entidades": [
+              "Universidade de Évora"
+            ],
+            "nrOficio": "62/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-10-28",
+        "DataArquivo": "2011-07-06",
+        "DataBaixaComissao": "2010-10-28",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2010-10-28",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-02-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764f4449314d6a646c4d444d745a6d4a6c4e793030595449334c574a6a4e5451744d4463774d7a52684d6d597a4f54646a4c6e426b5a673d3d&fich=82527e03-fbe7-4a27-bc54-07034a2f397c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-02-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764d544a694d32566b4e4745744e7a646b4f5330305a546b304c5468694e474d744e5755315a5464694e6a566d4f5455774c6e426b5a673d3d&fich=12b3ed4a-77d9-4e94-8b4c-5e5e7b65f950.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764e574e6a4e4456684d4459745a57526d4e5330304f4451774c574a685a5455744d4445334f57466b597a51774d5749774c6e426b5a673d3d&fich=5cc45a06-edf5-4840-bae5-0179adc401b0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a59573876596a42684d574d774d4745744f546c6c4d4330305a6d4d354c5749794f4455744d445130596d49784d7a526c5954646c4c6e426b5a673d3d&fich=b0a1c00a-99e0-4fc9-b285-044bb134ea7e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764e546379595445794e6a67744f4745324d7930304e6a51774c5467344d6a59745a5451324d475179596a466c4e5455324c6e426b5a673d3d&fich=572a1268-8a63-4640-8826-e460d2b1e556.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764d446c685a54466a4e4459745a54517a4d7930305a54557a4c5749344e5445744e444a6c4e5751334f445a684d7a68684c6e426b5a673d3d&fich=09ae1c46-e433-4e53-b851-42e5d786a38a.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-02-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738764e6a55314f574d775a446b744e7a63355a693030596a59324c5467354e6d55744e7a49335a6a4e694e6a55334d4451334c6e426b5a673d3d&fich=6559c0d9-779f-4b66-896e-727f3b657047.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738765932513059546330595445744d3251785a5330304e57597a4c5749794d544d745a6a5a6c4f546469596a59304d574e6c4c6e426b5a673d3d&fich=cd4a74a1-3d1e-45f3-b213-f6e97bb641ce.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-03-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a59573876597a6b7a596d59344d7a59744f54466c5a5330304f4451324c5468685a6a59745a6a41784f546b7a5a444a684f446b304c6e426b5a673d3d&fich=c93bf836-91ee-4846-8af6-f01993d2a894.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-03-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a59573876597a6c694f474d795a5449744d7a6734596930304d5751334c57466d595445745a6a51774d3259355a6a4d33593259774c6e426b5a673d3d&fich=c9b8c2e2-388b-41d7-afa1-f403f9f37cf0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544a4451553955554577765247396a6457316c626e52766331426c64476c6a595738765a6a5a6a5a5759354d6d457459574a6d5a6930304d7a63354c54686a4d7a6b744d7a6b345a44526a596d49784e44426d4c6e426b5a673d3d&fich=f6cef92a-abff-4379-8c39-398d4cbb140f.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2875",
+        "Legislatura": "XI",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-10-28",
+            "gp": "PS",
+            "id": "3937",
+            "motivoCessacao": null,
+            "nome": "Frederico Castro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão do Ambiente, Ordenamento do Território e Poder Local da XII Legislatura."
+      }
+    ],
+    "DataDebate": "2011-11-04",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-10-28",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764d446b774d474a6a4d4755744d7a5130597930304e6d4d354c54686b4d574d744f54566b596a4d344e44497a5a6a45324c6e426b5a673d3d&fich=0900bc0e-344c-46c9-8d1c-95db38423f16.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-11-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111104pln&url=l12/sl1/a2011/m11/&tI=00:04:25:612&drc=00:02:52:941"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-05",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/8?pgs=8&org=PLC"
+              }
+            ],
+            "Sumario": "\"Fim à matança de animais no Canil Municipal de Braga\" - Cedência pela Câmara Municipal de Braga de um espaço próprio, gerido por um colégio associativo de protecção a cães e gatos que se encarregue do acolhimento e abrigo dos animais mantidos no canil e gatil.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-11-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111104pln&url=l12/sl1/a2011/m11/&tI=00:07:26:694&drc=00:03:28:903"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-05",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/9?pgs=9&org=PLC"
+              }
+            ],
+            "Sumario": "\"Fim à matança de animais no Canil Municipal de Braga\" - Cedência pela Câmara Municipal de Braga de um espaço próprio, gerido por um colégio associativo de protecção a cães e gatos que se encarregue do acolhimento e abrigo dos animais mantidos no canil e gatil.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-11-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111104pln&url=l12/sl1/a2011/m11/&tI=00:11:01:368&drc=00:03:25:329"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-05",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "Sumario": "\"Fim à matança de animais no Canil Municipal de Braga\" - Cedência pela Câmara Municipal de Braga de um espaço próprio, gerido por um colégio associativo de protecção a cães e gatos que se encarregue do acolhimento e abrigo dos animais mantidos no canil e gatil.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-11-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111104pln&url=l12/sl1/a2011/m11/&tI=00:14:33:821&drc=00:02:43:687"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-05",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/10?pgs=10-11&org=PLC"
+              }
+            ],
+            "Sumario": "\"Fim à matança de animais no Canil Municipal de Braga\" - Cedência pela Câmara Municipal de Braga de um espaço próprio, gerido por um colégio associativo de protecção a cães e gatos que se encarregue do acolhimento e abrigo dos animais mantidos no canil e gatil.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-11-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111104pln&url=l12/sl1/a2011/m11/&tI=00:17:27:087&drc=00:03:30:909"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-05",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/11?pgs=11&org=PLC"
+              }
+            ],
+            "Sumario": "\"Fim à matança de animais no Canil Municipal de Braga\" - Cedência pela Câmara Municipal de Braga de um espaço próprio, gerido por um colégio associativo de protecção a cães e gatos que se encarregue do acolhimento e abrigo dos animais mantidos no canil e gatil.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-11-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111104pln&url=l12/sl1/a2011/m11/&tI=00:21:03:968&drc=00:03:04:261"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-05",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "Sumario": "\"Fim à matança de animais no Canil Municipal de Braga\" - Cedência pela Câmara Municipal de Braga de um espaço próprio, gerido por um colégio associativo de protecção a cães e gatos que se encarregue do acolhimento e abrigo dos animais mantidos no canil e gatil.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12033",
+    "PetAssunto": "\"Fim à matança de animais no Canil Municipal de Braga\" - Cedência pela Câmara Municipal de Braga de um espaço próprio, gerido por um colégio associativo de protecção a cães e gatos que se encarregue do acolhimento e abrigo dos animais mantidos no canil e gatil.",
+    "PetDataEntrada": "2010-10-11",
+    "PeticoesAssociadas": null,
+    "PetId": "12033",
+    "PetLeg": "XI",
+    "PetNr": "103",
+    "PetNrAssinaturas": "4372",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "375",
+        "obs": null,
+        "pag": [
+          "8-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-11-05",
+        "pubLeg": "XII",
+        "pubNr": "38",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/8?pgs=8-12&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "537679",
+        "obs": null,
+        "pag": [
+          "21-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-01-08",
+        "pubLeg": "XI",
+        "pubNr": "80",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/080/2011-01-08/21?pgs=21-22&org=PLC"
+      }
+    ]
+  }
+}
