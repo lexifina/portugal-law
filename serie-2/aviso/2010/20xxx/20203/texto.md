@@ -1,0 +1,9 @@
+Aviso n.º 20203/2010
+Tomé Alexandre Martins Pires, Vereador da Câmara Municipal de Serpa, ao abrigo de delegação de competências, torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 74.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, que, nas reuniões da Câmara Municipal de Serpa de 22 de Novembro de 2006 e de 2 de Junho de 2010, foi deliberado por unanimidade:
+Nos termos do n.º 1 do artigo 74.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, iniciar o procedimento de elaboração do Plano de Pormenor de Salvaguarda e Reabilitação do Núcleo Histórico da Cidade de Serpa;
+Aprovar os termos de referência da elaboração do Plano de Pormenor de Salvaguarda e Reabilitação do Núcleo Histórico da Cidade de Serpa;
+Dispensar o Plano de Pormenor de Salvaguarda e Reabilitação do Núcleo Histórico da Cidade de Serpa do procedimento de avaliação ambiental estratégica nos termos do n.º 5 do artigo 74.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção dada pelo Decreto-Lei n.º 316/2007, de 19 de Setembro;
+Fixar o prazo de 15 (quinze) dias, a contar da data de publicação do presente aviso no Diário de República, de modo a permitir ao público a formulação de sugestões e para a apresentação de informações que possam ser consideradas no âmbito do procedimento de elaboração, conforme o previsto no n.º 2, do artigo 77.º, do mesmo diploma;
+Para conhecimento geral se mandou publicitar este aviso no Diário da Republica - 2.ª série, na imprensa nacional e regional, na página da internet da Câmara Municipal, bom como nos locais do estilo.
+Serpa, 15 de Julho de 2010. - O Vereador, com competência delegada, Tomé Alexandre Martins Pires.
+203769096
