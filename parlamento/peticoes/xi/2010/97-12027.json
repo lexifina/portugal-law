@@ -1,0 +1,501 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12027",
+  "numero": "97",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-10-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2010-11-16",
+            "entidades": null,
+            "id": "89634",
+            "tipo": null,
+            "titulo": "Audição em 2010-11-16 com Ana Constância Costa, Eduardo Miguel Castro, Inês Faria, João Freire, Pedro Jorge Pereira Teixeira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-10-28",
+            "dataResposta": "2010-11-16",
+            "entidades": [
+              "Ministra da Educação"
+            ],
+            "nrOficio": "515/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2010-10-28",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "515/8ªCEC/2010",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2010-12-11",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-10-26",
+        "DataArquivo": "2010-12-14",
+        "DataBaixaComissao": "2010-10-26",
+        "DataEnvioPAR": "2010-12-15",
+        "DataReaberta": "2010-10-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-01-10",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938335a5441335a6d49334d6930314e6d466d4c5451324e5745744f5467335a53316a5a4467795a5449775a57566a5a6a4d75596d683062513d3d&fich=7e07fb72-56af-465a-987e-cd82e20eecf3.bhtm&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-10-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684d6d51784e6d566b5a43316c4d444e6d4c5451784d32597459545130595330324e7a45334e5751355a44426d4e4755756347526d&fich=a2d16edd-e03f-413f-a44a-67175d9d0f4e.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-10-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793877596a5977597a49314d4330324e4749324c5451774e325574596a63785a4331694e6d45324d446c6c4d32517a5a5459756347526d&fich=0b60c250-64b6-407e-b71d-b6a609e3d3e6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-10-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938334e6a526b4d445177596930355a5751324c5452694e7a4d744f5446684f5330334e7a6b77596d4d79597a637a5a6a51756347526d&fich=764d040b-9ed6-4b73-91a9-7790bc2c73f4.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2010-12-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938775a4441774d5756685a43316c4d6d4d324c5451334e7a49744f444d354e4331685a6d5534596d56695a444d304d5449756347526d&fich=0d001ead-e2c6-4772-8394-afe8bebd3412.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-11-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939695a444a6a4e32566c4d79307a4e5441344c54526c4e324d744f545534595330344f546c6c5a4456684e7a45794e7a49756347526d&fich=bd2c7ee3-3508-4e7c-958a-899ed5a71272.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2871",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-10-26",
+            "gp": "PSD",
+            "id": "2114",
+            "motivoCessacao": null,
+            "nome": "Emídio Guerreiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2011-01-20",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-10-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d76593251344d544931597a51744e5449334e4330305a6a59354c574a6d4e6d49745a6a5934596a63794d475579595446684c6e426b5a673d3d&fich=cd8125c4-5274-4f69-bf6b-f68b720e2a1a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "35893",
+      "35895"
+    ],
+    "Iniciativasoriginadas": [
+      "35893",
+      "35895"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-01-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179329",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29",
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-22",
+                "pubLeg": "XI",
+                "pubNr": "42",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/042/2011-01-22/29?pgs=29,34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Define o regime jurídico da psicologia em contexto escolar, bem como o regime de contratação e colocação de psicólogos com formação na área da psicologia educacional e profissionais das ciências da educação nos estabelecimentos públicos de ensino; Cria o regime de integração dos psicólogos contratados nas escolas públicas e determina a realização de um concurso de colocação de psicólogos escolares; Pretendem que seja criada legislação adequada que permita a contratação efectiva de psicólogos a fim dos alunos poderem usufruir de serviços de psicologia nas escolas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-01-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179330",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30",
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-22",
+                "pubLeg": "XI",
+                "pubNr": "42",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/042/2011-01-22/29?pgs=29-30,35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Define o regime jurídico da psicologia em contexto escolar, bem como o regime de contratação e colocação de psicólogos com formação na área da psicologia educacional e profissionais das ciências da educação nos estabelecimentos públicos de ensino; Cria o regime de integração dos psicólogos contratados nas escolas públicas e determina a realização de um concurso de colocação de psicólogos escolares; Pretendem que seja criada legislação adequada que permita a contratação efectiva de psicólogos a fim dos alunos poderem usufruir de serviços de psicologia nas escolas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-01-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179331",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-22",
+                "pubLeg": "XI",
+                "pubNr": "42",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/042/2011-01-22/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Define o regime jurídico da psicologia em contexto escolar, bem como o regime de contratação e colocação de psicólogos com formação na área da psicologia educacional e profissionais das ciências da educação nos estabelecimentos públicos de ensino; Cria o regime de integração dos psicólogos contratados nas escolas públicas e determina a realização de um concurso de colocação de psicólogos escolares; Pretendem que seja criada legislação adequada que permita a contratação efectiva de psicólogos a fim dos alunos poderem usufruir de serviços de psicologia nas escolas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-01-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179332",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-22",
+                "pubLeg": "XI",
+                "pubNr": "42",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/042/2011-01-22/31?pgs=31&org=PLC"
+              }
+            ],
+            "Sumario": "Define o regime jurídico da psicologia em contexto escolar, bem como o regime de contratação e colocação de psicólogos com formação na área da psicologia educacional e profissionais das ciências da educação nos estabelecimentos públicos de ensino; Cria o regime de integração dos psicólogos contratados nas escolas públicas e determina a realização de um concurso de colocação de psicólogos escolares; Pretendem que seja criada legislação adequada que permita a contratação efectiva de psicólogos a fim dos alunos poderem usufruir de serviços de psicologia nas escolas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-01-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179333",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-22",
+                "pubLeg": "XI",
+                "pubNr": "42",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/042/2011-01-22/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Define o regime jurídico da psicologia em contexto escolar, bem como o regime de contratação e colocação de psicólogos com formação na área da psicologia educacional e profissionais das ciências da educação nos estabelecimentos públicos de ensino; Cria o regime de integração dos psicólogos contratados nas escolas públicas e determina a realização de um concurso de colocação de psicólogos escolares; Pretendem que seja criada legislação adequada que permita a contratação efectiva de psicólogos a fim dos alunos poderem usufruir de serviços de psicologia nas escolas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-01-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179334",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-22",
+                "pubLeg": "XI",
+                "pubNr": "42",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/042/2011-01-22/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Define o regime jurídico da psicologia em contexto escolar, bem como o regime de contratação e colocação de psicólogos com formação na área da psicologia educacional e profissionais das ciências da educação nos estabelecimentos públicos de ensino; Cria o regime de integração dos psicólogos contratados nas escolas públicas e determina a realização de um concurso de colocação de psicólogos escolares; Pretendem que seja criada legislação adequada que permita a contratação efectiva de psicólogos a fim dos alunos poderem usufruir de serviços de psicologia nas escolas.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12027",
+    "PetAssunto": "Pretendem que seja criada legislação adequada que permita a contratação efectiva de psicólogos a fim dos alunos poderem usufruir de serviços de psicologia nas escolas.",
+    "PetDataEntrada": "2010-10-13",
+    "PeticoesAssociadas": null,
+    "PetId": "12027",
+    "PetLeg": "XI",
+    "PetNr": "97",
+    "PetNrAssinaturas": "11537",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1498",
+        "obs": null,
+        "pag": [
+          "29-35"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-01-22",
+        "pubLeg": "XI",
+        "pubNr": "42",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/042/2011-01-22/29?pgs=29-35&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "537552",
+        "obs": null,
+        "pag": [
+          "4-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-12-23",
+        "pubLeg": "XI",
+        "pubNr": "71",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/071/2010-12-23/4?pgs=4-5&org=PLC"
+      }
+    ]
+  }
+}
