@@ -1,0 +1,5 @@
+Aviso n.º 20322/2010
+Maria Irene da Conceição Barata Joaquim, Presidente da Câmara Municipal de Vila de Rei, torna público que, nos termos do disposto do n.º 2 do Artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, a Câmara Municipal de Vila de Rei, por deliberação tomada na reunião ordinária realizada a 3 de Setembro de 2010, determinou a elaboração de proposta de uma alteração do Plano Director Municipal de Vila de Rei, pelo período de 60 dias.
+Mais se torna público que, durante o período de 15 dias a contar da publicação deste aviso no Diário da República, 2.ª série, os interessados poderão dirigir, por escrito, à Presidente desta Câmara Municipal, as suas sugestões formuladas, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração, junto dos serviços do Gabinete Jurídico desta Autarquia, durante o horário de expediente (entre as 9h00 e as 12h30 e entre as 14h00 e as 17h30).
+Aos quatro dias do mês de Outubro de dois mil e dez. - A Presidente da Câmara, Maria Irene da Conceição Barata Joaquim.
+303772181
