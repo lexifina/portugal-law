@@ -1,0 +1,455 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12029",
+  "numero": "99",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-10-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-01-04",
+            "entidades": null,
+            "id": "89895",
+            "tipo": null,
+            "titulo": "Audição em 2011-01-04 com INTERJOVEM, estrutura juvenil da CGTP-IN"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-03-18",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-10-28",
+        "DataArquivo": "2011-03-23",
+        "DataBaixaComissao": "2010-10-28",
+        "DataEnvioPAR": "2011-03-24",
+        "DataReaberta": "2010-10-28",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-11-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d54464456464e54515641765247396a6457316c626e52766331426c64476c6a595738764d6a4d324d544d7a5a4449745957566d4d7930304f444d344c574a6a5a6d4d744e6a52685a6d45344e5745795a6d4a6a4c6e426b5a673d3d&fich=236133d2-aef3-4838-bcfc-64afa85a2fbc.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-03-24",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d54464456464e54515641765247396a6457316c626e52766331426c64476c6a595738764d445a6a4e32466a5a6a41744e47566d597930305a574d324c5467354e4463744e4755304d6a59304d444179595452694c6e426b5a673d3d&fich=06c7acf0-4efc-4ec6-8947-4e4264002a4b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2874",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Trabalho, Segurança Social e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-10-28",
+            "gp": "PCP",
+            "id": "4104",
+            "motivoCessacao": null,
+            "nome": "Rita Rato"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2011-09-23",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-10-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764d4445304e324e6d5a4755744f44566c4d5330304d7a646a4c574a6a4e7a41745a44646a5957526d4d325a6d595751794c6e426b5a673d3d&fich=0147cfde-85e1-437c-bc70-d7cadf3ffad2.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "36473"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-09-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110923pln&url=l12/sl1/a2011/m09/&tI=01:36:31:079&drc=00:03:32:789"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110923pln&url=l12/sl1/a2011/m09/&tI=01:58:10:827&drc=00:01:14:172"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181502",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32",
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-24",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24/31?pgs=31-32,38&org=PLC"
+              }
+            ],
+            "Sumario": "Institui o programa nacional de combate à precariedade laboral e ao trabalho ilegal;",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110923pln&url=l12/sl1/a2011/m09/&tI=01:40:09:177&drc=00:03:13:461"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181503",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-24",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Institui o programa nacional de combate à precariedade laboral e ao trabalho ilegal;",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110923pln&url=l12/sl1/a2011/m09/&tI=01:43:31:890&drc=00:03:03:192"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181504",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-24",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Institui o programa nacional de combate à precariedade laboral e ao trabalho ilegal;",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110923pln&url=l12/sl1/a2011/m09/&tI=01:46:43:021&drc=00:03:42:445"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181505",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-24",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Institui o programa nacional de combate à precariedade laboral e ao trabalho ilegal;",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110923pln&url=l12/sl1/a2011/m09/&tI=01:51:13:417&drc=00:03:41:574"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181506",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-24",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24/35?pgs=35-37&org=PLC"
+              }
+            ],
+            "Sumario": "Institui o programa nacional de combate à precariedade laboral e ao trabalho ilegal;",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110923pln&url=l12/sl1/a2011/m09/&tI=01:55:05:165&drc=00:02:57:887"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181507",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-24",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24/37?pgs=37&org=PLC"
+              }
+            ],
+            "Sumario": "Institui o programa nacional de combate à precariedade laboral e ao trabalho ilegal;",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12029",
+    "PetAssunto": "Para um posto de trabalho permanente, um vínculo de trabalho efectivo.",
+    "PetDataEntrada": "2010-10-14",
+    "PeticoesAssociadas": null,
+    "PetId": "12029",
+    "PetLeg": "XI",
+    "PetNr": "99",
+    "PetNrAssinaturas": "19247",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "365",
+        "obs": null,
+        "pag": [
+          "31-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-09-24",
+        "pubLeg": "XII",
+        "pubNr": "23",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24/31?pgs=31-38&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
