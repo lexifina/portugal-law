@@ -1,0 +1,113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "59215",
+  "tipo": "Requerimento",
+  "numero": "288",
+  "data_registo": "2010-10-15",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Depósito de Munições da NATO na Freguesia de Fernão Ferro, Seixal",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4086",
+        "nome": "António Leitão Amaro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4193",
+        "nome": "Maria das Mercês Borges"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1147",
+        "nome": "António Silva Preto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1905",
+        "nome": "Fernando Negrão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1825",
+        "nome": "Luís Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4129",
+        "nome": "Cristóvão Crespo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1991",
+        "nome": "Clara Carneiro"
+      }
+    ],
+    "DataEnvio": "2010-10-15",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-10-15",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal do Seixal",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-11-10",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal do Seixal",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764d54526a4e575979597a41745a6d4d35597930305a4755784c546b304e6a41744e474e684e544d344f474a684e44686a4c6e426b5a673d3d&fich=14c5f2c0-fc9c-4de1-9460-4ca5388ba48c.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-10-15",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077765a4445305a5449315a4451744d5456694f4330304f5452684c57497a5a446b744d3249334d3249784f4745314e32526a4c6e426b5a673d3d&fich=d14e25d4-15b8-494a-b3d9-3b73b18a57dc.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "59215",
+    "Legislatura": "XI",
+    "Nr": "288",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "531509",
+        "obs": null,
+        "pag": [
+          "22-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "20",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/020/2010-10-19/22?pgs=22-23&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
