@@ -1,0 +1,5 @@
+Regulamento n.º 780/2010
+Para os devidos efeitos torna-se público que, após submissão para apreciação pública do Projecto de Novo Regulamento de Funcionamento da Componente de Apoio à Família nos Estabelecimentos de Educação Pré-Escolar da Rede Pública do Município de Montemor-o-Velho, a Assembleia Municipal, em sessão ordinária de 30 de Setembro de 2010, sob proposta da Câmara Municipal, datada de 31 de Agosto de 2010 deliberou, por unanimidade, aprovar o Regulamento de Funcionamento da Componente de Apoio à Família nos Estabelecimentos de Educação Pré-Escolar da Rede Pública do Município de Montemor-o-Velho.
+Mais faz saber que o mencionado Regulamento, de acordo com o disposto no seu artigo 18.º, entra em vigor no dia seguinte à publicação do presente aviso e ainda que o texto integral se encontra disponível nos serviços e no sítio do Município (www.cm-montemorvelho.pt).
+Paços do Município de Montemor-o-Velho, 7 de Outubro de 2010. -O Presidente da Câmara Municipal, Luís Manuel Barbosa Marques Leal, Dr.
+303777188
