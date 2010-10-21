@@ -1,0 +1,487 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "360",
+    "id": "35486",
+    "titulo": "Revoga o regime jurídico dos projectos de potencial interesse nacional (PIN e PIN+)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2010-10-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7748",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2010-10-21",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "34895",
+        "leg": "XI",
+        "nr": "46",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1474",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-22",
+            "pubLeg": "XI",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/017/2010-10-22?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1474",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-22",
+            "pubLeg": "XI",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/017/2010-10-22?org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revoga o regime dos PIN e dos PIN +."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35099",
+        "leg": "XI",
+        "nr": "162",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1474",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-22",
+            "pubLeg": "XI",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/017/2010-10-22?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1474",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-22",
+            "pubLeg": "XI",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/017/2010-10-22?org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Interdita o uso do território incluído na REN e RAN a projectos imobiliários e determina a reversão para o Estado, sem indemnização, dos Projectos de Potencial Interesse Nacional (PIN) que não respeitem os critérios e fins que fundamentaram a sua classificação como tal."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-10-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101021pln&url=l11/sl2/a2010/m10/&tI=03:14:27:262&drc=00:03:26:917"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101021pln&url=l11/sl2/a2010/m10/&tI=03:39:24:770&drc=00:03:30:743"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177671",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59",
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-22",
+                "pubLeg": "XI",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/017/2010-10-22/58?pgs=58-59,64-65&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o regime jurídico dos projectos de potencial interesse nacional (PIN e PIN+); Interdita o uso do território incluído na REN e RAN a projectos imobiliários e determina a reversão para o Estado, sem indemnização, dos Projectos de Potencial Interesse Nacional (PIN) que não respeitem os critérios e fins que fundamentaram a sua classificação como tal; Revoga o regime dos PIN e dos PIN +.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2839",
+                "nome": "Rita Calvário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101021pln&url=l11/sl2/a2010/m10/&tI=03:17:58:866&drc=00:04:42:938"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177672",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-22",
+                "pubLeg": "XI",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/017/2010-10-22/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o regime jurídico dos projectos de potencial interesse nacional (PIN e PIN+); Interdita o uso do território incluído na REN e RAN a projectos imobiliários e determina a reversão para o Estado, sem indemnização, dos Projectos de Potencial Interesse Nacional (PIN) que não respeitem os critérios e fins que fundamentaram a sua classificação como tal; Revoga o regime dos PIN e dos PIN +.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101021pln&url=l11/sl2/a2010/m10/&tI=03:22:43:620&drc=00:04:04:703"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177673",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-22",
+                "pubLeg": "XI",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/017/2010-10-22/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o regime jurídico dos projectos de potencial interesse nacional (PIN e PIN+); Interdita o uso do território incluído na REN e RAN a projectos imobiliários e determina a reversão para o Estado, sem indemnização, dos Projectos de Potencial Interesse Nacional (PIN) que não respeitem os critérios e fins que fundamentaram a sua classificação como tal; Revoga o regime dos PIN e dos PIN +.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4087",
+                "nome": "Celeste Amaro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101021pln&url=l11/sl2/a2010/m10/&tI=03:26:52:009&drc=00:03:12:177"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177674",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-22",
+                "pubLeg": "XI",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/017/2010-10-22/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o regime jurídico dos projectos de potencial interesse nacional (PIN e PIN+); Interdita o uso do território incluído na REN e RAN a projectos imobiliários e determina a reversão para o Estado, sem indemnização, dos Projectos de Potencial Interesse Nacional (PIN) que não respeitem os critérios e fins que fundamentaram a sua classificação como tal; Revoga o regime dos PIN e dos PIN +.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101021pln&url=l11/sl2/a2010/m10/&tI=03:30:06:753&drc=00:03:35:844"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177675",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-22",
+                "pubLeg": "XI",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/017/2010-10-22/61?pgs=61-63&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o regime jurídico dos projectos de potencial interesse nacional (PIN e PIN+); Interdita o uso do território incluído na REN e RAN a projectos imobiliários e determina a reversão para o Estado, sem indemnização, dos Projectos de Potencial Interesse Nacional (PIN) que não respeitem os critérios e fins que fundamentaram a sua classificação como tal; Revoga o regime dos PIN e dos PIN +.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2225",
+                "nome": "Hortense Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101021pln&url=l11/sl2/a2010/m10/&tI=03:33:48:160&drc=00:05:31:885"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177676",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-22",
+                "pubLeg": "XI",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/017/2010-10-22/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o regime jurídico dos projectos de potencial interesse nacional (PIN e PIN+); Interdita o uso do território incluído na REN e RAN a projectos imobiliários e determina a reversão para o Estado, sem indemnização, dos Projectos de Potencial Interesse Nacional (PIN) que não respeitem os critérios e fins que fundamentaram a sua classificação como tal; Revoga o regime dos PIN e dos PIN +.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "271213",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "529626",
+        "obs": null,
+        "pag": [
+          "58-65"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-10-22",
+        "pubLeg": "XI",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/017/2010-10-22/58?pgs=58-65&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
