@@ -1,0 +1,423 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12035",
+  "numero": "105",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-10-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-02-24",
+            "entidades": null,
+            "id": "90353",
+            "tipo": null,
+            "titulo": "Audição em 2011-02-24 com Carlos Alberto dos Santos Monteiro"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-04-04",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-11-11",
+        "DataArquivo": "2011-04-05",
+        "DataBaixaComissao": "2010-11-04",
+        "DataEnvioPAR": "2011-04-07",
+        "DataReaberta": "2010-11-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-11-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627938324e6d5979595745334f4330794e5446684c5451304f5745744f4759335979316c4f445932597a49314d44426a5a4445756347526d&fich=66f2aa78-251a-449a-8f7c-e866c2500cd1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2010-11-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627939684e4755344d5442684d79316c4e6d45344c54526c4e4751744f54646d4e43316d4e5459795a6a55314e545a69596a51756347526d&fich=a4e810a3-e6a8-4e4d-97f4-f562f5556bb4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-04-08",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e6862793878596d59334f5755354e5330334e324d794c5452694e7a41744f4445304f53316b596a466c4e324d795a4745314e6a49756347526d&fich=1bf79e95-77c2-4b70-8149-db1e7c2da562.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2864",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-11-11",
+            "gp": "BE",
+            "id": "2191",
+            "motivoCessacao": null,
+            "nome": "Helena Pinto"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2011-09-23",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-10-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764d324e684e3255785a6d497459574579597930304d5749334c546b795a4455744e7a45794e474d7a4e5445784d6a526b4c6e426b5a673d3d&fich=3ca7e1fb-aa2c-41b7-92d5-7124c351124d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-09-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110923pln&url=l12/sl1/a2011/m09/&tI=03:05:00:447&drc=00:03:55:227"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181532",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-24",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o fim da atribuição, antes dos 65 anos de idade, das pensões de reforma dos detentores de cargos públicos e político, bem como da sua acumulação; Solicitam o fim da acumulação de pensões de reforma e aposentação e de salários.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110923pln&url=l12/sl1/a2011/m09/&tI=03:09:05:789&drc=00:03:50:840"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181533",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-24",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o fim da atribuição, antes dos 65 anos de idade, das pensões de reforma dos detentores de cargos públicos e político, bem como da sua acumulação; Solicitam o fim da acumulação de pensões de reforma e aposentação e de salários.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110923pln&url=l12/sl1/a2011/m09/&tI=03:13:11:796&drc=00:02:35:429"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181540",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-24",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o fim da atribuição, antes dos 65 anos de idade, das pensões de reforma dos detentores de cargos públicos e político, bem como da sua acumulação; Solicitam o fim da acumulação de pensões de reforma e aposentação e de salários.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110923pln&url=l12/sl1/a2011/m09/&tI=03:15:54:353&drc=00:03:48:996"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181541",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-24",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o fim da atribuição, antes dos 65 anos de idade, das pensões de reforma dos detentores de cargos públicos e político, bem como da sua acumulação; Solicitam o fim da acumulação de pensões de reforma e aposentação e de salários.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110923pln&url=l12/sl1/a2011/m09/&tI=03:19:51:280&drc=00:03:37:719"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181543",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-24",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o fim da atribuição, antes dos 65 anos de idade, das pensões de reforma dos detentores de cargos públicos e político, bem como da sua acumulação; Solicitam o fim da acumulação de pensões de reforma e aposentação e de salários.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12035",
+    "PetAssunto": "Solicitam o fim da acumulação de pensões de reforma e aposentação e de salários.",
+    "PetDataEntrada": "2010-10-25",
+    "PeticoesAssociadas": null,
+    "PetId": "12035",
+    "PetLeg": "XI",
+    "PetNr": "105",
+    "PetNrAssinaturas": "4174",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1561",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-09-24",
+        "pubLeg": "XII",
+        "pubNr": "23",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/023/2011-09-24?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "536075",
+        "obs": null,
+        "pag": [
+          "2-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-11-13",
+        "pubLeg": "XI",
+        "pubNr": "39",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/039/2010-11-13/2?pgs=2-3&org=PLC"
+      }
+    ]
+  }
+}
