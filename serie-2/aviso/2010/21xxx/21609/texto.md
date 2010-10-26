@@ -1,0 +1,9 @@
+Aviso n.º 21609/2010
+Plano de Pormenor de Reabilitação Urbana da Zona Histórica de Sines
+Nos termos Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, torna-se público que a Câmara Municipal de Sines, em Reunião de Câmara Pública de 16 de Setembro de 2010, deliberou alterar os termos de referência do plano que tinham sido aprovados em Reunião de Câmara Pública de 18 de Outubro de 2007 e proceder a um novo período de audiência prévia.
+O Plano de Pormenor de Reabilitação Urbana da Zona Histórica de Sines abrange uma área de intervenção de 24,20 ha, localizado na zona Sul da Cidade de Sines. Os limites propostos para o Plano de Pormenor são: a frente edificada da Praça da República, Largo 5 de Outubro incluindo Paços do Concelho e Rua João de Deus; a Sul a Av. Vasco da Gama/Praia de Sines; a Poente a frente edificada do Largo da Nossa Senhora das Salas e a frente edificada da Rua Alexandre Massaii e a Norte o Bairro dos Pescadores, o Bairro Norton de Matos, Instalações da Santa Casa da Misericórdia, Rua Marquês de Pombal e frente edificada da Praça da República.
+Os interessados poderão, no prazo máximo de 15 dias após a publicação no Diário da República, proceder junto da Câmara Municipal de Sines, à formulação de sugestões, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração do Plano.
+Os termos de referência com a indicação da área de intervenção poderão ser consultados no Serviço Administrativo do Departamento de Ambiente Planeamento e Urbanismo, da Câmara Municipal de Sines, todos os dias úteis, entre as 9 horas e as 15 horas e 30 minutos ou ainda em www.mun-sines.pt.
+Para constar se passou o presente aviso, a que vai ser dada a publicidade prevista na lei.
+Sines, Paços do Concelho, aos 22 de Setembro de 2010. - O Presidente da Câmara Municipal de Sines, Manuel Coelho Carvalho, Dr.
+203832875
