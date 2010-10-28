@@ -18,21 +18,23 @@ f) A inibição e a suspensão do exercício do poder paternal, bem como as prov
 
 g) A interdição e a inabilitação definitivas, a tutela de menor ou interdito, a administração de bens de menor e a curadoria de inabilitado, a curadoria provisória ou definitiva de ausente e a incapacidade de menor casado para administrar os bens, sua modificação e extinção;
 
-h) A declaração de insolvência, o indeferimento do respectivo pedido e o encerramento do processo de insolvência;
+h) A constituição do apadrinhamento civil e a sua revogação;
 
-i) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, bem como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;
+i) A declaração de insolvência, o indeferimento do respectivo pedido e o encerramento do processo de insolvência;
 
-j) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;
+j) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, bem como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;
 
-l) O início, cessação antecipada e decisão final do procedimento de exoneração do passivo restante e a revogação desta;
+l) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;
 
-m) A alteração de nome;
+m) O início, cessação antecipada e decisão final do procedimento de exoneração do passivo restante e a revogação desta;
 
-n) A conservação dos apelidos dos cônjuges que tenha lugar em caso de dissolução do casamento ou de novas núpcias;
+n) A alteração de nome;
 
-o) O óbito e a morte presumida judicialmente declarada;
+o) A conservação dos apelidos dos cônjuges que tenha lugar em caso de dissolução do casamento ou de novas núpcias;
 
-p) Em geral, todos os factos jurídicos que modifiquem os elementos de identificação ou o estado civil do registado.
+p) O óbito e a morte presumida judicialmente declarada;
+
+q) Em geral, todos os factos jurídicos que modifiquem os elementos de identificação ou o estado civil do registado.
 
 2 - A perfilhação dependente de assentimento só é averbada quando este for prestado.
 
