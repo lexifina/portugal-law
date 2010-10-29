@@ -1,0 +1,670 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "35",
+    "id": "35623",
+    "titulo": "Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2010-10-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7774",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2010-10-29",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35598",
+        "leg": "XI",
+        "nr": "405",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1477",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-10-30",
+            "pubLeg": "XI",
+            "pubNr": "19",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30?org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alteração ao regime jurídico da eleição do Presidente da República."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-10-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "13:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101029pln&url=l11/sl2/a2010/m10/&tI=02:41:56:448&drc=00:01:42:725"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177763",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-30",
+                "pubLeg": "XI",
+                "pubNr": "19",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local; Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "13:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101029pln&url=l11/sl2/a2010/m10/&tI=02:43:41:423&drc=00:02:07:086"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177764",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-30",
+                "pubLeg": "XI",
+                "pubNr": "19",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local; Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "13:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101029pln&url=l11/sl2/a2010/m10/&tI=02:45:50:073&drc=00:02:10:859"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177765",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-30",
+                "pubLeg": "XI",
+                "pubNr": "19",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local; Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "13:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101029pln&url=l11/sl2/a2010/m10/&tI=02:48:02:993&drc=00:02:28:145"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177766",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-30",
+                "pubLeg": "XI",
+                "pubNr": "19",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local; Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2195",
+                "nome": "Ricardo Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "13:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101029pln&url=l11/sl2/a2010/m10/&tI=02:50:33:266&drc=00:01:47:734"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177767",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-30",
+                "pubLeg": "XI",
+                "pubNr": "19",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local; Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1741",
+                "nome": "Paulo Pisco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177768",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-30",
+                "pubLeg": "XI",
+                "pubNr": "19",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local; Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "187",
+                "nome": "José Lello"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-30",
+                "pubLeg": "XI",
+                "pubNr": "19",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local; Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "413",
+                "nome": "Luís Pita Ameixa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177770",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-30",
+                "pubLeg": "XI",
+                "pubNr": "19",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local; Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1458",
+                "nome": "Carlos Alberto Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177771",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-30",
+                "pubLeg": "XI",
+                "pubNr": "19",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local; Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "77",
+                "nome": "José Cesário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-30",
+                "pubLeg": "XI",
+                "pubNr": "19",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local; Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2104",
+                "nome": "Carlos Páscoa Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-10-30",
+                "pubLeg": "XI",
+                "pubNr": "19",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local; Alarga e uniformiza o regime do exercício do voto antecipado nas eleições do Presidente da República, da Assembleia da República, dos órgãos das autarquias locais, do Parlamento Europeu e nos referendos nacional e local",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "271553",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "531201",
+        "obs": null,
+        "pag": [
+          "41-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-10-30",
+        "pubLeg": "XI",
+        "pubNr": "19",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/019/2010-10-30/41?pgs=41&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2010-10-29",
+        "descricao": "Votação do Texto Final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>1-PS</I><BR>Abstenção:<I>BE</I>",
+        "id": "56888",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "19",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
