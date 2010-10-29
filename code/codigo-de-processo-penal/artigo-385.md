@@ -2,7 +2,13 @@
 
 ### Libertação do arguido
 
-1 - Se a apresentação ao juiz não tiver lugar em acto seguido à detenção em flagrante delito, o arguido só continua detido se houver razões para crer que não se apresentará espontaneamente perante a autoridade judiciária no prazo que lhe for fixado.
+1 - Se a apresentação ao juiz não tiver lugar em acto seguido à detenção em flagrante delito, o arguido só continua detido se houver razões para crer que:
+
+a) Não se apresentará voluntariamente perante a autoridade judiciária na data e hora que lhe forem fixadas;
+
+b) Quando se verificar em concreto alguma das circunstâncias previstas no artigo 204.º que apenas a manutenção da detenção permita acautelar; ou
+
+c) Se tal se mostrar imprescindível para a protecção da vítima.
 
 2 - Em qualquer caso, o arguido é de imediato libertado quando se concluir que não poderá ser apresentado a juiz no prazo de quarenta e oito horas.
 

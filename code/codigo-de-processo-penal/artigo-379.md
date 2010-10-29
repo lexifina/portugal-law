@@ -4,7 +4,7 @@
 
 1 - É nula a sentença:
 
-a) Que não contiver as menções referidas no artigo 374.º, n.os 2 e 3, alínea b); ou
+a) Que não contiver as menções referidas no n.º 2 e na alínea b) do n.º 3 do artigo 374.º ou, em processo sumário ou abreviado, não contiver a decisão condenatória ou absolutória ou as menções referidas nas alíneas a) a d) do n.º 1 do artigo 389.º-A e 391.º-F;
 
 b) Que coordenar por factos diversos dos descritos na acusação ou na pronúncia, se a houver, fora dos casos e das condições previstos nos artigos 358.º e 359.º
 

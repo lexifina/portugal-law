@@ -14,7 +14,7 @@ b) As pessoas de cuja queixa ou acusação particular depender o procedimento;
 
 c) No caso de o ofendido morrer sem ter renunciado à queixa, o cônjuge sobrevivo não separado judicialmente de pessoas e bens ou a pessoa, de outro ou do mesmo sexo, que com o ofendido vivesse em condições análogas às dos cônjuges, os descendentes e adoptados, ascendentes e adoptantes, ou, na falta deles, irmãos e seus descendentes, salvo se alguma destas pessoas houver comparticipado no crime;
 
-d) No caso de o ofendido ser menor de 16 anos ou por outro motivo incapaz, o representante legal e, na sua falta, as pessoas indicadas na alínea anterior, segundo a ordem aí referida, salvo se alguma delas houver comparticipado no crime;
+d) No caso de o ofendido ser menor de 16 anos ou por outro motivo incapaz, o representante legal e, na sua falta, as pessoas indicadas na alínea anterior, segundo a ordem aí referida, ou, na ausência dos demais, a entidade ou instituição com responsabilidades de protecção, tutelares ou educativas, quando o mesmo tenha sido judicialmente confiado à sua responsabilidade ou guarda, salvo se alguma delas houver auxiliado ou comparticipado no crime;
 
 e) Qualquer pessoa nos crimes contra a paz e a humanidade, bem como nos crimes de tráfico de influência, favorecimento pessoal praticado por funcionário, denegação de justiça, prevaricação, corrupção, peculato, participação económica em negócio, abuso de poder e de fraude na obtenção ou desvio de subsídio ou subvenção.
 

@@ -6,10 +6,6 @@
 
 ### (Recurso)
 
-1 - Só o arguido e o Ministério Público em benefício do arguido podem interpor recurso da decisão que aplicar, mantiver ou substituir medidas previstas no presente título.
+1 - Da decisão que aplicar, substituir ou mantiver medidas previstas no presente título, cabe recurso a interpor pelo arguido ou pelo Ministério Público, a julgar no prazo máximo de 30 dias a contar do momento em que os autos forem recebidos.
 
 2 - Não existe relação de litispendência ou de caso julgado entre o recurso previsto no número anterior e a providência de habeas corpus, independentemente dos respectivos fundamentos.
-
-3 - A decisão que indeferir a aplicação, revogar ou declarar extintas as medidas previstas no presente título é irrecorrível.
-
-4 - O recurso é julgado no prazo máximo de 30 dias a partir do momento em que os autos forem recebidos.

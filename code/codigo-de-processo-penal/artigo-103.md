@@ -14,7 +14,7 @@ a) Os actos processuais relativos a arguidos detidos ou presos, ou indispensáve
 
 b) Os actos de inquérito e de instrução, bem como os debates instrutórios e audiências relativamente aos quais for reconhecida, por despacho de quem a elas presidir, vantagem em que o seu início, prosseguimento ou conclusão ocorra sem aquelas limitações.
 
-c) Os actos relativos a processos sumários e abreviados;
+c) Os actos relativos a processos sumários e abreviados, até à sentença em primeira instância;
 
 d) Os actos processuais relativos aos conflitos de competência, requerimentos de recusa e pedidos de escusa;
 

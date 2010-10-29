@@ -24,8 +24,8 @@ h) Informação dos serviços de reinserção social: resposta a solicitações 
 
 i) 'Terrorismo' as condutas que integrarem os crimes de organização terrorista, terrorismo e terrorismo internacional;
 
-j) 'Criminalidade violenta' as condutas que dolosamente se dirigirem contra a vida, a integridade física ou a liberdade das pessoas e forem puníveis com pena de prisão de máximo igual ou superior a 5 anos;
+j) 'Criminalidade violenta' as condutas que dolosamente se dirigirem contra a vida, a integridade física, a liberdade pessoal, a liberdade e autodeterminação sexual ou a autoridade pública e forem puníveis com pena de prisão de máximo igual ou superior a 5 anos;
 
 l) 'Criminalidade especialmente violenta' as condutas previstas na alínea anterior puníveis com pena de prisão de máximo igual ou superior a 8 anos;
 
-m) 'Criminalidade altamente organizada' as condutas que integrarem crimes de associação criminosa, tráfico de pessoas, tráfico de armas, tráfico de estupefacientes ou de substâncias psicotrópicas, corrupção, tráfico de influência ou branqueamento.
+m) 'Criminalidade altamente organizada' as condutas que integrarem crimes de associação criminosa, tráfico de pessoas, tráfico de armas, tráfico de estupefacientes ou de substâncias psicotrópicas, corrupção, tráfico de influência, participação económica em negócio ou branqueamento.

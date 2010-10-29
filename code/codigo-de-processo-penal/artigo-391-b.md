@@ -2,9 +2,9 @@
 
 ### Acusação, arquivamento e suspensão do processo
 
-1 - A acusação do Ministério Público deve conter os elementos a que se refere o artigo 283.º, n.º 3. A identificação do arguido e a narração dos factos podem ser efectuadas, no todo ou em parte, por remissão para o auto de notícia ou para a denúncia.
+1 - A acusação do Ministério Público deve conter os elementos a que se refere o n.º 3 do artigo 283.º A identificação do arguido e a narração dos factos podem ser efectuadas, no todo ou em parte, por remissão para o auto de notícia ou para a denúncia.
 
-2 - A acusação é deduzida no prazo de 90 dias a contar da:
+2 - Sem prejuízo do disposto no n.º 3 do artigo 384.º, a acusação é deduzida no prazo de 90 dias a contar da:
 
 a) Aquisição da notícia do crime, nos termos do disposto no artigo 241.º, tratando-se de crime público; ou
 

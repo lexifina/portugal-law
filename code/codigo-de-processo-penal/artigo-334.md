@@ -12,6 +12,8 @@
 
 5 - Em caso de conexão de processos, os arguidos presentes e ausentes são julgados conjuntamente, salvo se o tribunal tiver como mais conveniente a separação de processos.
 
-6 - Fora dos casos previstos nos n.os 1 e 2, a sentença é notificada ao arguido que foi julgado como ausente logo que seja detido ou se apresente voluntariamente.
+6 - Fora dos casos previstos nos n.os 1 e 2, a sentença é notificada ao arguido que foi julgado como ausente logo que seja detido ou se apresente voluntariamente. O prazo para a interposição do recurso pelo arguido conta-se a partir da notificação da sentença.
 
-7 - É correspondentemente aplicável o disposto nos artigos 116.º, n.os 1 e 2, e 254.º
+7 - Na notificação prevista no número anterior o arguido é expressamente informado do direito a recorrer da sentença e do respectivo prazo.
+
+8 - É correspondentemente aplicável o disposto nos artigos 116.º, n.os 1 e 2, e 254.º

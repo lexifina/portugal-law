@@ -1,5 +1,5 @@
 # Artigo 391.º-F
 
-### Recorribilidade
+### Sentença
 
-É correspondentemente aplicável ao processo abreviado o disposto no artigo 391.º
+É correspondentemente aplicável à sentença o disposto no artigo 389.º-A.

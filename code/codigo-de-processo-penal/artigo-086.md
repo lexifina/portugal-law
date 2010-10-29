@@ -14,7 +14,7 @@
 
 6- A publicidade do processo implica, nos termos definidos pela lei e, em especial, pelos artigos seguintes, os direitos de:
 
-a) Assistência, pelo público em geral, à realização dos actos processuais;
+a) Assistência, pelo público em geral, à realização do debate instrutório e dos actos processuais na fase de julgamento;
 
 b) Narração dos actos processuais, ou reprodução dos seus termos, pelos meios de comunicação social;
 
@@ -34,7 +34,7 @@ a) Conveniente ao esclarecimento da verdade; ou
 
 b) Indispensável ao exercício de direitos pelos interessados.
 
-10 - As pessoas referidas no número anterior ficam, em todo o caso, vinculadas pelo segredo de justiça.
+10 - As pessoas referidas no número anterior são identificadas no processo, com indicação do acto ou documento de cujo conteúdo tomam conhecimento e ficam, em todo o caso, vinculadas pelo segredo de justiça.
 
 11 - A autoridade judiciária pode autorizar a passagem de certidão em que seja dado conhecimento do conteúdo de acto ou de documento em segredo de justiça, desde que necessária a processo de natureza criminal ou à instrução de processo disciplinar de natureza pública, bem como à dedução do pedido de indemnização civil.
 

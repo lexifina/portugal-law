@@ -10,7 +10,7 @@
 
 2 - São ainda julgados em processo abreviado, nos termos do número anterior, os crimes puníveis com pena de prisão de limite máximo superior a 5 anos, mesmo em caso de concurso de infracções, quando o Ministério Público, na acusação, entender que não deve ser aplicada, em concreto, pena de prisão superior a 5 anos.
 
-3 - Para efeitos do disposto no n.º 1, considera-se que há provas simples e evidentes quando, nomeadamente:
+3 - Para efeitos do disposto no n.º 1, considera-se que há provas simples e evidentes quando:
 
 a) O agente tenha sido detido em flagrante delito e o julgamento não puder efectuar-se sob a forma de processo sumário;
 

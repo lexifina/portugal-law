@@ -12,4 +12,6 @@
 
 5 - No caso previsto nos n.os 2 e 3, havendo lugar a audiência na ausência do arguido, a sentença é notificada ao arguido logo que seja detido ou se apresente voluntariamente. O prazo para a interposição de recurso pelo arguido conta-se a partir da notificação da sentença.
 
-6 - É correspondentemente aplicável o disposto nos artigos 116.º, n.os 1 e 2, e 254.º e nos n.os 4 e 5 do artigo seguinte.
+6 - Na notificação prevista no número anterior o arguido é expressamente informado do direito a recorrer da sentença e do respectivo prazo.
+
+7 - É correspondentemente aplicável o disposto nos artigos 116.º, n.os 1 e 2, e 254.º e nos n.os 4 e 5 do artigo seguinte.

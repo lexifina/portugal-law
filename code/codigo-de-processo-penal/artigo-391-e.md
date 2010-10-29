@@ -6,4 +6,4 @@
 
 2 - Finda a produção da prova, é concedida a palavra ao Ministério Público, aos representantes do assistente e das partes civis e ao defensor, os quais podem usar dela por um máximo de trinta minutos, prorrogáveis se necessário e assim for requerido. É admitida réplica por um máximo de dez minutos.
 
-3 - A sentença é logo proferida verbalmente e ditada para acta.
+3 - (Revogado.)
