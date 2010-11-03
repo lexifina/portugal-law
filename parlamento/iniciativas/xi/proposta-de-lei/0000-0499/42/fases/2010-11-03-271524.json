@@ -1,0 +1,1409 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "42",
+    "id": "35719",
+    "titulo": "Orçamento do Estado para 2011"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2010-11-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7768",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2010-11-03",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-11-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3990",
+                "nome": "Pedro Saraiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=00:18:48:242&drc=00:04:55:758"
+              },
+              {
+                "link": null
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177869",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2129",
+                "nome": "João Paulo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=00:23:49:486&drc=00:12:21:169"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=00:38:15:666&drc=00:02:46:494"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177870",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/12?pgs=12-16&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4145",
+                "nome": "Luís Menezes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=00:36:43:134&drc=00:01:25:865"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177871",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/15?pgs=15&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=00:41:06:595&drc=00:05:42:582"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177872",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/16?pgs=16-18&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=00:47:41:183&drc=00:14:31:422"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=01:22:44:085&drc=00:08:30:858"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  ECONOMIA, DA INOVAÇÃO E DO DESENVOLVIMENTO",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Vieira Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177873",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-20",
+                  "25-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/18?pgs=18-20,25-28&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=01:02:34:164&drc=00:03:23:554"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177881",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/21?pgs=21&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "839",
+                "nome": "Pedro Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=01:06:01:592&drc=00:03:29:334"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177882",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2015",
+                "nome": "António Almeida Henriques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=01:09:35:174&drc=00:03:49:430"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177883",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=01:13:27:291&drc=00:03:43:079"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177884",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=00:09:58:538&drc=00:02:00:604"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177885",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=01:31:20:819&drc=00:12:39:956"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=01:48:54:061&drc=00:03:08:268"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=01:57:08:389&drc=00:04:21:907"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=02:07:49:976&drc=00:04:34:382"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177886",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-30",
+                  "32-32",
+                  "34-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/28?pgs=28-30,32,34-39&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=01:44:32:921&drc=00:04:18:244"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177887",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/30?pgs=30-32&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=01:52:15:134&drc=00:04:48:630"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177888",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=02:01:36:858&drc=00:06:11:141"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177889",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=02:12:32:920&drc=00:06:53:104"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=02:25:05:899&drc=00:01:23:082"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=02:29:45:665&drc=00:01:13:961"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=03:49:36:661&drc=00:15:18:981"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177890",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41",
+                  "43-44",
+                  "63-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/39?pgs=39-41,43-44,63-67&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=02:19:40:406&drc=00:05:19:596"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177891",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3998",
+                "nome": "José Manuel Pureza"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=02:26:31:732&drc=00:03:09:738"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177894",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=02:31:05:005&drc=00:05:26:427"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177895",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/44?pgs=44-46&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4057",
+                "nome": "Assunção Cristas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=02:36:53:326&drc=00:11:11:674"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177896",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/46?pgs=46-49&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=02:49:50:884&drc=00:06:40:976"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177897",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=02:56:41:286&drc=00:12:18:092"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177913",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/51?pgs=51-54&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=03:09:11:856&drc=00:13:34:762"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177914",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/54?pgs=54-57&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=03:23:00:039&drc=00:13:30:443"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177915",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/57?pgs=57-60&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=03:36:44:857&drc=00:12:15:878"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177916",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/61?pgs=61-63&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "17:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20101103pln&url=l11/sl2/a2010/m11/&tI=04:05:33:881&drc=00:25:02:831"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   DEFESA NACIONAL",
+              "governo": "XVIII GOVERNO CONSTITUCIONAL",
+              "nome": "Augusto Santos Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "177917",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-04",
+                "pubLeg": "XI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04/68?pgs=68-74&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2011.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "271524",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "7768",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-11-04",
+        "pubLeg": "XI",
+        "pubNr": "21",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/021/2010-11-04?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
