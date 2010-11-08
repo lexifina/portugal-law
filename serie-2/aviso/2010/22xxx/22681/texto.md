@@ -1,0 +1,8 @@
+Aviso n.º 22681/2010
+Período de Discussão Pública da Proposta de Plano de Urbanização da Landeira
+Faz-se público, para os efeitos dispostos no n.º 3 do artigo 77.º do regime jurídico dos instrumentos de gestão territorial (RJIGT), aprovado pelo Decreto-Lei n.º 380/99 de 22 de Setembro, com a redacção introduzida do Decreto-Lei n.º 46/2009 de 20 de Fevereiro, que a Câmara de Vendas Novas deliberou, na sua reunião ordinária de 22 de Outubro de 2010, após conclusão do período de acompanhamento, proceder à abertura de um período de discussão pública da proposta de Plano de Urbanização da Landeira.
+A discussão pública encontra-se aberta por um período de 22 dias úteis, contados a partir do 5.º dia posterior ao da publicação do presente aviso do Diário da República.
+A proposta contendo todos os pareceres emitidos, a acta da conferência de serviços, prevista no n.º 3 do artigo 75-C do Decreto-Lei n.º 380/1999 de 22 de Setembro, com a redacção introduzida pelo Decreto-Lei n.º 46/2009 de 20 de Fevereiro, encontram-se disponíveis para consulta, pelos interessados, das 9h às 17h30 no CAP (Centro de Atendimento ao Público) Secção de Obras Particulares da Câmara Municipal de Vendas Novas, sito na Praça da República e na sede da Junta de Freguesia da Landeira das 9h às 12h30 e das 14h as 17h30.
+Durante o período de discussão pública todos os interessados poderão apresentar reclamações, observações e sugestões, desde que formuladas por escrito e dirigidas ao Sr. Presidente da Câmara Municipal de Vendas Novas.
+Vendas Novas, 26 de Outubro de 2010. - O Presidente da Câmara Municipal, José Maria Rodrigues Figueira.
+203885525
