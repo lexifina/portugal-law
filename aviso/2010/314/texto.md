@@ -1,0 +1,4 @@
+Aviso n.º 314/2010
+Por ordem superior se torna público que, em 17 de Setembro de 2010, a República da Sérvia depositou o seu instrumento de adesão ao Acto de Genebra de Revisão do Acordo de Nice Relativo à Classificação Internacional dos Produtos e Serviços aos Quais se Aplicou as Marcas de Fábrica ou Comércio, adoptado em Genebra em 13 de Maio de 1977.
+Portugal é Parte do mesmo Acto aprovado, para ratificação, pelo Decreto n.º 138/81, publicado no Diário da República, 1.ª série, n.º 255, de 5 de Novembro de 1981, tendo depositado o seu instrumento de ratificação em 30 de Abril de 1982, conforme aviso publicado no Diário da República, 1.ª série, n.º 141, de 22 de Junho de 1982.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 2 de Novembro de 2010. - O Subdirector-Geral, Miguel de Almeida e Sousa.
