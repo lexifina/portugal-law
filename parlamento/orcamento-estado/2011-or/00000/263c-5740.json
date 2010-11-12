@@ -1,0 +1,108 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=W40k7LiR9JEHgClEnmQoorscowQ7IY5DzCoGwmKvywVE25ALLmNCMzM3VvyagsJdczpDtrLw%2bPekUnftGeMebaNLIqxG6qCiUleUYZ98%2bZz7uurMFen0%2b15e5zPmKr3MA7frFFO9DQUSkKHQnnnJJas6VWnpQSgf7%2bThJUu9IwR1RdlpTyq12cBlBNs%2boPCChaQCh4qzRmKUTS3tHE4RsufS4Eg%2fpSRQRrSyb4F3f1uOOzkIKgWlr%2bxtu3G0CSz%2fs%2fGnPFXb6G%2f5ZAdCHj8mavSlOQqH33qqgauaXsA5tK9wul%2bC5ux2r%2bbve7QRaWVV5Us3NU7xyKOnAThlYlqY5p21Rok5XBkkBZlf0lIsrozOZeVbDj1qJDxIqXmWT1WEW988UkOuo8HqQlqT0D0tF%2f8x30MwA8nPYV7eEg7B9VA%3d&fich=OEPropostasAlteracao2011Or_json.txt&Inline=true",
+  "ficheiro_sha256": "fc43740ec18cc3094bfc49823e043bab94d14f332ba5524d21ec95574c4ebb6a",
+  "legislatura": "XI",
+  "id": "5740",
+  "numero": "263C",
+  "orcamento": "2011",
+  "versao": "Or",
+  "data_registo": "2010-11-12",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "5740",
+    "Numero": "263C",
+    "Data": "12/11/2010 17:30:00",
+    "Titulo": "N.º 7, Artigo 20.º",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Números e Alíneas)",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5445794d4445774d5441784e5339515153396d5a4467324f4445795979316b4d7a45774c545179596a4d7459575978595330315a54646d4e5445314f544d334e5467756347526d&Fich=fd86812c-d310-42b3-af1a-5e7f51593758.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PS, PSD, CDS-PP, BE, PCP, PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PS",
+          "Deputado": "JOSÉ LELLO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "JORGE COSTA"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "JOÃO REBELO"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "HELENA PINTO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "JOSÉ LUÍS FERREIRA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 20.º",
+        "Titulo": "Contratos de aquisição de serviço",
+        "Texto": "1 - O disposto no artigo 17.º é aplicável aos valores pagos por contratos de aquisição de serviços, que venham a celebrar-se ou renovar-se em 2011, com idêntico objecto e a mesma contraparte, celebrados por:\r\n\r\na) Órgãos, serviços e entidades previstos nos n.ºs 1 a 4 do artigo 3.º da Lei n.º 12 A/2008, de 27 ",
+        "Estado": "Aprovado(a) em Comissão com Alterações",
+        "Numeros": {
+          "Numero": "N.º 7",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Aguarda Voto em Comissão"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 7, Artigo 20.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "23/11/2010 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Popular",
+            "Bloco de Esquerda",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
