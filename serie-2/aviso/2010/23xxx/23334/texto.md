@@ -1,0 +1,7 @@
+Aviso n.º 23334/2010
+Discussão Pública
+Fernando António Aires Ferreira, Presidente da Câmara Municipal de Torre de Moncorvo:
+Torna público, no uso das competências que lhe são atribuídas pelo artigo 68, n.º 1, alínea v), do Decreto -Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/02 de 11 de Janeiro, conjugado com o disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/94, de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, torna-se público que, durante o período de 30 dias contados da data da presente publicação no Diário da República, são submetidos à apreciação pública o projecto de Regulamento Municipal de utilização dos Autocarros para apoio a actividades turísticas, culturais e desportivas e o projecto de Regulamento de Utilização e Cedência dos Auditórios e Espaços Municipais, que estiveram presentes na Reunião de Câmara realizada em 29 de Outubro de 2010.
+Os interessados poderão dirigir, por escrito, as suas sugestões à Câmara Municipal de Torre de Moncorvo, encontrando-se as propostas supra, para consulta em www.torredemoncorvo.pt e no Gabinete de apoio ao Vereador António Olímpio Moreira, sito no Edifício dos Serviços Técnicos da Câmara Municipal, rua do Castelo em Torre de Moncorvo, todos os dias úteis, dentro do horário normal de expediente (9:00 h às 12:30 h e das 14:00 h às 16:00 h).
+Paços do Concelho e Vila de Torre de Moncorvo, 05 de Novembro de 2010. - O Presidente da Câmara, Aires Ferreira.
+303907143
