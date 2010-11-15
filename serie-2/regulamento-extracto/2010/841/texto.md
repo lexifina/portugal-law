@@ -1,0 +1,29 @@
+Regulamento (extracto) n.º 841/2010
+Alteração ao Regulamento do Conselho Municipal de Segurança
+No uso das competências que se encontram previstas na alínea l) do n.º 1 do artigo 53.º da Lei n.º 169/99 de 18.09, com a redacção introduzida pela Lei n.º 5-A/2002 de 11.01, e Lei n.º 33/98 de 18.07, torna-se público, que em sessão ordinária da Assembleia Municipal realizada em 24 de Setembro de 2010, foi aprovada, por unanimidade, uma Alteração, ao Regulamento do Conselho Municipal de Segurança, a qual a seguir se transcreve.
+22 de Outubro de 2010. - O Presidente da Câmara, Engenheiro José Alberto Candeias Guerreiro.
+Alteração ao Regulamento do Conselho Municipal de Segurança
+«CAPÍTULO II
+Organização e funcionamento
+SECÇÃO I
+Da composição e presidência
+Artigo 4.º
+Composição
+...
+Integram o Conselho:
+a) ...
+b) ...
+c) ...
+d) ...
+e) ...
+f) O Comandante da Guarda Nacional Republicana;
+g) O(s) Comandante(s) das Corporações de Bombeiros do Concelho de Odemira;
+h) ...
+i) ...
+j) ...
+k) Os seguintes cidadãos de reconhecida idoneidade: Directora do Estabelecimento Prisional de Odemira, um representante do Instituto de Reinserção Social, Equipa de Apoio às Escolas do Litoral Alentejano do Ministério da Educação, Directores dos Agrupamentos das EBI e EB 2+3, Fundação Odemira, Escola Secundária de Odemira e Colégio Nossa Senhora da Graça, dois representantes das Comissões de Moradores ou Associações de Moradores do Concelho (preferencialmente um do litoral e outro do interior), um representante de cada força política e ou grupo de cidadãos eleitores representados na Assembleia Municipal e dois representantes das Associações e Colectividades Culturais e Desportivas a serem eleitos entre eles.
+Artigo 11.º
+Quórum
+1 - O Conselho funciona com a presença da maioria dos seus membros.
+2 - O Conselho reunirá passados trinta minutos independentemente do número de elementos presentes.»
+303869755
