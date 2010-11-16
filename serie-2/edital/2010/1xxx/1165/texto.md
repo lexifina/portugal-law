@@ -1,0 +1,6 @@
+Edital n.º 1165/2010
+Dr. Manuel Joaquim Barata Frexes, Presidente da Câmara Municipal do Fundão:
+Torna público que a Câmara Municipal do Fundão, em sua reunião ordinária de 5 de Novembro do corrente ano, e nos termos da alínea a) do n.º 2 do artigo 53.º e do artigo 64.º, n.º 7, alínea a), da Lei n.º 169/99, de 18 de Setembro, alterada pelas Leis n.os 5-A/ 2002, de 11 de Janeiro, e 67/2007, de 31 de Dezembro, aprovou, submeter a apreciação pública, para recolha de sugestões, nos termos do disposto nos artigos 117.º e 118.º do Código de Procedimento Administrativo e posterior aprovação pela Assembleia Municipal do Fundão, o Projecto de Regulamento do Centro de Recolha e Abrigo Canino do Município do Fundão. Convidam-se os interessados a apresentar as suas sugestões relativas ao Regulamento em causa, dentro do prazo de 30 dias contados da data da publicação deste edital no Diário da República, O respectivo processo poderá ser consultado, na Secção Administrativa e de Notariado - Divisão Administrativa e de Recursos Humanos, no Site da Autarquia e na Secção do Munícipe, durante as horas normais de expediente.
+Para constar e devidos efeitos, se lavrou o presente edital e outros de igual teor, que vão ser afixados nos lugares de estilo deste Município.
+Fundão, 9 de Novembro de 2010. - O Presidente, Manuel Joaquim Barata Frexes.
+303917869
