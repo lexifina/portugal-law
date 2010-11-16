@@ -1,0 +1,112 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=W40k7LiR9JEHgClEnmQoorscowQ7IY5DzCoGwmKvywVE25ALLmNCMzM3VvyagsJdczpDtrLw%2bPekUnftGeMebaNLIqxG6qCiUleUYZ98%2bZz7uurMFen0%2b15e5zPmKr3MA7frFFO9DQUSkKHQnnnJJas6VWnpQSgf7%2bThJUu9IwR1RdlpTyq12cBlBNs%2boPCChaQCh4qzRmKUTS3tHE4RsufS4Eg%2fpSRQRrSyb4F3f1uOOzkIKgWlr%2bxtu3G0CSz%2fs%2fGnPFXb6G%2f5ZAdCHj8mavSlOQqH33qqgauaXsA5tK9wul%2bC5ux2r%2bbve7QRaWVV5Us3NU7xyKOnAThlYlqY5p21Rok5XBkkBZlf0lIsrozOZeVbDj1qJDxIqXmWT1WEW988UkOuo8HqQlqT0D0tF%2f8x30MwA8nPYV7eEg7B9VA%3d&fich=OEPropostasAlteracao2011Or_json.txt&Inline=true",
+  "ficheiro_sha256": "fc43740ec18cc3094bfc49823e043bab94d14f332ba5524d21ec95574c4ebb6a",
+  "legislatura": "XI",
+  "id": "5943",
+  "numero": "462C",
+  "orcamento": "2011",
+  "versao": "Or",
+  "data_registo": "2010-11-16",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "5943",
+    "Numero": "462C",
+    "Data": "16/11/2010 14:38:00",
+    "Titulo": "Infra-estruturas rodoviárias para afectação ao desenvolvimento de um Plano Nacional Rodoviário de âmbito regional e interregional - Reforço de dotação de 50.000.000€",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Mapa PIDDAC",
+    "Tipo": "Emenda",
+    "Estado": "Retirado(a)",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5445794d4445774d5441784e5339515153383359574e6a4e574977595330344d4745334c5451304e6a67744f475a6a4e43316a4e4463785a474d784e474d34597a41756347526d&Fich=7acc5b0a-80a7-4468-8fc4-c471dc14c8c0.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 1.º",
+        "Titulo": "Aprovação",
+        "Texto": "1 - É aprovado pela presente lei o Orçamento do Estado para o ano de 2011, constante dos mapas seguintes: \r\n\r\na) Mapas I a IX, com o orçamento da administração central, incluindo os orçamentos dos serviços e fundos autónomos; \r\n\r\nb) Mapas X a XII, com o orçamento da segurança social; \r\n\r\nc) Mapas XIII e XIV, ",
+        "Estado": "Aprovado(a) em Comissão",
+        "Numeros": {
+          "Numero": "N.º 1",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Aprovado(a) em Comissão",
+          "Alineas": {
+            "Alinea": "Alínea d)",
+            "Titulo": null,
+            "Texto": null,
+            "Estado": "Aprovado(a) em Comissão"
+          }
+        }
+      }
+    },
+    "ProgramasMedidas": {
+      "Nome": "P14 - Obras Públicas, Transportes e Comunicações",
+      "Descricao": "M54-A – Transportes e comunicações – Infra-estruturas rodoviárias"
+    },
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": "10 - Obras Públicas, Transportes e Comunicações",
+    "Medidas_Programas": {
+      "Descricao": "P14 - Obras Públicas, Transportes e Comunicações",
+      "SubDescricao": "M54-A – Transportes e comunicações – Infra-estruturas rodoviárias"
+    },
+    "NUTS": {
+      "Descricao": [
+        "PT1                  (Continente)",
+        "PT11                 (Norte)",
+        "PT111                (Minho-Lima)",
+        "PT112                (Cávado)",
+        "PT113                (Ave)",
+        "PT114                (Grande Porto)",
+        "PT115                (Tâmega)",
+        "PT116                (Entre Douro e Vouga)",
+        "PT117                (Douro)",
+        "PT118                (Alto Trás-os-Montes)",
+        "PT15                 (Algarve)",
+        "PT16                 (Centro)",
+        "PT161                (Baixo Vouga)",
+        "PT162                (Baixo Mondego)",
+        "PT163                (Pinhal Litoral)",
+        "PT164                (Pinhal Interior Norte)",
+        "PT165                (Dão-Lafões)",
+        "PT166                (Pinhal Interior Sul)",
+        "PT167                (Serra da Estrela)",
+        "PT169                (Beira Interior Sul)",
+        "PT16B                (Oeste)",
+        "PT16C                (Médio Tejo)",
+        "PT17                 (Lisboa)",
+        "PT171                (Grande Lisboa)",
+        "PT172                (Península de Setúbal)",
+        "PT18                 (Alentejo)",
+        "PT181                (Alentejo Litoral)",
+        "PT182                (Alto Alentejo)",
+        "PT183                (Alentejo Central)",
+        "PT184                (Baixo Alentejo)",
+        "PT185                (Lezíria do Tejo)",
+        "PT150                (Algarve)"
+      ]
+    },
+    "Votacoes": null
+  }
+}
