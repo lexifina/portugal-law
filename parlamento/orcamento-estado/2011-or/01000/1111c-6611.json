@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=W40k7LiR9JEHgClEnmQoorscowQ7IY5DzCoGwmKvywVE25ALLmNCMzM3VvyagsJdczpDtrLw%2bPekUnftGeMebaNLIqxG6qCiUleUYZ98%2bZz7uurMFen0%2b15e5zPmKr3MA7frFFO9DQUSkKHQnnnJJas6VWnpQSgf7%2bThJUu9IwR1RdlpTyq12cBlBNs%2boPCChaQCh4qzRmKUTS3tHE4RsufS4Eg%2fpSRQRrSyb4F3f1uOOzkIKgWlr%2bxtu3G0CSz%2fs%2fGnPFXb6G%2f5ZAdCHj8mavSlOQqH33qqgauaXsA5tK9wul%2bC5ux2r%2bbve7QRaWVV5Us3NU7xyKOnAThlYlqY5p21Rok5XBkkBZlf0lIsrozOZeVbDj1qJDxIqXmWT1WEW988UkOuo8HqQlqT0D0tF%2f8x30MwA8nPYV7eEg7B9VA%3d&fich=OEPropostasAlteracao2011Or_json.txt&Inline=true",
+  "ficheiro_sha256": "fc43740ec18cc3094bfc49823e043bab94d14f332ba5524d21ec95574c4ebb6a",
+  "legislatura": "XI",
+  "id": "6611",
+  "numero": "1111C",
+  "orcamento": "2011",
+  "versao": "Or",
+  "data_registo": "2010-11-17",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "6611",
+    "Numero": "1111C",
+    "Data": "17/11/2010 21:36:00",
+    "Titulo": "Mapa III",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Mapas",
+    "Tipo": "Emenda",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5445794d4445774d5441784e533951515339684d5459354e446330596930334d444d354c54526d4d6a59744f444977595330335a5452684d6d55315a4449304e474d756347526d&Fich=a169474b-7039-4f26-820a-7e4a2e5d244c.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PS",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "PS",
+        "Deputado": "AFONSO CANDAL"
+      }
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 1.º",
+        "Titulo": "Aprovação",
+        "Texto": "1 - É aprovado pela presente lei o Orçamento do Estado para o ano de 2011, constante dos mapas seguintes: \r\n\r\na) Mapas I a IX, com o orçamento da administração central, incluindo os orçamentos dos serviços e fundos autónomos; \r\n\r\nb) Mapas X a XII, com o orçamento da segurança social; \r\n\r\nc) Mapas XIII e XIV, ",
+        "Estado": "Aprovado(a) em Comissão",
+        "Numeros": {
+          "Numero": "N.º 1",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Aprovado(a) em Comissão",
+          "Alineas": {
+            "Alinea": "Alínea a)",
+            "Titulo": null,
+            "Texto": null,
+            "Estado": "Aprovado(a) em Comissão"
+          }
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": {
+      "Requerimento": {
+        "Data": "25/11/2010 20:32:00",
+        "Titulo": "Requerimento de Avocação 12A",
+        "Observacoes": "Avocação das Propostas de Alteração: 1111C e 1177C",
+        "Aprovado": "True",
+        "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5445794d4445774d5441784e533953515339684e6a41795a546b344d43316c4d6a497a4c5451774d3259744f54457a5a4330784d545a6c4f4441774f54497a4e7a67756347526d&Fich=a602e980-e223-403f-913d-116e80092378.pdf&Inline=true"
+      }
+    },
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": null,
+        "DiplomasTerceirosouPropostasDeLeiMapas": {
+          "Diploma": [
+            "S3VP8512",
+            "Mapa III"
+          ]
+        },
+        "SubDescricao": "Despesas dos Serviços Integrados por classificação funcional",
+        "Data": "25/11/2010 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Popular",
+            "Bloco de Esquerda",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Favor",
+            "Abstenção",
+            "Contra",
+            "Contra",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
