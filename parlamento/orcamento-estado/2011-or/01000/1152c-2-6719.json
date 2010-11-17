@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=W40k7LiR9JEHgClEnmQoorscowQ7IY5DzCoGwmKvywVE25ALLmNCMzM3VvyagsJdczpDtrLw%2bPekUnftGeMebaNLIqxG6qCiUleUYZ98%2bZz7uurMFen0%2b15e5zPmKr3MA7frFFO9DQUSkKHQnnnJJas6VWnpQSgf7%2bThJUu9IwR1RdlpTyq12cBlBNs%2boPCChaQCh4qzRmKUTS3tHE4RsufS4Eg%2fpSRQRrSyb4F3f1uOOzkIKgWlr%2bxtu3G0CSz%2fs%2fGnPFXb6G%2f5ZAdCHj8mavSlOQqH33qqgauaXsA5tK9wul%2bC5ux2r%2bbve7QRaWVV5Us3NU7xyKOnAThlYlqY5p21Rok5XBkkBZlf0lIsrozOZeVbDj1qJDxIqXmWT1WEW988UkOuo8HqQlqT0D0tF%2f8x30MwA8nPYV7eEg7B9VA%3d&fich=OEPropostasAlteracao2011Or_json.txt&Inline=true",
+  "ficheiro_sha256": "fc43740ec18cc3094bfc49823e043bab94d14f332ba5524d21ec95574c4ebb6a",
+  "legislatura": "XI",
+  "id": "6719",
+  "numero": "1152C-2",
+  "orcamento": "2011",
+  "versao": "Or",
+  "data_registo": "2010-11-17",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "6719",
+    "Numero": "1152C-2",
+    "Data": "17/11/2010 22:08:00",
+    "Titulo": "Alínea m), N.º 3, Artigo 141.º da PPL",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Eliminação",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5445794d4445774d5441784e533951515338325a6a49334d7a41305a5330314f4464694c5451354e7a6b74595451325969316a4e6a45335a4467334e6d51334e7a4d756347526d&Fich=6f27304e-587b-4979-a46b-c617d876d773.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PS",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "PS",
+        "Deputado": "AFONSO CANDAL"
+      }
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 141.º",
+        "Titulo": "Autorização legislativa para a regulação dos estágios profissionais",
+        "Texto": "1 - Fica o Governo autorizado a legislar no sentido de instituir regras a que deve obedecer a realização de estágios profissionais, incluindo os que tenham como objectivo a aquisição de uma habilitação profissional legalmente exigível para o acesso ao exercício de determinada profissão.\r\n\r\n2 - O âmbito da aut",
+        "Estado": "Aprovado(a) em Comissão com Alterações",
+        "Numeros": {
+          "Numero": "N.º 3",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Aguarda Voto em Comissão",
+          "Alineas": {
+            "Alinea": "Alínea m)",
+            "Titulo": null,
+            "Texto": null,
+            "Estado": "Aguarda Voto em Comissão"
+          }
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Alínea m), N.º 3, Artigo 141.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "25/11/2010 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Partido Popular",
+            "Bloco de Esquerda",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Favor",
+            "Abstenção",
+            "Contra",
+            "Contra",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
