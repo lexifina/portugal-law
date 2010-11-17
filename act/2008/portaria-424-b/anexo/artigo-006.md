@@ -32,7 +32,7 @@ n) Instalação para vigilante, desde que se localize dentro da área de implant
 
 o) Aquisição de equipamentos sociais de que o promotor seja obrigado a dispor por determinação legal;
 
-p) Aquisição de embarcações de serviço específicas para a actividade aquícola;
+p) Aquisição ou adaptação de embarcações de serviço específicas para a actividade aquícola;
 
 q) Despesas de formação profissional directamente relacionada com os objectivos do projecto, nos termos e limites fixados pelo despacho normativo n.º 4-A/2008, de 24 de Janeiro;
 

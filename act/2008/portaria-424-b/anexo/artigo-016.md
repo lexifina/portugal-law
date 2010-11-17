@@ -14,4 +14,4 @@ d) Assegurar as demais componentes do financiamento, cumprindo, pontualmente, as
 
 e) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projecto, não alterando nem modificando o mesmo sem prévia autorização do gestor;
 
-f) Constituir um seguro pelo montante mínimo correspondente ao valor dos apoios concedidos à construção ou aquisição de edifícios e de equipamentos até à data da conclusão material do projecto, contada a partir da data de última factura, mantendo-o válido por um período de cinco anos.
+f) (Revogada.)

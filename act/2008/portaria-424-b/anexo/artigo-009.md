@@ -2,15 +2,15 @@
 
 ### Taxas de apoio
 
-1 - As taxas de apoio público para os projectos apresentados pelos promotores previstos na alínea b) do artigo 2.º são os seguintes:
+1 - As taxas de apoio público para os projectos apresentados pelos promotores previstos na alínea b) do n.º 1 do artigo 2.º são as seguintes:
 
 a) 20 % no caso dos projectos localizados na região de Lisboa;
 
 b) 30 % no caso dos projectos localizados nas regiões Norte, Centro, Alentejo e Algarve.
 
-2 - A taxa de apoio público para os projectos apresentados pelos promotores previstos na alínea a) do artigo 2.º é de 35 %, à qual acrescem as seguintes majorações:
+2 - A taxa de apoio público para os projectos apresentados pelos promotores previstos na alínea a) do n.º 1 do artigo 2.º é de 35 %, à qual acrescem as seguintes majorações:
 
-a) 10 % nos projectos localizados nas regiões Norte, Centro, Alentejo e Algarve;
+a) 15 % nos projectos que visem a exportação de, pelo menos, um terço da produção prevista;
 
 b) 5 % nos projectos que visem a produção de novas espécies piscícolas, em pelo menos 50 % da produção prevista no projecto;
 
