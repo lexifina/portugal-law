@@ -1,0 +1,122 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=W40k7LiR9JEHgClEnmQoorscowQ7IY5DzCoGwmKvywVE25ALLmNCMzM3VvyagsJdczpDtrLw%2bPekUnftGeMebaNLIqxG6qCiUleUYZ98%2bZz7uurMFen0%2b15e5zPmKr3MA7frFFO9DQUSkKHQnnnJJas6VWnpQSgf7%2bThJUu9IwR1RdlpTyq12cBlBNs%2boPCChaQCh4qzRmKUTS3tHE4RsufS4Eg%2fpSRQRrSyb4F3f1uOOzkIKgWlr%2bxtu3G0CSz%2fs%2fGnPFXb6G%2f5ZAdCHj8mavSlOQqH33qqgauaXsA5tK9wul%2bC5ux2r%2bbve7QRaWVV5Us3NU7xyKOnAThlYlqY5p21Rok5XBkkBZlf0lIsrozOZeVbDj1qJDxIqXmWT1WEW988UkOuo8HqQlqT0D0tF%2f8x30MwA8nPYV7eEg7B9VA%3d&fich=OEPropostasAlteracao2011Or_json.txt&Inline=true",
+  "ficheiro_sha256": "fc43740ec18cc3094bfc49823e043bab94d14f332ba5524d21ec95574c4ebb6a",
+  "legislatura": "XI",
+  "id": "6650",
+  "numero": "1150C",
+  "orcamento": "2011",
+  "versao": "Or",
+  "data_registo": "2010-11-17",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "6650",
+    "Numero": "1150C",
+    "Data": "17/11/2010 22:07:00",
+    "Titulo": "N.º 1, 2, Artigo 127.º",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Números e Alíneas)",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a544556484c3039464c7a49774d5445794d4445774d5441784e533951515338344d4749774e6a4a6b4d6930314e54417a4c545179596a41744f5449784e6931694d5755344e6d466a5a574d785a5459756347526d&Fich=80b062d2-5503-42b0-9216-b1e86acec1e6.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PS",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "PS",
+        "Deputado": "AFONSO CANDAL"
+      }
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 127.º",
+        "Titulo": "Revogação de benefícios fiscais",
+        "Texto": "São revogados o artigo 65.º da Lei n.º 16/2001, de 22 de Junho, alterado pela Lei n.º91/2009, de 31 de Agosto, e o artigo 2.º do Decreto-Lei n.º 20/90, de 13 de Janeiro.",
+        "Estado": "Prejudicado(a)",
+        "Numeros": [
+          {
+            "Numero": "N.º 1",
+            "Titulo": null,
+            "Texto": null,
+            "Estado": "Entrada"
+          },
+          {
+            "Numero": "N.º 2",
+            "Titulo": null,
+            "Texto": null,
+            "Estado": "Entrada"
+          }
+        ]
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": [
+        {
+          "Descricoes": {
+            "Descricao": "N.º 1, Artigo 127.º"
+          },
+          "DiplomasTerceirosouPropostasDeLeiMapas": null,
+          "SubDescricao": null,
+          "Data": "25/11/2010 00:00:00",
+          "ResultadoCompleto": "Aprovado(a) em Comissão",
+          "Resultado": "Aprovado(a)",
+          "GruposParlamentares": {
+            "GrupoParlamentar": [
+              "Partido Socialista",
+              "Partido Social Democrata",
+              "Partido Popular",
+              "Bloco de Esquerda",
+              "Partido Comunista Português"
+            ],
+            "Voto": [
+              "Favor",
+              "Abstenção",
+              "Abstenção",
+              "Contra",
+              "Abstenção"
+            ]
+          }
+        },
+        {
+          "Descricoes": {
+            "Descricao": "N.º 2, Artigo 127.º"
+          },
+          "DiplomasTerceirosouPropostasDeLeiMapas": null,
+          "SubDescricao": null,
+          "Data": "25/11/2010 00:00:00",
+          "ResultadoCompleto": "Aprovado(a) em Comissão",
+          "Resultado": "Aprovado(a)",
+          "GruposParlamentares": {
+            "GrupoParlamentar": [
+              "Partido Socialista",
+              "Partido Social Democrata",
+              "Partido Popular",
+              "Bloco de Esquerda",
+              "Partido Comunista Português"
+            ],
+            "Voto": [
+              "Favor",
+              "Abstenção",
+              "Abstenção",
+              "Abstenção",
+              "Abstenção"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
