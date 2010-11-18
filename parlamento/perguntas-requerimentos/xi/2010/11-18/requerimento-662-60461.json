@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "60461",
+  "tipo": "Requerimento",
+  "numero": "662",
+  "data_registo": "2010-11-18",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Conselhos Municipais de Juventude",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "2260",
+        "nome": "Odete João"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1380",
+        "nome": "Jorge Manuel Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1373",
+        "nome": "Osvaldo de Castro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "456",
+        "nome": "João Paulo Pedrosa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2227",
+        "nome": "Jorge Seguro Sanches"
+      }
+    ],
+    "DataEnvio": "2010-11-24",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-11-24",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Vila Real de Santo António",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2011-01-05",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Vila Real de Santo António",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764e444d314d5441334f5459744e4445794e533030597a497a4c5749774d5759744e445935596a593459324a6c4d6a45344c6e426b5a673d3d&fich=43510796-4125-4c23-b01f-469b68cbe218.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-11-18",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764d47466859575a6d5a6d59744e474a695a6930304d44566b4c5467304e3249744e47566c4d6a4e6a4f444e6a5a474e6c4c6e426b5a673d3d&fich=0aaaffff-4bbf-405d-847b-4ee23c83cdce.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "60461",
+    "Legislatura": "XI",
+    "Nr": "662",
+    "Observacoes": "Vila Real de Santo António",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "535308",
+        "obs": null,
+        "pag": [
+          "83-84"
+        ],
+        "pagFinalDiarioSupl": "4º Supl.",
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "52",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "4º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/052S4/2010-11-29/83?pgs=83-84&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
