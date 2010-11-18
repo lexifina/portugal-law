@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "60110",
+  "tipo": "Requerimento",
+  "numero": "389",
+  "data_registo": "2010-11-18",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Conselhos Municipais de Juventude",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "2260",
+        "nome": "Odete João"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1373",
+        "nome": "Osvaldo de Castro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "456",
+        "nome": "João Paulo Pedrosa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2227",
+        "nome": "Jorge Seguro Sanches"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1380",
+        "nome": "Jorge Manuel Gonçalves"
+      }
+    ],
+    "DataEnvio": "2010-11-23",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-11-23",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Alvaiázere",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2011-01-06",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Alvaiázere",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764e54637a4d546b354e6a63744d5745314f5330304e57526a4c546c694e4467744d5442694e6d4d32597a67354e57597a4c6e426b5a673d3d&fich=57319967-1a59-45dc-9b48-10b6c6c895f3.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-11-18",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764d444979597a686b4d5755744e5459324e6930304e6a67344c5467345a5751744f4759794d4455304e6a686b595463354c6e426b5a673d3d&fich=022c8d1e-5666-4688-88ed-8f205468da79.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "60110",
+    "Legislatura": "XI",
+    "Nr": "389",
+    "Observacoes": "Alvaiázere",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "534439",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "50",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/050/2010-11-26/6?pgs=6-7&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
