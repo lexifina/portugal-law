@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "60198",
+  "tipo": "Requerimento",
+  "numero": "477",
+  "data_registo": "2010-11-18",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Conselhos Municipais de Juventude",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "2260",
+        "nome": "Odete João"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "456",
+        "nome": "João Paulo Pedrosa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1373",
+        "nome": "Osvaldo de Castro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2227",
+        "nome": "Jorge Seguro Sanches"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1380",
+        "nome": "Jorge Manuel Gonçalves"
+      }
+    ],
+    "DataEnvio": "2010-11-23",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-11-23",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Guarda",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2010-12-13",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Guarda",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764e7a6b335a6a6c6d4d6d51744f5451355a693030596d49784c57466d4e6d59745954557a4f5445344e6a466d5a5459304c6e426b5a673d3d&fich=797f9f2d-949f-4bb1-af6f-a5391861fe64.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-11-18",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764e7a6b304e446c6a4e6a55745a4751324d7930304f5756684c546c685a4463744e324d325a6a457a5a6a41344f54686c4c6e426b5a673d3d&fich=79449c65-dd63-49ea-9ad7-7c6f13f0898e.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "60198",
+    "Legislatura": "XI",
+    "Nr": "477",
+    "Observacoes": "Guarda",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "534660",
+        "obs": null,
+        "pag": [
+          "10-11"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "52",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/052S1/2010-11-29/10?pgs=10-11&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
