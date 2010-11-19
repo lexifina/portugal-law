@@ -10,7 +10,7 @@ Para os efeitos do disposto no presente diploma, entende-se por:
 
 a) «Competências» o parâmetro de avaliação que traduz o conjunto de conhecimentos, capacidades de acção e comportamentos necessários para o desempenho eficiente e eficaz, adequado ao exercício de funções por dirigente ou trabalhador;
 
-b) «Dirigentes máximos do organismo» os titulares de cargos de direcção superior do 1.º grau ou legalmente equiparado, outros dirigentes responsáveis pelo serviço dependente de membro do Governo ou os presidentes de órgão de direcção colegial sob sua tutela ou superintendência;
+b) 'Dirigentes máximos do organismo' os titulares de cargos de direcção superior do 1.º grau ou legalmente equiparado, outros dirigentes responsáveis pelo serviço dependente de membro do Governo ou os presidentes de órgão de direcção colegial sob sua tutela ou superintendência, bem como os chefes de gabinete e os adjuntos dos subsecretários regionais, em ambos os casos quando tenham competências delegadas em matéria de pessoal;
 
 c) «Dirigentes superiores» os dirigentes máximos dos serviços, os titulares de cargo de direcção superior do 2.º grau ou legalmente equiparados e os vice-presidentes ou vogais de órgão de direcção colegial;
 
