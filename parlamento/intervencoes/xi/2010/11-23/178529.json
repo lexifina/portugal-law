@@ -1,0 +1,87 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Y5feubGpmx3U3eADC2xbJmNQ%2bo9hh0y0Ws%2bMg6e1ClK3K68Ax4Xhm%2fWAehW8ocLQeD2OxoySGddyZuNhZaLhFlUp0ir7jK%2bOM48106ZJfd5wcxphkEewWoW0V2xfzdMNDfGCCckE9GmO9gLekm49cKDkNA8ZLG3MKaBA%2fkt5m8WXIfeT%2b5Mx1%2b0sg7BllQnlJxstthBRb%2bInCrt9Uig%2bShhf4upRTB1UPB5rRZ5AdO%2bS2bOM3SOwHIIzM8sV51n%2b%2fFpTd99F%2bLrFlKG%2beBsI3Ay12J%2bsVEuFtnniXdweo0Fbri050dE53bSr8jRl8MGpmX2sdxehZ6G6%2byWG%2fP8M0NepLg61Gx0Gl5lJ5jDaOiQ%3d&fich=IntervencoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7f20a8e6bd694f3fe5bcaedfdae6b5dacd6c1585dae5f92751007c07eefc189c",
+  "legislatura": "XI",
+  "id": "178529",
+  "tipo": "Intervenção",
+  "orador": "Pedro Marques (S.E.  DA   SEGURANÇA  SOCIAL)",
+  "data_registo": "2010-11-23",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "271837",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "35719",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Orçamento do Estado para 2011"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2010-11-23",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "178529",
+    "IdDebate": "7779",
+    "Iniciativas": [
+      {
+        "fase": "Discussão especialidade",
+        "id": "35719",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XI",
+    "MembrosGoverno": {
+      "cargo": "S.E.  DA   SEGURANÇA  SOCIAL",
+      "governo": "XVIII GOVERNO CONSTITUCIONAL",
+      "nome": "Pedro Marques"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "178529",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "41-42",
+          "46-47",
+          "49-49",
+          "53-53"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-11-24",
+        "pubLeg": "XI",
+        "pubNr": "22",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/022/2010-11-24/41?pgs=41-42,46-47,49,53&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Responde a Pedido de Esclarecimento do Deputado Francisco Louçã (BE)",
+    "Sessao": "2",
+    "Sumario": "Orçamento do Estado para 2011",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
