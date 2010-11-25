@@ -1,0 +1,7 @@
+Resolução da Assembleia da República n.º 131/2010
+Suspensão da exploração de caulinos na concessão mineira C-105, na Gandra, em Vila Seca/Milhazes, até à realização de avaliação global e integrada dos seus impactos - ambientais, hídricos, agrícolas, arqueológicos e sociais.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição da República, recomendar ao Governo:
+1 - A suspensão da concessão mineira C-105, na Gandra, concessão de exploração de caulinos nas freguesias de Vila Seca e Milhazes do concelho de Barcelos, de modo a verificar, sem excepção, a veracidade dos pressupostos que sustentam a atribuição da concessão, bem como a realização de todos os estudos necessários, tendo em conta a dimensão de 41 925 hectares da exploração concessionada, e todos os parâmetros - ambientais, hídricos, agrícolas, arqueológicos e sociais - que essa exploração vai afectar.
+2 - Que em conformidade com a avaliação dos impactos, através de AIA e outros estudos que se mostrem necessários, se proceda: i) em caso de avaliação desfavorável à exploração, à revogação da concessão C-105, por manifesto erro administrativo, conforme reclamam os peticionários, ou, ii) em caso de avaliação final favorável à exploração, se proceda a uma conciliação de posições entre as autarquias e a empresa MIBAL, mediada pela Direcção-Geral de Energia e Geologia (DGEG), de forma a atenuar tanto quanto possível os impactes negativos determinados.
+Aprovada em 22 de Outubro de 2010.
+O Presidente da Assembleia da República, Jaime Gama.
