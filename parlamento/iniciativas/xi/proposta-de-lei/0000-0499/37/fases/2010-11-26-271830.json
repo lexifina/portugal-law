@@ -1,0 +1,2169 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "37",
+    "id": "35626",
+    "titulo": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2010-11-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7777",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2010-11-26",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35417",
+        "leg": "XI",
+        "nr": "319",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1486",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-11-27",
+            "pubLeg": "XI",
+            "pubNr": "25",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27?org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2010-11-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1023",
+                "nome": "Maria do Rosário Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178325",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1553",
+                "nome": "Teresa Venda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178326",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4144",
+                "nome": "Luísa Roseira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178327",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3989",
+                "nome": "Paulo Mota Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178328",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178329",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1998",
+                "nome": "Luís Campos Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178330",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2114",
+                "nome": "Emídio Guerreiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178331",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4169",
+                "nome": "Carina Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178332",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3945",
+                "nome": "Pedro Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178333",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3918",
+                "nome": "Maria Paula Cardoso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178334",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4087",
+                "nome": "Celeste Amaro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1238",
+                "nome": "Sérgio Vieira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178336",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4086",
+                "nome": "António Leitão Amaro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4221",
+                "nome": "Vânia Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178338",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178340",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178341",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1905",
+                "nome": "Fernando Negrão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178342",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1561",
+                "nome": "Luís Montenegro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178343",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178344",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2015",
+                "nome": "António Almeida Henriques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178345",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4205",
+                "nome": "Isabel Sequeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178346",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2027",
+                "nome": "Adriano Rafael Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178347",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3",
+                "nome": "Adão Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178348",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178349",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1743",
+                "nome": "Ulisses Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178350",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "288",
+                "nome": "Luís Capoulas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178351",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178352",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4030",
+                "nome": "Carlos Peixoto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178353",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "390",
+                "nome": "Mota Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178354",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4145",
+                "nome": "Luís Menezes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3944",
+                "nome": "Teresa Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4129",
+                "nome": "Cristóvão Crespo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4085",
+                "nome": "Pedro Lynce"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3943",
+                "nome": "Nuno Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178360",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1991",
+                "nome": "Clara Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4013",
+                "nome": "Jorge Bacelar Gouveia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178362",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3942",
+                "nome": "Francisca Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178363",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4193",
+                "nome": "Maria das Mercês Borges"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178364",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3957",
+                "nome": "José Ferreira Gomes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178365",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:33",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178366",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2010-11-27",
+                "pubLeg": "XI",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à 18.ª alteração ao Código do Registo Civil; Altera o Código do Registo Civil, permitindo a pessoas transexuais a mudança do registo do sexo no assento de nascimento.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "271830",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "536051",
+        "obs": null,
+        "pag": [
+          "49-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-11-27",
+        "pubLeg": "XI",
+        "pubNr": "25",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/025/2010-11-27/49?pgs=49-50&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2010-11-26",
+        "descricao": "Texto Final apresentado pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo à Proposta de Lei n.º 37/XI(GOV) e Projecto de Lei n.º 319/XI(BE).",
+        "detalhe": "A Favor: <I>PS</I>, <I> 12-PSD</I>, <I> BE</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>2-PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>9-PSD</I>",
+        "id": "57109",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "25",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
