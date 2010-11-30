@@ -1,0 +1,5 @@
+Aviso n.º 349/2010
+Por ordem superior se torna público que o Secretariado-Geral do Conselho da União Europeia notificou, pela Nota SGS10/13724, de 29 de Outubro de 2010, ter a República do Cazaquistão concluído, em 8 de Setembro de 2010, as formalidades necessárias à entrada em vigor do Protocolo ao Acordo de Parceria e Cooperação entre as Comunidades Europeias e os Seus Estados Membros, por um lado, e a República do Cazaquistão, por outro, a Fim de Ter em Conta a Adesão da República da Bulgária e da Roménia à União Europeia, assinado em Bruxelas em 16 de Setembro de 2008.
+Pela mesma nota, o Secretariado-Geral do Conselho da União Europeia notificou ainda terem a União Europeia e os seus Estados membros igualmente concluído os procedimentos necessários à entrada em vigor do Protocolo.
+Nos termos do artigo 4.º, n.º 1, o Protocolo está em vigor em 1 de Outubro de 2010.
+Direcção-Geral dos Assuntos Europeus, 17 de Novembro de 2010. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
