@@ -1,0 +1,740 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12049",
+  "numero": "119",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-11-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-08-04",
+            "dataResposta": "2011-11-04",
+            "entidades": [
+              "CP - Caminhos de Ferro Portugueses"
+            ],
+            "nrOficio": "51/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-08-05",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Economia e do Emprego"
+            ],
+            "nrOficio": "53/CAEIE",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-12-22",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2012-01-11",
+        "DataBaixaComissao": "2011-07-07",
+        "DataEnvioPAR": "2012-01-12",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-08-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3249334d5467304e4467314c5455314d6d51744e44637a5a693034597a5a6d4c544d774f446c6d4d4467774f44426b4e7935306157593d&fich=b7184485-552d-473f-8c6f-3089f08080d7.tif&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-08-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a6b334e5445334e4451304c545132595749744e4445314e5331684f5449304c574934596a41314e546c6b4e4463305a4335306157593d&fich=97517444-46ab-4155-a924-b8b0559d474d.tif&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-01-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a646b4f546b34596d55334c546b324f544d744e446c69597931694e4464694c5749304d5451305a544e6c5a5455324e4335775a47593d&fich=7d998be7-9693-49bc-b47b-b4144e3ee564.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-11-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a55774d4441324d7a49304c54517a5a6d45744e446c6d4e5331684f446b794c54526c4d44677a4e6d566b4f4745324f5335775a47593d&fich=50006324-43fa-49f5-a892-4e0836ed8a69.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-08-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4d324d7a6b324e6a51334c5463334f5455744e4759314d6930344d54686c4c544d334f47597a4e544d344e7a646c4d7935775a47593d&fich=36396647-7795-4f52-818e-378f353877e3.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-07-20",
+            "gp": "PCP",
+            "id": "1715",
+            "motivoCessacao": null,
+            "nome": "Bruno Dias"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XI Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2010-12-20",
+            "entidades": null,
+            "id": "89811",
+            "tipo": null,
+            "titulo": "Audição em 2010-12-20 com Dra. Graciela Ferreira Nunes, Pedro Couteiro"
+          },
+          {
+            "data": "2010-12-20",
+            "entidades": null,
+            "id": "89977",
+            "tipo": null,
+            "titulo": "Audição em 2010-12-20 com Dra. Graciela Ferreira Nunes, Pedro Couteiro"
+          },
+          {
+            "data": "2011-02-02",
+            "entidades": null,
+            "id": "90225",
+            "tipo": null,
+            "titulo": "Audição em 2011-02-02 com Presidente da ASCEF - Associação Sindical das Chefias Intermédias de Exploração Ferroviária, Presidente do SFRCI - Sindicato Ferroviário da Revisão Comercial Itinerante, Presidente do SINAFE - Sindicato Nacional dos Ferroviários do Movimento e Afins, Presidente do SNAQ - Sindicato Nacional de Quadros Técnicos, Presidente do SNTSF - Sindicato Nacional dos Trabalhadores do Sector Ferroviário, SMAQ - Sindicato Nacional dos Maquinistas dos Caminhos de Ferro"
+          },
+          {
+            "data": "2011-02-02",
+            "entidades": null,
+            "id": "90226",
+            "tipo": null,
+            "titulo": "Audição em 2011-02-02 com Presidente da ASCEF - Associação Sindical das Chefias Intermédias de Exploração Ferroviária, Presidente do SFRCI - Sindicato Ferroviário da Revisão Comercial Itinerante, Presidente do SINAFE - Sindicato Nacional dos Ferroviários do Movimento e Afins, Presidente do SNAQ - Sindicato Nacional de Quadros Técnicos, Presidente do SNTSF - Sindicato Nacional dos Trabalhadores do Sector Ferroviário, SMAQ - Sindicato Nacional dos Maquinistas dos Caminhos de Ferro"
+          },
+          {
+            "data": "2011-02-08",
+            "entidades": null,
+            "id": "90232",
+            "tipo": null,
+            "titulo": "Audição em 2011-02-08 com Câmara Municipal de Alijó, Câmara Municipal de Carrazeda de Ansiães, Câmara Municipal de Mirandela, Câmara Municipal de Murça, Câmara Municipal de Vila Flor"
+          },
+          {
+            "data": "2011-02-09",
+            "entidades": null,
+            "id": "90239",
+            "tipo": null,
+            "titulo": "Audição em 2011-02-09 com Câmara Municipal de Alijó, Câmara Municipal de Carrazeda de Ansiães, Câmara Municipal de Mirandela, Câmara Municipal de Murça, Câmara Municipal de Vila Flor"
+          },
+          {
+            "data": "2011-03-24",
+            "entidades": null,
+            "id": "90614",
+            "tipo": null,
+            "titulo": "Audição em 2011-03-24 com Audição com a ANET - Associação Nacional dos Engenheiros Técnicos, Sr. Engº Ricardo Magalhães"
+          },
+          {
+            "data": "2011-03-24",
+            "entidades": null,
+            "id": "90615",
+            "tipo": null,
+            "titulo": "Audição em 2011-03-24 com Sr. Engº Ricardo Magalhães"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2010-12-14",
+            "dataResposta": "2011-02-24",
+            "entidades": [
+              "Ministro das Obras Públicas, Transportes e Comunicações"
+            ],
+            "nrOficio": "289/COPTC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2011-02-15",
+                "dataResposta": null,
+                "nrOficio": "55/COPTC",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-02-16",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da CP - Comboios de Portugal"
+            ],
+            "nrOficio": "60/COPTC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2011-03-14",
+                "dataResposta": null,
+                "nrOficio": "82/COPTC",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2010-12-14",
+        "DataArquivo": "2011-07-06",
+        "DataBaixaComissao": "2010-12-14",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2010-12-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2010-12-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c3251314d6d51774f4445304c54497a4d5455744e444e684e4331685a4463774c5759304f4455774f4467335a54686d596935775a47593d&fich=d52d0814-2315-43a4-ad70-f4850887e8fb.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2010-12-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a4133596a646a5a545a694c545534593245744e444e6d4d5331694e5751304c5467774e6a49315932526b5a474e694f4335775a47593d&fich=07b7ce6b-58ca-43f1-b5d4-80625cdddcb8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c3252694d5751344f5467334c544d304e7a4d744e4751335a433035596a5a6a4c544d344d4749354e4451325a54466c4f4335775a47593d&fich=db1d8987-3473-4d7d-9b6c-380b9446e1e8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a5977596d526b4d4455344c57566d596a67744e445a684e6931684d6a526c4c54497a4d3249784f474d325a6d49324d7935775a47593d&fich=60bdd058-efb8-46a6-a24e-233b18c6fb63.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-03-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a45784d7a59325a4459334c5467304e4745744e4745794e6930354e4759794c5467314d7a4669596a466d4f546b774e5335775a47593d&fich=11366d67-844a-4a26-94f2-8531bb1f9905.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-03-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c32566b4e7a517a4e6a466c4c575a6c5a6a67744e4749344e4330354e4759784c5451794e7a426d4d574d7a5a5749354d5335775a47593d&fich=ed74361e-fef8-4b84-94f1-4270f1c3eb91.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2872",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2010-12-14",
+            "gp": "PCP",
+            "id": "1715",
+            "motivoCessacao": null,
+            "nome": "Bruno Dias"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Economia e Obras Públicas da XII Legislatura."
+      }
+    ],
+    "DataDebate": "2012-01-26",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-12-13",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d765a6a55304f5451345a6a67744f4463795a4330304d6a67314c54686c4e6d59744d3245784f574a695a444178596a4d344c6e426b5a673d3d&fich=f54948f8-872d-4285-8e6f-3a19bbd01b38.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "36702"
+    ],
+    "Iniciativasoriginadas": [
+      "36702",
+      "36703"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2012-01-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120126pln&url=l12/sl1/a2012/m01/&tI=02:11:26:035&drc=00:03:06:048"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183205",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-27",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/064/2012-01-27/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a requalificação da linha ferroviária, Tua-Mirandela-Bragança; Recomenda ao Governo a suspensão imediata de todas as deliberações e ações que ameacem a linha ferroviária do Tua e propõe a criação de um grupo de trabalho que avalie as potencialidades da linha para o desenvolvimento da região; Solicitam que a Linha do Tua seja restaurada e reaberta à circulação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-01-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120126pln&url=l12/sl1/a2012/m01/&tI=02:14:39:834&drc=00:03:49:873"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183206",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-27",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/064/2012-01-27/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a requalificação da linha ferroviária, Tua-Mirandela-Bragança; Recomenda ao Governo a suspensão imediata de todas as deliberações e ações que ameacem a linha ferroviária do Tua e propõe a criação de um grupo de trabalho que avalie as potencialidades da linha para o desenvolvimento da região; Solicitam que a Linha do Tua seja restaurada e reaberta à circulação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-01-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120126pln&url=l12/sl1/a2012/m01/&tI=02:18:39:612&drc=00:04:23:277"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183207",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-27",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/064/2012-01-27/41?pgs=41-43&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a requalificação da linha ferroviária, Tua-Mirandela-Bragança; Recomenda ao Governo a suspensão imediata de todas as deliberações e ações que ameacem a linha ferroviária do Tua e propõe a criação de um grupo de trabalho que avalie as potencialidades da linha para o desenvolvimento da região; Solicitam que a Linha do Tua seja restaurada e reaberta à circulação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-01-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120126pln&url=l12/sl1/a2012/m01/&tI=02:23:12:849&drc=00:03:18:622"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183208",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-27",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/064/2012-01-27/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a requalificação da linha ferroviária, Tua-Mirandela-Bragança; Recomenda ao Governo a suspensão imediata de todas as deliberações e ações que ameacem a linha ferroviária do Tua e propõe a criação de um grupo de trabalho que avalie as potencialidades da linha para o desenvolvimento da região; Solicitam que a Linha do Tua seja restaurada e reaberta à circulação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-01-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120126pln&url=l12/sl1/a2012/m01/&tI=02:26:44:497&drc=00:03:13:284"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183209",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-27",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/064/2012-01-27/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a requalificação da linha ferroviária, Tua-Mirandela-Bragança; Recomenda ao Governo a suspensão imediata de todas as deliberações e ações que ameacem a linha ferroviária do Tua e propõe a criação de um grupo de trabalho que avalie as potencialidades da linha para o desenvolvimento da região; Solicitam que a Linha do Tua seja restaurada e reaberta à circulação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-01-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120126pln&url=l12/sl1/a2012/m01/&tI=02:30:07:429&drc=00:02:54:570"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-27",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/064/2012-01-27/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a requalificação da linha ferroviária, Tua-Mirandela-Bragança; Recomenda ao Governo a suspensão imediata de todas as deliberações e ações que ameacem a linha ferroviária do Tua e propõe a criação de um grupo de trabalho que avalie as potencialidades da linha para o desenvolvimento da região; Solicitam que a Linha do Tua seja restaurada e reaberta à circulação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-01-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120126pln&url=l12/sl1/a2012/m01/&tI=02:33:19:226&drc=00:01:28:773"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183211",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-27",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/064/2012-01-27/46?pgs=46&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a requalificação da linha ferroviária, Tua-Mirandela-Bragança; Recomenda ao Governo a suspensão imediata de todas as deliberações e ações que ameacem a linha ferroviária do Tua e propõe a criação de um grupo de trabalho que avalie as potencialidades da linha para o desenvolvimento da região; Solicitam que a Linha do Tua seja restaurada e reaberta à circulação.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12049",
+    "PetAssunto": "Solicitam que a Linha do Tua seja restaurada e reaberta à circulação",
+    "PetDataEntrada": "2010-11-30",
+    "PeticoesAssociadas": null,
+    "PetId": "12049",
+    "PetLeg": "XI",
+    "PetNr": "119",
+    "PetNrAssinaturas": "4650",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1591",
+        "obs": null,
+        "pag": [
+          "40-46"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-01-27",
+        "pubLeg": "XII",
+        "pubNr": "64",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/064/2012-01-27/40?pgs=40-46&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "536043",
+        "obs": null,
+        "pag": [
+          "24-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-12-18",
+        "pubLeg": "XI",
+        "pubNr": "67",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/067/2010-12-18/24?pgs=24-25&org=PLC"
+      }
+    ]
+  }
+}
