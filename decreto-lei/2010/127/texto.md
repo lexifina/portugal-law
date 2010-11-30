@@ -1,0 +1,134 @@
+Decreto-Lei n.º 127/2010
+de 30 de Novembro
+O presente decreto-lei aprova o regime do pessoal especializado do Ministério dos Negócios Estrangeiros, procedendo à sua actualização e consolidação.
+O regime de recrutamento do pessoal especializado do Ministério dos Negócios Estrangeiros foi criado pelo Decreto-Lei n.º 133/85, de 2 de Maio, e constituiu um passo decisivo para a clarificação dos vários aspectos a considerar nesta matéria. Contudo, o lapso de tempo decorrido e a profunda alteração nos regimes aplicáveis ao exercício de funções públicas e de vinculação e carreiras dos trabalhadores que exercem funções públicas tornaram obsoletas algumas das suas normas e desactualizadas outras. Por outro lado, o Decreto-Lei n.º 133/85, de 2 de Maio, foi objecto de diversas alterações e de adição de novas disposições que importa reunir e sistematizar.
+Acresce a existência de diplomas específicos que contêm, embora sob designações diversas, disposições sobre colocação de pessoal junto de missões ou postos consulares. Assim, importa estabelecer princípios comuns aplicáveis a todos estes casos, sem prejudicar a especificidade de cada regime, como é o caso, por exemplo, do Decreto-Lei n.º 459/85, de 4 de Novembro, alterado pelos Decretos-Leis n.os 302/86, de 20 de Setembro, 234-B/98, de 28 de Julho, e 97/2006, de 5 de Junho, que cria a Representação Permanente de Portugal junto das Comunidades Europeias em Bruxelas.
+O presente decreto-lei cria, assim, em primeiro lugar, um regime unitário e sistematizado a aplicar ao pessoal especializado do Ministério dos Negócios Estrangeiros, identificando claramente o seu objecto, os procedimentos de recrutamento, os requisitos a preencher para o efeito e as regras de provimento. São, igualmente, estabelecidas as normas reguladoras das vicissitudes que podem ocorrer desde o provimento até à cessação de funções, fixando-se a duração do mandato, as modalidades de cessação e os direitos e deveres do pessoal especializado do Ministério dos Negócios Estrangeiros.
+Assim, em segundo lugar, o presente decreto-lei estabelece, em contraposição com o regime actual, um limite temporal para o exercício das funções de pessoal especializado, evitando a eternização de situações que na sua génese têm carácter transitório. Desta forma, prevê-se, como regra, que as funções de pessoal especializado do Ministério dos Negócios Estrangeiros são exercidas em comissão de serviço pelo período de três anos, prorrogável por uma única vez por novo período até ao máximo de três anos, nunca excedendo seis anos no exercício do cargo.
+Em terceiro lugar, apesar de serem mantidas as áreas funcionais já previstas no Decreto-Lei n.º 133/85, de 2 de Maio, restringem-se os cargos de acordo com o nível de habilitações exigido para o provimento, evitando a sua proliferação sem fundamentação em grau diverso de complexidade das funções ou de requisitos habilitacionais.
+Finalmente, o presente decreto-lei estabelece ainda que o pessoal especializado do Ministério dos Negócios Estrangeiros seja objecto, no âmbito dessas funções, de avaliação de desempenho e esteja sujeito ao regime disciplinar aplicável aos trabalhadores em funções públicas. Os efeitos da aplicação de um sistema de avaliação do desempenho e da sujeição expressa ao regime disciplinar dos trabalhadores em funções públicas implica maior responsabilização numa cultura de mérito, o que só oferece vantagens, quer para o próprio quer para a missão consular ou posto diplomático onde exerce funções, aproximando o regime de prestação de trabalho e sua avaliação por parte do pessoal especializado dos trabalhadores em funções públicas.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objecto e âmbito
+1 - O presente decreto-lei estabelece o regime jurídico de emprego aplicável ao pessoal especializado do Ministério dos Negócios Estrangeiros.
+2 - Sem prejuízo da manutenção de regimes específicos de designação de elementos para colocação no exterior, designadamente para colocação na Representação Permanente de Portugal junto das Comunidades Europeias em Bruxelas ou, ainda, para colocação de pessoal na área da defesa ou da segurança em que exerce a sua actividade em articulação com a missão diplomática ou posto consular respectivo, o presente decreto-lei é-lhes subsidiariamente aplicável.
+Artigo 2.º
+Pessoal especializado do Ministério dos Negócios Estrangeiros
+Para efeitos do presente decreto-lei entende-se por pessoal especializado do Ministério dos Negócios Estrangeiros aquele que é colocado pelo Governo Português no exterior para, na dependência hierárquica do respectivo chefe de missão ou do posto consular, acompanhar as actividades inerentes a uma área específica, defendendo as políticas nacionais assumidas para a área respectiva, tratando a informação nesse âmbito e articulando a sua execução com as entidades sectoriais nacionais e com as autoridades locais.
+Artigo 3.º
+Funções do pessoal especializado
+Compete ao pessoal especializado do Ministério dos Negócios Estrangeiros:
+a) Acompanhar os assuntos relativos à área para a qual é nomeado;
+b) Participar nas reuniões, grupos de trabalho e outras actividades no âmbito da área em que exerce funções;
+c) Estabelecer a articulação necessária entre a missão diplomática ou o posto consular respectivo, sob direcção do chefe da missão ou do posto consular, e as autoridades nacionais do sector relativo à área em que exercem funções;
+d) Programar as acções necessárias a desenvolver para a área em que se encontra a exercer funções, obtendo a informação necessária para o seu acompanhamento e execução;
+e) Elaborar relatórios da actividade desenvolvida para conhecimento das autoridades nacionais e membros do Governo competentes com a periodicidade que em cada caso lhe for exigida e veicular pelos canais diplomáticos apropriados a informação pertinente e oportuna sobre os assuntos que acompanha;
+f) Desenvolver, sob direcção do chefe da missão diplomática ou posto consular respectivo, as acções específicas inerentes à área em que exerce funções visando os objectivos anualmente fixados para o posto e para a área de actividade respectiva.
+Artigo 4.º
+Cargos
+1 - As funções do pessoal especializado do Ministério dos Negócios Estrangeiros são diferenciadas de acordo com a complexidade da actividade inerente a cada cargo, requisitos exigidos para o provimento e respectiva área de competências, conforme disposto no presente decreto-lei.
+2 - Os cargos previstos no presente artigo não se inserem em carreira e as respectivas funções têm carácter transitório.
+3 - Constituem cargos do pessoal especializado de acordo com a diferenciação de funções:
+a) Conselheiro técnico principal;
+b) Conselheiro técnico;
+c) Adido;
+d) Secretário privativo;
+e) Tradutor/intérprete.
+4 - Os cargos de pessoal especializado são distribuídos, conforme as necessidades no âmbito da política externa, pelas seguintes áreas de competências:
+a) Económica;
+b) Cooperação;
+c) Militar;
+d) Segurança;
+e) Trabalho e emprego;
+f) Social;
+g) Jurídica;
+h) Cultural ou de imprensa;
+i) Científica;
+j) Agricultura, pescas e alimentação;
+l) Eclesiástica.
+Artigo 5.º
+Postos de trabalho e mapa de pessoal
+1 - Os postos de trabalho previstos para cada um dos cargos mencionados no n.º 3 do artigo anterior constam do mapa de pessoal relativo ao pessoal especializado do Ministério dos Negócios Estrangeiros.
+2 - O mapa de pessoal é aprovado e alterado nos termos previstos para os serviços da Administração Central, competindo a sua gestão à Secretaria-Geral do Ministério dos Negócios Estrangeiros.
+Artigo 6.º
+Recrutamento
+1 - O recrutamento de pessoal especializado é feito por escolha de entre indivíduos que preencham os requisitos gerais e particulares referidos no presente decreto-lei e que possuam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respectivas funções, independentemente de deterem ou não relação jurídica de emprego público.
+2 - O recrutamento para as áreas referidas nas alíneas a), c), d), e), h) e i) do n.º 4 do artigo 4.º é feito sob proposta do membro do Governo que tutela o sector em cuja área se insere o cargo a prover.
+Artigo 7.º
+Requisitos
+1 - O recrutamento para provimento dos cargos de conselheiro técnico principal, de conselheiro técnico e de adido é feito de entre indivíduos licenciados, detentores de adequado currículo para a área de exercício de funções respectiva e com experiência profissional não inferior a:
+a) Nove anos para o cargo de conselheiro técnico principal;
+b) Seis anos para o cargo de conselheiro técnico;
+c) Três anos para o cargo de adido.
+2 - O recrutamento para provimento dos cargos de conselheiro técnico ou de adido na área de imprensa pode ser feito de entre indivíduos que, não sendo licenciados, tenham experiência profissional não inferior a nove anos ou a seis anos, respectivamente.
+3 - O recrutamento para provimento de cargos em funções militares é feito de entre funcionários da carreira com posto não inferior a capitão com o curso de Estado-Maior.
+4 - O recrutamento para provimento do cargo de secretário privativo é feito de entre indivíduos habilitados com o nível de escolaridade obrigatório, bem como experiência profissional não inferior a três anos.
+5 - O recrutamento para provimento do cargo de tradutor/intérprete é feito de entre indivíduos habilitados com o nível de escolaridade obrigatória e comprovado domínio escrito e falado da língua do país de colocação.
+Artigo 8.º
+Provimento
+1 - Os postos de trabalho relativos aos cargos de pessoal especializado do Ministério dos Negócios Estrangeiros são providos em regime de comissão de serviço, por despacho do Ministro dos Negócios Estrangeiros publicado no Diário da República.
+2 - O provimento de conselheiro técnico principal e do conselheiro técnico para a unidade EUROJUST é feito por despacho dos Ministros dos Negócios Estrangeiros e da Justiça, sob proposta do Procurador-Geral da República após audição do Conselho Superior do Ministério Público, sendo o despacho publicado no Diário da República.
+3 - Os cargos relativos às áreas militar e de segurança são providos por despacho do Ministro dos Negócios Estrangeiros e do membro do Governo que tutela o respectivo sector, sendo as funções militares exercidas em comissão de serviço normal na situação de adido ao quadro.
+4 - O despacho deve mencionar a missão ou posto consular de colocação e o cargo do respectivo provimento.
+5 - O provimento de trabalhador em funções públicas depende sempre de autorização prévia do membro do Governo que tutela ou superintende o organismo ou serviço de que aquele dependa.
+Artigo 9.º
+Duração da comissão de serviço
+1 - O provimento é feito por um período de três anos, renovável uma única vez e por um novo período com duração máxima de três anos.
+2 - Excepciona-se do disposto no número anterior a comissão de serviço no cargo de tradutor/intérprete.
+Artigo 10.º
+Renovação
+A renovação da comissão de serviço depende de despacho do Ministro dos Negócios Estrangeiros e ou, nos casos referidos nos n.os 2 e 3 do artigo 8.º, de despacho dos ministros aí identificados.
+Artigo 11.º
+Cessação
+1 - A comissão de serviço cessa:
+a) Pela não renovação, findo o primeiro triénio;
+b) Pelo decurso da sua duração máxima;
+c) Por fundamentada conveniência de serviço, mediante despacho do Ministro dos Negócios Estrangeiros, após notificação prévia com a antecedência mínima de 90 dias;
+d) A pedido do interessado, com antecedência mínima de 90 dias e desde que acompanhado de informação de inexistência de inconveniência ou prejuízo para o posto em que se encontra colocado.
+2 - A comissão de serviço para exercício do cargo de tradutor/intérprete cessa nos termos previstos nas alíneas c) e d) do número anterior.
+3 - Pode ser acordada a data da efectiva saída do titular do cargo, tendo em conta, designadamente, razões atinentes à finalização do ano lectivo de descendentes ou menores a cargo, não podendo a manutenção em funções quando fundada noutras razões ultrapassar um período de seis meses contados da data em que terminou a comissão de serviço.
+Artigo 12.º
+Direitos e deveres
+1 - Os trabalhadores em funções públicas providos como pessoal especializado têm direito, findas as respectivas funções, a reocupar posto de trabalho adequado no organismo de que dependiam à data do seu provimento.
+2 - Quando o pessoal especializado do Ministério dos Negócios Estrangeiros se encontre, à data do seu provimento, investido em cargo público de exercício temporário, por virtude da lei, acto ou contrato, ou em comissão de serviço, o exercício daquelas funções suspende o respectivo prazo, podendo o cargo de origem ser ocupado em regime de substituição, nos casos em que haja norma legal que o permita.
+3 - O pessoal especializado que, na pendência da sua comissão de serviço, seja investido em cargo público de natureza temporária, suspende aquela comissão de serviço nos casos em que norma legal o permita.
+4 - No exercício das suas funções o pessoal especializado depende hierarquicamente do funcionário diplomático que chefia a missão ou o posto consular respectivo.
+Artigo 13.º
+Avaliação do desempenho
+1 - O pessoal especializado do Ministério dos Negócios Estrangeiros encontra-se sujeito ao sistema de avaliação dos trabalhadores da Administração Pública com excepção daquele que, nos termos de estatuto profissional próprio aplicável, seja objecto de regime especial de avaliação de desempenho.
+2 - A avaliação de desempenho obtida no desempenho de funções como pessoal especializado repercute-se, para os trabalhadores com relação jurídica de emprego público, na sua situação de origem.
+Artigo 14.º
+Procedimento disciplinar
+O pessoal especializado do Ministério dos Negócios Estrangeiros encontra-se sujeito ao quadro legal disciplinar aplicável aos trabalhadores em funções públicas quando, nos termos de estatuto profissional próprio, não se encontre sujeito a um regime disciplinar especial.
+Artigo 15.º
+Encargos
+Os encargos com o pagamento de despesas relativas ao pessoal especializado são suportados pelo Ministério dos Negócios Estrangeiros, com excepção dos casos previstos nas alíneas a), c), d), e), i) e j) do n.º 4 do artigo 4.º que são suportadas pelo respectivo ministério proponente.
+Artigo 16.º
+Legislação subsidiária
+1 - Ao pessoal especializado do Ministério dos Negócios Estrangeiros aplica-se o estatuto profissional dos funcionários diplomáticos, com excepção das disposições que resultam da natureza do provimento vitalício destes e das que são inseparáveis da integração na carreira, bem como das regras aplicáveis à avaliação do seu desempenho.
+2 - Em tudo o que não se encontre especialmente regulado no presente decreto-lei e não contrarie as suas normas nem o disposto no número anterior aplica-se a Lei n.º 12-A/2008, de 27 de Fevereiro, bem como a legislação que lhe é complementar.
+3 - O presente decreto-lei não prejudica a aplicação ao pessoal especializado do Ministério dos Negócios Estrangeiros dos respectivos estatutos profissionais específicos, designadamente da magistratura ou da carreira militar, em tudo o que não contrarie o que neste diploma se encontre disposto.
+Artigo 17.º
+Disposições transitórias
+1 - O pessoal especializado em funções à data da entrada em vigor do presente decreto-lei mantém-se na categoria e nas condições em que foi nomeado ou contratado, com as especificidades previstas nos números seguintes.
+2 - As disposições relativas à duração máxima do regime de comissão de serviço para exercício das funções de pessoal especializado do Ministério dos Negócios Estrangeiros aplicam-se às situações em curso à data da entrada em vigor do presente decreto-lei, independentemente do regime de exercício, contabilizando-se, para o cômputo total, o tempo entretanto já prestado.
+3 - O pessoal que, à data de entrada em vigor do presente decreto-lei, tenha ultrapassado a duração máxima do regime em que exerce o respectivo cargo de pessoal especializado do Ministério dos Negócios Estrangeiros cessa funções no termo do respectivo período da comissão de serviço ou contrato, sem possibilidade de renovação, sem prejuízo do disposto no n.º 3 do artigo 11.º do presente decreto-lei.
+4 - Enquanto não for revista a remuneração a atribuir a cada um dos cargos de pessoal especializado previstos no presente decreto-lei mantém-se em vigor o disposto no Decreto Regulamentar n.º 22/91, de 17 de Abril.
+Artigo 18.º
+Norma revogatória
+São revogados os seguintes diplomas:
+a) O Decreto-Lei n.º 133/85, de 2 de Maio;
+b) O Decreto-Lei n.º 142/87, de 23 de Março;
+c) O Decreto-Lei n.º 146/89, de 6 de Maio;
+d) O Decreto-Lei n.º 146/2001, de 2 de Maio;
+e) O Decreto-Lei n.º 29/2004, de 6 de Fevereiro.
+Artigo 19.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 23 de Setembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos.
+Promulgado em 15 de Novembro de 2010.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendado em 18 de Novembro de 2010.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
