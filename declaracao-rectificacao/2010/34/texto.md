@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 34/2010
+Ao abrigo da alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que a Portaria n.º 1099/2010, de 22 de Outubro, publicada no Diário da República, 1.ª série, n.º 206, de 22 de Outubro de 2010, saiu com a seguinte inexactidão, que, mediante declaração da entidade emitente, assim se rectifica:
+No artigo 3.º, onde se lê «[...] os critérios de proporcionalidade de acesso dos caçadores à zona de caça municipal de Canelas - Espiunca (processo n.º 4639-AFN) passam a ser [...]» deve ler-se «[...] os critérios de proporcionalidade de acesso dos caçadores à sona de caça municipal de Canelas - Espiunca (processo n.º 5596-AFN) passam a ser [...]».
+Centro Jurídico, 29 de Novembro de 2010. - A Directora, Susana de Meneses Brasil de Brito.
