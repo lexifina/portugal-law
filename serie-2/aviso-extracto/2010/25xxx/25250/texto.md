@@ -1,0 +1,8 @@
+Aviso (extracto) n.º 25250/2010
+Fernando Rui Linhares Corvêlo de Sousa, Presidente da Câmara Municipal de Tomar,
+Faz público, que nos termos do artigo 22.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 177/01, de 4 de Junho, se procede à discussão pública relativa à licença de operação de loteamento que incide sobre os núcleos 3 e 6 do Plano de Pormenor das Avessadas, sito em Gorduchas, freguesia de Santa Maria dos Olivais, a que respeita o processo n.º 391/2006, em nome da firma Conzel - Construções do Zêzere, Lda.; Eduardo da Conceição Rosa Ferreira Leite; José Manuel Rosa Ferreira; António José Rosa Ferreira Leite; Alexandre da Costa Gomes Agostinho e Albertino da Costa Gomes Agostinho, pelo que no prazo de 15 dias úteis desde a data da publicação deste aviso no Diário da República, 2.ª série, poderão os interessados apresentar, por escrito e devidamente fundamentadas e documentadas, quaisquer reclamações ou sugestões que se julguem com direito.
+O respectivo processo encontra-se disponível, para consulta, na Divisão de Gestão Urbanística da Cidade, na Av. Marquês de Tomar - Edifício Escavação, freguesia de S. João Baptista, deste concelho, no horário normal de atendimento.
+Não serão consideradas as reclamações, observações ou sugestões apresentadas fora do prazo estabelecido.
+Para constar e para os devidos efeitos é publicado o presente aviso e outro de igual teor, num jornal de âmbito local, assim como afixado nos locais do costume.
+Paços do Município de Tomar, 21 de Setembro de 2010. - O Presidente da Câmara, Fernando Rui Linhares Corvêlo de Sousa.
+303881394
