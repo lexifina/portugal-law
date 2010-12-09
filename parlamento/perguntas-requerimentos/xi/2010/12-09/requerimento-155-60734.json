@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "60734",
+  "tipo": "Requerimento",
+  "numero": "155",
+  "data_registo": "2010-12-09",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Equipa de Turismo de Portugal em São Paulo",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "77",
+        "nome": "José Cesário"
+      }
+    ],
+    "DataEnvio": "2010-12-10",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2010-12-10",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  ECONOMIA, DA INOVAÇÃO E DO DESENVOLVIMENTO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2011-01-25",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  ECONOMIA, DA INOVAÇÃO E DO DESENVOLVIMENTO",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764e6a646d596a6b314e3251744d6a4e684e433030593245344c57497a4f4749745a4459785a5459774f5455335a6d55354c6e426b5a673d3d&fich=67fb957d-23a4-4ca8-b38b-d61e60957fe9.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2010-12-09",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764d7a56694d544d785a4467745954526d4d5330304e6a42684c5745304d7a67745a6a41354e47497a4e7a63794e4759314c6e426b5a673d3d&fich=35b131d8-a4f1-460a-a438-f094b37724f5.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "60734",
+    "Legislatura": "XI",
+    "Nr": "155",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "536173",
+        "obs": null,
+        "pag": [
+          "9-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010",
+        "pubLeg": "XI",
+        "pubNr": "63",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/063/2010-12-14/9?pgs=9&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
