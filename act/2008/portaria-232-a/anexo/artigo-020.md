@@ -16,7 +16,7 @@ e) Elaborar um relatório anual de actividades, de acordo com minuta estabelecid
 
 f) Proceder, anualmente, até 31 de Dezembro, à identificação do efectivo pecuário que utiliza o baldio ou equiparado;
 
-g) Fazer uma gestão sustentável das pastagens, garantindo a manutenção do encabeçamento total compreendido entre 0,100 CN/ha e 0,700 CN/ha de superfície forrageira;
+g) Fazer uma gestão sustentável das pastagens, garantindo a manutenção do encabeçamento total compreendido entre 0,1 CN/ha e 0,7 CN/ha de superfície forrageira;
 
 h) Assegurar que o efectivo de equídeos, expresso em CN, seja inferior ou igual a 20 % do efectivo pecuário total que utiliza o baldio.
 
@@ -24,6 +24,6 @@ h) Assegurar que o efectivo de equídeos, expresso em CN, seja inferior ou igual
 
 a) O plano de percurso constante do plano de gestão de baldio;
 
-b) Acompanhar os rebanhos, com pastor, com um máximo de 100,000 CN de bovinos ou 75,000 CN de pequenos ruminantes e um mínimo de 50,000 CN de bovinos ou 22,500 CN de pequenos ruminantes.
+b) Acompanhar os rebanhos ou manadas, com pastor, com um máximo de 100 CN de bovinos ou 75 CN de pequenos ruminantes e um mínimo de 50 CN de bovinos ou 22,5 CN de pequenos ruminantes.
 
 3 - O disposto nos números anteriores do presente artigo produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.

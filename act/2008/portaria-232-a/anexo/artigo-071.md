@@ -6,11 +6,11 @@
 
 a) Manter os critérios de elegibilidade;
 
-b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio ou pastagens permanentes;
+b) Manter a superfície agrícola livre de infestantes arbustivas e conduzida de acordo com as boas práticas indicadas pela ELA;
 
 c) Manter as árvores, muros de pedra posta e outros elementos patrimoniais importantes para a paisagem e ainda as sebes arbustivas ou arbóreas de espécies autóctones entre as parcelas ou nas suas extremas, não as tratando com herbicidas;
 
-d) Manter os pontos de água acessíveis à fauna, no período de Verão;
+d) Manter os pontos de água acessíveis à fauna;
 
 e) Manter a vegetação arbórea e arbustiva ao longo das linhas de água, sem prejuízo das limpezas e regularizações necessárias ao adequado escoamento;
 
@@ -30,13 +30,15 @@ d) Efectuar as mobilizações segundo as curvas de nível, nas parcelas com IQFP
 
 e) Fazer no máximo uma mobilização anual e sem reviramento de solo, excepto se autorizada pela ELA;
 
-f) Deixar faixas não mondadas de largura nunca superior a 8 m e com superfície nunca inferior a 5 % da área total de cada parcela, nas parcelas sujeitas a monda química;
+f) Deixar faixas não mondadas de largura nunca superior a 12 m e com superfície nunca inferior a 5 % da área total de cada parcela, nas parcelas sujeitas a monda química;
 
-g) Semear e acompanhar até ao fim do seu ciclo as culturas para consumo da fauna bravia, por cada 50 ha, 1 ha das culturas, em folhas não contíguas de dimensão inferior a 0,50 ha e de acordo com as orientações da ELA, nas unidades de produção com mais de 50 ha;
+g) Semear e acompanhar até ao fim do seu ciclo, as culturas para consumo da fauna bravia, por cada 50 ha, 1 ha das culturas, em folhas não contíguas de dimensão inferior ou igual a 1 ha e de acordo com as orientações da ELA, nas unidades de produção com mais de 50 ha;
 
 h) Garantir a existência de um ponto de água acessível em cada 100 ha, no período crítico seco;
 
 i) Não construir cercas, nem efectuar a instalação de bosquetes, sem parecer prévio da ELA.
+
+j) Nas culturas anuais, manter faixas de solo não mobilizado, com largura não inferior a 5 m, orientadas em curva de nível e espaçadas por distância não superior a 20 m, se o IQFP for igual a 3 e a dimensão da parcela for maior que 1,50 ha, devendo a contagem das distâncias iniciar-se no ponto mais alto da parcela.
 
 3 - Sem prejuízo do disposto nos números anteriores, os beneficiários podem assumir, nas áreas de compromisso previstas no n.º 2, o compromisso complementar de utilizar técnicas de sementeira directa ou mobilização na linha de forma continuada durante o período de compromisso, beneficiando nesse caso de um apoio adicional.
 

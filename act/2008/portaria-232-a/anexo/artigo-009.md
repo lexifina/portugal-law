@@ -12,8 +12,10 @@ c) Citrinos;
 
 d) Matos mediterrânicos, também designados «mortórios».
 
+e) Pomares de cerejeiras.
+
 2 - Para efeitos do número anterior, as parcelas identificadas no âmbito do SIP interceptadas pelo limite da área geográfica de aplicação são integralmente elegíveis se tiverem uma área inferior ou igual a 3 ha.
 
-3 - Para efeitos da alínea a) do n.º 1, são elegíveis as parcelas de vinha com uma densidade mínima de 3000 cepas por hectare ou em sistema pré-filoxérico, devendo este ser atestado pela estrutura local de apoio (ELA).
+3 - (Revogado.)
 
-4 - Sem prejuízo do disposto no n.º 1, os candidatos devem declarar toda a superfície agrícola e agro-florestal da unidade de produção e candidatar a área elegível relativamente à qual assegurem a titularidade durante o período do compromisso.
+4 - Sem prejuízo do disposto no n.º 1, os candidatos devem declarar toda a superfície agrícola e agro-florestal da unidade de produção e candidatar a totalidade da área elegível relativamente à qual assegurem a titularidade durante o período do compromisso.

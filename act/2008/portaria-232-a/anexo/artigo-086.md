@@ -14,8 +14,12 @@
 
 a) Sujeição de parte da unidade de produção a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de Outubro, e 103/90, de 22 de Março, ou expropriação;
 
-b) Catástrofe natural grave que afecte parte significativa da superfície agrícola da unidade de produção, destruição parcial das instalações pecuárias não imputável ao beneficiário e epizootia que afecte parte dos efectivos.
+b) Catástrofe natural grave, acidente meteorológico grave ou incêndio, que afecte parte significativa da superfície agrícola da unidade de produção;
 
-4 - Os beneficiários devem, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, proceder à alteração do pedido de apoio no caso de redução de área objecto de apoio, o que determina a devolução dos apoios recebidos indevidamente.
+c) Destruição parcial de instalações pecuárias não imputável ao beneficiário;
+
+d) Epizootia que afecte parte do efectivo ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem da incúria do beneficiário.
+
+4 - Os beneficiários devem, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, proceder à alteração do pedido de apoio no caso de redução da área objecto de apoio, quando esta não exceda 20 % relativamente à área sujeita a compromissos no primeiro ano do apoio, o que determina a devolução dos apoios recebidos indevidamente.
 
 5 - Para feitos do número anterior, o montante a que o beneficiário tem direito resulta da aplicação, por tipo de apoio, ao montante de cada anuidade anteriormente paga, do quociente entre as áreas determinadas, nesse ano e em cada um dos anos anteriores, devendo devolver a diferença relativamente ao montante que anteriormente lhe foi pago.

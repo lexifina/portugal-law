@@ -6,11 +6,11 @@
 
 a) Manter os critérios de elegibilidade;
 
-b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio ou pastagens permanentes;
+b) Manter a superfície agrícola livre de infestantes arbustivas e conduzida de acordo com as boas práticas indicadas pela ELA;
 
 c) Manter as árvores, muros de pedra posta e outros elementos patrimoniais importantes para a paisagem e ainda as sebes arbustivas ou arbóreas de espécies autóctones entre as parcelas ou nas suas extremas, não as tratando com herbicidas;
 
-d) Manter os pontos de água acessíveis à fauna, no período de Verão;
+d) Manter os pontos de água acessíveis à fauna;
 
 e) Manter a vegetação arbórea e arbustiva ao longo das linhas de água, sem prejuízo das limpezas e regularizações necessárias ao adequado escoamento;
 
@@ -34,9 +34,9 @@ b) Manter em bom funcionamento o sistema de rega tradicional.
 
 4 - Para além do disposto no n.º 1, os beneficiários, para toda a área objecto do apoio designado «Manutenção de pastagens permanentes com alto valor natural», são obrigados a cumprir o seguinte:
 
-a) Manter em boas condições de produção as áreas de pastagens;
+a) Manter em boas condições de produção as áreas de pastagens, de acordo com as boas práticas indicadas pela ELA;
 
-b) Manter um pastoreio adequado à capacidade de suporte forrageiro;
+b) (Revogada.)
 
 c) Fazer a limpeza e manutenção das pastagens de acordo com normativo produzido pela ELA;
 

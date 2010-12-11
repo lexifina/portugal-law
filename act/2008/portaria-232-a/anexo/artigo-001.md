@@ -32,7 +32,7 @@ ii) Componente silvo-ambiental - unidades de produção;
 
 iii) Componente silvo-ambiental - baldios;
 
-d) 2.4.6, «Intervenção territorial integrada Douro Internacional»:
+d) 2.4.6, «Intervenção territorial integrada Douro Internacional, Sabor, Maçãs e Vale do Côa»:
 
 i) Componente agro-ambiental - unidades de produção;
 
@@ -60,6 +60,10 @@ i) Componente agro-ambiental - unidades de produção;
 
 ii) Componente silvo-ambiental - unidades de produção;
 
+iii) Componente agro-ambiental - baldios;
+
+iv) Componente silvo-ambiental - baldios;
+
 h) 2.4.10, «Intervenção territorial integrada Castro Verde»:
 
 i) Componente agro-ambiental - unidades de produção;
@@ -72,4 +76,14 @@ i) Componente agro-ambiental - unidades de produção;
 
 ii) Componente silvo-ambiental - unidades de produção.
 
-Artigo
+j) 2.4.12, «Intervenção territorial integrada de Monchique e Caldeirão»:
+
+i) Componente agro-ambiental - unidades de produção;
+
+ii) Componente silvo-ambiental - unidades de produção;
+
+l) 2.4.13, «Intervenção territorial integrada de zonas de Rede Natura do Alentejo»:
+
+i) Componente agro-ambiental - unidades de produção;
+
+ii) Componente silvo-ambiental - unidades de produção.

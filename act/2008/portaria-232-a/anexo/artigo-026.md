@@ -12,7 +12,7 @@ a) Explorem uma superfície agrícola ou agro-florestal, que não exclusivamente
 
 b) Tenham, na unidade de produção, um encabeçamento de animais em pastoreio inferior ou igual ou 2,000 CN/ha de superfície forrageira;
 
-c) Candidatem, caso exista, a área de rotação de sequeiro que inclua um cereal praganoso em parcelas com IQFP menor ou igual a dois e com uma densidade máxima de 60 árvores/ha;
+c) Candidatem, caso exista, a área de rotação de sequeiro que inclua um cereal praganoso em parcelas com IQFP menor ou igual a 3 e com uma densidade máxima de 60 árvores por hectare;
 
 d) Candidatem, caso exista, a área de pastagem permanente com alto valor natural, quando superior ou igual a 0,10 ha.
 
@@ -28,6 +28,6 @@ e) Candidatem, caso exista, a área de castanheiros com um mínimo de cinco árv
 
 6 - Para efeitos da alínea a) do n.º 1, as parcelas identificadas no âmbito do SIP interceptadas pelo limite da área geográfica de aplicação são integralmente elegíveis se tiverem uma área inferior ou igual a 3 ha.
 
-7 - Sem prejuízo do disposto no n.º 1, os candidatos devem declarar toda a superfície agrícola e agro-florestal da unidade de produção e candidatar a área elegível relativamente à qual assegurem a titularidade durante o período do compromisso.
+7 - Sem prejuízo do disposto no n.º 1, os candidatos devem declarar toda a superfície agrícola e agro-florestal da unidade de produção e candidatar a totalidade da área elegível relativamente à qual assegurem a titularidade durante o período do compromisso.
 
 8 - Para efeitos do apoio previsto no n.º 2, considera-se área elegível a superfície agrícola e agro-florestal da unidade de produção, com excepção do espaço agro-florestal não arborizado com aproveitamento forrageiro.

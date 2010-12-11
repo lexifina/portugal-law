@@ -12,8 +12,8 @@ a) Possuam uma superfície forrageira, em parcelas agrícolas ou agro-florestais
 
 b) Declarem toda a superfície forrageira, em parcelas agrícolas ou agro-florestais, do baldio;
 
-c) Apresentem, no acto do pedido de apoio, um plano de gestão plurianual para a superfície candidata aprovado pela assembleia de compartes e validado pela ELA, de acordo com o modelo disponibilizado pela autoridade de gestão.
+c) Apresentem no pedido de apoio um PGP, para a superfície candidata, aprovado pela assembleia de compartes e pela ELA, conforme modelo disponibilizado pela autoridade de gestão em www.proder.pt.
 
 2 - Para efeitos do número anterior, é elegível a totalidade da superfície forrageira, desde que pelo menos 80 % se encontre na área geográfica de aplicação.
 
-3 - O plano de gestão referido na alínea c) do n.º 1 pode ser revisto, devendo a sua alteração ser aprovada pela assembleia de compartes, validada pela ELA e apresentada aquando da apresentação do pedido de pagamento subsequente.
+3 - O PGP deve ser mantido actualizado, sendo as respectivas alterações aprovadas pela ELA e apresentadas com o pedido de pagamento subsequente.

@@ -12,8 +12,8 @@ c) (euro) 25 - superior a 500 ha.
 
 2 - Os montantes dos apoios referidos no número anterior são majorados em 20 % para os beneficiários que assumam os compromissos do n.º 2 do artigo anterior.
 
-3 - A majoração referida no número anterior é calculada com base nas CN em pastoreio de percurso na relação 0,3 CN - 1 ha, sendo paga até ao limite da área candidata ao apoio 'Gestão do pastoreio em áreas de baldio'.
+3 - A majoração referida no número anterior é calculada com base nas CN em pastoreio de percurso na relação 0,3 CN-1 ha, sendo paga até ao limite da área candidata ao apoio «Gestão do pastoreio em áreas de baldio».
 
 4 - A área mínima objecto de pagamento nos termos do n.º 2 é a área em pastoreio de percurso.
 
-5 - Os apoios são calculados pela aplicação sucessiva dos escalões identificados no n.º 1 à área elegível ao apoio.
+5 - O cálculo do valor total de cada apoio faz-se pela aplicação sucessiva dos respectivos escalões, previstos no n.º 1, à área elegível.

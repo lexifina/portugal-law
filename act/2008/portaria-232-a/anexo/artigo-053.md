@@ -20,21 +20,23 @@ e) Elaborar um relatório anual de actividades, de acordo com minuta estabelecid
 
 a) No caso do apoio designado «Conservação e recuperação da diversidade interespecífica nos povoamentos florestais»:
 
-i) Preservar os exemplares adultos das espécies alvo e proteger a respectiva regeneração natural;
+i) Preservar os exemplares adultos das espécies alvos e proteger a respectiva regeneração natural, através da instalação de cercas ou protectores individuais;
 
-ii) Promover o aumento das espécies arbóreas e arbustivas que favorecem a sucessão ecológica alvo, com material de base e técnicas de plantação a indicar pela ELA;
+ii) Promover o aumento das espécies arbóreas e arbustivas alvo, através de adensamento sempre que necessário e de acordo com as indicações da ELA;
 
 iii) Não efectuar cortes da espécie alvo, excepto quando os exemplares estiverem afectados sanitariamente ou tendo em vista a condução de manchas de regeneração natural, a validar pela ELA;
 
-iv) Estilhaçar todo o material cortado, sem valor comercial, com origem nas diferentes intervenções e espalhar a estilha no local, com excepção do material resultante das invasoras lenhosas ou do afectado sanitariamente, que deve ser removido da área;
+iv) (Revogada.)
 
 v) Controlar, em áreas sujeitas a pastoreio, o acesso de animais a zonas de regeneração natural ou recentemente plantadas através da colocação de cercas temporárias e protecções individuais;
 
-vi) Definir e delimitar áreas de passagem de pessoas ou gado, impedindo o acesso às áreas a proteger;
+vi) (Revogada.)
+
+vii) Eliminar as espécies invasoras lenhosas e alóctones, promovendo a sua erradicação, conforme definido no PIP e com devido acompanhamento por parte da ELA;
 
 b) No caso do apoio designado «Requalificação de matagais estremes de baixo valor de conservação»:
 
-i) Desmatar anualmente pelo menos 20 % da área candidatada até um limite a indicar pela ELA e semear, com uma consociação de leguminosas e gramíneas, um quarto dessa área desde que o IQFP seja inferior ou a dois;
+i) Desmatar anualmente pelo menos 20 % da área candidata até um limite a indicar pela ELA e, caso o IQFP seja inferior ou igual a 2, semear, com uma consociação de leguminosas e gramíneas, um quarto dessa área;
 
 ii) Preservar os exemplares e a regeneração natural de espécies arbóreas e arbustivas autóctones;
 
@@ -42,56 +44,74 @@ iii) Só pastorear a área a partir de 15 de Julho de cada ano, respeitando as i
 
 c) No caso do apoio designado «Manutenção de maciços, bosquetes ou núcleos de espécies arbóreas ou arbustivas autóctones e de exemplares e formações reliquiais ou notáveis»:
 
-i) Efectuar os cortes selectivos de arvoredo necessários à manutenção de exemplares de maiores dimensões, no caso da presença de exemplares de dimensões notáveis;
+i) Efectuar os cortes selectivos de arvoredo, mantendo os exemplares de maiores dimensões, imprescindíveis à manutenção dos exemplares reliquiais ou notáveis, indicados pela ELA;
 
-ii) Preservar os exemplares ou formações adultos e proteger a regeneração natural das espécies alvo, nos restantes casos;
+ii) Preservar os exemplares ou formações adultos e proteger a regeneração natural das espécies alvo, nos restantes casos através da instalação de cercas ou protectores individuais;
 
 iii) Criar faixas ou manchas de descontinuidade de dimensão e configuração a definir no plano de intervenção com vista à diminuição do risco de incêndio;
 
-iv) Promover o aumento das espécies arbóreas e arbustivas que favorecem a sucessão ecológica alvo, com material de base e técnicas de plantação a indicar pela ELA;
+iv) Promover o aumento das espécies arbóreas e arbustivas alvo, através de adensamento sempre que necessário e de acordo com as indicações da ELA;
 
-v) Respeitar a zona tampão de defesa e as práticas definidas para a mesma para evitar a poluição ou deriva genética através da hibridação;
+v) (Revogada.)
 
 vi) Controlar, em áreas sujeitas a pastoreio, o acesso de animais a zonas de regeneração natural, através da colocação de cercas temporárias e protecções individuais e interditá-lo em áreas com exemplares e formações reliquiais;
 
-vii) Condicionar as intervenções silvícolas, de forma a assegurar a tranquilidade da avifauna nos períodos de reprodução e de dormitório, respeitando as orientações da ELA;
+vii) Não realizar intervenções silvícolas nos períodos de reprodução e dormitório da avifauna, de acordo com as orientações estabelecidas pelo ICNB;
 
-viii) Conduzir a regeneração natural através de podas de formação adequadas;
+viii) Conduzir a regeneração natural através de podas de formação;
 
 ix) Não efectuar cortes da espécie alvo, excepto quando os exemplares estiverem afectados sanitariamente ou tendo em vista a condução de manchas de regeneração natural, a validar pela ELA;
 
-x) Estilhaçar todo o material cortado, sem valor comercial, com origem nas diferentes intervenções e espalhar a estilha no local, com excepção do material resultante das invasoras lenhosas ou do afectado sanitariamente, que deve ser removido da área;
+x) (Revogada.)
+
+xi) Eliminar as espécies invasoras lenhosas e alóctones, promovendo a sua erradicação, conforme definido no PIP e com devido acompanhamento por parte da ELA;
 
 d) No caso do apoio designado «Manutenção de galerias ripícolas»:
 
-i) Promover o aumento das espécies que favorecem a sucessão ecológica alvo, com material de base e técnicas de plantação a indicar pela ELA;
+i) (Revogada.)
 
-ii) Efectuar apenas mobilizações de solo localizadas;
+ii) Efectuar apenas mobilizações de solo localizadas e realizadas manualmente;
 
-iii) Promover a condução do sobcoberto, impedindo a evolução dos matos para matagais e silvados;
+iii) Promover a condução do sobcoberto, impedindo a evolução dos silvados;
 
-iv) Promover a recuperação das margens da linha de água, com introdução de paliçadas e posterior colonização com vegetação autóctone, limitando o acesso aos troços recuperados com cercas temporárias;
+iv) Promover a recuperação das margens da linha de água, com introdução de paliçadas e posterior colonização com vegetação autóctone, sempre que identificado como necessário pela ELA, limitando o acesso aos troços recuperados com cercas temporárias;
 
-v) Estilhaçar todo o material cortado, sem valor comercial, com origem nas diferentes intervenções e espalhar a estilha no local, com excepção do material resultante das invasoras lenhosas ou do afectado sanitariamente, que deve ser removido da área;
+v) (Revogada.)
 
-vi) Definir e delimitar áreas de passagem de pessoas ou gado, impedindo o acesso às áreas a proteger;
+vi) (Revogada.)
 
-vii) Não proceder, na faixa ocupada pela galeria ripícola, ao cultivo ou aplicação de herbicidas numa largura mínima de 10 m a partir da linha de água;
+vii) Não proceder à instalação ou manutenção de culturas agrícolas ou aplicação de herbicidas, numa largura mínima de 10 m a partir da linha de água;
+
+viii) Eliminar as espécies invasoras lenhosas e alóctones, promovendo a sua erradicação, conforme definido no PIP e com devido acompanhamento por parte da ELA;
 
 e) No caso do apoio designado «Conservação da rede de corredores ecológicos»:
 
-i) Cortar as espécies invasoras lenhosas e alóctones, promovendo a sua erradicação, conforme definição no plano de intervenção e acompanhamento pela ELA;
+i) Eliminar as espécies invasoras lenhosas e alóctones, promovendo a sua erradicação, conforme definido no PIP e com devido acompanhamento por parte da ELA;
 
-ii) Preservar os exemplares adultos das espécies alvo e proteger a respectiva regeneração natural;
+ii) Preservar os exemplares adultos das espécies alvo e proteger a respectiva regeneração natural através da instalação de cercas ou protectores individuais;
 
-iii) Promover o aumento das espécies arbóreas e arbustivas que favorecem a sucessão ecológica alvo, com material de base e técnicas de plantação a indicar pela ELA;
+iii) Promover o aumento das espécies arbóreas e arbustivas alvo, através de adensamento sempre que necessário e de acordo com as indicações da ELA;
 
 iv) Não efectuar os cortes da espécie alvo, excepto quando os exemplares estiverem afectados sanitariamente ou tendo em vista a condução de manchas de regeneração natural, a validar pela ELA;
 
-v) Estilhaçar todo o material cortado, sem valor comercial, com origem nas diferentes intervenções e espalhar a estilha no local, com excepção do material resultante das invasoras lenhosas ou do afectado sanitariamente, que deve ser removido da área;
+v) (Revogada.)
 
-vi) Controlar, em áreas sujeitas a pastoreio, o acesso de animais a zonas de regeneração natural ou recentemente plantadas através da colocação de cercas temporárias e protecções individuais;
+vi) Controlar, em áreas sujeitas a pastoreio, o acesso de animais a zonas de regeneração natural através da colocação de cercas temporárias e protecções individuais e interditá-lo em áreas com exemplares e formações reliquiais;
 
-vii) Definir e delimitar áreas de passagem de pessoas ou gado, impedindo o acesso às áreas a proteger.
+vii) (Revogada.)
+
+f) No caso do apoio designado «Renaturalização de manchas florestais»:
+
+i) Proteger a regeneração natural das espécies alvo, através da instalação de cercas ou protectores individuais de acordo com as orientações previamente estabelecidas pelo ELA;
+
+ii) Conduzir a regeneração natural através de podas de formação;
+
+iii) Promover o aumento das espécies arbóreas e arbustivas alvo, através de adensamento sempre que necessário e de acordo com as indicações da ELA;
+
+iv) Não efectuar cortes das espécies alvo, excepto quando os exemplares estiverem afectados sanitariamente ou tendo em vista a condução de manchas de regeneração natural, a validar pela ELA;
+
+v) Em áreas sujeitas a pastoreio, controlar o acesso de animais, nomeadamente a áreas de regeneração natural das espécies alvo, por colocação de cercas temporárias ou protectores individuais;
+
+vi) Eliminar as espécies invasoras lenhosas e alóctones, promovendo a sua erradicação, conforme definido no PIP e com devido acompanhamento por parte da ELA.
 
 4 - O disposto nos números anteriores do presente artigo produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.

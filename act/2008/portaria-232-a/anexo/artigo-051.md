@@ -4,9 +4,9 @@
 
 1 - Os montantes, por hectare de superfície forrageira e por ano, do apoio previsto nesta subsecção, designada «Gestão do pastoreio em áreas de baldio», são os seguintes:
 
-a) (euro) 80 - até 100 ha;
+a) (euro) 95 - até 100 ha;
 
-b) (euro) 50 - superior a 100 ha até 500 ha;
+b) (euro) 50 - superior a 100 ha e até 500 ha;
 
 c) (euro) 25 - superior a 500 ha.
 
@@ -16,4 +16,4 @@ c) (euro) 25 - superior a 500 ha.
 
 4 - A área mínima objecto de pagamento nos termos do n.º 2 é a área em pastoreio de percurso.
 
-5 - Os apoios são calculados pela aplicação sucessiva dos escalões identificados no n.º 1 à área elegível ao apoio.
+5 - O cálculo do valor total de cada apoio faz-se pela aplicação sucessiva dos respectivos escalões, previstos no n.º 1, à área elegível.

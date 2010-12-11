@@ -6,9 +6,9 @@
 
 ### Acumulação dos apoios
 
-1 - Os apoios a conceder previstos no presente Regulamento quando respeitem à mesma parcela agrícola ou agro-florestal são cumuláveis.
+1 - Os apoios a conceder previstos no presente Regulamento, quando respeitem à mesma parcela agrícola, florestal ou agro-florestal, são cumuláveis nos termos e situações indicadas no anexo vi.
 
-2 - Os apoios a conceder no âmbito do presente Regulamento são cumuláveis com os apoios a conceder no âmbito do regulamento de aplicação da acção «Alteração dos modos de produção agrícola», com excepção do apoio adicional à utilização de técnicas de sementeira directa ou mobilização na linha.
+2 - Os apoios a conceder no âmbito do presente Regulamento são cumuláveis com os apoios a conceder no âmbito dos regulamentos de aplicação das acções indicadas no anexo vii.
 
 3 - Para efeitos do n.º 1, o montante total de pagamento corresponde à soma dos montantes de cada apoio.
 
@@ -23,3 +23,5 @@ a) (euro) 900/ha no caso de culturas permanentes;
 b) (euro) 600/ha no caso de culturas temporárias;
 
 c) (euro) 450/ha no caso de pastagens permanentes, espaço agro-florestal não arborizado com aproveitamento forrageiro e superfícies florestais.
+
+7 - Os apoios a conceder previstos no presente Regulamento, quando respeitem a uma mesma parcela florestal, não podem ultrapassar o limite anual de (euro) 200 por hectare.

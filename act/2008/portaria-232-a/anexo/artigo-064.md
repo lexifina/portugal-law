@@ -6,11 +6,11 @@
 
 a) Manter os critérios de elegibilidade;
 
-b) Manter a superfície agrícola e agro-florestal em boas condições de produção e livre de infestantes arbustivas, que não devem ocupar mais de 5 % da superfície da parcela ocupada com culturas temporárias, pousio ou pastagens permanentes, com excepção das parcelas candidatas ao apoio designado 'Gestão do pastoreio em formações arbustivas mediterrânicas';
+b) Manter a superfície agrícola livre de infestantes arbustivas e conduzida de acordo com as boas práticas indicadas pela ELA, com excepção das parcelas candidatas ao apoio designado «Gestão do pastoreio em formações arbustivas mediterrânicas»;
 
 c) Manter as árvores, muros de pedra posta e outros elementos patrimoniais importantes para a paisagem e ainda as sebes arbustivas ou arbóreas de espécies autóctones entre as parcelas ou nas suas extremas, não as tratando com herbicidas;
 
-d) Manter os pontos de água acessíveis à fauna, no período de Verão;
+d) Manter os pontos de água acessíveis à fauna;
 
 e) Manter a vegetação arbórea e arbustiva ao longo das linhas de água, sem prejuízo das limpezas e regularizações necessárias ao adequado escoamento;
 
@@ -18,13 +18,13 @@ f) Utilizar apenas os produtos fitofarmacêuticos aconselhados para a protecçã
 
 g) Não efectuar queimadas;
 
-h) Caso exista amendoal ou olival, realizar podas regulares;
+h) (Revogada.)
 
-i) Caso exista amendoal ou olival, não efectuar mobilizações do solo com charrua, grade de discos ou alfaia rotativa.
+i) (Revogada.)
 
-2 - Para além do disposto no número anterior e para toda a área objecto do apoio designado «Ajuda à conservação da estrutura ecológica de base», os beneficiários devem ainda comprometer-se nas culturas permanentes instaladas, não efectuar mobilizações do solo com reviramento de leiva em parcelas com IQFP maior que dois, excepto em parcelas armadas em socalcos ou terraços ou em várzeas.
+2 - Para além do disposto no número anterior e para toda a área objecto do apoio designado «Ajuda à conservação da estrutura ecológica de base», os beneficiários devem ainda comprometer-se nas culturas permanentes instaladas, não efectuar mobilizações do solo com reviramento de leiva em parcelas com IQFP maior que 2, excepto em parcelas armadas em socalcos ou terraços ou em várzeas.
 
-3 - Para além do disposto no n.º 1, os beneficiários, quando tenham acesso ao apoio designado 'Gestão do pastoreio em formações arbustivas mediterrânicas', são obrigados a cumprir o seguinte:
+3 - Para além do disposto no n.º 1, os beneficiários, quando tenham acesso ao apoio designado «Gestão do pastoreio em formações arbustivas mediterrânicas», são obrigados a cumprir o seguinte:
 
 a) Cumprir o plano de gestão e registar as operações realizadas no anexo específico que o integra;
 

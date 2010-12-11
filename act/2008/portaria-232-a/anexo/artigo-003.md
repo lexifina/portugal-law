@@ -48,12 +48,22 @@ v) «Pastagem permanente de alto valor natural» a pastagem permanente, dominada
 
 x) «Pastagem permanente de alto valor natural de regadio» a pastagem permanente, dominada por plantas herbáceas espontâneas, que não é obtida através de sementeira de espécies melhoradas servidas por instalações permanentes, fixas ou móveis, ligadas a um sistema de adução de água criado para fins de irrigação, designadamente furo artesiano, poço, barragem, charca, represa ou levada, que assegurem as disponibilidades mínimas de água;
 
-z) «Queimada» o uso do fogo para a renovação das pastagens e eliminação de restolho;
-
-aa) «Socalcos» os cortes, bancos ou aterros horizontais feitos ao longo de encostas para reduzir a erosão, melhorar as colheitas, reter as águas, melhorar a infiltração das chuvas ou preencher qualquer outra função de conservação;
-
-ab) «Superfície forrageira» a terra própria ou de baldio que é utilizada directa ou indirectamente para a alimentação do gado, excepto restolhos de culturas;
+z) «Queimada» o uso do fogo para a renovação das pastagens, eliminação de restolho e eliminação de sobrantes de exploração cortados mas não amontoados;
 
 ac) «Unidade de produção» o conjunto de parcelas agrícolas, agro-florestais ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização;
 
 ad) «Zona tampão» a faixa envolvente da superfície florestal onde ocorrem os exemplares ou comunidades reliquiais, na qual devem ser aplicadas medidas específicas de gestão para garantir e reforçar o objectivo de conservação, nomeadamente para minimizar os efeitos de poluição ou deriva genética.
+
+ae) «Área de protecção aos ninhos de águia-de-bonelli» a área com raio de 100 m a 300 m, tendo por centro o ninho, onde pode existir condicionamento de actividades;
+
+af) «Área de refúgio do lince-ibérico» a área de matagal que possua cumulativamente coberto arbustivo que ocupe mais de 50 % da área, cuja altura seja superior a 1 m em mais de 50 % da área e com densidade arbórea mínima de 30 árvores por hectare;
+
+ag) «Caderno de registos» o caderno onde são registadas todas as operações realizadas e toda a informação relevante para a atribuição dos apoios agro e silvo-ambientais, previstos no presente Regulamento;
+
+ah) «Estrutura local de apoio (ELA)» a estrutura de natureza técnica com o objectivo de promover a dinamização e aconselhamento técnico das populações alvo da respectiva ITI, constituída por representantes das direcções regionais de agricultura e pescas (DRAP), que presidem e a representam em todos os actos, da Autoridade Florestal Nacional (AFN), do Instituto da Conservação da Natureza e da Biodiversidade (ICNB), de organizações locais representativas de produtores agrícolas e florestais e de organizações não governamentais de ambiente (ONGA);
+
+ai) «Plano de gestão florestal (PGF)» o plano que, de acordo com as orientações definidas no plano regional de ordenamento florestal (PROF), determina, no espaço e no tempo, as intervenções de natureza cultural e de exploração dos recursos, visando a produção sustentada dos bens e serviços por eles proporcionados e tendo em conta as actividades e os usos dos espaços envolventes;
+
+aj) «Plano de intervenção plurianual (PIP)» o plano a adoptar para as unidades de produção que contém a descrição de áreas a candidatar, a identificação dos valores a preservar, incluindo a sua delimitação geográfica e o conjunto de práticas de gestão a adoptar para preservação dos mesmos, devendo estar de acordo com o PGF quando este exista;
+
+al) «Plano de gestão plurianual (PGP)» o plano a adoptar para os baldios que contém a descrição de áreas a candidatar, a identificação dos valores a preservar, incluindo a sua delimitação geográfica, e o conjunto de práticas de gestão a adoptar para preservação dos mesmos, devendo estar de acordo com o PGF quando este exista.

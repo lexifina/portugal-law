@@ -6,18 +6,20 @@
 
 a) Apoio designado «Ajuda à conservação da estrutura ecológica de base»:
 
-i) (euro) 280 - até 2 ha;
+i) (euro) 320 - até 2 ha;
 
-ii) (euro) 80 - superior a 2 ha e até 10 ha;
+ii) (euro) 120 - superior a 2 ha e até 10 ha;
 
 b) Apoio designado «Gestão do pastoreio em formações arbustivas mediterrânicas»:
 
-i) (euro) 100 - até 10 ha.
+i) (euro) 120 - até 20 ha;
 
-ii) (euro) 50 - superior a 10 ha e até 50 ha;
+ii) (euro) 70 - superior a 20 ha e até 100 ha;
 
-iii) (euro) 25 - superior a 50 ha.
+iii) (euro) 30 - superior a 100 ha e até 200 ha;
+
+iv) (euro) 10 - superior a 200 ha.
 
 2 - Os apoios são concedidos à totalidade da área elegível sujeita aos limites máximos previstos no número anterior.
 
-3 - Nos casos em que existe modulação, o cálculo do valor total de cada apoio faz-se pela aplicação sucessiva dos respectivos escalões previstos nos n.os 1 e 2 à área elegível.
+3 - O cálculo do valor total de cada apoio faz-se pela aplicação sucessiva dos respectivos escalões, previstos no n.º 1, à área elegível.

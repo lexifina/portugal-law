@@ -28,6 +28,6 @@ f) Candidatem, caso exista, a área de pastagem permanente com alto valor natura
 
 5 - Para efeitos da alínea a) do n.º 1, as parcelas identificadas no âmbito do SIP interceptadas pelo limite da área geográfica de aplicação são integralmente elegíveis se tiverem uma área inferior ou igual a 3 ha.
 
-6 - Sem prejuízo do disposto no n.º 1, os candidatos devem declarar toda a superfície agrícola e agro-florestal da unidade de produção e candidatar a área elegível, relativamente à qual assegurem a titularidade durante o período do compromisso.
+6 - Sem prejuízo do disposto no n.º 1, os candidatos devem declarar toda a superfície agrícola e agro-florestal da unidade de produção e candidatar a totalidade da área elegível relativamente à qual assegurem a titularidade durante o período do compromisso.
 
 7 - Para efeitos do previsto no n.º 2, considera-se área elegível a superfície agrícola e agro-florestal da unidade de produção, com excepção do espaço agro-florestal não arborizado com aproveitamento forrageiro.

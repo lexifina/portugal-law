@@ -4,15 +4,15 @@
 
 1 - Os montantes, por hectare e por ano, dos apoios previstos nesta subsecção são os seguintes:
 
-a) Apoio designado «Ajuda à conservação da estrutura ecológica de base» - (euro) 250 até 10 ha;
+a) Apoio designado «Ajuda à conservação da estrutura ecológica de base», (euro) 300 - até 10 ha;
 
 b) Apoio designado «Manutenção da rotação de sequeiro cereal - Pousio»:
 
-i) (euro) 80 - até 100 ha;
+i) (euro) 95 - até 100 ha;
 
-ii) (euro) 45 - superior a 100 ha e até 250 ha;
+ii) (euro) 60 - superior a 100 ha e até 250 ha;
 
-iii) (euro) 20 - superior a 250 ha e até 500 ha;
+iii) (euro) 25 - superior a 250 ha e até 500 ha;
 
 iv) (euro) 10 - superior a 500 ha e até 750 ha.
 
@@ -26,8 +26,6 @@ c) (euro) 37,50 - superior a 100 ha e até 250 ha;
 
 d) (euro) 15 - superior a 250 ha.
 
-3 - As excepções previstas no n.º 5 do artigo anterior implicam a perda do direito ao apoio previstos no número anterior, no ano em que se verifiquem.
+3 - Os apoios são concedidos à totalidade da área elegível sujeita aos limites máximos previstos nos n.os 1 e 2.
 
-4 - Os apoios são concedidos à totalidade da área elegível sujeita aos limites máximos previstos nos n.os 1 e 2.
-
-5 - Nos casos em que existe modulação, o cálculo do valor total de cada apoio faz-se pela aplicação sucessiva dos respectivos escalões previstos nos n.os 1e 2 à área elegível.
+4 - O cálculo do valor total de cada apoio faz-se pela aplicação sucessiva dos respectivos escalões, previstos no n.os 1 e 2, à área elegível.

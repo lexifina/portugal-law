@@ -6,7 +6,7 @@
 
 a) Direcção regional de agricultura e pescas (DRAP), que preside;
 
-b) Direcção-Geral dos Recursos Florestais (DGRF);
+b) Autoridade Florestal Nacional (AFN);
 
 c) Instituto da Conservação da Natureza e Biodiversidade (ICNB);
 

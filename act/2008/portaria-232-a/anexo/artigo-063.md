@@ -10,11 +10,11 @@
 
 a) Explorem uma superfície agrícola ou agro-florestal, que não exclusivamente espaço agro-florestal não arborizado com aproveitamento forrageiro, situada na área geográfica de aplicação, definida no artigo anterior;
 
-b) Tenham, na unidade de produção, um encabeçamento de animais em pastoreio inferior ou igual a 2,000 CN/ha de superfície forrageira e um efectivo pecuário, excepto pequenos ruminantes, inferior ou igual a 5,000 CN;
+b) Tenham, na unidade de produção, um encabeçamento de animais em pastoreio inferior ou igual a 2 CN/ha de superfície forrageira e um efectivo pecuário, excepto pequenos ruminantes, inferior ou igual a 5 CN;
 
 c) Candidatem, caso exista, a área que apresente as seguintes formações, identificadas e cartografadas pela ELA, quando igual ou superior a 0,50 ha:
 
-i) Áreas com formações arbustivas mediterrânicas ou habitats constituídos por: charcos temporários mediterrânicos, matos termomediterrânicos pré-desérticos, medronhais;
+i) Áreas com formações arbustivas mediterrânicas ou habitats constituídos por charcos temporários mediterrânicos, matos termomediterrânicos pré-desérticos e medronhais;
 
 ii) Matagais com Quercus lusitanica;
 
@@ -32,17 +32,17 @@ viii) Arrelvados vivazes neutrobasófilos de gramíneas altas.
 
 2 - Para efeitos da alínea c) do número anterior, a área a candidatar deve estar integrada numa unidade de produção com um encabeçamento de animais em pastoreio inferior ao valor obtido pela aplicação da seguinte fórmula:
 
-(10 x 2,000 CN + (SF - 10) x 0,500 CN)/SF
+(10 x 2 CN + (SF - 10) x 0,5 CN)/SF
 
 quando a superfície forrageira for superior a 10 ha.
 
 3 - Para efeitos de aplicação da fórmula referida no número anterior, entende-se por:
 
-a) CN cabeças normais;
+a) «CN» cabeças normais;
 
-b) SF a superfície forrageira expressa em hectares.
+b) «SF» a superfície forrageira expressa em hectares.
 
-4 - Para efeitos da alínea c) do n.º 1, os candidatos devem apresentar, no acto do pedido de apoio, um plano de gestão específico, aprovado pela ELA, que assegure:
+4 - Para efeitos da alínea c) do n.º 1, os candidatos devem apresentar, no pedido de apoio, um plano de gestão específico, aprovado pela ELA, que assegure:
 
 a) Que o encabeçamento de ovinos ou caprinos em pastoreio, na unidade de produção seja superior ou igual a 0,150 CN/ha de superfície forrageira e adequado à capacidade de suporte do meio, tendo em conta o normativo elaborado pela ELA;
 
@@ -56,8 +56,8 @@ c) Que as limpezas complementares necessárias à preservação dos valores flor
 
 7 - Para efeitos da alínea a) do n.º 1, as parcelas identificadas no âmbito do SIP interceptadas pelo limite da área geográfica de aplicação são integralmente elegíveis se tiverem uma área inferior ou igual a 3 ha.
 
-8 - Sem prejuízo do disposto no n.º 1, os candidatos devem declarar toda a superfície agrícola e agro-florestal da unidade de produção e candidatar a área elegível, relativamente à qual assegurem a titularidade durante o período do compromisso.
+8 - Sem prejuízo do disposto no n.º 1, os candidatos devem declarar toda a superfície agrícola e agro-florestal da unidade de produção e candidatar a totalidade da área elegível relativamente à qual assegurem a titularidade durante o período do compromisso.
 
 9 - Para efeitos do apoio previsto no n.º 5, considera-se área elegível a superfície agrícola e agro-florestal da unidade de produção, com excepção do espaço agro-florestal não arborizado com aproveitamento forrageiro.
 
-10 - O plano de gestão específico referido no n.º 4 pode ser revisto, devendo a sua alteração ser aprovada pela ELA e apresentada aquando da apresentação do pedido de pagamento anual subsequente.
+10 - O plano de gestão específico referido no n.º 4 deve ser mantido actualizado, sendo as respectivas alterações aprovadas pela ELA e apresentadas com o pedido de pagamento subsequente.

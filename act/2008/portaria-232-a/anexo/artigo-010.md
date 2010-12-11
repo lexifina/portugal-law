@@ -8,7 +8,7 @@ a) Manter os critérios de elegibilidade;
 
 b) Manter as árvores, os muros de pedra posta e outros elementos patrimoniais importantes para a paisagem e ainda as sebes arbustivas ou arbóreas de espécies autóctones entre as parcelas ou nas suas extremas, não tratando com herbicidas;
 
-c) Manter os pontos de água acessíveis à fauna, no período de Verão;
+c) Manter os pontos de água acessíveis à fauna;
 
 d) Manter a vegetação arbórea e arbustiva ao longo das linhas de água, sem prejuízo das limpezas e regularizações necessárias ao adequado escoamento;
 
@@ -18,22 +18,28 @@ f) Não efectuar queimadas.
 
 2 - Para além do disposto no número anterior e para toda a superfície objecto de apoio, os beneficiários devem ainda comprometer-se a:
 
-a) Manter as culturas em bom estado de produção realizando as operações culturais tecnicamente adequadas;
+a) Manter as culturas em bom estado de produção realizando as operações culturais tecnicamente adequadas, devendo ser observadas as boas condutas agronómicas de acordo com manual distribuído pela ELA;
 
 b) Manter os muros de suporte e escadas em boas condições de conservação;
 
-c) Recuperar os muros danificados no prazo máximo de dois anos a contar da data de início do compromisso;
+c) Recuperar os muros danificados no prazo máximo de três anos, a contar da data de início do compromisso;
 
 d) Manter as oliveiras, amendoeiras e citrinos que existam na parcela ou na sua bordadura;
 
-e) Não efectuar mobilizações com reviramento do solo, com charrua, grade de discos ou alfaias rotativas nas parcelas ocupadas com amendoeiras ou oliveiras;
+e) Nas parcelas com oliveiras ou amendoeiras, não efectuar as seguintes operações:
 
-f) Não efectuar mobilizações do solo entre 31 de Outubro e 31 de Março nas parcelas ocupadas com vinha, amendoeiras ou oliveiras;
+i) Mobilizações com reviramento do solo, com charrua, grade de discos ou alfaias rotativas;
+
+ii) Mobilizações do solo sem reviramento entre 31 de Outubro e 31 de Março;
+
+f) Nas parcelas com vinha não efectuar mobilizações do solo na entrelinha, com ou sem reviramento, entre 31 de Outubro e 31 de Março;
 
 g) Não realizar mobilizações do solo nas parcelas ocupadas com matos mediterrânicos;
 
 h) Manter a compartimentação e melhorar os acessos nas parcelas ocupadas com matos mediterrânicos;
 
 i) Eliminar as espécies lenhosas exóticas nas parcelas ocupadas com matos mediterrânicos de acordo com as indicações da ELA.
+
+j) Manter o controlo das infestantes nas parcelas ocupadas com matos mediterrânicos.
 
 3 - O disposto nos números anteriores do presente artigo produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.

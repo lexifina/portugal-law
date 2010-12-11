@@ -16,11 +16,11 @@ c) Morte ou incapacidade profissional superior a três meses do cônjuge ou de o
 
 d) Expropriação de uma parte importante da unidade de produção, se essa expropriação não era previsível na data em que o compromisso foi assumido;
 
-e) Catástrofe natural grave que afecte a superfície agrícola da unidade de produção;
+e) Catástrofe natural grave, acidente meteorológico grave ou incêndio, que afecte parte significativa da superfície agrícola da unidade de produção;
 
 f) Destruição das instalações pecuárias não imputável ao beneficiário;
 
-g) Epizootia que afecte a totalidade ou parte dos efectivos.
+g) Epizootia que afecte a totalidade ou parte do efectivo ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem da incúria do beneficiário.
 
 4 - Os casos de força maior e os respectivos comprovativos devem ser comunicados ao IFAP, I. P., pelo beneficiário ou pelo seu representante, por escrito e no prazo de 10 dias úteis a contar da data da ocorrência, podendo aquele prazo ser ultrapassado, desde que devidamente justificado e aceite pelo IFAP, I. P.
 
