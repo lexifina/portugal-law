@@ -21,3 +21,5 @@ b) 25% para a Guarda Nacional Republicana;
 c) 25% para a Polícia de Segurança Pública.
 
 3 - Compete ao município ou à freguesia, consoante os casos, proceder à cobrança da coima e ao posterior rateio do respectivo produto pela forma estabelecida nos números anteriores.
+
+4 - A afectação do produto das coimas resultante da aplicação das contra-ordenações ambientais previstas no n.º 3 do artigo 25.º é feita nos termos do artigo 73.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto.

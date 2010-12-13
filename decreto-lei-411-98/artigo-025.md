@@ -54,4 +54,6 @@ d) A trasladação de ossadas sem ser em caixa de zinco com a espessura mínima 
 
 e) A infracção às disposições imperativas de natureza administrativa constantes de regulamento de cemitério municipal ou paroquial, se sanção mais grave não for aplicável por força de outra norma do presente artigo.
 
-3 - A negligência e a tentativa são puníveis.
+3 - Constitui contra-ordenação ambiental grave, nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, a prática das actividades de cremação fora dos locais previstos para o efeito ou em incumprimento das regras estabelecidas no artigo 18.º
+
+4 - A negligência e a tentativa são puníveis.
