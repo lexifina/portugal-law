@@ -1,0 +1,5 @@
+Aviso n.º 26275/2010
+Guilherme Manuel Lopes Pinto, Presidente da Câmara Municipal de Matosinhos, torna público que a Câmara Municipal na sua reunião ordinária de 23 de Novembro de 2010, deliberou mandar elaborar o Plano de Urbanização entre a Rua de Custió e as Linhas de Metro da Trofa e Ramal de CF de Leixões e proceder à abertura do Período de Participação Preventiva, conforme disposto no n.º 1 do artigo 74.º do Decreto-Lei n.º 46/2009 de 20 de Fevereiro.
+Nos termos do n.º 2 do artigo 77.º do referido diploma legal, decorrerá um período de 30 dias úteis, a contar da data desta publicação no Diário da República, um processo de audição ao público durante o qual os interessados poderão formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração do Plano de Urbanização entre a Rua de Custió e as Linhas de Metro da Trofa e Ramal de CF de Leixões.
+9 de Dezembro de 2010. - O Presidente da Câmara, Guilherme Manuel Lopes Pinto.
+204049403
