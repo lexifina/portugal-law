@@ -1,0 +1,115 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=cqpGrns5UyiyPnfDDcltPGDDPGagvAPg5LKOzP1ZUMdFhS1tYE%2boUqLKys6rT7dQcCsHZzpaaD89aqaaeheMPgaLprYCqr1kfj1yfNQQLvRfJRydrl8CY1Co%2bE8e0qRj21QPh3XBduK2UjaCTwkaZsSJ4Ws78SqTHcUqMO96eMwx0mJ%2fnsLMcuHSvhMz5fog89wsUW8g%2fE6ZhuGk3jur29lC8psdBmdSjbYJnssR%2faJyQGkQf1%2bt9BE0CqnanLSJIJsdFkKfZum%2fMA3QD2YgBITg5jSzdngUrVVNHICp8QvlGKw3W%2bpeu%2bh8LqCpg3zL2WI3n87847CubKBOteTOUU2WZeFIAxLb8PlZly06%2b9I%3d&fich=AtividadesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "e990867e1dd1772bdbc8ca55751b34755453758a1f02604666e2c3ee6e5cbd72",
+  "legislatura": "XI",
+  "tipo": "Voto",
+  "numero": "82",
+  "data_registo": "2010-12-15",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Saudação à criação de mecanismos europeus de emissão de dívida pública e de coordenação económica contra o desemprego e especulação.",
+    "AutoresGP": [
+      "BE",
+      "José Manuel Pureza (BE)",
+      "Cecília Honório (BE)",
+      "Ana Drago (BE)",
+      "Helena Pinto (BE)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2010-12-15",
+    "DataAnuncio": null,
+    "DataEntrada": "2010-12-15",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XI",
+    "Numero": "82",
+    "Observacoes": "Última versão do voto apresentado pelo BE.",
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "535973",
+        "obs": null,
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-12-18",
+        "pubLeg": "XI",
+        "pubNr": "67",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/067/2010-12-18/3?pgs=3&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "62",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2010-12-16",
+        "pubLeg": "XI",
+        "pubNr": "31",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/031/2010-12-16?org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2010-12-15",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I><BR>Contra:<I>PSD</I>, <I> PEV</I>, <I> PCP</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "57222",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "539295",
+            "obs": null,
+            "pag": [
+              "59-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2010-12-16",
+            "pubLeg": "XI",
+            "pubNr": "31",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/031/2010-12-16/59?pgs=59&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "31",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
