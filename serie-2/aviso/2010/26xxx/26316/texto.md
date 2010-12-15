@@ -1,0 +1,5 @@
+Aviso n.º 26316/2010
+Fernando Jorge Loureiro de Roboredo Seara, Presidente da Câmara Municipal de Sintra, ao abrigo da sua competência constante da alínea v) do n.º 1 do artº68.º e para os efeitos do estatuído no n.º 1 do artigo 91.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, torna público que, a Assembleia Municipal de Sintra, na sua 1.ª Sessão Extraordinária, em 26 de Novembro de 2010, deliberou aprovar o Regulamento Municipal de Protecção Civil acompanhado de Parecer da Comissão Permanente de Obras Municipais, Trânsito, Segurança e Protecção Civil, da Assembleia Municipal de Sintra.
+Assim, sem prejuízo da publicação do presente Aviso em 2.ª série do Diário da República, torna-se de igual modo público que, os referido regulamento se encontra ainda disponível através de Edital afixado nos lugares de estilo, no Gabinete de Apoio ao Munícipe e Controlo de Processos, suas Delegações e na página da Câmara Municipal de Sintra na Internet em www.cm-sintra.pt.
+Paços do Concelho de Sintra, 03 de Dezembro de 2010. - O Presidente da Câmara, Fernando Jorge Loureiro de Roboredo Seara.
+304027371
