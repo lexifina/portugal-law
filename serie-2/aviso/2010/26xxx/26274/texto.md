@@ -1,0 +1,6 @@
+Aviso n.º 26274/2010
+Plano de Urbanização do Parque Recreativo Desportivo Nascente do Concelho
+Guilherme Manuel Lopes Pinto, Presidente da Câmara Municipal de Matosinhos, torna público que a Câmara Municipal na sua reunião ordinária de 23 de Novembro de 2010, para adequação dos procedimentos da elaboração do Plano aos procedimentos formais exigidos no novo Regime Jurídico dos Instrumentos de Gestão Territorial, deliberou mandar proceder à abertura do Período de Participação Preventiva, conforme disposto no artigo 77.º do Decreto-Lei n.º 46/2009 de 20 de Fevereiro, e concluir a proposta técnica na figura de Planeamento de Plano de Urbanização, anteriormente como Plano de Pormenor.
+Nos termos do n.º 2 do artigo 77.º do referido diploma legal, decorrerá um período de 20 dias úteis, a contar da data desta publicação no Diário da República, um processo de audição ao público durante o qual os interessados poderão formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração do Plano de Urbanização do Parque Recreativo Desportivo Nascente do Concelho.
+9 de Dezembro de 2010. - O Presidente da Câmara, Guilherme Manuel Lopes Pinto.
+204049493
