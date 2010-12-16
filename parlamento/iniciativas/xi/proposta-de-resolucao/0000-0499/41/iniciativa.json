@@ -1,0 +1,64 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "tipo": "Proposta de Resolução",
+  "numero": "41",
+  "id": "35825",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2010-12-16",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2011-06-19",
+    "DataInicioleg": "2010-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595339694d574d775a6a51335a4330774e57566c4c54526a4e6d4d74596d59324d6931695a446c6b4e6a6c6c597a526b595467755a47396a&fich=b1c0f47d-05ee-4c6c-bf62-bd9d69ec4da8.doc&Inline=true",
+        "anexoNome": "Acordo em português"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595338774f5463314e6a67315a53316d4f444e6d4c5451784d6d5174596d59344d7930314d4463794e7a55314d5755785a4441755a47396a&fich=0975685e-f83f-412d-bf83-50727551e1d0.doc&Inline=true",
+        "anexoNome": "Acordo em inglês"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c3259533831596d5a685a5751314d6930305a6a41774c5451325932497459544e6c59533079597a63335a544e684d325668593251755a47396a&fich=5bfaed52-4f00-46cb-a3ea-2c77e3a3eacd.doc&Inline=true",
+        "anexoNome": "Memorando em português"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595338324f545177596d52684d4331694e5749774c5451794f5745744f5751314e7930774e3259785a6a526b4e544a6a596a59755a47396a&fich=6940bda0-b5b0-429a-9d57-07f1f4d52cb6.doc&Inline=true",
+        "anexoNome": "Memorando em inglês"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d4e7a517a4d3251784d693168596a59344c5451774f4441744f44466d4f5330794e6d4e6d4d6d51325a4745324d6d49756347526d&fich=f7433d12-ab68-4080-81f9-26cf2d6da62b.pdf&Inline=true",
+        "anexoNome": "Acordo digitalizado"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "35825",
+    "IniLeg": "XI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595339694e6d46684d3255794e533168596a41324c54526d4e444d744f4759314d7930325a6d4a6c4d7a5930597a593559546b755a47396a&fich=b6aa3e25-ab06-4f43-8f53-6fbe364c69a9.doc&Inline=true",
+    "IniNr": "41",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova o Acordo entre a República Portuguesa e São Cristóvão (St. Kitts) e Nevis sobre Troca de Informações em Matéria Fiscal, assinado em Basseterre, em 29 de Julho de 2010.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
