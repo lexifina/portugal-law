@@ -4,13 +4,13 @@
 
 1 - As associações apoiadas ao abrigo deste Programa devem:
 
-a) Na modalidade de apoio anual:
+a) Na modalidade de apoio anual e no ano seguinte ao da candidatura:
 
-i) Elaborar e entregar obrigatoriamente um relatório intercalar até 15 de Outubro do ano de execução da candidatura, em formato a disponibilizar pelo IPJ;
+i) Elaborar e entregar obrigatoriamente um relatório intercalar até 15 de Novembro do ano de execução da candidatura, em formato a disponibilizar pelo IPJ, I. P.;
 
-ii) Elaborar e entregar obrigatoriamente um relatório final até 1 de Março do ano seguinte ao da execução da candidatura, de acordo com o modelo a disponibilizar pelo IPJ, contendo elementos quantitativos e qualitativos quanto às actividades desenvolvidas e aplicação do subsídio atribuído, acompanhado dos documentos comprovativos das despesas efectuadas;
+ii) 30 % até 30 de Setembro;
 
-iii) Substituir, excepcionalmente, o relatório intercalar pelo relatório final, a entregar até 15 de Outubro, sempre que o término do projecto se verifique até 1 de Outubro;
+iii) Substituir, excepcionalmente, o relatório intercalar pelo relatório final, a entregar até 1 de Novembro, sempre que a conclusão do projecto se verifique até 1 de Novembro;
 
 b) Na modalidade de apoio pontual:
 
@@ -20,6 +20,6 @@ i) Elaborar e entregar obrigatoriamente um relatório final, em formato a dispon
 
 3 - As despesas afectas a cada uma das acções previstas na candidatura devem ser totalmente justificadas, sem se ultrapassar o valor total naquela apresentado.
 
-4 - Quando da avaliação do relatório intercalar resultar que a execução financeira da primeira tranche é inferior a 40%, a associação é penalizada em 5% do valor pago na primeira tranche a subtrair ao valor da segunda tranche.
+4 - Quando da avaliação do relatório intercalar resultar que a execução financeira da primeira e da segunda prestações é inferior a 40 %, a associação é penalizada em 5 % do valor pago no somatório das duas prestações a subtrair ao valor da terceira prestação.
 
 5 - Não é de aplicar o previsto no número anterior nos casos em que o valor a cativar seja inferior a (euro) 100.

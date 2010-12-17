@@ -4,11 +4,13 @@
 
 1 - A transferência dos apoios financeiros a conceder no âmbito deste Programa é feita da seguinte forma:
 
-a) Na modalidade de apoio anual:
+a) Na modalidade de apoio anual e no ano seguinte ao da candidatura:
 
-i) 70% do valor total, de uma única vez, entre 15 de Abril e 30 de Maio do ano seguinte ao da candidatura;
+i) 30 % até 31 de Maio;
 
-ii) Os restantes 30%, 15 dias após entrega do relatório intercalar, em formato a disponibilizar pelo IPJ;
+ii) 30 % até 30 de Setembro;
+
+iii) 40 % até 31 de Dezembro e após a entrega do relatório intercalar, em formato a disponibilizar pelo IPJ, I. P.;
 
 b) Na modalidade de apoio pontual:
 
