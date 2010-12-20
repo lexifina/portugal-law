@@ -1,10 +1,10 @@
 # Artigo 70.º-B
 
-### Modo de exercício do direito de voto antecipado por militares, agentes de forças e serviços de segurança, trabalhadores dos transportes e membros que representem oficialmente selecções nacionais, organizadas por federações desportivas dotadas de estatuto de utilidade pública desportiva.
+### Modo de exercício do direito de voto antecipado por razões profissionais
 
-1 - Qualquer eleitor que esteja nas condições previstas nas alíneas a), b) e c) do artigo anterior pode dirigir-se ao presidente da câmara do município em cuja área se encontre recenseado, entre o 10.º e o 5.º dias anteriores ao da eleição, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
+1 - Os eleitores que se encontrem nas condições previstas nas alíneas a), b), c), f) e g) do n.º 1 do artigo anterior podem dirigir-se ao presidente da câmara do município em cuja área se encontrem recenseados, entre o 10.º e o 5.º dia anteriores ao da eleição, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
 
-2 - O eleitor identifica-se por forma idêntica à prevista nos n.os 1 e 2 do artigo 87.º e faz prova do impedimento invocado, apresentando documentos autenticados pelo seu superior hierárquico ou pela entidade patronal, consoante os casos.
+2 - O eleitor identifica-se pela forma prevista nos n.os 1 e 2 do artigo 87.º e faz prova do impedimento invocado através de documento assinado pelo seu superior hierárquico, pela entidade patronal ou outro que comprove suficientemente a existência do impedimento ao normal exercício do direito de voto.
 
 3 - O presidente da câmara municipal entrega ao eleitor um boletim de voto e dois sobrescritos.
 
