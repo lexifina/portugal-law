@@ -18,4 +18,4 @@
 
 2 - Sem prejuízo do disposto no artigo 97.º, não é admitida nenhuma forma de representação ou delegação no exercício do direito de sufrágio.
 
-3 - O direito de voto é exercido presencialmente pelo cidadão eleitor, salvo o disposto nos artigos 79.º-A, 79.º-B e 79.º-C.
+3 - O direito de voto é exercido presencialmente pelo cidadão eleitor, salvo o disposto quanto ao modo de exercício do voto antecipado.
