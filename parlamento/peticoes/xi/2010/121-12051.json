@@ -1,0 +1,523 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12051",
+  "numero": "121",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-12-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-01-11",
+            "entidades": null,
+            "id": "89951",
+            "tipo": null,
+            "titulo": "Audição em 2011-01-11 com Associação de Empresas de Ginásios e Academias de Portugal"
+          },
+          {
+            "data": "2011-02-02",
+            "entidades": null,
+            "id": "90205",
+            "tipo": null,
+            "titulo": "Audição em 2011-02-02 com Dr. Mário Teixeira - Vice- Presidente da Mesa da Asembleia Geral da Confederação do Desporto de Portugal, Professor Doutor Carlos Paula Cardoso - Presidente da Confederação do Desporto de Portugal"
+          },
+          {
+            "data": "2011-02-02",
+            "entidades": null,
+            "id": "90257",
+            "tipo": null,
+            "titulo": "Audição em 2011-02-02 com Professor Doutor Carlos Paula Cardoso - Presidente da Confederação do Desporto de Portugal, Vice-Presidente da Mesa da Assembleia-Geral da Confederação do Desporto de Portugal - Dr.Mário Teixeira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-01-05",
+            "dataResposta": "2011-02-11",
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "5/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-01-05",
+            "dataResposta": "2011-02-18",
+            "entidades": [
+              "Secretário de Estado da Juventude e do Desporto"
+            ],
+            "nrOficio": "5/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-01-25",
+            "dataResposta": "2011-02-02",
+            "entidades": [
+              "Presidente da Associação Portuguesa das Escolas de Futebol"
+            ],
+            "nrOficio": "63/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-02-01",
+            "dataResposta": "2011-02-04",
+            "entidades": [
+              "Associação Nacional de Municípios Portugueses"
+            ],
+            "nrOficio": "89/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-03-01",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-01-04",
+        "DataArquivo": "2011-03-01",
+        "DataBaixaComissao": "2011-01-04",
+        "DataEnvioPAR": "2011-03-03",
+        "DataReaberta": "2011-01-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-01-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938335a54566d5a5451315a5330334e4759794c5451775a6a4174595745354e6930775a4451795954453359545131596a55756347526d&fich=7e5fe45e-74f2-40f0-aa96-0d42a17a45b5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-02-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938784e6d51334e4745355a5330785a6d59334c54517859546b74596d497a4d79307a4f4463324d446b774e7a49784d324d756347526d&fich=16d74a9e-1ff7-41a9-bb33-38760907213c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-01-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938314e3255774d6a63334e79307a4f47557a4c5451794e57497459574531597931694d474d324d6a5535597a426a4e6d59756347526d&fich=57e02777-38e3-425b-aa5c-b0c6259c0c6f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938314f44686c4d54566c4e6930324e6a41324c5451355a6d4974596a4e694d5330345a44677a4d6a4a6d5a57526b5a4751756347526d&fich=588e15e6-6606-49fb-b3b1-8d8322fedddd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-01-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938334f446331596d51325953316d4d544a6b4c54526b4d6a59744f544668597930354d324e6c4d3249334d6a67794d5451756347526d&fich=7875bd6a-f12d-4d26-91ac-93ce3b728214.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-03-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939685a6a466d4d7a4a6a4e43316d4e574d7a4c54526d4e445174596d466d4e433034596d566c59325135597a526a4f446b756347526d&fich=af1f32c4-f5c3-4f44-baf4-8beecd9c4c89.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-02-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279387a4e54426d4f5745314d79316d4f474a6a4c5451314f4449744f544a6d4d53316b4d444e694d47566a593255784e4455756347526d&fich=350f9a53-f8bc-4582-92f1-d03b0ecce145.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4d546c6b4e7a64694e69307a5a6a55794c54513159545974596a49795a43316d5a546b794e6a6b784d5441354f4451756347526d&fich=f19d77b6-3f52-45a6-b22d-fe9269110984.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b4f5752694e544d335a53316b5954677a4c54526a596d55744f5749775a533168595451345a444e695a575a6b4e5751756347526d&fich=d9db537e-da83-4cbe-9b0e-aa48d3befd5d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793879595745324e57526c5979316a4e44566c4c5451334f5751744f5446684f5330794f4751334d7a6c6b596d566a4f444d756347526d&fich=2aa65dec-c45e-479d-91a9-28d739dbec83.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2871",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-01-04",
+            "gp": "PSD",
+            "id": "2641",
+            "motivoCessacao": null,
+            "nome": "Paulo Cavaleiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2011-10-07",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-12-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764e446331596a51344e6a59744d54526d595330304e54526d4c5746684d446b744d3245354d446b305a6d51794d5467324c6e426b5a673d3d&fich=475b4866-14fa-454f-aa09-3a9094fd2186.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-10-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111007pln&url=l12/sl1/a2011/m10/&tI=01:49:01:220&drc=00:03:35:385"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181450",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-08",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/028/2011-10-08/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "IVA à taxa reduzida para as actividades desportivas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111007pln&url=l12/sl1/a2011/m10/&tI=01:53:05:915&drc=00:03:20:270"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-08",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/028/2011-10-08/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "IVA à taxa reduzida para as actividades desportivas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111007pln&url=l12/sl1/a2011/m10/&tI=01:56:35:488&drc=00:02:48:579"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181452",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-08",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/028/2011-10-08/32?pgs=32&org=PLC"
+              }
+            ],
+            "Sumario": "IVA à taxa reduzida para as actividades desportivas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111007pln&url=l12/sl1/a2011/m10/&tI=01:59:36:821&drc=00:03:50:998"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-08",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/028/2011-10-08/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "IVA à taxa reduzida para as actividades desportivas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111007pln&url=l12/sl1/a2011/m10/&tI=02:03:43:134&drc=00:03:30:898"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-08",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/028/2011-10-08/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "IVA à taxa reduzida para as actividades desportivas.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12051",
+    "PetAssunto": "IVA à taxa reduzida para as actividades desportivas.",
+    "PetDataEntrada": "2010-12-20",
+    "PeticoesAssociadas": null,
+    "PetId": "12051",
+    "PetLeg": "XI",
+    "PetNr": "121",
+    "PetNrAssinaturas": "8827",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "364",
+        "obs": null,
+        "pag": [
+          "30-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-10-08",
+        "pubLeg": "XII",
+        "pubNr": "28",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/028/2011-10-08/30?pgs=30-34&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "539843",
+        "obs": null,
+        "pag": [
+          "12-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-01-29",
+        "pubLeg": "XI",
+        "pubNr": "97",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/097/2011-01-29/12?pgs=12-13&org=PLC"
+      }
+    ]
+  }
+}
