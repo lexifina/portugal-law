@@ -1,0 +1,600 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12052",
+  "numero": "122",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2010-12-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-01-11",
+            "entidades": null,
+            "id": "89953",
+            "tipo": null,
+            "titulo": "Audição em 2011-01-11 com FENPROF - Federação Nacional dos Professores"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-01-05",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra da Educação"
+            ],
+            "nrOficio": "6/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-01-06",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente do Conselho Nacional de Educação"
+            ],
+            "nrOficio": "11/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-01-06",
+            "dataResposta": "2011-01-25",
+            "entidades": [
+              "Associação Nacional de Municípios Portugueses"
+            ],
+            "nrOficio": "12/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-02-15",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-01-04",
+        "DataArquivo": "2011-02-15",
+        "DataBaixaComissao": "2011-01-04",
+        "DataEnvioPAR": "2011-02-15",
+        "DataReaberta": "2011-01-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-01-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938305a4745314e6a6b774e4330304e4755774c5451785a474d744f4442684e433034596a4e68595446694f4445794d574d756347526d&fich=4da56904-44e0-41dc-80a4-8b3aa1b8121c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-01-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938784e6a646959574a6d4f4330345a5459354c5451794f5467744f5463345a4330774d6a4534597a5a684d3245324e4467756347526d&fich=167babf8-8e69-4298-978d-0218c6a3a648.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-01-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793832595455315a44466c4e69316d5a5449344c54517a5a4449744f445668597930314f57566a5a54526a4e324d794e7a45756347526d&fich=6a55d1e6-fe28-43d2-85ac-59ece4c7c271.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-01-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396c4e6d526a4d57526a597930304e5749334c5451334d445174595451335a4330314e6d45314d6d5a6c4e6a526c596d45756347526d&fich=e6dc1dcc-45b7-4704-a47d-56a52fe64eba.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-02-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938784d5751324e474a69596930345a4459324c545177596a67744f475532596930794d5749774e6a63794d4442694d444d756347526d&fich=11d64bbb-8d66-40b8-8e6b-21b067200b03.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-01-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793835596d4d344f575577597931695a5455354c5451354f475174596a6c68595330304e6d4a6b4d4459354e4467355a6a6b756347526d&fich=9bc89e0c-be59-498d-b9aa-46bd069489f9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279383159324535597a55334f433168597a4d784c5451774d6d4574596a41344e7930324e545131597a51334d4451304e7a41756347526d&fich=5ca9c578-ac31-402a-b087-6545c4704470.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938314d6d4e6b4e4463354f5330305a6a67354c5451304f446b744f4745794d6930784e3256684e6a6b314e6a4e6a4e4755756347526d&fich=52cd4799-4f89-4489-8a22-17ea69563c4e.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2871",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-01-04",
+            "gp": "PS",
+            "id": "4068",
+            "motivoCessacao": null,
+            "nome": "Teresa Damásio"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2011-03-17",
+    "Documentos": [
+      {
+        "DataDocumento": "2010-12-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d765a54686c5a474e694d6a49744d6d4e68595330305a574a684c546c695a6a5174596d55784d54646b595751314f47566a4c6e426b5a673d3d&fich=e8edcb22-2caa-4eba-9bf4-be117dad58ec.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "36049",
+      "36046",
+      "36074"
+    ],
+    "Iniciativasoriginadas": [
+      "36049",
+      "36046",
+      "36074"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-03-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110317pln&url=l11/sl2/a2011/m03/&tI=03:23:09:393&drc=00:02:54:016"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110317pln&url=l11/sl2/a2011/m03/&tI=03:46:08:064&drc=00:02:11:708"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180191",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61",
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-03-18",
+                "pubLeg": "XI",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/065/2011-03-18/60?pgs=60-61,66&org=PLC"
+              }
+            ],
+            "Sumario": "Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Concurso de ingresso e mobilidade de professores; Estabelece a realização em 2011 de um concurso de colocação de docentes para o ingresso na carreira e para a mobilidade; Pela realização de concursos de colocação de professores dos ensinos básico e secundário e de educadores em 2011.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-03-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110317pln&url=l11/sl2/a2011/m03/&tI=03:26:07:444&drc=00:03:52:378"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-03-18",
+                "pubLeg": "XI",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/065/2011-03-18/61?pgs=61&org=PLC"
+              }
+            ],
+            "Sumario": "Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Concurso de ingresso e mobilidade de professores; Estabelece a realização em 2011 de um concurso de colocação de docentes para o ingresso na carreira e para a mobilidade; Pela realização de concursos de colocação de professores dos ensinos básico e secundário e de educadores em 2011.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-03-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110317pln&url=l11/sl2/a2011/m03/&tI=03:30:02:895&drc=00:04:24:104"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180193",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-03-18",
+                "pubLeg": "XI",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/065/2011-03-18/61?pgs=61-63&org=PLC"
+              }
+            ],
+            "Sumario": "Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Concurso de ingresso e mobilidade de professores; Estabelece a realização em 2011 de um concurso de colocação de docentes para o ingresso na carreira e para a mobilidade; Pela realização de concursos de colocação de professores dos ensinos básico e secundário e de educadores em 2011.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-03-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110317pln&url=l11/sl2/a2011/m03/&tI=03:34:29:217&drc=00:03:43:861"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180194",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-03-18",
+                "pubLeg": "XI",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/065/2011-03-18/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "Sumario": "Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Concurso de ingresso e mobilidade de professores; Estabelece a realização em 2011 de um concurso de colocação de docentes para o ingresso na carreira e para a mobilidade; Pela realização de concursos de colocação de professores dos ensinos básico e secundário e de educadores em 2011.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-03-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110317pln&url=l11/sl2/a2011/m03/&tI=03:38:20:890&drc=00:03:05:173"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-03-18",
+                "pubLeg": "XI",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/065/2011-03-18/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "Sumario": "Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Concurso de ingresso e mobilidade de professores; Estabelece a realização em 2011 de um concurso de colocação de docentes para o ingresso na carreira e para a mobilidade; Pela realização de concursos de colocação de professores dos ensinos básico e secundário e de educadores em 2011.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-03-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110317pln&url=l11/sl2/a2011/m03/&tI=03:41:30:881&drc=00:04:34:120"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-03-18",
+                "pubLeg": "XI",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/065/2011-03-18/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "Sumario": "Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Concurso de ingresso e mobilidade de professores; Estabelece a realização em 2011 de um concurso de colocação de docentes para o ingresso na carreira e para a mobilidade; Pela realização de concursos de colocação de professores dos ensinos básico e secundário e de educadores em 2011.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-03-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110317pln&url=l11/sl2/a2011/m03/&tI=03:48:26:600&drc=00:01:39:074"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180197",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-03-18",
+                "pubLeg": "XI",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/065/2011-03-18/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "Garante a vinculação dos professores contratados e promove a estabilidade do corpo docente das escolas; Concurso de ingresso e mobilidade de professores; Estabelece a realização em 2011 de um concurso de colocação de docentes para o ingresso na carreira e para a mobilidade; Pela realização de concursos de colocação de professores dos ensinos básico e secundário e de educadores em 2011.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12052",
+    "PetAssunto": "Pela realização de concursos de colocação de professores dos ensinos básico e secundário e de educadores em 2011.",
+    "PetDataEntrada": "2010-12-20",
+    "PeticoesAssociadas": null,
+    "PetId": "12052",
+    "PetLeg": "XI",
+    "PetNr": "122",
+    "PetNrAssinaturas": "26265",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1531",
+        "obs": null,
+        "pag": [
+          "60-67"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-03-18",
+        "pubLeg": "XI",
+        "pubNr": "65",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/065/2011-03-18/60?pgs=60-67&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "545125",
+        "obs": null,
+        "pag": [
+          "12-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-02-19",
+        "pubLeg": "XI",
+        "pubNr": "114",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/114/2011-02-19/12?pgs=12&org=PLC"
+      }
+    ]
+  }
+}
