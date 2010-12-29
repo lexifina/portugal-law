@@ -2,9 +2,9 @@
 
 ### Casos especiais
 
-1 - Quando o trabalhador não dispuser de transporte que lhe permita almoçar no seu domicílio necessário ou nos refeitórios dos serviços sociais a que tenha direito pode ser concedido abono para despesa de almoço de uma importância equivalente a 25 % da ajuda de custo diária nas deslocações até 20 km, após apreciação pelo dirigente do serviço.
+1 - Quando o funcionário ou agente não dispuser de transporte que lhe permita almoçar no seu domicílio necessário ou nos refeitórios dos serviços sociais a que tenha direito poderá ser concedido abono para despesa de almoço de uma importância equivalente a 25% da ajuda de custo diária nas deslocações até 5 km, após apreciação pelo dirigente do serviço.
 
-2 - O dirigente do serviço pode, em despacho proferido nos termos do número seguinte, proceder à atribuição dos quantitativos previstos no n.º 4 do artigo 8.º para deslocações entre 20 km e 50 km.
+2 - O dirigente do serviço poderá, em despacho proferido nos termos do número seguinte, proceder à atribuição dos quantitativos previstos no n.º 4 do artigo 8.º para deslocações entre 5 km e 20 km.
 
 3 - O despacho previsto no número anterior deverá conter os seguintes elementos:
 
@@ -22,4 +22,4 @@ f) O tempo gasto nas deslocações referidas nas alíneas c) e d) em circunstân
 
 g) O incómodo da deslocação.
 
-4 - O dirigente do serviço pode ainda, em despacho fundamentado e tendo em conta as circunstâncias referidas no número anterior, proceder à atribuição dos quantitativos previstos no n.º 2 do artigo 8.º para deslocações que ultrapassem 50 km.
+4 - O dirigente do serviço poderá ainda, em despacho fundamentado e tendo em conta as circunstâncias referidas no número anterior, proceder à atribuição dos quantitativos previstos no n.º 2 do artigo 8.º para deslocações que ultrapassem 20 km.

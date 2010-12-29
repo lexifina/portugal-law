@@ -20,23 +20,17 @@ d) Funcionários que acompanhem os membros do Governo;
 
 3 - Por via aérea:
 
-Classe executiva (ou equivalente):
+1.ª classe (ou equivalente):
 
-a) Viagens de duração superior a quatro horas:
+a) Membros do Governo, chefes e adjuntos dos respectivos gabinetes;
 
-i) Membros do Governo, chefes e adjuntos dos respectivos gabinetes;
+b) Chefes de missão diplomática nas viagens que tenham por ponto de partida ou de chegada o local do respectivo posto;
 
-ii) Chefes de missão diplomática nas viagens que tenham por ponto de partida ou de chegada o local do respectivo posto;
+c) Directores-gerais ou equiparados;
 
-iii) Titulares de cargos de direcção superior do 1.º grau ou equiparados;
+d) Funcionários que acompanhem os membros dos órgãos de soberania;
 
-iv) Trabalhadores que acompanhem os membros dos órgãos de soberania;
-
-Classe turística ou económica:
-
-a) Viagens de duração não superior a quatro horas;
-
-b) Pessoal não referido anteriormente, independentemente do número de horas de viagem.
+Classe turística ou económica - restante pessoal.
 
 4 - Por via marítima, a determinação da classe é sempre efectuada por despacho ministerial, mediante proposta fundamentada do respectivo serviço.
 
