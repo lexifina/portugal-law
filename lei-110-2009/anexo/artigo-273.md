@@ -18,7 +18,7 @@ b) A taxa contributiva relativa aos docentes não abrangidos pela Caixa Geral de
 
 c) A taxa contributiva relativa aos docentes de nacionalidade estrangeira que optaram pela não inscrição na Caixa Geral de Aposentações, nos termos do Despacho Normativo n.º 61/97, de 1 de Outubro, contratados até dia 31 de Dezembro de 2005 é de 7,8 % a cargo da respectiva entidade empregadora;
 
-d) A taxa contributiva relativa aos trabalhadores abrangidos pela Caixa de Previdência do Pessoal da Companhia Portuguesa Rádio Marconi, admitidos até à publicação do Decreto-Lei n.º 357/97, de 16 de Dezembro, é de 5,7 %, sendo, respectivamente, de 4 % e de 1,7 % para a entidade empregadora e para os trabalhadores;
+d) (Revogada).
 
 e) A taxa contributiva relativa aos trabalhadores agrícolas abrangidos pelo Decreto-Lei n.º 464/99, de 5 de Novembro, é a fixada no referido diploma para o ano de 2010 e a taxa contributiva referente aos trabalhadores previstos no Decreto-Lei n.º 40/2001, de 9 de Fevereiro, é fixada em 8 % ou 15 % consoante os trabalhadores optem pelo 1.º ou 2.º a 5.º escalões de base de incidência contributiva previstos no presente Código para os trabalhadores independentes;
 
