@@ -1,0 +1,56 @@
+# Resolução n.º 1622/2010
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 126/2010, 6.º suplemento, de 2010-12-31
+
+**Sumário:** Autoriza, a título excepcional, a abertura de oferta de emprego externa, para recrutamento e selecção, com reserva de recrutamento, pelo Serviço de Saúde da Região Autónoma da Madeira, EPERAM, de 2 técnicos superiores com licenciatura em Estudos Ingleses e Relações Empresariais ou licenciatura em Gestão de Empresas para exercerem funções equivalentes a técnico superior, da carreira geral de técnico superior, em regime de contrato individual de trabalho sem termo. Resolução n.º 1623/2010 Autoriza, a título excepcional, a abertura de uma oferta de emprego externa para recrutamento e selecção, pelo Serviço de Saúde da Região Autónoma da Madeira, E.P.E., de 1 licenciado em Contabilidade e Fiscalidade, com especialização nas áreas de Contabilidade Financeira e Analítica, de Auditoria e de Fiscalidade, com experiência comprovada, inclusive no SESARAM, E.P.E., em regime de contrato individual de trabalho sem termo, em conformidade com o Código do Trabalho. Resolução n.º 1624/2010 Revoga a Resolução n.º 242/2010, de 4 de Março de 2010. Resolução n.º 1625/2010 Mandata Conceição Maria de Sousa Nunes Almeida Estudante, para, em representação da Região, participar na reunião da Assembleia Geral da sociedade denominada APRAM - Administração dos Portos da Região Autónoma da Madeira, S.A..
+
+## Texto
+
+Resolução n.º 1622/2010
+Considerando que o Serviço de Saúde da Região Autónoma da Madeira, EPERAM, nos termos do artigo 3.º, n.º 4 do Decreto Legislativo Regional n.º 9/2003/M, de 27 de Maio, na redacção introduzida pelo Decreto Legislativo Regional n.º 23/2008/M, de 23 de Junho, prossegue atribuições que constam dos seus regulamentos internos e são fixadas de acordo com a política de saúde a nível regional e com os planos estratégicos superiormente aprovados e serão desenvolvidas através de contratos-programa;
+Considerando que essas atribuições, constantes do artigo 3.º do Regulamento Interno do SESARAM, EPERAM, republicado no JORAM, II Série, n.º 29, de 15 de Fevereiro de 2010, consistem na prestação de cuidados de saúde a todos os cidadãos no âmbito das responsabilidades e capacidades dos serviços que o integram, dando execução às definições da política de saúde a nível regional e aos planos estratégicos superiormente aprovados, a desenvolver através de contratos-programa;
+Considerando que só assim é possível alcançar uma elevada promoção e protecção da saúde das pessoas e populações, tida como importante factor da sua prosperidade, através de um atendimento de qualidade, em tempo útil, com eficiência e humanidade no quadro dos recursos disponíveis e das capacidades instaladas;
+Considerando, igualmente, que o SESARAM, EPERAM privilegia formas actuantes de convivência com a comunidade, designadamente, mas não exaustivamente, com entidades regionais, nacionais e internacionais de interesse público ou privado;
+Considerando que no Serviço de Gestão de Doentes e Estatística do Serviço de Saúde da Região Autónoma da Madeira, EPERAM, é manifesta a carência de técnicos superiores do regime geral habilitados e que exerçam, designadamente, funções em áreas fulcrais de financiamento, designadamente, no âmbito do internamento, transporte de doentes, contrato-programa, entre outras, funções estas imprescindíveis para o SESARAM, EPERAM;
+Considerando que essa carência coloca em causa o regular funcionamento deste Serviço de Gestão de Doentes e Estatística do SESARAM, EPERAM, pondo assim em causa o atendimento de qualidade e, mormente, as atribuições e missão do Serviço de Saúde da Região Autónoma da Madeira, EPERAM;
+Considerando, assim, o carácter urgente e inadiável da necessidade de admitir 2 (dois) técnicos superiores do regime geral, com licenciatura em Estudos Ingleses e Relações Empresariais ou licenciatura em Gestão de Empresas, de forma a colmatar as carências sentidas ao nível do Serviço de Gestão e Estatística do SESARAM, EPERAM;
+Considerando, por fim, o disposto no n.º 16-A do Despacho Conjunto das Secretarias Regionais do Plano e Finanças e Assuntos Sociais, de 28 de Maio de 2004 (alterado pelo despacho proferido pelas mesmas entidades governamentais, a 23 de Setembro de 2005).
+O Conselho do Governo reunido em plenário em 29 de Dezembro de 2010, resolveu:
+1. Autorizar, a título excepcional, a abertura de oferta de emprego externa, para recrutamento e selecção, com reserva de recrutamento, pelo Serviço de Saúde da Região Autónoma da Madeira, EPERAM, de 2 (dois) técnicos superiores com licenciatura em Estudos Ingleses e Relações Empresariais ou
+
+licenciatura em Gestão de Empresas para exercerem funções equivalentes a técnico superior, da carreira geral de técnico superior, em regime de contrato individual de trabalho sem termo, nos termos do Código do Trabalho, conjugada com o n.º 2 do artigo 64.º do Regulamento Interno do Serviço de Saúde da Região Autónoma da Madeira, EPERAM, alterado e republicado no JORAM n.º 29, II Série, Suplemento, de 15 de Fevereiro de 2010, nas seguintes condições: a) Os técnicos superiores com licenciatura em
+Estudos Ingleses e Relações Empresariais ou licenciatura em Gestão de Empresas a admitir devem ter conhecimento da legislação e das regras de facturação, previstas em contrato-programa, portarias de facturação a subsistemas e dos respectivos procedimentos e circuitos inerentes ao percurso do utente no Sistema de Saúde, de regulamentos de transporte de doentes e experiência em processos de auditorias e monitorização de acordos e protocolos; b) A remuneração mensal a pagar é a equivalente à de um técnico superior, da carreira geral de técnico superior, na 2.ª posição remuneratória, nível remuneratório 15, a que acrescerão os subsídios remuneratórios previstos na lei.
+2. O contrato de trabalho terá início após a tramitação do processo de selecção.
+3. As vagas disponibilizadas no despacho conjunto serão incluídas na dotação do contrato-programa a celebrar, em 2011, entre a Região Autónoma da Madeira e o Serviço de Saúde da Região Autónoma da Madeira, EPERAM.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
+Resolução n.º 1623/2010
+Considerando que a actividade do Serviço de Saúde da Região Autónoma da Madeira, E.P.E. tem por finalidade, nos termos do artigo 6.º do Decreto Legislativo Regional n.º 9/2003/M, de 27 de Maio, na redacção introduzida pelo Decreto Legislativo Regional n.º 23/2008/M, de 23 de Junho, proporcionar aos indivíduos, às famílias e aos grupos sociais um atendimento de qualidade, em tempo útil, com eficiência e humanidade;
+Considerando as necessidades actuais que se impõem a um serviço de saúde como o Serviço de Saúde da Região Autónoma da Madeira, E.P.E., que se pretende com elevados critérios de eficácia e de eficiência;
+Considerando que o cumprimento do objecto e da finalidade do Serviço de Saúde da Região Autónoma da Madeira, E.P.E. depende das decisões a tomar pelo conselho de administração;
+Considerando que os apontados critérios de eficácia e eficiência só se conseguem obter com a devida compilação de toda a informação dos vários serviços envolvidos no processo do orçamento, promovendo a reorganização de circuitos e procedimentos para a sua realização, com o objectivo de elaborar o orçamento do SESARAM, E.P.E., bem como assegurar, mensalmente, o controlo orçamental;
+Considerando que a elaboração do orçamento do SESARAM, E.P.E. e o assegurar do controlo orçamental, para garante de uma gestão eficaz, depende da identificação
+
+e cálculo de indicadores de gestão, para o fim último da implementação dos objectivos económico-financeiros das várias áreas;
+Considerando que se mostra necessário a contratação de um técnico superior, com licenciatura em contabilidade e fiscalidade, com especialização nas áreas de contabilidade financeira e analítica, de Auditoria e de Fiscalidade;
+Considerando, por fim, o disposto no n.º 16-A do Despacho Conjunto das Secretarias Regionais do Plano e Finanças e Assuntos Sociais de 28 de Maio de 2004 (alterado pelo Despacho proferido pelas mesmas entidades governamentais a 23 de Setembro de 2005).
+O Conselho do Governo reunido em plenário em 29 de Dezembro de 2010, resolveu:
+1. Autorizar, a título excepcional, a abertura de uma oferta de emprego externa para recrutamento e selecção, pelo Serviço de Saúde da Região Autónoma da Madeira, E.P.E., de 1 (um) licenciado em Contabilidade e Fiscalidade, com especialização nas áreas de Contabilidade Financeira e Analítica, de Auditoria e de Fiscalidade, com experiência comprovada, inclusive no SESARAM, E.P.E., em regime de contrato individual de trabalho sem termo, em conformidade com o Código do Trabalho e de acordo com o n.º 2 do artigo 64.º do Regulamento Interno do Serviço de Saúde da Região Autónoma da Madeira, E.P.E., alterado e republicado no JORAM n.º 29, II Série, Suplemento, de 15 de Fevereiro de 2010.
+2. O licenciado em Contabilidade e Fiscalidade a contratar, com a especialização e experiência mencionadas, auferirá a remuneração mensal análoga à de um Técnico Superior, da carreira geral de Técnico Superior, colocado na 2.ª posição remuneratória, no nível remuneratório 15, a que corresponde o montante pecuniário de 1.201,48 (mil duzentos e um euros e quarenta e oito cêntimos), a que acrescerão os subsídios remuneratórios previstos na lei.
+3. O contrato de trabalho terá início após a tramitação do processo de selecção.
+4. A vaga disponibilizada no presente despacho será incluída na dotação do contrato-programa de 2010, a
+
+celebrar entre a Região Autónoma da Madeira e o Serviço de Saúde da Região Autónoma da Madeira, E.P.E.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
+Resolução n.º 1624/2010
+O Conselho do Governo reunido em plenário em 29 de Dezembro de 2010, resolveu revogar a Resolução n.º 242/2010, aprovada em reunião do Conselho do Governo do dia 4 de Março do corrente ano.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
+Resolução n.º 1625/2010
+Considerando que a Secretária Regional do Turismo e Transportes submeteu à consideração do Governo Regional a necessidade de eleger os órgãos sociais da APRAM - Administração dos Portos da Região Autónoma da Madeira, S.A., para o triénio 2011-2013.
+O Conselho do Governo reunido em plenário em 29 de Dezembro de 2010, resolveu:
+Mandatar a Secretária Regional do Turismo e Transportes, Dra. Conceição Maria de Sousa Nunes Almeida Estudante, para, em representação da Região Autónoma da Madeira, participar na reunião da Assembleia Geral da APRAM - Administração dos Portos da Região Autónoma da Madeira, S.A., que terá lugar na sede da empresa, no dia 30 de Dezembro de 2010, pelas 10H00, podendo deliberar sobre os pontos seguintes:
+1. Eleição dos órgãos sociais da APRAM - Administração dos Portos da Região Autónoma da Madeira, S.A., para o triénio 2011-2013.
+2. Fixação das remunerações e benefícios dos referidos órgãos sociais.
+3. Outros assuntos de interesse geral.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
