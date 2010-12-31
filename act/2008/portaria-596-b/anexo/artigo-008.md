@@ -21,3 +21,7 @@ b) Contabilizar as despesas de uma forma independente, nomeadamente através da 
 c) Garantir que todos os pagamentos e recebimentos referentes à operação são efectuados através de conta bancária específica para o efeito;
 
 d) Não locar, alienar ou por qualquer forma onerar os equipamentos, durante o período de vigência do protocolo, sem prévia autorização da AG.
+
+e) Cumprir as obrigações legais, designadamente as fiscais e relativas à segurança social;
+
+f) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido.

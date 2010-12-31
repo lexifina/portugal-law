@@ -16,7 +16,7 @@ iii) Aluguer de espaços destinados às acções de aconselhamento técnico e de
 
 iv) Outros materiais e serviços necessários para o aconselhamento técnico e a sensibilização das populações alvo da ITI;
 
-b) Compra ou locação de equipamentos administrativos novos, designadamente equipamento informático e equipamentos de som e imagem adquiridos até ao final de 2009, salvo situações de substituições dos equipamentos directamente imputáveis à operação, previamente autorizadas pelo gestor;
+b) Compra ou locação de programas informáticos novos e equipamentos administrativos novos, designadamente equipamento informático e equipamentos de som e imagem;
 
 c) Despesas com deslocações, tais como: ajudas de custo e subsídio de transporte em automóvel próprio, até aos limites legais, de acordo com as regras da sua atribuição aos servidores do Estado, bem como despesas relacionadas com deslocação em viatura de serviço.
 

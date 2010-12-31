@@ -4,7 +4,7 @@
 
 Para efeitos de aplicação do presente Regulamento, e para além das definições constantes do Decreto-Lei n.º 37-A/2008, de 5 de Março, entende-se por:
 
-a) «Estrutura local de apoio (ELA)» a estrutura de natureza técnica criada com o objectivo de promover a dinamização e aconselhamento técnico das populações alvo da respectiva ITI, constituída por representantes das direcções regionais de agricultura e pescas (DRAP), que presidem e a representam em todos os actos, da Direcção-Geral dos Recursos Florestais (DGRF), do Instituto da Conservação da Natureza e Biodiversidade (ICNB), de organizações locais representativas de produtores agrícolas e florestais e de organizações não governamentais de ambiente (ONGA);
+a) «Estrutura local de apoio (ELA)» a estrutura de natureza técnica, com o objectivo de promover a dinamização e aconselhamento técnico das populações alvo da respectiva ITI, constituída por representantes das direcções regionais de agricultura e pescas (DRAP), que presidem e a representam em todos os actos, da Autoridade Florestal Nacional (AFN), do Instituto da Conservação da Natureza e Biodiversidade (ICNB), de organizações locais representativas de produtores agrícolas e florestais e de organizações não governamentais de ambiente (ONGA);
 
 b) «Operação», no âmbito deste Regulamento e sem prejuízo do disposto no Decreto-Lei n.º 37-A/2008, entende-se como operação a realização do plano de execução anual;
 
