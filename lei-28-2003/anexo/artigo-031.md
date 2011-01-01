@@ -1,5 +1,5 @@
 # Artigo 31.º
 
-### Mapa de pessoal
+### Quadro de pessoal
 
-A Assembleia da República dispõe do pessoal constante dos mapas aprovados por resolução da Assembleia da República, sob proposta do Conselho de Administração.
+A Assembleia da República dispõe do pessoal constante dos quadros aprovados por resolução da Assembleia da República, sob proposta do Conselho de Administração.
