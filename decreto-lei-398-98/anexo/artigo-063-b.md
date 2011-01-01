@@ -16,7 +16,7 @@ e) Quando exista a necessidade de controlar os pressupostos de regimes fiscais p
 
 f) Quando se verifique a impossibilidade de comprovação e quantificação directa e exacta da matéria tributável, nos termos do artigo 88.º, e, em geral, quando estejam verificados os pressupostos para o recurso a uma avaliação indirecta.
 
-g) Quando se verifique a existência comprovada de dívidas à segurança social.
+g) Quando se verifique a existência comprovada de dívidas à administração fiscal ou à segurança social.
 
 2 - A administração tributária tem, ainda, o poder de aceder directamente aos documentos bancários, nas situações de recusa da sua exibição ou de autorização para a sua consulta, quando se trate de familiares ou terceiros que se encontrem numa relação especial com o contribuinte.
 

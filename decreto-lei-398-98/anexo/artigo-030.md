@@ -19,3 +19,5 @@ d) O direito a juros compensatórios;
 e) O direito a juros indemnizatórios.
 
 2 - O crédito tributário é indisponível, só podendo fixar-se condições para a sua redução ou extinção com respeito pelo princípio da igualdade e da legalidade tributária.
+
+3 - O disposto no número anterior prevalece sobre qualquer legislação especial.

@@ -10,6 +10,6 @@
 
 4 - A reversão, mesmo nos casos de presunção legal de culpa, é precedida de audição do responsável subsidiário nos termos da presente lei e da declaração fundamentada dos seus pressupostos e extensão, a incluir na citação.
 
-5 - O responsável subsidiário fica isento de juros de mora e de custas se, citado para cumprir a dívida tributária principal, efectuar o respectivo pagamento no prazo de oposição.
+5 - O responsável subsidiário fica isento de custas e de juros de mora liquidados no processo de execução fiscal se, citado para cumprir a dívida constante do título executivo, efectuar o respectivo pagamento no prazo de oposição.
 
 6 - O disposto no número anterior não prejudica a manutenção da obrigação do devedor principal ou do responsável solidário de pagarem os juros de mora e as custas, no caso de lhe virem a ser encontrados bens.
