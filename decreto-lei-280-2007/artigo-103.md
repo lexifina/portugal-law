@@ -10,6 +10,6 @@
 
 4 - A decisão sobre a adjudicação do membro do Governo responsável pela área das finanças é notificada, no prazo de 10 dias, a todos os concorrentes.
 
-5 - Revogado.
+5 - O documento de notificação da adjudicação constitui título bastante para o registo provisório da aquisição a favor do adjudicatário.
 
-6 - Revogado.
+6 - Após pagamento integral do valor da adjudicação é emitido o respectivo título de arrematação.

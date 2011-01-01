@@ -10,10 +10,6 @@
 
 4 - No caso de bens imóveis do Estado ou de institutos públicos cuja regularização registral se verifique em termos diversos dos previstos no artigo anterior, a isenção de licenciamento ou de autorização administrativa é registada a requerimento do adquirente do imóvel ao Estado ou a instituto público, com base em documento emitido pela Direcção-Geral do Tesouro e Finanças ou pelo instituto público que certifique tal facto.
 
-5 - O disposto nos números anteriores é aplicável, com as devidas adaptações, à titulação de atos que envolvam a transmissão e a constituição de direitos reais ou outras situações jurídicas sobre bens imóveis que:
-
-a) Pertencendo ao património de empresas privatizadas ou reprivatizadas, não dispunham, à data da privatização ou reprivatização, de licenciamento e de autorização administrativa, nos termos da legislação aplicável;
-
-b) Tendo ingressado, por qualquer via, no património do Estado ou de instituto público, não dispunham, à data do ingresso, de licenciamento e de autorização administrativa, nos termos da legislação aplicável.
+5 - O disposto nos números anteriores é aplicável, com as devidas adaptações, à titulação de actos que envolvam a transmissão e a constituição de direitos reais ou outras situações jurídicas sobre bens imóveis que, pertencendo ao património de empresas privatizadas ou reprivatizadas, não dispunham, à data da privatização ou reprivatização, de licenciamento e de autorização administrativa, nos termos da legislação aplicável.
 
 6 - A titulação de actos que envolvam uma transmissão da propriedade de imóveis posterior à transmissão efectuada pelo Estado, pelos institutos públicos ou pelas empresas privatizadas ou reprivatizadas efectua-se igualmente sem apresentação de licença ou autorização administrativa até que ocorra operação urbanística que, nos termos gerais, careça de licenciamento ou de autorização administrativa.

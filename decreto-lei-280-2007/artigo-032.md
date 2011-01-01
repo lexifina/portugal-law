@@ -1,7 +1,3 @@
-## Subsecção I
-
-## Aquisição onerosa
-
 # Artigo 32.º
 
 ### Competência

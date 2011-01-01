@@ -7,5 +7,3 @@
 2 - A denúncia, quando efectuada nos termos do número anterior, é autorizada pelo membro do Governo responsável pela área das finanças, cabendo à Direcção-Geral do Tesouro e Finanças notificar o arrendatário.
 
 3 - Se o arrendatário não desocupar o prédio no prazo de 120 dias a contar da notificação a que se refere o número anterior, fica sujeito a despejo imediato, sem dependência de acção judicial, a executar nos termos do n.º 3 do artigo 76.º
-
-4 - O disposto nos números anteriores é aplicável, com as devidas adaptações, aos imóveis dos institutos públicos arrendados, devendo a autorização prevista no n.º 2 ser igualmente concedida pelo membro do Governo da tutela.
