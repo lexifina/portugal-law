@@ -14,7 +14,7 @@ iii) Dos actos administrativos respeitantes a questões fiscais que não sejam a
 
 b) Das acções destinadas a obter o reconhecimento de direitos ou interesses legalmente protegidos em matéria fiscal, cujo valor ultrapasse 10 vezes o valor da alçada dos Tribunais da Relação;
 
-c) De providências cautelares para garantia de créditos fiscais, cujo valor ultrapasse 10 vezes o valor da alçada dos Tribunais da Relação;
+c) Dos incidentes, embargos de terceiro, reclamação da verificação e graduação de créditos, anulação da venda, oposições e impugnação de actos lesivos, bem como de todas as questões relativas à legitimidade dos responsáveis subsidiários, levantadas nos processos de execução fiscal, cujo valor ultrapasse dez vezes o valor da alçada dos Tribunais da Relação;
 
 d) Dos seguintes pedidos:
 
@@ -42,7 +42,7 @@ v) Dos actos administrativos respeitantes a questões fiscais que não sejam atr
 
 b) Das acções destinadas a obter o reconhecimento de direitos ou interesses legalmente protegidos em matéria fiscal, cujo valor ultrapasse duas vezes o valor da alçada dos Tribunais da Relação;
 
-c) Dos incidentes, embargos de terceiro, verificação e graduação de créditos, anulação da venda, oposições e impugnação de actos lesivos, bem como de todas as questões relativas à legitimidade dos responsáveis subsidiários, levantadas nos processos de execução fiscal, cujo valor ultrapasse duas vezes o valor da alçada dos Tribunais da Relação;
+c) Dos incidentes, embargos de terceiro, reclamação da verificação e graduação de créditos, anulação da venda, oposições e impugnação de actos lesivos, bem como de todas as questões relativas à legitimidade dos responsáveis subsidiários, levantadas nos processos de execução fiscal, cujo valor ultrapasse duas vezes o valor da alçada dos Tribunais da Relação;
 
 d) De providências cautelares para garantia de créditos fiscais, cujo valor ultrapasse duas vezes o valor da alçada dos Tribunais da Relação;
 
@@ -74,7 +74,7 @@ v) Dos actos administrativos respeitantes a questões fiscais que não sejam atr
 
 b) Das acções destinadas a obter o reconhecimento de direitos ou interesses legalmente protegidos em matéria fiscal, cujo valor não ultrapasse duas vezes o valor da alçada dos Tribunais da Relação;
 
-c) Dos incidentes, embargos de terceiro, verificação e graduação de créditos, anulação da venda, oposições e impugnação de actos lesivos, bem como de todas as questões relativas à legitimidade dos responsáveis subsidiários, levantadas nos processos de execução fiscal, cujo valor não ultrapasse duas vezes o valor da alçada dos Tribunais da Relação;
+c) Dos incidentes, embargos de terceiro, reclamação da verificação e graduação de créditos, anulação da venda, oposições e impugnação de actos lesivos, bem como de todas as questões relativas à legitimidade dos responsáveis subsidiários, levantadas nos processos de execução fiscal, cujo valor não ultrapasse duas vezes o valor da alçada dos Tribunais da Relação;
 
 d) De providências cautelares para garantia de créditos fiscais, cujo valor não ultrapasse duas vezes o valor da alçada dos Tribunais da Relação;
 

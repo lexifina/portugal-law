@@ -18,7 +18,7 @@ b) Da impugnação de decisões de aplicação de coimas e sanções acessórias
 
 c) Das acções destinadas a obter o reconhecimento de direitos ou interesses legalmente protegidos em matéria fiscal;
 
-d) Dos incidentes, embargos de terceiro, verificação e graduação de créditos, anulação da venda, oposições e impugnação de actos lesivos, bem como de todas as questões relativas à legitimidade dos responsáveis subsidiários, levantadas nos processos de execução fiscal;
+d) Dos incidentes, embargos de terceiro, reclamação da verificação e graduação de créditos, anulação da venda, oposições e impugnação de actos lesivos, bem como de todas as questões relativas à legitimidade dos responsáveis subsidiários, levantadas nos processos de execução fiscal;
 
 e) Dos seguintes pedidos:
 
