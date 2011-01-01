@@ -4,4 +4,8 @@
 
 1 - A verificação e graduação dos créditos tem efeito suspensivo quanto ao seu objecto, sem prejuízo do andamento da execução fiscal até à venda dos bens.
 
-2 - Havendo reclamações ou juntas as certidões referidas no artigo 241.º, o processo será remetido ao tribunal tributário de 1.ª instância para ulteriores termos de verificação e graduação de créditos acompanhado de cópia autenticada do processo principal.
+2 - Havendo reclamações ou juntas as certidões referidas no artigo 241.º, o órgão de execução fiscal procede à verificação e graduação de créditos, notificando dela todos os credores que reclamaram créditos.
+
+3 - Os credores referidos no número anterior podem reclamar da verificação e graduação de créditos nos termos e prazos previstos nos artigos 276.º e seguintes.
+
+4 - A reclamação referida no número anterior tem efeitos suspensivos, procedendo-se à sua remessa imediata ao tribunal tributário de 1.ª instância acompanhado de cópia autenticada do processo principal.

@@ -6,7 +6,13 @@
 
 a) Quando a modalidade de venda for a de propostas em carta fechada e no dia designado para a abertura de propostas se verificar a inexistência de proponentes ou a existência apenas de propostas de valor inferior ao valor base anunciado;
 
-b) Quando os bens a vender forem valores mobiliários admitidos à cotação em bolsa.
+b) Quando os bens a vender forem valores mobiliários admitidos à cotação em bolsa;
+
+c) ...
+
+d) ...
+
+e) Quando for determinado pelo dirigente máximo do serviço.
 
 2 - Quando haja fundada urgência na venda de bens, ou estes sejam de valor não superior a 40 unidades de conta, a venda é feita por negociação particular.
 

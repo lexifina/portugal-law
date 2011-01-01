@@ -14,7 +14,9 @@ b) Imediata penhora dos bens que só subsidiariamente respondam pela dívida exe
 
 c) Incidência sobre bens que, não respondendo, nos termos de direito substantivo, pela dívida exequenda, não deviam ter sido abrangidos pela diligência;
 
-d) Determinação da prestação de garantia indevida ou superior à devida.
+d) Determinação da prestação de garantia indevida ou superior à devida;
+
+e) Erro na verificação ou graduação de créditos.
 
 4 - No caso previsto no número anterior, caso não se verificar a circunstância dos n.os 2 e 3 do artigo 277.º, o órgão da execução fiscal fará subir a reclamação no prazo de oito dias.
 
