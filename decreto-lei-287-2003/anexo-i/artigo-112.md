@@ -18,7 +18,7 @@ c) Prédios urbanos avaliados, nos termos do CIMI: 0,2 % a 0,4 %.
 
 3 - As taxas previstas nas alíneas b) e c) do n.º 1 são elevadas, anualmente, ao dobro nos casos de prédios urbanos que se encontrem devolutos há mais de um ano e elevadas, anualmente, ao triplo nos casos de prédios em ruínas, considerando-se devolutos ou em ruínas, os prédios como tal definidos em diploma próprio.
 
-4 - Para os prédios que sejam propriedade de entidades que tenham domicílio fiscal em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças, a taxa do imposto é de 1%, sendo elevado a 2% nas situações a que se refere o número anterior.
+4 - Para os prédios que sejam propriedade de entidades que tenham domicílio fiscal em país, território ou região sujeitos a regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças, a taxa do imposto é de 5 %.
 
 5 - Os municípios, mediante deliberação da assembleia municipal, fixam a taxa a aplicar em cada ano, dentro dos intervalos previstos nas alíneas b) e c) do n.º 1, podendo esta ser fixada por freguesia.
 

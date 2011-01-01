@@ -20,7 +20,7 @@ e) As instituições particulares de solidariedade social e entidades a estas le
 
 f) As aquisições de bens para fins religiosos, efectuadas por pessoas colectivas religiosas, como tal inscritas, nos termos da lei que regula a liberdade religiosa;
 
-g) As aquisições de prédios classificados como de interesse nacional, de interesse público ou de interesse municipal, ao abrigo da Lei n.º 107/2001, de 8 de Setembro;
+g) As aquisições de prédios individualmente classificados como de interesse nacional, de interesse público ou de interesse municipal, nos termos da legislação aplicável;
 
 h) As aquisições de bens situados nas regiões economicamente mais desfavorecidas, quando efectuadas por sociedades comerciais ou civis sob a forma comercial, que os destinem ao exercício, naquelas regiões, de actividades agrícolas ou industriais consideradas de superior interesse económico e social;
 

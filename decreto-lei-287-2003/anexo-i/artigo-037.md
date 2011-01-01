@@ -14,7 +14,7 @@
 
 2 - À declaração referida no número anterior deve o sujeito passivo juntar plantas de arquitectura das construções correspondentes às telas finais aprovadas pela competente câmara municipal ou fotocópias das mesmas autenticadas e, no caso de construções não licenciadas, plantas da sua responsabilidade.
 
-3 - Em relação aos terrenos para construção, deve ser apresentada fotocópia do alvará de loteamento, que deve ser substituída, caso não exista loteamento, por fotocópia do alvará de licença de construção, projecto aprovado ou documento comprovativo da viabilidade construtiva.
+3 - Em relação aos terrenos para construção, deve ser apresentada fotocópia do alvará de loteamento, que deve ser substituída, caso não exista loteamento, por fotocópia do alvará de licença de construção, projecto aprovado, comunicação prévia, informação prévia favorável ou documento comprovativo de viabilidade construtiva.
 
 4 - A avaliação reporta-se à data do pedido de inscrição ou actualização do prédio na matriz.
 
