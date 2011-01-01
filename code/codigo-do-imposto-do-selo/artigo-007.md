@@ -20,7 +20,7 @@ g) As operações financeiras, incluindo os respectivos juros, por prazo não su
 
 h) As operações, incluindo os respectivos juros, referidas na alínea anterior, quando realizadas por detentores de capital social a entidades nas quais detenham directamente uma participação no capital não inferior a 10% e desde que esta tenha permanecido na sua titularidade durante um ano consecutivo ou desde a constituição da entidade participada, contanto que, neste último caso, a participação seja mantida durante aquele período;
 
-i) Os empréstimos com características de suprimentos, incluindo os respectivos juros efectuados por sócios à sociedade em que seja estipulado um prazo inicial não inferior a um ano e não sejam reembolsados antes de decorrido esse prazo;
+i) Os empréstimos com características de suprimentos, incluindo os respectivos juros efectuados por sócios à sociedade;
 
 j) Os mútuos constituídos no âmbito do regime legal do crédito à habitação até ao montante do capital em dívida, quando deles resulte mudança da instituição de crédito ou sub-rogação nos direitos e garantias do credor hipotecário, nos termos do artigo 591.º do Código Civil;
 
@@ -34,11 +34,13 @@ o) Os actos, contratos e operações em que as instituições comunitárias ou o
 
 p) O jogo do bingo e os jogos organizados por instituições de solidariedade social, pessoas colectivas legalmente equiparadas ou pessoas colectivas de utilidade pública que desempenhem única e, exclusiva ou predominantemente, fins de caridade, de assistência ou de beneficência, quando a receita se destine aos seus fins estatutários ou, nos termos da lei, reverta obrigatoriamente a favor de outras entidades, com excepção dos jogos sociais do Estado;
 
-q) (Revogada.)
+q) (Revogada.);
 
-r) (Revogada.)
+r) (Revogada.);
 
-s) (Revogada.)
+s) (Revogada.);
+
+t) As aquisições onerosas ou a título gratuito de imóveis por entidades públicas empresariais responsáveis pela rede pública de escolas, destinadas directa ou indirectamente à realização dos seus fins estatutários.
 
 2 - O disposto nas alíneas g) e h) do n.º 1 não se aplica quando qualquer dos intervenientes não tenha sede ou direcção efectiva no território nacional, com excepção das situações em que o credor tenha sede ou direcção efectiva noutro Estado membro da União Europeia ou num Estado em relação ao qual vigore uma convenção para evitar a dupla tributação sobre o rendimento e o capital acordada com Portugal, caso em que subsiste o direito à isenção, salvo se o credor tiver previamente realizado os financiamentos previstos nas alíneas g) e h) do n.º 1 através de operações realizadas com instituições de crédito ou sociedades financeiras sediadas no estrangeiro ou com filiais ou sucursais no estrangeiro de instituições de crédito ou sociedades financeiras sediadas no território nacional.
 
