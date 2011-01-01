@@ -84,4 +84,6 @@ qq) A Portaria n.º 292/2009, de 23 de Março;
 
 rr) O Despacho Normativo n.º 208/83, de 22 de Novembro.
 
+ss) O Decreto-Lei n.º 299/86, de 19 de Setembro.
+
 2 - Até à entrada em vigor da regulamentação mantêm-se transitoriamente em vigor as disposições procedimentais dos diplomas revogados no número anterior que não contrariem o disposto no Código.

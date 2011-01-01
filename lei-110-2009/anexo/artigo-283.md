@@ -2,7 +2,7 @@
 
 ### Efeitos específicos no registo de remunerações
 
-1 - As contribuições das entidades contratantes sobre serviços prestados por trabalhadores independentes que beneficiam de isenção de contribuir em virtude de se encontrarem abrangidos pelo regime geral dos trabalhadores por conta de outrem, relevam para efeitos de registo de remunerações do trabalhador nos termos dos números seguintes.
+1 - As contribuições das entidades contratantes sobre serviços prestados por trabalhadores independentes relevam para efeitos de registo de remunerações do trabalhador nos termos dos números seguintes.
 
 2 - A remuneração a registar na carreira de trabalhador corresponde a um quinto do valor anual que serviu de base de incidência contributiva ao cálculo das contribuições pagas pelas entidades contratantes referentes a esse trabalhador.
 

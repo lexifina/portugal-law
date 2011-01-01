@@ -10,6 +10,8 @@
 
 (ver documento original)
 
-4 - A base de incidência contributiva é fixada anualmente em Outubro e produz efeitos nos 12 meses seguintes.
+4 - Sempre que o rendimento relevante tenha sido apurado nos termos do n.º 2 do artigo anterior, o limite mínimo de base de incidência contributiva corresponde ao segundo escalão.
 
-5 - A actualização da base de incidência resultante da actualização do IAS produz efeitos a partir do 1.º dia do mês seguinte ao da publicação do diploma que proceda àquela actualização.
+5 - A base de incidência contributiva é fixada anualmente em Outubro e produz efeitos nos 12 meses seguintes.
+
+6 - A actualização da base de incidência resultante da actualização do IAS produz efeitos a partir do 1.º dia do mês seguinte ao da publicação do diploma que proceda àquela actualização.
