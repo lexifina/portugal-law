@@ -18,9 +18,9 @@
 
 6 - Se caducar qualquer isenção ou redução de taxas, o imposto deve ser pago no prazo previsto no n.º 1 do artigo 34.º
 
-7 - Nas partilhas judiciais e extrajudiciais, o imposto deve ser pago nos 30 dias posteriores à notificação.
+7 - Nas partilhas judiciais e extrajudiciais, o imposto deve ser pago nos 30 dias posteriores ao acto.
 
-8 - Se o IMT for liquidado conjuntamente com o imposto do selo, o seu pagamento deve ser feito no prazo de pagamento deste imposto.
+8 - Sempre que o IMT seja liquidado conjuntamente com o imposto do selo, o seu pagamento deve ser efectuado no prazo da respectiva notificação.
 
 9 - No caso previsto na alínea e) do n.º 3 do artigo 2.º, o imposto deve ser pago nos termos seguintes:
 

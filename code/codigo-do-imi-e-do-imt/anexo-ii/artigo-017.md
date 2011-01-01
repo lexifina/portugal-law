@@ -24,7 +24,7 @@ d) Aquisição de outros prédios urbanos e outras aquisições onerosas - 6,5%.
 
 2 - À aquisição onerosa de figuras parcelares do direito de propriedade aplica-se a taxa referida no número anterior correspondente à natureza dos bens sobre que incide o direito adquirido, sendo aplicável a taxa referida na alínea a) do número anterior apenas quando estiver em causa a transmissão do usufruto, uso ou habitação de prédio urbano ou fracção autónoma de prédio urbano destinado exclusivamente a habitação própria e permanente.
 
-3 - Quando, relativamente às aquisições a que se referem as alíneas a) e b) do n.º 1, o valor sobre que incide o imposto for superior a (euro) 90 418, deve ser dividido em duas partes, sendo uma igual ao limite do maior dos escalões que nela couber, à qual se aplica a taxa média correspondente a este escalão, e outra, igual ao excedente, a que se aplica a taxa marginal respeitante ao escalão imediatamente superior.
+3 - Quando, relativamente às aquisições a que se referem as alíneas a) e b) do n.º 1, o valor sobre que incide o imposto for superior a (euro) 92 407, é dividido em duas partes, sendo uma igual ao limite do maior dos escalões que nela couber, à qual se aplica a taxa média correspondente a este escalão, e outra, igual ao excedente, a que se aplica a taxa marginal respeitante ao escalão imediatamente superior.
 
 4 - A taxa é sempre de 15%, não se aplicando qualquer isenção ou redução, sempre que o adquirente tenha a residência ou sede em país, território ou região sujeito a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças, sem prejuízo da isenção prevista no artigo 7.º do Decreto-Lei n.º 540/76, de 9 de Julho.
 

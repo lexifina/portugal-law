@@ -36,9 +36,11 @@ e) As previstas no artigo 9.º, quando respeitem às transmissões referidas nas
 
 6 - São de reconhecimento prévio, por despacho do Ministro das Finanças sobre informação e parecer da Direcção-Geral dos Impostos, as seguintes isenções:
 
-a) As previstas na alínea b) do artigo 6.º, na alínea a) do n.º 2 do artigo 8.º, desde que o valor que serviria de base à liquidação do IMT, caso este fosse devido, apurado nos termos da regra 5.ª do artigo 12.º, exceda o montante referido no artigo 9.º, bem como as previstas na alínea b) do n.º 2 do artigo 8.º;
+a) As previstas na alínea b) do artigo 6.º;
 
-b) As estabelecidas em legislação extravagante ao presente código, cuja competência, nos termos dos respectivos diplomas, seja expressamente atribuída ao Ministro das Finanças.
+b) As previstas na alínea a) do n.º 2 do artigo 8.º desde que o valor que serviria de base a liquidação do IMT, caso este fosse devido, apurado nos termos da regra 5.ª do artigo 12.º, exceda o montante referido no artigo 9.º, bem como as previstas na alínea b) do n.º 2 do artigo 8.º;
+
+c) As estabelecidas em legislação extravagante ao presente código, cuja competência, nos termos dos respectivos diplomas, seja expressamente atribuída ao Ministro das Finanças.
 
 7 - São de reconhecimento prévio, por despacho do director-geral dos impostos sobre informação dos serviços competentes, as seguintes isenções:
 
@@ -63,3 +65,9 @@ a) As previstas nas alíneas d), e), f), g), h), i), j) e l) do artigo 6.º;
 b) As estabelecidas em legislação extravagante ao presente código, cuja competência, nos termos dos respectivos diplomas, seja expressamente atribuída ao director-geral dos impostos.
 
 9 - Os serviços da Direcção-Geral dos Impostos competentes para informar os pedidos de isenção poderão ouvir os organismos que superintendem nas actividades em que os requerentes se integram sempre que tal se revele necessário para a adequada proposta de decisão.
+
+10 - Não obstante o disposto na alínea b) do n.º 6, para as situações aí previstas, o requerente pode obter a suspensão do pagamento do imposto nos casos em que a dação em cumprimento tenha sido efectuada por devedor pessoa singular, desde que entregue o requerimento a solicitar a respectiva isenção devidamente instruído conjuntamente com a declaração referida no n.º 1 do artigo 19.º
+
+11 - A emissão da declaração de isenção a que se refere o número anterior compete ao serviço de finanças onde for apresentada a declaração referida no n.º 1 do artigo 19.º
+
+12 - Se a isenção a que se refere o n.º 10 não vier a ser objecto de reconhecimento, ao imposto devido são acrescidos juros compensatórios, nos termos do artigo 35.º da lei geral tributária, pelo prazo máximo de 180 dias.
