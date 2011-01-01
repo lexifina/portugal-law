@@ -10,10 +10,12 @@
 
 2 - As pessoas referidas na alínea c) do n.º 1 do artigo 2.º e no artigo 43.º devem entregar em qualquer serviço de finanças o correspondente imposto nos prazos de, respectivamente, 15 dias a contar da emissão da factura ou documento equivalente e até ao final do mês seguinte ao da conclusão da operação.
 
-3 - Os sujeitos passivos abrangidos pelas alíneas e), g) e h) do n.º 1 do artigo 2.º, que não estejam obrigados à apresentação da declaração referida no artigo 41.º, devem entregar em qualquer serviço de finanças o correspondente imposto, até ao final do mês seguinte àquele em que se torna exigível.
+3 - Os sujeitos passivos abrangidos pelas alíneas e), g) e h) do n.º 1 do artigo 2.º, que não estejam obrigados à apresentação da declaração periódica nos termos do artigo 41.º, devem enviar, por transmissão electrónica de dados, a declaração correspondente às operações tributáveis realizadas e efectuar o pagamento do respectivo imposto, nos locais de cobrança legalmente autorizados, até ao final do mês seguinte àquele em que se torna exigível.
 
-4 - Os sujeitos passivos mencionados no número anterior, que não estejam obrigados à apresentação da declaração referida no artigo 41.º, mas já tenham apresentado a declaração prevista no n.º 1 do artigo 25.º do Regime do IVA nas Transacções Intracomunitárias, devem enviar a declaração nos termos do artigo 29.º do referido Regime e efectuar o pagamento do correspondente imposto até ao final do mês seguinte àquele em que se torna exigível, nos locais previstos no n.º 2 do artigo 22.º do mesmo Regime.
+4 - (Revogado.)
 
-5 - Quando o valor do imposto apurado pelo sujeito passivo na declaração periódica apresentada nos termos do n.º 1 do artigo 41.º for superior ao montante do respectivo meio de pagamento, é extraída, pela Direcção-Geral dos Impostos, certidão de dívida, pela diferença entre o valor apurado e o valor do respectivo meio de pagamento, ou pela totalidade do valor declarado no caso da falta do meio de pagamento, nos termos e para os efeitos do disposto no artigo 88.º do Código de Procedimento e de Processo Tributário.
+5 - A obrigação a que se refere o n.º 3 só se verifica relativamente aos períodos em que haja operações tributáveis.
 
-6 - Quando a saída dos bens do regime de entreposto não aduaneiro, a que se refere o n.º 6 do artigo 15.º, for efectuada por uma pessoa que não esteja obrigada à apresentação da declaração prevista no artigo 41.º, o imposto deve ser entregue em qualquer serviço de finanças, no prazo previsto no n.º 3.
+6 - Quando o valor do imposto apurado pelo sujeito passivo na declaração periódica apresentada nos termos do n.º 1 do artigo 41.º for superior ao montante do respectivo meio de pagamento, é extraída, pela Direcção-Geral dos Impostos, certidão de dívida, pela diferença entre o valor apurado e o valor do respectivo meio de pagamento, ou pela totalidade do valor declarado no caso da falta do meio de pagamento, nos termos e para os efeitos do disposto no artigo 88.º do Código de Procedimento e de Processo Tributário.
+
+7 - Quando a saída dos bens do regime de entreposto não aduaneiro, a que se refere o n.º 6 do artigo 15.º, for efectuada por uma pessoa que não esteja obrigada à apresentação da declaração prevista no artigo 41.º, o imposto deve ser entregue em qualquer serviço de finanças, no prazo previsto no n.º 3.

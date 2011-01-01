@@ -22,9 +22,9 @@ f) Entregar um mapa recapitulativo com a identificação dos sujeitos passivos s
 
 g) Dispor de contabilidade adequada ao apuramento e fiscalização do imposto;
 
-h) Enviar, por transmissão electrónica de dados, a declaração, anexos e mapas recapitulativos a que se referem as alíneas d), e) e f) até ao final do mês de Junho ou, em caso de adopção de um período de tributação em IRC diferente do ano civil, até ao final do 6.º mês posterior à data do termo desse período.
+h) Enviar, por transmissão electrónica de dados, a declaração, os anexos e os mapas recapitulativos a que se referem as alíneas d), e) e f) até ao dia 15 de Julho ou, em caso de adopção de um período de tributação em sede de IRC diferente do ano civil, até ao 15.º dia do 7.º mês posterior à data do termo desse período, independentemente de esse dia ser útil ou não útil.
 
-i) Indicar na declaração recapitulativa a que se refere a alínea c) do n.º 1 do artigo 23.º do Regime do IVA nas Transacções Intracomunitárias, nos prazos e condições previstos no artigo 30.º desse Regime, as prestações de serviços efectuadas a sujeitos passivos que tenham noutro Estado membro da Comunidade a sede, um estabelecimento estável ou, na sua falta, o domicílio, para o qual os serviços são prestados, quando tais operações sejam aí tributáveis.
+i) Indicar na declaração recapitulativa a que se refere a alínea c) do n.º 1 do artigo 23.º do Regime do IVA nas Transacções Intracomunitárias, nos prazos e nas condições previstos no artigo 30.º desse Regime, as prestações de serviços efectuadas a sujeitos passivos que tenham noutro Estado membro da Comunidade a sede, um estabelecimento estável ou, na sua falta, o domicílio, para o qual os serviços são prestados, quando tais operações não sejam tributáveis em território nacional em resultado da aplicação do disposto na alínea a) do n.º 6 do artigo 6.º
 
 2 - A obrigação de declaração periódica prevista no número anterior subsiste mesmo que não haja, no período correspondente, operações tributáveis.
 
@@ -55,11 +55,3 @@ i) Indicar na declaração recapitulativa a que se refere a alínea c) do n.º 1
 15 - Os sujeitos passivos referidos na alínea i) do n.º 1 do artigo 2.º são obrigados a emitir uma factura por cada aquisição de bens ou de serviços aí mencionados quando o respectivo transmitente ou prestador não seja um sujeito passivo, não se aplicando, nesse caso, os condicionalismos previstos no n.º 11 do artigo 36.º
 
 16 - Ficam dispensados de apresentar a declaração, os anexos e os mapas recapitulativos a que se referem as alíneas d), e) e f) do n.º 1 os sujeitos passivos que não possuam nem sejam obrigados a possuir contabilidade organizada para efeitos de IRS.
-
-17 - No preenchimento da declaração recapitulativa a que se refere a alínea i) do n.º 1 deve atender-se ao seguinte:
-
-a) A obrigação declarativa só se verifica relativamente aos períodos em que sejam realizadas as prestações de serviços aí referidas;
-
-b) As prestações de serviços a declarar são as efectuadas no período a que diz respeito a declaração, em conformidade com as regras previstas no artigo 7.º;
-
-c) Podem não ser incluídas as prestações de serviços que sejam isentas do imposto no Estado membro em que as operações são tributáveis.

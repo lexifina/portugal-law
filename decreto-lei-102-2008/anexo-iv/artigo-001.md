@@ -36,7 +36,7 @@ g) «Lugar de chegada» o lugar onde termina efectivamente o transporte dos bens
 
 h) «Serviços de telecomunicações» os que possibilitem a transmissão, a emissão ou a recepção de sinais, texto, imagem e som ou de informações de todo o tipo através de fios, da rádio, de meios ópticos ou de outros meios electromagnéticos, incluindo a cessão ou a concessão com elas correlacionadas de direitos de utilização de instalações de transmissão, emissão ou recepção e a disponibilização do acesso a redes de informação mundiais;
 
-i) «Sujeito passivo revendedor de gás ou de electricidade» a pessoa singular ou colectiva cuja actividade consista na aquisição de gás, através do sistema de distribuição de gás natural, ou de electricidade para revenda, e cujo consumo próprio desses bens não seja significativo.
+i) 'Sujeito passivo revendedor de gás, de electricidade, de calor ou de frio' a pessoa singular ou colectiva cuja actividade consista na aquisição, para revenda, de gás, de electricidade, de calor ou de frio, e cujo consumo próprio desses bens não seja significativo;
 
 j) «Locação de curta duração de um meio de transporte», a locação de um meio de transporte por um período não superior a 30 dias ou, tratando-se de uma embarcação, por um período não superior a 90 dias.
 

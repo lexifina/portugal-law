@@ -24,7 +24,7 @@ g) A reimportação de bens no estado em que foram exportados, por parte de quem
 
 h) As importações de ouro efectuadas pelo Banco de Portugal;
 
-i) As importações de gás, através do sistema de distribuição de gás natural, e de electricidade;
+i) As importações de gás, através de uma rede de gás natural ou de qualquer rede a ela ligada ou introduzidas por navio transportador de gás numa rede de gás natural ou numa rede de gasodutos a montante, de electricidade, e de calor ou de frio, através de redes de aquecimento ou de arrefecimento;
 
 j) As importações de triciclos, cadeiras de rodas, com ou sem motor, automóveis ligeiros de passageiros ou mistos para uso próprio das pessoas com deficiência, de acordo com os condicionalismos previstos no Código do Imposto sobre Veículos, devendo o benefício ser requerido nos termos estabelecidos naquele Código.
 
@@ -34,7 +34,7 @@ a) No âmbito de acordos e convénios internacionais de que Portugal seja parte,
 
 b) No âmbito das relações diplomáticas e consulares que beneficiem de franquia aduaneira;
 
-c) Por organizações internacionais reconhecidas por Portugal e, bem assim, pelos membros dessas organizações, nos limites e nas condições fixados nas convenções internacionais que instituíram as referidas organizações ou nos acordos de sede;
+c) Por organizações internacionais reconhecidas por Portugal, e pelos membros dessas organizações, nos limites e nas condições fixados nas convenções internacionais que instituíram as referidas organizações ou nos acordos de sede, incluindo os organismos aos quais seja aplicável o Protocolo de 8 de Abril de 1965, relativo aos Privilégios e Imunidades das Comunidades Europeias, nos limites e nas condições desse Protocolo, dos acordos relativos à sua aplicação ou dos acordos de sede, desde que daí não resultem distorções de concorrência;
 
 d) No âmbito do Tratado do Atlântico Norte, pelas forças armadas dos outros Estados que são Partes no referido Tratado, para uso dessas forças armadas ou do elemento civil que as acompanha ou para o aprovisionamento das suas messes ou cantinas, quando as referidas forças se encontrem afectas ao esforço comum de defesa.
 

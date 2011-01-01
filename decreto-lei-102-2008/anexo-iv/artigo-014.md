@@ -30,7 +30,7 @@ j) As prestações de serviços não mencionadas nas alíneas f) e g) do present
 
 l) As transmissões de bens e as prestações de serviços efectuadas no âmbito de relações diplomáticas e consulares, cuja isenção resulte de acordos e convénios internacionais celebrados por Portugal;
 
-m) As transmissões de bens e as prestações de serviços destinadas a organismos internacionais reconhecidos por Portugal ou por qualquer outro Estado membro da Comunidade Europeia, ou a membros dos mesmos organismos, nos limites fixados nos acordos e convénios internacionais que instituíram esses organismos ou nos respectivos acordos de sede;
+m) As transmissões de bens e as prestações de serviços destinadas a organizações internacionais reconhecidas por Portugal ou por qualquer outro Estado membro da Comunidade Europeia, ou a membros dessas organizações, nos limites e nas condições fixados nas convenções internacionais que instituíram as referidas organizações ou nos acordos de sede, incluindo os organismos aos quais seja aplicável o Protocolo de 8 de Abril de 1965, relativo aos Privilégios e Imunidades das Comunidades Europeias, nos limites e nas condições desse Protocolo, dos acordos relativos à sua aplicação ou dos acordos de sede, desde que daí não resultem distorções de concorrência;
 
 n) As transmissões de bens e as prestações de serviços efectuadas no âmbito do Tratado do Atlântico Norte às forças armadas dos outros Estados que são Partes no referido Tratado, para uso dessas forças armadas ou do elemento civil que as acompanha ou para o aprovisionamento das suas messes ou cantinas, quando as referidas forças se encontrem afectas ao esforço comum de defesa;
 

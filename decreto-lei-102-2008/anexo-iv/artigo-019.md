@@ -35,3 +35,5 @@ b) No recibo de pagamento de IVA que faz parte das declarações de importação
 5 - No caso de facturas ou documentos equivalentes emitidos pelos próprios adquirentes dos bens ou serviços, o exercício do direito à dedução fica condicionado à verificação das condições previstas no n.º 11 do artigo 36.º
 
 6 - Para efeitos do exercício do direito à dedução, consideram-se passados em forma legal as facturas ou documentos equivalentes que contenham os elementos previstos no artigo 36.º
+
+7 - Não pode deduzir-se o imposto relativo a bens imóveis afectos à empresa, na parte em que esses bens sejam destinados a uso próprio do titular da empresa, do seu pessoal ou, em geral, a fins alheios à mesma.

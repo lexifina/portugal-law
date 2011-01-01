@@ -8,19 +8,19 @@
 
 3 - As transmissões de bens efectuadas a bordo de um navio, de uma aeronave ou de um comboio, durante um transporte intracomunitário de passageiros, só são tributáveis se o lugar de partida se situar no território nacional e o lugar de chegada no território de outro Estado membro, tendo em conta as definições constantes do n.º 3 do artigo 1.º
 
-4 - Não obstante o disposto nos n.os 1 e 2, as transmissões de gás, através do sistema de distribuição de gás natural, e de electricidade são tributáveis:
+4 - Não obstante o disposto nos n.os 1 e 2, as transmissões de gás, através de uma rede de gás natural ou de qualquer rede a ela ligada, de electricidade, de calor ou de frio, através de redes de aquecimento ou de arrefecimento, são tributáveis:
 
-a) Quando o adquirente seja um sujeito passivo revendedor de gás ou de electricidade cuja sede, estabelecimento estável ao qual são fornecidos os bens ou domicílio se situe em território nacional;
+a) Quando o adquirente seja um sujeito passivo revendedor de gás, de electricidade, de calor ou de frio, cuja sede, estabelecimento estável ao qual são fornecidos os bens ou, na sua falta, o domicílio se situe em território nacional;
 
-b) Quando o adquirente seja um sujeito passivo dos referidos na alínea a) do n.º 1 do artigo 2.º, que não seja um sujeito passivo revendedor de gás ou de electricidade, que disponha de sede, estabelecimento estável ao qual são fornecidos os bens ou domicílio em território nacional, e que não os destine a utilização e consumo próprios;
+b) Quando o adquirente seja um dos sujeitos passivos referidos na alínea a) do n.º 1 do artigo 2.º, que não seja revendedor de gás, de electricidade, de calor ou de frio, que disponha de sede, estabelecimento estável ao qual são fornecidos os bens ou, na sua falta, o domicílio em território nacional, na parte que não se destine a utilização e consumo próprios;
 
-c) Quando a utilização e consumo efectivos desses bens, por parte do adquirente, ocorram no território nacional e este não seja um sujeito passivo revendedor de gás ou de electricidade com sede, estabelecimento estável ao qual são fornecidos os bens ou domicílio fora do território nacional.
+c) Quando a utilização e consumo efectivos desses bens, por parte do adquirente, ocorram no território nacional e este não seja um sujeito passivo revendedor de gás, de electricidade, de calor ou de frio, que disponha de sede, estabelecimento estável ao qual são fornecidos os bens ou, na sua falta, o domicílio fora do território nacional.
 
-5 - Não obstante o disposto nos n.os 1 e 2, as transmissões de gás, através do sistema de distribuição de gás natural, e de electricidade não são tributáveis:
+5 - Não obstante o disposto nos n.os 1 e 2, as transmissões de gás, através de uma rede de gás natural ou de qualquer rede a ela ligada, de electricidade, de calor ou de frio, através de redes de aquecimento ou de arrefecimento, não são tributáveis:
 
-a) Quando o adquirente seja um sujeito passivo revendedor de gás ou de electricidade cuja sede, estabelecimento estável ao qual são fornecidos os bens ou domicílio se situe fora do território nacional;
+a) Quando o adquirente seja um sujeito passivo revendedor de gás, de electricidade, de calor ou de frio, cuja sede, estabelecimento estável ao qual são fornecidos os bens ou, na sua falta, o domicílio se situe fora do território nacional;
 
-b) Quando a utilização e consumo efectivos desses bens, por parte do adquirente, ocorram fora do território nacional e este não seja um sujeito passivo revendedor de gás ou de electricidade com sede, estabelecimento estável ao qual são fornecidos os bens ou domicílio no território nacional.
+b) Quando a utilização e consumo efectivos desses bens, por parte do adquirente, ocorram fora do território nacional e este não seja um sujeito passivo revendedor de gás, de electricidade, de calor ou de frio, que disponha de sede, estabelecimento estável ao qual são fornecidos os bens ou, na sua falta, o domicílio no território nacional.
 
 6 - São tributáveis as prestações de serviços efectuadas a:
 
@@ -38,7 +38,7 @@ c) Prestações de serviços de alimentação e bebidas, que não as referidas n
 
 d) Prestações de serviços de alimentação e bebidas, executadas a bordo de uma embarcação, de uma aeronave ou de um comboio, durante um transporte intracomunitário de passageiros, quando o lugar de partida do transporte ocorra fora do território nacional;
 
-e) Prestações de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, compreendendo as dos organizadores destas actividades e as prestações de serviços que lhes sejam acessórias, que não tenham lugar no território nacional;
+e) Prestações de serviços relativas ao acesso a manifestações de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo o acesso a feiras e exposições, assim como as prestações de serviços acessórias relacionadas com o acesso, que não tenham lugar no território nacional;
 
 f) Locação de curta duração de um meio de transporte, quando o lugar da colocação à disposição do destinatário se situe fora do território nacional.
 
@@ -52,7 +52,7 @@ c) Prestações de serviços de alimentação e bebidas, que não as referidas n
 
 d) Prestações de serviços de alimentação e bebidas, executadas a bordo de uma embarcação, de uma aeronave ou de um comboio durante um transporte intracomunitário de passageiros, quando o lugar de partida do transporte ocorra no território nacional;
 
-e) Prestações de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, compreendendo as dos organizadores destas actividades e as prestações de serviços que lhes sejam acessórias, que tenham lugar no território nacional;
+e) Prestações de serviços relativas ao acesso a manifestações de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo o acesso a feiras e exposições, assim como as prestações de serviços acessórias relacionadas com o acesso, que tenham lugar no território nacional;
 
 f) Locação de curta duração de um meio de transporte, quando o lugar da colocação à disposição do destinatário se situe no território nacional.
 
@@ -68,6 +68,8 @@ d) Prestações de serviços que consistam em trabalhos efectuados sobre bens m�
 
 e) Prestações de serviços efectuadas por intermediários agindo em nome e por conta de outrem, quando a operação a que se refere a intermediação tenha lugar fora do território nacional.
 
+f) Prestações de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, não abrangidas pela alínea e) do n.º 7, compreendendo as dos organizadores daquelas actividades e as prestações de serviços que lhes sejam acessórias, que não tenham lugar no território nacional.
+
 10 - Não obstante o disposto na alínea b) do n.º 6, são tributáveis as seguintes operações:
 
 a) Prestações de serviços de transporte de bens, com excepção do transporte intracomunitário de bens, pela distância percorrida no território nacional;
@@ -79,6 +81,8 @@ c) Prestações de serviços acessórias do transporte, que sejam materialmente 
 d) Prestações de serviços que consistam em trabalhos efectuados sobre bens móveis corpóreos e peritagens a eles referentes, quando executadas total ou essencialmente no território nacional;
 
 e) Prestações de serviços efectuadas por intermediários agindo em nome e por conta de outrem, quando a operação a que se refere a intermediação tenha lugar no território nacional.
+
+f) Prestações de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, não abrangidas pela alínea e) do n.º 8, compreendendo as dos organizadores daquelas actividades e as prestações de serviços que lhes sejam acessórias, que tenham lugar no território nacional.
 
 11 - Não obstante o disposto na alínea b) do n.º 6, não são tributáveis as prestações de serviços adiante enumeradas, quando o adquirente for uma pessoa estabelecida ou domiciliada fora da Comunidade:
 
@@ -96,7 +100,7 @@ f) Colocação de pessoal à disposição;
 
 g) Locação de bens móveis corpóreos, com excepção de meios de transporte;
 
-h) Cessão ou concessão do acesso a sistemas de distribuição de gás natural ou de electricidade, bem como prestações de serviços de transporte ou envio através desses sistemas e prestações de serviços directamente conexas;
+h) Cessão ou concessão do acesso a uma rede de gás natural ou a qualquer rede a ela ligada, à rede de electricidade, ou às redes de aquecimento e arrefecimento, bem como prestações de serviços de transporte ou envio através dessas redes e prestações de serviços directamente conexas;
 
 i) Prestações de serviços de telecomunicações;
 

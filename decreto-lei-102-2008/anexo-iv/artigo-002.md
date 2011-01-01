@@ -54,4 +54,4 @@ l) Radiodifusão e radiotelevisão.
 
 4 - Para efeitos dos n.os 2 e 3 do presente artigo, o Ministro das Finanças define, caso a caso, as actividades susceptíveis de originar distorções de concorrência ou aquelas que são exercidas de forma não significativa.
 
-5 - Para efeitos das alíneas e) e g) do n.º 1, consideram-se sujeitos passivos do imposto, relativamente a todos os serviços que lhes sejam prestados no âmbito da sua actividade, as pessoas singulares ou colectivas referidas na alínea a) do n.º 1, bem como quaisquer outras pessoas colectivas que devam estar registadas para efeitos do artigo 5.º do Regime do IVA nas Transacções Intracomunitárias.
+5 - Para efeitos das alíneas e) e g) do n.º 1, consideram-se sujeitos passivos do imposto, relativamente a todos os serviços que lhes sejam prestados no âmbito da sua actividade, as pessoas singulares ou colectivas referidas na alínea a) do n.º 1, bem como quaisquer outras pessoas colectivas que devam estar registadas para efeitos do artigo 25.º do Regime do IVA nas Transacções Intracomunitárias.
