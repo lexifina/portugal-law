@@ -10,6 +10,6 @@ b) A participação no plano de recuperação e saneamento de instituição de c
 
 2 - O recurso ao investimento público é realizado de acordo, nomeadamente, com princípios de proporcionalidade, de remuneração e garantia dos capitais investidos e de minimização dos riscos de distorção da concorrência.
 
-3 - As modalidades previstas no n.º 1 têm natureza subsidiária e temporária, sendo aplicáveis a operações de capitalização de instituições de crédito a realizar até 30 de Junho de 2010.
+3 - As modalidades previstas no n.º 1 têm natureza subsidiária e temporária, sendo aplicáveis a operações de capitalização de instituições de crédito a realizar até 31 de Dezembro de 2011, no quadro das decisões de renovação do presente regime que vierem a ser tomadas no plano europeu.
 
-4 - Caso se justifique face às condições de funcionamento dos mercados financeiros, pode o prazo previsto no número anterior ser prorrogado até 31 de Dezembro de 2010, através de despacho do membro do Governo responsável pela área das finanças, precedido de parecer do Banco de Portugal.
+4 - (Revogado.)
