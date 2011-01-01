@@ -1,3 +1,7 @@
+## Parte III
+
+## Benefícios fiscais com carácter temporário
+
 # Artigo 69.º
 
 ### Prédios situados nas áreas de localização empresarial (ALE)

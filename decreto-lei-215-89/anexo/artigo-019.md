@@ -20,4 +20,4 @@ d) «Criação líquida de postos de trabalho» a diferença positiva, num dado 
 
 5 - A majoração referida no n.º 1 aplica-se durante um período de cinco anos a contar do início da vigência do contrato de trabalho, não sendo cumulável, quer com outros benefícios fiscais da mesma natureza, quer com outros incentivos de apoio ao emprego previstos noutros diplomas, quando aplicáveis ao mesmo trabalhador ou posto de trabalho.
 
-6 - O regime previsto no n.º 1 só pode ser concedido uma vez em relação ao mesmo trabalhador, qualquer que seja a entidade patronal.
+6 - O regime previsto no n.º 1 só pode ser concedido uma única vez por trabalhador admitido nessa entidade ou noutra entidade com a qual existam relações especiais nos termos do artigo 63.º do Código do IRC.

@@ -2,7 +2,7 @@
 
 ### Sociedades gestoras de participações sociais (SGPS), sociedades de capital de risco (SCR) e investidores de capital de risco (ICR)
 
-1 - Às SGPS, às SCR e aos ICR é aplicável o disposto nos n.os 1 e 5 do artigo 46.º do Código do IRC, sem dependência dos requisitos aí exigidos quanto à percentagem ou ao valor da participação.
+1 - (Revogado.)
 
 2 - As mais-valias e as menos-valias realizadas pelas SGPS, pelas SCR e pelos ICR de partes de capital de que sejam titulares, desde que detidas por período não inferior a um ano, e, bem assim, os encargos financeiros suportados com a sua aquisição não concorrem para a formação do lucro tributável destas sociedades.
 
@@ -22,4 +22,4 @@ b) Investimentos em sociedades sujeitas a regulação pelo Banco de Portugal ou 
 
 8 - Por valor investido entende-se a entrada de capitais em dinheiro destinados à subscrição ou aquisição de quotas ou acções ou à realização de prestações acessórias ou suplementares de capital em sociedades que usem efectivamente essas entradas de capital na realização de investimentos com potencial de crescimento e valorização.
 
-9 - O disposto nos n.os 1 a 3 é igualmente aplicável a sociedades cuja sede ou direcção efectiva esteja situada em território português, constituídas segundo o direito de outro Estado membro da União Europeia, que tenham por único objecto contratual a gestão de participações sociais de outras sociedades, desde que preencham os demais requisitos a que se encontram sujeitas as sociedades regidas pelo Decreto-Lei n.º 495/88, de 30 de Dezembro.
+9 - O disposto nos n.os 2 e 3 é igualmente aplicável a sociedades cuja sede ou direcção efectiva esteja situada em território português, constituídas segundo o direito de outro Estado membro da União Europeia, que tenham por único objecto contratual a gestão de participações sociais de outras sociedades, desde que preencham os demais requisitos a que se encontram sujeitas as sociedades regidas pelo Decreto-Lei n.º 495/88, de 30 de Dezembro.

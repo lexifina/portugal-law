@@ -34,6 +34,8 @@ m) As colectividades de cultura e recreio, as organizações não governamentais
 
 n) Os prédios classificados como monumentos nacionais e os prédios individualmente classificados como de interesse público ou de interesse municipal, nos termos da legislação aplicável.
 
+o) As entidades públicas empresariais responsáveis pela rede pública de escolas, quanto aos prédios ou parte de prédios destinados directamente ou indirectamente à realização dos seus fins.
+
 2 - As isenções a que se refere o número anterior iniciam-se:
 
 a) Relativamente às situações previstas nas alíneas a) a d), g) a i) e m), no ano, inclusive, em que o prédio ou parte de prédio for destinado aos fins nelas referidos;
