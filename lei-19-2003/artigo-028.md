@@ -10,4 +10,4 @@
 
 4 - Em iguais penas incorrem os dirigentes de partidos políticos, as pessoas singulares e os administradores de pessoas colectivas que pessoalmente participem nas infracções previstas no número anterior.
 
-5 - O procedimento criminal depende de queixa da entidade prevista no artigo 24.º
+5 - (Revogado).

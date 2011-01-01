@@ -8,6 +8,6 @@
 
 3 - Nas eleições para as autarquias locais, a repartição da subvenção é feita nos seguintes termos: 25% são igualmente distribuídos pelos partidos, coligações e grupos de cidadãos eleitores que preencham os requisitos do n.º 3 do artigo anterior e os restantes 75% são distribuídos na proporção dos resultados eleitorais obtidos para a assembleia municipal.
 
-4 - A subvenção não pode, em qualquer caso, ultrapassar o valor das despesas orçamentadas e efectivamente realizadas, deduzido do montante contabilizado como proveniente de acções de angariação de fundos.
+4 - A subvenção não pode, em qualquer caso, ultrapassar o valor das despesas efectivamente realizadas.
 
-5 - O excedente resultante da aplicação do disposto no número anterior é repartido proporcionalmente pelas candidaturas em que aquela situação não ocorra.
+5 - O eventual excedente proveniente de acções de angariação de fundos, relativamente às despesas realizadas, reverte para o Estado.

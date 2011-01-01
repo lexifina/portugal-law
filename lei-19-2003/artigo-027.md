@@ -2,7 +2,7 @@
 
 ### Apreciação das contas das campanhas eleitorais
 
-1 - No prazo máximo de 90 dias a partir da data da proclamação oficial dos resultados, cada candidatura presta ao Tribunal Constitucional as contas discriminadas da sua campanha eleitoral, nos termos da presente lei.
+1 - No prazo máximo de 90 dias, no caso das eleições autárquicas, e de 60 dias, nos demais casos, após o integral pagamento da subvenção pública, cada candidatura presta ao Tribunal Constitucional as contas discriminadas da sua campanha eleitoral, nos termos da presente lei.
 
 2 - No domínio das eleições autárquicas, cada partido ou coligação, se concorrer a várias autarquias, apresentará contas discriminadas como se de uma só candidatura nacional se tratasse, sem prejuízo do disposto no n.º 2 do artigo 15.º
 

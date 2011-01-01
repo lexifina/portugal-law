@@ -12,29 +12,31 @@ a) O inventário anual do património do partido quanto a bens imóveis sujeitos
 
 b) A discriminação das receitas, que inclui:
 
-As previstas em cada uma das alíneas do artigo 3.º;
+i) As previstas em cada uma das alíneas do artigo 3.º;
 
-As previstas em cada uma das alíneas do artigo 4.º;
+ii) As previstas em cada uma das alíneas do artigo 4.º;
 
 c) A discriminação das despesas, que inclui:
 
-As despesas com o pessoal;
+i) As despesas com o pessoal;
 
-As despesas com aquisição de bens e serviços;
+ii) As despesas com aquisição de bens e serviços;
 
-As contribuições para campanhas eleitorais;
+iii) As contribuições para campanhas eleitorais;
 
-Os encargos financeiros com empréstimos;
+iv) Os encargos financeiros com empréstimos;
 
-Outras despesas com a actividade própria do partido;
+v) Os encargos com o pagamento das coimas previstas nos n.os 1 e 2 do artigo 29.º;
+
+vi) Outras despesas com a actividade própria do partido;
 
 d) A discriminação das operações de capital referente a:
 
-Créditos;
+i) Créditos;
 
-Investimentos;
+ii) Investimentos;
 
-Devedores e credores.
+iii) Devedores e credores.
 
 4 - As contas nacionais dos partidos deverão incluir, em anexo, as contas das suas estruturas regionais, distritais ou autónomas, de forma a permitir o apuramento da totalidade das suas receitas e despesas, podendo, em alternativa, apresentar contas consolidadas.
 
@@ -49,3 +51,9 @@ a) Os extractos bancários de movimentos das contas e os extractos de conta de c
 b) As receitas decorrentes do produto da actividade de angariação de fundos, com identificação do tipo de actividade e data de realização;
 
 c) O património imobiliário dos partidos, sem prejuízo do disposto na alínea a) do n.º 3.
+
+8 - São igualmente anexas às contas nacionais dos partidos, para efeitos da apreciação e fiscalização a que se referem os artigos 23.º e seguintes, as contas dos grupos parlamentares e do deputado único representante de partido da Assembleia da República.
+
+9 - As contas das estruturas regionais referidas no n.º 4 devem incluir, para efeitos da apreciação e fiscalização a que se referem o n.º 8 do artigo 5.º e os artigos 23.º e seguintes, as relativas às subvenções auferidas directamente, ou por intermédio dos grupos parlamentares e do deputado único representante de um partido, das assembleias legislativas das regiões autónomas.
+
+10 - Para efeitos da necessária apreciação e fiscalização, os deputados não inscritos em grupo parlamentar da Assembleia da República e os deputados independentes das assembleias legislativas das regiões autónomas apresentam, ao Tribunal Constitucional, as contas relativas às subvenções auferidas, nos termos do n.º 8 do artigo 5.º e dos artigos 23.º e seguintes, com as devidas adaptações.
