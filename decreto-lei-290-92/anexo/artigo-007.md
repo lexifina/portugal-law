@@ -12,7 +12,7 @@ b) Transferência de bens para serem objecto de transmissão a bordo de um navio
 
 c) Transferência de bens que consista em operações de exportação e operações assimiladas previstas no artigo 14.º do Código do IVA ou em transmissões isentas nos termos do artigo 14.º;
 
-d) Transferência de gás, através do sistema de distribuição de gás natural, e de electricidade;
+d) Transferência de gás, através de uma rede de gás natural ou de qualquer rede a ela ligada, e transferência de electricidade, de calor ou de frio através de redes de aquecimento ou arrefecimento;
 
 e) Transferência de bens para serem objecto de peritagens ou quaisquer trabalhos que consistam em prestações de serviços a efectuar ao sujeito passivo, materialmente executadas no Estado membro de chegada da expedição ou transporte dos bens, desde que, após a execução dos referidos trabalhos, os bens sejam reexpedidos para o território nacional com destino ao sujeito passivo;
 

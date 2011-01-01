@@ -4,7 +4,7 @@
 
 1 - Para efeitos deste diploma, entende-se por:
 
-a) «Bens sujeitos a impostos especiais de consumo» o álcool e as bebidas alcoólicas, o tabaco e os produtos petrolíferos e energéticos, com excepção do gás fornecido pelo sistema de distribuição de gás natural e da electricidade;
+a) 'Bens sujeitos a impostos especiais de consumo' o álcool e as bebidas alcoólicas, o tabaco e os produtos petrolíferos e energéticos, com excepção do gás fornecido através de uma rede de gás natural ou de qualquer rede a ela ligada e da electricidade;
 
 b) «Meios de transporte», as embarcações com comprimento superior a 7,5 m, as aeronaves com peso total na descolagem superior a 1550 kg, e os veículos terrestres a motor com cilindrada superior a 48 c. c. ou potência superior a 7,2 kW, destinados ao transporte de pessoas ou de mercadorias, que sejam sujeitos a registo, licença ou matrícula no território nacional, com excepção das embarcações e aeronaves mencionados nas alíneas d), e) e g) do n.º 1 do artigo 14.º do Código do IVA.
 
