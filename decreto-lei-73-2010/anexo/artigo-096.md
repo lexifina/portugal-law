@@ -2,7 +2,7 @@
 
 ### Produção de produtos petrolíferos e energéticos
 
-1 - Consideram-se estabelecimentos de produção de produtos petrolíferos e energéticos as instalações industriais onde os produtos referidos no n.º 2 do artigo 88.º são fabricados ou submetidos a um tratamento definido, na aceção da nota complementar 5 do capítulo 27 da NC.
+1 - Consideram-se estabelecimentos de produção de produtos petrolíferos e energéticos as instalações industriais onde os produtos referidos no n.º 2 do artigo 88.º são fabricados ou submetidos a um tratamento definido, na acepção da nota complementar 4 do capítulo 27 da NC.
 
 2 - Não se consideram produção de produtos petrolíferos e energéticos:
 
@@ -21,5 +21,3 @@ b) O montante pago não seja inferior ao montante do imposto devido por essa mis
 4 - O tratamento de óleos minerais usados com vista à obtenção de produtos utilizáveis em uso como combustível ou como carburante é obrigatoriamente feito em entreposto fiscal.
 
 5 - A mistura de vários tipos de gases de petróleo com metano, gás natural ou outro tipo de gases, para obtenção de gás carburante para automóveis, só pode ser feita em entreposto fiscal.
-
-6 - A mistura ou incorporação de biocombustíveis noutros produtos petrolíferos e energéticos é obrigatoriamente feita em entreposto fiscal.

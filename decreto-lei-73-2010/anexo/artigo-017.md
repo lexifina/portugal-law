@@ -10,8 +10,6 @@ b) O pedido de reembolso deve conter a indicação do local onde os produtos se 
 
 c) A prova do pagamento do imposto é feita mediante a apresentação do respectivo documento de cobrança, devendo identificar-se o documento de introdução no consumo;
 
-d) O expedidor certificado deve apresentar perante a estância aduaneira competente, por via eletrónica, o relatório de receção do documento de acompanhamento simplificado eletrónico, o qual constitui prova bastante do cumprimento das formalidades necessárias pelo destinatário certificado e, se aplicável, de que este efetuou o pagamento do imposto devido;
+d) O expedidor deve apresentar, logo que possível, na estância aduaneira onde efectuou o pedido de reembolso, o exemplar n.º 3 do documento de acompanhamento simplificado (DAS), devidamente anotado pelo destinatário e acompanhado de um documento que ateste o pagamento do imposto no Estado membro de destino;
 
-e) Tratando-se de bebidas não alcoólicas, o expedidor deve ainda apresentar o documento comprovativo da respetiva transmissão intracomunitária, não se aplicando, neste caso, o disposto na alínea anterior;
-
-f) Os produtos introduzidos no consumo em território nacional, ostentando uma marca fiscal ou uma marca de identificação nacional, só podem ser objecto de reembolso do imposto desde que a destruição dessas marcas seja controlada pela estância aduaneira competente.
+e) Os produtos introduzidos no consumo em território nacional, ostentando uma marca fiscal ou uma marca de identificação nacional, só podem ser objecto de reembolso do imposto desde que a destruição dessas marcas seja controlada pela estância aduaneira competente.

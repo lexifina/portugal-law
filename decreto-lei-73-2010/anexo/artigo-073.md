@@ -4,6 +4,4 @@
 
 1 - A unidade tributável das outras bebidas fermentadas, tranquilas e espumantes é constituída pelo número de hectolitros de produto acabado.
 
-2 - A taxa do imposto aplicável às outras bebidas fermentadas, tranquilas e espumantes é de 12,06 (euro)/hl.
-
-3 - (Revogado).
+2 - A taxa do imposto aplicável às outras bebidas fermentadas, tranquilas e espumantes é a prevista no n.º 2 do artigo anterior.

@@ -6,7 +6,7 @@
 
 a) A actividade económica principal deve consistir na comercialização de produtos sujeitos a impostos especiais de consumo;
 
-b) O comerciante em nome individual ou qualquer dos sócios, gerentes ou administradores, no caso de pessoa coletiva, não ter sido condenado por crime tributário ou por contraordenação tributária punível com coima igual ou superior a 5 000 (euro) nos últimos cinco anos;
+b) O comerciante em nome individual ou qualquer dos gerentes ou administradores, no caso de pessoa colectiva, não ter sido condenado por crime tributário ou por contra-ordenação tributária punível com coima igual ou superior a (euro) 5000 nos últimos cinco anos;
 
 c) Inexistência de dívidas tributárias ou contributivas em fase de cobrança coerciva, sem que haja reclamação graciosa, impugnação judicial, recurso judicial, oposição à execução ou pagamento em prestações com prestação de garantia.
 

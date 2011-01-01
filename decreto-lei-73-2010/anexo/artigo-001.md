@@ -14,9 +14,9 @@
 
 ### Objecto
 
-O presente Código dos Impostos Especiais de Consumo (Código) estabelece o regime dos impostos especiais de consumo, considerando-se como tais:
+O presente Código dos Impostos Especiais de Consumo (Código) estabelece o regime dos impostos especiais de consumo harmonizados pelo Direito Comunitário, considerando-se como tais:
 
-a) O imposto sobre o álcool, as bebidas alcoólicas e as bebidas adicionadas de açúcar ou outros edulcorantes (IABA);
+a) O imposto sobre o álcool e as bebidas alcoólicas (IABA);
 
 b) O imposto sobre os produtos petrolíferos e energéticos (ISP);
 

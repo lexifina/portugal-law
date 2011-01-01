@@ -16,4 +16,4 @@
 
 7 - No prazo de três anos a contar da data do início da operação de circulação, o garante pode solicitar à estância aduaneira competente o reembolso do imposto se apresentar prova suficiente de que o imposto foi cobrado no outro Estado membro onde se apurou ter sido cometida a irregularidade.
 
-8 - Para efeitos do presente Código, entende-se por 'irregularidade na circulação' uma situação que ocorra durante a circulação de produtos sujeitos a impostos especiais de consumo, e devido à qual a circulação ou parte da mesma não tenha terminado de forma regular, incluindo a falta de registo ou certificação de uma ou de todas as pessoas envolvidas na circulação.
+8 - Para efeitos do presente Código, entende-se por «irregularidade na circulação» uma situação que ocorra durante a circulação de produtos sujeitos a impostos especiais de consumo, e devido à qual a circulação ou parte da mesma não tenha terminado de forma regular, exceptuando-se as situações de perda irreparável ou inutilização total.
