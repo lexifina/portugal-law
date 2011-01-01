@@ -11,3 +11,5 @@ b) Ao declarante da declaração aduaneira de veículo quando se trate de veícu
 2 - Nos anos subsequentes e na falta ou atraso de liquidação imputável ao sujeito passivo, ou no caso de erro, omissão, falta ou qualquer outra irregularidade que prejudique a cobrança do imposto, a Direcção-Geral dos Impostos procede à liquidação oficiosa com base nos elementos de que disponha, notificando o sujeito passivo para, no prazo de 10 dias úteis proceder ao respectivo pagamento.
 
 3 - Findo o prazo referido no número anterior sem que esteja efectuado o pagamento do imposto, é extraída a correspondente certidão de dívida.
+
+4 - Não há lugar a qualquer anulação sempre que o montante do imposto a restituir seja inferior a (euro) 10.
