@@ -30,7 +30,7 @@ m) A intimação para um comportamento;
 
 n) O recurso, no próprio processo, dos actos praticados na execução fiscal;
 
-o) A oposição, os embargos de terceiros e outros incidentes e a verificação e graduação de créditos;
+o) A oposição, os embargos de terceiros e outros incidentes, bem como a reclamação da decisão da verificação e graduação de créditos;
 
 p) O recurso contencioso do indeferimento total ou parcial ou da revogação de isenções ou outros benefícios fiscais, quando dependentes de reconhecimento da administração tributária, bem como de outros actos administrativos relativos a questões tributárias que não comportem apreciação da legalidade do acto de liquidação;
 
