@@ -2,7 +2,7 @@
 
 ### Taxas normais - automóveis
 
-1 - A tabela A é aplicável aos automóveis de passageiros, aos automóveis ligeiros de utilização mista que não estejam previstos nos artigos 8.º e 9.º e aos automóveis ligeiros de mercadorias que não estejam previstos nos n.os 2 e 3 do artigo 8.º e na alínea b) do artigo 9.º:
+1 - A tabela A é aplicável aos automóveis de passageiros, aos automóveis ligeiros de utilização mista que não estejam previstos nos artigos 8.º e 9.º e aos automóveis ligeiros de mercadorias que não estejam previstos nos n.os 2 e 3 do artigo 8.º e na alínea b) do artigo 9.º, multiplicando-se as taxas e parcelas a abater da componente ambiental pelo coeficiente de actualização ambiental correspondente ao ano de introdução do consumo do veículo:
 
 TABELA A
 
@@ -14,6 +14,10 @@ Componente ambiental
 
 (ver documento original)
 
+Coeficiente de actualização ambiental
+
+(ver documento original)
+
 2 - A tabela B é aplicável aos veículos referidos nos n.os 2 e 3 do artigo 8.º e no artigo 9.º, nas percentagens aí previstas, sendo as taxas de imposto as seguintes:
 
 TABELA B
@@ -22,7 +26,7 @@ Componente cilindrada
 
 (ver documento original)
 
-3 - Os veículos ligeiros equipados com sistema de propulsão a gasóleo, que apresentem níveis de emissões de partículas iguais ou superiores a 0,005 g/km, constantes dos respectivos certificados de conformidade, ou na sua inexistência, nas respectivas homologações técnicas, ficam sujeitos a um agravamento de (euro) 250 no total do montante de imposto a pagar, depois de aplicadas as reduções a que houver lugar.
+3 - Ficam sujeitos a um agravamento de (euro) 500 no total do montante de imposto a pagar, depois de aplicadas as reduções a que houver lugar, os veículos ligeiros equipados com sistema de propulsão a gasóleo, com excepção daqueles que apresentarem nos respectivos certificados de conformidade ou, na sua inexistência, nas homologações técnicas, um valor de emissão de partículas inferior a 0,005 g/km.
 
 4 - Quando da aplicação das tabelas de taxas a que se referem os n.os 1 e 2 resultar o apuramento de imposto inferior a (euro) 100, há lugar ao pagamento desta importância.
 

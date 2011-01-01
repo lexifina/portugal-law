@@ -2,7 +2,7 @@
 
 ### Taxas - veículos usados
 
-1 - O imposto incidente sobre veículos portadores de matrículas definitivas comunitárias atribuídas por outros Estados membros da União Europeia é objecto de liquidação provisória, com base na aplicação das percentagens de redução, previstas na tabela D, ao imposto resultante da componente cilindrada da tabela respectiva, as quais estão associadas à desvalorização social média dos veículos no mercado nacional, calculada com referência à desvalorização comercial média corrigida do respectivo custo de impacte ambiental:
+1 - O imposto incidente sobre veículos portadores de matrículas definitivas comunitárias atribuídas por outros Estados membros da União Europeia é objecto de liquidação provisória, com base na aplicação das percentagens de redução previstas na tabela D ao imposto resultante da tabela respectiva, as quais estão associadas à desvalorização social média dos veículos no mercado nacional, calculada com referência à desvalorização comercial média corrigida do respectivo custo de impacte ambiental:
 
 TABELA D
 
@@ -10,9 +10,9 @@ TABELA D
 
 2 - Para efeitos de aplicação do número anterior, entende-se por «tempo de uso» o período decorrido desde a atribuição da primeira matrícula e respectivos documentos pela entidade competente até ao termo do prazo para apresentação da declaração aduaneira de veículos.
 
-3 - Sem prejuízo da liquidação provisória efectuada, sempre que o sujeito passivo entenda que o montante do imposto apurado nos termos do n.º 1 excede o imposto calculado por aplicação da fórmula a seguir indicada, pode requerer ao director da alfândega, até ao termo do prazo de pagamento a que se refere o n.º 1 do artigo 27.º, que a mesma seja aplicada à tributação do veículo, tendo em vista a liquidação definitiva do imposto.
+3 - Sem prejuízo da liquidação provisória efectuada, sempre que o sujeito passivo entenda que o montante do imposto apurado nos termos do n.º 1 excede o imposto calculado por aplicação da fórmula a seguir indicada, pode requerer ao director da alfândega, mediante o pagamento prévio de taxa a fixar por portaria do membro do Governo responsável pela área das finanças, e até ao termo do prazo de pagamento a que se refere o n.º 1 do artigo 27.º, que a mesma seja aplicada à tributação do veículo, tendo em vista a liquidação definitiva do imposto:
 
-ISV = (V/VR) x Y + C
+ISV = (V/VR) x (Y + C)
 
 em que:
 

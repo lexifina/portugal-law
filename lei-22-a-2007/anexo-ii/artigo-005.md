@@ -18,7 +18,7 @@ e) Automóveis ligeiros de passageiros que se destinem ao serviço de aluguer co
 
 a) Pessoas com deficiência cujo grau de incapacidade seja igual ou superior a 60% em relação a veículos das categorias A, B e E e nas condições previstas no n.º 5;
 
-b) Pessoas colectivas de utilidade pública e instituições particulares de solidariedade social, nas condições previstas no n.º 6.
+b) Instituições particulares de solidariedade social, nas condições previstas no n.º 6.
 
 3 - A isenção a que se refere a alínea b) do n.º 1 é reconhecida mediante despacho do Director-Geral dos Impostos sobre pedido acompanhado por declaração do Ministério dos Negócios Estrangeiros que comprove os pressupostos da isenção.
 
