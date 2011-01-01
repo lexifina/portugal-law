@@ -32,7 +32,7 @@ l) Sem prejuízo do disposto na alínea seguinte, nos restantes casos, na data d
 
 m) Nos empréstimos efectuados pelos sócios às sociedades em que seja estipulado prazo não inferior a um ano e sejam reembolsados antes desse prazo, no momento do reembolso;
 
-n) Em caso de actos, contratos, documentos, títulos, papéis e outros factos previstos na Tabela Geral anexa ao presente Código em que não intervenham a qualquer título pessoas colectivas ou pessoas singulares no exercício de actividade de comércio, indústria ou prestação de serviços, quando forem apresentados perante qualquer entidade pública;
+n) Em caso de actos, contratos, documentos, títulos, papéis e outros factos previstos na tabela anexa ao presente Código em que não intervenham a qualquer título pessoas colectivas ou pessoas singulares no exercício de actividade de comércio, indústria ou prestação de serviços, quando forem apresentados perante qualquer sujeito passivo do imposto referido na alínea a) do n.º 1 do artigo 2.º;
 
 o) (Revogada.)
 
