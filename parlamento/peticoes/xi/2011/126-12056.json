@@ -1,0 +1,230 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12056",
+  "numero": "126",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-01-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-01-26",
+            "entidades": null,
+            "id": "90123",
+            "tipo": null,
+            "titulo": "Audição em 2011-01-26 com Luis Miguel de Sousa Santos Reis"
+          },
+          {
+            "data": "2011-02-02",
+            "entidades": null,
+            "id": "90205",
+            "tipo": null,
+            "titulo": "Audição em 2011-02-02 com Dr. Mário Teixeira - Vice- Presidente da Mesa da Asembleia Geral da Confederação do Desporto de Portugal, Professor Doutor Carlos Paula Cardoso - Presidente da Confederação do Desporto de Portugal"
+          },
+          {
+            "data": "2011-02-02",
+            "entidades": null,
+            "id": "90257",
+            "tipo": null,
+            "titulo": "Audição em 2011-02-02 com Professor Doutor Carlos Paula Cardoso - Presidente da Confederação do Desporto de Portugal, Vice-Presidente da Mesa da Assembleia-Geral da Confederação do Desporto de Portugal - Dr.Mário Teixeira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-01-20",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Associação Portuguesa das Escolas de Futebol"
+            ],
+            "nrOficio": "63/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-02-01",
+            "dataResposta": "2011-04-06",
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "88/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-02-01",
+            "dataResposta": "2011-02-18",
+            "entidades": [
+              "Secretário de Estado da Juventude e do Desporto"
+            ],
+            "nrOficio": "88/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-02-01",
+            "dataResposta": null,
+            "entidades": [
+              "Associação Nacional de Municípios Portugueses"
+            ],
+            "nrOficio": "89/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-03-01",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-01-18",
+        "DataArquivo": "2011-03-01",
+        "DataBaixaComissao": "2011-01-18",
+        "DataEnvioPAR": "2011-03-03",
+        "DataReaberta": "2011-01-18",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-01-24",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b4e6a68685a6a51794e43316d4d4746694c5452694e6a41744f54566c4e79316d5a4451784f4455785a54566a4d6d59756347526d&fich=d68af424-f0ab-4b60-95e7-fd41851e5c2f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-02-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b5a546b324f5467784d69316b4f54457a4c54517759546774596a6b304d4331685957566c4d546b784e4455324d4467756347526d&fich=de969812-d913-40a8-b940-aaee19145608.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-03-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938315a6a59304d546c6a4e53316d596a68694c54526c4e4751744f44646c4e6930304d574a6b4e3252684d4755324f5463756347526d&fich=5f6419c5-fb8b-4e4d-87e6-41bd7da0e697.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-01-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396c4f5759774d474d324f4330774f57466b4c545132595455744f544a6c59793168596a677a4e7a6b325a6a49345a5751756347526d&fich=e9f00c68-09ad-46a5-92ec-ab83796f28ed.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-03-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938354e3255324d44466a5a5331684f4445794c5451324e474974595759785969316b596d51315a44526b5a5441335a6a41756347526d&fich=97e601ce-a812-464b-af1b-dbd5d4de07f0.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-03-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396c597a5a6d4d4755334e79316c596a45354c54526b4e6a5574596a6b784d5330794d574a6c4d54566c4e54677a4f4449756347526d&fich=ec6f0e77-eb19-4d65-b911-21be15e58382.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-02-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684e4459335a4455314e6931694f544e6c4c5452684f5467744f544d344d5330314d474d7a5a6a4d7a4e4452684d574d756347526d&fich=a467d556-b93e-4a98-9381-50c3f3344a1c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-04-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938775a4749304d7a677a4d79316c4e5749324c5452694d4745744f4455334e6930304e574d35596a4978595441344e4467756347526d&fich=0db43833-e5b6-4b0a-8576-45c9b21a0848.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793969596a6b774e6d46684d5331684f4745784c5451774f4449744f444e6a5a693034595755784d7a526a596d59314e5449756347526d&fich=bb906aa1-a8a1-4082-83cf-8ae134cbf552.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939695a5459795a446868596930325a5745324c54526b4e324974596d466b4d4330334d4467344d6d56695a4759774e4449756347526d&fich=be62d8ab-6ea6-4d7b-bad0-70882ebdf042.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2871",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-01-18",
+            "gp": "PSD",
+            "id": "2641",
+            "motivoCessacao": null,
+            "nome": "Paulo Cavaleiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2011-01-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764e544e6b596a646c595445744e6d49324f5330304d54426a4c546b314d6d55745a54466b4d5751775a6d59774f57566c4c6e426b5a673d3d&fich=53db7ea1-6b69-410c-952e-e1d1d0ff09ee.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12056",
+    "PetAssunto": "Pretende o IVA à taxa reduzida para modalidades desportivas juvenis.",
+    "PetDataEntrada": "2011-01-06",
+    "PeticoesAssociadas": null,
+    "PetId": "12056",
+    "PetLeg": "XI",
+    "PetNr": "126",
+    "PetNrAssinaturas": "1031",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
