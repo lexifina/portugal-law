@@ -12,4 +12,4 @@ c) Os caçadores não residentes nos municípios onde as mesmas se situam, não 
 
 d) Os demais caçadores.
 
-2 - Os critérios de proporcionalidade da participação dos diferentes grupos são fixados nas respectivas portarias de transferência.
+2 - Os critérios de proporcionalidade da participação dos diferentes grupos são fixados nos respectivos despachos de transferência.

@@ -10,6 +10,6 @@ b) Não tenham estabelecido acordos com a entidade gestora.
 
 2 - A exclusão de terrenos de ZCM pode ainda ocorrer a pedido da respectiva entidade gestora ou por razões de interesse público.
 
-3 - A exclusão dos terrenos produz efeitos na data de entrada em vigor da portaria que redefine os limites da zona de caça na qual os terrenos referidos no número anterior se encontravam integrados.
+3 - A exclusão dos terrenos produz efeitos na data de entrada em vigor do despacho que redefine os limites da zona de caça na qual os terrenos referidos no número anterior se encontravam integrados.
 
 4 - No caso de alteração dos titulares de direitos sobre os prédios, havendo acordo com o transmitente, não há lugar à exclusão de terrenos até ao termo da transferência de gestão.

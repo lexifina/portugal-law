@@ -2,8 +2,8 @@
 
 ### Decisão final
 
-O Ministro da Agricultura, Desenvolvimento Rural e Pescas decide:
+Compete ao membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural decidir, por despacho:
 
-a) Conceder, por portaria, a respectiva concessão;
+a) Conceder a respectiva concessão;
 
-b) Por despacho devidamente fundamentado, indeferir o pedido de concessão.
+b) Indeferir o pedido de concessão.

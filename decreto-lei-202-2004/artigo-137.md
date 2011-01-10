@@ -14,7 +14,7 @@ b) O exercício da caça em local que não seja permitido;
 
 c) Efectuar repovoamentos, reforços cinegéticos e largadas fora das condições previstas no artigo 5.º;
 
-d) A violação dos critérios de proporcionalidade no acesso dos caçadores às ZCN e ZCM fixados nas respectivas portarias de constituição de ZCM e nas portarias de transferência de gestão de ZCN e do disposto na alínea e) do artigo 19.º;
+d) A violação dos critérios de proporcionalidade no acesso dos caçadores às ZCN e ZCM fixados nos respectivos despachos de constituição de ZCM e nos despachos de transferência de gestão de ZCN e do disposto na alínea e) do artigo 19.º;
 
 e) O não cumprimento pelas respectivas entidades gestoras de ZCN e ZCM das obrigações constantes nas alíneas f) e i) do artigo 19.º;
 

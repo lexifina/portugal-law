@@ -1,8 +1,8 @@
 # Artigo 41.º
 
-### Conteúdo da portaria de concessão
+### Conteúdo do despacho de concessão
 
-As portarias de concessão de zonas de caça devem especificar, designadamente:
+Os despachos de concessão de zonas de caça devem especificar, designadamente:
 
 a) A identificação do concessionário;
 

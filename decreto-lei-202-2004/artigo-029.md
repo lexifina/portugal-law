@@ -22,6 +22,6 @@ d) Verificar o cumprimento cabal das obrigações previstas no artigo 19.º
 
 6 - Sem prejuízo da aplicação de outras sanções previstas na lei, o incumprimento das obrigações das entidades gestoras de ZCM pode constituir causa de suspensão do exercício da caça, a determinar por despacho do director-geral dos Recursos Florestais, que estabelece o prazo para a supressão da falta que a determinou.
 
-7 - A extinção da zona de caça é determinada por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
+7 - A extinção da zona de caça é determinada por despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural.
 
-8 - Sempre que as entidades gestoras requeiram atempadamente a renovação e os processos não tenham ficado concluídos até ao termo da transferência de gestão, fica suspenso o exercício da caça até à publicação da portaria de renovação, pelo prazo máximo de seis meses.
+8 - Sempre que as entidades gestoras requeiram atempadamente a renovação e os processos não tenham ficado concluídos até ao termo da transferência de gestão, fica suspenso o exercício da caça até à publicação do despacho de renovação, pelo prazo máximo de seis meses.

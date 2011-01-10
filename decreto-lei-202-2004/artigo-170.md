@@ -40,36 +40,38 @@ r) A Portaria n.º 1391/2002, de 25 de Outubro, que altera a Portaria n.º 1103/
 
 A portaria n.º 1288/2001 (2.ª série), de 25 de Julho, que define a sinalização aplicável às zonas interditas à caça;
 
-s) A Portaria n.º 1391/2002, de 25 de Outubro, que estabelece os requisitos, prazos e termos de procedimento administrativo a seguir em processos relativos a zonas de caça municipais, associativas e turísticas, bem como os períodos de sinalização das zonas de caça e o valor das taxas anuais devidas pela concessão de zonas de caça, e revoga as Portarias n.os 439/2001, 467/2001 e 1123/2001, respectivamente de 28 de Abril, de 8 de Maio e de 24 de Setembro;
+s) A portaria n.º 1288/2001 (2.ª série), de 25 de Julho, que define a sinalização aplicável às zonas interditas à caça;
 
-t) A Portaria n.º 45/2004, de 14 de Janeiro, que altera o n.º 8.º da Portaria n.º 1391/2002, de 25 de Outubro;
+t) A Portaria n.º 1391/2002, de 25 de Outubro, que estabelece os requisitos, prazos e termos de procedimento administrativo a seguir em processos relativos a zonas de caça municipais, associativas e turísticas, bem como os períodos de sinalização das zonas de caça e o valor das taxas anuais devidas pela concessão de zonas de caça, e revoga as Portarias n.os 439/2001, 467/2001 e 1123/2001, respectivamente de 28 de Abril, de 8 de Maio e de 24 de Setembro;
 
-u) O Despacho Normativo n.º 6/2001, de 2 de Fevereiro, que estabelece as condições a preencher pelos técnicos responsáveis pelos planos de ordenamento e exploração cinegéticos a apresentar nos termos da alínea d) do n.º 2 do artigo 31.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro;
+u) A Portaria n.º 45/2004, de 14 de Janeiro, que altera o n.º 8.º da Portaria n.º 1391/2002, de 25 de Outubro;
 
-v) O Despacho Normativo n.º 21/2001, de 3 de Maio, que estabelece o valor da taxa devida pelo pedido de renovação de zonas de caça turísticas (ZCT) e associativas (ZCA) fora do prazo normal;
+v) O Despacho Normativo n.º 6/2001, de 2 de Fevereiro, que estabelece as condições a preencher pelos técnicos responsáveis pelos planos de ordenamento e exploração cinegéticos a apresentar nos termos da alínea d) do n.º 2 do artigo 31.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro;
 
-x) O despacho n.º 23133/2001 (2.ª série), de 15 de Novembro, que aprova o modelo de impresso para efeitos de declaração anual, por entidades gestoras de zonas de caça associativas(ZCA), dos caçadores associados;
+x) O Despacho Normativo n.º 21/2001, de 3 de Maio, que estabelece o valor da taxa devida pelo pedido de renovação de zonas de caça turísticas (ZCT) e associativas (ZCA) fora do prazo normal;
 
-z) O despacho n.º 2203/2002 (2.ª série), de 28 de Janeiro, que aprova o modelo de impresso para apresentação de proposta de plano anual de exploração de zonas de caça;
+z) O despacho n.º 23133/2001 (2.ª série), de 15 de Novembro, que aprova o modelo de impresso para efeitos de declaração anual, por entidades gestoras de zonas de caça associativas(ZCA), dos caçadores associados;
 
-aa) O despacho n.º 2417/2002 (2.ª série), de 30 de Janeiro, que aprova o modelo de impresso para apresentação dos resultados de exploração de zonas de caça;
+aa) O despacho n.º 2203/2002 (2.ª série), de 28 de Janeiro, que aprova o modelo de impresso para apresentação de proposta de plano anual de exploração de zonas de caça;
 
-bb) A Portaria n.º 466/2001, de 8 de Maio, que identifica as espécies ou subespécies cinegéticas com que é permitido efectuar repovoamentos e estabelece normas particulares para repovoamentos com corços;
+bb) O despacho n.º 2417/2002 (2.ª série), de 30 de Janeiro, que aprova o modelo de impresso para apresentação dos resultados de exploração de zonas de caça;
 
-cc) A Portaria n.º 465/2001, de 8 de Maio, que estabelece as normas para autorizar a instalação de campos de treino de caça;
+cc) A Portaria n.º 466/2001, de 8 de Maio, que identifica as espécies ou subespécies cinegéticas com que é permitido efectuar repovoamentos e estabelece normas particulares para repovoamentos com corços;
 
-dd) A Portaria n.º 463/2001, de 8 de Maio, que restringe a comercialização a detenção, o transporte e a exposição ao público para fins de comercialização de exemplares mortos de espécies cinegéticas;
+dd) A Portaria n.º 465/2001, de 8 de Maio, que estabelece as normas para autorizar a instalação de campos de treino de caça;
 
-ee) A Portaria n.º 464/2001, de 8 de Maio, que define os termos da autorização para criação e detenção de espécies e subespécies cinegéticas em cativeiro;
+ee) A Portaria n.º 463/2001, de 8 de Maio, que restringe a comercialização a detenção, o transporte e a exposição ao público para fins de comercialização de exemplares mortos de espécies cinegéticas;
 
-ff) O Despacho Normativo n.º 4/2002, de 31 de Janeiro, que determina que a sanção a aplicar pelo não pagamento das taxas anuais devidas pela autorização de criação ou detenção de espécies em cativeiro seja graduada de acordo com o prejuízo concreto e com um certo critério;
+ff) A Portaria n.º 464/2001, de 8 de Maio, que define os termos da autorização para criação e detenção de espécies e subespécies cinegéticas em cativeiro;
 
-gg) O despacho n.º 23134/2001 (2.ª série), de 15 de Setembro, que aprova o modelo da guia de transporte de exemplares mortos de espécies cinegéticas, a emitir pelas entidades gestoras de ZC sempre que os quantitativos de exemplares a transportar são superiores aos limites diários de abate permitidos em terrenos cinegéticos não ordenados, e define as condições da sua utilização e aquisição;
+gg) O Despacho Normativo n.º 4/2002, de 31 de Janeiro, que determina que a sanção a aplicar pelo não pagamento das taxas anuais devidas pela autorização de criação ou detenção de espécies em cativeiro seja graduada de acordo com o prejuízo concreto e com um certo critério;
 
-hh) O despacho n.º 1105/2001 (2.ª série), de 19 de Janeiro, que aprova o modelo de guia de transporte de exemplares vivos de espécies cinegéticas e define as condições da sua utilização e aquisição. Estabelece que, até se esgotarem, podem continuar a ser utilizadas as guias de modelo aprovado ao abrigo da Portaria n.º 487/95, de 22 de Maio;
+hh) O despacho n.º 23134/2001 (2.ª série), de 15 de Setembro, que aprova o modelo da guia de transporte de exemplares mortos de espécies cinegéticas, a emitir pelas entidades gestoras de ZC sempre que os quantitativos de exemplares a transportar são superiores aos limites diários de abate permitidos em terrenos cinegéticos não ordenados, e define as condições da sua utilização e aquisição;
 
-ii) A Portaria n.º 247/2001, de 22 de Março, que define as condições e os termos em que os terrenos sujeitos a pastoreio ordenado podem ser considerados aparcamento de gado e autoriza a colocação de sinalização indicativa da proibição do exercício da caça nos mesmos;
+ii) O despacho n.º 1105/2001 (2.ª série), de 19 de Janeiro, que aprova o modelo de guia de transporte de exemplares vivos de espécies cinegéticas e define as condições da sua utilização e aquisição. Estabelece que, até se esgotarem, podem continuar a ser utilizadas as guias de modelo aprovado ao abrigo da Portaria n.º 487/95, de 22 de Maio;
 
-jj) O despacho n.º 25035/2002 (2.ª série), de 25 de Novembro, que estabelece a composição e funcionamento da Comissão Nacional de Homologação de Troféus;
+jj) A Portaria n.º 247/2001, de 22 de Março, que define as condições e os termos em que os terrenos sujeitos a pastoreio ordenado podem ser considerados aparcamento de gado e autoriza a colocação de sinalização indicativa da proibição do exercício da caça nos mesmos;
 
-ll) O despacho n.º 1104/2001 (2.ª série), de 19 de Janeiro, que aprova o modelo de guia de transporte de furões (privativo da Direcção-Geral das Florestas, não sendo de reprodução livre) e define as condições da sua utilização e aquisição.
+ll) O despacho n.º 25035/2002 (2.ª série), de 25 de Novembro, que estabelece a composição e funcionamento da Comissão Nacional de Homologação de Troféus;
+
+mm) O despacho n.º 1104/2001 (2.ª série), de 19 de Janeiro, que aprova o modelo de guia de transporte de furões (privativo da Direcção-Geral das Florestas, não sendo de reprodução livre) e define as condições da sua utilização e aquisição.

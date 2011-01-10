@@ -10,4 +10,4 @@
 
 4 - Na mudança de concessionário mantêm-se os direitos e obrigações do anterior concessionário bem como o prazo da concessão.
 
-5 - A mudança de concessionário é efectuada por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
+5 - A mudança de concessionário é efectuada por despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural.

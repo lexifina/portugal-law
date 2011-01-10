@@ -28,6 +28,6 @@ l) Os terrenos ocupados com culturas arvenses e os ocupados com sementeiras ou p
 
 m) Os terrenos situados entre o nível de água das albufeiras e o nível de pleno armazenamento (NPA), com excepção das situações previstas nos n.os 2, 3 e 4 do artigo 9.º, sempre que as albufeiras não possuam planos de ordenamento (POA).
 
-2 - A eficácia da proibição do acto venatório referida nas alíneas f), g), h), i) e j) do número anterior depende de os terrenos em causa se encontrarem sinalizados, nos termos a definir por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
+2 - A eficácia da proibição do acto venatório referido nas alíneas g), h), i), j) e l) do número anterior depende de os terrenos em causa se encontrarem sinalizados, nos termos a definir por portaria do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural.
 
-3 - A sinalização dos aparcamentos de gado e dos terrenos referidos na alínea h) do n.º 1 do presente artigo carece de autorização prévia da DGRF.
+3 - A sinalização dos aparcamentos de gado e dos terrenos referidos na alínea i) do n.º 1 do presente artigo carece de autorização prévia da DGRF.

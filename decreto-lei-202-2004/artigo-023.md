@@ -6,7 +6,7 @@
 
 ### Constituição e gestão
 
-1 - As ZCN são criadas por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas ou por portaria conjunta deste Ministro e dos ministros competentes em razão da matéria.
+1 - As ZCN são criadas por despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural ou por despacho conjunto deste membro do Governo e dos membros do Governo competentes em razão da matéria.
 
 2 - As ZCN são geridas pela DGRF em conjunto com o ICN nas áreas protegidas e em colaboração nas restantes áreas classificadas ou, sempre que estejam em causa razões de segurança, pelos serviços competentes em razão da matéria.
 
