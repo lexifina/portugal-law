@@ -29,3 +29,5 @@
 a) As acumulações de funções previstas na alínea a) do n.º 3 do artigo 16.º não conferem direito a qualquer remuneração adicional;
 
 b) Na acumulação prevista na alínea b) do n.º 3 do artigo 16.º, a remuneração acumulada dos gestores executivos e não executivos não pode exceder dois terços da remuneração fixa estabelecida para os gestores executivos com a remuneração mais elevada.
+
+11 - É aplicável aos gestores públicos o regime previsto para os trabalhadores em funções públicas do subsídio de refeição e do abono de ajudas de custo e transporte por deslocações em território português e ao estrangeiro.
