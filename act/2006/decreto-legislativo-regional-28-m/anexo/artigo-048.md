@@ -6,7 +6,7 @@
 
 ### Funcionamento
 
-1 - A atribuição do suplemento previsto no artigo 34.º do presente diploma será decidida pela avaliação realizada do acréscimo de produtividade no 1.º mês do ano seguinte àquele a que diga respeito, através da comparação entre os objectivos efectivamente atingidos e os definidos nos planos de actividade.
+1 - A atribuição do suplemento de produtividade que serve de fundamento à atribuição do suplemento previsto no artigo 37.º do presente diploma será avaliado no 1.º mês do ano seguinte àquele a que diga respeito, através da comparação entre os objectivos efectivamente atingidos e os definidos nos planos de actividades.
 
 2 - Após a avaliação, é fixada anualmente, por portaria do secretário regional com a tutela das finanças, a percentagem a que se refere a alínea a) do n.º 3 do artigo 16.º do Decreto Legislativo Regional n.º 21-A/2005/M, de 30 de Dezembro.
 
