@@ -1,0 +1,7 @@
+Aviso n.º 1270/2011
+Alteração ao Regulamento do Plano Director Municipal de Celorico de Basto
+Joaquim Monteiro da Mota e Silva, Presidente da Câmara Municipal de Celorico de Basto, torna público que a Câmara Municipal deliberou, na reunião ordinária realizada no dia 21 de Dezembro de 2010, nos termos da alínea a) do n.º 2 do artigo 93.º do Regime Jurídico dos Instrumentos de Gestão Territorial (DL n.º 380/99, de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro), dar início a um procedimento de alteração ao Plano Director Municipal que abrangerá unicamente os artigos 10.º e 44.º do Regulamento.
+Foi estabelecido na referida deliberação que o prazo previsto para este procedimento é de 3 meses e que esta não está sujeita a Avaliação Ambiental, nos termos do Decreto-Lei n.º 23272007 de 15 de Junho.
+Deliberou-se ainda, em cumprimento do n.º 2 do artigo 77.º do Regime Jurídico dos Instrumentos de Gestão Territorial, abrir um período de participação pública com a duração de 15 dias e início no dia seguinte à publicação do presente aviso no Diário da República, para apresentação de sugestões e informações que devam ser tidas em consideração no procedimento de alteração. Neste âmbito, os interessados deverão apresentar as suas sugestões ou informações por escrito, nos serviços da Câmara Municipal, por correio ou por e-mail.
+Celorico de Basto, 4 de Janeiro de 2011. - O Presidente da Câmara, Joaquim Monteiro Mota e Silva, Dr.
+204169543
