@@ -2,7 +2,7 @@
 
 ### Notificação da decisão de adjudicação
 
-1 - A decisão de adjudicação é notificada, em simultâneo, a todos os concorrentes.
+1 - A decisão de adjudicação é notificada em simultâneo a todos os concorrentes, indicando-se, quando aplicável, o prazo de suspensão previsto no n.º 3 do artigo 95.º ou na alínea a) do n.º 1 do artigo 104.º, conforme o caso.
 
 2 - Juntamente com a notificação da decisão de adjudicação, o órgão competente para a decisão de contratar deve notificar o adjudicatário para:
 
