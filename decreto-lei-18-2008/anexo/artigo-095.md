@@ -30,8 +30,10 @@ c) Por motivos de urgência imperiosa resultante de acontecimentos imprevisívei
 
 4 - O prazo de 10 dias previsto no número anterior não é aplicável quando:
 
-a) Tenha sido adoptado o ajuste directo nos termos do disposto na alínea a) do artigo 19.º, na alínea a) do n.º 1 do artigo 20.º ou na alínea a) do n.º 1 do artigo 21.º, ou ainda ao abrigo do disposto na alínea c) do n.º 1 do artigo 24.º;
+a) Não tenha sido publicado anúncio do procedimento no Jornal Oficial da União Europeia;
 
-b) Tenha sido adoptado o procedimento de concurso público urgente;
+b) (Revogada.)
 
 c) Se trate da celebração de contrato ao abrigo de acordo quadro cujos termos abranjam todos os seus aspectos ou que tenha sido celebrado apenas com uma entidade.
+
+d) Só tenha sido apresentada uma proposta.
