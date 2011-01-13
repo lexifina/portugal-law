@@ -1,0 +1,487 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12058",
+  "numero": "128",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-01-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-02-23",
+            "entidades": null,
+            "id": "90369",
+            "tipo": null,
+            "titulo": "Audição em 2011-02-23 com Bastonário da Ordem dos Farmacêuticos - Prof. Carlos Maurício, Bastonário da Ordem dos Médicos - Prof. José Manuel Silva, Conselho Nacional das Ordens Profissionais, Presidente do CNOP e Bastonário da Ordem dos Médicos Dentistas- Dr. Orlando Monteiro, Vice-Presidente da Ordem dos Arquitectos - Arqtº João Santa Rita, Vice-Presidente da Ordem dos Enfermeiros - Enfermeira Teresa Marçal, Vice-Presidente da Ordem dos Engenheiros -  Engº Victor Gonçalves de Brito, Vogal do Conselho Geral da Ordem dos Advogados - Dr. Pedro Biscaia"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-01-27",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Ciência, Tecnologia e Ensino Superior"
+            ],
+            "nrOficio": "83/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-01-27",
+            "dataResposta": "2011-02-22",
+            "entidades": [
+              "Presidente do Conselho Coordenador dos Institutos Superiores Politécnicos"
+            ],
+            "nrOficio": "84/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-01-27",
+            "dataResposta": "2011-02-10",
+            "entidades": [
+              "Presidente do Conselho de Reitores das Universidades Portuguesas"
+            ],
+            "nrOficio": "85/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-03-29",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-01-25",
+        "DataArquivo": "2011-03-29",
+        "DataBaixaComissao": "2011-01-25",
+        "DataEnvioPAR": "2011-03-30",
+        "DataReaberta": "2011-01-25",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-01-31",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938354e7a49325a5751324d793077597a6c6d4c5451345a6a45744f444e6b597930315a4751344d6a68684f444e6d595451756347526d&fich=9726ed63-0c9f-48f1-83dc-5dd828a83fa4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-01-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938344f57526c5954426c5953316c4f445a684c54517a4e7a4d744f544d304f5330304d5759794d574a6b4d6a426d4e3251756347526d&fich=89dea0ea-e86a-4373-9349-41f21bd20f7d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-01-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a5a6a59335a5445774e4330774d4459774c5452694f4459744f446330595330334d7a597a5a5456695a6a45794e6d55756347526d&fich=cf67e104-0060-4b86-874a-7363e5bf126e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-01-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938324f44426c5a5442684e5330324e7a4d354c54526d596a49744f446b324e793034596d4e684e6a49785a4446684e4463756347526d&fich=680ee0a5-6739-4fb2-8967-8bca621d1a47.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-04-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938775a6d51344f4749304d4330355a5749304c545130596a4d74596a4a685a69303159575a69596d55314f5449774d3245756347526d&fich=0fd88b40-9eb4-44b3-b2af-5afbbe59203a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-02-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4d54466b4d6d466c4d693033597a59334c5451304e5759744f544d304f4330784d5445334e5455344f4759775a5459756347526d&fich=f11d2ae2-7c67-445f-9348-11175588f0e6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-03-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938794f57557a4d5451344d5330335954457a4c54526d4e574d7459544d354f4330794d57566b4e574532597a466c596a63756347526d&fich=29e31481-7a13-4f5c-a398-21ed5a6c1eb7.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2871",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-01-25",
+            "gp": "PS",
+            "id": "2214",
+            "motivoCessacao": null,
+            "nome": "Manuel Mota"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2011-10-28",
+    "Documentos": [
+      {
+        "DataDocumento": "2011-01-18",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764d3251314d6a41794d7a6b744e546b325a5330305a6a4d7a4c5749324d444d744d6a426a4f575a6d4d546b785954497a4c6e426b5a673d3d&fich=3d520239-596e-4f33-b603-20c9ff191a23.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "36548"
+    ],
+    "Iniciativasoriginadas": [
+      "36548"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-10-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111028pln&url=l12/sl1/a2011/m10/&tI=02:55:02:583&drc=00:03:32:365"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181951",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-29",
+                "pubLeg": "XII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/037/2011-10-29/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Restabelece a igualdade de condições nos concursos públicos entre os Licenciados do sistema \"pré-bolonha\" e os Mestres do sistema de atribuição de graus criado pelo Decreto-Lei n.º 74/2006, de 24 de Março; Pela atribuição da equivalência do grau de mestre aos titulares das licenciaturas pré-Bolonha com formação de 5 ou 6 anos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111028pln&url=l12/sl1/a2011/m10/&tI=02:58:38:645&drc=00:02:44:555"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181952",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-29",
+                "pubLeg": "XII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/037/2011-10-29/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Restabelece a igualdade de condições nos concursos públicos entre os Licenciados do sistema \"pré-bolonha\" e os Mestres do sistema de atribuição de graus criado pelo Decreto-Lei n.º 74/2006, de 24 de Março; Pela atribuição da equivalência do grau de mestre aos titulares das licenciaturas pré-Bolonha com formação de 5 ou 6 anos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111028pln&url=l12/sl1/a2011/m10/&tI=03:01:29:100&drc=00:03:19:931"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181953",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-29",
+                "pubLeg": "XII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/037/2011-10-29/54?pgs=54&org=PLC"
+              }
+            ],
+            "Sumario": "Restabelece a igualdade de condições nos concursos públicos entre os Licenciados do sistema \"pré-bolonha\" e os Mestres do sistema de atribuição de graus criado pelo Decreto-Lei n.º 74/2006, de 24 de Março; Pela atribuição da equivalência do grau de mestre aos titulares das licenciaturas pré-Bolonha com formação de 5 ou 6 anos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111028pln&url=l12/sl1/a2011/m10/&tI=03:04:59:153&drc=00:03:30:049"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181954",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-29",
+                "pubLeg": "XII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/037/2011-10-29/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Restabelece a igualdade de condições nos concursos públicos entre os Licenciados do sistema \"pré-bolonha\" e os Mestres do sistema de atribuição de graus criado pelo Decreto-Lei n.º 74/2006, de 24 de Março; Pela atribuição da equivalência do grau de mestre aos titulares das licenciaturas pré-Bolonha com formação de 5 ou 6 anos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111028pln&url=l12/sl1/a2011/m10/&tI=03:08:33:621&drc=00:04:05:226"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181955",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-29",
+                "pubLeg": "XII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/037/2011-10-29/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Restabelece a igualdade de condições nos concursos públicos entre os Licenciados do sistema \"pré-bolonha\" e os Mestres do sistema de atribuição de graus criado pelo Decreto-Lei n.º 74/2006, de 24 de Março; Pela atribuição da equivalência do grau de mestre aos titulares das licenciaturas pré-Bolonha com formação de 5 ou 6 anos.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12058",
+    "PetAssunto": "Pela atribuição da equivalência do grau de mestre aos titulares das licenciaturas pré-Bolonha com formação de 5 ou 6 anos.",
+    "PetDataEntrada": "2011-01-13",
+    "PeticoesAssociadas": null,
+    "PetId": "12058",
+    "PetLeg": "XI",
+    "PetNr": "128",
+    "PetNrAssinaturas": "50071",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "369",
+        "obs": null,
+        "pag": [
+          "52-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-10-29",
+        "pubLeg": "XII",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/037/2011-10-29/52?pgs=52-56&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "539845",
+        "obs": null,
+        "pag": [
+          "14-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-01-29",
+        "pubLeg": "XI",
+        "pubNr": "97",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/097/2011-01-29/14?pgs=14-15&org=PLC"
+      }
+    ]
+  }
+}
