@@ -1,0 +1,554 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12057",
+  "numero": "127",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-01-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-09-08",
+            "dataResposta": "2011-09-30",
+            "entidades": [
+              "Secretário de Estado da Cultura"
+            ],
+            "nrOficio": "130/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-09-08",
+            "dataResposta": "2011-09-21",
+            "entidades": [
+              "Câmara Municipal de Faro"
+            ],
+            "nrOficio": "132/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-10-10",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2011-10-12",
+        "DataBaixaComissao": "2011-07-12",
+        "DataEnvioPAR": "2011-10-12",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-09-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49334e6a4e6a4d5749784c54497a595755744e474d334e433168595449774c575a6d4d54646c4e7a6c6d4e546c6c4e6935775a47593d&fich=2763c1b1-23ae-4c74-aa20-ff17e79f59e6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-09-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49314e5759334e444e6c4c5441334f5751744e4449344d7930354f474e6d4c5455304d44457a5a546335597a4e694e4335775a47593d&fich=255f743e-079d-4283-98cf-54013e79c3b4.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-10-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49334e54597a597a59324c545a6b596d45744e4459324d6930344e7a41344c544d324f5441784d6a566a4d6d59314e5335775a47593d&fich=27563c66-6dba-4662-8708-3690125c2f55.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-09-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245304e6a63345a44677a4c544177596d51744e44566c4e693168596a51794c5745775a4745784d446b34596a49324e4335775a47593d&fich=a4678d83-00bd-45e6-ab42-a0da1098b264.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-10-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a686d4e6a51774e6a686a4c574e6c4e4751744e47593159693035596a6c6d4c5451314d54686d5a4468694e44637a4e4335775a47593d&fich=8f64068c-ce4d-4f5b-9b9f-4518fd8b4734.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-07-19",
+            "gp": "PSD",
+            "id": "4051",
+            "motivoCessacao": null,
+            "nome": "Maria Conceição Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XI Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-01-19",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério da Cultura"
+            ],
+            "nrOficio": "34/CESC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-01-19",
+            "dataResposta": null,
+            "entidades": [
+              "Câmara Municipal de Faro"
+            ],
+            "nrOficio": "35/CESC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-01-19",
+        "DataArquivo": "2011-07-11",
+        "DataBaixaComissao": "2011-01-19",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2011-01-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-01-20",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c3249324d5755784d7a526b4c57466d595451744e444d3359533169597a426c4c574e6a596d5978596a6b334d7a55774d7935306157593d&fich=b61e134d-afa4-437a-bc0e-ccbf1b973503.tif&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-02-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c7a67794d7a55795a57526d4c54457a4e5459744e445269597930354d574d314c5745314f57597a5a444d324e5759314f4335775a47593d&fich=82352edf-1356-44bc-91c5-a59f3d365f58.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-02-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c32566a4d446c6b4e6a4a6b4c5449314f5449744e446b7a59533034597a41314c57466d4e4455314d325a684e546b7a5a4335775a47593d&fich=ec09d62d-2592-493a-8c05-af4553fa593d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-07-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d544e4452564e444c305276593356745a57353062334e515a585270593246764c7a6b354e324d325a6a45314c5449794e5455744e44426b4d6931684e6a68684c5442684e7a5a6c596d466a595463324d5335775a47593d&fich=997c6f15-2255-40d2-a68a-0a76ebaca761.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "2876",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Ética, Sociedade e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-01-19",
+            "gp": "PSD",
+            "id": "4087",
+            "motivoCessacao": null,
+            "nome": "Celeste Amaro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Educação, Ciência e Cultura da XII Legislatura."
+      }
+    ],
+    "DataDebate": "2011-10-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2011-01-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764d444a6d5a4755784d544d74596d51784d7930304d6a646b4c5467314d7a49744e574d324e6a49775a6d4e695a4451794c6e426b5a673d3d&fich=02fde113-bd13-427d-8532-5c6620fcbd42.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-10-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:17:56:313&drc=00:02:51:686"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Apelam a que seja encontrada, a curto prazo, uma solução para uma sede definitiva da Associação Recreativa e Cultural de Músicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:20:54:627&drc=00:03:17:210"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Apelam a que seja encontrada, a curto prazo, uma solução para uma sede definitiva da Associação Recreativa e Cultural de Músicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:24:13:630&drc=00:02:43:403"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Apelam a que seja encontrada, a curto prazo, uma solução para uma sede definitiva da Associação Recreativa e Cultural de Músicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:26:59:284&drc=00:03:03:716"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Apelam a que seja encontrada, a curto prazo, uma solução para uma sede definitiva da Associação Recreativa e Cultural de Músicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:30:08:125&drc=00:02:24:974"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Apelam a que seja encontrada, a curto prazo, uma solução para uma sede definitiva da Associação Recreativa e Cultural de Músicos.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12057",
+    "PetAssunto": "Apelam a que seja encontrada, a curto prazo, uma solução para uma sede definitiva da Associação Recreativa e Cultural de Músicos.",
+    "PetDataEntrada": "2011-01-14",
+    "PeticoesAssociadas": null,
+    "PetId": "12057",
+    "PetLeg": "XI",
+    "PetNr": "127",
+    "PetNrAssinaturas": "4345",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "370",
+        "obs": null,
+        "pag": [
+          "28-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-10-22",
+        "pubLeg": "XII",
+        "pubNr": "34",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/28?pgs=28-32&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "539844",
+        "obs": null,
+        "pag": [
+          "13-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-01-29",
+        "pubLeg": "XI",
+        "pubNr": "97",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/097/2011-01-29/13?pgs=13-14&org=PLC"
+      }
+    ]
+  }
+}
