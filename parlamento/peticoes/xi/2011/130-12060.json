@@ -1,0 +1,191 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12060",
+  "numero": "130",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-01-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-09-26",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2011-09-27",
+        "DataBaixaComissao": "2011-07-07",
+        "DataEnvioPAR": "2011-09-27",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-09-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4e44524534765247396a6457316c626e52766331426c64476c6a595738764d7a4530597a67785a546b744e5751334d4330304d6d4e6b4c574a6b4d5749744e324d324d444d77595441315a5449304c6e426b5a673d3d&fich=314c81e9-5d70-42cd-bd1b-7c6030a05e24.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3512",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Defesa Nacional",
+        "NotasAdmissibilidade": null,
+        "Numero": "3",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-07-19",
+            "gp": "PSD",
+            "id": "1826",
+            "motivoCessacao": null,
+            "nome": "Joaquim Ponte"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XI Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": null,
+            "dataResposta": null,
+            "entidades": [
+              null
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d304e455469394562324e31625756756447397a5547563061574e6862793835596a426c4d6a63344d7930314d7a5a694c5451334e6a6374596a51334d53316a4f446c684e5755334e32566c4d7a51756347526d&fich=9b0e2783-536b-4767-b471-c89a5e77ee34.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-01-25",
+        "DataArquivo": "2011-07-06",
+        "DataBaixaComissao": "2011-01-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2011-01-25",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-01-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d304e455469394562324e31625756756447397a5547563061574e68627938784d6a426b5a6d49774d43316d4d44426d4c5452694f54557459545a684d5330335a6a517859325133596d55314f4463756347526d&fich=120dfb00-f00f-4b95-a6a1-7f41cd7be587.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-03-28",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764d304e455469394562324e31625756756447397a5547563061574e6862793835596a426c4d6a63344d7930314d7a5a694c5451334e6a6374596a51334d53316a4f446c684e5755334e32566c4d7a51756347526d&fich=9b0e2783-536b-4767-b471-c89a5e77ee34.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2866",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Defesa Nacional",
+        "NotasAdmissibilidade": null,
+        "Numero": "3",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-01-25",
+            "gp": "PSD",
+            "id": "1826",
+            "motivoCessacao": null,
+            "nome": "Joaquim Ponte"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Defesa Nacional da XII Legislatura."
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2011-01-21",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d7659544a6d595749324d7a6b744f575934597930305a445a694c5745794d324d744e4451784d6d49784d324a684e574d324c6e426b5a673d3d&fich=a2fab639-9f8c-4d6b-a23c-4412b13ba5c6.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12060",
+    "PetAssunto": "Solicita a aprovação de legislação que permita a graduação no posto de coronel dos tenentes-coronéis reformados do Quadro Especial de Oficiais.",
+    "PetDataEntrada": "2011-01-14",
+    "PeticoesAssociadas": null,
+    "PetId": "12060",
+    "PetLeg": "XI",
+    "PetNr": "130",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
