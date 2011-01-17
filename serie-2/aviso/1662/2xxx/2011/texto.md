@@ -1,0 +1,4 @@
+Aviso n.º 1662/2011
+Ângelo João Guarda Verdades de Sá, Presidente da Câmara Municipal de Borba, torna público que a Câmara Municipal de Borba deliberou, em sua reunião ordinária de 10 de Dezembro de 2010, submeter a apreciação pública para recolha de sugestões, pelo prazo de 30 dias contados a partir da data da publicação do presente aviso no Diário da República, 2.ª série, o Projecto de Regulamento Municipal de Uso de Fogo (Queimas, Queimadas, Fogo-de-Artifício e Fogo Controlado. Assim, nos termos do artigo 118.º do Código do Procedimento Administrativo, convidam-se todos os interessados a consultarem no Gabinete Verde da autarquia, durante as horas de expediente, ou na página da internet, www.cm-borba.pt, o referido projecto de regulamento.
+14 de Dezembro de 2010. - O Presidente da Câmara, Ângelo João Guarda Verdades de Sá.
+304064283
