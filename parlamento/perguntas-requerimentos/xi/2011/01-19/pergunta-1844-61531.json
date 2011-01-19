@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "61531",
+  "tipo": "Pergunta",
+  "numero": "1844",
+  "data_registo": "2011-01-19",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Redução Remuneratória na empresa CostaPolis-Soc.Des.Programa Polis Costa Caparica, SA",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1102",
+        "nome": "Pedro Mota Soares"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4057",
+        "nome": "Assunção Cristas"
+      }
+    ],
+    "DataEnvio": "2011-01-20",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2011-01-20",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2011-03-15",
+            "docRemetida": null,
+            "entidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e52766379387955307776596a51345a6a67344e446b74596a4a6a4d433030597a4a6b4c546c684e5451744f47517a4e57466d596d497a5a54426c4c6e426b5a673d3d&fich=b48f8849-b2c0-4c2d-9a54-8d35afbb3e0e.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2011-01-19",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077765a57566d4e6d4a6d4e7a55744f574d7a4e7930304e54426d4c5467344e6d4d745a446b314d6d49784e5459345a6a6b7a4c6e426b5a673d3d&fich=eef6bf75-9c37-450f-886c-d952b1568f93.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "61531",
+    "Legislatura": "XI",
+    "Nr": "1844",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "539243",
+        "obs": null,
+        "pag": [
+          "50-51"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011",
+        "pubLeg": "XI",
+        "pubNr": "94",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/094/2011-01-26/50?pgs=50-51&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
