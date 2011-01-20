@@ -1,0 +1,10 @@
+Aviso n.º 2236/2011
+Alteração do Plano Director Municipal de Ponte de Sor
+João José de Carvalho Taveira Pinto, Presidente da Câmara Municipal de Ponte de Sor, torna público que esta Câmara Municipal, deliberou na sua reunião realizada no dia 13 de Outubro de 2010, iniciar um processo de alteração ao Plano Director Municipal de Ponte de Sor.
+Assim, de acordo com a referida deliberação e para efeitos do disposto no n.º 1 do artigo 74.º do Regime Jurídico dos Instrumentos de Gestão Territorial (Decreto-Lei n.º 380/99, de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 22 de Setembro), foi estabelecido o prazo de elaboração de 180 dias.
+Nestes termos e conforme previsto no n.º 2 do artigo 77.º do mesmo diploma, é aberto um período de participação preventiva, com início no dia útil seguinte à data da publicação do presente aviso na 2.ª série do Diário da República e a duração de 15 dias, para audiência de todos os interessados sobre a elaboração da alteração ao referido Plano.
+A formulação de sugestões, bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de alteração, deverão ser dirigidos por escrito, à Câmara Municipal de Ponte de Sor, Largo 25 de Abril 7400-228 Ponte de Sor, por carta registada com aviso de recepção ou entregues em mão naquela morada.
+A Câmara Municipal deliberou igualmente que esta alteração ao PDM não será sujeita a avaliação ambiental, nos termos do Decreto-Lei n.º 316/2007, de 19 de Setembro e do Decreto-Lei n.º 232/2007, de 15 de Junho, uma vez que as alterações em causa não são susceptíveis de produzir efeitos significativos no ambiente, nos termos do Decreto-Lei n.º 197/2005, de 8 de Novembro.
+Mais se torna público que a justificação, o enquadramento e os termos da mencionada deliberação podem ser consultados na página electrónica do Município: http://www.cm-pontedesor.pt/
+12 de Janeiro de 2011. - O Presidente da Câmara Municipal, João José de Carvalho Taveira Pinto.
+204212894
