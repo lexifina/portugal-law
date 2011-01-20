@@ -1,0 +1,744 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "370",
+    "id": "35912",
+    "titulo": "Recomenda ao Governo que tome as medidas necessárias no sentido de garantir a rápida modernização da Linha do Oeste."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2011-01-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7917",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2011-01-20",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "35899",
+        "leg": "XI",
+        "nr": "363",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1501",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-01-21",
+            "pubLeg": "XI",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1501",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-01-21",
+            "pubLeg": "XI",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1501",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-01-21",
+            "pubLeg": "XI",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21?org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Pela requalificação da linha ferroviária do oeste e sua inclusão no plano de investimentos da REFER para 2011."
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "35908",
+        "leg": "XI",
+        "nr": "368",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1501",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-01-21",
+            "pubLeg": "XI",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1501",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-01-21",
+            "pubLeg": "XI",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1501",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-01-21",
+            "pubLeg": "XI",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21?org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Pela requalificação e modernização da infraestrutura e pela introdução de um serviço de qualidade na Linha do Oeste."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-01-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4059",
+                "nome": "Heitor Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110120pln&url=l11/sl2/a2011/m01/&tI=01:46:29:238&drc=00:04:06:717"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178822",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-21",
+                "pubLeg": "XI",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Pela requalificação e modernização da infra-estrutura e pela introdução de um serviço ferroviário de qualidade na Linha do Oeste; Pela requalificação da linha ferroviária do oeste e sua inclusão no plano de investimentos da REFER para 2011; Pela requalificação e modernização da infraestrutura e pela introdução de um serviço de qualidade na Linha do Oeste; Recomenda ao Governo que tome as medidas necessárias no sentido de garantir a rápida modernização da Linha do Oeste.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4050",
+                "nome": "Fernando Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110120pln&url=l11/sl2/a2011/m01/&tI=01:50:39:404&drc=00:04:16:421"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178823",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-21",
+                "pubLeg": "XI",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Pela requalificação e modernização da infra-estrutura e pela introdução de um serviço ferroviário de qualidade na Linha do Oeste; Pela requalificação da linha ferroviária do oeste e sua inclusão no plano de investimentos da REFER para 2011; Pela requalificação e modernização da infraestrutura e pela introdução de um serviço de qualidade na Linha do Oeste; Recomenda ao Governo que tome as medidas necessárias no sentido de garantir a rápida modernização da Linha do Oeste.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4057",
+                "nome": "Assunção Cristas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110120pln&url=l11/sl2/a2011/m01/&tI=01:54:58:237&drc=00:04:02:305"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-21",
+                "pubLeg": "XI",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Pela requalificação e modernização da infra-estrutura e pela introdução de um serviço ferroviário de qualidade na Linha do Oeste; Pela requalificação da linha ferroviária do oeste e sua inclusão no plano de investimentos da REFER para 2011; Pela requalificação e modernização da infraestrutura e pela introdução de um serviço de qualidade na Linha do Oeste; Recomenda ao Governo que tome as medidas necessárias no sentido de garantir a rápida modernização da Linha do Oeste.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "456",
+                "nome": "João Paulo Pedrosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110120pln&url=l11/sl2/a2011/m01/&tI=01:59:04:920&drc=00:03:53:489"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178825",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-21",
+                "pubLeg": "XI",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Pela requalificação e modernização da infra-estrutura e pela introdução de um serviço ferroviário de qualidade na Linha do Oeste; Pela requalificação da linha ferroviária do oeste e sua inclusão no plano de investimentos da REFER para 2011; Pela requalificação e modernização da infraestrutura e pela introdução de um serviço de qualidade na Linha do Oeste; Recomenda ao Governo que tome as medidas necessárias no sentido de garantir a rápida modernização da Linha do Oeste.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110120pln&url=l11/sl2/a2011/m01/&tI=02:03:01:183&drc=00:04:01:342"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-21",
+                "pubLeg": "XI",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Pela requalificação e modernização da infra-estrutura e pela introdução de um serviço ferroviário de qualidade na Linha do Oeste; Pela requalificação da linha ferroviária do oeste e sua inclusão no plano de investimentos da REFER para 2011; Pela requalificação e modernização da infraestrutura e pela introdução de um serviço de qualidade na Linha do Oeste; Recomenda ao Governo que tome as medidas necessárias no sentido de garantir a rápida modernização da Linha do Oeste.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110120pln&url=l11/sl2/a2011/m01/&tI=02:07:04:728&drc=00:03:31:123"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178827",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-21",
+                "pubLeg": "XI",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Pela requalificação e modernização da infra-estrutura e pela introdução de um serviço ferroviário de qualidade na Linha do Oeste; Pela requalificação da linha ferroviária do oeste e sua inclusão no plano de investimentos da REFER para 2011; Pela requalificação e modernização da infraestrutura e pela introdução de um serviço de qualidade na Linha do Oeste; Recomenda ao Governo que tome as medidas necessárias no sentido de garantir a rápida modernização da Linha do Oeste.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4057",
+                "nome": "Assunção Cristas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110120pln&url=l11/sl2/a2011/m01/&tI=02:10:51:405&drc=00:00:41:414"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178828",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-21",
+                "pubLeg": "XI",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Pela requalificação e modernização da infra-estrutura e pela introdução de um serviço ferroviário de qualidade na Linha do Oeste; Pela requalificação da linha ferroviária do oeste e sua inclusão no plano de investimentos da REFER para 2011; Pela requalificação e modernização da infraestrutura e pela introdução de um serviço de qualidade na Linha do Oeste; Recomenda ao Governo que tome as medidas necessárias no sentido de garantir a rápida modernização da Linha do Oeste.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110120pln&url=l11/sl2/a2011/m01/&tI=02:11:41:023&drc=00:01:38:014"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178829",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-21",
+                "pubLeg": "XI",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Pela requalificação e modernização da infra-estrutura e pela introdução de um serviço ferroviário de qualidade na Linha do Oeste; Pela requalificação da linha ferroviária do oeste e sua inclusão no plano de investimentos da REFER para 2011; Pela requalificação e modernização da infraestrutura e pela introdução de um serviço de qualidade na Linha do Oeste; Recomenda ao Governo que tome as medidas necessárias no sentido de garantir a rápida modernização da Linha do Oeste.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110120pln&url=l11/sl2/a2011/m01/&tI=02:13:34:657&drc=00:03:13:485"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178830",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-21",
+                "pubLeg": "XI",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Pela requalificação e modernização da infra-estrutura e pela introdução de um serviço ferroviário de qualidade na Linha do Oeste; Pela requalificação da linha ferroviária do oeste e sua inclusão no plano de investimentos da REFER para 2011; Pela requalificação e modernização da infraestrutura e pela introdução de um serviço de qualidade na Linha do Oeste; Recomenda ao Governo que tome as medidas necessárias no sentido de garantir a rápida modernização da Linha do Oeste.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110120pln&url=l11/sl2/a2011/m01/&tI=02:16:48:146&drc=00:00:58:853"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "178831",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-01-21",
+                "pubLeg": "XI",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21/43?pgs=43&org=PLC"
+              }
+            ],
+            "sumario": "Pela requalificação e modernização da infra-estrutura e pela introdução de um serviço ferroviário de qualidade na Linha do Oeste; Pela requalificação da linha ferroviária do oeste e sua inclusão no plano de investimentos da REFER para 2011; Pela requalificação e modernização da infraestrutura e pela introdução de um serviço de qualidade na Linha do Oeste; Recomenda ao Governo que tome as medidas necessárias no sentido de garantir a rápida modernização da Linha do Oeste.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "273050",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XI",
+        "nr": "96",
+        "publicacao": null,
+        "sel": "2",
+        "tipo": null,
+        "titulo": "Pela requalificação e modernização da infra-estrutura e pela introdução de um serviço ferroviário de qualidade na Linha do Oeste."
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "539832",
+        "obs": null,
+        "pag": [
+          "34-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-01-21",
+        "pubLeg": "XI",
+        "pubNr": "41",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/041/2011-01-21/34?pgs=34-44&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
