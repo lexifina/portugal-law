@@ -1,0 +1,9 @@
+Aviso n.º 2212/2011
+Alteração do Regulamento do Plano Director Municipal de Marvão
+Participação Preventiva
+Victor Manuel Martins Frutuoso, presidente da Câmara Municipal de Marvão, nos termos e para os efeitos do disposto no n.º 1 do Artigo 74.º do Decreto-Lei n.º 380/1999, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, conjugado com o n.º 2 do Artigo 77.º do Decreto-Lei n.º 46/2009, de 20 de Fevereiro, torna público, que por deliberação tomada na reunião ordinária realizada no dia 6 de Dezembro de 2010, a Câmara Municipal de Marvão determinou a Alteração do Regulamento do Plano Director Municipal, nos termos registados na deliberação, pelo que se inicia o respectivo processo de participação preventiva destinado à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de alteração.
+Nos termos do n.º 2 do Artigo 77.º do Decreto-Lei n.º 380/1999, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, decorrerá um período de participação preventiva de 15 (quinze) dias contados a partir da publicação do presente aviso na 2.ª série do Diário da República.
+Durante o período indicado, os interessados poderão dirigir-se ou contactar a Divisão de Obras, Ambiente e Qualidade de Vida, sito no edifício dos Paços do Concelho, para obter qualquer informação ou formular sugestões a este respeito.
+Com o objectivo de incentivar a participação é criada uma área específica no site do Município de Marvão (www.cm-marvao.pt) através da qual os interessados poderão consultar a deliberação e informações anexas, que determinou a Alteração ao Regulamento do PDM de Marvão, de onde consta o período de participação referido.
+10 de Janeiro de 2011. - O Presidente da Câmara Municipal, Victor Manuel Martins Frutuoso.
+204210909
