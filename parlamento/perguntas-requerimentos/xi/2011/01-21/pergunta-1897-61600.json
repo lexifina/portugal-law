@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "61600",
+  "tipo": "Pergunta",
+  "numero": "1897",
+  "data_registo": "2011-01-21",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Vamos assistir a dizimação total das palmeiras sem fazer nada?",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "249",
+        "nome": "Mendes Bota"
+      }
+    ],
+    "DataEnvio": "2011-01-25",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2011-01-25",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA   AGRICULTURA , DO DESENVOLVIMENTO RURAL E DAS PESCAS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2011-03-22",
+            "docRemetida": null,
+            "entidade": "MIN.  DA   AGRICULTURA , DO DESENVOLVIMENTO RURAL E DAS PESCAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764d6d46684f4451774e6a6b744d5746694e6930304e57526c4c574a6b5954457459544932595451344d575132597a41794c6e426b5a673d3d&fich=2aa84069-1ab6-45de-bda1-a26a481d6c02.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2011-01-21",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764e3251324f4745314f5749744d4459354e7930304e546b774c5749794f5463744e325932596a49785a544d344d7a63304c6e426b5a673d3d&fich=7d68a59b-0697-4590-b297-7f6b21e38374.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "61600",
+    "Legislatura": "XI",
+    "Nr": "1897",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "541227",
+        "obs": null,
+        "pag": [
+          "59-62"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2011",
+        "pubLeg": "XI",
+        "pubNr": "94",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/094S1/2011-01-26/59?pgs=59-62&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
