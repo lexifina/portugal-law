@@ -1,0 +1,7 @@
+Aviso n.º 2369/2011
+Dr.ª Isaura Leonor Marques de Figueiredo Silva Pedro, Presidente da Câmara Municipal de Nelas:
+Torna público, nos termos e para os efeitos do disposto no artigo 118.º, do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, alterado pelo Decreto-Lei n.º 06/96, de 31 de Janeiro, que durante o período de 30 dias úteis, a contar da publicação do presente aviso no Diário da República, é submetida a inquérito público a proposta de alteração da Tabela de Taxas Municipais e respectiva Fundamentação Económico-Financeira, referente às taxas a cobrar pela cedência do espaço das instalações do Complexo Desportivo do Estádio Municipal de Nelas - Campo n.º 1 e Campo n.º 2, previstas no projecto de Regulamento de Utilização e Funcionamento das Instalações Desportivas Municipais, que foi presente à reunião ordinária pública desta Câmara Municipal, realizada em 28 de Dezembro de 2010.
+Durante esse período, poderão os interessados, consultar a proposta acima referida na Divisão Administrativa e Financeira desta Câmara Municipal, nas Juntas de Freguesia do Município e na Internet em www.cm-nelas.pt.
+Podem ainda os interessados, querendo, apresentar por escrito, durante o horário normal de expediente, das 09,00 h às 17,00 h, perante a Presidente da Câmara Municipal, as observações tidas por convenientes.
+30 de Dezembro de 2010. - A Presidente da Câmara, Dr.ª Isaura Pedro.
+304148418
