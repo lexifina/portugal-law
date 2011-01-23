@@ -6,7 +6,7 @@
 
 a) Regulamento - o Regulamento dos Meios de Salvação, constante do anexo n.º 1 a este diploma;
 
-b) Convenção - a Convenção Internacional para a Salvaguarda da Vida Humana no Mar, de 1974;
+b) Convenção - a Convenção Internacional para a Salvaguarda da Vida Humana no Mar, de 1974, bem como as respectivas alterações, na sua actual redacção;
 
 c) Meios de salvação - os equipamentos individuais, colectivos e de alerta colocados a bordo dos navios para utilização em caso de sinistro;
 

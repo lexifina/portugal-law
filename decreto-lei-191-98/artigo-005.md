@@ -18,4 +18,4 @@ e) As especificações técnicas publicadas pela DGPNTM.
 
 3 - No processo de aprovação dos meios de salvação são também admitidos os resultados de ensaios laboratoriais efectuados por entidades competentes de outros Estados, desde que os padrões de aprovação utilizados sejam equivalentes aos previstos na legislação nacional.
 
-4 - A DGPNTM publicará, por aviso, na 3.ª série do Diário da República as referências às normas aplicáveis e às especificações técnicas a ter em conta na aprovação dos meios de salvação.
+4 - O IPTM, I. P., publica, no respectivo sítio da Internet, as referências às normas aplicáveis e às especificações técnicas a ter em conta na aprovação dos meios de salvação.

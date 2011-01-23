@@ -2,16 +2,36 @@
 
 ### Meios de salvação individuais
 
-1 - Os navios de carga devem possuir bóias de salvação:
+1 - Os navios de carga devem possuir bóias de salvação de acordo com a tabela seguinte:
 
-a) Com retenida de 30 m, num mínimo para dois, uma a cada bordo;
+(ver documento original)
 
-b) Com sinal luminoso para metade do número total de bóias, devendo duas destas bóias possuir também sinal fumígeno, e a possibilidade do lançamento à água accionado da ponte do navio, no caso de navios com mais de 24 m.
+2 - Nos navios de comprimento igual ou superior a 24 m, duas das bóias equipadas com sinal luminoso de auto-ignição devem possuir sinal fumígeno de auto-activação, satisfazendo os requisitos previstos no artigo 74.º
 
-2 - O número total de bóias não deve ser inferior a oito nos navios com comprimento igual ou superior a 24 m, e a quatro, nos restantes.
+3 - Nos navios com comprimento igual ou superior a 45 m duas das bóias equipadas com sinal luminoso de auto-ignição devem possuir sinal fumígeno de auto-activação, satisfazendo os requisitos previstos no artigo 74.º, e devem poder ser lançadas por mecanismo activado a partir da ponte (man overboard).
 
-3 - Os navios de carga devem possuir coletes de salvação para adulto em número igual ao das pessoas embarcadas e mais dois.
+4 - Os navios de carga devem instalar, a cada bordo, pelo menos uma bóia de salvação equipada com retenida flutuante que satisfaça os requisitos previstos no artigo 75.º, de comprimento igual a duas vezes a altura de colocação a partir da linha de água na condição de navio leve, ou igual a 30 m, se este comprimento for superior a 30 m.
 
-4 - Nos navios de carga devem existir três fatos de imersão hipotérmicos.
+5 - Os navios de carga devem possuir:
 
-5 - Nos navios de carga devem existir a bordo ajudas térmicas para 100% das pessoas embarcadas.
+a) Um colete de salvação para adulto para cada pessoa a bordo;
+
+b) Um número suficiente de coletes para as pessoas de quarto, os quais devem estar acondicionados onde o serviço de quarto é prestado.
+
+6 - Nos navios de carga devem existir fatos de imersão hipotérmicos em número igual ao número de pessoas previstas para tripular a embarcação de socorro e, para além disso, em número igual ao número de pessoas a bordo não acomodáveis em:
+
+a) Embarcações salva-vidas; ou
+
+b) Jangadas com dispositivo de colocação na água; ou
+
+c) Jangadas cuja colocação na água se processe por meios equivalentes, aprovados, desde que, para se embarcar nas mesmas, não se torne necessário entrar na água.
+
+7 - Sem prejuízo do número anterior, nos navios de carga devem existir três fatos de imersão hipotérmicos por cada embarcação salva-vidas e ajudas térmicas para as pessoas a acomodar nas embarcações salva-vidas e para as quais não estejam previstos fatos de imersão hipotérmicos.
+
+8 - Os fatos de imersão hipotérmicos e as ajudas térmicas referidas no número anterior não são obrigatórios se o navio possuir embarcações salva-vidas totalmente cobertas com capacidade para acomodar, a cada bordo, o número total das pessoas embarcadas ou embarcações salva-vidas que possam ser colocadas na água por queda livre pela popa do navio, com capacidade para acomodar o número total das pessoas embarcadas.
+
+9 - Os fatos de imersão hipotérmicos previstos nos n.os 7 e 8 podem ser tidos em conta para cumprimento do disposto no n.º 6.
+
+10 - Os fatos de imersão hipotérmicos exigidos nos n.os 7 e 8 são dispensados nos navios de carga que naveguem constantemente a sul do paralelo 30ºN e a norte do paralelo 30ºS.
+
+11 - Os fatos de imersão hipotérmicos e as ajudas térmicas, referidos nos números anteriores, devem satisfazer, respectivamente, os requisitos definidos nos artigos 80.º e 82.º

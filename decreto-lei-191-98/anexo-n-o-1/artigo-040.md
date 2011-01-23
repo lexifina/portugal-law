@@ -6,4 +6,4 @@
 
 ### Requisitos obrigatórios
 
-As embarcações auxiliares costeiras devem satisfazer os requisitos fixados para os navios de comércio (carga ou passageiros) registados na mesma área de navegação.
+As embarcações auxiliares costeiras devem satisfazer os requisitos fixados para os navios de carga registados na mesma área de navegação.

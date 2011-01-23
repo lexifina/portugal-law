@@ -10,4 +10,4 @@
 
 ### Requisitos obrigatórios
 
-As embarcações marítimo-turísticas abrangidas por este subcapítulo 1 devem ter os mesmos meios de salvação que os navios de passageiros abrangidos pela Convenção.
+As embarcações marítimo-turísticas abrangidas pelo presente subcapítulo 1 devem satisfazer os requisitos fixados para os navios de carga do longo curso.

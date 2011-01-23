@@ -24,7 +24,7 @@ a) Manter a boiar uma pessoa exausta ou inconsciente com a boca acima de água a
 
 b) Poder voltar na água o corpo de uma pessoa inconsciente, em qualquer posição, para que a boca fique fora de água em menos de cinco segundos.
 
-4 - Os coletes de salvação destinados a adultos devem ter uma flutuabilidade de, pelo menos, 155 N e os destinados a crianças de 66,7 N, não devendo a mesma diminuir mais de 5% depois de uma imersão em água doce durante vinte e quatro horas.
+4 - Os coletes de salvação destinados a adultos devem ter uma flutuabilidade de, pelo menos, 150 N e os destinados a crianças de 66,7 N, não devendo a flutuabilidade diminuir mais de 5 % depois de uma imersão em água doce durante 24 horas.
 
 5 - Os coletes de salvação devem permitir às pessoas que os usem nadar uma distância curta e subir para bordo de uma embarcação de sobrevivência.
 

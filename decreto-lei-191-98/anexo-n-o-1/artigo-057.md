@@ -8,4 +8,4 @@
 
 As embarcações marítimo-turísticas locais que se encontrem permanentemente atracadas ou imobilizadas devem possuir bóias de salvação de acordo com a tabela seguinte:
 
-(ver tabela no documento original)
+(ver documento original)

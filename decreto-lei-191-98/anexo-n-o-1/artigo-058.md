@@ -4,7 +4,7 @@
 
 ## Subcapítulo 1
 
-## Embarcações registadas na pesca do largo
+## Embarcações registadas na pesca do largo com comprimento igual ou superior a 24 m
 
 # Artigo 58.º
 

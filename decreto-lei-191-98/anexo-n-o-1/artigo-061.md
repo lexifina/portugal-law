@@ -18,8 +18,22 @@ c) Quatro bóias de salvação se possuírem comprimento inferior a 45 m.
 
 5 - Os navios de pesca do largo devem possuir coletes de salvação para 100% das pessoas embarcadas.
 
-6 - Nos navios de pesca do largo devem existir fatos de imersão hipotérmicos que satisfaçam os requisitos previstos no artigo 80.º em número igual à lotação da embarcação de socorro mais o número de pessoas a bordo não acomodáveis em embarcações salva-vidas ou em jangadas com dispositivo de colocação na água.
+6 - Nos navios de pesca do largo devem existir fatos de imersão hipotérmicos em número igual ao número de pessoas previstas para tripular a embarcação de socorro e, para além disso, em número igual ao número de pessoas a bordo não acomodáveis em:
 
-7 - Adicionalmente ao indicado no número anterior, nos navios de pesca do largo devem existir três fatos de imersão hipotérmicos por cada embarcação salva-vidas e ajudas térmicas que satisfaçam os requisitos previstos no artigo 82.º para as pessoas a acomodar nas embarcações salva-vidas e para as quais não estejam previstos fatos de imersão hipotérmicos.
+a) Embarcações salva-vidas; ou
+
+b) Jangadas com dispositivo de colocação na água; ou
+
+c) Jangadas cuja colocação na água se processe por meios equivalentes aprovados, desde que, para se embarcar nas mesmas, não se torne necessário entrar na água.
+
+7 - Nos navios da pesca do largo devem existir três fatos de imersão hipotérmicos por cada embarcação salva-vidas e ajudas térmicas para as pessoas a acomodar nas embarcações salva-vidas e para as quais não estejam previstos fatos de imersão hipotérmicos.
 
 8 - Os fatos de imersão hipotérmicos e as ajudas térmicas referidos no número anterior não são obrigatórios se o navio possuir embarcações salva-vidas totalmente cobertas com capacidade para acomodar, a cada bordo, o número total das pessoas embarcadas ou embarcações salva-vidas que possam ser colocadas na água por queda livre pela popa do navio com capacidade para acomodar o número total das pessoas embarcadas.
+
+9 - Os fatos de imersão hipotérmicos exigidos no n.os 6 e 7 podem ser tidos em conta para cumprimento do disposto no n.º 6.
+
+10 - Os fatos de imersão hipotérmicos exigidos nos n.os 6 e 7 são dispensados nos navios de pesca do largo que naveguem constantemente a sul do paralelo 30ºN e a norte do paralelo 30ºS.
+
+11 - Os fatos de imersão hipotérmicos, referidos nos números anteriores, devem satisfazer os requisitos definidos no artigo 80.º
+
+12 - As ajudas térmicas referidas nos números anteriores devem satisfazer os requisitos definidos no artigo 82.º
