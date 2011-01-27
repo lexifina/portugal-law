@@ -1,0 +1,101 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=cqpGrns5UyiyPnfDDcltPGDDPGagvAPg5LKOzP1ZUMdFhS1tYE%2boUqLKys6rT7dQcCsHZzpaaD89aqaaeheMPgaLprYCqr1kfj1yfNQQLvRfJRydrl8CY1Co%2bE8e0qRj21QPh3XBduK2UjaCTwkaZsSJ4Ws78SqTHcUqMO96eMwx0mJ%2fnsLMcuHSvhMz5fog89wsUW8g%2fE6ZhuGk3jur29lC8psdBmdSjbYJnssR%2faJyQGkQf1%2bt9BE0CqnanLSJIJsdFkKfZum%2fMA3QD2YgBITg5jSzdngUrVVNHICp8QvlGKw3W%2bpeu%2bh8LqCpg3zL2WI3n87847CubKBOteTOUU2WZeFIAxLb8PlZly06%2b9I%3d&fich=AtividadesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "e990867e1dd1772bdbc8ca55751b34755453758a1f02604666e2c3ee6e5cbd72",
+  "legislatura": "XI",
+  "tipo": "Voto",
+  "numero": "98",
+  "data_registo": "2011-01-27",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Solidariedade com o Povo da Tunísia",
+    "AutoresGP": [
+      "PCP",
+      "João Ramos (PCP)",
+      "Agostinho Lopes (PCP)",
+      "João Oliveira (PCP)",
+      "Bernardino Soares (PCP)",
+      "Miguel Tiago (PCP)",
+      "Honório Novo (PCP)",
+      "António Filipe (PCP)",
+      "Francisco Lopes (PCP)",
+      "Paula Santos (PCP)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2011-01-27",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XI",
+    "Numero": "98",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "539835",
+        "obs": null,
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-01-29",
+        "pubLeg": "XI",
+        "pubNr": "97",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/097/2011-01-29/3?pgs=3&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2011-01-28",
+        "descricao": null,
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> PEV</I><BR>Abstenção:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>",
+        "id": "57566",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "539882",
+            "obs": null,
+            "pag": [
+              "48-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-01-29",
+            "pubLeg": "XI",
+            "pubNr": "45",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/045/2011-01-29/48?pgs=48&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "45",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
