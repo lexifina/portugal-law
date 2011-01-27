@@ -1,0 +1,4 @@
+Aviso n.º 2924/2011
+Para os devidos efeitos, se informa que o Regulamento n.º 21/2006, publicado na 2.ª série do Diário da República, de 10 de Abril, relativo à utilização dos espaços comuns da Escola Superior de Enfermagem de Artur Ravara e da Escola Superior de Tecnologia da Saúde de Lisboa (ESEAR e ESTeSL), situadas na Avenida de D. João II, lote 4.69.01, Parque das Nações, 1990-096 Lisboa, encontra-se revogado, passando esta matéria a ser regulada nos termos do regulamento aprovado pela Escola Superior de Enfermagem de Lisboa e pela Escola Superior de Tecnologia da Saúde de Lisboa, do Instituto Politécnico de Lisboa, em 17 de Janeiro de 2011, disponibilizado no sítio da Internet das respectivas Escolas.
+17 de Janeiro de 2011. - O Vice-Presidente, João Carlos Barreiros dos Santos.
+204238652
