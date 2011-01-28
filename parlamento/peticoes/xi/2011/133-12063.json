@@ -1,0 +1,439 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12063",
+  "numero": "133",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-01-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-02-23",
+            "entidades": null,
+            "id": "90370",
+            "tipo": null,
+            "titulo": "Audição em 2011-02-23 com Presidente da Associação de Professores do Ensino Particular e Cooperativo com Contrato de Associação-APEPCCA- Prof. Rui Leite, Prof. David Macedo- APEPCCA, Prof. Filipe Pereira - APEPCCA, Prof. Joaquim Ribeiro - APEPCCA"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-02-02",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra da Educação"
+            ],
+            "nrOficio": "94/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-03-23",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-02-02",
+        "DataArquivo": "2011-03-23",
+        "DataBaixaComissao": "2011-02-02",
+        "DataEnvioPAR": "2011-03-23",
+        "DataReaberta": "2011-02-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-02-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684d54646c4e54566b595331694e6a646c4c5451775a5751744f444e69596930304d7a4d794d6a56694d6d49794d5455756347526d&fich=a17e55da-b67e-40ed-83bb-433225b2b215.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-02-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396c4d6d4a6d5954597a5a5330354e4749304c54526d5a6a5974595442684e53316b4d4745785a6d5a685a5451344e3255756347526d&fich=e2bfa63e-94b4-4ff6-a0a5-d0a1ffae487e.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-03-29",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4e7a677a4f54426a4d79316b4d7a5a6a4c5451324d6d4d74596a6c6b595330355a47566c4d7a426b59325a6b4d5467756347526d&fich=f78390c3-d36c-462c-b9da-9dee30dcfd18.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2871",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-02-02",
+            "gp": "PEV",
+            "id": "834",
+            "motivoCessacao": null,
+            "nome": "Heloísa Apolónia"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2011-10-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2011-02-01",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764d4455354e546b304e6a6b744e7a426b4d4330304d7a67304c5467324e6d51744d4459344e5745304f4751304e6a63774c6e426b5a673d3d&fich=05959469-70d0-4384-866d-0685a48d4670.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-10-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:33:50:224&drc=00:03:57:706"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração do regime actual do Estatuto do Ensino Particular e Cooperativo e do financiamento das escolas com contrato de associação, introduzidos pelo Decreto-Lei nº 138-C/2010, de 28 de Dezembro e pela Portaria n.º 1324-A/2010, de 29 de Dezembro; Contra os cortes orçamentais para as escolas com contrato de associação; Pela revogação/alteração do Decreto-Lei nº 138-C/2010, que altera o Estatuto do Ensino Particular e Cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:37:55:367&drc=00:03:35:467"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração do regime actual do Estatuto do Ensino Particular e Cooperativo e do financiamento das escolas com contrato de associação, introduzidos pelo Decreto-Lei nº 138-C/2010, de 28 de Dezembro e pela Portaria n.º 1324-A/2010, de 29 de Dezembro; Contra os cortes orçamentais para as escolas com contrato de associação; Pela revogação/alteração do Decreto-Lei nº 138-C/2010, que altera o Estatuto do Ensino Particular e Cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:41:35:586&drc=00:03:07:382"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração do regime actual do Estatuto do Ensino Particular e Cooperativo e do financiamento das escolas com contrato de associação, introduzidos pelo Decreto-Lei nº 138-C/2010, de 28 de Dezembro e pela Portaria n.º 1324-A/2010, de 29 de Dezembro; Contra os cortes orçamentais para as escolas com contrato de associação; Pela revogação/alteração do Decreto-Lei nº 138-C/2010, que altera o Estatuto do Ensino Particular e Cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:44:54:601&drc=00:04:01:405"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração do regime actual do Estatuto do Ensino Particular e Cooperativo e do financiamento das escolas com contrato de associação, introduzidos pelo Decreto-Lei nº 138-C/2010, de 28 de Dezembro e pela Portaria n.º 1324-A/2010, de 29 de Dezembro; Contra os cortes orçamentais para as escolas com contrato de associação; Pela revogação/alteração do Decreto-Lei nº 138-C/2010, que altera o Estatuto do Ensino Particular e Cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-10-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:49:04:001&drc=00:03:52:782"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração do regime actual do Estatuto do Ensino Particular e Cooperativo e do financiamento das escolas com contrato de associação, introduzidos pelo Decreto-Lei nº 138-C/2010, de 28 de Dezembro e pela Portaria n.º 1324-A/2010, de 29 de Dezembro; Contra os cortes orçamentais para as escolas com contrato de associação; Pela revogação/alteração do Decreto-Lei nº 138-C/2010, que altera o Estatuto do Ensino Particular e Cooperativo.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12063",
+    "PetAssunto": "Solicitam a alteração do regime actual do Estatuto do Ensino Particular e Cooperativo e do financiamento das escolas com contrato de associação, introduzidos pelo Decreto-Lei nº 138-C/2010, de 28 de Dezembro e pela Portaria n.º 1324-A/2010, de 29 de Dezembro.",
+    "PetDataEntrada": "2011-01-28",
+    "PeticoesAssociadas": null,
+    "PetId": "12063",
+    "PetLeg": "XI",
+    "PetNr": "133",
+    "PetNrAssinaturas": "8230",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1566",
+        "obs": null,
+        "pag": [
+          "32-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-10-22",
+        "pubLeg": "XII",
+        "pubNr": "34",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/32?pgs=32-37&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "540622",
+        "obs": null,
+        "pag": [
+          "8-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-02-05",
+        "pubLeg": "XI",
+        "pubNr": "103",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/103/2011-02-05/8?pgs=8-9&org=PLC"
+      }
+    ]
+  }
+}
