@@ -12,9 +12,9 @@
 
 3 - Os instrumentos de acesso ao crédito referidos nos números anteriores contemplam, designadamente, duas tipologias de operações de crédito:
 
-a) MICROINVEST, para operações de crédito até (euro) 15 000, para financiamento de projectos de investimento até (euro) 15 000;
+a) MICROINVEST, para operações de crédito até (euro) 20 000, para financiamento de projectos de investimento até (euro) 20.000,00;
 
-b) INVEST+, para operações de crédito de montante superior a (euro) 15 000 e até (euro) 100 000, para financiamento de projectos de investimento superior a (euro) 15 000 e até (euro) 200 000.
+b) INVEST+, para operações de crédito de montante até (euro) 100 000 para financiamento de projectos de investimento superior a (euro) 20 000 e até (euro) 200 000.
 
 4 - Sem prejuízo do disposto na alínea b) do número anterior, os créditos a conceder, no âmbito da tipologia INVEST+, têm como limites 95 % do investimento total e (euro) 50 000 por posto de trabalho criado, a tempo completo.
 

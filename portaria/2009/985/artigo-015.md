@@ -12,4 +12,4 @@ c) Manter o número de postos de trabalho que foi contabilizado para efeito do l
 
 d) Cumprir com os requisitos e obrigações inerentes aos apoios comunitários, caso o programa seja co-financiado.
 
-2 - A empresa beneficiária assegura todas as condições necessárias ao acompanhamento e verificação da sua actividade, a realizar pelas entidades credenciadas referidas no artigo 11.º, até ao fim do segundo ano de actividade da empresa, e posteriormente, e até à extinção das obrigações associadas ao projecto, pelo Instituto do Emprego e Formação Profissional, I. P., ou por entidade por este indicada.
+2 - A empresa beneficiária assegura todas as condições necessárias ao acompanhamento e verificação da sua actividade, até à extinção das obrigações associadas ao projecto, a realizar pelo Instituto do Emprego e Formação Profissional, I. P., ou pela CASES, pelas entidades credenciadas referidas no artigo 11.º e no artigo 11.º-C ou por entidade indicada pelo Instituto do Emprego e Formação Profissional, I. P., ou pela CASES.
