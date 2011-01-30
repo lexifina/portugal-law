@@ -10,12 +10,16 @@
 
 ### Requisitos de acesso à função notarial
 
-São requisitos de acesso à função notarial:
+Para adquirir a qualidade de notário em Portugal, são requisitos indispensáveis os seguintes:
 
-a) Não estar inibido do exercício de funções públicas ou interdito para o exercício de funções notariais;
+a) Ser português ou nacional de um Estado membro da União Europeia ou de outro Estado signatário de acordo com Portugal visando o reconhecimento mútuo de qualificações profissionais para o exercício da função notarial em regime de reciprocidade;
 
-b) Possuir licenciatura em Direito reconhecida pelas leis portuguesas;
+b) Ser maior de idade;
 
-c) Ter frequentado o estágio notarial;
+c) Não estar inibido do exercício de funções públicas ou interdito para o exercício de funções notariais;
 
-d) Ter obtido aprovação em concurso realizado pelo Conselho do Notariado.
+d) Possuir licenciatura em Direito;
+
+e) Ter frequentado o estágio notarial;
+
+f) Ter obtido aprovação em concurso promovido nos termos dos artigos 31.º e 32.º do presente Estatuto.

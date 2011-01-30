@@ -24,11 +24,23 @@ h) Lavrar instrumentos para receber a declaração, com carácter solene ou sob 
 
 i) Lavrar instrumentos de actas de reuniões de órgãos sociais;
 
-j) Transmitir por telecópia, sob forma certificada, o teor dos instrumentos públicos, registos e outros documentos que se achem arquivados no cartório, a outros serviços públicos perante os quais tenham de fazer fé e receber os que lhe forem transmitidos, por esses serviços, nas mesmas condições;
+j) Transmitir por via electrónica o teor dos instrumentos públicos, registos e outros documentos que se achem arquivados no cartório a outros serviços públicos perante os quais tenham de fazer fé e receber os que lhe forem transmitidos, por esses serviços, nas mesmas condições;
 
 l) Intervir nos actos jurídicos extrajudiciais a que os interessados pretendam dar garantias especiais de certeza e autenticidade;
 
-m) Conservar os documentos que por lei devam ficar no arquivo notarial e os que lhe forem confiados com esse fim.
+m) Intervir em processos de mediação e de arbitragem;
+
+n) Conservar os documentos que por lei devam ficar no arquivo notarial e os que lhe forem confiados com esse fim, aplicando as regras de arquivo electrónico que cumpram as especificações técnicas fixadas pela Ordem dos Notários no quadro das suas competências de reorganização dos sistemas de arquivo notarial;
+
+o) Liquidar por via electrónica, a pedido do contribuinte e nos termos por este declarados, o Imposto Municipal Sobre as Transmissões Onerosas de Imóveis e outros impostos, tendo em conta os negócios jurídicos a celebrar ou celebrados, nos casos e nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça;
+
+p) Apresentar por via electrónica, a pedido dos interessados e de acordo com as respectivas declarações, pedidos de alteração, nos termos do artigo 13.º da Lei n.º 7/2007, de 5 de Fevereiro, de morada fiscal do adquirente, de isenção de Imposto Municipal sobre Imóveis relativo a habitação própria e permanente e de inscrição ou actualização de prédio urbano na matriz, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça;
+
+q) Apresentar por via electrónica, a pedido do contribuinte e de acordo com as respectivas declarações, a participação a que se refere o artigo 26.º do Código do Imposto do Selo, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça;
+
+r) Promover, em representação dos interessados, os registos necessários à protecção de propriedade industrial e praticar junto do Instituto Nacional da Propriedade Industrial, INPI, I. P., todos os actos necessários para o efeito;
+
+s) Exercer as demais funções que resultam das disposições do presente Estatuto ou de outros preceitos legais.
 
 3 - A solicitação dos interessados, o notário pode requisitar por qualquer via, a outros serviços públicos, os documentos necessários à instrução dos actos da sua competência.
 

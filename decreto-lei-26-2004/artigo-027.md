@@ -2,7 +2,7 @@
 
 ### Estágio
 
-1 - O estágio tem a duração de 18 meses e é realizado sob a orientação de notário com, pelo menos, sete anos de exercício de funções notariais, livremente escolhido pelo estagiário ou designado pela Ordem dos Notários.
+1 - O estágio tem a duração de 18 meses e é realizado sob a orientação de notário com, pelo menos, cinco anos de exercício de funções notariais, livremente escolhido pelo estagiário ou designado pela Ordem dos Notários.
 
 2 - O estágio é reduzido a metade se o estagiário for:
 

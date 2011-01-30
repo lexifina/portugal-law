@@ -1,4 +1,4 @@
-## Capítulo VI
+## Capítulo VII
 
 ## Cessação da actividade notarial e seus efeitos
 
