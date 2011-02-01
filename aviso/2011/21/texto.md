@@ -1,0 +1,5 @@
+Aviso n.º 21/2011
+Por ordem superior se torna público que foram emitidas notas pelo Ministério das Relações Exteriores, Comércio Internacional e Culto da Argentina e pela Embaixada de Portugal em Buenos Aires, respectivamente em 25 de Março e 14 de Maio de 2010, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República Argentina sobre Auxílio Judiciário Mútuo em Matéria Penal, assinado em Lisboa em 7 de Abril de 2003.
+Por parte de Portugal, o Acordo foi aprovado pela Resolução da Assembleia da República n.º 23/2007, de 22 de Março, e ratificado pelo Decreto do Presidente da República n.º 56/2007, de 14 de Junho, publicado no Diário da República, 1.ª série, n.º 113, de 14 de Junho de 2007.
+Nos termos do n.º 1 do artigo 22.º, foram trocados os instrumentos de ratificação em 3 de Dezembro de 2010, pelo que o Acordo entrará em vigor no dia 2 de Janeiro de 2011.
+Direcção-Geral de Política Externa, 16 de Dezembro de 2010. - O Director-Geral, Nuno Filipe Alves Salvador e Brito.
