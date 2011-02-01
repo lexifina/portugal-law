@@ -1,0 +1,5 @@
+Aviso n.º 19/2011
+Por ordem superior se torna público que, em 22 de Janeiro de 2009 e em 8 de Setembro de 2010, foram recebidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da Ucrânia e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a Ucrânia no Domínio do Combate à Criminalidade, assinado em Lisboa em 24 de Junho de 2008.
+Pela Parte portuguesa, o presente Acordo foi aprovado pela Resolução da Assembleia da República n.º 75/2010 e ratificado pelo Decreto do Presidente da República n.º 77/2010, publicados no Diário da República, 1.ª série, n.º 141, de 22 de Julho de 2010.
+Nos termos do artigo 13.º do Acordo, este entrará em vigor em 7 de Março de 2011, ou seja, 180 dias após a data da recepção da segunda notificação.
+Direcção-Geral de Política Externa, 15 de Dezembro de 2010. - O Director-Geral, Nuno Filipe Alves Salvador e Brito.
