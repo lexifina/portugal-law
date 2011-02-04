@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P51eFuHgxFD78h707uCD%2f4%2bbRGeVckHY%2fxjH0irckIJg1CudMSeBOXHqaanmRXA0kQKLyDrf%2bEf7iBWDqH%2bDguXCPRsyEdQhtMvveqTIYviOJK%2b7XmFM05zqIG2hRWj4v6pUBtQ4Ilihmxk7R0UG1cFFW3g%2bFk%2brFe5Ci2NFVXnpmKPI%2feXn7EXzmzGfQuDSCwuS567d0yV9twkD9rLrHmqJaRUdA21rTkWfFj9OKi01Yx1Shjticm%2bTlK%2b69lEoUHEQNnxqGMBA4TGmEuhKIJ5nOOkO%2bv5b8GbCQQ%2b9jY4%2b6DXCHJsrNMDYApsXkkwK%2fj2smQNnSWPKCauTX7N6NggJgBeKdegS%2b1gbnI5B74Y%3d&fich=DiplomasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "b7c669e93e898120f7d9ad6dc24f69ed5622cb7554a8cd128468fc992e8858c7",
+  "legislatura": "XI",
+  "id": "16267",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2011-02-04",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2011",
+    "Id": "16267",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "35615",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a5a6a6c695a5756694e7931685a6a45774c54517a4d574d74596a6c6a5a4330345a6a513359324e6c4d7a557959546b755a47396a&fich=3f9beeb7-af10-431c-b9cd-8f47cce352a9.doc&Inline=true",
+        "IniNr": "22",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "S",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XI",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c7a4268593245794d6a4d7a4c57466a4d5449744e4759335a6931684d6a5a694c5755334d475a6c5a574a6c4d6a45794e79356b62324d3d&fich=0aca2233-ac12-4f7f-a26b-e70feebe2127.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "539923",
+        "obs": null,
+        "pag": [
+          "40-60"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-02-04",
+        "pubLeg": "XI",
+        "pubNr": "78",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/11/02/078/2011-02-04/40?pgs=40-60&org=PLC"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Resolução",
+    "Titulo": "Aprova o Acordo entre a Comunidade Europeia e os seus Estados-Membros, por um lado, e a República da África do Sul, por outro, que altera o Acordo de Comércio, Desenvolvimento e Cooperação, assinado em Kleinmond, África do Sul, a 11 de Setembro de 2009",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
