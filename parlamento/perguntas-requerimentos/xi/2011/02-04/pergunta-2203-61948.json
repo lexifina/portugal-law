@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "61948",
+  "tipo": "Pergunta",
+  "numero": "2203",
+  "data_registo": "2011-02-04",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Encerramento de Centros de Saúde na Anadia - Moita",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1352",
+        "nome": "Paulo Portas"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1923",
+        "nome": "Teresa Caeiro"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "3995",
+        "nome": "João Serpa Oliva"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1801",
+        "nome": "Raúl de Almeida"
+      }
+    ],
+    "DataEnvio": "2011-02-07",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2011-02-07",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  SAÚDE",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2011-03-25",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  SAÚDE",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764e544a684f5745354d6a59744e7a51304d6930304d324d354c5749774f4759744d6d466c4d546331597a67324d6a4d324c6e426b5a673d3d&fich=52a9a926-7442-43c9-b08f-2ae175c86236.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2011-02-04",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077765a6d4a694f5452694d4459745a5445354e4330304f544d794c5467314e6d59744e4751354e6d4e6b5a6a566b5a6a55344c6e426b5a673d3d&fich=fbb94b06-e194-4932-856f-4d96cdf5df58.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "61948",
+    "Legislatura": "XI",
+    "Nr": "2203",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "560960",
+        "obs": null,
+        "pag": [
+          "19-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011",
+        "pubLeg": "XI",
+        "pubNr": "107",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/107/2011-02-10/19?pgs=19-21&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
