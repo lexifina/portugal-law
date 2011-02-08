@@ -6,11 +6,11 @@
 
 a) Na modalidade de apoio anual e no ano seguinte ao da candidatura:
 
-i) Elaborar e entregar obrigatoriamente um relatório intercalar até 15 de Novembro do ano de execução da candidatura, em formato a disponibilizar pelo IPJ, I. P.;
+i) Elaborar e entregar obrigatoriamente um relatório intercalar até 15 de Novembro do ano de execução da candidatura, em formato a disponibilizar pelo IPJ;
 
 ii) 30 % até 30 de Setembro;
 
-iii) Substituir, excepcionalmente, o relatório intercalar pelo relatório final, a entregar até 1 de Novembro, sempre que a conclusão do projecto se verifique até 1 de Novembro;
+iii) Substituir, excepcionalmente, o relatório intercalar pelo relatório final, a entregar até 15 de Novembro, sempre que a conclusão do projecto se verifique até 1 de Novembro;
 
 b) Na modalidade de apoio pontual:
 

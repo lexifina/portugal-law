@@ -2,7 +2,7 @@
 
 ### Formalização da candidatura
 
-1 - A candidatura é formalizada no sítio na Internet a disponibilizar pelo Instituto Português da Juventude (IPJ), devendo, para o efeito, ser preenchida a respectiva ficha de candidatura.
+1 - A candidatura é formalizada no sítio na Internet a disponibilizar pelo Instituto Português da Juventude, I.P. (IPJ), devendo, para o efeito, ser preenchida a respectiva ficha de candidatura.
 
 2 - A ficha mencionada no número anterior é remetida para os serviços do IPJ, pela via electrónica, fax ou carta registada com aviso de recepção.
 

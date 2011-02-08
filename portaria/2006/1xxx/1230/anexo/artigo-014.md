@@ -8,7 +8,7 @@ a) Na modalidade de apoio anual:
 
 i) Elaborar e entregar obrigatoriamente um relatório intercalar até 15 de Novembro do ano de execução da candidatura, em formato a disponibilizar pelo IPJ, I. P.;
 
-ii) Elaborar e entregar obrigatoriamente um relatório final, em formato a disponibilizar pelo IPJ, até 1 de Março do ano seguinte ao da transferência da segunda prestação, contendo elementos quantitativos e qualitativos quanto às actividades desenvolvidas e aplicação do subsídio atribuído, acompanhado de um relatório e contas dos anos económicos em causa, certificado por um técnico oficial de contas e aprovado em reunião de assembleia geral, bem como documentos comprovativos das despesas efectuadas;
+ii) Elaborar e entregar obrigatoriamente um relatório final até 1 de Março do ano seguinte ao da execução da candidatura, contendo elementos quantitativos e qualitativos quanto às actividades desenvolvidas e aplicação do subsídio atribuído, acompanhado de um relatório e contas do ano económico em causa, bem como dos documentos comprovativos das despesas efectuadas, ambos em formato a disponibilizar pelo IPJ;
 
 iii) Substituir, excepcionalmente, o relatório intercalar pelo relatório final, a entregar até 15 de Novembro, sempre que a conclusão do projecto se verifique até 1 de Novembro;
 
@@ -16,7 +16,7 @@ b) Na modalidade de apoio bienal:
 
 i) Elaborar e entregar obrigatoriamente um relatório intercalar até 1 de Março, no 2.º ano de execução de candidatura, em formato a disponibilizar pelo IPJ;
 
-ii) Elaborar e entregar obrigatoriamente um relatório final, em formato a disponibilizar pelo IPJ, até 1 de Março do ano seguinte ao da transferência da segunda tranche, contendo elementos quantitativos e qualitativos quanto às actividades desenvolvidas e aplicação do subsídio atribuído, acompanhado de um relatório e contas dos anos económicos em causa, certificado por um técnico oficial de contas e aprovado em reunião de assembleia geral, bem como documentos comprovativos das despesas efectuadas;
+ii) Elaborar e entregar obrigatoriamente um relatório final, em formato a disponibilizar pelo IPJ, até 1 de Março do ano seguinte ao da transferência da segunda prestação, contendo elementos quantitativos e qualitativos quanto às actividades desenvolvidas e aplicação do subsídio atribuído, acompanhado de um relatório e contas dos anos económicos em causa, certificado por um técnico oficial de contas e aprovado em reunião de assembleia geral, bem como documentos comprovativos das despesas efectuadas;
 
 c) Na modalidade de apoio pontual:
 

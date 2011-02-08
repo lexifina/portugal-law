@@ -16,7 +16,7 @@ b) Na modalidade de apoio bienal:
 
 i) Elaborar e entregar obrigatoriamente um relatório intercalar até 1 de Março, no 2.º ano de execução de candidatura, em formato a disponibilizar pelo IPJ;
 
-ii) Elaborar e entregar obrigatoriamente um relatório final, em formato a disponibilizar pelo IPJ, até 1 de Março do ano seguinte ao da transferência da segunda tranche, contendo elementos quantitativos e qualitativos quanto às actividades desenvolvidas e aplicação do subsídio atribuído, acompanhado de um relatório e contas dos anos económicos em causa, certificado por um técnico oficial de contas e aprovado em reunião de assembleia geral, bem como documentos comprovativos das despesas efectuadas.
+ii) Elaborar e entregar obrigatoriamente um relatório final, em formato a disponibilizar pelo IPJ, até 1 de Março do ano seguinte ao da transferência da segunda prestação, contendo elementos quantitativos e qualitativos quanto às actividades desenvolvidas e aplicação do subsídio atribuído, acompanhado de um relatório e contas dos anos económicos em causa, certificado por um técnico oficial de contas e aprovado em reunião de assembleia geral, bem como documentos comprovativos das despesas efectuadas.
 
 2 - Sem prejuízo do disposto nos números anteriores, os relatórios intercalares e finais a entregar no âmbito das medidas n.os 1 e 2 do presente Programa, em caso de reparações e construções, devem ser igualmente acompanhado de cópia dos autos de medição das obras executadas, com justificativos das verbas pagas.
 

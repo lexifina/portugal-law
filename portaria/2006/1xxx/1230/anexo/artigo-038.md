@@ -6,4 +6,4 @@
 
 2 - Finda a auditoria é elaborado um relatório que avalia o cumprimento da candidatura quanto à realização das actividades previstas e aplicação das verbas atribuídas.
 
-3 - Sempre que se verifique alguma irregularidade, podem os auditores propor à comissão executiva do IPJ a aplicação das sanções previstas no artigo 44.º do presente Regulamento.
+3 - Sempre que se verifique alguma irregularidade, podem os auditores propor ao presidente do IPJ a aplicação das sanções previstas no artigo 44.º do presente Regulamento.

@@ -16,7 +16,7 @@ c) Para associações de estudantes que representem estabelecimentos de ensino q
 
 VB (valor base) = 6 salários mínimos + 1/60 x salário mínimo x número de alunos do estabelecimento de ensino que a associação representa + Majoração
 
-Para o cálculo da majoração ponderam-se os seguintes critérios, todos eles com três intervalos. A cada intervalo corresponderá uma pontuação a definir anualmente pela comissão executiva do IPJ.
+Para o cálculo da majoração ponderam-se os seguintes critérios, todos eles com três intervalos. A cada intervalo corresponderá uma pontuação a definir anualmente pelo presidente do IPJ.
 
 A majoração máxima será variável até 5%, sendo que 5% corresponde à pontuação máxima de 100 pontos:
 

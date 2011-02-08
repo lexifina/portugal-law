@@ -44,7 +44,7 @@ Associações que desenvolvam actividades com carácter regular em mais de três
 
 Associações que desenvolvam actividades com carácter regular em pelo menos três distritos do País = 1.
 
-Apura-se o valor FMR tendo em conta a ponderação dos seguintes critérios, todos eles com três intervalos. A cada intervalo corresponderá uma pontuação a definir anualmente pela comissão executiva do IPJ:
+Apura-se o valor FMR tendo em conta a ponderação dos seguintes critérios, todos eles com três intervalos. A cada intervalo corresponderá uma pontuação a definir anualmente pelo presidente do IPJ:
 
 Capacidade de autofinanciamento:
 

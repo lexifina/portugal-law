@@ -10,7 +10,7 @@ i) 30 % até 31 de Maio;
 
 ii) 30 % até 30 de Setembro;
 
-iii) 40 % até 31 de Dezembro e após a entrega do relatório intercalar, em formato a disponibilizar pelo IPJ, I. P.;
+iii) 40 %, até 31 de Dezembro e após a entrega do relatório intercalar, em formato a disponibilizar pelo IPJ;
 
 b) Na modalidade de apoio pontual:
 
