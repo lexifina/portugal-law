@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Y5feubGpmx3U3eADC2xbJmNQ%2bo9hh0y0Ws%2bMg6e1ClK3K68Ax4Xhm%2fWAehW8ocLQeD2OxoySGddyZuNhZaLhFlUp0ir7jK%2bOM48106ZJfd5wcxphkEewWoW0V2xfzdMNDfGCCckE9GmO9gLekm49cKDkNA8ZLG3MKaBA%2fkt5m8WXIfeT%2b5Mx1%2b0sg7BllQnlJxstthBRb%2bInCrt9Uig%2bShhf4upRTB1UPB5rRZ5AdO%2bS2bOM3SOwHIIzM8sV51n%2b%2fFpTd99F%2bLrFlKG%2beBsI3Ay12J%2bsVEuFtnniXdweo0Fbri050dE53bSr8jRl8MGpmX2sdxehZ6G6%2byWG%2fP8M0NepLg61Gx0Gl5lJ5jDaOiQ%3d&fich=IntervencoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7f20a8e6bd694f3fe5bcaedfdae6b5dacd6c1585dae5f92751007c07eefc189c",
+  "legislatura": "XI",
+  "id": "179234",
+  "tipo": "Intervenção",
+  "orador": "Rita Rato (PCP)",
+  "data_registo": "2011-02-09",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "26898",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "26898",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Abordou a questão da precaridade laboral e do impacto que esta tem sobre os jovens portugueses"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "A precariedade laboral e o impacto que esta tem sobre os jovens portugueses.",
+        "duracao": "00:06:05:514",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20110209pln&url=l11/sl2/a2011/m02/&tI=00:04:05:660&drc=00:06:05:514"
+      },
+      {
+        "assunto": "Responde a José Moura Soeiro acerca da sua declaração sobre a precariedade laboral e o impacto que esta tem sobre os jovens portugueses.",
+        "duracao": "00:02:18:144",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20110209pln&url=l11/sl2/a2011/m02/&tI=00:11:42:288&drc=00:02:18:144"
+      },
+      {
+        "assunto": "Responde a Adão Silva acerca da sua declaração sobre a precariedade laboral e o impacto que esta tem sobre os jovens portugueses.",
+        "duracao": "00:03:26:626",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20110209pln&url=l11/sl2/a2011/m02/&tI=00:16:58:787&drc=00:03:26:626"
+      },
+      {
+        "assunto": "Responde a Maria José Gambôa acerca da sua declaração sobre a precariedade laboral e o impacto que esta tem sobre os jovens portugueses.",
+        "duracao": "00:02:46:928",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20110209pln&url=l11/sl2/a2011/m02/&tI=00:23:57:604&drc=00:02:46:928"
+      }
+    ],
+    "DataReuniaoPlenaria": "2011-02-09",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "4104",
+      "nome": "Rita Rato"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "179234",
+    "IdDebate": "4143",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "179234",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "8-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-02-10",
+        "pubLeg": "XI",
+        "pubNr": "49",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/049/2011-02-10/8?pgs=8-14&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Responde a pedidos de esclarecimento dos deputados José Moura Soeiro (BE), Adão Silva (PSD) e Maria José Gamboa (PS)",
+    "Sessao": "2",
+    "Sumario": "Abordou a questão da precaridade laboral e do impacto que esta tem sobre os jovens portugueses",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
