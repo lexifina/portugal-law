@@ -1,0 +1,5 @@
+Aviso n.º 25/2011
+Por ordem superior se torna público que, em 11 de Junho e em 10 de Dezembro de 2010, foram recepcionadas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pelo Ministério dos Negócios Estrangeiros da República da Sérvia, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República da Sérvia no Domínio da Defesa, assinado em Belgrado em 13 de Fevereiro de 2009.
+Pela parte portuguesa, o presente Acordo foi aprovado pela Resolução da Assembleia da República n.º 116/2010 e ratificado pelo Decreto do Presidente da República n.º 115/2010, publicados no Diário da República, 1.ª série, n.º 217, de 9 de Novembro de 2010.
+Nos termos do artigo 12.º do Acordo, este entrou em vigor em 9 de Janeiro de 2011, ou seja, 30 dias após a data de recepção da segunda notificação.
+Direcção-Geral de Política Externa, 20 de Janeiro de 2011. - O Director-Geral, Nuno Filipe Alves Salvador e Brito.
