@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P51eFuHgxFD78h707uCD%2f4%2bbRGeVckHY%2fxjH0irckIJg1CudMSeBOXHqaanmRXA0kQKLyDrf%2bEf7iBWDqH%2bDguXCPRsyEdQhtMvveqTIYviOJK%2b7XmFM05zqIG2hRWj4v6pUBtQ4Ilihmxk7R0UG1cFFW3g%2bFk%2brFe5Ci2NFVXnpmKPI%2feXn7EXzmzGfQuDSCwuS567d0yV9twkD9rLrHmqJaRUdA21rTkWfFj9OKi01Yx1Shjticm%2bTlK%2b69lEoUHEQNnxqGMBA4TGmEuhKIJ5nOOkO%2bv5b8GbCQQ%2b9jY4%2b6DXCHJsrNMDYApsXkkwK%2fj2smQNnSWPKCauTX7N6NggJgBeKdegS%2b1gbnI5B74Y%3d&fich=DiplomasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "b7c669e93e898120f7d9ad6dc24f69ed5622cb7554a8cd128468fc992e8858c7",
+  "legislatura": "XI",
+  "id": "16302",
+  "tipo": "Resolução",
+  "numero": "-XI",
+  "data_registo": "2011-02-15",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2011",
+    "Id": "16302",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "35700",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953383159324d78595459314e5330355a57466c4c54526b4d546b7459546b784e7930775a5451314e44466d597a55344e5445755a47396a&fich=5cc1a655-9eae-4d19-a917-0e4541fc5851.doc&Inline=true",
+        "IniNr": "31",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "S",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XI",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c3259335957557a4d6d55314c546b7a593251744e474d31596931684d6a45784c5751354e444e6a5a6a466c5a6d52684e79356b62324d3d&fich=f7ae32e5-93cd-4c5b-a211-d943cf1efda7.doc&Inline=true",
+    "Numero": null,
+    "Numero2": "XI",
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "542543",
+        "obs": null,
+        "pag": [
+          "2-33"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-02-15",
+        "pubLeg": "XI",
+        "pubNr": "86",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/11/02/086/2011-02-15/2?pgs=2-33&org=PLC"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Resolução",
+    "Titulo": "Aprova o Protocolo de Emendas à Convenção Relativa à Organização Hidrográfica Internacional, adoptado no Mónaco, a 14 de Abril de 2005",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
