@@ -1,0 +1,9 @@
+Portaria n.º 73/2011
+de 15 de Fevereiro
+Pela Portaria n.º 740/75, de 13 de Dezembro, e nos termos dos artigos 1.º e 8.º do Decreto-Lei n.º 406-A/75, de 19 de Novembro, foi expropriado a Ermelinda Neves Bernardino Santos Jorge o prédio rústico denominado Herdade dos Machados, com a área de 6101,0825 ha, sito na freguesia de Santo Agostinho, concelho de Moura.
+Na sequência do pedido de reversão apresentado ao abrigo do n.º 2 do artigo 44.º da Lei n.º 86/95, de 1 de Setembro, na qualidade de legítimos herdeiros, Nuno Tristão Neves e Arnalda Neves Tavares da Costa, do sujeito passivo da expropriação, foi organizado e instruído o respectivo processo administrativo, no decurso do qual se provou que o lote 88-OL (10,4539 ha), arrendado pelo Estado a Mariana Gertrudes Santana da Silva, foi objecto de contrato de arrendamento entre esta e os requerentes, tendo ainda a arrendatária declarado que não pretende exercer o direito que lhe é conferido pelo Decreto-Lei n.º 349/91, de 19 de Setembro, pelo que se mostram preenchidos os requisitos legais para a reversão nos termos do n.º 2 do artigo 44.º da Lei n.º 86/95, de 1 de Setembro:
+Assim:
+Manda o Governo, pelo Primeiro-Ministro e pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no n.º 2 do artigo 44.º da Lei n.º 86/95, de 1 de Setembro:
+Artigo único
+Reverter a favor de Nuno Tristão Neves e Arnalda Neves Tavares da Costa a área de 10,4539 ha, correspondente ao lote 88-OL do prédio rústico denominado Herdade dos Machados, inscrito sob o artigo matricial n.º 1, secção I a I8, da freguesia de Santo Agostinho, concelho de Moura, e a consequente derrogação da Portaria n.º 740/75, de 13 de Dezembro, na parte em que expropria a referida área.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa, em 25 de Janeiro de 2011. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano, em 18 de Janeiro de 2011.
