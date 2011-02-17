@@ -1,0 +1,818 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "375",
+    "id": "35924",
+    "titulo": "Recomenda ao Governo que declare a nulidade do despacho n.º 19264/2010, de 29 de Dezembro."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2011-02-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7973",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2011-02-17",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "35936",
+        "leg": "XI",
+        "nr": "381",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a revisão da legislação sobre o transporte de doentes não urgentes e a imediata revogação do Despacho n.º 19264, de 29 de Dezembro."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "35949",
+        "leg": "XI",
+        "nr": "386",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a revogação dos cortes no transporte de doentes e o cumprimento do contrato assinado com a Liga dos Bombeiros Portugueses."
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "35962",
+        "leg": "XI",
+        "nr": "394",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que revogue o Despacho n.º 19.264/2010, de 29 de Dezembro, e que proceda, com carácter de urgência, à revisão do enquadramento legal do transporte de doentes não urgentes, de acordo com princípios de equidade social, financeira e territorial."
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "35966",
+        "leg": "XI",
+        "nr": "396",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1513",
+            "obs": null,
+            "pag": [
+              "59-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-02-18",
+            "pubLeg": "XI",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Revogação do Despacho n.º 19264/2010, de 29 de Dezembro, que procede aos cortes no transporte de doentes não urgentes."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-02-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "803",
+                "nome": "João Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110217pln&url=l11/sl2/a2011/m02/&tI=03:23:27:728&drc=00:04:57:261"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179522",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-18",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que declare a nulidade do despacho n.º 19264/2010, de 29 de Dezembro; Recomenda ao Governo a revisão da legislação sobre o transporte de doentes não urgentes e a imediata revogação do Despacho n.º 19264, de 29 de Dezembro; Recomenda ao Governo a revogação dos cortes no transporte de doentes e o cumprimento do contrato assinado com a Liga dos Bombeiros Portugueses; Recomenda ao Governo que revogue o Despacho n.º 19.264/2010, de 29 de Dezembro, e que proceda, com carácter de urgência, à revisão do enquadramento legal do transporte de doentes não urgentes, de acordo com princípios de equidade social, financeira e territorial; Revogação do Despacho n.º 19264/2010, de 29 de Dezembro, que procede aos cortes no transporte de doentes não urgentes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3",
+                "nome": "Adão Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110217pln&url=l11/sl2/a2011/m02/&tI=03:28:28:424&drc=00:04:52:215"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179523",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-18",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que declare a nulidade do despacho n.º 19264/2010, de 29 de Dezembro; Recomenda ao Governo a revisão da legislação sobre o transporte de doentes não urgentes e a imediata revogação do Despacho n.º 19264, de 29 de Dezembro; Recomenda ao Governo a revogação dos cortes no transporte de doentes e o cumprimento do contrato assinado com a Liga dos Bombeiros Portugueses; Recomenda ao Governo que revogue o Despacho n.º 19.264/2010, de 29 de Dezembro, e que proceda, com carácter de urgência, à revisão do enquadramento legal do transporte de doentes não urgentes, de acordo com princípios de equidade social, financeira e territorial; Revogação do Despacho n.º 19264/2010, de 29 de Dezembro, que procede aos cortes no transporte de doentes não urgentes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110217pln&url=l11/sl2/a2011/m02/&tI=03:33:21:329&drc=00:03:56:556"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110217pln&url=l11/sl2/a2011/m02/&tI=03:50:36:488&drc=00:02:17:288"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179524",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63",
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-18",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/62?pgs=62-63,68-69&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que declare a nulidade do despacho n.º 19264/2010, de 29 de Dezembro; Recomenda ao Governo a revisão da legislação sobre o transporte de doentes não urgentes e a imediata revogação do Despacho n.º 19264, de 29 de Dezembro; Recomenda ao Governo a revogação dos cortes no transporte de doentes e o cumprimento do contrato assinado com a Liga dos Bombeiros Portugueses; Recomenda ao Governo que revogue o Despacho n.º 19.264/2010, de 29 de Dezembro, e que proceda, com carácter de urgência, à revisão do enquadramento legal do transporte de doentes não urgentes, de acordo com princípios de equidade social, financeira e territorial; Revogação do Despacho n.º 19264/2010, de 29 de Dezembro, que procede aos cortes no transporte de doentes não urgentes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4096",
+                "nome": "Isabel Galriça Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110217pln&url=l11/sl2/a2011/m02/&tI=03:37:19:885&drc=00:03:47:248"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110217pln&url=l11/sl2/a2011/m02/&tI=03:49:01:121&drc=00:01:32:133"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179525",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64",
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-18",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/63?pgs=63-64,67-68&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que declare a nulidade do despacho n.º 19264/2010, de 29 de Dezembro; Recomenda ao Governo a revisão da legislação sobre o transporte de doentes não urgentes e a imediata revogação do Despacho n.º 19264, de 29 de Dezembro; Recomenda ao Governo a revogação dos cortes no transporte de doentes e o cumprimento do contrato assinado com a Liga dos Bombeiros Portugueses; Recomenda ao Governo que revogue o Despacho n.º 19.264/2010, de 29 de Dezembro, e que proceda, com carácter de urgência, à revisão do enquadramento legal do transporte de doentes não urgentes, de acordo com princípios de equidade social, financeira e territorial; Revogação do Despacho n.º 19264/2010, de 29 de Dezembro, que procede aos cortes no transporte de doentes não urgentes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110217pln&url=l11/sl2/a2011/m02/&tI=03:41:08:911&drc=00:04:10:968"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179526",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-18",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/65?pgs=65&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que declare a nulidade do despacho n.º 19264/2010, de 29 de Dezembro; Recomenda ao Governo a revisão da legislação sobre o transporte de doentes não urgentes e a imediata revogação do Despacho n.º 19264, de 29 de Dezembro; Recomenda ao Governo a revogação dos cortes no transporte de doentes e o cumprimento do contrato assinado com a Liga dos Bombeiros Portugueses; Recomenda ao Governo que revogue o Despacho n.º 19.264/2010, de 29 de Dezembro, e que proceda, com carácter de urgência, à revisão do enquadramento legal do transporte de doentes não urgentes, de acordo com princípios de equidade social, financeira e territorial; Revogação do Despacho n.º 19264/2010, de 29 de Dezembro, que procede aos cortes no transporte de doentes não urgentes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1594",
+                "nome": "Maria Antónia de Almeida Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110217pln&url=l11/sl2/a2011/m02/&tI=03:45:22:195&drc=00:03:28:260"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179527",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-18",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que declare a nulidade do despacho n.º 19264/2010, de 29 de Dezembro; Recomenda ao Governo a revisão da legislação sobre o transporte de doentes não urgentes e a imediata revogação do Despacho n.º 19264, de 29 de Dezembro; Recomenda ao Governo a revogação dos cortes no transporte de doentes e o cumprimento do contrato assinado com a Liga dos Bombeiros Portugueses; Recomenda ao Governo que revogue o Despacho n.º 19.264/2010, de 29 de Dezembro, e que proceda, com carácter de urgência, à revisão do enquadramento legal do transporte de doentes não urgentes, de acordo com princípios de equidade social, financeira e territorial; Revogação do Despacho n.º 19264/2010, de 29 de Dezembro, que procede aos cortes no transporte de doentes não urgentes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1594",
+                "nome": "Maria Antónia de Almeida Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110217pln&url=l11/sl2/a2011/m02/&tI=03:52:59:210&drc=00:00:19:701"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "179528",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-02-18",
+                "pubLeg": "XI",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que declare a nulidade do despacho n.º 19264/2010, de 29 de Dezembro; Recomenda ao Governo a revisão da legislação sobre o transporte de doentes não urgentes e a imediata revogação do Despacho n.º 19264, de 29 de Dezembro; Recomenda ao Governo a revogação dos cortes no transporte de doentes e o cumprimento do contrato assinado com a Liga dos Bombeiros Portugueses; Recomenda ao Governo que revogue o Despacho n.º 19.264/2010, de 29 de Dezembro, e que proceda, com carácter de urgência, à revisão do enquadramento legal do transporte de doentes não urgentes, de acordo com princípios de equidade social, financeira e territorial; Revogação do Despacho n.º 19264/2010, de 29 de Dezembro, que procede aos cortes no transporte de doentes não urgentes.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "273610",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "545036",
+        "obs": null,
+        "pag": [
+          "59-69"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-02-18",
+        "pubLeg": "XI",
+        "pubNr": "53",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/053/2011-02-18/59?pgs=59-69&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
