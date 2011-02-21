@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "62304",
+  "tipo": "Pergunta",
+  "numero": "2487",
+  "data_registo": "2011-02-21",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Classificação de perigosidade de fábrica na Figueira da Foz",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "2839",
+        "nome": "Rita Calvário"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3998",
+        "nome": "José Manuel Pureza"
+      }
+    ],
+    "DataEnvio": "2011-02-22",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2011-02-22",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DO  AMBIENTE E DO ORDENAMENTO DO TERRITÓRIO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2011-03-22",
+            "docRemetida": null,
+            "entidade": "MIN.  DO  AMBIENTE E DO ORDENAMENTO DO TERRITÓRIO",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764d444a6d4e4441344d4759744e6a597a4e7930304d3245334c574531596d55744f4463774d6a51774e325178596a51794c6e426b5a673d3d&fich=02f4080f-6637-43a7-a5be-8702407d1b42.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2011-02-21",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e5276637938795530777659325a695a44517a4e6d45744e474d355a6930305a574e6d4c546777596a59744d6a6c68593259324d444977595452684c6e426b5a673d3d&fich=cfbd436a-4c9f-4ecf-80b6-29acf6020a4a.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "62304",
+    "Legislatura": "XI",
+    "Nr": "2487",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "574210",
+        "obs": null,
+        "pag": [
+          "26-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011",
+        "pubLeg": "XI",
+        "pubNr": "118",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/118/2011-02-24/26?pgs=26-27&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
