@@ -1,0 +1,599 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12083",
+  "numero": "153",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-02-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.Audiencias",
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-08-31",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2011-08-31",
+        "DataBaixaComissao": "2011-07-07",
+        "DataEnvioPAR": "2011-08-31",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-09-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3251334f444d354d544d314c5745344d5749744e44426c4e79303559324d314c5451795a6a557a4d7a566b4f544a6c4e6935775a47593d&fich=d7839135-a81b-40e7-9cc5-42f5335d92e6.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-07-20",
+            "gp": "PSD",
+            "id": "4214",
+            "motivoCessacao": null,
+            "nome": "João Figueiredo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XI Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2011-03-17",
+        "DataArquivo": "2011-07-06",
+        "DataBaixaComissao": "2011-03-17",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2011-03-17",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-04-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c3255335a444934596a51304c544a6a4f5459744e47526d5a693034596d4e6b4c57517a4d6d59304f574979595751314f5335775a47593d&fich=e7d28b44-2c96-4dff-8bcd-d32f49b2ad59.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2872",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Economia e Obras Públicas da XII Legislatura."
+      }
+    ],
+    "DataDebate": "2011-09-02",
+    "Documentos": [
+      {
+        "DataDocumento": "2011-02-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764d475a6b4d5745784e5751744f4745774e4330304f474d7a4c546b34596a6b744d325979595755324d474e6c5a6d566c4c6e426b5a673d3d&fich=0fd1a15d-8a04-48c3-98b9-3f2ae60cefee.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=01:26:32:939&drc=00:03:02:304"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=01:50:44:181&drc=00:02:18:780"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Ligação ferroviária a Beja; Recomenda a restauração da ligação directa Beja-Lisboa por comboio intercidades, a electrificação do troço da linha férrea entre Casa Branca e Estação de Ourique e a continuidade da ligação ferroviária entre o Alentejo e o Algarve através do ramal da Funcheira; Defende a requalificação da ligação ferroviária entre Lisboa e Beja; Ramal de Beja e outras Dores de Alma; Ramal de Beja e Outras Dores de Alma.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=01:29:40:204&drc=00:02:57:811"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=01:53:07:984&drc=00:01:53:751"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31",
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/31?pgs=31,37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Ligação ferroviária a Beja; Recomenda a restauração da ligação directa Beja-Lisboa por comboio intercidades, a electrificação do troço da linha férrea entre Casa Branca e Estação de Ourique e a continuidade da ligação ferroviária entre o Alentejo e o Algarve através do ramal da Funcheira; Defende a requalificação da ligação ferroviária entre Lisboa e Beja; Ramal de Beja e outras Dores de Alma; Ramal de Beja e Outras Dores de Alma.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=01:32:40:829&drc=00:04:43:125"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/31?pgs=31-33&org=PLC"
+              }
+            ],
+            "Sumario": "Ligação ferroviária a Beja; Recomenda a restauração da ligação directa Beja-Lisboa por comboio intercidades, a electrificação do troço da linha férrea entre Casa Branca e Estação de Ourique e a continuidade da ligação ferroviária entre o Alentejo e o Algarve através do ramal da Funcheira; Defende a requalificação da ligação ferroviária entre Lisboa e Beja; Ramal de Beja e outras Dores de Alma; Ramal de Beja e Outras Dores de Alma.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=01:37:31:531&drc=00:04:11:157"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Ligação ferroviária a Beja; Recomenda a restauração da ligação directa Beja-Lisboa por comboio intercidades, a electrificação do troço da linha férrea entre Casa Branca e Estação de Ourique e a continuidade da ligação ferroviária entre o Alentejo e o Algarve através do ramal da Funcheira; Defende a requalificação da ligação ferroviária entre Lisboa e Beja; Ramal de Beja e outras Dores de Alma; Ramal de Beja e Outras Dores de Alma.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=01:41:45:063&drc=00:04:35:885"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Ligação ferroviária a Beja; Recomenda a restauração da ligação directa Beja-Lisboa por comboio intercidades, a electrificação do troço da linha férrea entre Casa Branca e Estação de Ourique e a continuidade da ligação ferroviária entre o Alentejo e o Algarve através do ramal da Funcheira; Defende a requalificação da ligação ferroviária entre Lisboa e Beja; Ramal de Beja e outras Dores de Alma; Ramal de Beja e Outras Dores de Alma.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=01:46:26:259&drc=00:03:56:684"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Ligação ferroviária a Beja; Recomenda a restauração da ligação directa Beja-Lisboa por comboio intercidades, a electrificação do troço da linha férrea entre Casa Branca e Estação de Ourique e a continuidade da ligação ferroviária entre o Alentejo e o Algarve através do ramal da Funcheira; Defende a requalificação da ligação ferroviária entre Lisboa e Beja; Ramal de Beja e outras Dores de Alma; Ramal de Beja e Outras Dores de Alma.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=01:55:06:921&drc=00:00:28:061"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/38?pgs=38&org=PLC"
+              }
+            ],
+            "Sumario": "Ligação ferroviária a Beja; Recomenda a restauração da ligação directa Beja-Lisboa por comboio intercidades, a electrificação do troço da linha férrea entre Casa Branca e Estação de Ourique e a continuidade da ligação ferroviária entre o Alentejo e o Algarve através do ramal da Funcheira; Defende a requalificação da ligação ferroviária entre Lisboa e Beja; Ramal de Beja e outras Dores de Alma; Ramal de Beja e Outras Dores de Alma.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=01:55:42:050&drc=00:01:04:943"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181106",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/38?pgs=38&org=PLC"
+              }
+            ],
+            "Sumario": "Ligação ferroviária a Beja; Recomenda a restauração da ligação directa Beja-Lisboa por comboio intercidades, a electrificação do troço da linha férrea entre Casa Branca e Estação de Ourique e a continuidade da ligação ferroviária entre o Alentejo e o Algarve através do ramal da Funcheira; Defende a requalificação da ligação ferroviária entre Lisboa e Beja; Ramal de Beja e outras Dores de Alma; Ramal de Beja e Outras Dores de Alma.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12083",
+    "PetAssunto": "Ramal de Beja e Outras Dores de Alma.",
+    "PetDataEntrada": "2011-02-21",
+    "PeticoesAssociadas": null,
+    "PetId": "12083",
+    "PetLeg": "XI",
+    "PetNr": "153",
+    "PetNrAssinaturas": "3561",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1548",
+        "obs": null,
+        "pag": [
+          "30-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-09-03",
+        "pubLeg": "XII",
+        "pubNr": "15",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/30?pgs=30-38&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "565155",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-09-03",
+        "pubLeg": "XII",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/037/2011-09-03/4?pgs=4&org=PLC"
+      }
+    ]
+  }
+}
