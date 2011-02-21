@@ -1,0 +1,13 @@
+Aviso n.º 5199/2011
+Dr.ª Isaura Leonor Marques de Figueiredo Silva Pedro, Presidente da Câmara Municipal de Nelas:
+Torna público, nos termos e para os efeitos do disposto no artigo 118.º, do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, alterado pelo Decreto-Lei n.º 06/96, de 31 de Janeiro, que no dia útil seguinte à publicação do presente aviso no Diário da República, entra em vigor a alteração do Regulamento do Sistema de Abastecimento de Água do Concelho de Nelas, que foi presente à reunião ordinária pública desta Câmara Municipal, realizada em 02 de Dezembro de 2010 e aprovada em sessão ordinária da Assembleia Municipal de Nelas, realizada em 11 de Fevereiro de 2011, conforme a seguir se transcreve.
+14 de Fevereiro de 2011. - A Presidente da Câmara, Dr.ª Isaura Pedro.
+Alteração do Regulamento do Sistema de Abastecimento de Água do Concelho de Nelas
+Artigo 10.º
+Titularidade
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - Quando se verifique o falecimento do consumidor titular, os direitos decorrentes do contrato existente podem transmitir-se aos herdeiros legalmente habilitados, bastando para tanto um simples averbamento do novo titular do contrato de fornecimento de água.
+204348545
