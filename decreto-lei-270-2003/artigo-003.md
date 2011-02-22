@@ -53,3 +53,9 @@ z) «Transporte combinado» o transporte no qual o camião, o reboque, o semi-re
 aa) «Transporte regional» o transporte destinado a dar resposta às necessidades de uma região;
 
 ab) «Transporte urbano e suburbano» o transporte destinado a dar resposta às necessidades de um centro urbano ou de uma aglomeração, bem como às necessidades de transporte entre esse centro ou essa aglomeração e os respectivos subúrbios.
+
+ac) 'Detentor' a pessoa ou entidade que explora um veículo enquanto meio de transporte, quer seja proprietário do veículo, quer tenha o direito de o utilizar, e que está registada como tal no Registo de Matrícula Nacional (RMN) previsto no artigo 31.º do Decreto-Lei n.º 27/2011, de 17 de Fevereiro;
+
+ad) 'Entidade responsável pela manutenção' a entidade responsável pela manutenção de um veículo, registada como tal no RMN;
+
+ae) 'Veículo' um veículo ferroviário apto a circular com as suas próprias rodas em linhas férreas, com ou sem tracção, sendo composto por um ou mais subsistemas ou partes de subsistemas estruturais e funcionais.

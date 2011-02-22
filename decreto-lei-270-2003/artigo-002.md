@@ -19,3 +19,5 @@ c) Do âmbito de aplicação do presente diploma, com excepção dos capítulos 
 d) Do âmbito de aplicação do capítulo IV as empresas cuja actividade se limite, em absoluto, à exploração de serviços de transporte urbano, suburbano ou regional de passageiros, ou de transporte regional de mercadorias, quando sejam também detentoras da infra-estrutura em que operam.
 
 3 - Nas redes abrangidas pela alínea b) do n.º 1 a disciplina das matérias de atribuição de capacidade e tarifação pela utilização da infra-estrutura constará de instrumento contratual, o qual será objecto de notificação ao Instituto Nacional do Transporte Ferroviário (INTF), nos termos e para os efeitos a prever em regulamento a emitir por esta entidade.
+
+4 - Os caminhos de ferro históricos, de museu e turísticos que circulam na sua própria rede, incluindo as oficinas, os veículos e o pessoal, bem como os veículos históricos que circulam em redes nacionais desde que cumpram as regras e regulamentos nacionais de segurança destinados a garantir a circulação segura desses veículos, estão excluídos do âmbito de aplicação do presente decreto-lei.

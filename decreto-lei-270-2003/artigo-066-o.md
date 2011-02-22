@@ -14,4 +14,6 @@ c) A evolução da certificação de segurança e da autorização de segurança
 
 d) Os resultados da supervisão dos gestores das infra-estruturas e das empresas ferroviárias, bem como a experiência adquirida com essa supervisão.
 
+e) Sobre as isenções concedidas ao abrigo do disposto nos n.os 4 a 6 do artigo 66.º-S do presente decreto-lei.
+
 3 - O IMTT envia à Agência Ferroviária Europeia o relatório anual de segurança, até ao dia 30 de Setembro do ano seguinte ao ano a que respeita.

@@ -20,6 +20,8 @@
 
 a) Parte A - respeitante à demonstração da existência de um sistema de gestão da segurança aprovado;
 
-b) Parte B - respeitante à demonstração do cumprimento dos requisitos específicos necessários à respectiva operação em condições de segurança, nomeadamente quanto ao cumprimento das ETI e das normas técnicas de segurança, à aceitação dos certificados do pessoal e à autorização de colocação em serviço do material circulante utilizado.
+b) Parte B - a certificação da aceitação das disposições adoptadas pela empresa ferroviária para dar cumprimento aos requisitos específicos necessários à prestação dos seus serviços na rede em causa em condições de segurança, podendo esses requisitos dizer respeito à aplicação das ETI e das normas de segurança nacionais, incluindo as normas de exploração da rede, a aceitação dos certificados do pessoal e a autorização de pôr em serviço os veículos utilizados pelas empresas ferroviárias, devendo a certificação basear-se na documentação apresentada pela empresa ferroviária em conformidade com o regulamento a que se refere o artigo 66.º-I do presente decreto-lei.
 
 5 - Quando se trate de empresa de transporte ferroviário titular de certificado de segurança emitido noutro Estado membro e que pretenda aceder à rede nacional para prestar serviços equivalentes àqueles para que já se encontra certificada, é apenas exigida a demonstração dos aspectos mencionados na alínea b) do número anterior.
+
+6 - O objectivo do certificado de segurança é comprovar que a empresa ferroviária criou o seu sistema de gestão da segurança e está apta a cumprir os requisitos previstos nas ETI, noutra legislação comunitária aplicável e nas normas de segurança nacionais, a fim de controlar os riscos e de prestar serviços de transporte na rede de forma segura.
