@@ -1,0 +1,7 @@
+Aviso (extracto) n.º 5949/2011
+Projecto de Regulamento do Prémio de Mérito Escolar
+Álvaro José Pato Azedo, Presidente da Freguesia de Santo Agostinho, Concelho de Moura, torna público que, o Prémio de Mérito Escolar da Freguesia de Santo Agostinho, é destinado às Escolas Básicas do 1.º Ciclo da área geográfica da Freguesia, com o intuito de promover o Mérito, o combate ao insucesso e abandono escolar, apoiar as crianças em idade escolar e suas famílias, motivar a comunidade escolar e continuar a desenvolver medidas de cooperação com esta.
+Este prémio, será atribuído anualmente aos alunos matriculados no 4.º ano, que cumpram os requisitos associados à sua classificação e desempenho.
+De forma a disciplinar a atribuição do "Prémio de Mérito Escolar Freguesia de Santo Agostinho" é criado o presente Regulamento ao abrigo do disposto no artigo 241.º da Constituição da República Portuguesa o qual, tendo sido aprovado em reunião da Junta de Freguesia de 03/02/2011 e sessão da Assembleia de Freguesia de Santo Agostinho de 16/02/2011, nos termos do disposto na alínea j) do n.º 2 do artigo 17.º e alínea b) do n.º 5 do artigo 34.º da Lei n.º 169/99 de 18 de Setembro com as alterações introduzidas pela Lei n.º 5- A/2002 de 11 de Janeiro, é remetido para discussão pública, pelo prazo de 30 dias úteis para recolha de sugestões, nos termos do artigo 118.º do Código do Procedimento Administrativo.
+21 de Fevereiro de 2011. - O Presidente da Assembleia de Freguesia de Santo Agostinho, Fernando Jorge Derriça Ramos.
+304379333
