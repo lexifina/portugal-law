@@ -1,5 +1,5 @@
 # Artigo 7.º
 
-### Disposição transitória
+### Protocolo de cooperação
 
-A entrada em vigor da presente portaria não prejudica a manutenção das situações em que o tribunal tenha decidido a utilização da vigilância electrónica, designadamente fora da área geográfica de experimentação referida no n.º 1 do artigo 4.º
+Os membros do Governo responsáveis pelas áreas da justiça e da igualdade definem mediante protocolo o programa de aquisição de novos equipamentos e de serviços associados necessário ao alargamento do âmbito geográfico da aplicação dos meios de vigilância electrónica a que se refere a presente portaria.
