@@ -12,7 +12,9 @@ a) O funcionário civil;
 
 b) O agente administrativo; e
 
-c) Quem, mesmo provisória ou temporariamente, mediante remuneração ou a título gratuito, voluntária ou obrigatoriamente, tiver sido chamado a desempenhar ou a participar no desempenho de uma actividade compreendida na função pública administrativa ou jurisdicional, ou, nas mesmas circunstâncias, desempenhar funções em organismos de utilidade pública ou nelas participar.
+c) Os árbitros, jurados e peritos; e
+
+d) Quem, mesmo provisória ou temporariamente, mediante remuneração ou a título gratuito, voluntária ou obrigatoriamente, tiver sido chamado a desempenhar ou a participar no desempenho de uma actividade compreendida na função pública administrativa ou jurisdicional, ou, nas mesmas circunstâncias, desempenhar funções em organismos de utilidade pública ou nelas participar.
 
 2 - Ao funcionário são equiparados os gestores, titulares dos órgãos de fiscalização e trabalhadores de empresas públicas, nacionalizadas, de capitais públicos ou com participação maioritária de capital público e ainda de empresas concessionárias de serviços públicos.
 
