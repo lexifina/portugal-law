@@ -20,7 +20,7 @@ e) Os demais serviços ou entidades, dotados de receitas próprias e que reúnam
 
 4. O encargo, com a parte da pensão a que se refere a alínea b) do n.º 3 do artigo 53.º, é suportado pela respectiva instituição de previdência.
 
-5. Os encargos referidos nos números anteriores serão pagos à Caixa até ao fim do mês seguinte àquele a que a pensão respeita.
+5. (Revogado).
 
 6. A responsabilidade prevista neste artigo não prejudica a obrigação de pagamento pelo subscritor de quotas e indemnizações devidas nos termos do presente Estatuto.
 
