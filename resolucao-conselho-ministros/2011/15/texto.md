@@ -1,0 +1,22 @@
+Resolução do Conselho de Ministros n.º 15/2011
+A Resolução do Conselho de Ministros n.º 10/2009, de 27 de Janeiro, com o objectivo de assegurar a manutenção das condições necessárias para a programação e execução do empreendimento público relativo à ligação ferroviária de alta velocidade do eixo compreendido entre o Porto e Vigo, sujeitou a medidas preventivas as áreas abrangidas pelo traçado previsto no troço entre Braga e Valença, abarcando os municípios de Braga, Vila Verde, Ponte de Lima, Vila Nova de Cerveira, Paredes de Coura e Valença, de forma a evitar a alteração das circunstâncias e condições existentes ou a tornar a execução do referido empreendimento mais difícil ou onerosa.
+O procedimento de avaliação de impacte ambiental veio ditar a selecção de uma das alternativas de corredor propostas no troço entre Braga e Valença, com a consequente emissão da declaração de impacte ambiental.
+Assim, algumas das áreas incluídas nos traçados preliminares constantes das plantas anexas à Resolução do Conselho de Ministros n.º 10/2009, de 27 de Janeiro, referentes ao troço entre Braga e Valença, tornaram-se desnecessárias para assegurar a manutenção das condições exigidas para a programação e execução da ligação ferroviária de alta velocidade entre Porto e Vigo.
+Deste modo, impõe-se a revogação dos traçados preliminares previstos para a ligação ferroviária de alta velocidade do eixo Porto-Vigo entre Braga e Valença, excluídos pela respectiva declaração de impacte ambiental, e a redelimitação das áreas abrangidas pelas medidas preventivas.
+Em conformidade com o disposto no n.º 2 da Resolução do Conselho de Ministros n.º 10/2009, de 27 de Janeiro, tais medidas foram fixadas pelo prazo de dois anos, com possibilidade de prorrogação por um ano.
+Considerando que ainda não foi possível proceder à programação integral do empreendimento público garantido através das medidas preventivas, é necessário prorrogar o prazo de vigência das medidas preventivas estabelecidas pela Resolução do Conselho de Ministros n.º 10/2009, de 27 de Janeiro.
+Foram ouvidos os municípios de Braga e de Valença.
+Foi promovida a audição aos municípios de Paredes de Coura, de Ponte de Lima, de Vila Nova de Cerveira e de Vila Verde.
+Assim:
+Nos termos do n.º 9 do artigo 107.º, do n.º 2 do artigo 109.º e do n.º 1 do artigo 112.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 316/2007, de 19 de Setembro, do artigo 7.º do Decreto-Lei n.º 794/76, de 5 de Novembro, alterado pelo Decreto-Lei n.º 313/80, de 19 de Agosto, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Definir que, para efeitos do disposto na Resolução do Conselho de Ministros n.º 10/2009, de 27 de Janeiro, os traçados do troço compreendido entre Braga e Valença da ligação Porto-Vigo da rede ferroviária de alta velocidade são os identificados nas plantas constantes do anexo à presente resolução, que dela faz parte integrante.
+2 - Determinar que as áreas sujeitas às referidas medidas preventivas são as identificadas nas plantas constantes do anexo à presente resolução, com os números de ordem 01 a 11, as quais alteram e substituem as plantas constantes do anexo i da Resolução do Conselho de Ministros n.º 10/2009, de 27 de Janeiro, identificadas com os números de ordem 01 a 12.
+3 - Depositar junto da Rede Ferroviária Nacional - REFER, E. P. E., da Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano, da comissão de coordenação e desenvolvimento regional territorialmente competente, bem como nos municípios abrangidos, os elementos cartográficos que permitam a identificação das áreas delimitadas nas plantas anexas à presente resolução, incluindo o respectivo levantamento aerofotogramétrico do território.
+4 - Determinar que o empreendimento público projectado, que a presente resolução visa salvaguardar, deve desde já ser tido em conta na elaboração, alteração ou revisão de todos os instrumentos de gestão territorial com incidência nas áreas delimitadas.
+5 - Prorrogar por um ano, a contar desde 28 de Janeiro de 2011, a vigência das medidas preventivas estabelecidas pela Resolução do Conselho de Ministros n.º 10/2009, de 27 de Janeiro.
+6 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 17 de Fevereiro de 2011. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+ANEXO
+(a que se refere o n.º 1)
+Plantas
+(ver documento original)
