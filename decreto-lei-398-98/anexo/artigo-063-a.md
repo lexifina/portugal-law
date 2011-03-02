@@ -8,7 +8,7 @@
 
 3 - As instituições de crédito e sociedades financeiras têm a obrigação de fornecer à administração tributária, até ao final do mês de Julho de cada ano, através de declaração de modelo oficial, aprovada por portaria do Ministro das Finanças e ouvido o Banco de Portugal, o valor dos fluxos de pagamentos com cartões de crédito e de débito, efectuados por seu intermédio, a sujeitos passivos que aufiram rendimentos da categoria B de IRS e de IRC, sem por qualquer forma identificar os titulares dos referidos cartões.
 
-4 - (Revogado.)
+4 - Os pedidos de informação a que se refere o número anterior são da competência do director-geral dos Impostos ou do director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo, ou seus substitutos legais, ou do conselho directivo do Instituto de Gestão Financeira da Segurança Social, I. P., sem possibilidade de delegação.
 
 5 - A informação a submeter, nos termos do n.º 1, inclui a identificação das contas, o número de identificação fiscal dos titulares, o valor dos depósitos no ano, o saldo em 31 de Dezembro, bem como outros elementos que constem da declaração de modelo oficial.
 
