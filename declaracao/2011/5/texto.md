@@ -1,0 +1,3 @@
+Declaração n.º 5/2011
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se que se considera caduco o processo relativo às apreciações parlamentares n.os 77/XI e 79/XI ao Decreto-Lei n.º 143/2010, de 31 de Dezembro, que actualiza o valor da retribuição mínima mensal garantida para 2011, apresentadas respectivamente pelos Grupos Parlamentares do Partido Comunista Português e do Bloco de Esquerda, uma vez que foram rejeitadas pela Comissão de Trabalho, Segurança Social e Administração Pública todas as propostas de alteração e que o Plenário foi informado do facto.
+Assembleia da República, 17 de Fevereiro de 2011. - A Deputada Secretária da Mesa da Assembleia da República, Celeste Correia.
