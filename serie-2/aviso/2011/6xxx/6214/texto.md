@@ -1,0 +1,10 @@
+Aviso n.º 6214/2011
+Discussão Pública do Plano de Pormenor de Reconversão da AUGI 9 - Lagoa de Albufeira, Castelo, Sesimbra
+Augusto Manuel Neto Carapinha Pólvora, Presidente da Câmara Municipal de Sesimbra, torna público, em cumprimento e para os efeitos previstos nos n.os 3 e 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, que a Câmara Municipal de Sesimbra, na sua reunião pública de 02 de Fevereiro de 2011, deliberou mandar promover o período de discussão pública do Plano de Pormenor de Reconversão da AUGI 9 - Lagoa de Albufeira.
+O período de discussão pública inicia-se no 10.º dia útil contado a partir da publicação do presente aviso no Diário da República e terá a duração de 22 dias úteis.
+Durante este período, os interessados poderão consultar o projecto final do referido plano, nas horas de expediente, todos os dias úteis, no serviço de atendimento no Edifício dos Paços do Concelho, no Largo do Município em Sesimbra e na Junta de Freguesia do Castelo, em Santana no horário de expediente, ou na página da internet da Câmara Municipal de Sesimbra em www.cm-sesimbra.pt.
+Mais se torna público que a câmara deliberou promover uma sessão pública de apresentação e discussão deste plano, a realizar no dia 26 de Março de 2011, com inicio às 09.00 horas, na Tenda Paroquial, sita na Alameda de S. Pedro - AUGI 9, na Lagoa de Albufeira.
+Todas as reclamações, observações, sugestões que os interessados pretendam apresentar poderão ser feitos no Edifício dos Paços do Concelho, devendo sempre fazê-lo por escrito, devidamente fundamentadas e endereçadas ao Presidente da Câmara.
+Para constar e para os devidos efeitos, é publicado o presente aviso no Diário da República 2.ª série, em dois jornais diários, num semanário de grande expansão nacional e em jornais de expansão local ou regional, na página da internet da Câmara Municipal e no boletim municipal.
+24 de Fevereiro de 2011. - O Presidente da Câmara Municipal, Augusto Manuel Neto Carapinha Pólvora.
+204395355
