@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ohRgCcWlCgGi7OOOrMZd92WbYhm4mFBm%2fyyHXeDgGJFqfscaMvZJgbKJwTwUFUcB46cSxGQmIEKP%2bmWUnAS4MGJkoDF8qsHgrMX1irHNWF2FiiAlNk8KWOGCNDk5JZTxZEuDkA9vb7SZFmUE3JDWa6uPm9eOAKwO%2fA%2bqvEuCZQRauUJpKOLvCt%2fYGLjW1uSa%2fTWSoeRoSrjrwCVg6qlQo40i11ZBVRrlr%2fGvPXR%2f4hZ92bAzK2HCzJM%2b8E9ctjKXw5duMxOhd5JVXuK8Xatb7vplEncPiaIneVisY4Qr98ZODCGFuaPct0E4S9lThiZ6cqFYNXLKVjcNGBuPVyCD6oXkJIJVB1LiIGh9eBfe%2bUixpIQiWJgmg4Sq9%2bfXXNShuOOP8JyBPE69m4jjGxyfCw%3d%3d&fich=RequerimentosXI_json.txt&Inline=true",
+  "ficheiro_sha256": "481b13dc8b28cbc9e35ba85d6e97c504aa15e55db983a9c254edb597f3e287e4",
+  "legislatura": "XI",
+  "id": "62818",
+  "tipo": "Pergunta",
+  "numero": "2816",
+  "data_registo": "2011-03-04",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Contratos a Termo celebrados por CNEMA - Centro Nac. Expos. Mercados Agrícolas, SA",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1102",
+        "nome": "Pedro Mota Soares"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4018",
+        "nome": "Artur Rêgo"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1801",
+        "nome": "Raúl de Almeida"
+      }
+    ],
+    "DataEnvio": "2011-03-10",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2011-03-10",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2011-06-17",
+            "docRemetida": null,
+            "entidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e52766379387955307776597a41354e47466a4e6d4d745a544e6b595330304e5463324c546c684e5451745954566d4d474a6d596a466d4e3245794c6e426b5a673d3d&fich=c094ac6c-e3da-4576-9a54-a5f0bfb1f7a2.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2011-03-04",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e52766379387955307776596a4e6c4e6a466c4f446b745a6a526a5a6930304e6d49784c5749784d4467744e574e6c4d474a68597a566a593251774c6e426b5a673d3d&fich=b3e61e89-f4cf-46b1-b108-5ce0bac5ccd0.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "62818",
+    "Legislatura": "XI",
+    "Nr": "2816",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "587430",
+        "obs": null,
+        "pag": [
+          "72-73"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2011",
+        "pubLeg": "XI",
+        "pubNr": "129",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/129S1/2011-03-10/72?pgs=72-73&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
