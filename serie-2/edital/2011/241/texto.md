@@ -1,0 +1,8 @@
+Edital n.º 241/2011
+Plano de Pormenor do Quarteirão do Edifício FACHA em Portalegre - Elaboração
+José Fernando da Mata Cáceres, Presidente da Câmara Municipal do Concelho de Portalegre, torna público, que a Câmara Municipal de Portalegre reunida em 21.02.2011, deliberou, ao abrigo do ponto 1 do artigo 74.º do Decreto-Lei n.º 380/99 de 22 de Setembro, na sua actual redacção (RJIGT - Regime Jurídico dos Instrumentos de Gestão Territorial), a necessidade de elaboração de um plano de pormenor para o Quarteirão do Edifício Facha em Portalegre, pelo prazo de 90 dias, não se incluindo no prazo de elaboração estipulado, o tempo de apreciação das entidades consultadas. Mais se deliberou a elaboração do plano ao abrigo da contratualização prevista no artigo 6.º -A do RJIGT e a aceitação da respectiva proposta de contrato.
+Mais se informa que decorrerá pelo prazo de 15 dias, ao abrigo do ponto 2 do artigo 77.º, em conjugação com o disposto no ponto 5 do artigo 6.º - A, do decreto-lei anteriormente referido, um período destinado à formulação de sugestões por parte dos munícipes e demais interessados, bem como apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração, bem como da proposta do contrato.
+O período para a formulação de sugestões terá início após a publicação do presente edital no Diário da República.
+Todas as observações e sugestões deverão ser apresentadas por escrito, devidamente fundamentadas e endereçadas ao Presidente da Câmara Municipal de Portalegre, Rua Guilherme Gomes Fernandes, 28, Apartado 47, 7300 - 186 Portalegre.
+1 de Março de 2011. - O Presidente da Câmara Municipal de Portalegre, José Fernando da Mata Cáceres.
+204412048
