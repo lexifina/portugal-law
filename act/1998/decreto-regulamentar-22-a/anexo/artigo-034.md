@@ -113,3 +113,13 @@ H40 - fim de estacionamento autorizado: indicação de que terminou o local em q
 H41 - fim de túnel: indicação de que terminou o túnel.
 
 H42 - velocidade média: indicação de via sujeita a controlo de velocidade, através do cálculo da velocidade média.
+
+H43 - Velocidade instantânea: indicação de via sujeita a fiscalização de velocidade;
+
+H44a - Lanço com cobrança electrónica de portagem: indicação de um lanço de auto-estrada sujeito a cobrança electrónica de portagem;
+
+H44b - Lanço com cobrança electrónica de portagem: indicação de um lanço de auto-estrada sujeito a cobrança electrónica de portagem, situado à distância, em metros, indicada no sinal;
+
+H44c - Lanço com cobrança electrónica de portagem: indicação de um lanço de auto-estrada sujeito a cobrança electrónica de portagem, na direcção da via de saída indicada pela seta;
+
+H45 - Fim de lanço com cobrança electrónica de portagem: indicação de que terminou o lanço de auto-estrada sujeito a cobrança electrónica de portagem.
