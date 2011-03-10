@@ -26,4 +26,16 @@ Captação DA1
 
 (ver documento original)
 
+Pólo de captação da Quinta de Alviela
+
+Captação SL1
+
+(ver documento original)
+
+Pólo de captação de Bugalhos/Filhós
+
+Captação AC1
+
+(ver documento original)
+
 Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
