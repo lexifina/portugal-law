@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Y5feubGpmx3U3eADC2xbJmNQ%2bo9hh0y0Ws%2bMg6e1ClK3K68Ax4Xhm%2fWAehW8ocLQeD2OxoySGddyZuNhZaLhFlUp0ir7jK%2bOM48106ZJfd5wcxphkEewWoW0V2xfzdMNDfGCCckE9GmO9gLekm49cKDkNA8ZLG3MKaBA%2fkt5m8WXIfeT%2b5Mx1%2b0sg7BllQnlJxstthBRb%2bInCrt9Uig%2bShhf4upRTB1UPB5rRZ5AdO%2bS2bOM3SOwHIIzM8sV51n%2b%2fFpTd99F%2bLrFlKG%2beBsI3Ay12J%2bsVEuFtnniXdweo0Fbri050dE53bSr8jRl8MGpmX2sdxehZ6G6%2byWG%2fP8M0NepLg61Gx0Gl5lJ5jDaOiQ%3d&fich=IntervencoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7f20a8e6bd694f3fe5bcaedfdae6b5dacd6c1585dae5f92751007c07eefc189c",
+  "legislatura": "XI",
+  "id": "180272",
+  "tipo": "Intervenção",
+  "orador": "Heloísa Apolónia (PEV)",
+  "data_registo": "2011-03-11",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "65",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "90446",
+        "tipo": "VOT",
+        "titulo": "De Saudação - Voto de Saudação pelo Dia Internacional da Mulher"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Votos n.os 104/XI (2.ª) ¿ De saudação pelo Dia Internacional da Mulher (PS), 105/XI (2.ª) ¿ De congratulação pelo centenário da comemoração do Dia Internacional da Mulher (PCP) e 106/XI (2.ª) ¿ De saudação pelo dia 8 de Março, Dia Internacional da Mulher (BE).",
+        "duracao": "02:49:42:345",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20110311pln&url=l11/sl2/a2011/m03/&tI=02:49:42:345&drc=00:03:16:655"
+      }
+    ],
+    "DataReuniaoPlenaria": "2011-03-11",
+    "Debate": "VOTO 104/XI/2",
+    "Deputados": {
+      "GP": "PEV",
+      "idCadastro": "834",
+      "nome": "Heloísa Apolónia"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "180272",
+    "IdDebate": "27061",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "180272",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "57-58"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-03-12",
+        "pubLeg": "XI",
+        "pubNr": "63",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/063/2011-03-12/57?pgs=57-58&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": null,
+    "Sessao": "2",
+    "Sumario": "Voto de Saudação pelo Dia Internacional da Mulher; Voto de Congratulação pelo centenário da comemoração do Dia Internacional da Mulher; Voto de Saudação, \"8 de Março, Dia Internacional da Mulher\"",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
