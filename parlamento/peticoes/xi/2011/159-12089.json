@@ -1,0 +1,561 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12089",
+  "numero": "159",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-03-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-07-19",
+            "dataResposta": "2011-08-05",
+            "entidades": [
+              "Ministro da Educação e Ciência"
+            ],
+            "nrOficio": "5/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-08-30",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2011-08-30",
+        "DataBaixaComissao": "2011-07-07",
+        "DataEnvioPAR": "2011-08-30",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-07-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245304d3251795a544d774c545a684e4755744e4749304d5330354d4751774c54566c4e5441355a6a5530596a55354e6935775a47593d&fich=a43d2e30-6a4e-4b41-90d0-5e509f54b596.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-09-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251774f474e694d57517a4c575133595745744e4441795a6930344e7a6b784c5441304e6a6b344d544e6b595459334f5335775a47593d&fich=d08cb1d3-d7aa-402f-8791-0469813da679.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-08-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324a6d5a4755344d6a517a4c574e694e6d59744e4751304e7930345932517a4c54466d5a6d55794d546b31596d52694e4335775a47593d&fich=bfde8243-cb6f-4d47-8cd3-1ffe2195bdb4.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-07-07",
+            "gp": "PS",
+            "id": "4208",
+            "motivoCessacao": null,
+            "nome": "Acácio Pinto"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XI Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-03-25",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra da Educação"
+            ],
+            "nrOficio": "244/CEC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-03-23",
+        "DataArquivo": "2011-07-06",
+        "DataBaixaComissao": "2011-03-23",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2011-03-23",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-03-24",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939685957526c4f57517a4f433079596d55344c545133596a59745957466a4f4330325a574a6c5a6d4e6b5a4463324f4441756347526d&fich=aade9d38-2be8-47b6-aac8-6ebefcdd7680.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939685a5451794e6d4d784d4331684d6a55314c5451324d5759744f544d314d6930324e7a5a694f4756694e6a526d595459756347526d&fich=ae426c10-a255-461f-9352-676b8eb64fa6.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2871",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-03-23",
+            "gp": "PS",
+            "id": "2169",
+            "motivoCessacao": null,
+            "nome": "Paula Barros"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Educação, Ciência e Cultura da XII Legislatura."
+      }
+    ],
+    "DataDebate": "2011-11-04",
+    "Documentos": [
+      {
+        "DataDocumento": "2011-03-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764d475533596a6b7a4d6d4d744d324a6d595330304d5455354c546b314d6d59744d3259775a6a4d344d6a45334e47526c4c6e426b5a673d3d&fich=0e7b932c-3bfa-4159-952f-3f0f382174de.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-11-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111104pln&url=l12/sl1/a2011/m11/&tI=01:04:38:917&drc=00:03:24:521"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182262",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-05",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a suspensão imediata do actual modelo de avaliação do desempenho docente e sua substituição por um modelo alternativo que apresentam; Solicitam a suspensão do actual modelo de avaliação de desempenho dos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-11-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111104pln&url=l12/sl1/a2011/m11/&tI=01:08:24:439&drc=00:02:18:206"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182263",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-05",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/22?pgs=22&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a suspensão imediata do actual modelo de avaliação do desempenho docente e sua substituição por um modelo alternativo que apresentam; Solicitam a suspensão do actual modelo de avaliação de desempenho dos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-11-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111104pln&url=l12/sl1/a2011/m11/&tI=01:10:55:631&drc=00:03:53:965"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-05",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a suspensão imediata do actual modelo de avaliação do desempenho docente e sua substituição por um modelo alternativo que apresentam; Solicitam a suspensão do actual modelo de avaliação de desempenho dos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-11-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111104pln&url=l12/sl1/a2011/m11/&tI=01:14:55:782&drc=00:03:28:217"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-05",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/24?pgs=24&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a suspensão imediata do actual modelo de avaliação do desempenho docente e sua substituição por um modelo alternativo que apresentam; Solicitam a suspensão do actual modelo de avaliação de desempenho dos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-11-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111104pln&url=l12/sl1/a2011/m11/&tI=01:18:28:431&drc=00:02:48:809"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-05",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a suspensão imediata do actual modelo de avaliação do desempenho docente e sua substituição por um modelo alternativo que apresentam; Solicitam a suspensão do actual modelo de avaliação de desempenho dos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-11-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111104pln&url=l12/sl1/a2011/m11/&tI=01:21:25:065&drc=00:03:48:954"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-05",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a suspensão imediata do actual modelo de avaliação do desempenho docente e sua substituição por um modelo alternativo que apresentam; Solicitam a suspensão do actual modelo de avaliação de desempenho dos professores.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12089",
+    "PetAssunto": "Pretendem a suspensão imediata do actual modelo de avaliação do desempenho docente e sua substituição por um modelo alternativo que apresentam.",
+    "PetDataEntrada": "2011-03-14",
+    "PeticoesAssociadas": null,
+    "PetId": "12089",
+    "PetLeg": "XI",
+    "PetNr": "159",
+    "PetNrAssinaturas": "8167",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "376",
+        "obs": null,
+        "pag": [
+          "21-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-11-05",
+        "pubLeg": "XII",
+        "pubNr": "38",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/038/2011-11-05/21?pgs=21-26&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "546522",
+        "obs": null,
+        "pag": [
+          "12-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-03-26",
+        "pubLeg": "XI",
+        "pubNr": "143",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/11/02/143/2011-03-26/12?pgs=12-15&org=PLC"
+      }
+    ]
+  }
+}
