@@ -1,0 +1,5 @@
+Aviso n.º 37/2011
+Por ordem superior se torna público que foram emitidas Notas pelo Ministério dos Assuntos Exteriores e Cooperação de Espanha e pelo Ministério dos Negócios Estrangeiros de Portugal, respectivamente em 4 de Janeiro de 2010 e em 13 de Janeiro de 2011, tendo a última notificação escrita sido recebida pela Embaixada de Espanha em Lisboa em 18 de Janeiro de 2011, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e o Reino de Espanha Relativo ao Acesso a Informações em Matéria de Registo Civil e Comercial, assinado em Zamora em 22 de Janeiro de 2009.
+Portugal é Parte neste Acordo, aprovado pelo Decreto n.º 14/2010, de 25 de Outubro, publicado no Diário da República, 1.ª série, n.º 207, de 25 de Outubro de 2010.
+Nos termos do artigo 10.º, o Acordo entra em vigor em 17 de Fevereiro de 2011, 30 dias após a recepção da última notificação de que foram cumpridos os requisitos de direito interno das Partes necessários para o efeito.
+Direcção-Geral dos Assuntos Europeus, 8 de Fevereiro de 2011. - O Director de Serviços dos Assuntos Jurídicos, Luís Inez Fernandes.
