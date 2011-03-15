@@ -1,0 +1,60 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "tipo": "Proposta de Resolução",
+  "numero": "53",
+  "id": "36087",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2011-03-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2011-06-19",
+    "DataInicioleg": "2010-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a4d5756694d4449354e6930344e5749304c5452694d4445744f474579595330345932566a4f446b785a5463344d7a49756347526d&fich=c1eb0296-85b4-4b01-8a2a-8cec891e7832.pdf&Inline=true",
+        "anexoNome": "Convenção digitalizada"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a4f474d305a4468694f4330775a544d774c5451325a6a6b744f54646b4d4331684e5446684d6a4a685a4451334d5445755a47396a&fich=38c4d8b8-0e30-46f9-97d0-a51a22ad4711.doc&Inline=true",
+        "anexoNome": "Convenção em espanhol"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595338785a5445774d574a6b4e6930304d3255354c5451304f5749744f44646a596930355957526b4e4756694d7a4a694e7a63755a47396a&fich=1e101bd6-43e9-449b-87cb-9add4eb32b77.doc&Inline=true",
+        "anexoNome": "Convenção em português"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595338354d574d774d325579597930774e444d774c54526c4e5459744f54466a4e53316c4d6d4e6c4d6d59304e474a6c4d6a59755a47396a&fich=91c03e2c-0430-4e56-91c5-e2ce2f44be26.doc&Inline=true",
+        "anexoNome": "Convenção em inglês"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "36087",
+    "IniLeg": "XI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c32595338324d44457a4e7a426d4d69316d5a44646d4c54526c4d446774596a5a6d5979307a4e6a4130597a55325a6a41324e5455755a47396a&fich=601370f2-fd7f-4e08-b6fc-3604c56f0655.doc&Inline=true",
+    "IniNr": "53",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova a Convenção entre a República Portuguesa e a República do Panamá para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre rendimento e respectivo protocolo, assinados na Cidade do Panamá, em 27 de Agosto de 2010.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
