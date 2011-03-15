@@ -1,0 +1,159 @@
+# Artigo 5.º
+
+### Alteração ao Código do Registo Civil
+
+Os artigos 69.º, 70.º, 104.º, 123.º, 214.º e 217.º do Código do Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de Junho, alterado pelos Decretos-Leis n.os 36/97, de 31 de Janeiro, 120/98, de 8 de Maio, 375-A/99, de 20 de Setembro, 228/2001, de 20 de Agosto, 273/2001, de 13 de Outubro, 323/2001, de 17 de Dezembro, 113/2002, de 20 de Abril, 194/2003, de 23 de Agosto, e 53/2004, de 18 de Março, pela Lei n.º 29/2007, de 2 de Agosto, pelo Decreto-Lei n.º 324/2007, de 28 de Setembro, pela Lei n.º 61/2008, de 31 de Outubro, e pelos Decretos-Leis n.os 247-B/2008, de 30 de Dezembro, e 100/2009, de 11 de Maio, e pelas Leis n.os 29/2009, de 29 de Junho, e 103/2009, de 11 de Setembro, passam a ter a redacção seguinte:
+
+«Artigo 69.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+o) A mudança de sexo e a consequente mudança de nome próprio;
+
+p) [Anterior alínea o).]
+
+q) [Anterior alínea p).]
+
+r) [Anterior alínea q).]
+
+2 - ...
+
+3 - ...
+
+4 - Os factos referidos na alínea o) do n.º 1 apenas são averbados:
+
+a) Aos assentos de nascimento dos filhos maiores da pessoa que mudou de sexo, a requerimento daqueles;
+
+b) Ao assento de nascimento do outro cônjuge com consentimento deste prestado através de declaração perante oficial do registo civil ou de documento autêntico ou autenticado.
+
+Artigo 70.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) A mudança de sexo de qualquer dos cônjuges e a correspondente mudança de nome próprio, desde que haja consentimento do outro cônjuge, prestado por declaração perante o oficial do registo civil ou através de documento autêntico ou autenticado.
+
+2 - (Revogado pelo Decreto-Lei n.º 247-B/2008, de 30 de Dezembro.)
+
+Artigo 104.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) A alteração do nome próprio resultante da mudança da menção do sexo.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+Artigo 123.º
+
+[...]
+
+1 - O estabelecimento da filiação, a alteração de nome consequente, a mudança de sexo e a consequente alteração de nome próprio, o nome dos avós, a adopção plena e o casamento dos pais podem ser integrados no texto do assento de nascimento ao qual tenham sido averbados, a requerimento verbal dos interessados ou dos seus representantes legais, mediante a realização de novo assento de nascimento.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - (Revogado pelo Decreto-Lei n.º 324/2007, de 28 de Setembro.)
+
+Artigo 214.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - Dos assentos a que se mostre efectuado qualquer averbamento de mudança de sexo e consequente alteração de nome próprio, só podem ser passadas certidões de cópia integral ou fotocópias a requerimento do próprio, dos seus herdeiros e das autoridades judiciais ou policiais para efeitos de investigação ou instrução criminal.
+
+4 - (Anterior n.º 3.)
+
+5 - (Anterior n.º 4.)
+
+6 - As autoridades judiciais ou policiais e o IRN, I. P., podem sempre requerer certidão de qualquer registo ou documento, exceptuados os casos previstos no n.º 3.
+
+Artigo 217.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - No caso de registo cancelado decorrente de procedimento de mudança de sexo considera-se interessado apenas o próprio, os seus herdeiros e as autoridades judiciais ou policiais para efeitos de investigação ou instrução criminal.»
