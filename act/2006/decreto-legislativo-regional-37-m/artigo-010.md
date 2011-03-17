@@ -4,7 +4,7 @@
 
 1 - Os parâmetros para o dimensionamento das áreas referidas no n.º 1 do artigo 43.º são os que estiverem definidos em plano municipal de ordenamento do território, de acordo com as directrizes estabelecidas pelo Plano Regional de Ordenamento do Território.
 
-2 - Até ao estabelecimento pelo Plano Regional de Ordenamento do Território, nos termos do número anterior, das directrizes para o dimensionamento das áreas referidas no n.º 1 do artigo 43.º, continuam os respectivos parâmetros a ser fixados por portaria do membro do Governo Regional da tutela na área do equipamento social.
+2 - Até ao estabelecimento pelo Plano Regional de Ordenamento do Território, nos termos do número anterior, das directrizes para o dimensionamento das áreas referidas no n.º 1 do artigo 43.º, continuam os respectivos parâmetros a ser fixados por portaria do membro do Governo Regional com a tutela do ordenamento do território.
 
 3 - No prazo de 30 dias a contar da entrada em vigor do presente diploma será aprovada a portaria a que se refere o número anterior.
 
