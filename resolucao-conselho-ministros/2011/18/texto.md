@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 18/2011
+O Decreto-Lei n.º 101/2004, de 7 de Maio, aprovou as bases do contrato de concessão para exploração, em regime de serviço público, pelo prazo de 75 anos, de um porto destinado à navegação de recreio, designado por marina de Albufeira, incluindo as respectivas instalações de apoio e serviços operacionais a ele afectas.
+Através da Resolução do Conselho de Ministros n.º 75/2006, de 12 de Junho, foi aprovada a minuta do contrato de concessão, celebrado em 22 de Maio de 2007, entre o Estado Português, representado pelo Ministro das Obras Públicas, Transportes e Comunicações, e a sociedade ALBUMARINA - Gestora de Marinas, S. A.
+Nos termos do n.º 5 da cláusula ii do contrato de concessão, a concessionária está obrigada a construir um edifício multiusos, designado por Clube Náutico, até ao final de 2010.
+Atendendo a que os serviços e valências que era previsto virem a funcionar no futuro edifício do Clube Náutico estão a operar noutros espaços distribuídos pela área da concessão e ao facto de a comercialização de grande parte das áreas comerciais construídas e disponíveis na marina de Albufeira não se encontrar concluída, não se justifica investir, de imediato, na construção de um espaço comercial que ficaria necessariamente subaproveitado.
+Assim:
+Nos termos do n.º 3 do artigo 2.º do Decreto-Lei n.º 101/2004, de 7 de Maio, e da alínea g) do artigo 200.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar o Ministro das Obras Públicas, Transportes e Comunicações a celebrar um aditamento ao contrato de concessão para exploração da marina de Albufeira, celebrado entre o Estado Português e a ALBUMARINA - Gestora de Marinas, S. A., nos termos da minuta aprovada pela Resolução do Conselho de Ministros n.º 75/2006, de 12 de Junho.
+2 - Determinar que o referido aditamento terá por objecto a alteração do n.º 5 da cláusula ii do referido contrato, o qual passará a ter a seguinte redacção:
+«5 - O edifício multiusos denominado por Clube Náutico, que será construído até ao final de 2015 pela concessionária na área da concessão, ficará, uma vez concluída a construção, submetido ao regime constante do número anterior.»
+3 - Estabelecer que a presente resolução produz efeitos na data da sua publicação.
+Presidência do Conselho de Ministros, 24 de Fevereiro de 2011. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
