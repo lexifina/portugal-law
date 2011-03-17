@@ -1,0 +1,5 @@
+Aviso (extracto) n.º 7053/2011
+Luís Manuel Barbosa Marques Leal, Dr., Presidente da Câmara Municipal de Montemor-o-Velho, torna público, ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de Setembro, na redacção dada pela Lei n.º 5-A/2002, de 11 de Setembro, e nos termos e para os efeitos do disposto no artigo 91.º da referida lei, que a Assembleia Municipal, em sessão ordinária de 28 de Fevereiro de 2011, sob proposta da Câmara Municipal aprovada em reunião de 14 de Fevereiro de 2011 deliberou, por unanimidade, aprovar o Regulamento do Serviço de Abastecimento Publico de Água do Município de Montemor-o-Velho.
+Mais faz saber que o mencionado Regulamento, de acordo com o diposto no seu artigo 80.º, entra em vigor quinze dias após a publicação do presente aviso e ainda que o texto integral se encontra diponível nos serviços e no sítio do Município (www.cm-montemorvelho.pt).
+9 de Março de 2011. - O Presidente da Câmara Municipal, Luís Manuel Barbosa Marques Leal, Dr.
+304439702
