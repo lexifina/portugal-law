@@ -20,4 +20,6 @@ g) A existência de convenção antenupcial, quando desta for feita prova após 
 
 h) As alterações ao regime de bens convencionado ou legalmente fixado.
 
+i) A mudança de sexo de qualquer dos cônjuges e a correspondente mudança de nome próprio, desde que haja consentimento do outro cônjuge, prestado por declaração perante o oficial do registo civil ou através de documento autêntico ou autenticado.
+
 2 - (Revogado).

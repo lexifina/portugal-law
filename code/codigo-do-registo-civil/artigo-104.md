@@ -18,6 +18,8 @@ e) A alteração resultante do exercício dos direitos previstos no artigo 1876.
 
 f) A alteração que consista na mera adopção do nome inicialmente pretendido pelos interessados, quando o assento de nascimento tenha sido lavrado na pendência de consulta onomástica sobre a sua admissibilidade.
 
+g) A alteração do nome próprio resultante da mudança da menção do sexo.
+
 3 - O averbamento de alteração não dependente da autorização prevista no n.º 1 é efectuado a requerimento do interessado que, quando for apresentado verbalmente, deve ser reduzido a auto.
 
 4 - No caso previsto na parte final da alínea d) do n.º 2, o averbamento é realizado oficiosamente.
