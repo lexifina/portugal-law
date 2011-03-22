@@ -1,0 +1,43 @@
+Resolução da Assembleia da República n.º 53/2011
+Cumprir ou justificar no universo das empresas públicas não financeiras
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo as seguintes medidas que deverão ser introduzidas em regulamentação própria no prazo máximo de três meses e aplicáveis nas próximas nomeações dos órgãos societários das empresas públicas:
+1 - Quanto à boa governança e à transparência:
+Deve ser reforçada a transparência das sociedades que integram o sector empresarial do Estado, aplicando-se-lhe o princípio «cumprir ou justificar» exigindo-se o cumprimento integral das medidas propostas na Resolução do Conselho de Ministros n.º 49/2007 de 28 de Março, que aprova os princípios de bom governo das empresas do sector empresarial do Estado, resolução que deve ser revista com a integração de outras medidas que são recomendadas para as empresas cotadas e que elencamos:
+A criação de sistemas internos de controlo e gestão de riscos, em salvaguarda do seu valor e em benefício da transparência do seu governo societário, que permitam identificar e gerir o risco;
+O órgão de administração deve assegurar a criação e funcionamento dos sistemas de controlo interno e de gestão de riscos, cabendo ao órgão de fiscalização a responsabilidade pela avaliação do funcionamento destes sistemas e propor o respectivo ajustamento às necessidades da sociedade;
+A sociedade deve adoptar uma política de comunicação de irregularidades alegadamente ocorridas no seu seio, com os seguintes elementos: i) indicação dos meios através dos quais as comunicações de práticas irregulares podem ser feitas internamente, incluindo as pessoas com legitimidade para receber comunicações, e ii) indicação do tratamento a ser dado às comunicações, incluindo tratamento confidencial, caso assim seja pretendido pelo declarante;
+As sociedades devem promover a rotação do auditor ao fim de dois ou três mandatos, conforme sejam respectivamente de quatro ou três anos;
+O auditor externo deve, no âmbito das suas competências, verificar a aplicação das políticas e sistemas de remunerações, a eficácia e o funcionamento dos mecanismos de controlo interno e reportar quaisquer deficiências ao órgão de fiscalização da sociedade;
+Realizar a transparência reforçando a informação disponibilizada no site de cada empresa designadamente em tudo o que respeita ao cumprimento do princípio «cumprir ou justificar».
+2 - Quanto à racionalização dos órgãos societários das empresas públicas e das remunerações:
+a) Consideramos que deve ser definida uma política clara da estrutura societária, reduzindo a sua composição aos elementos necessários à boa e eficiente gestão, não esquecendo que a generalidade das empresas públicas funciona dentro de um mercado limitado, tem o seu objecto social claramente definido e garantido por uma estrutura de quadros bastante profícua o que reduz a necessidade de órgãos societários muito numerosos, antes defende a sua limitação tendo vista potenciar a responsabilidade dos órgãos societários.
+b) Da análise do panorama actual consideramos que os órgãos societários podem ser reduzidos à seguinte estrutura:
+Conselho de administração - com três administradores, considerando-se apenas justificável alargar a sua composição para cinco administradores quando a empresa desenvolver uma actividade complexa e a nível nacional e ou internacional;
+Órgão fiscalizador - fiscal único sempre que seja permitido pela lei. Justificando-se a existência de um conselho fiscal, a sua composição nunca deverá exceder os três elementos, incluindo o revisor oficial.
+c) No que respeita às remunerações dos administradores, consideramos que devem ser definidos níveis de remuneração para os gestores públicos que não podem deixar de ponderar as condições económicas e financeiras do País, nomeadamente o seu poder de compra e o nível de vida da comunidade e as condições de elevada dependência de financiamento público, quer nas opções de investimento quer nas condições de exploração destas empresas. Assim, a política salarial a definir deve ser suportada em critérios objectivos, lógicos, equilibrados e transparentes.
+d) Considera-se que são aplicáveis as recomendações da Comissão do Mercado de Valores Mobiliários (CMVM) quanto às remunerações dos gestores públicos, designadamente:
+Ser alinhadas com os interesses de longo prazo da empresa;
+Assentar na avaliação de desempenho dos administradores;
+Desincentivar a assunção de riscos excessivos;
+No caso dos administradores executivos, ter uma componente variável fixada de acordo com critérios pré-determinados e facilmente mensuráveis;
+Ter em consideração a avaliação do desempenho dos administradores executivos, a qual deve ser realizada por um órgão com poderes específicos para esse efeito;
+Assegurar que o pagamento da componente variável é diferido por pelo menos três anos e depende da continuação do desempenho positivo da empresa nesse período;
+Ter em consideração o crescimento real da empresa, a riqueza criada para os accionistas e a sua sustentabilidade a longo prazo.
+e) Em qualquer das circunstâncias a remuneração de um gestor deve ter limites máximos constante em tabelas remuneratórias próprias a definir, de forma a reforçar a racionalização, a proporcionalidade e a equidade das diferentes remunerações praticadas em função da complexidade de gestão e dimensão da empresa.
+f) Relativamente à remuneração variável e ou prémios de gestão, independentemente de objectivos específicos determinados pela actividade da empresa, que forem definidos para a sua atribuição, deve ser considerado:
+Se a empresa cumpre regular e escrupulosamente as suas obrigações fiscais;
+Se a empresa reduziu o seu nível de endividamento corrente;
+Se a empresa procedeu ao pagamento regular e atempado aos seus trabalhadores, fornecedores e prestadores de serviços;
+Se a empresa reduziu o nível de despesas não necessárias à realização do seu objecto social e por isso passíveis de tributação autónoma;
+Se a empresa registar prejuízos por dois anos consecutivos.
+g) No que respeita a outras componentes do quadro remuneratório, subsídio de refeição, ajudas de custo, automóvel, gasolina, seguro de saúde, etc., deve também ser definido o montante máximo;
+h) A utilização de cartão de crédito deve ser erradicada. Quando se verificar deverá ser justificada a sua utilização e restrito ao pagamento de despesas de conta da empresa adequadamente justificadas;
+i) No que se reporta à utilização de viatura automóvel, ligeiro de passageiros, consideramos que o seu valor de aquisição, por qualquer forma (aquisição, leasing, renting, etc.) não deverá ultrapassar o montante de (euro) 40 000.
+3 - Quanto à supervisão operacional:
+Considerando a necessidade de garantir a representação e acompanhamento das tutelas, sectorial e financeira, propomos a constituição de uma comissão de supervisão com diferenciação sectorial que proponha o modelo de governação adequado e assegure que há coerência entre a complexidade da gestão da empresa, a estrutura societária e o quadro remuneratório, entre as diferentes empresas do sector.
+Deve ainda competir à comissão de supervisão assegurar as reuniões anuais de aprovação de contas e desempenhar as funções de comissão de vencimentos produzindo as recomendações dos níveis aconselháveis de remuneração dos administradores de cada empresa, tendo em conta o sector em que aquela se insere, a sua dimensão e outros indicadores económicos, e que deverão ser aprovadas pela tutela.
+Nestes termos, propomos que seja constituída uma comissão de supervisão do sector empresarial público composta por um membro indicado pelo Tribunal de Contas, um membro indicado pela Direcção-Geral do Tesouro e Finanças e um membro por cada tutela sectorial.
+Esta unidade orgânica com dependência funcional da Direcção-Geral do Tesouro e das Finanças procede à supervisão operacional do sector empresarial do Estado produzindo relatórios compreensivos sobre a actividade das empresas assim abrangidas, bem como produzir instruções claras para cada empresa sobre os fins que as mesmas devem prosseguir e delinear objectivos tanto ao nível da performance do serviço público que prestam, bem como no que respeita ao nível de endividamento das mesmas, procurando sempre incrementar uma maior eficiência do sector empresarial do Estado.
+Cabe ainda à supervisão operacional validar o cumprimento do contrato de gestão e certificar o cumprimento dos objectivos quando está em causa a atribuição de prémios de gestão.
+Aprovada em 18 de Fevereiro de 2011.
+O Presidente da Assembleia da República, Jaime Gama.
