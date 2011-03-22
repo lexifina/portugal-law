@@ -1,0 +1,7 @@
+Aviso n.º 7283/2011
+João Agostinho Pinto Pereira, Presidente da Câmara Municipal, torna público nos termos e para os efeitos do disposto no n.º 3 e no n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, com as alterações dadas pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro e em cumprimento da deliberação da Câmara Municipal de Albergaria-a-Velha em reunião ordinária pública de 02 de Março de 2011 que, a partir do quinto dia a seguir à publicação deste Aviso no Diário da República e durante 30 dias, se encontra aberto o período de discussão pública da Proposta de Alteração do Plano Director Municipal de Albergaria-a-Velha.
+Os elementos que fundamentam e justificam este procedimento de Alteração do PDM, bem como a Acta da Reunião de Conferência de Serviços e os Pareceres das entidades envolvidas, encontram-se disponíveis para consulta na DPGUA - Divisão de Planeamento, Gestão Urbanística e Ambiente e na página da internet do Munícipio. (www.cm-albergaria.pt).
+Durante o período de discussão pública, os interessados poderão apresentar participações ou contributos, mediante exposição dirigida ao Presidente da Câmara Municipal, devendo nesta constar a identificação e o endereço dos seus autores.
+E para constar e demais efeitos, se publica o presente aviso e se afixam editais de igual teor nos lugares públicos de costume.
+14 de Março de 2011. - O Presidente da Câmara, João Agostinho Pinto Pereira.
+204456818
