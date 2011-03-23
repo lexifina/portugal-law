@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 60/2011
+Cessação da vigência do Decreto-Lei n.º 18/2011, de 2 de Fevereiro, que permite a organização dos tempos lectivos dos 2.º e 3.º ciclos do ensino básico em períodos de 45 ou 90 minutos e elimina a área de projecto do elenco das áreas curriculares não disciplinares, procedendo à quarta alteração ao Decreto-Lei n.º 6/2001, de 18 de Janeiro.
+A Assembleia da República resolve, nos termos do n.os 5 do artigo 166.º e 1 e 4 do artigo 169.º da Constituição, e do n.º 2 do artigo 193.º e dos artigos 194.º e 195.º do Regimento, fazer cessar a vigência do Decreto-Lei n.º 18/2011, de 2 de Fevereiro, que permite a organização dos tempos lectivos dos 2.º e 3.º ciclos do ensino básico em períodos de 45 ou 90 minutos e elimina a área de projecto do elenco das áreas curriculares não disciplinares, procedendo à quarta alteração ao Decreto-Lei n.º 6/2001, de 18 de Janeiro, e repristinar as normas por este revogadas.
+Aprovada em 4 de Março de 2011.
+O Presidente da Assembleia da República, Jaime Gama.
