@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "tipo": "Projeto de Lei",
+  "numero": "573",
+  "id": "36139",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2011-03-23",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2011-06-19",
+    "DataInicioleg": "2010-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "4067",
+        "nome": "Rui Prudêncio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1380",
+        "nome": "Jorge Manuel Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2095",
+        "nome": "Maria José Gamboa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2264",
+        "nome": "Pedro Farmhouse"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2268",
+        "nome": "Marcos Sá"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1570",
+        "nome": "Ricardo Gonçalves"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "36139",
+    "IniLeg": "XI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a79394562324e31625756756447397a5357357059326c6864476c3259533834597a6c6d4e6d59324d5330355a574d794c5451344e6a63745954426c4f5330304d6d526c4f5467785a6a4d784d6a6b755a47396a&fich=8c9f6f61-9ec2-4867-a0e9-42de981f3129.doc&Inline=true",
+    "IniNr": "573",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Altera o decreto-Lei n.º 305/2009, de 23 de Outubro (primeira alteração ao Decreto-Lei n.º 305/2009, de 23 de Outubro, que estabelece o regime jurídico da organização dos serviços das autarquias).",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
