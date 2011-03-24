@@ -1,0 +1,12 @@
+Aviso n.º 7436/2011
+Abertura do período de discussão pública da revisão do Plano Director municipal de Lisboa
+Torna-se público, nos termos do artigo 77.º n.os 3 e 4 do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, conjugado com o artigo 96.º, n.º 7, do mesmo diploma e nos termos do artigo 91.º da Lei n.º 169/99, de 18 de Setembro (Lei das Autarquias Locais), que a Câmara Municipal de Lisboa, em Reunião de Câmara de 16 de Março de 2011, de acordo com a Proposta n.º 118/2011, deliberou proceder à abertura de um período de discussão pública da Proposta da Revisão do Plano Director Municipal de Lisboa.
+Mais se informa que o referido período de discussão pública terá início no próximo dia 7 de Abril de 2011, nos termos do artigo 148.º, n.º 4, alínea a) do citado Decreto-Lei n.º 380/99, na sua actual redacção, e terá a duração de 30 dias úteis.
+Os interessados poderão consultar a Proposta de Revisão do PDM, o respectivo relatório ambiental, o parecer da comissão de acompanhamento, os demais pareceres emitidos, os resultados da concertação e outra documentação que consubstanciou o período de acompanhamento, na página da Internet da CML(http://www.cm-lisboa.pt) e do PDM de Lisboa (http://pdm.cm-lisboa.pt) ou nos locais a seguir identificados:
+Centro de Informação Urbana de Lisboa (CIUL), sito no Picoas Plaza, na Rua do Viriato n.º 13 a n.º 17;
+Gabinete de Relações Públicas da Direcção Municipal de Gestão Urbanística, sito Edifício Central da CML, no Campo Grande n.º 25, 3.º F;
+Juntas de Freguesia.
+Durante o período de discussão pública, serão realizadas sessões públicas de apresentação da proposta de revisão do PDM, nomeadamente sessões temáticas no CIUL (Centro de Informação Urbana de Lisboa) e sessões por áreas territoriais, em data e local a designar e a divulgar na comunicação social e na página da Internet da CML (http://www.cm-lisboa.pt) e do PDM de Lisboa (http://pdm.cm-lisboa.pt).
+Os interessados podem formular por escrito, reclamações, observações ou sugestões sobre a Revisão do Plano Director Municipal de Lisboa, até ao termo do referido período, dirigidas ao Presidente da Câmara Municipal de Lisboa, utilizando para o efeito, o impresso próprio que pode ser obtido nos locais acima referidos ou na página da Internet da CML (http://www.cm-lisboa.pt) e do PDM de Lisboa (http://pdm.cm-lisboa.pt).
+17 de Março de 2011. - O Director de Departamento, Paulo Prazeres Pais (subdelegação de competências - Despacho n.º 85/P/2010).
+204478372
