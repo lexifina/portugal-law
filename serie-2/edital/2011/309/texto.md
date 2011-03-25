@@ -1,0 +1,9 @@
+Edital n.º 309/2011
+Período de Discussão Pública da Proposta de «Revisão do Plano de Pormenor do Parque Industrial de Figueiró dos Vinhos»
+Rui Manuel de Almeida e Silva, Presidente da Câmara Municipal de Figueiró dos Vinhos, torna público que por deliberação de Câmara Municipal, em reunião pública ordinária, de 09 de Março de 2011, se determinou proceder à abertura do período de discussão pública nos termos do n.º 3 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, da proposta de «Revisão do Plano de Pormenor do Parque Industrial de Figueiró dos Vinhos».
+Todo o processo referente à proposta de «Revisão do Plano de Pormenor do Parque Industrial de Figueiró dos Vinhos» poderá ser consultado no edifício dos Paços do Município, na Unidade Orgânica de Planeamento e Gestão Urbanística, sito na Praça do Município, 3260-408 Figueiró dos Vinhos, bem como a deliberação que Dispensa a Avaliação Ambiental Estratégica, a Acta da Reunião de Conferência de Serviços emitida pela Comissão de Coordenação e Desenvolvimento Regional do Centro, e demais pareceres emitidos, durante as horas de expediente em todos os dias úteis.
+Os interessados poderão apresentar por escrito as suas reclamações, observações ou sugestões, devendo as mesmas ser dirigidas ao Presidente da Câmara Municipal de Figueiró dos Vinhos e remetidas pelo correio, entregues na Secretaria da Câmara Municipal ou pelo seguinte endereço electrónico: secretaria@cm-figueirodosvinhos.pt, durante o período de discussão pública.
+Este iniciar-se-á 5 dias após a publicação deste aviso no Diário da República e terá a duração de 22 dias.
+Para constar se publica este e outros de igual teor que vão ser afixados nos lugares públicos de estilo.
+18 de Março de 2011. - O Presidente da Câmara Municipal, Rui Manuel de Almeida e Silva.
+204480437
