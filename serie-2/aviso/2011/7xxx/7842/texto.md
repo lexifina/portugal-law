@@ -1,0 +1,6 @@
+Aviso n.º 7842/2011
+Projecto de regulamento de mercados e feiras do município de Pedrógão Grande e projecto de regulamento de venda ambulante do município de Pedrógão Grande
+Dr. João Manuel Gomes Marques, Presidente da Câmara Municipal de Pedrógão Grande, torna público que em cumprimento do disposto no artigo 118 do Código do Procedimento Administrativo, se encontram em apreciação pública os projectos de Regulamento de Mercados e Feiras e de Regulamento de Venda Ambulante do Município de Pedrógão Grande, aprovados em Reunião Ordinária da Câmara Municipal realizada em 24 de Fevereiro de 2011. Nos termos do n.º 2, do artigo 118.º do Código do Procedimento Administrativo, convidam-se os interessados, devidamente identificados, a dirigir, por escrito, ao Presidente da Câmara Municipal, eventuais sugestões e ou reclamações, no prazo de 30 dias, a contar da publicação do presente aviso no Diário da República.
+Os referidos projectos encontram-se à disposição dos interessados, na Divisão Administrativa da Câmara Municipal, durante o horário normal de funcionamento, e no site do Município (www.cm-pedrogaogrande.pt).
+4 de Março de 2011. - O Presidente da Câmara, Dr. João Manuel Gomes Marques.
+304447746
