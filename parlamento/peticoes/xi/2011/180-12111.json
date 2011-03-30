@@ -1,0 +1,266 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12111",
+  "numero": "180",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-03-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-07-27",
+            "entidades": null,
+            "id": "90869",
+            "tipo": null,
+            "titulo": "Audição em 2011-07-27 com Ana Bordalo Ramos Preto, Conceição Soeiro, José Diogo Mateus"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-07-20",
+            "dataResposta": "2011-08-09",
+            "entidades": [
+              "Ministro da Educação e Ciência"
+            ],
+            "nrOficio": "11/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-07-20",
+            "dataResposta": "2011-08-11",
+            "entidades": [
+              "Presidente do Conselho de Reitores das Universidades Portuguesas"
+            ],
+            "nrOficio": "12/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-07-20",
+            "dataResposta": "2011-08-18",
+            "entidades": [
+              "CCISP - Conselho Coordenador dos Institutos Superiores Politécnicos"
+            ],
+            "nrOficio": "13/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-07-20",
+            "dataResposta": "2011-07-28",
+            "entidades": [
+              "APESP - Associação Portuguesa do Ensino Superior Privado"
+            ],
+            "nrOficio": "14/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-07-20",
+            "dataResposta": "2011-07-28",
+            "entidades": [
+              "Presidente do Conselho de Administração da Agência de Avaliação e Acreditação do Ensino Superior"
+            ],
+            "nrOficio": "16/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-08-29",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-07-19",
+        "DataArquivo": "2011-08-30",
+        "DataBaixaComissao": "2011-07-19",
+        "DataEnvioPAR": "2011-08-30",
+        "DataReaberta": "2011-07-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-07-27",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324a6d4e6d49324d7a646c4c5755314d4745744e446b334e4330354e3245314c5749344f474668597a4e68593259335a4335775a47593d&fich=bf6b637e-e50a-4974-97a5-b88aac3acf7d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-07-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55354f445a6b5a44426d4c57566b5a5459744e4745785a433034597a63354c54413159546c6a4d5759345a6d517a4e6935775a47593d&fich=5986dd0f-ede6-4a1d-8c79-05a9c1f8fd36.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-07-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a497a596d526d4d6d4e6c4c545a6b4d5449744e4467795a6930354d44566b4c57566c595451785a6a45774d5755344e7935775a47593d&fich=23bdf2ce-6d12-482f-905d-eea41f101e87.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-07-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a517a5a6a4e685a6a49774c5752694d6d51744e4745324d4330344e6a5a6b4c54526b4f5451784d6a59354f5755324e7935775a47593d&fich=43f3af20-db2d-4a60-866d-4d9412699e67.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-07-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49314d4755345a5745794c5755314d5751744e446b344d4331684d6d55794c5449795a5759794f47566a5a4449794f5335775a47593d&fich=250e8ea2-e51d-4980-a2e2-22ef28ecd229.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-07-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a497a4d4752694e446b314c5467774e6d49744e4451344f4331684f474a684c54466c4f47466d4e6a49344d444d7a4d7935775a47593d&fich=230db495-806b-4488-a8ba-1e8af6280333.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-09-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32497a59325a6b5a6d45304c574935595749744e4441304d5331685a5749344c5467304d7a686c596a593259574a6d596935775a47593d&fich=b3cfdfa4-b9ab-4041-aeb8-8438eb66abfb.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-08-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245305a4446684e6a6b7a4c5751324e6d59744e44426c4e7931694d44566a4c545668595745774d324a684e575a6c4e6935775a47593d&fich=a4d1a693-d66f-40e7-b05c-5aaa03ba5fe6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-08-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3255774e4467354d5468694c5456684d546b744e4459334e5330354d4449304c545934597a4d7a596d55774e6a417a4d4335775a47593d&fich=e048918b-5a19-4675-9024-68c33be06030.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-08-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a42695a5759355a546b784c5745324d5455744e474e6d4d6931694e7a45334c5463344f5449784e7a6377596a6730596935775a47593d&fich=0bef9e91-a615-4cf2-b717-78921770b84b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-08-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249334e32526c596a45784c54686b4e5459744e446b794d6930355a4445344c544e6b596a4d3559546c6d4e474a6b4f4335775a47593d&fich=b77deb11-8d56-4922-9d18-3db39a9f4bd8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-09-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3246694d544d354f4463304c546c6a595463744e4464694e7930355a5759774c5749355a6a6c6d4f474a6c593251774e6935775a47593d&fich=ab139874-9ca7-47b7-9ef0-b9f9f8becd06.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-07-19",
+            "gp": "PSD",
+            "id": "4170",
+            "motivoCessacao": null,
+            "nome": "Duarte Marques"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XI Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2011-07-12",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2871",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Educação, Ciência e Cultura da XII Legislatura."
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2011-07-12",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d764e54566c4d44453059546774596a68695a4330304d44646d4c54677759545174596d49304d546c6a4d7a4d304d57566a4c6e426b5a673d3d&fich=55e014a8-b8bd-407f-80a4-bb419c3341ec.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12111",
+    "PetAssunto": "Solicitam a alteração do regime da Agência de Avaliação e Acreditação do Ensino Superior e da avaliação em geral.",
+    "PetDataEntrada": "2011-03-30",
+    "PeticoesAssociadas": null,
+    "PetId": "12111",
+    "PetLeg": "XI",
+    "PetNr": "180",
+    "PetNrAssinaturas": "468",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
