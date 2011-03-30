@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 9/2011
+Ao abrigo da alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que a Resolução do Conselho de Ministros n.º 13-A/2011, de 11 de Fevereiro, publicada no Diário da República, 1.ª série, n.º 30, suplemento, de 11 de Fevereiro de 2011, saiu com a seguinte inexactidão que, mediante declaração da entidade emitente, assim se rectifica:
+No n.º 7, onde se lê «com o objectivo de melhorar as condições de negociação e transacção dos títulos de dívida pública directa do Estado, aumentando a respectiva liquidez e os custos de financiamento do Estado.» deve ler-se «com o objectivo de melhorar as condições de negociação e transacção dos títulos de dívida pública directa do Estado, aumentando a respectiva liquidez, e os custos de financiamento do Estado.».
+Centro Jurídico, 25 de Março de 2011. - A Directora, Susana de Meneses Brasil de Brito.
