@@ -1,0 +1,727 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q%2f1L018b3iB%2fQGvRWF40%2fOgDFmqI1PSjkChPJCzsKje6qw2VR0H3t18Rr6PgBwLP%2bToktOmIUHknP%2flf9ovwk9%2bU8KYcH2VXzKM5DLsV6skMClYouTgcOi3OcRXwTOM5fHE2UpkPTHdWsOJmJWRHfmbAPSDs9NR3BE9ADwIt8M7GU1kXsFN4HSX8RdUo4VY8HTT8KBTngLrlMH38oHY1rYHbxll%2fvswuoZIWCOtykD%2b7V4pcht%2f0wMrCoGPv9LshGOxFJgUq3oECXdLMv7BGqNgxzZt1s91Wyn7xeFIu1t8T41dm3MQ%2fl%2bm1UBjriStjUrryx7z4lMMHqe6UfHdsxoLZgOeNCrp8qap6B%2bjqKjlfbFi0UNznCC%2b7rwloWogPVS3l%2faaizg0eSfihWKWtlQ%3d%3d&fich=PeticoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "847fb927829500e443f846a4c42c4550df9ae595be987e4815bb7a6d7a79fb42",
+  "legislatura": "XI",
+  "id": "12104",
+  "numero": "174",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-03-31",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-08-31",
+            "entidades": null,
+            "id": "91009",
+            "tipo": null,
+            "titulo": "Audição em 2011-08-31 com Comissão de Utentes Contra as Portagens na A25, A24 e A23 (Petição 171/XI/2ª) - Francisco Manuel Almeida; António de Jesus Fernandes de Matos; Luis Pereira Garra; António Manuel Alves Serafim; Avelino Mesquita; Ilda Silva Bernardo, Luís Augusto Baptista Martins (Petição 174/XI/2ª)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-08-05",
+            "dataResposta": "2011-08-25",
+            "entidades": [
+              "Ministro da Economia e do Emprego"
+            ],
+            "nrOficio": "54/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-08-31",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2011-08-31",
+        "DataBaixaComissao": "2011-07-07",
+        "DataEnvioPAR": "2011-08-31",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-08-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a673159575a694d7a52684c5759344d5449744e444e6c597930355a546b314c574a684d4445324e5745324d325a694d7935306157593d&fich=85afb34a-f812-43ec-9e95-ba0165a63fb3.tif&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-09-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a67334d325578595441784c57466d595755744e4751344d5330354d44686d4c574a6c5a5441324e324d304d444531596935775a47593d&fich=873e1a01-afae-4d81-908f-bee067c4015b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-08-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c325269595745355a4749304c5459344f444d744e445a6d4f4331694d7a46684c57557a4f546b324e4446685a4451775a4335775a47593d&fich=dbaa9db4-6883-46f8-b31a-e399641ad40d.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-07-20",
+            "gp": "PS",
+            "id": "2569",
+            "motivoCessacao": null,
+            "nome": "Rui Paulo Figueiredo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XI Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2011-04-05",
+        "DataArquivo": "2011-07-06",
+        "DataBaixaComissao": "2011-04-05",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2011-04-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-04-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a793944543030764f554e50554652444c305276593356745a57353062334e515a585270593246764c7a63354e5459355a544d304c5749334f5441744e444e6a4d7931694d3255314c544e684e5445794d7a45315a4751334d7935775a47593d&fich=79569e34-b790-43c3-b3e5-3a512315dd73.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2872",
+        "Legislatura": "XI",
+        "Nome": "Comissão de Obras Públicas, Transportes e Comunicações",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Economia e Obras Públicas da XII Legislatura."
+      }
+    ],
+    "DataDebate": "2011-09-02",
+    "Documentos": [
+      {
+        "DataDocumento": "2011-04-01",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595355786c5a7939555a58683062305a70626d46735547563061574e765a584d765a6a6c6d5a47457a4d7a45745a6a5a6a4d5330304e6d4a684c574a6b5a446b745a6a4a684e6a64694d5751335a54526b4c6e426b5a673d3d&fich=f9fda331-f6c1-46ba-bdd9-f2a67b1d7e4d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=01:58:31:903&drc=00:04:35:158"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181107",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a não introdução de portagens na A22 (Via Infante de Sagres); Suspensão do processo de introdução de portagens na Via do Infante; Recomenda ao Governo a suspensão da cobrança de porta; Contra as Portagens na A25, A24 e A23; Contestam a introdução de portagens nas A23 e A25",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=02:03:14:251&drc=00:03:34:913"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=02:26:55:829&drc=00:02:11:494"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181108",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41",
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/40?pgs=40-41,49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a não introdução de portagens na A22 (Via Infante de Sagres); Suspensão do processo de introdução de portagens na Via do Infante; Recomenda ao Governo a suspensão da cobrança de porta; Contra as Portagens na A25, A24 e A23; Contestam a introdução de portagens nas A23 e A25",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=02:07:04:800&drc=00:04:07:992"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181109",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a não introdução de portagens na A22 (Via Infante de Sagres); Suspensão do processo de introdução de portagens na Via do Infante; Recomenda ao Governo a suspensão da cobrança de porta; Contra as Portagens na A25, A24 e A23; Contestam a introdução de portagens nas A23 e A25",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=02:11:16:259&drc=00:04:22:440"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181110",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/42?pgs=42-44&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a não introdução de portagens na A22 (Via Infante de Sagres); Suspensão do processo de introdução de portagens na Via do Infante; Recomenda ao Governo a suspensão da cobrança de porta; Contra as Portagens na A25, A24 e A23; Contestam a introdução de portagens nas A23 e A25",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=02:15:45:155&drc=00:06:26:268"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181111",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/44?pgs=44-47&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a não introdução de portagens na A22 (Via Infante de Sagres); Suspensão do processo de introdução de portagens na Via do Infante; Recomenda ao Governo a suspensão da cobrança de porta; Contra as Portagens na A25, A24 e A23; Contestam a introdução de portagens nas A23 e A25",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=02:22:14:601&drc=00:04:33:728"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181112",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/47?pgs=47-49&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a não introdução de portagens na A22 (Via Infante de Sagres); Suspensão do processo de introdução de portagens na Via do Infante; Recomenda ao Governo a suspensão da cobrança de porta; Contra as Portagens na A25, A24 e A23; Contestam a introdução de portagens nas A23 e A25",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=02:29:25:761&drc=00:03:07:625"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181113",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a não introdução de portagens na A22 (Via Infante de Sagres); Suspensão do processo de introdução de portagens na Via do Infante; Recomenda ao Governo a suspensão da cobrança de porta; Contra as Portagens na A25, A24 e A23; Contestam a introdução de portagens nas A23 e A25",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=02:32:59:640&drc=00:00:34:120"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181114",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/51?pgs=51&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a não introdução de portagens na A22 (Via Infante de Sagres); Suspensão do processo de introdução de portagens na Via do Infante; Recomenda ao Governo a suspensão da cobrança de porta; Contra as Portagens na A25, A24 e A23; Contestam a introdução de portagens nas A23 e A25",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=02:33:36:776&drc=00:02:04:224"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181115",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a não introdução de portagens na A22 (Via Infante de Sagres); Suspensão do processo de introdução de portagens na Via do Infante; Recomenda ao Governo a suspensão da cobrança de porta; Contra as Portagens na A25, A24 e A23; Contestam a introdução de portagens nas A23 e A25",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2011-09-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110902pln&url=l12/sl1/a2011/m09/&tI=02:35:49:764&drc=00:00:09:634"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181116",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-03",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a não introdução de portagens na A22 (Via Infante de Sagres); Suspensão do processo de introdução de portagens na Via do Infante; Recomenda ao Governo a suspensão da cobrança de porta; Contra as Portagens na A25, A24 e A23; Contestam a introdução de portagens nas A23 e A25",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12104",
+    "PetAssunto": "Contestam a introdução de portagens nas A23 e A25",
+    "PetDataEntrada": "2011-03-31",
+    "PeticoesAssociadas": null,
+    "PetId": "12104",
+    "PetLeg": "XI",
+    "PetNr": "174",
+    "PetNrAssinaturas": "3389",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "Esta petição está apensada à petição n.º 171/XI/2ª.",
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1549",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-09-03",
+        "pubLeg": "XII",
+        "pubNr": "15",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/015/2011-09-03?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "565157",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-09-03",
+        "pubLeg": "XII",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/037/2011-09-03/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
