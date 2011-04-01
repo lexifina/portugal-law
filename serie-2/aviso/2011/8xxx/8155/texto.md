@@ -1,0 +1,8 @@
+Aviso n.º 8155/2011
+Alteração do Plano de Pormenor do Parque Empresarial de Barrancos
+Faz-se público, para os efeitos dispostos no n.º 3 do artigo 77.º do regime jurídico dos instrumentos de gestão territorial (RJIGT), aprovado pelo Decreto-Lei n.º 380/99 de 22 de Setembro, com a redacção introduzida do Decreto-Lei n.º 46/2009 de 20 de Fevereiro, que a Câmara Municipal de Barrancos deliberou, na sua reunião ordinária de 23 de Março de 2011, após conclusão do período de acompanhamento, proceder à abertura de um período de discussão pública da proposta de alteração do Plano de Pormenor do Parque Empresarial de Barrancos.
+A discussão pública encontra-se aberta por um período de 22 dias úteis, contados a partir do 5.º dia posterior ao da publicação do presente aviso no Diário da República, nos termos do n.º 4 do artigo 77.º do supra-citado diploma legal.
+A proposta contendo todos os pareceres emitidos, a acta da conferência de serviços, prevista no n.º 3 do artigo 75-C do Decreto-Lei n.º 380/1999 de 22 de Setembro, com a redacção introduzida pelo Decreto-Lei n.º 46/2009 de 20 de Fevereiro, encontram-se disponíveis para consulta, pelos interessados, das 9h às 16h00 na Divisão de Obras e Serviços Urbanos (DOSU) da Câmara Municipal de Barrancos, sita na Praça do Município n.º 2, Barrancos.
+Durante o período de discussão pública todos os interessados poderão apresentar reclamações, observações e sugestões, desde que formuladas por escrito e dirigidas ao Sr. Presidente da Câmara Municipal de Barrancos.
+23 de Março de 2011. - O Presidente da Câmara Municipal, Dr. António Pica Tereno.
+204509135
